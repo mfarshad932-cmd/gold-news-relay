@@ -1,0 +1,97 @@
+# News-calendar relay for the XAUUSD alert bot (Worker aura-gold-hunter).
+# WHY: ForexFactory's feed answers Cloudflare Worker IPs with HTTP 429. GitHub's runners are
+#      different IPs. This job fetches the calendar hourly and stores it as news.json in THIS repo;
+#      the Worker reads it from raw.githubusercontent.com when its own live fetch fails.
+# SAFE BY DESIGN: if the fetch fails or the JSON is bad, the job FAILS and news.json is left
+#      untouched -> its fetchedAt gets old -> the Worker refuses it after 8h and stamps NEWS UNKNOWN.
+name: news-relay
+
+on:
+  schedule:
+    - cron: '7 * * * *'      # hourly, at minute 07 (off the busy top-of-hour queue)
+  workflow_dispatch: {}      # lets you press "Run workflow" by hand
+
+permissions:
+  contents: write            # needed so the job can commit news.json
+
+concurrency:
+  group: news-relay
+  cancel-in-progress: false
+
+jobs:
+  relay:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch, validate, wrap, write news.json
+        shell: bash
+        run: |
+          set -uo pipefail
+          URL='https://nfs.faireconomy.media/ff_calendar_thisweek.json'
+          UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+          ok=0
+          for attempt in 1 2 3 4 5; do
+            code=$(curl -sS -L --max-time 30 -o raw.json -w '%{http_code}' \
+              -H "User-Agent: $UA" \
+              -H 'Accept: application/json, text/plain, */*' \
+              -H 'Accept-Language: en-US,en;q=0.9' \
+              "$URL") || code=000
+            echo "attempt $attempt: HTTP $code, $(wc -c < raw.json 2>/dev/null || echo 0) bytes"
+            # valid = HTTP 200 + a non-empty JSON array whose entries look like calendar events
+            if [ "$code" = "200" ] && jq -e 'type=="array" and length>0 and (map(select(type=="object" and .date and .title and .country))|length)>0' raw.json >/dev/null 2>&1; then
+              ok=1; break
+            fi
+            sleep $((attempt * 20))     # 20s, 40s, 60s, 80s back-off
+          done
+          if [ "$ok" != "1" ]; then
+            echo "::error::Calendar fetch failed after 5 attempts (last HTTP $code). news.json NOT touched."
+            exit 1
+          fi
+          echo "events: $(jq 'length' raw.json)"
+
+          NOW=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          # Commit rule: only when the EVENTS changed, or as a heartbeat when the stored fetchedAt is
+          # >= 180 min old (so the Worker's 8h freshness check never starves on a quiet calendar).
+          write=1
+          if [ -f news.json ] && jq -e '.events|type=="array"' news.json >/dev/null 2>&1; then
+            old_ev=$(jq -S -c '.events' news.json)
+            new_ev=$(jq -S -c '.' raw.json)
+            old_ts=$(jq -r '.fetchedAt // empty' news.json)
+            age_min=99999
+            if [ -n "$old_ts" ] && old_epoch=$(date -u -d "$old_ts" +%s 2>/dev/null); then
+              age_min=$(( ( $(date -u +%s) - old_epoch ) / 60 ))
+            fi
+            if [ "$old_ev" = "$new_ev" ] && [ "$age_min" -lt 180 ]; then
+              write=0
+              echo "No change and stored copy is only ${age_min} min old -> nothing to commit."
+            fi
+          fi
+          if [ "$write" = "1" ]; then
+            jq -n --arg t "$NOW" --arg s "$URL" --slurpfile e raw.json \
+              '{fetchedAt:$t, source:$s, count:($e[0]|length), events:$e[0]}' > news.json.tmp
+            mv news.json.tmp news.json
+            echo "news.json written (fetchedAt $NOW)"
+          fi
+          rm -f raw.json
+
+      - name: Commit and push only if news.json changed
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -z "$(git status --porcelain -- news.json)" ]; then
+            echo "Nothing changed - no commit."
+            exit 0
+          fi
+          git config user.name  "news-relay[bot]"
+          git config user.email "news-relay@users.noreply.github.com"
+          git add news.json
+          git commit -m "news relay: $(jq -r '.fetchedAt' news.json) ($(jq -r '.count' news.json) events)"
+          BR=$(git rev-parse --abbrev-ref HEAD)
+          for i in 1 2 3; do
+            git push origin "HEAD:$BR" && exit 0
+            git pull --rebase -q origin "$BR" || true
+            sleep 5
+          done
+          echo "::error::push failed"; exit 1
