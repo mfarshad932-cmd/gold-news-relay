@@ -1,14 +1,21 @@
 # News-calendar relay for the XAUUSD alert bot (Worker aura-gold-hunter).
 # WHY: ForexFactory's feed answers Cloudflare Worker IPs with HTTP 429. GitHub's runners are
-#      different IPs. This job fetches the calendar hourly and stores it as news.json in THIS repo;
-#      the Worker reads it from raw.githubusercontent.com when its own live fetch fails.
-# SAFE BY DESIGN: if the fetch fails or the JSON is bad, the job FAILS and news.json is left
+#      different IPs. This job fetches the calendar every 30 min and stores it as news.json in THIS
+#      repo; the Worker reads it from raw.githubusercontent.com when its own live fetch fails.
+# SOURCES: (1) ForexFactory (primary; High/Medium/Low, forecast/previous)
+#          (2) TradingView US calendar (OPTIONAL, best-effort, unofficial): adds the `actual` value to
+#              matching events and appends TV-only key events (e.g. FOMC Minutes). If TradingView fails,
+#              the job still succeeds with FF data. If FF fails but TV works, the stored FF events
+#              (< 8h old) are carried forward and TV is layered on top; else TV-only events are written.
+# SAFE BY DESIGN: only if BOTH sources are unusable does the job FAIL, and then news.json is left
 #      untouched -> its fetchedAt gets old -> the Worker refuses it after 8h and stamps NEWS UNKNOWN.
+# SCHEMA (backward compatible): {fetchedAt, source, count, events:[{title,country,date,impact,forecast,previous[,actual]}],
+#      ffFetchedAt, sources:{ff,tv}} - the Worker only reads fetchedAt + events; extra fields are ignored.
 name: news-relay
 
 on:
   schedule:
-    - cron: '7 * * * *'      # hourly, at minute 07 (off the busy top-of-hour queue)
+    - cron: '7,37 * * * *'   # every 30 min, at minute 07 and 37 (off the busy top-of-hour queue)
   workflow_dispatch: {}      # lets you press "Run workflow" by hand
 
 permissions:
@@ -25,12 +32,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch, validate, wrap, write news.json
+      - name: Fetch ForexFactory (primary)
+        id: ff
         shell: bash
         run: |
           set -uo pipefail
           URL='https://nfs.faireconomy.media/ff_calendar_thisweek.json'
           UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+          rm -f ff.json
           ok=0
           for attempt in 1 2 3 4 5; do
             code=$(curl -sS -L --max-time 30 -o raw.json -w '%{http_code}' \
@@ -38,26 +47,78 @@ jobs:
               -H 'Accept: application/json, text/plain, */*' \
               -H 'Accept-Language: en-US,en;q=0.9' \
               "$URL") || code=000
-            echo "attempt $attempt: HTTP $code, $(wc -c < raw.json 2>/dev/null || echo 0) bytes"
+            echo "FF attempt $attempt: HTTP $code, $(wc -c < raw.json 2>/dev/null || echo 0) bytes"
             # valid = HTTP 200 + a non-empty JSON array whose entries look like calendar events
             if [ "$code" = "200" ] && jq -e 'type=="array" and length>0 and (map(select(type=="object" and .date and .title and .country))|length)>0' raw.json >/dev/null 2>&1; then
               ok=1; break
             fi
-            sleep $((attempt * 20))     # 20s, 40s, 60s, 80s back-off
+            [ "$attempt" -lt 5 ] && sleep $((attempt * 20))     # 20s, 40s, 60s, 80s back-off
           done
-          if [ "$ok" != "1" ]; then
-            echo "::error::Calendar fetch failed after 5 attempts (last HTTP $code). news.json NOT touched."
+          if [ "$ok" = "1" ]; then
+            mv raw.json ff.json
+            echo "FF ok: $(jq 'length' ff.json) events"
+          else
+            rm -f raw.json
+            echo "::warning::ForexFactory fetch failed after 5 attempts (last HTTP $code). Will try TradingView / stored copy."
+          fi
+          exit 0
+
+      - name: Fetch TradingView US events (optional, best-effort)
+        id: tv
+        shell: bash
+        run: |
+          set -uo pipefail
+          UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+          rm -f tv.json
+          read -r FROM TO < <(python3 scripts/merge_news.py --print-window) || true
+          if [ -z "${FROM:-}" ]; then echo "::warning::could not compute TV window - skipping TradingView"; exit 0; fi
+          TVURL="https://economic-calendar.tradingview.com/events?from=${FROM}&to=${TO}&countries=US&minImportance=0"
+          for attempt in 1 2 3; do
+            code=$(curl -sS -L --max-time 25 -o tv.tmp -w '%{http_code}' \
+              -H "User-Agent: $UA" -H 'Origin: https://www.tradingview.com' -H 'Referer: https://www.tradingview.com/' \
+              -H 'Accept: application/json, text/plain, */*' "$TVURL") || code=000
+            echo "TV attempt $attempt: HTTP $code, $(wc -c < tv.tmp 2>/dev/null || echo 0) bytes"
+            if [ "$code" = "200" ] && jq -e '.status=="ok" and (.result|type=="array")' tv.tmp >/dev/null 2>&1; then
+              mv tv.tmp tv.json; echo "TV ok: $(jq '.result|length' tv.json) events"; break
+            fi
+            [ "$attempt" -lt 3 ] && sleep $((attempt * 10))
+          done
+          rm -f tv.tmp
+          [ -f tv.json ] || echo "::warning::TradingView unavailable (optional) - continuing without it."
+          exit 0
+
+      - name: Merge, validate, write news.json
+        shell: bash
+        run: |
+          set -uo pipefail
+          if [ ! -f ff.json ] && [ ! -f tv.json ]; then
+            echo "::error::Both ForexFactory and TradingView failed. news.json NOT touched."
             exit 1
           fi
-          echo "events: $(jq 'length' raw.json)"
+          ARGS=(--out merged.json)
+          [ -f ff.json ] && ARGS+=(--ff ff.json)
+          [ -f tv.json ] && ARGS+=(--tv tv.json)
+          [ -f news.json ] && ARGS+=(--old news.json)
+          if ! python3 scripts/merge_news.py "${ARGS[@]}"; then
+            echo "::error::merge produced nothing usable. news.json NOT touched."; exit 1
+          fi
+          # validate merged output: non-empty array, every event has the FF-style fields the Worker parses
+          if ! jq -e '(.events|type=="array" and length>0) and ([.events[]|select((.title|type)!="string" or (.country|type)!="string" or (.date|type)!="string" or (.impact|type)!="string" or (.forecast|type)!="string" or (.previous|type)!="string")]|length==0)' merged.json >/dev/null; then
+            echo "::error::merged events failed schema validation. news.json NOT touched."; exit 1
+          fi
+          FFMODE=$(jq -r '.meta.ffMode' merged.json)
+          TVOK=$(jq -r '.meta.tv' merged.json)
+          echo "ff=$FFMODE tv=$TVOK merged=$(jq '.meta.tvMerged' merged.json) appended=$(jq '.meta.tvAppended' merged.json) events=$(jq '.events|length' merged.json)"
+          [ "$FFMODE" != "fresh" ] && echo "::warning::ForexFactory not fresh this run (mode: $FFMODE)."
 
           NOW=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          if [ "$FFMODE" = "fresh" ]; then SRC='https://nfs.faireconomy.media/ff_calendar_thisweek.json'; else SRC='https://economic-calendar.tradingview.com/events (ForexFactory unavailable)'; fi
           # Commit rule: only when the EVENTS changed, or as a heartbeat when the stored fetchedAt is
           # >= 180 min old (so the Worker's 8h freshness check never starves on a quiet calendar).
           write=1
           if [ -f news.json ] && jq -e '.events|type=="array"' news.json >/dev/null 2>&1; then
             old_ev=$(jq -S -c '.events' news.json)
-            new_ev=$(jq -S -c '.' raw.json)
+            new_ev=$(jq -S -c '.events' merged.json)
             old_ts=$(jq -r '.fetchedAt // empty' news.json)
             age_min=99999
             if [ -n "$old_ts" ] && old_epoch=$(date -u -d "$old_ts" +%s 2>/dev/null); then
@@ -69,12 +130,13 @@ jobs:
             fi
           fi
           if [ "$write" = "1" ]; then
-            jq -n --arg t "$NOW" --arg s "$URL" --slurpfile e raw.json \
-              '{fetchedAt:$t, source:$s, count:($e[0]|length), events:$e[0]}' > news.json.tmp
+            jq --arg t "$NOW" --arg s "$SRC" \
+              '{fetchedAt:$t, source:$s, count:(.events|length), ffFetchedAt:.ffFetchedAt, sources:{ff:.meta.ffMode, tv:.meta.tv}, events:.events}' \
+              merged.json > news.json.tmp
             mv news.json.tmp news.json
             echo "news.json written (fetchedAt $NOW)"
           fi
-          rm -f raw.json
+          rm -f raw.json ff.json tv.json merged.json
 
       - name: Commit and push only if news.json changed
         shell: bash
