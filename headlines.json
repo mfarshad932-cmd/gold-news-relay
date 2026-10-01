@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-01T22:41:40Z",
+ "generatedAt": "2026-10-01T23:23:03Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -56,11 +56,11 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
-   "items": 47,
+   "items": 49,
    "kept": 3
   },
   "bbc_world": {
@@ -80,22 +80,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 35,
+   "items": 36,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 32,
+   "items": 34,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 26,
+   "items": 29,
    "kept": 12
   },
   "gn_sanctions": {
@@ -105,7 +105,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 55,
+   "items": 54,
    "kept": 12
   },
   "gn_oil": {
@@ -115,8 +115,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 10,
+   "kept": 10
   },
   "fed_calendar": {
    "http": 200,
@@ -125,12 +125,59 @@
  },
  "items": [
   {
-   "title": "Stock futures are little changed as September jobs report looms: Live updates",
+   "title": "Australian Dollar drifts toward 0.69 as USD shrugs off Fed patience",
+   "source": "FXStreet",
+   "time": "2026-10-01T23:17:48Z",
+   "link": "https://www.fxstreet.com/news/australian-dollar-drifts-toward-069-as-usd-shrugs-off-fed-patience-202610012317",
+   "tags": [
+    "FED",
+    "USD"
+   ]
+  },
+  {
+   "title": "S&P 500 futures are little changed as September jobs report looms: Live updates",
    "source": "CNBC",
-   "time": "2026-10-01T22:33:13Z",
+   "time": "2026-10-01T23:13:55Z",
    "link": "https://www.cnbc.com/2026/10/01/stock-market-today-live-updates-.html",
    "tags": [
     "JOBS"
+   ]
+  },
+  {
+   "title": "Reminder: Hong Kong reopens as mainland China markets and Stock Connect stay shut until October 8",
+   "source": "ForexLive",
+   "time": "2026-10-01T23:04:54Z",
+   "link": "https://investinglive.com/news/reminder-hong-kong-reopens-as-mainland-china-markets-and-stock-connect-stay-shut-until-october-8/",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Araghchi said Iran would allow access to nuclear inspectors for sanctions relief",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-01T23:04:51Z",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WNkRGcmpNUkJkQ29lLWRfQ2lPbkEtYkNHbDV2VW9DT1loZ0JTaTJjMVRDcDY5V0lDMlBER1BPNEVTY0FvSXNjWUxoSlp6V3JMXzJEZDFDVEkzSjNwSy1keXIzZWNOZ0IzY3c?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "The Japanese Yen weakens as traders pare Bank of Japan October hike bets",
+   "source": "FXStreet",
+   "time": "2026-10-01T22:51:29Z",
+   "link": "https://www.fxstreet.com/news/the-japanese-yen-weakens-as-traders-pare-bank-of-japan-october-hike-bets-202610012251",
+   "tags": [
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "The New Zealand Dollar extends its slide as the US Dollar hits a yearly high",
+   "source": "FXStreet",
+   "time": "2026-10-01T22:50:08Z",
+   "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-extends-its-slide-as-the-us-dollar-hits-a-yearly-high-202610012250",
+   "tags": [
+    "USD"
    ]
   },
   {
@@ -145,7 +192,7 @@
   {
    "title": "Pentagon prepares for potential surge of naval forces in Middle East",
    "source": "The Washington Post",
-   "time": "2026-10-01T22:05:51Z",
+   "time": "2026-10-01T22:12:00Z",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc2drZTBYMDZkTGhpaWhjRm81VzBwZFNPTFVQZ19ESVBtbHhCSEpWN1pLSHZLWF9Wam0zRlhNMHN2TWp6NDJyZmRlZElaU1JjYWZlcTJScW1SLUNaQlJZbEdETUJZZjEyOER4YThpWjh3b2VyTTZsRDFJRGE2eVg3SFFGZ0dSVEVjQ2VqSF9uS1pvNzRFMzE1Q1ZmYzdoMW16Mk1hNGVHQVBGM0JRUmF1SlJjLTJmZHRuVmJJ?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -161,6 +208,15 @@
    ]
   },
   {
+   "title": "Raytheon Gets $24.4 Billion Navy Contract for Standard Missile-6 Interceptors",
+   "source": "WSJ",
+   "time": "2026-10-01T21:56:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU0pWYzZwdVVQeWx2S1VhN0VqZ3AzNlplcEROcW9zdUJBU2U3c21GbE83OTN4N1RoVF93emhRZkMxaFRON25hX2J1TFZOdkpqbU1HMEJlS3B4eWw3TUotWU1IdDhBNDltZ3VFa1RqakJCUDNHRkJFWmViOXJsbV84c0VXWVpuVUxEN2JIZ1dCd3JfNGNGRVBHVXYwS0QzczRvV2VVSnJ3b29POUxvbVUyNGs1WTE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Gains Some Ground Despite Strong Dollar",
    "source": "FXEmpire",
    "time": "2026-10-01T21:55:47Z",
@@ -168,6 +224,24 @@
    "tags": [
     "USD",
     "GOLD"
+   ]
+  },
+  {
+   "title": "US Navy awards RTX's Raytheon $24.4 billion contract for Standard Missile-6 amid stockpile concerns",
+   "source": "Reuters",
+   "time": "2026-10-01T21:50:47Z",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOczhaYkRTa0p5SEpDaTFhbkNSLTFyeTZBaERmYlRHb0tqNHpkb21hVWZtRHpDQUxFbkpYTVc1bFZfd3pyZ1Q3M1Yza1NrMi1fbW5FN0JGaGNJYXQzMVAzV2pmUDZuQTFoSnZrNVRwc0d6aWU2bDRadFpSQXAxOW11czc1Z2kyTXNCdW9FTEtmX0VxRUpFZEtyMUVEWkFhclYzZ2taNFZnQzJPbGRMc3dHWENFLTEyRDQ5ajlVblcyaXRpWXZDTmdoaml6bkJxenRwZ2c?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
+   "source": "Al Jazeera",
+   "time": "2026-10-01T21:39:10Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa002bkkxQ2Z3VlpLMnhIRGtmMndKVDNrXzJab25KOGozel92VjVwMllkTnJyVHVIMlNhbzZBeEFMRTR1a1FGZngyRGJXT0FqTWg0dEw0R1I1M21mU1dXcmhULTFPb2dFR2xXRjIwRExYMUFkMnh6ZWlXY2tkakh1SzNCRDRHVlVXMkVJRGhOZlJtTFA3ZXdPSmwzX3RMOGFEc0xrSVZ0RlVFT3lUQzhwdtIBtgFBVV95cUxQdFdiOVVaYm1kUmpldGk3V0tCdS1NZ04yZEZyaWR0aUtJb09ZWEhoTWZCN05oOVhHbU5NeHJiVlBybi1ubkRqMkVVUnRiY2QtZlFHVnd0bkVkOHU0R1g3bkNfcVhwdnBubFo0ajdSZGxXcmNZbWh5YUVBNnNwTC14RFJtZ1FzNW5mVGo3WnR3eGhmMVhRSXFQSURSWHF4UlBsX2ZsUElhcWlVUl90RTVpc0o4MkUwUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -189,10 +263,10 @@
    ]
   },
   {
-   "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
-   "source": "Al Jazeera",
-   "time": "2026-10-01T21:33:15Z",
-   "link": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss",
+   "title": "Eritrea severs diplomatic ties with Ethiopia after Addis Ababa orders closure of embassy in Asmara",
+   "source": "Reuters",
+   "time": "2026-10-01T21:31:48Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPejNSZnA0b0E3bmZKTW13MXl1Uk9LMERtVE1YWVdDc1JmNVViUGRqRjIzRzBkLU4xd3BwdWdMWFo4SXk0MWdLRmk0NG1FS3YzQ1NkbjFkb0tUTWhqaTh6REFxVzRSMXRESGRYcDV3NWJfMXhUeGFHam1sYzJOVi1hUVVtbV9yRUxtN0JuSjBaX0NwVE9HcGMwNnJBcW8xN0sxSDktWFBycU1QZjA0WjlfcDh0UG9RdW8?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -203,7 +277,6 @@
    "time": "2026-10-01T21:30:08Z",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORHZ5eTRZTjNtU1poY1pxZWVJaUhGLVJKYWl6SG1Ub0E4OHJvVUJuT3hTY2wtZ3EyTno3V0tPMEdSQUR5MC1vSTI3U0ZrcDdvcGNVejBVZERxUHhXa2ZqbDRPRDBDWkNFYV9mcmpWeUktcHAwMDg0VHpRcmp2WllHdFRNajgwYURzNXZWVUZFcVpQNmd5RlQwZ190dGY?oc=5",
    "tags": [
-    "CENTRAL_BANK_GOLD",
     "GOLD"
    ]
   },
@@ -266,11 +339,12 @@
    ]
   },
   {
-   "title": "US sanctions Kremlin-backed fintech A7 after FT investigation",
+   "title": "US sanctions Kremlin-backed fintech A7 for allegedly assisting Iran",
    "source": "Financial Times",
    "time": "2026-10-01T21:20:36Z",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUzhOTDQ1aDQ0OHo0bzFoNXZNR0hUUWdiMzJDWDRibUVnR0w3YmhFcUZLTWN1VERaMXpROGh4dGR3TUN5TjNoX2FIRjRFUkQ4MV9DakpXN1hqUC00LWlzTVFUVmFldVNWMnRLZWNORS00VUt4amdzVzVqa3VDZWprZUJTZmY?oc=5",
    "tags": [
+    "GEOPOLITICS",
     "SANCTIONS"
    ]
   },
@@ -312,17 +386,8 @@
    ]
   },
   {
-   "title": "US Navy awards RTX's Raytheon $24.4 billion contract for Standard Missile-6 amid stockpile concerns",
-   "source": "Reuters",
-   "time": "2026-10-01T21:15:43Z",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOczhaYkRTa0p5SEpDaTFhbkNSLTFyeTZBaERmYlRHb0tqNHpkb21hVWZtRHpDQUxFbkpYTVc1bFZfd3pyZ1Q3M1Yza1NrMi1fbW5FN0JGaGNJYXQzMVAzV2pmUDZuQTFoSnZrNVRwc0d6aWU2bDRadFpSQXAxOW11czc1Z2kyTXNCdW9FTEtmX0VxRUpFZEtyMUVEWkFhclYzZ2taNFZnQzJPbGRMc3dHWENFLTEyRDQ5ajlVblcyaXRpWXZDTmdoaml6bkJxenRwZ2c?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Israel’s Herzog calls British sanctions a ‘grave mistake,’ accuses UK of election interference",
-   "source": "Politico",
+   "source": "politico.com",
    "time": "2026-10-01T21:15:00Z",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXV6U20xdnNrT0ZzX0JUdVNrLXBwbE1SbDJBSUw1NXpUZW82dG01eGZQR0s4dmlMWHQzWmZ1UHN1SFdDallUUUpwRmFsek1yZkhiTVhpVEMyWW1fMDl4bWFvd1pBVjd4b1dLaGZFRFM4MzJxajZkNnI3SjhOSjNwc1JUT2ZCT1dvc01PZTVQcVVrajZUTnlz?oc=5",
    "tags": [
@@ -453,8 +518,8 @@
   {
    "title": "Most Americans say US-Israel war on Iran not worth fighting: Poll",
    "source": "Al Jazeera",
-   "time": "2026-10-01T20:49:45Z",
-   "link": "https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss",
+   "time": "2026-10-01T20:51:29Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmZBdFdwN00zcUdKTWF1c0RQQ2J2X2thWVQxZkgwZjh0NFliQ3NWa2ZxVFhPSzl2Z1FwOU1zb0pZNG1XaXd1Mkk3eUdqS21odUVkVDJCRm05LXViWHhSWjZ5bXdzTERJYnJCek4wcktqSWxmZDJRUm45TFl0Um9MV0wwUkNqT0VsZ3pKRzJlWV95QmtWS3RuQlduMW1VTTNhcklkdGw1SlnSAa4BQVVfeXFMT2VrcFpwUU1QZlNfa2hLZXY3amMwVXhxUnFlZUNxekZucEhOX2hNREdBaDRZYkhxMGNHM053NTJnWjVmRXZ0ME5lcmRrVFVXdUpuWkJXZEVRSzduLXA1dTRQamU3b0hfUHBpRldJT2paQkFIWXpNSGN4Zi1rSnVlclFOTUlEdl9ocEZKVVNjeVRhUEtGampBT0dxUEhmalBqX1VJUXRQRHBIUl9lRzZ3?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -466,6 +531,15 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QS0FiaXlmYXhKTVBZNi1MblI3eUF3OW9FREJWek9OY1AwTkVLQU9PYlJVWXIwTUxyMTYyamtxd2hhRzk1Y3FqV1k5RFdvRkQxSlNJNy1nWkRBX0x3TV9uNGRsal9hU09wZnFDekU2QmlQdHpjVUVJbGpRdWE?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "ICC ends contract with French insurer amid US sanctions threat",
+   "source": "Al Jazeera",
+   "time": "2026-10-01T20:43:46Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHFzMEpXd2ZsSjd1bDlLbXhhM2RPbDI2WjdRYWtiNXozdmtZSmphQWwzZTJFejFhTjFHUlg1MzdJT0ZkX293ekVHYXZzTVVGWGpvYmMwSV9JODNITThtQXF4UFAwNTZqM2YxUi1iM3VTLWMxNG1DUmVFZHUyS2FNSnBBOU1yMnRIRDVydzdqc0h4ODctZEIwbXF2S091SXU0R2FNa0F6R20xQdIBrwFBVV95cUxNeWxGR3dpMmo1Ym1FU201dWY0RG5Hd0VNNGc0ZnFkdXRJUVdTVEJNcW1BaUttSmVIaHlsUlN3bURLLVBDS1Y4R1E3akQzbUJnYlNSbHRHSFZGZFVGWGxLUkJWR0liQnNVb0JHRk50eXBqc0tJeUtZM1NDYzZDNW9UYXBoT1Vybm9pV3Nzb2gxWnNhVWNBbzVUQzFGQVZ0YWtJZUFGRGJQYm5ELVctbUtB?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -535,15 +609,6 @@
    ]
   },
   {
-   "title": "ICC ends contract with French insurer amid US sanctions threat",
-   "source": "Al Jazeera",
-   "time": "2026-10-01T20:20:00Z",
-   "link": "https://www.aljazeera.com/economy/2026/10/1/icc-ends-contract-with-french-insurer-amid-us-sanctions-threat?traffic_source=rss",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
    "title": "Elon Musk to return his attention to government, advise Pentagon on future of war",
    "source": "The Washington Post",
    "time": "2026-10-01T20:10:00Z",
@@ -554,7 +619,7 @@
   },
   {
    "title": "Fed's Bowman is in no rush for further rate adjustment",
-   "source": "tradingview.com",
+   "source": "TradingView",
    "time": "2026-10-01T20:07:53Z",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNXEyaW9FTUpHSndGMVg4LWkxU3A5NmxZcDdwblhFU1ZvVzhuZi1vUEFiQUtFV0R1Rm83MDNfZGNhemJjT2xyMjZ4Um0xeDhxenFOQnF5M3V1SXRkUGxaekRldzRScnQ5TDRhYU0xSDJRUVBMMVhLVWVaWmlEaEdoSlc3a2l4T1hmbGlOblROSnh6TGJIaDFqWmdCa2tUVkVON0ZQT1I3bG1MbGlIS1VFZDBJMzNUSFd4?oc=5",
    "tags": [
@@ -565,7 +630,7 @@
    "title": "US Further Targets Iran-Linked Russian A7 Financial Network",
    "source": "Bloomberg.com",
    "time": "2026-10-01T19:51:19Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX2p2T3NydjVBU1FVNnhLYkZXSjVKUXVHNV80YkFiV0hmVkhjQS0xUHJKNjl1WTVyVjBQTnQtQ1QzOU5VZ0F4bHhQc2pwXzBtMUp4MUsySGUxQ2tidUhWeWxzYUZRd2FfdzREV0txQUMwZXhBZlRuMzBTblhVaFJkWEh4WDIyUTlGbzFRTWg4R3l5czZwaVFsem1NVDdWSU1UT2lGOUJKV2pORldhbjJFb2xuZUhLblhSM2lpN212RUFqdU0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWDdVWXZVcnhCRVhQTGlOSW9YaENDRG50dmZPTjhOWjdyZll1Q19walBaRzM5QTBlUjliUHlnelVuTGlDTXVORlRQQ1YybHQtU0JFY0V0cklPSC1WcGg3dG4wZm14X05RcWtkR2JNOVNQRzlwWk11cUotMVNRVDBqdHZiQTh5X08yekltc1ZRMTlIQm03dzc3anpFd0FudFBGOGdyZVdrMEVDWldYY0NJ?oc=5",
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
@@ -617,73 +682,6 @@
     "FOMC",
     "FED",
     "RATES"
-   ]
-  },
-  {
-   "title": "Gold Holds Above $4,150 as Rising Yields Test the Market Ahead of US Payrolls",
-   "source": "Investing.com",
-   "time": "2026-10-01T19:24:00Z",
-   "link": "https://www.investing.com/analysis/gold-holds-above-4150-as-rising-yields-test-the-market-ahead-of-us-payrolls-200688796",
-   "tags": [
-    "YIELDS",
-    "JOBS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "‘Atonement’ Review: An Iraq War Story, Sensitively Told",
-   "source": "WSJ",
-   "time": "2026-10-01T19:23:00Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdmlCdkdvTjVCTVlMLVNKY2l5N1VNZ2Q5Yi00SmMzNVJPdVp5WFJFbVlDcmduQnd3b1MxOFR5aExTODFqRUNhNkVwdnpWZF9TWU9MSXdHYlA2MzNjSDRVdzB2QjlLRXktcm0yeU56Z2ZDNU5PZnYyOGJyeFlNYXMxenhHYmo3cmFuUGVURzdXZEVmdFI1Q2hGeXItUHl5MEk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Eritrea severs diplomatic ties with Ethiopia after Addis Ababa orders closure of embassy in Asmara",
-   "source": "Reuters",
-   "time": "2026-10-01T19:21:15Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPejNSZnA0b0E3bmZKTW13MXl1Uk9LMERtVE1YWVdDc1JmNVViUGRqRjIzRzBkLU4xd3BwdWdMWFo4SXk0MWdLRmk0NG1FS3YzQ1NkbjFkb0tUTWhqaTh6REFxVzRSMXRESGRYcDV3NWJfMXhUeGFHam1sYzJOVi1hUVVtbV9yRUxtN0JuSjBaX0NwVE9HcGMwNnJBcW8xN0sxSDktWFBycU1QZjA0WjlfcDh0UG9RdW8?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Bowman, Modernizing Financial Regulation: Initial Observations from eSLR",
-   "source": "Federal Reserve",
-   "time": "2026-10-01T19:00:00Z",
-   "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Fed’s Jefferson says US economy is near maximum employment",
-   "source": "FXStreet",
-   "time": "2026-10-01T18:59:33Z",
-   "link": "https://www.fxstreet.com/news/feds-jefferson-says-economy-near-maximum-employment-202610011859",
-   "tags": [
-    "FED",
-    "JOBS"
-   ]
-  },
-  {
-   "title": "Dollar Index breaks its June peak as the Euro sinks on dearer Crude Oil",
-   "source": "FXStreet",
-   "time": "2026-10-01T18:59:14Z",
-   "link": "https://www.fxstreet.com/news/dollar-index-breaks-its-june-peak-as-the-euro-sinks-on-dearer-crude-oil-202610011859",
-   "tags": [
-    "USD",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Treasury targets Iranian auto, rail sectors in latest round of sanctions",
-   "source": "The Hill",
-   "time": "2026-10-01T18:59:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX21YWVhpMEJaa2NqV25tWkNvby11blNYczZxaUlUSGRPN1BuSTdzMEhDeVdPV3NuRlVXcVl3b2VlX1hDSmZ4ck81ejRFZ01PMER5aFN4X2phVFM4OWczQWpEbmo4RkhwSUVxNVZwNTBDVGhNS1FDdlhWQjBiS2tJcDlIYjBSTGR0bEwxTWJ2NGZJYk9rQzB3ME8wbkVEZFFPRjBaZndwakFIWExQ0gGyAUFVX3lxTE1qcTR5WE1tWkM2VTh6TjVtZEpxUHNhWEJiQWVsaVlXYi1LNFlaZGpSNWJYN0FENzJBYmJaTHlmbkc2Q3dtc0kyQXp4RTFqbDJPRk9ySFpKRjBmYzRvcldhX21VQmwwdnBrXzZUdlc3b0YtdzVxcFFhcDBUUUFibXNRUXJnc0xKMEVGQkhiX1ZJOGpWd1U3c193cEV6RlJ2c2xwWDJEVWdqNGJIQ1lHNS1sS1E?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   }
  ],
