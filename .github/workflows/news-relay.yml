@@ -9,6 +9,8 @@
 #              (< 8h old) are carried forward and TV is layered on top; else TV-only events are written.
 # SAFE BY DESIGN: only if BOTH sources are unusable does the job FAIL, and then news.json is left
 #      untouched -> its fetchedAt gets old -> the Worker refuses it after 8h and stamps NEWS UNKNOWN.
+# HEADLINES (v7.9.20): a SEPARATE file headlines.json (gold-relevant RSS headlines, last 48h, max 60, + upcoming Fed calendar) is built by
+#      scripts/build_headlines.py. It is best-effort: every failure is only a ::warning::, it never fails the job and never touches news.json.
 # SCHEMA (backward compatible): {fetchedAt, source, count, events:[{title,country,date,impact,forecast,previous[,actual]}],
 #      ffFetchedAt, sources:{ff,tv}} - the Worker only reads fetchedAt + events; extra fields are ignored.
 name: news-relay
@@ -87,6 +89,21 @@ jobs:
           [ -f tv.json ] || echo "::warning::TradingView unavailable (optional) - continuing without it."
           exit 0
 
+      - name: Build headlines.json (optional, best-effort, never fails the job)
+        id: headlines
+        continue-on-error: true
+        timeout-minutes: 5
+        shell: bash
+        run: |
+          set -uo pipefail
+          # Rewrites headlines.json only if items/fedCalendar changed, or as a heartbeat when the stored copy is >= 180 min old.
+          python3 scripts/build_headlines.py --out headlines.json || echo "::warning::build_headlines.py exited non-zero - headlines skipped"
+          if [ -f headlines.json ] && ! jq -e '(.items|type=="array") and (.generatedAt|type=="string")' headlines.json >/dev/null 2>&1; then
+            echo "::warning::headlines.json invalid - restoring last committed copy"
+            git checkout -- headlines.json 2>/dev/null || rm -f headlines.json
+          fi
+          exit 0
+
       - name: Merge, validate, write news.json
         shell: bash
         run: |
@@ -138,18 +155,29 @@ jobs:
           fi
           rm -f raw.json ff.json tv.json merged.json
 
-      - name: Commit and push only if news.json changed
+      - name: Commit and push only if news.json or headlines.json changed
+        if: ${{ always() && !cancelled() }}
         shell: bash
         run: |
           set -euo pipefail
-          if [ -z "$(git status --porcelain -- news.json)" ]; then
+          if [ -z "$(git status --porcelain -- news.json headlines.json)" ]; then
             echo "Nothing changed - no commit."
             exit 0
           fi
           git config user.name  "news-relay[bot]"
           git config user.email "news-relay@users.noreply.github.com"
-          git add news.json
-          git commit -m "news relay: $(jq -r '.fetchedAt' news.json) ($(jq -r '.count' news.json) events)"
+          MSG=""
+          if [ -n "$(git status --porcelain -- news.json)" ]; then
+            git add news.json
+            MSG="news relay: $(jq -r '.fetchedAt' news.json) ($(jq -r '.count' news.json) events)"
+          fi
+          if [ -n "$(git status --porcelain -- headlines.json)" ] && jq -e '.items|type=="array"' headlines.json >/dev/null 2>&1; then
+            git add headlines.json
+            HL="headlines: $(jq -r '.count' headlines.json) items"
+            if [ -n "$MSG" ]; then MSG="$MSG + $HL"; else MSG="news relay: $HL ($(jq -r '.generatedAt' headlines.json))"; fi
+          fi
+          if [ -z "$MSG" ]; then echo "Nothing valid to commit."; exit 0; fi
+          git commit -m "$MSG"
           BR=$(git rev-parse --abbrev-ref HEAD)
           for i in 1 2 3; do
             git push origin "HEAD:$BR" && exit 0
