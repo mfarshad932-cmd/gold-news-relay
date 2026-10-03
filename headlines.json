@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-03T11:32:43Z",
+ "generatedAt": "2026-10-03T15:12:41Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -16,12 +16,12 @@
   "fed_speeches": {
    "http": 200,
    "items": 15,
-   "kept": 3
+   "kept": 2
   },
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 4
+   "kept": 3
   },
   "bea": {
    "http": 200,
@@ -51,12 +51,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 0
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 10
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
@@ -65,13 +65,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 41,
-   "kept": 8
+   "items": 42,
+   "kept": 7
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -80,32 +80,32 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 22,
+   "items": 19,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 22,
+   "items": 13,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 13,
-   "kept": 12
+   "items": 9,
+   "kept": 9
   },
   "gn_war": {
    "http": 200,
-   "items": 31,
+   "items": 30,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 16,
+   "items": 13,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 49,
+   "items": 41,
    "kept": 12
   },
   "gn_oil": {
@@ -115,8 +115,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 10,
+   "kept": 10
   },
   "fed_calendar": {
    "http": 200,
@@ -125,10 +125,174 @@
  },
  "items": [
   {
+   "title": "U.S. to lend $4.2 billion to Vistra to boost nuclear power output, source says",
+   "source": "CNBC",
+   "time": "2026-10-03T15:00:51Z",
+   "link": "https://www.cnbc.com/2026/10/03/us-vistra-loan-nuclear-power.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Bessent Downplays Worries on Rising Yields, AI Bubble Concerns",
+   "source": "Bloomberg.com",
+   "time": "2026-10-03T14:59:07Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1BJTk9yQm1LWW5Ga0Zsb3RnOU94T2U5T1dkYTZRQXE5U0pqd0lUNjlSNXFzTmhORVZ1OGxmSXRPQUxsTGxNZFpRM2Q3dUljd05Fb2pya1lzMU5WT3ltengwRFRPM216NXhTREY0WGlWM3FlWUpmbmdfUVZyLXZUTzFsMm5kWi1XaHQ2M2NxdzdrX2RwdDJHaFZDSTdtX2NGRVpIT2tYbnkxU2RWOE55VF9GR25pVktTam1YVFJjZExtQkRZN3MzclR0Vm9wR0lH?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
+   "source": "The New York Times",
+   "time": "2026-10-03T14:07:03Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUExYZk9hQzBJWE9DS0UxQ1RfNUttN3NIY2xuNS1PN0dkZVBlODRMMkVmbGFDNXZ1RDU2aU5rM3dGc3ZtR3Z6RHZSSGxpME5TSGJ0OE1vWUdHNWZUTVdQQjhLYVV3MW9XUExPYUJBbHhieUlmTmw5QmJ0YXdjMjh2c3dBeG91d2d5dHRB?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Israel election double standard: Arab leader forced out, far right cleared",
+   "source": "Al Jazeera",
+   "time": "2026-10-03T14:06:47Z",
+   "link": "https://www.aljazeera.com/news/2026/10/3/israel-election-double-standard-arab-leader-forced-out-far-right-cleared?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "There’s One Middle East War Trump Seems Willing to Avoid",
+   "source": "Politico",
+   "time": "2026-10-03T14:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMWlqeEd6WDNJcF84SG82SjVPYUhPb3dQdU5aeUV1MVJEUVo0dFMwX1kzaUQzVFMzQktpOU5jaDV3RlhlYkNxdEx2MGZLWDMxVGFhZF9HcE5FUFR2cl82VEVsbUhtNzFUbDhqZ2tiVUhZZDgwZllONkNmMkxwa180SzBDZkoxQ09janc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Portugal prosecutors probe legality of US use of Lajes base in Iran war",
+   "source": "Reuters",
+   "time": "2026-10-03T13:55:15Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPalVaWllxS1FsVThCWHF3bXZTLXVRNWNhMTdNaERvemRJSWRtZU1iRHNTN19WSGt5THpaRjZpZkE5OGtMYkZPY3JOSG95ZlF3TU10M05VYkdCMHJ0bW93dlk5THJmYm9pM2daU1VteXJKWnp1bm5GSDBobkZyUDBzNDNkaExRSElQSG9zR3hfNFFtazQ4Y2ZtWk92a1NXZXRRbUd1Y0ZQOA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Exiled Russian filmmaker Zvyagintsev takes aim at Putin's war in Oscar bid",
+   "source": "Reuters",
+   "time": "2026-10-03T13:54:09Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWx3Mk1COW1SaFFuVm9ZN3VDbGNSY2I3aW1PWTNET2c2LUN0U0c2c0JTNkZ1QUZBaHZqaTI1eUJLVFh0dkNpNThrdTJtdDJBcTNXYWJ0SDFGZWVHalZ6NjdSa1NVNThiZmRPZ3JYNkUwQlpPcU9Uc2F5ZkNFd3BUS3o0UDdLb25jQkhKMDBKYXVCQjlGUlhudWpTREh0aWhlc3VIcGtCb05FaXBibDJWWlEtQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Global Bond Selloff Pushes U.S. Treasury Yields to 24-Year Highs",
+   "source": "Yahoo Finance",
+   "time": "2026-10-03T13:22:45Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMUNTU1B2WHNZSy1CRU8yVDBqT0RWaEZHNjVQZ1FQM0g3T0JTbGlzM1YzWHhNeExfd0hlc1BuWU5QeXlzV0UzOFJRWWd5dGxheHdGcUNVZDhmYVRuS2F4Nm0tbHBoeEgxX1VzRVJ0dkpxMHVhb0ZRRXVTTjl6cDMyUWpaek4xWXZWYUViUEF0aw?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "High interest rates are foreclosing on the American home remodeling dream",
+   "source": "CNBC",
+   "time": "2026-10-03T13:11:37Z",
+   "link": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
+   "tags": [
+    "RATES"
+   ]
+  },
+  {
+   "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+   "source": "BBC",
+   "time": "2026-10-03T12:59:10Z",
+   "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
+   "source": "Al Jazeera",
+   "time": "2026-10-03T12:55:54Z",
+   "link": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iraq seeks workaround for US sanctions on Iranian airlines",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-03T12:37:49Z",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85RE1CcTc3UU9ISm9DNHh2LW9IUzg2WTNrclc1VTY1eWlObnNJYjlRRVBobmI0T1NuWEtPbkNrS2JYTElCa3doMXAtRC02UktsaUZja0l2Z0NHeW8z?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "10-year Treasury yield hits 5.34% — a 24-year high now driving mortgage rates, car loans and your portfolio",
+   "source": "Yahoo Finance",
+   "time": "2026-10-03T12:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdnJTRXh1MkcyT0tzcExONDBKaGJHeU5GT2daQVBvNnNfNVAxQ2g4Y25BX0xiaGtjMmgxOW5IZHRRczBTMXd0MU9FbVZlQVlCTEVMLTFheVZsSUNzQ1VqRy1YcHdsN2N6QllxeUdySVNLeVlSYnZJZWRBLUV0SDQ0N1luTUJ5LU4yZFdPRTZPVHBkVms?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "3 Brokerage Stocks Tied To Higher Treasury Yields",
+   "source": "Yahoo Finance",
+   "time": "2026-10-03T12:09:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWm5ULWRnRUMtUDkwRTNCYVdPNUxfRUtfeEZNUW1nNmlHVktKRUdRZlFsSDIzVHBqN01UWkJrUWJmRnpWeTZzSDI0NXB1SXd2dkpCR2M0SHloMjA2cnNmX3RiWk9KX2RybXF6MTVlcE5sa1pGek43NWNicldfSzRpSEpJTTctdDZYX3FfVGRJMjlTdTRjVlgxNzJodw?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "How Trump’s strikes against Houthis foreshadowed struggles in Iran war",
+   "source": "NBC News",
+   "time": "2026-10-03T12:00:42Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOXgxblN2ampFcEtETXhtd2NUaEVmQUhlVk1GbmZYdkdhYVh4VHhLWnlaRzN2ZDkxUExHLVozUWlaT3Y5YXpGTWE1MjJpQnNjY0RqeUYwNW9QdnNDVUhkSGdMdlRYM3JSQXVneEtkV1g5NXFwTm9CQlNqZUp5YkVQOEVQSVB1aUtQbDhEcWt2YkpmaWpXSXc2QmMtTWg2SjFwTURlbU12ajZEXzRUNUxUZWJrZjc3RU0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Week in Politics: Inflation pressure; war in Iran and effect on midterm elections",
+   "source": "NPR",
+   "time": "2026-10-03T11:47:06Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVp6OWhLTEV3dnE5OGlBSDBwMWJIb1BTV2FPRDRzQ243NUc3WVo2TjJ3aWcwakJjM3M4b0l4R1BwUTJEa003dTJlb1k2OFZ4dDNCUGxKZVN3UzJLYmt5VzdXSGh1bncwTGZTWExETG16a1lPQmFwZ0FKYk9pRmt2TTF0NWFBLUZtcE13bFFMSWJpNXQzWl9Oem92LVZqM2NGa1hnZHRmWUxBR0tzTGZlc243UTc2V09KbHpqT09VQzloZw?oc=5",
+   "tags": [
+    "INFLATION",
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "DOJ says it won't reopen probe into Fed's Powell",
+   "source": "Axios",
+   "time": "2026-10-03T11:41:31Z",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TUjcxNzN0YnNYRC1FdHM3MGxpU2NrTk9KTUFoaVBpRmtSbUQ4VGVfYlkySWRteDN0UjRsLTRHV3RCNWxaczFvQUp0ZjdoV0p1c3g0OTdYMnhRSlhhN1pzQ1NNVTNyeERVajln?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Opinion | Why Iran Could Choose to Escalate the War",
+   "source": "The New York Times",
+   "time": "2026-10-03T11:32:49Z",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFJuTWtoMkFyRndUUUppMjFvTXRpWXlOSG1LcXZaaS1hMzBaNkpWam9sM0NSc01RN2dhLW12c2RPNmFwMkhGLW9RdkwydEtPN0lNSjdOU1ZsZ3k5Vkw3UTRPa2JsbVZJMklvRlI0ZENpelJMSDBLRXl4QTVVcVRpMmx0NmE4MkZ1?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "As Treasury yields touch generational highs, investors brace for the market fallout",
    "source": "MarketWatch",
    "time": "2026-10-03T11:30:00Z",
-   "link": "https://www.marketwatch.com/story/as-treasury-yields-touch-generational-highs-investors-brace-for-the-market-fallout-0457e698?mod=mw_rss_topstories",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOFdhOGNEVXNJbzQxSVVuTHF2Tk1KbFN3TE9oeFhiUFI1SndMQndzNWtkUzA0YVVhbFpJU0VRMjhnQ3FtbnJQcWZ5VE9vRjZ5YTJBN2RZOHNrazVGazhTMGxfTW0zcXhoNl9XWlgtZWd3ZVBjMGVVY2oteEF5Q1dkcTh1RHpMRFFvMVpKZXdTWmlsOURBa3RJM3VNRjdqajdxSlFxSDlRblZFUFczc1lha001R0pOeGZ1b1ZkMGRsYTF2N0E?oc=5",
    "tags": [
     "YIELDS"
    ]
@@ -143,10 +307,37 @@
    ]
   },
   {
+   "title": "(LEAD) N.K. leader's sister says intermediate-range strategic missile was launched during firing drill",
+   "source": "Yonhap News Agency",
+   "time": "2026-10-03T11:18:01Z",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fbnJhanQ1NkJCQ0kwckJFTjViUlZWQmxWMDB3bGtJNkxQY2twbTRuOEhuUEM4ZHRDUHdDQWtlRWcxVGI2cVdYaEhRRENMckxwdjZ2TUJibFpRQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "3 Agribusiness Stocks Exposed To Sanctions Driven Fertiliser And Grain Trade Shifts",
+   "source": "Yahoo Finance",
+   "time": "2026-10-03T11:08:46Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnUxaHdGelp4OXluXzFMUWp0RHFtX2NEQlNfTzU1UWk1b0kxY0stRTByTXEwUVI0YmEyQ29wRTZWbU43bTU4NFdNMzFYODFTVHU0NzdtR1oxOU5XMTZaUFBBRl9ybU96MzhMcWxPcnRJLU5TZmU5eUt6Q05PSUl2VFpHOFpwbkNab0sxVGJ0a3lGeXZEamRBTWN5WGktbjVGODh0SkZydmFESzdhVmc?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "Palestinians gather for football amid Gaza’s ruins",
    "source": "Al Jazeera",
    "time": "2026-10-03T11:08:17Z",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/palestinians-gather-for-football-amid-gazas-ruins?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "North Korea's Kim Yo Jong says intermediate-range missile test was conducted",
+   "source": "Reuters",
+   "time": "2026-10-03T11:05:43Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUDhZV3ZlNnY5c1FBQThfWXpEdWpHaEROXzlWQVNSdnVVZE9iN29HTEZIeFFWT1VXRDNVNXpGWFZwTGZ5RFYyNXJobFpkY1NOOHY5SlpQUzhpbXpmSGJ3WnNJNHJ1Z3VJM29tQ2lXRFJoRThxQWRZMkIxWjlCTDJOQU1iRTItRzdtX3dleDFtMklWendLSkVfRExodTdZN1ZPNnp4N0swdXc0RmZaU29YMWVtTmJDTGpiMGVPWjJtRGZDZmxmVEdzNVJR?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -189,19 +380,28 @@
    ]
   },
   {
-   "title": "ExxonMobil: Set For Record Highs As War Profits Boom",
-   "source": "Seeking Alpha",
-   "time": "2026-10-03T09:56:27Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbzhyeDZHWENOUzZMQ3NpRTNRYTRJaGFpNjBicUhyd3RlZWR5dzJMaWYtS18tTlhpaVN1M2NKVXVxYXJERkVZVk03NGVmQ3pRcGNwalVTbU5xcG1kN0xUY3VCN1pVNkE0eDI3Q0Rqd1VTa3V4blpEUXl0cUQ4TUhBTHVjbDVtOVpRNDFCbUJxa2dRN0lUXzdZ?oc=5",
+   "title": "On the USS George Washington, young sailors adjust to war with Iran",
+   "source": "Reuters",
+   "time": "2026-10-03T10:15:39Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdjE4WHJXcGV4MWJ2dC00R0dZZzJRNmhBRHVsUE16NlJoSjVKaldIdURkR1pSaDlhMFpDdWhvMm02Z1Q0aFNNQkNlYllSS2ozbEFrNllPcmZkTTZLQTE4VjRfV04xTzBwU01odEVlNjAtOGxFZGxXUHZ3eUxwQVlZMDlfVUtQYnFOZlNIRFJiQjE3SFJaR2xIcEhkOUc0YmpEWXBlYlFQMA?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Russia strikes second major bridge in Kyiv, mayor says",
-   "source": "BBC",
-   "time": "2026-10-03T09:53:16Z",
-   "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+   "title": "Investors poured $18B into gold funds in 1 month, even with gold 23% off its record. Is $5,000 back in play?",
+   "source": "Yahoo Finance",
+   "time": "2026-10-03T10:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUzhyaFd5eFkzZjlIa0JNZHBIVE5vZmQ2SHNOOFUwTWRjV0xTVUFLQzN3dkE1dnI4WVAzT2stZTRMb3NUdlhRcktSbU01dElHQUl5TGdobDRrQUEwTm9UMU9RekJpcmliRWpyRnM1QjlJTjhzVFlnMkRtNk41dXRueDJ2WDhyS1JWci1ZMmxWVVlWV2VqZjhtVkJWSWJHMXgtVmc0?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "ExxonMobil: Set For Record Highs As War Profits Boom",
+   "source": "Seeking Alpha",
+   "time": "2026-10-03T09:56:27Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbzhyeDZHWENOUzZMQ3NpRTNRYTRJaGFpNjBicUhyd3RlZWR5dzJMaWYtS18tTlhpaVN1M2NKVXVxYXJERkVZVk03NGVmQ3pRcGNwalVTbU5xcG1kN0xUY3VCN1pVNkE0eDI3Q0Rqd1VTa3V4blpEUXl0cUQ4TUhBTHVjbDVtOVpRNDFCbUJxa2dRN0lUXzdZ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -393,15 +593,6 @@
    ]
   },
   {
-   "title": "DOJ says it won't reopen probe into Fed's Powell",
-   "source": "Axios",
-   "time": "2026-10-03T05:41:31Z",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TUjcxNzN0YnNYRC1FdHM3MGxpU2NrTk9KTUFoaVBpRmtSbUQ4VGVfYlkySWRteDN0UjRsLTRHV3RCNWxaczFvQUp0ZjdoV0p1c3g0OTdYMnhRSlhhN1pzQ1NNVTNyeERVajln?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "title": "Gaza voters want jobs and security as Palestinian elections approach",
    "source": "Al Jazeera",
    "time": "2026-10-03T05:39:29Z",
@@ -472,200 +663,6 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaDN1WVJaLXlxZWxNNldJUTkyTjNKS0h5UGFCbW1mZlQ0R0FVWHhJUVZqWkFHcDZqUmtrVVRSVW9fZ1M4TVNFX2xsRDlBRFBiNjU5d0pabC1kUEVGVVp6Vl9RVHNfN3ZlbjlwTXprVVZqUjJ4aTRhdDJBNE9BczU5SEI0WVFrUjdCMmt1OU1Hblh4aEJwSzA3VDc3MWlfSFZta1J1WWZOU0YwTGFRbDNtbnQwVVRFWXA5eEE?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Scoop: Trump's top national security aides meet secretly at Camp David on Iran, Yemen",
-   "source": "Axios",
-   "time": "2026-10-03T02:59:05Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ04yLVlmSXJITnRJSzBjNlRlZExWTnJNN0piSlNCaGQ4b053VjBCa2xTd0lVYVYwT29PRVNIckplVTFWWjVYMXNJdmpJWEozRmkzVlNKTk1vbVVmX1Zvd29KNzNOaFZfQU5zOUxuYmdGZkhBN0JmQmJ4ZndLdHZTQTIzMkFpdWsy?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Israeli air attack on Gaza City apartment kills at least five",
-   "source": "Al Jazeera",
-   "time": "2026-10-03T02:25:23Z",
-   "link": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "North Korea fires ballistic missile towards the sea, South Korea says",
-   "source": "Al Jazeera",
-   "time": "2026-10-03T02:13:58Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaFVmemVUU2lMbHoxVS1yNHJGWXFQUExrSWUtb1lxNHUyYkJCWGRSaEdnelZSSGRWdi04TUt0RnQxVEktVEpaUGx3TnBpdGFqeEJTNGlxdm9uV0Z0MnNqZUxNRUR0eWpSMGJpb0t0dlFBOWxyb212OWN5eU9rSnRyUlctYlJERFRDdEdxMXdLLXJNRlZIMXFvbDNvQkwzcGZtdzJtaml2RTkxR0JTemfSAbMBQVVfeXFMUHhtOV9YSWhnZ1dYZmlJTU1qMDRhNXpVQmMxbnM5TTBVU1ZhZWhrdUQySHgyOHE5Qnh1UEllVWNDRzNjbEREbnV5LXFMRllyc1hOb19FYnNpZWZDN0F5NWNJUGZwQWcyM3VyYnllQzhYMGhia0hnQS1SVDQ2Z0VvR0o1SXZoTTdnaHl2RFVYWlB4VnV6blJ6bEJOeDNLOXlXc1NNOGRtNi1rV0drWGFxZUdTQ1k?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "AI agents in a $10 trillion turf war",
-   "source": "Fox Business",
-   "time": "2026-10-03T01:33:41Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FSHlHR0VJbkZnRG45TkZaeHNXYnR1WGgwakZ1b1ZOOHkxTTNFWWIyYmhXY09XYWRHNV9SR05jU3ozOXl5bk02U2RxS2N1dWtMZ1JYcEJCM0d2N28?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Treasury Yields Rebound",
-   "source": "FXEmpire",
-   "time": "2026-10-03T01:02:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSWZHMWEtY3pXQng2dkxPRzB1X2ZzYVdSS2hES3g1NXc2ZnoyNmNJN0dSTUtlTU51UmFaeE1JRy15U1FMQnJhUlFWbW9lV3Fmc2w1aTVjODJmQ1dycHFQT1pyQXg1UTNDVkY0S0F6bzdnLWVHWUh5TnlxZXR2UllMWGNlX0lzbExQbjJmckM4NjVoeFBISnFiSGtQRkZmcmNLVC1sMWNKUzlUaVEzWjlLVjBuYVhrYlZCdGtkMWc4S0VJeTl3M25NbQ?oc=5",
-   "tags": [
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "North Korea Fires Ballistic Missile Toward East Coast, JCS Says",
-   "source": "Bloomberg.com",
-   "time": "2026-10-03T00:52:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZF9yVzhyeDY5SWRRY2pmZkhZNTdtc0d6YTdVMldmYl9PQ051QnV0Q0Q5WHZXendoSHhUV2J1dzZfLWZvVEF3MTZxNWt4TmRkdWdvUjNXa0d6WWRRY201NkRlY2h3MVp1ZVZUcS1VVm9HS1BzVEdrZS04b2RYclRUWjl2OG9lQ1ZKZmpRZExucHRWOENZeFRKempRUU9JNDFKNUJRckxYMGtxOU02UG9SWFBCSQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "War review – Sienna Miller and Dominic West’s hellish divorce drama is massive, massive fun",
-   "source": "The Guardian",
-   "time": "2026-10-03T00:39:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOelNYWVc2dEdpY29lUVVDQ1pVTWhBQ3dmbDJjQml6anlzZGNMUG5OTG9oMnd2RU9IYkx5RXpuQ2xuLTJQRUpNVmVHT2J5ZFBLYjlmd01KcnJtM1Q2bnZSN2ttSFZGdmZwUk02MjhFbnN1YUw4YWNPN3VxNE9KS252UE4zUUVzRnFkN3E3c0FvNk8wTmtMaGhhcWM3eVdoR2QtZ2pn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US Sanctions A7, a Russia Firm That Helps Sidestep Economic Restrictions",
-   "source": "The New York Times",
-   "time": "2026-10-03T00:34:00Z",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14S0RDUE9kTFRlNzcyMzVmSDQya1pjV0FUZE53NFd1eVB0QWdXY1M1blE4M1RTbWhnRlZXWDJwR09ySnZISmRNWS11TXQ4OFpweG1oWDg4XzloWmRJMFJWNXVoeUN4TlkzU1B6X3czYWxFajl0bWFTdjlFaw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "3 U.S. Solar And Storage Stocks With Tariff Resilient Supply Chains",
-   "source": "Yahoo Finance",
-   "time": "2026-10-03T00:14:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXRxWkFHREFJeVkzTXgydmZDYXczYkVPY2NURWZyQTZvTTRXQVBGdWowNFhLV3QxUXZyLWxkckRBbFhqZkNTc2F2WFFOUGh6V2ZTZEJSMk00WnNBaWNmM2VkYzV4YjNQS1dVay1yUWRvamVvMTg1elUtWExiUW9VcnY2WkpQQkxl?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Ukrainians mourn fallen soldiers as war rages on",
-   "source": "NBC News",
-   "time": "2026-10-03T00:03:57Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLVhQSHlpalBKTzlGc2ZZNENEejFqMzN1cFpJVE83eEJONDJxVEFaSWZvYW1Cb2VBU3duRlhYRUhyVnNYeVdYdFdZNnNXM2ZMaURMZFZOX3EtZEhJV0tEa2k5bHg3V3laM3FsZTJranpaazNvUUhnczJRTDZXSUpSc09HeVR4NUJ6QkR0bU1WeF9zMU4yT2tGODI5S2tTSmc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Latvians vote in election in shadow of drone incursions and war in Ukraine",
-   "source": "Reuters",
-   "time": "2026-10-03T00:02:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTVRzMW1UWVVwbWZVZy01eERac2RLY3VUdF80TGFDWFlKQjMxY1M4bXFzZEJ5TXA4d09aZU9uSWhPZ3FCVXVBNEVRNkwzaUItQm9hMnhFWnVPV0RFeDRaeE9KOGpQMU10NTd2VmtGT09FTS05cGQxWmZKalFKV082NWcycTg3VjZoTDJ0MUZOOU9mRldfM3lQVDhDYll4OVZPZnc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Price Canada Today | Live Gold Price in CAD",
-   "source": "Kitco",
-   "time": "2026-10-03T00:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "The Stocktwits Weekly Spread: What Shaped Yields And The Dollar This Week",
-   "source": "TradingView",
-   "time": "2026-10-03T00:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTGFycEVtb2FuMTNONVROeWU0c0ZLWEdFa2htSDVWU1lJN3F5cE9MS09aVjBkcUtGVUVnUC1CSnppZTVteG5ocDhuRV90c3E4dWFfYnR2ZnhoTjRUaFA5ckdITmFxNFd6ZlN1MG5iQ2FxSEZXREhRWkktc0tZbF9ncmlkRFRvUUZDMDhjeUVZX0lPdGlCUGpTbGhrMUxERHJfeU9xYW13SWhTY3NOLUtZZTV5TVhyR0JZTlh1YWpHdU1sVFVvZm8tSHcwYnFJQQ?oc=5",
-   "tags": [
-    "USD"
-   ]
-  },
-  {
-   "title": "Gold set for fifth negative week in six amid surging dollar, Treasury bond rout",
-   "source": "Investing.com",
-   "time": "2026-10-02T23:51:42Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkY5eF92bW5DcVVqQ1luQXpSZFBJdXoxZlJ5bmVfcW8zSlFnRy1zN2pDU1R2clBEc3JuSnNLeGM1WjNRZmk5Q3M5UGpBQUc2VlA4LWZtWmZXUHEtbXNOamlyRUpsbGF5MlNUU3ZhNm5nMEFuMkJvTk96RkZqdzhiT0FHQ2JKSDYydGM0RkhsaUxmOFZvQnNuck52R0JVS1Q1WlBXZTctTG9RTjFSY0V4TEV0a21IR29neGt0SlhiMXUzVTJvNTRkbg?oc=5",
-   "tags": [
-    "USD",
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "With more deaths than births in Ukraine, having babies becomes an act of national pride",
-   "source": "NBC News",
-   "time": "2026-10-02T23:48:15Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaHNlMnVSVHAzckE4UnBXbHg2YldRMnZWelk5Y0xCb2k4RDR0T0xlT1B4QnRLd3ZnRWFfeEtId1RvUmp0Tjg4Zkp2MkpFMVlmUnZvbFY2LTlVRXBBS2hsSEo4dXQ0VFR5TlNnN3ZYdC1wRWpuSGEweW1rOW5HT19GZkg2bzZUVjJ2VHVnMmhtR1ZNTXZ0V19EcWVvQVpzVVU1cGNVWk1PeXdtQWJYSGh3blJMMTBPUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine war briefing: Zelenskyy says new ballistic missile used in combat",
-   "source": "The Guardian",
-   "time": "2026-10-02T23:42:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU2xnMjdWajl6OGE0ZmZZMWN4d1ZPc3lBQ3JfYjF1bFozMXg4NU5nSXhOZEkwV2FmRzlsU1hkUDRHbndyRWhqdDVxZHJ4Xzk4c1V6ZG0wdXhvemRfWFpUMlMwTHppQ3JZdTVfQURVSktoSG1reVQycWw0MFRqTklFR0s3YnRmcXFLek1HcE9OaWJZS09hTEVwTUdtc0ZnMkpBS3NLV2lLcTlsTnpzV0tlT0FncXB6RXIwbVE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed's Hammack tells PBS there's still time to weigh next monetary policy move",
-   "source": "Reuters",
-   "time": "2026-10-02T23:22:44Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHpvekZZa2RvTHNpUjIyaElsMjFYdjZxRll0SUxoNmhGRVFsUjBieTZDSGI5TzB2bVhGMmJ5djUxMHVzUmJyc0I0Nm1IR0Vxa3lFRUZtdk5UZGVzOVhaQmlFNVk1OFpzbklLTERJT2t4czdTZEtqNGZWeHlfUW1sZXFFQTJjRzlaUFRTRjBDRGxfMFlQbHdSUklZM2hOS196WWFZMGVlNHl2WWZ0ZU42TlVid29GZ3BE?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "U.S. Pressure Campaign Leaves Iranian Tankers Stranded in Asian Waters",
-   "source": "WSJ",
-   "time": "2026-10-02T23:01:43Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcTYtME5MY1VOMUROV2FaaG9ySXVlQ3NoZE80a0o2VXVNVGtYaWFJbGFTY1d1Qi1tVHlQaGJLQXBkMFRIano1SjE1TWh6d2lRUHNyRUo5QWpUQWdzYW1EOTA3UVVnakZRWUdXWXpPOGtnZjNncTFxQTJiamNmZm93SUpIbTBTT2pZT3doRk0tLV85WkR4SGRkZmdWaE5sUVJIc1dmZl90Y09TS3ZpUUE?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "McFarlane Files Updated Mineral Resource Estimate on Juby Gold Project",
-   "source": "The Manila Times",
-   "time": "2026-10-02T22:50:56Z",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMkF1R0ctUGt0YzhmTUNlckRTUFk0ZUZsM3J5anBlal9rdVJ5OWsxeUNxV1I3SHdVa0NoTVRFZThOV1NSQ1hOQ3N5Z00yMDFvZ3ktTjY0SjVZOVdqVHhJM3l6ejYxWmsxYkgtUUk4bUlIVEhuYWdRSVJPTzdmVHZkSm5OWWFBRzM4YkxJZ1NQNXZ5ZXZuVHZHc1J6NjNPQnB3T0luMHhWZTNyWXVqVEMwajBaZG1EVUZwY0NKQVVoME96TFd5bGROMzhHMFlTYXVNeGhRZmkxT2M1dl9kTFVpb1FR0gHiAUFVX3lxTE4yQXVHRy1Qa3RjOGZNQ2VyRFNQWTRlRmwzcnlqcGVqX2t1Unk5azF5Q3FXUjdId1VrQ2hNVEVlOE5XU1JDWE5Dc3lnTTIwMW9neS1ONjRKNVk5V2pUeEkzeXp6NjFaazFiSC1RSThtSUhUSG5hZ1FJUk9PN2ZUdmRKbk5ZYUFHMzhiTElnU1A1dnlldm5UdkdzUno2M09CcHdPSW4weFZlM3JZdWpUQzBqMFpkbURVRnBjQ0pBVWgwT3pMV3lsZE4zOEcwWVNhdU14aFFmaTFPYzV2X2RMVWlvUVE?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "DoJ declines to reopen investigation into former Fed chair Jay Powell",
-   "source": "The Guardian",
-   "time": "2026-10-02T22:32:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTi1RdzYwV2tlQ3JXMW0zNVVVWWhIcEw2WkVFSWxKR0pQRjgwcjNqYkozUWItSkgwaDVLU3VXMzIwOUVLWGhSU05DVTFaelRZUU9lNEExekJ6MGpCWHRoRFR5U0wtXy00X1FIV25aakpyRHFEYkp4Tkh2NzIydVRfcE0ySHZJM2VRelg0djhDLUhjWHJ3?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "US sanctions three individuals and two charities over alleged Hamas financing",
-   "source": "The Guardian",
-   "time": "2026-10-02T22:25:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbk5IUnNOS1FxWUhkZFZMWWFqOE8yd1RHY1Q1QkswWVZBVC1KZV85MVR3WjhUM3dXdDc0MjVHVXJYbWZtTXZmS0hhRWZRVUphc2xQZHQ2czI0Yi15b2kzUjd4d0ZTV1htN2dLemc4eXpLLVI1cWJpXzRaZ2hFNktRb2E5QjhMdDF0MEh1ag?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   }
  ],
