@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-04T20:22:48Z",
+ "generatedAt": "2026-10-04T23:31:39Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
    "http": 200,
    "items": 20,
-   "kept": 1
+   "kept": 0
   },
   "fed_monetary": {
    "http": 200,
@@ -31,7 +31,7 @@
   "fxstreet": {
    "http": 200,
    "items": 30,
-   "kept": 0
+   "kept": 2
   },
   "forexlive": {
    "http": 200,
@@ -56,7 +56,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -65,13 +65,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 21,
+   "items": 22,
    "kept": 2
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -80,8 +80,8 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 4,
+   "kept": 4
   },
   "gn_fed": {
    "http": 200,
@@ -95,7 +95,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 33,
+   "items": 24,
    "kept": 12
   },
   "gn_sanctions": {
@@ -110,13 +110,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 7,
+   "kept": 7
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -125,30 +125,227 @@
  },
  "items": [
   {
-   "title": "Why It’s Taking Nine Months to Get Back $164,000 in Tariff Refunds",
-   "source": "WSJ",
-   "time": "2026-10-04T19:52:30Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQkJ2YktFNXBZSmJucURhWDhKNnIxWDZ5NjdmR1pCNnpselRTdmxuVkpnTDJNT0laZHdmTzdaMHczNS1ISmRURWhfeVcydjZYTGEwX09QTEhEUEtmMnZidTI5VEhnaWVQRGdOc0JjRXRLWGZXMDQ5VlBOQVpsU0JEemhsNks1Rng3V1owVEJwVGYyNGwzTE8tYlhpRkxlMktHVUY1Q0FHR3c3VnBUWXkzMHNR?oc=5",
+   "title": "Australian Dollar drifts higher above 0.6950 on soft US jobs data",
+   "source": "FXStreet",
+   "time": "2026-10-04T23:21:46Z",
+   "link": "https://www.fxstreet.com/news/australian-dollar-drifts-higher-above-06950-on-soft-us-jobs-data-202610042321",
    "tags": [
-    "TARIFF"
+    "USD"
+   ]
+  },
+  {
+   "title": "Australia's Chalmers calls Iran war an economic disaster, says rising yields will cost billions",
+   "source": "ForexLive",
+   "time": "2026-10-04T22:57:20Z",
+   "link": "https://investinglive.com/news/australia-s-chalmers-calls-iran-war-an-economic-disaster-says-rising-yields-will-cost-billions/",
+   "tags": [
+    "YIELDS",
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.K. is said to plan tariffs on Chinese EVs under pressure from EU (BYDDF:OTCMKTS)",
+   "source": "Seeking Alpha",
+   "time": "2026-10-04T22:51:09Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPekQyQllHR3cwT1l0ZkVtOWlCQ1c4TTZadWU4UXBNV0x6TE5OWlhKb1ZLcFBzMjV6aWRzTG9oZnJHQ2RlNl9KTHE0NmN0VHZEaE94Smt0ZFN4czVPOG1lSGM2QmU5Zmc5d3MtYWFMUFhnZGdWTFYxVG9FSDQwY043NW1waVlPM2VUc3N4QmNMWmpJOGgxOF9OeEtlOGRRM2JVcjBDOA?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Britain set to levy tariffs on Chinese electric cars, The Times reports",
+   "source": "Reuters",
+   "time": "2026-10-04T22:48:16Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQkwwbW1fWnVDRlYyX25hWFk5MDlZYWpMd2ltMXlKOHRrWUNJUC1sSWhjRUlGc2FnTEM3eWJsWENqSEt3UEZEclNOOFEyS2d6ZkYyNDdOMWw4YkFnUEh0STBJUDV5XzQ2dXdRQXJST05ybEMzUUhlM2dMNDRqSmI4T0dLOVV6RC11N0hUVHdxakRDclJIYVM2T0dmQk5wWW44Y2NYcHp0RWFDdVNkZ0hlR3BR?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
+   "source": "CNBC",
+   "time": "2026-10-04T22:47:20Z",
+   "link": "https://www.cnbc.com/2026/10/04/yemen-launches-offensive-to-seize-all-areas-from-iran-backed-houthis.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Middle East War updates: Iran says Strait of Hormuz main focus of talks to end war with US",
+   "source": "FXStreet",
+   "time": "2026-10-04T22:38:47Z",
+   "link": "https://www.fxstreet.com/news/middle-east-war-updates-iran-says-strait-of-hormuz-main-focus-of-talks-to-end-war-with-us-202610042238",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
    "title": "Inside the tiny southern town at the heart of America’s missile shortage",
    "source": "CNN",
-   "time": "2026-10-04T19:47:48Z",
+   "time": "2026-10-04T22:30:35Z",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT0FoTEh3TE42MzFKVXgxMlJuYzZKVHc5WHRTM2VqX3Q2clhzb25YRmFhYklERXZJTHJpblRwVDVWWGFXYnh4QjUwdEoyZi11emF2UmdZaGZmTVpYejNLdXk1M1RsMDVzbHNxelp3T3BTUTE4SV85a3B2amI4MzlKLUEySmNyVjZoMmwyWjVB?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
-   "source": "Reuters",
-   "time": "2026-10-04T19:46:37Z",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHV2QlVZQUd1RW4zNFRzUzQ3ZlZlcHJHWHlRbm8yRjlBWGlkQ3BSek9GS0ZwOVJ0SnMtMDV5N3FsZjVsRm9EaUgwcGVhNVdaS1RCTDRqVjh5blN0NXhGenAxVlY3ZUhKQUpNN0J2ajJ2S0tlRXZyMmRaNG9VWTlXY3VpUlRWMVhKSjV3QTJXZW42OHZhaldrdzJxR2I1aDZrRDRMVHlYa2tOVW5GR2J4VWM2RjVPcjdqNUwzMUdsSVhPbDhqd0ttdmN4TUlTQWM?oc=5",
+   "title": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
+   "source": "Al Jazeera",
+   "time": "2026-10-04T22:23:30Z",
+   "link": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Large oil exporters agree to continue consistent production in November",
+   "source": "The Hill",
+   "time": "2026-10-04T22:17:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHVXWW9oNEtGdnBXLXlDaWNaY0NvSTZraWpQdzQ4RG5JNmV0ZVRQZEhKaHZrOGRNWTM2djJpck1LODg1SWNuYi1ZT2J1ZnI1T2VVTmFlMlM4TFQzLTRuY3pYYkZBWFdKckFsemhGVjl3eUtZRjIyMFVBOEgtVTUydEJ2ODRuMXctTklXcU9kNW5SYkNGUEHSAZsBQVVfeXFMTVlTVVFtRS02OHRhT1ZJb0tVZ2cza3NnWG1YSXFlNEVHcGp4bWt2N0NIeVEwNDg2MDJHMFlxUkRJbkxObjFZRHp0SGhPemdtblRPZE9PdzZLd2RYUkJQWjdQTTJjREk3c01uTjJZN0tzZGFUVFM2Q245eDF0a1FtaGdNdVh6Y0o4OGhTWnZPSjh6MGRtRnBYcGsyZlU?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Stock futures are flat as investors grapple with higher yields, await Fed minutes: Live updates",
+   "source": "CNBC",
+   "time": "2026-10-04T22:04:05Z",
+   "link": "https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html",
+   "tags": [
+    "FED",
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East",
+   "source": "CNBC",
+   "time": "2026-10-04T21:46:15Z",
+   "link": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ireland refuse handshake with Israel and don armbands in Nations League tie",
+   "source": "Al Jazeera",
+   "time": "2026-10-04T21:30:22Z",
+   "link": "https://www.aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "UK Expected to Follow EU With Tariffs on Chinese EVs, Times Says",
+   "source": "Bloomberg.com",
+   "time": "2026-10-04T21:22:51Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVRFZ2liSUUtX0ctTU1RbzA3V0ZKRU0wZ1lUUXh5bmp5ODljRVJwb2NmUHdHd2lyZEtIQVZFclVHWm9URzg5WGJzd3B5eEVkSi11WlFBQk1mYWVCVl9KTmdiSjI2UHBXOXgwSEdTS3ZLVzlscVJ5TzU3dlpLY2U3VE9vbXRzMmRwRmNYb2JsYmR0Y2hEMGhNcEtVQkFwTDBWWmZWcnJYdzJwZ0tqWmNyRWk3Zk4?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Biljana Plavsic, a Former Bosnian Serb Political Leader, Has Died",
+   "source": "The New York Times",
+   "time": "2026-10-04T21:12:26Z",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PQzNUUHcwU0p6b09veXMwclNBOVdLclhlTmFNbVdFVUQxSF9MTWdXbHpuajFKSW9obmpyTjVucTRyalFKbG9SR0ZLTnFzSUJMN2hpQThOdTFqaFNvN1pjU1FueHk0LTI5LUdYTFdPb2VLU0RQTXJLUHExRGk4UQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
+   "source": "The New York Times",
+   "time": "2026-10-04T21:11:09Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdC1jenhXS0RLMXFaaTNaUTVsTVJrcDNLdDZKLVR6SWVYOEdRNWdqRjktRktWSEFRTG1DbEhYd3ZvSGpGd1ZtTEVNNDdMd09SQ3pXdHJMMXlodWVQRjlySVBpNXVlTlRZUDVDdlpjTk12TEw4WVhUaU9rODlnV3RRVUR1OE1UVlJVUjlKa0NNV2MzN2dQUldvUzFn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Asian gold producers begin hoarding domestic supplies after price rises",
+   "source": "Nikkei Asia",
+   "time": "2026-10-04T21:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTHBmMllHeU8zYndmR0oxWWNmaTZNY3BQLW81T3pDaDJFSmxPTVA1VzRmTExIREpHVUU5N3dlandKSV9wWHBPLVN1WUl3d2U0R2h4aXRsNkpSR01BSXRJSVA4SEZrbkxTU3liUVpfaXdzTVFMYzRhbDlObkdqYnV0Rnk1MFFPLTZsOTQyYnlnMHJWcVZ6MzM3eFRoU1hWR3NFVm5fUVpBMXd6djB1S0tSUG9PRFUwMG80Y0tmWnJuVVN3dHc?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "The Return of Middle East Oil",
+   "source": "The New York Times",
+   "time": "2026-10-04T20:58:41Z",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVlJpQVo4NDBnSmxTeEwwRlpOY1hDQk5CVTZmanp1bTNSbnFDNG1NOWtrUjhkd2hidXpIOXcybU8tTlVYUWxZRWRhVFJEczVibnJ4ektEZFhCSF9kdllSQ1kyeExBWG9VSmRocWN1dlN2a2JSZk8xWm5ZVktVcDZoNldn?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Democratic rep says administration ‘has failed to present a strategy’ in Iran war",
+   "source": "The Hill",
+   "time": "2026-10-04T20:53:23Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaXJFVTFvYzZoOTFBRGR5VzVWWFp3eVhVT2prdl9DZWtpSUhVWlBwR1EydGRjRUNtWEt4a20tRnEtLTQ1Nnk4dkJ0akRialhFMWgyYm9SbVdTem9aSU1ST0U0eEJxLVpkTEFGNTc4aWltSHVpZjRwSEVZb2xtRzV3ZW9peTJwVWdZWDNyOUtpeExwQdIBkgFBVV95cUxNaXJFVTFvYzZoOTFBRGR5VzVWWFp3eVhVT2prdl9DZWtpSUhVWlBwR1EydGRjRUNtWEt4a20tRnEtLTQ1Nnk4dkJ0akRialhFMWgyYm9SbVdTem9aSU1ST0U0eEJxLVpkTEFGNTc4aWltSHVpZjRwSEVZb2xtRzV3ZW9peTJwVWdZWDNyOUtpeExwQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "After three years of war, Israeli kids bear the brunt of still-rising mental toll",
+   "source": "The Times of Israel",
+   "time": "2026-10-04T20:53:20Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkxxekNmVkdTbE5nd1d6dHBJY1lodjM0d1F3c2tEQTEyQUFxeUF4enRHQjNOUkRqRGE1UmhWdGQ3U0dTWnFzdkhBeThBSFlWRko0S3J5TnZGeFdFQ1ViTmxvV2ZzU2hjeXFvenVZV1JyWnBnVVFXV0lZZW90YU1HaGM3V1hubUloRmhSYjlmbHRhNWVWSE1tUWV5OFhCRGJrZTBsWjdxdGQ3OHFoZFd30gG0AUFVX3lxTE1rS3JVSmRlbWlITWgtbUxReGJKbFMzRnB4T2VMdFI2UkpMWjM1RGltYzVnVG5vcVFYUTM1b1pJcWU5ZGxoNGpjWmlJU1ZlemVTcWxkZGVjeW1hX0lEYmhNWU01WWl2b0VDR0F2eXNPUHhaTjFkQ1B3dHNwSU1KbjhqdnJFdmdiOVpaeThkb2VNcEg1V3lZOEhSdkVaa3VMVXhyTjBTWUpRR0NpNVNuYk9nMGRFYQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Bank Stocks Are Beaten Down. The Case for Buying Now.",
+   "source": "Barron's",
+   "time": "2026-10-04T20:48:09Z",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHMW5vdzMyczFiQjhTbjN6c2JLUFFYNmxYZlJ2UE12c3lEQWZpV09yNnlaMEU4YUhla1FKNjgxcHFDTlk5Z1RfWkY4R1FVWkNVLTZZQnVlcHdmNWhHclI3MnBweXYtYVVGdXBQZGUzNjZNdl92TmdCbA?oc=5",
+   "tags": [
+    "CENTRAL_BANK_GOLD"
+   ]
+  },
+  {
+   "title": "Rising Deficits and War Unravel Trump’s Strategy to Lower Interest Rates and Inflation",
+   "source": "WSJ",
+   "time": "2026-10-04T20:41:07Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONE1iLUVINXdKZlRwLWlwX3JNY2dEcWhGRGF2SFhacnZjMG9OOTZLamp6c3JtQjhCTGFRck9DSWhBV0RjelpraWJGMjhFbk5UMlRpaEtoVDV4Z2htNElHSGw4aUxEZnliMUQ5SlctNDU0bHFNQkJ6MTlMeDVVQ1F0YVpOVjdWUzhGTG83ZzNmWTVRdDRuTEVLSHhnY2wzMGFfOTdlT3lPVE9UWktqV29IeVR2TWxmb0s5a2JOb1JGVzg?oc=5",
+   "tags": [
+    "RATES",
+    "INFLATION",
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’",
+   "source": "Al Jazeera",
+   "time": "2026-10-04T20:38:56Z",
+   "link": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "OPEC, Allies Hold Oil Output Steady Amid Middle East Tensions",
+   "source": "WSJ",
+   "time": "2026-10-04T20:19:56Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmFlX3pxTllubHhKWkgycEVOdlZ3c2F3TzA5OUU4RmFmWmQ2dWlaY3B1TlFfek85dHhZakt3aFJHZjlEUEJ2Zk9MVldfeTdUVkxoUzN1MU9wUWlUdGhFd3M4T3dNamMxbGprT1A3R3g4UGI0Q2RyU3hrczI0WExYWlpNa3N4RjlNRzFGN0U5d1NPN3p4VlN2R2MzRkc4WXlyV3Z4Z21ZZHVtY3FzYmc?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Why It’s Taking Nine Months to Get Back $164,000 in Tariff Refunds",
+   "source": "WSJ",
+   "time": "2026-10-04T19:52:30Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQkJ2YktFNXBZSmJucURhWDhKNnIxWDZ5NjdmR1pCNnpselRTdmxuVkpnTDJNT0laZHdmTzdaMHczNS1ISmRURWhfeVcydjZYTGEwX09QTEhEUEtmMnZidTI5VEhnaWVQRGdOc0JjRXRLWGZXMDQ5VlBOQVpsU0JEemhsNks1Rng3V1owVEJwVGYyNGwzTE8tYlhpRkxlMktHVUY1Q0FHR3c3VnBUWXkzMHNR?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -177,30 +374,12 @@
    "tags": []
   },
   {
-   "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
-   "source": "The New York Times",
-   "time": "2026-10-04T19:14:05Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdC1jenhXS0RLMXFaaTNaUTVsTVJrcDNLdDZKLVR6SWVYOEdRNWdqRjktRktWSEFRTG1DbEhYd3ZvSGpGd1ZtTEVNNDdMd09SQ3pXdHJMMXlodWVQRjlySVBpNXVlTlRZUDVDdlpjTk12TEw4WVhUaU9rODlnV3RRVUR1OE1UVlJVUjlKa0NNV2MzN2dQUldvUzFn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Is Kratos (KTOS) Turning GEK800 Missile Engine Progress Into a Durable Defense Portfolio Advantage?",
    "source": "Yahoo Finance",
    "time": "2026-10-04T19:09:09Z",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVmNyVDRFZjdVNHAyZ0ZoTDNmYXJVNEFZR2ZWS1FZQjRjazBHYkQ2cHBKUW9VczdVcHBWV29qaHJqVmZYYXp5Z09rWFVmUTNrY2xTdzBuZVBqTzRrSW5RM0lIUUZuWXNkM3BqYzQxT2ZDcmlXMmpJVEpoUVdlMzd2dVJuUDhMZXkxVHlRXzhVVVVGOGdWcTNjOGFMRmNMRWxV?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "OPEC, Allies Hold Oil Output Steady Amid Middle East Tensions",
-   "source": "WSJ",
-   "time": "2026-10-04T18:56:15Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmFlX3pxTllubHhKWkgycEVOdlZ3c2F3TzA5OUU4RmFmWmQ2dWlaY3B1TlFfek85dHhZakt3aFJHZjlEUEJ2Zk9MVldfeTdUVkxoUzN1MU9wUWlUdGhFd3M4T3dNamMxbGprT1A3R3g4UGI0Q2RyU3hrczI0WExYWlpNa3N4RjlNRzFGN0U5d1NPN3p4VlN2R2MzRkc4WXlyV3Z4Z21ZZHVtY3FzYmc?oc=5",
-   "tags": [
-    "OIL"
    ]
   },
   {
@@ -227,12 +406,22 @@
    "time": "2026-10-04T18:47:12Z",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjTkdNTTJ1N3hoU1ZWVWJaZUdsZk5oMjZhOXBOSC1aSDFvOWRjVU1ET3hncElzUlpRQTJWbXY1bVQ5cTVCWDgyRVZ6a2tpeWFvZFRiNmN6Q1NqSDMzeHU1Yk5UeHJYVUJSU1R1Q0ZRM0MxNjlZRmNON3RjbnV5Tzg?oc=5",
    "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Iran tells US there is no military solution to Middle East war",
+   "source": "The Times of Israel",
+   "time": "2026-10-04T18:42:53Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdW9vQVV5V0NwNFE0bU5IMjBkM2NsR0lIYUItZ0twRndrOW9xak82X0xtOTNjUzhrRnVRRHdRYW0talFNQ0l6OWE4ZnpPTnItTVJnMURPOTRCemw2WDJ5NE13dVAtekR2amFWMGptYzgzV05uVTdMejZnV0o2SWJFVkRBc1VyeGdGVFZoMUd2NGVUaWVCVTIyN0dKSzd5LVJpS3drYVRUWk1lcTZk?oc=5",
+   "tags": [
     "GEOPOLITICS"
    ]
   },
   {
    "title": "Major oil exporters agree to keep production steady in November",
-   "source": "BNN Bloomberg",
+   "source": "bnnbloomberg.ca",
    "time": "2026-10-04T18:25:16Z",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFIyQUl6ckU5bmV2TDV4V09FN3hNRlVTaDhZcXFPdDBRYndtMzRubklkdU5FSkZNZFFmMmlEZmdKQzVuM0hfYTVEejhldUQ2QVdsR0RaWjNiQTI1Vlhna094dGJLcV9leVM2a0tnenkyTmF1TnFDb3ZtWHhZaEZIRGlZekhKbGhmaTBJOHZYM2JCX2FFUWhfX3NzQ2p6bVdMcmg4cHc0eGRqRjJpSG03aVdB?oc=5",
    "tags": [
@@ -287,21 +476,21 @@
    ]
   },
   {
-   "title": "Biljana Plavsic, a Former Bosnian Serb Political Leader, Has Died",
-   "source": "The New York Times",
-   "time": "2026-10-04T17:25:24Z",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PQzNUUHcwU0p6b09veXMwclNBOVdLclhlTmFNbVdFVUQxSF9MTWdXbHpuajFKSW9obmpyTjVucTRyalFKbG9SR0ZLTnFzSUJMN2hpQThOdTFqaFNvN1pjU1FueHk0LTI5LUdYTFdPb2VLU0RQTXJLUHExRGk4UQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
    "source": "Al Jazeera",
    "time": "2026-10-04T17:21:47Z",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ0R6ZzB4N1VaZ3Mya2lwcmZramlKaWxfLUMtZjNfYUtjN3NyVEZWR1dKM0llTnFFeWV4TmFMTlFTVzFXRUk5RU9QTmFmZk0yUnhfQm1TNFhHc2VGbXRBbzlZMl9GYnNUVENsSlRhMV9JUko4M2IyYXVvVEVPb3pSX1JRT2NEeXFaaHZSb2FRM3ZIMFlWRThPc05OODfSAaIBQVVfeXFMT0lWUXEzRmh4ZTZvOEg3eDB4QVVBMTNSUHlPbE40a1FMTlpsZ19DRC1VaTFSdTNseHIzT0VFSGZBNmZCTV9MSDJLYjNtNEs0NTN4R0RRem5lTTNTUEZBTEs2MmZmb1lQNVVCX2ctY05yd1ZJQjduaS1GM1h4V3NNSTY0dWZ0UjJ0RzBoR3o2NWdaODNuMWNYZFRoZlE4Qmo2RUp3?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump tariffs a mixed bag for US auto industry",
+   "source": "The Manila Times",
+   "time": "2026-10-04T17:06:57Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVdKZFJleVBiOVYyWXJDSzRrZGt3Nmc5VGJNU3R3N3U2NV9qak5BeXVFa1Z3VExxc3lwS08xcWZweFU3ZHVDblJfZXFRSllWMV9Sc1Q2NWtxZHNDaVE2MlNPQTYxMXhQc3hnRXdzVkpxcUhDNjdhLVRSM1lWbi1BMGl3RmxGLVFKd2REUC1IblNwSEszMFhPWlNrdjJIbTJXV1lLLUdRQmNBQTgxLWprbEJ5MXFzMHN3RFFGaHRuR3LSAcABQVVfeXFMUFlXSmRSZXlQYjlWMllyQ0s0a2RrdzZnOVRiTVN0dzd1NjVfampOQXl1RWtWd1RMcXN5cEtPMXFmcHhVN2R1Q25SX2VxUUpZVjFfUnNUNjVrcWRzQ2lRNjJTT0E2MTF4UHN4Z0V3c1ZKcXFIQzY3YS1UUjNZVm4tQTBpd0ZsRi1RSndkRFAtSG5TcEhLMzBYT1pTa3YySG0yV1dZSy1HUUJjQUE4MS1qa2xCeTFxczBzd0RRRmh0bkdy?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -350,15 +539,6 @@
    ]
   },
   {
-   "title": "Three years of genocide in Gaza through one man’s camera",
-   "source": "Al Jazeera",
-   "time": "2026-10-04T16:18:01Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Russia strikes Kyiv as Germany’s Merz arrives to show support for Ukraine",
    "source": "Financial Times",
    "time": "2026-10-04T16:02:04Z",
@@ -395,18 +575,9 @@
    ]
   },
   {
-   "title": "‘Did he know?’: Why Israel is rejecting an October 7 reckoning",
-   "source": "Al Jazeera",
-   "time": "2026-10-04T15:22:25Z",
-   "link": "https://www.aljazeera.com/opinions/2026/10/4/did-he-know-why-israel-is-rejecting-an-october-7-reckoning?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "‘Hits and Misses’ incl. the Federal Reserve renovation, Gavin Newsom and the heroes of FlyDubai Flight 1073",
    "source": "WSJ",
-   "time": "2026-10-04T15:06:03Z",
+   "time": "2026-10-04T15:06:04Z",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcUs5Z1dabWZ3d0dzcUFlMm1KM19nYVczeWxJNVFhNE5WbTEyV3g4M1NESTVqaTgtLVc2d3RySVl0a0FqMXU3YnVoS2laV3YzVUJSMDUyMDNEOENldmh5VXJUZk5WV01YZHc3cEIyWGRzUkk2VzJxMDljSmJNQTlwb2c0OGlsYVRJZDFzejctSXMybi1nVm5YRngtTXlLcEw1ZFhsTmI2QWhjUk0wTlRrTm91czY5YnB3RmVmOEhZaDdIN21UWUJFakpRWGxmTEk?oc=5",
    "tags": [
     "FED"
@@ -489,7 +660,7 @@
   },
   {
    "title": "Let exchange rate act as shock absorber: IMF on Fed hike impact on India",
-   "source": "cnbctv18.com",
+   "source": "CNBC TV18",
    "time": "2026-10-04T13:22:54Z",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeXRNZ20xN1RsZXlqQ29rdUlQcHB2RUx3ZERLUWhnamZZTHdWY2FtU1RHWWR1eXBFclFBaTlEeVNvOWdvYmV4RGpzRmRrYmJzUlNkZGx5M00yUDh1eVlQWW9ESGdYOUdYNWdpazR2TFBKYjRYdzdkaHVIOE05MFJvalFLQzUzZjQxVmtpb2ZjbDNleFl4QXYybVd3VlBmN0VJX2NlQ3lVYXFRQ0lrZ0J0NFppajdiSE5hY3Q00gG7AUFVX3lxTE95dE1nbTE3VGxleWpDb2t1SVBwcHZFTHdkREtRaGdqZllMd1ZjYW1TVEdZZHV5cEVyUUFpOUR5U285Z29iZXhEanNGZGtiYnNSU2RkbHkzTTJQOHV5WVBZb0RIZ1g5R1g1Z2lrNHZMUEpiNFh3N2RodUg4TTkwUm9qUUtDNTNmNDFWa2lvZmNsM2V4WXhBdjJtV3dWUGY3RUlfY2VDeVVhcVFDSWtnQnQ0WmlqN2JITmFjdDQ?oc=5",
    "tags": [
@@ -503,171 +674,6 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMWo0RnhicV9MMWgzZkJjdXVHcUFRYU5aVUl2c3hiY1dsYkpuXzNiNXlsLXBRS0hEd19PY05PQnd3bVJSOXdqTzh5ZktneER0WS1FSGdHWXduTFdJZXlDeW9VM0hOcXVNb1VUc0ZpaVJ6Qzlha3RFdVRRdjdKSkJ6WXlfWEc5dDh5ekpOZTNoNWMtTl9LaWFVb2JGZXNkWldTU1VBYlFB?oc=5",
    "tags": [
     "OIL"
-   ]
-  },
-  {
-   "title": "Paramount’s $52B debt sale highlights rising cost of corporate borrowing",
-   "source": "TradingView",
-   "time": "2026-10-04T12:58:55Z",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDNBbDFKdU1CeFhXbFdheXpJQWFBMTlxN2NOeTNSdnJDdVV4TVk4VzBFVU9QRDhGVnk4dHVQaWIyYjBDVTFwSHRjUF9UR0ZKcDV0bXZhdmRfdGYxVlM4bExuWUpWQ3FrSlFwQWNDeFc1dWQtQnJfWXRkV3FTTS1GN1BsRno3ZXlIcUpFLTNrUnRYdWQ2YlZVWlAta2VaS25sdXpET2s2NEI1TlNVT215U1ZIOWlKeVlCXzBaZkRfd01FS2E0bXBMdHFlaUhjaDQ?oc=5",
-   "tags": []
-  },
-  {
-   "title": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz",
-   "source": "CNBC",
-   "time": "2026-10-04T12:35:35Z",
-   "link": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Yemen’s Houthi rebels say airstrike hit near major hospital in Sanaa causes damage",
-   "source": "AP News",
-   "time": "2026-10-04T12:19:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQkRsWWFhbFpzNS1NOHRZRmFDRWJSdHkxUXNUVkZkSnY5Z1VOMG1VWmtPUXFYU09SajdWYXpDVHZrOXM1dTFuSU94Sm1jdU5TWEJRZC1HOGtfRmdHT0V0N184N0RKZGt0b3RBc2pIMjc4cEZQSU1pWlBBUy1iQllMOVRWWVdjOHlKbDRBbHhpZkxoMy1TMkFNdFVsMk40Nld1SWxoZEVhQUVFRWxtOEswYnVrc0tCSkZXd1R6Mk4zWWN2YUVhZ0tVc2lZUU5CRlUzbUtWYkJR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "In Egypt’s Sinai, a Gazan refugee builds a school for children displaced by war",
-   "source": "The Times of Israel",
-   "time": "2026-10-04T12:07:49Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjY2d3hmYzhYR1RYWjVYRlVYT2gzbFZudFZ6aWluc3p0aDhQLVVQYjRmTklsekc2U1I2UzA0UGxfekdDelh1YWxIMG9ZMkU5MzBiRW5GT09rSTBURUdIRlQxLU1LOS0tcDRwTEVrc25WcEZqTUtITU5YNG9mRHgyWjFDS2FFOUJsdDA2M0tURkNybzVOek9aTjZ5OTVkNTJYOTB6V1V4V054SkJk0gGyAUFVX3lxTFBnWjFmUG1fekZ3VTc3dUhsa3owNElMeW5CNHVzcFlKZFZGS3RRTXhsTHJ3VXZpbVF3ck9HTXE5TmhWOG8xek1WVUQwWmxOdlE3X21CUUNrRjAzS0F4WmtIZGIydnVfa3JwajdoeThFanBBUmdqdm96eVZQekJ6U1BSWVFnYlFvYzdjb1llMTdDUUpJQlhHcjRBLWIzU2ZJTjJHOWR0THhzM3pKaGZRTkJMdkE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
-   "source": "MarketWatch",
-   "time": "2026-10-04T12:00:00Z",
-   "link": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "Opinion: Fed minutes coming this week could give markets important clues about future rate hikes",
-   "source": "MarketWatch",
-   "time": "2026-10-04T12:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV09PMVdnLUY2MmZwd2NJZW1rMjRqQ0JJOTUtQVdEVWxvT2VFYjBmV0RMbER5TFdNNE1HQ3NvMkxVZ0RSOXh3eEIyQVFuQ2RidENKcDBQQVM0UkFRaHlYcFB5S0ZWcW8wWHVuOEdRTEV2alNvYU5qcXRmcGxSX0tUWVJ0N3JjLVBTUHRfa2x1YWdPcFZ0WV9VM0NlM0Y2TW0yMkY5Tlk1WFVybml5MW4tUmhQRFlJUUpvNHdXZE1xWmVzVzdWNk1qSG93?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "Détente in the Dem civil war",
-   "source": "Politico",
-   "time": "2026-10-04T12:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVG1FUXM5eDh2eWR6ZlhOMzF2YWFxTHhIaUswVnpEZEpnOUx4b2xvUnZPMGN6dW9Cdm5MX1RqRFJkSUhLVzJYYldmOXdRam95T08wel9WbkVSOUpaQ0F5LVlHVDNLVVd5dmk0ZDJydjdHXzEtWTRMTDRSd05wM043OGRyZTFoUzhQMUVwSDFzcGduVF9oUzA4YU0xZlNKVDZTSDJZNGl1WVNSXzYxbVV5WktYNV9odWtIWUE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
-   "source": "Al Jazeera",
-   "time": "2026-10-04T12:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSGpSRVY5RDlvY19ick14cVE3d3BIYTM4ZktyNjRJQ0NLcHZtVGdxOEJxUGplZGlkNFBxdE5Kd2sxSXlNSVhFRmw5cUM4Si1nYm51QTBYTXVSYWFmWkJvdlJGc3ZmaDBqelV1dDZGSGsxYkxRYlltbU9EYVRmQTk2aU9fRFRzYUFBNDBuSzJoRk1XV3ZGdU1qTldkUWExaXh1MVZvYmtYUHJ6T2Qz0gGyAUFVX3lxTE1naGxKV1ZmcEVFV0lPQVFtdmthbnFic2FOTHJzc29fZFNmYXVEdFhNX2V1UUZYZE5hOExtSS1HVXN0SWxWWU9sWVFPRk1GNUFkb01wa09jci1lemhMc2VRVFI5SDh4Z2hFd0xXRlhHbG9Ed3E5endpV095ZUxyU3QtTlJaOHdOZ0RLc3FTTU5MTEJENlI0ci1RMHhPdDFnYzRjbWoyeVVlTjBqRklwbFJCb3c?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "OPEC+ Has Deal Outline for Steady November Quotas, Delegates Say",
-   "source": "Bloomberg.com",
-   "time": "2026-10-04T11:54:40Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ3lQRmNrSGZSeVZuaEF5RldlMXJYN1RENDlHMFlnUkwtTEY5Sm9FMFBJeXhxZ1hUYjgyWi03akp5STd3U3NtVkNwTW9YaEgxeGM3MXVEVzNuemxBTnlUYzE0b3BOdHlBY2syc2xRMm5TYmFpZWd3V09XOVVfRk5JRjE0VzVJNE5VTkxHMG1BcGtNUDBvZFpxZlVxeG5uM1FUQUIxTENUS2ZTVTJJVGlkVG9yTQ?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "OPEC+ To Keep Oil Quotas Unchanged In November As Iran War Continues To Impact Output, Keeping Crude Prices On The Boil: Report",
-   "source": "TradingView",
-   "time": "2026-10-04T11:26:23Z",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPal9HT1l3Ym9CVUlfcFhnZ1lJMUFfbmh3TFdLd3A1OE1zd3EzUEFZbXI0RzVpYWpweUxRQTduS2hIa0ZDZHYwSndrN0plUS1jeDdfX0ZiZEJPcG50R3BaRmpNejlQRHpzYlBxUnU5Sl9kb1pFejFiTU1zbld5dXhiR3V2eWhhY3ZMRkpEVnJFT0k0Vi13V3JFbmNERnkzV3ZqQktpSjBTQ3dlZlRqYmZDb2puR3VkMS1BVUNYajdUN3VTVjAxb25sZC1LemRra215SDdPb05HNUVWdFd3WmthOGlRaTVTal9NVGVWdDZGMk1wZmdnLWpSYlRBMHFPeU9lN21mTkJpMWFNbHEtaGFxR1ln?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "EU countries shoot themselves in the foot when they veto sanctions",
-   "source": "Financial Times",
-   "time": "2026-10-04T11:00:08Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWlRtVGlCUl92Vk1TUHZJVmRseW9BQ0NERW9rcGNuUHFwS2tPNzg4WThPUGcyUHZYVk43S3lDcVVwckRHRllHbUV6Y3JFWmoxaG5FSWtPc0xYTHoxV1RZemJXZmhjb2c3cC01NlVzOW1JWmlCRXlsd01lNHFIX0VVeEdwQ0I?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "The Democratic Civil War Is Raging — Except in This Swing-State Race",
-   "source": "Politico",
-   "time": "2026-10-04T11:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT2JicFBxZmhtSXRERmVoTmExQkU3WXQ2ZktXcmFBWDRRcUQtMVNnTm9TX2Z3Rm9YWDBEaG1hdU1kRHJzNHMwNTF5MWtld18wRVFDcDBFU08yY2JYdlFneXhYb0ZMTEhabWxHRGJDc2tDV05PcElSbXVSZ1RtZFZTd1drRTlGenZlX2w0NEpBZFJBaXZDWFVhYVA5elJ1cEhrd2pz?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump set to impose sweeping tariffs on 60 trade partners",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-04T10:47:20Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa1BDcjdFRHFWaGlkYlMzZi1ZY2hCaVR5dGRpalctVTI1Q2poOGxFcXZqdmZfX2lqaVZxRmo3MWZIZ2ZUU0xCMm44OFdibDRCNF9BOVNmT1VHNURxR0tabkNtaVdoNTRaTW81cVIyVUdvanhBUS1rX3pEZFdyQmNSbDVDa0VMM2tPVGhYbDkwR1VhcUJJTDJXVmhNZVVVNi1L0gGmAUFVX3lxTE5UdFo2TDl4c1R2ZWRuX1ZxbTA3UmdwQnlrbVh1OXUyd1pucVlQS2dqY2VsbnRNSGt3WWljNkZ3V2kySmZNUzJ4WVBaT2NXSGRuUFlqRmx1UXNzSlEwZkV1MGRWVWxNbHdBcnY3Vm9CMVFqSWZxdnI3TkZqbWxValByNzBMRWxBR3BraFBtbEVuUFBvNDNpUVNBdWVkN3V6enc1YjlIWXc?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "The small town at the center of the US missile shortage",
-   "source": "CNN",
-   "time": "2026-10-04T10:26:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPci15Z0F1bGgzd2d6bTFjRVh6UnI5NFRYRnlFVDZpMDg4Nkg4anpseVhVNjh0TW9fTDh4ZzBSbXhFbEozejYwNG4tWGZYZlc3SXlCcDItRS16VUt6QTZfdDJCbzdDSFRXdFQyV3dVckZMTlFUNk1qNjAxMFFXTy03czFqYzZ1SWUxQm9WTG9MQTlOQUdlVlY5bGgxTV8zWW5makxtOWxB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "After months of war with Iran, people across the US say they're feeling the strain of high gas prices",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-04T10:20:31Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTmc3R1JUeThHWnJkWXhhOFJFRXVkWEpQWUtYSjBJWTJzclV0NVlTdFJVZnYtV2xNVWQxMFgyX2thWEVvUldDNWxaWmhTR0lfRnM1dUFSbGY5N3dKQ1JMWmN5VkdfcVd6MkwxcGk2dG5VZEJONEM1MS1KOGhxQWk2UnF0Vnk5WGFheGZ1MnMtLWJTckVPRnJmeTV30gGfAUFVX3lxTE9FdzlqSVc4TU9RSDBMRWtOMlFRREJEdk5VdVhIM3gtZG5qOEpXWnN0eWhrUWZCeTRlWmZPeDVhc3ZYT1dYR1g3bmR2S2Jmdk1aRzhaZS1fSm13WVoyeXNpUGdrYUdBR0I3d1pkcjZoQ1ZWc0NDcElfVEZmU3lyb3U2cnE3bFV6V0ZtaVJQcDZSVHNXdFVDQm1mVmdObU5GMA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump’s nominee for Hostage Affairs envoy faces scrutiny on controversial Russia plan",
-   "source": "The Hill",
-   "time": "2026-10-04T10:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY0ljTDhLaENGS1Fkb3p5WGFYUHFGUl9lbmVBQXZYZXNhOWpKbjZPR0VTWjFmeGxrcm5PU1VzV0gxNzZFWFZEdWFmbDBiQ0REcVNkWEdUNnB6MU5JRktYaWg3eXRVbFcweU5fbmNLM0Z6UWRKalhUaWRuZGpONG5tYVJKTVUzeEpieXl4cllKV3NDVUFvcHdpVVZmUl9vTlVlbVE?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "In crude Ohio rally speech, Trump says he may not help if Democrats win",
-   "source": "CNBC",
-   "time": "2026-10-04T09:44:25Z",
-   "link": "https://www.cnbc.com/2026/10/04/in-ohio-rally-speech-trump-says-he-may-not-help-if-democrats-win.html",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Federal Reserve raises interest rates for the 1st time since 2023",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-04T09:11:38Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYktxZlJxRVNrdUZFRWViQjVMLUh3OGJwNGhrVFpJY2E5QTAyajNfcnFSb09rZUVkSnVMUHd4WkpsYktvZGczX05nRzVhSTdKNWtfU2hWb09IYnNQQ01tTlMwMV95YzJkbWVDMklwZ19XMC1RNmVsckpGS3FpNUpiRlUxZkVtNXk5NE5YRnpBSTI4eEhVOWxaUlBzZDlxb3p1ZVBFeHFR0gGrAUFVX3lxTFBrZzU3UXhjRlBBblFYNzJZZ3dINVFwMnpIOFQwRlJ1NmRTa3JNUGlkamJyS08wRjM5UlFuMkRJcHAtUEQxYjF3b2Yyc2E2V1hOOEhQRHRPckpidllEOHpLRG9VUTFxSUwyaE95SzNNZ0pkemQwQkNBYkZPbTBpN0ZMYTBWU25nT3FrUVNNal9Eb0lCNnJwZTVFUVVhM0dDRlMzQ1pQTF8xRTV6bw?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
    ]
   }
  ],
