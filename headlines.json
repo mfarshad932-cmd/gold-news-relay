@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-06T19:46:03Z",
+ "generatedAt": "2026-10-06T23:43:45Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -41,7 +41,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 9
+   "kept": 8
   },
   "investing_news": {
    "http": 200,
@@ -51,7 +51,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
@@ -61,17 +61,17 @@
   "bbc_business": {
    "http": 200,
    "items": 53,
-   "kept": 1
+   "kept": 2
   },
   "bbc_world": {
    "http": 200,
-   "items": 27,
+   "items": 30,
    "kept": 4
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 3
   },
   "whitehouse": {
    "http": 200,
@@ -80,55 +80,524 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 35,
+   "items": 34,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 18,
+   "items": 23,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 27,
+   "items": 25,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 28,
+   "items": 32,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 11,
+   "kept": 11
   },
   "gn_yields": {
    "http": 200,
-   "items": 49,
+   "items": 48,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 12,
+   "kept": 12
   },
   "fed_calendar": {
    "http": 200,
-   "items": 6
+   "items": 5
   }
  },
  "items": [
+  {
+   "title": "The Pound climbs against the Japanese Yen as the BoJ gives no hike signal",
+   "source": "FXStreet",
+   "time": "2026-10-06T23:29:57Z",
+   "link": "https://www.fxstreet.com/news/the-pound-climbs-against-the-japanese-yen-as-the-boj-gives-no-hike-signal-202610062329",
+   "tags": [
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Gold rises above $4,150 as bond yields turn lower, traders await FOMC Minutes",
+   "source": "FXStreet",
+   "time": "2026-10-06T23:28:27Z",
+   "link": "https://www.fxstreet.com/news/gold-rises-above-4-150-as-bond-yields-turn-lower-traders-await-fomc-minutes-202610062328",
+   "tags": [
+    "FOMC",
+    "YIELDS",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Australian Dollar eyes 0.70 as three-day rally meets Fed minutes",
+   "source": "FXStreet",
+   "time": "2026-10-06T23:22:57Z",
+   "link": "https://www.fxstreet.com/news/australian-dollar-eyes-070-as-three-day-rally-meets-fed-minutes-202610062322",
+   "tags": [
+    "FED",
+    "USD"
+   ]
+  },
+  {
+   "title": "The Australian Dollar slips against the New Zealand Dollar as confidence sinks",
+   "source": "FXStreet",
+   "time": "2026-10-06T23:22:00Z",
+   "link": "https://www.fxstreet.com/news/the-australian-dollar-slips-against-the-new-zealand-dollar-as-confidence-sinks-202610062322",
+   "tags": [
+    "USD"
+   ]
+  },
+  {
+   "title": "Decision Time at Key Levels: Dollar Pullback, Gold Bounce, Metals Still Waiting",
+   "source": "FXEmpire",
+   "time": "2026-10-06T23:20:48Z",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaEt0LU44V25nTUlORGV6anBrU1hWZEQ4THRNS1N2dGhJUklMUFRlSEpoaTBPMUFIUEY0ajFJdllmTWFhaTBuaWV4eDg4UHN6UWxuX3d6Y2tuZlo1M1JSNHpDbkF1NlotRjRISmFVbHJpOExGNVlEeWRpSFlLZmNBN3RMRkZzc0pfQ2ctZUt0X1JGcnZNTGVnZk5ZU19UR3g5ZUd1WEZOcUV5V210YmJ0LVBSV3JMc2xOSlh5YWNmcktQMEE0Z1E?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Health Brief: Medical devices join Trump’s tariff bargain",
+   "source": "The Washington Post",
+   "time": "2026-10-06T23:09:14Z",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeHlCT1lUZnlsdWdNYlZuakpmZWxPa2hjYXhQVHVLSGwwX0NSUk9vWnpZYm5MTFFpV2s0Q0FPZTV0WW4xWkxqNjFGeGxRM29BbXNVTW1CcWxoRnhUaU93OU5Wa1Y3c1BWaW1LNFByUVpiMDk0M0ZTRFNXbnk0Wm9HamV3VHN2VE1YYW9OSF9uaW5kX3BTSFFQalFfLTc1YjBrX05HcmFwREZ6bUd0cW5YWXd6YVoycGtpeXBTazV6X2VWcXpLeHc?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor",
+   "source": "BBC",
+   "time": "2026-10-06T23:01:13Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "US tries new Sudan strategy as war fueled by ‘external actors’ drags on",
+   "source": "The Hill",
+   "time": "2026-10-06T22:57:00Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeDU4V2phNkl5TkM1V2ZGLWZZV28wS1c4X1dDLVhIUDVVeFJXaHJqQTZZeWU0RmdYMkVaS3dTdVNZVDlFaGtmdkJwVVRxRU9Dd2NocW9TR2VEOTBFOXpXS08xbWQ1ZWtCYzFpNEJpY19qN0NKWUNfQmpESF9KMjkwd3BnZFhwc0NKYXk0T3JhOA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "EXCLUSIVE: In interview, US Vice President Vance says Iran must cut enrichment to end war",
+   "source": "Reuters",
+   "time": "2026-10-06T22:54:51Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ3R3RzJuRF9NSlo0bWNMaGY3dTdUbXRmSU1BMml2V2RLd0sxazNvVUNRdXpHa21Ebk4tVWtLeHZXMG5xM2ZUVG1aTEJDU0FRWnRHZnozTHQxdVRjeTJvbXRKNzFpNG1wR3RqVDlKMXpXY09hYlFKVlF4RW5uQjJJMXhKOEt3c0ZLWE4tbWZlQW5hUnRnckxmaU1mU0R0SWwzRGNXdGo0ZTVTUXBlSHlfakN1Yw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "S&P 500 And Nasdaq 100 Soar To Record Highs Amid Rising Bets Of Strong Quarterly Earnings — CEG, LCID, SPCX, MRVL In Focus",
+   "source": "TradingView",
+   "time": "2026-10-06T22:35:29Z",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVXBtSV9WRkgwLUUzdGZjNVoxUXRhWjVpSzFNOHZpNXJOelJDelJvazAxRjE1T1ROaHhKZGZLb2UtNGZyN3FOQi1CYXNoMVkzQ1pVYlF2UTA3R3BaM083VUl4eTdQYTI0MzlIdU5KdlFYZ1BEVC1iUXlhR2FQT2NmblFnRlo0S1ZUMjRDeWIzSGI1X0tBRlEtdWNZd3NoRF8xYmNjclFEQkwxRmxfNXAwVkM3aXZuODNyTy1STDQyT2w1WHY0RWVjNXpHRms3U3F0N0ROM2p2NVdqRFFRTzFZWC1QdzNMOXlBNTBsU1ZRWF9XYUcyaDdpTkR5NE5jMlZIS1poRlhERmVFZw?oc=5",
+   "tags": []
+  },
+  {
+   "title": "The Japanese Yen flatlines through a BoJ speech that changed nothing",
+   "source": "FXStreet",
+   "time": "2026-10-06T22:33:32Z",
+   "link": "https://www.fxstreet.com/news/the-japanese-yen-flatlines-through-a-boj-speech-that-changed-nothing-202610062233",
+   "tags": [
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Trump suggests Iran could ‘take out’ Los Angeles or San Diego",
+   "source": "The Guardian",
+   "time": "2026-10-06T22:28:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMk1uU3luOVlwcW5fN3VQd0h6dXExY3VOY0ZJRXNRZEs3d3E1azRvY0N3cVBJbmtsM05wQ0xSRE50WWRCeXh4T0RLTFNRbmlGSGQwSURUQVlGNktPSC1VcVRjSHdBVm1HZGxEWHNtWnowRDBWV3gxMzlKbXRyRlgyWVhpcE91SGNRLUs0b2FvX3ctUFBJT2piVFBVUU85TW85V0tDRg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "The New Zealand Dollar edges off its low as the US Dollar slips",
+   "source": "FXStreet",
+   "time": "2026-10-06T22:16:46Z",
+   "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-edges-off-its-low-as-the-us-dollar-slips-202610062216",
+   "tags": [
+    "USD"
+   ]
+  },
+  {
+   "title": "Central bank summer Gold spree continued in August",
+   "source": "FXStreet",
+   "time": "2026-10-06T22:13:53Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd1ZrNVNpLTVrU3ZIR0J5anJEOVFxYnlGSllKVHZCLTJHdHlpaVhtUUhyeGxHNS1yNWN3bzBVa1RDZklrUUc1dEtIWXViSU0yYkphV0NaQ2NvTEREd3ZtS0ZucVBxRDNnc2lxZFFXUU1DOU5zVDRJYkNLd2JQeUM5VG50UDFyRTBrSFBGdnBNMktOazZWd3RpdThsOGtnZw?oc=5",
+   "tags": [
+    "CENTRAL_BANK_GOLD",
+    "CENTRAL_BANK",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Delta CEO says all customers are paying more due to Iran war",
+   "source": "CNN",
+   "time": "2026-10-06T22:10:40Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMDV6UnBsS1g0RklDem1PVnAzYk1BWkJmU2xqQ1lKVHlqSGVPX0l1UVBNRmxFbjB3empxR0tfaUM4bU4wOEktSC1iU0puNnlvZWxTaFNsRXRTQ0gwMlFjbUk2XzktaHZZTExlODJKMmF6MEU1QmJORFI5WFl4cU5HWXFxTEY1LUpCaHFxRVR6V1p2cGdYNERLbV8tejctZU1lejRVZVFNS21uV1FQc2tFaDRVSzNGaVVuVnQ4?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "G7's 100 Million Barrel Release Is Mostly Already Priced In",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "time": "2026-10-06T22:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMlRyc1V2cWd0U2NGdVpKckM4LTFteHlXeElka2xaSFl1MlBPUWZqQ3pERXRTVE0wUnJwX1BVNThxQmJCdEI1UVdQZmMtc3ZwMG5QY3IyOGZ1aGhpeVVjZGdERkhsNUl6OU9mQWVjR1B2U0NBMzZSLTFLREh6aTNFLXdtM1NCQlVRLU1GZ0pucDBfbGk1enFRWWZuLTJhTVRqemU00gGoAUFVX3lxTE12S3Y3RUxBZ0hMSEEzOGZkT0oyRUFUbkRIWHdtQWRGajczYjFfYTJ4c2I4ajFSaVBpQ2lhWVNJQS1hODMzZUJZT2txNVJFeldqaGhzekVNdFhKaE5XV21Rd19pMHdNazVOTmhpMkZaWVZQNGIzaTFJX091OTNfMHNfek1CR1VIYVAtZDdlRXhXRTFjSXRjUHpVMWZEcWNmTTlNcHFOQzM4WQ?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "President Trump facing backlash over Iran War and California comments",
+   "source": "CBS News",
+   "time": "2026-10-06T21:48:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMkF5WkJHYlBfLWtweXFyZ0NZbjIxNktTcEhJVEJuOTV1T1VoWldPaXE4UEU4aHR5OWVnWURkb2dxdFdTY2h5ZUtJd2Y4bkVLMTdQY1k2dlBCc3dnb3JjSGRHbElFRUtlcDB2QlhkUkMzSHF3cU9jTEVPX2sxMUtja1d1ZlZqSFNQYUxROThtOTZMb1Y5aDJQZlhBNU83Nm5xb3pVNTN2UmFMeXRo?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold futures gain as U.S. dollar, yields turn lower (GLD:NYSEARCA)",
+   "source": "Seeking Alpha",
+   "time": "2026-10-06T21:40:29Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTDB0eEgySFloV2VLUXBwb0dLSWFTVjlPaW82YkZCR001ZGxlVWk2TVZ4N2R6NHRyX0pfY19oZGhuMzN5X0luNjExR3l0UjJLeDhyZ01tUU9scHgwaS10Q2xKODBBc0diU09USDZ0WkxxV3NPQnZTU01BRFJYblNuRmpiWjRHLWdnazQ0czlSbw?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold (XAU/USD) Price Forecast: $4,104 Support Puts Bears on Notice",
+   "source": "FXEmpire",
+   "time": "2026-10-06T21:32:29Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXhseV9oa0dpZkdmd3dobk1xNXNRbXFKN19icjNvbVR6WFdzU2QwenZvanNFU2VTMU1MbjBOblcyN05SU1JCcHJRc3FSVjNONjNQMEsxT2RtanJBZzQ3U1dMbE8xakZpLS1DNUtUcExTQ2g5eDBMaXEzRnZPUlJJYTNLem9PUDJzdzVHR2RJVHQ0dDVlQ2xveDVzUk5pQ2VCUTJhbnlQekhMTTBZVGNCVkRB?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Rebounds As Dollar Pulls Back From Yearly Highs",
+   "source": "FXEmpire",
+   "time": "2026-10-06T21:28:23Z",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ0xlZTF5YTQ4OGszRy1rMnJ1OThQVFQ4TTBQbkpjY0VMblEyaFRCdzhCSWJveVFpQmg1eWtQMjlXTVUtQ080REVTVUR1ZFN0MHFMZDU0Sm1CdkRvaHNaUTRLVllMZ0x0dVdaM0QwZm9ZaHc1NVZTTFA1Z3ZsTC0tQ2drQXlBb2QzbEUzQlJ5dzRtY3ZBU0N4ZTZMLXRVMmRXNnVJVDJHY0hMaElkNlRzdC16MVh0b1R0ZjVGUnJ1YWRydUlyc1QwZjc1QlBmeGpkbk1OMUgweS0?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "The Pound climbs back to the top of its range as bond yields ease",
+   "source": "FXStreet",
+   "time": "2026-10-06T21:26:23Z",
+   "link": "https://www.fxstreet.com/news/the-pound-climbs-back-to-the-top-of-its-range-as-bond-yields-ease-202610062126",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Treasury yields retreat from multi-decade highs",
+   "source": "Fox Business",
+   "time": "2026-10-06T21:19:52Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43d2xLWWRDbWxkc3p6QWJKMkgtY2h1TFpvU01UT1NHdTJDNDVEajhSQkQ0YUhibkpCTnZGNEV0ZFFGY0djSV9CSHIwUlAzbi1WR3ExdWM1b3QzM28?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "WTI Faces $85 Risk as Saudi Discounts Undercut the War Premium",
+   "source": "Investing.com",
+   "time": "2026-10-06T21:18:00Z",
+   "link": "https://www.investing.com/analysis/wti-faces-85-risk-as-saudi-discounts-undercut-the-war-premium-200689062",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "investingLive Americas FX news wrap 6 Oct: S&P/Nasdaq set records as oil rebounds and the U.S. trade deficit widens",
+   "source": "ForexLive",
+   "time": "2026-10-06T21:17:23Z",
+   "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-6-oct-s-p-nasdaq-set-records-as-oil-rebounds-and-the-u-s-trade-deficit-widens/",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "California leaders slam Trump for saying Iran could ‘take out’ L.A. or San Diego",
+   "source": "The Washington Post",
+   "time": "2026-10-06T21:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS25XakJYZG1NakF1U0NVTVRmVWZJMHkweHBMUFk3U2w1NDdMNmFseTFnLWZiZkNmNlplajVhMGIyRWFqOGlUTmVmU0ZfYXk2TXgzc1RQejhybERvU2lJbEgxY0tCNktQTjRGWEE1RnhyWGxCSXYtcWxWeVU1SmY1Umw3ckJYZmh1eGhOcWNfZjJaMG5nWHdPZHVUdmIzM2VwczBzdEozVDh2djB4N2d4TktYNEMzYVRXRk9ianRQb3FFdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US firm gets $2.9bn sub deal after boss joins war study with Musk",
+   "source": "Al Jazeera",
+   "time": "2026-10-06T21:14:27Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeG55VFMzVnhtZFFDNGZ0bU1Tb1FHaC1xSGZDdU04bFBXSmxjTlo2a0Nxb1ZWRUFSZ09hQUFFUHdUb0VyQTM5RDBxa184SDkyNDRPUmJpajhqbEJkZ3JCcXJ5THR1cmtDYzBldHoyZ3REMm1PQXd2Q2tpS1h1aTY4OHJKSXFSclZldEpRaXBPcG00TDhOeEVoMmJOa1gzdjZvRjVYR2hVLUTSAa4BQVVfeXFMT0VuN2k4YkdCajRMcTJiM3ByTVVVekZYSHZXdDFuaVpuS2NsY2JYTm13X2htT0t1QlFpVF9PalpCTm96OU85UDgtYXRqbFZWSVVZMFlyYkJ3YWVBc29GVkw0bHFNV1lPV2tEdmRDUlZESlNrNlNEcWRBYU1jVDVfWmhEcERIN214UzdaSUxNMGE1OHhGOFZFcjBLMkZIX2RIakJwR0M2STI3X3V2RlVB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russia plague: How great is the global risk? Maybe low, but infectious disease experts want more data",
+   "source": "CNBC",
+   "time": "2026-10-06T21:13:30Z",
+   "link": "https://www.cnbc.com/make-it/2026/10/06/russia-plague-global-risk.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed Visits JPMorgan, Wells Fargo, Barclays In Private-Credit Risk Review",
+   "source": "Benzinga",
+   "time": "2026-10-06T21:03:01Z",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV3F2TmVuWjdnRk5EVmZDTG5rT0stRGhmSldncGdkNm4weFJLeFZ0TDYxYkthdjBvRExEcFdhTXhITkpDYlR5YWRxcWx2MFc4ckpLcUZzRnVuUXBOeFdYTWljSWk5TlVlNnpjeFJ2ekhyTGhLckJGbjJtaDhKOHhXcTByWEdTbm90QmI4T2l6ck9CR1NMR2tfTFM4dTE0bk13OWlvaW5hSEgyQ20tUzM5a3VCUy1qeDdPbE14VHg1ZldYMUEtLXY1c1FnQzVaczQ?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Bessent Keeps Trying to Talk Down Yields",
+   "source": "Bloomberg.com",
+   "time": "2026-10-06T21:02:32Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3JsR3RnOEpzcEE2djU1U3I1d3RqeTEwenhGYzZYZnJwdWMxRTFSWHpvc0g1Y09TV243dDRFNjJnRnVJYUJkb3ZKSWMwZnEzUGtGYkdwa2hJR2YwUXNXZ0ViLVdaclZzSmc5dkZNLXFqRXg3RnRMeG4xLUE1Y3pCV3gzU2hIdF9LTlVQeGVJU1l6TUxiRnY0RXFlczZHV3JiMG1NMzJidXlHOE42Rms5RlhGRQ?oc=5",
+   "tags": []
+  },
+  {
+   "title": "Crude inventories fall more than expected, boosting oil prices",
+   "source": "Investing.com",
+   "time": "2026-10-06T21:02:06Z",
+   "link": "https://www.investing.com/news/economic-indicators/crude-inventories-fall-more-than-expected-boosting-oil-prices-93CH-4935293",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "A brutal winter heating bill is coming for some homes",
+   "source": "Axios",
+   "time": "2026-10-06T21:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVEYxdmtBZXFVb2RSc01EbS1HSm5aS2VGTkdsS2hRY2tZOTEybWs0UXVMZ05MeTMxMDEwVE9QSGNRR3ZncWZRX01ObFJnWGhYbjlDcGtyX0IwZS1GNjZpb1JSemxDTUpzc29FTXBHQngwZW5GVVFZa2dsejNMYXJsOV96ZDBvQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "S&P 500, Nasdaq reach record closing highs as focus pivots to earnings",
+   "source": "Reuters",
+   "time": "2026-10-06T20:47:55Z",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0p5VWxQQ0ZmUUI0Vk5wRUVjTUJhZjZGUlZjU2tWU1AtOEdqYjZ0OFRtRXNrUVdrTFlNZjVWdzluRjUyaWhHTlYxMG5Yc21pMHFubTdiX1RIRTRUSnB4UTZPckRMZTlzTHBEbkZKU1ROMTZpWE9lMXhPQkhyQmhBV3JNdkFrQVk?oc=5",
+   "tags": []
+  },
+  {
+   "title": "Canada trade surplus widens as exporters race to beat U.S. tariffs",
+   "source": "Investing.com",
+   "time": "2026-10-06T20:45:12Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc1pHT3hXbVcyVkY0eVRzV0FjeTdSakp5djFBQ2ZMNWM5aVJZOXUtREszM1I5VTFYSXVBVUNIbEZrLUxrSnBzeG4xcFJiOXBzYVNaMEJJcDZNUldNWkFYVTZTMjlmWUt4ZVV1OU5YZ3p0QjVKZElfeEt5bnRMUVhycl92Tkw2b09sMUtFQUkyeUhQTWhkM3U5eU9YUjFtdkJMMXVPNmlqbXNycG1oMkhVWjBaM1lsS0E?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Yemeni government fighters shown driving vehicles over Houthi opponents",
+   "source": "Reuters",
+   "time": "2026-10-06T20:43:50Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdTUtR05NTWVJVFBWcjJmSVZRb0RuVXl6Zk5ocVBacHBIMm1yeWo2VWQ4U2ZqNVFPcTFqeExXUjFyMlpONkU5blQyekxfbGpwM3ZBay05dFU4WkRqZ3lIcmw3VG9UQ3NxSWczQU9qMjFRbHV3QVd3LXl3ZElxaHVRMkFVdHVfajl5SV81YkF1X1ZYX0ZNbW0yMFdjUWFnY3JTLXhZd1gzSU5pNTR5MU1mT0RneVlsLU1uaVdEd1lSRnd0M19Yd1JF?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US lawmakers call on Israel to release imprisoned doctor Hussam Abu Safia",
+   "source": "Al Jazeera",
+   "time": "2026-10-06T20:42:42Z",
+   "link": "https://www.aljazeera.com/news/2026/10/6/us-lawmakers-call-on-israel-to-release-imprisoned-doctor-hussam-abu-safia?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Wall Street shares notch records as oil prices stabilize, bond yields retreat",
+   "source": "Reuters",
+   "time": "2026-10-06T20:42:27Z",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZlMwQU1nbHRaZ2dnOUVOM1c1LXBxNXhWUTNzS1ROWDZyODk1NldRTHB2ODNKbnI0am5tUUcwMU9YekUxMWtLOFVGMFczTU12cHpCclQ1cnhDRzBMVGRBWTYwRjZPVUZidVFlT1FMZGdUcnR6MENjNXVMUXRzTlVzdVJkSQ?oc=5",
+   "tags": [
+    "YIELDS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "‘A Librarian’s War’ Review: Reading Materiel",
+   "source": "WSJ",
+   "time": "2026-10-06T20:36:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUVQdXBLeTBydDN1N1MtVmFYUUJJUGoySnRZSndaQWNYUDNqSnl2ZEc1aUtXQUtoOE44WUlSTlk1Y1hpRXd2eXp6MkY4ZnpOVHUtZlVGeTVQNF8wRjV0cUE3ZjlxTjRXcjdFVWh6Y1NISWdYVC1nX1FwamdqRElneXZJY29jLUdOcTdqcEJYT2VEQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US Equity Markets End Higher as Big Tech Gains, Government Bond Yields Fall",
+   "source": "marketscreener.com",
+   "time": "2026-10-06T20:27:22Z",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPelZpUVRKdFpMdVN2MlRGcGw2eU1SakRIU3M5UVVzamJ1UDllOG1rLV8ybk5PLWllYlVEVTBHTmE4ZEtmcnRZd2JlMWNYd0o0NnphWG5GZ19xMmRobmJoazlCMFE4NnNCbGtNaVcxS01ubHkyMFJZbDNsTjcxQld6X1diSUpJaHQzSTlHdDFVc1UtWjl1cjQxalB5Z0dkcTRwaXVsVGhlWk9WOUJYcWVldEFMdFVWbHRLS0xPSVVzOC1EUm44MkE?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Middle East crude oil exports rise above pre-war levels despite Houthi attacks: Kpler",
+   "source": "Fox Business",
+   "time": "2026-10-06T20:26:01Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uVWotLXB0eWpTdGZEcGRiOENTRmRKMHlZQmFHR1NDT3Rfa21ycGtFNUtRX2FVdmZtNy1ESGdFRUdQamFqQWZ0bXFYNU5mczY4X3I5cWRMazJtME0?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Bessent Risks Higher Yields If He Axes 20-Year Bond, BNP Warns",
+   "source": "Bloomberg.com",
+   "time": "2026-10-06T20:25:39Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZXdUcjVXUUdfRW9mMEdJeTZzVVJOQzNXTHkyNkxmVGtwNE1aZFduWHNXWjlHT25UWWVBUHhCcFFtQV9OaHkzWGx6QWpENElXZ0Z1cVJXdVhXY2hZRDIwMjZ4WnMxRWZEVFFXc09mVjd6UVo4UmZ4T2dvQTExNnBmeko2Q3ZzbUVhUGRYeFNBV2pRYjU1OUJiR2pYUmZnZ1hCSWVSNXlNVDlTUThJWHJqaUVtSU4?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
+   "source": "MarketWatch",
+   "time": "2026-10-06T20:24:00Z",
+   "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Bessent says inflation and bond yields will drop when the Iran war ends. Others aren't so sure.",
+   "source": "Yahoo Finance",
+   "time": "2026-10-06T20:23:12Z",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZU11Uk9xLTZQSk5CZW1lSjVSMEd1STdaWVFQeEZhOEY4S2MtMU56V0xXdnpPWTlGS2dTdlV4SU51MDdHWTdBbEJSZ3lScUhZQzdhNEpYc3RBUEt0UHUtdDNLTjZpYWl2bkpJRWpCLTJPMjdHWGxlblpNWVh6Y2tWYkQxSnpvZWE4QU9wRXdZenBDV3l2NmtmMzRaRFQzTkVlWEoteW95U3FiMG1jdHR0cGNaaFJPVzNiYUhmNFVxQVB4dkU2REhNLWthZVhKVnV4WmY2MGFnWThFTVNIVzQwaGMxUFQ4YWw0YWF3dQ?oc=5",
+   "tags": [
+    "YIELDS",
+    "INFLATION",
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Economic and event calendar in Asia Wednesday, October 7, 2026 - ECB speaker",
+   "source": "ForexLive",
+   "time": "2026-10-06T20:18:20Z",
+   "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-october-7-2026-ecb-speaker/",
+   "tags": [
+    "ECB"
+   ]
+  },
+  {
+   "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+   "source": "BBC",
+   "time": "2026-10-06T20:15:31Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S. Stocks Climb To Record Highs As Treasury Yields Ease",
+   "source": "RTTNews",
+   "time": "2026-10-06T20:13:00Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQenFDYVRCXzFlT3R6emg1V29GVUx4RmVYZ0xMTUhTTk9xUjJJVlcxYURIOXNSamNQTGdLZ1Q0Mnpnb3RqYUxDZUU0d0VHRzZYcVhXNU83ZXVJU2RsZjlVQUJ3eFh2LTc1emVaN21OZFlHT1ZUODEyVlhmSTMtVGQ0ekZiQ0ZHVU5JQm5VY2ZDMm5wQ1F4VXhjNnRmcXc0dw?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Gold Trades Like a Rates Instrument as Bond Yields Dictate the Next Move",
+   "source": "Investing.com",
+   "time": "2026-10-06T20:10:00Z",
+   "link": "https://www.investing.com/analysis/gold-trades-like-a-rates-instrument-as-bond-yields-dictate-the-next-move-200689057",
+   "tags": [
+    "YIELDS",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Boomers' dividend stocks take beating from bond yields, with retirement income on the line",
+   "source": "CNBC",
+   "time": "2026-10-06T20:06:42Z",
+   "link": "https://www.cnbc.com/2026/10/06/dividend-stocks-bond-yields-retirement-income.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "US and China list $30bn worth of goods for tariff cuts, what it could mean for Europe",
+   "source": "Yahoo Finance",
+   "time": "2026-10-06T19:55:51Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWDVoMFN2QnVIeGZFdUc0U0N6Rzl3MWF1Ukg3bHRTaUpETkxVLU5EV1B4OHlrTXlyMVoxSGdhWWFjaVF6dzF5aGJOM3ZjNDJrQk0teXYxYjNPWHRvTEVQZ0Znd1VJRkZTc09aQXRGUGdOTFQ5d1Z2UVNvMGhITnZ2bGRKSU1EYVZIRXpWV2FoYWlWY3czWVctVA?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "S&P 500 Breaks Record Ahead of Crucial Fed Test",
+   "source": "TradingView",
+   "time": "2026-10-06T19:55:45Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSGt5OHNybmRmTEhpWGxtdlVYaWVNbUs1dEVlSzh0c1I5ajhhZkdSMWVTWk9kU1RGOFFYbjM2RTMzZXcta3g3VHhDRDhobFAyXzhCV3FYYUNYMmRseWstd1pLXzJsM0lYWmlhNlZSX0ZrVUJyN1NsTW9LMDdGYnV0Uk1GUk1fZmt0S2RWb0ZQSHhNblNjR3UyNXlJQXR6SWVHMmRjc09wODA3dDA?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Silver Price Forecast: Silver Gains as Dollar and Yields Retreat",
+   "source": "FXEmpire",
+   "time": "2026-10-06T19:53:11Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcmxQWndmTjJzTnlnUHhxVFpzZDhJdVhHVVZUVC0zSWNIOUtzYndNblgycjJ5ZE1EZGNyMVdHd0tXOHBQVGt0R2FBZmNVS29nTmFyUXd0Y1o1MWdENHY3bnRHM1pvZE5VM3liY2FVME5teFRKdDEyMHFoQWktX1poZGtmVC15aU02OV9YY251WlJiZmFmVDFDdXFMdk1DRHZiNzdIOVJRUVFGSjljRndUbkJPc3o?oc=5",
+   "tags": [
+    "USD"
+   ]
+  },
   {
    "title": "Most families of US troops killed in the Iran war's deadliest attack won't be at White House event",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "time": "2026-10-06T19:36:07Z",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUzRtZVZkLWx4X1Y0ZGo1MlVoa1g5dFE5aVZDbF9XTC1fcUFjSWJWZmMyMkM2LXJzSUFXVkhOZElGVm1ia3VZd19fOHlTbm9VOGpQQUJGbHE5UXRmc1J0M1B4cDdIdGtYSExXSVpPTFByRmZpam11WGE3T3FRYmx5S1QtbnJYRFl2ZEJEQlRYeUpHblgybUVVZjlONNIBoAFBVV95cUxNcDRPb3lJMEY3Ym84WlFTLVBreVFTc0l6RDNjdHRDejBkektlMXJlRkJWclByWVp3cHk1enlQOFZLQTl4SnJEbjBUcWdZQ2FqYlN2UWJwN0o2U0VBMW1rQThabVV5NlkwNnYxZTRENmw4eHNJbkZsUk9sbkJ1Skt2OThINGZmZ0NvUHAwVjdEZl9kSWJkMW1PNXRqT3RrRWJf?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russia denies imposing anti-plague measures after lab worker death",
+   "source": "Al Jazeera",
+   "time": "2026-10-06T19:26:27Z",
+   "link": "https://www.aljazeera.com/news/2026/10/6/russia-denies-imposing-anti-plague-measures-after-lab-worker-death?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -143,11 +612,13 @@
    ]
   },
   {
-   "title": "S&P 500, Nasdaq on track for record closing highs as focus turns to earnings",
-   "source": "Reuters",
-   "time": "2026-10-06T19:20:18Z",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0p5VWxQQ0ZmUUI0Vk5wRUVjTUJhZjZGUlZjU2tWU1AtOEdqYjZ0OFRtRXNrUVdrTFlNZjVWdzluRjUyaWhHTlYxMG5Yc21pMHFubTdiX1RIRTRUSnB4UTZPckRMZTlzTHBEbkZKU1ROMTZpWE9lMXhPQkhyQmhBV3JNdkFrQVk?oc=5",
-   "tags": []
+   "title": "Discovery Mining: A Path To Tripling Its Gold Production (TSX:DSV:CA)",
+   "source": "Seeking Alpha",
+   "time": "2026-10-06T19:21:58Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXE3dld1aUJKNmJQc2xTTHFMU0VSbXJKZ0x6T0x1RlVEc1hCUmppVm5yR194ZXRjRjBxdHZiUTdidUJaTWQwblJlamttWkdsZ0JDc2tRTkNYcDF6cmU4QjY1SDByQURYdUZtbzJNeHZ2emU1NUMzNUxSbUgwZ3hHaDNfNjZFRGl6VzBIUFVVU1dBdHFoeUR6OXBSYnA?oc=5",
+   "tags": [
+    "GOLD"
+   ]
   },
   {
    "title": "Tariff Relief Could Lift Citi Trends Stock And Other U.S. Retail Importers",
@@ -156,24 +627,6 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTlQwZFB4Vjh3dHNaZFZtY2RlQlpSY3Y3NnNvSm1BUHRoZXdVSXpkN3J1NDQ1OWNqYWpVZTJ5emYxMEtfZkhYOHlaaXdYNUZ4TUhSSVo3SjMzbHlVa3F0SnRaMVNEUHZyaXgwLUF3TDFMSk96VjItX3V6OURLbi1MeklXclB6LThjeWF2aWRTbnMyN1VHMjdwbGtn?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Singapore Dollar: Range trade against US Dollar with MAS in focus – OCBC",
-   "source": "FXStreet",
-   "time": "2026-10-06T19:09:03Z",
-   "link": "https://www.fxstreet.com/news/singapore-dollar-range-trade-against-us-dollar-with-mas-in-focus-ocbc-202610061909",
-   "tags": [
-    "USD"
-   ]
-  },
-  {
-   "title": "Silver Price Forecast: Silver Gains as Dollar and Yields Retreat",
-   "source": "FXEmpire",
-   "time": "2026-10-06T19:05:47Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcmxQWndmTjJzTnlnUHhxVFpzZDhJdVhHVVZUVC0zSWNIOUtzYndNblgycjJ5ZE1EZGNyMVdHd0tXOHBQVGt0R2FBZmNVS29nTmFyUXd0Y1o1MWdENHY3bnRHM1pvZE5VM3liY2FVME5teFRKdDEyMHFoQWktX1poZGtmVC15aU02OV9YY251WlJiZmFmVDFDdXFMdk1DRHZiNzdIOVJRUVFGSjljRndUbkJPc3o?oc=5",
-   "tags": [
-    "USD"
    ]
   },
   {
@@ -195,21 +648,12 @@
    ]
   },
   {
-   "title": "California leaders slam Trump for saying Iran could ‘take out’ L.A. or San Diego",
-   "source": "The Washington Post",
-   "time": "2026-10-06T18:47:10Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS25XakJYZG1NakF1U0NVTVRmVWZJMHkweHBMUFk3U2w1NDdMNmFseTFnLWZiZkNmNlplajVhMGIyRWFqOGlUTmVmU0ZfYXk2TXgzc1RQejhybERvU2lJbEgxY0tCNktQTjRGWEE1RnhyWGxCSXYtcWxWeVU1SmY1Umw3ckJYZmh1eGhOcWNfZjJaMG5nWHdPZHVUdmIzM2VwczBzdEozVDh2djB4N2d4TktYNEMzYVRXRk9ianRQb3FFdw?oc=5",
+   "title": "Is the West's 100-Year Venezuela Oil Bet About To Backfire",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "time": "2026-10-06T19:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRm5DdExwSloxSGdNazJCMXFHWnZMLVl6WU90WTNwRWVBc2dBVVVqMVJWNkwxN0hkcHdxVzZFQm5vSWNCYTJLZGQ3VHZRZmRJbW0zUS1MQUNXRGlMbGxkalhvcXctVmI5UWQtdUsyTnZoMzczRzBOU3NsM0hiYl9tbmQycEVOUnB6Q2YxcHNTNElGVHZZMjBSVFRyRnB6N3VDWnfSAacBQVVfeXFMTXA0OEVhbExnYklLVlZJa0ZrY2dFWTZ6Q2VfaHdmTmIwVU9wVWpVM1VFdk1ZTTd2UFRKaWFrM212LXpYWnFFamQ2Z3BDYnJuYzNxeFY4T1RhWmR4dWZxZm43TDdReE1PcXdBeVp3VDJCWjFReFJuRXdGSHI0WVY5OFVkUDRDVFhmc3pLMHpuMHJjY0xNZDNtcmlvNV9uOW9zeGd2SlIwSGs?oc=5",
    "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Boomers' dividend stocks take beating as bond yields rise, with retirement income on the line",
-   "source": "CNBC",
-   "time": "2026-10-06T18:41:02Z",
-   "link": "https://www.cnbc.com/2026/10/06/dividend-stocks-bond-yields-retirement-income.html",
-   "tags": [
-    "YIELDS"
+    "OIL"
    ]
   },
   {
@@ -222,474 +666,16 @@
    ]
   },
   {
-   "title": "Forex Today: The FOMC Minutes should shed further detail on the latest Fed decision",
-   "source": "FXStreet",
-   "time": "2026-10-06T18:29:59Z",
-   "link": "https://www.fxstreet.com/news/forex-today-the-fomc-minutes-should-shed-further-detail-on-the-latest-fed-decision-202610061829",
-   "tags": [
-    "FOMC",
-    "FED"
-   ]
-  },
-  {
-   "title": "How Trump’s Tariff War With Canada Ensnared the Can-Am Spyder",
-   "source": "The New York Times",
-   "time": "2026-10-06T18:29:04Z",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORE9YNnVpTFVHUm4xWlpJV09KLWdBZHRCUmhNQmtQdjhtR2dFcWg1aVM2S21HOWxYemhGNlU3WXZqejVTTFc3N1NvSVlvemF1dWhQRHhFNFdTWllDQURCSjB6V1lvMjFYQ0RjWlF2MFJnQnhHbjR3RTgzY1QyTHBhSV9PTQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Canada sees record surge in U.S. exports ahead of new tariffs in August",
-   "source": "thecanadianpressnews.ca",
-   "time": "2026-10-06T18:27:16Z",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQ0JiVThlbldNYTVXU3lmZ1ZNQ1ZoaTRyR20wUEllOUQ4S3BQcXQwczBHcmxSYlkzc040ekY2cVZLR3Q1TVpnMzdKTWwwRG5pZDB2VDFoTzRpYnN6N2xvNUQxazN4TnFTQXE0RDhRbFJZbnJ5aTItUzhKUEtfdFNRQlV3bTR4U3FDTVBFcWxwZjhGbTZ4NzMwa2tMY1pjZW9uQWJJaGJEekJ2MHlsQVRvUUJEVkdBWUZqSk9qVEVNOVFTekxVNC1RS0x5cDRoZXZaNlBmRllJR2N2a0tLMlZIaGZPMElMd01GNVltUnJNQXBHZVRVWl93TQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Big Tech Pushes US Equity Indexes Higher Amid Lower Treasury Yields",
-   "source": "marketscreener.com",
-   "time": "2026-10-06T18:25:14Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0hMV3NEaTkyTEwta1FvNktqUmd5WHNyLTRKcHBJczlKbmZPQXVkS180Qkh6VzNETTBYTW9wWlU1UFdMcmVTeDVEZHoxRTZ2d1hQcHgwc25KNGtlR0NJb3hpTHNWYWFyeXFETjNMeThRYzYzZ0N2RTNaMThob0RRSTBJQ1lxbXpuLWNkWHFRYk8wcnV6RTZfVkk2dENpU25JNXBZYU1mekZPWlVqYUJoOGNKbFFJSE9IRHdnbQ?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Update: Big Tech Pushes US Equity Indexes Higher Amid Lower Treasury Yields",
-   "source": "Yahoo Finance",
-   "time": "2026-10-06T18:24:32Z",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaFRmY3U5R0tVRUgwdGdOb1pPdno0Vnd5WHdYa291VUY5VzlMb1hMYVh1LUtCeU1jVl9yRnprLURlYXhuaWZlcGN5emkxZ2VQVklTaEJpbnFfOG9XUWZXQ2ZxTjM3S1E2RFFSVEhVUjNMaUpwRmM3dGZhMXY4QlAxM3dCNnpnS21PQjlCUjZDa3Nka3hS?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Why Saudi Arabia’s Last War in Yemen Turned Into a Quagmire",
-   "source": "The New York Times",
-   "time": "2026-10-06T18:23:00Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYnRySEhOdmpmbVBQYjVYVldxbDd6N3BDb3JMT2pCVHBtdzRVNWZLOTZ6RENGeXMzUHN5MXJIRlduall0bGIwelRDQUVyUmZCSTlNWXdBdEpzODJubVV5bWdXQ0hLOTlacEZBMGc0M1k4NUZsbzdJeDQyUHdfcVI5WUdCY1c4NG5wSHFla0EyUG1xTUVGa1RwcUlQLWo?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed's Schmid warns inflation fight has a “way to go”",
-   "source": "FXStreet",
-   "time": "2026-10-06T18:22:55Z",
-   "link": "https://www.fxstreet.com/news/feds-schmid-warns-inflation-fight-has-a-way-to-go-202610061822",
-   "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Fed plans to overhaul bank supervision responsibilities, Bowman says",
-   "source": "Reuters",
-   "time": "2026-10-06T18:15:37Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXUxU2F5X1UwSTZreDdOc3FaTDdsWVBreUNYY3U1WVlpZXVUNGM1UE8tLU50eUU1UTlzVHRPVlhOTlBmemF5ZTJGY3lNa2Njc1NwaFNkWG04OVdTbkUxVGd4d1E1WkFkVkpXdmFoVkEyUHFkX24tSUlMTkZaS3FUYy1pQzJfQ1Nldy10bDhwdEhoOHg5eHFpVDFMWDJ6bkcyT1F3R0tDaWhFSU4tb0RHeUVYNFVSUHJT?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Big drivers of inflation right now are energy prices, AI driven demand: KC Fed's Schmid",
-   "source": "TradingView",
-   "time": "2026-10-06T18:12:04Z",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYkFBTHRrUUpZdzQ0YW1sUEJIcDQzVTR3TFpvWk5POUlTSTV6VGxHTm4yMlRtVHNEMDBGUHEzZGtGbDExV0ZaU1hUanNMZDVpRUMxZTV5LUk1NVR6anl5YlhYek91ZjV4VzNFSVFqck0ycDdtTTZlT0VnZDZHVGwwakNYaXdjOVo2TjBIUmtxVVRvN2pidzNycERuYTNXYkdkT2pJN3lHVjdsc3dRQmhMTWRZbDNNSHdxX080azVJVGRZX0o1RE1BSkE5RnA3engtc0lRNUprTjdPT0tjQjZCNTdB?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Silver Price Forecast: XAG/USD remains range-bound below daily SMAs",
-   "source": "FXStreet",
-   "time": "2026-10-06T18:09:44Z",
-   "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-range-bound-below-daily-smas-202610061809",
-   "tags": [
-    "USD"
-   ]
-  },
-  {
-   "title": "Trump suggests Iran could ‘take out’ Los Angeles or San Diego",
-   "source": "The Guardian",
-   "time": "2026-10-06T18:07:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMk1uU3luOVlwcW5fN3VQd0h6dXExY3VOY0ZJRXNRZEs3d3E1azRvY0N3cVBJbmtsM05wQ0xSRE50WWRCeXh4T0RLTFNRbmlGSGQwSURUQVlGNktPSC1VcVRjSHdBVm1HZGxEWHNtWnowRDBWV3gxMzlKbXRyRlgyWVhpcE91SGNRLUs0b2FvX3ctUFBJT2piVFBVUU85TW85V0tDRg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold prices forecast to reach $5,013 per ounce in 12 months",
-   "source": "Investing.com",
-   "time": "2026-10-06T18:05:30Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOVZFRXhSbTRXNlFTNWh6b3RmLTZ4QkVTTUZFZVN2WHdFY2ltU1JzSGx5Mm9DakVyeUYzZGFKVVlRdFg0Q21FdXFHSVJWc2xqLUl2VDkwM1dvenIxN2t4ZnF0MENaaHNndWROY3VFOTFGRW55M0R5MzVXRFZ6SUpJeWJFYWZtcjJYOUJLZC15aEFpQUJGMDhua3ZBekdlRVpiUEp5ejVHR212U0JlRU1YQVNPRUtfenAxeXc?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "The World's Gold Producers Are Starting to Hoard Their Own Gold",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "time": "2026-10-06T18:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3ljaUxXUFZZa2pQdWlyZXZkdnFBRGE4LWFxcGpSeXJFdWpTYnlyaXJ1VGtnb011WTlnYjBNWExWTVdPSzQyYUt3Y0tVZVZHM21VeVU3NzdvSUZHYVRkZHBUODg0amRjSndsMzlWTmNwSERDam9ocHQtaDlpdlJkU0tNUXNkOC1NRUUxWjU1bHBEdm5SLXk3MkhEcUk0bU0wNXfSAacBQVVfeXFMT1lVS09LcmdER1g4TXY4V0l6NEF5cV82Z09PQWVnQzd5LWxjVHp4dllGVjZDdlMtaU1jSThCVGx1RXhWX3FfUGYzUVpERnk3bkhvSTFlWDB5OXBFUlgxblFlVGpRYzFTWjdHNDA0TkNRUG1FbEtRRWhtd2VXcFZRS0xzVnFmcTJURU9TZ3M0SFgydGRycnJpTDJhdy0zUlQ4ekY3Y3VQRXM?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "South African exports to China’s 1.4 billion-person market surge as U.S. slaps 12.5% tariffs on Africa",
-   "source": "Business Insider Africa",
-   "time": "2026-10-06T18:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdmtMcWJ0cXR6bE1iNHgxeE55UzZKS2RnMklLSVdVOEhfdFlwc2hmZ0ZtbW9oUDE1WEJNb1hBSTJydWNtQnQtYzVpcHZCRHlQeXl2SFdOdWJYdnk4ZGhua1ROMjlIYjhsWUkzcTZkcUI5THd4QzN3anNPdDFEV1lQaFo0ME9xdEk3R1pYV3lQamdWMzJhckVPa2Rvc3BBOUZzdl9Xa1N1N2VXXzN5eDhBM2d5YjM5SzVBZ21ObUlXZDc2RlZPcUVQS240V2dkZzBaekZ3?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Hungary to open Communist-era informer files in reckoning with Cold War past",
-   "source": "Reuters",
-   "time": "2026-10-06T17:58:42Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdEFPeDRfbnBwcW04aVlWbEVyR09YN3BfQzl1ZDhjcU8wRzdpUUc5X3FVMlZVVFZqM3lYemc2MHBlT1VzdGpjTkNieVdJWkdwZlg5clNrWjExck93SktBSC1lMGtxcmNKMk03QnFrVklJYmp1MXJwek9ZcVZXdGJPeDB3SzB6MkhobFNPSloyaC1tckttT0pFcThTaEJEMXdDQUtyOXhPR2tNdEwzTW5YMUZjeUtkYUttOWVydDR4NzBkUjZoS2ZnRA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Rebounds As Dollar Pulls Back From Yearly Highs",
-   "source": "FXEmpire",
-   "time": "2026-10-06T17:56:42Z",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ0xlZTF5YTQ4OGszRy1rMnJ1OThQVFQ4TTBQbkpjY0VMblEyaFRCdzhCSWJveVFpQmg1eWtQMjlXTVUtQ080REVTVUR1ZFN0MHFMZDU0Sm1CdkRvaHNaUTRLVllMZ0x0dVdaM0QwZm9ZaHc1NVZTTFA1Z3ZsTC0tQ2drQXlBb2QzbEUzQlJ5dzRtY3ZBU0N4ZTZMLXRVMmRXNnVJVDJHY0hMaElkNlRzdC16MVh0b1R0ZjVGUnJ1YWRydUlyc1QwZjc1QlBmeGpkbk1OMUgweS0?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Dennis Franchione, who revived TCU and coached Alabama under sanctions, dies at 75",
-   "source": "The New York Times",
-   "time": "2026-10-06T17:56:06Z",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeFdTTzN4YkdsLW1vQVo5YUl1MUpMQ08yNWg4T1d0U0FieVEyMTFwYjZUN0sydUhmdVFKcno1TmFGWFhUNndGWVJrWVd4cGJaU2R2QW45Um5xQzM4VDltYzlQbm5lY1FUWW9WdzJFdDNCdG1BaE1rMV9uTmFGbWdwdE82RjdBbGZDNmc?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Fed's Daly says more hikes may be needed if shocks persist",
-   "source": "FXStreet",
-   "time": "2026-10-06T17:55:51Z",
-   "link": "https://www.fxstreet.com/news/feds-daly-says-more-hikes-may-be-needed-if-shocks-persist-202610061755",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Tariffs leave U.S. consumer prices higher even as inflation impact fades",
-   "source": "TradingView",
-   "time": "2026-10-06T17:55:05Z",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQTd0S3R2RGNldmpIbi13Vm5PNzhmTngwekpHVHBGYm52dVJGQ0tteEEyOFRPYm85OXM3elY2UGFNTkxrclNiSEdrYnRxeFlIVDRyTjZXZ01sMmlGcjdlY0w0M0NOZnNra0dVZUhlRFc0Z253Q2wzQThRTUYtdUNhUjNuaWFMYXpNOUVoM2M3b0JDaEVhMlRoYVBMMVpnb2Q2QWNFSDkwV19XT0JraW8wTmFQcTlGTDd2cXZ2SDd5ck5wc3NVSVdMV19TRG1Nalk?oc=5",
-   "tags": [
-    "INFLATION",
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Ukraine's Zelenskiy says intelligence shows Russia is preparing massive attack",
-   "source": "Reuters",
-   "time": "2026-10-06T17:53:45Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU3BvN0RtZlBjUkl6T2RMRGhCS1ZhSnl5Q1RqOGRvOTE0aHBNMTVhU1VQc3BkenhpVk9WbVVGd1ZuZDNvRDFXWER6V0xadWtZcFVVVzlNakZ2bENjWl82TVVQZ0xVbTNEUUh5MnBHX1B1Y012SjdQemFSbDI5a1U5eXlOOGpTSUFoYnpJMWdhZThHU2Q0c2szNXlDRFAta3pVQ2czX00xTk5FOVdZSEoxWk54VHBqNmk3SlI0?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Federal Reserve to restructure US bank supervision model",
-   "source": "Investing.com",
-   "time": "2026-10-06T17:50:40Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFh5RUtIYVlUNWVaOHZTMlRKLXdkTlk1SkEtZHlMSm9HUlpWQkN4WE9IaDh2ZEstOVIzUVBCS1VtSjZtbGpqaW85RVYxeUlXMFRlQld5QXBmNXJUX2ZtTEFjMUF5VEwyWUNwbzNzcU85emZoZ3FDMlBQQmVSN2ktQ0oyUUhHakd1LUt1cDZ1djdZQW9JQnZFX04wUkRxWWhKRVVEcnpkcHFyTllHNjZvR29aWQ?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Chinese Yuan: Trade war risk rises on EU-China tensions – Commerzbank",
-   "source": "FXStreet",
-   "time": "2026-10-06T17:48:47Z",
-   "link": "https://www.fxstreet.com/news/chinese-yuan-trade-war-risk-rises-on-eu-china-tensions-commerzbank-202610061748",
-   "tags": [
-    "GEOPOLITICS",
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Bought Months Ago for $30, This Painting Set Off a $1.35 Million Bidding War",
-   "source": "The New York Times",
-   "time": "2026-10-06T17:45:12Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZG9tdXdIM1dTdTlwYTRrajNRUVpxMnY0akpLbGRtZGZEMFJPQ2g3YnJtRjd4ek84UEc3XzJpeFBHSmdOQ3lUWDdxMXNOMTcxLVZ5Mzloc3JQZzVCTGk4ZDloNTVhQy05YkZQZXlLYXZyNzRjcFhpbVY4TjgtVmwwNml5dExjQUEyUnBJVjVoeWplMWJzZUROLWtpOXNoX3liWlFN?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Jerusalem Daily: Tension high in Israel ahead of October 7",
-   "source": "Al Jazeera",
-   "time": "2026-10-06T17:39:19Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/jerusalem-daily-tension-high-in-israel-ahead-of-october-7?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US EIA hikes oil price forecasts again as Iran war drains global stockpile",
-   "source": "Reuters",
-   "time": "2026-10-06T17:39:05Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZk8xUmkwZm83ZUdaTWpWaEVibFZzckNxOVFNOG9OTjlWdzJBdXRqWk5GUUFoME5DWXJmNThNRlIzdVBxUXNfeGd5cTFFNjlVZmg1VkFwVXdONzVLNGh0RVF5S203NlRieWFBNEY3b0dnZlZ3MERxUGlYWTRDaGwzYUJaYWJxWjI1WTlJbDNfMFJ0TVlqSjdFNnl6SVF6UVhmQlhNM2pRUnltSDVMMXNmS21JZkMySWNFVjhtbXVSMUw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "S&P 500, Nasdaq Composite Hit Records Amid Big-Tech Gains While Treasury Yields Decline",
-   "source": "marketscreener.com",
-   "time": "2026-10-06T17:34:32Z",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVV9jcHdWOVF5SktUcHVtbzZhbTdXcGlxaEt5cWt6N1ozX2tXRXpvUFNvSzFFZWRfZFlGYlM5dzBZUGR0eVAxMnItUVJvWm1iQ3lqM09EZ2tzUjdDV2JyNFlCT2EzQ3VWZmxYWVB2TTNFTXRTRy0wbFBNS2RGLVJjYnNVcUpwM2MxTER4M3JTM3g5RmJmMkNwbEpCWHhlZ0FxcWEzRG1acnd3VFZoS3lrUThpdlkybTJ1YjZNbk14VmVPMm1JNDhOVDFndEZQaE83TDZPbUR3?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "US trade balance sinks deeper into the red as imports hit record high despite tariffs",
-   "source": "Investing.com",
-   "time": "2026-10-06T17:30:33Z",
-   "link": "https://www.investing.com/news/economic-indicators/us-trade-deficit-widens-in-august-amid-strong-imports-4934478",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Central banks add 39 net tonnes of gold in August with China, Uzbekistan and Poland leading purchases – World Gold Council",
+   "title": "Gold to hit $5,000, silver $97 in the next 12 months - LBMA delegate survey",
    "source": "Kitco",
-   "time": "2026-10-06T17:29:33Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZEJFR3YwV0p1YTlSd0VUUTRLNzBGUlBQeXNOTVBmbWNzN1ZhaXZjU2RZSmN0aUZQelNTUERyVWlQMkYxVDFNcjRXT0lvM1FmQUk2Rld6TDVQWktGdEZpN0JTQkVzekJGOTU0MFdqTUF5SUVZOGVxMDJibTY3YjJtNV95QlplaHlnTTA5cThSYkhrQU5SWWlTNXhyUkJ3cF9aM3NCS0UxRU4xQ096TVNxQUwxdTFYM3Jh?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "CHINA",
-    "CENTRAL_BANK",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Update: S&P 500, Nasdaq Composite Hit Records Amid Big-Tech Gains While Treasury Yields Decline",
-   "source": "Yahoo Finance",
-   "time": "2026-10-06T17:29:16Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU19LWms4c1lzY0FFdHVvMVQ5LWNyOUZ6cjlXR09zTEE0WkctYmNfSDNrTjY0WTFjQWhfWkxFTUhBclBSbVEyZ0RKS0Z5SFdxMW9pMm84RS1fLUJGWXV0b095MjZPTkZvRVFGSGN1cEJ1cDhsYlZFcUJBeFFYQkNMeFBDUU9BQjJRN0dmam9wTlhEUDh3aWc?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "UK considers expelling Israeli diplomats if Jerusalem consulate shuts, sources say",
-   "source": "Reuters",
-   "time": "2026-10-06T17:27:13Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRzhlTWhiblhLTHplWEU5Y2hEc1dHVWhPSmpyZFMtYkY1R3c5YzJjT183Y18zNWNnRlNKZlh0RldweGp6V2E0TUpSemxmMHdjaG5ZVWF2anFBUlNwdXp5TUgwTldPZll5ZW8tRG9WMTFMY2wyQWhTeEZKS3BIN1oydS1hTDhlYWE0RlZ3QzUwaE5yMzZGb2lMWTc3blRNNnkyeDBOdzFYSEN0aEVwQ0tleUdMTV9PeDM2SDdlb3pPUi1aWE0?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "WTI rebounds as Hormuz risks temper relief from rising Gulf exports",
-   "source": "FXStreet",
-   "time": "2026-10-06T17:26:36Z",
-   "link": "https://www.fxstreet.com/news/wti-rebounds-as-hormuz-risks-temper-relief-from-rising-gulf-exports-202610061726",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Decision Time at Key Levels: Dollar Pullback, Gold Bounce, Metals Still Waiting",
-   "source": "FXEmpire",
-   "time": "2026-10-06T17:20:48Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaEt0LU44V25nTUlORGV6anBrU1hWZEQ4THRNS1N2dGhJUklMUFRlSEpoaTBPMUFIUEY0ajFJdllmTWFhaTBuaWV4eDg4UHN6UWxuX3d6Y2tuZlo1M1JSNHpDbkF1NlotRjRISmFVbHJpOExGNVlEeWRpSFlLZmNBN3RMRkZzc0pfQ2ctZUt0X1JGcnZNTGVnZk5ZU19UR3g5ZUd1WEZOcUV5V210YmJ0LVBSV3JMc2xOSlh5YWNmcktQMEE0Z1E?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold industry expects price rise to $5,013 an ounce over 12 months",
-   "source": "Mining.com",
-   "time": "2026-10-06T17:12:38Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObUd0aTFXZEJkTHNrdW9XMnlPS1NBeFZFd3lFVjZ5enBXNGlscFotXzd3WF9lUm9yVHh0NXBLVzZRY25lZkFXSE13T0ZHbnBzVW1nTndlSzJHN2RVT0lBTnViVmJJRXF2TmF4TEpiOE5fX0lDM3dPa1hSYVVDQmpUaXk4V2VsUXBWaFUtckI4QjE4ZXBXbW84?oc=5",
+   "time": "2026-10-06T18:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWExTS3VPdklNbjZNdHV3UTRRc0xPdWp5dHItSVJXMEhfeDU3NmV4QUxNNk9nc0VaNEl2VGx4RXc0eEtXcm9MRzQ2NVB5Y2JIdHp5dGVwSVA3VjlwUjMzWGxEcFNLdzR6aWctX01IMUlyRFQ4SUJaWFB4bGplUE9pcXhlb0JPWjMybnpKQVB1Xzl4WXZIcEVNTDRlZTZxVVktbzEteEgyLUc?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Gold’s Next Bullish Catalyst May Be the Rate Level That Breaks the Debt Math",
-   "source": "Investing.com",
-   "time": "2026-10-06T17:09:43Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMi1YRzBfRWt5NXpYdG9LU2c4bDR3UmlCb25KQ05NcG9jQjVfSHRlQkpoQV9remRDVFFVc3lZeVRCWGFIRDlxOXh1ampmSEx0Z2c3R1hxRXYwRGN4ZjRpenl3WlNMeFV6bWpRZ05WbzNHM1VuNFNUcTlnSWZ5ajZJNHRaU0puVHlPd1lQQnZvTDNjUTJKTkVpRWZOd1VCczAzY0huYTNkelVEMWsxZmZ3Ul83Q2I5REh5RzlnWg?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold edges up as dollar, Treasury yields slip",
-   "source": "TradingView",
-   "time": "2026-10-06T16:55:30Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFM1YXoyMDNwd2hBNmpLN0VtMXBRYjBaYzlBYkdFOGVpb2dqWUFkSnoyTEdmOXRMLWtLa2VwTEk5N29yaW91MVhNaUx2LUE4Y0w3eWNvM2xSMEVKdjV0dlhrN3RkNUliakFkQkt2OHkzajdoWTFvTHFmN3pDNVoxMEpSS0xfWklpQ1VlLTFDUGxYS2gxWTAwMHUwX3lpNUdHak84RkROTGtseVBkWHBEc2tkVDU?oc=5",
-   "tags": [
-    "USD",
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Djokovic wins China Open after de Minaur retires, Alcaraz wins Japan Open",
-   "source": "Al Jazeera",
-   "time": "2026-10-06T16:53:37Z",
-   "link": "https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Higher Treasury yields are doing some of the Fed's work, says Parametric’s Nisha Patel",
-   "source": "CNBC",
-   "time": "2026-10-06T16:51:26Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUzBOa0N3ajktUTl1VGljZXJYVVFRVUxpVHhPN1hfdHdKMUFCZzVORmhhUzJkVDI4T1RKLUQtbW5xMkhMSlAteHdOQTZvcVNnZXZzQ0VxTk1MY0UxVjdkd2ZyOFdRQWJnc0s4SXJKLVBVa2NxTS14YXBpTFZ0NDc3ME9MeUhfNGhya2pSRGVQOGFLN2p0VEozNUpIUXdxU2tiUXlySEhiOHdrc3dzaFhFem9lR0lRSEgxOGRhNV9JWUdtYXpTS2c?oc=5",
-   "tags": [
-    "FED",
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Market pros see signs that the worst of the global bond sell-off may be over",
-   "source": "Business Insider",
-   "time": "2026-10-06T16:49:14Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSEZyclpHYVJTWHR0dlVHNGJrbENPejJhSTFNSzRlcHlqcmhCYmFUd01mN2pETjJZNTBIdlVOaV85MmZlU0lxak5PTzlONXBxWW43aHFUNFlJQWE0NkZYUEoxZTFZZEZrb00xQmFYRVFaRXZlcGxWbnpNRTJxTEhJc3hmb19tTk5jRDlfSDRkbC1EN1dUSDUtdTljTVd1NGNpVDNNeVpHV0dyQnJV?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "U.S. military to conduct first firing squad execution since World War II",
-   "source": "NBC News",
-   "time": "2026-10-06T16:48:47Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeENrWHNNamFTRG9kcHlmNWpvUmFYNVkxUEtTSzNjMm53dGpqMU83TklreUlvcUh1UkZscy1OM1RDYVZpdG1QSHoydlVTWmRCRmx4X05nMEZSek1qaDlNZ29MdngwV1VTMGNrTUg1SnM5V2N1T3J4VHpfTzN3OTl3TjBndDB6RnRsQUdxclhvTHdsZXRFX05jSi1pZjYtd1JGOWxKaWxkYXUxOHVKM01ZQ2xtU2VLcHdHZVE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "EU envoys set to approve major new Russia sanctions on Wednesday",
-   "source": "Reuters",
-   "time": "2026-10-06T16:39:20Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDJ4ZF9TakJ4NF9aZUlEV2ZEanBXX2xoRzRhOUU1TldVUy1pdWYyM2ZQVndneV9GSlJSMTRaaFhPdk5pZm1tY3FfWlJPOHFOVE1EbkZIR2l5dW5mYlZnWlVDZmVFaXRCTmk1cG1vc2hybmVNdnhzdk9rX0xzS3VvVi1hLTFCanpEQXREd21Ib1R3MHRRUWJ5QVBmZUZZYW5IY1E?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Gold’s Weakness Deepens as Trump Revives a Carter-Era Macro Playbook",
-   "source": "Investing.com",
-   "time": "2026-10-06T16:24:00Z",
-   "link": "https://www.investing.com/analysis/golds-weakness-deepens-as-trump-revives-a-carterera-macro-playbook-200689037",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-   "source": "BBC",
-   "time": "2026-10-06T16:22:37Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US Treasury yields are \"screaming good value\" says PIMCO senior advisor By Reuters",
-   "source": "Investing.com",
-   "time": "2026-10-06T16:21:46Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM2VmQXR0aVpHTmJDanQ4eGRJN0VTU3FxRDZuTkF1ekZlbnMyV0xaTW1uYVdHa012YXZoaG1EZXZiMERybEhyaFFiOUVIenVlZl9GUlBpWFNVOGNzY1JIbFhtTEFicDRnM1ktV2YwYWNneGN5WUI4T3FMV0FpbFd5SlM2TXVQZXZVZUQ0U0hLd2kyYVlTZkt3X1VlTUY3Q3NNdmYxWEVKMHRsdnZUWFcyZUxsR0ZscFhkVm9Ld1BB?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
-   "source": "CNBC",
-   "time": "2026-10-06T16:19:10Z",
-   "link": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Is Europe preparing for a wider war with Russia?",
-   "source": "Al Jazeera",
-   "time": "2026-10-06T16:17:58Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/is-europe-preparing-for-a-wider-war-with-russia?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Why FuelCell Energy (FCEL) Stock Is Trading Up Today",
-   "source": "TradingView",
-   "time": "2026-10-06T16:16:08Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDBwb2FwWkVrZHhqWjR0c00xZ0JBZzBkSF8zcHRBUWhYR3dzeXFwMkNvYjhLQmMyUVNCVXNVVkRoaHN2a182bHhLWmhOZ1YxTGU2S0ZwTVBseTNBQ2xNN0c3M3dGRFVJTzlBNmZ2NXVsNUdsdnd4NXZKWVNVbWxXZEZhbTNaVU5xVUt6MnY3T19zMGdtWTl2V2xBdFNhaFVFLXVhR0lvS1Z5c19sRjRQTA?oc=5",
-   "tags": []
-  },
-  {
-   "title": "US Dollar Index slips from its 18-month high",
-   "source": "FXStreet",
-   "time": "2026-10-06T16:16:07Z",
-   "link": "https://www.fxstreet.com/news/us-dollar-index-slips-from-its-18-month-high-202610061616",
-   "tags": [
-    "USD"
-   ]
-  },
-  {
-   "title": "Fed’s Daly: More tightening depends on whether AI, tariff and energy shocks persist",
-   "source": "investingLive",
-   "time": "2026-10-06T16:08:04Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXItdVNvSm00QnY1YnV2VkNJTzRGbmU3YUZGYlBXbm5WTUJta3hLOGtjQnlrZzhCQXlKeWdFRHV3US0xVzhvMDlybDR0VXlPVlpId3VQN1RiU0Jhb2tacnJ3RWFrOHFWUVBQb1UxbExCYWdLZlR0QUMyQ1BqeENHMjV3WWpUQmxOdHFqbm5CdlNHUm13cWQ3WWlwdlU2YkdkZ2ZMYWFVLUd0UldpVzVVLVByX0cwRlhjbThYenpnMA?oc=5",
-   "tags": [
-    "FED",
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "SF Fed president: AI demand could extend energy shock",
-   "source": "Axios",
-   "time": "2026-10-06T15:59:19Z",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hTXg1dF82bUVSZnlrcl9QVFhsTGY5WXU5UGZUa3BFazM1Nm9ETkljMWdnY01hUGgxMG1Ba1VESXhhMDhXSmoxOGVMaUIwNWpncTkxYjdpTmZoUUM4XzRaRGlvcmo5aG5KVDJwYw?oc=5",
-   "tags": [
-    "FED"
    ]
   }
  ],
  "fedCalendar": [
-  {
-   "title": "Speech - Vice Chair for Supervision Michelle W. Bowman",
-   "time": "2026-10-06T10:45:00-04:00",
-   "impact": "Medium",
-   "kind": "SPEECH",
-   "src": "fed"
-  },
   {
    "title": "FOMC Minutes",
    "time": "2026-10-07T14:00:00-04:00",
