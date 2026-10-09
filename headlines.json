@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-09T13:04:27Z",
+ "generatedAt": "2026-10-09T18:45:09Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -11,7 +11,7 @@
   "fed_monetary": {
    "http": 200,
    "items": 15,
-   "kept": 1
+   "kept": 0
   },
   "fed_speeches": {
    "http": 200,
@@ -41,7 +41,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 10
+   "kept": 9
   },
   "investing_news": {
    "http": 200,
@@ -51,27 +51,27 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
-   "items": 50,
+   "items": 49,
    "kept": 1
   },
   "bbc_world": {
    "http": 200,
-   "items": 34,
-   "kept": 2
+   "items": 27,
+   "kept": 1
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -80,38 +80,38 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 35,
+   "items": 36,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 22,
+   "items": 26,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 17,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 44,
+   "items": 34,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 13,
+   "items": 28,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 56,
+   "items": 51,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,141 +125,492 @@
  },
  "items": [
   {
-   "title": "Horn of Africa Slides Toward a Corridor of War",
-   "source": "Bloomberg.com",
-   "time": "2026-10-09T13:01:42Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORHJkUDJZY2QxSEdvRFhPVE5TRGh3NHoteFFjZW5oX3FLX0l2U09HZ3RlZWZtVHVHV3RESS15ZDRhMTFZdDMwSDdSSkFXRHlYN2pjWV9EQ1c1d24zWEQ3ejIyUnBacUhDdTJkLW9pdjV2eU93QkUzbjNqZnJQRWZSUVM4QlIxSU9JcjFWVmotNm9WeUZxaUdGUjZzbFhLX29xZ3ctWm90dzR0RFRGc3lJeEJNeEpGQnBwVUdKbGpn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
-   "source": "CNBC",
-   "time": "2026-10-09T12:49:28Z",
-   "link": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Think 5% Treasury Yields Are Scary? This CEO Expects 8% - iShares TIPS Bond ETF (ARCA:TIP)",
-   "source": "Benzinga",
-   "time": "2026-10-09T12:44:45Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT1RCUFhMX0pNX1BCOUhta0xCc3lZa3hZTVc4ODFkcnhYOVlhRkdsOHZlR1FhRHFIZDFpTnVCd1BfSmtKZ0lBTUVsbU00NGs3UWQ5VlYxMXZFLUJRRWptaEdTcWtvTXRlZFhwalZvSmFPR2VuS0dVTUU3NmtFazJpLWNzcGt5TUM5UHNFQTZ2OU5tbERYNXVhdTJyS25tN3FqbE5EdG9VVG01YXhsM2xCQVVlV0ppU1FhRmFhZUk2NXhMQVUz?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "How have interest rate expectations changed after this week's events?",
-   "source": "ForexLive",
-   "time": "2026-10-09T12:43:37Z",
-   "link": "https://investinglive.com/news/how-have-interest-rate-expectations-changed-after-this-week-s-events-2/",
-   "tags": [
-    "RATES"
-   ]
-  },
-  {
-   "title": "Norwegian Krone: Rate hike risks support currency – BBH",
-   "source": "FXStreet",
-   "time": "2026-10-09T12:40:15Z",
-   "link": "https://www.fxstreet.com/news/norwegian-krone-rate-hike-risks-support-currency-bbh-202610091240",
-   "tags": [
-    "RATES"
-   ]
-  },
-  {
-   "title": "Jefferies cuts Sunrun stock price target on rising Treasury yields By Investing.com",
-   "source": "Investing.com India",
-   "time": "2026-10-09T12:36:02Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnJ1bm9MYWhjUi00cXRDU1JwcUNITEF4UEYwUzFDQnk4b1p3cFlhRmlOaTk4QVJpV1RjaHBRUW1McEFoMGpuM2l2a2xYZUJ2N1M0WE5NS2h2MmpOVGU4Z0lIRnV3Y1F1Ni1qRnQ5bzJQSi10d1lUYmtEdE9BelV2c21zdGlDYVQzVGlHaGQtOGZhbUpOcXltYVJvd1NPNUZCbzZUY2FmbS1zY2ZyX1FWYWJWYmxwN2RXRFJBZW9qMG80eDJDZmc?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Ethiopia says it must defend itself against Eritrea's 'all-out invasion'",
-   "source": "Reuters",
-   "time": "2026-10-09T12:32:31Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGFWemFVVDlKWFhiNWRtNXFCTmNyWGhINDBId0VUbUk4bGgta3dwOUlUNXZUZ3pSTmFocG5KY2dkYWRoRktkbDdpX0hiY0w2Si1kWkhfUkhPdHRlX1M1emZVQzBnbkVNU2paNU01RmdiWDZvTHhDaXBqVHN2ZFhud05NeUxJajlJeHVrSDNTeVpFcjA2RXU0THFSeWZDOFJJT0s3UlhHclFKLWJIYmxhdXpTaGcwYm5GWHc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "After pledging swift results, Trump team prepares for long economic war with Iran",
+   "title": "Trump escalates effort to fire Federal Reserve governor Lisa Cook",
    "source": "The Washington Post",
-   "time": "2026-10-09T12:31:22Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRU16Tjhva3V0WFZTMi1HV1NuT0hhOVkyUWZXaEphNHkxZTBoZ0RGeThULVNSVjR1OGhvVy1kZnkzcXNuekI1bjBkOXNvVUxrMTFhRy05N3pXRDF4dUVsYUZFV1RlYmxLdXZBTkd4R3FhOWJMbGFGY01YQUlhWjZRMHhIWU5Nc25vTGw2eXRNU1lfWUNRSGtmeUNqc3k4eG5ETk5kN2o2eU9ET1RhSjVfYnBDN1M5SEc4bmJieHNRVE5UTTQ?oc=5",
+   "time": "2026-10-09T18:41:17Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYjlOZTQ4TndWWU5vZlFJRXZmTWpHemhxVnlsWi1RVE1aalh6MEhhRTNzU1Vvc2lpb050STlEWFJ5OVE1a0tjWnZGZkxtbnpUVWZocHBOSTR3MnREUXBmbTJpN2pRb0s1LXByRkRjekxYdXVxaVFGdlNib0JQUnptYndHUkplMURQUG5mcnFkbzY2QV9mRE44Z2dnUTZVUGVTbFBsQXJieHR5NG9lR2NFZk43enU?oc=5",
+   "tags": [
+    "FED",
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+   "source": "BBC",
+   "time": "2026-10-09T18:40:10Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
+   "source": "Al Jazeera",
+   "time": "2026-10-09T18:24:51Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV04xd1dxLWdROUZ1WVdyaU5HUzJHUUZlaXBCdDJ4SVNTYmh3MEtsaHBmSDlzdWlXWDM2NEUxZEh1SXhfd2hJWk5FNWNJQWltRlNqVnJrWHBpNkZ4VGJSWU1TUHdCV1Z2a2NvMGlXbFBnNGNtVnNoQmxmUUxWX19ja0JNd2tfSndjTExXdnVOd0pZQUdiSHlyR0ZISE1lUHfSAaQBQVVfeXFMTWY5UF9KWGpwcDk1ZHZSWGlaa2xGS0VCcm85UkpyemV6cENIeTdLQlpRcTdrbVBBdTlpVHRIalBkeWxXRXVOX05QeWJlVExSYVdGNVJGcHlkaGoxUkQ5WTRzRU4tLVh1ckdHZHh5VTRHSi1uT05NVlgyTkRiWW1fb1h0NVVWZG1DdG9wX2VuYVhReDVqYVM2ZEZaRjJ3R2dtLVRYUXI?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Opinion | With war project, US tech ecosystem is beginning to look a lot like China’s",
-   "source": "South China Morning Post",
-   "time": "2026-10-09T12:30:04Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR3FoTWtXUHpjaXRVQVRkb0ExTEVRX0VuYkYydzVpME5uQVlTTjh3YV9Qek50Y2lUTEI5eTQwQU5ieXJRcVNfeFNZY3ZFdFM2ckhzZlBUVjFwZ2std3pucmFFMTBvZjUyMU9xQlRHMHFkY21kbXl1THdGZTJtYzVSUWtjZzJGMGlzVkVoajF2RGdHVERkQzk5bHhiZW4ycG9zVzVRNDJKQmZ6bUlKMlFOQXptazHSAbQBQVVfeXFMTjV3Y1JKZEo5dkpMeDItUS1hWWc1Mnk0Yk1yc1gtRjc4M0d2TW1BTTNKZHVrZlZEVGdaVU5od2lIdEUtT1RRVnQ3MzhOeE5mWjBZd0ZZQ1lObTh2dGU0N3dILTA4ell2MEZPaW9XZnNpc2V6Wi05TExOalpzZXp4TzFybi1mdG9zeUtudzJ6c29hZzdIQ0xtTGpWZ2tEa1ZIUDFNanhfeEwwb3NBQVNNMWNjYWlM?oc=5",
+   "title": "US sanctions International Criminal Court itself in major escalation",
+   "source": "Al Jazeera",
+   "time": "2026-10-09T18:23:52Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVmVUSkZhQjRwQS11bzZ3V2RQWDlaY0NvLTkwdDd6bUpjX1UwNVcwLWI0UExJV2FCRFZlRDZQalVZMEhleHFZb3E1WnBwZTZRMFRSSmRDWDNESzlIUzQyYzJCMFEtZjRDZy1FZ2dhLWVWQWEzOVZwLUhqWFl3QklTb2Nfd0pMX3J6cGl4cjU3Q3ZRT0QwOXgtelB0QU1WYkp3X2FWLThfVE5RZWt2OVdr0gG0AUFVX3lxTE5WSy1UNkxSME5YbXVTbU1vMHdTQ1U5RmhQX0lwQnphVjViaWtkQmdWNWs0ZlVKdUd5RlZrNDBFSHpUMkstMWY1NUFFRHhFazIyZmtEOUFxMDFNRlJFREZVQ3ZRZHNweXpVRmxtZWJuM0t4SGluNmNaSWNPMTl5VnB6c3F3dVdpVWJBdTNoRW9KQVhfVmZEc2NkM0xGaXVXNkxhNkJVN19BQjFVMXlhR3V3Y3RlTA?oc=5",
    "tags": [
     "GEOPOLITICS",
-    "CHINA"
+    "SANCTIONS"
    ]
   },
   {
-   "title": "Bessent hires former Fed board nominee and investingLive reader, Judy Shelton as adviser",
-   "source": "ForexLive",
-   "time": "2026-10-09T12:21:48Z",
-   "link": "https://investinglive.com/news/bessent-hires-former-fed-board-nominee-and-investinglive-reader-judy-shelton-as-adviser/",
+   "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+   "source": "CNBC",
+   "time": "2026-10-09T18:20:57Z",
+   "link": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
    "tags": [
     "FED"
    ]
   },
   {
-   "title": "NovaGold Stock: A Permitted Gold Giant Priced For The Worst Financing (NYSE:NG)",
-   "source": "Seeking Alpha",
-   "time": "2026-10-09T12:04:51Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmxTOWxabTJsMjJSQlRLa3dsVHZSb3hkaU9MZzUtMm9tNXRncVFPWUkwTzB6Q3pSOXVySHduVW1LUVpRUkZpTnl0X3pfel9UbU9FaUZxSE5BZjN6cTFtMnF5SUJ6VzloNGF1aG9FNHRZUDZzejE0Z3lwZ05xS3hfX1RpcXFZTEczTjBIc1lFX1NjUXBTVDFPQUZmRmhwVHNzRm0taXRR?oc=5",
+   "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
+   "source": "Al Jazeera",
+   "time": "2026-10-09T18:14:39Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZXVJRTc5dmtkLTcwLUlQY2g0bnp0RXJwWGZxTHh2b3hSWjdGNDBnbGtkSWsyREM1SVVWd2lGRU5VUng3b251VDhqSkFHb0QweThSNlJ6VXV0Rm5QVnpFUlNRZ3ZxLWF6NTJVcFdjZmY4dlFRa2czZ0hsUGJGRVFqazVYbWZDbzFsWExubDQwQ2dJZHFYQWppdlZXMFRlVHJjVDV2cHllb3VVQTRNWVhhTG13eHlxbDlYakHSAb8BQVVfeXFMUFhNY0xkUXlhMnJkaHdsaEVYSFVyNXZCTDd1WFNQQlkyQWxiTWF1d0RidnZlQU5feVZ6TzN6ZG54RXp6d0d6eE8yeHYyME5PWVBaaHE5ckp2YkgwSERkd3BuZEs3MkdteEdJeDVlemRLWUx1QTE4QnVoczU2dWxHel9BZTVXXzBZWmc2ek15NVFkVEhQVmFrc08zejZUS0JKRlA2clk4aHlMNXo1NFQ5cjQxRXo1RmV0TS1qTC1XTGM?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "US hits International Criminal Court with sweeping sanctions as part of drive to dismantle tribunal",
+   "source": "AP News",
+   "time": "2026-10-09T18:07:00Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXNFcXVnRVZfckpBb0hJMmN0aVhRQ1lxZHlsUlR4MWhLN0J0d0VYdllmYnF2SUlxV3BFN1VGbTAzQXMtaTZjbld2WFg0akNnMjNaUlBTRTlZeE1SQlZ6OXJ6Y3pibHNOQjBreHRHN295WTlVZmtnT0RnX1YwTV8yWTlibFA?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Gold reclaims $4,200 as weak US sentiment revives bullion demand",
+   "source": "FXStreet",
+   "time": "2026-10-09T18:04:49Z",
+   "link": "https://www.fxstreet.com/news/gold-reclaims-4-200-as-weak-us-sentiment-revives-bullion-demand-202610091804",
    "tags": [
     "GOLD"
    ]
   },
   {
-   "title": "Opinion | Tucker Carlson would have you forget the truth about Hitler. Don’t.",
-   "source": "The Washington Post",
-   "time": "2026-10-09T12:02:45Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbWFiR2JHeEhQV3B1RHB0R205dUZKQU0yRWRqTkdPbm41MWZsV1E1MkRYdHVEeFJoeEc2V0h3MUpaNERZeW5NTUd3azZJalpBcDFaMVUwNW1YaGJIWjYtZXJRX2haTldfVlFyeU9wY2kwekNfdFlkbnhwN291blBYaVJ6dmpVVHI0MmxGcWpvYjY2RERsMEphRXFDUkxldWwzLWdoV3V5NWVPOFkxc2ZJZEtzLTY?oc=5",
+   "title": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+   "source": "Reuters",
+   "time": "2026-10-09T18:03:47Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
    "tags": [
-    "GEOPOLITICS"
+    "SANCTIONS"
    ]
   },
   {
-   "title": "Oil: Iran tensions keep crude prices elevated - Rabobank",
-   "source": "FXStreet",
-   "time": "2026-10-09T12:01:34Z",
-   "link": "https://www.fxstreet.com/news/oil-iran-tensions-keep-crude-prices-elevated-rabobank-202610091201",
+   "title": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports",
+   "source": "CNBC",
+   "time": "2026-10-09T18:02:01Z",
+   "link": "https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html",
    "tags": [
     "GEOPOLITICS",
     "OIL"
    ]
   },
   {
-   "title": "Ukraine expands drone strikes on data centres owned by Russia’s Yandex",
-   "source": "Investing.com",
-   "time": "2026-10-09T12:00:41Z",
-   "link": "https://www.investing.com/news/economic-indicators/ukraine-expands-drone-strikes-on-data-centres-owned-by-russias-yandex-4940686",
+   "title": "Donald Trump claims Iran war will 'end very soon' in White House speech",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-09T17:59:50Z",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16MUM0UzNXT3ItQVdfM283WS1aMm5kZVRmeW93SmdHa1Q4bkprc01YX2xKTWRuRGRMbEMtODRYMUhsaTRMRVFmb0RUQ2RpOW1NcGFMOVREOTVLcDZ5bWNMdFBteExpMVhJdmc?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Gold Steadies as Traders Assess US-Iran Tensions, Fed Rate Path",
+   "title": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
+   "source": "CNBC",
+   "time": "2026-10-09T17:56:24Z",
+   "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Brands Say They’re Pouring Tariff Refunds Into Marketing",
+   "source": "WSJ",
+   "time": "2026-10-09T17:56:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVEo0bmtxcXFwSFpGTXlWRkxhSHVkVVh0Z3RqU04xSGlfS1JlRXd1TnJfeUQ1U29CTXpVU3FrUkpqXzFQa0JCWk9XME8tTndDNkZvYzZJUmw0elRKaVBNMjNPMlM3YUl3bEc0YmtQbnB5NGM4Yl9FeHVXdmxoNzctb28xanVKWUgtOXVrNFBSR2JRR21jaTJGdFRn?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum – Gold Tests $4200 Amid Broad Rally In Precious Metals Markets",
+   "source": "FXEmpire",
+   "time": "2026-10-09T17:54:37Z",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS293N2lzU0Z5WldyRXRrTUNjMGQxbjg4ZkI4WkNHbURQbG9SOHdZTXdCQjNUVjU5djJfbmY4NmpTaFNTZTBmYUs0bXJhZWNHWHdFUVNPSzAySGxuN2xDRDJoVUxLRUNPUnBaSjctZVdqLUFmWk84OGZaV0lRWURhN2N4SURwUmZETVdhUS1FMG0wNlJvVWpocXYzZTlJWTRtR0ZPRnFQR1hDMDV3NlNjSExVLXVQTTlFSWVCTnVlWERhOWIxRC01LVJDWjJCaXduZTY5ag?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
+   "source": "The New York Times",
+   "time": "2026-10-09T17:51:24Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcHBFOGx1NzFvVkdzQWlHbm5vTGFlNFNBSm5fWWVPWC1EYXNoVmgtd2ZXSWJnaFZtSjhvRU5pd1YtMUVUV1FMYllka1hZQm5pck04N2pza0hZRU5NZXZtSEVnQWFGemMzWk00WlJaeVlDajNmQk0zNUg0RlhGYVBRX0dlYzBVS0w5aEJXLVdSMVdjZUxQalpnemtrRlg?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Trump ramps up battle to fire Fed’s Lisa Cook. Her lawyers say there’s no basis to remove her.",
+   "source": "MarketWatch",
+   "time": "2026-10-09T17:50:00Z",
+   "link": "https://www.marketwatch.com/story/trump-ramps-up-battle-to-fire-feds-lisa-cook-her-lawyers-say-theres-no-basis-to-remove-her-3a62c5cd?mod=mw_rss_topstories",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Trump orders new investigation of Fed's Lisa Cook",
+   "source": "Axios",
+   "time": "2026-10-09T17:48:45Z",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaTFduakwwLUdRVWF1SzQ0YTdjX3NTWHFFVEdPeTA1VEkzaVpQclBtLTBMcTFnbFpmVFN4Z0w2N2U0X3pFVzJJZE56LVdGZUhkZndzSFpESXdFc1IwZjM4R3ln?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "US sanctions 'rogue' ICC hours after former judge wins Nobel Peace Prize",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "time": "2026-10-09T17:46:16Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdElEWXp3OEhfS0pydnhsSG5ySjEzSXhLNTFXejJPRUl4OGtDdW4yZlJIQXFfVEJjWC10LTc4dnRxVVJDMTRJamxncERLMGJybklHd256Q0JIUTFjcEx5dkVoWWdfTG5Zc0ZUbkYxMnd6UVBZTW8tQm5Tc050NTlCeVE2RXZFNFg1MzBuckd0blN1WmVKRDBRWWtXLU9Ld0VVT3VhUzFDcXE1Zw?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Chinese Yuan: PBoC stance and valuation debate guide currency path – MUFG",
+   "source": "FXStreet",
+   "time": "2026-10-09T17:38:45Z",
+   "link": "https://www.fxstreet.com/news/chinese-yuan-pboc-stance-and-valuation-debate-guide-currency-path-mufg-202610091738",
+   "tags": [
+    "CHINA",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Jerusalem Daily: US charity to use AI to monitor Gaza classrooms",
+   "source": "Al Jazeera",
+   "time": "2026-10-09T17:37:05Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "The Trump administration has imposed sweeping new sanctions on the International Criminal Court",
+   "source": "AP News",
+   "time": "2026-10-09T17:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZVFZdTFDeThWZjJRWTF5bmV5TFk1VnB2SWlKTVFoeVZ3YTdWbkU3NmdMcU5vdHd1UDBCRkdNbUFuV2JZazNieEpDc21WeVplSElYSm9pbUd1YmZmYkYyVzRPSFFWUXJMa1ZkX3FadS1wTmxwTGhLMXdUU0JQdG10X09wdnFJR3RZcDhSazR3MGV5cHNBVElHbzc0QURyTTB6dVZxQWFKc003MHQ5T1dYRzlwbGN1d2FJVXUtMm9GWFBSbnZSR0U0VlhWMkdWU1RkOUZQcHB3cVpkSU9vNF9oVVVydko3dmNq?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "US imposes sanctions on ICC, hours after Nobel award to former judge",
+   "source": "The Times of Israel",
+   "time": "2026-10-09T17:29:22Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHRRVjF2eVotWlJ6RVdSX2FqRlp4VGRkLU41djc4R0tuRjdJalI3TXBSZ1JISUVoY3Y1Rl84Z3I1cFhCcHlhdkZNOVBMXzc2MjFzTmt4WlJsaHFGeGNXeVk0bTI1Q21yb2FCeWhRMDVuOVFRcHBiS0ZDc2xmV1lrYnRPSDZiRUFyY2FTZHRKaU11REdTOS1YTWNEX3J3Z2N4ZmZtWtIBpAFBVV95cUxPNHRRVjF2eVotWlJ6RVdSX2FqRlp4VGRkLU41djc4R0tuRjdJalI3TXBSZ1JISUVoY3Y1Rl84Z3I1cFhCcHlhdkZNOVBMXzc2MjFzTmt4WlJsaHFGeGNXeVk0bTI1Q21yb2FCeWhRMDVuOVFRcHBiS0ZDc2xmV1lrYnRPSDZiRUFyY2FTZHRKaU11REdTOS1YTWNEX3J3Z2N4ZmZtWg?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-10-09T17:22:03Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Reactions to US imposing sanctions on International Criminal Court",
+   "source": "Reuters",
+   "time": "2026-10-09T17:19:32Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHUxbm9jdTRzNzR1d1UteGF1XzZDbW5BSV8tYzY2cGVmODFLR0hlQnpZX2M2LU5rblNhNmw4V3FkV2VyRElZRnhaSzRKRFJHLUdjaklvMTRyZ3NsckNSZGMteHpSRXZXamRDS1hPYTd1WTA1ZVRLYU5DMUhmT1VIUWNlYmE2dUo2RDNCSVRiTFVySUJnX3NSWkllTlFycVFCWkRpSQ?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "US Adds Sanctions to International Criminal Court",
    "source": "Bloomberg.com",
-   "time": "2026-10-09T11:57:50Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDFBZHA2ZldZVC1QZXBxNEIzTlRYcGdFWFJNRWlRLVJremJKZWt2bnJ0LUVTWXhnWWQwdFhwN0JyT3VMazZRdmVnTnVQMjBHSUpYTUQtRk1Kdld3X0JqWHBDOERUNEFaQlhJWklmLXZVblVxOFZURUR1QzBUV2NmRko0NURramJ3OFV3Z0o1UHpFZWNyYTl5cFR2Z3RLWFBIMzBUS1pJZTJrZEVQZzY3SVJxRQ?oc=5",
+   "time": "2026-10-09T17:16:52Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRXA0NnJNQWNxNUVwNGV0N0VzcjJoRzQ2WHo0U3dpN0NvdGloSWZTTUNWSUtTT1p2dnVKR3VmczR5QzRrNXZBNkFqX1NfMjBCLWg5MFNENjc5bGxQZGVITXo0WDJRVVUxVTU5d2NENDhyVVB2QUs4RFozSUJPd2dmX0NKWlJ2U0h6a0h4TFJPUjR5X3I2TDlkU1ZyN3YtMVBrZXc?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Trump announces committee to investigate Federal Reserve’s Lisa Cook",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-09T17:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcXdDTHFELXdwLWdzdEYyLVlMM0p4OWVqQnl2dXFFM1MxTnpsQ2JJaVhsWlhXMmNMU1BURGRyRHRwYXQyT0VUdkJNaVVsbHRaNXFNeHZsWjgtWDlvTTlIRGdDSDRIaVlSNFpmNEdSanNCWnFoVjR0aWFQOUNtTGZEYmRuLTdrSXJqVmhMLTZpTGlBT1QyZ0lfTWZZV0FKZzJNQ2VoYmdJQkppOW9wd2lDNDRB0gG3AUFVX3lxTE5tNDBTS19sckdQZDhJbjBpTUIzc1lSUWx4NFkwRWpSWW4tWnhQU2RZREFxN3EwMFg2UGNDQ295a1FzMVdTUlJ6Q3ZzYnZFTWNxQ3pIQzQ1dnlzX1BjUldSWGREaTFFNi03Z2JqSElwT1B0Nzg0OVMyNEJBMnNWa2Y4cDFjc0dOWkktRVpFUWNYNjRqRVFLVzFhZzJ5WWpLMGozLTFOaU1nSnJsc2hqcnl3LVIzTm80VQ?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
+   "source": "CNBC",
+   "time": "2026-10-09T17:12:17Z",
+   "link": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Nobel laureate Pillay calls sanctions on ICC judges 'shocking'",
+   "source": "Nikkei Asia",
+   "time": "2026-10-09T17:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2ZKUDJkRS03MjJBTDhIWW9EdXdBZWJ1dHdaT2NzUDZSMlhOVnhzUGtzQk5CZGVQNnl0eHNHbjI5cDVtcnNmbEdVWEpRZEZWUzk1T0ZXSmZsa2NNVkQtUHdmU3ViREJKRWhVOFkxQTdObGZQdE1lTzlkQnVpWXVrZ2tYTW5fRkRncEc4WTdSNVJBQ19NX01WT3FPOTBsUE9LTEhldXJWV29ZV09lNlE?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
+   "source": "Al Jazeera",
+   "time": "2026-10-09T16:44:45Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZlJVY0tZVHRsRlRDYVFVa3lUR25GVXVDQUVxNU93cWJtblVhbllJWFJvODRjZWp0LUd3MGJhaGk2R3h1UUo1TGtvUkhkeWp1NTBXMDFXcGFZbkFLWWdKYUdXNWJLMGVVOU1BZmhSUlpiUFRrc200TTN6MWI5bnNlb2FIa0ZBaFZ0TldaZlRrWU01N2lqUDhYSFBOMkVESWFGY2pKSEQ2YVdTdkNnb3BpM1RHbF9aSTBf0gG-AUFVX3lxTE04NEM4RXp3aEZoa2N3OHZvTnhWZ3g4SXhsdWItMGVJbTJWRElYY0tiSWlvbzJQaHhvRC16MjFxQnh0S0VpODZWMmlLOG5rWXlOajB0RXFfQUJYLUpQT2h1c1gzS0R2dWtCdFpfMkhWNW93Y3NmTmNiWTZveDZnZzluaDVQQUVXdXRXRU1POTM3WVpoTmJTV01OZjJEOUE4VE9pcnBuTzNQcTFZeFUycF9UNEdZQTBqRXhmZERSSWc?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her",
+   "source": "AP News",
+   "time": "2026-10-09T16:44:00Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWhUWUhLVjBvQUV1WWxNZ1lHZUxWbWpoQW9jckFpa284cmRTMkloVmdYaE1nR19sc2F0NFdWenEzWWlfRTd2elQzdTczcnFYTTJMTW9hQTY3eUxyR0xqcjB6cE9CSlloUGtFcXVzVzZTUl82RFZneGFvWDcwWHRNMEtETXYySTEtVlhYUDVrbw?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Stocks move higher even as Treasury yields, oil prices tick up",
+   "source": "TradingView",
+   "time": "2026-10-09T16:42:09Z",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVDN5M05oSVBtNUxpdVdDYTFGM3ZVNFBwMjY4ZExKTHJWLUtFcHlRTk1ySUtrMjlWdWhsTjZwcEJqeXJ2Q21FWkFkSk14OVJCczhuWjRGdTRpSWJpb0ZiUmlVTkRwS1hMV255bjFNVV9UcU15ejFWYWk1THdIZ25ram1QV0VHM1lCSzZFQkJKdUhDbnpCa2VtYlk5cFNqdXV2RF9KcUtuZW9kQmw3OWotR29GZGhvb2V3aTR0MEpneE9nd2RnTE1wVnhLWQ?oc=5",
+   "tags": [
+    "YIELDS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank",
+   "source": "Al Jazeera",
+   "time": "2026-10-09T16:33:26Z",
+   "link": "https://www.aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed says household income, wealth, debt stress increased from 2022 to 2025",
+   "source": "Reuters",
+   "time": "2026-10-09T16:31:38Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWpCcDBIZElDdktNOUtwQ2NHVVh0WHZkYkJhV0t1T0sxWS1ON0Frb1pqUFFEbWtnWWI0d0IzYVBqck1MSExMc0ExNHozUEdUMHV2MDV5YjE0U0FVbnVFd01tdXFZakpxYnZ2MFZjTEdGWENyNkxaRlZNVWUtUEFhRmM1OFcwblktYVdzTTFpYjQ2bFhybGMyNlpLUndSdkZod2VoX3Ryc0stNVBRQnhpeERR?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Trump launches probe into Federal Reserve Governor Lisa Cook",
+   "source": "Al Jazeera",
+   "time": "2026-10-09T16:19:46Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ2JMVFlBWUdLenV3SlJWX0s0bW01cmo5WWNpb1l3QkpUSGVfclpZS0ZfcnBUVnAwWXctUVZidFl0a09OM1lzMWdKMjFySzhDclFJaU5DNHdLNjNUV3lSSGhkOW9GZ1VUTm9mZG9KcU4zckl2Znk3cjJ5MUNIYTVibFF6YWtFNl9lcUFRSXVMSXVjRUt0V01oeEVBcnpORWY0aUl3ZEdlY9IBrAFBVV95cUxOTHRKdmZEUGkzR0gtRC1aOE10NHU2cVVpeUVXaHFlVTZ6WTJLOGpON3F1OXR2WTB4Y2tWekN0NWxBdnE1bEJ6bUZlUkkyMEhiMU1HN1FsTkVYVUhZbzJ5NDlKZU1UTENuUWo0d3lOd0Z5bkJMY1FTSDNIU1MwbTNCaWppU21tNHQ5QkJmUmNJSXJNcHRkRnNGZW40VkdVclJnYkt0Q0dCOEVCTmNJ?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Four signs it is about to get uglier in the bond market as yields rise",
+   "source": "Reuters",
+   "time": "2026-10-09T16:18:35Z",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZnpPbXRYRlc0T3dINmZIZnM3VEgxWWJzS2tLRVBadmJMVnQ2ekdHaTQ1NG1SZlhfTV84VjNsM3JNR0RRSTZyVWJ1ODJFZmxpa1pxckluaktPY0d6T0d3bUVUUnRGQjlCVmwxWUNGWEs2cEo1VGV4R3MxN19PakJaZ3FUZnZfMWxqUHAzNk1nOTVFT0hr?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "White House Forms Committee to Probe Federal Reserve’s Cook",
+   "source": "Bloomberg.com",
+   "time": "2026-10-09T16:16:35Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNGtmQnZ3SG93alMwVHRUNzZ3cTVOTkduYklEaWF5ZENaeDFkQ0hNdnZ5c2t4MUtaN3l1amRJZG5SZzFFZjVfN2VkSDFvTlJwYjJJVlZBUkhYZDNGNElVT0JzdFMtQkxUcjhGQUxhbk85UHVwWjNJRkE2YzhYY1NOb3Zjc0FDSVpqM3dTTU90MmxiTnhUbDNTY1hIZDQ1RTQ2UGJMSThreDFLNHo2UWhz?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "China and Europe Step Back From Trade War With Limits on Chinese Car Exports",
+   "source": "The New York Times",
+   "time": "2026-10-09T16:11:11Z",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMkR3MUJWaDBNRi1Cb0h4VkthVGF0blptSkcyTk9DME1XNzVvMmFMdFVKYm81XzRZNkdDYk1IdGhFVS10d2FuVWI1TTVUUy1Ea2hWYktlVDVlLWJRb2l3aVViMnlZNzdGeEFfc2NaNy14aFhCOWt6Ti0zbkNrWm1BTQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Russian pro-war blogger among 5 expelled from Montenegro for security concerns",
+   "source": "AP News",
+   "time": "2026-10-09T16:08:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZC1kaFJ2NjlZcWo0QmJJQ3dqTUJtcURHVmdYdzlESlE2S0RrQkFxMmF1Q2QzWGVmRUxyUFhxbGhKQ0FLb0NNVjUwRFhVUmRpQlEtWThEOUNMbkRwbXpYazJBTjFTR1ZsTkcxVWgwN2RKcDBDUkRUbmxfVGJXYk5HM2daMjdHazJxODJwNW1FdDhqZFNRSUZ2Y1cyUlBqTU9aRWFj?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Tariffs targeting China's Temu, Shein shrink US small parcel deliveries",
+   "source": "Nikkei Asia",
+   "time": "2026-10-09T16:06:00Z",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV0Y1ZnNxQUlkX0xlQ0JVRGpVR2NoVE1sdnN3OHkySHl4dHBrNm9JNGxkS2tLNVY5TlVyRmhjUVczd0FoaU82NFVPRXVhdlJnelM3bkg2cEJ5aHpsLTczdW9mNWs4Y0VaeFpYT2JZWEl5YVpPUFFoeHpLYTdMQmNyOVpuOTI2a2l2MTdfZWhCVTBOSDRqTzZGQ21JTmV3dmV0Y3RydGJZZGl4N1lZWFNlbEwyNkpLRmROOEJ6b2lzOEJPZDFk?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "After pledging swift results, Trump team prepares for long economic war with Iran",
+   "source": "The Washington Post",
+   "time": "2026-10-09T16:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRU16Tjhva3V0WFZTMi1HV1NuT0hhOVkyUWZXaEphNHkxZTBoZ0RGeThULVNSVjR1OGhvVy1kZnkzcXNuekI1bjBkOXNvVUxrMTFhRy05N3pXRDF4dUVsYUZFV1RlYmxLdXZBTkd4R3FhOWJMbGFGY01YQUlhWjZRMHhIWU5Nc25vTGw2eXRNU1lfWUNRSGtmeUNqc3k4eG5ETk5kN2o2eU9ET1RhSjVfYnBDN1M5SEc4bmJieHNRVE5UTTQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
+   "source": "TradingView",
+   "time": "2026-10-09T15:51:53Z",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQVJEMWtSLVYwdURrMXc4T2NIVzBkR1ZkcTFsdXhaTmY5UU83cnR5RExmVElnWjk0WFRFRW1abERKTWtjeWlVOEMzYVNBT1FDaW1VVW15S29tWTFZUzhyM1c1TmRDdzRkSzRSN0l2aUh4aFNraVlMVkZ2Q09fbWQxb3BlMnV3S0ZXeEtCRmxpM0syS0hFa2dkcFNpa2stckNDTEwwX2Z2UENYYUhUV0d5Y08wOVdRQnhGZ3piaE1jTk82cjRFTTlLbjJtbUNqVnF5bGg0X3RiVGg?oc=5",
+   "tags": []
+  },
+  {
+   "title": "Gold edges higher but remains capped in tight range as Dollar and yields rebound",
+   "source": "FXStreet",
+   "time": "2026-10-09T15:51:30Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVZ0V29BSzhjMlRGaEctTDRzYkdYaGkzZTlMTXg0c3pVeWpUdDZrc293R1dod3BtUk5wcEp6NEM1dDJiWGgzUzdzQmgtdEpFdmNvT2d5UWxqLUd0dFE5RzNTdXBCd1BzZ1lEMjRlV0tKUEktX08wakhJLUdnNUxEUEtsVklhS2V4cVZBZDdQMzh3a3o5NWpSMG50bmlVMjByLVNuSjU4SFhraFpEVWZOVl9tVQ?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "EU ‘pulling out all stops’ with minerals projects as it tries to avert China trade war",
+   "source": "The Guardian",
+   "time": "2026-10-09T15:48:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYlhrLUtaRUV4aGZoeHBsS0xGQm9OX2w4V2w3SHN0S0d3MktJN2dTazlkcnhJQ3YzckNUaFVXNDdiWU9JUGVONkx2YzRhODlNWmwtdWdWaG5sLTVlU3pCVGdSam9oYnF1NkYtRWhTNmJiRHVUN0lyQU9EaTAxTlAxcTNkWWFnY0xzSURRYlVQaFMya0FIbjdRSWgyaWt2OUJKaE1ONGFlYTNERDc3Tk5HTUZmTm5VSy12LUdiMHBaVERsUE9ZSTBhVUtB?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Euro struggles as French fiscal concerns and firm US Dollar dominate",
+   "source": "FXStreet",
+   "time": "2026-10-09T15:44:52Z",
+   "link": "https://www.fxstreet.com/news/euro-struggles-as-french-fiscal-concerns-and-firm-us-dollar-dominate-202610091544",
+   "tags": [
+    "USD"
+   ]
+  },
+  {
+   "title": "Trump establishes committee to investigate Fed governor Lisa Cook",
+   "source": "The Guardian",
+   "time": "2026-10-09T15:39:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSWxUYmFvYllNNUhmZXdXYWVFWTBuMU84ZjVCU1duc2RkMWl5VVI1eWxZdHYySHRWY3VrWm9wNFdSUjlTdFdFLXdGbldpSUtuSTRKZW5tejJZNWtPWDM1TFNkUkhoeFBiNDBhZ3Eza2xXeWpVQ2R6dTRnaUNVbHFDMVhsZ2VqVG1DbTVyemNNeDNydjg?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Trump to hold inquiry into Fed's Lisa Cook at White House",
+   "source": "Reuters",
+   "time": "2026-10-09T15:38:11Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTVtLWhNMGgxZlptWEduZTB6WUc3REtCMlEwV0VTeUotdUpVMDJqZHphZHJxeUtFSU41a19MWm9sTmZjWWVuS25YS20wWDh1MGFMYXNWMThMLWowaW1JbVFESzVDWVNhY0U0S2FUNE0wVGpxWFN6MDdWTVE3RVFWZ3Q3N1hHVFE1UHFnY3NGQWJXT2hOeG9PSE5Lb29XR3NMWXNTZkNTYmdHV1RBWGxmc2VB?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "New Zealand Dollar edges higher on softer US yields, Fed hike bets cap recovery",
+   "source": "FXStreet",
+   "time": "2026-10-09T15:25:01Z",
+   "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-higher-on-softer-us-yields-fed-hike-bets-cap-recovery-202610091525",
+   "tags": [
+    "FED",
+    "USD"
+   ]
+  },
+  {
+   "title": "New Zealand Dollar finds relief, but Fed rate hike bets cap gains",
+   "source": "FXStreet",
+   "time": "2026-10-09T15:25:01Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZE1qZ0ZKY0d6dVlwLVlwNEJQYy1TSWg5SG5Ka0RCSV9rOGV1dDVOWktudnZ1VWRCcnZjdVVZTk8xb25hUEpGZG9hNlQtbGVPLXFSYjJNYWdLRWVpbWNfa2dyWnJsR09vV3ZmSWduNmVDMXhSTUU2RWFXQ21YbWgzWE5UVzNFMWNWZGF0Q3lSdThaLWphQXBwTTc5QS1LSUlwMmVnMUk3OFdWb3BmZGczc3ZjdjdXT09qVHhQVGJn?oc=5",
    "tags": [
     "FED",
     "RATES",
+    "USD"
+   ]
+  },
+  {
+   "title": "Trump establishes ‘committee of inquiry’ for Federal Reserve Gov. Lisa Cook",
+   "source": "The Hill",
+   "time": "2026-10-09T15:19:00Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOXJvcTQxVkdYTUlpVDNGSEdmbUh6cVNhekNJLWV0d2gyWTU2MER6UFZMaFZZZ1g5RlUtU0hOSkNPc2ZUc0hsTG01NGlkUzItbzRCUnVDSEJVQnotQWpPMFRuMFpIZlFGaGF1Y3JaWXJVWkh1a3lLZmlfZTdaM3NUejhiVldpVWQ4bDkwM0hXQdIBlAFBVV95cUxQdDJPd1Q3dlE1bjNVQW4xT3lpVmtkMkJhQ240ck9TVTFqYzhiNjlLNHd6bUd3RTVDMmtXZFg5aTU5ZUt5clRKQXRBdG1WY2pYVmlIRXNkQjJUOTJiU0lJQUxwLUZFTFZuZUtETEhlQTI3ZjBYOWhQX3liZ1ZCSi1pSF9YRkNDempsOFBIVmNyalBhQTBP?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Gold ETF Flows: September 2026",
+   "source": "Seeking Alpha",
+   "time": "2026-10-09T15:18:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtTHdMS3ZoVWN1ZTllc2xHSWNOemxKMnI5S2dpdmZicUlNeVczTFJ5NGRQOG5yVVM5Y3FqMmxqZ3B0ZGowTDNvSXpVU2JDQXAzby04MU5ad2M4VXhJMHktR29feFRLdDB2WkdRRzlMRWNJaFplMnBUaEVB?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold Weekly Forecast: Precious metal finds support but upside potential remains limited",
+   "source": "FXStreet",
+   "time": "2026-10-09T15:04:44Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZS1mYWF2QmtTRHI1U3N4bGplMHg5TXZLdUp0QVZ2YnFJTV9rem1uNGNXRWtyMXQyS083Q3NudVBHalhldzFFdVE1amYzMkdWenFVeXhBd0J2ZTF3bmVkeERlVHE3TnJneVZ1M0NFTThoQkhyWVlJNFk2b1oxSWV5czl3NmwtX3c1X01NR0M3Y01rbG8xOVFuRUhPWjZwT0R6VXg4TzllYmEtNjI1M19kUFgtR2JZMFNmWmZwcTYzUUZ6Wk9kdU1SX1JmbGlpQQ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "China and Europe agree to cut Chinese hybrid vehicle exports by half",
+   "source": "CNBC",
+   "time": "2026-10-09T15:03:10Z",
+   "link": "https://www.cnbc.com/2026/10/09/china-europe-hybrid-vehicle-exports-deal.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Gold Struggles as Inflation Risks and Iran Uncertainty Drain Momentum",
+   "source": "Investing.com",
+   "time": "2026-10-09T14:57:00Z",
+   "link": "https://www.investing.com/analysis/gold-struggles-as-inflation-risks-and-iran-uncertainty-drain-momentum-200689284",
+   "tags": [
+    "INFLATION",
     "GEOPOLITICS",
     "GOLD"
    ]
@@ -267,413 +618,64 @@
   {
    "title": "Houthi strikes on Riyadh airport killed three Saudis as war escalates",
    "source": "Reuters",
-   "time": "2026-10-09T11:57:24Z",
+   "time": "2026-10-09T14:56:54Z",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEFCQWZhWGJXa25ZeDBOZlE3b3RWQldSSUM5MmRDd1JqdFNvbl83R19nc014ek1YTW1iQlBqbW1paUlManF3UzlNT21BTl81cG5NNGQ5MWhWOWZOMnpQamN6TmxrUFVLVXRCaTl2T0JYclhVc3dvLUpNeG5wY3JSci02OHVtWmRpemp2UExRUGRoTnpyN3lKUGlRQ3FHdS1pZDNvNVM0bWE2djAzNzNvNTg4RVdXVEhw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "EUR/USD Price Forecast: Rallies fail above 1.1200 amid high Oil prices, debt woes",
-   "source": "FXStreet",
-   "time": "2026-10-09T11:56:52Z",
-   "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-rallies-fail-above-11200-amid-high-oil-prices-debt-woes-202610091156",
+   "title": "China, EU strike deal to cut Chinese hybrid vehicle exports by over half",
+   "source": "Investing.com",
+   "time": "2026-10-09T14:48:43Z",
+   "link": "https://www.investing.com/news/economic-indicators/china-eu-strike-deal-to-cut-chinese-hybrid-vehicle-exports-by-over-half-4941416",
    "tags": [
-    "USD",
-    "OIL"
+    "CHINA"
    ]
   },
   {
-   "title": "Indian Rupee attracts bids as US bond yields cool down",
-   "source": "FXStreet",
-   "time": "2026-10-09T11:52:48Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON3JrMHhkWWV2VkZNSHl0ZElrWHllQlBfZFBqYU8yelcxOGpZbHpqaW1CZ2lmbVBranlsM3JXNnpDNjVwNVVzQVNHMEdYOTlGOU1VNXd1dkpRSkNVNWFGbXpvRGlyaXFiM0ZkdzU2RG40SU9QUkJuTGJ4dkNhcGJpMXA0MXZZeHgyYUJBcmI5a2ktVlBDLTJOV0o3WklOY0F0?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response",
-   "source": "CNBC",
-   "time": "2026-10-09T11:51:11Z",
-   "link": "https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Command decisions: CENTCOM chief Brad Cooper's ups and downs in shaping Trump's war on Iran",
+   "title": "Three charged in connection with stolen IDF missile in northern Israel",
    "source": "The Jerusalem Post",
-   "time": "2026-10-09T11:47:46Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NTlpBZEVNN295eFVxc21MZ3UyMFc1NUVaUEhpX0p0MjBMUlJUblJ6Yk41VVFTMVNrak9VbXB6cVVUV2lKdVM0WHBBRW1uR0pXWXU2X3JfcmpmZ2hqU0ZyU09NV2d5ZEEwYmc?oc=5",
+   "time": "2026-10-09T14:44:49Z",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ed052TE5hd2dNaGVqSE8teWZSb2hXNlJZLUZjUGVyMHBEd3dEamNpSS1nb29Xdk9MVDU4V3U1TlBlSFZKX0ttRWJWbzFYRDA5MDBCekJoVTdWRjNSaExJaFhUc2VoM2k0d2tnYTBGMENjQQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Canadian Dollar: Labor data may trigger dovish repricing – BBH",
+   "title": "Poland: Inflation outlook stabilises – ING",
    "source": "FXStreet",
-   "time": "2026-10-09T11:46:30Z",
-   "link": "https://www.fxstreet.com/news/canadian-dollar-labor-data-may-trigger-dovish-repricing-bbh-202610091146",
+   "time": "2026-10-09T14:40:31Z",
+   "link": "https://www.fxstreet.com/news/poland-inflation-outlook-stabilises-ing-202610091440",
    "tags": [
-    "USD"
+    "INFLATION"
    ]
   },
   {
-   "title": "Essar's Iowa steel plant could add to overcapacity behind tariff walls-and that won't help",
-   "source": "TradingView",
-   "time": "2026-10-09T11:41:07Z",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcjFCTG1fU2d4dVN5RGlueU5DNHQzRHh5dUZQdkh3U3AxQWl0eU9LbVlaMWYwQm1fZkdLd2RVUGwyV29oRWtvazRSdDd4ck5WM1pkSWFUbnJCdXllcmFVdnVicV8tTVlsN3NPejVoVWREMWFMZDFyRDdCU1JoVjdUbnYtRDFQWEZGVHJlcU4xWGlUTi02cGRwTWVaTXhCdnR2bDJlQnQwWUhzTFRSYUczNEZTczJGLWYyY1Z0cGhCQl9BT2dFbHRWN2tYTkY2RWhPUXNwQUNURzVvZEp0c1o1Uw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Almost all Gaza residents need shelter as El Niño threatens flooding, UN agency says",
-   "source": "Reuters",
-   "time": "2026-10-09T11:37:03Z",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRjhvLWFXamh1MW5SUklITFhsbU9ROC0ya1F1Z0hjZFZLMk5LWFhTZFUtajRSVVJGZllwRmtXV2M1ay01QW0wS0ZaZFNKR1ZCekh6ckZUYmlURmpLY3E2RE1iOW4wdmx0bWQxN0RPTXZNc1FGTXp1b0ItLXJGSHhQZ0phWUNLUlowQlBrdWV3Q0s3OGlwS1dsa3o2cUF6NTQ4aUxSdWZlWmk2dDJNa0pMY2FHWVFOLXlkdjB2cFcwWUFUMUExb1JSV2lsWkVUb3hSSFE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Euro: Elusive recovery prospects against US Dollar – ING",
-   "source": "FXStreet",
-   "time": "2026-10-09T11:36:43Z",
-   "link": "https://www.fxstreet.com/news/euro-elusive-recovery-prospects-against-us-dollar-ing-202610091136",
-   "tags": [
-    "USD"
-   ]
-  },
-  {
-   "title": "Kushner and Witkoff to discuss ‘new’ peace plan with Ukrainian delegation, sources say",
-   "source": "NBC News",
-   "time": "2026-10-09T11:33:53Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZGZCU0lxVFZFWUJLbXJLQ3lCd0twdU1TR2tubXA2aEI1RXdUZDhKSDVDWmxxMDh4Y1hKblJqRXdLOFdyVTdXZlhUNHUyWDBqd1c1dS1NM21zcWpudjRrcExwWmpOakR5TC1rVjJTWElTNVpIaUtvbkljNmZlbVFjV1lCRGRQcUhoeEVSMDhQQ1A5NDF2UkYtM1FfRmNEYnc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "‘Seasonal’ tariffs would make America’s food supply less secure",
-   "source": "The Hill",
-   "time": "2026-10-09T11:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUtCcEtqaXhsZTFrbFJtWjZEczNHWWJKWjlFM3lFVk0xeWVPbE1BSUY5MDJpTUdocGZBRm9xRUFjTV9TSldNMmF6NktXbGNJc0NZSlRnSWEzNVFiXzJrZWdQTGI1eFZIN0o2Zlg3SHRER1ROVGd3bHNqMHFDTllwOXFaZ9IBiAFBVV95cUxNRlBuLVgwazd2MnZwRFFGVzRIWHMwWmNucWY4Vmp3ekdkZGZRZEFBZHkzQWJQWXFCTU1teUI4dXlQSmsyejZaeFFHMmlzNjVXcWoxZHp6bm52MlhaZXp6ZE1YUWlfeDBVd3loclRNWGlsMnM2eEROVTRmZHdaNU4yc055OGpaVi0x?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Russian pro-war blogger among 5 arrested in Montenegro over alleged destabilization plot",
-   "source": "AP News",
-   "time": "2026-10-09T11:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZC1kaFJ2NjlZcWo0QmJJQ3dqTUJtcURHVmdYdzlESlE2S0RrQkFxMmF1Q2QzWGVmRUxyUFhxbGhKQ0FLb0NNVjUwRFhVUmRpQlEtWThEOUNMbkRwbXpYazJBTjFTR1ZsTkcxVWgwN2RKcDBDUkRUbmxfVGJXYk5HM2daMjdHazJxODJwNW1FdDhqZFNRSUZ2Y1cyUlBqTU9aRWFj?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold and Silver Bounce After Trump Rules Out Pre-Election Strikes",
+   "title": "Ukraine hits second major tech site, expanding range of targets inside Russia",
    "source": "Investing.com",
-   "time": "2026-10-09T11:29:00Z",
-   "link": "https://www.investing.com/analysis/gold-and-silver-bounce-after-trump-rules-out-preelection-strikes-200689270",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "S&P 500 jumps as oil, Treasury yields and US dollar ease after Trump's de-escalation",
-   "source": "investingLive",
-   "time": "2026-10-09T11:22:07Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQVNxNkg0bFBkWUE4akNWekFFUDZVYktlXzVDYnV6TGZMcmZqakUwcFd6WGl1UUxZWWo1bHd4MFZSQWIwQ1NTYjN5czA1OFRSNE5sVlE0TUVQX19YLWdPa1p1Ujk4NnpZcFBma0J1eGhSNlRDTnFrNmVoOHNIejZ0LU1aZW5xXzg5MzVpNFBRZkJGaHItOG5VWWNGdUpjb2NMMDhXRmtDNWFhdzVZZTdLZDg2Y19lYklj?oc=5",
-   "tags": [
-    "USD",
-    "YIELDS",
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "US Dollar: Upside risks persist with strong demand – BBH",
-   "source": "FXStreet",
-   "time": "2026-10-09T11:18:43Z",
-   "link": "https://www.fxstreet.com/news/us-dollar-upside-risks-persist-with-strong-demand-bbh-202610091118",
-   "tags": [
-    "USD"
-   ]
-  },
-  {
-   "title": "3 US Life Insurance Stocks Linked To Higher Treasury Yields",
-   "source": "Yahoo Finance",
-   "time": "2026-10-09T11:16:03Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaHpRQ3JpYTNtOE1XU2RUVzZGYzJOYjFLQ2pRa0xSTVlyNGFLV0RNMHZHWVo3OGRISTlrR0U3NTZCTzliOWpBM3NlRlZRUWMxU28xY0U0eEhMN2RPTW9SMzBNQzhpOWlRbWdreDhsYTRyMXRxZTIwVDl4RHFwdzlxckZEQ3g2N01tSllBMWx1cnRxbVh2cHc?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "investingLive European session wrap: Stocks rebound as bond market nerves ease, for now",
-   "source": "ForexLive",
-   "time": "2026-10-09T11:14:11Z",
-   "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-rebound-as-bond-market-nerves-ease-for-now/",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
-   "source": "CNBC",
-   "time": "2026-10-09T11:11:55Z",
-   "link": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
+   "time": "2026-10-09T14:36:51Z",
+   "link": "https://www.investing.com/news/economic-indicators/ukraine-expands-drone-strikes-on-data-centres-owned-by-russias-yandex-4940686",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Canadian Dollar: Policy divergence weighs on CAD against US Dollar – Rabobank",
-   "source": "FXStreet",
-   "time": "2026-10-09T11:10:30Z",
-   "link": "https://www.fxstreet.com/news/canadian-dollar-policy-divergence-weighs-on-cad-against-us-dollar-rabobank-202610091110",
-   "tags": [
-    "USD"
-   ]
-  },
-  {
-   "title": "Franklin Templeton CEO Jenny Johnson Reportedly Flags ‘Very Complex’ AI Debt Financing — Favors Short-Term Investments",
-   "source": "TradingView",
-   "time": "2026-10-09T11:09:56Z",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPVTFTbVBfYjBTS1F2VE0yYzZXSzB5RGFleTlEa1FuaEhtTnlwdE1YN1JPNE11cUFvWkgtYWN5elVPUWVPWkYtajFoWVk2MVVtNHZrYXdjOWhqQXotdWxrZWY3T1RiUmd1ak5hSGJMSzZSWDdOZVdyTnFiaVFkdWo5QTZPZ0V1WHlGYlliTTVCdS03VVJ4MzR5Nm1xVjl3SFNndjlEalM3VlVLTWNObkhkLUFWLUY1V3RkbzdNaWtyRkUzSUljWWw0MjlTSTR0YmViM3gzT1JwaG9JY2NBcTFYMV9Sbm9oTlRKTmJQSGFQanB2SVZTSkNMU1BpTkozdmxYbzZWZFdn?oc=5",
-   "tags": []
-  },
-  {
-   "title": "First Thing: Hegseth promises execution live stream as Trump appears to ‘pause’ war on Iran",
-   "source": "The Guardian",
-   "time": "2026-10-09T11:05:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkdoY0U2QnhkeDJQUlo4ZHdJOHRMOGVRcU5PaEhHNXVLVThUSVM4bHdaTGRPRmRWYkR5MjRfOS1WV1RaTWt3M1c5VUtHUTRDeU5EcTA5VjhCMmt3Q0xSdW1iY1k2WFRkdnFuNWUyNXUxRGZSd2RIQk9OeEExMzZxaFluU0NGVVhrajRzZ0h4YWVTdl82aC00eW9MVXlkZmZTeVk2dWthTGNxMGlXZzFMVGFqYjFQc3Z1bnRV?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "UBS Picks Top Gold Mining Stocks as Sector Faces Cost Pressures in 2027",
-   "source": "Yahoo Finance UK",
-   "time": "2026-10-09T11:02:12Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvTU9waTJWdmlITE9iWm1mWHlLc0x4Yy0weXhQZ0FyckxqU0I2Z0l0eFVRcU9vLVo3c0ZVTFEzM25oc1RJcGU4bWJQbVBPQld0YU5FN2szZjUwVGcwWno4NnJjd0dvamZqZ1RyeG9FVWoxMG5QWlZfRkhycy1TRDA?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold price today, Friday, October 9, 2026: Gold prices see modest gains after 'productive discussions' with Iran",
-   "source": "Yahoo Finance",
-   "time": "2026-10-09T10:59:55Z",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPc3BLTlBrSUxxSnkxRk9PZldTbEhocjFYV1hKM254TTdkYkg4Mzg0ODZ3VnBEQUtra2UtaXUtSUpUT1ZTMUFvZmQzTVFQcmFfeGZ1bi04QWNLNThwTW04aGZnN1V2OW9UWlVaYlg0YVJVSjRrZDZPVTg5VlBETGFFM2J1bGxNRjYxY0tpSFZpSEljejc4Szl3OTNYbmx2WVA4RTZjZG9jN1FQVDNQcXpfclZ6bVF1TmhmNXBLMjE1MzBtN1RFSjlWMWx2TmxQS1l3azVhdXdtT1p2QWJVSExKcEI4bUJONUdOZ0N1b21JVDU2bDY1VTd4QVRZMHliei03R05OUFc5VjZpdG1rN2Nn?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Miners: Turning Strong Margins Into Long-Term Value",
-   "source": "Seeking Alpha",
-   "time": "2026-10-09T10:50:00Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNF9mbDFJM3NNTndyYjRCWlRXbTJkOWVaOS0tbl9lRDZ1cHJzRGI3Y1JGVElCZWpsTnlDcFRydzFOcTdPNEw4WXpvb3dENGRPOTlFbVQ3SDBHbXFfdFotTTJnd1R4ZS1ZZTBlbHh3NGhHZFlHbXVwb2VjUndISExqMC1kWE5yY3k5TVBmUERVUTlKN000b2otVEQ4SlY?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Trump says he's 'willing to live with' final US report on deadly missile strike near Iranian girls' school",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-09T10:49:48Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3h1ZU5xZTdVZkctejZnVk93cGxRX3RqZndScThpVk0xdDlEc1NMX0JKbEJiUE9wbTdOMzJsR2lVOEtrUFA0alIwN0ZZRERDWTUzYm9EalRuM1NLWDkyR2ZJM1ZuamVtV2hIWm9Ib1RweXpveEx5OHpjSnUzUXZVamNVSm1fejlJMmJaWTRFLXR4Ni1EY3RpQ0UzRkbSAaIBQVVfeXFMUFN5MjYxeDVlckhhekM3OWZ6djZOanpPTW1FN3BWNWZITkdqV20tOFJnQkloRFJfVF9mMjRvM1EyNkFNazJwQzhLc00tNUxUYkxsbkhlTVdTc2psb3lvV2xGMWtjSld0bTI0RnNZV2NETmh5YVFrV2hCa3RsZmo2YkJWWXp1ajQxdG5yamNoczUzT1U2eDJRRWxCWkF0OUtTakZB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Four signs it is about to get uglier in the bond market: Reuters analysis",
-   "source": "BNN Bloomberg",
-   "time": "2026-10-09T10:47:08Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWtHVklGMWdaeG1HLWstMUlrU1hqU29pdThXX0xjcHJkcEhhaFFvb0lWZ2habVg2aVhCY1RwSS1OenYtUjNmcjVjdEZ1RXhlSUY1RFhaRlc3b3V4V2JMRG5PMUdGQlljRl9NSTBRM2g4UEphbXFPLXQ0M3NLT3dBeDhyVVpsZkpWRmVrcEFlWjFIQWZpcjBGU09YTmtIbDFLdE9jSUoyMVM1ako5cnJpNDU3N0U2UGVvdks3SW84MA?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "What is the International Criminal Court?",
-   "source": "Reuters",
-   "time": "2026-10-09T10:45:17Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSzBEbndNZWRtcUY0MEJVa3VfZlo1OVpBMjZtLXhZX2xVOWtOb0p3czdDTnNQdmhxRnhtREpYZDVCYXp0ZjVpLVpFUTVxN1BWMlpPT3ROMjRSNmxzRU56UXZMTnVMT1VwR2RZUExLdUZ1RzNrTlhWQTJTZVhmODhMSnpseUY?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Is Trump signalling a return to war with Iran after the midterms?",
+   "title": "Ethiopia and Eritrea accuse one another of launching war",
    "source": "Al Jazeera",
-   "time": "2026-10-09T10:40:36Z",
-   "link": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms?traffic_source=rss",
+   "time": "2026-10-09T14:20:21Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYVdPLU5KSHZUMlowc1doZ2F4RFM5b25UMlRJM2h3NkltV0xjaGVfN1ItbTU5QmZYTDVac0pNMlpFN0s5aWh6dTBCdUlmMzZMcHZoVE5renNVWkRRV3d3QzBTZ2Uzc1d1VGNnUjd4RklMVThsMTZ3Z241NmJoeUVteWR5eENHT0hTQTlxVlBlbkJnREZSTzNlX2I4QkxQUdIBowFBVV95cUxNZWdWUnNVaGxzYVZ5ZHg1UnRjZHU1Y3lnRWF3YkxIZVZVYkdmNWxZT29EbVJxN3ptNkhIdGNLejgtUVY0bnZWZTBuOXU5ejV1YzFWV3lQLXVEYVRWaE1QRUlFazh4MW1JMWI4YW5leFZKTW82MlZyV2FNU1MyUzctOG9meUVQb21OcHMzMVBra3piQmFuMFRQNWNoWkV0TDE2cndj?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
-   "source": "TradingView",
-   "time": "2026-10-09T10:34:37Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZFZKWlEzQVY1WEpRNWZ5ZlBaUzNfdVZuTG05RGRaaGlFX0FMcGJ2ZlI5UG0yQ0FRblVWbkNTc3piR2UyZjd4Mkp5S3VMd1g4X2VhWmpwZmdiZXI3eGFfR29md3gzTi1ZdHcwdFVxWDZjaG9DMFdaN0VWQVhDbU9sSWJDTVlHVEpqR0dhVnExOHhXc3otaWZvUWdId2VUczJEdlJ3RjA1WDlqUlpsSWJvLWljaF94S1Q0WkRabUFMODI2WWhzazNDUg?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Four signs it is about to get uglier in the bond market",
-   "source": "Reuters",
-   "time": "2026-10-09T10:29:48Z",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZnpPbXRYRlc0T3dINmZIZnM3VEgxWWJzS2tLRVBadmJMVnQ2ekdHaTQ1NG1SZlhfTV84VjNsM3JNR0RRSTZyVWJ1ODJFZmxpa1pxckluaktPY0d6T0d3bUVUUnRGQjlCVmwxWUNGWEs2cEo1VGV4R3MxN19PakJaZ3FUZnZfMWxqUHAzNk1nOTVFT0hr?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "The girls in the Gaza school photograph",
-   "source": "Al Jazeera",
-   "time": "2026-10-09T10:23:42Z",
-   "link": "https://www.aljazeera.com/features/longform/2026/10/9/the-girls-in-the-gaza-school-photograph?traffic_source=rss",
+   "title": "H.R. McMaster on Trump's Iran war ahead of the midterms, Murphy's claims about U.S. base access",
+   "source": "CBS News",
+   "time": "2026-10-09T14:19:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOS1vVzNaSmYxVTA5bmp2ZFVWVnpSSFh4Sk5JRFFKWWljMDlSQTJjdG9KdWNyd1d3Z1Z1UDZKU01Hd3hVbUFEUUZDUUFQdEtoSjI2Z1puZEVjT2U4NmNKNnJuTUt1bzNxcFN5Z1R6blVvdHp5NEEwNWtLRVktSGJRSzN0RWw0QXlKeWllMjZ6Qklka1FYMDMwZ0tuMXlLR3ZKcHR1dTdVQUliLTdVQUxQTFBCU2VaRkpKRmNv?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "What does a delayed US trade deal mean for India?",
-   "source": "Forbes India",
-   "time": "2026-10-09T10:13:13Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb21JN3lVTElzdUJOUHBreTAtY3F1QXdfNWxoUDVneWt0T0w3dHRDZzVUVVhHSmJaNjk5WWpjMGpvN0xWU0N4amszWWI3NnlIaVI1UlppYndWZDljRG5KQ3V5bHhsYkRNeHVVMUx1MFRkc2g4RVkyQmQ5ekhqNFNXd1NhMUhUWVFhdUpNUkFSR3BqMU54ZEZGYlNaOVZUYUhO0gGmAUFVX3lxTE9aUDMyN2hQNFRuS0dvZFlBNGswSHpUWXowNWo0Z0NhZktoOW40S0JqYm5WY0g0bkZlMWZPdkhSb1ZlcjJaMUhGQnpQeHdoejR5cDU1d2ZEQjdqTGw4aTdScXRfMTNkT2pMT1NSQ0UtbVh2Z0FwRjkwdEVYdGY0Z1VrUGRTaHNkM3d5M1BCTXNmc2tFRXBCQ1RGcVBWTi1mLVRDRy1Nb3c?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "TSX futures edge higher ahead of jobs data as gold prices rise, oil eases",
-   "source": "marketscreener.com",
-   "time": "2026-10-09T10:12:32Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVFJoamxGM2JlV0VQVjloRG1adXZNQ2ZSWUJQUHpRdnZBVXdTekZmbWxoRlZHNFpwMEdYbk1JRU90LXMzdjdIWG5UZGppbnVURmlCZVM4V1ZRNFJ4cFJJXzMyWW9rMHQ4dl9lVjdsdDA2T0FuTExVTWQ2V3NVVlJEODlkWlJJelFqSXdINDkzMVhTMHpmdzZ5TjY5YWFTeGh1QXlFbHdFX2t1VXVqT25nb2NHR2dMQzEzb1NZNllPQ1J6MGM?oc=5",
-   "tags": [
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Futures Top $4,200 as Silver Breaks $60 - What Comes Next?",
-   "source": "Investing.com",
-   "time": "2026-10-09T10:05:00Z",
-   "link": "https://www.investing.com/analysis/gold-futures-top-4200-as-silver-breaks-60--what-comes-next-200689262",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "If Water Is the New Gold, We’d Better Price It Right",
-   "source": "Bloomberg.com",
-   "time": "2026-10-09T10:00:08Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNy1BRlowcFlNMzAtVWpuQnZqbXNoYTVpVEFUV1RXZXRTYmM0Vjl5czNZMWZoMzA2X3U3OGEwT0xjUXdQa3RMX2JTVnRYeW5sZVl0WUZEODZHWXlRQnJiNFMzNDgzLVpFd0ZYNDVUS1VlZHJaaU13dkVLMVo4VVYxOTNlUFRycDlnMlc3NXY0NC1DdVZZaHFSdE03MzA0SU5ZaV9RQUtDR2s?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Trump set to impose sweeping tariffs on 60 trade partners",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-09T09:58:01Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa1BDcjdFRHFWaGlkYlMzZi1ZY2hCaVR5dGRpalctVTI1Q2poOGxFcXZqdmZfX2lqaVZxRmo3MWZIZ2ZUU0xCMm44OFdibDRCNF9BOVNmT1VHNURxR0tabkNtaVdoNTRaTW81cVIyVUdvanhBUS1rX3pEZFdyQmNSbDVDa0VMM2tPVGhYbDkwR1VhcUJJTDJXVmhNZVVVNi1L0gGmAUFVX3lxTE5UdFo2TDl4c1R2ZWRuX1ZxbTA3UmdwQnlrbVh1OXUyd1pucVlQS2dqY2VsbnRNSGt3WWljNkZ3V2kySmZNUzJ4WVBaT2NXSGRuUFlqRmx1UXNzSlEwZkV1MGRWVWxNbHdBcnY3Vm9CMVFqSWZxdnI3TkZqbWxValByNzBMRWxBR3BraFBtbEVuUFBvNDNpUVNBdWVkN3V6enc1YjlIWXc?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "NovaGold: The Gold Is There - Financing Isn't (NYSE:NG)",
-   "source": "Seeking Alpha",
-   "time": "2026-10-09T09:54:26Z",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUDFHamVVWTREaVBvZllLUk5KRTdHNE1KcXBDQk1kenhBQUxzdkRBRHlqdDk4dG5JdEZ6QUlYLUp2eHVqenkxcWRFajJWcE1mV0kzellSQ3hSWTZUX21wODViLUNjSG1xWWNweHl3N1JESXlyNWVDZFd2b2Z5dGtINkR0cU4wcTR6eEE?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Ray Dalio Warns Rising Bond Yields Could Put Stocks in Danger — Says Corporate Cash Flow Is ‘Deteriorating’ Even as Earnings Grow",
-   "source": "TradingView",
-   "time": "2026-10-09T09:52:43Z",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNNjVCeC1JdHlwZXRiNlpvZmdkX19uTzhjaFhrX3o1Y1JhUXRaNnJTWnBsWWRoSFFXTDMtbmNvaFR3TnIxQWx3elcwX0E1VmY2cmNyLUpyUGgyQTBDQVhEUC1mQnBuRjU4YmtDWC1LWmpQX2VlSjFDTUdwVzFqcE1TSUZfWkFSdEc4QUZycHE5SVI2ZkhabGIzZW5XRWNabG9Ydm9rRmRTVFVuSjdQXzI2T3VWV2ZpQmNSMEllWlRPUWwxT3Z2SnZQcnJCZ0VTdFhMR1ExLUk5eUF0bG1QQTkzZGhvc01nSXFPSzJXZ1BpeGhNb2p1cUZldElxcDJaWDZQUnRsNG5mSG5TemQ0WTM0SDV3?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Gold Market Commentary: Go With The Flow",
-   "source": "Seeking Alpha",
-   "time": "2026-10-09T09:40:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlVOS2JWczFQbzVHd1NfZDZOWTBnWHhMUkNsSFB6NVE2bExhU3FpcWtvV3c3Yy16LWNILUtXbVlDRjlLRVBIc01sVlZGOWx3QUpteXIwRnl5VEdVMUJ1TmVIN1pkaFg4bEpRaG5nQ1FnbThDclhfZG9kNS1YX1JmTFhR?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Prices Rise 1.5% as Dollar and US Treasury Yields Retreat",
-   "source": "Yahoo Finance",
-   "time": "2026-10-09T09:32:26Z",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTGp4b3pEMHBIX1JmZ2J6Q3NDWGpyMm4wcWZZcWJOaUpSSlFzZmU1X0dlazg5Z0txMXJId0o4N1g1VnFuU0FKZkxZMUFfVzRHV0gzSzB4em5UM09Sel9fS1ZDcDdva1dmSUxRYUhhVWY1Q29UcVoxQkk4WS1sMFlOc256ZlMtbExFLVhzQjRwbEVQOXBy?oc=5",
-   "tags": [
-    "USD",
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold, silver prices rebound on MCX: Key factors to watch next",
-   "source": "CNBC TV18",
-   "time": "2026-10-09T09:29:55Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzVXZEk4U3pRSnlwc09uQmNSaWFHVjdFdTlKb3Y2V3RIQkozQnFpdGVQeTRybkZVQWZpc2NvUmZnTndNd2hLTzFVM1hYZEFjN0l6ZXZYNUVoNWpDQW5Qa0Z1a1kzcV8xdVZIcVFrNDZ3RWFPanpYTmxQNVlrYk1ianpVT1ZlVGlzZHE0OThRc0ZOSHQ5TGZ1Q1FTcFJWcXNvSWluWldDbUExLXprWkhqY0VPOUdPbmfSAbwBQVVfeXFMTlJPWEJFRWYxcS0wOW1fZDBJUEpHaUZtUmxIZkNScjBaRTgtN1FnYWRYZEtZQlJ6WHZoMTNhTk9mNHlZNXRTV2hWcUJBV0ZoeEpad01MU1pkdUNvMnYwNkpEVDNrbXg4LTVISWJ1eVlpUG1FRDdKX0s4VXg2Wk4wcU81ZkNtWEtmczl0NmZLSjJMeW53LUsyYUt2QlpuUVB4QlpMLTlNQWVFS1k1dldDOXpBSWFXZWh3eURtbzI?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Dollar Tree (DLTR) Gets A Tariff Refund, Is It Still 13% Undervalued?",
-   "source": "Yahoo Finance",
-   "time": "2026-10-09T09:16:30Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkdZQnh3LTY1ekRabmIyX0xNaVlpQzJPUWV1Z0JCVXI0UWRJUUYtM3F4Q24wTkY4bFh2OW9PcEVpaHdyUEZsUVBibFNMa3lSVHl4czdvNTNYRzRIZzBnUXRNQnYyVVVvdXR2WDJfcV8tLUFWUG1hck1ZeVViT2ZIcmxPN2U4VE5EbWtVVFI4MGhhaTNmTEJrUg?oc=5",
-   "tags": [
-    "USD",
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump slashes tariffs to flood U.S. with 661 million pounds of foreign beef — Nebraska ranchers push back",
-   "source": "Yahoo Finance",
-   "time": "2026-10-09T09:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTjJYSnRtdnlPT1pGWkVpN1ljTTF3emdfaWpfR1hXREJRRVRWU3VqSlpJZ0ZSZlhDYlUyUTFQeFQ1UmhvMEU4OFRGUEZtSi1LRWZaSENSWDFCeUNFR1dnckJPcXFmZW04bHNyWmNJdDNvd1pfZFF0bWhOZzFrWXhId19WTGZ2Q25FQWdVSGtOM2hRV1QxVVlOMy13?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "UBS flags level in gold prices where dip buyers will likely emerge",
-   "source": "Investing.com",
-   "time": "2026-10-09T08:57:07Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQUxZVktSVzg4bkxTRUF0SDdraTJ6bW1uYWM2Q2xOdHJleV9yZEtMOXV3MWdKa094Ni04Zm9PZVRsWnBkQjNaR1hzaFk4ZUV4anFFUzBGYktTdEtmSHpKU2NpUTdTZ29XZ2twSjgwRVFNNlltdjkza2F2OTYwaW42RzV6c09uRXZSMlFlZFViS1F3a2NvVnhQWk5CbzE2RllVOW5HbEJDX21Rc2d1cTE4Q28zQUlPZ1dzaG9uM0dYOA?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Technical Analysis for Friday",
-   "source": "Investing.com",
-   "time": "2026-10-09T08:51:00Z",
-   "link": "https://www.investing.com/analysis/gold-technical-analysis-for-friday-200689256",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
