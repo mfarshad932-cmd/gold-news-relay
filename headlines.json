@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T15:49:40Z",
+ "generatedAt": "2026-10-10T19:58:34Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -36,7 +36,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 9
   },
   "investing_commodities": {
    "http": 200,
@@ -51,12 +51,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 2
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -65,13 +65,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 29,
-   "kept": 3
+   "items": 31,
+   "kept": 4
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -80,13 +80,13 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 10,
+   "kept": 10
   },
   "gn_fed": {
    "http": 200,
-   "items": 18,
-   "kept": 12
+   "items": 10,
+   "kept": 10
   },
   "gn_tariff": {
    "http": 200,
@@ -95,28 +95,28 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 42,
+   "items": 53,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 28,
+   "items": 23,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 25,
+   "items": 17,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 1,
-   "kept": 1
+   "items": 0,
+   "kept": 0
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "fed_calendar": {
    "http": 200,
@@ -124,6 +124,187 @@
   }
  },
  "items": [
+  {
+   "title": "Should I put my nest egg in a 30-year Treasury bond?",
+   "source": "MarketWatch",
+   "time": "2026-10-10T19:44:00Z",
+   "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Rising interest rates: The good, the bad and the ugly for retirees",
+   "source": "MarketWatch",
+   "time": "2026-10-10T19:44:00Z",
+   "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
+   "tags": [
+    "RATES"
+   ]
+  },
+  {
+   "title": "Saudi Arabia faces new level of peril in Houthi attacks, amid wider Iran war",
+   "source": "The Washington Post",
+   "time": "2026-10-10T19:32:39Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1ZaSjhHakhEb2hLUXUxdWZVb1pVQXJicTgtVENldndaRTI4VG5iaFJyV0sxSTRieVliX0c3SV81SEYtNmFxOXd2YUM2bDh6Tjk0cnBCVWM0RWNJeE4xLUVKXy10ZUM5cVNHc2tZYXR2R1A5U21MRVVjb0hMcHp5VTNfc29FTWFUaW51MVhnemJfRW9CMk8wb29HWVpzQ3pENDZscW43SEVxNHhUcUxrN3JBaUo4bWtENEE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump says Ukraine needs a new president who will agree to end the war",
+   "source": "Al Jazeera",
+   "time": "2026-10-10T19:32:37Z",
+   "link": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+   "source": "BBC",
+   "time": "2026-10-10T19:28:28Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "IDF Officials Warn Pre-Election Iran Strike Could Seem Politically Motivated",
+   "source": "Haaretz",
+   "time": "2026-10-10T19:22:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNRVRWS1hPanFCMldSUC1uNFpsWVFIX3FnNnkzV3RpektPcERUMFlfMGRQeDZhWElEdFdYeFJOTU54UTJnVm95ZmZyTUpLbmMxZkJzRjE3bEIxcDdvQUpHWXA3QnBZN3YtaWU1LVdKU3o0Y2tid2FkUzR4SXZLbWY0UkpuS1F6TGtOUk5STm9rYmhhRmRpcEl2ckZCRXNwSzZHU0czVzI3cV9HVjhhNW5ZQnVobnRoNGpscDdlWFN1NmhTT3pKNHV6YWxsOFF1OHpkcjJuenZ2RXJMMWxULVdRdmgxU0xOYVpnWkJfTWhfcXRJbEtiU2hObGttZXIzMVpnVlFvMEVjZm1mVlJNU0hHOFU3THVKcHlrcHhtZFNFNFBpdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump says Ukraine should get a new president as he blames Zelenskyy for U.S. diesel prices",
+   "source": "CNBC",
+   "time": "2026-10-10T19:19:07Z",
+   "link": "https://www.cnbc.com/2026/10/10/trump-says-ukraine-should-get-a-new-president.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump says Ukraine needs a new president, blames Zelenskyy's strikes on Russian refineries for high diesel prices",
+   "source": "CBS News",
+   "time": "2026-10-10T19:12:54Z",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OWFA3OWV1Uy00bm5ydUxjM1ZxVHFFV0lFTldIYURIbmNuM19JdENydFhkWVY2ak1aNHlXUDVyY2Z3akE0UDRqUTBMdmFEeFQ2emhBLVYtdGtzYzBSLXBaSVpvM3FlWWlWZ2QtWmdpVTZxbVctZHl2NUhn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Saudi Arabia Closes Riyadh Airport After Dozens Hurt in Houthi Missile Attack",
+   "source": "WSJ",
+   "time": "2026-10-10T19:12:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3A1N0dSaEowdHRsQm11d1EzUnJneHRRYWRYa2NWU0ZfeUgwOUNzMHpNN2dVWFJQeVRZRDdYTTJ5YUtwX2YwUEprdWowUW1hYXplbjlsbnBuaTk1RUc3ZnBseDgyMFI2Q09BNllMRXVUWm52RXQ1R3ViSEZpZW1OOWlqenhMSDlPMXY2NWVzOEpHTkctQld3WWJaNVh0M05rdUhTQlBCNGl2SXVqR29UbkVNMm8wR00?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Pentagon raises official toll of troops who died during war with Iran to 21",
+   "source": "The Washington Post",
+   "time": "2026-10-10T19:07:42Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHZoelUtdHRTbk42U19GLVM4OGV3QlR5SFI4VFJzQzNObUlUS19BR1UyMTE0alVmMFppTzF2NFpNQUdBTUhhTjJFVVlGanQwdUM0UGRSb2p6eWJJenZQbDlScGlFU2FfbWJncUd5ZEUwX1ZsY2N5dW5wRUU4MlctVUpUbWNRdmE0MkFDb0RkcjJYRWdSdm1LWnA0M0lmQkdBTjRDTE9PbkFPc2FhNnpsQ3JVQzZ2Z1FwaE9sRkxHX1hqcU5ENFlz?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump calls for new president in Ukraine",
+   "source": "Al Jazeera",
+   "time": "2026-10-10T18:50:23Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
+   "source": "Al Jazeera",
+   "time": "2026-10-10T18:38:01Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
+   "source": "Al Jazeera",
+   "time": "2026-10-10T18:35:24Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVlZFUVF0ZlRaYTl2SE43TFN6ZEZpWnpZWmV5WEdpOGdxal9MSm9oR1ZleTZPaFM0c3FNRk1fTUZFSUZRck8ySk94NjZGZlRRU1IyX2Y3dFhCeFlOMHRJbzc3dnA2UElFY0pXQ2xGNkVVTnhCdDE4bGhaZEZ4ZkEwM2E4SktMa0Z5M3pRMXZSTzQ4QmxRTFhMdlk3Z0RvZ3lEWGRUa3BXcW5od1ZHc0FuU3dMM1psMWtfcFHSAb8BQVVfeXFMT2dTeEFrVW1GaWg3Q3k1bjBLLVJBOVlPcWdOM2lmY2steFpfdXNwYkZrR2tMdllLRmhxSWt4OTlhU1RlNDhMcFZPZnZSWEhRNk80aG1sUnE0Rmg3cDdnZUdmcW5jZnpSRUhXYm5GSzkxeC1oZkJSZVU2Tk43N1F3alc2c3VjcnlvUDJHS2FPcC1oeEVGNlJqY2VRU2JmMDlmVk1fTEZsc2daVG5CbFNFVUVBV0ZPc2s0QUd3TUJKYUE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Riyadh airport suspends operations after missile strike injures dozens",
+   "source": "Financial Times",
+   "time": "2026-10-10T18:28:09Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3N2Z0ZOakFSR0VfTVMtME5MTGJTZndqYkFNTnR1a1ctR1pXWDZEWm5zLXV2R3h5cG1tRTNKQ0FDOWo4WjhQM0ZsUnVRRGUxdFAtcDY4LWNXZ19JTzNWWHNFZVNzS2Z6ZnV0UEFHN3FZZklPSjBUOVZYTXdpcktiLURuU1M?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump rips Zelensky amid Russia diesel deal feud: ‘I suggest they get a new leader’",
+   "source": "The Hill",
+   "time": "2026-10-10T18:26:00Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWll2NmdaY3ozODVvYVdOdnlFS3VOZks0b0JfN3NfZ1doajRscUdRdGYtSW1ZekloX0FtQzRIWmZ2RDhUdEZudUU3akYxZ2dVX1hhN1REbUFZRl9sT0dfYmZ4SEloc0RTTjh3RzNkX2xkeTBNLXgzZmpxSDFLZDRnNm1OWXhuWk9MOWdpNmNORdIBlAFBVV95cUxQaXUtVU5iUmpSVm5DMkR6Qkp1NThIWFlONnFrM2hIQkN0dGZrcU9lR3BVSW44S1REZjNoX1A5WkJaR1ZkVE9Vdm5yVU1zSVY1emJDbU0tcUhFbXU0UUxYeTlDTUc0a0lxVWgxYjMxeU1pTlZCOEIwT3FGdVFUejBpQWVqaFdxcnM4WFhuTUowQ3hKb0Jw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
+   "source": "Al Jazeera",
+   "time": "2026-10-10T18:12:28Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdGcxd2Q2QXhUSGFCZ3NmdUotNFR2bkxvZ0t5dUN3ZGFoWnEyeVVMaXU3YmxST3daXzhOeVpCcDRIbXJhYlJ2MUdsOEhNYVcwcThEZlQyZUFGQWFpeklPYlY2T0FZb3hQY0liUkRfZ3hpT3pOUTRkb2hhSUhkdmJSTmtrSURzZEhMdllIa1pqNm9mUDhCT3hnM1k5cDQ4bjh0OVBaNk9YMHpJd9IBrwFBVV95cUxOeEY5RWlrVmxYUFllYXkyMk5QeUZQZGZ6OGNGZ2dvVlo5cXB3STlBbnMxWmFpQUJYQ200VFZoaVdmM0lTRFpKTWRWMXRQUDhuc1lSdjduZHhSSXRLQjZNalhjNXdiYjhwd2xhbzlqbUF3RnN4bmV2U1hFdHJKYTZlWkllancybkk4Y0Rkc2tSZ0dPZlFiZzAyT0EzX29wMEJ0WnRGR3JUdU80aWU2TU00?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Analysis • First preventing a nuclear Iran. Now securing Hormuz. Where does the war end?",
+   "source": "Haaretz",
+   "time": "2026-10-10T18:02:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOC1oN3YyT3IxS2ZFVy0xMEt1NFl6U1ZqV1A1TmtxajZpaVA1cEZ5YVBUNFZaTmpCYU5wU2JzN2JmdDVQMFZBUDZWS1pBQXhhNzBscmI1YmVrVzluN1BGQzhDOWc5dUxOMkZVM0hfdGI4ZUVLc0ItaWx0RkRkbXFqUGNQbGlVVW9ENmdQdHktMmV4YTgyOFBPZzFqNTFNRmhPRVlidmZiYUdhYlAydHhCZHNQREZyRWtQdmFHRWZxZGd1LVFnYXhJbWhKeEpFLXlsSFJaaWNwQ3NDUVBBMTZ1ZGJpX2ljbWFNekdwRG1JY0FhN3ZNSWpVQlRab2ZMVzhfY3N4LVN6ZjJORDB5SWFndg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S. Tariffs Are Putting The Brakes On Mexico's Auto Industry",
+   "source": "Yahoo Finance",
+   "time": "2026-10-10T18:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDFrODJ5TTc4YnJDNUdjVVE2SzA3WnpDaDY5Nk42TnM2cXRtcHZsUnAxeVFBeDZXQlRnLTdTVEZ1YTVlbXNna1lQckFnYU5OVmxCUHhYVWpBM0xqbVIwNGxWbUNXUmdGZnU4eEFUQm0zY1ZjZFV3bEJuZGhpMFVzeUVCQlh0bFRjZ3lNSlhscVFoN05pWll1ZWlER3diQQ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Russia kills 20 in Ukraine as US hosts ‘productive’ talks to end war",
+   "source": "Al Jazeera",
+   "time": "2026-10-10T17:55:03Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVRaMG1aRnhiZDJkQ1NPY3J2RVpHaVE5TkwwWmFMQjBNUGloLUNZbHYyNm50RmZaYTlSSlJNQmFHellyeTB2VVhxSk9Ka1hEX1FQWUhsN1hGcS1PQVVSUFJuTW1tQ01KZU1GX3RVcGc3cEZ3bGpqLXZHZXpuQmJ4S1NfampTN2gwbmszTUMyeVNPemhVeFUzaXMxbnJKMElSb0l1RnBOONIBrAFBVV95cUxPOEF4cGJIaG42czhBRHVhOGZ2STlHRThabnNjZFd4SkFtYWRobHlFMUVHQXJScnYzZ1p4ODJXLVE1emFwSHBuaGJwZXNobTBLMXBUNEtvRGgyMXN3QjJuTUh2ZUlUMVdTVnJQQ2d5UmZFZmNfVzQ4cm1hQ3EzbENCcmlyTEdCMFdsSFY0cWEyWXkyNWxOUlE0NXA3aktfTS1NeDVFenZwS092bHRL?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump announces major diesel deal with Putin, infuriating Ukraine",
+   "source": "Axios",
+   "time": "2026-10-10T15:37:35Z",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45R1VMR0FnSGE4WGFsYTRYOGpkSlRhXzByUjdPUklvbHUzeFBwcHFGLWhGb1lPWTBYZXpLZEpocXlfc0xTUU5qbVhoX1lhWEwwRmp3N3lkd2QwOFVhQWRxc2ZTTm11dmdNN01qVUVyc2xoU2ljOGlBUXF0cE9EUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
   {
    "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
    "source": "BBC",
@@ -134,16 +315,7 @@
    ]
   },
   {
-   "title": "Saudi Arabia faces new level of peril in Houthi attacks, amid wider Iran war",
-   "source": "The Washington Post",
-   "time": "2026-10-10T15:22:35Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1ZaSjhHakhEb2hLUXUxdWZVb1pVQXJicTgtVENldndaRTI4VG5iaFJyV0sxSTRieVliX0c3SV81SEYtNmFxOXd2YUM2bDh6Tjk0cnBCVWM0RWNJeE4xLUVKXy10ZUM5cVNHc2tZYXR2R1A5U21MRVVjb0hMcHp5VTNfc29FTWFUaW51MVhnemJfRW9CMk8wb29HWVpzQ3pENDZscW43SEVxNHhUcUxrN3JBaUo4bWtENEE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Treasury Yields at 8%? This CEO Sees a Big Bitcoin ETF Opportunity - iShares Bitcoin Trust (NASDAQ:IBIT)",
+   "title": "EXCLUSIVE: Treasury Yields at 8%? This CEO Sees a Big Bitcoin ETF Opportunity",
    "source": "Benzinga",
    "time": "2026-10-10T15:00:24Z",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZmR5VzVPZlotdW5EYUZ1eHdITWw5S0wxYUFIc3ROVTVseldLRjBEd2hBX1NJYjZhLXNMYnVzVHMyUE8zbHBjUFFVZEF3S3ViS1JqaFFGblowc3FEOURVWnhNSktjLWk3MG4tODh2aFlSVmRrTy1YWHZpYUgxVkcwd0VtNnJ2b2JSZThpdnVTR3BiZmY1R05SaE50SG1TSnBYc1pVN1drbFN4eU9DLTNKVG1DSVdLV1ZDMzZ1ZExWN3ppQ0V2WUVvaE5TVQ?oc=5",
@@ -208,6 +380,15 @@
    ]
   },
   {
+   "title": "Why is the US sanctioning the International Criminal Court?",
+   "source": "Al Jazeera",
+   "time": "2026-10-10T14:24:51Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT29SMHVPVGc5OUxjT2plSDN3ZkNLVTF6c25wSDZlZW5TcE5reTJTU0ZIUS1RTEdnTld6YjU1c2pnNE5NTTV2R1VVZ2R3VFdDWjVDVnJ5dTJTdHJyRC1XaWphTWtUdk01V2s5NUdrV04xdzJrVG52bkxKa2w1elJQcXdBcS1fRGlNSENIN2tTTFk2b2VNQ1o4bXFiaU5rRGJpOUHSAacBQVVfeXFMTmJPeDBjZjdYYklhY3VFYWQ1UmtjNGItczB3UVZaaEhfaEktY2VPbE5wcTA2UzlTRV9DZzNLb3c4ODM5Z2Mtc0lyVzkyNnhjYXVFQ0RwaWU2YUJHWmR3UmhNS3VQUE1ma29VS3kzSGJzd2t0RXZsVklOYV8yaWRjZXhONXRIcnR1aWdRMGF2WXBDeER6bGQzSFQ5VlYtZVlEMDZxMUlmVHM?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "Has Yemen returned to ‘full-scale war’?",
    "source": "Al Jazeera",
    "time": "2026-10-10T14:14:13Z",
@@ -226,6 +407,24 @@
    ]
   },
   {
+   "title": "Global Bond Yields Turn Lower",
+   "source": "WSJ",
+   "time": "2026-10-10T14:12:04Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFpfSFJVQXNZSERFMG4yaFVObVdNdkZZay1Td0VpbE14enhKd1g2dW5NNldSWU5VR3FFWHFHRXowZmlmSjNya256OUVMOXVFbFVpRGstSlNWbVpaX2NESWF1QUYyTXBfWldfZVhlcUFxN2NSZG16MW42RkhxOUthMFhzYXFUV2hibENLazMyX19pTVNydXNkMExveWxsWktCQUtFZGcyQWJZcmZNb3RtTkQ3M3lKTkpxcXc?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Nobel winner Pillay decries US sanctions on ICC ‘unheard of, unacceptable’",
+   "source": "The Times of Israel",
+   "time": "2026-10-10T14:10:06Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ2otUUYyQnJadXhJdF91RlhSc0JZYllJOFpNU2k4dWZpRVM4MUhFTXk5WElRTTE4c0czbVpLUVZ0SXNuUEJERE4zOGU2OUJHTkYxaXNlb2JrRGFQaWZfSFE1QzJRbzBOazhmWFhGNkgwcktFR1dNYnJfaGlHb283NmZlanFCenBra3FFcnJEdmFjSl9FV3FDMWxUR2Y1eVdEWnl1QjZjWTBsWUNVX2Z5TjVkV2l3NExs?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "‘Ship has sailed’: New poll shows even an end to the war or lower gas prices may not save Republicans",
    "source": "Politico",
    "time": "2026-10-10T14:01:00Z",
@@ -240,24 +439,6 @@
    "time": "2026-10-10T14:00:23Z",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV1ZVZi14ZFhzcXhPR1BTaFZYN3IxUlFmLTNnWmpQYklEMFNWWXRGcVRlOWNGNjl3N0dHc1FGNVBvMUprVEZZQ2ZXcVZzVVlWbG1TdERCcjJKNjlOTG5QYXRJN2JqY291Skh2SkpQNUtxWXBnel9NaG5pY21YeC1rV04yMndpSnNDNUs0RzA4ZzZwMFJIS1BCemxTYlZHRkdrOFY4RUZ1WW52bjJma09pcXFteHVYLUw5U0JBN1lEdDc?oc=5",
    "tags": []
-  },
-  {
-   "title": "When streets become a workplace: Gaza workers convert tents into offices",
-   "source": "Al Jazeera",
-   "time": "2026-10-10T13:50:05Z",
-   "link": "https://www.aljazeera.com/features/2026/10/10/when-streets-become-a-workplace-gaza-workers-convert-tents-into-offices?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Novel winner Pillay decries US sanctions on ICC ‘unheard of, unacceptable’",
-   "source": "The Times of Israel",
-   "time": "2026-10-10T13:49:52Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ2otUUYyQnJadXhJdF91RlhSc0JZYllJOFpNU2k4dWZpRVM4MUhFTXk5WElRTTE4c0czbVpLUVZ0SXNuUEJERE4zOGU2OUJHTkYxaXNlb2JrRGFQaWZfSFE1QzJRbzBOazhmWFhGNkgwcktFR1dNYnJfaGlHb283NmZlanFCenBra3FFcnJEdmFjSl9FV3FDMWxUR2Y1eVdEWnl1QjZjWTBsWUNVX2Z5TjVkV2l3NExs?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
   },
   {
    "title": "Taiwanese leader hails Washington and Beijing’s talks ‘to reduce risk of war’",
@@ -288,12 +469,13 @@
    ]
   },
   {
-   "title": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran",
-   "source": "Al Jazeera",
-   "time": "2026-10-10T13:09:09Z",
-   "link": "https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss",
+   "title": "Democrats explode over Trump’s Russia diesel deal",
+   "source": "The Hill",
+   "time": "2026-10-10T13:02:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMVNFSUNjZlhRWFRFVUJEaWJmamxqbnhXMnlvWFVqUWtSVnE0a05fZjROUGV3b3FaSjR1WWtqUFJzN1kyamxRbC10TUVkLXlkM2hNYlhpTXJYWXBFNU5iVmVBRVdDYVdFVmEtalZGeER5X2Rqdm5CQ1MxRVpxRnFVOU8ySzF6QXFSVHl3dUE5WTBhbkZMRmfSAZsBQVVfeXFMTWQwcUxpV2pRR0l4YS1tV091M0xXSXNuMUs1eks2c1d0VzBPOVoyT3JoWkNDeUdYTndIVHJmclVmQ2NRT25qcldhaXViU2xxSWRUNHZpQjFTZlEzY2dOUXpQeTV0VGhJcEI3bFBRMm9ydmdPMGhaNklfYndNSFVEYy1tX1Y5ak9RRzU3YVo4Y0dSRkRXemFKOUpFaWc?oc=5",
    "tags": [
-    "GEOPOLITICS"
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -301,34 +483,6 @@
    "source": "POLITICO.eu",
    "time": "2026-10-10T12:56:00Z",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYy14RmRiYTY1M3ltamVNcmh4UmNFam01WFBsUk5JNDNzVmx1UG16bUhIdUZuTEhfMEx5YW1xbTVCWDNwVDJFa3FsZWwzLThSMGkzWmlZcS1KNDJMMjlURWZvUHZoZ0JmT1FOcUNzd0RLVWRnNG9NellHeGJvYllyV1hHc2lxbGt1V0Z5T3RJVFltcTNwdU1uY1R4RGE1eGM?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary",
-   "source": "Al Jazeera",
-   "time": "2026-10-10T12:40:57Z",
-   "link": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
-   "source": "Al Jazeera",
-   "time": "2026-10-10T12:33:07Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Why is US turning to Russia for diesel despite sanctions?",
-   "source": "Al Jazeera",
-   "time": "2026-10-10T12:22:30Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGNTbVgyVC14ZDVBOEs3Mm1rTW16emtnYzdRZm1OWi1SQ0xod09CRWZaajVkbEVmanlDdUxDRGd4NXNJOFdJYUYwUmV2UW00VXl2a2p4M0ZxNVc2NGlNdFIyN1R4UEFwTzN4aFdDcFNSM3ZKdnpIN3Bqek1wT25UUkhZUVV4UlJ0YjNROFc3TEgwQ25hZWlmZmJMVVJ1ZUnSAaQBQVVfeXFMT1R5NE0yR3F1TTRkZHZCb1h4M2lvd1JTMklBT05BUWY5SGRsSVFSbG9LTlNNeDJVNFpnMk9ZcVVpNnBLOUxPQmdacjA2VTdCeWVSei1lbmVJYUw1MFBnN1RRV2VjNENoQmhDck5EbkpXaFpoUW0wQ1ktbG54Z2l2LTVyN2dDc3BERTZzYTlOVGdyNDItSnh3UnFRc2RlbWktbWtKVXI?oc=5",
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
@@ -363,15 +517,6 @@
    ]
   },
   {
-   "title": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
-   "source": "Al Jazeera",
-   "time": "2026-10-10T11:19:24Z",
-   "link": "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Peter Schiff says bond yields could surpass 8% as risk of government default rises",
    "source": "Yahoo Finance",
    "time": "2026-10-10T11:00:00Z",
@@ -403,7 +548,7 @@
    "title": "Advisors to the ultra-wealthy steer clients back to bonds as yields climb",
    "source": "CNBC",
    "time": "2026-10-10T10:00:01Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeF9sUHJLYUFlNFFOb19KSVdCQ3JjaXFLenJGV1gyMDJHZGhOZjV1YUEydXNhSEd1R21QUUp0WFJpRENKNDQ3aWM5Zl9ESE1FMzhUM2pjanZuSWpQS29Lby1UUTlkN2FFT3l3SEpOVnlEc3BKNXZhcEZacVVNM1c3Q0Q4TFgzZkxNZUp2OUNQeVRfZlRFQktkZTZrdW9uTEXSAZ8BQVVfeXFMUHhfbFByS2FBZTRRTm9fSklXQkNyY2lxS3pyRldYMjAyR2RoTmY1dWFBMnVzYUhHdUdtUFFKdFhSaURDSjQ0N2ljOWZfREhNRTM4VDNqY2p2bklqUEtvS28tVFE5ZDdhRU95d0hKTlZ5RHNwSjV2YXBGWnFVTTNXN0NEOExYM2ZMTWVKdjlDUHlUX2ZURUJLZGU2a3VvbkxF?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMWswNElSUEFiLWJZRmQzdlJVQXhnU2Zqb0VGODdtcldoYXJpT2hMNW5UWVV0M3Nkbllfcy1EbjRKZFNScU5mZXpIck5OZ1gyLWMwc2xQZFpfNmVXVi1QcndBbzBHbjVOckJ0bENIUmtfTVdpeldqWHd1LUhsVllXbU1ZdHVWdV82d2pGQ0RZNjE5VGVWS19xU0dB0gGfAUFVX3lxTFB4X2xQckthQWU0UU5vX0pJV0JDcmNpcUt6ckZXWDIwMkdkaE5mNXVhQTJ1c2FIR3VHbVBRSnRYUmlEQ0o0NDdpYzlmX0RITUUzOFQzamNqdm5JalBLb0tvLVRROWQ3YUVPeXdISk5WeURzcEo1dmFwRlpxVU0zVzdDRDhMWDNmTE1lSnY5Q1B5VF9mVEVCS2RlNmt1b25MRQ?oc=5",
    "tags": [
     "YIELDS"
    ]
@@ -418,12 +563,12 @@
    ]
   },
   {
-   "title": "A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing",
-   "source": "Al Jazeera",
-   "time": "2026-10-10T09:39:52Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONG1nZjVKd1U0bWItV3FLUnctdHh4TjVoV2M0c0tjZW1neVp6eVNfYjZ6QVh0N1JQOWVVUFRKVHA3OGhrME5vZU1kZ1h5WkNabWFKeFEtWEJlZkdTTFZDX1pIWERCeVVrWmFoWkdsdFdLVXp6emY5VTY1NTZ4amZsMV9EOUd0c2M3ZEY1NzdFNFJkbnAtV3dCWVJpSzRnYzRfUF9OcGpiTjFETTVEUWfSAbMBQVVfeXFMT2xxQ2JRX0RZMEkxM1Q5QUFSQ1V4NW1fVENqeW8tSHVfcGRZS2RldW9hNUNGcnhGdTlLVmx6aFd5ODBxNlMwZUpWWC1tdnI2ejNoeHk3Ukhpa2pQckFSRFhLQTZSV0xpeGJiTHFLSmVNUjhrT01tVHBaaGpLMmRoQ0ltNU1sa3FCZFZIMWg2UkkzRGRjY3NRbk5PcmpHR3F0ZU1OQi16Nm5YZVYySG5lRGlzTzQ?oc=5",
+   "title": "Jio Platforms IPO: What does listing of Reliance Industries' company mean for Airtel, Vodafone, Indus Towers shares?",
+   "source": "TradingView",
+   "time": "2026-10-10T09:47:07Z",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcWNpV05ncURlRVhPVUJnM28tMG1PU3hsYW9sR2lFd3A4WWVVUHJkeG9hRXpsSk9oZXE4ZlBjbUVBZjRrSXQxNkpENGdCZ05ISlZOZW9JRkJYMnpLamxiOV9xRkxIWXB5VURPWUF4SzBXQkxpenAzak5xaXlzWWxnS3FDVnptNEcta2F0RnVxR2RGN1ZkZi1TZ2dIS3c1SjZ4QVd4SUlMenZwZW80clJKNzltNTM4eWptQnBiSzhXOHk1bWZtRHRnUnNhaHIxQzNDRmVtbjlnelItSVUzZGZobmc2UFZYTzd1S2xmZWV3bjBLcU8zTFgwQkd0VkM?oc=5",
    "tags": [
-    "GEOPOLITICS"
+    "TARIFF"
    ]
   },
   {
@@ -451,15 +596,6 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeHhVOE91SFdPWGdUVzQxTkZFbUZmc2FoSTAwRHZGR1FKMUNFeGl1eENZRThsUTllZ3VQNDNFeWl4cFp6UEFmZzFVMDNSbkhCLVR1NC1DaWJ4ckdRbDZySjI2VmwwUWlTUHJYbnl2a1REc0tzeEo5aVlmN2RqWnp5T0xLeGg3MXlOQ2ZuUFpRZGVSdktqZEdPMG1qNlQ0Z0w3dmc?oc=5",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "Jio Platforms IPO: What does listing of Reliance Industries' company mean for Airtel, Vodafone Idea, Indus Towers share",
-   "source": "TradingView",
-   "time": "2026-10-10T09:33:12Z",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNYURiUVB1VTVTeVhYam4yVHhZdHZWMWZLdF82VDdoQVE4bFdNeWhhY0pZellNNjdFWXFNRUdsak9LVGNyNVR5MTZDcFFlUG5RNmhZR3RqNGFoRVNJdWJFVGVVNUgwNG01aE5SY3FFc1dVdl9hbEp6Uk1KakJJRlhCTktZMFpMUmhNMmFWQ05aR2h4UjZRd3hYZ1Vob2xrTG5mck1ERDY0aUFOSGpTMmh3cmF3ZG10UkNhS1F0Zk5QQkp0WVJYdzZwTy13Y09HN2ZxU1RzUUlBQm82Zlo1Si1PcjlubzRTUWJ0LTJKMC1EWm1BMWFmTTZJVlU0ZU1UMndvVkE?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -530,141 +666,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OWFJ0ZjNHVjFhSnZackZyOXNQWkhyVEVqNWxTUTd3akVYTUlQVWlOaEl6MEtqZjhPOGdURjhlVWRQLU54dFZBSGdtOEdkOEZFdjFnV0NHTFJTemFqcTdmazU4VzRIemdvejlIVUYyRk1CNFJU?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran’s Missile and Drone Factories Are Still Standing",
-   "source": "Bloomberg.com",
-   "time": "2026-10-10T07:18:04Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVjlPbHF4Znc4T3Q4SG1HQVBGck1fRTd4MmstZXdtcUdxbTh2YnRKcTlhNXN4YUtGSnM5TlRFNXJlbW1KMTJDazFJOE82V0txZlVweW1xeE5tX21WLUd4ODdHcERvd0x4NzEybEx4amhrbWd2ZmNKd3JUTnFxeEJUaXgxTF9mZEFtUFlxajdoc2VGYTV4N2pURGdudkhmamUtTFNWWHBKSHFxdUNjaVFadEZYLWowbFRmY0FqYVJzemxHTTFDLVRhcw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-10-10T06:52:03Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russian attack on Ukrainian city kills 12, a day after Trump eases diesel sanctions on Moscow",
-   "source": "Reuters",
-   "time": "2026-10-10T06:39:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXFuRXk1Sm4ydlg5Tng2TklTSDlLUlhUXy12UldndXpmdWN1cnNYSmhZaFRwRTlSM0pUZWVtZjdicXdNbVlSMUxNYk5YYVhncjczY2FuLThrRlk4MTFPUU8ySVM5bHRlaGdfX19VTHQxQU9ZTXQwazF2MXhKYlUzVTFUMEZ2cjdQSTZGVEN5QWRPMlhPQnZTNElXeTY5QzZJb2NMcENHTUhSUXVVMU1kYjdoN2ZJZGdoTllBMkRvenZ4aU0?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Canada’s August Trade Surplus Widens Sharply Ahead of Fresh Tariffs",
-   "source": "WSJ",
-   "time": "2026-10-10T06:21:45Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM2JDWGNyeTZJNVVaX2pNYWpnckhhdGZ4dUlTUXl2N2lDUzhDVlJNendUM3F3aHFmVUhGeWdKX3R6bHRZMHBUUlphWW5CazRZeVdCQ2pWLXdWOFgyQkNseWJ2eUtCaGZTSUxnLXdqSG8wRXRmc1lXalhGMlBOT0dDOFJMRlp0Q1dfNHR3YVduU1ZOb18tcFo0TlVvU1B1S0ZyQXA1Znl5cVVCVndzdWc?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Egypt Inflation Slows Again Despite Iran War Price Pressures",
-   "source": "Bloomberg.com",
-   "time": "2026-10-10T06:19:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeWN6VkdmNDFLd0tGTlpzcDA0OUtRY2g1X2VITFZfdTZ3dVExemFXTUE3SlpKRGhfY01Hd0ZJNE53WC1NTkJyU1ZmN3FIdFc3TEsyaWJ3RkJSb3B3RTVlRjlsdzBaTmV6OU1WbW84YkI1YktzYjBvcTZ1UVVnNDRnNFJKbVpVSWx0WlZzdDQxWUdRNGxGcnl3ZDItYkZ0VkdNNnd2a2FwVVp3SllEaExSbw?oc=5",
-   "tags": [
-    "INFLATION",
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump orders new investigation of Fed's Lisa Cook",
-   "source": "Axios",
-   "time": "2026-10-10T05:40:17Z",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaTFduakwwLUdRVWF1SzQ0YTdjX3NTWHFFVEdPeTA1VEkzaVpQclBtLTBMcTFnbFpmVFN4Z0w2N2U0X3pFVzJJZE56LVdGZUhkZndzSFpESXdFc1IwZjM4R3ln?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "U.S. Stocks Slip as Treasurys Retreat From Recent Highs",
-   "source": "WSJ",
-   "time": "2026-10-10T05:38:34Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLTZ5RmJVdEgxTlRSZk1XMUIzS0kxbzhnYlBLYjN6UlNqcFVEM1B0WF93ME1ERGJBY1g1YzdhR0lsbEQ2aUhURzVHSWVNT0NGTkdkRFlMblVIdllMVE1uNm4wc202N1NqMlFJNHBRc09fakFKWTVWLUp0aldpZzhpY3V5NW5acEdTV3UtMjBZaGpBRVBBN2UwUmZYWW9tUzdFd2tZZ1h0VXM?oc=5",
-   "tags": []
-  },
-  {
-   "title": "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant",
-   "source": "CNBC",
-   "time": "2026-10-10T05:00:01Z",
-   "link": "https://www.cnbc.com/2026/10/10/ukraine-grain-exports-russia-harvest.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-   "source": "BBC",
-   "time": "2026-10-10T04:51:57Z",
-   "link": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold (XAU/USD) Price Forecast: $4,226 Breakout Could Reverse Downtrend",
-   "source": "FXEmpire",
-   "time": "2026-10-10T04:15:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUlpvUzRHZ0tBbGFEcWhSUjcwYlR1VGs0eXpyUk9fTmhSWEQtVlo3MU9DejczN2dqTnUzOE9QLXBQcF9yOE1iUVNtcWRKam1pS2dhcWxRdlo3ZWVWaWJtVVZfNHlNaThSa3dFU3hsUUxnTVFuazM5WU9XVnZrOG1DWEw1bFphVWNqbGhPdlRoRnZOQnVrcVEwZUloTmRRLVg2QXJTdjRnbmJTbjA4cTFHWDhqTmpMblE?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Natural Gas Price Forecast: Bulls Target $3.32 Resistance",
-   "source": "FXEmpire",
-   "time": "2026-10-10T04:05:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbno5SFhERTY3NmNYRG5EemJzZkhWQTlLNmdxV3l3RHdnaGxCYVVMZ1NzVmNLcXdqTTE2M1IyazFEX0hObDhPZFNUR2NCVDcxSDVad3c4Wmpwb0NqMHNiYzdMNnY0R3FmTVl4QjlEV1kxcUY1NzU3VUh5dHBSOFpDRGxuN3U4NWQ0c1ZXSHBHTHZvT0pvT0haOC1EQVNvaHZldFVOZ2swZUEtdw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Trump hits International Criminal Court with sanctions after Nobel goes to former judge",
-   "source": "The Washington Post",
-   "time": "2026-10-10T04:00:22Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbnIxSGZ1cXZ1OGRKT21CTV9oa2U3WjJYSW9NS290alRJdHgxQWxxWHN5WTAwM25RTHZmTHl5WEtiRE14MEx3cGoyTHVwNWxLeHFzWmFRelNlek5SbGkwVHRSdjA4RTQ5cWNqallxamtiN3JZMm1JRFZNVk8tWmFveXJMR2U2STV2d1I2V25XMG5JRUdhNS1EdWx5bDJyUU5zcmxCSjFkbGJVUlF0YXlz?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "At a Shenzhen market, ‘golden week’ tourists flock to buy discount gold jewellery",
-   "source": "South China Morning Post",
-   "time": "2026-10-10T04:00:11Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWDRPQkNONkJIeFdqM2xPODluR01EbV9tV3FPUDFtaVNaRFA4U0hJSGdVWHJqVTk3SWs1V1ZuVlN5djVOWDBOaTVuYjdZTVkwSzJxd191X2s1bGdUajRpUlZMR01WbmtvMGhXSXdjaVVRUFpIbTVfY09acUNuTjFQQ3c1Wm5yRkdQWEh3NnNhZUtMTGp2N0pJdTZuTExoOGU2SjhWWXhTdVBjdGVjQlctTDRnMHNXQVoxbmpHMW9JTTBqakNON0d6b9IByAFBVV95cUxNSlR4TWNVR1JPT3ppVFdIUTBGNG56Sm9IMEd0R1pMN1d3SzVqTGxkd25aU0YzUGRXMXBDUGItNTJMOHZmZEk4aUpBU1YzNDFoaUFaT01WTzNMdzdnZjZ0Mlk4aWMzTXBWRmd6NEhjY21xMV9pbnVWaG01Y254Q3FneXo3ZmxTdExpVnFDTGd4RWVYdkRhWVllajZnZ2FLVUZFWGkwRkFtaFVQaHhiX0hLamxOVkdmWEtMVmV5S3o0UEZ5TVcyZ3Y3Qg?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Takaichi Says Japan ‘Deeply Concerned’ by US Sanctions on ICC",
-   "source": "Bloomberg.com",
-   "time": "2026-10-10T03:23:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT1pNR2Iyd3prT2o0NDBuVzhna21MVnNLemhTN1VJS0E3Z3NMNW5SMUdkWXhsZGk0VGF3Y0NHdVhyLWlLZ09iRWQ2eEt6eWxPOXRVM1BucnF4X2hfd05DZU5neC01NzI5czJnQWRIamg5YncyQnJYdFdzTFJpVnJlMVRHaDdWZEtIMXd3VUl0Rkt4NXllRzV2ZldEa0lTVXd1R2U0bDlfTWYwTkN0VXk4T05SeGMtYUIySDkzSXhhaWo5cTR0cUxBRFV2ekpDQQ?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "3 Brokerage Stocks Investors Are Watching As Treasury Yields Climb",
-   "source": "Yahoo Finance",
-   "time": "2026-10-10T03:15:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONDhWZnc1U3NPbng4eWZ2elRDSFVoYm1fWHh3dVpyNkZLYVhQRkVRRGtwMWxNTm16djNlOUN0Wmt2V0pyUmR2ejJhZjY4RFpqNUExaGJnWVVPa2ViaUQtYkZsS3BBWnNuN1JsWjNfcnpiQkx0TG85aGFsSU91Ym1YXzBtRWRDUUlFcDZpZ3M3NXY1ZW44NmFHVWx2S2ExWktnSlgzcw?oc=5",
-   "tags": [
-    "YIELDS"
    ]
   }
  ],
