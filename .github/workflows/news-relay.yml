@@ -127,6 +127,10 @@ jobs:
           if ! jq -e '(.events|type=="array" and length>0) and ([.events[]|select((.title|type)!="string" or (.country|type)!="string" or (.date|type)!="string" or (.impact|type)!="string" or (.forecast|type)!="string" or (.previous|type)!="string")]|length==0)' merged.json >/dev/null; then
             echo "::error::merged events failed schema validation. news.json NOT touched."; exit 1
           fi
+          # 2026-10-13 regression guard: fixtures + no TradingView High within 3 h of a FF High (same country). Fails -> news.json NOT touched.
+          if ! python3 scripts/test_merge_news.py merged.json; then
+            echo "::error::merge regression test failed. news.json NOT touched."; exit 1
+          fi
           FFMODE=$(jq -r '.meta.ffMode' merged.json)
           TVOK=$(jq -r '.meta.tv' merged.json)
           echo "ff=$FFMODE tv=$TVOK merged=$(jq '.meta.tvMerged' merged.json) appended=$(jq '.meta.tvAppended' merged.json) events=$(jq '.events|length' merged.json)"
