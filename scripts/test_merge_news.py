@@ -6,7 +6,7 @@ usage: test_merge_news.py [merged.json [ff.json]]
   2) merged file: FAIL only when the output is truly broken: not JSON, no events, bad schema, or a FF High event
      (from ff.json) missing / moved. A TV High within 3 h of a FF High is only a ::warning:: (merge_news.py already
      downgrades those), so the guard can never freeze the relay over a borderline TV event (fault 3, 2026-10-13).
-  Exit 1 = the workflow step fails and news.json is NOT replaced."""
+  The workflow runs this as LOG ONLY: it never blocks output."""
 import json, os, subprocess, sys, tempfile
 from datetime import datetime, timezone
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -45,6 +45,47 @@ def fixtures():
     if sum(1 for e in ev if 'Warsh' in e['title']) != 1: errs.append('fixture: Warsh duplicate')
     rs = [e for e in ev if e['title'] == 'Retail Sales m/m']
     if not rs or rs[0].get('actual') != '0.4%': errs.append('fixture: TV actual not merged into FF event')
+    return errs
+def run_merge2(ff, tv, now, old=None):
+    d = tempfile.mkdtemp(); p = lambda n: os.path.join(d, n)
+    a = [sys.executable, os.path.join(HERE, 'merge_news.py'), '--out', p('o.json'), '--now', now]
+    for name, obj in (('ff', ff), ('tv', tv), ('old', old)):
+        if obj is not None: json.dump(obj, open(p(name + '.json'), 'w')); a += ['--' + name, p(name + '.json')]
+    r = subprocess.run(a, capture_output=True)
+    return (json.load(open(p('o.json')))['events'] if r.returncode == 0 else None), r.returncode
+def edge_cases():
+    errs = []
+    E = lambda t, d, i='High', **k: dict({"title": t, "country": "USD", "date": d, "impact": i, "forecast": "", "previous": ""}, **k)
+    cpi = E("CPI m/m", "2026-10-14T08:30:00-04:00")
+    tvcpi = {"status": "ok", "result": [{"country": "US", "title": "Inflation Rate MoM", "date": "2026-10-14T12:30:00Z", "importance": 1, "actual": 0.5, "unit": "%"}]}
+    # FF down, no old file -> TV fills the gap (High kept, TV time)
+    ev, rc = run_merge2(None, tvcpi, '2026-10-12T12:00:00Z')
+    if not ev or not any(e['impact'] == 'High' and e['date'].startswith('2026-10-14T08:30') for e in ev): errs.append('FF down: TV gap-fill missing')
+    # FF down, old FF copy < 8 h -> FF event carried, TV merged into it (no twin)
+    old = {"fetchedAt": "2026-10-12T08:00:00Z", "ffFetchedAt": "2026-10-12T08:00:00Z", "events": [cpi]}
+    ev, rc = run_merge2(None, tvcpi, '2026-10-12T12:00:00Z', old)
+    if not ev or [e['title'] for e in ev if e['impact'] == 'High'] != ['CPI m/m'] or ev[0].get('actual') != '0.5%': errs.append('FF down+carried: %r' % ev)
+    # TV down, old file holds a phantom TV twin -> dropped, FF kept
+    old = {"fetchedAt": "2026-10-12T08:00:00Z", "events": [cpi, E("Inflation Rate MoM", "2026-10-14T09:30:00-04:00", src="tv")]}
+    ev, rc = run_merge2([cpi], None, '2026-10-12T12:00:00Z', old)
+    if not ev or [e['title'] for e in ev] != ['CPI m/m']: errs.append('TV down: phantom carried %r' % ev)
+    # both down -> merge refuses (rc 2): workflow keeps the last good news.json
+    ev, rc = run_merge2(None, None, '2026-10-12T12:00:00Z')
+    if rc == 0: errs.append('both down: merge did not refuse')
+    # EU-only DST week (Oct 25-Nov 1): TV 1 h off -> still merged, FF time kept
+    ff = [E("Core PCE Price Index m/m", "2026-10-30T08:30:00-04:00")]
+    tv = {"status": "ok", "result": [{"country": "US", "title": "Core PCE Price Index MoM", "date": "2026-10-30T13:30:00Z", "importance": 1}]}
+    ev, rc = run_merge2(ff, tv, '2026-10-26T12:00:00Z')
+    if not ev or len(ev) != 1 or ev[0]['date'] != ff[0]['date']: errs.append('DST week: %r' % ev)
+    # US DST end week (EST): FF -05:00
+    ff = [E("Non-Farm Employment Change", "2026-11-06T08:30:00-05:00")]
+    tv = {"status": "ok", "result": [{"country": "US", "title": "Non Farm Payrolls", "date": "2026-11-06T13:30:00Z", "importance": 1}]}
+    ev, rc = run_merge2(ff, tv, '2026-11-02T12:00:00Z')
+    if not ev or len(ev) != 1: errs.append('EST week: %r' % ev)
+    # week rollover (Sunday, FF still last week's file): this week's TV High kept as gap-fill
+    ff = [E("FOMC Meeting Minutes", "2026-10-07T14:00:00-04:00")]
+    ev, rc = run_merge2(ff, tvcpi, '2026-10-11T02:00:00Z')
+    if not ev or not any(e.get('src') == 'tv' and e['impact'] == 'High' for e in ev): errs.append('rollover: TV gap-fill missing %r' % ev)
     return errs
 def broken(path, ffpath=None):
     errs = []
@@ -103,7 +144,7 @@ def similar_any(e, ff):
     sys.path.insert(0, HERE); import merge_news as m
     return any(m.similar(e['title'], f['title']) for f in ff)
 if __name__ == '__main__':
-    errs = fixtures() + busy_days()
+    errs = fixtures() + busy_days() + edge_cases()
     if len(sys.argv) > 1:
         errs += broken(sys.argv[1], sys.argv[2] if len(sys.argv) > 2 else None)
         try:
