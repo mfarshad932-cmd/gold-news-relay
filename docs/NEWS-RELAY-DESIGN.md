@@ -30,3 +30,18 @@
 ## Evidence
 - Replay of every relay snapshot in git (59): 0 FF events lost or changed, 0 TV twins of an FF release, 0 TV High within 3 h of an FF High. The TV-only High count dropped from 1106 under the old script to 8 genuine gap-fills.
 - The old script fails 7 of the fixture/edge checks; the new script passes all of them.
+
+## Gold-relevant news set (2026-10-13)
+All rows come from the ForexFactory weekly calendar (all currencies, all impacts) relayed in news.json. ForexFactory sets the impact. TradingView only adds `actual` or fills gaps.
+
+**GATE (bot blackout −30/+15 min plus the setup candles):** USD events with FF impact = High. The rule set is unchanged.
+- **Inflation:** CPI m/m, CPI y/y, Core CPI m/m, Core CPI y/y, PPI m/m, Core PPI m/m, Core PCE Price Index m/m.
+- **Jobs:** Non-Farm Employment Change, Unemployment Rate, Average Hourly Earnings m/m.
+- **Growth:** Retail Sales m/m, Core Retail Sales m/m, Advance/Final GDP q/q.
+- **Fed:** FOMC Statement, Federal Funds Rate, FOMC Press Conference, FOMC Meeting Minutes, Fed Chair speeches.
+- **Conditional:** ISM, JOLTS, Claims and any other release count only in weeks FF rates them High.
+- **Backstop:** NFP, CPI and FOMC are also built into the Worker (BIG3_2026), so they block even if the feed is missing. The Nov/Dec 2026 dates were re-checked on 2026-10-13 against bls.gov (CPI Nov 10 and Dec 10; NFP Nov 6 and Dec 4, all 08:30 ET) and federalreserve.gov (FOMC Oct 27-28 and Dec 8-9). All match.
+
+**DISPLAY ONLY (bot v7.9.22 "Also" line; never gated, not proven):** USD events with FF impact = Medium whose title matches ISM, JOLTS, Claims, ADP, UoM / Consumer Sentiment / Inflation Expectations, Consumer Confidence, Philly Fed, GDP, PCE, Payrolls, or Fed / FOMC speakers (Speaks / Speech / Testifies). The line shows the next 2 h, never past the 16:45 NY close, with at most 3 items.
+
+**Not covered:** non-USD events (ECB, China). Unscheduled shocks appear only in headlines.json (display).
