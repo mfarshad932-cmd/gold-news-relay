@@ -22,6 +22,7 @@ on:
 
 permissions:
   contents: write            # needed so the job can commit news.json
+  actions: write             # 2026-10-13: lets the job dispatch its own next run (self-chain, see last step). No new secret.
 
 concurrency:
   group: news-relay
@@ -30,9 +31,12 @@ concurrency:
 jobs:
   relay:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 45        # 2026-10-13: includes the ~28 min wait of the self-chain step
     steps:
       - uses: actions/checkout@v4
+
+      - name: Mark start time
+        run: echo "RELAY_START=$(date +%s)" >> "$GITHUB_ENV"
 
       - name: Fetch ForexFactory (primary)
         id: ff
@@ -131,7 +135,7 @@ jobs:
           NOW=$(date -u +%Y-%m-%dT%H:%M:%SZ)
           if [ "$FFMODE" = "fresh" ]; then SRC='https://nfs.faireconomy.media/ff_calendar_thisweek.json'; else SRC='https://economic-calendar.tradingview.com/events (ForexFactory unavailable)'; fi
           # Commit rule: only when the EVENTS changed, or as a heartbeat when the stored fetchedAt is
-          # >= 180 min old (so the Worker's 8h freshness check never starves on a quiet calendar).
+          # >= 60 min old (so the Worker's 8h freshness check never starves on a quiet calendar).
           write=1
           if [ -f news.json ] && jq -e '.events|type=="array"' news.json >/dev/null 2>&1; then
             old_ev=$(jq -S -c '.events' news.json)
@@ -141,7 +145,7 @@ jobs:
             if [ -n "$old_ts" ] && old_epoch=$(date -u -d "$old_ts" +%s 2>/dev/null); then
               age_min=$(( ( $(date -u +%s) - old_epoch ) / 60 ))
             fi
-            if [ "$old_ev" = "$new_ev" ] && [ "$age_min" -lt 180 ]; then
+            if [ "$old_ev" = "$new_ev" ] && [ "$age_min" -lt 60 ]; then
               write=0
               echo "No change and stored copy is only ${age_min} min old -> nothing to commit."
             fi
@@ -185,3 +189,25 @@ jobs:
             sleep 5
           done
           echo "::error::push failed"; exit 1
+
+      # 2026-10-13: GitHub's scheduler ran this "every 30 min" cron only ~4x/day (gaps of 6-10 h observed Sep 30-Oct 12).
+      # Self-chain: wait so runs are ~30 min apart, then dispatch the next run with the built-in GITHUB_TOKEN
+      # (workflow_dispatch is the documented exception that GITHUB_TOKEN may trigger). The cron above stays as the
+      # restarter if a chain ever breaks. Never more than one chain: skipped when another run is already queued/running.
+      - name: Chain next run (~30 min cadence)
+        if: ${{ always() && !cancelled() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -uo pipefail
+          others() {
+            gh run list --repo "$GITHUB_REPOSITORY" --workflow news-relay.yml --limit 20 --json databaseId,status \
+              --jq "[.[] | select(.databaseId != ${GITHUB_RUN_ID} and (.status==\"queued\" or .status==\"pending\" or .status==\"waiting\" or .status==\"requested\" or .status==\"in_progress\"))] | length" 2>/dev/null || echo 0
+          }
+          n=$(others); if [ "${n:-0}" != "0" ]; then echo "another run is queued/running ($n) - not chaining"; exit 0; fi
+          el=$(( $(date +%s) - ${RELAY_START:-$(date +%s)} )); wait=$(( 1680 - el )); [ "$wait" -lt 60 ] && wait=60
+          echo "sleeping ${wait}s before dispatching the next run"; sleep "$wait"
+          n=$(others); if [ "${n:-0}" != "0" ]; then echo "another run appeared ($n) - not chaining"; exit 0; fi
+          gh workflow run news-relay.yml --repo "$GITHUB_REPOSITORY" --ref "${GITHUB_REF_NAME}" && echo "next run dispatched" || echo "::warning::dispatch failed - cron will restart the chain"
+          exit 0

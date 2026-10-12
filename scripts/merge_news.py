@@ -31,7 +31,7 @@ def parse_dt(s):
     except Exception: return None
 
 ALIASES = [  # (regex on normalised title) -> canonical key. Applied to BOTH FF and TV titles. ORDER MATTERS (adp before nfp).
-    (r'^(fomc member|fed) (?P<who>[a-z]+) (speaks|speech)$', 'SPEECH'),
+    (r'^(fomc member|fed(?: chair(?:man)?| governor| vice chair)?) (?P<who>[a-z]+) (speaks|speech|testifies)$', 'SPEECH'),
     (r'\badp (non ?farm )?employment change\b', 'adp'),
     (r'\bnon ?farm (payrolls|employment change)\b|\bnonfarm payrolls\b', 'nfp'),
     (r'\b(initial jobless claims|unemployment claims)\b', 'claims'),
@@ -66,6 +66,38 @@ def similar(a, b):
     if ca == cb: return True
     A, B = toks(a), toks(b)
     return bool(A and B) and len(A & B) / len(A | B) >= 0.75
+
+FUZZY_S = 3 * 3600
+
+def fuzzy_match(base, idx, dt, title):
+    ts0 = int(dt.timestamp())
+    best = None
+    for k, ii in idx.items():
+        dd = abs(k - ts0)
+        if dd > FUZZY_S: continue
+        for i in ii:
+            if base[i].get('src') == 'tv': continue
+            if similar(base[i].get('title'), title) and (best is None or dd < best[0]): best = (dd, i)
+    return best[1] if best else None
+
+def drop_tv_dupes(base):
+    """Final pass: a TradingView-only event (src=tv, e.g. carried from an older file) that duplicates a FF event
+    (similar title, same country, within +/-3 h) is removed; its actual is copied to the FF event if FF has none."""
+    ff = [e for e in base if e.get('src') != 'tv']
+    out, dropped = [], 0
+    for e in base:
+        if e.get('src') == 'tv':
+            d = parse_dt(e.get('date')); twin = None
+            if d:
+                for f in ff:
+                    fd = parse_dt(f.get('date'))
+                    if fd and f.get('country') == e.get('country') and abs((fd - d).total_seconds()) <= FUZZY_S and similar(f.get('title'), e.get('title')):
+                        twin = f; break
+            if twin is not None:
+                if e.get('actual') and not twin.get('actual'): twin['actual'] = e['actual']
+                dropped += 1; continue
+        out.append(e)
+    return out, dropped
 
 def fmt_num(v, unit, scale):
     """FF style: 7.079M / 4.1% / 162K. The Worker strips everything but digits, '.', '-' before comparing."""
@@ -145,6 +177,11 @@ def main():
         hit = None
         for i in idx.get(int(t['dt'].timestamp()), []):
             if similar(base[i].get('title'), t['title']): hit = i; break
+        if hit is None and not ff_down:
+            # 2026-10-13 fix: TradingView sometimes lists a release at another minute than FF (seen: Retail Sales MoM
+            # 09:30 ET vs FF 08:30 ET, Oct 11-12) -> it was appended as a phantom High event. A similar-titled FF USD
+            # event within +/-3 h is the SAME release: merge its values, keep FF's time.
+            hit = fuzzy_match(base, idx, t['dt'], t['title'])
         if hit is not None:
             e = base[hit]
             if t['actual'] != '': e['actual'] = t['actual']
@@ -176,6 +213,8 @@ def main():
                 elif e.get('src') == 'tv':
                     d = parse_dt(e.get('date'))
                     if d and ws <= d < we: base.append(dict(e)); meta['tvCarried'] = meta.get('tvCarried', 0) + 1
+    if not ff_down:
+        base, meta['tvDupesDropped'] = drop_tv_dupes(base)
     base.sort(key=lambda e: (parse_dt(e.get('date')) or datetime.max.replace(tzinfo=timezone.utc)))
     # canonical key order, actual last; unknown extra FF keys preserved
     order = ['title', 'country', 'date', 'impact', 'forecast', 'previous', 'actual']
