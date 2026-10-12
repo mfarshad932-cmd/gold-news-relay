@@ -80,24 +80,33 @@ def fuzzy_match(base, idx, dt, title):
             if similar(base[i].get('title'), title) and (best is None or dd < best[0]): best = (dd, i)
     return best[1] if best else None
 
-def drop_tv_dupes(base):
-    """Final pass: a TradingView-only event (src=tv, e.g. carried from an older file) that duplicates a FF event
-    (similar title, same country, within +/-3 h) is removed; its actual is copied to the FF event if FF has none."""
+def drop_tv_dupes(base, ws=None, we=None):
+    """Final pass over TradingView-only events (src=tv). 2026-10-13 (faults 3/4):
+    - DROP: FF has a similar-titled event of the same country within +/-3 h, OR anywhere in this FF week
+      (FF already lists that release; FF's time and impact win). Its actual is copied to the FF event if missing.
+    - DOWNGRADE: a TV High still within +/-3 h of a FF High of the same country becomes Medium (never widens the
+      Worker's block set next to a real FF release). Never fails, never freezes the relay.
+    Returns (events, dropped, downgraded)."""
     ff = [e for e in base if e.get('src') != 'tv']
-    out, dropped = [], 0
+    ffd = [(f, parse_dt(f.get('date'))) for f in ff]
+    out, dropped, down = [], 0, 0
     for e in base:
         if e.get('src') == 'tv':
             d = parse_dt(e.get('date')); twin = None
             if d:
-                for f in ff:
-                    fd = parse_dt(f.get('date'))
-                    if fd and f.get('country') == e.get('country') and abs((fd - d).total_seconds()) <= FUZZY_S and similar(f.get('title'), e.get('title')):
-                        twin = f; break
+                for f, fd in ffd:
+                    if not fd or f.get('country') != e.get('country') or not similar(f.get('title'), e.get('title')): continue
+                    near = abs((fd - d).total_seconds()) <= FUZZY_S
+                    same_week = ws is not None and ws <= fd < we and ws <= d < we
+                    if near or same_week: twin = f; break
             if twin is not None:
                 if e.get('actual') and not twin.get('actual'): twin['actual'] = e['actual']
                 dropped += 1; continue
+            if d and e.get('impact') == 'High' and any(f.get('impact') == 'High' and f.get('country') == e.get('country') and fd and abs((fd - d).total_seconds()) <= FUZZY_S for f, fd in ffd):
+                e = dict(e); e['impact'] = 'Medium'; down += 1
+                sys.stderr.write('::warning::TV event %s @ %s downgraded High->Medium (within 3h of a FF High)\n' % (e.get('title'), e.get('date')))
         out.append(e)
-    return out, dropped
+    return out, dropped, down
 
 def fmt_num(v, unit, scale):
     """FF style: 7.079M / 4.1% / 162K. The Worker strips everything but digits, '.', '-' before comparing."""
@@ -214,7 +223,7 @@ def main():
                     d = parse_dt(e.get('date'))
                     if d and ws <= d < we: base.append(dict(e)); meta['tvCarried'] = meta.get('tvCarried', 0) + 1
     if not ff_down:
-        base, meta['tvDupesDropped'] = drop_tv_dupes(base)
+        base, meta['tvDupesDropped'], meta['tvDowngraded'] = drop_tv_dupes(base, ws, we)
     base.sort(key=lambda e: (parse_dt(e.get('date')) or datetime.max.replace(tzinfo=timezone.utc)))
     # canonical key order, actual last; unknown extra FF keys preserved
     order = ['title', 'country', 'date', 'impact', 'forecast', 'previous', 'actual']
