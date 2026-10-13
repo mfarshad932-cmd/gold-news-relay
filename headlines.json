@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T12:15:00Z",
+ "generatedAt": "2026-10-13T12:43:09Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -51,12 +51,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 4
   },
   "bbc_business": {
    "http": 200,
@@ -80,7 +80,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 30,
    "kept": 12
   },
   "gn_fed": {
@@ -95,7 +95,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 44,
+   "items": 45,
    "kept": 12
   },
   "gn_sanctions": {
@@ -110,8 +110,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -124,6 +124,52 @@
   }
  },
  "items": [
+  {
+   "title": "Fund managers retain surprising optimism in the face of stagnant stock market and tumultuous bond market",
+   "source": "MarketWatch",
+   "time": "2026-10-13T12:40:00Z",
+   "link": "https://www.marketwatch.com/story/fund-managers-retain-surprising-optimism-in-the-face-of-stagnant-stock-market-and-tumultuous-bond-market-3d9763dd?mod=mw_rss_topstories",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount",
+   "source": "WSJ",
+   "time": "2026-10-13T12:32:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUEt1NmxaOWtwZ2RBbVh1Q01nZjU2TlZCR1gtRm5sOElDQXFOaVJuTWRQVkhKcGxwNG5KYkhITnJsamhoV1JxVDlxc3p6RlJNR0FCUEtoWm1NQlpNcHN5TXh0RFZJYkhqUFlVdnBXQm5IUFMzdzBqNHRNSk9BelFWbEkwOEJ3bVJLLTZLUjU3Slo3UXVUZjk2YkpySnN5Sl83LWN6Mzdka0MyZzBfTUEtVldmU0Q?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Watch Houthi Attacks Intensify Threat of Wider War in Middle East",
+   "source": "Bloomberg.com",
+   "time": "2026-10-13T12:29:03Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc09Udjd4OFVyaUk5Q2o4MmJ6UkJvZTRnajNWMFZGRU96cFZNcm9tNC1TYWMwRm1SM25qSnNabWdtb1Bxd3BHRXdmUjBaN2dtb3dnTk5xWXVxeExsWnJSdlRtTG8tMDh1cDhKXzZJOVoxNndxN1J3d2JBWnJubmJabGcwUkh4enpST0ZOcDVIbldtRlBFTGFWY29GYXpUUXNRT2Z2ZlRLYkJwYTNSSzkyUw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip",
+   "source": "Axios",
+   "time": "2026-10-13T12:22:30Z",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwYVA3bU1jWS1xcGxwMGdRSE9FdUs2WWRzZWk1ajBITXFaemNSOTFkSjRlcWxNYlBBZkEzdm50dFRHSlctT0ktLVZySzBUallmVkZSVXNJZ3FlVkJLZkhwYXFNOGVGeXVCQmtVODRYZDZDQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "TSX futures rise amid easing bond yields, higher gold prices",
+   "source": "Investing.com",
+   "time": "2026-10-13T12:17:25Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWWNqLUZ6ZV9CNHE0SFBESHZNS3d1dHNyeHgtS09vWjlucEswLTJlMFhVdzFyT25NYnFLcm1kLVRkSTE5QmhtUVkxTUVWRjlJMWd3Q0plcGVDenNhVnltSnZVUGtaWm5OYV9iVHhmQjNha1NsR3NCX1RaN2hmaFdqenBaR0c5RFpURkhzblNKSDVTSm0wTDlLOGowcm5QWDYwODlUSGV2bVdZRkNaYW1oMlExMGxIYlk?oc=5",
+   "tags": [
+    "YIELDS",
+    "GOLD"
+   ]
+  },
   {
    "title": "Zelenskyy says Kyiv’s partners failed to warn of ballistic missile attack",
    "source": "Financial Times",
@@ -140,6 +186,15 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXU0Wi0tVm5aMk5WYWZNYTBlLW9uVktRN2VyRUxPQUpUazM3cXVLRnZNMF9ad01tVWFZUlBRWV9WVU9BOGoxXzdFWWMyQndhclVId3R5VlBIeTBOTF9JbnN4eVdnWThmd19ZWktfYlJwYTdHNkRZaGFtX3Roci12TWR3OE5EVi1ERDhWOHlGSV9XTDRScG9uakVjRlVzTnBpYk0zZWthdHg4SG9tRmVkVkZsWDM?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Blackstone’s Gray, Fed’s Waller See Warning From France’s Stress",
+   "source": "Bloomberg.com",
+   "time": "2026-10-13T12:04:26Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaUZOMU9RX0N4a2tKTDZSY2U3dTNEdFd2RHN5Ynd6RFdtVlQ3ajM5SmxLb3h4azBPZ3A4RnhvdW05MHh3UDV2cFN4MHFRbWJBSDBfdFZvaGlJTjFHaEc0MzFoSUdVWllXd2xCRHFlZUJBTDBPNU9oUV9aV0owYXJ6azc0Ujlqd2k0RWhyNEFHcUxuak92RVlEdUQ4SXJfTUtmV015NzN3X1NIckpFMG9LMmRLVHc?oc=5",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -234,6 +289,13 @@
    ]
   },
   {
+   "title": "Bond Math: Why Rising Treasury Rates Accelerate Income Growth",
+   "source": "Seeking Alpha",
+   "time": "2026-10-13T11:35:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMFlCajd0UmlWNmxKZVZoZlozQ2s3djZZeElmNmhXZ3NfR2MxM0t1YTBGOGVtazVJSUZsX0NPSTRZQnQtaDlhOGdzOGtwYURRODdSR0NJejZCdFBsTDdQRVpQVEJOcVdlZGp1cUNGeGwxWGFUWHNOZEVRV010QjFqZ3VjeV9mS3lyZVI3TjRfWGpLVDV1T3Y3RHJIa2tQeGpINU9n?oc=5",
+   "tags": []
+  },
+  {
    "title": "Brent: Uptrend intact with $114–116 in sight – Societe Generale",
    "source": "FXStreet",
    "time": "2026-10-13T11:31:26Z",
@@ -259,6 +321,15 @@
    "tags": [
     "YIELDS",
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Russia hits no energy targets in Ukraine for first time since Trump's 'truce'",
+   "source": "Reuters",
+   "time": "2026-10-13T11:15:36Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRVA2WjlXNVNqR1RhTzFnOFd4bGstWUFZMDhCbXBNUEsxNzU4b2N2Tktwck9tMlFvSERMbFVwcnNkMUFTSVBxMjlia2VhMlQwZVllRlo5ZFpaUnl6aWFxSWJGaXhIeFJFcVA1ZUUxRHJqWjNqalNrU1UwMUtfX1hKTXhtN3pNVHdOSW93WGh5NlRuZW5KdVJPOGtsWWVHbG9UMy1tUjZrcWxEWGZkUldicFVURDFjdmdza3Q0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -492,15 +563,6 @@
    ]
   },
   {
-   "title": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip",
-   "source": "Axios",
-   "time": "2026-10-13T09:03:25Z",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwYVA3bU1jWS1xcGxwMGdRSE9FdUs2WWRzZWk1ajBITXFaemNSOTFkSjRlcWxNYlBBZkEzdm50dFRHSlctT0ktLVZySzBUallmVkZSVXNJZ3FlVkJLZkhwYXFNOGVGeXVCQmtVODRYZDZDQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Houthi official warns US against entering war in Yemen as Saudis weather attacks",
    "source": "South China Morning Post",
    "time": "2026-10-13T09:00:25Z",
@@ -616,70 +678,6 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkI5b2xiazdVN1c0YlhCTmxRbWlPdld5dW9hNFRGWTktM0RVWVptQ1ZDbDE0aFJTbzh1M3NnUHR6SEFHV0VobUs1SzZldmpBa0xJendqVUV2eGYteG9fRXBSSzl3R2QwbTAzOWZZRk1WaV9QbU5rZzVidGhvMmJVRk4wblhpcjNLekd3LWQ2c2szSjVsbjh1bzVUdFhaUkRHMldxZDVuUHBJZnhR?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "French Bond Yields Ease",
-   "source": "TradingView",
-   "time": "2026-10-13T08:04:03Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fZTAzZ1hvb2JoeXZzcUxsYU5JWG1zeE83eVJQM09FbGtpamNfbFlDeWg5NW9DbDZXT2ZOYVFYNXBiZXdqaTBsR3RlUUJBb1dnMXlZWTg2b1luNkF1YXJ5OWtfbXZVZ0FtLUxJeFdBbjJHbXM2dlRRcEZsbVFCc1E?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
-   "source": "Al Jazeera",
-   "time": "2026-10-13T08:03:50Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVBmcWUxWWc3WU5kZEJKWWxVMkFGRS1yN1JGLVZWSEpjVTdCeVVNaHhOSnJhdmpreV9wUFBJa2ZReXR6RDRsclBkb2lQcDNUZDl5WmlvVWpVZGpEdUNpV0VHd05hZnpoNjhaVTZIUzJHdWE0YkYtTkVfTDJDYVZxOFAwSkptZjhhdThscFhSb0t6Ty1nN0JRdlI0bGJUUlBLNmdNRXExRnhRYzhKamptTVRDd9IBuAFBVV95cUxNOVRSNVRrem8zUHZWelhONndycjFxUHVWWDZpWHVLd2V0S3NIdjVqV0ZzX29TRTVnaHFuYVhneDlzVU9lbEh5dS1nOWN2N205UTEwRy1TLUhaZ1JzLWg1LXRNZm0wZGcwRGNTSGxRNFcwZXIyaU96Sk9ZM01JQWg0M05EZXBOeUdvYXlyVnJiY1JkR2pGZ0JBTHEtSlVLMWZUWnA2cVlaa3lZTFRsX1VaNVVaajFqb2Vl?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "UK Bond Yields Edge Lower",
-   "source": "TradingView",
-   "time": "2026-10-13T07:52:16Z",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUElVMm9BSF81dmd5VXo1Q0JvSVlKdlkxWEVlblppX0RKbGNkc1J3VjlCWlNpZWxNYjRfRnRZQnBZSnRYVGxDV0dlc0xlOXJNUy1mekFfYnFDZk56TW1uWUVYTm9UaXNIT0RvZjZZQ1ZYUDFyZ2dyczM0UE8tU291SXB3?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "South Korea's Lee says Arctic shipping route development to comply with international sanctions",
-   "source": "Reuters",
-   "time": "2026-10-13T07:52:09Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNG1TNUF5UDJlaURuYkFNUm1BcVBfdmd3ck9QQXhvMXRlUHFXM3hMcUo1OTZrZTNBMXNKdHpKRGJLNXJ0c2g3N1E5b0JiZWw1bmU1dkxTZktQd3VnenJmc1pJdTBNbXduQko0bTFXT3JNaTdLOVA4VTV4MWl1Q2lYV2xyeW9LSHFhSnoxVEpHVURzN21RQlNvdlJCTi1FSmRKU081UEtlby1xSUFsSllRMkdfX2c4UQ?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says",
-   "source": "Al Jazeera",
-   "time": "2026-10-13T07:41:03Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS21VbVNZWmtxOTNETndGYXdELUtxVEpnakhseHFMdS1zeG9RLXJrMzVVTHlkbjlpa2tXR3k2ek9ic2ZDbFU3ZkZBcV9PNzdVcVc1Nm9ZZEJNUFRLQTZmV24wUUtBYnRtaW1mNm80UXk2clRiR1o0WUlRdXpScFE3TC1BcnNpejRROVhaZ3UteDJELWpoOVpLbTZZb2VsSUp6Tkd4MWZOTkFxamNKVG42UVdIc243TFJpTUHSAb8BQVVfeXFMT1MtYXUxdzFtZi11Z2FabS1scVRNUko1MUpNdXVhR1NTcUZXc1JhdGdrU19uRGZjZm5DcWRYNWs1aUxFdXdEZHQ0eXhOdHFWaE5JZ3BUcHRPRWtISjkzOFFweThKdFpxRHNBTkEwaUZqV2tfSGR2enJQdXpaWXl1cDV5cXdSbkhRUG1Kbm1UUzVhWnZVZ3REVWQ1Y2hKMlpsUGIxZWlKUGt6RTdyUVg1MVM1MEVJVDZSUlo5ejQ5VlE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Bund Yields Ease on Safe-Haven Demand",
-   "source": "TradingView",
-   "time": "2026-10-13T07:38:46Z",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNalRaQkpSZlNtaWZVdVF2cTRnVjhqMU9nTFJLOFViSEJLZDV0dVBKNDRJdDRMZXpRNGVnODJVa1BjbldPeklvQ0dnbWI1Tkc3YjhYNUFHdFRMUHBhZUV5ZGFmMTM5cFJMLU56MEIxd2tCeFlsT2tMZDZqVWFCc05rak12cjJ3NDVjYUpVMXBzNy1JQQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold and silver fall ahead of U.S. CPI: Rebound opportunity or further downside?",
-   "source": "Yahoo Finance Australia",
-   "time": "2026-10-13T07:15:37Z",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DblBXek5TZDVUelhuRF9fVm5tQ3luWkxObFEtejMyUlZqNF9PSG9Yb0tYN1VkemFaNjF3UWpOZzdCc3lKNUttdzczaVd0WEVlWTAzeHVUR25STFU5dU5lSTR2RDdQQmZPbWdmMTRxWm9mUmZQUVZFcFhKQk54dw?oc=5",
-   "tags": [
-    "INFLATION",
-    "GOLD"
    ]
   }
  ],
