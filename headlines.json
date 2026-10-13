@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T08:57:45Z",
+ "generatedAt": "2026-10-13T09:25:54Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -65,13 +65,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 38,
+   "items": 39,
    "kept": 8
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -85,17 +85,17 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 12,
+   "items": 13,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "gn_war": {
    "http": 200,
-   "items": 51,
+   "items": 50,
    "kept": 12
   },
   "gn_sanctions": {
@@ -105,7 +105,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 32,
+   "items": 31,
    "kept": 12
   },
   "gn_oil": {
@@ -115,8 +115,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 9,
+   "kept": 9
   },
   "fed_calendar": {
    "http": 200,
@@ -124,6 +124,34 @@
   }
  },
  "items": [
+  {
+   "title": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
+   "source": "CNBC",
+   "time": "2026-10-13T09:20:00Z",
+   "link": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Treasury, Eurozone Yields Fall as Markets Look to U.S. Inflation Data",
+   "source": "WSJ",
+   "time": "2026-10-13T09:11:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaVJGTVRQcWlpaDNiZVFTYW1od1ZiMVNKRU14QWVocUs2SnlZLW1KNzFwTVliUHczVUZhMURPSEtiay01cXJ0cnZOMkllU3phWk8xWVlIT2lzQlZFOE5rRTBFNlJjRTJYb1JPT2h5aFhrX2M2MjllVGc2NHhuNGJoMFVnOFFoY05SRnRsUEkxX25ZM1JndThkVGZjMW9XZDBrVFYtWEVDdmxmVFNseFotZW5pOExsSTZHRVVVNg?oc=5",
+   "tags": [
+    "YIELDS",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "The Nobel Prize in Economics Is a Message to the Fed",
+   "source": "Bloomberg.com",
+   "time": "2026-10-13T09:00:16Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM2E4NVNQLXpEbFpiNDJtdExGQnVWN05QR1N6LUQ0eWpVWE1TM3J6VjhFU1ZTY0diXzFZTHJlOWVLX195V2dEMmIybF9fNnZlQ0FnaVlGR1Azc0FDZlo0U0JhQU1aWThYOUJqdlFiVjM1YjFzNWJkUTJ0MkhEYmNIejdncGw3WVJUQkRWZFNnUFJjOGJpRTlwN05LY24wQUh6NG9ONDRUOWVuemNuTnN0a2lvcEdhUQ?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
   {
    "title": "Texas started the redistricting war. How it could shape the midterm results",
    "source": "NPR",
@@ -140,6 +168,16 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaVlYNjRqOTI0Z3hWcFJ0LW82M3lUN0N5N3IyUm9QQ3ZKdjFuVlFOSjM0YTljcV9VbW5mUG5FU2lUODYtR0FhQTFzMHhneHNiWmFjRmpSVEJJMHNzRy1TWklqU3hQN2FKam00ekxEd1djLThpc041bUN0dkxuUl9KTk90ZlYza0hRMGMtZTlrQjhKQQ?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "British Pound gains as BoE’s Greene favors proactive approach on hot UK inflation",
+   "source": "FXStreet",
+   "time": "2026-10-13T08:43:43Z",
+   "link": "https://www.fxstreet.com/news/british-pound-gains-as-boes-greene-favors-proactive-approach-on-hot-uk-inflation-202610130843",
+   "tags": [
+    "INFLATION",
+    "CENTRAL_BANK"
    ]
   },
   {
@@ -164,7 +202,7 @@
    "title": "Fed’s Waller: Trump is a threat to Fed independence",
    "source": "FXStreet",
    "time": "2026-10-13T08:28:58Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb1daanQyMFJHVjl5NlhKNEdDTHc0LWRXZ2ZrTFloWnB3OEliejRzQVpwX0I5dl9vc3R5U0lycFJDTHJEbXJvMkY0Qkp4azgwLVo1QmRoSF9saUU5bWtfaEpfdXBONFBDOG5IUzEwcXhYRTJTQ1ctdTB6d29vSV83bWJBMzlfRlFmWTNFcGxxSGJPeDh4RVpZ?oc=5",
+   "link": "https://www.fxstreet.com/news/feds-waller-trump-is-a-threat-to-fed-independence-202610130828",
    "tags": [
     "FED"
    ]
@@ -176,6 +214,25 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaVlhdjFKNXpRdmVxQTRWbUlMTlJJQ3hobERYOURCOWpyZ1MxaHFXZ3FBak4xbHBKS21QWEdYVUpvQ05KemduZXdPMWpuWnFnVmI1YTZ1Q1FxRkV6dDhRRzRINlpPRFhkbm92S3NFdDhDNXZJOWhWbU1CV3k2bnFCT2RpNEc0Z2oyTDVVTVBubGZRZEZmYVIxSFNycE5SZXFnYUdTSWRnc2czUThaV01xb01ydjM5aDDSAbcBQVVfeXFMUGlLcXRXVHNlTDJZVnNCeWZlS1BqaWVuSktHS3A5VTdsQklQUllIc2FnaEZVeVA5OC1ZTS1JSzdPRTRXMTNKdHZuTmRtRm45b1RLbnU3YUZDYVp4U3ZGUjR4RnRUb3pyYlA2NFdIaEc5Q3d4NE1KdkF5dFFFX2ZjX3FnTXowR2VmeGxvbm9aZkk1dEh6VmtRVnZiYW1INDFlZkNuX2c2YUVIWGhLMnhqZG4yUXdFU3VV?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "WTI slides to near $91.50 as Russian diesel inflow offsets geopolitical escalations",
+   "source": "FXStreet",
+   "time": "2026-10-13T08:27:05Z",
+   "link": "https://www.fxstreet.com/news/wti-slides-to-near-9150-as-russian-diesel-inflow-offsets-geopolitical-escalations-202610130827",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Euro trims losses amid a softer USD, with upside attempts likely to remain shallow",
+   "source": "FXStreet",
+   "time": "2026-10-13T08:19:15Z",
+   "link": "https://www.fxstreet.com/news/euro-trims-losses-amid-a-softer-usd-with-upside-attempts-likely-to-remain-shallow-202610130819",
+   "tags": [
+    "USD"
    ]
   },
   {
@@ -235,8 +292,17 @@
   {
    "title": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
    "source": "Al Jazeera",
-   "time": "2026-10-13T07:45:07Z",
-   "link": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing?traffic_source=rss",
+   "time": "2026-10-13T07:46:05Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVBmcWUxWWc3WU5kZEJKWWxVMkFGRS1yN1JGLVZWSEpjVTdCeVVNaHhOSnJhdmpreV9wUFBJa2ZReXR6RDRsclBkb2lQcDNUZDl5WmlvVWpVZGpEdUNpV0VHd05hZnpoNjhaVTZIUzJHdWE0YkYtTkVfTDJDYVZxOFAwSkptZjhhdThscFhSb0t6Ty1nN0JRdlI0bGJUUlBLNmdNRXExRnhRYzhKamptTVRDd9IBuAFBVV95cUxNOVRSNVRrem8zUHZWelhONndycjFxUHVWWDZpWHVLd2V0S3NIdjVqV0ZzX29TRTVnaHFuYVhneDlzVU9lbEh5dS1nOWN2N205UTEwRy1TLUhaZ1JzLWg1LXRNZm0wZGcwRGNTSGxRNFcwZXIyaU96Sk9ZM01JQWg0M05EZXBOeUdvYXlyVnJiY1JkR2pGZ0JBTHEtSlVLMWZUWnA2cVlaa3lZTFRsX1VaNVVaajFqb2Vl?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says",
+   "source": "Al Jazeera",
+   "time": "2026-10-13T07:41:03Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS21VbVNZWmtxOTNETndGYXdELUtxVEpnakhseHFMdS1zeG9RLXJrMzVVTHlkbjlpa2tXR3k2ek9ic2ZDbFU3ZkZBcV9PNzdVcVc1Nm9ZZEJNUFRLQTZmV24wUUtBYnRtaW1mNm80UXk2clRiR1o0WUlRdXpScFE3TC1BcnNpejRROVhaZ3UteDJELWpoOVpLbTZZb2VsSUp6Tkd4MWZOTkFxamNKVG42UVdIc243TFJpTUHSAb8BQVVfeXFMT1MtYXUxdzFtZi11Z2FabS1scVRNUko1MUpNdXVhR1NTcUZXc1JhdGdrU19uRGZjZm5DcWRYNWs1aUxFdXdEZHQ0eXhOdHFWaE5JZ3BUcHRPRWtISjkzOFFweThKdFpxRHNBTkEwaUZqV2tfSGR2enJQdXpaWXl1cDV5cXdSbkhRUG1Kbm1UUzVhWnZVZ3REVWQ1Y2hKMlpsUGIxZWlKUGt6RTdyUVg1MVM1MEVJVDZSUlo5ejQ5VlE?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -297,17 +363,6 @@
    ]
   },
   {
-   "title": "Forex Today: US Dollar retreats from 18-month high as bond yields, oil prices ease",
-   "source": "FXStreet",
-   "time": "2026-10-13T06:59:09Z",
-   "link": "https://www.fxstreet.com/news/forex-today-us-dollar-retreats-from-17-month-high-as-bond-yields-oil-prices-ease-202610130659",
-   "tags": [
-    "USD",
-    "YIELDS",
-    "OIL"
-   ]
-  },
-  {
    "title": "U.S. Treasury yields surge, putting a chain reaction in focus By Investing.com",
    "source": "Investing.com Australia",
    "time": "2026-10-13T06:58:37Z",
@@ -324,15 +379,6 @@
    "tags": [
     "GEOPOLITICS",
     "CHINA"
-   ]
-  },
-  {
-   "title": "AUD/USD Price Forecast: Declining 20-day EMA builds case for more downside",
-   "source": "FXStreet",
-   "time": "2026-10-13T06:52:19Z",
-   "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-declining-20-day-ema-builds-case-for-more-downside-202610130652",
-   "tags": [
-    "USD"
    ]
   },
   {
@@ -353,15 +399,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vR2dmcDNUcFVqQzVQVWQ5WFBsUDhkbWNPd1ROOFZpV3pOd184NFIyTnd0THdhNTd0M2RQWWxpdFVBSWJodWVXcms5czFSa1RldlhQZVRzSlRFb0E?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Euro: Gradual downside toward key support against US Dollar – UOB",
-   "source": "FXStreet",
-   "time": "2026-10-13T06:36:06Z",
-   "link": "https://www.fxstreet.com/news/euro-gradual-downside-toward-key-support-against-us-dollar-uob-202610130636",
-   "tags": [
-    "USD"
    ]
   },
   {
@@ -463,15 +500,6 @@
    "link": "https://www.investing.com/news/economic-indicators/romanias-inflation-rises-to-661-in-september-93CH-4945503",
    "tags": [
     "INFLATION"
-   ]
-  },
-  {
-   "title": "Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says",
-   "source": "Al Jazeera",
-   "time": "2026-10-13T06:00:23Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUy1hdTF3MW1mLXVnYVptLWxxVE1SSjUxSk11dWFHU1NxRldzUmF0Z2tTX25EZmNmbkNxZFg1azVpTEV1d0RkdDR5eE50cVZoTklncFRwdE9Fa0hKOTM4UXB5OEp0WnFEc0FOQTBpRmpXa19IZHZ6clB1elpZeXVwNXlxd1JuSFFQbUpubVRTNWFadlVndERVZDVjaEoyWmxQYjFlaUpQa3pFN3JRWDUxUzUwRUlUNlJSWjl6NDlWUdIBvwFBVV95cUxPUy1hdTF3MW1mLXVnYVptLWxxVE1SSjUxSk11dWFHU1NxRldzUmF0Z2tTX25EZmNmbkNxZFg1azVpTEV1d0RkdDR5eE50cVZoTklncFRwdE9Fa0hKOTM4UXB5OEp0WnFEc0FOQTBpRmpXa19IZHZ6clB1elpZeXVwNXlxd1JuSFFQbUpubVRTNWFadlVndERVZDVjaEoyWmxQYjFlaUpQa3pFN3JRWDUxUzUwRUlUNlJSWjl6NDlWUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -634,15 +662,6 @@
    ]
   },
   {
-   "title": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
-   "source": "CNBC",
-   "time": "2026-10-13T03:49:23Z",
-   "link": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
    "title": "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes",
    "source": "Al Jazeera",
    "time": "2026-10-13T03:34:53Z",
@@ -656,24 +675,6 @@
    "source": "Al Jazeera",
    "time": "2026-10-13T03:17:11Z",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMVhkcnBKX2d1S1JmWWk4Z05tTjJmN0lXR3JXQXNHSFdPUHlyTmY4bmRuWFhwaHBValBoenFpdENwWHM4alZleUpqRVB1d2dqYUpqSy1mSE4zb3RlZFI0aGlMWl9JWVp3ekpNLU94UFcxMnViOW5WRmZ6OHp2V2pKRk4waG5YcF9DZm53RmxpcDVBR1pRNkw3TDZyd2JHLU54T1pSWXlLTnI2Ym_SAbABQVVfeXFMT252SUpvV0NrckYycWNDeE5qLXZhNk5XUzU5X0N4Vy1PRXA1UUxPVkRFUm1EcFFRSjNKSTVOVkt6ZjhsRGdmRnNiMjZDdFV1TThsUUhKNU1jcFpOTFhxS1M1Sm5JMVZxX0x4cnFWX3hDOHdTLWFzWC1hazl4UmJOZndyU1FnQ2c5NnB4Y3RmUEhtYVNrZWRzRDg1T3FieGlIZlFBS3JCWUFDR3A5V2I3a2M?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Surging Bond Yields Are Top Risk to Financial System, IMF Says",
-   "source": "Bloomberg.com",
-   "time": "2026-10-13T03:15:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEs1UWFnbVlNS3AxU1pYMDlCNmFRNXJyczB5UzRXZzdYLS04aExzMFdEcmNFU05rNTVxRklwMGd3ODRsQlVZbDltRzkwRTdHNVIyQUluLVdxUkxEb29hUnl2c0I5djJjbGVXS0JaUW1vMU5nWHBMM3VxZGpneUQ0VVVHZ1VzeHNQNHZwTzBWeGdIVmg5RW1OTVg2aDBwamM2dmVXbjVKakFpdmRfWExNQklR?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "‘Make the problem and the solution bigger’: The plan to end the Ukraine war",
-   "source": "The Washington Post",
-   "time": "2026-10-13T03:12:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmF3OElPd2JoNk9pQjNJOXlKR1E5ZEhSWDVvN2dydzA3WkFKelN5dDFqb3hSUDB2MTBFMG5ha0I4cm1UNmhyajdDRjZhRElaVDZCajhENXlMem8yRUZhWVdQRndfQmZfakJRSTZ6UXdGbnd2amRTcGo4MGxoMzRzelJBY2xJSDhBRGNIbk15b0RCUTVTVEFDYVpWYUpkT0gzZzhCVGNuaWhpdFhLc2hNdkxn?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
