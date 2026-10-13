@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T05:40:33Z",
+ "generatedAt": "2026-10-13T06:08:45Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -36,7 +36,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 10
   },
   "investing_commodities": {
    "http": 200,
@@ -71,7 +71,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 11
   },
   "whitehouse": {
    "http": 200,
@@ -80,7 +80,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 33,
    "kept": 12
   },
   "gn_fed": {
@@ -95,7 +95,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 53,
+   "items": 51,
    "kept": 12
   },
   "gn_sanctions": {
@@ -105,18 +105,18 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 24,
+   "items": 25,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 10,
+   "kept": 10
   },
   "fed_calendar": {
    "http": 200,
@@ -124,6 +124,34 @@
   }
  },
  "items": [
+  {
+   "title": "Germany September final CPI +3.3% vs +3.3% y/y prelim",
+   "source": "ForexLive",
+   "time": "2026-10-13T06:00:16Z",
+   "link": "https://investinglive.com/news/germany-september-final-cpi-3-3-vs-3-3-y-y-prelim/",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Despite long history with Netanyahu, Trump hedges as Israel vote nears",
+   "source": "Al Jazeera",
+   "time": "2026-10-13T05:40:10Z",
+   "link": "https://www.aljazeera.com/news/2026/10/13/despite-long-history-with-netanyahu-trump-hedges-as-israel-vote-nears?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "British Pound trades subduedly against Japanese Yen, BoE’s Greene supports quick rate hikes",
+   "source": "FXStreet",
+   "time": "2026-10-13T05:29:30Z",
+   "link": "https://www.fxstreet.com/news/british-pound-trades-subduedly-against-japanese-yen-boes-greene-supports-quick-rate-hikes-202610130529",
+   "tags": [
+    "RATES",
+    "CENTRAL_BANK"
+   ]
+  },
   {
    "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
    "source": "CNBC",
@@ -251,15 +279,6 @@
    "source": "FXStreet",
    "time": "2026-10-13T04:35:10Z",
    "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610130435",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold price in India: Rates on October 13",
-   "source": "FXStreet",
-   "time": "2026-10-13T04:35:10Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVVc3YTNCWElDWUNSeVVvMTliSmlMRTlzdE51RWxJMl9EN1hTelZFMHNOMWNGYmlJMDdZNjc4RXBNMUNJVXpnSVJVN0laUXRfSFFIQk1May1rSnhFNlhDQ0JQRnhYZU1DR1lJUWhIUHFkQVJTUkFWdmwtNXp5MGlYV1JUS3YzQU14VmoyRVlXX1NXTFdlNFFZNnBDa1lTZEh1enhNdUx3?oc=5",
    "tags": [
     "GOLD"
    ]
@@ -664,24 +683,6 @@
    "tags": [
     "CHINA",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Trump defends Russia diesel deal as lawmakers from both parties complain",
-   "source": "Reuters",
-   "time": "2026-10-12T22:59:47Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUNYSF8xeXZscDAyZTZVNC1zZHNtdHhqMng2bVZTenRCTDJWX0FDeV9pMjllMzRMRmJ0blkwMFZ1MENpd1RmbWltR1R0SmV6Q1JUQnpHbnZxNmQtYmZZaFpxdXVLS3Vxd2xqYmI1UVhLM3hCM2gybXN2LUZ5Q2JOdDByZUIwemdsenlGY3FxOENNME5lT0xocWNDYmN6X0ZxQXBiVFNHNnlENmVTOXdqU3pxdlpscHM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US hopes diesel deal can 'soften' Moscow on peace talks, sources say",
-   "source": "Reuters",
-   "time": "2026-10-12T22:58:15Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY1h5ek9QWEw0bXVmSUpuTlA1MDlVNXg1SzlnSkpwT1BXLVZHVnNMT1k0V3pfaU8tVFhUcWw1TWl1SE9Kcm04T0RYNjlhbGdyaUFQZEtOU2x6NmtJOGVfYXFWaHY3b1R0TDA5SzVsSDg0UTU2M2NGZk50WEZRTHBTSnJVWTBGbUJ6RjlnWFp0WTl1bkdWYmNYcl9ISXFSNS10OTBUZmVwQXpKSkI5REN1YTdkbnE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
