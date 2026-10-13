@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T03:19:45Z",
+ "generatedAt": "2026-10-13T03:47:53Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -56,7 +56,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -85,13 +85,13 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_tariff": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_war": {
    "http": 200,
@@ -105,13 +105,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 23,
+   "items": 25,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 9,
+   "kept": 9
   },
   "gn_cbgold": {
    "http": 200,
@@ -124,6 +124,34 @@
   }
  },
  "items": [
+  {
+   "title": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
+   "source": "CNBC",
+   "time": "2026-10-13T03:45:35Z",
+   "link": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes",
+   "source": "Al Jazeera",
+   "time": "2026-10-13T03:34:53Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMU5hQ2Z1WXdJZF93U24zN1FqbVlYNFN4bWFRNmVRS2d4eTVyQU1xTXRFNVJRdWN4TnhGRUVfcDdidEJ3dUFyaXhFY01ZbHJHZFJSSTFWb2dJOFJzcXoyZHNVRm5KQzI4TXRUb2NfSzBkazVlVE9tLUtjY0ZPa0ExMUNVZ3BKdldiN0FoSE9feDZBWndDODBiYUJYcE1UTEx5RXpjd2d2ekxrNjJYbFVyWmN2Qjg3anBibG82U9IBwgFBVV95cUxNdzQ0NGxoUW5xZU1HRHJESXhwZ1ZXMmFhbG1WVzVMczRpR3h1V3dfdTRNQVNRLWNNQUs0VzIzLVZReHpOSzA5STFwbjNUeVZaTTBYOGt6ZVEzblBZYjV3cGsyMmhUSlFHZlVGMTBHRnVEbU12Y0tUUnV6STlOblhVZjM5aE1iQ0tRSktxd1lSSzA2dlJxTFN2ZENuWmQzMnBhQzlEVnoxTjNEQTI5REExR2NOTkJNNjM0RE5rX1BFaWlUdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+   "source": "CNBC",
+   "time": "2026-10-13T03:19:43Z",
+   "link": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+   "tags": [
+    "YIELDS",
+    "INFLATION"
+   ]
+  },
   {
    "title": "IMF sees smaller global slowdown as AI boom offsets war hit, but resilience is nearing limits",
    "source": "CNBC",
@@ -153,10 +181,28 @@
    ]
   },
   {
+   "title": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
+   "source": "Al Jazeera",
+   "time": "2026-10-13T03:08:35Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOanVwNWhNU0N5c0tUNUlMQk84TEVXSlJNZnplNjE1VEhrbDFaZnVPeFN0VURnMXBuWENaR3Y2ODdnY3dIc0xmaHpnUjVXM0dTcFZxcndxamo2VE1VbWsycklpNmVoUGg2MWhzV0I0MzlGVUUzdEVmUWg5bWN4TEk3VzdhaW9JcVR2LU42cm9zeTJ6elVaRmlUU0VHYjVzRHBFVXNtaFdiMTJSS0pHMVAzVVBNaHRhd9IBuwFBVV95cUxPNlVqVV9MaVV3c2VNWG51TWhwQ1k1Y1NxVmlULTdtUmsyRmk5QWFFdGV3Z2RVMEZaQ1RlZzEzYjBKWVBCVmNjcW0yMkotMXk4ekctZ3hrZm5vWXFFYmR0dUpZdHhiRlJyT09nNVRoN2lISWhtemExdHNmajVfZmRSRllma01nRTEzWjdWQml1cTB2OXVPWVI3WHJzVU92VEdYcHFhTlB4QW91WXRaWl9lbmNHQ1k0bVR3Q2xr?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Analysis • Trump's trap: How a Saudi lifeline could ignite fresh war with Iran",
    "source": "Haaretz",
    "time": "2026-10-13T03:00:00Z",
    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRWloRTlVT2ZwYk83ZWdjbmNldDhWVEdjMDU4MV9YV2U5ekFwS3hCdkJPODJ4THZxdG1xbTljNy0yOTRMb3haNlNVRkt2R243U2dvS3NHV3hubnlVc0xkSFVkZDFNQkZRMXoxbXhVeDF1WDRyNGgxeko5UG1TMXFnSDJFaHEwQm5PZThlM0JMT2VWYTBaNktPZkJ2VC1kYTBhRlZaS0dRTGpmRUlzcWZrb2tlRjVlcFNXcFFxMEI0OWNBS19tYVppcUlFb3hNVkJPMGMtT0dvXy1nUzU3QThsM2VmYkpPZmdwdHh1MUx0YjdoR1hjLVJUWWpPQkZZZ3k0eC0yTA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "I.M.F. Warns Mideast War Will Widen Gap Between Rich and Poor Countries",
+   "source": "The New York Times",
+   "time": "2026-10-13T02:58:49Z",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQXzFCUW9lREZKbEZjVUtXaWlJWUp6cGR1Q0NYVFRRTDVLaUJiekpDYzRwaHZQOWp1SjNuUTIyaUpRanpyWDdLN3AyWkVEYmdVQUdYOWpmbTlsZEFScE5qYjAxUDR0c1Aya1pUcno4SUFVUFdFd0F4U21iNjczZmxza2NDRVpVem1QcDZGbw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -228,10 +274,19 @@
    ]
   },
   {
-   "title": "IMF says AI investment propping up global growth, but war and debt threaten outlook",
+   "title": "AI investment props up global growth, but war and debt threaten outlook, IMF says",
    "source": "Reuters",
    "time": "2026-10-13T02:05:00Z",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVlNmbDdlaDUwX1pOeWRzM1FhdDNhWTNnVnk4bXZLZlR2VGwxMFRCcWdiNngwM2p1Tmp3YjZMY0FwY1puZHk3bTlEYWNyd2pYYUxPd19nZVpqQU9CQjVlck9RUGtoajF5SGY4VnYzSWpZXzY2TWZ3TVY3Yl9ucVdEWnc3b2xzT19vbzBqazJUMzlCdmpfakw4VjAzOVZ3Ui13dmlJOV90Nk9pVUxWY1htUHYtNDZhTGhyTDYwZEk3SQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Pakistan’s hard choice on Saudi Arabia’s war in Yemen",
+   "source": "Financial Times",
+   "time": "2026-10-13T02:03:08Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR2QxY0N6ajJtbzNhT0xVWUFHMnVZT2FwX0lLdDUzQ3ozTWpDUHVjdkFDQXlHbTVZYTI3eHp1M2o0NE4tNURsSEVkVUNjYVBrWFlHbmZPcUQyYlV6MFR0d1BZd3J4X0QxWjdIeEJFdm51WmdPU3dFWDNjdzBLSkdhblJ6NEs?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -241,15 +296,6 @@
    "source": "CNBC",
    "time": "2026-10-13T02:01:00Z",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYmdUVGlGSjVRUUlNWUxfNU1QYjNjOHJZWWZSMEFIY1BVaDd3aGdJZXVuSHZFV2Z1UGJfVFdkXy1LM0R4UlU5ZkZzeVpIb3JrbGxuTkt4VkdQdS15cnNKaFhZS0Z2OFRZUWNpemZ2VmZoMDhvREJxVVdTWjYxZUw0V1ZLVzRyYkZ4LW1OWk9OeERFTGfSAZgBQVVfeXFMTXZFSmFFNTk3aEVRNnZXU29fTFNMcnZBM3cxb2h2OXE3MkFBSkFRQThTM21MT2JLRzZmRHRNa0RwNnF6VU81MWEtcWJEei1yZzJBOWhGSFJKNDByQ3ExRS1GWEc1a1NRZ1JvUzFoSmpFRWJMTVpxTXB6aXRTbkxhMGhjZms3SWJzZkpTRzVMVlhoTUFHYm10bk0?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "I.M.F. Warns Mideast War Will Widen Gap Between Rich and Poor Countries",
-   "source": "The New York Times",
-   "time": "2026-10-13T02:00:07Z",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQXzFCUW9lREZKbEZjVUtXaWlJWUp6cGR1Q0NYVFRRTDVLaUJiekpDYzRwaHZQOWp1SjNuUTIyaUpRanpyWDdLN3AyWkVEYmdVQUdYOWpmbTlsZEFScE5qYjAxUDR0c1Aya1pUcno4SUFVUFdFd0F4U21iNjczZmxza2NDRVpVem1QcDZGbw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -400,15 +446,6 @@
    "tags": [
     "INFLATION",
     "OIL"
-   ]
-  },
-  {
-   "title": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
-   "source": "Al Jazeera",
-   "time": "2026-10-13T00:03:48Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOanVwNWhNU0N5c0tUNUlMQk84TEVXSlJNZnplNjE1VEhrbDFaZnVPeFN0VURnMXBuWENaR3Y2ODdnY3dIc0xmaHpnUjVXM0dTcFZxcndxamo2VE1VbWsycklpNmVoUGg2MWhzV0I0MzlGVUUzdEVmUWg5bWN4TEk3VzdhaW9JcVR2LU42cm9zeTJ6elVaRmlUU0VHYjVzRHBFVXNtaFdiMTJSS0pHMVAzVVBNaHRhd9IBuwFBVV95cUxPNlVqVV9MaVV3c2VNWG51TWhwQ1k1Y1NxVmlULTdtUmsyRmk5QWFFdGV3Z2RVMEZaQ1RlZzEzYjBKWVBCVmNjcW0yMkotMXk4ekctZ3hrZm5vWXFFYmR0dUpZdHhiRlJyT09nNVRoN2lISWhtemExdHNmajVfZmRSRllma01nRTEzWjdWQml1cTB2OXVPWVI3WHJzVU92VEdYcHFhTlB4QW91WXRaWl9lbmNHQ1k0bVR3Q2xr?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -648,42 +685,6 @@
    "source": "The Economist",
    "time": "2026-10-12T21:40:43Z",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWlPVnIxWWZ5SXJNYVBmMmMtNzduWm9rU3BSQ1lnbFdRN2xWT1ZKdnNWTnJYcGQzQ3ZoYlc4N1p6R09jb25Bdml2NGhfYmVSWUcyOWxSQldveXU3aWY0TmlCazdCZ0xCMW1DeVJtelFZS0xXc3lIT2ZHS2RxX0RkYVFta1VxVmliNkI1bmhIZkZZdGdiQlY0?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Bessent on how Iran war ends: ‘I don’t know’",
-   "source": "The Hill",
-   "time": "2026-10-12T21:29:00Z",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTM2UTdka1B0UldheFBuR3d2dFU3MU82RG5RYzFEMmdsMmp2Z2Z5WGhQQk5aYXF2elNWVkxHdEJJVi1XYUJpQ0JxOXR5eUh1MUgteW50SWZaNkNEa01CTFl6bDBSSU1sU09FZVRsY3c5WTAyc2t4Ui1EWk0zU0I4WE1tbDF5TlHSAYwBQVVfeXFMT1AtbjJLUG1lM1ZndWNUeHFCbjRsZnFXdkYtdTd6MnVwSFpnS3R6R2ZSaU9kbTJkTm5MS0RtcnFPQUVVaHVZcU9Zb1dnY1dtbVQzVkhTME1ESjlyOWFRODBRMlFRRHpDaUlrdlZjU0NkampsQkxhS1hILWdFd0xKWFBFYmpIQnJMbkQxVU8?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "COMMENTARY: Trading Day: Fog of war",
-   "source": "Reuters",
-   "time": "2026-10-12T21:25:43Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYmtrckFMYlFMWXlqczdaNXVFVFJ2dXNRRlJaVzRiRmREdDFNNW8xSVphX0d4ZHNsMkozbkVKRzZXTzdiU05jQkZtUlJPaTJqbzg1a1JHcWhqRzZGVVBjSk9PM1VkR0tEUEhkTFhXbUhDcTJLWUtBX3MyWjktUHpGWGZxVzVXS3ltSjJueW8yVXIxaFNhSUx0bV9waWM2QUluV0ttb1BR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "BofA analysts see gold unable to hold above $4,000 over next three months",
-   "source": "TradingView",
-   "time": "2026-10-12T21:25:06Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOckVUVTdmU0dtajRrZG8tZFhfRWtzcDVac1lwS1JXa1J4VkU3cTR0UEhVZlJ4dGkwOHJKaW1LUlFPcktWY09sa1FkcGU3VVE2N0pVOG1ia2IySk1IV255Zi1GSnNlZTdCSjhpZzhqYW53R3hVaHJPdWhlUFF4M2M0cTFsVkdTZzR2RGtEbTUwT016a29BblYtNDhadWxTWFQwSS1xcnJUZ2dIbHRVdU9CN2NEc3U2d2tqajhGVTlacW83cTlURUJDUVF2eXhaWXJI?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Trading Day: Fog of war",
-   "source": "Yahoo Finance",
-   "time": "2026-10-12T21:24:23Z",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU1V5SWwxcEpRZjdyLWE2WTBwcGttSDMtN0lhcnA3bU5Hbk5pSUJyaGxMdDFhQlNpaXVxNWsyUVJQWWFZMTdXWXNHeEdjZnFlR1U3Sll2Rjd2cjVNX3I5c2NGeHVQdUhmZnJJX3F5cENNTEJCTEY0cmNjTC1mWnF4b3RWSQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
