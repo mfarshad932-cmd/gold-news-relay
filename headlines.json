@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-10-13T16:00:25Z",
+ "generatedAt": "2026-10-13T16:28:36Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 0
   },
   "fed_monetary": {
    "http": 200,
@@ -42,7 +41,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 9
+   "kept": 8
   },
   "investing_news": {
    "http": 200,
@@ -57,7 +56,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +71,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +80,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 33,
+   "items": 35,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 12,
+   "items": 14,
    "kept": 12
   },
   "gn_tariff": {
@@ -101,18 +100,18 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 15,
+   "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 36,
+   "items": 37,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,12 +125,88 @@
  },
  "items": [
   {
+   "title": "‘A foreign attack on EU territory’: MEPs call EU to shield ICC from US sanctions",
+   "source": "POLITICO.eu",
+   "time": "2026-10-13T16:14:00Z",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUUM2WVlPNWJGV3A1WFl4QXp0Q1U3RkJBdnN2T0lkbjJ6LVo1NGN2cXdjdE1VS0VzZlc1emxMeF9hTTFsRnpMYndrNFl2b1dVc1hRcjZhRmd4eDBjbWY0eEJ6dHVEc2VWYnNTS3RrYTh6YUFyc3hZQ3NDU0F5Qm1QaQ?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "As Houthis strike Riyadh, Saudi Arabia confronts the costs of U.S. war on Iran",
+   "source": "The Washington Post",
+   "time": "2026-10-13T16:12:33Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXU0Wi0tVm5aMk5WYWZNYTBlLW9uVktRN2VyRUxPQUpUazM3cXVLRnZNMF9ad01tVWFZUlBRWV9WVU9BOGoxXzdFWWMyQndhclVId3R5VlBIeTBOTF9JbnN4eVdnWThmd19ZWktfYlJwYTdHNkRZaGFtX3Roci12TWR3OE5EVi1ERDhWOHlGSV9XTDRScG9uakVjRlVzTnBpYk0zZWthdHg4SG9tRmVkVkZsWDM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "When will bonds get so attractive that investors can't resist? Survey says 6% 10-year yield",
+   "source": "CNBC",
+   "time": "2026-10-13T16:11:06Z",
+   "link": "https://www.cnbc.com/2026/10/13/bofa-survey-10-year-treasury-yield-bonds.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Europe's alternative to Trump's China trade war",
+   "source": "Axios",
+   "time": "2026-10-13T16:08:43Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX3VXMHRaOWxfdlNqcjBPcDE3SmlBY2ZvMG1SX0tSeXV6OU9ZcEJBTWNJMjh6cU5oX1F1X3lVMmV4dDFDZEVsLUNvZU52MlpmaktsLXBET2VhRXd4UFFyVzJfZXBGOFpMVlNONVZYd0Z4SmFJZjlEdHpHMnd5dUUwZUI3RGM?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Gold’s upside outweighs downside risks as markets face oil, France uncertainty",
+   "source": "TradingView",
+   "time": "2026-10-13T16:08:07Z",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUHd6aFJ2bGJIVVR1T0s0ZFo1d1p4bHZsUnEzb2tEYThhWFAwWXVQTmc2TXVWemFPdk5XMENlS3dFdmlSRmNfNXRCZXh5dWRyM0ZVWTVzd05mUml3NHAzOVY4RlhObzlOMk5CZTFOX3Zxck5ad0RiZldWWmNJbjlpRFA1QjFUV05KT2d2c0NVNXlYeVVZN2lxV05yU1pVNnlpczUxaXc4ZmdwbW00QWFJejMzNEhJVkhFalRKUVc3WHBFTFZqV2RiMzhFNzlVRU9fVmNuVUJ6SQ?oc=5",
+   "tags": [
+    "OIL",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "UK spy chief says Iran is stepping up targeting of military bases",
+   "source": "Al Jazeera",
+   "time": "2026-10-13T16:06:56Z",
+   "link": "https://www.aljazeera.com/news/2026/10/13/uk-spy-chief-says-iran-is-stepping-up-targeting-of-military-bases?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Dollar Index slips from its 18-month high before US CPI",
+   "source": "FXStreet",
+   "time": "2026-10-13T16:04:22Z",
+   "link": "https://www.fxstreet.com/news/dollar-index-slips-from-its-18-month-high-before-us-cpi-202610131604",
+   "tags": [
+    "USD",
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
    "source": "CNBC",
    "time": "2026-10-13T15:57:46Z",
    "link": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Japan looks for off-ramp from Trump's ICC feud before US sanctions kick in",
+   "source": "Nikkei Asia",
+   "time": "2026-10-13T15:56:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRndzMkJaeEJmRFRvR1I4a0hUbHBlOTduR0pVbHpCZ05rMVJIdGZ6MEp2ZnJtUGFCSU45eFBSRHN3LUduc3BJcjR6M1pJMVZJTzFGLWxWempZbnZMOElpczBOWjVWUWN6WDJPVy1DMlZmMHNnQ1JJb21XVXQ2MzdYblBkX09UdG5OdHpNT3MyM0xmUHVSWDMyaE1OM1ZxYzNDdGt5bUtBV1gtX1BCMEpLWXE0TmZ3SDZyZUFFT05jaG9KNmpvc3kxU1dnTQ?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -161,6 +236,43 @@
    "link": "https://www.cnbc.com/2026/10/13/trump-putin-zelenskyy-russia-ukraine-diesel-oil-price.html",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "France seizes tanker suspected of belonging to Russia’s shadow fleet",
+   "source": "Al Jazeera",
+   "time": "2026-10-13T15:44:44Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/france-seizes-tanker-suspected-of-belonging-to-russias-shadow-fleet?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran said shoring up defenses at nuclear sites, warning it could invade neighbors if war resumes",
+   "source": "The Times of Israel",
+   "time": "2026-10-13T15:43:01Z",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQmNZZUE4RWRaaVRzZmZ0RlBPS2cwUlR2U1NjRS1nbmtnRnNOUVUyeVdIYl9ZWmR5SXRtSTRBMW9GaFdyRVlSa0g1cFhTem9WLTBfQjM5ZHNYV3BNZEhMQU4ya2t2SXktYmN3UWJZUlI0M2ZGZlpqRnA4NHQtSTVNM3lPQTVZRkx5N3FINmNlOEpiRlRtZmpicE5LT0MwSVp4UFZ2dmhWWlpGZGkwWTROdHJkSXRGcTdjLUFBWHpPZ3FGM2s50gHKAUFVX3lxTE9PNGFXOVhoMDl0c09kMlJETFZ0ajgxLWdVdFM2ODlKVDNhRzRpQTlmdVZ1WTZoZlpXakJpRnhHLUF1WTFRazhHYlZtc3F5Nk54UFU3RXpXT3dueVlObk0wdEJLRWhCRUVndzdLYk5wWjhtank0U00zcDhsTFdUb1pSeDduTE15S1h6MDBRMjg2V09TbElkWV9NemJhd1JTdlBBbndXb19LTVZRaGVoYlI0YUFwQ2FOcEd6ZlAtbF93akkxY1pkWlZNZUE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "British Pound finds fresh momentum as BoE hawks set stage for US CPI",
+   "source": "FXStreet",
+   "time": "2026-10-13T15:39:42Z",
+   "link": "https://www.fxstreet.com/news/british-pound-finds-fresh-momentum-as-boe-hawks-set-stage-for-us-cpi-202610131539",
+   "tags": [
+    "INFLATION",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Neither a breakout nor a reversal: What OCBC, Commerzbank and ING expect from the US Dollar",
+   "source": "FXStreet",
+   "time": "2026-10-13T15:32:21Z",
+   "link": "https://www.fxstreet.com/news/neither-a-breakout-nor-a-reversal-what-ocbc-commerzbank-and-ing-expect-from-the-us-dollar-202610131532",
+   "tags": [
+    "USD"
    ]
   },
   {
@@ -235,15 +347,6 @@
    "link": "https://www.fxstreet.com/news/euro-finds-support-from-softer-us-dollar-french-fiscal-risks-linger-202610131509",
    "tags": [
     "USD"
-   ]
-  },
-  {
-   "title": "As Houthis strike Riyadh, Saudi Arabia confronts the costs of U.S. war on Iran",
-   "source": "The Washington Post",
-   "time": "2026-10-13T15:04:37Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXU0Wi0tVm5aMk5WYWZNYTBlLW9uVktRN2VyRUxPQUpUazM3cXVLRnZNMF9ad01tVWFZUlBRWV9WVU9BOGoxXzdFWWMyQndhclVId3R5VlBIeTBOTF9JbnN4eVdnWThmd19ZWktfYlJwYTdHNkRZaGFtX3Roci12TWR3OE5EVi1ERDhWOHlGSV9XTDRScG9uakVjRlVzTnBpYk0zZWthdHg4SG9tRmVkVkZsWDM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -504,16 +607,6 @@
    ]
   },
   {
-   "title": "Australian Dollar edges higher amid softer US Dollar, hawkish RBA",
-   "source": "FXStreet",
-   "time": "2026-10-13T13:36:54Z",
-   "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-as-softer-us-dollar-hawkish-rba-offer-support-202610131336",
-   "tags": [
-    "USD",
-    "CENTRAL_BANK"
-   ]
-  },
-  {
    "title": "Caterpillar (CAT) and Deere (DE) Slide as Treasury Yields Surge. Why Valuations Matter",
    "source": "Yahoo Finance",
    "time": "2026-10-13T13:35:17Z",
@@ -529,15 +622,6 @@
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc0g1RklKVlhOYnlpMmhKcmpFVDNudS1abGdyREhfbEhzSW9PNG5hbGVRcFdtUm9YRXV5cDA1a1BKOExwaXp0a044TlpsLVJXWFp3MkVObjVvSXl1bjh0YWhBUzZUUFFBRmllTDZzdHpPX2tYTXBtejlkUTREY2lGb2Rqd2NGenZsVHg5Y1ZCanpISFdMdkloQWd1enZ3cGNEME42Zm00QmROZk8xUVNlU1c0RU03eWM3TFpLNnEwRzk1VzBBQjAwSnlVVHNiNEVaWW43RGdR?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Indian Rupee: RBI defense limits losses against US Dollar – Societe Generale",
-   "source": "FXStreet",
-   "time": "2026-10-13T13:31:02Z",
-   "link": "https://www.fxstreet.com/news/indian-rupee-rbi-defense-limits-losses-against-us-dollar-societe-generale-202610131331",
-   "tags": [
-    "USD"
    ]
   },
   {
@@ -578,16 +662,6 @@
    ]
   },
   {
-   "title": "US Dollar: Supported but capped by CPI risks – OCBC",
-   "source": "FXStreet",
-   "time": "2026-10-13T13:16:33Z",
-   "link": "https://www.fxstreet.com/news/us-dollar-supported-but-capped-by-cpi-risks-ocbc-202610131316",
-   "tags": [
-    "USD",
-    "INFLATION"
-   ]
-  },
-  {
    "title": "What I Am Watching Today – US Yields Drift Lower, Putting Platinum and EUR/USD in Focus",
    "source": "FXEmpire",
    "time": "2026-10-13T13:16:17Z",
@@ -603,82 +677,6 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUUF2WVM3clJyRHpxTklyX2Nfd2pjd2diOGNRcmRjODhCN05mZE56aFFrbmpNRU96YVRwTTNqemVJaXNuYVdiWGM4Y3NwN3M2V2k4dmQzdXR6Zlk3Q2J2bXM5el9KdjYyUW9VUVUyN0ZTTm9BRnVlMXFQbklsWFkxdXpIQXJxTmtLUmE2MDlRZXplYy00TGFGM1N5Zm5hcHI5bk40a1dZc0JONFIzN2wzbWV5SldaeGRwVzJPQ2JlYUVNVGgy0gHKAUFVX3lxTFB4ckh2RmlWNlk5RVlZcWxQclN2YjJsY1pLUmxmNldSY0c4SW0wanZOc24xSDNuN0hLU0txR3RvOFpfX1VvRHFuN3lvd3kyVjNDVG16RW5WbUVnM0tyX3VZRWtmd2FtZnBubFh4OGFNUFAzMllEOWNKSkhRVVZUd0QzQU91QnJRSGE4WFBJUG9INW1aOURlR0pvSDFEeXBFTUFYYk5tSXNtMUQzX2d1WTJ4NHpTYkV4OXdlVFROMHhMbHd4RDF4Z0VaNUE?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Micron drops 5% as tech stocks rattled by China chip breakthrough claims",
-   "source": "CNBC",
-   "time": "2026-10-13T13:13:57Z",
-   "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Trump’s diesel deal opens a new rift with Europe over Ukraine",
-   "source": "Al Jazeera",
-   "time": "2026-10-13T13:13:34Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0h0RjZEUGRpbGNOaHdBX051NzB3eHAyeXpDNEJMdFljSnNnUGw3OG1uaGZ4NmRwYmd3cmRzeEh5T0JjRm9URmNPaURuYjJoZ2hpWkl5SEpCX0pwTm16V1h2V3JaVWdwZmpyVmc3enlsbXlLc2Q1dXQ0VDYxUml1WFExRUxZTWRYOXgwSFJzbXNVcks0Nng2SGxoX000T1R3YzFKS9IBqgFBVV95cUxOMTJrMzN1WHdzQU14djVXSlhWbTI0U2ZMRjBDT2d2WnZBb3lKZjZFbnJ6TWN5Um56Tzg3dkY5bkFGVzdDRFNLc0F6eHZYOEM5a25YV2xWNTFLSmQ4RTZ5U2k0SkEweXBkQ3NXcmV6dUZlaF9IREM4aXVvNmxSNE82SW51UWRpdm5hV3FBdkJBcTRsUWVKdTczQk8zaVE0QmVHdEszRWJKdno0Zw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The price of gold today, Oct. 13, 2026 — and the best places to buy",
-   "source": "CNBC",
-   "time": "2026-10-13T13:11:39Z",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HSDNtMUphUjI5YjRzNGVseVZBNGk0bVF4ZkJNV2FndGNFcF9aN2pzLXhDZmNiYXVBNkZZVVJtbGZGX1lweGZ0alJ5THVJWHBjX3RKSXpLb2JfTUphUmFPWXBDa0lrUHNTQUtHUnZPSmxCUdIBd0FVX3lxTE50WkpyS2JyWWxFckxkYnk2bGVMc0ltdVV0aTJ0NVNvd0ZVVk5sYk5QaHpOd0dOaUg2TU9ZOVpkakVkWWs2N3VVODlMREQ1M3lfdzhoTHNmM05EUkQxMy1YMVZIZGdTa2U1b1dkeldTT292bGNaSVBr?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Saudi leads jump in OPEC+ oil output in September, despite Iran war disruption",
-   "source": "Reuters",
-   "time": "2026-10-13T13:07:43Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWdiOFh3ZXNEdWNtbEZLVlFDZ2dJQTZaanZ3dUtaNVgycEpwX0tDZWVYVF9PQlpRX085YWNwTkdtZVNmY0R2S0hHcllmRVlxcnAyYm9fTEZQa3YtYlljLXd6ZlROZ3VOTFktSmZnNFFkdGkxUkwyRmJ0R1JiQ0FtLXUzZTdSZGY1dlJCUndmd2FjQkxrT2dWRGFvMmcteFU0VVNQMEdxQVN4eVE5QjdBYg?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Gold firms as dollar, yields and oil retreat before CPI - Kitco AM Report",
-   "source": "Kitco",
-   "time": "2026-10-13T13:06:14Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdTNJS0pZa1BndjBFTmhTYjRXNWxpVFpkbU9qY1ZRVWk0OG1wMDUtZEJ2VjJDMWt6eUNNTzdGRFc1blB6WTE0VndMaTdWcXl5blE4V0dSMDRZckhRdHpZMHBVaXZUZXFkbU42YXZWUU42SnpEYTlsOFVQZXI5eFlPWkdFaVk2N3hPZDBOS3lwVWZTdjlRTE9keS1pZUU0X2R6SXdRQ1RZM3E2UQ?oc=5",
-   "tags": [
-    "USD",
-    "INFLATION",
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Iran sees ‘false flag’ operations after UK blames IRGC for airbase incident",
-   "source": "Al Jazeera",
-   "time": "2026-10-13T13:03:56Z",
-   "link": "https://www.aljazeera.com/news/2026/10/13/iran-sees-false-flag-operations-after-uk-blames-irgc-for-airbase-incident?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran threatens Gulf data centres: How exposed is the region’s internet?",
-   "source": "Al Jazeera",
-   "time": "2026-10-13T13:03:33Z",
-   "link": "https://www.aljazeera.com/news/2026/10/13/iran-threatens-gulf-data-centres-how-exposed-is-the-regions-internet?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold price slides under pressure, but Barclays sees upside ahead",
-   "source": "Mining.com.au",
-   "time": "2026-10-13T13:02:54Z",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWVl0X1JodlVjXzUyMW03TEZMMjREcGJSYTlwSVZOYVhseEtvSUdCR1hidWg3eVMzYjVZQ203ajVoeDJjMnVITVBIdVJvejYzaThvbXVXc2dqQU1VU0ktSXkwRnEwZlQ2RG9VWTZrcjhBazZqc0NpRWxwcTZsckRJbkl3Y3hiS1g5aDcxVzdydw?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
