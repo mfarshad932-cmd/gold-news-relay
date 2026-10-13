@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-10-13T15:32:16Z",
+ "generatedAt": "2026-10-13T16:00:25Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 0
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -56,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 3
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -80,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 33,
    "kept": 12
   },
   "gn_fed": {
@@ -90,22 +91,22 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 6,
+   "kept": 6
   },
   "gn_war": {
    "http": 200,
-   "items": 55,
+   "items": 57,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 14,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_yields": {
    "http": 200,
-   "items": 34,
+   "items": 36,
    "kept": 12
   },
   "gn_oil": {
@@ -125,19 +126,57 @@
  },
  "items": [
   {
-   "title": "MI5 tackling more state threats than during Cold War, warns intelligence chief",
-   "source": "BBC",
-   "time": "2026-10-13T15:25:25Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45ZnlWc1BPdHJLQUxVblQ3MmVrLTR2Um55eFZPdlJXUzlYMDN6RXVxYkNRaFlLeGNaNG5jcndWdWc0Nm56dmJ1aXlsOFJXbFpuNkdaTXdSSzZXQ2s?oc=5",
+   "title": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
+   "source": "CNBC",
+   "time": "2026-10-13T15:57:46Z",
+   "link": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
+   "title": "US Treasury yields yet to peak as Fed may tighten further, PIMCO's Ivascyn says",
+   "source": "Reuters",
+   "time": "2026-10-13T15:52:45Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQckVkLTFFNXNKUmlRWTVjWE1tOWZ5OXYxU3NFSWU3V0w0dkk3WEVsamFRVWY5Y0FlNVgzV1dZQlJtNWoyY1ByVlVWT0dBNEp6QnlRVG9HTXpKTENiMXlNT0gtYXRnbHFHRk5TUFREaWZmUEk2WElGUDJfY3d3dHc2ZEh5QUdoQlMzZVBKcUlXamtqTmlsQ1kxZXI2MTV6dGVDU1p3QXQwWVJjN1dkVTc3NXlBRm96SVRkQVE?oc=5",
+   "tags": [
+    "FED",
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Paul Tudor Jones is bullish on oil, says it could rally another $20-$25 because of Iran conflict",
    "source": "CNBC",
-   "time": "2026-10-13T15:24:50Z",
-   "link": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html",
+   "time": "2026-10-13T15:52:09Z",
+   "link": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-oil-iran.html",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand",
+   "source": "CNBC",
+   "time": "2026-10-13T15:50:09Z",
+   "link": "https://www.cnbc.com/2026/10/13/trump-putin-zelenskyy-russia-ukraine-diesel-oil-price.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "What happens after a US Treasury market crash",
+   "source": "FXStreet",
+   "time": "2026-10-13T15:28:13Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdEdZaldlTTlrNzJjLWhqVFcyWVpEVGhxdGVvRGlJZVlzeTdkV3BOOENFT1gwOUNzVnJ4OHpxbFN2U2pfRm1aU0t4RHJiUXlrYTk1NmRiVjZKTmxqUkVvZ3N1Wk9reVJnQ3FTUkpuaDVZZkU4N3VFVFY0dUdOLW1obWFRZEg0blM4ejFRUkR0Z1FxRTVFbWN3?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "MI5 tackling more state threats than during Cold War, warns intelligence chief",
+   "source": "BBC",
+   "time": "2026-10-13T15:25:25Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45ZnlWc1BPdHJLQUxVblQ3MmVrLTR2Um55eFZPdlJXUzlYMDN6RXVxYkNRaFlLeGNaNG5jcndWdWc0Nm56dmJ1aXlsOFJXbFpuNkdaTXdSSzZXQ2s?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -162,7 +201,7 @@
    ]
   },
   {
-   "title": "Avigdor Liberman warns US could recognize Palestinian state, sanction Israel",
+   "title": "Liberman warns US could recognize Palestinian state, sanction Israel within two years",
    "source": "The Jerusalem Post",
    "time": "2026-10-13T15:16:27Z",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44V1VuOTQtSkVGeTRkNk52RUhieFpBYXoxZVhCLTNld1lCaDB2UEtNRTJ1Y1c2QW50bnh4LWViTG1nT0FYeXNmenJGVmpBN1Y5X0VFd1VFVW5qUEM0dkotejNaVXBnLWFJSW1QbmJYNEZVMk55ZFBuZFRUTQ?oc=5",
@@ -233,6 +272,16 @@
    "tags": []
   },
   {
+   "title": "Gold price rebounds ahead of US inflation data",
+   "source": "Mining.com.au",
+   "time": "2026-10-13T14:54:45Z",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BR3d2eEFjNkxKWkt0U1FLOWxUUjk2TnR2X1ZmamJqMlZ1LUR4eFY0TlZ6VkZBaFdxYU5PM2VyemlNaU9OZ2pWWjJWd1h2SGN1eDNaU090cTZ1T2ZvV2FaNXBacGJGd3ZXX2l3Mjh6emlvLW1DQnpVUA?oc=5",
+   "tags": [
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
    "title": "TREASURIES-10-year Treasury yields down while 2-year yields rise",
    "source": "www.marketscreener.com",
    "time": "2026-10-13T14:50:01Z",
@@ -264,6 +313,15 @@
    "source": "The Guardian",
    "time": "2026-10-13T14:40:00Z",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQendRTVVJYVZDS1U5M0E1TkhXVml1MFlodFhUWUNqamI5M2NSNEZZZXlVeHRoTDdodWFpWFhnWTM4TWVmLV9US2xLSjA1UVJIVlo0bGtKQzVjcTctTGc2RUxrVkhXaTRGM1dETURiWUhWQTQ5bWt6S0Z5TmFUak4wT1JOQWFyckphN2VFUjFMMndCWmpKQUJ0TjZnRW4yVlQtdkJMRWtPdTdvSG5obFNtVGRZb0NpUkN4Tkl6RncxOA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russia strikes Ukrainian targets despite Trump's energy ceasefire claims",
+   "source": "CBS News",
+   "time": "2026-10-13T14:40:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORFR0Qko4N19KdUFiRmpRY0ZsUGZYV0ZKM2hmU0N5bkZBY1R4TXRRZmFmZkxsS0o4bms5aFNmLTJOemlWaGU2MzdLVGVyWWh5VXJXeS00UDhVT1lnRjIyUVh4VzE5bmZvNjhqVjZYWUpMNkNfZzQwMEtkb1YxbnVqWmJXVVBIc3lfVkpIX1Y1dUFKREVzUk1McTJKenNIbnpFa1RzYw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -597,15 +655,6 @@
    ]
   },
   {
-   "title": "Euro: Lower year-end target at 1.13 against US Dollar – ING",
-   "source": "FXStreet",
-   "time": "2026-10-13T13:04:42Z",
-   "link": "https://www.fxstreet.com/news/euro-lower-year-end-target-at-113-against-us-dollar-ing-202610131304",
-   "tags": [
-    "USD"
-   ]
-  },
-  {
    "title": "Iran sees ‘false flag’ operations after UK blames IRGC for airbase incident",
    "source": "Al Jazeera",
    "time": "2026-10-13T13:03:56Z",
@@ -630,52 +679,6 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWVl0X1JodlVjXzUyMW03TEZMMjREcGJSYTlwSVZOYVhseEtvSUdCR1hidWg3eVMzYjVZQ203ajVoeDJjMnVITVBIdVJvejYzaThvbXVXc2dqQU1VU0ktSXkwRnEwZlQ2RG9VWTZrcjhBazZqc0NpRWxwcTZsckRJbkl3Y3hiS1g5aDcxVzdydw?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "U.K. Spy Agency Confronts Escalating Hybrid War With Russia and Iran",
-   "source": "WSJ",
-   "time": "2026-10-13T13:01:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQekFxeERXN3NYUTgzUmt2YnR4THhwWFV4bkl4aUpGelVlTnNVdWVZSjZjc1pnblQxRW1JZ3hjTjd2UVYtMzRGQjZwVm1GTnhYcTJmeWJUc3Z2NGhDb1FkaF9VX2x2clY0eTFHXzVLSnFCeEM0WHBweklMb1VUQl9mNmFVeHRjQS00b19sVnR5S212dF9GN2VvVmZYZ0FtSTVvYTJjVjBLT19iUXBiYXc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Cyber Firm Tailscale Uses Canada Roots to Court Clients Wary of US Power",
-   "source": "Bloomberg.com",
-   "time": "2026-10-13T13:00:13Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTWMwWmRfTHJTVkFDSmpzUHhTV2NkcEhJTFRRX2Jnem1xYVRsVnBISFF5bTVreDFNS1hseTFPRGNKdGkxeFpCRzc0VVFDSFZjUEttRDB0OWtKSUNybHlNTERtUFM4SDQxU1Rhald3YlFJYks0M3JIMl84UjNMUEQzenN5SmtLYTQzUFBmVzFNZ0VZSHlVX2pkRUx3SzlTRjd2NDl0REFUVl8yZ3gwdDlXQmRzcDNsaFZ3Y2NRZ2tXMWZ5Ry1ENmc?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Huawei, once hobbled by US sanctions, passes 100 million Kirin chip milestone",
-   "source": "South China Morning Post",
-   "time": "2026-10-13T13:00:08Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTlhabXlCZE0tS1hVWjhxVzIzSnFMN2c5cC1BMWx6TlAtUU5MY2tKX3dqZkd2VGZOR29fd2p5MDJndXN5NWFXSzRXd2NraE05alNPY043ZTNiT2QxelE3aHRSZGlsUG9qMmtzWjU4S0oyakhzN1VzZWFVYm83M283dldBTWZ2MEp1YlZ5OXR2Y3FQd25fZ0o1ZEdyZUU5VVFERlJ3VGFBNzkwQ1pwc2J4N2MzNFRldTR4aWFNZzJtYjHSAcABQVVfeXFMTVc0bkkyWFlLU3VnSF8zOXVaaUVvZTFiRVJkVktYWFJoTHNJdHlwcm9XY2s1Z3ExU0N3QUZvLTNGeDZvZVp0a1dhdUNTeFRSd2NZeXl6bS10N1ZvbkhRTXMyQ2dHZ2tKQWY2em5vOFJCam1YU1FXb3ZuaUs3SVhISlFfMGs2UXdoc2VWd2FpM1VhdWtQRF82RC1JR0RSeWZvakxwYW94UGliUXNoZkhUR05LS1g2MlJGX042bkd2ZjVF?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Gulf oil production rebounds ahead of increase in Iran war hostilities",
-   "source": "Financial Times",
-   "time": "2026-10-13T12:53:16Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXJmSnBaU3h0Z3pqMms4b25kODFKdG8zRjNQMGRDYUVzR3dONEpnb3FWZFVUOGJETEhaaFpwZWR4blViRm1JZ2tjNFFYQjBmNzhESVZSUlV2Tk5BMzQtTGdtMFJYYzAwZEVqLXFGSVFZUWQyc2FEclo5NzV2NGYzMm8xcTY?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Ukraine Says US Still Shares Intel Despite Missed Missile Alert",
-   "source": "Bloomberg.com",
-   "time": "2026-10-13T12:51:48Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORjA1bjVjSHpGT2RnOHd4MlRnMWtYZVdzME9TZDYyc2h4SzN1MkVjYlNsMUV0X2wxSzdueEVRUXRBUG9teUVpWm96N0Jjb0lGYmlIWlczaGh1SFlXSWRkMXg5UFowNWtLMHJKRFdjazZ4ckhjajBPUUFjYmJPT0g4VU12OW5wOG5xdjhyUjJydkFRTkpzWDhnWHRkRUxoSHBtOXN6ZmpBZ0N4MEgxT2IwTm5qMHY?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
