@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T06:08:45Z",
+ "generatedAt": "2026-10-13T06:36:55Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -40,13 +40,14 @@
   },
   "investing_commodities": {
    "http": 200,
-   "items": 10,
-   "kept": 8
+   "items": 0,
+   "kept": 0,
+   "err": "parse: not well-formed (invalid token): line 68, column 0"
   },
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 4
   },
   "marketwatch": {
    "http": 200,
@@ -56,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
@@ -71,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 11
+   "kept": 12
   },
   "whitehouse": {
    "http": 200,
@@ -80,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 33,
+   "items": 36,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 13,
+   "items": 12,
    "kept": 12
   },
   "gn_tariff": {
@@ -105,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 25,
+   "items": 26,
    "kept": 12
   },
   "gn_oil": {
@@ -115,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 9,
+   "kept": 9
   },
   "fed_calendar": {
    "http": 200,
@@ -124,6 +125,88 @@
   }
  },
  "items": [
+  {
+   "title": "German inflation rises to 3.3% in September",
+   "source": "Investing.com",
+   "time": "2026-10-13T06:32:38Z",
+   "link": "https://www.investing.com/news/economic-indicators/german-inflation-rises-to-33-in-september-93CH-4945543",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+   "source": "CNBC",
+   "time": "2026-10-13T06:20:55Z",
+   "link": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "U.S. Treasury Yields Fall as Markets Look to U.S. Inflation Data",
+   "source": "marketscreener.com",
+   "time": "2026-10-13T06:19:36Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1VIX1JkUjg3elJkV1FTamtMNzV3Y3ZIcnZFUGhPbWhuSW5IWFRTRmQ2Q3o2U1hYekxhLS1vWW9rM0IyUktkRlNpaEdhZWRrd20yQmpUTUVRdWstVEl3VEg2RVA1SlVaaHpZcVhielJHeW0zSVNRTWNqMjQ4djItbVdjVkhIaHZUUG9wYzJpNTJBVGgyRmg4VFBleVZWWDVMc2JvVVpYLW4wLUtmcmNsU2tSUk1zUQ?oc=5",
+   "tags": [
+    "YIELDS",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Russia is copying cruise missile tech onto its $50,000 drones to deal with Ukraine's jamming",
+   "source": "Business Insider",
+   "time": "2026-10-13T06:18:00Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS0VmazFVZlRTRnFkTnJGa1RjQ2VnN2pVNXFCdlIxSklnWGVBNHNxQ2tWYnd2YjZ5Ri02OTVEMHRTMFc1NjdtSHZEQW9DWElmT3BHS1ppLXV1V0VFdGp0cTBCQWRMVkQweG00Y3FMaHdBa2RCSDdYN2RnVkRYWTlsTWh2YjhTMUhBNVZXUkFjYw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Philippines central bank forecasts 2026 current account deficit",
+   "source": "Investing.com",
+   "time": "2026-10-13T06:09:06Z",
+   "link": "https://www.investing.com/news/economic-indicators/philippines-central-bank-forecasts-2026-current-account-deficit-93CH-4945511",
+   "tags": [
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "US Dollar Index Price Forecast: Likely extend advance to near 103.00",
+   "source": "FXStreet",
+   "time": "2026-10-13T06:08:58Z",
+   "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-likely-extend-advance-to-near-10300-202610130608",
+   "tags": [
+    "USD"
+   ]
+  },
+  {
+   "title": "Romania’s inflation rises to 6.61% in September",
+   "source": "Investing.com",
+   "time": "2026-10-13T06:03:39Z",
+   "link": "https://www.investing.com/news/economic-indicators/romanias-inflation-rises-to-661-in-september-93CH-4945503",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "EUR/USD Price Forecast: Holds gains above 1.1150, but remains technically bearish under 100-day SMA",
+   "source": "FXStreet",
+   "time": "2026-10-13T06:00:23Z",
+   "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-holds-gains-above-11150-but-remains-technically-bearish-under-100-day-sma-202610130600",
+   "tags": [
+    "USD"
+   ]
+  },
+  {
+   "title": "Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says",
+   "source": "Al Jazeera",
+   "time": "2026-10-13T06:00:23Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS21VbVNZWmtxOTNETndGYXdELUtxVEpnakhseHFMdS1zeG9RLXJrMzVVTHlkbjlpa2tXR3k2ek9ic2ZDbFU3ZkZBcV9PNzdVcVc1Nm9ZZEJNUFRLQTZmV24wUUtBYnRtaW1mNm80UXk2clRiR1o0WUlRdXpScFE3TC1BcnNpejRROVhaZ3UteDJELWpoOVpLbTZZb2VsSUp6Tkd4MWZOTkFxamNKVG42UVdIc243TFJpTUHSAb8BQVVfeXFMT1MtYXUxdzFtZi11Z2FabS1scVRNUko1MUpNdXVhR1NTcUZXc1JhdGdrU19uRGZjZm5DcWRYNWs1aUxFdXdEZHQ0eXhOdHFWaE5JZ3BUcHRPRWtISjkzOFFweThKdFpxRHNBTkEwaUZqV2tfSGR2enJQdXpaWXl1cDV5cXdSbkhRUG1Kbm1UUzVhWnZVZ3REVWQ1Y2hKMlpsUGIxZWlKUGt6RTdyUVg1MVM1MEVJVDZSUlo5ejQ5VlE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Germany September final CPI +3.3% vs +3.3% y/y prelim",
    "source": "ForexLive",
@@ -143,6 +226,15 @@
    ]
   },
   {
+   "title": "Gold price slides under pressure, but Barclays sees upside ahead",
+   "source": "Mining.com.au",
+   "time": "2026-10-13T05:38:58Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWVl0X1JodlVjXzUyMW03TEZMMjREcGJSYTlwSVZOYVhseEtvSUdCR1hidWg3eVMzYjVZQ203ajVoeDJjMnVITVBIdVJvejYzaThvbXVXc2dqQU1VU0ktSXkwRnEwZlQ2RG9VWTZrcjhBazZqc0NpRWxwcTZsckRJbkl3Y3hiS1g5aDcxVzdydw?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "British Pound trades subduedly against Japanese Yen, BoE’s Greene supports quick rate hikes",
    "source": "FXStreet",
    "time": "2026-10-13T05:29:30Z",
@@ -159,6 +251,15 @@
    "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
    "tags": [
     "JOBS"
+   ]
+  },
+  {
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-10-13T05:09:53Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -236,16 +337,6 @@
    ]
   },
   {
-   "title": "BoJ’s Ueda: Long term interest rates are determined in markets, reflecting various factors",
-   "source": "FXStreet",
-   "time": "2026-10-13T04:53:05Z",
-   "link": "https://www.fxstreet.com/news/bojs-ueda-long-term-interest-rates-are-determined-in-markets-reflecting-various-factors-202610130453",
-   "tags": [
-    "RATES",
-    "CENTRAL_BANK"
-   ]
-  },
-  {
    "title": "Gold rebounds as dollar retreats, Middle East tensions sustain inflation concerns",
    "source": "Investing.com",
    "time": "2026-10-13T04:52:35Z",
@@ -266,30 +357,23 @@
    ]
   },
   {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-10-13T04:42:29Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "India Gold price today: Gold rises, according to FXStreet data",
-   "source": "FXStreet",
-   "time": "2026-10-13T04:35:10Z",
-   "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610130435",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
    "title": "Rising Treasury bill issuance puts pressure on short-term rates",
    "source": "Financial Times",
-   "time": "2026-10-13T04:34:13Z",
+   "time": "2026-10-13T04:35:02Z",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OSER0ODloRGFfWGFWS3FVSlZHN3p0UWlRQ3Z3RXR0X2dvR1lsd085eGlXVmxsSDBtclpjMEhMa1B5X1RhaHBTSGJwb253YXZhN1UySENObVR6R1AzZnA5Q2R3NWtpNHV6RFlFT3V4bzc?oc=5",
    "tags": [
     "YIELDS"
+   ]
+  },
+  {
+   "title": "China sanctions officials in Paraguay and Belize over their countries’ ties with Taiwan",
+   "source": "AP News",
+   "time": "2026-10-13T04:32:00Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX2lxdnRVVWZzV3dRUlRsZ1l1UUp6V1pUdDB5WEJxSERYN2JZWU4zMWVyU19vQnc0R3ZubXZvdnZMb3JFNkN3TlpSaDE0YWlEZGV4bUdCSWFaMUpKU2NJNERTRG5zdTh2V3NhbUk3V25EdHFmc0wyQ3d4YW1NaU53TDVZRFg1eWhSWlY4N191R0kwTXk3WlZtVUVrTm5zWlk?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS",
+    "CHINA"
    ]
   },
   {
@@ -300,6 +384,16 @@
    "tags": [
     "USD",
     "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold Price - XAU/USD Q4 2026: Can the Support Drive a Recovery? for OANDA:XAUUSD by tohaitrieu",
+   "source": "TradingView",
+   "time": "2026-10-13T04:21:36Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTi1jUGhjRGNscFpTOGd1ZHIxcUxKVzFhQU8xT2hVT2k0T1dYSmlpcllhZW5KVlIwZE9PTC16eEwxY0pxYmFqaTc1WG9vQzZrWThKVk9HMElhV3l3VkROekIwbEZYZGp5S0NGcjZ2dWZpMXlWUkJHSHBucWtVMVNFYmRqbk9HNWgybzdPRVhvc1IxQkRpY2Y5UWpMZC1qcUQ3WC1uTjF3b0Y3d0M3YlJn?oc=5",
+   "tags": [
+    "USD",
     "GOLD"
    ]
   },
@@ -412,13 +506,13 @@
    ]
   },
   {
-   "title": "Gold eases on firm dollar; spotlight on US inflation data",
+   "title": "Gold ticks up as oil eases; spotlight on US inflation data",
    "source": "Reuters",
    "time": "2026-10-13T02:23:00Z",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5",
    "tags": [
-    "USD",
     "INFLATION",
+    "OIL",
     "GOLD"
    ]
   },
@@ -591,98 +685,6 @@
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Price Canada Today | Live Gold Price in CAD",
-   "source": "Kitco",
-   "time": "2026-10-13T00:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Watch Zelenskyy Says Open to Energy Ceasefire if Russia Agrees",
-   "source": "Bloomberg.com",
-   "time": "2026-10-12T23:57:36Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWlZTYTdQem9Cb1FVLTB6MndLcWFvc1lCU0M4eG9La3BGREdoRDNxZmU5R3lvNjdWMlJEZ1RjdFpNZ3pBLXhVUEJTWHg3UUNhVHZ5YW8wUGxTRk9RZ3ZHLURmaGlUU05aSFVlQU5icEtDS2ozYXBiazBVLTVCWWdWQXJaYjc0cGlwSlVsREdVM01sd1hFSk9iUi1QWQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
-   "source": "Al Jazeera",
-   "time": "2026-10-12T23:27:47Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRG1HQUhkZXVQNnlVX2lncldfd2lGQWd6UEdNcWtFRmR4SVZPNW9kSHY0LXhyMWJGTXZjbWRseGZqY0I5eEEtRjJ2YTktcE94M1ZEWkpqbFpzNmMtMnRETlF1a256SkVlSXBrZF9IR1hIcy1Xd3RkaDJSSGpiMHl3akdCbDdObDFQTjBpUjRmOXM2SGtPTWNrSTdUdy1UbzZQUkVvYnlBcVDSAa4BQVVfeXFMTTRHWjZ3aUotTExWNThqTk1tM24zWndPbVRLS3dRLVlrRHNyTkQ4ODZXRHlpYWszbVdSRWp5U0tmZnZDd18tT1RJR01JLXJvUE4yczJrajFnSkNPbVBab3FPNjg5a21FeW5MLTVsbU9FOE5KZTNKSXNjb01SM3p3QWdDMzhaTXZnTkE0M183eW5YQmt0V0F2YnlOLVFJeHpkWENJakdISWFVNVNLczVR?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Donald Trump says Vladimir Putin wants Ukraine deal more than Volodymyr Zelensky, defends ceasefire claim",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-12T23:27:31Z",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYlIyZTdOSTR4cmp5aVVCbE1fc2ZNb0xBMmhiSkdCVEo3dWpXME5FX3FOOUhFWW1yZ2MtckZKbDc5enROaWZ1S3VYYzlRZy1OTjh3U3RwUEtPNl82MHFZWGdJTVdqLUgwbXpNajNrYUJVNW1BR1VvcHVRd0tja3hjSTU2eTk2Y1Jod1E?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine's Zelenskyy says it's \"increasingly evident that Russia is unwilling to accept an energy ceasefire\"",
-   "source": "CBS News",
-   "time": "2026-10-12T23:03:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRGFKRjE3ZWZxd3BxZ00tSHdSUWZnbjZGX2pRRzF6a3d2Z1ZONEVOUlJWTXh3TElaQnRrVDdBdUUwZndCeDNLYmhDT0Jfay1JNGtCS3lWQVZ4WDUtRWZuemdQTW80dmo2OEkxYmotUzVha2FPdUhzZTU3MVNDOUNQNGN6dXpJVWdr?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Heating oil customers face tough winter despite shake-up promise",
-   "source": "BBC",
-   "time": "2026-10-12T23:02:24Z",
-   "link": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "North Korea test-fires tactical ballistic missile, KCNA says",
-   "source": "Reuters",
-   "time": "2026-10-12T23:01:45Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV3ZjaXowUkVCSkx4TVpHUFY1S0ttLV9kYW9TN1YxWnh6N05YSEFQMFVUb29weUJpNkcydVRoTFplY2locjdUSUVNd2tZeWNmZnJ3TzhubWRuUzZMLUZpakRFM2U3dXJMeHNfSWV3LVNteU51aTRZeFMxeEdTMjl6UENYcWxvcWMyZnkwYVRRZGlwTHh2LWc1OFFBcjJ6TGJXcG5hVWY0MTRYY19FTXAzdGxNM1M?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Why Economists Think Higher Bond Yields Are Here to Stay",
-   "source": "WSJ",
-   "time": "2026-10-12T23:01:30Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY3JyY05BTFdaaUVtQlJmc1A2RG56ZUNseXNLblJmVG5xTmZaOHNxUnhxbGJROUVacWx0SkFGT2NiaXU3dEUzOEVKdVNXWU5FejVYQnNRT2tab09QWDd3Y1NJWEFRbG5BVlEwQnNYWUR2cFVlLWJEUENHTzkxRjVNQUhYem0?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Hong Kong investors are warming to US Treasury bonds as yields hit 20-year high",
-   "source": "South China Morning Post",
-   "time": "2026-10-12T23:00:30Z",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdXpfakVCZDlsYkU3WWZqMUdlNEo3S2ZDektIcGRjc0xqOTk0VWZMU0VhUHFwdzdzd0NCbjdydzZpNjN0a1VwUHFBeEcxLU1nX18zckdWZl9wbzJaSDhFSUpycmZoWmFXOHNkTFBFTmIyQVBNckZIVFFyTnZZLVhGRlBNUU1nQVVHUEFSREc4dlpkSHktWmJJYWRKRl9LQlpSRVZTRmlDNkFnVFZqb3V2R2FPd3NPNlF3TE9sNTV6U0pyX2h2WGpoN21Cd2ptNXfSAc8BQVVfeXFMTVZnbzY5VlNvYW9yVks4ZFgxVlo3RzBFOTgyZEhmQUZHUUxEUXloWmdFTDQ4eGFHa3YyNTQwR05pU0hOc1pka3lKT3FJeC1aSEJzXzRWdU92cWhxUEdCN0lTTUpJQ0JvUjQ1a0F6Ry1NSDQyemZDMlZiS1RNbEg3ZXliUHlCV0FIaFgtSTF5bFpCRWR0RnZhSHRkTkExNjJTcHZpWVdfRXJjd05BcFNvdkZqYjVwb3hGclp4LWlZbk5vSF9RNW8taFkxMnlkdkh3?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
-   "source": "CNBC",
-   "time": "2026-10-12T23:00:01Z",
-   "link": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
-   "tags": [
-    "CHINA",
-    "GOLD"
    ]
   }
  ],
