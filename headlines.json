@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T06:36:55Z",
+ "generatedAt": "2026-10-13T07:05:07Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -40,9 +40,8 @@
   },
   "investing_commodities": {
    "http": 200,
-   "items": 0,
-   "kept": 0,
-   "err": "parse: not well-formed (invalid token): line 68, column 0"
+   "items": 10,
+   "kept": 8
   },
   "investing_news": {
    "http": 200,
@@ -72,7 +71,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 12
+   "kept": 10
   },
   "whitehouse": {
    "http": 200,
@@ -86,17 +85,17 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_tariff": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_war": {
    "http": 200,
-   "items": 51,
+   "items": 52,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,18 +105,18 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 26,
+   "items": 27,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 10,
+   "kept": 10
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +124,55 @@
   }
  },
  "items": [
+  {
+   "title": "U.S. Treasury yields surge, putting a chain reaction in focus By Investing.com",
+   "source": "Investing.com Australia",
+   "time": "2026-10-13T06:58:37Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUNtTVFWbmNSc0w0eFpuTU9OdUl4dzFYSkhIV2JTRjduZ1JVRzBweHVkWVRrZEpTSFVocnpmWWN2UE5jTDU2VFBieVdSTVEtRkU1N1VOSlNqbk1jQ09URHQ0MG9CMDFuYVNZVGtxdEI0ZW94MVJPT0RZUFlmUktINnV1VDFhRDNwWHFKU0YxT3FIQl94R0tPNktySlA4VTg3WTM5MDZuaklIOW5FMFE?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Donald Trump claims China, Russia remain neutral in Iran war, despite Tehran ties",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-13T06:58:20Z",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xTGt5OXR3cDVLZVlKUE90emVCM04yam1FNllncW5BQlZHa0YzVG44TmFCWjg0WmU0NkJLSDBXRDdDUGJlbTczZlVDcDZ5V09MMnBhakZzb1hkRG5uM3Vv?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Gold: Geopolitical Tensions and Anticipated Fed Rate Hike May Prompt Selling Spree",
+   "source": "Investing.com",
+   "time": "2026-10-13T06:45:00Z",
+   "link": "https://www.investing.com/analysis/gold-geopolitical-tensions-and-anticipated-fed-rate-hike-may-prompt-selling-spree-200689463",
+   "tags": [
+    "FED",
+    "RATES",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold: Soft Debt Default Using Inflation (Commodity:XAUUSD:CUR)",
+   "source": "Seeking Alpha",
+   "time": "2026-10-13T06:35:23Z",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYTlRLU5FWjF6ajRsSUVwVlUzLS1BLWVmTTdtRnZfaDl4MVBCaG41YldFV0dnWmdJek1tMVZ0bFlZY3hfOFMxRTExVXNwT1hINWJ5VWJCdk1kVDhUdUZWLXpxY2JpRGR2SktyOExlTjduQmptdkhQVTB1dUREalBabklNSUpOdw?oc=5",
+   "tags": [
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Middle East Conflict Keeps Oil Well Supported",
+   "source": "Investing.com",
+   "time": "2026-10-13T06:33:00Z",
+   "link": "https://www.investing.com/analysis/middle-east-conflict-keeps-oil-well-supported-200689448",
+   "tags": [
+    "OIL"
+   ]
+  },
   {
    "title": "German inflation rises to 3.3% in September",
    "source": "Investing.com",
@@ -144,6 +192,15 @@
    ]
   },
   {
+   "title": "This Copper Mine Led to a Civil War. Can Reopening It Fund a New Nation?",
+   "source": "The New York Times",
+   "time": "2026-10-13T06:19:37Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHhYMWVsNm5jSTVGWGZTeVdOODhFOG8wSHYtNFNuOGpBZ2xsT2hlLW1TYjFoZmEyc3MtT3dhNmpaUHhQTEI1UnRnaEtFVEZUYjVKTmg4Y1pUWkUydEk0aEZ0N2V3T0ZOUmdoT09MdzA2YmFpQXRWN2NwbjB1a3FwV0V0eXptQno4X3ZMTXd0YTlhVkdsMUVzcHc2UTk2ZXRwUG96UzVR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "U.S. Treasury Yields Fall as Markets Look to U.S. Inflation Data",
    "source": "marketscreener.com",
    "time": "2026-10-13T06:19:36Z",
@@ -160,6 +217,15 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS0VmazFVZlRTRnFkTnJGa1RjQ2VnN2pVNXFCdlIxSklnWGVBNHNxQ2tWYnd2YjZ5Ri02OTVEMHRTMFc1NjdtSHZEQW9DWElmT3BHS1ppLXV1V0VFdGp0cTBCQWRMVkQweG00Y3FMaHdBa2RCSDdYN2RnVkRYWTlsTWh2YjhTMUhBNVZXUkFjYw?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Oil Prices Retreat as Saudi Arabia Pledges to Keep Exports Flowing",
+   "source": "Investing.com",
+   "time": "2026-10-13T06:16:00Z",
+   "link": "https://www.investing.com/analysis/oil-prices-retreat-as-saudi-arabia-pledges-to-keep-exports-flowing-200689462",
+   "tags": [
+    "OIL"
    ]
   },
   {
@@ -414,15 +480,6 @@
    "tags": []
   },
   {
-   "title": "This Copper Mine Led to a Civil War. Can Reopening It Fund a New Nation?",
-   "source": "The New York Times",
-   "time": "2026-10-13T04:01:13Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHhYMWVsNm5jSTVGWGZTeVdOODhFOG8wSHYtNFNuOGpBZ2xsT2hlLW1TYjFoZmEyc3MtT3dhNmpaUHhQTEI1UnRnaEtFVEZUYjVKTmg4Y1pUWkUydEk0aEZ0N2V3T0ZOUmdoT09MdzA2YmFpQXRWN2NwbjB1a3FwV0V0eXptQno4X3ZMTXd0YTlhVkdsMUVzcHc2UTk2ZXRwUG96UzVR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Trump’s loan to a US defence start-up adds to Apollo’s war chest too",
    "source": "Financial Times",
    "time": "2026-10-13T04:00:19Z",
@@ -461,7 +518,7 @@
   {
    "title": "Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’",
    "source": "Al Jazeera",
-   "time": "2026-10-13T03:15:33Z",
+   "time": "2026-10-13T03:17:11Z",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMVhkcnBKX2d1S1JmWWk4Z05tTjJmN0lXR3JXQXNHSFdPUHlyTmY4bmRuWFhwaHBValBoenFpdENwWHM4alZleUpqRVB1d2dqYUpqSy1mSE4zb3RlZFI0aGlMWl9JWVp3ekpNLU94UFcxMnViOW5WRmZ6OHp2V2pKRk4waG5YcF9DZm53RmxpcDVBR1pRNkw3TDZyd2JHLU54T1pSWXlLTnI2Ym_SAbABQVVfeXFMT252SUpvV0NrckYycWNDeE5qLXZhNk5XUzU5X0N4Vy1PRXA1UUxPVkRFUm1EcFFRSjNKSTVOVkt6ZjhsRGdmRnNiMjZDdFV1TThsUUhKNU1jcFpOTFhxS1M1Sm5JMVZxX0x4cnFWX3hDOHdTLWFzWC1hazl4UmJOZndyU1FnQ2c5NnB4Y3RmUEhtYVNrZWRzRDg1T3FieGlIZlFBS3JCWUFDR3A5V2I3a2M?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -624,67 +681,6 @@
    "tags": [
     "OIL",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Japan wholesale inflation misses at 6.8% but stays high enough to keep BOJ hike alive",
-   "source": "ForexLive",
-   "time": "2026-10-13T00:32:42Z",
-   "link": "https://investinglive.com/news/japan-wholesale-inflation-misses-at-6-8-but-stays-high-enough-to-keep-boj-hike-alive/",
-   "tags": [
-    "INFLATION",
-    "CENTRAL_BANK"
-   ]
-  },
-  {
-   "title": "BofA sees gold struggling to hold $4,000 as Iran war oil shock keeps Fed hawkish",
-   "source": "investingLive",
-   "time": "2026-10-13T00:31:39Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcWxmVFBNU0ZLZnRlbVNTMVhtWkEwTVJ4TlNRM2xVVERuRFdkN00zeVNwRHpncmJrTzZOdk5fbVlRYm56UWpKQzVqX1BPYTVmQmN4clZmWnB3UFI3dFE2a3RIeEFwWGtxTWh3cmRFLXk5TDNGY3FqelowUERFNFJScU5hYzRScEsyM2JHS2V1LTVxbDVwQjBBbDdVcFlXRV9HNjlJZ080anYxNGEzZmNRdU1tU3E4OEg2dHc?oc=5",
-   "tags": [
-    "FED",
-    "GEOPOLITICS",
-    "CENTRAL_BANK_GOLD",
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Oil falls as Russia diesel supply prospects counter Gulf supply risks",
-   "source": "Reuters",
-   "time": "2026-10-13T00:25:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2sxWTVlekZ2bXloVXNiOUltMm5iODVOMW9NTUo4Q016ZU02OFQ5TU9relFTcUZSaW8xV0c2YmNVbE5jWW5uQjhKeXNKaWxBcE92SU1fQUU0R2RVamdNUzRhTER3NzEzMFUtRVd3bzVnZ1g0ZmtRek95VHdYbVNNMmNacmlDd3dLTThmaGF2VVJDYTc4c1hQeUZfX0ZGQzZjTXlpLU52U3JuUGpjOHJjWndoS19LandSX0dtMmdUMzNKZw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil",
-   "source": "Investing.com",
-   "time": "2026-10-13T00:04:59Z",
-   "link": "https://www.investing.com/news/economic-indicators/japan-ppi-unexpectedly-eases-in-sept-on-stronger-yen-cooling-oil-4945260",
-   "tags": [
-    "INFLATION",
-    "OIL"
-   ]
-  },
-  {
-   "title": "U.S. Treasury Yields Retreat From Early Highs; Eurozone Yields Remain Elevated",
-   "source": "WSJ",
-   "time": "2026-10-13T00:03:17Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVktTdlI3bkRJUTFtb0hZd1RNa1F2UmRlRy1LTWxpR0txNmgyX0R2TnNCbXFpZ3pVTUFuSTJGc2U2T3Z0WkZIenpzNDBtdUxqbEIzOTNtU0hNR3g3OXYxNFVxS192VTNaSGdfbl8xVXotMUVieHgzUlpTVkwxbHhMdTdJcjNuU0lXYTFYZFhtUkxiSjdIOUVDcS1DNnp6VzFPaWNrVWxVbnA?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
-   "source": "Al Jazeera",
-   "time": "2026-10-13T00:00:00Z",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
