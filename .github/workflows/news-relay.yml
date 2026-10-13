@@ -193,24 +193,12 @@ jobs:
           done
           echo "::error::push failed"; exit 1
 
-      # 2026-10-13: GitHub's scheduler ran this "every 30 min" cron only ~4x/day (gaps of 6-10 h observed Sep 30-Oct 12).
-      # Self-chain: wait so runs are ~30 min apart, then dispatch the next run with the built-in GITHUB_TOKEN
-      # (workflow_dispatch is the documented exception that GITHUB_TOKEN may trigger). The cron above stays as the
-      # restarter if a chain ever breaks. Never more than one chain: skipped when another run is already queued/running.
+      # Self-chain (~30 min cadence; GitHub's cron alone ran only ~4x/day). Logic in scripts/chain_next.sh (2026-10-14 fix):
+      # skip only if a run created AFTER this one is queued/running; confirm the dispatched run appears, retry up to 3x.
+      # The cron schedule above stays as the backup that restarts a broken chain. Uses the built-in GITHUB_TOKEN only.
       - name: Chain next run (~30 min cadence)
         if: ${{ always() && !cancelled() }}
         env:
           GH_TOKEN: ${{ github.token }}
         shell: bash
-        run: |
-          set -uo pipefail
-          others() {
-            gh run list --repo "$GITHUB_REPOSITORY" --workflow news-relay.yml --limit 20 --json databaseId,status \
-              --jq "[.[] | select(.databaseId != ${GITHUB_RUN_ID} and (.status==\"queued\" or .status==\"pending\" or .status==\"waiting\" or .status==\"requested\" or .status==\"in_progress\"))] | length" 2>/dev/null || echo 0
-          }
-          n=$(others); if [ "${n:-0}" != "0" ]; then echo "another run is queued/running ($n) - not chaining"; exit 0; fi
-          el=$(( $(date +%s) - ${RELAY_START:-$(date +%s)} )); wait=$(( 1680 - el )); [ "$wait" -lt 60 ] && wait=60
-          echo "sleeping ${wait}s before dispatching the next run"; sleep "$wait"
-          n=$(others); if [ "${n:-0}" != "0" ]; then echo "another run appeared ($n) - not chaining"; exit 0; fi
-          gh workflow run news-relay.yml --repo "$GITHUB_REPOSITORY" --ref "${GITHUB_REF_NAME}" && echo "next run dispatched" || echo "::warning::dispatch failed - cron will restart the chain"
-          exit 0
+        run: bash scripts/chain_next.sh
