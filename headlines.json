@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T00:30:55Z",
+ "generatedAt": "2026-10-13T00:59:04Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -36,7 +36,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 8
   },
   "investing_commodities": {
    "http": 200,
@@ -56,7 +56,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -80,7 +80,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 32,
+   "items": 33,
    "kept": 12
   },
   "gn_fed": {
@@ -90,8 +90,8 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "gn_war": {
    "http": 200,
@@ -105,13 +105,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 23,
+   "items": 22,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 10,
+   "kept": 10
   },
   "gn_cbgold": {
    "http": 200,
@@ -124,6 +124,26 @@
   }
  },
  "items": [
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Oil Prices Test New Highs",
+   "source": "FXEmpire",
+   "time": "2026-10-13T00:38:00Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaDUxR3N0T1U2b19xeGRpNHN6amN2Nnd0MzlEdUhMb0dEdVdlNnV3NW5sQkswalJFQWVLaXlkNUdTc25KbW90SVFXNnVsNF9xQjNFOWd2UnRic09yVDJ4Tm5JR2tFdjVqX1YyQ0QteGNWTFRsd0VSWlBTV1FfS3hYUFB0TlB3RUpKNGp1X2E2TlA5c1V4NlV5MEYxa0xoMmVHSzlCZ2M5TWc5RnFtMHNVeTFpaGFFdzdPQk1pdmJzak45RUlPeE5rYm1zdjdJQQ?oc=5",
+   "tags": [
+    "OIL",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Japan wholesale inflation misses at 6.8% but stays high enough to keep BOJ hike alive",
+   "source": "ForexLive",
+   "time": "2026-10-13T00:32:42Z",
+   "link": "https://investinglive.com/news/japan-wholesale-inflation-misses-at-6-8-but-stays-high-enough-to-keep-boj-hike-alive/",
+   "tags": [
+    "INFLATION",
+    "CENTRAL_BANK"
+   ]
+  },
   {
    "title": "Oil ticks lower as Russia diesel supply prospects counter Gulf supply risks",
    "source": "Reuters",
@@ -174,10 +194,20 @@
   {
    "title": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
    "source": "Al Jazeera",
-   "time": "2026-10-12T23:54:05Z",
-   "link": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
+   "time": "2026-10-12T23:54:39Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNlVqVV9MaVV3c2VNWG51TWhwQ1k1Y1NxVmlULTdtUmsyRmk5QWFFdGV3Z2RVMEZaQ1RlZzEzYjBKWVBCVmNjcW0yMkotMXk4ekctZ3hrZm5vWXFFYmR0dUpZdHhiRlJyT09nNVRoN2lISWhtemExdHNmajVfZmRSRllma01nRTEzWjdWQml1cTB2OXVPWVI3WHJzVU92VEdYcHFhTlB4QW91WXRaWl9lbmNHQ1k0bVR3Q2xr0gG7AUFVX3lxTE82VWpVX0xpVXdzZU1YbnVNaHBDWTVjU3FWaVQtN21SazJGaTlBYUV0ZXdnZFUwRlpDVGVnMTNiMEpZUEJWY2NxbTIySi0xeTh6Ry1neGtmbm9ZcUViZHR1Sll0eGJGUnJPT2c1VGg3aUhJaG16YTF0c2ZqNV9mZFJGWWZrTWdFMTNaN1ZCaXVxMHY5dU9ZUjdYcnNVT3ZUR1hwcWFOUHhBb3VZdFpaX2VuY0dDWTRtVHdDbGs?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US Envoy Kushner says diesel deal is an effort to soften Russia",
+   "source": "FXStreet",
+   "time": "2026-10-12T23:50:01Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlQtSTJ3OVR3NDdSSzlNazdCekxaX0JwT1ZMaTRMX0ZEWXVKZ21PTG1UOVM0VmZMaGR3R3JEZ2FIUjg1YkY2Z0FXdjJDRnM4RlZ6Q1dFUEZpXzc5d3VKWUpTakVZMHdCTDRSYnhxeWl1WEhrcUREX0NELVcxbndndjI4ZWMxSVFVRWczdjVqYkp0S1BIUlhhUXVibGJ2UmRjTC1INDE3aWN2QQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -191,29 +221,19 @@
    ]
   },
   {
-   "title": "US Envoy Kushner says diesel deal is an effort to soften Russia",
+   "title": "Saudi Arabia says drones and missiles still targeting kingdom as Houthis step up attacks",
    "source": "FXStreet",
-   "time": "2026-10-12T23:46:18Z",
-   "link": "https://www.fxstreet.com/news/us-envoy-kushner-says-diesel-deal-is-an-effort-to-soften-russia-202610122346",
+   "time": "2026-10-12T23:37:39Z",
+   "link": "https://www.fxstreet.com/news/saudi-arabia-says-drones-and-missiles-still-targeting-kingdom-as-houthis-step-up-attacks-202610122337",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Oil Prices Test New Highs",
-   "source": "FXEmpire",
-   "time": "2026-10-12T23:42:22Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaDUxR3N0T1U2b19xeGRpNHN6amN2Nnd0MzlEdUhMb0dEdVdlNnV3NW5sQkswalJFQWVLaXlkNUdTc25KbW90SVFXNnVsNF9xQjNFOWd2UnRic09yVDJ4Tm5JR2tFdjVqX1YyQ0QteGNWTFRsd0VSWlBTV1FfS3hYUFB0TlB3RUpKNGp1X2E2TlA5c1V4NlV5MEYxa0xoMmVHSzlCZ2M5TWc5RnFtMHNVeTFpaGFFdzdPQk1pdmJzak45RUlPeE5rYm1zdjdJQQ?oc=5",
-   "tags": [
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Saudi Arabia says drones and missiles still targeting kingdom as Houthis step up attacks",
-   "source": "FXStreet",
-   "time": "2026-10-12T23:37:39Z",
-   "link": "https://www.fxstreet.com/news/saudi-arabia-says-drones-and-missiles-still-targeting-kingdom-as-houthis-step-up-attacks-202610122337",
+   "title": "Donald Trump says Vladimir Putin wants Ukraine deal more than Volodymyr Zelensky, defends ceasefire claim",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-12T23:27:31Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYlIyZTdOSTR4cmp5aVVCbE1fc2ZNb0xBMmhiSkdCVEo3dWpXME5FX3FOOUhFWW1yZ2MtckZKbDc5enROaWZ1S3VYYzlRZy1OTjh3U3RwUEtPNl82MHFZWGdJTVdqLUgwbXpNajNrYUJVNW1BR1VvcHVRd0tja3hjSTU2eTk2Y1Jod1E?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -269,7 +289,7 @@
    "title": "Hong Kong investors are warming to US Treasury bonds as yields hit 20-year high",
    "source": "South China Morning Post",
    "time": "2026-10-12T23:00:30Z",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVmdvNjlWU29hb3JWSzhkWDFWWjdHMEU5ODJkSGZBRkdRTERReWhaZ0VMNDh4YUdrdjI1NDBHTmlTSE5zWmRreUpPcUl4LVpIQnNfNFZ1T3ZxaHFQR0I3SVNNSklDQm9SNDVrQXpHLU1INDJ6ZkMyVmJLVE1sSDdleWJQeUJXQUhoWC1JMXlsWkJFZHRGdmFIdGROQTE2MlNwdmlZV19FcmN3TkFwU292RmpiNXBveEZyWngtaVluTm9IX1E1by1oWTEyeWR2SHfSAc8BQVVfeXFMTVZnbzY5VlNvYW9yVks4ZFgxVlo3RzBFOTgyZEhmQUZHUUxEUXloWmdFTDQ4eGFHa3YyNTQwR05pU0hOc1pka3lKT3FJeC1aSEJzXzRWdU92cWhxUEdCN0lTTUpJQ0JvUjQ1a0F6Ry1NSDQyemZDMlZiS1RNbEg3ZXliUHlCV0FIaFgtSTF5bFpCRWR0RnZhSHRkTkExNjJTcHZpWVdfRXJjd05BcFNvdkZqYjVwb3hGclp4LWlZbk5vSF9RNW8taFkxMnlkdkh3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdXpfakVCZDlsYkU3WWZqMUdlNEo3S2ZDektIcGRjc0xqOTk0VWZMU0VhUHFwdzdzd0NCbjdydzZpNjN0a1VwUHFBeEcxLU1nX18zckdWZl9wbzJaSDhFSUpycmZoWmFXOHNkTFBFTmIyQVBNckZIVFFyTnZZLVhGRlBNUU1nQVVHUEFSREc4dlpkSHktWmJJYWRKRl9LQlpSRVZTRmlDNkFnVFZqb3V2R2FPd3NPNlF3TE9sNTV6U0pyX2h2WGpoN21Cd2ptNXfSAc8BQVVfeXFMTVZnbzY5VlNvYW9yVks4ZFgxVlo3RzBFOTgyZEhmQUZHUUxEUXloWmdFTDQ4eGFHa3YyNTQwR05pU0hOc1pka3lKT3FJeC1aSEJzXzRWdU92cWhxUEdCN0lTTUpJQ0JvUjQ1a0F6Ry1NSDQyemZDMlZiS1RNbEg3ZXliUHlCV0FIaFgtSTF5bFpCRWR0RnZhSHRkTkExNjJTcHZpWVdfRXJjd05BcFNvdkZqYjVwb3hGclp4LWlZbk5vSF9RNW8taFkxMnlkdkh3?oc=5",
    "tags": [
     "YIELDS"
    ]
@@ -282,6 +302,15 @@
    "tags": [
     "CHINA",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Trump defends Russia diesel deal as lawmakers from both parties complain",
+   "source": "Reuters",
+   "time": "2026-10-12T22:59:47Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUNYSF8xeXZscDAyZTZVNC1zZHNtdHhqMng2bVZTenRCTDJWX0FDeV9pMjllMzRMRmJ0blkwMFZ1MENpd1RmbWltR1R0SmV6Q1JUQnpHbnZxNmQtYmZZaFpxdXVLS3Vxd2xqYmI1UVhLM3hCM2gybXN2LUZ5Q2JOdDByZUIwemdsenlGY3FxOENNME5lT0xocWNDYmN6X0ZxQXBiVFNHNnlENmVTOXdqU3pxdlpscHM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -401,19 +430,19 @@
    ]
   },
   {
-   "title": "Kelly Clarkson gets into war of words with store",
-   "source": "CBS News",
+   "title": "Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire",
+   "source": "AP News",
    "time": "2026-10-12T21:50:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWG15ajRHdEVjQzd1VU95Qzdla01ZWXhNWUNXSGV1cmJHYUlyWU9FcTJJWk1UMFAtNl9aSEZrbS1jRUliczBhUHdUOG0xN1ZXUGZYYVdMbGZCS2NlX0lnZ2NMblkwZWJXZTFxa2p0dzNWcHI5RWp4a09TRWZmOUVFUUlJUEtiRV9xWFRVQzRCT2hIczJV?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYk9yd3EweHFPQ2doVnFxQmxCdEJxMmdBdF9FT2tzdExGZmR3eUo0TjFyTmU0azY4UEtmRW56djNGaERmMGdpcmNHZWRPcllwdEhPUVhsNjJqMzYxRko2dXA0VTBtdGZvYUdid1hZZkFMeGtJOGdVX1J0NUU5X29naUJaUVNxMG9LWEw2Q3prUHVTNTlyanVIbjFxOE80Y3oyNTlfX3VhT2U?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire",
-   "source": "AP News",
+   "title": "Kelly Clarkson gets into war of words with store",
+   "source": "CBS News",
    "time": "2026-10-12T21:50:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYk9yd3EweHFPQ2doVnFxQmxCdEJxMmdBdF9FT2tzdExGZmR3eUo0TjFyTmU0azY4UEtmRW56djNGaERmMGdpcmNHZWRPcllwdEhPUVhsNjJqMzYxRko2dXA0VTBtdGZvYUdid1hZZkFMeGtJOGdVX1J0NUU5X29naUJaUVNxMG9LWEw2Q3prUHVTNTlyanVIbjFxOE80Y3oyNTlfX3VhT2U?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWG15ajRHdEVjQzd1VU95Qzdla01ZWXhNWUNXSGV1cmJHYUlyWU9FcTJJWk1UMFAtNl9aSEZrbS1jRUliczBhUHdUOG0xN1ZXUGZYYVdMbGZCS2NlX0lnZ2NMblkwZWJXZTFxa2p0dzNWcHI5RWp4a09TRWZmOUVFUUlJUEtiRV9xWFRVQzRCT2hIczJV?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -628,6 +657,16 @@
    ]
   },
   {
+   "title": "Gold Edges Up as Traders Weigh Russia-Ukraine ‘Energy Ceasefire’",
+   "source": "Bloomberg.com",
+   "time": "2026-10-12T20:03:45Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObDBXTHA2YmE2OEM4Mi03Sm81ZTJwcFhTTnVXT0dVV09qZlRHZGJtazJ4QlR4SmtVQk9vVjlYMmtlaHZ1b3AwOUtlMjl5NlhDNGZBNnFCMDFta2NuWHJlempBWUlDRHF0Z0ZIRFhFSHk4Rm4zeGVyNE9Cbkp5RjU2SlZiZVRNYVFwVzFDOWtNU2dGYktsemN3ZEVOcGFGWFpRakpLT3JHOFJlaTZocW52aFdXMA?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "GOLD"
+   ]
+  },
+  {
    "title": "SA analyst: Rising yields could extend selloff in small caps",
    "source": "TradingView",
    "time": "2026-10-12T20:03:37Z",
@@ -643,44 +682,6 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVzdOZHRuODh4QnlRQnFQdF9fUVBFdkdabEY3dVhUVWZYZl96MGhmZWVaUWp4VnlIY0hlQWZZTDVSNkJsUUVaSGZHNHNGOU03YUs3aUdrTmx4dDk0RENENnVVN1ZSbWpJZUsta1VLMVFKSVlYajloaEUzVWhycFZ5LVYxRm4wVlFqNUpDaWdoeVpQRVFHdVJzU2FobHh5RFpyazl2TTE4Z2FqTGx1UDR1QmowbXo?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "NATO says will do ‘anything and everything’ if alliance is attacked",
-   "source": "Al Jazeera",
-   "time": "2026-10-12T19:27:41Z",
-   "link": "https://www.aljazeera.com/news/2026/10/12/nato-says-will-do-anything-and-everything-if-alliance-is-attacked?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Why Gold Would Love a Fed Rate Pause",
-   "source": "Barron's",
-   "time": "2026-10-12T19:19:00Z",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS2RBbXFaaFZKSnVsRkY2VGZhYlFYbWN4dzFSQ282VGtUazU5eTVLRTN6YkwzTVBJRjNoLU1ob3NjNF9WdWh1b1hNbmlickZQcmpSMzVzNkRPQ3NublZBVWJHUGNrZ05sajdjS0QyLS1iMnEySkxySW5xbXYweUQ2dnpkSm9PMTA?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "European Weakness and Softer Inflation Could Push Treasury Yields Lower",
-   "source": "Investing.com",
-   "time": "2026-10-12T19:13:14Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0hwb1BQemt5Ym5VTUpBeUpwNDRZN05IYW81aHU3REhQM2Z3S1FMaHdfb2hlckh0NHV0ZEJpY2s3RVhReDdXQWxveXBZTlRBaUEwb1NrdVZPQjQ4bENYbmpkS0lneWJ2UjQtTlFUX1lUdGc4UzctTjViWmQxeE1OVzh3X25qb3BJS3hSVWZlQ1pZN0t3NzlZQjlwV0lwSGFqY1drX0l5V2VxbnhiN1g3bkRDbDZxT2s?oc=5",
-   "tags": [
-    "YIELDS",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Shipping and insurance costs for energy flows surge, OPEC, non-OPEC ministers say",
-   "source": "Reuters",
-   "time": "2026-10-12T19:12:09Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWUJ1Y0p1c0dpaFgyQ3FETThUc1dRbnlrNVdaeXItQnMzX2NRS1FpZDh6bUN4REd1OGRwOEw1WWMwSUxzYjFhMUZIU3dTWFAxTmpVRjVFSkI3NnNpVGJsMnd1anl2ZnN6NE5telhScGJTZVF0ajhrbkhTS00tbm9oZjdpRTdJcXV0ZFc0UlhXOVJtN2RfRDRlQWo2ODE4NGdlekk3dzZFR2dSUUJNNkthNEpDMUxLTzczdXlneklScTc?oc=5",
-   "tags": [
-    "OIL"
    ]
   }
  ],
