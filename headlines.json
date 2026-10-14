@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T18:55:32Z",
+ "generatedAt": "2026-10-14T19:23:55Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 5
+   "kept": 6
   },
   "cnbc": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 10
   },
   "whitehouse": {
    "http": 200,
@@ -81,17 +81,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 39,
+   "items": 35,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 30,
+   "items": 29,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 23,
+   "items": 21,
    "kept": 12
   },
   "gn_war": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 43,
+   "items": 41,
    "kept": 12
   },
   "gn_oil": {
@@ -116,15 +116,71 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "fed_calendar": {
    "http": 200,
-   "items": 5
+   "items": 6
   }
  },
  "items": [
+  {
+   "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+   "source": "CNBC",
+   "time": "2026-10-14T19:22:00Z",
+   "link": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "10-year Treasury yields dip as traders look ahead to Thursday economic reports",
+   "source": "CNBC",
+   "time": "2026-10-14T19:10:20Z",
+   "link": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+   "source": "CNBC",
+   "time": "2026-10-14T19:04:29Z",
+   "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "What to expect at the next Fed meeting now that rate-hike odds are rising",
+   "source": "MarketWatch",
+   "time": "2026-10-14T19:04:00Z",
+   "link": "https://www.marketwatch.com/story/heres-what-the-fed-might-do-at-this-months-meeting-after-todays-hot-inflation-reading-087511b6?mod=mw_rss_topstories",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Bangladesh arrests two for luring locals to fight for Russia in Ukraine",
+   "source": "Al Jazeera",
+   "time": "2026-10-14T19:02:51Z",
+   "link": "https://www.aljazeera.com/news/2026/10/14/bangladesh-arrests-two-for-luring-locals-to-fight-for-russia-in-ukraine?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Federal Reserve Watch for Oct. 14: Bowman Says FOMC Can be Patient on Next Rate Hike",
+   "source": "marketscreener.com",
+   "time": "2026-10-14T18:57:47Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY1p5N2dzZUNNWUVEdXZfSDQzUnJFTmJobmpiNG5JQjBmaGtIRTJCREJMZVBTTUNTRnViUWFlVWpmX3FxMzdFZUgzalJNRXdLQlNxc1B2MElIYmlDUFluTjZHOHNEWkNxLVB5OTA3N2VLTzFQaTBzTnVQY3VSM0tHY2NxaUZfa0ZhZl9PVmttcWFDZktOakE0b0FUNTRuTzBXMm50LUFQd3lITGNGSUMtbE1JaFJ5TmdJRmlkb1ZETXdpak5jTWk0bHBPTWlDWHlr?oc=5",
+   "tags": [
+    "FOMC",
+    "FED",
+    "RATES"
+   ]
+  },
   {
    "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
    "source": "MarketWatch",
@@ -135,12 +191,21 @@
    ]
   },
   {
-   "title": "10-year Treasury yields gives up earlier gain as traders await more U.S. data",
-   "source": "CNBC",
-   "time": "2026-10-14T18:51:24Z",
-   "link": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
+   "title": "NEWSLETTER: Houthis bring the war to Riyadh",
+   "source": "Reuters",
+   "time": "2026-10-14T18:48:00Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONHJqSGhySVVZXy02Zk5GMWRyNjA2bURRWWpVbU9FdEREM2xBY1h6dnZUZ0lWVGFobjFCWjZhZTdra1Z3MjNGV1hkcUNaUkxueHdPTDlTSGI2V1JFRzl5WHRVQWNEM0dxZEs3MzRLSFhtam5qME1GQ2dudVNMMXZ3RnpsTE4?oc=5",
    "tags": [
-    "YIELDS"
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Israel’s former security chief sues Netanyahu for October 7 defamation",
+   "source": "Al Jazeera",
+   "time": "2026-10-14T18:39:03Z",
+   "link": "https://www.aljazeera.com/news/2026/10/14/israels-former-security-chief-sues-netanyahu-for-october-7-defamation?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -165,15 +230,6 @@
    ]
   },
   {
-   "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
-   "source": "CNBC",
-   "time": "2026-10-14T18:23:37Z",
-   "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
    "title": "Fed Beige Book flags price pressures intensifying",
    "source": "FXStreet",
    "time": "2026-10-14T18:18:50Z",
@@ -181,15 +237,6 @@
    "tags": [
     "FOMC",
     "FED"
-   ]
-  },
-  {
-   "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-   "source": "CNBC",
-   "time": "2026-10-14T18:18:43Z",
-   "link": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -247,10 +294,28 @@
    ]
   },
   {
+   "title": "How war with Iran is influencing Israeli, US elections - analysis",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-14T17:49:41Z",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ta0FBWUpQWWdEM3k4aTBUOXpFc2Vxa0dHZ0pUeTVhM19NS2kzTllIaFdCcllmaU9qdEJnLXZLRnF1N0xVQ3hQQTVOLVhTeVp5SXUyTFd1YmowU0xQaEdPaVZvZTRHMC1B?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Saudi Airlines Rush to Save Scores of Planes From a War Zone",
    "source": "WSJ",
    "time": "2026-10-14T17:49:00Z",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeGNUdXZMUTdxVTRMMWR6VlF2bWJYVEpTVVJ5RWxWU216ZExnenZqZUNUYlZMZ2RiWlY5Q0xRbXVra20wX2d1TE8wY2RkbERLQmIyUFZvc3hJZU1JQkpkU3BPRkJ5MUdRV0dKNGlzYW02US1IVWM4SmJzSWdzRU1uRFJkcHM4dWI4NzAtcG9xOHJJVl9TaGNYQlpvbDhLQ2xPRXlQYlh1QXdwNEU?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ukraine says new Starlink restrictions disrupt military as it reels from intel gaps and Trump clash",
+   "source": "NBC News",
+   "time": "2026-10-14T17:46:43Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVFZxOFpYUkhfNjVDUzFoSUhVQ3JRdERHWXdlbk1PUW9zc0tvNEo5cnVnODNTUHA0V1lmX1hyVERYc2FtX0d4MjMzdVZOVGpETjNTTy1FaHpFakZKYzQwWW9RV2hJeE9nQ0JoSUs4c0FJVE1ZSUdsWk5zSmxJcHVEaHJza2NjSEd1RmNYNVM0MHUxcDV1dzBraTB2UUh2RzhSdk05VmMyOUhVeEdKcFZjXzZGYUhTSlE?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -272,15 +337,6 @@
    "tags": [
     "FED",
     "INFLATION"
-   ]
-  },
-  {
-   "title": "How war with Iran is influencing Israeli, US elections - analysis",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-14T17:41:02Z",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ta0FBWUpQWWdEM3k4aTBUOXpFc2Vxa0dHZ0pUeTVhM19NS2kzTllIaFdCcllmaU9qdEJnLXZLRnF1N0xVQ3hQQTVOLVhTeVp5SXUyTFd1YmowU0xQaEdPaVZvZTRHMC1B?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -548,15 +604,6 @@
    ]
   },
   {
-   "title": "Ukraine says new Starlink restrictions disrupt military as it reels from intel gaps and Trump clash",
-   "source": "NBC News",
-   "time": "2026-10-14T16:24:03Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVFZxOFpYUkhfNjVDUzFoSUhVQ3JRdERHWXdlbk1PUW9zc0tvNEo5cnVnODNTUHA0V1lmX1hyVERYc2FtX0d4MjMzdVZOVGpETjNTTy1FaHpFakZKYzQwWW9RV2hJeE9nQ0JoSUs4c0FJVE1ZSUdsWk5zSmxJcHVEaHJza2NjSEd1RmNYNVM0MHUxcDV1dzBraTB2UUh2RzhSdk05VmMyOUhVeEdKcFZjXzZGYUhTSlE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Iranian influence campaign helped spread antisemitism, degrade US institutions",
    "source": "The Jerusalem Post",
    "time": "2026-10-14T16:22:06Z",
@@ -629,55 +676,6 @@
     "YIELDS",
     "INFLATION"
    ]
-  },
-  {
-   "title": "Gold price slumps after hot CPI data",
-   "source": "Mining.com.au",
-   "time": "2026-10-14T16:04:49Z",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tTjd0Ymo1bGxqUjVla1hmbThQWEJfcTZna25veE50ejg2UV9FVkVwdGtsZ2kzUU4yMlExQmxCRzZYTmxCUWpqS1lqTVRpUFc3VVl2S2ZPTGRCNGRlbGJNRVQ4LTFkY2cxMUJV?oc=5",
-   "tags": [
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "'It's rough out here': Americans struggle with rising inflation",
-   "source": "BBC",
-   "time": "2026-10-14T15:57:11Z",
-   "link": "https://www.bbc.co.uk/news/articles/c305649p2d6o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
-   "source": "BBC",
-   "time": "2026-10-14T15:56:57Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Jerusalem Daily: UN demands Israel do more to stop settler violence",
-   "source": "Al Jazeera",
-   "time": "2026-10-14T15:49:54Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/jerusalem-daily-un-demands-israel-do-more-to-stop-settler-violence?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold slides over 1.5% as hot US CPI fuels Fed interest rate-hike bets",
-   "source": "FXStreet",
-   "time": "2026-10-14T15:48:54Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeDFfYTljSzhiemNLM3JzbXRYblNpOWp6NnVsTmtISkdmY0dHT0o5SE40cm43b2FGSjdyWDRCN05BdkdtZ0MzTzJmTDRJWG9ybkN2cWNNMGVvVHdGelZFX1JEcmJuaWlIc1hXaUZPcE5nYXd4ZEkyTTNCMktWc0VpS0Z6TkJ3QTJqa0ctUUZ4OUpUMnlrOTR2TjRZQnlZN3N4a0JPM0hUQ0hkMGpaTFFjWjh4SVVMdE9JQmtZ?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION",
-    "GOLD"
-   ]
   }
  ],
  "fedCalendar": [
@@ -716,6 +714,13 @@
    "kind": "FOMC",
    "src": "fed",
    "link": "https://www.federalreserve.gov/live-broadcast.htm"
+  },
+  {
+   "title": "FOMC Minutes",
+   "time": "2026-11-18T14:00:00-05:00",
+   "impact": "High",
+   "kind": "FOMC",
+   "src": "fed"
   }
  ]
 }
