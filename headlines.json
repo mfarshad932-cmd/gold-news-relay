@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-10-14T00:58:15Z",
+ "generatedAt": "2026-10-14T01:26:24Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 1
   },
   "fed_monetary": {
    "http": 200,
@@ -57,7 +56,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +71,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 3
+   "kept": 4
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +80,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 31,
+   "items": 32,
    "kept": 12
   },
   "gn_fed": {
@@ -91,8 +90,8 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "gn_war": {
    "http": 200,
@@ -101,12 +100,12 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 21,
+   "items": 22,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 36,
+   "items": 37,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +115,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 9,
+   "kept": 9
   },
   "fed_calendar": {
    "http": 200,
@@ -126,21 +125,68 @@
  },
  "items": [
   {
+   "title": "China's exports likely grew by double-digits in September",
+   "source": "CNBC",
+   "time": "2026-10-14T01:16:02Z",
+   "link": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Gold (XAU/USD) Price Forecast: $4,226 Breakout Could Reverse Gold’s Trend",
+   "source": "FXEmpire",
+   "time": "2026-10-14T01:13:15Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaU85cDlITVpKY2s2SWdHOHJnXzRSRmpjZ3VRbUUyMFFOdFY1cGp5ck0yeWRPZ0dwMWxmUkR2ZWRkQ2JBd2NQczQwNmlJVF9GeWNpUHFtMWRIZTZLbGtJekhMQUhzOXhIMzFVYVFlQnByd0hZX2FWaGZXQnhzMVhUVTBrbW9KeWVBOE5qVXFRczVxelU5eWJqMUlPNlZCWXVqOHJXWlM4RHBKQzFxOWVFTS01S1JUaUxNNmc?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Ukraine war briefing: Zelenskyy decries ‘absolutely unjust’ lack of warning from allies after Kyiv plant strike",
+   "source": "The Guardian",
+   "time": "2026-10-14T01:04:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONi1HcG5uR0JIY1ZCTnhPb0M0VTZTcWxCOWJzUDBObDJCYlgzU2d1ZkVtZDMwaF82LVNFTlR2Nk1UWktwcFVILWktREozQVNnU2lKcXVxSU1sWTJCVVZDOFhUQVpsQ0RTVTZrd0xVZUM3VGFQT1ZkN1hnUjJ2UjVaZXFfTlp0dVJBMG1xNXNUalE5bVJCbUNlWmsyekFzX1BXWHBXQ0xIZm9jRDIzUTBkX1ZuR3o3Ul9qbHQ4Qkktc195RUUyMWt3Q0x6dTRzLTVWYXZ3Rk1ySjl1YmpXM0NHMmQtRVNKdGY2LWc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Stock futures are little changed as traders await consumer inflation report: Live updates",
+   "source": "CNBC",
+   "time": "2026-10-14T00:58:42Z",
+   "link": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
+   "source": "Al Jazeera",
+   "time": "2026-10-14T00:45:16Z",
+   "link": "https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold prices flat as markets await US CPI data",
+   "source": "marketscreener.com",
+   "time": "2026-10-14T00:28:23Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbmlJV3VWTUcxY1o2em5tbWtJTUwtTTdsLUFiV3Rpd2cwWTlyaUZIenFtRmlTSU5raVc0eXdVV3BLNTVSZVBuZ2pCQmJzQ2pqX3VMaWlmRW8ya1NlNXQ5N0Z4VEJtWHdEOUtNS1hCLVRReHFTYl9zRjZGLXF4a1hLY2dPLUNFVGpXUVBBVGRCOVdyTGQ5UE96eXYwQ0VPWDg?oc=5",
+   "tags": [
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Tests The $4150 Level Amid Broad Pullback In Precious Metals Markets",
    "source": "FXEmpire",
    "time": "2026-10-14T00:21:03Z",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX0xtZUxrZkpJVUJILUZJOUd4SkwzUlBJZTNWMUVIS2dLa0VUcDRSS2F3MlhpVWROUGUxc2ZwWXdUclRsX0diRFRpNWdWcklLd0pYRk90WXN5UkV5YkNOaTZVWXpaVUxHTmdDdHRJNlFLeGV0dVpIRjA5X2hDT0Z0VGI2REZhZnRHY2w0bG1YYXN3RVA0TTZ0Y1NUODd4TmpLcF9uWTUxOTY5Z1BpUTkwZkc5bUVvelpocUZBLWlucGstQVBVVXVjRUVYbG5YTE9naWJFX094ZjVmaXQ4R09QS1Q4Um11R2VydTQxMUtzSWgyZUk?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Stock futures are little changed as traders await consumer inflation report: Live updates",
-   "source": "CNBC",
-   "time": "2026-10-14T00:14:13Z",
-   "link": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
-   "tags": [
-    "INFLATION"
    ]
   },
   {
@@ -208,6 +254,13 @@
    ]
   },
   {
+   "title": "A Guide to Buying Bonds When Yields Are on the Rise",
+   "source": "WSJ",
+   "time": "2026-10-13T23:33:51Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPclZWR245eFNHVTF5SzY0bEhxak9JT3pwZlU5NGFYd1NnQXRDNzRPNUlMaC15aXVQY0VObG9HUEZvZTRURk44N0l0dUdKeGxHSjlvT1ItQWwwQldtaTZEbzdqU0t5Mk10cFFuOHhOZFlMNkNNaV9xeXl2VGNEbV9UekVnSkVVeGd2bzJCMXp3MEFibzNESkVZVFFNc1Q2U1U?oc=5",
+   "tags": []
+  },
+  {
    "title": "Gold declines to near $4,150 ahead of US CPI inflation data",
    "source": "FXStreet",
    "time": "2026-10-13T23:21:25Z",
@@ -269,6 +322,15 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSmt4aG9xTXZKa2JsVkV0dlJzN3pjcEhUOWg1YVJSYXJMbWlFb2pRODgzSzJTWDZIa3VQalhOVWUtNFoyM24xNVFHSFVZZXBqOHBSSUtjMEJrLTg4UGJ3aGx2WUtBVjFPbVFNbjVjMWVBSnEwSU1qVF9oWVVINXp4U1hTRkl4dllSWDl1VGVQdkQ4Zjl2THhVTUUyZDF2M2pfbUpoUTJBWGwxZk81MlE?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Iran War Has Cost US Households $2,000 Each: Moody’s",
+   "source": "Yahoo Finance",
+   "time": "2026-10-13T22:50:48Z",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWVZDUENCRkEyTVdrS2l2bWxlNTFKZDFUaGd4OGdXZW5vMlM3b1hmdUpOUEhnU2pubHIza2NnQ1NBbnhIdE1YSHFMQ05ueWdXOGQzQkx4R3IxMGJJQThOTHQ2OTB2OXl5Q01COGR0TWk1V0pfWTQtZjdYUmJzMDVBNnR4a2x3c05DTHJtT3p3?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -493,16 +555,6 @@
    ]
   },
   {
-   "title": "Gold (XAU/USD) Price Forecast: $4,226 Breakout Could Reverse Gold’s Trend",
-   "source": "FXEmpire",
-   "time": "2026-10-13T21:06:52Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaU85cDlITVpKY2s2SWdHOHJnXzRSRmpjZ3VRbUUyMFFOdFY1cGp5ck0yeWRPZ0dwMWxmUkR2ZWRkQ2JBd2NQczQwNmlJVF9GeWNpUHFtMWRIZTZLbGtJekhMQUhzOXhIMzFVYVFlQnByd0hZX2FWaGZXQnhzMVhUVTBrbW9KeWVBOE5qVXFRczVxelU5eWJqMUlPNlZCWXVqOHJXWlM4RHBKQzFxOWVFTS01S1JUaUxNNmc?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
    "title": "SSR to buy Roxmore for $464M, boosts value of Nevada gold mine",
    "source": "Mining.com",
    "time": "2026-10-13T20:59:48Z",
@@ -527,6 +579,15 @@
    "link": "https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html",
    "tags": [
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Bank of America fined $1.2B for allegedly violating money laundering, sanction laws, Treasury says",
+   "source": "Yahoo Finance",
+   "time": "2026-10-13T20:50:45Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbTc3YUJQSmxFT1k3VlpZdk5iUmZVeldVREVfWG5JYXFvMXh4aTl2dERGbUMwU3QyLXRfRk1aM0w2RHg4QVNZbk9EUlVYTnUzQjBmUVE3VTNnYS1MSmhLWFIwU0cwSTBTZlRKRFVXaFhXVUJJM1M5bVhNSFFRb3JwQzZPWFllNUJ1Q29VN3pXUnRyZw?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -609,71 +670,6 @@
    "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-october-14-2026-china-inflation-data/",
    "tags": [
     "INFLATION",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "BofA settles potential US sanctions violation liability for $11.7 million, Treasury website shows",
-   "source": "www.marketscreener.com",
-   "time": "2026-10-13T20:19:58Z",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ2NiaGIwQ0hqTmtVNTdRSHZTZXFvR2RISllTeldodmp4V3JCdTJLblJVYWlmU1ZPT0llbFFlSVJCc1RrZlRkTHJjcE84UmZFRzJ3eTlvT0o3X3VXRjJwX3NzZlRLVEUxRndKREhCOWxmMFZTc0JQc05Ca2ZFUzNEaFNEVk8zWV9NNWhvMlgwZ3JlM1dlNVFWeldoc05pUVlsMEJWZXRHVTNzM2k3V2xvNVg3dkt6dmlvbWRyR0ZYSU5hV0xrUFE3U1dYQXFFNXhnaGpCLVNXSF9qbENEMUNxTDhR?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Bank of America ordered to pay historic $1.2 billion over alleged sanctions law violations",
-   "source": "NBC News",
-   "time": "2026-10-13T20:15:10Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHg3bnQ0NFJmOTAyR2VWejEwQVlSbHhfVDBhdjRTSFBsTFVOUkh5dGdZUjJMc18zRWo4VUtsRng0akZkU2VFb01CaDhxa1VRZXdMa2ZOZEhYc3ZRYlRGNDNRZXRWbXF4N1BuMDZKOVozYUhod3RqR0JtMnh4QUkzblE2OG5rdkVsSFBnQ0dRREVlZzBhb2ZJQXFiQXEtWHM?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "How you can prepare for 6% bond yields",
-   "source": "MarketWatch",
-   "time": "2026-10-13T20:15:00Z",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVUV2anVIdmxFcEdsTm9JZzJKSHdEN2tuRVdWNzRPR3dpcl9VR2F0Vm52YWEzSEhNeWU4WF9fcXpNUnBfLXNIMTVhT1JZVnBLZXZFWHYzUlNWVHoycWhubkhNSnBRSnE5VC1rdUo0VVFxNU9XbG5HSzlhbnpGbzhQcjgtUmh5enc?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Bank of America fined $1.2 billion over money-laundering violations",
-   "source": "CNBC",
-   "time": "2026-10-13T20:09:06Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUhsTGsxZGVaWDBvc1p3eGp2UE1IaU03VmFwLUxQVlFkdVhDSWhpZTZEenQtWDgxeUFuUlZQWUZ1cDg0UUZyeWxBaERkdTh3U3M0SFROT3k4OFVZQkNzWG12ZGJIWlREY1pqMS13WjNTZ0dQNDFWVzVwV0JHU2VuRXVteUzSAYoBQVVfeXFMT28tc1VERndMQ09XcmplYUJ0RFhNb0Vjc2tleXZZSUJyblpDWnBIQXY4aXNmWmJUQU9OcjJIbDdVdEpLSDBac2xIdm5BSTlWMG5VWEUxMHRyTjNDOTVacGhXVmV3OThSeVhtbE13eFA3YXlfRkpMdFRFdDlnWmhLMHdFZDhFeGd1QWZn?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Fed's Collins sees another rate hike on the table before end of 2026",
-   "source": "Reuters",
-   "time": "2026-10-13T20:08:52Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTNoWUtZWjdLcTc2ZmNycnptRmR1cmluWThZU2ZTYU5JUkdaazY1Z2hEdjIxNWZ3VU5RSVZvejc3VnlueGZoN0JyNlNmdkptQk9ZNEZqU1MyLTNUblpOaF9FMkdGbnZhX1hTVllLTzYxNFEwamlyazZKem00N1k1UFBablNQSVRCZTgySWNNR3pHemxzSEl1S0VBeE1DQlYyS0Ntdw?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "One More U.S. Interest-Rate Increase May Be Appropriate, Fed’s Williams Says",
-   "source": "WSJ",
-   "time": "2026-10-13T20:07:00Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSW1RS05MdnMwMjY4RW1VR0dhSkw0dUpSdkp6NFBFcllqMTdmcVpqZkZhbEx3ZWZSMnR3UVYzbTZVUEZkUVFOUWxMWFpzZDZ0SkxZOTBnYVVJNWFMTGZkd3IxaFBobG1JV2tmSm8yQTVqNm5rSDhwMEpPbVBQejFWM0VzR2ZOMmJ6YU5RR0RyeHF4LUZBb3ZfQkJpczVKd01yRFBpcXV1UWh3ZC11ajM4VjdjdHZxaFlfMFpTRmxEOTV0RWNG?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "Why this little known Chinese chipmaker has caused a global stock rout",
-   "source": "CNBC",
-   "time": "2026-10-13T20:05:58Z",
-   "link": "https://www.cnbc.com/2026/10/13/cxmt-memory-chip-stock-rout.html",
-   "tags": [
     "CHINA"
    ]
   }
