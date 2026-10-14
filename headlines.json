@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T17:58:43Z",
+ "generatedAt": "2026-10-14T18:27:09Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 5
+   "kept": 4
   },
   "cnbc": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 38,
+   "items": 37,
    "kept": 12
   },
   "gn_fed": {
@@ -91,22 +91,22 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 21,
+   "items": 22,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 44,
+   "items": 45,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 23,
+   "items": 22,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 44,
+   "items": 43,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 10,
+   "kept": 10
   },
   "fed_calendar": {
    "http": 200,
@@ -126,10 +126,83 @@
  },
  "items": [
   {
+   "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+   "source": "CNBC",
+   "time": "2026-10-14T18:23:37Z",
+   "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Fed Beige Book flags price pressures intensifying",
+   "source": "FXStreet",
+   "time": "2026-10-14T18:18:50Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeVlMX0E1b0JmOXNVRGEzRF90MktCWEdkbGd1LTdQdXhUdXVkZDFaa1VfNVZmdFpOYVp5dHI1MndFTThYd240dGt6RjVfNTRkcjdEVXJBWk44eTNZRXp2R0txZkVGS2FEY05FeWlWR29GQTJjQVVid1k5a0RWWG9PNmxMaDh2WXMtcjlhMGtjR01uUnRIYVZZ?oc=5",
+   "tags": [
+    "FOMC",
+    "FED"
+   ]
+  },
+  {
+   "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+   "source": "CNBC",
+   "time": "2026-10-14T18:18:43Z",
+   "link": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US consumer inflation hotter than expected as midterms loom",
+   "source": "Yahoo Finance",
+   "time": "2026-10-14T18:06:04Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVdBcWFNWlJkbEFCbHNDX29WRDJvTW9Ra0VVZVBMNHA2Y25URnBzVVhsN0VmeW43S1ltcjFqT3VWM200NWFWd2Vfc2E0bnhEY21WVS1zQkcxTVZGNjJHbU5EdHFEUDhPd0V1WHRJNlE0cHp1cm1EU21oZmFZX20xclJubXF0LXVWY29SWDhKN05sMmlmdWdob1lpZmNBUDZDZ1E?oc=5",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Lisa Cook lawyer doubts Trump committee's fairness as president calls her 'automatic no vote'",
+   "source": "CNBC",
+   "time": "2026-10-14T18:02:17Z",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Pb1RiMU1kM1QwcU02SlVOa1Q0MkUwMklpaWNJUk9nNnNFUE9CaG11WFRsSzN4QUcwdTFNVUJ5R29PTXg0Y05kRm1GUzJJWmdQMUk1d2dFOFpiT1lWX2VOYnpfckRrMHFVQVpQSjUxSXRpYTJCYkxwVWFn0gF_QVVfeXFMTllBbHkxVjJVbjU1Rlg2eEFJa1ZtcmF2S1ZWX1VZbTNHYTFkYVkxV0FCc3ZNZjFVSmZ5LXpiS196V2ZTVGtsYV9jVG1nY1RlMktROUg1cEY0cTVoOEduMFp5NHYyaEtOZDE2S3FYeUk3MGpVMG9VOFJ4NDBTYmU2WQ?oc=5",
+   "tags": []
+  },
+  {
+   "title": "Gold crashes below $4,100 as hot CPI revives October Fed hike bets",
+   "source": "FXStreet",
+   "time": "2026-10-14T17:57:55Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZFhGWHZxcVFnNVRlWVhMcGJDZkdTQlFiWWxnSFQ5ZFpWdTEzejVIcnZrYkFUT19zZm9BMWIyaktBTTk4WTJkWGlnNmpsZi1tQ01ENF9JN0Z1LWdkaG5YS3RhSFlyVWtFVGxiY1RFeThKcmhodlZRZGFVeHZIRVo1ZDQ1RlJkS1B3aXZjR1JEcm10aWxxaEgtakFtckstcHdIWjcwWkI5TWNEb0Zr?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "The UK energy secretary is flirting with a bad idea for bills – the ‘rising block tariff’",
+   "source": "The Guardian",
+   "time": "2026-10-14T17:51:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdTFlVnBveFpDSXg4bDlKYXMyTEJjSDBobE1Gek1HemNpblNSbmJYVzJKZHFnZk9JbHA1bXZZODdkWXBoWnlKN1BqLWpvUk1YSk91SUZpSDNOVmlVQmhHbVZiN2N6NXNONFQybGFyekcxeWhmQUN0VGUtRlhSOU1STXhfVmd6cVVLcEl2aXh6WXJmMHRsckRiQ05Fc0ZYTUpyaUVLUC1TZUVPbnBEVzNaRmtfS3lkT0ZMakd5YzhsdXZuZHlHLU9IcDR1Uk8tV1ItcnVDLVhkXzFhNHIxUDlTbnR6dDBtYmdEQ18tMzZjdw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Saudi Airlines Rush to Save Scores of Planes From a War Zone",
    "source": "WSJ",
    "time": "2026-10-14T17:49:00Z",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeGNUdXZMUTdxVTRMMWR6VlF2bWJYVEpTVVJ5RWxWU216ZExnenZqZUNUYlZMZ2RiWlY5Q0xRbXVra20wX2d1TE8wY2RkbERLQmIyUFZvc3hJZU1JQkpkU3BPRkJ5MUdRV0dKNGlzYW02US1IVWM4SmJzSWdzRU1uRFJkcHM4dWI4NzAtcG9xOHJJVl9TaGNYQlpvbDhLQ2xPRXlQYlh1QXdwNEU?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US Army Now Three Years Late Fielding Hypersonic Missile",
+   "source": "Bloomberg.com",
+   "time": "2026-10-14T17:46:02Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMGJqb0dyWGhsT2w4OEN3MktNLXNQbVlWeFVKbGQ4QUxwNjFMZC1ZT1RISmdsUFBvNlpOdWtQZXdjazgxOXJyOFlaWVM1Qmdmb1NselAyUTg2WXVuMFNZRnJCcXRtZi05ZmlYaUJ2UDhwdEdHQmR2UzFxam5vVGhxaHNnbnNha2g2UktfMWZ4SVBaRTVTTi03UjRKZEhpMEVmaWRpWXc1THl2R0U?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -142,6 +215,15 @@
    "tags": [
     "FED",
     "INFLATION"
+   ]
+  },
+  {
+   "title": "How war with Iran is influencing Israeli, US elections - analysis",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-14T17:41:02Z",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ta0FBWUpQWWdEM3k4aTBUOXpFc2Vxa0dHZ0pUeTVhM19NS2kzTllIaFdCcllmaU9qdEJnLXZLRnF1N0xVQ3hQQTVOLVhTeVp5SXUyTFd1YmowU0xQaEdPaVZvZTRHMC1B?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -176,7 +258,7 @@
    "title": "Ontario’s Ford Says Canada Must Plan as If US Tariffs Are Permanent",
    "source": "Bloomberg.com",
    "time": "2026-10-14T17:29:55Z",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZXBmRktPcG5WNi1qN3B1dXNNMmoyc29GSVB5S01uR2p2QURzRUxlMExGbXFmUEdTVlltdTBqUjNzR0xfdEdQRkQweFdhSllINHpsVXg5Ul9HMndjb2hLOG5tTFNraS1IdGg3MlNSVlFiWF9BdWNha3lXT1YtQ1puWFR2VFdONFAyeHViR0piUGs4Q1cxTVdEaDd5UWp1TFRxY1BncG9TMFpxNnZwbnIxdVY5ZVBlVk5TYVhPbHdNOFlweHFjTWpDR3BCd0FxbnRvNUVSSTVhUGtoMDRPOEdxaQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa1N1OUoxX0FUcDVkaWtzanBTNDJTREctSVc4b1I5YnVjM3hZaUxGY0xzQzN2VUY0eGlMNlJvbmJKUTFoUjhNUkJzbDBpTWU1anZHUUhSSHExUjJvYXpLR1ZVeTRLTV8yVlhnZldwd05lQVY5T21pN2pnOGdkRUtQdGUtell1M29kd1VMYzVnc2hUbnJKVndzbkNYeXV2M1c3RnhpVG9YWTJWQnZlNkNxaG9GTi1VcTRyeDBWcDhlZ2lWQQ?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -228,6 +310,15 @@
    ]
   },
   {
+   "title": "New UK sanctions powers will enable action against supporters of illegal Israeli settlements",
+   "source": "The Guardian",
+   "time": "2026-10-14T17:18:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdENXSTM0aEZ5OGsxSW1rcG9HQWhGQWhmV0VfSnRUWG96OHMteWNOT1MteGF1WlVDLXk3M3k3c0hDczE3V250MFp0anVpZ3hCUlc5cUNiQ01vX3pMZGRBSmlsRW9IbnZFMTZnSFNXeVc0NDg2QVUzbkl3TGhMZGx6TkNweV8tM1NnYnJFa1lWaGRkTTBoaTB4N0V0WlNXbEU2XzZLS252U3VqZw?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "Evercore, FirstCash, Blackstone, and Atlanticus Holdings Stocks Trade Down, What You Need To Know",
    "source": "TradingView",
    "time": "2026-10-14T17:16:12Z",
@@ -250,24 +341,6 @@
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinian-collective-uses-art-to-connect-gaza-and-the-west-bank?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
-   "source": "CNBC",
-   "time": "2026-10-14T17:06:17Z",
-   "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "New UK sanctions powers will enable action against supporters of illegal Israeli settlements",
-   "source": "The Guardian",
-   "time": "2026-10-14T17:06:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdENXSTM0aEZ5OGsxSW1rcG9HQWhGQWhmV0VfSnRUWG96OHMteWNOT1MteGF1WlVDLXk3M3k3c0hDczE3V250MFp0anVpZ3hCUlc5cUNiQ01vX3pMZGRBSmlsRW9IbnZFMTZnSFNXeVc0NDg2QVUzbkl3TGhMZGx6TkNweV8tM1NnYnJFa1lWaGRkTTBoaTB4N0V0WlNXbEU2XzZLS252U3VqZw?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   },
   {
@@ -327,30 +400,12 @@
    ]
   },
   {
-   "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-   "source": "CNBC",
-   "time": "2026-10-14T16:46:08Z",
-   "link": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "U.S. Treasury’s gold revaluation could restart the ‘debasement trade’ as yield pressures fade – UBP’s Kinsella",
    "source": "Kitco",
    "time": "2026-10-14T16:45:53Z",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWw4SkxFRjJfckFaYnNtSi1mLVBGd3h5QmdoZjlUOXhwMVNxOUVJd1NjOVZUbUJ5MkJrc1VCSDlNSGZrX2tEV3pWTmk0blk5NXVnX3JpR2hjdlNteVAtWXhjVkg5dFVwNTZJUk9xS280NGlyVGVzQmVnVkFwc3ZiMXRMc2lZNGwwYXM1LUxaeXdweG54X2tKaDcyREpIWlpoeEJPTktvRzJZTTRZZnY2ek1n?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "The UK energy secretary is flirting with a bad idea for bills – the ‘rising block tariff’",
-   "source": "The Guardian",
-   "time": "2026-10-14T16:44:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdTFlVnBveFpDSXg4bDlKYXMyTEJjSDBobE1Gek1HemNpblNSbmJYVzJKZHFnZk9JbHA1bXZZODdkWXBoWnlKN1BqLWpvUk1YSk91SUZpSDNOVmlVQmhHbVZiN2N6NXNONFQybGFyekcxeWhmQUN0VGUtRlhSOU1STXhfVmd6cVVLcEl2aXh6WXJmMHRsckRiQ05Fc0ZYTUpyaUVLUC1TZUVPbnBEVzNaRmtfS3lkT0ZMakd5YzhsdXZuZHlHLU9IcDR1Uk8tV1ItcnVDLVhkXzFhNHIxUDlTbnR6dDBtYmdEQ18tMzZjdw?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -503,9 +558,9 @@
   },
   {
    "title": "Sidelined Tariff Refunds Get Class Action Status: Explained",
-   "source": "Bloomberg Law News",
+   "source": "Bloomberg Government News",
    "time": "2026-10-14T16:20:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTGZGV2tYYW5yU2FFdmNvZ2tIWDVWR2xkTkZVVVVxSnVKcVJmdmlqc3czZW5QS0N3NlBCczRrcGtJSklCdlRmbkVkZGg2U1hkRkxnY25xM0c3Y0RuNlo2el9wMGhITFdfZDhZcnBnb3pnVUxfajZ4b1VZc3VNSWtfRG45QlNhbzEyOWdySUV1b2pNYTZSRHk5aENkaw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdG1ZbEVtMUxsZ1d1VmUwWVZhWVdxMmEwc044VFhJTEZyWkZkV1pkRmN1UERiNU4tQ21OUEF6UDI4RlFmV180UjhndWU1dHhQSllfeXJYS3NCZEdYQi1EZzh5U2NqV1RNZUZfTnFLNjRyUjJlcDFJVmZjUFRBS3hNLWQ3ZzNIaDEtX09uNHoyd0xfWUYyWUdVaGlmakluZw?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -537,6 +592,16 @@
     "USD",
     "YIELDS",
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Gold price slumps after hot CPI data",
+   "source": "Mining.com.au",
+   "time": "2026-10-14T16:04:49Z",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tTjd0Ymo1bGxqUjVla1hmbThQWEJfcTZna25veE50ejg2UV9FVkVwdGtsZ2kzUU4yMlExQmxCRzZYTmxCUWpqS1lqTVRpUFc3VVl2S2ZPTGRCNGRlbGJNRVQ4LTFkY2cxMUJV?oc=5",
+   "tags": [
+    "INFLATION",
+    "GOLD"
    ]
   },
   {
@@ -615,73 +680,6 @@
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQU1dvdnBLeGNGVEVnREwwWnpPNUI5alVTMEFJVVF1YVRobVR3SWVHWHp4bjNpSEtGSlYtcGItRDUzaWtYcFlDam9YWXowV2hYZHM0TThiZmFTMTk2T3d0anI5eFNVYWRJUkM0UVhmckNucndLd2ktdWlnSDhhSWJrdWJoQTBqZUdwVm5kNElmVE5JYXhqcXNxYU90X1hwMk9iNFIwckNOcy1LMkNlNFRUOUpUb2hSbkozQjl2TElsV3JuSzZFNkdRWm9UMDE5eVpDV1ZBN1BEZzljZWlldDJzZkk4Xzd0WU1DUS1jc0JuU0duUGdITjZfVw?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "SpaceX limits Starlink operations in Ukraine, disrupting military ops., missile defense capability",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-14T15:26:38Z",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcjRKYVlwZkZXYWtnWl9VMFI4UndmVWU2TU5RbWdXV09PM2NIYjVUMmE0a2F3Mm05TnE0WWlZeFR3ZWdFM2t6QTRwcUw0RGRrbElhOThsMEJjUERmTUZsbURiNlljM2ZiaUc1REp5Y2drUzZxd0ZHM3BaVDhxMXVLWi1FZW5Mb2lQcWc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US inflation rises more than expected - here's what is happening with prices",
-   "source": "BBC",
-   "time": "2026-10-14T15:26:14Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Latam stocks, FX slide as hot US inflation data lifts dollar, Treasury yields",
-   "source": "www.marketscreener.com",
-   "time": "2026-10-14T15:20:18Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQUt4MzQwZ2t4clY0WUEwMUV0NnBpTm9iLVNidEF5c3FzWVhwMmluMDFUOVNITXViRVMwXzMxeEstam82Ym1ISU5nTmR1dlN0cTZ2X09GQXZHdTlaQUlCaXp1cmg2aUNFcndlVEFROWVBVXpmUDZ4c0NablBpODZkUE9sWWYxTlJQc0M4RjNFOGVXTGNtM1JDaGU4eVdvVl9BSnA0UHJleWFUZk5QcW5NM3A0UlIzSDBJZm5ycC11bGIyQi1wd0U0?oc=5",
-   "tags": [
-    "USD",
-    "YIELDS",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "US lifts sanctions on Venezuelan Assembly chief Jorge Rodriguez amid deal for oilfield access",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-14T15:11:56Z",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FLWNCaFRKOENNQnVYbHdaQ2ZGMFAzaWZGYWFnRWVHVnp5d0RxSlFtaHM4eGlTMGdkZFNlV2J4WHlyLURMOENGQ1FpTmI4ZFE3R1lCc04xdjRUYlI2cFZB?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit",
-   "source": "Reuters",
-   "time": "2026-10-14T15:09:46Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV3VzaTd1VDVxNXczQ2FRa2FsXzdOV0Y5ZlFoaUthcVJhUnlFMHROUUMtWWZzUGZNWFd5WVNZbnJyZ3A4azRaUzNabVQ1U2ZMMmNYTzM1R2ZoeDF5dVQ0Q3FldDNEMW5lVC1oaVQ3Rmdaei01eS1GaFVla0prYUVZeEtJZlBZV2hoUm8yVTJNR3RYSXlhZTBPVWswNmdTWE5nclRiSldzUE91cXNZbzRGZzVOSFpMX294VWs3UlFpV2Q1Z09xTnl4Rw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Gold Tests $4,200-$4,000 Demand Zone as CPI Revives Inflation Concerns",
-   "source": "FXEmpire",
-   "time": "2026-10-14T15:08:53Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ2pSaDdTdlRMVU51eFNyTnpjQTJRblJGVTVSUGxQdWJqaE9GUElnTHJsZUo4ZDJzZlZBWFNRZC1FMWs5SWtKdzEtdGx2SzJva0JEV0l1Y2lBRHlmcEJndndseXExTlA4bHhNNVZkdnkxRmI1R3Y4UkY0SlRjd2U0TGoyQzJKcHVTZjdpa1B1SnBCUG1rN2NDSzZjZTlXcXBnNG1EYnpqbE1mc001S3VjVXUtVVlKMU02?oc=5",
-   "tags": [
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "U.S. inflation worsened last month to 3.7% in sign that prices remain elevated as midterm elections near",
-   "source": "BNN Bloomberg",
-   "time": "2026-10-14T15:05:18Z",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbGpxR3dRR3BkdVhhRnFZTEdpSmRUbWtvSVRmSWJzYlA1YkoyOHU0UU1wT0plNC1kZV9DQk0xbFpWbVo3VHBjWkpKRElKQVZ4SVNwN3BBRXFTWnU3M1NBN1B0NWF5NVlxeFpSMDc1a2dJWlZydVNzY3Y1N212Ul9sZjA1T3VCRjRzQVZORE9GdVNBa2JENloxOTFydk05Z3NSdllVVmphbkpPZzk3bmpuVXJFOVZBM0hFNTRJTjQ3MVhEMEZ0eXhNMEVNclZTcElMeTBlRFRQLWtMZVFkUG5MRm1YV04xRVBxdi1TRmJtNV8?oc=5",
-   "tags": [
-    "INFLATION"
    ]
   }
  ],
