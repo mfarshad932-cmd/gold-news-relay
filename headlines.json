@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T14:11:45Z",
+ "generatedAt": "2026-10-14T14:40:09Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 2
   },
   "cnbc": {
    "http": 200,
@@ -66,7 +66,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 27,
+   "items": 28,
    "kept": 8
   },
   "aljazeera": {
@@ -81,32 +81,32 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 35,
+   "items": 36,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 17,
+   "items": 19,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 15,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 50,
+   "items": 44,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 23,
+   "items": 22,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 39,
+   "items": 41,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,31 @@
   }
  },
  "items": [
+  {
+   "title": "What I am Watching Today: Yields Rising, Euro Sinking, Aussie Stuck, and Copper Noisy",
+   "source": "FXEmpire",
+   "time": "2026-10-14T14:27:29Z",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUF9DN1F4cEtpYllLaG5uVlgxVDI2eGNrempCMy1CSG9ZSEFRMGNheklPOWdnUm10UE9lclEyVkEzdFR2eExaYzRhVjJfeUxtTTZsbmg2c0FXWFZmbU5Da0E1bXVFbnNYQVpXWmtoRXl3NTJfZFduNjlMbV9ITUYzVHBIcWIzTVZrQlltTzBxbFZkd29RVEFHeU1Xb0xPUzRNQkM2N2NZSUV2UTMweDkydjRBRmg2NWJ1OHozVlYxMFh2SjVUR2M0R2xIUW1vZ0tsbFVBRjNTYw?oc=5",
+   "tags": []
+  },
+  {
+   "title": "How Iran’s $2 trillion threat puts your AI stocks at risk",
+   "source": "MarketWatch",
+   "time": "2026-10-14T14:17:00Z",
+   "link": "https://www.marketwatch.com/story/how-irans-2-trillion-threat-puts-your-ai-stocks-at-risk-2721af43?mod=mw_rss_topstories",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Colombia inaugurates embassy to Israel in Jerusalem",
+   "source": "Al Jazeera",
+   "time": "2026-10-14T14:08:45Z",
+   "link": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
    "source": "CNBC",
@@ -153,6 +178,17 @@
    ]
   },
   {
+   "title": "Rising consumer prices, oil and treasury yields send S&P 500, Nasdaq lower",
+   "source": "TradingView",
+   "time": "2026-10-14T13:58:57Z",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORVpNZFNIOC1CbTlBNVY2Z0VSUEVWT2t0YThjRnR2Tm0zaGlkN2N4OXFQeVFCX0lqNGpDZm4xWFl4Rno3SUtPUU5LNHl3NENhR3dseTRVRDduVEhhc01BUExGdTA3QTVnV21FYXdwMkpVa2s3ek9xVE9sZFR3dkVuZTJucDdxMXFENGpVcEs2NUQ1dEdVVloyZEU3cWRvb1c1OUhjRklINklOV29FN01DUUFTejNqY0EzYkd6blJhemNDTEhoQVk3MEJ0bC1YT2xhanJ1dkJYcUFRdw?oc=5",
+   "tags": [
+    "YIELDS",
+    "INFLATION",
+    "OIL"
+   ]
+  },
+  {
    "title": "Aris Mining: Great Value For A Gold Miner About To Double Production (NYSE:ARIS)",
    "source": "Seeking Alpha",
    "time": "2026-10-14T13:56:48Z",
@@ -162,21 +198,30 @@
    ]
   },
   {
+   "title": "Two scenarios for the Yemen war",
+   "source": "Al Jazeera",
+   "time": "2026-10-14T13:54:10Z",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU0s5XzFYYnlBckoyaTk1YlRFdURDeVMwWnJWb3RQcU8zOGZ2X3RUczJqZFZORkRaWHNicUJYRkdRU19ydzZHMC1VTkRuTU16Y2J6bEVIeGxJY3pvT0VHZjk5ZHYxTDRkc09VeFFvS2NsMTlIVVY5blFPMjJrLThrdV9jMNIBiAFBVV95cUxNRWJSOEplVjdlSUVpT09VbE9odTJIXzhzRmNYT2twUDBfYVdyR2ZqWmkydDl5ekl0a25NT0dhdUx6bHVXUFQwVzZKQkNLdnBBUXY0TFNDVDIyOTVMWDVMRUZTZ1JLVWg5SzIwY05MUFNvcUh2cjl0OGNXN1hXX1ZTTEItQjJQOWVK?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "French Bond Yields Climb",
+   "source": "TradingView",
+   "time": "2026-10-14T13:53:49Z",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdnlTNkk2bm5WTGJwRjJ2dlI0QXI5ZkdJTE1UQ21qWjZlcTJjYzczY3ZBczEtb3Z4cXhlMl9jdjFQLWFkUTc2OGwwM3JIekpsMVo3MlJ2YldkZjQtWWRRVzRGMHhOd3BObU9rSEpHanNUTVRoNmpMOXF1eGQ5MU5WMw?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
    "source": "CNBC",
    "time": "2026-10-14T13:53:28Z",
    "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
    "tags": [
     "INFLATION"
-   ]
-  },
-  {
-   "title": "Two scenarios for the Yemen war",
-   "source": "Al Jazeera",
-   "time": "2026-10-14T13:52:30Z",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU0s5XzFYYnlBckoyaTk1YlRFdURDeVMwWnJWb3RQcU8zOGZ2X3RUczJqZFZORkRaWHNicUJYRkdRU19ydzZHMC1VTkRuTU16Y2J6bEVIeGxJY3pvT0VHZjk5ZHYxTDRkc09VeFFvS2NsMTlIVVY5blFPMjJrLThrdV9jMNIBiAFBVV95cUxNRWJSOEplVjdlSUVpT09VbE9odTJIXzhzRmNYT2twUDBfYVdyR2ZqWmkydDl5ekl0a25NT0dhdUx6bHVXUFQwVzZKQkNLdnBBUXY0TFNDVDIyOTVMWDVMRUZTZ1JLVWg5SzIwY05MUFNvcUh2cjl0OGNXN1hXX1ZTTEItQjJQOWVK?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -226,6 +271,15 @@
    ]
   },
   {
+   "title": "Phosphate Giant Seeks Foreign Investors as War Squeezes Finances",
+   "source": "Bloomberg.com",
+   "time": "2026-10-14T13:38:11Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRkpBMVdHRmI3T25SbW1Ca0RqYVRxTFlDNi01Q0tqSU1SU3BZQUZJSHJ5NlpBRE9yQUtneWVGR0VuX2ZMNGdSTk5Xekx6T1JlZjVxYzAyODNNNGhpa0Uzb3diRHVyUjZWVXFreVY1MnUxa3N2ay02TTlBbXJDdkd1Q1ZaUUk1emtuNzRDYmRDNWtCQWpDVjFmaElPM21LallERE5WcHc0S09fNzg4WlhxX05fLWp6Zw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Hot September CPI sends rate-hike bets soaring",
    "source": "Investing.com",
    "time": "2026-10-14T13:37:58Z",
@@ -233,6 +287,13 @@
    "tags": [
     "INFLATION"
    ]
+  },
+  {
+   "title": "UK Gilt Yields Near 2007 Highs",
+   "source": "TradingView",
+   "time": "2026-10-14T13:37:27Z",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcGN6Q09FVzNTdnJqT3QyODBlN1llaVZOZ2FCa2JOcFlLN2hxMWZUSEVNVEwwb01iemJlaVQ4d2ppRE5Xd3JwWlB4VjhIYlFpSmRQT1o1eFBtQ2ktbXViWjQyVUlYX2RVcVlHZHZBS3lJQnE2dnByNXI3X3IwX1d5MTBsYjk4ZVYt?oc=5",
+   "tags": []
   },
   {
    "title": "WATCH LIVE: Secretary of War Pete Hegseth speaks at the US Army's annual meeting",
@@ -261,6 +322,15 @@
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Bund Yields Rebound After Strong US Inflation",
+   "source": "TradingView",
+   "time": "2026-10-14T13:24:14Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGF6WVFLT3dqVlcyclVOVUFoMFBBQ0IwS19mQ3JlY3BZSi0xQWVfLTBjLU02Z0VVaVZ4RXplVmNOTUlMVDVBYTk4VXNQNzlNYWd3YlFPZDFNeHZ3V194cVNXcm9VWjRHb3RzY1pWdXRSX1hZOFE5ODlTOXpYNENNRTRCYkdHazhtMk9TbkdULVNmUHBTMHZIcWgzenE?oc=5",
+   "tags": [
+    "INFLATION"
    ]
   },
   {
@@ -348,6 +418,16 @@
    ]
   },
   {
+   "title": "Inflation Comes in Hotter Than Expected at 3.7%, Keeping Fed Hike Bets Alive (UPDATED)",
+   "source": "TradingView",
+   "time": "2026-10-14T12:58:05Z",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcTkyRGJMZHhGdUFYX2NERnpiTDFHVEUyR2F1b1FsTlVzNWVOTGJZN1JuSksycGRhWDYyOEtDYWZpZjdGRWZIMVJRR1pnM3BfYmtONGFEdml5X2lUTXdpNndOZk9KbzdZcnQtb0ZxOEh1QVlSR0lwampBdkQ3dTJ0dXU2SG5ZMlRNX3BDdm02SHY0TmJoUVMwWHdSUHZYaVpCWHBYejhIanlzS19FOXVRUHo0LUVGeVpoOXd3RzJoUFlxcXd6ZGlvQlBnYVFIX0tsTG9rNjFpTDA?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
    "title": "U.S. may have withheld warnings to Ukraine of Russian strikes that killed 6, cut power to 600,000, sources say",
    "source": "CBS News",
    "time": "2026-10-14T12:58:01Z",
@@ -373,6 +453,18 @@
    "tags": [
     "YIELDS",
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Gold slides toward $4,100 as hot US CPI fuels Fed interest rate-hike bets",
+   "source": "FXStreet",
+   "time": "2026-10-14T12:51:44Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeDFfYTljSzhiemNLM3JzbXRYblNpOWp6NnVsTmtISkdmY0dHT0o5SE40cm43b2FGSjdyWDRCN05BdkdtZ0MzTzJmTDRJWG9ybkN2cWNNMGVvVHdGelZFX1JEcmJuaWlIc1hXaUZPcE5nYXd4ZEkyTTNCMktWc0VpS0Z6TkJ3QTJqa0ctUUZ4OUpUMnlrOTR2TjRZQnlZN3N4a0JPM0hUQ0hkMGpaTFFjWjh4SVVMdE9JQmtZ?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "INFLATION",
+    "GOLD"
    ]
   },
   {
@@ -405,7 +497,7 @@
    ]
   },
   {
-   "title": "US Treasuries Slump as Hot Inflation Lifts Fed Rate-Hike Bets",
+   "title": "Treasuries Slump as Hot Inflation Lifts Fed Rate-Hike Bets",
    "source": "Bloomberg.com",
    "time": "2026-10-14T12:44:25Z",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzlnUlRIcHpyNkR3U0tfY0RXVEl0WGRuMTZuSTVvbnNhWXNTVjN3Yzhudmhqbjh1RU9mTzF2WHhkTGdhQU15UkZRTG5wSVFSNzZSN0dIQk5HaE55TTk5VGxtYmcxczM1aWk2S19NMVlpbzFQRHpvTm1SRk83N1l4Mng3Q2N0OGxvYWRpLXJNazR4V2xOcE9KdVRDU0pRSVBMY2pQWjdRMnRNWWZXV3ItaDhn?oc=5",
@@ -437,6 +529,15 @@
    "source": "ForexLive",
    "time": "2026-10-14T12:41:32Z",
    "link": "https://investinglive.com/news/us-september-cpi-vs-3-6-expected-0/",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Inflation rose to 3.7 percent in September: BLS",
+   "source": "The Hill",
+   "time": "2026-10-14T12:38:09Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uakZtdGJZVkRnQ3JqZzBwblRmaXRaa1VtV0hnQVRKY3BnVXlsa0Jab3JxcndBdU4tMjNDT180ZGFPbXVEaS10dkRrWlJTemVSbGFiZ3lycGFMT1BSS2U4UjZuc19BUW9CVWxmazQyQkUtX2J2TkhBNjNsOHJIelnSAX9BVV95cUxObmpGbXRiWVZEZ0NyamcwcG5UZml0WmtVbVdIZ0FUSmNwZ1V5bGtCWm9ycXJ3QXVOLTIzQ09fNGRhT211RGktdHZEa1pSU3plUmxhYmd5cnBhTE9QUktlOFI2bnNfQVFvQlVsZms0MkJFLV9idk5IQTYzbDhySHpZ?oc=5",
    "tags": [
     "INFLATION"
    ]
@@ -578,108 +679,6 @@
    "tags": [
     "YIELDS",
     "INFLATION"
-   ]
-  },
-  {
-   "title": "Fed's Bowman says there's time to 'wait and see' before any more action",
-   "source": "Reuters",
-   "time": "2026-10-14T11:39:43Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSkUzM2NCLVljQkh5Nmlsd0FjZ2NYSWhFWUI2QUhxUjJpbXU0RFdtOEdYYUlkdnJZUldNcmVIRUFhMnhsVUtPR0tUUEdsYXNaZXlENDF2NlpDQnVOcHRJcnhMV1IxcmtxZHdtYTFDTnlEVEoyNU94cHMwbDAzcWJYeVJzYllzeVlhbk9tZ29lYVRBQXFrc09WNTlyMVV3RTY3VVpwSE9mVHg?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "After hybrid car deal, EU needs to rebalance China trade in other sectors, Dombrovskis says",
-   "source": "Investing.com",
-   "time": "2026-10-14T11:36:46Z",
-   "link": "https://www.investing.com/news/economic-indicators/after-hybrid-car-deal-eu-needs-to-rebalance-china-trade-in-other-sectors-dombrovskis-says-4948938",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "We Teach Children to Survive War. We Owe Them More.",
-   "source": "The Times of Israel",
-   "time": "2026-10-14T11:34:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaWtNcUZQSmhIZmhEbnpHMFpuUW9wRU9tNzVJQm1wRDJxSE1YMkpBd2EwLVVJSERoNmRPbHd4VHIwbzJoNmh1anJJX1dnSnRIMG9rbmtpSWNuNFNiQnBxRUR6Rkg0dVVhZUdodEhIZHlvaVNTLWF4bXRBbVdOWVNIV2ZhSEN6QXBORUE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran's stock market surges despite war, currency crisis, worsening economy",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-14T11:29:20Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oOWZzN0xuczlzSDZUd2dxR1MyUDdsOC1sd3Y1cUdnMlFxU2xGYTJiZVlnbDVHblhUN0U2MFhiUlVqeGd6TWhteDhNX0JpbmlMNEhaQmIyVHJhdm5LYlF5QXB3VEZ5QTViNlE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Report: Houthis Aim to Build Advanced Iran-Designed Missiles Able to Hit Israel",
-   "source": "Haaretz",
-   "time": "2026-10-14T11:27:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMFpxa21rRHZiV1BXX19BLWFINmRPQlowLTV2ODhydnY4Qk1NeWlGVEhmdm11aWc1a19sWjFtclk2aEM5bTkwa3V0M3l6Um94ZmlEQzg1TExxeTVtRU9VYTVySGhoU2dDRHN5S1BpV2xDdS15SzVQYnVfQ3lQLV8xdnVhMnlrbE5vaUs3YXFmbXRsblppR0d3VEFCbXBwNTNuaV9XUXR6SUplTmtMTVJES1djU3Bzc3J5OFZkVXhHR3EyS3V1YV9NQ3dHNlpfcnNpamhzbzdyb1pXdlF4ME91dllLcjV3V1ZOZUw4cDVZZG50OERTS2ZmVG02bVdreE9NQ0duRnZjYncydw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Kyiv apartment block under Russian missile attack",
-   "source": "Reuters",
-   "time": "2026-10-14T11:26:15Z",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UWTA3ejhDVU10azk3Q2ktZm9SOERWNW9TcUZheUVrUkNxVDgyUkYyZjByNXktR19LOTNFMFpxMUpSRVFTaEZoVGtOUVpqdjVWR1ZSeDJkcS1CWmVzNk1yRGc5OUtTTnM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Analysis-Trump tariff threat built a US copper mountain, but the effects are fading",
-   "source": "Investing.com",
-   "time": "2026-10-14T11:24:47Z",
-   "link": "https://www.investing.com/news/economic-indicators/analysistrump-tariff-threat-built-a-us-copper-mountain-but-the-effects-are-fading-4948854",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "investingLive European news wrap: Markets trim gains as oil prices rise ahead of US CPI",
-   "source": "ForexLive",
-   "time": "2026-10-14T11:24:44Z",
-   "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-trim-gains-as-oil-prices-rise-ahead-of-us-cpi/",
-   "tags": [
-    "INFLATION",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Here’s how much the AI boom is really contributing to inflation, according to Goldman Sachs calculations",
-   "source": "MarketWatch",
-   "time": "2026-10-14T11:18:00Z",
-   "link": "https://www.marketwatch.com/story/heres-how-much-the-ai-boom-is-contributing-to-inflation-according-to-goldman-sachs-calculations-5ec717ff?mod=mw_rss_topstories",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Oil Prices Climb Above $106 as Iran Threatens More Tanker Attacks",
-   "source": "Investing.com",
-   "time": "2026-10-14T11:17:00Z",
-   "link": "https://www.investing.com/analysis/oil-prices-climb-above-106-as-iran-threatens-more-tanker-attacks-200689563",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
-   "source": "Al Jazeera",
-   "time": "2026-10-14T11:16:21Z",
-   "link": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
    ]
   }
  ],
