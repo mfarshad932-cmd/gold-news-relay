@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T01:54:45Z",
+ "generatedAt": "2026-10-14T02:23:05Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -46,7 +46,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 6
+   "kept": 7
   },
   "marketwatch": {
    "http": 200,
@@ -56,7 +56,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 9
   },
   "bbc_business": {
    "http": 200,
@@ -71,7 +71,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 3
   },
   "whitehouse": {
    "http": 200,
@@ -80,12 +80,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 30,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 17,
+   "items": 16,
    "kept": 12
   },
   "gn_tariff": {
@@ -95,17 +95,17 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 46,
+   "items": 47,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 22,
+   "items": 23,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 36,
+   "items": 37,
    "kept": 12
   },
   "gn_oil": {
@@ -125,10 +125,117 @@
  },
  "items": [
   {
+   "title": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
+   "source": "CNBC",
+   "time": "2026-10-14T02:09:00Z",
+   "link": "https://www.cnbc.com/2026/10/14/taiwan-alaska-lng-project-trump-.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Producer prices in China rise at fastest pace since June 2022, beating expectations",
    "source": "CNBC",
-   "time": "2026-10-14T01:43:21Z",
+   "time": "2026-10-14T02:07:20Z",
    "link": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
+   "tags": [
+    "INFLATION",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Why the IMF is worried about a global debt squeeze as bond yields climb",
+   "source": "South China Morning Post",
+   "time": "2026-10-14T02:00:12Z",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZERuRG9WSTVYZG9vVFlmS2xUVlZJYUF6MEVkZVhNS0JMM3NURHN0aGxRZVp0Nk83TGV1SUdBSzVsN3dCMDFzdFgyMUZGc1lLVG9FNVlFYTdPTXBNcXNfaEp6T0pMMzl1MDM5eTZicFpxa2NDTGNmOHJwZVZRRUQ0aUZpclBwME5TTUVWdk9WdnhMTWhoQXZhVnVqdjBfRDZqNTRHMjczdk1HeFFfdVk3NDBpdXo4Rnhxck8xMTNOSmxNc0FXYTcwVlhZUTBEYWs?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Exclusive | The Houthis Are Building an Advanced Missile With Chinese Parts",
+   "source": "WSJ",
+   "time": "2026-10-14T02:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ITkpCSEp4NVcyNXpuS0FwY082d09qTWxQTk9majc3Mnp4cFlxSjI5NFVaZE83ajhKMWlzOHZHcWlwRkRLaXJ1Z0JtM0lRcHFaQzhpalRhd3NLNFBsY2o4RWxDZUplOGNGRXRSdFBIUEZTM1BfY25uSmV4dHkyUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+   "source": "BBC",
+   "time": "2026-10-14T01:56:57Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0ycFNwbmdIcXFZUnhfUTFJZDd2WlI4WlZ5b2dJLUo4TGgyYnJYbzNaZmx4RUZMRlBDTmVjQUZQSEJoUDZ0SVAzQm9hSU5iRnlTUklQbmxSdzk1bkk?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
+   "source": "CNBC",
+   "time": "2026-10-14T01:55:26Z",
+   "link": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Stock futures are little changed as traders await consumer inflation report: Live updates",
+   "source": "CNBC",
+   "time": "2026-10-14T01:54:56Z",
+   "link": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "New Zealand Dollar clings to gains near 0.5620 vs USD after China's inflation data",
+   "source": "FXStreet",
+   "time": "2026-10-14T01:50:59Z",
+   "link": "https://www.fxstreet.com/news/new-zealand-dollar-clings-to-gains-near-05620-vs-usd-after-chinas-inflation-data-202610140150",
+   "tags": [
+    "USD",
+    "INFLATION",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Australian Dollar holds gains following Chinese inflation data",
+   "source": "FXStreet",
+   "time": "2026-10-14T01:46:12Z",
+   "link": "https://www.fxstreet.com/news/australian-dollar-holds-gains-following-chinese-inflation-data-202610140146",
+   "tags": [
+    "USD",
+    "INFLATION",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "British Pound strengthens above 1.3250, traders await US CPI inflation data",
+   "source": "FXStreet",
+   "time": "2026-10-14T01:45:35Z",
+   "link": "https://www.fxstreet.com/news/british-pound-strengthens-above-13250-traders-await-us-cpi-inflation-data-202610140145",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "China CPI inflation grows less than expected in Sept; PPI hits 4-yr high",
+   "source": "Investing.com",
+   "time": "2026-10-14T01:45:28Z",
+   "link": "https://www.investing.com/news/economic-indicators/china-cpi-inflation-grows-less-than-expected-in-sept-ppi-hits-4yr-high-4947865",
+   "tags": [
+    "INFLATION",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Breaking: China’s CPI inflation rises to 0.9% YoY in September, vs. 1.0% expected",
+   "source": "FXStreet",
+   "time": "2026-10-14T01:31:21Z",
+   "link": "https://www.fxstreet.com/news/breaking-chinas-cpi-inflation-rises-to-09-yoy-in-september-vs-10-expected-202610140131",
    "tags": [
     "INFLATION",
     "CHINA"
@@ -149,6 +256,26 @@
    "source": "The New York Times",
    "time": "2026-10-14T01:28:48Z",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHhYMWVsNm5jSTVGWGZTeVdOODhFOG8wSHYtNFNuOGpBZ2xsT2hlLW1TYjFoZmEyc3MtT3dhNmpaUHhQTEI1UnRnaEtFVEZUYjVKTmg4Y1pUWkUydEk0aEZ0N2V3T0ZOUmdoT09MdzA2YmFpQXRWN2NwbjB1a3FwV0V0eXptQno4X3ZMTXd0YTlhVkdsMUVzcHc2UTk2ZXRwUG96UzVR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Japanese Yen softens as October BoJ hike bets fade; stuck in a range vs USD ahead of US CPI",
+   "source": "FXStreet",
+   "time": "2026-10-14T01:27:03Z",
+   "link": "https://www.fxstreet.com/news/japanese-yen-softens-as-october-boj-hike-bets-fade-stuck-in-a-range-vs-usd-ahead-of-us-cpi-202610140127",
+   "tags": [
+    "USD",
+    "INFLATION",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "US President Donald Trump says Taiwan agrees to buy 30% of gas from Alaska pipeline",
+   "source": "FXStreet",
+   "time": "2026-10-14T01:20:21Z",
+   "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-taiwan-agrees-to-buy-30-of-gas-from-alaska-pipeline-202610140120",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -212,30 +339,12 @@
    ]
   },
   {
-   "title": "Stock futures are little changed as traders await consumer inflation report: Live updates",
-   "source": "CNBC",
-   "time": "2026-10-14T00:58:42Z",
-   "link": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
    "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
    "source": "Al Jazeera",
    "time": "2026-10-14T00:45:16Z",
    "link": "https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Euro edges higher above 1.1200 despite France fiscal risks, US CPI in focus",
-   "source": "FXStreet",
-   "time": "2026-10-14T00:34:34Z",
-   "link": "https://www.fxstreet.com/news/euro-edges-higher-above-11200-despite-france-fiscal-risks-us-cpi-in-focus-202610140034",
-   "tags": [
-    "INFLATION"
    ]
   },
   {
@@ -246,6 +355,15 @@
    "tags": [
     "INFLATION",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Colombia's peace tribunal says former rebel leaders committed war crimes against Indigenous groups",
+   "source": "AP News",
+   "time": "2026-10-14T00:26:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORzBLWVlabV9JVUdxU05rYWROTXJ6ekFOUFgwUjRrNi1HbkdoREpsNWxJZTV0cXNmT2U2UGRRRGpYOGZjVndYSnNpU2IxQlBPQkN4V0lSV0ZNX1A5M0d4dWtVTDJBZXRNbkpKR05RejNLNkdhYzNvdWJCd09ONVJabHVadm5lVS16eTExcXR1TktXU0d1Uzl6ajJJd3hTRlZELTk0aXlZSUxmVkZfekE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -304,49 +422,11 @@
    ]
   },
   {
-   "title": "Yemen's Houthis fire missiles at Saudi Arabia; Aramco facility catches fire",
-   "source": "FXStreet",
-   "time": "2026-10-13T23:43:03Z",
-   "link": "https://www.fxstreet.com/news/yemens-houthis-fire-missiles-at-saudi-arabia-aramco-facility-catches-fire-202610132343",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Why rising Treasury yields are now pressuring Bitcoin more than stocks",
-   "source": "FXStreet",
-   "time": "2026-10-13T23:37:35Z",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObXl5di1mSmFzRFJaUllyNDJEZ3dEUFRmVXpiRFdVUDVrV3R2MENpWTM0Nkx6c09zQnFMV0ZPX3JwT2lFeDE5TWtXOG9CVWxJTXJWaTBlTEdVOHJkYlFRMmF4emdfanhxVU5WZXNYNVRSaWU4NXR0WmVGcW9lNmItTnVOSjl0RHU1VE9mR3p6Nl8wZ3dneVJSc2UzUFE0a25fNzNEUG9SZmVweG5Od0ROYVhjczY3aG5EenlMSS1aTHRuWlRMT0htWlRjaXZZSE01NHgyZW4tb0NXUFAwTWtnMA?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Australian Dollar climbs as Fed’s Williams push the brakes on rates",
-   "source": "FXStreet",
-   "time": "2026-10-13T23:34:13Z",
-   "link": "https://www.fxstreet.com/news/australian-dollar-climbs-as-feds-williams-push-the-brakes-on-rates-202610132334",
-   "tags": [
-    "FED",
-    "USD"
-   ]
-  },
-  {
    "title": "A Guide to Buying Bonds When Yields Are on the Rise",
    "source": "WSJ",
    "time": "2026-10-13T23:33:51Z",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPclZWR245eFNHVTF5SzY0bEhxak9JT3pwZlU5NGFYd1NnQXRDNzRPNUlMaC15aXVQY0VObG9HUEZvZTRURk44N0l0dUdKeGxHSjlvT1ItQWwwQldtaTZEbzdqU0t5Mk10cFFuOHhOZFlMNkNNaV9xeXl2VGNEbV9UekVnSkVVeGd2bzJCMXp3MEFibzNESkVZVFFNc1Q2U1U?oc=5",
    "tags": []
-  },
-  {
-   "title": "Gold declines to near $4,150 ahead of US CPI inflation data",
-   "source": "FXStreet",
-   "time": "2026-10-13T23:21:25Z",
-   "link": "https://www.fxstreet.com/news/gold-declines-to-near-4-150-ahead-of-us-cpi-inflation-data-202610132321",
-   "tags": [
-    "INFLATION",
-    "GOLD"
-   ]
   },
   {
    "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate",
@@ -430,15 +510,6 @@
    ]
   },
   {
-   "title": "Yen trails the majors as the BoJ is said to lean against a hike",
-   "source": "FXStreet",
-   "time": "2026-10-13T22:41:05Z",
-   "link": "https://www.fxstreet.com/news/yen-trails-the-majors-as-the-boj-is-said-to-lean-against-a-hike-202610132241",
-   "tags": [
-    "CENTRAL_BANK"
-   ]
-  },
-  {
    "title": "Fed Governor Cook's lawyer denounces Trump's latest attempt to remove her",
    "source": "Reuters",
    "time": "2026-10-13T22:34:56Z",
@@ -484,25 +555,7 @@
    ]
   },
   {
-   "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-   "source": "BBC",
-   "time": "2026-10-13T22:14:33Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0ycFNwbmdIcXFZUnhfUTFJZDd2WlI4WlZ5b2dJLUo4TGgyYnJYbzNaZmx4RUZMRlBDTmVjQUZQSEJoUDZ0SVAzQm9hSU5iRnlTUklQbmxSdzk1bkk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Carney 1812 post references British-Canadian forces routing US",
-   "source": "The Hill",
-   "time": "2026-10-13T22:09:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTMtbGJNOWFORFNyVEhLTU4zT24xcXhHMVluMHVkelpVQTgxYWNWRmFUREZRemRSOHh4a2RvRDFIOU9DdG9peVpvdThmMVlEN0VFdEpiSzhOMmtPSkNmRGxIbm16ZDhZWFdhV3hDa0tfOEFqSXduVk1XRzk4aHZMVWZRbXVQY2JHNmRCR9IBkgFBVV95cUxNUDBfS3RtYm5RVlZybk5PTUhNUm94cGR6UXdYY25GZUhIRkNPbWZBYXV0QVRMYTcxUHM5MjBwNzI4am9Vam9CQW5YTVExajdMVEdOcjI3N1J6VVdmS05JaDhKWTU0bWN4VnI0eFI4dGtoS1B2dFFqLVJhTWFpQkp6X0ktWno4bWFxQXFERkRjczFwUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Carney 1812 tweet references British-Canadian forces routing US",
    "source": "The Hill",
    "time": "2026-10-13T22:09:00Z",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTMtbGJNOWFORFNyVEhLTU4zT24xcXhHMVluMHVkelpVQTgxYWNWRmFUREZRemRSOHh4a2RvRDFIOU9DdG9peVpvdThmMVlEN0VFdEpiSzhOMmtPSkNmRGxIbm16ZDhZWFdhV3hDa0tfOEFqSXduVk1XRzk4aHZMVWZRbXVQY2JHNmRCRw?oc=5",
@@ -593,6 +646,15 @@
    ]
   },
   {
+   "title": "US hits Bank of America with $1.2 billion fine, saying it violated money laundering, sanctions laws",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-13T21:24:06Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUHg4RHZSODh0VUg3RTE4MUlBNU5SVUticTYwZzdNTzJmZkVCVHRhSmFkMGNlODZINHdZblVqdDEwR29EWTBwTUctMlAxZF9YemxqUnIycDVCN2c2WmJKanpoT0Zpd1hPQXRRWTNCS05XWnZTcVRzeWhfLXlIaWJ4SFVfNjQzdGNFblFadjM5c0M2ejNmX2VmMjVB0gGfAUFVX3lxTE0wYjREY1lIUHNVeWRzOHdiV1JkT1A2d0dQcmhNbDd3TWtGV0x4aGFJeU9FdzdmcmdPVTdCaEhUWnRBOFBFSXJzcllWRzMwM3BMWXNqMVpjYmxBcUU5UFNXT0FaYXgxTlhtUVhWcUhyUjl6RzB2MFNTZHRfTUhFakpUWE1WMGx2SGdDYUtYRWVCLVBOM0JYYzF3amVCSkRoQQ?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "investingLive Americas FX news wrap 13 Oct: Dollar retreats as traders await CPI; oil rises and stocks slip",
    "source": "ForexLive",
    "time": "2026-10-13T21:19:22Z",
@@ -617,60 +679,6 @@
    "source": "Mining.com",
    "time": "2026-10-13T20:59:48Z",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcWw5NHE4ZTNWejlBYkRuSjhYRWE3cms2eEZuX09FU3RidExwZkJQODUya3EyYnllMjZ1TDNlR2xPV2lfN3gxSGR3OHh5bU9GYUIxeEd1ay1kSTVYdVB2U0tZQ2l5NnEybHR1UU02VnIwSWZfa3VBRGJjQ0I4MlRBQ0hiRkxjR2Q0UGVkRQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Bank of America to Pay $1.21 Billion to Settle Violations of Money Laundering, Sanctions laws",
-   "source": "marketscreener.com",
-   "time": "2026-10-13T20:57:27Z",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ1lVejdfNmtrNE5VOW50S3IxSEhtSHRVSU8yT1RmMldKSVNUUFVUS2xIeG84T25keURNNHhmUjZCd1Y1VmVHUDRrVjI0TENmZDViY3M1Yk5STllPT1BBenRaUU85V1cxX3dScUpVRnZLbl9WQXItdEFGVGx6NlBXVVptbFQzRmNJQ19SYTIwMlpTcmhTeFU1c05zSHIydE10bDQ3NTB2Z3lES2hYWG8wYUZIMXZ1a3NuRktrQV9FLXNTM2lwWTFwTHVIcTRTRi1pdnFjTkhKQUVuWHhE?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Don't let inflation bite — how to hedge with TIPS, commodities and infrastructure funds",
-   "source": "CNBC",
-   "time": "2026-10-13T20:52:22Z",
-   "link": "https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Bank of America fined $1.2B for allegedly violating money laundering, sanction laws, Treasury says",
-   "source": "Yahoo Finance",
-   "time": "2026-10-13T20:50:45Z",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbTc3YUJQSmxFT1k3VlpZdk5iUmZVeldVREVfWG5JYXFvMXh4aTl2dERGbUMwU3QyLXRfRk1aM0w2RHg4QVNZbk9EUlVYTnUzQjBmUVE3VTNnYS1MSmhLWFIwU0cwSTBTZlRKRFVXaFhXVUJJM1M5bVhNSFFRb3JwQzZPWFllNUJ1Q29VN3pXUnRyZw?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Bank of America fined over $1.2B for anti-money laundering, sanctions violations (BAC:NYSE)",
-   "source": "Seeking Alpha",
-   "time": "2026-10-13T20:41:37Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRFY3Ulo2RmdTQmZQajhOMlFfbDc2SlhLQjdDM0xfY2wtRmYzcXlfaWFVZ2pUeDhVdmktY3NHb1FmQmdWM1JhX2pJR2I1RkQyX3VRdnRHdXdNS1lYOVkwampKSFNKdVhFU1FhbHRXODQyU2NOZ0dsVUdBU0pMUTd0bGJIakxzN1NETkR1THBTTEFPUVhLT3M5d05MaWstSS1veE4wMUZDd0hlTXdDc2c4S3AyT3dtQQ?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Bank of America fined over $1.2B for anti-money laundering, sanctions violations",
-   "source": "TradingView",
-   "time": "2026-10-13T20:41:37Z",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORy1yNzBPX3dwalJZVWtPa2RWSkR1RW1KaU9xMjhRV19QX0I0eV90elNvczl1OUg3dWJlbnpoTHhfbHhJb0k1NkZKVFpGV0gtMU5rSHBVb1lSeDhBLVVucWJtSXgxZDJhUEJkOTFMQmM5MnlOTUpsZUZyYkdMc2xQeldlRzFidl9vcUpLc2VpOHVQdFRieHNFUnNDUmluUlhBaUdvSGg3M3UtbFZVNFNFNGxhVnFkbXVKUFQ5Vk5qdFhhdTRqYktRWC1KWTZUaFh6Q0NzZzhlaHM?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "CPM Trade Signal - October 13, 2026",
-   "source": "Kitco",
-   "time": "2026-10-13T20:41:01Z",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LRG93eXJyS1lld3hTNm03T3FUdmFZNHk5QzZPZkFnX3BYRl9yX002VGdLekM2MFA0SGJSX1JKVENVR1p6dThJUUI0UEVrb0lsRmdsbURONTZZOEl0RXJrbWJVWG82ZkFxX1JjYW9sMlRackh2REo1QkZPUEFMZw?oc=5",
    "tags": [
     "GOLD"
    ]
