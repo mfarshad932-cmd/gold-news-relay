@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T07:34:47Z",
+ "generatedAt": "2026-10-14T08:03:10Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -21,7 +21,7 @@
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 1
+   "kept": 2
   },
   "bea": {
    "http": 200,
@@ -41,7 +41,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 7
+   "kept": 5
   },
   "investing_news": {
    "http": 200,
@@ -65,13 +65,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 24,
+   "items": 23,
    "kept": 5
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -80,7 +80,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 28,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
@@ -90,12 +90,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 12,
+   "items": 13,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 43,
+   "items": 42,
    "kept": 12
   },
   "gn_sanctions": {
@@ -105,7 +105,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 36,
+   "items": 37,
    "kept": 12
   },
   "gn_oil": {
@@ -125,10 +125,65 @@
  },
  "items": [
   {
+   "title": "Russia arrests Japanese journalist on spying charges",
+   "source": "BBC",
+   "time": "2026-10-14T08:00:03Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "World’s Energy Order Tested Again as Iran War’s Reach Extends Further",
    "source": "The New York Times",
-   "time": "2026-10-14T07:25:37Z",
+   "time": "2026-10-14T07:48:42Z",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQekFBLV9XVkZmX2hLR0ZHMGhxMzB6Rkp4ZHhWLUFSd3N0VW1pVG9FOHlhal9NNk1JbjRNaDlMemJTZ2ZhWFBOS2FFMzJVSXhMRVNPNXZDTlhkTVBDZVNmOU54WjNseDAyeWJnSjZ4cU9MdmpaZlFtOVhGRENhakdzb3l2YzJVZW95MUhhSFd3?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "(LEAD) Kamala Harris faults Trump's tariffs, N.K. policy, calls for stronger alliance with S. Korea",
+   "source": "Yonhap News Agency",
+   "time": "2026-10-14T07:48:19Z",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nNHF5ZHRLX1ByRDdIZ1J5VWtfOXRRaE9aVzFuS1ZKaFdNZnJwMWZYWkJ2U3E5d0ZXUTdKM1g0WEt0RTgwZWhRUl84NEg2UEx4U3czUjZVSUE0UQ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Spain’s inflation rises at fastest pace in more than three years",
+   "source": "Investing.com",
+   "time": "2026-10-14T07:36:23Z",
+   "link": "https://www.investing.com/news/economic-indicators/spains-final-12month-euharmonised-inflation-at-5-in-september-4948193",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Euro: Inflation data guides near term – Commerzbank",
+   "source": "FXStreet",
+   "time": "2026-10-14T07:31:37Z",
+   "link": "https://www.fxstreet.com/news/euro-inflation-data-guides-near-term-commerzbank-202610140731",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "US Dollar Index Price Forecast: DXY holds above 101.70 pivotal support ahead of US CPI",
+   "source": "FXStreet",
+   "time": "2026-10-14T07:25:54Z",
+   "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-dxy-holds-above-10170-pivotal-support-ahead-of-us-cpi-202610140725",
+   "tags": [
+    "USD",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
+   "source": "BBC",
+   "time": "2026-10-14T07:21:50Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQ2dNaDItdmx5VHFaSFYwaGtCTW5LNWdWdkEtVE1DYVZKN1IzcHQyeEl4dUJnUkZQS0hBTGx2aUdFZmZjRHRKekdibjB5b0FqN3BvWERKNlNzLTA?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -173,20 +228,22 @@
    ]
   },
   {
-   "title": "Russia arrests Japanese journalist on spying charges",
-   "source": "BBC",
-   "time": "2026-10-14T07:12:37Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Gold’s Next Move: $4,156 Support and $4,270 Resistance in Focus",
    "source": "Investing.com",
    "time": "2026-10-14T07:12:00Z",
    "link": "https://www.investing.com/analysis/golds-next-move-4156-support-and-4270-resistance-in-focus-200689534",
    "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold falls as traders weigh Fed rate outlook, await US inflation data",
+   "source": "Investing.com",
+   "time": "2026-10-14T07:09:04Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHdCNWZoZmlSaFVRLVhwUVpTT1ZfeEQ3QVloVzRKaFVlRnMwY0d1UjNlWTFOZm4telc5U2JOTkpNZmQ5QmJMbW1XQ1RXTk02NmdZVjZNRDVCaHdBUEpRbll3cC1ieVBIZGoyck5qVlRlUG9mMWptMzg5X0cxZVhOVjNwOGdmaVVHRmpkNWp2Z3B5S3V3UVZfZXVLS2xfeDdCR21EWGh0YzhCWlItMFVXenFwSE9YWU5qcnZsSy1DY1Q0dw?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION",
     "GOLD"
    ]
   },
@@ -209,15 +266,6 @@
    ]
   },
   {
-   "title": "Spain’s final 12-month EU-harmonised inflation at 5% in September",
-   "source": "Investing.com",
-   "time": "2026-10-14T07:06:34Z",
-   "link": "https://www.investing.com/news/economic-indicators/spains-final-12month-euharmonised-inflation-at-5-in-september-4948193",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
    "title": "What is the distribution of forecasts for the US CPI?",
    "source": "ForexLive",
    "time": "2026-10-14T07:06:02Z",
@@ -233,6 +281,28 @@
    "link": "https://www.aljazeera.com/features/2026/10/14/like-we-dont-exist-palestinians-in-west-bank-denied-say-in-israel-vote?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Silver Price Forecast: XAG/USD declines to near $58.70 in countdown to US inflation data",
+   "source": "FXStreet",
+   "time": "2026-10-14T06:55:06Z",
+   "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-declines-to-near-5870-in-countdown-to-us-inflation-data-202610140655",
+   "tags": [
+    "USD",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Gold struggles around $4,150 as Fed hike bets counter USD weakness ahead of US CPI report",
+   "source": "FXStreet",
+   "time": "2026-10-14T06:52:25Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSEVsRnlucHV0a19OcXFWUlZCYmxfeVlkOXhNdTQzaVRQWUtiZVIyd3FseHRQQ1RXaWNOdjZvQmJlMjkwUzhxV2Vydjl5X3haRTFQV3QxSkwyeWhCNmQ3M3J3VnAwMk5rVUdGZGF3SzMxM3RRS19WempKUmZMYlg3SkE4eVZMQ0czTFY3SHdUNUhoaWlUaWZBT2hVZ3RRT3dyODhycEVjZ3JULWJBSWVwZnRxY2JTSkVtZmVOQmlGZmxXZkZWUDllSlFR?oc=5",
+   "tags": [
+    "FED",
+    "USD",
+    "INFLATION",
+    "GOLD"
    ]
   },
   {
@@ -285,9 +355,9 @@
    ]
   },
   {
-   "title": "Yemen's Houthis use Chinese parts to build Iranian ballistic missile, boost attack range - report",
+   "title": "Houthis developing new version of Iranian ballistic missile using Chinese parts",
    "source": "The Jerusalem Post",
-   "time": "2026-10-14T06:31:18Z",
+   "time": "2026-10-14T06:33:25Z",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BVllrZV9OVEtGcVo3NUE0R1ZBbWlSYmRodWlUZXZvWWdxZzEyY1NIdVhpSFoxLUl6TFJleXQ4eHdlb0M2QS1pTlBlbXlBOW1tRVZhUy00TXFKTllDcTRR?oc=5",
    "tags": [
     "GEOPOLITICS",
@@ -313,6 +383,17 @@
    ]
   },
   {
+   "title": "Gold and Silver Price Forecast: Fed Hike Risks Loom Ahead of CPI",
+   "source": "FXEmpire",
+   "time": "2026-10-14T06:21:22Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkdKTFlVd2dzcW5iaXd2SWdldy1NOElJRXdPUGh3NDAwZlB1dzJURFFEMEFSbF9GRVgtYkh1cG0zbXhKVGQ4eTc2RW4wS2xhWmpiNzFGN2NwQUdrYmVnX1haV3VvSk9kQzV6ZnZlbEk5TzBCZVBHaGkzNk9DUVRUODkwNDlnNHlBVzlGbkdReXRXMUoyQTJveWotcGtyR2xzVk53SlhEWjM1dTF1LUg1TkVsSmY?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
    "title": "BoE’s Pill says a bit more sceptical about market pricing of four rate hikes over the next year",
    "source": "FXStreet",
    "time": "2026-10-14T06:17:00Z",
@@ -324,7 +405,7 @@
   },
   {
    "title": "U.S. Treasury Yields Fall Ahead of CPI Data",
-   "source": "www.marketscreener.com",
+   "source": "marketscreener.com",
    "time": "2026-10-14T06:15:31Z",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRzVrN2tUMUhZd2t2blFvT29weF9hbEozUXp1c2pua0tHdVdlREpLQkpMcHpETGxPNy1uS1NKVnV1djJ1Z0l2ZjQwc2VrVElYaG9NSHlGeGF5WWE2aDd1bUxOQ2hzZFBZZ1lYQmlaQzM0YjFER1lnM1NnWnI3YXkydFVHeHJrSl9lWi1uSlZXcGRZV0FBc3lDZU5Ndw?oc=5",
    "tags": [
@@ -339,15 +420,6 @@
    "link": "https://investinglive.com/news/german-wholesale-prices-continue-to-push-higher-in-september-keeping-inflation-risks-in-focus/",
    "tags": [
     "INFLATION"
-   ]
-  },
-  {
-   "title": "USD/CAD Price Forecast: Hovers around 1.4200 after breaking below nine-day EMA",
-   "source": "FXStreet",
-   "time": "2026-10-14T06:04:54Z",
-   "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-hovers-around-14200-after-breaking-below-nine-day-ema-202610140604",
-   "tags": [
-    "USD"
    ]
   },
   {
@@ -388,16 +460,6 @@
    ]
   },
   {
-   "title": "New Zealand Dollar drifts higher above 0.5600, all eyes on US CPI inflation data",
-   "source": "FXStreet",
-   "time": "2026-10-14T05:50:18Z",
-   "link": "https://www.fxstreet.com/news/new-zealand-dollar-drifts-higher-above-05600-all-eyes-on-us-cpi-inflation-data-202610140550",
-   "tags": [
-    "USD",
-    "INFLATION"
-   ]
-  },
-  {
    "title": "Vietnam says trade talks with US nearly completed; US officials more cautious",
    "source": "Investing.com",
    "time": "2026-10-14T05:36:23Z",
@@ -422,16 +484,6 @@
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPajZSRll2aE5CbW84UFpjU2MxV0RfQjRmSWxCM3B5akdMNDlmTDhDRl8teE1lOF9OblNlZW1ZODJOd0J4X082WDI1cHF1dm50T1NEMVRLdmZ2MDl4aG9KRlZpdm80M0ZYeWlNbTlHN2IxaW9OZVdmQV9QZHhxYXVFLVJ0dTdCT2U4UU1Pazg4VElfYjhwQjhzRGRjS3FMejRNb1VlN0VmVGZzUE5rOGxpY2Rva0VyZlY4LWdaYk1lWkgwTG1USzhWQkZBQnbSAdIBQVVfeXFMUFBVVl9KTGZsNktLZGo1SEFibmc5QUtiMmtiYjNDRzNKS3RGcWJRZGlSTGVWZjdJTnB4Qy1SckNzQV9vMl9YdEt2R3pvNlNMRWZSdWtGQVZUdy1xb2draEQtNDN1eUJ4d240NmtBQ2paYXBSYlpBc1pfa2RIbjZ1d2VBaXVLUnplSUlRRXhOYTg2S1A5eE9xeXRjVkRHMWJzVlFmenJ2N09xdWdZMHI0NFNtanZtUjJGaFVEREN2bU1WaTdfTmpHeTZBb0JKYmJtblpB?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Swiss Franc strengthens as US Dollar slips on dovish Fed signals",
-   "source": "FXStreet",
-   "time": "2026-10-14T05:28:09Z",
-   "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-as-us-dollar-slips-on-dovish-fed-signals-202610140528",
-   "tags": [
-    "FED",
-    "USD"
    ]
   },
   {
@@ -465,7 +517,7 @@
    ]
   },
   {
-   "title": "Heating oil users face fuel or food winter choice'",
+   "title": "Heating oil users facing fuel or food winter choice",
    "source": "BBC",
    "time": "2026-10-14T05:18:40Z",
    "link": "https://www.bbc.co.uk/news/articles/cv4g18we232ro?at_medium=RSS&at_campaign=rss",
@@ -474,10 +526,10 @@
    ]
   },
   {
-   "title": "WTI Price Forecast: Eases from two-week high; trades below $94.00 amid bullish setup",
-   "source": "FXStreet",
-   "time": "2026-10-14T05:13:31Z",
-   "link": "https://www.fxstreet.com/news/wti-price-forecast-eases-from-two-week-high-trades-below-9400-amid-bullish-setup-202610140513",
+   "title": "OPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027",
+   "source": "Investing.com",
+   "time": "2026-10-14T05:18:00Z",
+   "link": "https://www.investing.com/analysis/opec-sees-oil-demand-growth-surging-to-26-million-bpd-in-2027-200689532",
    "tags": [
     "OIL"
    ]
@@ -622,17 +674,6 @@
    ]
   },
   {
-   "title": "Gold and Silver Price Forecast: Fed Hike Risks Loom Ahead of CPI",
-   "source": "FXEmpire",
-   "time": "2026-10-14T03:53:32Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkdKTFlVd2dzcW5iaXd2SWdldy1NOElJRXdPUGh3NDAwZlB1dzJURFFEMEFSbF9GRVgtYkh1cG0zbXhKVGQ4eTc2RW4wS2xhWmpiNzFGN2NwQUdrYmVnX1haV3VvSk9kQzV6ZnZlbEk5TzBCZVBHaGkzNk9DUVRUODkwNDlnNHlBVzlGbkdReXRXMUoyQTJveWotcGtyR2xzVk53SlhEWjM1dTF1LUg1TkVsSmY?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
    "title": "investingLive Asia-Pacific market news: dollar softer ahead of US CPI",
    "source": "ForexLive",
    "time": "2026-10-14T03:44:48Z",
@@ -647,43 +688,6 @@
    "source": "CNBC",
    "time": "2026-10-14T03:41:36Z",
    "link": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Israel returns 22 stolen ancient artefacts to Greece",
-   "source": "Al Jazeera",
-   "time": "2026-10-14T03:23:08Z",
-   "link": "https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine war briefing: Zelenskyy decries ‘absolutely unjust’ lack of warning from allies after Kyiv plant strike",
-   "source": "The Guardian",
-   "time": "2026-10-14T03:19:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONi1HcG5uR0JIY1ZCTnhPb0M0VTZTcWxCOWJzUDBObDJCYlgzU2d1ZkVtZDMwaF82LVNFTlR2Nk1UWktwcFVILWktREozQVNnU2lKcXVxSU1sWTJCVVZDOFhUQVpsQ0RTVTZrd0xVZUM3VGFQT1ZkN1hnUjJ2UjVaZXFfTlp0dVJBMG1xNXNUalE5bVJCbUNlWmsyekFzX1BXWHBXQ0xIZm9jRDIzUTBkX1ZuR3o3Ul9qbHQ4Qkktc195RUUyMWt3Q0x6dTRzLTVWYXZ3Rk1ySjl1YmpXM0NHMmQtRVNKdGY2LWc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "China's producer prices rise at fastest pace since June 2022, beating expectations",
-   "source": "CNBC",
-   "time": "2026-10-14T03:14:48Z",
-   "link": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
-   "tags": [
-    "INFLATION",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "China exports surge past expectations in Sept; trade surplus widens",
-   "source": "Investing.com",
-   "time": "2026-10-14T03:13:55Z",
-   "link": "https://www.investing.com/news/economic-indicators/china-sept-exports-surge-at-fastest-pace-since-early-2021-trade-surplus-widens-4947924",
    "tags": [
     "CHINA"
    ]
