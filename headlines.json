@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T01:26:24Z",
+ "generatedAt": "2026-10-14T01:54:45Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -56,7 +56,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -80,22 +80,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 32,
+   "items": 30,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 18,
+   "items": 17,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 10,
+   "kept": 10
   },
   "gn_war": {
    "http": 200,
-   "items": 44,
+   "items": 46,
    "kept": 12
   },
   "gn_sanctions": {
@@ -105,7 +105,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 37,
+   "items": 36,
    "kept": 12
   },
   "gn_oil": {
@@ -125,12 +125,61 @@
  },
  "items": [
   {
+   "title": "Producer prices in China rise at fastest pace since June 2022, beating expectations",
+   "source": "CNBC",
+   "time": "2026-10-14T01:43:21Z",
+   "link": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
+   "tags": [
+    "INFLATION",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "China September CPI 0.9% y/y (expected 1%, prior 0.8%)",
+   "source": "ForexLive",
+   "time": "2026-10-14T01:30:24Z",
+   "link": "https://investinglive.com/news/china-september-cpi-0-9-y-y-expected-1-prior-0-8/",
+   "tags": [
+    "INFLATION",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "This Copper Mine Led to a Civil War. Can Reopening It Fund a New Nation?",
+   "source": "The New York Times",
+   "time": "2026-10-14T01:28:48Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHhYMWVsNm5jSTVGWGZTeVdOODhFOG8wSHYtNFNuOGpBZ2xsT2hlLW1TYjFoZmEyc3MtT3dhNmpaUHhQTEI1UnRnaEtFVEZUYjVKTmg4Y1pUWkUydEk0aEZ0N2V3T0ZOUmdoT09MdzA2YmFpQXRWN2NwbjB1a3FwV0V0eXptQno4X3ZMTXd0YTlhVkdsMUVzcHc2UTk2ZXRwUG96UzVR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "China's exports likely grew by double-digits in September",
    "source": "CNBC",
    "time": "2026-10-14T01:16:02Z",
    "link": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "PBOC sets USD/CNY reference rate at 6.7249 vs. 6.7298 previous",
+   "source": "FXStreet",
+   "time": "2026-10-14T01:15:31Z",
+   "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67249-vs-67298-previous-202610140115",
+   "tags": [
+    "USD",
+    "CHINA",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+   "source": "Al Jazeera",
+   "time": "2026-10-14T01:15:30Z",
+   "link": "https://www.aljazeera.com/news/2026/10/14/us-fines-bank-of-america-1-2bn-for-money-laundering-sanctions-violations?traffic_source=rss",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -141,6 +190,16 @@
    "tags": [
     "USD",
     "GOLD"
+   ]
+  },
+  {
+   "title": "WTI rises above $94.00 amid escalating Middle East hostilities, supply risks",
+   "source": "FXStreet",
+   "time": "2026-10-14T01:11:26Z",
+   "link": "https://www.fxstreet.com/news/wti-rises-above-9400-amid-escalating-middle-east-hostilities-supply-risks-202610140111",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -171,6 +230,15 @@
    ]
   },
   {
+   "title": "Euro edges higher above 1.1200 despite France fiscal risks, US CPI in focus",
+   "source": "FXStreet",
+   "time": "2026-10-14T00:34:34Z",
+   "link": "https://www.fxstreet.com/news/euro-edges-higher-above-11200-despite-france-fiscal-risks-us-cpi-in-focus-202610140034",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Gold prices flat as markets await US CPI data",
    "source": "marketscreener.com",
    "time": "2026-10-14T00:28:23Z",
@@ -196,6 +264,16 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU3pkeWVKbkJTNzlPNTliZmtPZ0htLWltcF9ubmp0VkhEX2lJRmhfSHNGaHdENkZSdUxlcVd0Tkg3dmMzZ2RCLWswVUFNREhUNV9zQVduYnE3OVlOejljbkIzcFh6OXF1VGlQdXAxREpBS001MVN0TmJrSU52WV81SkMxeGkwVGZFaGluNlYyVndXZGhlX0VjTzFvbnpfZw?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Steady as Fed Official’s Remarks Temper Rate-Hike Bets",
+   "source": "Yahoo Finance UK",
+   "time": "2026-10-14T00:08:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZld1TDEtdExkQmJiUE5vMUtPWmNMRDQ0ZmcxUVhrRG1ndzhReGQ2NDdqanNyeUdQN3UxaHdqaVE5NTc2WEpWVWRiekQzeXgtaHlUamdRMXhvc3JtZEhQNm1Qd2pZN0ZDZGVmM3g5NDJsVVRJS05tWDdXVHZpZkVGb0YwUDV0NWxF?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
    ]
   },
   {
@@ -268,6 +346,15 @@
    "tags": [
     "INFLATION",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-13T23:14:54Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -388,16 +475,6 @@
    ]
   },
   {
-   "title": "Mexican Peso buckles as Fed inflation fears overshadow dovish Williams",
-   "source": "FXStreet",
-   "time": "2026-10-13T22:17:16Z",
-   "link": "https://www.fxstreet.com/news/mexican-peso-buckles-as-fed-inflation-fears-overshadow-dovish-williams-202610132217",
-   "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
    "title": "Allies gave Ukraine no warning of impending missile attack, Zelensky says",
    "source": "CNN",
    "time": "2026-10-13T22:16:55Z",
@@ -498,15 +575,6 @@
    ]
   },
   {
-   "title": "Pound gains as Fed's Williams sees no 2027 hike",
-   "source": "FXStreet",
-   "time": "2026-10-13T21:34:48Z",
-   "link": "https://www.fxstreet.com/news/pound-gains-and-stays-inside-its-range-for-a-third-week-202610132134",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "title": "OPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027",
    "source": "Crude Oil Prices Today | OilPrice.com",
    "time": "2026-10-13T21:30:00Z",
@@ -541,16 +609,6 @@
    "time": "2026-10-13T21:17:34Z",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON0MzaklyZEo0Yk9pMDdfN1lad0xlUE5NSGtjaXNqSkM0UVMtU19OVEJOZnhhdWNqWkplWnNwaDBVbExYMXNFUDBXSzE0Y3pnVmxCTVBmM0d2bUNMdWFsLU5LVFVtYS1HT1psaGZub1JYdW84Z2xTS2VvclFQc3FySWl0dGV5Zw?oc=5",
    "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Taiwan: AI-driven growth and inflation outlook – DBS",
-   "source": "FXStreet",
-   "time": "2026-10-13T21:12:00Z",
-   "link": "https://www.fxstreet.com/news/taiwan-ai-driven-growth-and-inflation-outlook-dbs-202610132112",
-   "tags": [
-    "INFLATION",
     "GEOPOLITICS"
    ]
   },
@@ -615,62 +673,6 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LRG93eXJyS1lld3hTNm03T3FUdmFZNHk5QzZPZkFnX3BYRl9yX002VGdLekM2MFA0SGJSX1JKVENVR1p6dThJUUI0UEVrb0lsRmdsbURONTZZOEl0RXJrbWJVWG82ZkFxX1JjYW9sMlRackh2REo1QkZPUEFMZw?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Iran war costing US households average of $2K each: Moody’s",
-   "source": "The Hill",
-   "time": "2026-10-13T20:38:00Z",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNWHJ2SXk5emhxQVk4N2lnVlQyc2plb0g4ZU9qaWZvXzB6Z1ZXOGtweUxFQlhGYXY5ank2M1FadVpNRDNCYXBlX092WUw3ZzkxLUZuVmh3RVk2S1U5QUMwTTBXUWx2WGFoX0lJZ2szQ0xrN2VhNUEw0gF8QVVfeXFMT2NOcUJxYkVYSU1ibFpMX1I0OWh4T0VLb1hqTkI0UUxLeWdLZ1dDQVVFSVFUbVpYd0Z2cm5PS1pkQWhRT25xdUs5MnFFaGY0djZ6NUZLYjA5ME5GN0JwRVF3ZWVrOWJHVFU2T0FlNXVobllfZkx5TW5WSTRmaA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Bank of America fined $1.2 billion by Treasury Department for money laundering and sanctions laws violations",
-   "source": "CNN",
-   "time": "2026-10-13T20:32:59Z",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcXZDakt4djJRcFNXcGMxNzVLOHFlNWJYZGhLRjUyMlh6bm5PeGN0clAwZ0NDaG9pelBBdlNXWU1ocXkxeUJoWmRPSWZMckpqTXZ2QWRLempabXdUX0pveVhGVXYwSl92VDJsR1NuZDRUeDNRY0xzaWVFTWUweEJCcHhB?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Aramco Headquarters Hit During Houthi Attack on Saudi Arabia",
-   "source": "Bloomberg.com",
-   "time": "2026-10-13T20:32:12Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZW5UZm9rTkVDR01LTzZFcTQ0MUprS3hKLTdHaWtXQkVUQzdOSzNJUWJxRlQ3WkpnbUl0TzZlMWg2eVI1bzJidmpzQnFlaC1VcVRpS1FaN0tvZENEeS1LMUVPVmFaM3o0cEI2bkx6bGhMZ1c4WXliLTg3c0djRjgwUU9YWTE5d3F5dFlVV3hlWXh4clk0eUZNWGczUnhUbmtsbElkR2ExNEFqcVRKUEJwT053?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Micron’s stock extends declines as China competition heats up",
-   "source": "MarketWatch",
-   "time": "2026-10-13T20:25:00Z",
-   "link": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Don’t hold your breath for Russia sanctions",
-   "source": "Politico",
-   "time": "2026-10-13T20:24:44Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTzN5QjFNMk5GN2d5ZVAxTmppWnljTGVvaEhCSHRIaWxQdTVIa3dOeFB2RWxzWFd5dS1FNUNaYkRIMGdZazhpUzA3QUl4ekpVX2kwVHpaaWYyalFkOUZ2ZW14ZktXbnZXVzZLa19YTVRyOGpqeWlUcXkzTEY3RmRxOEthaTYzM0FXWGZaQktqcDZMNnJ2MklXdmM3NUFIM2V0N09Lc1FSUDlvV0ZxazRHVlFJM0hWa3o3SjJkV2RIRnI?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Economic and event calendar in Asia Wednesday, October 14, 2026 - China inflation data",
-   "source": "ForexLive",
-   "time": "2026-10-13T20:22:38Z",
-   "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-october-14-2026-china-inflation-data/",
-   "tags": [
-    "INFLATION",
-    "CHINA"
    ]
   }
  ],
