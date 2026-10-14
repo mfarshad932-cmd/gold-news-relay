@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T09:28:19Z",
+ "generatedAt": "2026-10-14T09:56:40Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -29,9 +29,10 @@
    "kept": 0
   },
   "fxstreet": {
-   "http": 200,
-   "items": 30,
-   "kept": 12
+   "http": 403,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   "forexlive": {
    "http": 200,
@@ -60,13 +61,13 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 49,
+   "items": 50,
    "kept": 3
   },
   "bbc_world": {
    "http": 200,
-   "items": 23,
-   "kept": 6
+   "items": 24,
+   "kept": 7
   },
   "aljazeera": {
    "http": 200,
@@ -80,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 35,
+   "items": 34,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 14,
+   "items": 15,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 10,
+   "kept": 10
   },
   "gn_war": {
    "http": 200,
-   "items": 40,
+   "items": 34,
    "kept": 12
   },
   "gn_sanctions": {
@@ -115,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "fed_calendar": {
    "http": 200,
@@ -124,6 +125,54 @@
   }
  },
  "items": [
+  {
+   "title": "600,000 without power in Ukraine as Russia launches 'massive' aerial attack",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-14T09:45:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLW8yTkZNaG9KSmtTZS1fYUIwME4wTWZzaEJHU0FpMWtJZTkyX2dKbDAycU9VanlJa1B6YmJKWkc1T1hUdm5CT0lmbzJuOVlqS3BHUng3cERZYnE1ZTBYQUtQZF9CN0dCNUFORDhkS0UycXNBN05ENUl1NGVQdkFXc3hZakhlNVZBNWlDUERSZmw4MjMzTERQQmp2bmVGSkowV0ZuWWoxbTUwejFmQXJn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
+   "source": "BBC",
+   "time": "2026-10-14T09:42:08Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Price Forecast: XAU/USD drifts lower with US CPI, Fed speakers in focus",
+   "source": "FXStreet",
+   "time": "2026-10-14T09:41:18Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcFFXdUJNelpSTTBmQjlSaWpqRW1Jc1VNQngtTmRJSFo1Wmh0cHpLc2V6UHpxMHVVVFNudmx6WEMyemhvSmpURm1vTzB4eEE0c1N6OElrUUlzVnk2bElPT09YWkE1VzF0cU5SWC05MW40UjVYYTBqUnFRbk43VG5PSUhiTk82bWpVZWFnTVBwbzRNengwRDdTcXd2U3BOMWI3SUN5QUhRdkhOb1U5SU1adlc2RWRoR0hE?oc=5",
+   "tags": [
+    "FED",
+    "USD",
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "China's September lending surprise masks a much deeper slump in credit demand",
+   "source": "ForexLive",
+   "time": "2026-10-14T09:29:26Z",
+   "link": "https://investinglive.com/news/china-s-september-lending-surprise-masks-a-much-deeper-slump-in-credit-demand/",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "What we know about Russia's overnight strikes on Ukraine",
+   "source": "BBC",
+   "time": "2026-10-14T09:25:03Z",
+   "link": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "WTI falls to near $93.00 as OPEC+ output surges, Russian diesel agreement looms",
    "source": "FXStreet",
@@ -140,6 +189,15 @@
    "link": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
    "tags": [
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Yemen hospitals overwhelmed by surge in war casualties, Red Cross warns",
+   "source": "Reuters",
+   "time": "2026-10-14T09:18:34Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVpzVDN0cmNMQUVHNkJaYWM0V2pOdXgzTGFrYWY3V1ZKNTd2WGhkY2JvdU1Vd2tOanRlRDdzY2JOTHZoLTlfcTdtcndRUGNFUlhqWFF6TWNhclZVeTcxY1pqX00ycm5Pb1JHaFQ2ekR6bEhsWTItbzJBOElETVZFMU9hdnVOc1BoQkgtMkVUNnRzUUJvQmlhR1puTk1COEZBSDYtODFYWVVUc0FTQ1IzWlBBNlFOeUFYSnZTYU5B?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -296,15 +354,6 @@
    ]
   },
   {
-   "title": "British Pound: Upside extension capped by 1.3280 against US Dollar – UOB",
-   "source": "FXStreet",
-   "time": "2026-10-14T08:14:54Z",
-   "link": "https://www.fxstreet.com/news/british-pound-upside-extension-capped-by-13280-against-us-dollar-uob-202610140814",
-   "tags": [
-    "USD"
-   ]
-  },
-  {
    "title": "This civil war on the British right is a charade – its politics are more united than ever | Jonathan Liew",
    "source": "The Guardian",
    "time": "2026-10-14T08:09:00Z",
@@ -336,7 +385,7 @@
   {
    "title": "Judge Blocks Trump Administration’s Sanctions on 2 Groups Aiding the I.C.C.",
    "source": "The New York Times",
-   "time": "2026-10-14T08:03:24Z",
+   "time": "2026-10-14T08:03:25Z",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDdnT3JDZVFPaDNiNDlmcW85MXhtQmlLRGp2dWZ0UGtTOS14RkRBRWFZM0h4em8yLUJWNHpfUmkxTXZxZ1FIa3N2THZEdTNXY3B5bkRFNVp5aFhmR0psS01jT3lKekEzc2ZwdTh0QmI2SGFCaVlLeF9ZaG9mbkZIRkNydw?oc=5",
    "tags": [
     "SANCTIONS"
@@ -447,7 +496,7 @@
    "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
    "source": "BBC",
    "time": "2026-10-14T07:21:50Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQ2dNaDItdmx5VHFaSFYwaGtCTW5LNWdWdkEtVE1DYVZKN1IzcHQyeEl4dUJnUkZQS0hBTGx2aUdFZmZjRHRKekdibjB5b0FqN3BvWERKNlNzLTA?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -508,6 +557,15 @@
    ]
   },
   {
+   "title": "3 Bank Stocks to Screen as Treasury Yields Test Wells Fargo and Citigroup",
+   "source": "Yahoo Finance",
+   "time": "2026-10-14T07:11:15Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTBDcmQycVBkN2JGdllib2Y5UThZYWNFUlJJeC00SE84RTY2TjEzNDhuYjZTRVJpbUs1YnY1QVBDRXNvNHJ0cGlVR0dReXdzT2psTVpnLTZ3UXNsUjNLclBTdVZZWXZkR3R6dmxSR0RMZW5wRnVIUHBDblExeXAzZ1BtRkZqYktqUUhERDdvcHFhS1FYajhHYXNn?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Gold falls as traders weigh Fed rate outlook, await US inflation data",
    "source": "Investing.com",
    "time": "2026-10-14T07:09:04Z",
@@ -552,6 +610,17 @@
    "link": "https://www.aljazeera.com/features/2026/10/14/like-we-dont-exist-palestinians-in-west-bank-denied-say-in-israel-vote?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold, Silver and Crude Oil Price Forecast for October 14 Ahead of US CPI Report",
+   "source": "TradingView",
+   "time": "2026-10-14T06:51:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTkdFb25rck9mNU9Dcy1BX3lTakRFbjJkU2hqc2l4bV9kTzBFdFdQNmdWZnZ4V09uMkFEOE9DaGJQWEpYT251RGJBWURVX0hGOGdqd1A0OVgya0wwcFBJVmZDZFMxRGxkODdGLWlocjVxNzlMc0U4NDhsM241cUI2Q2k2aW1Oakd0MGxScnFQWENNZWlnWmtEMDlJY3VmX2F2dGZDMjZVeWtZRVVOc3d4V2VHTVBaSW5OVmJsVXFnbUdUX1BOTXVzM3JPQWRkX09BTDZ6aw?oc=5",
+   "tags": [
+    "INFLATION",
+    "OIL",
+    "GOLD"
    ]
   },
   {
@@ -617,73 +686,6 @@
    "link": "https://www.investing.com/news/economic-indicators/china-says-it-is-willing-to-work-with-eu-to-boost-stability-of-trade-ties-4948055",
    "tags": [
     "CHINA"
-   ]
-  },
-  {
-   "title": "Chart of the day: Gold price faces crucial $4,200 breakout test as US CPI looms",
-   "source": "investingLive",
-   "time": "2026-10-14T06:00:26Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSmtIOVQyWGdram5XSmE5OC01Z0R2T3dVaUxlWi1JMVZGbENVNEdJNWoyNWVSREg1QnFjMFpzT0JhZnZFaWFKSDFyZ1Iwd2FBWGZ4RHhHZVRjTWwxaEs0bWVja0RicWh2MWV3OGVib094dVBUcWhWemp0UWdlMlc4bXhiR2xfdjkyS2tEaXM5QnQzd25ZQk9BWk9PRnlXcV9kX3FQYzhCRkhxVF9GWmtlbmNJbGM5WjNFUmFYMW1VOFE?oc=5",
-   "tags": [
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "‘At war with the obvious’: the everyday genius of William Eggleston – in pictures",
-   "source": "The Guardian",
-   "time": "2026-10-14T06:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeENWVENoY1oyMU93UjN2b0hnRXdvUUpWLUpCWDJ6YUo0c2FSWFg1ajJ4VXVSbjBUY3U2ZGFHdUV6X3dKQ0ktVFY1MVZWbFpIUHNNaXFlNFdqblViamt0aldnLXVuWk1GajUzTXl4YnowM2M3OUdtWWpGSVdRVTNUeHFFVzdJSlE2RHFUc3pjYi0yNV8zX2dnU3BfejZ1WExrcjRXTEg5ZzVaREwwdU9MUTVMcHNINGNVajBhVnFVN1RfcGkzV2VJMGlzd0dGQ1FLTlVj?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "UK resists EU pressure to hit China with tariffs",
-   "source": "The Guardian",
-   "time": "2026-10-14T05:55:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1psaTFGYzNNb1J1SEI0U1lVRjdEV3B1b19hcHo0dWNOTEY3ZU93X0t5elZLQlpuR2wxek9FWUJyMTVuMW5wR05kemEyRTNvcjAwWGVIN0YzejJaWjNXeVotX2NDX3ZFQTZLX1dxaDBYU2JxTlRFY2pUb2ZRQ2Zzd2RwNnk1T0gyVE85TDFIZG9PVk5vOUo2U3d3SXBqODFNTFM0RElaUmhJOGV4d2VTbkhfU1Brdw?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus",
-   "source": "WSJ",
-   "time": "2026-10-14T05:53:13Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmlZQ2ZqUDhpS2pheVNOZTBWSUhPMGNNbWJIcEVkdDRJUFpEOHhTUmY3OWN2R095YUR5ZXIyUXN5RWw2MzA2OVgzeXNlTThTRVh1WTJZLVRoREl6T3g4UlVUN3JMLWFKRmpBZzFqMEtWVDdGb2FrdGlfR2QwZ0ItQ3NXRVVBb1RGOWZjVDZpTmpabnpqeTFXbWpnN1ZkSmoxRDQ0dVZMQQ?oc=5",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Vietnam says trade talks with US nearly completed; US officials more cautious",
-   "source": "Investing.com",
-   "time": "2026-10-14T05:36:23Z",
-   "link": "https://www.investing.com/news/economic-indicators/vietnam-says-trade-talks-with-us-nearly-completed-us-officials-more-cautious-4948045",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold (XAUUSD) & Silver Price Forecast: Can Gold Hold $4,160 as Silver Eyes $58.70?",
-   "source": "FXEmpire",
-   "time": "2026-10-14T05:33:36Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWEFuV0hkVU1TWWpGLTF2T2pTWlVpNFg3S3hxM1FQNG1MMkctUVhndVBwOHpkcjFKM20zV01ZdTZJQjJtSVFJX0hfX1NNZ29DR25QXzBIaWl1SGlEUFEzVUpWbU45VXJSeDJZbFlIWVdkOWQ5eUViUkNpRGV2SFNpVlRlWGJBZUZ3ZTZERW9KSU1Lc0hKeW9LNEw5M1dXNjJtSmtvUGtwbGc1SkZQVDVqbENiLTJOdXlQb0txZnF6WDVBdw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Economic data spotlight: Will the US CPI report change the Fed's rate hike plans?",
-   "source": "ForexLive",
-   "time": "2026-10-14T05:25:02Z",
-   "link": "https://investinglive.com/news/economic-data-spotlight-will-the-us-cpi-report-change-the-fed-s-rate-hike-plans/",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
    ]
   }
  ],
