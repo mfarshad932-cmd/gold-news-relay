@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-10-14T00:29:55Z",
+ "generatedAt": "2026-10-14T00:58:15Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 1
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -71,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 3
   },
   "whitehouse": {
    "http": 200,
@@ -80,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 32,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 17,
+   "items": 18,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 9,
+   "kept": 9
   },
   "gn_war": {
    "http": 200,
-   "items": 45,
+   "items": 44,
    "kept": 12
   },
   "gn_sanctions": {
@@ -105,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 37,
+   "items": 36,
    "kept": 12
   },
   "gn_oil": {
@@ -115,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 10,
+   "kept": 10
   },
   "fed_calendar": {
    "http": 200,
@@ -140,6 +141,15 @@
    "link": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
    "tags": [
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia",
+   "source": "The New York Times",
+   "time": "2026-10-14T00:14:01Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU3pkeWVKbkJTNzlPNTliZmtPZ0htLWltcF9ubmp0VkhEX2lJRmhfSHNGaHdENkZSdUxlcVd0Tkg3dmMzZ2RCLWswVUFNREhUNV9zQVduYnE3OVlOejljbkIzcFh6OXF1VGlQdXAxREpBS001MVN0TmJrSU52WV81SkMxeGkwVGZFaGluNlYyVndXZGhlX0VjTzFvbnpfZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -253,6 +263,15 @@
    ]
   },
   {
+   "title": "Levi Strauss Uses Tariff Refunds to Rekindle Consumer Business",
+   "source": "WSJ",
+   "time": "2026-10-13T23:01:41Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSmt4aG9xTXZKa2JsVkV0dlJzN3pjcEhUOWg1YVJSYXJMbWlFb2pRODgzSzJTWDZIa3VQalhOVWUtNFoyM24xNVFHSFVZZXBqOHBSSUtjMEJrLTg4UGJ3aGx2WUtBVjFPbVFNbjVjMWVBSnEwSU1qVF9oWVVINXp4U1hTRkl4dllSWDl1VGVQdkQ4Zjl2THhVTUUyZDF2M2pfbUpoUTJBWGwxZk81MlE?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "US CPI preview: 14 investment bank forecasters see energy lifting headline to 3.6%, core held near 0.2%",
    "source": "ForexLive",
    "time": "2026-10-13T22:45:55Z",
@@ -295,6 +314,15 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHZtMnk3dUVFWmVkT2FmZVRqNWNrUUc5YkNkWVJMOEhWMmo1dnc2S3FlUlExbjFscTdlY3NQcExPejdxUlF1clZ5S1BKQ1JLdjhzaFdXT2l1YVBmN2VVSkFOSlJNNmlTR2w5d082MDR2b3RkY1VrTTlwWFhuclBteVRaTmtMRUczY0VPaWxBeVV1RE9vUE9kRFZaUlZEX0NnOXZqVnNtNlJIcFU3cnE2VVFTNzhfNVZ0TzZiQWFtSUJCdXJXYU5rU0JB?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed’s Lisa Cook Puts Off White House Hearing Over Trump’s Allegations",
+   "source": "Bloomberg.com",
+   "time": "2026-10-13T22:23:02Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcmZVOUhhM3FDdjF0LXh3ZnRGMzBOTG1ERlBnSlFBWkpuZW56VEQ3RkkxOEQzM1NjbnZPLUhkVWY0Q3o0cWZ0MG9qQmlEeE5HYmt3LURDUHNob0RkbmtUbUpFcXo1ajlDZ1Q2THZaTnplZW85UjFST0dES0FqODE5R29XTmZ0YWtWcHhPTklqdWhHUllncFJZcno3Z1NiMVNCU2NOMXIwRWpzNElOUUVTeGFoRTExMVFHNWxwMA?oc=5",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -414,15 +442,6 @@
    "link": "https://www.fxstreet.com/news/pound-gains-and-stays-inside-its-range-for-a-third-week-202610132134",
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "title": "Houthis Threaten Fierce Retaliation After Saudi Arabia Strikes Yemen",
-   "source": "The New York Times",
-   "time": "2026-10-13T21:30:53Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU3pkeWVKbkJTNzlPNTliZmtPZ0htLWltcF9ubmp0VkhEX2lJRmhfSHNGaHdENkZSdUxlcVd0Tkg3dmMzZ2RCLWswVUFNREhUNV9zQVduYnE3OVlOejljbkIzcFh6OXF1VGlQdXAxREpBS001MVN0TmJrSU52WV81SkMxeGkwVGZFaGluNlYyVndXZGhlX0VjTzFvbnpfZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -656,25 +675,6 @@
    "link": "https://www.cnbc.com/2026/10/13/cxmt-memory-chip-stock-rout.html",
    "tags": [
     "CHINA"
-   ]
-  },
-  {
-   "title": "BOSTON FED'S COLLINS: HIGHER ENERGY, TARIFFS COULD KEEP INFLATION ‘PERSISTENTLY ABOVE TARGET’",
-   "source": "TradingView",
-   "time": "2026-10-13T20:02:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWWFqX012cEY3SUphNko4VXkteVFCcUw0Mlh6WDAxU1VGYUdvWU9CaFV0LVVBNktvcVFpNjVGekgyUDYzUEFOeVE0S3RWYng1VW1TTXZtWGJTbjBxU0tjaEI5YXZjVzBvVHFqN3JZRjREM2R6eDROT3U2aU5NV0J3aUhaVXFINXc1TDEyV1JtcHd2blFkbENKbjd6d1ZsM3daVXpfQnNJNWhXRUoyY2pMZE1VMWlXcl95OVpnNW5oekM3aGw1VGNZbDRkVUdlZm4tR0xKU3A1dC1iN01vcjRCWFdn?oc=5",
-   "tags": [
-    "INFLATION",
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait",
-   "source": "Axios",
-   "time": "2026-10-13T19:58:30Z",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JUndhMTg1cVBLbzA0Wjk0WTViZVF1c2pBTmhzNzI3eFNpQi1lVDhiUGJUUU1WdmNrSUNwOHRLMU5uelNQc0NVSUdHd1Nra3ZCOThHRzYyTVU1aG1MQlJ5anZjSm84YWc2NmlGUHMyelJ1ZnEwU0E?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
