@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T15:36:55Z",
+ "generatedAt": "2026-10-14T16:05:16Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -62,7 +62,7 @@
   "bbc_business": {
    "http": 200,
    "items": 51,
-   "kept": 4
+   "kept": 5
   },
   "bbc_world": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 11
   },
   "whitehouse": {
    "http": 200,
@@ -81,17 +81,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 38,
+   "items": 39,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 23,
+   "items": 17,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 16,
+   "items": 17,
    "kept": 12
   },
   "gn_war": {
@@ -101,12 +101,12 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 22,
+   "items": 23,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 44,
+   "items": 37,
    "kept": 12
   },
   "gn_oil": {
@@ -116,21 +116,76 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 8,
+   "kept": 8
   },
   "fed_calendar": {
    "http": 200,
-   "items": 6
+   "items": 5
   }
  },
  "items": [
+  {
+   "title": "'It's rough out here': Americans struggle with rising inflation",
+   "source": "BBC",
+   "time": "2026-10-14T15:57:11Z",
+   "link": "https://www.bbc.co.uk/news/articles/c305649p2d6o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+   "source": "BBC",
+   "time": "2026-10-14T15:56:57Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Jerusalem Daily: UN demands Israel do more to stop settler violence",
+   "source": "Al Jazeera",
+   "time": "2026-10-14T15:49:54Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/jerusalem-daily-un-demands-israel-do-more-to-stop-settler-violence?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+   "source": "CNBC",
+   "time": "2026-10-14T15:47:29Z",
+   "link": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Your Social Security check will rise 3.6% next year, but will it be able to keep up with inflation?",
    "source": "MarketWatch",
    "time": "2026-10-14T15:33:00Z",
    "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
    "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Judge Blocks Trump Administration’s Sanctions on 2 Groups Aiding the I.C.C.",
+   "source": "The New York Times",
+   "time": "2026-10-14T15:32:18Z",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDdnT3JDZVFPaDNiNDlmcW85MXhtQmlLRGp2dWZ0UGtTOS14RkRBRWFZM0h4em8yLUJWNHpfUmkxTXZxZ1FIa3N2THZEdTNXY3B5bkRFNVp5aFhmR0psS01jT3lKekEzc2ZwdTh0QmI2SGFCaVlLeF9ZaG9mbkZIRkNydw?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "US inflation rises before midterm elections, fuelling rate hike fears",
+   "source": "Al Jazeera",
+   "time": "2026-10-14T15:31:29Z",
+   "link": "https://www.aljazeera.com/economy/2026/10/14/us-inflation-rises-before-midterm-elections-fuelling-rate-hike-fears?traffic_source=rss",
+   "tags": [
+    "RATES",
     "INFLATION"
    ]
   },
@@ -161,15 +216,6 @@
     "USD",
     "YIELDS",
     "INFLATION"
-   ]
-  },
-  {
-   "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
-   "source": "BBC",
-   "time": "2026-10-14T15:16:21Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -228,10 +274,19 @@
    ]
   },
   {
-   "title": "Bank of America Stock Eyes Worst Day Since Tariff Selloff - Bank of America (NYSE:BAC)",
+   "title": "QUICK SPARK: Bank of America Stock Eyes Worst Day Since Trump’s Tariffs Shock",
    "source": "Benzinga",
    "time": "2026-10-14T14:53:55Z",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQak9ZNUJIMnZLY0U5MnhyVjVxQkZJNjJvOVphOU5ZNGtxN0FOVU1BWF92cGNrOUR4XzhDY1RXOWR0Nmd2MkU1UzVjS29Sd3NhdXhkOVlVTXk3eXRRTzlFRm16dDdnd0tVb0hsMmdfNVRheW5xd0lLUDIzVWN0aDAwZ3RHZ1FDUTlldElaMFVCTmdOUGU3VjdMT3dYRWd0cTlzdzFrbmNGNDJBRUlqc3A5ZWtaanBPeWtRU2ZvMlRKZTN2NjQxMXc?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Vosik Launches Intelligent Purchasing Software as Building Material Tariffs Worsen Housing Affordability",
+   "source": "Yahoo Finance",
+   "time": "2026-10-14T14:53:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTnZVOVVNVGxpdVBDd0xtbEp2MXM5WjM5X01MUlEtdUJMRTBzN1ctMVk5V3hRYVpPM1pPZnNaTnVrSDRJclRzTFZzN0wwTFRaY3kzN0ZFcHhTWXZuUC1UU1ExeWk2Q3dOMm1TM1ZBZnRzSFp6ZWhiYWFkTVI4MFhXY1A2enZ4NUlRV3oyWDIxSDEya0pQemNmRE8yelVqQXhjZERpd1pxajNtM1FN?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -310,12 +365,11 @@
    ]
   },
   {
-   "title": "Gold And Silver Prices Fall As Inflation Boosts Interest Rate Hike Bets",
+   "title": "Gold And Silver Tumble As Inflation Data Boosts Rate-Hike Expectations",
    "source": "Forbes",
    "time": "2026-10-14T14:35:47Z",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeE1NdVJsU3RZQmRuSTU1WnZZdXQzTnhZajl0U3A3UE42cTFQV0E0ZTA5czlNSFQwOEtlaWY3WER6WFNRazNza1lQZkpuV3U2c0lvV3ZNVlIxbTNGbXFuMTFSZk1WbXZiNDUwUnkzTnI3ZXpRLTl3UG01WkE1b080UDk4ZEs2X0p1Y3JSbmphc0RCQVdPM1hHN0E0NFkxQ2RseDE4SXZIZExaNnp5NUlrSzhkbnhVR0FrSW5KcVphSDg?oc=5",
    "tags": [
-    "RATES",
     "INFLATION",
     "GOLD"
    ]
@@ -467,6 +521,15 @@
    ]
   },
   {
+   "title": "Ukraine says SpaceX limiting Starlink operations, impacting air defense",
+   "source": "The Hill",
+   "time": "2026-10-14T13:51:00Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSGZJeUgyRE1uTGxOVmZvQlctNTVfMTNhLUEyY2ZQZlkwZWdtMTFmVWVfV2ZBWjFueVhLbW5lbnQ5SFkxR3ladmRscUhDYV8xSW5BQU1aeVBWQWhOdmdudVkwZktIcDFXTDlmTl95MHpxY21KUVZxRkRGMHZWRHFGRlNqNExJUzVFSWZqcjhtaHozUUsyc05FbU1vNXF1dw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Iran targets Starlink as ‘tool of war’ with hints of more internet curbs",
    "source": "Al Jazeera",
    "time": "2026-10-14T13:50:28Z",
@@ -608,81 +671,9 @@
    "tags": [
     "GEOPOLITICS"
    ]
-  },
-  {
-   "title": "‘Massive’ Russian attack on Ukraine kills at least 9, damages power sites",
-   "source": "Al Jazeera",
-   "time": "2026-10-14T13:12:43Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR255TWFCcWE0UHZFUTlzMlNtZVNKOUhDanV1eFNHMDVDZ2F6ZVVaZlA3QUtNTVB2RXJKZTdqRGJSaldhU0lVWVRESzRtZ3hYbVZJNnY1R3hxdElwV0RwX2w2R2JJSk95aGFqM21lQmJTTFhqR0NMLWQ0ZEpPWnVYOWNFWW1XU2NfNGRiaURZSlBKYUdaeGNnc3BwZ0wxelN4QUlILVpqSXdLbjZ5T0daem9Bb9IBuAFBVV95cUxOTkctWElMd3BpWDhKMm8yQ2lXLWgxWFE3TTFtV05zdVUwQV9PRjlFSGIwSUhzVnpnRng5NWFBWjRZQS1MZ1hfYzVLOVZaLVVacGxRclJpOVQ3bDRNSWt1OTZ1a1dhOTZkTnlrWXVHMHRtT1BzQ1RqTGhCcGZVQWloZUhkUXNZOWZWcG5JU21ibk5ZMEpDWTI4aEdOR25TVEhsS2liVkRDbTFpdGtwSEFEQTA0RjlzUFZD?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Today's Federal Reserve speaker slate suddenly got much more interesting",
-   "source": "investingLive",
-   "time": "2026-10-14T13:11:55Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTTB1T21WbFBNUmk4QzVQUXR1eFktUV9rdEpVWS1rVFZJVjFBWHZpaWJiVkt5TjN3VUhIQV9ZWG1tOExQQ1FpcU1pbXk2bFBiYzRDZlFEbldXMGFGTzB0WFJiOU9CWWZZN2Z5aXpOUG80VHZtbk9TcUZqdU05am5wTnE4Qll5cms1NGd1NDJycDFsOXA2LXJyVjdIdjdTMVhudnJBdWNRRFBnb1ZXVVpUcndjOA?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-   "source": "BBC",
-   "time": "2026-10-14T13:11:17Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
-   "source": "BBC",
-   "time": "2026-10-14T13:11:17Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQ2dNaDItdmx5VHFaSFYwaGtCTW5LNWdWdkEtVE1DYVZKN1IzcHQyeEl4dUJnUkZQS0hBTGx2aUdFZmZjRHRKekdibjB5b0FqN3BvWERKNlNzLTA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row",
-   "source": "The New York Times",
-   "time": "2026-10-14T13:11:00Z",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON0MzaklyZEo0Yk9pMDdfN1lad0xlUE5NSGtjaXNqSkM0UVMtU19OVEJOZnhhdWNqWkplWnNwaDBVbExYMXNFUDBXSzE0Y3pnVmxCTVBmM0d2bUNMdWFsLU5LVFVtYS1HT1psaGZub1JYdW84Z2xTS2VvclFQc3FySWl0dGV5Zw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "CPI: Hot Inflation at 3.7% Lifts Yields and Dollar as Gold and Bitcoin Nosedive",
-   "source": "TradingView",
-   "time": "2026-10-14T12:59:12Z",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOekdkZG5EcXhLTFNRenl2dXlBdmdwenVvLWZ6eDkwbkRxY25BdTRSRXQwZ2Y1dFRpOWtKakNNRWVHSkhYS3RWSWxXSUVWaVhhQ0ZRSjlCQTVoX3BtdktoN3k5Q0RHcXFrUWVCLWlGcS1XR0liVm10aDBXM0xEYTJRWkM0SDRNS1ozR1NLUWRDM2gzTFNPblQ0X1VpS2FmUlVRTUdNSXNsVzd3bVFXTEdFa0xSMTlkek1wRm9RRE5zTEtjdzhJYnlnd0tOdjdNbDI1emJDdVV3?oc=5",
-   "tags": [
-    "USD",
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "U.S. may have withheld warnings to Ukraine of Russian strikes that killed 6, cut power to 600,000, sources say",
-   "source": "CBS News",
-   "time": "2026-10-14T12:58:01Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZzBha3hkak5PVXhhdTB1RzZSQTVMYzkweE9kUDNqdVFUOUZWN1FxQ3RlUVI1ZVhKa2RQLVFJclBpeFRFeHZyTVdKVDN6cWluTERiZERqYjZCdlRZVFFQZVV2X0VKNC1aS2dlS3V4YXlLbGxUVjJZQ0V0b2U2QTVlUDljM2JHRk03OW9SY0pDZ05FNVpSTUVyRkNHWXRXcGht?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
   }
  ],
  "fedCalendar": [
-  {
-   "title": "Discussion - Vice Chair for Supervision Michelle W. Bowman",
-   "time": "2026-10-14T05:40:00-04:00",
-   "impact": "Medium",
-   "kind": "SPEECH",
-   "src": "fed"
-  },
   {
    "title": "Beige Book",
    "time": "2026-10-14T14:00:00-04:00",
