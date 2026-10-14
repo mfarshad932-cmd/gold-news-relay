@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T03:19:47Z",
+ "generatedAt": "2026-10-14T03:48:09Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -56,7 +56,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 9
+   "kept": 10
   },
   "bbc_business": {
    "http": 200,
@@ -71,7 +71,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -95,17 +95,17 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 46,
+   "items": 41,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 24,
+   "items": 25,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 38,
+   "items": 37,
    "kept": 12
   },
   "gn_oil": {
@@ -124,6 +124,24 @@
   }
  },
  "items": [
+  {
+   "title": "China's exports and imports surge past expectations in September",
+   "source": "CNBC",
+   "time": "2026-10-14T03:41:36Z",
+   "link": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Israel returns 22 stolen ancient artefacts to Greece",
+   "source": "Al Jazeera",
+   "time": "2026-10-14T03:23:08Z",
+   "link": "https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "China's producer prices rise at fastest pace since June 2022, beating expectations",
    "source": "CNBC",
@@ -151,6 +169,16 @@
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Canadian Dollar edges up against US Dollar ahead of US CPI data",
+   "source": "FXStreet",
+   "time": "2026-10-14T03:07:20Z",
+   "link": "https://www.fxstreet.com/news/canadian-dollar-edges-up-against-us-dollar-ahead-of-us-cpi-data-202610140307",
+   "tags": [
+    "USD",
+    "INFLATION"
    ]
   },
   {
@@ -193,21 +221,22 @@
    ]
   },
   {
-   "title": "China's exports and imports surge past expectations in September",
-   "source": "CNBC",
-   "time": "2026-10-14T02:48:43Z",
-   "link": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
    "title": "Kyiv hit by Russian ballistic missiles for second day with no warning",
    "source": "Al Jazeera",
    "time": "2026-10-14T02:45:40Z",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "United States Dollar Index weakens to near 102.00 ahead of US CPI release",
+   "source": "FXStreet",
+   "time": "2026-10-14T02:43:40Z",
+   "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-to-near-10200-ahead-of-us-cpi-release-202610140243",
+   "tags": [
+    "USD",
+    "INFLATION"
    ]
   },
   {
@@ -240,7 +269,7 @@
    ]
   },
   {
-   "title": "China's September Trade Balance: Exports and Imports beat estimates",
+   "title": "China’s Trade Balance: Surplus unexpectedly expands in September",
    "source": "FXStreet",
    "time": "2026-10-14T02:27:40Z",
    "link": "https://www.fxstreet.com/news/chinas-september-trade-balance-exports-and-imports-beat-estimates-202610140227",
@@ -338,29 +367,10 @@
    ]
   },
   {
-   "title": "British Pound strengthens above 1.3250, traders await US CPI inflation data",
-   "source": "FXStreet",
-   "time": "2026-10-14T01:45:35Z",
-   "link": "https://www.fxstreet.com/news/british-pound-strengthens-above-13250-traders-await-us-cpi-inflation-data-202610140145",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
    "title": "China CPI inflation grows less than expected in Sept; PPI hits 4-yr high",
    "source": "Investing.com",
    "time": "2026-10-14T01:45:28Z",
    "link": "https://www.investing.com/news/economic-indicators/china-cpi-inflation-grows-less-than-expected-in-sept-ppi-hits-4yr-high-4947865",
-   "tags": [
-    "INFLATION",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Breaking: China’s CPI inflation rises to 0.9% YoY in September, vs. 1.0% expected",
-   "source": "FXStreet",
-   "time": "2026-10-14T01:31:21Z",
-   "link": "https://www.fxstreet.com/news/breaking-chinas-cpi-inflation-rises-to-09-yoy-in-september-vs-10-expected-202610140131",
    "tags": [
     "INFLATION",
     "CHINA"
@@ -431,6 +441,15 @@
    ]
   },
   {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Tests The $4150 Level Amid Broad Pullback In Precious Metals Markets",
+   "source": "FXEmpire",
+   "time": "2026-10-14T00:45:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX0xtZUxrZkpJVUJILUZJOUd4SkwzUlBJZTNWMUVIS2dLa0VUcDRSS2F3MlhpVWROUGUxc2ZwWXdUclRsX0diRFRpNWdWcklLd0pYRk90WXN5UkV5YkNOaTZVWXpaVUxHTmdDdHRJNlFLeGV0dVpIRjA5X2hDT0Z0VGI2REZhZnRHY2w0bG1YYXN3RVA0TTZ0Y1NUODd4TmpLcF9uWTUxOTY5Z1BpUTkwZkc5bUVvelpocUZBLWlucGstQVBVVXVjRUVYbG5YTE9naWJFX094ZjVmaXQ4R09QS1Q4Um11R2VydTQxMUtzSWgyZUk?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Gold prices flat as markets await US CPI data",
    "source": "marketscreener.com",
    "time": "2026-10-14T00:28:23Z",
@@ -447,15 +466,6 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORzBLWVlabV9JVUdxU05rYWROTXJ6ekFOUFgwUjRrNi1HbkdoREpsNWxJZTV0cXNmT2U2UGRRRGpYOGZjVndYSnNpU2IxQlBPQkN4V0lSV0ZNX1A5M0d4dWtVTDJBZXRNbkpKR05RejNLNkdhYzNvdWJCd09ONVJabHVadm5lVS16eTExcXR1TktXU0d1Uzl6ajJJd3hTRlZELTk0aXlZSUxmVkZfekE?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Tests The $4150 Level Amid Broad Pullback In Precious Metals Markets",
-   "source": "FXEmpire",
-   "time": "2026-10-14T00:21:03Z",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX0xtZUxrZkpJVUJILUZJOUd4SkwzUlBJZTNWMUVIS2dLa0VUcDRSS2F3MlhpVWROUGUxc2ZwWXdUclRsX0diRFRpNWdWcklLd0pYRk90WXN5UkV5YkNOaTZVWXpaVUxHTmdDdHRJNlFLeGV0dVpIRjA5X2hDT0Z0VGI2REZhZnRHY2w0bG1YYXN3RVA0TTZ0Y1NUODd4TmpLcF9uWTUxOTY5Z1BpUTkwZkc5bUVvelpocUZBLWlucGstQVBVVXVjRUVYbG5YTE9naWJFX094ZjVmaXQ4R09QS1Q4Um11R2VydTQxMUtzSWgyZUk?oc=5",
-   "tags": [
-    "GOLD"
    ]
   },
   {
@@ -671,15 +681,6 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWV4SlNjbHRLVVNlNDV3STBGRk80d1NjN3ptTmt0N3UyYXFiZWFPbkVzTG9DUFRqYmdMRnJTRlY0WXI4U2toVHVhTVRGOVNNSUNMZ2h4RTdzV2xqU3VHYkdBb2J0U005VUJKOWo0VzVPaGFwMkZrZmpkZDdLLXdPZEhoZ0habDBLUzEyYkd0Qng?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Asia Stocks to Gain on Signal for Fewer Fed Hikes: Markets Wrap",
-   "source": "Bloomberg.com",
-   "time": "2026-10-13T22:03:38Z",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkdpWnlfNjZqMGFBMUtMU1JNdFhzem9kbFhSR3Z0Qnl0ZkVacmR6TzRSQXBvMU5SNElCUkEtWFpueWhuWWNGdUR2dkVPcVdtQmRuT1VuRVVldlhDaW1lRHhYdHF6cTQxNUJNb3F1V0ZrNWszNGlsbllLTkR0SGs1ZXo0NHY3eW9aYmxuSnZkNy1MSS1k?oc=5",
-   "tags": [
-    "FED"
    ]
   }
  ],
