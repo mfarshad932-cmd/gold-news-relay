@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T08:03:10Z",
+ "generatedAt": "2026-10-14T08:31:32Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -41,12 +41,12 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 5
+   "kept": 6
   },
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 7
+   "kept": 6
   },
   "marketwatch": {
    "http": 200,
@@ -66,12 +66,12 @@
   "bbc_world": {
    "http": 200,
    "items": 23,
-   "kept": 5
+   "kept": 6
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -80,17 +80,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 31,
+   "items": 34,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 12,
+   "items": 13,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 13,
+   "items": 15,
    "kept": 12
   },
   "gn_war": {
@@ -100,7 +100,7 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 24,
+   "items": 25,
    "kept": 12
   },
   "gn_yields": {
@@ -125,12 +125,57 @@
  },
  "items": [
   {
+   "title": "Stock futures move higher as traders await consumer inflation report: Live updates",
+   "source": "CNBC",
+   "time": "2026-10-14T08:31:05Z",
+   "link": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Trump says oil, gas and mineral exploration to begin in Greenland",
+   "source": "Al Jazeera",
+   "time": "2026-10-14T08:08:42Z",
+   "link": "https://www.aljazeera.com/news/2026/10/14/trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland?traffic_source=rss",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Judge Blocks Trump Administration’s Sanctions on 2 Groups Aiding the I.C.C.",
+   "source": "The New York Times",
+   "time": "2026-10-14T08:03:24Z",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDdnT3JDZVFPaDNiNDlmcW85MXhtQmlLRGp2dWZ0UGtTOS14RkRBRWFZM0h4em8yLUJWNHpfUmkxTXZxZ1FIa3N2THZEdTNXY3B5bkRFNVp5aFhmR0psS01jT3lKekEzc2ZwdTh0QmI2SGFCaVlLeF9ZaG9mbkZIRkNydw?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "Russia arrests Japanese journalist on spying charges",
    "source": "BBC",
    "time": "2026-10-14T08:00:03Z",
    "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
+   "source": "CNBC",
+   "time": "2026-10-14T08:00:01Z",
+   "link": "https://www.cnbc.com/2026/10/14/diesel-deal-oil-price-iea-report.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "EU's Dombrovskis on diesel deal: Now is not the time to ease Russian sanctions",
+   "source": "CNBC",
+   "time": "2026-10-14T07:58:28Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2wzam12ci10NGxscWpnMkU3SE0tM2FJMmVoUkswRUprb1JJUmxIcjlpZGtUMTZiZUZKdmwwZHBhaENSWFZHLWlUZTR5ODVoU2lYdlRXQndoSl9icG54U3BnQk5WVUk0OUxTT1hjZzAwNnJ5ZFo4OXhlVVhMb3lFRldmTmhwU1RjQW9aQzdEYlNCVVZEREliVlVpVERhSWVjemRmMEhTTkRKUQ?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -152,11 +197,48 @@
    ]
   },
   {
+   "title": "Palestinians say Israel’s democracy ‘is a joke’",
+   "source": "Al Jazeera",
+   "time": "2026-10-14T07:41:20Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinians-say-israels-democracy-is-a?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "How Israel’s ‘Yellow Line’ is reshaping southern Lebanon",
+   "source": "Al Jazeera",
+   "time": "2026-10-14T07:38:09Z",
+   "link": "https://www.aljazeera.com/news/2026/10/14/how-israels-yellow-line-is-reshaping-southern-lebanon?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "SpaceX limits Starlink operations in Ukraine, disrupting military ops., missile defense capability",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-14T07:37:02Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcjRKYVlwZkZXYWtnWl9VMFI4UndmVWU2TU5RbWdXV09PM2NIYjVUMmE0a2F3Mm05TnE0WWlZeFR3ZWdFM2t6QTRwcUw0RGRrbElhOThsMEJjUERmTUZsbURiNlljM2ZiaUc1REp5Y2drUzZxd0ZHM3BaVDhxMXVLWi1FZW5Mb2lQcWc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Spain’s inflation rises at fastest pace in more than three years",
    "source": "Investing.com",
    "time": "2026-10-14T07:36:23Z",
    "link": "https://www.investing.com/news/economic-indicators/spains-final-12month-euharmonised-inflation-at-5-in-september-4948193",
    "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Euro holds mild gains above 1.1200 as US Dollar drifts with US CPI on tap",
+   "source": "FXStreet",
+   "time": "2026-10-14T07:32:21Z",
+   "link": "https://www.fxstreet.com/news/euro-holds-mild-gains-above-11200-as-the-us-dollar-drifts-with-us-cpi-on-tap-202610140732",
+   "tags": [
+    "USD",
     "INFLATION"
    ]
   },
@@ -180,10 +262,30 @@
    ]
   },
   {
+   "title": "Gold Faces Selling Pressure Amid Middle East Tensions and Fed Rate Hike Bets",
+   "source": "Investing.com",
+   "time": "2026-10-14T07:25:00Z",
+   "link": "https://www.investing.com/analysis/gold-faces-selling-pressure-amid-middle-east-tensions-and-fed-rate-hike-bets-200689545",
+   "tags": [
+    "FED",
+    "RATES",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Vietnam buries remains of 731 war dead nearly 6 decades after the Tet Offensive",
+   "source": "The Washington Post",
+   "time": "2026-10-14T07:21:53Z",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa2xiTGlIM09mYW1HQW9BdG1XT01UQUVpaVZwMU1CXzN3cnRISWNENGFjTFhLanFaQjZVWWYyZ1M2VVltYWQydktDZ0Y5XzQwZUN2eC13amtIM0tiTTNDaFJwcEhHUllrTXMyVTl4V2JpZThFU1JnSm5Wb3kzZ3JYamxtOFdBclhKX0hGQXpnSk5lNVJsclgtX0ZONVNkNEFhMnNFd0dNamY1a19YSEluQ3RVSmh3UE4wQXVLVHNSLVpIOVNWZ0RCSHRyeGRsOEtJdU84?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
    "source": "BBC",
    "time": "2026-10-14T07:21:50Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQ2dNaDItdmx5VHFaSFYwaGtCTW5LNWdWdkEtVE1DYVZKN1IzcHQyeEl4dUJnUkZQS0hBTGx2aUdFZmZjRHRKekdibjB5b0FqN3BvWERKNlNzLTA?oc=5",
+   "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -219,12 +321,12 @@
    ]
   },
   {
-   "title": "Stock futures are mixed as traders await consumer inflation report: Live updates",
-   "source": "CNBC",
-   "time": "2026-10-14T07:13:24Z",
-   "link": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
+   "title": "Poilievre visits Detroit to push for tariff-free trade for auto industry",
+   "source": "BNN Bloomberg",
+   "time": "2026-10-14T07:14:52Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQjdmTlBQbnJES0hxSXYxb3NPSEI4Q3BWQU9fQ1JhUnhBMGdIbFE4Q195MldoM25oTnV3MWtjUEE2eHNVSlZwRzRqV3F6bUhicmtJVnZGdUZsSjBmWldkakhNai1rSzZyZVFXbThfVzRRUmxWalpaamZoRDlJZVllOTI1S19JXzY1VHRYRThGTmZmTDQyTVV5R3I2Sm83MDMtSFhhdkJxeFRxZDNEREk4ZHZ6alRZcy1NYm14OA?oc=5",
    "tags": [
-    "INFLATION"
+    "TARIFF"
    ]
   },
   {
@@ -245,6 +347,15 @@
     "FED",
     "INFLATION",
     "GOLD"
+   ]
+  },
+  {
+   "title": "‘Massive’ Russian attack on Ukraine kills at least six, damages power sites",
+   "source": "Al Jazeera",
+   "time": "2026-10-14T07:08:32Z",
+   "link": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -355,7 +466,7 @@
    ]
   },
   {
-   "title": "Houthis developing new version of Iranian ballistic missile using Chinese parts",
+   "title": "Yemen's Houthis use Chinese parts to build Iranian ballistic missile, boost attack range - report",
    "source": "The Jerusalem Post",
    "time": "2026-10-14T06:33:25Z",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BVllrZV9OVEtGcVo3NUE0R1ZBbWlSYmRodWlUZXZvWWdxZzEyY1NIdVhpSFoxLUl6TFJleXQ4eHdlb0M2QS1pTlBlbXlBOW1tRVZhUy00TXFKTllDcTRR?oc=5",
@@ -394,16 +505,6 @@
    ]
   },
   {
-   "title": "BoE’s Pill says a bit more sceptical about market pricing of four rate hikes over the next year",
-   "source": "FXStreet",
-   "time": "2026-10-14T06:17:00Z",
-   "link": "https://www.fxstreet.com/news/boes-pill-says-a-bit-more-sceptical-about-market-pricing-of-four-rate-hikes-over-the-next-year-202610140617",
-   "tags": [
-    "RATES",
-    "CENTRAL_BANK"
-   ]
-  },
-  {
    "title": "U.S. Treasury Yields Fall Ahead of CPI Data",
    "source": "marketscreener.com",
    "time": "2026-10-14T06:15:31Z",
@@ -429,6 +530,16 @@
    "link": "https://www.investing.com/news/economic-indicators/china-says-it-is-willing-to-work-with-eu-to-boost-stability-of-trade-ties-4948055",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "Chart of the day: Gold price faces crucial $4,200 breakout test as US CPI looms",
+   "source": "investingLive",
+   "time": "2026-10-14T06:00:26Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSmtIOVQyWGdram5XSmE5OC01Z0R2T3dVaUxlWi1JMVZGbENVNEdJNWoyNWVSREg1QnFjMFpzT0JhZnZFaWFKSDFyZ1Iwd2FBWGZ4RHhHZVRjTWwxaEs0bWVja0RicWh2MWV3OGVib094dVBUcWhWemp0UWdlMlc4bXhiR2xfdjkyS2tEaXM5QnQzd25ZQk9BWk9PRnlXcV9kX3FQYzhCRkhxVF9GWmtlbmNJbGM5WjNFUmFYMW1VOFE?oc=5",
+   "tags": [
+    "INFLATION",
+    "GOLD"
    ]
   },
   {
@@ -478,15 +589,6 @@
    ]
   },
   {
-   "title": "Vietnam buries remains of 731 war dead nearly 6 decades after the Tet Offensive",
-   "source": "The Hill",
-   "time": "2026-10-14T05:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPajZSRll2aE5CbW84UFpjU2MxV0RfQjRmSWxCM3B5akdMNDlmTDhDRl8teE1lOF9OblNlZW1ZODJOd0J4X082WDI1cHF1dm50T1NEMVRLdmZ2MDl4aG9KRlZpdm80M0ZYeWlNbTlHN2IxaW9OZVdmQV9QZHhxYXVFLVJ0dTdCT2U4UU1Pazg4VElfYjhwQjhzRGRjS3FMejRNb1VlN0VmVGZzUE5rOGxpY2Rva0VyZlY4LWdaYk1lWkgwTG1USzhWQkZBQnbSAdIBQVVfeXFMUFBVVl9KTGZsNktLZGo1SEFibmc5QUtiMmtiYjNDRzNKS3RGcWJRZGlSTGVWZjdJTnB4Qy1SckNzQV9vMl9YdEt2R3pvNlNMRWZSdWtGQVZUdy1xb2draEQtNDN1eUJ4d240NmtBQ2paYXBSYlpBc1pfa2RIbjZ1d2VBaXVLUnplSUlRRXhOYTg2S1A5eE9xeXRjVkRHMWJzVlFmenJ2N09xdWdZMHI0NFNtanZtUjJGaFVEREN2bU1WaTdfTmpHeTZBb0JKYmJtblpB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Economic data spotlight: Will the US CPI report change the Fed's rate hike plans?",
    "source": "ForexLive",
    "time": "2026-10-14T05:25:02Z",
@@ -521,15 +623,6 @@
    "source": "BBC",
    "time": "2026-10-14T05:18:40Z",
    "link": "https://www.bbc.co.uk/news/articles/cv4g18we232ro?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "OPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027",
-   "source": "Investing.com",
-   "time": "2026-10-14T05:18:00Z",
-   "link": "https://www.investing.com/analysis/opec-sees-oil-demand-growth-surging-to-26-million-bpd-in-2027-200689532",
    "tags": [
     "OIL"
    ]
@@ -594,100 +687,6 @@
    "source": "Al Jazeera",
    "time": "2026-10-14T04:27:18Z",
    "link": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
-   "source": "CNBC",
-   "time": "2026-10-14T04:24:28Z",
-   "link": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html",
-   "tags": [
-    "INFLATION",
-    "CENTRAL_BANK"
-   ]
-  },
-  {
-   "title": "Philippines declares national energy emergency as Asia risks energy crisis amid Iran war",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-14T04:22:51Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeE1ldVFZSXdBWWRGcDlTNDdpaEE0aFNicTNidEJrLWlycTQ4NDlqdzFhdXk2cl9XWXRxdExqWFhtcDgzNzdNMTljVmVCQ28zQjhIM1hzUXd5TllON2dEaGZYTm8xSUNtT0xQUm5fOVQzX19RT1E5b3FYVmpXejZWYkFnenVmMllSOVAxNk8xMFRSUXgwblJ6TFdkUXgxbzU3ZFQ2cnNxXzVZeVVhY1VkUzdB0gG3AUFVX3lxTE5mSTJ3M2xnS2g1Nm80TzZ4WGtla3RQSWkzdjRXRXNacWtJQUZvSTdRbXltSy15ZW51cGhzTnBVRXZ0X0JMT1h3Y0ZBOWZrNlZHWGszR3RmVGxRTGFNaUdIMzJpSWRYM3pFY1U3aEtlYnlubVJtZTFyWDRHdExfYnlySWFibktCN2ZPTjROSjgtVnB0Ymk2UkxIdHJkTEVuQWxEM0NMMzBKXzI3dmE4ZENUdllMakRXSQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-   "source": "BBC",
-   "time": "2026-10-14T04:20:17Z",
-   "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russian strikes kill one, hit energy facilities in Kyiv, mayor says",
-   "source": "Reuters",
-   "time": "2026-10-14T04:14:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZV80UGpIZ2JaYk1HTDl1MzRSc2NJT29IRDAtcm5sQXpSMzJPVXJSOXRHMG9XaEdDV0szVHZmSTZCTlVUNzJseDhrSXdBaFItbEtMdmN0Rm5WTlNtYVF6MEVuV1ltVjBQcmtKeWRTODBXbUtRSnZkVXRETDB1bklNeFliTTZ0TFBJWEs3UXJJVkZpRVRRMkZNVHcwTS02RDJkTkpuNlpQMA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
-   "source": "CNBC",
-   "time": "2026-10-14T04:07:00Z",
-   "link": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Gold (XAU/USD) Price Forecast: $4,226 Breakout Could Reverse Gold’s Trend",
-   "source": "FXEmpire",
-   "time": "2026-10-14T04:03:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaU85cDlITVpKY2s2SWdHOHJnXzRSRmpjZ3VRbUUyMFFOdFY1cGp5ck0yeWRPZ0dwMWxmUkR2ZWRkQ2JBd2NQczQwNmlJVF9GeWNpUHFtMWRIZTZLbGtJekhMQUhzOXhIMzFVYVFlQnByd0hZX2FWaGZXQnhzMVhUVTBrbW9KeWVBOE5qVXFRczVxelU5eWJqMUlPNlZCWXVqOHJXWlM4RHBKQzFxOWVFTS01S1JUaUxNNmc?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "From Allies to Enemies: Ethiopia and Eritrea Edge Toward War",
-   "source": "The New York Times",
-   "time": "2026-10-14T04:01:07Z",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb2FQTWlGMzdwSWxvMmdvRDNvc290Qkk2bnpjbkxIaU5UZUVrXzZPbWgzR3JuQ2dPOXkyYlk1VjhMNl8teWJ3aE41UFFLS0pnYlB1ZGEwS0lPYzJYcWRkVjZwdkw3NEgtUXFwZm5jdDd3cXVxdlZCMnEwTDNway1tZmZtMXhjWFl0RmtOTlFB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Qatar Rewrites Its Gas Playbook With Old Tankers and New Tactics",
-   "source": "Bloomberg.com",
-   "time": "2026-10-14T04:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMEQ4Z2ctb2ZRQmVfTVVNcFJTaWpmYkdjS2NsWXVWT0FUdnRlS0YyczNUdVRvbk1IVm5ZSzVBTlFFdlIxeWN1TE1IMjU2Sng3ZGpkOU42aGFtQ0xQelJBN2ZkaUp6eUZoTGRfYWwzcXBvaTlCRFJnY1NfaFF1Sms5eG5TX2tGNy1rNmJKdTVSRU54QW9JVzl4NE9NRmFMNjNHcVkyNkFtMFhKUWc5TWFHc3JDdXdwbWFmbTRDVk1qRko?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "investingLive Asia-Pacific market news: dollar softer ahead of US CPI",
-   "source": "ForexLive",
-   "time": "2026-10-14T03:44:48Z",
-   "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-dollar-softer-ahead-of-us-cpi/",
-   "tags": [
-    "USD",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "China's exports and imports surge past expectations in September",
-   "source": "CNBC",
-   "time": "2026-10-14T03:41:36Z",
-   "link": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
    "tags": [
     "CHINA"
    ]
