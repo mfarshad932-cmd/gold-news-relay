@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-10-15T10:59:02Z",
+ "generatedAt": "2026-10-15T11:27:26Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 1
   },
   "fed_monetary": {
    "http": 200,
@@ -58,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 10
+   "kept": 11
   },
   "bbc_business": {
    "http": 200,
@@ -67,8 +66,8 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 29,
-   "kept": 5
+   "items": 23,
+   "kept": 6
   },
   "aljazeera": {
    "http": 200,
@@ -82,27 +81,27 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 35,
+   "items": 36,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 37,
+   "items": 36,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
+   "items": 15,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 45,
+   "items": 41,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 20,
+   "items": 19,
    "kept": 12
   },
   "gn_yields": {
@@ -127,21 +126,105 @@
  },
  "items": [
   {
+   "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+   "source": "BBC",
+   "time": "2026-10-15T11:25:19Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Walmart is a buy as inflation attracts more customers, says Deutsche Bank",
+   "source": "CNBC",
+   "time": "2026-10-15T11:23:25Z",
+   "link": "https://www.cnbc.com/2026/10/15/walmart-deutsche-bank-upgrade.html",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Rafael CEO: We ended the Iran war with more interceptors than we started with",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-15T11:21:16Z",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FNWhJWVVFcXdsM1JScWZzb0RfUzVhNjZ6SFZxdWJUQTB0NGoxdjRZN0YwMkJGcFczVUF4Ni03bDNQVnFPM3ZSZ3VZQUZpQWE3Q1JxV3ZZdExpT0NHakE4TTc5TQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Nvidia must work with Chinese AI companies on safety, Jensen Huang tells CNBC",
+   "source": "CNBC",
+   "time": "2026-10-15T11:12:51Z",
+   "link": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Gold price today, Thursday, October 15, 2026: Lowest open all week ahead of PPI data",
+   "source": "Yahoo Finance",
+   "time": "2026-10-15T11:12:39Z",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVUdyMEV0cGh6dkFmSnFOTm42QnhoMDl6TU95ZTJmLTJQTlNYWmxLOFQ4WHZDNUpjanF2a2l6NnB4Y3FUbWhUS21OSjhvdGp1aWRmNERjTS1LLTlseHU2MGNiNVJHd2toOHc5THRxcHpHRWk3a2hUNVRmYU9HalMwTXdrbHBfWnNydTFOUlI3TnVxT1k1VnB5eGF1dmdhUFhkWmU3UGFzUjc4c0djSGRrc1JfZklocUMwbG5mX2NjUVpLX2F2aWk3dzRhOURWOWZuazhKZzZJQl9OTE5JX3Y5ZXdhT2NPV2VTMzJHdQ?oc=5",
+   "tags": [
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold recovers as Treasury yields fall, US PPI and Retail Sales loom",
+   "source": "FXStreet",
+   "time": "2026-10-15T11:04:27Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaUxfYmhfXzNFem01QXBLRG1oNmljU0hRMFp2YWdFV0d4alBSRFNtYW5fOVEwWno0ODZmRzBlX2I3NndyRnhxbkJfd0gtWFh5Mm0za3F3ZXNWODdJLTFLcV9XQmlNbTk0bjlFWlE3ZnpkYUpRWDdwNUtUT3J4Um16WXpJMGw0QmhLMkdMSU84ejVMU2x3YnVQdjUtdzNEdTFUU2Q5ZDZQeEVNc0U?oc=5",
+   "tags": [
+    "YIELDS",
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "MINT: The Extra Yield Over Treasury Bills May Not Be Worth The Risk (NYSEARCA:MINT)",
+   "source": "Seeking Alpha",
+   "time": "2026-10-15T11:04:25Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlNwLVJZcHVUYi1BVk9VR0dyaW9vcXVEM0tRcVVZS21sMV84Qm93UnBWRjkyMklrNm5kU19ETXFReHJ1STFTcVJKU1BlWlAzRGptZGpmMy1VUnpiMGxVSXZhWlZZSHU0YUU1SG9UcHJ6YTZiS0tRYndSdkhTRmg0ck5BTlQ0NWgzbDI3bi1kMEhndnI4WGNPUkQyaHRjRnYtdDREd1JiN1ZGY2s?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Harris says Biden should have acted sooner to stop IDF's Gaza conduct",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-15T11:04:10Z",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DMlhVVzVOaG9wS3Qzb3lzNmhFOXlIaXdPWlF4U21zVms5Rk9hdlp0S01lOXg0eVJBTDRkcnEwdUpqRlFGSTM2U1NJM0wxeEhZakw1cUZzZ3I1eGZlQnZnSlJ3eF9BSjZoX0E?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Daily Briefing Oct. 15 – Why are the Saudis so poor at war despite spending billions?",
+   "source": "The Times of Israel",
+   "time": "2026-10-15T11:03:45Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeEF2U0VYbTZpWHdqcDA5LTRqTW9hLXpCV2dnLWxNTkFhQzlHQ3JkS0F4Rk8tS1JwOXAzQ2NoN2wweUZ6NV85UC15aWlwQ1YzUHBOYjJ2QTc3UV9ibEZadmJCMnc2M3BVa2lkazl4cmZBdEJkeWZQRE5fM0lZbDZzQlNKX1dzcTZmUlpkcG5HWjB2R3lUZkdkYUFaYTJ6T2NDNTlhSDdkS3R5Vm9fYTlXQmt30gG3AUFVX3lxTFBCOVduV2FBTTcxcVlzUnpvVXZMbElDdzRYMDVnVXJzSkcwTDlsV2RiWUJiR0VBam1aZVhOVTdrYTJRR0tiYzJDeEh4MVFqUlBGamVtQ2NfRHFDZE9XRmp2aENLSlFXMkVLc1M3Tm5DdHJhdGIzMkpRdVQ0SnpUcFRTT2JXMlJXdFJGUEtLSkVlcU5jM09pLWxCSkFic2pTdHRsWTZqNjV2dEpDeF8tTy12c0phUThMbw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Some GOP walk the line on Trump’s tariffs and a look at Apple HomeView: Morning Rundown",
+   "source": "NBC News",
+   "time": "2026-10-15T11:01:30Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMGhQdnRUeFlBYl81RGJlM3pvSUZJeDZKWUVHSFJHaFBlcnRvaDZKU1ZmLUhpbE9kaUtPM21lVU0xT19GUGJrZF9ablR5dTl6OGl2LWJBUFRWdkhYQll6S1loazBWWko4NzQ1c1FiVHhZT2ZlcHR3TEVyendxQzU3bDF5cHJIRG1obDM0MERmRi1VRVBiemFrOTdod1o?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
    "source": "CNBC",
    "time": "2026-10-15T10:54:20Z",
    "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-   "source": "BBC",
-   "time": "2026-10-15T10:53:40Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -160,6 +243,16 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jM3VNbExndU0yMFM3eC1ldHdLSXJlLWRLRmd1eFBfbjlRTjh5SnZrY0FlYWtnREU4TENEcnVfUWRBemx6aDJwa2gwTUQ5Tmo5cWZzbGo5SnZYcmJIUEJjb054cXVlZEd4?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
+   "source": "BBC",
+   "time": "2026-10-15T10:27:26Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -593,103 +686,6 @@
    "time": "2026-10-15T08:24:25Z",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSFBScUl6RHBFalJsZG5BMC1UZGtYVkgwcF84ZC1QdjZBXzkyR2ktdzM2bE5PenRTTWpxcDZ4bmJDMUNRdkxfbFFQZWgzUnBkRXpERUpCSXFMVHpTTURTU284OURmUFZxNm1xSjJqMlpoYnZndHNtMUwydVA4NWdKSEhZRjZ1bHlBb2N3UW5jakZUdFl2TEVLLTl1MmppTmp5VlIyWHVRaWZZN2NHSFhfTWJnWlhvYVM5?oc=5",
    "tags": []
-  },
-  {
-   "title": "Gold looks to build on strength beyond $4,150 as USD stays weak amid declining bond yields",
-   "source": "FXStreet",
-   "time": "2026-10-15T08:24:06Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNekVHbHZiN3lrUlpXRGFPSF9xV2RhNXhYVF8xNkEzVEl1djc0aHdVU2tCRUJZVHV2QkhzdlpaWk11M2wtVkQ2RV82elZ4RUJBZHRLR2dNSGFsRjdYRGV1TzBzRmYxQVR6QzJnUzlpbVlzWjMyd0cxSlBxTF9oX0hDZ0NMZVBLa2VBcXdGdWlJdndZZ2lEUm9aUkFnZ1VUa0xDcDJmRDBrWjBQb0trWXYzaU8tVXNyQktHeVpaTzJpSGtiRnpFSm9GRw?oc=5",
-   "tags": [
-    "USD",
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
-   "source": "BBC",
-   "time": "2026-10-15T08:11:48Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55WlVaQ0dKd18wLTRNdDZ1clMtOGU2eTBYOU5wWnY3bWgtU3lWTmNpd1pHTFZNaW9BVDZWMXh4Si1jd2c0S0pxalhyQ01FU1NXb2s3elViWGY5MlU?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Oil prices slide as US weighs easing sanctions on 'shadow fleet'",
-   "source": "Yahoo Finance",
-   "time": "2026-10-15T08:11:41Z",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkpLaFMwM0tpZVl5NWh2RUdZeUxWeXJaeWhQcFVncW5LVHRGNGVyMW5ZbGxHZTRBZjl5Z1NmeXdZaFBaU3RjR1lFdnVfZzdzU0hHRU9JNzdLa3pHZHV5UTduYkVoNzRXMDA3MC1RaUh4SFhVSnpMck5PdHVobWN4dVA3S00tZVJadlZyTDBLQWxBZw?oc=5",
-   "tags": [
-    "SANCTIONS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Containers and debris captured floating around the Strait of Hormuz",
-   "source": "Al Jazeera",
-   "time": "2026-10-15T08:06:06Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil Price Forecast: WTI and Brent Ease as US Weighs Tanker Sanctions Relief",
-   "source": "FXEmpire",
-   "time": "2026-10-15T07:55:16Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSE1YenhZbHd4STRxLW5VREIzRWhjNjliUVltVnFmanczVEU0VGMzMWpxNW82S2xiZ29KclJHNTg1N1hnVmZPaExiX2ViLUNEQ09qeXJaSVQxd1hmbnBYYkg1ZGZDcXNHU21CODhhT1JLemdkVFB0a0ItV1BKbGN1VHd3MGhRQ2kxQmN2R2JOZVgtc0tBU2tkemxsYnhqRlBoZkR2Q0JjT0NoaXpFS09CNkhrMkR4WHp3TEJKYWo0YTZodDg?oc=5",
-   "tags": [
-    "SANCTIONS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "U.S. Treasury yields plunge after hot CPI print as investors await more economic data",
-   "source": "CNBC",
-   "time": "2026-10-15T07:52:47Z",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTG9TMW5xNVlWX1Z1M2tfVmlrX09EZkoxQjFSTFBoWjRBVkE5WTlHYnM2T0hGM3hqSjVHdjZxUHR4ZXhiYmRGYlhyQ3U0ZnR6UEVIUVFSVGt5cUNMQWxQZTVsY0cyUEhjaVdaZl9sY05OdzNkeEk0VHNJb0hZUzZaSGd6TUxyOXfSAYwBQVVfeXFMTkpIcEhpSzBodHBTMk9lMjdSZnVSTnY0M0xzSEhYVmVJbC11ZTF3U1lIekRJWnVQZWRoQVlpRm1DcnFDaWtlWnBGU3czWnRPLVlMaHZsdkdPNEk2cTdOclVSOXN3NzdzY0FmaXhDbVFxaWRZUDh3SE56YjRKWjlFQlE1YmNJSi1fVlVSaTM?oc=5",
-   "tags": [
-    "YIELDS",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "China gold market update: Q3 ends with strong official gold buying | Post by Ray Jia | Insights",
-   "source": "World Gold Council",
-   "time": "2026-10-15T07:52:28Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckgzTVVVNEdtcjU3d0EtWWVybTYwN0ZuUndKZXRhOUFQMDhMTGROOFVXWTBMb1FuTkVvUktrWmJKUnlfT21lbEFzdVZ2SDI3MHFGdGdOQmNMSG9CZGpzYXJyOWxaeWVmaG5IN0ZvekdDUnczMXJvSGdHWFpTQXlmZ18xZ3ZLNmxqOGNqdUVMcDBodFM3TWJfcnd3cGx3TjlsTFdQWmN3WlBqb3hH?oc=5",
-   "tags": [
-    "CHINA",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
-   "source": "CNBC",
-   "time": "2026-10-15T07:51:22Z",
-   "link": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump says Iran war will end “soon as I want it to end",
-   "source": "CNN",
-   "time": "2026-10-15T07:50:00Z",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ObkZ6WEdlRFhLOWE1Mi12SU1nNXkwSlo5azlkcGFQSUVZVUhfNlV4TllNbEY0VlBhN2RBVnd4NHljWm1TN21oWEtrRzk4eXQ5M3h5dmplYzI0VTQ0RFdnWUE0NGhwQklab3E4U0dVM0c?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold (XAUUSD) & Silver Price Forecast: Can Gold Break $4,161 as Silver Eyes $55.41?",
-   "source": "FXEmpire",
-   "time": "2026-10-15T07:49:50Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ09zREwzc09YdG1JOUdUWjlucGN2dDZMU3pXdEF2QkJaZVVuNktTQ2xVaVA5RlRQR0JGTHB1V0VaSjFKUnBUYUltOW5KNFJiOEZjWF9JZ2NIekpqMXYtYUY5dk9KVlFXRGNnQUpqRTJOT0IzWEQ1NnM5dTctQW5tSW14UzJpXzdTNFdYVkk4cU80LXNVYVZJemlRTy1BSUlObVNuSEVGSVNQZThrcVpqYm1mUlZROFV6YjFEMjBRUnYzOFk?oc=5",
-   "tags": [
-    "GOLD"
-   ]
   }
  ],
  "fedCalendar": [
