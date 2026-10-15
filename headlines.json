@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T20:26:00Z",
+ "generatedAt": "2026-10-15T20:54:22Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,12 +52,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 3
+   "kept": 2
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 4
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 2
   },
   "whitehouse": {
    "http": 200,
@@ -81,32 +81,32 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 35,
+   "items": 36,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 27,
+   "items": 22,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_war": {
    "http": 200,
-   "items": 36,
+   "items": 40,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 13,
+   "items": 15,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 59,
+   "items": 60,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 10,
+   "kept": 10
   },
   "fed_calendar": {
    "http": 200,
@@ -126,12 +126,93 @@
  },
  "items": [
   {
+   "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+   "source": "CNBC",
+   "time": "2026-10-15T20:44:46Z",
+   "link": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
+   "tags": [
+    "USD"
+   ]
+  },
+  {
+   "title": "A Gaza war documentary sparks outrage in Israel",
+   "source": "NPR",
+   "time": "2026-10-15T20:39:41Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVVjMWRHODQ1TGJTWElJeEEtbHAwU1ZWcDg2c3N2Um85RmNkcXd0M21SZVU2M0FNUmtITjJZVmdrSGVjLUR4WjMySVVCX19uVFh6QUFWUG5RTUI3OGQtRmRZak1BUmZoTmJWLUltbmVRVFVaYnhCOF90M3kxODdrbGVXc1FhZHBfRUN6UDJfeldJQVF5eWFN?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iraq parliament fills Cabinet posts, naming a US-sanctioned deputy prime minister",
+   "source": "AP News",
+   "time": "2026-10-15T20:35:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNVNDa0VPNWh0VGhTMEFaLTFrRUcwd28yOC1tRWpGUHp5SUFQQ0tpOElpQ2hWQzdrNnJ1RUFTamttYW00TG9ySVRNQzdNR29VVnRrNTlVSkVWcjJjYjRaSUhPZFhTYU5hR3J0Y1hIQlMxaVlpRk5aUDJ0WF91bnZfQzJZU3RpanM0YXNacGNCMDlmeGF6cG1BeFdfVFZDRjVKV2NqUzVBQ0Y5akVUMDdv?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Retirees can take these steps to shore up income as yields rise and some dividend-paying sectors slip",
+   "source": "CNBC",
+   "time": "2026-10-15T20:30:23Z",
+   "link": "https://www.cnbc.com/2026/10/15/retirees-can-take-these-steps-to-shore-up-income-as-yields-rise.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Stocks Gain as Treasury Yields Give Back Some Recent Gains",
+   "source": "WSJ",
+   "time": "2026-10-15T20:29:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzlYZElEckt4bFB3TXNMTUZBYnV4Z3MxVkJ2cFB0VldmQk5xajFmU0tzeDBMTVZhT2lFOUV1c1cyVFF2em5FU21sb1BLT3p5SEo4Q2huMWdvbmNubG11WnVaLWxlVWtkbHF6bVZWWTNKb1QxUlFtZ3dvWl9VRHAzWnF5VlVtWENIbzNoVjA0YmFybDQyUHVLa2RVQ3hSQ2R0VVRDTA?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Ousted general warned of years-long missile defense shortage before Iran war",
+   "source": "CBS News",
+   "time": "2026-10-15T20:28:58Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWNTdkVxSFAwejREYWszQlhvM0RtWUYzdU5OcDRzSlNmVEtlWld0dmxYUER4MHVnaEJBRm4tdzNpVEprTTJ1RzFBcFJpc3FzTWo2ZHpxTEs4UkRSbng0dkI5QzgwdHdnNl9QeVZsVndPX21ZRjgxak9QdUxwaWt2NTMwNnY?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Canadian government bond yields slide as yield curve flattens",
+   "source": "Investing.com",
+   "time": "2026-10-15T20:22:57Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3NUWE5SUVJ1SndzQjNFY3FHMXh6SGw1TTBBOUNzcmgyU1Bla3RxSkgtVmstdHFXZVdjQmNHYXFRcHNTYllmeVNjbUNxbFZFNVIxMjR5a0N3d1VENTJBZjIxaFNnWFEzU2phSnFGcUFObEZMeWxYUThHOERtMUthVnpobnpQVVV4WFlDVUQwajZIb0pGOUFoM2pSRVkzWDgzNV9kclEtSEVlTXl2WktDbHBkcw?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Saudi Arabia says it thwarted a missile strike on Medina, and other Middle East developments",
+   "source": "AP News",
+   "time": "2026-10-15T20:19:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVQzNWxwVUxqYThJN1JqdEg5dXpXU3ZKVjZ4Z3BiSWpick5JOHNMSnY3ZjhfcGcxd25uZHRObmVhb2hCOWlKaEdSckJZLXJhb0xLaloxb2lOQXZ4X3lPTWZ2LU1acVlMeUZNYUtZNlRsQWhlaTRpOExSVnA5MlVyaThMOVlzRFRsNXNnUnJ0ZjViaS1LYURnOWNVX2gwSXJBWjAtSXZzcw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "CFTC Chair: Investigation ongoing into questionable trades around Trump Iran war pullback announcement",
    "source": "Fox Business",
    "time": "2026-10-15T20:15:34Z",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kZk5DR25aYzFyNVJrUDZQOU10ZzBtSktGOTlReTE3NWVGVzhhWGZRSFJDLVBJbnNFZmJ1RW1ST2xIYlFIUFJibHBIdGFIQ0hkdU9WcTJzb1pHQmc?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US Equity Markets End Higher After Government Bond Yields Fall",
+   "source": "marketscreener.com",
+   "time": "2026-10-15T20:11:17Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWXJmVWJKSkd2emVuVGcyaHVsR05vQmYyUmtUT09pTkdiR1plQWl4Uk13WGYzTmlFd1M4T1hJRVRzMV81enJsVkdKNjNDa0loOWFXRzlUZEt0bXg3aWlmTkJGdTY0X2hjTVNmbHBONHoxekxLV2RPQTRpVE9yNTJCOUF5aHFjOUFrbGZrVy1BbHN0WWoyRkJ5OWtROTRsZ3d0aXRPb0V6VEk2eHRxVXpJbGpGMldudw?oc=5",
+   "tags": [
+    "YIELDS"
    ]
   },
   {
@@ -151,6 +232,16 @@
    "tags": [
     "FED",
     "RATES"
+   ]
+  },
+  {
+   "title": "US PPI shock: Why falling yields matter for the Nasdaq 100",
+   "source": "FXStreet",
+   "time": "2026-10-15T19:58:17Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX0FJTXV5TEdGZm5pVjk0cV9pRWZmUlJ1b1hlWUNXdGE4bUp2aFNCdThWTGdicmx1QXdzQlNxMmUzSGZ2em05TUtKVDRZdTk2YXFQQUhtVUF3NF84OF9XblBqMUdmRmR2X3BqaUlSTWtyZnUtOXh6ZzdrMUEtdW5PZ3JvckNZbzQ2d1h6a2VqTkU5ZjlwN2hVTTBhOS03Q0k3R1h0cTlQLUw4U21KQVgtOTNNQ3hWZWJYeUVFZ3htTFBfeWM?oc=5",
+   "tags": [
+    "YIELDS",
+    "INFLATION"
    ]
   },
   {
@@ -179,15 +270,6 @@
    "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-yields-continue-to-fall-even-after-hot-ppi-data/",
    "tags": [
     "INFLATION"
-   ]
-  },
-  {
-   "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
-   "source": "CNBC",
-   "time": "2026-10-15T19:43:40Z",
-   "link": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
-   "tags": [
-    "USD"
    ]
   },
   {
@@ -224,6 +306,16 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaGlfLWRfSDdkRWFPN2NFakZxc1habGh6MTFaMVZwNWpHLUItLWh2NW43VjNTcmphRVVUN2h0anJDbEdHWDNFeEFxUnJoazRFd05QSHlibHFWMEt0MGJUQTNBcFdicy1tcXNhSUxZN2pub19XX2lRd2RFZ3RMU3JQZWF6LU5HNFFTRVRsT3B6WDhnYkl5aWxLVGhYZHZSMFRoTnc?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Houthis building advanced missile system using Chinese parts, Wall Street Journal reports",
+   "source": "CBS News",
+   "time": "2026-10-15T19:04:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN2VvaGE3LUx0SmVGcDFkeW5mbjVRUGxvZzRLQkx0SVdvWjNueGNwdm42Qi1SOG13Wk9zN3NBUUp1aGozclVhQlRvbFlkVG5KSUFCRnNxdXZEM2Zlc0xUWmdsZHJRQjA1V0ctQU5ZUmFocmxjcnk4enBWNUZ5R3hwNWNrandZekRUMkJ6ZTZkQ21TMk56dlVBTHFZenhncUVpUTROR0ZKWlRuY0NXWW9HTXA1S0hGdjkyRFVZ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "CHINA"
    ]
   },
   {
@@ -416,6 +508,15 @@
    ]
   },
   {
+   "title": "Rate Pressure vs. AI Demand: Rising Treasury Yields Trigger Nvidia, AMD Slump",
+   "source": "TradingView",
+   "time": "2026-10-15T17:12:17Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUHQzTkZhdXVwNWVKT3lhMUVWN1Y0dTNGb1htT1JSalN1a29GRHgxLU8wTm9rdlRvMHhHaXA2bk1CczJLczZFZlNTRE1mMjdWRmZaN0gyWjByNTFudXdLMVp2OXQ0WHhqMnpDSUN0SG4tSGV3OV9URUduYjdxMV94MlVud2U5TVNRa3B0ZDdtTnBmdDdldGM1VjFpTlhjNnI3SGhYV0loNUtpN0JoaDdPMUpTajJNalRQUlhiajR5eEJ2LUczQnZWRjRLNEpmUQ?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Rising Treasury Yields Trigger Nvidia, AMD Slump - Advanced Micro Devices (NASDAQ:AMD), NVIDIA (NASDAQ:NV",
    "source": "Benzinga",
    "time": "2026-10-15T17:12:17Z",
@@ -581,110 +682,6 @@
    "tags": [
     "USD",
     "YIELDS"
-   ]
-  },
-  {
-   "title": "AI trade rout sparks flight to Treasurys, bond yields sink: Chart of the Day",
-   "source": "Yahoo Finance",
-   "time": "2026-10-15T16:32:56Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWdJRWVpR1pqY3RDSUltTkQ4WUNrbzAtNXAxNmNsVWtIOERYcmlsRm5ITG5sekFYUHFxOHpXZi1OaEVfV1oxdjQtSFJOVEZESmpROXlxdFNHUmR6YXc0Wl9BaXRnNENoN0M5Qm9oeFJ3Q0E2VlZnT1pjUEtJeWh4V1NIQ0szWUh1TlRpMTRvYkRuYTFzY0RPZm5ZMXpqM2RIaFI5dDhGY1RYSE9xeHlvb1ZTa3hQXzdEblhVWWVTY0tNNDBJVEEzZ3NZcw?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
-   "source": "CNBC",
-   "time": "2026-10-15T16:14:05Z",
-   "link": "https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Gold Faces Fresh Inflation Test as PPI Jumps and Rates Stay in Focus",
-   "source": "FXEmpire",
-   "time": "2026-10-15T16:13:54Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2M3cXZxeTFDeUpJV0FwUjhjM0hMRUpRSXhIMFJIdEVJck5hS0Q0Zjd3cHFkSFFtN3RTSVk4WkI3cjM0czlzNkROT2ZXY2pwZS1zX0gtSHR4NGhNSFUyeW5EMTJpNmp4X1VWcVU3YVZibm1JSUxSc05VYTRhdVpUdlh5N1c5eXFFazVhWDBpeHRpN29nT1R4OFZWakFFMEI1Ym8wN0hFVlRlSGdsc25Oa1ZOOGRNTWEtcTVZ?oc=5",
-   "tags": [
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "How are Yemen’s Houthis attacking Saudi Arabia so effectively?",
-   "source": "Reuters",
-   "time": "2026-10-15T16:13:44Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWFHTEc0MTZnaUdvM3VtaW8zVFgyc2tmemRfV2l0N3VhaDVCc2hCb3N5UEtJZE84Qi1fTWFadXZfNm1WS092aW1heFM1YVlVQnp3aTd2dHQ4T2stMWVoTTJNMmRtcnNxbGdxMG9kNTV2QTFkeXFfcjhTVUxhTkVVNHBxTTBrSlA2QkpHcHVqUFNQNXp5UmlJb1JzQXBZZFlhSUNfTzRyS19zYXZNczJPUWhETDc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Treasury, Eurozone Bond Yields Fall as Risk Aversion Beats Inflation Fears -- 2nd Update",
-   "source": "marketscreener.com",
-   "time": "2026-10-15T16:12:29Z",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSlZfMEhLMDlpLXJkT0pIeVl6MzFUQ3lOSTN5MzIzWndGQjc0WEhXWGV1SXlhMnJpbkUzcS1yV1lLaEl4N1dHZ0RQNWd3VDBwTDNEdWRONGlSRDZKd1lHUXNCcEEyZDJOekwzd1hpNlBUQnhJOVU5RzRyampkUk5Kd0w5elgxUVdTN3ZGVHNmWlQ3RGhZWWdSbEFsS19qbUlTbHpXYlJKMkR4Mmh5OEQ3dFQyVC10OTV3VDUxZ3YxQzhvcGh2NTFMSjRELUtrTi0xS0k0?oc=5",
-   "tags": [
-    "YIELDS",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "European stocks close mixed. UK leads gains as bond yields retreat",
-   "source": "investingLive",
-   "time": "2026-10-15T16:07:25Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOHRkcldNT2c0eEtxTWhPaDBPdHVJb0poeWM4eGVBWU9tSFpnSXZKbTVIcjAxN3F0cloyLWViZThyQWdTbW9STHdTRXRheVdYdU10Y05LeFoyazl3V0laYno2MlpId3M3b2lCTEVNVHY3TFNHaUQ2X283Wm9FMzhjb1c2QlAxazRsb3BwcnFfZzVwbTNHQzBBM2piQng4SG12?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter",
-   "source": "The New York Times",
-   "time": "2026-10-15T16:05:20Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY05nMkpmUS1QZ2JLSTAxSVE5eXNwMERaRU5jR1RkQmZQUnRzbHlaSmVEZ1p0TzMwZTUweERTcERrRGFfX0h6aGVuYlJLUk1vMnBMYnpiOEpTYlZYeGw0RE9NR0ZzeHVOVk93cUgzd3d2aUJPcFpjTmdud0FRYzJXVHpwM3pUaEVJ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Crude oil inventories show significant decline, surpassing expectations",
-   "source": "Investing.com",
-   "time": "2026-10-15T16:02:10Z",
-   "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-show-significant-decline-surpassing-expectations-93CH-4952332",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Treasury, Eurozone Bond Yields Fall as Risk Aversion Beats Inflation Fears",
-   "source": "WSJ",
-   "time": "2026-10-15T16:02:00Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVHpmUnkwb1hrcFVSZHJyWXFiNzhpR1BLVXlmZ194WUQ0X0hzZHFGTGZPSGtOQXFmaURndUtlU1ZhYUNOdzUwUHJraG5yZ0laQnJpN3g0VXhvN3ZjeUlLdVRSRXJJUHZDeUVMVlJGUkN2MHNwa1d0bWVZOUNzN1kySS1RaXBmOEM5am1FZXU2UlJpMjVDY09BTE41UWpHNF9tQTF1c3ZvZXpZdXI5SnYtZUZ6eUpZVEMyVUNiN25idFFIbkNiN0Yw?oc=5",
-   "tags": [
-    "YIELDS",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "IEA to speed up oil stocks release including over 20 million barrels of diesel",
-   "source": "Investing.com",
-   "time": "2026-10-15T16:01:04Z",
-   "link": "https://www.investing.com/news/economic-indicators/iea-to-speed-up-oil-stocks-release-including-over-20-million-barrels-of-diesel-4952328",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "China Is Winning The Trade War And Losing At Home",
-   "source": "Forbes",
-   "time": "2026-10-15T15:57:14Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSGNhQjdiUlpRNEoyemhCYXlQVVBLSExzenRHZ3JuVXVXOTBUWm1JU2ZJLVVqZW5CMlVBTlpjaEgzeXJqSnVOZGVyQ3N4c0JEcm5Oc25vejRoU3lJVzh2dXNBTWFMQ0ZxTUFETXNhMGxERmhSZi0wWlVmRHpQLV93QklPcVFZUS1EVEEwOGZENm9VU2F1SVVoakEwZVlITHM1VmFTaG9R?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "TARIFF",
-    "CHINA"
    ]
   }
  ],
