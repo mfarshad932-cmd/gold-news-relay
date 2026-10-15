@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T11:55:47Z",
+ "generatedAt": "2026-10-15T12:24:07Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 0
   },
   "cnbc": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 32,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
@@ -91,7 +91,7 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 15,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
@@ -101,7 +101,7 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 17,
+   "items": 18,
    "kept": 12
   },
   "gn_yields": {
@@ -126,12 +126,67 @@
  },
  "items": [
   {
+   "title": "WTO chief sees lasting impact on trade from Middle East war and geopolitics",
+   "source": "Kitco",
+   "time": "2026-10-15T12:22:37Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSjVUMDdSYTF4VUlLS0d3c0JPVzNLbjU2Ym9KTkcycURhdFhIelZBa3RsN1NGSnRGUnpYX21yUmZsbHNGYUlPWGFMVVVRektOUHE3Y3RkcTJGbUVJTWR3SmIxcE1XR2ZVQmxCVUFaNE84bG9zUHhkVEh5cXdQcm9TZHdrMnVRM3hONUM2LTkzbDBHa2J2ejVRajRiUkYyS0tHZ0hvQ1pBM1NOaThCRXQxd2RlQkg4b0liM0E?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
+   "source": "CNBC",
+   "time": "2026-10-15T12:17:13Z",
+   "link": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
+   "source": "CNBC",
+   "time": "2026-10-15T12:15:09Z",
+   "link": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+   "source": "CNBC",
+   "time": "2026-10-15T12:11:15Z",
+   "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+   "source": "BBC",
+   "time": "2026-10-15T12:03:51Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
    "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
    "source": "Al Jazeera",
-   "time": "2026-10-15T11:48:45Z",
+   "time": "2026-10-15T11:52:59Z",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSXlfR1l2Qy1LRGE2TDhGQ2c4a1dVUklBRHZoc20takFqM1NxUzJtcjhaVk5iUVJZaWVyeXdiSUFNT0RucmRONURmN1ZaRUFFWHBCYTFSaFpFaVdQQ2lyZHNxaWNTazlLUHdJR2NWWUF3V3VfRlBCMzI1NUZMWXl5bk45Ti1IQ0NYMkNkOUl6dXpfbFRRcGk0UGpNcXI2ZVRicmlLck40a2FfNzDSAbABQVVfeXFMTUxzaEJob3dvOUIySVBhZWtXdENVOTBRM0JNY09DeU5ybl9aQU8wLWgxcXU4T3lpNXM0TmQzd2o4QUNaUjFEQTVmUjQxakp6T2lqTHpBZHRIU3BUZi1SaENRWVF0V01fUDI1cmRyZjRCT05xTjQ0Zm9Kdk44ZmpFY1Bqd2Q2b1lXaTNDZGdweDZaUEpWeEdmcjZ2eFo3dnZGRkQ0andTcWxtbm0wS3ZMakw?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "India says first phase of US trade deal nearly done, insists on edge over rivals",
+   "source": "Yahoo Finance",
+   "time": "2026-10-15T11:48:06Z",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2p5UlhHN2xPbzdndlBJUExTNXlabFFXSEZQUnB2UGNRd0x6YTZQZllkcmszdGg3MmJfczZiT1F3b0U4QjVFbnhZQ2ZBamxfOGZRaVpJOWJfaUZVTWNFSmZ5LTNnX29kTlRwT1VvZVVTV0NCVzRVbkl5MjBjUEhRX1JaZG5yVWNIaXJURWpKYTRqMzZw?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -200,12 +255,12 @@
    ]
   },
   {
-   "title": "Nvidia must work with Chinese AI companies on safety, Jensen Huang tells CNBC",
-   "source": "CNBC",
-   "time": "2026-10-15T11:12:51Z",
-   "link": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
+   "title": "Syrian authorities arrest main suspect in 2013 Baniyas mass killings",
+   "source": "Al Jazeera",
+   "time": "2026-10-15T11:18:13Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOElNOVZzck1XMUVTMTFaRkxzYzFUdVpiWUN0OVRMUWNyREc5MkE2MVdvVlJUSUZncEhMZi1jbkw3Q3JMajNYekV0clFVMmhkZjhoQUx4T3llSmhfZE94Q2tlZ3htOHBBMzVvakJ2eUxjeWpnQ1JlT3NuNzYyNjd4bzlYNjR6SWVpVnYzTG1VeTU4bUt1dEVBekYyWkNEX2MtVzBqX3J4cWdSY0NLQ3RJ0gG0AUFVX3lxTE83QzZ5aGpsdEd4YlNXM1pmcFZXbUpVeks3RHNyVFpmbTMyVTQ3VXNnN0pOLVZBLUtXaVppLTZBelYxb0lFR29pd0ZzcVc2dDVsMmQ0cUNNcVhRSlBPQUswSzJTLVozU1RaQnUzUjVwaE9ZQklpaUt5cUZRbnU1MEVqWjctZzI3bkZEQkdnZUxIbGNMQk9kb1g4VDJXYS14aUlwTGYyM2NOX3g4UjBYT3VTMzlTdA?oc=5",
    "tags": [
-    "CHINA"
+    "GEOPOLITICS"
    ]
   },
   {
@@ -257,6 +312,16 @@
    ]
   },
   {
+   "title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts",
+   "source": "NBC News",
+   "time": "2026-10-15T11:02:09Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlEZ042YVJkMUFiaTNQX0hTd01hZFdqMG9yNXIzQ0ZFUGs3cms?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
    "title": "Some GOP walk the line on Trump’s tariffs and a look at Apple HomeView: Morning Rundown",
    "source": "NBC News",
    "time": "2026-10-15T11:01:30Z",
@@ -266,12 +331,21 @@
    ]
   },
   {
-   "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-   "source": "CNBC",
-   "time": "2026-10-15T10:54:20Z",
-   "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+   "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
+   "source": "Al Jazeera",
+   "time": "2026-10-15T10:55:04Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeTU5VVFnZTBlUnlrRWQ4Z2VEQWxac25aYUN1YlpMM3IyOEdZcTF4LUFwMXFYdnNxTTBndDlISWxucERjRWZGczhPbFMwZ2NDVlltZF84TXYtRGxmRGxlZVZuQTFtY3hHTmpQeEtvaGFvcXV1UHNwUmNYTlZmalM5Z1FzS0RKdjFrSWkyc0ZRQnFMZFpneVFTa09nMFdVSGtfdUpSalNZc0VLYzjSAbABQVVfeXFMTm5kcDd2cjk1OEE5TWIyUmhWcy0yYnVIUXdVZFdWS1A4SER4QW0xZ1VFYV9BdmRlZklxZzJjVmNlYlZvSk1GT0h0VXlFaFlPRFhvazhYYnhqYW5hV2puczlzekVyUHRRYmpkX0hvaHdBWkZBOVRvbm5kTDBnUS1BZURiakEtVzdydUJiZGE5WHcwU0pmamFncTVFMFZyeGZ3RHhTTFVuZk9vOE93UGxZTW0?oc=5",
    "tags": [
-    "YIELDS"
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Families of Sailors Killed in Gulf Struggle for Compensation and Closure",
+   "source": "The New York Times",
+   "time": "2026-10-15T10:54:39Z",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQelBPbmd5dktuOXRJN190NTdJeXZzbEVsdzdtaVV5WEFkVG1tV0VxdlcyWEVBRTdKMGthRG9KQWtadmdrUHpTbkwzOUhNemNIeGVYbGl2eGJiNEhuYmVvbXh2SlBPcjVXQ2VpcUlEWnhXWG9MMFdZckUxZHlVRkhMTTByOUlMTFRDdjMtWHF5eF82ZmdX?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -293,32 +367,12 @@
    ]
   },
   {
-   "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
-   "source": "BBC",
-   "time": "2026-10-15T10:27:26Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
    "title": "Donald Trump claims ‘Iran war will end very soon’ as midterm rallies heat up – US politics live",
    "source": "The Guardian",
    "time": "2026-10-15T10:26:21Z",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWlg5N3lpNlF3R1NJa3BIQ1lDbUpzLVE1bFg0NnVqdlR0UjBTZzlNUXRJWFN1RU0tU1EtMDViTkV4VEpiT29OaFRQT2Zud0E5SmJhMjFaR0FrNDg4RnFSU0hZVnF2LWg2THk2U2VzR1d3bXdvdXhUN2d5ckxjYkZxSXNqVkdpN0dzLUYzZFBHY3NqdHVZUDk5RVBYRGQ2ZmNSNjZ3Tll0dmY5OWFUM05YR1huUEgzNlEtaExxMlBwSzYwaDBQVTdKTnVrY09RM0lqZWhHNlhPc2F5NmdYSU9oVWNoSG1VN0kwbEJIQTVqekl1RW8?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger mounts with Trump",
-   "source": "NBC News",
-   "time": "2026-10-15T10:25:17Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlEZ042YVJkMUFiaTNQX0hTd01hZFdqMG9yNXIzQ0ZFUGs3cms?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
    ]
   },
   {
@@ -586,15 +640,6 @@
    "tags": []
   },
   {
-   "title": "WTO chief sees lasting impact on trade from Middle East war and geopolitics",
-   "source": "Reuters",
-   "time": "2026-10-15T09:13:43Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmFldXBLU0N2MEtrUHZGUXFMNEVGR0lsYzJwZDJwdVV0T0ZvN0FENHlMOXdmekY4elZOb1BsV04ydDZMazlQRlREcmowSUFKVkRHYXpXUlRnN24zcFpXUlRYWnNMNE5pN1dDVFZZb21WMzl1SnJZam1GOGFLemtxVjVMUjE2eTFrTEpZNGwtam5yanJjeWFyRkpIQTdtU21sRDZ2MVNObEZJNW9T?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "WTI trades near $94.00 after paring recent losses amid escalating Middle East conflict",
    "source": "FXStreet",
    "time": "2026-10-15T09:08:32Z",
@@ -641,53 +686,6 @@
    "tags": [
     "INFLATION",
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Families of Sailors Killed in Gulf Struggle for Compensation and Closure",
-   "source": "The New York Times",
-   "time": "2026-10-15T09:00:43Z",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQelBPbmd5dktuOXRJN190NTdJeXZzbEVsdzdtaVV5WEFkVG1tV0VxdlcyWEVBRTdKMGthRG9KQWtadmdrUHpTbkwzOUhNemNIeGVYbGl2eGJiNEhuYmVvbXh2SlBPcjVXQ2VpcUlEWnhXWG9MMFdZckUxZHlVRkhMTTByOUlMTFRDdjMtWHF5eF82ZmdX?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Hiking the Mountain Where the Cold War Began to Thaw",
-   "source": "The New York Times",
-   "time": "2026-10-15T09:00:15Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQem5Sb2dHNVYtdnlYUy1YN1JVWlZ0bW9hb3hZeHFaWk5KSS1Ib0g0NTBxTXhwV0stVmN3NGZpNEVVcWd3WnA4b2d2QXM5NXRKdmtVWXpqclJHNjFBZlVrRzFRUC1vcWdYVHZjQklGX3hqeVZIS0Z3dmZRSkVva2pZSVFERkJzTjVF?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "North Korea and China Open Their Biggest Border Bridge",
-   "source": "The New York Times",
-   "time": "2026-10-15T08:49:11Z",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTExDZ1NhbnZ4WTZpbTNCaTlxclE1dzI3RWFkblI3cHp0Y185RGVVTXZJQXV3ZERpazBFN2h6RnFqUTdIRDBtLWFXMjctSVBheDRnUEQtMHhEOHBpYmVfUlV0TlhFTGg4ZUdiUzRvUTVQcjAtMUNLbERlUmQyTUFrNEJ4dWt1YWc?oc=5",
-   "tags": [
-    "SANCTIONS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "US inflation worries aren't over yet as PPI and retail sales pose fresh risks for markets",
-   "source": "ForexLive",
-   "time": "2026-10-15T08:44:16Z",
-   "link": "https://investinglive.com/news/us-inflation-worries-aren-t-over-yet-as-ppi-and-retail-sales-pose-fresh-risks-for-markets/",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Judge blocks sanctions against two US-based human rights orgs. over working with ICC against Israel",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-15T08:41:49Z",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IQUZlRy1YcW0wNHh3QXNzSkJLMzJ6M0tyZi1mTkMwRVEwZkY5RlBSWmdYZm13OUhXbmwwOXh5Nk5CQnVNc2s0TlVqSDVRa0k1MWp3SGRiRGpBbDF3OHZB?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
    ]
   }
  ],
