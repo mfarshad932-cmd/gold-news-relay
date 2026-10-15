@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T12:52:16Z",
+ "generatedAt": "2026-10-15T13:20:40Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 4
+   "kept": 5
   },
   "marketwatch": {
    "http": 200,
@@ -61,7 +61,7 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 43,
+   "items": 44,
    "kept": 4
   },
   "bbc_world": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 31,
+   "items": 32,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 33,
+   "items": 30,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 16,
+   "items": 15,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 46,
+   "items": 43,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 45,
+   "items": 41,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 9,
+   "kept": 9
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,9 +126,55 @@
  },
  "items": [
   {
+   "title": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
+   "source": "CNBC",
+   "time": "2026-10-15T13:16:17Z",
+   "link": "https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "U.S. producer prices rise by 1.3% month-on-month in September",
+   "source": "Investing.com",
+   "time": "2026-10-15T13:04:08Z",
+   "link": "https://www.investing.com/news/economic-indicators/us-producer-prices-rise-by-13-monthonmonth-in-september-4951667",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Treasury yields tumble despite a hot PPI print",
+   "source": "Seeking Alpha",
+   "time": "2026-10-15T12:57:23Z",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR1ZyU2hjQl95MUpkejR2amZEM0Z2a29CY3JOdW1aSE9aSWdaVlRHY09Yd2JZNWx5M0E5bmtzMk9Ham5FTUdkbDRnWENZMWd5OXc0WHNpT2Jkd0Jhd3NRWEJ3a3RPYURjODhSb3dzQVZUM3E1cGZHMzZnWGFEODRiTTJSMUptaG1XQkMwRw?oc=5",
+   "tags": [
+    "YIELDS",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "US weekly jobless claims rise marginally amid low layoffs",
+   "source": "Investing.com",
+   "time": "2026-10-15T12:55:15Z",
+   "link": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-rise-marginally-amid-low-layoffs-4951733",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "Photos: China and North Korea open new border bridge amid deepening ties",
+   "source": "Al Jazeera",
+   "time": "2026-10-15T12:54:00Z",
+   "link": "https://www.aljazeera.com/gallery/2026/10/15/photos-china-and-north-korea-open-new-border-bridge-amid-deepening-ties?traffic_source=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
    "title": "Texas resident discovers second world war-era grenades in box bought at estate sale",
    "source": "The Guardian",
-   "time": "2026-10-15T12:49:00Z",
+   "time": "2026-10-15T12:50:00Z",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSDlzYkhXX0p1Q095OFQ1SkE3bnR2clh1TmRGa2IzOGxXbUNXMk1qMzdVdW01NXZ6M01MWUFNdzY4Y3RJS0pGeWt6TXF6V0UzdXJZamFMWDZFel9wMEl6ZElZYXdNVWQ3MGUtVGE3UUJuVnlmMFJ0WlRsa0RZNkVnMWMxOGk0Y1lEYldObUlvTUctSHJIbHc?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -142,6 +188,24 @@
    "tags": []
   },
   {
+   "title": "U.S. Initial Jobless Claims Align with Forecasts, Indicating Steady Labor Market",
+   "source": "Investing.com",
+   "time": "2026-10-15T12:38:07Z",
+   "link": "https://www.investing.com/news/economic-indicators/us-initial-jobless-claims-align-with-forecasts-indicating-steady-labor-market-93CH-4951685",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "US initial jobless claim 199K vs 200K estimate",
+   "source": "ForexLive",
+   "time": "2026-10-15T12:36:40Z",
+   "link": "https://investinglive.com/news/us-initial-jobless-claim-199k-vs-200k-estimate/",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
    "title": "Philadelphia Fed Manufacturing Index Falls Short of Expectations",
    "source": "Investing.com",
    "time": "2026-10-15T12:36:08Z",
@@ -151,19 +215,28 @@
    ]
   },
   {
-   "title": "U.S. producer prices rise by 1.3% month-on-month in September",
+   "title": "PPI surges as inflation concerns grow, exceeding forecasts",
    "source": "Investing.com",
-   "time": "2026-10-15T12:35:54Z",
-   "link": "https://www.investing.com/news/economic-indicators/us-producer-prices-rise-by-13-monthonmonth-in-september-4951667",
+   "time": "2026-10-15T12:34:08Z",
+   "link": "https://www.investing.com/news/economic-indicators/ppi-surges-as-inflation-concerns-grow-exceeding-forecasts-93CH-4951662",
    "tags": [
     "INFLATION"
    ]
   },
   {
-   "title": "PPI surges as inflation concerns grow, exceeding forecasts",
-   "source": "Investing.com",
-   "time": "2026-10-15T12:34:08Z",
-   "link": "https://www.investing.com/news/economic-indicators/ppi-surges-as-inflation-concerns-grow-exceeding-forecasts-93CH-4951662",
+   "title": "US October Philly Fed business index +20.9 vs +28.4 expected",
+   "source": "ForexLive",
+   "time": "2026-10-15T12:30:55Z",
+   "link": "https://investinglive.com/news/us-october-philly-fed-business-index-20-9-vs-28-4-expected/",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "US September PPI 6.3% vs 5.3% expected",
+   "source": "ForexLive",
+   "time": "2026-10-15T12:30:14Z",
+   "link": "https://investinglive.com/news/us-september-ppi-6-3-vs-5-3-expected/",
    "tags": [
     "INFLATION"
    ]
@@ -225,6 +298,15 @@
    ]
   },
   {
+   "title": "Warsh's quest for quiet Fed gets vocal pushback",
+   "source": "Reuters",
+   "time": "2026-10-15T12:01:34Z",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGZfUDY0VWFGY3BYQXAwTW5aZU1lUTl1bldnbk54UG9VTi1KRFlIeHpWdW1wRVRqNVJpTHoyZFF6R0lvejcxOEdQb3Z6dDVQckNPR2k4WFBWSWN5eUItNFNWZFUyTmJvNnhranNqZkpMN1RkSDhValZ0T0xkcXdUdEh0Y2drbm12TVFIUGxTUlN6WVE?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
    "source": "Al Jazeera",
    "time": "2026-10-15T11:52:59Z",
@@ -269,6 +351,16 @@
     "FED",
     "USD",
     "YIELDS"
+   ]
+  },
+  {
+   "title": "Oil prices drop by 2% as US considers easing Russian tanker sanctions",
+   "source": "Yahoo Finance",
+   "time": "2026-10-15T11:38:05Z",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EbVBrOGN0THBQNVpHZF8wN0FOQ2JGMzBNb003bTNSUEhKamkwVU5JQUsweEgxS3d5MzZKQ2xldFloY1pLQWhnYjhhcnBZTVh3ZHlNSG1jLTVzSzN0WE5TMFFCS0FYbE1hQkZhSHZfN2J1eVZF?oc=5",
+   "tags": [
+    "SANCTIONS",
+    "OIL"
    ]
   },
   {
@@ -502,15 +594,6 @@
    ]
   },
   {
-   "title": "Warsh's quest for quiet Fed gets vocal pushback",
-   "source": "Reuters",
-   "time": "2026-10-15T10:18:47Z",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGZfUDY0VWFGY3BYQXAwTW5aZU1lUTl1bldnbk54UG9VTi1KRFlIeHpWdW1wRVRqNVJpTHoyZFF6R0lvejcxOEdQb3Z6dDVQckNPR2k4WFBWSWN5eUItNFNWZFUyTmJvNnhranNqZkpMN1RkSDhValZ0T0xkcXdUdEh0Y2drbm12TVFIUGxTUlN6WVE?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "title": "US toy prices surge ahead of holiday shopping season as tariffs, Iran war bite By Reuters",
    "source": "Investing.com",
    "time": "2026-10-15T10:17:36Z",
@@ -546,15 +629,6 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ0UwNl8yVFFyTHZ6SjlHY3g2allSUmZVTFZ3d3R2ZEx0T09SckgwMTdMUjE5dnJpc1hDcnFDOXYxMVlnVFkza29LODQ0djhWeVVTUUtWMXdoSjlCaERQclg0TXZMVGdPSF94ckJpbTNaYjVad0FnMlhiZXhlTS1kZnJ1Z2w0aFlKakJhNmQzYmZDWHdrbGY5SUJqU0F2ODU2WnhzUjJGTQ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "France is ‘putting the house in order’ and can slash deficit to 3% in three years, central bank governor tells CNBC",
-   "source": "CNBC",
-   "time": "2026-10-15T10:05:53Z",
-   "link": "https://www.cnbc.com/2026/10/15/france-budget-deficit-moulin-protests.html",
-   "tags": [
-    "CENTRAL_BANK"
    ]
   },
   {
@@ -605,84 +679,6 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQandVdG9MdlN2a1U0bjBNSVZNMjdFZEY5VElXLXpfZXdoUGItSmZLQlZvOExTRDVXcTBwdjJPalZYaHVtWUJhNVBiQXhURkhPZnRCSFdXZjJGdXhTRVd0MWZxYmh1T1d4bS1NcjBUcW1fZGlKdkVpanJ5SlNUcFd6eFlXQy1WM1k4X0xwVTZrY3pyakRYQmZfRUMyYWNRMjFkclFDdFp2S3lsclFzTFRWakxRYWJXZw?oc=5",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "Gold Prices Rebound as Dollar and Treasury Yields Ease Despite Higher US Inflation",
-   "source": "Yahoo Finance",
-   "time": "2026-10-15T09:44:16Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYVBLMlFnTThPMXFubDNhemJmNnBhcHZ5bFBTYTQxZGFJSlJVY1VQMElRVDlaWTFacG55QUZVU1lqNG5FNFhiQXZHLWFsajNDM3VBUGxnSWE0OXpxVEg1UXF1Z25LUVY0MmwwQzI1bjRiU2dRNldjbnd1M2FoZEZfNXE5Z0VSQUdCb25zbWF0Y2s0dk9WM21Yd1VYeGtsdEtGRDVDbmlHUTg?oc=5",
-   "tags": [
-    "USD",
-    "YIELDS",
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
-   "source": "The New York Times",
-   "time": "2026-10-15T09:37:06Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQVlGa1lUdkZRb3JRU3NWRS1jeExIdWIzZDVWLU1sZW0tdlp6a25TMHpmUUluOUFUS3A2UGN4NFdRM1A4WlQ2ejctSmhUQm9jR051Wml3cG1qaFZoX0N0SDRFNHN6YWlNUTZIUlpVS0g1UnhVc1BQVkdWUHRXSWJZVlphX2dVV3RtdUZFRWhiSzhsaXFPbjhoZnNiS0VFbEE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "‘Each country goes its own way’: How Balkan politics shape ties with Israel",
-   "source": "Al Jazeera",
-   "time": "2026-10-15T09:35:01Z",
-   "link": "https://www.aljazeera.com/news/2026/10/15/each-country-goes-its-own-way-how-balkan-politics-shape-ties-with-israel?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil prices sink amid tanker attacks near Hormuz, reports of easing U.S. sanctions",
-   "source": "Investing.com",
-   "time": "2026-10-15T09:34:32Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMzhGYmtGSzNOZzQ3dnNCbWgxRk9xQ25Uckc4Uk1hTXBVT0xtOFoyOVNGMFd4ODIyV2gxeVhkazZtc0lIdno1aGJval90VVpxQ1pQOHNNcWF4T2VJdExvdG1xZkFSRUNLTHlBX1VXejNsLWtGV0tWRkRQNjJiR1NaZzVwNnRfWVVzblFBV2llaWU5QlNiSzRNcDFDYXBIZjJxUHFfdjhnVWt3V3VCR2c?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "How Ukraine’s biggest bank is run in a war zone",
-   "source": "The Economist",
-   "time": "2026-10-15T09:34:30Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU09yRVlSQ3VEdnotUGYtNWNibEN0dktVRkkwb2QzN19HLWd2TXVQSlAtbDhRSWY4ZXVHUmlneGllZzQ4NGwwa2dmcVNGSjJobU9MLWo2YXVob2d3eWNPR0N4SXZRMWtRWkttMXZFazdxdUo1T2hUVUpLVnJ5N2dSblhkVnNUeml5ellaei1DSGRiUGoxV1lpYW8zTlpicGJJTG5JZWNjbGk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "America's not ready for the consequences of space warfare",
-   "source": "Axios",
-   "time": "2026-10-15T09:33:47Z",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yOGlHYURtdi1UZXZBeXFfQnJVcFZHWUx5UkFGZjhTd3dKOFpXd1VJaDJfaFp2VC1sOFJndDlhNDVkMzdqZ3JFWGxnQ3JOQjN4bWdlTldycU4wbDlRc3ItVWFiSm4xdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine to Resume Russian Oil Refinery Strikes After Failed Energy Ceasefire",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "time": "2026-10-15T09:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb05FVXZzdHNnWjV0WDZCeFYtYUJfS0tTb3RNYVpqVVhBRjdBaXFBUF9yRWpLSFBWYXplRUVDcVBZV1lKaUFsWVJNdHNCbGJzR3NiSFktdmxmZGhVMzBEWE5uTE5yZXBMVzJ2UnFnRWxSa2kwQldtLXRyYUFlRndPbjdXYWpSZUljM3Nzb2szSm1kRHlEaHlreVdsZFhYcks5bTJ4M1JfRnI4RFdiRmlOMXNkdHRkZ0lNdmYyS3lqODNkY3VuN3VROS05eG7SAdIBQVVfeXFMTTA4WGk0WEFKaUR6cUQxWnRjU09xRkxCX3Z5Mk83N0NQR2JBVEFvblNJTlVmVFZKYnNrRmRCcTJjdjJ6b3F5a0VSTzJ0NWduQW52RnRoeGpjcXZjdmI5cnU3NURqYlFXcFo4V3l1T19mbkN2bWVOeF8xc2FidDU3RDBNZzRvSlA2eHRQbDFoV0ZsQUM5VDYxdFVkSEpEemoydnNsU202Mk82NkpxVVlUZGdLNkQyaWFRNjhfUVI2ZmpzNS1uTVpDTEFTVlNMbnVEeVhB?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "The Global Story | Why Trump isn’t going to war with the Houthis",
-   "source": "BBC",
-   "time": "2026-10-15T09:29:23Z",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rWm44TmRHZC1wczR0bDdRc2x1aFpIQnQ4MjlDZzZRaFN2NGc0VUo4b19VblNOeEpXYVA4S0JGY1ljUjRZNGZndXFQQS1fcEp1?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
