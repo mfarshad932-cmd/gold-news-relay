@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-10-15T02:57:11Z",
+ "generatedAt": "2026-10-15T03:25:33Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 1
   },
   "fed_monetary": {
    "http": 200,
@@ -73,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 3
+   "kept": 2
   },
   "whitehouse": {
    "http": 200,
@@ -82,32 +81,32 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 33,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 30,
+   "items": 33,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 16,
+   "items": 15,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 39,
+   "items": 37,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 18,
+   "items": 19,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 39,
+   "items": 41,
    "kept": 12
   },
   "gn_oil": {
@@ -126,6 +125,46 @@
   }
  },
  "items": [
+  {
+   "title": "investingLive Asia-Pacific market news: Treasury rally sinks dollar, lifts gold",
+   "source": "ForexLive",
+   "time": "2026-10-15T03:22:36Z",
+   "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-treasury-rally-sinks-dollar-lifts-gold/",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold (XAU/USD) Price Forecast: Selling Pressure Threatens $4,066 Support",
+   "source": "FXEmpire",
+   "time": "2026-10-15T03:16:09Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRm01R0Y5T0pKTXA4ZW41UHJ1OUhfX3l0cE1xZjNGX1pZVzNPcjB0dkppbEhqR21MVUE4XzFvWHlNY0M2X2R5UFZHVFJyVXB6b1ZwTlk3Q2RBRkVqejhVVTlvdndaZENrb0lFRl82ZGFyajVvZ3BHSVJfZ3hwRHVfZjU4Vlk2Y04xR05qdHNUUVRubEozYmFnejREN01HcDNIc3F0VFk1dWxXdVJzdFZlR2kyWEFZQm51akE?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Oil Price Forecast: WTI and Brent Ease as US Weighs Tanker Sanctions Relief",
+   "source": "FXEmpire",
+   "time": "2026-10-15T03:08:57Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSE1YenhZbHd4STRxLW5VREIzRWhjNjliUVltVnFmanczVEU0VGMzMWpxNW82S2xiZ29KclJHNTg1N1hnVmZPaExiX2ViLUNEQ09qeXJaSVQxd1hmbnBYYkg1ZGZDcXNHU21CODhhT1JLemdkVFB0a0ItV1BKbGN1VHd3MGhRQ2kxQmN2R2JOZVgtc0tBU2tkemxsYnhqRlBoZkR2Q0JjT0NoaXpFS09CNkhrMkR4WHp3TEJKYWo0YTZodDg?oc=5",
+   "tags": [
+    "SANCTIONS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Indian rupee to rise after US yields reverse inflation-led spike, Fed hike bets remain low",
+   "source": "Reuters",
+   "time": "2026-10-15T02:58:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaGR1OENJajFoN1pyejk2WXpNSHBSRTFpMzl1WXFiT2NIWGloV1lPc1BkY0VCRGM0VjVrSHMzYnBNVE93WjBWSXVCcTcxVkVDRkEwMC1mUWJYeXIyUlNoMUJBV0JVWEFOaUMwV2tpOHkyVFFESTdVeDFTbnFiVTZLRHVLNVhrelFOTTdhRG5WRVJwb0RjTWF1aU9iWmRRSThRX1NzeUZQMzl5aGV1MXJjYVZrX05mb3dsRE04OGJkRUQ?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
   {
    "title": "Bowman, Supervisory Modernization After Silicon Valley Bank",
    "source": "Federal Reserve",
@@ -154,6 +193,16 @@
    ]
   },
   {
+   "title": "Dollar Weakens as Markets Assess Fed Policy Outlook",
+   "source": "TradingView",
+   "time": "2026-10-15T02:38:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZzVLWlhjOTdub1hOZ3VCZWozbzdRYW5KR1hnMW9lMElGWlVLUWtqUmE5M3VITTRPNE1wMEVlRjE2VDBiOHpKU0FXMEF4SEc3cDhlREdDR2VNcXpyYmNfMDIyaUJhQWM5aDA2aVJRLVdkWUxPa3hJbms4VVVkNjFiTnA3dUJreDZ4dnNlcDVaWnNfTFdCVE1aeDJZUXBEUmdEajB5Ng?oc=5",
+   "tags": [
+    "FED",
+    "USD"
+   ]
+  },
+  {
    "title": "The Dollar Surges as Gold Slides. Could a Turning Point Be Near?",
    "source": "FXEmpire",
    "time": "2026-10-15T02:07:08Z",
@@ -179,6 +228,17 @@
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMU13RTI2UDZBWW1CQ0l3VEQ5Z1RWTi1yNDZkUURZaWw5UmRwSk1qQmFNYTMwS2k0eHdPNi1sM0hEQWJzazlQTHdaMDdvLW1ybUlBZVNZWkxKWW1KWWdqUnRYalUxWEZWb1ZzMkU3eUg1U1ZINHlfUWtKQXJZWUtsRU5NY09YSElfRXZPMWkwY3RSZ3BQVmwyNGRqc3U5YzZITTFDSEVFUU1RbWhiNC1ycFUxMUxubFh2SGZRVy1Ob0xzdw?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold jumps around $40 as Treasury yields retreat from post-CPI high",
+   "source": "investingLive",
+   "time": "2026-10-15T01:40:06Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWJESHBMUWVZbndLdnBybkRsYS1BMldtUm9pQTY3TlF0cnBfa0tQRmtGUjRQZk9xbE5Eam1TX1BpS1dMTXNWT2pmUFVNc1I2VmRsczgtcS1FdlN6UmdCTUJhRmoxTGpGcFhWUEJBZDRLSTdfN1NmSk9iS0tMUnJON3hvZVkzSl9HdWxyTzNLNVlOQVZ3V0I0YUJ1YkRUQ3Y1XzlsT3BNR2w?oc=5",
+   "tags": [
+    "YIELDS",
+    "INFLATION",
+    "GOLD"
    ]
   },
   {
@@ -235,16 +295,6 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcFlKY3NLRGFEQThDcFBzYVo4YWlWWU82dVRacmY4T3FlTTYzVmhBZEZ2bkRJMWt0aWVfZFplZG1ocl9sVElhWjJHMXdmWER6R2hqdjAwZ0lOQ0ZoWWR3VTJaMm5YMGI2bGNsQjAxNkFMYkwxQVBoWmNBT0IzUlBPV1ROeXJQaXJVQ0l2QmE2RGZpblotZzFMWHh3M2s1dlI1a1pEY1pDUUZjV0xUanBPQVktSVRacWQtTzJlUWI3NmdjZlU5ZW5IOWgwNjNZMS1W?oc=5",
    "tags": [
     "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold (XAU/USD) Price Forecast: Selling Pressure Threatens $4,066 Support",
-   "source": "FXEmpire",
-   "time": "2026-10-15T00:57:54Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRm01R0Y5T0pKTXA4ZW41UHJ1OUhfX3l0cE1xZjNGX1pZVzNPcjB0dkppbEhqR21MVUE4XzFvWHlNY0M2X2R5UFZHVFJyVXB6b1ZwTlk3Q2RBRkVqejhVVTlvdndaZENrb0lFRl82ZGFyajVvZ3BHSVJfZ3hwRHVfZjU4Vlk2Y04xR05qdHNUUVRubEozYmFnejREN01HcDNIc3F0VFk1dWxXdVJzdFZlR2kyWEFZQm51akE?oc=5",
-   "tags": [
-    "USD",
     "GOLD"
    ]
   },
@@ -640,58 +690,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Treasury yields spike as inflation data fuels Fed rate hike fears",
-   "source": "Fox Business",
-   "time": "2026-10-14T20:53:53Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lM1ZtUXFJODZvOGprQnBodkpad1BJSC1ZNFhtRlRvZHVPU1MwY0RBM3FJZks0bXBGaG5rb05FYUJ4SjZoUG9KbHFLQUVKbjhhdXRKSkpJaV9EdDQ?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "YIELDS",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Crude Oil Inventories Plunge, Surpassing Expectations",
-   "source": "Investing.com",
-   "time": "2026-10-14T20:50:07Z",
-   "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-plunge-surpassing-expectations-93CH-4950079",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Hot inflation data puts Fed in complicated spot",
-   "source": "The Hill",
-   "time": "2026-10-14T20:49:00Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03N0JPOGNhMEFKWFVlZUItY3hsNWZlMkdSbEQ4dTF1cEJvNTN2MUtJcFZzM1duYlE2aU5FRnR0Nm5iZXpCNzJNV1VLTzJId09IZDc2N1M1bWpiU25DVUY0Yk1VakM1RGd6SmRiQThlUE5EVDRuYzBTZEdxcDlTUkk?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
-   "source": "CNBC",
-   "time": "2026-10-14T20:46:32Z",
-   "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Spot gold slips 1.5% as hot CPI report boosts Fed October rate hike expectations",
-   "source": "Investing.com India",
-   "time": "2026-10-14T20:37:02Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEoyRHhYTHBmRHd0LWREM1RUMjlTcWhDM1pEQnNyYld1YnlnZTdzZzdGR3dPTnQ5bDVnWlpFcUtXMW9MQTBuWndENzBPTzV4UVFZaUVxRnc2UUFNNTZaUnRWZms4enlHUERiYjNCeGFyZ1lrUlgyczVtLThBRVRMNTNhemZwdzVObXBQT2JOQ1BNUmY2SkZIRGU1TzFnQXZmc2dSbEdNZVlfSV94WXBmbGh2MXBXYklnanBZMVdLMnc?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION",
-    "GOLD"
    ]
   }
  ],
