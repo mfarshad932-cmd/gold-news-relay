@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T12:24:07Z",
+ "generatedAt": "2026-10-15T12:52:16Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 6
+   "kept": 4
   },
   "marketwatch": {
    "http": 200,
@@ -66,7 +66,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 22,
+   "items": 23,
    "kept": 5
   },
   "aljazeera": {
@@ -86,7 +86,7 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 34,
+   "items": 33,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 47,
+   "items": 46,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 46,
+   "items": 45,
    "kept": 12
   },
   "gn_oil": {
@@ -125,6 +125,59 @@
   }
  },
  "items": [
+  {
+   "title": "Texas resident discovers second world war-era grenades in box bought at estate sale",
+   "source": "The Guardian",
+   "time": "2026-10-15T12:49:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSDlzYkhXX0p1Q095OFQ1SkE3bnR2clh1TmRGa2IzOGxXbUNXMk1qMzdVdW01NXZ6M01MWUFNdzY4Y3RJS0pGeWt6TXF6V0UzdXJZamFMWDZFel9wMEl6ZElZYXdNVWQ3MGUtVGE3UUJuVnlmMFJ0WlRsa0RZNkVnMWMxOGk0Y1lEYldObUlvTUctSHJIbHc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+   "source": "CNBC",
+   "time": "2026-10-15T12:40:58Z",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZY1NUZjhHeVA2REtJMEQ5MUFyTzVOWXBBNFZWMDdPOFZONHFBcFFzS3lVampLYWNvQUhXZ05HV3Y0cm9UekVaSmttaU1idDZOWHlZWjdiejRXYkF3aUpCejZRenBfY2lwM1ZBLXJ4ZjbSAXZBVV95cUxQMEdwUVpTdThmSlZuaDVQS1d5cXliTEY4ZmxWN3hCcjlJOWRIckc4Q0dOejU5Z25iZGo5VXlONmFyc2VtUW80Ql8yT0dnazVWRkl1R21Xc1RLSjF0NDh2SmZxakRVYWx6NmljUE80Ymw1QVN1V1d3?oc=5",
+   "tags": []
+  },
+  {
+   "title": "Philadelphia Fed Manufacturing Index Falls Short of Expectations",
+   "source": "Investing.com",
+   "time": "2026-10-15T12:36:08Z",
+   "link": "https://www.investing.com/news/economic-indicators/philadelphia-fed-manufacturing-index-falls-short-of-expectations-93CH-4951668",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "U.S. producer prices rise by 1.3% month-on-month in September",
+   "source": "Investing.com",
+   "time": "2026-10-15T12:35:54Z",
+   "link": "https://www.investing.com/news/economic-indicators/us-producer-prices-rise-by-13-monthonmonth-in-september-4951667",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "PPI surges as inflation concerns grow, exceeding forecasts",
+   "source": "Investing.com",
+   "time": "2026-10-15T12:34:08Z",
+   "link": "https://www.investing.com/news/economic-indicators/ppi-surges-as-inflation-concerns-grow-exceeding-forecasts-93CH-4951662",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Gulf Oil Is Still Flowing Despite a Surge in Attacks on Ships",
+   "source": "The New York Times",
+   "time": "2026-10-15T12:24:20Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FN08tZVdYdzRGSTkwbFNVTjdlRmd2RmxpVEdTS05JblktRVpZeElnOGFMajhWNDhmSlVBbGlPdmNEU2FPaG5KWjlPbTRxVmFFLWxWSzg0Q3ZVMUFEYlg0aklhYk1VNHFjSDU0YjlubXQxcXZaOFdJcXZPNXFGNjQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
   {
    "title": "WTO chief sees lasting impact on trade from Middle East war and geopolitics",
    "source": "Kitco",
@@ -178,6 +231,15 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSXlfR1l2Qy1LRGE2TDhGQ2c4a1dVUklBRHZoc20takFqM1NxUzJtcjhaVk5iUVJZaWVyeXdiSUFNT0RucmRONURmN1ZaRUFFWHBCYTFSaFpFaVdQQ2lyZHNxaWNTazlLUHdJR2NWWUF3V3VfRlBCMzI1NUZMWXl5bk45Ti1IQ0NYMkNkOUl6dXpfbFRRcGk0UGpNcXI2ZVRicmlLck40a2FfNzDSAbABQVVfeXFMTUxzaEJob3dvOUIySVBhZWtXdENVOTBRM0JNY09DeU5ybl9aQU8wLWgxcXU4T3lpNXM0TmQzd2o4QUNaUjFEQTVmUjQxakp6T2lqTHpBZHRIU3BUZi1SaENRWVF0V01fUDI1cmRyZjRCT05xTjQ0Zm9Kdk44ZmpFY1Bqd2Q2b1lXaTNDZGdweDZaUEpWeEdmcjZ2eFo3dnZGRkQ0andTcWxtbm0wS3ZMakw?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Lisa Cook's lawyer challenges impartiality of Trump panel reviewing Fed mortgage allegations",
+   "source": "Fox Business",
+   "time": "2026-10-15T11:52:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYmliQTR0R2lTUTN1a1ZYb3ZscWo5ckp2a3F2cF82ZGhYM1pOQjY4WlJKVGZ2SnpqQk5WYVVQQ0NZMktydXZLSnNnUkg5VGhEVGVyQm4xVmVhSDVEWU1rNHIwYU9XNnRWUHhYTlFoblJRcDdwWmNKcnFWWmRPdHdiWFBGUGdJSFpJMGZHTmxsWXZZMHQ4eVpiX2pId0Yyc1Z4OFp4YzJodTMxbWliUHpz0gG0AUFVX3lxTE40T3JrX0RSYXZQTDl0c0JReGYyLXg4R0t0Y0c5OHBnQzlpY3F5aldnS0x3YUhnVHItbUdxaGhVUGxTaXhEU2o2ODg3Rlc4LXh5YWFmUVVUR2p6M1c5b1Qya0R3dGluYnBxSWN6cTdnY0hiZlpFRjM5dG5VOHFncGtpaHZBRnRHSTVScE5SOVNWeVNrNEJSRWtDX2pzQ2U5QURJTHlVTHU0U1Fnbi1BQmtRUWhPTQ?oc=5",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -274,10 +336,28 @@
    ]
   },
   {
+   "title": "Harris says Biden should have acted sooner to stop IDF's Gaza conduct",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-15T11:10:50Z",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DMlhVVzVOaG9wS3Qzb3lzNmhFOXlIaXdPWlF4U21zVms5Rk9hdlp0S01lOXg0eVJBTDRkcnEwdUpqRlFGSTM2U1NJM0wxeEhZakw1cUZzZ3I1eGZlQnZnSlJ3eF9BSjZoX0E?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Daily Briefing Oct. 15 – Why are the Saudis so poor at war despite spending billions?",
    "source": "The Times of Israel",
    "time": "2026-10-15T11:09:26Z",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeEF2U0VYbTZpWHdqcDA5LTRqTW9hLXpCV2dnLWxNTkFhQzlHQ3JkS0F4Rk8tS1JwOXAzQ2NoN2wweUZ6NV85UC15aWlwQ1YzUHBOYjJ2QTc3UV9ibEZadmJCMnc2M3BVa2lkazl4cmZBdEJkeWZQRE5fM0lZbDZzQlNKX1dzcTZmUlpkcG5HWjB2R3lUZkdkYUFaYTJ6T2NDNTlhSDdkS3R5Vm9fYTlXQmt30gG3AUFVX3lxTFBCOVduV2FBTTcxcVlzUnpvVXZMbElDdzRYMDVnVXJzSkcwTDlsV2RiWUJiR0VBam1aZVhOVTdrYTJRR0tiYzJDeEh4MVFqUlBGamVtQ2NfRHFDZE9XRmp2aENLSlFXMkVLc1M3Tm5DdHJhdGIzMkpRdVQ0SnpUcFRTT2JXMlJXdFJGUEtLSkVlcU5jM09pLWxCSkFic2pTdHRsWTZqNjV2dEpDeF8tTy12c0phUThMbw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Saudi Arabia says it thwarted a missile strike on Medina, and other Middle East developments",
+   "source": "AP News",
+   "time": "2026-10-15T11:08:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVQzNWxwVUxqYThJN1JqdEg5dXpXU3ZKVjZ4Z3BiSWpick5JOHNMSnY3ZjhfcGcxd25uZHRObmVhb2hCOWlKaEdSckJZLXJhb0xLaloxb2lOQXZ4X3lPTWZ2LU1acVlMeUZNYUtZNlRsQWhlaTRpOExSVnA5MlVyaThMOVlzRFRsNXNnUnJ0ZjViaS1LYURnOWNVX2gwSXJBWjAtSXZzcw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -303,15 +383,6 @@
    ]
   },
   {
-   "title": "Harris says Biden should have acted sooner to stop IDF's Gaza conduct",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-15T11:04:10Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DMlhVVzVOaG9wS3Qzb3lzNmhFOXlIaXdPWlF4U21zVms5Rk9hdlp0S01lOXg0eVJBTDRkcnEwdUpqRlFGSTM2U1NJM0wxeEhZakw1cUZzZ3I1eGZlQnZnSlJ3eF9BSjZoX0E?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts",
    "source": "NBC News",
    "time": "2026-10-15T11:02:09Z",
@@ -328,6 +399,15 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMGhQdnRUeFlBYl81RGJlM3pvSUZJeDZKWUVHSFJHaFBlcnRvaDZKU1ZmLUhpbE9kaUtPM21lVU0xT19GUGJrZF9ablR5dTl6OGl2LWJBUFRWdkhYQll6S1loazBWWko4NzQ1c1FiVHhZT2ZlcHR3TEVyendxQzU3bDF5cHJIRG1obDM0MERmRi1VRVBiemFrOTdod1o?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-10-15T10:58:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -602,89 +682,6 @@
    "time": "2026-10-15T09:29:23Z",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rWm44TmRHZC1wczR0bDdRc2x1aFpIQnQ4MjlDZzZRaFN2NGc0VUo4b19VblNOeEpXYVA4S0JGY1ljUjRZNGZndXFQQS1fcEp1?oc=5",
    "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil Prices Hold Firm Despite Persian Gulf Supply Growing",
-   "source": "Investing.com",
-   "time": "2026-10-15T09:27:00Z",
-   "link": "https://www.investing.com/analysis/oil-prices-hold-firm-despite-persian-gulf-supply-growing-200689628",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Saudi coalition says missile intercepted in Medina region, after Houthis promised not to target Islam's holy city",
-   "source": "The Times of Israel",
-   "time": "2026-10-15T09:24:13Z",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWW9Kd09KT3pjdzlrcnhRMUd3YTR0R3p5Unl4LUthYU8xVkcxd1BsQ2xlMXJTbUVoLThNQS1Yd1dNdy1CdER6dXg2UVFqV0UzRktRZ0pISm00M1ctMDRUOTQ3ZHpjblY4dm1ReFY4WElVRldmME13d2JpdTZJcm5YNWQzVXV3ZUEtTV92aDZFS2ZTeGxTSG96cW9jRE1FMFRLYXVVVzhVYUVfbWQ1NkNlMnlqVDI1QXRXODczVFBTbGRWTmtBcXBzUkl3dUROSEdtQ2V3Q29zME05U3ViU2FRZjB1aXhucFljWmVCbG13?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "North Korea releases images of its submarine missile test",
-   "source": "AP News",
-   "time": "2026-10-15T09:19:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFVWNF9VNzJDbWJBeGFLcHV2OVFJcnlMcEJGOVQ0QXlMR2VoN2c2dlhWcGhFTUxFcVREbkZnWDlBVUgwTUt1Qk9SUlE2bG5qSDAzTTFNcEVoU2VITHNidDZaQ29GZTlrWlNzb2E5U1puY1V6eEFzRFE2dVZCZmxGRGYtdmVqN2JOQm92MzBRbExEblJGTkE3T2pZV1FMTXRwdFFRUUtvYUFENnpHNW16SW91eTRSZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Stock Market Today: S&P 500, Nasdaq 100 Futures Fall As Chip Stock Sell-Off Intensifies — SKHY, TSM, RKLB in Focus",
-   "source": "TradingView",
-   "time": "2026-10-15T09:18:40Z",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONlVzYkpGc0ZPY2pvVEViX1h0M0lJU29jb0VJLWMyLTRRSGpTUElvUzhnbndBY2w1OU5aYVpXRVk1eXliX0J0c056QzgzREVtOE1ZNTJBbWVqNjRETUkwS0l0aDkwenRtN3BEYlBQd0pPSlo4djdpOWdCOGVQTVFCOWJfa2N5Zm5tT2tDWHNCSFJfemdvM1dQbm5pQkl6STB4TU1HUnlNVnhoWlh0VGFkU3ppN1AzQlJYZWhGMEZPQ0RXNEdjQ3ZDNmVfTEtRenpnemJoTkdlMHd2MWFSR1U3SGV6RV9nSEtaMFcyQXVmMWI2YXk2REV2Nk9rNA?oc=5",
-   "tags": []
-  },
-  {
-   "title": "WTI trades near $94.00 after paring recent losses amid escalating Middle East conflict",
-   "source": "FXStreet",
-   "time": "2026-10-15T09:08:32Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcEwzZUVQVDBTNTluYS1fZzdTc0hlTDV1VURLODlfRlh0d1lGYmRYSGVxSlFsU1JzcGhPN0ltaUxkTk9EVUI0QWZqc3MxWVhVdWMzQmxPQTc4bTg1UC1ub0VpTGcxV0lRUG9zZUwzOUZmMlA3dlhoN0JXS3RTSnpJbm1JbVdJX0dacVZiRjhIaHJVSUN1bklObnRDM0gxMTJXYkdOUzlmUUR2R0paQ1NQNmpBM0g3bXdIbk1iWlJuSEJLOE1Ca3c?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Treasury, Eurozone Bond Yields Fall to Multiweek Lows as U.S. Inflation Shock Fades",
-   "source": "WSJ",
-   "time": "2026-10-15T09:08:26Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVHpmUnkwb1hrcFVSZHJyWXFiNzhpR1BLVXlmZ194WUQ0X0hzZHFGTGZPSGtOQXFmaURndUtlU1ZhYUNOdzUwUHJraG5yZ0laQnJpN3g0VXhvN3ZjeUlLdVRSRXJJUHZDeUVMVlJGUkN2MHNwa1d0bWVZOUNzN1kySS1RaXBmOEM5am1FZXU2UlJpMjVDY09BTE41UWpHNF9tQTF1c3ZvZXpZdXI5SnYtZUZ6eUpZVEMyVUNiN25idFFIbkNiN0Yw?oc=5",
-   "tags": [
-    "YIELDS",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
-   "source": "CNBC",
-   "time": "2026-10-15T09:02:31Z",
-   "link": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Some Republicans in key races break with Trump over tariffs",
-   "source": "NBC News",
-   "time": "2026-10-15T09:01:00Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjYta20zcDI5RzJlVHNHYVZmVnRsRWM5U1gzTGJpMDI4M2xXQ3lhaWJPUEV5SzB1enpEaWF5dk5YaG5mQlBXcUprMVllWFdXNE5qZHBjeEVqTTZxVXJVR3hGQUswanBqeG9YU3ByNkNtdnFCUXBMOHFsdWtDNXJuakEwMG0yR0R3TTNjczZiWm1IcFpKV0FTaktrM2pmSGdD?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump Has Brought Inflation Back to the Heartland",
-   "source": "Bloomberg.com",
-   "time": "2026-10-15T09:00:49Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQazFyWlN6RG1wX2NLa1FuVW5WREw1SW91Z1BPNHpycDNFVFlUZGRUNXhZV0VSNFFOVGRiT0tEN0Y2djlwUnR3RzlmV0xIVDRjYUp3WDZUdDJDbFRta084QVdpbk9YQzJzLVBORTAyUHZrcVkwcEZETzZNR2V4dzROa2lGdWk0RFlYZm1tMzhhSUE4QXZnWE1xYXdNQkl5Tm5mcngxREM3UHVjMjhaVmstVkRzZTdxRm9iRGdkUnpmVVU?oc=5",
-   "tags": [
-    "INFLATION",
     "GEOPOLITICS"
    ]
   }
