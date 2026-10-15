@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T07:12:19Z",
+ "generatedAt": "2026-10-15T07:40:29Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 35,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 30,
+   "items": 32,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 13,
+   "items": 14,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 36,
+   "items": 35,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 43,
+   "items": 40,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 9,
+   "kept": 9
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,76 @@
   }
  },
  "items": [
+  {
+   "title": "Tech stocks plunge as Fed rate hike fears, AI funding worries mount; ASML, SK Hynix slump",
+   "source": "CNBC",
+   "time": "2026-10-15T07:28:44Z",
+   "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "France inflation rises sharply in September as price pressures add to ECB rate hike dilemma",
+   "source": "ForexLive",
+   "time": "2026-10-15T07:16:53Z",
+   "link": "https://investinglive.com/news/france-inflation-rises-sharply-in-september-as-price-pressures-add-to-ecb-rate-hike-dilemma/",
+   "tags": [
+    "RATES",
+    "INFLATION",
+    "ECB"
+   ]
+  },
+  {
+   "title": "US Crude Oil Inventories See Massive Drop Off",
+   "source": "Investing.com",
+   "time": "2026-10-15T07:15:00Z",
+   "link": "https://www.investing.com/analysis/us-crude-oil-inventories-see-massive-drop-off-200689617",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Oil Prices Fall as Trump Considers Easing Sanctions on Shadow Fleet Tankers",
+   "source": "Investing.com",
+   "time": "2026-10-15T07:15:00Z",
+   "link": "https://www.investing.com/analysis/oil-prices-fall-as-trump-considers-easing-sanctions-on-shadow-fleet-tankers-200689616",
+   "tags": [
+    "SANCTIONS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Oil Market Tightens as Tanker Attacks and Inventory Draws Mount",
+   "source": "Investing.com",
+   "time": "2026-10-15T07:15:00Z",
+   "link": "https://www.investing.com/analysis/oil-market-tightens-as-tanker-attacks-and-inventory-draws-mount-200689615",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Gold sticks to gains below $4,150 on weak USD; bulls seem hesitant amid Fed hike bets",
+   "source": "FXStreet",
+   "time": "2026-10-15T07:14:02Z",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNekVHbHZiN3lrUlpXRGFPSF9xV2RhNXhYVF8xNkEzVEl1djc0aHdVU2tCRUJZVHV2QkhzdlpaWk11M2wtVkQ2RV82elZ4RUJBZHRLR2dNSGFsRjdYRGV1TzBzRmYxQVR6QzJnUzlpbVlzWjMyd0cxSlBxTF9oX0hDZ0NMZVBLa2VBcXdGdWlJdndZZ2lEUm9aUkFnZ1VUa0xDcDJmRDBrWjBQb0trWXYzaU8tVXNyQktHeVpaTzJpSGtiRnpFSm9GRw?oc=5",
+   "tags": [
+    "FED",
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold: Hold, Not A Buy Yet (NYSEARCA:GLD)",
+   "source": "Seeking Alpha",
+   "time": "2026-10-15T07:02:44Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUjczclZPSWxwZFIxeUpOcEZlVl96Z1hWdEhqb1FXWExhc0FySUpYd0JpSG9ZMllRdy1LVFNwdzQyTTJyZWZmUUFHVVQ0UmotUDFLdkZ2bHhuZ1RkVXJIaHdBZnQwemdnY3JoX0hYMldBU3RjLVFCZ1VLUnR6SkdlYkJoR2FVTEM0VU8w?oc=5",
+   "tags": [
+    "CENTRAL_BANK_GOLD",
+    "GOLD"
+   ]
+  },
   {
    "title": "Gold Stock Correction Finally Enters End Phase",
    "source": "Investing.com",
@@ -169,16 +239,6 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMS11VklyZDljVk5IRWdxM0hTRnFXMGFHWkFDa1pCczRZLVJzZDhDR2xjN3RRN0NLR2g5eFlKbDY1cHFudDlONk5PWTNvZExHeXNNYnNfelBtcjVpSHk2SU1yMXVyS3Z6LWh0UC10RTcxQlpaS3FjWXpOVlBQdnh5X0ZBZjA1RHQ4RVkzeE1BVUxiTC1vZnJtNnpMZVo5TDFDTlow?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
-   "source": "CNBC",
-   "time": "2026-10-15T06:42:57Z",
-   "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-   "tags": [
-    "FED",
-    "RATES"
    ]
   },
   {
@@ -334,16 +394,6 @@
    ]
   },
   {
-   "title": "Oil Prices Fall as Trump Considers Easing Sanctions on Shadow Fleet Tankers",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "time": "2026-10-15T05:19:07Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNalNGbThISW5hVlRHMzJSNGFVa1JfLTY5LVl6Znh2QUJyOHJXLU9QMURmUnFMaWVwZ3ljTFUta1BxX1RPaFRkaV8tSHN4UlZQeEFGMGk3aWVOYUZpSjFHejRMbGtPTUgtbGY0RS1mQ3dXTzNBQ3JPUTlYb0pibDN3ZGRmUmhhUFQxeE1sRkMwZzVnbUt6LU1kc1N6NURIaFp0Yk9JRi1Udlh0TDdJemNWdjJ2THZLc3laOW9KNTY1TlZsU201SmlpeVFhcHJaSUZa0gHQAUFVX3lxTE1qU0ZtOEhJbmFWVEczMlI0YVVrUl8tNjktWXpmeHZBQnI4clctT1AxRGZScUxpZXBneWNMVS1rUHFfVE9oVGRpXy1Ic3hSVlB4QUYwaTdpZU5hRmlKMUd6NExsa09NSC1sZjRFLWZDd1dPM0FDck9ROVhvSmJsM3dkZGZSaGFQVDF4TWxGQzBnNWdtS3otTWRzU3o1REhoWnRiT0lGLVR2WHRMN0l6Y1Z2MnZMdktzeVo5b0o1NjVOVmxTbTVKaWl5UWFwclpJRlo?oc=5",
-   "tags": [
-    "SANCTIONS",
-    "OIL"
-   ]
-  },
-  {
    "title": "This Chinese export boom really has legs – and wings",
    "source": "Investing.com",
    "time": "2026-10-15T05:18:23Z",
@@ -378,6 +428,15 @@
    "tags": [
     "SANCTIONS",
     "CHINA"
+   ]
+  },
+  {
+   "title": "Prolonged war, renewed disruptions pose biggest risk to Middle East region, IMF says",
+   "source": "Reuters",
+   "time": "2026-10-15T04:37:00Z",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaUdVN3NSR0dUZHY0UXE1UjRsRDV4Q2hvd19kQjlCX2FzX1JDTXNOUWp6NnNqTEVTdjFRUGN1Y1ZPb0ZfVHJ4cklOMWFEWXAzalZzMFpLVGlJZGFrTnpJZ21nQlk0SW5PVHRKZW5la1J2WFAzaGlEdEt2OXJzeFlWeEJZT3ZNOERndXgyQlZfcU9BSnB6SUI0VERNOXU1Y0JvZFVXcXByeW5XNEUtZERYVlpnZ010NVJsSExteDFXc0lxeHluank0ampPYXdUUzQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -458,6 +517,15 @@
    ]
   },
   {
+   "title": "Colorado GOP U.S Senate candidate defends Trump's Iran war",
+   "source": "Axios",
+   "time": "2026-10-15T04:16:27Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTnRJR3ZUcWNDYnZKcV83T2ZtZVlMcmpCUEJvT09abHBiWEhoRTNoa0lWNnNHX1FHOFJNNzN1MzlKTE5kLWt1SHZXTmZENndxLTdYaTE3YmlIZWlIZnNhSmh4YnpWLVZ3dkZVTDZjRjB0bkVrdDBhVml3aWhlQnVDNU5wbG81VmdZMVYzSUdmSldrUTN1ekhrZFdieUFGTi1pVGF3cG93?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Gold (XAU/USD) Price Forecast: Selling Pressure Threatens $4,066 Support",
    "source": "FXEmpire",
    "time": "2026-10-15T04:14:00Z",
@@ -477,30 +545,12 @@
    ]
   },
   {
-   "title": "Australia sheds 39,300 jobs in September, making RBA hike a closer call",
-   "source": "Investing.com",
-   "time": "2026-10-15T04:09:39Z",
-   "link": "https://www.investing.com/news/economic-indicators/australia-loses-39300--jobs-unexpectedly-easing-bets-on-another-rba-rate-hike-4950355",
-   "tags": [
-    "CENTRAL_BANK"
-   ]
-  },
-  {
    "title": "Oil falls as investors assess Mideast tensions, International Energy Agency's report",
    "source": "CNBC",
    "time": "2026-10-15T04:09:18Z",
    "link": "https://www.cnbc.com/2026/10/15/oil-prices-today-brent-wti.html",
    "tags": [
     "OIL"
-   ]
-  },
-  {
-   "title": "U.S. weighs easing sanctions on shadow fleet to curb shipping costs - Reuters",
-   "source": "Investing.com",
-   "time": "2026-10-15T04:07:57Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUVSRHlfamhpWDhJdFYyMTZrMnJhSnFWTVA4VHlqZ0ltSGFYREZRcUdOT2dnWXlrbUcyX1hJaS0tRGwya0ZoMnZPc1l3OXZTTjUxU3lWRS1DUnQwM1FVY0hrbDFfUGlCODZIdXZBTFIwOWtod0ZTQUFlOUNNTUwySlNGLUl5UklfVEpTVHZWLVg3dFhoYkJwR3U4RTVTZUEzMmdDS20zc2tVQzJPb0FHT0hNbmk4dFdKV05DT3Z6djVGOUU2TVZEQWt3?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   },
   {
@@ -549,15 +599,6 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaHh2bm5NYjdUYVpmYzJjN0x2cjk3ZnoxMDRRRDN1cjZqdFVPV252dGJrSm9XRDl1QzM1RDJPQmFCTXdwRFpvbXhxNEI1TjRPM2I2Q0h2Rlo5dGxaTWp5amxBa0RSZUE5di1jUFpDTHpXSWNYU0ZMLUxXYlo1eVJyZjVMLUZ2bkx5dGdsaGI1Y0h2STB1SEI4TTFCb19obDdP?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Colorado GOP U.S Senate candidate defends Trump's Iran war",
-   "source": "Axios",
-   "time": "2026-10-15T03:51:47Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTnRJR3ZUcWNDYnZKcV83T2ZtZVlMcmpCUEJvT09abHBiWEhoRTNoa0lWNnNHX1FHOFJNNzN1MzlKTE5kLWt1SHZXTmZENndxLTdYaTE3YmlIZWlIZnNhSmh4YnpWLVZ3dkZVTDZjRjB0bkVrdDBhVml3aWhlQnVDNU5wbG81VmdZMVYzSUdmSldrUTN1ekhrZFdieUFGTi1pVGF3cG93?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -617,7 +658,7 @@
   {
    "title": "Oil Price Forecast: WTI and Brent Ease as US Weighs Tanker Sanctions Relief",
    "source": "FXEmpire",
-   "time": "2026-10-15T03:08:57Z",
+   "time": "2026-10-15T03:09:13Z",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSE1YenhZbHd4STRxLW5VREIzRWhjNjliUVltVnFmanczVEU0VGMzMWpxNW82S2xiZ29KclJHNTg1N1hnVmZPaExiX2ViLUNEQ09qeXJaSVQxd1hmbnBYYkg1ZGZDcXNHU21CODhhT1JLemdkVFB0a0ItV1BKbGN1VHd3MGhRQ2kxQmN2R2JOZVgtc0tBU2tkemxsYnhqRlBoZkR2Q0JjT0NoaXpFS09CNkhrMkR4WHp3TEJKYWo0YTZodDg?oc=5",
    "tags": [
     "SANCTIONS",
@@ -651,43 +692,6 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZmFELXhBRzY5NDhUNWdzWkJLS2FaM0pBN3F2LWU4V3NTT3lwWGxMWU96Mk9ET1NhXzhDdWNWem5lV05kREtNVGticUlXd1l4R05MVk9JMmcwRGptYnhqX0MyYmZsRFVuMElQT1BHUW1SUERpSG9ESUhoOTZXVUprLW1jUWhUUGh2dU15ZnNyRnZfbE00c044blV5V01vanpnV08yZ250OWxRYVdZNU94cg?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Bowman, Supervisory Modernization After Silicon Valley Bank",
-   "source": "Federal Reserve",
-   "time": "2026-10-15T02:55:00Z",
-   "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "U.S. warnings sow confusion, alarm in Ukraine over intelligence, Starlink access",
-   "source": "The Washington Post",
-   "time": "2026-10-15T02:49:09Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObTQ1YVV1NndsUkRwTV8wUTVHNC1wdXF1UERVd2trVDFTa2ctQTF4dENSQU43RV9CaHh3ZFBLalBlV25oMkpwbnd6VlJLMDQ0YkNTNy0ycFRHZUZFVnNuOTlYMEpfTXhqdUk0cUZuanNrR0ZQYjFBRnhfdWZrV2NIREdub2VEQ1VrVm40aUNlWEF5Z0N0M29BVno4SDdUSnZGR196SmRPazFnQnZrNHBPTmhMUTZZWnVZZlRRTzhsVQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Vietnam dong, gold rates - October 15",
-   "source": "marketscreener.com",
-   "time": "2026-10-15T02:46:31Z",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUlRZZmZ1Yy1CRXR1cDVEbGNQRUsxd2VKd3ZwblZMdDJmeWhZMGN2VU1mZnVFTmVWalBpbktpUUZ6ZzNHSUM3WEhNZzRnSkduQU4yZUdtS0VBWHdkRVJNcjNudjdUZ183Tl9MV2xOSjV3c3hpQm1oaGthYVpMNFdwUm1VbWVHZ3lUWmUzTTZpTWc?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Dollar Weakens as Markets Assess Fed Policy Outlook",
-   "source": "TradingView",
-   "time": "2026-10-15T02:38:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZzVLWlhjOTdub1hOZ3VCZWozbzdRYW5KR1hnMW9lMElGWlVLUWtqUmE5M3VITTRPNE1wMEVlRjE2VDBiOHpKU0FXMEF4SEc3cDhlREdDR2VNcXpyYmNfMDIyaUJhQWM5aDA2aVJRLVdkWUxPa3hJbms4VVVkNjFiTnA3dUJreDZ4dnNlcDVaWnNfTFdCVE1aeDJZUXBEUmdEajB5Ng?oc=5",
-   "tags": [
-    "FED",
-    "USD"
    ]
   }
  ],
