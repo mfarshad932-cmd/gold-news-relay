@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-10-15T02:28:50Z",
+ "generatedAt": "2026-10-15T02:57:11Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 1
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -16,7 +17,7 @@
   "fed_speeches": {
    "http": 200,
    "items": 15,
-   "kept": 0
+   "kept": 1
   },
   "ecb_press": {
    "http": 200,
@@ -81,12 +82,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 36,
+   "items": 34,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 31,
+   "items": 30,
    "kept": 12
   },
   "gn_tariff": {
@@ -111,8 +112,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,9 +127,18 @@
  },
  "items": [
   {
+   "title": "Bowman, Supervisory Modernization After Silicon Valley Bank",
+   "source": "Federal Reserve",
+   "time": "2026-10-15T02:55:00Z",
+   "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "U.S. warnings sow confusion, alarm in Ukraine over intelligence, Starlink access",
    "source": "The Washington Post",
-   "time": "2026-10-15T02:26:45Z",
+   "time": "2026-10-15T02:49:09Z",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObTQ1YVV1NndsUkRwTV8wUTVHNC1wdXF1UERVd2trVDFTa2ctQTF4dENSQU43RV9CaHh3ZFBLalBlV25oMkpwbnd6VlJLMDQ0YkNTNy0ycFRHZUZFVnNuOTlYMEpfTXhqdUk0cUZuanNrR0ZQYjFBRnhfdWZrV2NIREdub2VEQ1VrVm40aUNlWEF5Z0N0M29BVno4SDdUSnZGR196SmRPazFnQnZrNHBPTmhMUTZZWnVZZlRRTzhsVQ?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -137,7 +147,7 @@
   {
    "title": "Gold Price Forecast: The Final Washout into an October Bottom",
    "source": "FXEmpire",
-   "time": "2026-10-15T02:07:08Z",
+   "time": "2026-10-15T02:38:21Z",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZmFELXhBRzY5NDhUNWdzWkJLS2FaM0pBN3F2LWU4V3NTT3lwWGxMWU96Mk9ET1NhXzhDdWNWem5lV05kREtNVGticUlXd1l4R05MVk9JMmcwRGptYnhqX0MyYmZsRFVuMElQT1BHUW1SUERpSG9ESUhoOTZXVUprLW1jUWhUUGh2dU15ZnNyRnZfbE00c044blV5V01vanpnV08yZ250OWxRYVdZNU94cg?oc=5",
    "tags": [
     "GOLD"
@@ -239,12 +249,31 @@
    ]
   },
   {
+   "title": "Oil edges lower after hot U.S. CPI; IEA meeting in focus",
+   "source": "Yahoo Finance",
+   "time": "2026-10-15T00:55:00Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY0tKZG55U3JGaElBbkd4Xy10bnBvSmxKVE9VQWlUeDV1dllwalFaWWlYMW52N0hXTlR0M0w4c002WFJGNzRfWV9OZElsb20xSDNuNHVpNjUxYWh6YVRJdE1pclkzQWNFRmxhc1dDTVpVVmtpdHZQdkR2MENTT2pmTURYWGE?oc=5",
+   "tags": [
+    "INFLATION",
+    "OIL"
+   ]
+  },
+  {
    "title": "Australia employment slides 39,300 in September, jobless at 4.7%",
    "source": "Investing.com",
    "time": "2026-10-15T00:54:41Z",
    "link": "https://www.investing.com/news/economic-indicators/australia-employment-slides-39300-in-september-jobless-at-47-4950349",
    "tags": [
     "JOBS"
+   ]
+  },
+  {
+   "title": "US weighs easing shadow fleet sanctions to cut record tanker freight rates",
+   "source": "investingLive",
+   "time": "2026-10-15T00:54:18Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQlFicDZ6Y1FxNlFZNWUtYVNiaGNqOWpLX1dfeUduTjlra2xqRHh2V2RDbHRaanMwZldqeFZKS3Z4Ml9rSkc1ajVHTmppRnJrMWtlemN5RkdZVnhneUJ3OEh6Tk5WTmRwZUJfMU83NFB3VHIyN0FLZWJSY0ZGT1l3SkVzSi1mWkFqYVFYa0dYN0dKbEJHdDBqN0JhVlhuRkVmdnl5aGgxYXlkeEQ2dGNrZkRzWQ?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -663,34 +692,6 @@
     "RATES",
     "INFLATION",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access",
-   "source": "The Guardian",
-   "time": "2026-10-14T20:37:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQellhWnJjLTNZb2ZjM1ZhcWViNXNybmFnLVFRM055dUNlN3Ezd0t1dkFreEhhSkNyQVEtdVQ3UUpaRDg1T3NNc3pHSzRlRnozdnpSUkZuX296Rjhyd0MyUkFvSm02MzY2bVlYNDBHbEViWHdXNHJKSl9ObnYwZEpBYndicGVXN3JCVkMxNzNuU3BUdGdfOXhMT2JCTmN2SWc2S040cGpnS09SNmFFU2oxcWZNX2RjVVpy?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Mayfair Completes Strategic Investment with Macquarie",
-   "source": "TradingView",
-   "time": "2026-10-14T20:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSDJxaTlYTGdZSFNSN3QxeFFzRHlweUNydG1JVFV2TmFSZjR3Q0ZUZzJDd3hJZWdZbTQ5YkwtcEx2bnBhRXpNTl9hcUpuTVdIRFNraTNuQ1htYmF5OE42em5zVzVLZUZLSU5OTFVrTGNjUWRVV2lQYmlPWjFrWjFsd0hnNDI0UGtKb004NlBjZHhTQlA4SmpxZWVHQWFBNmZMaUJnQm9sNUlyVHpEOWNwV05nM0Z4eWM?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "The Chicago Fed President answers questions on inflation numbers",
-   "source": "NPR",
-   "time": "2026-10-14T20:27:56Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXZsb05WMDZwTjVmNjJLa1NsNUZZcnNxTXJHaW9YZnAyVGFSOXRBTzNta3dZaWxKd2VjRHdmWlhYZ2ZwT3R6S3pTNWtMRkNqVHpmejFLeTZidEVHZWZucWo0X19ybEhOazZ0TTJ5Ujl0Vi1EMzlldHV5ZzBvby0zMHVyUmo2RkRVSTNQZW5rVnp0VTVISUVaRENUWGRBZEtoelJRUUZqLVcyWDNaVWc?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
    ]
   }
  ],
