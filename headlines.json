@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T01:03:52Z",
+ "generatedAt": "2026-10-15T01:32:16Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 8
+   "kept": 10
   },
   "marketwatch": {
    "http": 200,
@@ -61,7 +61,7 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 52,
+   "items": 40,
    "kept": 4
   },
   "bbc_world": {
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 37,
+   "items": 36,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 36,
+   "items": 34,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,17 +96,17 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 37,
+   "items": 38,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 17,
+   "items": 16,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 38,
+   "items": 39,
    "kept": 12
   },
   "gn_oil": {
@@ -126,13 +126,50 @@
  },
  "items": [
   {
+   "title": "Talk grows that China is routing US Treasury holdings through Canada: Bloomberg",
+   "source": "ForexLive",
+   "time": "2026-10-15T01:19:38Z",
+   "link": "https://investinglive.com/news/talk-grows-that-china-is-routing-us-treasury-holdings-through-canada-bloomberg/",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Why is WTI declining despite rising supply risks?",
+   "source": "FXStreet",
+   "time": "2026-10-15T01:15:30Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeGNORTljX1JFNi1oQVUzWkI1dDltZzhGY2pVQzJ0b05ibTIwVWNRVE5Xa0k3cXNjd3lGajhvQXpxRkpUOWFJYU9JTWFLRTY3S0l0ZVV2MU1OcWVqSU93ODVaLWlITXF5Z0ZCM2M1djBDNFp3dFdCX3h6TnYzZXpPZUNnQUhqZ0xEaEhWeWxmNkpRYTNRcUVNWndYUUpkRW0wWkF2RzB0TE5XTlhxZ1JYWDJ0bTVmQ2hxWE1N?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
    "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
    "source": "CNBC",
-   "time": "2026-10-15T01:02:54Z",
+   "time": "2026-10-15T01:07:01Z",
    "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
    "tags": [
     "FED",
     "RATES"
+   ]
+  },
+  {
+   "title": "Ukraine war briefing: UK pledges £17m to repair Chornobyl attack damage amid fears of slipping US support",
+   "source": "The Guardian",
+   "time": "2026-10-15T01:03:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYzVPb3hjb3RmVW15UDExU2pvX2k1elN0NmNwZV8tb1ZrbjBzcTBwWDR6XzB5OUpxdHo3RDRsVWsyNHphTGJJUTRWdUlqUTg3Q2hMdW9BSFl4TUs3NVE1ZFdXd3N6SmxxbF9aZktVdWhzUXB0YUxvU3A1bFROTlJ3RFdjTnBKVzM0TndNWWNtS2FKeDkyVm12V2NqRHlEV1paSW5EMG42c1E0Yl9UNjB5cjNYSTU5UkFrbHV5a1hIVzBHX2l0VmNmRDhxVC1MaGs0Tk8tZjhKNXVRb0I2YmhGNnpnRQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Australia loses 39,300 jobs unexpectedly, easing bets on another RBA rate hike",
+   "source": "Investing.com",
+   "time": "2026-10-15T01:00:35Z",
+   "link": "https://www.investing.com/news/economic-indicators/australia-loses-39300--jobs-unexpectedly-easing-bets-on-another-rba-rate-hike-4950355",
+   "tags": [
+    "RATES",
+    "CENTRAL_BANK"
    ]
   },
   {
@@ -153,6 +190,15 @@
    "tags": [
     "USD",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Australia employment slides 39,300 in September, jobless at 4.7%",
+   "source": "Investing.com",
+   "time": "2026-10-15T00:54:41Z",
+   "link": "https://www.investing.com/news/economic-indicators/australia-employment-slides-39300-in-september-jobless-at-47-4950349",
+   "tags": [
+    "JOBS"
    ]
   },
   {
@@ -646,52 +692,6 @@
    "source": "Bloomberg.com",
    "time": "2026-10-14T20:17:09Z",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVdlR3VPcnRLZjVOT2dSQWFxUk14emI5UFNKX3pQdlM2UXM4dm9EdHh3SmEwdko4MlBiQlcxOUpHa0xtM1NaVlJZV2lHNWljYWxHN1d3VjVfTktsMWEwOHpaLU5mQ3U4M204STZOWWpSNmJobDk4aVF1SjMxLTB1Rko1dXhDemJDY2ZadEExUVFxSzVoWnZZSE5SZE90RHBMZkZn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russia attack hits Kyiv after reported intelligence lapse",
-   "source": "Al Jazeera",
-   "time": "2026-10-14T20:14:57Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-attack-hits-kyiv-after-reported-intelligence-lapse?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Taiwan cites progress on Alaska LNG after Trump says it will buy 30% of output",
-   "source": "Investing.com",
-   "time": "2026-10-14T20:12:59Z",
-   "link": "https://www.investing.com/news/economic-indicators/trump-says-taiwan-agrees-to-buy-30-of-lng-from-alaska-pipeline-project-4947902",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The Dollar Surges as Gold Slides. Could a Turning Point Be Near?",
-   "source": "FXEmpire",
-   "time": "2026-10-14T20:07:08Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRWh3OTNHVl9xT2Y4ZUdMaC05QUYwS3hTWkNkTkJxM0VmdzdwMjg5RXluajU5VkdobGQxWkV4cUJoRE1qcC1qYXBBeEgya2g0eHRfV1B2amppWTdTbWFDY3MzdTBWX3gwNTFiMHRwb0NrWEdLdEctZTM5WjRXaldYT0tmdTEtYXlsMUx2ajB6eEZORFh4aXpJd1I5MkxldWYyYkczQXFKcm9SOUtFZ2RMeXVORQ?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "10-year Treasury yield dips as traders look ahead to Thursday economic reports",
-   "source": "CNBC",
-   "time": "2026-10-14T20:03:22Z",
-   "link": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "GOP lawmaker defends Trump’s energy ceasefire push, rips Putin over betrayal",
-   "source": "The Hill",
-   "time": "2026-10-14T19:59:00Z",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUHM1LUNBVlcyNUpPZWlQUUt5MlJ1UnZYYjM4YkpmVjJLalE0eUlTQTNBQkxVMnVZcGdEUElTRnlOaGZwZFdRUXhwQklVR0xhNGh2VWhRTnRfSzliUVppQ0dsUzdWb1p0TlhLQm05N1JhbXRmSXpxRU9HelV5MWZvdNIBhgFBVV95cUxPNUdyOVdnZFlVRTlYRGNVNG02VklmRlo2b3FDajdfazlOakRCOVhnVXZhWlFDakd1MHMwT3BEUWpMbHNyX3U2UUFlVDExc0o0aU9SNjc2TlU1LXQ2cVJvdVNMU1RiZlZIa0xWb3R0Um5QMnVZUzZIN3ZSU3BiNE50MVR0eDJ4dw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
