@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-10-15T23:15:50Z",
+ "generatedAt": "2026-10-15T23:44:12Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 0
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -47,12 +48,12 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 4
+   "kept": 3
   },
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
@@ -61,13 +62,13 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 45,
+   "items": 47,
    "kept": 4
   },
   "bbc_world": {
    "http": 200,
-   "items": 31,
-   "kept": 7
+   "items": 32,
+   "kept": 6
   },
   "aljazeera": {
    "http": 200,
@@ -86,22 +87,22 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 23,
+   "items": 25,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 12,
+   "items": 13,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 39,
+   "items": 35,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 16,
+   "items": 17,
    "kept": 12
   },
   "gn_yields": {
@@ -111,8 +112,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,12 +127,114 @@
  },
  "items": [
   {
+   "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+   "source": "BBC",
+   "time": "2026-10-15T23:38:46Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "IEA agrees to release of outstanding 100 million barrels of oil",
+   "source": "FXStreet",
+   "time": "2026-10-15T23:38:27Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT0xEcFRJNmdEQ0M4R1pkeDVWN2piZUVTbm1FOXlQLVQtQWFGb1JCUmQ5ZUNFZE9BY2x5TTl5dUFLbHk0OU9RMUJteDVZNWZyZVY0NlBJSGJ5TTVvWVVCR3lUWmpULV9LLWJ5RndRbmFCLV9NZV9BY1JRQXZlUklzS01GalZvOUVnbjcybDBocGNBYl9WZUtIUjMxNUIxWkFZa1VfT0syZjNQQQ?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Fed’s Goolsbee warns AI demand could keep inflation running hot",
+   "source": "FXStreet",
+   "time": "2026-10-15T23:37:53Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRUx1WUJkR1NTTUtLU2JnNE5naFpvTGdhRVQwbjRBYmZZdlJOdy0xdWlDdVpxZE40aUpzQXY2a0d3cENleXp5dGdVWVpjcGtGTUs1dG43dHIyQXZTM0J0RFhQVFpIMG1McHprQkFvNHFxeTQ3d0pybC1SWGxOMGMyQjhoN2JxSEt3N2lxZkQydWNVUmI2ZzNnWTVZMWY0ckhVTFJCNGtYQjE?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Minnova maps $53M restart for Manitoba gold mine",
+   "source": "Mining.com",
+   "time": "2026-10-15T23:34:04Z",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKbGZuM3RrNlBKczAwMGkyM3R1Z1cxUExxTHVuOVdPNEdaN3NjV0l5bWloLUNpSGhFa1dkR2VRdDVTZDRhWmxvUjI1RmZkRW5yekEzSlppZlEzbDJCblNpNV9nVkVMOUVNQXpQMjRDNW8xdWNBNmtzSDdNUQ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Who’s Tanner McKee? The Eagles turn to the ‘Mormon Missile’ to replace Jalen Hurts",
+   "source": "The New York Times",
+   "time": "2026-10-15T23:32:29Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkR5MnZxcl93ZUFLRU00cG5xS0FXZjFnSlVrTGVFSHBJdzFXeENfcnRWbmJYYTI3alBnVFduSk4wLVg2V0pXWF9aSmhpbzlTV0Fzdi1Ga1UtbkZFZGlYR2RiUExIM2wtOS1oV3NoaGdFa01jaHJvTHpoeHA1RWloNU9QWFUzbzE1NTVOV2xvWUhrTXlxb3RaT29GZTBoMXM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
+   "source": "MarketWatch",
+   "time": "2026-10-15T23:29:00Z",
+   "link": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump’s Deal With Russia Inflames War He Vowed to Swiftly End",
+   "source": "The New York Times",
+   "time": "2026-10-15T23:26:44Z",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lVVQwcThTUGg1Z2RHUlltM2dWdGFCM19DYlRQeFE1S0lYVGd4bXR3M0dpX010NmZSQ0U2WXA5NGNEWFdIQjJYOTNBZEMwRVpxSVVVTFRwZENzYkZNWmFKVzVTLUp5Z1J3bUl1YTFyTDdCMVZ4aVhiVjVNUm0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold rebounds above $4,150 as yields fall, Fed Warsh’s speech in focus",
+   "source": "FXStreet",
+   "time": "2026-10-15T23:21:05Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSWhIVGlQejFlMUhXb0ZzYld1QTN4WDBrbnd2enFWbzYwT0ItdnBGTHVmaklyS1dUTWNNS3kyM1Q4bEtXWFo5RXFCVHZhZHZoeFFCdVF4YlBhWUw2MWZ6REZoemdtbTZwN2Z1aWUzR0Z6SndIXzI4aldVZGd1eDhSQ1VVTUx5c1NJNTN3V3d4NjVfLXJTNWRoa1dzRFZXNVo3djR0YWxvRGJOMHc0MTh3?oc=5",
+   "tags": [
+    "FED",
+    "YIELDS",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Progress toward a US-Mexico tariff deal has stalled, WSJ reports",
+   "source": "TradingView",
+   "time": "2026-10-15T23:20:31Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZFpBZTQxWDg0bWhxSDZVSVo1ekRmSWJNRFpwQTFwT3F1WG1iT092VHBYWlZSTmVUOGFSWnZ5OERPMDBSTjlWTDAwVUJfNWRFOEJ5djZUOFR1RzRBdnJTd2dHaGFCN1ctZkNjVVNOVXc5SWVyNW1SdnhBQkRnRGNkTGJIb0lpVFVpOW1ia0dpcXBWaFRsR1dzcDkwUW80X2NxVWIzOTBvV1JhaGlLanVBM20wMW41c0hxUUV2Q2oxUjBueVphTXBwRFA2aUEwUQ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
    "source": "CNBC",
    "time": "2026-10-15T22:48:12Z",
    "link": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
    "tags": [
     "USD"
+   ]
+  },
+  {
+   "title": "With anger spreading over Iran war, Democrats hope to flip Republican seats with veterans' help",
+   "source": "AP News",
+   "time": "2026-10-15T22:43:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakxhTkhvNnpjY3RyMk02MHhWWlllc2xDOFQ5U25GekpZOWZPcG9PMVp0RjFXM3k3YUZRcmM2Z2dzMkI5Skhxa1J2S19ndVFzRmJua2VHZUJIclJCM2pOeG1VYmV5QkdzR21uQTJLMkppdVprNEZsYkFHejhNak9fN3p1NmphUjVBMGtVXzQzNEdrNDZzU3RDRWxOOHMzMkN4Z2tjT3FzOFdVWld5SWpiak1uQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Grades rise as US considers removing sanctions on some shadow fleet vessels",
+   "source": "TradingView",
+   "time": "2026-10-15T22:39:33Z",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWGs5cGN6QUI2dXo1NlpIR2NzUjAteElSeXBHdjVqc0Jaem5NZFNZM1ptWEdHYTZHWFZDRXFvZUVob3Z3MFFQYzBHNnJ0czEtdzdkU0tnM0w3RE1rMHF5R0tsclRKTXEtQThzdFV0MnhWZ3JGbUM4VGJRN1Awb0plcVBxRXhadEw1Zl9Ia0hqa2ZLbDBMREZZNEg0Ym9WREJtalhsRWh0UkdVb3lpQXFzUnY0X19KTTR4aV9GYTJmVl9aZ2tKR2RjUk5zZG96dTVteExrdmhFNjYyNTJOblE?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -227,6 +330,15 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOenBZbEdmRVlMS3dObFMyRi11QU5aLVpWMnN6LU1Ec3Q0MDRxZ3NYUlVJakV5WFVLQmg5T3hRNG9KV2FJcGh0VWFadXFRaXQ1RHJmbHNHMm5UNEVxRWZiZHNaNzVkcURkMXozMEYzdHhXUHJjZFJ4OVZrd0d3UGc1OHRKUHpldVh3ZVdMRmJDUjFCQVRxbUNhZkp0VUNmWUx1RTVlTXJNY2FwS2JjUjlF?oc=5",
    "tags": [
     "YIELDS"
+   ]
+  },
+  {
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-10-15T21:28:03Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -454,15 +566,6 @@
    ]
   },
   {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-10-15T19:58:03Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "5 GOP House members join letter urging Trump to cancel Russia diesel deal, up sanctions",
    "source": "The Hill",
    "time": "2026-10-15T19:57:00Z",
@@ -579,116 +682,6 @@
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVV9XNkZ3SVQ4eGFlMWg2NkRrVkNZSVJPV0cwWDhDWFdEd1FsYjNhLWc0VjFVSFVZel9fMWlIUy1xNjhGWm9rX0gwNlctMFVRcGpMWXQ1U1VSeW1PU3lyN1FyY0J3ZURqZnZmVEkxeXZWQUZlRzJIeFZBeE1uNk5NUHhPeERLUFlLeWdHWGFhRDBqZEtVanJlRE16R0xzLTlnOFp4RHJFMlFRWnprMUNuZGRIOURtb0FBS0ZtZF9LMVZoUUJ1OUpGZk9FU1M3TW5VYlFhb3dvaw?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Gold defies 6.3% US PPI as Treasury yield slide fuels rally",
-   "source": "FXStreet",
-   "time": "2026-10-15T18:32:15Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVElDU0FNZ3N5N19BS2xENWhBTHJwRndON3VtMlctNDBxQzFMeUZnVnVyWC1UZ3hUODN4S2pySUIzVlFVXzlKeVJiSHY2QzhpdUdhbl95YTZQNWFYSVM5RVNoWEZfMzNsenNlQnE2emlJd0hBZVNJTWNuLWRCd2pHcjdYUmNGMVE1MkpMRDE1UnJYT3VIMTRJZjBMMm1Ick92dUE?oc=5",
-   "tags": [
-    "YIELDS",
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "China buys the gold dip as ETF holdings hit record and holiday demand lifts Q4 outlook – WGC",
-   "source": "Kitco",
-   "time": "2026-10-15T18:29:23Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFlYcXd0OE5KNHBLbzdRQVlxTkYxS0lzVmJfZzk4elF1eXFXeDBaUkNoNnNjOEo0OWpqNmFURC1ObUtSRWFYUTFXWHlOMW9GbFVXWi1yRTlJZ3lnNjZrYXc0OHpjZUVjaUh1RmZfN0NIa3UwVzBheDJUM19EUVo5ZGpDLUFncTQ2cjFkNTJMUXJFVml2NThOTVE0dW9wLXF6ZlJ0RFpVbnBfNGh3OWFKRElhSUNPREF2?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "CHINA",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts",
-   "source": "NBC News",
-   "time": "2026-10-15T18:28:25Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlEZ042YVJkMUFiaTNQX0hTd01hZFdqMG9yNXIzQ0ZFUGs3cms?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "China bought half of Brazil’s oil exports as Iran war drove sales to record",
-   "source": "South China Morning Post",
-   "time": "2026-10-15T18:23:44Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3hwOHpTSFlQd1ZxVmdzTXQ0OEJRRmNiSk5YODNrYzM4Wi1OU3UweXROZlIwbmVSdDRUanhNbVlaTEx4YTQ1dDhQX09yT0ZrZWU5eFd6emQ0ai1qYmdFRUcyVTBqQ2V1MjQ3OHZacnJqektXR0I3OGxkMW45MnZvUG1oVXM1YlVpSnVxMGNtQWFHNmdEWHdMMjNIZUx0Z0p2VTU0dnpVeGNFTS1BczFGN0tpWGVlRG52Q2tNOGtsb29tZE5Rc1HSAcYBQVVfeXFMTkI2eEtfV25haFU1UlB6dXFKd1FuVF9YWkowQkZxLWphQVBFWkc4VjlpZUNNQ1NrbzZVRUdSZnJQRXR4ZFU3SVVxbVA4ZDBRTGFsNVU4YTVpZW5JQVJhbHJJVUhuSVJZbzYtdkVqVjJ5RVZZOURVLW1JaU5EMEhob19valAwTnBUU1E3MXk4YUhudEZfQVRDTzFCMXZQRTQtRjhIdjNDdzQ5YmFKWGFVeUJubi1tQXN3QThNOTlNR3FPMDRudXl3?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "China bought half of Brazil's oil exports as Iran war shut Hormuz, driving sales to record",
-   "source": "South China Morning Post",
-   "time": "2026-10-15T18:23:44Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3hwOHpTSFlQd1ZxVmdzTXQ0OEJRRmNiSk5YODNrYzM4Wi1OU3UweXROZlIwbmVSdDRUanhNbVlaTEx4YTQ1dDhQX09yT0ZrZWU5eFd6emQ0ai1qYmdFRUcyVTBqQ2V1MjQ3OHZacnJqektXR0I3OGxkMW45MnZvUG1oVXM1YlVpSnVxMGNtQWFHNmdEWHdMMjNIZUx0Z0p2VTU0dnpVeGNFTS1BczFGN0tpWGVlRG52Q2tNOGtsb29tZE5Rc1E?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Alamos Gold (AGI) Plans to Double Production. Can Gold’s Windfall Become Lasting Cash Flow?",
-   "source": "Yahoo Finance",
-   "time": "2026-10-15T18:04:46Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM1pzMDBwcWtQWW5mSzlUVEFkcFVrSWt2YUhPZFYtRUVtNzZlREN6VW5MczV0TTg0ZmYxaFBmdk1tTlM0WWt0aHlCSmhCLU9YZFBPdnVJX2xPXzM0ZUtnVFlfdDRwMjdROXZ0S3BLWXhFVWU1Q1JiV3BEamJzMjJmSVpLMjdYNDZUcjBHUkM1anpKc0ZnaHB0NlBHcUhuUUk?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Trump faces new bipartisan challenge over Russia diesel deal",
-   "source": "Newsweek",
-   "time": "2026-10-15T17:52:00Z",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVVlHbmFuWmpjem9IcmRUblF5a0dnQlpjWFdqRjhHdWhib25ZdHRHSlRid0o2RHFDYkRGUEl0UHdtVlZ1MzloMHd6Y2o2WVR6UmVQSUtZT3V6eVBvNUVJenA4cnltRnBUTWVsRmkybVhSYVFiT3Nock1HeUlBUjRYZGMzM04tWmxweVRvVnlFMTI?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Cleveland-Cliffs Drops 4% as Tariff Doubt Returns; Nucor and Steel Dynamics Slip",
-   "source": "Yahoo Finance",
-   "time": "2026-10-15T17:49:59Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWmt4V2pWdWJocVNIVno0QzRHdnJjd0lYaU8xakRERVdNUVNxOTNVV3Nqbk1NR0hGWmotOTBtRFpURTJfb2dDeW5leUVPMnpGd1BUTDJUejJnZC1wcHhCOEhEVTM4eGttSUFXSUdvNnR4MHdlYXhyS0lLdlFKNzlOOTQwSHZOcVpjVzVkQ241a01fZEpQLTVFcERoay0?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Update: US Equity Indexes Mixed After Hot Producer Price Inflation Print, Tech Declines Accompany Sliding Treasury Yields",
-   "source": "Yahoo Finance",
-   "time": "2026-10-15T17:46:38Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPczFSSkk1em91NnpQcnNrWk5QT3pFYU16UDE0YVNIUXpDbkZ6aWJtdU1ZaE1FdVpDMlJPa082Yzd1X3FKeko3SHpmRDhlTTZ4SG5PeWhtMy03U2U0UjY1QVduUW9kTmdoYmRqOXQ3NEpPeUJVTkRYUExFc3c2OUxGNzhRSWRCUE04NE9manhVNWM3SzhPSUpR?oc=5",
-   "tags": [
-    "YIELDS",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "A mother’s touch helps premature babies grow strong in Gaza",
-   "source": "Al Jazeera",
-   "time": "2026-10-15T17:43:01Z",
-   "link": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Levi Strauss Uses Tariff Refunds to Rekindle Consumer Business",
-   "source": "WSJ",
-   "time": "2026-10-15T17:35:34Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSmt4aG9xTXZKa2JsVkV0dlJzN3pjcEhUOWg1YVJSYXJMbWlFb2pRODgzSzJTWDZIa3VQalhOVWUtNFoyM24xNVFHSFVZZXBqOHBSSUtjMEJrLTg4UGJ3aGx2WUtBVjFPbVFNbjVjMWVBSnEwSU1qVF9oWVVINXp4U1hTRkl4dllSWDl1VGVQdkQ4Zjl2THhVTUUyZDF2M2pfbUpoUTJBWGwxZk81MlE?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
