@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-10-15T10:30:40Z",
+ "generatedAt": "2026-10-15T10:59:02Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 1
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -47,7 +48,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 7
+   "kept": 6
   },
   "marketwatch": {
    "http": 200,
@@ -72,7 +73,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +82,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 38,
+   "items": 35,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 35,
+   "items": 37,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,7 +97,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 43,
+   "items": 45,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +107,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 48,
+   "items": 47,
    "kept": 12
   },
   "gn_oil": {
@@ -126,12 +127,58 @@
  },
  "items": [
   {
+   "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+   "source": "CNBC",
+   "time": "2026-10-15T10:54:20Z",
+   "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+   "source": "BBC",
+   "time": "2026-10-15T10:53:40Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
+   "source": "CNBC",
+   "time": "2026-10-15T10:44:57Z",
+   "link": "https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Israel election: Benjamin Netanyahu fears war with Iran could hand election to Gadi Eisenkot",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-15T10:41:45Z",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jM3VNbExndU0yMFM3eC1ldHdLSXJlLWRLRmd1eFBfbjlRTjh5SnZrY0FlYWtnREU4TENEcnVfUWRBemx6aDJwa2gwTUQ5Tmo5cWZzbGo5SnZYcmJIUEJjb054cXVlZEd4?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Donald Trump claims ‘Iran war will end very soon’ as midterm rallies heat up – US politics live",
    "source": "The Guardian",
    "time": "2026-10-15T10:26:21Z",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWlg5N3lpNlF3R1NJa3BIQ1lDbUpzLVE1bFg0NnVqdlR0UjBTZzlNUXRJWFN1RU0tU1EtMDViTkV4VEpiT29OaFRQT2Zud0E5SmJhMjFaR0FrNDg4RnFSU0hZVnF2LWg2THk2U2VzR1d3bXdvdXhUN2d5ckxjYkZxSXNqVkdpN0dzLUYzZFBHY3NqdHVZUDk5RVBYRGQ2ZmNSNjZ3Tll0dmY5OWFUM05YR1huUEgzNlEtaExxMlBwSzYwaDBQVTdKTnVrY09RM0lqZWhHNlhPc2F5NmdYSU9oVWNoSG1VN0kwbEJIQTVqekl1RW8?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger mounts with Trump",
+   "source": "NBC News",
+   "time": "2026-10-15T10:25:17Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlEZ042YVJkMUFiaTNQX0hTd01hZFdqMG9yNXIzQ0ZFUGs3cms?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -153,6 +200,15 @@
    ]
   },
   {
+   "title": "‘We expect war to reach the city soon’: Yemenis stockpile as Houthis advance on Taiz",
+   "source": "The Guardian",
+   "time": "2026-10-15T10:20:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWh0TXl6UklZTEFnWFFkXy0teUtxZ0dEOUJMb3BzbHR6MFFXcENBV1FQYkw4YzlMR0ZadVNiTnpQbVB1YmZuaE5kcm5nNzhCS2NTT2lBWVd0N2FzVy0zV21tckJZU3NFNkRfVWtYN3pJQTRWaWZzTGZSTHVlZGIyQVhFOVlkcllfOGlyOVJ2UVNaVGp4cGc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "EU leaders to tackle China exports, energy prices, budget at summit",
    "source": "Investing.com",
    "time": "2026-10-15T10:19:44Z",
@@ -162,21 +218,32 @@
    ]
   },
   {
-   "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-   "source": "BBC",
-   "time": "2026-10-15T10:14:31Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+   "title": "US toy prices surge ahead of holiday shopping season as tariffs, Iran war bite",
+   "source": "Reuters",
+   "time": "2026-10-15T10:18:56Z",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUWVCNGhqaElYVEdtQXA1SUhOSzFvVDc2YUMxWFdDTGhUOTFIR2taTXFwbzRoM0xlZWxsYkozc0NYejhNb2VpdHZ1VDUxQkZ0ZnNjMFVtRF9GRzBMaFBBYXNzTHRGd2pxbWpweXJqY1JjNnNVd3lHTXU3bmpDQ1J1QWphUk43VEVuSXZnNmZFdzkwZHJHLU55SGU0N1I5amh5Tmt2UEs3cUxoRkFkV1k5UFlIdlpqU3pFZE0tbVNFWnR4eDFRektpeVQzWmw?oc=5",
    "tags": [
-    "GEOPOLITICS"
+    "GEOPOLITICS",
+    "TARIFF"
    ]
   },
   {
    "title": "Warsh's quest for quiet Fed gets vocal pushback",
    "source": "Reuters",
-   "time": "2026-10-15T10:13:43Z",
+   "time": "2026-10-15T10:18:47Z",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGZfUDY0VWFGY3BYQXAwTW5aZU1lUTl1bldnbk54UG9VTi1KRFlIeHpWdW1wRVRqNVJpTHoyZFF6R0lvejcxOEdQb3Z6dDVQckNPR2k4WFBWSWN5eUItNFNWZFUyTmJvNnhranNqZkpMN1RkSDhValZ0T0xkcXdUdEh0Y2drbm12TVFIUGxTUlN6WVE?oc=5",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "US toy prices surge ahead of holiday shopping season as tariffs, Iran war bite By Reuters",
+   "source": "Investing.com",
+   "time": "2026-10-15T10:17:36Z",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS0ZfejRYeHE3eEtxa21FdEZyVDN4dGc2RG5ZT08wbncxSzBuUU9BVXhDRUdJeG1yZ1FyeUVIaUg2Y2w3TEtNbzVvRzNWMDZkdTdxc296NWJLX2czb0lvMkJkR3lJcFBBZzREUExzX0J4Z0REYUNlY2g1eEZWd3dpNGZQY01fdURnT19IdHJJT0VqbmtXMi1lV1V6TlFiWEpKNjhDbjRYamF3X2g2TEtqMDYycWc2emdUbFJYam5ZaGNfZUg3eHIxMXZOb0x1dzA?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "TARIFF"
    ]
   },
   {
@@ -191,7 +258,7 @@
   {
    "title": "Russia says Ukraine resumes attacks on oil refineries",
    "source": "Al Jazeera",
-   "time": "2026-10-15T10:11:14Z",
+   "time": "2026-10-15T10:12:58Z",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeFZyYTgwUC1nM3AyZGg2X0ZxLV9aam1pZUNQalpMN2Rxb0h5WGZpMWswdWd6LXRsbks4emJKY05Gcmh1cHhFQVdZM2hGVlJjTUI5NjdHdUdWekFxeU9sRy1JV3F5TG1BVXJJUGQ1RzN6ZFNMeEpTUTR3RjFzN0d2UHliS1k1ZDNOTVpyal9RNy15RjUxd0FXVVRYMNIBoAFBVV95cUxOaGxHX0FFM200OV80YVI1SnYyV2RSem1uWjJWWjdRSFYybXVTdU5RTGt0cUFNUm1wUEo2MVhSTFpjUUxVS2N6Y3E2aVVCbW8zanRUY3libG1VR1UwZ3hBemJuc3pNQ3h3SlZ2U1dJNER1TEh0LWc1VTdmd1hfalRyZUtGZnJHOWdCb1pURERZWE43NXhjcTZwWllwMENpS21s?oc=5",
    "tags": [
     "GEOPOLITICS",
@@ -205,16 +272,6 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ0UwNl8yVFFyTHZ6SjlHY3g2allSUmZVTFZ3d3R2ZEx0T09SckgwMTdMUjE5dnJpc1hDcnFDOXYxMVlnVFkza29LODQ0djhWeVVTUUtWMXdoSjlCaERQclg0TXZMVGdPSF94ckJpbTNaYjVad0FnMlhiZXhlTS1kZnJ1Z2w0aFlKakJhNmQzYmZDWHdrbGY5SUJqU0F2ODU2WnhzUjJGTQ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US toy prices surge ahead of holiday shopping season as tariffs, Iran war bite",
-   "source": "Reuters",
-   "time": "2026-10-15T10:06:21Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUWVCNGhqaElYVEdtQXA1SUhOSzFvVDc2YUMxWFdDTGhUOTFIR2taTXFwbzRoM0xlZWxsYkozc0NYejhNb2VpdHZ1VDUxQkZ0ZnNjMFVtRF9GRzBMaFBBYXNzTHRGd2pxbWpweXJqY1JjNnNVd3lHTXU3bmpDQ1J1QWphUk43VEVuSXZnNmZFdzkwZHJHLU55SGU0N1I5amh5Tmt2UEs3cUxoRkFkV1k5UFlIdlpqU3pFZE0tbVNFWnR4eDFRektpeVQzWmw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "TARIFF"
    ]
   },
   {
@@ -238,7 +295,16 @@
    ]
   },
   {
-   "title": "How Iran's precision strikes picked apart Gulf infrastructure",
+   "title": "Long-delayed China-North Korea bridge officially opens",
+   "source": "Al Jazeera",
+   "time": "2026-10-15T10:00:58Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/long-delayed-china-north-korea-bridge-officially-opens?traffic_source=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Iran’s precision strikes picked apart Gulf infrastructure, blunting US war plans",
    "source": "Reuters",
    "time": "2026-10-15T10:00:00Z",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmZVZ0RfSms3U0s1SVE3N3ZMeWxLaVhtTjczazRmNU40UkpCUldVbWZJVUtJVkt3cHdLOEpoTl9qY0lFXzdKWUtydmYzVi1MeDExbXB6eHc3NjAyTi1CT2lveE5WVUNPeHV5SndkU3BmRUNiS1JCQUI2bDYyZjd6RjltYUhzeFVmUDFPSU93NWo?oc=5",
@@ -268,12 +334,32 @@
    ]
   },
   {
+   "title": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
+   "source": "The New York Times",
+   "time": "2026-10-15T09:37:06Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQVlGa1lUdkZRb3JRU3NWRS1jeExIdWIzZDVWLU1sZW0tdlp6a25TMHpmUUluOUFUS3A2UGN4NFdRM1A4WlQ2ejctSmhUQm9jR051Wml3cG1qaFZoX0N0SDRFNHN6YWlNUTZIUlpVS0g1UnhVc1BQVkdWUHRXSWJZVlphX2dVV3RtdUZFRWhiSzhsaXFPbjhoZnNiS0VFbEE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "‘Each country goes its own way’: How Balkan politics shape ties with Israel",
    "source": "Al Jazeera",
    "time": "2026-10-15T09:35:01Z",
    "link": "https://www.aljazeera.com/news/2026/10/15/each-country-goes-its-own-way-how-balkan-politics-shape-ties-with-israel?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Oil prices sink amid tanker attacks near Hormuz, reports of easing U.S. sanctions",
+   "source": "Investing.com",
+   "time": "2026-10-15T09:34:32Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMzhGYmtGSzNOZzQ3dnNCbWgxRk9xQ25Uckc4Uk1hTXBVT0xtOFoyOVNGMFd4ODIyV2gxeVhkazZtc0lIdno1aGJval90VVpxQ1pQOHNNcWF4T2VJdExvdG1xZkFSRUNLTHlBX1VXejNsLWtGV0tWRkRQNjJiR1NaZzVwNnRfWVVzblFBV2llaWU5QlNiSzRNcDFDYXBIZjJxUHFfdjhnVWt3V3VCR2c?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS",
+    "OIL"
    ]
   },
   {
@@ -292,15 +378,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yOGlHYURtdi1UZXZBeXFfQnJVcFZHWUx5UkFGZjhTd3dKOFpXd1VJaDJfaFp2VC1sOFJndDlhNDVkMzdqZ3JFWGxnQ3JOQjN4bWdlTldycU4wbDlRc3ItVWFiSm4xdw?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-   "source": "CNBC",
-   "time": "2026-10-15T09:30:06Z",
-   "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-   "tags": [
-    "YIELDS"
    ]
   },
   {
@@ -355,16 +432,6 @@
    "time": "2026-10-15T09:18:40Z",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONlVzYkpGc0ZPY2pvVEViX1h0M0lJU29jb0VJLWMyLTRRSGpTUElvUzhnbndBY2w1OU5aYVpXRVk1eXliX0J0c056QzgzREVtOE1ZNTJBbWVqNjRETUkwS0l0aDkwenRtN3BEYlBQd0pPSlo4djdpOWdCOGVQTVFCOWJfa2N5Zm5tT2tDWHNCSFJfemdvM1dQbm5pQkl6STB4TU1HUnlNVnhoWlh0VGFkU3ppN1AzQlJYZWhGMEZPQ0RXNEdjQ3ZDNmVfTEtRenpnemJoTkdlMHd2MWFSR1U3SGV6RV9nSEtaMFcyQXVmMWI2YXk2REV2Nk9rNA?oc=5",
    "tags": []
-  },
-  {
-   "title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger mounts with Trump",
-   "source": "NBC News",
-   "time": "2026-10-15T09:17:21Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlEZ042YVJkMUFiaTNQX0hTd01hZFdqMG9yNXIzQ0ZFUGs3cms?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
   },
   {
    "title": "WTO chief sees lasting impact on trade from Middle East war and geopolitics",
@@ -622,75 +689,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ09zREwzc09YdG1JOUdUWjlucGN2dDZMU3pXdEF2QkJaZVVuNktTQ2xVaVA5RlRQR0JGTHB1V0VaSjFKUnBUYUltOW5KNFJiOEZjWF9JZ2NIekpqMXYtYUY5dk9KVlFXRGNnQUpqRTJOT0IzWEQ1NnM5dTctQW5tSW14UzJpXzdTNFdYVkk4cU80LXNVYVZJemlRTy1BSUlObVNuSEVGSVNQZThrcVpqYm1mUlZROFV6YjFEMjBRUnYzOFk?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Russian nuclear-powered submarine fires missiles during Pacific drills",
-   "source": "Al Jazeera",
-   "time": "2026-10-15T07:44:35Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-clip-russia-nuclear-submarines?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "U.S. Treasury Yields Retreat From Early Highs; Eurozone Yields Remain Elevated",
-   "source": "WSJ",
-   "time": "2026-10-15T07:42:08Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVktTdlI3bkRJUTFtb0hZd1RNa1F2UmRlRy1LTWxpR0txNmgyX0R2TnNCbXFpZ3pVTUFuSTJGc2U2T3Z0WkZIenpzNDBtdUxqbEIzOTNtU0hNR3g3OXYxNFVxS192VTNaSGdfbl8xVXotMUVieHgzUlpTVkwxbHhMdTdJcjNuU0lXYTFYZFhtUkxiSjdIOUVDcS1DNnp6VzFPaWNrVWxVbnA?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Tech stocks plunge as Fed rate hike fears, AI funding worries mount; ASML, SK Hynix slump",
-   "source": "CNBC",
-   "time": "2026-10-15T07:28:44Z",
-   "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "Gold Remains Range-Bound as Focus Shifts from Geopolitics to Fed Rate Hike Bets",
-   "source": "Investing.com",
-   "time": "2026-10-15T07:18:00Z",
-   "link": "https://www.investing.com/analysis/gold-remains-rangebound-as-focus-shifts-from-geopolitics-to-fed-rate-hike-bets-200689618",
-   "tags": [
-    "FED",
-    "RATES",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "France inflation rises sharply in September as price pressures add to ECB rate hike dilemma",
-   "source": "ForexLive",
-   "time": "2026-10-15T07:16:53Z",
-   "link": "https://investinglive.com/news/france-inflation-rises-sharply-in-september-as-price-pressures-add-to-ecb-rate-hike-dilemma/",
-   "tags": [
-    "RATES",
-    "INFLATION",
-    "ECB"
-   ]
-  },
-  {
-   "title": "US Crude Oil Inventories See Massive Drop Off",
-   "source": "Investing.com",
-   "time": "2026-10-15T07:15:00Z",
-   "link": "https://www.investing.com/analysis/us-crude-oil-inventories-see-massive-drop-off-200689617",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Oil Prices Fall as Trump Considers Easing Sanctions on Shadow Fleet Tankers",
-   "source": "Investing.com",
-   "time": "2026-10-15T07:15:00Z",
-   "link": "https://www.investing.com/analysis/oil-prices-fall-as-trump-considers-easing-sanctions-on-shadow-fleet-tankers-200689616",
-   "tags": [
-    "SANCTIONS",
-    "OIL"
    ]
   }
  ],
