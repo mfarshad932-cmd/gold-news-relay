@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T00:35:30Z",
+ "generatedAt": "2026-10-15T01:03:52Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 3
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 4
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 38,
+   "items": 37,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 33,
+   "items": 36,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 39,
+   "items": 37,
    "kept": 12
   },
   "gn_sanctions": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -126,22 +126,52 @@
  },
  "items": [
   {
+   "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
+   "source": "CNBC",
+   "time": "2026-10-15T01:02:54Z",
+   "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "Gold, Silver, Platinum Forecasts – Gold Retreats As U.S. Inflation Rate Exceeds Estimates",
+   "source": "FXEmpire",
+   "time": "2026-10-15T00:59:59Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcFlKY3NLRGFEQThDcFBzYVo4YWlWWU82dVRacmY4T3FlTTYzVmhBZEZ2bkRJMWt0aWVfZFplZG1ocl9sVElhWjJHMXdmWER6R2hqdjAwZ0lOQ0ZoWWR3VTJaMm5YMGI2bGNsQjAxNkFMYkwxQVBoWmNBT0IzUlBPV1ROeXJQaXJVQ0l2QmE2RGZpblotZzFMWHh3M2s1dlI1a1pEY1pDUUZjV0xUanBPQVktSVRacWQtTzJlUWI3NmdjZlU5ZW5IOWgwNjNZMS1W?oc=5",
+   "tags": [
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold (XAU/USD) Price Forecast: Selling Pressure Threatens $4,066 Support",
+   "source": "FXEmpire",
+   "time": "2026-10-15T00:57:54Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRm01R0Y5T0pKTXA4ZW41UHJ1OUhfX3l0cE1xZjNGX1pZVzNPcjB0dkppbEhqR21MVUE4XzFvWHlNY0M2X2R5UFZHVFJyVXB6b1ZwTlk3Q2RBRkVqejhVVTlvdndaZENrb0lFRl82ZGFyajVvZ3BHSVJfZ3hwRHVfZjU4Vlk2Y04xR05qdHNUUVRubEozYmFnejREN01HcDNIc3F0VFk1dWxXdVJzdFZlR2kyWEFZQm51akE?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "SK Hynix plunges 8% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
+   "source": "CNBC",
+   "time": "2026-10-15T00:42:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGhRTkZ4cjB1WFcxY0ZaekZ0anhJSW1MYlRMVV9pZzFacHJySWt5QkZaSEFoMmVBbVZKRzc0TmloQXkydmRSaGs5RW1vQjIyZ1hhQzFBSXN1ZGlJVmI1b2VKU1FIaXlZVTJBZHZZMUkxemJ1ZWZUY3E5Q205RWp1WFItS2FJMEx2Zjg4ejRHQy11UjRMbkFPSXJnSkluT01nMVNKbHRn?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
    "title": "U.S. warnings sow confusion, alarm in Ukraine over intelligence, Starlink access",
    "source": "The Washington Post",
    "time": "2026-10-15T00:34:21Z",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObTQ1YVV1NndsUkRwTV8wUTVHNC1wdXF1UERVd2trVDFTa2ctQTF4dENSQU43RV9CaHh3ZFBLalBlV25oMkpwbnd6VlJLMDQ0YkNTNy0ycFRHZUZFVnNuOTlYMEpfTXhqdUk0cUZuanNrR0ZQYjFBRnhfdWZrV2NIREdub2VEQ1VrVm40aUNlWEF5Z0N0M29BVno4SDdUSnZGR196SmRPazFnQnZrNHBPTmhMUTZZWnVZZlRRTzhsVQ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold, Silver, Platinum Forecasts – Gold Retreats As U.S. Inflation Rate Exceeds Estimates",
-   "source": "FXEmpire",
-   "time": "2026-10-15T00:30:38Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcFlKY3NLRGFEQThDcFBzYVo4YWlWWU82dVRacmY4T3FlTTYzVmhBZEZ2bkRJMWt0aWVfZFplZG1ocl9sVElhWjJHMXdmWER6R2hqdjAwZ0lOQ0ZoWWR3VTJaMm5YMGI2bGNsQjAxNkFMYkwxQVBoWmNBT0IzUlBPV1ROeXJQaXJVQ0l2QmE2RGZpblotZzFMWHh3M2s1dlI1a1pEY1pDUUZjV0xUanBPQVktSVRacWQtTzJlUWI3NmdjZlU5ZW5IOWgwNjNZMS1W?oc=5",
-   "tags": [
-    "INFLATION",
-    "GOLD"
    ]
   },
   {
@@ -202,6 +232,15 @@
    ]
   },
   {
+   "title": "Ukraine faces loss of key US-affiliated satellite support amid tensions between Trump and Zelenskyy",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-14T23:42:46Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2MwekRHZ0dmM2x0a0dCNTJGb2hMXy0yRk40bmpGM2NOZ19PdVhyUkU0WFhRcDR3RzJPdktid0VzbDJkTmNFM1o1T2R3S0Jmb0FvTm05aF93elAyUTBITnBxYmoxdWc0R2tJb2RjYzg0SHkzNFpQWmFCcTF6cmJwdjJuUlBUQnRMTDgwOEgxakp3Z1pKSzRNWnFUa2VZMFBjZ201ctIBqgFBVV95cUxOTmtEWV9mWkJ4bnAzN1BocVZoOWw0UkxkRzJCM2xNSU1ycXh1ZW5hVWdRZ1NSVklFZ19ITmUzdF92dzIxemZUVEk5Ukx4U1dLUVRWVzFlMTN0RkptaHlQdnRoSGRVYmdPNHFSN2d5N2ttMVBCVHpHMzBMblJFbzdtc3ZPenU2SWxIbElEV1VKN0R0TU9rSy1objdzSkhaMWQ5YkxsYWplaUZZQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Gold Price Forecast: The Final Washout into an October Bottom",
    "source": "FXEmpire",
    "time": "2026-10-14T23:38:02Z",
@@ -252,6 +291,15 @@
    "source": "Al Jazeera",
    "time": "2026-10-14T23:15:00Z",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYmhqaDlBdi1WelRGSUZ4b0FQaWVkd21JUEkyTFpFdE9LcVlreHAwYU5WdkZBcDBPeGZFdHhRdnBxUjFacTloOWUwcUJGRlpqSHJrVHNGRTRWTVFxVU5uVUJvYkR5RW1ZaEk2NC0wZUQ4SWlKZU9lYlBuZUVrczlrVTFweG42R0taaGdaNGhxMFpjQWJicTQwRF9tMk4zNDM4cWRhTnFsQWpUMjdn0gGyAUFVX3lxTE51Tjl2WlZUNzVXWjRydjF6cl9kWGxIX3RiT2ZNeld2akhUSEo1bW84dnV6WmVfRnRmWGJ2TllNa1FxaURrOVRGaThQX2RIWFg4NDYzUlZaY1VDdHNvdzhXcWxoaVBKZmdNT3M3S0dPVXV2V1oyYVlXNDZkS0IzRWlNNWQyeG9URzA2RFN3UHZ0bVFJNUgxYmhDS0lwZGZCcUdCd3RkYTFmWmJ2TVF5VGxqenc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ukrainian officials accuse U.S. of withholding intelligence, leading to Russian missile attack",
+   "source": "CBS News",
+   "time": "2026-10-14T23:10:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYWlhNkRTdlNNSV9CZEo2eURmU1luNGc4LV80a3haSlItRkkzRHVYQ2VnRkJ0TmNuWThjaFRzS3BzNGFYYWdfSmxYbHdObWtjcTVBT3Z1bTBtV2M0d3BGdzN2N0NDQlBSQmRpRHBjUDNoNl9rZlBTeE1yWldTSjNuUHo4Z1pmLVN2MnZ2T243Rjk2Q2lYY0k1TndqbUVPN2otei1xOGxTY2pPZjlC?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -341,16 +389,6 @@
    ]
   },
   {
-   "title": "Gold (XAU/USD) Price Forecast: Selling Pressure Threatens $4,066 Support",
-   "source": "FXEmpire",
-   "time": "2026-10-14T21:58:07Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRm01R0Y5T0pKTXA4ZW41UHJ1OUhfX3l0cE1xZjNGX1pZVzNPcjB0dkppbEhqR21MVUE4XzFvWHlNY0M2X2R5UFZHVFJyVXB6b1ZwTlk3Q2RBRkVqejhVVTlvdndaZENrb0lFRl82ZGFyajVvZ3BHSVJfZ3hwRHVfZjU4Vlk2Y04xR05qdHNUUVRubEozYmFnejREN01HcDNIc3F0VFk1dWxXdVJzdFZlR2kyWEFZQm51akE?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
    "title": "US Fed Beige Book: Economy Sees Moderate Growth Amid Rising Price Pressures",
    "source": "TradingView",
    "time": "2026-10-14T21:57:22Z",
@@ -424,6 +462,16 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ3V5X1F6V1BuMFdWQkNEaXJRRDBYSzhpRzhMQUJnQW45TkxTU01KSUQ4b2MzS3drWE5lQmVmWk16SnJCTHl4cnBXNzZkc1oweTRjX1dqWXRwd2w0X05SXzJfZzg1Ml9XeS1DTmZ4YW14ZkR0VkFKVmUzSDZXbTBSRWpYVnpCNEd2UnZtdkc1ZFo2T0I5?oc=5",
    "tags": [
     "YIELDS",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "US stocks drop as inflation worsens, raising chances of Fed interest hike",
+   "source": "South China Morning Post",
+   "time": "2026-10-14T21:03:28Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN3JUalVQMC1qeUdqZm0tVDh4ZjNEdzhjdDNkZ1ltQW41SGxxQkdhVkFCZFFXWklBUXFJbGI2Y2l3dEFwY1VkZEs1VlJXN3JrQXA4QzBYVWU2MTlpRUdFenJRQ01XcjZTcm1iVHdTSS1aSG1BZVU4NW93NHNDTjRCMnk5V3lwY1B6VmVUMFRYX0lNbU45SkwtUzR1akIwMjhCS1U2RGpCRDFSZTZNOGhwblRGdG9EbFl0MnNfc2FVb9IBvwFBVV95cUxNc2NUSlcwVy1jVE9LSTB1TF92Nmd2NEpESjNydkpzUlJCUlRpd3dVTkxDN0MyWTVwM0JPWUlpSm5FWGRQRllTZ1BrMGZTa3RkZ19QWkxrV0xCR3pHSDU5OTZSZGJIaFgyWFo0Sjd6S2tpdVVKbEp4d1BnRDJ4M3dib2RsWXNXWWxTX0FLUWYtR3ZBbEwzUXM5SFo0Y0J2NUxjUFV3cUR2V3FZUXJWZlFVdDFLZk00LWlGZFJIUHhmcw?oc=5",
+   "tags": [
+    "FED",
     "INFLATION"
    ]
   },
@@ -644,53 +692,6 @@
    "source": "The Hill",
    "time": "2026-10-14T19:59:00Z",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUHM1LUNBVlcyNUpPZWlQUUt5MlJ1UnZYYjM4YkpmVjJLalE0eUlTQTNBQkxVMnVZcGdEUElTRnlOaGZwZFdRUXhwQklVR0xhNGh2VWhRTnRfSzliUVppQ0dsUzdWb1p0TlhLQm05N1JhbXRmSXpxRU9HelV5MWZvdNIBhgFBVV95cUxPNUdyOVdnZFlVRTlYRGNVNG02VklmRlo2b3FDajdfazlOakRCOVhnVXZhWlFDakd1MHMwT3BEUWpMbHNyX3U2UUFlVDExc0o0aU9SNjc2TlU1LXQ2cVJvdVNMU1RiZlZIa0xWb3R0Um5QMnVZUzZIN3ZSU3BiNE50MVR0eDJ4dw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US Treasury yields fall after reversing inflation-led selloff",
-   "source": "Investing.com",
-   "time": "2026-10-14T19:58:16Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSGt2UEZWc1ZEbzFpV1hVdmRVUWpiV0ZmUUNPcW84YnZrcE4wUVlkQ0dpSHduSWxTbjlCVlVhblZ1Z3ZfbzJiMUU5ZWpyTFIxSGdEN1c4WmRkOXZJMUZwR2dzTUJzSF8wYkkta0c5Ykc3ZXRfdHBHaHk5WjRhcndCTEV3c2o2eDBkWC0tOHhQdzJKOFlSY193N2poOW1sYnlMZGd4QWZQbUpwSElia3BWYlNuZFgtQUxPemc0WWkybw?oc=5",
-   "tags": [
-    "YIELDS",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "US lifts sanctions on Venezuela’s top legislator",
-   "source": "Al Jazeera",
-   "time": "2026-10-14T19:57:12Z",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0JrTm5MQXNmZ3ZtaFJUbFVmV2g5VFphdndpLUEydTVmUEpWTDJ6ZEJwSWJJZWFMNzdDQ3pRZDZyVmRWNFhqbENQVnhFTnl4bXRjdV9xZTlxMVhwYTV5MlRqenN2dGI5aGkxdTl6dk9XS3pyaUJnQVFkT1pGRTZfeklJcE1fWWFYU2NjRG5IcVBPM1HSAZgBQVVfeXFMTk9wWnk1ZXF4RmVBMURxbmxjNURrY0hVb0FfTGhyOWFKYVZoRmZMU3NEdEpTbmtScmRIS3lBNklqVVRzUFEyY3NGSW11MlA2RWtTYVFJdE85c1lETWdfbUQ1YnNfTjRIcW1OYjZMZWlvODhEb2swUzJTNnBpSjl0LThHenFhNWJJNEl1V0NWa3VUZUJLYzloUGI?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "US Treasury yields fall after reversing inflation-led selloff By Investing.com",
-   "source": "Investing.com India",
-   "time": "2026-10-14T19:56:23Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMUZIc3pic1RYVGM5QnlGM2hEZS1HbldRSkZDaWRzWXZQTmtLQm50amNjYWVTYjA1d2puOHVFcHhiLVBqWFlhNHgtWEdTdWlFZmNydWpYY0R4eUlPMldGbnJwazdtMXJWR21OMDZ5S1J4OUNjUmdSV3MxYWJSZkpaZGRhbmZKVjNlTF9Ia3g4OTNQMjhYcURZdXlQdElmV2xjSmctLVpHS1RXT0NnN0tQRER5VXI5NjBSTTNaNFdB?oc=5",
-   "tags": [
-    "YIELDS",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Ukraine says new Starlink restrictions disrupt military as it reels from intel gaps and Trump clash",
-   "source": "NBC News",
-   "time": "2026-10-14T19:55:38Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVFZxOFpYUkhfNjVDUzFoSUhVQ3JRdERHWXdlbk1PUW9zc0tvNEo5cnVnODNTUHA0V1lmX1hyVERYc2FtX0d4MjMzdVZOVGpETjNTTy1FaHpFakZKYzQwWW9RV2hJeE9nQ0JoSUs4c0FJVE1ZSUdsWk5zSmxJcHVEaHJza2NjSEd1RmNYNVM0MHUxcDV1dzBraTB2UUh2RzhSdk05VmMyOUhVeEdKcFZjXzZGYUhTSlE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-   "source": "BBC",
-   "time": "2026-10-14T19:52:04Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
    ]
