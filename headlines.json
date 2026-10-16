@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-16T14:50:26Z",
+ "generatedAt": "2026-10-16T15:18:47Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
    "http": 200,
    "items": 20,
-   "kept": 0
+   "kept": 1
   },
   "fed_monetary": {
    "http": 200,
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 3
+   "kept": 4
   },
   "marketwatch": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 31,
+   "items": 33,
    "kept": 12
   },
   "gn_fed": {
@@ -91,28 +91,28 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 16,
+   "items": 17,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 28,
+   "items": 26,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 17,
+   "items": 18,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 52,
+   "items": 51,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,12 +126,57 @@
  },
  "items": [
   {
+   "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+   "source": "Federal Reserve",
+   "time": "2026-10-16T15:00:00Z",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "BlackRock’s Hambro blasts gold miners’ ‘reckless capital allocation towards share buybacks… without any real process’",
+   "source": "Kitco",
+   "time": "2026-10-16T14:56:01Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTXV4Yl9rc0VhVmpQMUtLR3lOWG40NktfQzd5NXFPSVN5c0NtOHdyMzlPNE44c1NVeTc3WnRrTlpOTXRDdjlRallLVlhRcXFaVDlzbmR3dWZybjlNSXBNZ2lyaDFuMFhWYjA3NWliQzc0c3JsaDhfLXpmZ0t4ZXdRbnNKTTR1NEFnLVZkUjBoTDhTRG5FSDIySWliOTdVVjJNUlJIbkFNUldObW0yNVlOMGJQUE52Szdfbnc?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "India gold swings to premium as lower prices lift jewellery demand",
+   "source": "Mining.com",
+   "time": "2026-10-16T14:50:49Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUUgtSU5pZWF1ZkdhcWc2cGhQQ0hlNnB3SXZsT3pRYlVwWTNlZEhPZVo0VU9FMWxYLWtoQnFZNzRSVEVHeGc3dlBUX291QVlfQW54VEREazM4MnlQVWFIZS04OVhSaDFnUTY3ZGJxNjFOblVuYllGanhNak1nSWNXanl1UWRCWGhfRWZGaE14Y25NZ3BEWkgzNFVB?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Goldman Sachs Picks Top African Gold Miners on Growth, Cash Flow Outlook",
+   "source": "Investing.com Canada",
+   "time": "2026-10-16T14:46:45Z",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMFl4eVJHLUc3QkZSbHBTc2dyVHgzbUNONGZ2eE9tOXpwaTVPMmV2ZjIyRUNxdV9DeEVWaE1hams2NlVfT0Y4WEJ5OGZrZjVDODAzYm9pWGo4MmtWZm5XMG5DZEFiMXRUZkV1dFJ1X0FsS0FqNTROam5hRkFnX1NVRHNfWWhOaGhxX0IxOXMzUnl5eldsaHFJbERXWGJCcUZleHdHNXJsR3lhNWdSNTcwS1VZTUlONnE1YmZ3cmVncVV5T0J6T1E?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
    "source": "BBC",
    "time": "2026-10-16T14:44:11Z",
    "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "NY Fed service sector survey finds notable price pressures",
+   "source": "Investing.com",
+   "time": "2026-10-16T14:36:21Z",
+   "link": "https://www.investing.com/news/economic-indicators/ny-fed-service-sector-survey-finds-notable-price-pressures-4954466",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -153,6 +198,15 @@
    ]
   },
   {
+   "title": "Zelenskiy blasts Trump's diesel deal and calls Russian peace moves a 'parody'",
+   "source": "Reuters",
+   "time": "2026-10-16T14:01:02Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY0hRTnFuN3FTNE1pY1cyNVRLbEJ3MmZ0UWZzUDhWbEhIU3R1RjY4dENuVi12U0hpeXRXM25vQTBOSWFjUFRrYlgxSWo0Y2tZVTU0bk9FQmlJRW9zcjhCMzRiNFNod1RuSWdoUUJwbDVaMmtNYi1peWgwMFhpQnVlbkZRUFZvSXliM3FYRW9IeXpzaUdGdW11Y2pNWlZwUGh2ZWdyRGZ3blhqUW9lUkcwNnI1UVk5OUJ4bk5PUEJLYVRkNVh5aHVV?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Fed data reveals 1 in 5 Americans are falling behind on debt",
    "source": "TradingView",
    "time": "2026-10-16T13:59:04Z",
@@ -168,6 +222,16 @@
    "link": "https://www.aljazeera.com/news/2026/10/16/can-russia-help-ease-tensions-between-pakistan-and-afghanistan?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "TSLA vs Ford: Oil, tariffs, and a recall collide",
+   "source": "FXStreet",
+   "time": "2026-10-16T13:52:03Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWEhlQ3R4N2FpYlFIdkFUX2hFLThhSndDbGhzWjgwNWpfMVc0eTItbkw4V1ppcHdKLVJUQ0Z0cDBIV3hBUXdubkhUZ3NTYlJ6NVJxeU4tbHVoaUV4c0N5d1h2VnhlWFAxbFhFVllzZG1DWHBMRlNHWHJja0t6bDJOYUtUSmQ1MlZhTXRtdU00NU5YUQ?oc=5",
+   "tags": [
+    "TARIFF",
+    "OIL"
    ]
   },
   {
@@ -223,6 +287,15 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeG1WZ084cnQ1VlIyNXhuRUQ2aFRTZ29uZkpBalM1dlZjSC1ZU1M4X3drdEJFbWtyT1o1TmkyT1htWVI4Q2NFQWhzRERfbVpkODl4NDBUeGlmbE1MVUR5YUNZa284WWRxdGdBak54WVhTcXVZSTBVa3FPQWU1cC12cFpYUXFNZTVVU1R0NzBIN1d5bTdFV0lYVkxwNk1UcGNUSDR4Y19uTHc4RDA?oc=5",
    "tags": [
     "YIELDS",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold Price Canada Today | Live Gold Price in CAD",
+   "source": "Kitco",
+   "time": "2026-10-16T13:19:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
+   "tags": [
     "GOLD"
    ]
   },
@@ -287,6 +360,16 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZms1aGNrLWRUb1BHWjJSSS1lOHdqODlJSlB0eDFHd1FDdjZyNEdBejdTZkc1ODhrcTZJUGhidWVpNE05Rm5wLThoT2ktb1BIcFhEWVhGLTV2V2R1S2FjZVNfZEFkNC1PXy1ibkt5YnU5ZkY1ODg1a0w3b0ZPQm9ROEt3ZlhSc25TcmthLUhiMXpObGNUMXlIcTVqMUZTdVNMQ19iUzM2NFk?oc=5",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "EU Says Working On 22nd Sanctions Package Against Russia",
+   "source": "RTTNews",
+   "time": "2026-10-16T12:48:00Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZzVXR1Q1dnJ5N3BVNUJfV0M5VmRFTnNNZG5BX2x5WWVWVHlzeW5MWEh1aEFHNWx3dDZGR2lnRmtrTXZDZ1pSQmg5aWFTS0VNR1pnMXdrSzQ2Y19pYTlsSno5UG5JamIxTnhiME5xNjZLVUtqT0RqeFVRcmVrcXpvekxxek9kUWJuRzhKanhHY28wTC1CTWdremRnbW0yZw?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -416,12 +499,21 @@
   {
    "title": "Why is China buying up gold?",
    "source": "Al Jazeera",
-   "time": "2026-10-16T11:48:45Z",
+   "time": "2026-10-16T11:48:52Z",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUw2cmZCZDE4ZXRhMjFLY0hhX0NURzRPREl5NlZNdVJsWXpsUnY0cmpWckFqbTNLblpFN1NMUlQ5bDlwVDAxdTRFTHBrNEExb2F6MG16RzFRcldHSGg4bEZUY1FxTk9DY29CUXEyYm1LeS1xZkVINHhXcmRscTlJWndiSHjSAYoBQVVfeXFMUEdlWHNXRVhBS1FmaUM0Skp3RUJvMnFGZlA2UExCdTl3X2RlMDZYZXB2VmFBS1BOSjE5c2Nvb1NuSjU1RGwwTjM0b2U4UUxPSEJXWG12U05NX3ZBcTFLVkRxbXhVYTVDenhQOWxKeGdjUGlMbFBJN2VFZ0ZVRDd1eUprSTZ0MERJRi13?oc=5",
    "tags": [
     "CENTRAL_BANK_GOLD",
     "CHINA",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Life in Cuba worsens amid U.S. sanctions and electrical grid chaos",
+   "source": "CBS News",
+   "time": "2026-10-16T11:45:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdTZPZzMxT1YwNE1JVlJrdnJTWUVxa1dydG55OTJ2TGM0TFFQbVpxMmR0MC1fNGRwQjVGazFFMG5veUpqeEQ5R1F0YjlCTkEzX3NKQTJHd0hfX3IzNEtTdWFFRWZEYVN1Mm9ndENHSlVIUmN0N0lxT1E0cUU3VFRnak9fdkJjcmJXMHF2ZHhvcWhSQThqM245dDdpWQ?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -520,6 +612,16 @@
    ]
   },
   {
+   "title": "Warsh signals steady Fed outlook despite inflation jump",
+   "source": "Axios",
+   "time": "2026-10-16T10:52:07Z",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vdDlnWkJWbS02TGQ5aTdkUGlZblZZd25lUkhmeHl6NU5KN2xFYTA2THljemlNQ296SWNMcG5kcUViWjhucHM3dWFGOEVPSjZ4X2pBNXZOUXJUUXQyMjQwWlFQU3BXQXRwLXpOT2FMa2pvMDNUblZaMA?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Fed Chair Kevin Warsh Keeps October Rate Hike in Limbo, Warns AI Could Trigger a ‘Very Bumpy’ Transition: ‘No Free Riders’",
    "source": "TradingView",
    "time": "2026-10-16T10:51:09Z",
@@ -568,113 +670,12 @@
    ]
   },
   {
-   "title": "Warsh signals steady Fed outlook despite inflation jump",
-   "source": "Axios",
-   "time": "2026-10-16T10:41:15Z",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vdDlnWkJWbS02TGQ5aTdkUGlZblZZd25lUkhmeHl6NU5KN2xFYTA2THljemlNQ296SWNMcG5kcUViWjhucHM3dWFGOEVPSjZ4X2pBNXZOUXJUUXQyMjQwWlFQU3BXQXRwLXpOT2FMa2pvMDNUblZaMA?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
    "title": "Russia strikes 9 Ukrainian regions as strain grows between Zelenskyy and Trump",
    "source": "The Washington Post",
    "time": "2026-10-16T10:41:06Z",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUTh2eUdKNHV4Z0p5SmN2SnNmUXVxanJhaEtjQUdnYU1NeUhIZ2RxYVltanduNVlVc1pmOG5iTkV2ZWlVd0JZRzhjakFNRmp6dGdOQmUtemhtMTd1S25SYWJRNXZySzNYeWg4dmdYZ1VXN0VXWjF1RlNtYlM2REUwY3Jrb0diZVdoMmFUM3JMVjhXczlVYk9fSzRrYm5ZVFR1cm1sQVVtbzNONDh6bnFKM194VEpBYXRCcDZKSXlDV1R4OEk0TnBWaVAtQ3E5LXBEWVNoM2JRcjY?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ships in Strait of Hormuz still face \"indiscriminate attacks,\" maritime monitor warns",
-   "source": "CBS News",
-   "time": "2026-10-16T10:31:00Z",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT1N6LVU4X3R3a3ljSC1KY3BYOGI1bFVCWjA0bnM1WjE2eDRZQW43VVUxMnhFbThpcDdGSUdneU03ZFFjeFFmVWczeDVaelRBeXZGekhFdmNxeWZzUHlHNUpseS0tN09GMWtkSzB2WnJEV3ZnUXhqQnlyMEY3VVl0bA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Palestinian olive trees torched as settler pogroms escalate during harvest",
-   "source": "Al Jazeera",
-   "time": "2026-10-16T10:27:20Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/palestinian-olive-trees-torched-as-settler-pogroms-escalate-during-harvest?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "U.S. Starlink curbs embolden Russia to intensify attacks on Ukraine, minister tells CNBC",
-   "source": "CNBC",
-   "time": "2026-10-16T10:25:46Z",
-   "link": "https://www.cnbc.com/2026/10/16/zelenskyy-trump-eu-summit-russia-ukraine.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump rules out using a nuclear bomb on Iran: Why that matters",
-   "source": "Al Jazeera",
-   "time": "2026-10-16T10:21:12Z",
-   "link": "https://www.aljazeera.com/news/2026/10/16/trump-rules-out-using-a-nuclear-bomb-on-iran-why-that-matters?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "EU rallies around Zelensky as rift widens with Trump over Russia energy strikes",
-   "source": "South China Morning Post",
-   "time": "2026-10-16T10:14:29Z",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ3RrLUVvSXJZOXhVYU15czlwY0NhOU5RVnZNcTBRNGJmbzNqZHJmVklNdjdodThPbG9lb2xlWVpoSWNmeUZXeDQwUzNPVDF4MGdSUjRaMFRjZGdfemtPODBSb1RTTW96OEdKM3NLT2VZRE9OSzNaU3JBZVVpbGJOaThvdEl0VlNhdzAwc0VmaHdFZ3oxb0VBSWRBbldOX1pSdXdkMTNrU2dfdmluaXZWcVRKWEo3UVVSUTlGYi12eThCOXByN215LUVoLUxISGt3SmdrdGNlZ9IB1wFBVV95cUxPUlFBUWVyckJmVzhNaV9wQV9qMjV3Q3puemdpNEkyLUFpY3VwRElab1h5VEVrUnRmc1RsUHQtR1NsVWxmS1pVN2dZM1NhalM1em5fQVF5NXhUdllDLXlZNWlEa2FPajJXWl9paTlfcl93V1VpTmFoQnVrYi1rRHZGM2tjUUJDelA2Rnc2eW84bkdTdFNtLVlUS2pOdkI2MU5DOUVKck0wcXlQSVc5eGpHQW1USWVGbUdlZXJ5RWphRDQtUFludWRuelZidE42VEpUUG02T05xaw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "UN warns nearly 1 million in Gaza face flood risks as winter approaches",
-   "source": "Al Jazeera",
-   "time": "2026-10-16T10:12:34Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/un-warns-nearly-1-million-in-gaza-face-flood-risks-as-winter-approaches?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Indonesia regulator fines entities for trading violations in shares of three listed firms",
-   "source": "Reuters",
-   "time": "2026-10-16T10:11:21Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT19xNkFlWGlKRk14ZTJVYnFwTGM0eEIxeGdLdUN4OE5NekIyOWJkSVNuZWdZdW1NYndTYU1RUF9EQm1kdklJaHNWMjg2TFNNaU1PZkJmdGdtb0FIaExBb0tUdV85a3ZDdVgwLU9IOXNQWTVvRDQ0ZGJINTdQYWJ2ZUt5S3BXbnFHMXBPazh3Y0dWaXBuQ2RscXBmb2FadnVKWkxNTXQ5bDRmWl9aaDh1bWxhaF9fR210?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Focus: Canadian steelmakers offset some US tariff pain with domestic demand",
-   "source": "Reuters",
-   "time": "2026-10-16T10:06:26Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMldhLXNyRTVtNGxxVHN2Y2xISWVPeDRjXzlnRHBWQ2pNTFlVMktheFFGMkc4MnNpeHpMVllwVVJMUFVrZHRIOHpXMVE1M2RYN0p6S2tuQlJOdE1GMTctbmdibUVDaV93YWxaa01NbHpaZ2UxSVhGbU50YWRFN0xneERkdF84clprZWIwYUVaYU9nZmFHb1YzODI1cGRxTFhncS1GOW5oR0RtRUw1NGlQSGo0Zw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Global equity funds draw inflows for fourth week as Treasury yields ease",
-   "source": "Reuters",
-   "time": "2026-10-16T10:03:46Z",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTXRFM2NETEFFWnZ1M092Uk82VXF4cllZczJRQXlvdTM5YVZTdHRDMzJRR0NJZ1N3a1FhWmVxVV9ZOHJkQmNkZGFCb0RwWHotU1EzMjE4U19IdV9FRHdiZExtNVRLUlNPOEU0YkJFSzFwMUxoeDItODNRbU9OclFETGJn?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Republicans turn on Donald Trump’s tariffs in battle for ‘political survival’",
-   "source": "Financial Times",
-   "time": "2026-10-16T10:00:09Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWEZ5aWNuTFRWSnBoRkFoZ01RSEhkWmtIUmc0VjdUOU9RLW50RnVudUhIcGtUTG5oU3llbGt3MXBzaFRSX01MVDRtSi00aUx4a0xINktTbmpkVkZkSFFOVFZ3N1Q4MkZfYzNzYjhIR3hUYURIU243NHN3SUJmd0ZJSExBdWI?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
