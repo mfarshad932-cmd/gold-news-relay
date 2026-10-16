@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T05:52:15Z",
+ "generatedAt": "2026-10-16T06:20:34Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -24,9 +24,10 @@
    "kept": 0
   },
   "bea": {
-   "http": 200,
-   "items": 48,
-   "kept": 0
+   "http": 403,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   "fxstreet": {
    "http": 403,
@@ -72,7 +73,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -86,33 +87,33 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 21,
+   "items": 20,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 16,
+   "items": 17,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 32,
+   "items": 31,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 15,
+   "items": 16,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 56,
+   "items": 57,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,7 +127,68 @@
  },
  "items": [
   {
-   "title": "WTI Forecast: Holds above $95.50, near four-week top amid bullish setup",
+   "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
+   "source": "CNBC",
+   "time": "2026-10-16T06:18:12Z",
+   "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
+   "source": "CNBC",
+   "time": "2026-10-16T06:11:35Z",
+   "link": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "CCTV Script 16/10/26",
+   "source": "CNBC",
+   "time": "2026-10-16T05:59:46Z",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JSVNxZ2ZkTW5zdnZTeWROYjRqQWdFMm1iVlRuZlZxWU9pX24yZUZ0WnhSbXVxeEpLYkxqMzZDU0pNU3NRVEdVVlpFNzBlQTJqaFN4dnpkdWJ6SG9nNWdnS04yTjhSQdIBa0FVX3lxTE1YQ2tEenJHNHNLRWRtVURDSlkwY2VkTVAtcG5OUjhXMDBrdjd4WDhGZEpFOHlmRTYtZFhzMDk5VG95cm9ub1l3OW9JSWlEZ1VwMVNnaEJBVkxvWXU3anNacGZBS0I4bFJOcGVz?oc=5",
+   "tags": []
+  },
+  {
+   "title": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
+   "source": "CNBC",
+   "time": "2026-10-16T05:56:28Z",
+   "link": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Alone in Gaza: Genocide leaves Palestinian man without family or a home",
+   "source": "Al Jazeera",
+   "time": "2026-10-16T05:55:23Z",
+   "link": "https://www.aljazeera.com/features/2026/10/16/alone-in-gaza-genocide-leaves-palestinian-man-without-family-or-a-home?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US sanctions leave Iranians facing flight cancellations and soaring costs",
+   "source": "Al Jazeera",
+   "time": "2026-10-16T05:54:40Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3VsbnB5RXpMTExtZ0U4Z2dWYUg5bE5pMzhQcXluNDhQNHlVT21TRnNPbGNma0lXVUNDQ3Z5blR4bF9MMGJhRkQ4dVBnQ1lwR3FnMmRmdFd2VmtZcU5kZWRLLXduZWhGZUl3c1RNNGgyNkhydzMzN2tIMmhlOXFaUW5MYXJpMXoxLTBwVjF6VDJDU0xhVXgtdXZEb2t0Q1NkUEkyQi1SajlnV3JnaW9fWkRYbTJKdHBUVkg2ZEVxb0RQUdIBxwFBVV95cUxOUDJJWk5UM21WdXJkejdKNTMxcHg3VE5UZ2d6aWpLSE41OVpYV3VidzN0aXo0STNLZ05SNGhNVUcyWlR6cHNrWWhTWnJDWXRUV0IwR3BiNEM5UXI1Z3p4VUo3eWVydjVkREg4Z1hKMkVZQUZQZnlvUUs4U1NXV1luemxuWkZ5VkhpRUZ5WlpWZ2o5ajM5QTZlUkVBLUJWdDY5V3FFY2ZzaVJZbVI1X1d4NW83Nmk3S09wU0ZlYU1DMG5UejNMaktZ?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Ukraine critically low on Patriot interceptors as Russian strikes intensify",
+   "source": "The Washington Post",
+   "time": "2026-10-16T05:54:33Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkFUUWl2cU1MNkFNYU9KY2V5OG9JWUtUbGRfLWZNVG4tamZaY252SXRvVlZZSmlsSnVDTDBocEx5ZTFSQTlzWV9uOEticEJIUjFnYlo4eW41Zldibjh4WVhYQ09QRkE5ZG1OZWtxQ3liRHdfZ0VkQm43MzUyYkhIeXlhSW9yZXRPdzVSYVNjNmlYQUJnT21tbmNaQkQ1NngyTk9oZlhqMUhYSFlvaFlUdUlXM2hwX0lvUVpMMDlFaUNPc1pUUzNQM0NR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "WTI Price Forecast: Holds above $95.50, remains close to multi-week top amid bullish setup",
    "source": "FXStreet",
    "time": "2026-10-16T05:49:34Z",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWmJxa3UxblJKamFTY2Z1OXB4YjJjTFcyZDNxTTRYSHBQdTdKQW5odzZMQko0ajhFWWJXUVg3azgzU2VTUzFZN0Z2WVZWMmxxTmhGcTdkYmkyMDc2QWFtbXFsQkgxVlBYalhGZGFCNzk5N1lFZXlvTWNwWmE4WlFuTzRwcV8wYTZ1dGNBdlg2aHJQRHZJdnV2ZXlQaTdSbjhic2JSU3Ryb2hLTzFnZHVfLU5TUjBiVDdaMV9CZHc1UUthaUFITEViUQ?oc=5",
@@ -154,24 +216,6 @@
    ]
   },
   {
-   "title": "Ukraine critically low on Patriot interceptors as Russian strikes intensify",
-   "source": "The Washington Post",
-   "time": "2026-10-16T05:14:27Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkFUUWl2cU1MNkFNYU9KY2V5OG9JWUtUbGRfLWZNVG4tamZaY252SXRvVlZZSmlsSnVDTDBocEx5ZTFSQTlzWV9uOEticEJIUjFnYlo4eW41Zldibjh4WVhYQ09QRkE5ZG1OZWtxQ3liRHdfZ0VkQm43MzUyYkhIeXlhSW9yZXRPdzVSYVNjNmlYQUJnT21tbmNaQkQ1NngyTk9oZlhqMUhYSFlvaFlUdUlXM2hwX0lvUVpMMDlFaUNPc1pUUzNQM0NR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed's Warsh withholds Fed rate signal, praises recent global tightening with 'no free riders'",
-   "source": "CNBC",
-   "time": "2026-10-16T05:07:20Z",
-   "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
    "source": "BBC",
    "time": "2026-10-16T05:00:17Z",
@@ -179,6 +223,15 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
+   ]
+  },
+  {
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-10-16T04:58:04Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -217,15 +270,6 @@
     "USD",
     "YIELDS",
     "GOLD"
-   ]
-  },
-  {
-   "title": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
-   "source": "CNBC",
-   "time": "2026-10-16T04:29:27Z",
-   "link": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -284,6 +328,24 @@
    ]
   },
   {
+   "title": "Fed's Warsh withholds Fed rate signal, praises recent global tightening with 'no free riders'",
+   "source": "CNBC",
+   "time": "2026-10-16T04:08:27Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGxzSlg5TFdlNlE5TkVoRWVLNFVqbXJuamxaRHRfd0tZbnp0aDRXREgtMHg0aDFVWC16V1BuRXJHODltRlJfWHpaRkFPV0ZMZy14OU5JVGNRaXZ3clJfYUdZdDVnaE5wblItNmRWbUotWFpORWMxNk5Kd1h6NlY2VHNRSTdsSkhaYUhIVURTcFJ6Uk5sdExn0gGcAUFVX3lxTE5fZ0p3aTI2eFQyanZ4TmtGV2hkM29JS21sTlBXZkRfdGZjbFE5aGRJcVVBOXI5d2FlRURrMDFZbVEzY19rRFQ4alJwR0JXbk1fN1dSanpLRG00WGRIWnZZUnpCR19WRnMtUmpkNUZJb1VVRFF1QzRFM3p6ZGcwUWlKaUE1elFxRWlNNl9TTEZWZkR6UWlqa0xxdlNOYg?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Ukraine's resumption of strikes on Russian refineries is 'disgrace', Trump says",
+   "source": "Reuters",
+   "time": "2026-10-16T04:01:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQWZJUEM4emlGRGhaUVlYZFdNclZ3YmVXU0drNUN3Y3pSRUlnMXFHSVpSQjNzdllrZEdsejZ2NldIWHphNERHcFdfaURVVHpqQ2pleVQ5TjBKYnVlNmdpczIya2E3VGlKaDdPXzdEa3dCT3I1VW15WXpUeUl2NjlJZWZpLXpYY2VGM2pqM0ZGT3ZpMGpiWG9oeU5aTldnb3VHWHNlLTI4dTJkQlNrbGNnYVlfaUNNbldKVWZsS21B?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Fed's Warsh gives no hint on October policy decision",
    "source": "Yahoo Finance",
    "time": "2026-10-16T04:00:00Z",
@@ -302,19 +364,19 @@
    ]
   },
   {
-   "title": "French police accused over war-like injuries to teenagers in school protests",
-   "source": "The Guardian",
+   "title": "Britain’s Growth Has a Lot to Do With the Transition Away From Fossil Fuels",
+   "source": "Bloomberg",
    "time": "2026-10-16T04:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0NhZzJlcE5SQWZQMF9wcm9GLUpNc05SaGFza0paemNlV2t6YUpzRjBCSk1vLUltUnlFeWRJQmFlbmpaU1dVcnU4WVFubjVlR0dIWHlWQUgwMG8xRHd2VHZzUWFMRW1EMlY1bTBaVVdKZURJczVzWFJLWVRSVXNQbkhZSFRHZzFDeFBWMzc1dmVHekpvRHhjSkVOalNSbEU3eFdZTnBpWk85VzNMYVZr?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNGd4OHRGQl8tUnhGdWdGV09TWVF0VVJlcG42TUVRVkEzMWRmQWQ2M21Ia01aTnVaMUJnanpHWF9Vd1BJY3BLMnc1anpQVld2U2ZtdE5ubEJERlJzSlJ3aEVkWGFrbzZQakt6elgtZG1qbHlYQWpHZDh5YWRZakRrT1JaU0E2ZTNZMkZzSjJHbTNTc2xMbjlueUJuVmZRUTRZQmVTdmlXYXFDdS1SRTNjVTR3?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Britain’s Growth Has a Lot to Do With the Transition Away From Fossil Fuels",
-   "source": "Bloomberg",
+   "title": "French police accused over war-like injuries to teenagers in school protests",
+   "source": "The Guardian",
    "time": "2026-10-16T04:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNGd4OHRGQl8tUnhGdWdGV09TWVF0VVJlcG42TUVRVkEzMWRmQWQ2M21Ia01aTnVaMUJnanpHWF9Vd1BJY3BLMnc1anpQVld2U2ZtdE5ubEJERlJzSlJ3aEVkWGFrbzZQakt6elgtZG1qbHlYQWpHZDh5YWRZakRrT1JaU0E2ZTNZMkZzSjJHbTNTc2xMbjlueUJuVmZRUTRZQmVTdmlXYXFDdS1SRTNjVTR3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0NhZzJlcE5SQWZQMF9wcm9GLUpNc05SaGFza0paemNlV2t6YUpzRjBCSk1vLUltUnlFeWRJQmFlbmpaU1dVcnU4WVFubjVlR0dIWHlWQUgwMG8xRHd2VHZzUWFMRW1EMlY1bTBaVVdKZURJczVzWFJLWVRSVXNQbkhZSFRHZzFDeFBWMzc1dmVHekpvRHhjSkVOalNSbEU3eFdZTnBpWk85VzNMYVZr?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -355,15 +417,6 @@
    "tags": [
     "TARIFF",
     "CHINA"
-   ]
-  },
-  {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-10-16T03:28:04Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -409,15 +462,6 @@
    "time": "2026-10-16T02:29:00Z",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOVM2aWdQU294R0Ntc054S1cydmhwSlUydzZBVDNLR0JjSFBWQzloXzdnUHRJNmx2S2h5ck5YZ1ktX2xhajNUTmJISjR1TzFNSzNLWE5VNGdwdHhUZlBTbWNYU0pxYmEwNndCbFpFZDNnSG1RVGZRNE55a05Ya2pyNnNyYjZaM2djTkZaSGF4TjRSZG5Za3dUN05CWjZOemdYY0JlbTNraVdZZVJ0b0dzbXFIdw?oc=5",
    "tags": []
-  },
-  {
-   "title": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
-   "source": "CNBC",
-   "time": "2026-10-16T02:25:32Z",
-   "link": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
   },
   {
    "title": "Gold, silver rebound in global trade: What investors should watch next",
@@ -475,6 +519,16 @@
    "link": "https://www.cnbc.com/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-reuters-reports.html",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold steadies near $4,160 as stock selloff drives bond rally, Treasury yields fall By Investing.com",
+   "source": "Investing.com South Africa",
+   "time": "2026-10-16T01:31:49Z",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHdLQkpQS1ZoOW96R21WelRIWlplemtNNXRVSjFfM3g4VmZaeE9wY3NSaC1LRFp6M20wSHhoWW8yNl90V210R1VBSV9YQzFyTGJfc3NhM2ZuLXFKNlNBMWh4QjZMSE5nQUFYcDdjak9fR051Y3EtdFNvWERGTnR3NHJsd05YVUxyOWdGNFNiQXJOQVpaMGhnQTFoMi00aElhVE12a0t0bVZlZzZENU9mdnZtbDlNNTFHaW9OUF9POF9SN0xiNmpHQ3FkWkpVZUU?oc=5",
+   "tags": [
+    "YIELDS",
+    "GOLD"
    ]
   },
   {
@@ -626,65 +680,6 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQWNkLUVfc2EzS3EwdGdtdllDbWdwbHhDS3JvRV85ZjFmYzREdkJTa3dJaHRkV0hwanVDUG9hQkU4czFGZ0huOU1NU1h2Unl0MmRqY1ZMT24zclFENDAySGRpeVhFcTNQdVBXWW9KaVdSMUNKMnFFUU9pU0RwNU5teUV1VzhjakhZTl9MOW1BWEFINXFmNWpNV3c3V2NzM2s1RmhWRllneWRYRzJ4MFRrZVE1UVl4X1Y3X1FwX0NHeTdweUcyaGdCLTBoT3lSSUpJT1E?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "U.S. crude oil jumps on big inventory draw, potential shadow fleet sanctions relief",
-   "source": "TradingView",
-   "time": "2026-10-15T23:57:44Z",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRi1CcDEwaGJSWUNSMldzSUVsS1BlME1rZTA5T3FQWmwtQmxabW9aZWJnRUFncHlfQmNJXy1oZUZBYkRvMXBoUXFBUjZEdEU2WDlCSGF4Rzh1dkdKMnJVRXduYWVpVWVLMXdrX1ZuZzJzcUR1SlJFTXQ4RjFKT1pHZm5nNUdYbFhvTFZHelBjdDQzUDZRbXlQUlNCa3FaRlY4QWRRWUYteWgzWTQ0ZzlHU0tBUlpMdS1Hb0hSVlhpcTFJY0dDcTNlOEFFTzVybVo2cDNGYlZWZHFfRnVO?oc=5",
-   "tags": [
-    "SANCTIONS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "U.S. crude oil jumps on big inventory draw, potential shadow fleet sanctions relief (USO:NYSEARCA)",
-   "source": "Seeking Alpha",
-   "time": "2026-10-15T23:57:44Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYVNVQ3g2OXpYYXpXOXNtamN6UU9hakotUEpnRkhoNHI5bDl4aGlHMXZ5UEhXZ1FnTUdNUk1odFl5U2hWRmpDUG9hQ21YdmJJR2lQeHE2X3JtRzFLVXRvZmEwY0JsSDE4cVV0WHZJVjZTRTl1Q2FhOTJzNUk4dEdCY2pTVnpmaG1hbjAwbHQxcDkxdGw0N2s1YTRCS3pWaDEtdk5CUWtsSldKMDhzbGZDSkRtTnc4RE85UlE?oc=5",
-   "tags": [
-    "SANCTIONS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Houthis launch deadly attack on Yemeni presidential palace",
-   "source": "FXStreet",
-   "time": "2026-10-15T23:55:07Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTdrazlmN054NlUzV0ZMS0t0UFhZNmE5bGhpUHc3WnpwTG8xV2dOYUg2WWFoT2R5bFBpTF93c3AxaDNHd21PRFNBVHplSjViLVotdGVyWjRNb3dYa19hTFAtblo5NDVWNFN1Sl96M3VpZThpVHVvemt5b1BFMFdpbWxzX0lsMm90MkM0RGo2aGxYbFlUb0Z0QWFaemZUQ01ERE1v?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Gold Holds Gains With Haven Demand and Lower Yields in Focus",
-   "source": "Bloomberg.com",
-   "time": "2026-10-15T23:51:46Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQkZJRFVDZEF0dG96cVFERm9uc1BoTDJPVlVodHhZcThCUW1QQXlESnJScEk2OGRvYlctd0FVZlFEdmpyNzVOVzFvaFVsMHFVRWVWeDlyTW5RN1Z0MzZkeGJTNEQ2TjhXaHZXblpOcjRHeUt1OVpodFFoTVBTVGlGTDZuUktFQkdDWEFZU0tydVBrWmxwc3FpN0Z4Mm1YU2poWk9YcDR1YzhLbWF2ZGxPcA?oc=5",
-   "tags": [
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Fed's Goolsbee on inflation: discouraging, but still some optimism",
-   "source": "Reuters",
-   "time": "2026-10-15T23:49:44Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXR1ek9vWXFJUnhjSUhmTnNnd0o1MERLZ3Q5OWxEX2J4UERIT1dGNWMwaVI4MkpiajNzZmprSE1vZWRaSDZ4RjlkSjFlSG1FSWxYT2JkSVNSaVp5alFfbGQ1RHd0WHdaeGw2bU1aaHQ2cmJhSnM4STd2cS1odWZreU1nU0hqYm5WeVJkUmdxMmg2NFRiMkFmMkRtMWQxTWd5SHRNM2FR?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Gold price rallies as lower yields, AI stock selloff fuel haven demand",
-   "source": "Mining.com",
-   "time": "2026-10-15T23:45:37Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQkVrY2xsWjh3dWwya1B3VG9hYVcwQkFmc19KRHBxT2p2TVI0cTc0QVVXa0pPSXdxOVlqRGNYUmk1SnlteEtMNkhkVmxiYTBHdk9qTjNZdmFjVzNfNXJoZ0NkTWhqWVgybFlJbVZiZkNtQWJvaFpudDVhLVkyaU9NY250VXUzdlY0V0RXY0xCbFFjWl9rdnNlMTJ3dllqUQ?oc=5",
-   "tags": [
-    "YIELDS",
-    "GOLD"
    ]
   }
  ],
