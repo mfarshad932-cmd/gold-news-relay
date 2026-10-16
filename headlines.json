@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T18:08:59Z",
+ "generatedAt": "2026-10-16T18:37:08Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 31,
+   "items": 29,
    "kept": 12
   },
   "gn_fed": {
@@ -91,7 +91,7 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 18,
+   "items": 19,
    "kept": 12
   },
   "gn_war": {
@@ -101,12 +101,12 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 23,
+   "items": 21,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 42,
+   "items": 43,
    "kept": 12
   },
   "gn_oil": {
@@ -125,6 +125,67 @@
   }
  },
  "items": [
+  {
+   "title": "Nasdaq tumbles 2%, heads for worst week since June as investors rotate out of AI trade; oil rises: Live updates",
+   "source": "CNBC",
+   "time": "2026-10-16T18:35:31Z",
+   "link": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
+   "source": "Al Jazeera",
+   "time": "2026-10-16T18:28:04Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckE1c3laVXZKWGlFMEUwMEcwQXR4VDBqRlJxRUo0M1pMWk9SRDVtOHMzLU5qNzJxYW92NUw3QkVadlNlUU5OZWJjeG9ubURBNlpKNnVHU0otOWV4Si1GenlwV2tadElpRjRjQkM1aGlJTGZUeGJfU3JWSGdNQ0dUc0szQ0hvdFZPWnhKaURtcXJuMVlBeFdZdVdhbENBZVlfVk9yaXdtZWFsVEgyVnl3NWRjSdIBuAFBVV95cUxNaTFsRERla2prbU16VDhKWUhCbE1NTVRQVzZ1bXRJcHBQeGtmR19aVzlWVVdFNzBHT3N0b2ZsazRiSDV1UWJWXzJCZXhLeTNjWXJqWWdCN01iWmxDcno2M2xKN0w3VjhrandDcGlrRGtENTdTcGVERE50a1JRV0VSSzZGZ0lQMTZOZFZZT1VpLXloM1dqelFsSl9oZEgxWldjOHhCUGNic1BHUElFVTRPX3R2N2pzRUlG?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
+   "source": "CNBC",
+   "time": "2026-10-16T18:27:02Z",
+   "link": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Yields continue to rattle investors. These sectors are most at risk if rates stay elevated",
+   "source": "CNBC",
+   "time": "2026-10-16T18:26:18Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzRFR1NW9wZXF1dGRrcjRFM1I0cTg4UHpld3BEUFFoRm1TZkN5N2U5dk95ZHZNaHhhajNHNEh2WmxhcHp1cXp5TGw1dGJvX2ZWQ05wV3poTmVPSnAzU3ZSeHg4NUg0aU1KTjlxTWlFWHozclVrWWlETHV3d19BRVE?oc=5",
+   "tags": []
+  },
+  {
+   "title": "Yields on Treasurys, European Government Bonds Edge Higher",
+   "source": "WSJ",
+   "time": "2026-10-16T18:21:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaTh2LXo3TUR2cXpfSTI2QlNFNGQwVlNtM0FMQW9EZ1ctdGZmSXd1WFpnTnN2a3VKTHdHdmNaLXlEd21pdnJWdEZOZ0MxV2dnZ29LZ1RoZXlRS2x5V2JLazF1a1puX2NjM1h0ai1fdXRFal9hTDZLMDNBSEk2SHJnc1BR?oc=5",
+   "tags": []
+  },
+  {
+   "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
+   "source": "The Guardian",
+   "time": "2026-10-16T18:11:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQmVOSExBa0hEUE5EQzBpN3lqaFF2NlZMd21vOGFrWnQyOEM0N2RTcEpiNV9SRW9sTERsdDFpRHZQMm5CNkJhTndmT1dWOW5LMFhaSDlBLTVvWTRpWkN6QURuZy1WWld1V3ByWWFOS3E2UG45UlNBTlN6VDRCZHAyT3lLLWVybzFKMUNYNlotWmdsMnlBbVNRVHhyYWJWdW9zZFd2WjRDbTRmS2hTd1p0UGlB?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Warsh Vows to Tame Inflation as A.I. Delivers ‘Shock’ to Economy",
+   "source": "The New York Times",
+   "time": "2026-10-16T18:06:40Z",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92Rk9VSzVNVHNBSmk1b3BzMTQyemFQdHNiSWVQYU1uVVJ1cEd4Y1lJTVlqZUU2TVNkb2drcEg5X1FxN2E1RWdKMjN6QmZwOTR4U0ZGay1yNXBxa1BaemN2ZXh3QkQ5UlV3MnFDSVBLS2k3REJqelluUnNB?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
   {
    "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
    "source": "CNBC",
@@ -153,12 +214,31 @@
    ]
   },
   {
+   "title": "Ukraine president targets Trump, Putin at EU summit",
+   "source": "Al Jazeera",
+   "time": "2026-10-16T17:59:48Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
    "source": "CNBC",
    "time": "2026-10-16T17:55:05Z",
    "link": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
    "tags": [
     "USD"
+   ]
+  },
+  {
+   "title": "Hot Inflation Hits Gold, but Safe-Haven Buyers Fight Back",
+   "source": "Yahoo Finance",
+   "time": "2026-10-16T17:42:05Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWo1MDF4SXhidW1uR29FSGVhaEVXZnRGM1pJb0Rqa2RNY0tpcjd1alBqSEY3bEl0anFXNXZ3dnp4SlZfN2pTbkpRY1FMdGk0UU1ZdGVVdWctN0VCWHktcWFVWk5vUkdJdkRoZHpoSTRVWGVNbUlhNkVXM1RuZ2h1bzVLUnBhOGl6THE1bk9Zb2FiNk56azRTTnhzNzlyYTA?oc=5",
+   "tags": [
+    "INFLATION",
+    "GOLD"
    ]
   },
   {
@@ -270,6 +350,16 @@
    "tags": [
     "INFLATION",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Putin envoy says Russia and US are discussing joint deals including on data centres",
+   "source": "Reuters",
+   "time": "2026-10-16T16:34:18Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTzh3aTJ5dl95cHBVVC1pTGhZU3BoLU5UeDVjd0F6Mmlhc3BMc3dkZFByZXhPMDFUUnMtWkpEcW1GN3oyN0RzN0Y4YlI0VVl1ZzBVY2lQbFFGcUpiRDJoMUpzbXZPN1dCYjdpY3ltZVNRMGk3Nnp6b2poTEJHX2p0R2ZvUFFmVTlfQzJxRHNDU0hWNVE4R2dxMFhzdXhCYnpyUEpxQ01uenpJWVQ3OFZ1YWNQYw?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -493,8 +583,8 @@
   {
    "title": "Warsh offers no fresh signals on interest rates",
    "source": "The Hill",
-   "time": "2026-10-16T14:31:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ195RmlnMk9xbzl3Y1MzZnMxLVNiQ19IOVhCUXhvaXlDSDRnbDU0YTVPWVctUnhvUnVkbHRCUjhxNGNmWHIzZGhUSDZvUnlNZWRzcWZnQ2dOSzJIbzBqcnE5OTZSUGpXM3psQXZtR01LaGR2YTJsbjN4aWt1ZXlGdDlB0gGHAUFVX3lxTFBuOFlFdFFiLTllM0pNejc1MUFHbFZuTE5SUTlEa2lObkstb2ZmYUNiUzQ1bFFsTFRtY0o0a0VmbzZRQWlyLTZmR3NGWHlzRFVzSDB6enJxU3VBNGNkT0hsZlFXT1MyUGc0eGRfTm1FSi1sdTdELUZMSEl3LXB4VkVScXdhb1U1aw?oc=5",
+   "time": "2026-10-16T14:31:52Z",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbjhZRXRRYi05ZTNKTXo3NTFBR2xWbkxOUlE5RGtpTm5LLW9mZmFDYlM0NWxRbExUbWNKNGtFZm82UUFpci02ZkdzRlh5c0RVc0gwenpycVN1QTRjZE9IbGZRV09TMlBnNHhkX05tRUotbHU3RC1GTEhJdy1weFZFUnF3YW9VNWvSAYcBQVVfeXFMUG44WUV0UWItOWUzSk16NzUxQUdsVm5MTlJROURraU5uSy1vZmZhQ2JTNDVsUWxMVG1jSjRrRWZvNlFBaXItNmZHc0ZYeXNEVXNIMHp6cnFTdUE0Y2RPSGxmUVdPUzJQZzR4ZF9ObUVKLWx1N0QtRkxISXctcHhWRVJxd2FvVTVr?oc=5",
    "tags": [
     "FED",
     "RATES"
@@ -577,99 +667,6 @@
    "time": "2026-10-16T13:39:38Z",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1pTWWM4OXpjTWc4S0dGY3pwT0xrekdxVzd5Y3B1NlUwMlJ6TDlLV1ZoUlkwcnRBc3czRGVRMks5YnZBOXdHandmamlSdkRrN3g5cnB2QlpfUUVGV015Rkh4U0RpaHI5aU0zcms2QU5Lb0Rwd0pnVnlkUnpuY3JUalVoWlNMalpEb2NNcDVkQ3otb2RkOXpabHNNWlhnVlpJdVE?oc=5",
    "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Bitcoin vs Gold: Bitcoin and Gold Find Common Pressure in the Dollar Trade",
-   "source": "Investing.com",
-   "time": "2026-10-16T13:37:58Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ2VMZk9Vc2lrMFc5SVdCZjUyeUh0N1pEOHdjSHNEbk5LQWRqcVpsM3p6N1BONHotLXpCZ1A3eHg1anBFeTN0MENxQTJFVUdtUXNhcVRxNEJ3SnVYS05rQzdmaWhJMjJuTFl4Y3FXeHAzdWNDZ0JIME9EdXkzOXp1NUNRMlV3UjBnX3d6cGxjU2xuaU8za1dJVnNVRGdaX1Q0cC1RbDFtVkpRN3RqWDdMUFlHVDN3T25FRkE?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Warsh Vows to Tame Inflation as A.I. Delivers ‘Shock’ to Economy",
-   "source": "The New York Times",
-   "time": "2026-10-16T13:35:09Z",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92Rk9VSzVNVHNBSmk1b3BzMTQyemFQdHNiSWVQYU1uVVJ1cEd4Y1lJTVlqZUU2TVNkb2drcEg5X1FxN2E1RWdKMjN6QmZwOTR4U0ZGay1yNXBxa1BaemN2ZXh3QkQ5UlV3MnFDSVBLS2k3REJqelluUnNB?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Iran War Set To Push PetroChina's Trading Profit to Record $3 Billion",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "time": "2026-10-16T13:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeW9wRDRwUTRuVk13NkhZV25mSDhFajR1WFBRNVgwQWlmTzRDeVM0WmttTVg0WmVrLTZRYkNWY3B2czV5MnJXR2V6RDh5Rlh4LVRRcnRVa2d3SWFPeFNKMWhWeWt4ekVwMFNoeU11RXhxcVNKc0ljbTdOSDZtWGplcjFMMzVxLVlKX2RERkExQ3g3OERBT2p4bFh2cC1fYXRNT2NWaG5uOE5IcFNCWkJfQnVsTmJaU2hKNm92SzdKOW7SAcYBQVVfeXFMUDZxaEt1Rlo2SVZwQUQyMlFhdU1IQlhXTWprQWt2cXRGaEJWeG5wX0pqMmlzZVpNUmEwR2NjLXhuZVo0d3B4a0xpZWVwQUh4N0xxSlc1QzB6RWh5dS03UXlWMy1SMktYb3E1a0hLbEt3cEdSZ3dTelZMVzhCT2QzeElEbV9hUTBVYzFZTXJTMXMwRmNrVU42bW9SME1IZE9hLTNWSUIydFVoWTJYX2RrSENMMW9GSjlIRjl3LTdvWFdGQjY0SEVB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Tests $4,000-$4,200 Demand Zone as Treasury Yields Ease",
-   "source": "FXEmpire",
-   "time": "2026-10-16T13:24:15Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeG1WZ084cnQ1VlIyNXhuRUQ2aFRTZ29uZkpBalM1dlZjSC1ZU1M4X3drdEJFbWtyT1o1TmkyT1htWVI4Q2NFQWhzRERfbVpkODl4NDBUeGlmbE1MVUR5YUNZa284WWRxdGdBak54WVhTcXVZSTBVa3FPQWU1cC12cFpYUXFNZTVVU1R0NzBIN1d5bTdFV0lYVkxwNk1UcGNUSDR4Y19uTHc4RDA?oc=5",
-   "tags": [
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Price Canada Today | Live Gold Price in CAD",
-   "source": "Kitco",
-   "time": "2026-10-16T13:19:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Industrial production surges past expectations, boosting USD outlook",
-   "source": "Investing.com",
-   "time": "2026-10-16T13:16:07Z",
-   "link": "https://www.investing.com/news/economic-indicators/industrial-production-surges-past-expectations-boosting-usd-outlook-93CH-4954208",
-   "tags": [
-    "USD"
-   ]
-  },
-  {
-   "title": "AGNC Investment nears Q3 earnings: Watch yields, book value, dividend",
-   "source": "TradingView",
-   "time": "2026-10-16T13:15:51Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaDZiWWJRdWFBZVFWdDMzc0lFODZjdXJZNWZKNDJtRjB2b0pOZW9DQjFJRVUtZzZ2cmRwSUFsM19rNHRDQlN5UGV1bDBSQnJoRDE0RGdUTWtTNHFETDJsVzVzaVNLZ1YwQjA4YmRkUDdyQ282QlZSYU8xMXdicklRRXNzXzFfY3dRTXJuajhVUVdhZ0NGR1ktMUVHSzBYLWRlUFFCRVRBWDRoY3o4b3RyMml6X2Y4U3JOeFNNNTlJLThsRVE0cHM4Uw?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Silver Rallies as Falling Yields Support Bounce From Crucial $55 Level",
-   "source": "FXEmpire",
-   "time": "2026-10-16T13:11:28Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdVRhNUtuS3hZVFhXS1NncUdxa0tvRjkxTHYzX2Z2akNLTmlxWnRGWWtMeFE5b2poSU5pTUhuNXFHcVdwMkg5SFV5WlJ0dnlPR1E4TjdLRlVMOWxxNklZdlBZWG1EQ20yYUMwZ0g3eENuZEdjVGZabkU3U0hkaHJGT2pTODUwSzA5T205R1pfWXBGRVZ4R1RpM3h5bDZuMDk3WG1mZnkzdE5xWldObnhBeWpVelc3SlNWZ1pBaQ?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "IMF chief urges cooperation on AI and war risks, as US hails economic momentum",
-   "source": "Reuters",
-   "time": "2026-10-16T13:08:03Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaC1kZ3BadTRtNzZPdmw0UzNSSHNNTHh3cGltTWJvQ0hHanZaeWhoTDFrSG5GdnNkU2NRamJ3OXF6VVVtdDRncGJtdnpKemJQeHpqbTZFaFVOMUgtOFhNYnU5UFlFbTdtUWZ0SGhMVEtZVnYtMHFQTUlCZG5yN2txMnJjTklQWWtrYTFkS1JTeGRqNkNMa2Vra19qYk5XVzZ2V3pjZnczVERFb0pOOTFaQzZmaThwQ0RSRXM1VA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold holds near $4,170 as inflation keeps December Fed tightening in play - Kitco AM Report",
-   "source": "Kitco",
-   "time": "2026-10-16T13:00:07Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakQ5TkRKamtmLVRFeE51NDlQRGZYLXc1X3lyRFFDRHFqV2xRM09VV3M0Y21BQjlqek9RR294eWhUSDhpV19fZjZEUEtEcW5fMHZRMUFsNldMYVJ5a0dJVDkwaTBkNU12WVEtOVZONzRXWEhBYW9WVWgtVlJaZXd1RjlHd2tWU01wRDJqcDl6NnFkUktSX0JKVHBoVE1RWnEyUFNSRTBoQWdya3NzajU1Z01LWW5LQjl0MjdPWQ?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION",
     "GOLD"
    ]
   }
