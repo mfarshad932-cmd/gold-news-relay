@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T09:10:41Z",
+ "generatedAt": "2026-10-16T09:38:50Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,16 +57,16 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 8
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
-   "items": 47,
-   "kept": 2
+   "items": 48,
+   "kept": 3
   },
   "bbc_world": {
    "http": 200,
-   "items": 36,
+   "items": 37,
    "kept": 9
   },
   "aljazeera": {
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 26,
+   "items": 30,
    "kept": 12
   },
   "gn_fed": {
@@ -101,7 +101,7 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 15,
+   "items": 19,
    "kept": 12
   },
   "gn_yields": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
@@ -121,24 +121,72 @@
   },
   "fed_calendar": {
    "http": 200,
-   "items": 4
+   "items": 3
   }
  },
  "items": [
   {
-   "title": "‘I’m on a War Footing’: Terry Tao and the Crisis in Math",
-   "source": "The New York Times",
-   "time": "2026-10-16T09:02:04Z",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5obDJaUW0zTDU0Q2RqRGd6QlRabDFENjNiMTJtR0ZLOXkycWhXNjVlT2Vxc1hFRWhacTd6MEFyM01fU1c5UmNxME82N1VVVDFCWnBKWVZ0bDdvVXRZLXFXaldhNF83RG1keHVIV04xVQ?oc=5",
+   "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+   "source": "BBC",
+   "time": "2026-10-16T09:34:30Z",
+   "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-   "source": "BBC",
-   "time": "2026-10-16T08:47:17Z",
-   "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+   "title": "EU vows to maintain Russia sanctions after US pivot",
+   "source": "Financial Times",
+   "time": "2026-10-16T09:26:37Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTHFBcWJzbFY0NEZKcHRHeTB5ay1pNDlldmk1Zmt5Y1E1Z24xSmtJbGZkWWU4Y2VOeUlDSmVlTTBsN29EYTJ5MWZHNTEwQ29VZmFFSHhZd3ExZzZXS19EbUhYQkRmWWpFMWQwSTRhNTdDMEZvN0RlbHBHUDdZS2xHWVpKcFA?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Stock Market Today: Dow, S&P 500 Futures Rise as Bessent Intensifies Economic Pressure on Iran, Treasury",
+   "source": "Benzinga",
+   "time": "2026-10-16T09:25:22Z",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPRUkwb254Z0pwa1dQaWN1YVIyOU5aYTMwZWxaWGZISEN5NE9SSnJIdFdJV1l2cDdQbHhCakU2OGJQTWV5UVF4YnBjaUJhbXp6SHVFcy1DbnJkMlhPbTd4ZFBzRDR4RndtSTVvZlJPYzdXR19tLVRXMVRyVEx4LVZWNzNrMWhmdFBsYWdYMHNsaEV6ZjUwY05yTGJudWtkRWRPQkJjOGZmZ3I2cl9uaUdMbkUxS1BkZnlYQmVGM1g2Y2UzWDQtWGVidDFGdmtwNGF3Q3pGNUVNYjJ0aXFLakNwY1hMN1YzS1lXNXZHQkZ4SU13cXhZNGVpdkVlTldMNFNnTHRBaFBxOGVWT19PeWN3d3U4cXVvZjdSR0RJZUNFY3U?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts",
+   "source": "NBC News",
+   "time": "2026-10-16T09:22:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlEZ042YVJkMUFiaTNQX0hTd01hZFdqMG9yNXIzQ0ZFUGs3cms?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
+   "source": "MarketWatch",
+   "time": "2026-10-16T09:16:00Z",
+   "link": "https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "China Gold Market Update: Q3 Ends With Strong Official Gold Buying",
+   "source": "Seeking Alpha",
+   "time": "2026-10-16T09:05:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQejVyb0hBdjhQN0NESFVER2dMRXlTV1lTQ183dkcyamZicUJJLXpIOXpsaUc2VDhFMk9abS1DQTFzdmlkOWRjUE53MzYwNFhDWmJpbEFyNml0Sm12OGNpcnk5QVdtMExwU1NfUXliYmVJYjJqbG9YYi1Leko1My01QnRnZFQyb1ZmSXNxN0h5aHkxa3R5dUxKYkYteDhaV0JOM242cVdEbGVDUQ?oc=5",
+   "tags": [
+    "CHINA",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "‘I’m on a War Footing’: Terry Tao and the Crisis in Math",
+   "source": "The New York Times",
+   "time": "2026-10-16T09:02:04Z",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5obDJaUW0zTDU0Q2RqRGd6QlRabDFENjNiMTJtR0ZLOXkycWhXNjVlT2Vxc1hFRWhacTd6MEFyM01fU1c5UmNxME82N1VVVDFCWnBKWVZ0bDdvVXRZLXFXaldhNF83RG1keHVIV04xVQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -248,6 +296,15 @@
    ]
   },
   {
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-10-16T07:58:04Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Trump says he won't use nuclear weapons or send ground troops to Iran",
    "source": "CNBC",
    "time": "2026-10-16T07:56:55Z",
@@ -282,6 +339,17 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT19xNkFlWGlKRk14ZTJVYnFwTGM0eEIxeGdLdUN4OE5NekIyOWJkSVNuZWdZdW1NYndTYU1RUF9EQm1kdklJaHNWMjg2TFNNaU1PZkJmdGdtb0FIaExBb0tUdV85a3ZDdVgwLU9IOXNQWTVvRDQ0ZGJINTdQYWJ2ZUt5S3BXbnFHMXBPazh3Y0dWaXBuQ2RscXBmb2FadnVKWkxNTXQ5bDRmWl9aaDh1bWxhaF9fR210?oc=5",
    "tags": [
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Gold steadies as bond rally supports bullion, weaker dollar offers further support By Investing.com",
+   "source": "Investing.com South Africa",
+   "time": "2026-10-16T07:28:35Z",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHdLQkpQS1ZoOW96R21WelRIWlplemtNNXRVSjFfM3g4VmZaeE9wY3NSaC1LRFp6M20wSHhoWW8yNl90V210R1VBSV9YQzFyTGJfc3NhM2ZuLXFKNlNBMWh4QjZMSE5nQUFYcDdjak9fR051Y3EtdFNvWERGTnR3NHJsd05YVUxyOWdGNFNiQXJOQVpaMGhnQTFoMi00aElhVE12a0t0bVZlZzZENU9mdnZtbDlNNTFHaW9OUF9POF9SN0xiNmpHQ3FkWkpVZUU?oc=5",
+   "tags": [
+    "USD",
+    "YIELDS",
+    "GOLD"
    ]
   },
   {
@@ -322,21 +390,22 @@
    ]
   },
   {
-   "title": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
-   "source": "MarketWatch",
-   "time": "2026-10-16T07:07:00Z",
-   "link": "https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "title": "How Israel’s elections will affect Palestinians",
    "source": "Al Jazeera",
    "time": "2026-10-16T07:04:54Z",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold (XAUUSD) Price Forecast: Warsh Eases October Hike Pressure, December Risk Remains",
+   "source": "FXEmpire",
+   "time": "2026-10-16T07:04:00Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWEUwR2I4RzNVSTI5VEN1QXpGMW9pTERBeW5PTnlLYjk5UTN3eGZfY0FxYU5OSTBpcjFpemtCU3YwSW5GbTBlSmdLeV9WUE9xcGdpX09GZDFLcUdvVm9fWmRwWkMxZm5NNEJUVDU1aEhHeXB2T19FOHNPWlFsd0JWdzk5ZTM1U20yU293MXhSYkVnMEh1emlhcmxFY08zamtYcTRCdHRNNUZBUkxjWUoxV1N5blJkcHRqaEROSENCTUxSRUYzOHpESFYzbHItQQ?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
    ]
   },
   {
@@ -350,6 +419,16 @@
    ]
   },
   {
+   "title": "Treasury Yields Continue to Plunge Despite Hot Inflation Reports",
+   "source": "Investing.com",
+   "time": "2026-10-16T06:58:42Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa09tMEN3UmhQWmpiODh2ZG1IX2JlZk80dUNEaHo1Y1J5QW1ZdkZDUzVvbDRzdExMMUgzYTJnSHNCUEF3ZmwtbkVFU3JnbGg2bjdxWmdyLVg0MEhpeFVNOVF0bDd2b2F5WkQ3NW1aelY1RjJDSm1iUWtNV0FWQ2ladm9qLTFOcEVPSk1YY0xtZGE5YzlJVFpDZUpaMlNhbXVJTDNsVkRFalkyUQ?oc=5",
+   "tags": [
+    "YIELDS",
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Gold and Silver Price Forecast: Falling Yields Fuel Rebound Despite Hot PPI",
    "source": "FXEmpire",
    "time": "2026-10-16T06:49:30Z",
@@ -358,26 +437,6 @@
     "YIELDS",
     "INFLATION",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Gold (XAUUSD) Price Forecast: Warsh Eases October Hike Pressure, December Risk Remains",
-   "source": "FXEmpire",
-   "time": "2026-10-16T06:49:05Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWEUwR2I4RzNVSTI5VEN1QXpGMW9pTERBeW5PTnlLYjk5UTN3eGZfY0FxYU5OSTBpcjFpemtCU3YwSW5GbTBlSmdLeV9WUE9xcGdpX09GZDFLcUdvVm9fWmRwWkMxZm5NNEJUVDU1aEhHeXB2T19FOHNPWlFsd0JWdzk5ZTM1U20yU293MXhSYkVnMEh1emlhcmxFY08zamtYcTRCdHRNNUZBUkxjWUoxV1N5blJkcHRqaEROSENCTUxSRUYzOHpESFYzbHItQQ?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Treasury Yields Continue to Plunge Despite Hot Inflation Reports",
-   "source": "Investing.com",
-   "time": "2026-10-16T06:49:00Z",
-   "link": "https://www.investing.com/analysis/treasury-yields-plunge-continue-despite-hot-inflation-reports-200689676",
-   "tags": [
-    "YIELDS",
-    "INFLATION"
    ]
   },
   {
@@ -416,15 +475,6 @@
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaTh2LXo3TUR2cXpfSTI2QlNFNGQwVlNtM0FMQW9EZ1ctdGZmSXd1WFpnTnN2a3VKTHdHdmNaLXlEd21pdnJWdEZOZ0MxV2dnZ29LZ1RoZXlRS2x5V2JLazF1a1puX2NjM1h0ai1fdXRFal9hTDZLMDNBSEk2SHJnc1BR?oc=5",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-10-16T06:28:04Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -636,60 +686,9 @@
    "tags": [
     "TARIFF"
    ]
-  },
-  {
-   "title": "Gold (XAU/USD) Price Forecast: $4,103 Support Puts Bears to the Test",
-   "source": "FXEmpire",
-   "time": "2026-10-16T04:13:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTlQxdm9BNEQ3Yzk0b01MYnNmWDRGakstYU9OVXljVG1UTk16ZS0yYlMyN2E0MGFUV1V1UVktd0dmMHZhbTBPU3dxbE85bWowT2xLRHlCc0s5Qkk1ZDVzRnFQeWZQWHRBd3N0WFV2MVdCTEV6SlRKR05MWmhDOEFqUzgyRHh2NnBQZldkRUhZc09JXzVYd3hVT2llN3BLSVdRZEJyRVc1dzJ2Zm5zclFNczRzQlo?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Here's why Nikkei 225 is surging on Oct. 16",
-   "source": "TradingView",
-   "time": "2026-10-16T04:13:00Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU1U0NzlWdGtFYmpSSEdvV0tGRlhsdUhQU281YmwzWDBvLWJ5X3FIZFpNZ2VzbzdIZXRRNEptMTJGNjFJS1NUQUJPUHhka1V1cGFHUHh4OE1EcWthbmFBMlZHbTZFSTM3V2oySmxEdWd1c3VrTjVjTWthbzVGQVd6X0UzY0hTT2M4NTJJME9mZXc0ZjhRaWFMMFN2TlMtWDRq?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Breaking: Fed’s Warsh says he would deliver price stability, but won’t pre-judge meetings",
-   "source": "FXStreet",
-   "time": "2026-10-16T04:10:32Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSU51bVRMd29mN0RRaVl4UWpfU0MwQVdfYU5XTC01S1dVei12WVNJRGhPUGpSSGJZVVlTWDJvNmpMLXMyU3k3b0RZcGVrbGdrV3JXVDdIb05CSGg1U2E0WkMwSEJoMmlBMGtxa2hocmwzOWltd0hYenRIQkVpeTVLZzNWalk3aGhKUUYxUy1pdGZKX19URGlxM3l3YVExQUVZWDVhNGduVVhRV3JicmZiQjhqLWtPMWxxWFk0Q1Q5d1hrV0JuZ2ZN?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Ukraine's resumption of strikes on Russian refineries is 'disgrace', Trump says",
-   "source": "Reuters",
-   "time": "2026-10-16T04:01:00Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQWZJUEM4emlGRGhaUVlYZFdNclZ3YmVXU0drNUN3Y3pSRUlnMXFHSVpSQjNzdllrZEdsejZ2NldIWHphNERHcFdfaURVVHpqQ2pleVQ5TjBKYnVlNmdpczIya2E3VGlKaDdPXzdEa3dCT3I1VW15WXpUeUl2NjlJZWZpLXpYY2VGM2pqM0ZGT3ZpMGpiWG9oeU5aTldnb3VHWHNlLTI4dTJkQlNrbGNnYVlfaUNNbldKVWZsS21B?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Future of western security is at stake in Yemen civil war, says country’s former PM",
-   "source": "The Guardian",
-   "time": "2026-10-16T04:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX0tQU2RyY2ZfVFBYeFYzb2RkWEh1dUtTZHBfcUwwdU1ELUViUmU4c1JBWlU3QktJRTl3NFRBampJUUN5V0c3VzZtbHJGb09lMUtOUHlZY2k0UF9XcHpSeV9talI2WDAwNldoeHpDNHBnYWR4Y0dmOWljMW1TR3ZJcUtleWZ0ZVZUUV9nclNsZmtMaWlSRWxPWXBLeTc3bmF1WE51WUJLYw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
   }
  ],
  "fedCalendar": [
-  {
-   "title": "Discussion - Chairman Kevin Warsh",
-   "time": "2026-10-15T23:30:00-04:00",
-   "impact": "Medium",
-   "kind": "SPEECH",
-   "src": "fed"
-  },
   {
    "title": "FOMC rate decision / statement",
    "time": "2026-10-28T14:00:00-04:00",
