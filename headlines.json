@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T17:12:14Z",
+ "generatedAt": "2026-10-16T17:40:36Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 4
+   "kept": 5
   },
   "marketwatch": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 4
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 4
   },
   "whitehouse": {
    "http": 200,
@@ -91,12 +91,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 18,
+   "items": 19,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 26,
+   "items": 25,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 47,
+   "items": 43,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 8,
+   "kept": 8
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,34 @@
   }
  },
  "items": [
+  {
+   "title": "Ukraine advances in occupied Donetsk as Trump hands Putin diesel deal",
+   "source": "Al Jazeera",
+   "time": "2026-10-16T17:31:42Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZnRrME9ZQUVSeGlIUVp4Q25qU2NFZ3BHeDlGdkM5Sy1BNHkzVlJDd3pWNHpuTUhmcWFZUnM2NmI1NDVQV21iNm5GU2tHV1QxdlpPcl9mSzhmVjZLSTZLaExIbXBlWkFmRU1wdjBNdXhjSlZVZF9yRUt6UEhBdVZackxoOS1WNE9DdXM2RElnaVoteWpveHVEQXk5aC1reUVZcUYxaG5KdHdJTzlrQzJXMFFKcTA2T0nSAbwBQVVfeXFMTll2bEE2R01ucHJ5RTdqQUtiSV9sdW1fdzJkdmNMTWo2a2RpNXhoejhObVRWR3M2VndNQlB4Vkl4WjJ5TzBRMzFqQlFHVHdCeUtzTXFKbjhlX001SWRFS21lZ0lpcVhSMUYyR0ZuVnVjOG9kendRbzE1ZEVoWnJQdnQwWU9ySjdnZmhDOHVJeVRxN3VGbm1tS0dxRDVXb1lVdDJBVFZFRWVLU1BWZk5GaW03RmxpY1JsVFVlSEM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Putin says Russia is building non-negotiable ’security zone’ in Ukraine along border",
+   "source": "Investing.com",
+   "time": "2026-10-16T17:24:21Z",
+   "link": "https://www.investing.com/news/economic-indicators/putin-says-russia-is-building-nonnegotiable-security-zone-in-ukraine-along-border-4954673",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Warsh signals steady Fed outlook despite inflation jump",
+   "source": "Axios",
+   "time": "2026-10-16T17:11:48Z",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vdDlnWkJWbS02TGQ5aTdkUGlZblZZd25lUkhmeHl6NU5KN2xFYTA2THljemlNQ296SWNMcG5kcUViWjhucHM3dWFGOEVPSjZ4X2pBNXZOUXJUUXQyMjQwWlFQU3BXQXRwLXpOT2FMa2pvMDNUblZaMA?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
   {
    "title": "Here’s Why Treasury Yields Have Defied Hotter-Than-Expected Inflation",
    "source": "WSJ",
@@ -236,6 +264,15 @@
    ]
   },
   {
+   "title": "S. Korean envoy condemns Houthi attacks, calls for stronger U.N. sanctions to block weapons supplies",
+   "source": "Yonhap News Agency",
+   "time": "2026-10-16T16:13:45Z",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TNE1Yc3RzazdPWnFzdXpuaFRhTXVZYzhSZjBvb1RvOGQ0VU5RYnNEcTZoNjJ4Y1BIOTBMdUNIaGY4blA1TzdaLVJFWHlHSUd2M2NFZ1c2Rl9GQQ?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "EU rallies in support of Ukraine amid Trump standoff",
    "source": "Al Jazeera",
    "time": "2026-10-16T16:08:55Z",
@@ -294,6 +331,15 @@
    "source": "BBC",
    "time": "2026-10-16T15:45:10Z",
    "link": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-10-16T15:41:14Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -626,50 +672,6 @@
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "U.K. Expands Sanctions Powers With Eye on Israel",
-   "source": "WSJ",
-   "time": "2026-10-16T12:41:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORWhJSzRROHNXSXNiZGtnc2NsRE1uQ2s0dVlSWkpWekQ4amtqLVdERTBRV1RYQTJRbkNmb3g3bmlJME1iSzBBaEk4YlBQci1yd3YwbDNvbkpBbjUwYjZZZHZ1SkQ5cDRydmZnOHQwbWhGV0tFcHFTV0JLSGl6VE9oY1pxcTZSVDg2bGZzQg?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-10-16T12:38:39Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed's Warsh withholds rate signal, praises recent global tightening",
-   "source": "CNBC",
-   "time": "2026-10-16T12:36:00Z",
-   "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Dow futures rise 145 points: 5 things to know before Wall Street opens on Oct. 16",
-   "source": "TradingView",
-   "time": "2026-10-16T12:31:09Z",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRklOWGJGNUJKTHlSQnBpZFFtU2xZUEhPOGplYlRtMUNBR3NYb0pJY01iYVhvb01mdE9pdFJKaHJTak5SZEQyeE9QOEdZWk1jcE1RdllFSmM1VFJFRmhINnYwdnljMlJYcEV2N2ZTT2NWTWloMTE0VkkzQXpQYW5RbXVFY3FYQmNMSFVoTzJEWUF5ZGs5cEtqS2w5eER2VzZScEI3b3prRjNHem1kd3AtNFl6c0JrNWstSE9YYmRMSUJoeXhxU0NRNFdHenZZZWFvNEE?oc=5",
-   "tags": []
-  },
-  {
-   "title": "US September import price index +1.1% vs +0.8% expected",
-   "source": "ForexLive",
-   "time": "2026-10-16T12:30:07Z",
-   "link": "https://investinglive.com/news/us-september-import-price-index-1-1-vs-0-8-expected/",
-   "tags": [
-    "INFLATION"
    ]
   }
  ],
