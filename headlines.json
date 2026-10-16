@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-10-15T23:44:12Z",
+ "generatedAt": "2026-10-16T00:12:20Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 0
   },
   "fed_monetary": {
    "http": 200,
@@ -22,7 +21,7 @@
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 1
+   "kept": 0
   },
   "bea": {
    "http": 200,
@@ -73,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 2
+   "kept": 3
   },
   "whitehouse": {
    "http": 200,
@@ -82,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 32,
    "kept": 12
   },
   "gn_fed": {
@@ -92,22 +91,22 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 13,
+   "items": 15,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 35,
+   "items": 34,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 17,
+   "items": 16,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 57,
+   "items": 58,
    "kept": 12
   },
   "gn_oil": {
@@ -117,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 10,
+   "kept": 10
   },
   "fed_calendar": {
    "http": 200,
@@ -126,6 +125,63 @@
   }
  },
  "items": [
+  {
+   "title": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
+   "source": "Al Jazeera",
+   "time": "2026-10-16T00:02:37Z",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S. crude oil jumps on big inventory draw, potential shadow fleet sanctions relief (USO:NYSEARCA)",
+   "source": "Seeking Alpha",
+   "time": "2026-10-15T23:57:44Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYVNVQ3g2OXpYYXpXOXNtamN6UU9hakotUEpnRkhoNHI5bDl4aGlHMXZ5UEhXZ1FnTUdNUk1odFl5U2hWRmpDUG9hQ21YdmJJR2lQeHE2X3JtRzFLVXRvZmEwY0JsSDE4cVV0WHZJVjZTRTl1Q2FhOTJzNUk4dEdCY2pTVnpmaG1hbjAwbHQxcDkxdGw0N2s1YTRCS3pWaDEtdk5CUWtsSldKMDhzbGZDSkRtTnc4RE85UlE?oc=5",
+   "tags": [
+    "SANCTIONS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Houthis launch deadly attack on Yemeni presidential palace",
+   "source": "FXStreet",
+   "time": "2026-10-15T23:55:07Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTdrazlmN054NlUzV0ZMS0t0UFhZNmE5bGhpUHc3WnpwTG8xV2dOYUg2WWFoT2R5bFBpTF93c3AxaDNHd21PRFNBVHplSjViLVotdGVyWjRNb3dYa19hTFAtblo5NDVWNFN1Sl96M3VpZThpVHVvemt5b1BFMFdpbWxzX0lsMm90MkM0RGo2aGxYbFlUb0Z0QWFaemZUQ01ERE1v?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Fed's Goolsbee on inflation: discouraging, but still some optimism",
+   "source": "Reuters",
+   "time": "2026-10-15T23:49:44Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXR1ek9vWXFJUnhjSUhmTnNnd0o1MERLZ3Q5OWxEX2J4UERIT1dGNWMwaVI4MkpiajNzZmprSE1vZWRaSDZ4RjlkSjFlSG1FSWxYT2JkSVNSaVp5alFfbGQ1RHd0WHdaeGw2bU1aaHQ2cmJhSnM4STd2cS1odWZreU1nU0hqYm5WeVJkUmdxMmg2NFRiMkFmMkRtMWQxTWd5SHRNM2FR?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Gold price rallies as lower yields, AI stock selloff fuel haven demand",
+   "source": "Mining.com",
+   "time": "2026-10-15T23:45:37Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQkVrY2xsWjh3dWwya1B3VG9hYVcwQkFmc19KRHBxT2p2TVI0cTc0QVVXa0pPSXdxOVlqRGNYUmk1SnlteEtMNkhkVmxiYTBHdk9qTjNZdmFjVzNfNXJoZ0NkTWhqWVgybFlJbVZiZkNtQWJvaFpudDVhLVkyaU9NY250VXUzdlY0V0RXY0xCbFFjWl9rdnNlMTJ3dllqUQ?oc=5",
+   "tags": [
+    "YIELDS",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Who’s Tanner McKee? The Eagles turn to the ‘Mormon Missile’ to replace Jalen Hurts",
+   "source": "The New York Times",
+   "time": "2026-10-15T23:45:10Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkR5MnZxcl93ZUFLRU00cG5xS0FXZjFnSlVrTGVFSHBJdzFXeENfcnRWbmJYYTI3alBnVFduSk4wLVg2V0pXWF9aSmhpbzlTV0Fzdi1Ga1UtbkZFZGlYR2RiUExIM2wtOS1oV3NoaGdFa01jaHJvTHpoeHA1RWloNU9QWFUzbzE1NTVOV2xvWUhrTXlxb3RaT29GZTBoMXM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
    "source": "BBC",
@@ -155,21 +211,24 @@
    ]
   },
   {
-   "title": "Minnova maps $53M restart for Manitoba gold mine",
-   "source": "Mining.com",
-   "time": "2026-10-15T23:34:04Z",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKbGZuM3RrNlBKczAwMGkyM3R1Z1cxUExxTHVuOVdPNEdaN3NjV0l5bWloLUNpSGhFa1dkR2VRdDVTZDRhWmxvUjI1RmZkRW5yekEzSlppZlEzbDJCblNpNV9nVkVMOUVNQXpQMjRDNW8xdWNBNmtzSDdNUQ?oc=5",
+   "title": "Why China is buying Gold — And what it means for the Dollar [Video]",
+   "source": "FXStreet",
+   "time": "2026-10-15T23:35:50Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcG1Ca2xSLS0xemE3SF93VTFrY1lEbVdpanFKVjVjUVV4NlhGblA4WjdWb2ExTmhsNWtUNndJa0pOUy1ycGxCd2FZRmpaUWJHWGpqNVJIZWUzcTh1S2dYYXg3VW5sU2VvME1rdUtDZ20wbkZ0SHBnbUhPZkwzLWVlSjNQMlllSk13aU10NVZEcHpmdUNuRUl3UHdqSTNmRGg1S3VMYWZsUGdrN01Yem5z?oc=5",
    "tags": [
+    "USD",
+    "CENTRAL_BANK_GOLD",
+    "CHINA",
     "GOLD"
    ]
   },
   {
-   "title": "Who’s Tanner McKee? The Eagles turn to the ‘Mormon Missile’ to replace Jalen Hurts",
-   "source": "The New York Times",
-   "time": "2026-10-15T23:32:29Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkR5MnZxcl93ZUFLRU00cG5xS0FXZjFnSlVrTGVFSHBJdzFXeENfcnRWbmJYYTI3alBnVFduSk4wLVg2V0pXWF9aSmhpbzlTV0Fzdi1Ga1UtbkZFZGlYR2RiUExIM2wtOS1oV3NoaGdFa01jaHJvTHpoeHA1RWloNU9QWFUzbzE1NTVOV2xvWUhrTXlxb3RaT29GZTBoMXM?oc=5",
+   "title": "Minnova maps $53M restart for Manitoba gold mine",
+   "source": "Mining.com",
+   "time": "2026-10-15T23:34:08Z",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKbGZuM3RrNlBKczAwMGkyM3R1Z1cxUExxTHVuOVdPNEdaN3NjV0l5bWloLUNpSGhFa1dkR2VRdDVTZDRhWmxvUjI1RmZkRW5yekEzSlppZlEzbDJCblNpNV9nVkVMOUVNQXpQMjRDNW8xdWNBNmtzSDdNUQ?oc=5",
    "tags": [
-    "GEOPOLITICS"
+    "GOLD"
    ]
   },
   {
@@ -188,6 +247,15 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lVVQwcThTUGg1Z2RHUlltM2dWdGFCM19DYlRQeFE1S0lYVGd4bXR3M0dpX010NmZSQ0U2WXA5NGNEWFdIQjJYOTNBZEMwRVpxSVVVTFRwZENzYkZNWmFKVzVTLUp5Z1J3bUl1YTFyTDdCMVZ4aVhiVjVNUm0?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Exclusive | Lutnick Throws the Future of U.S.-Mexico Trade Talks Into Further Doubt",
+   "source": "WSJ",
+   "time": "2026-10-15T23:24:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNamF2N0lCNEN0VTlMN2dUaXgwWklDUnp0aDdXYXZnVjI2bzFJNHM0cVFES1JDdF8zTzN4UzB6b0lpTVdBQmlMcWVsalRXWUxqaWFzSkd2WkRLSVVXbFFmc2JJNVg1OGV5SlhDNU56XzNiVkxBQ1hPRm9DODI3cjE5SjJmRF9lVV9BR2dERFdBMlB1RVY0MGVOaWEwWUNRUGJjMWM2Wi1zRVNNWWk4M3Q0aUxHdw?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -240,7 +308,7 @@
   {
    "title": "Watch Rep. Amo Says Trump Should Enforce Russia Sanctions",
    "source": "Bloomberg.com",
-   "time": "2026-10-15T22:30:39Z",
+   "time": "2026-10-15T22:31:19Z",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOHpoM3AzSWxqZlZNU3RfSzgxTXJhSjVpMWVkR1FRVGlMTFBBbkJPbU9JRzFKdHo4QTNiczNSLVBIWkxpVnFMVHV2V0gtckhBRzd0c1ctV0swMGxLZWVUeFRZR1NfcEIxV3JUZTZ5UUs1bGpyM1lRNWV4Z1ZvT0plbTQ1aVdxd1RIdUM3NktCT0YwWmZBMVNxNFptbEpaR0ljY1Q5aVI2QUw?oc=5",
    "tags": [
     "GEOPOLITICS",
@@ -274,6 +342,15 @@
     "TARIFF",
     "CENTRAL_BANK_GOLD",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Stocks Gain as Treasury Yields Give Back Some Recent Gains",
+   "source": "WSJ",
+   "time": "2026-10-15T21:58:29Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzlYZElEckt4bFB3TXNMTUZBYnV4Z3MxVkJ2cFB0VldmQk5xajFmU0tzeDBMTVZhT2lFOUV1c1cyVFF2em5FU21sb1BLT3p5SEo4Q2huMWdvbmNubG11WnVaLWxlVWtkbHF6bVZWWTNKb1QxUlFtZ3dvWl9VRHAzWnF5VlVtWENIbzNoVjA0YmFybDQyUHVLa2RVQ3hSQ2R0VVRDTA?oc=5",
+   "tags": [
+    "YIELDS"
    ]
   },
   {
@@ -333,6 +410,15 @@
    ]
   },
   {
+   "title": "Ukraine",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-15T21:38:50Z",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hbGpUQk9QR0hLUktWVHpaTE9CUkxBbUhkM1UzTHh2MGlWUC04VlcxTmhkQko0U01RZWVWNTFMWG5LVkJpTkc1OWVR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
    "source": "NBC News",
    "time": "2026-10-15T21:28:03Z",
@@ -378,15 +464,6 @@
    "tags": [
     "FED",
     "INFLATION"
-   ]
-  },
-  {
-   "title": "Stocks Gain as Treasury Yields Give Back Some Recent Gains",
-   "source": "WSJ",
-   "time": "2026-10-15T21:03:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzlYZElEckt4bFB3TXNMTUZBYnV4Z3MxVkJ2cFB0VldmQk5xajFmU0tzeDBMTVZhT2lFOUV1c1cyVFF2em5FU21sb1BLT3p5SEo4Q2huMWdvbmNubG11WnVaLWxlVWtkbHF6bVZWWTNKb1QxUlFtZ3dvWl9VRHAzWnF5VlVtWENIbzNoVjA0YmFybDQyUHVLa2RVQ3hSQ2R0VVRDTA?oc=5",
-   "tags": [
-    "YIELDS"
    ]
   },
   {
@@ -456,15 +533,6 @@
    ]
   },
   {
-   "title": "Ukraine",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-15T20:40:31Z",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hbGpUQk9QR0hLUktWVHpaTE9CUkxBbUhkM1UzTHh2MGlWUC04VlcxTmhkQko0U01RZWVWNTFMWG5LVkJpTkc1OWVR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "A Gaza war documentary sparks outrage in Israel",
    "source": "NPR",
    "time": "2026-10-15T20:39:41Z",
@@ -499,6 +567,16 @@
    "tags": [
     "FED",
     "RATES"
+   ]
+  },
+  {
+   "title": "Consumer Electronics Stocks That Could Benefit From Lower US China Tariffs",
+   "source": "Yahoo Finance",
+   "time": "2026-10-15T20:19:09Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcFB1ZVlNZkJtUWNWOS1YalNBYjYwbTdfWW5GRTd2VmE3TzJfa3puLXU2cmdwRFZFb1FybE1zcDRUR1poc2VxRjI3aWFueklGMkpGTHJxVEkzdDNyZWt1YTdFNXdSN2xQdDVTdjZtTzA4SS02QkdDZThSVGgzTEFwZFo2WmtnaVpRdlNnUmo3WmdSbnk5TEtJMnp1bUFRQkQ3Z1dFRlpkTi1YZw?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
    ]
   },
   {
@@ -611,77 +689,6 @@
    "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-yields-continue-to-fall-even-after-hot-ppi-data/",
    "tags": [
     "INFLATION"
-   ]
-  },
-  {
-   "title": "Fidelity Digital Assets finds Bitcoin now moving with US Treasury real rates",
-   "source": "TradingView",
-   "time": "2026-10-15T19:35:50Z",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcVF3VVhkZTlibmlwY1lQMl83WlpGLS1naDNwaUdSRzVZZ0RaTno5V2FQdUFYTEhKa2o1cEw1NVljb2Z5ZjV6dzNBbEFXQllWalNMd0pkdk9vVEJPcm8xNHZvNDFOblpsV1VCVkM1SElxWnlRZlkzVkg0OUxYbk1hd08xbnhhaG0yRXEyRkYweXlGRElZcS13MzJISElQMXVvdXNad1FMV2ZUb0prRlJOZGFVVlY1eE1kNkdYSmZuR195a21TajhyODFDaVA4WVpZRm5SaW1hcGg?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Bolivia Revamps Gold Export Rules in Bid to Attract Dollars",
-   "source": "Bloomberg.com",
-   "time": "2026-10-15T19:31:43Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdm16dGlZY0lmT1U4ZnBVcy1yQWRrcmVMMENiR1hlQTR3U291TnJJUUtzcXdUcVNKdGNHb1pONUxWci13aGRBTWpRLTV6T3Y0Qk9wRjF4cFdTdjJyNkx4bENNc2RUMnltdnVVZk5PVFd1cFpzOGpaTjM3Yi13ZE0yODBYaWVURXZpQ3QwOUVoSEgwWE9RQmUxd1N3cE9teFZOYmxDTTFxQVdsaXB0NXhZ?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Tracing The Houthi War On Saudi Oil: 3 Data Sets Beyond Missile Counts",
-   "source": "Forbes",
-   "time": "2026-10-15T19:16:25Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXIwaUVVdTM3YVBOQjI2dlc2YldVVW9NUGhvTVp1V0FHNWRMbWVKQ3dNNTFWeWZvSFpaQjRqNUptenU4Q0dmdmw5T0hLOGRmSXpLb1FMZ29OTllMNWtsTHBWeUVWOHZycUdxU2RQLVVwYm9CREZ6bDAwTW1XS0p5ZUdYVUFGNi1zRWJCeHRRdmJTemtUVlNYX2dTR0FrWTdPaWZadUNqVXdzanNMWW5KVWdBVk9UQ2FEQ0pFb1llOA?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "US Army long-range fires troops in Europe fired a Pacific-proven missile system for the first time in a California test",
-   "source": "Business Insider",
-   "time": "2026-10-15T19:13:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaGlfLWRfSDdkRWFPN2NFakZxc1habGh6MTFaMVZwNWpHLUItLWh2NW43VjNTcmphRVVUN2h0anJDbEdHWDNFeEFxUnJoazRFd05QSHlibHFWMEt0MGJUQTNBcFdicy1tcXNhSUxZN2pub19XX2lRd2RFZ3RMU3JQZWF6LU5HNFFTRVRsT3B6WDhnYkl5aWxLVGhYZHZSMFRoTnc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Houthis building advanced missile system using Chinese parts, Wall Street Journal reports",
-   "source": "CBS News",
-   "time": "2026-10-15T19:04:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN2VvaGE3LUx0SmVGcDFkeW5mbjVRUGxvZzRLQkx0SVdvWjNueGNwdm42Qi1SOG13Wk9zN3NBUUp1aGozclVhQlRvbFlkVG5KSUFCRnNxdXZEM2Zlc0xUWmdsZHJRQjA1V0ctQU5ZUmFocmxjcnk4enBWNUZ5R3hwNWNrandZekRUMkJ6ZTZkQ21TMk56dlVBTHFZenhncUVpUTROR0ZKWlRuY0NXWW9HTXA1S0hGdjkyRFVZ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Gold's weakness is a buying opportunity as Jefferies sees $5,000 price in 2027, healthy mining margins",
-   "source": "Kitco",
-   "time": "2026-10-15T18:37:56Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdTJvOHZhYkRjQnlfVk1ZUzh2dlBtbFFENUlBR1FLUEg2Y1U0WFQ4QTdEZnNCTzBrS2RpYlI3X0xCM0UtUTkwY1l3REJwTTlpMWtRSFBNa2t1OUIzRzcyQWdtZGJOSW5Gdl8zcS1ZejBGc1JsdFhRYWQ4VDJ2UnA5SHFoNDN5NVl4NGI0YmZvblNUTHNHNFlXVEdBdlZtUDZJemZFWVNqRjVMOWNVajFRRWNrMGFmbHpnYWc?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Adobe, HubSpot, Workday, Asana, and Workiva Shares Are Soaring, What You Need To Know",
-   "source": "TradingView",
-   "time": "2026-10-15T18:35:55Z",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT1JnX1V1ajRMd04tNk9rSl9CVHpIcGltUVRyNkFBYU50SDVTLTRMRlJzcTBNUXIxNUgxaGoybG9QZkxGdVVTa0JTNWVqZkJKOUxvd1plS3hHZTBscmdhbjc1V0NBV3VIVVFLRDl1NG9RX09sb0xjQTdwVm5Jc3g1dTFqODV1Y3F0NnIyaXRHeTVzcTNfOW4wSzB3djNxREwwcTZObEVYczhmVmJrVWc4VEFpa2lzXzRKUy1LTkN5a0liYWt2OHhBRThKQVJSaDl6aGwwbzRaZC0?oc=5",
-   "tags": []
-  },
-  {
-   "title": "US plan to ease shadow fleet sanctions unlikely to free up many tankers, analysts say By Reuters",
-   "source": "Investing.com",
-   "time": "2026-10-15T18:33:54Z",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVV9XNkZ3SVQ4eGFlMWg2NkRrVkNZSVJPV0cwWDhDWFdEd1FsYjNhLWc0VjFVSFVZel9fMWlIUy1xNjhGWm9rX0gwNlctMFVRcGpMWXQ1U1VSeW1PU3lyN1FyY0J3ZURqZnZmVEkxeXZWQUZlRzJIeFZBeE1uNk5NUHhPeERLUFlLeWdHWGFhRDBqZEtVanJlRE16R0xzLTlnOFp4RHJFMlFRWnprMUNuZGRIOURtb0FBS0ZtZF9LMVZoUUJ1OUpGZk9FU1M3TW5VYlFhb3dvaw?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   }
  ],
