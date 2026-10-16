@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T10:35:32Z",
+ "generatedAt": "2026-10-16T11:03:52Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,12 +52,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 8
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 27,
+   "items": 25,
    "kept": 12
   },
   "gn_fed": {
@@ -91,22 +91,22 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 17,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 25,
+   "items": 22,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 17,
+   "items": 18,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 54,
+   "items": 55,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 10,
+   "kept": 10
   },
   "fed_calendar": {
    "http": 200,
@@ -126,9 +126,45 @@
  },
  "items": [
   {
+   "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
+   "source": "CNBC",
+   "time": "2026-10-16T10:56:50Z",
+   "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Canadian steelmakers offset some U.S. tariff pain with domestic demand",
+   "source": "BNN Bloomberg",
+   "time": "2026-10-16T10:47:41Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdEJ4LURPNlZWSy1HVXA3ZG1wZE1jUnY1WEtZQ0FIelQ3cXN5RTRkVTV4UmE3UEVxTW1QZVRTX3NMVEc5d2FfUG1acEFySmFGQk1rTlh5azdEckpubmRSZnNTSWduZXhlTnU2c3R3T3kwY3Y1VVZEdWFYU1hzWUM0Y0ZhV0Q0bXlPdXBUa3kwdFVIZHNVT2hPR1RYSXc5a3I0Yy1QRkRuT3JIRVJ4ZTZvNHBaUDVQWTA?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Russia strikes 9 Ukrainian regions as strain grows between Zelenskyy and Trump",
+   "source": "The Washington Post",
+   "time": "2026-10-16T10:41:06Z",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUTh2eUdKNHV4Z0p5SmN2SnNmUXVxanJhaEtjQUdnYU1NeUhIZ2RxYVltanduNVlVc1pmOG5iTkV2ZWlVd0JZRzhjakFNRmp6dGdOQmUtemhtMTd1S25SYWJRNXZySzNYeWg4dmdYZ1VXN0VXWjF1RlNtYlM2REUwY3Jrb0diZVdoMmFUM3JMVjhXczlVYk9fSzRrYm5ZVFR1cm1sQVVtbzNONDh6bnFKM194VEpBYXRCcDZKSXlDV1R4OEk0TnBWaVAtQ3E5LXBEWVNoM2JRcjY?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+   "source": "BBC",
+   "time": "2026-10-16T10:37:47Z",
+   "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Warsh signals steady Fed outlook despite inflation jump",
    "source": "Axios",
-   "time": "2026-10-16T10:26:44Z",
+   "time": "2026-10-16T10:27:59Z",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vdDlnWkJWbS02TGQ5aTdkUGlZblZZd25lUkhmeHl6NU5KN2xFYTA2THljemlNQ296SWNMcG5kcUViWjhucHM3dWFGOEVPSjZ4X2pBNXZOUXJUUXQyMjQwWlFQU3BXQXRwLXpOT2FMa2pvMDNUblZaMA?oc=5",
    "tags": [
     "FED",
@@ -136,10 +172,10 @@
    ]
   },
   {
-   "title": "Russia strikes 9 Ukrainian regions as strain grows between Zelenskyy and Trump",
-   "source": "The Washington Post",
-   "time": "2026-10-16T10:26:22Z",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUTh2eUdKNHV4Z0p5SmN2SnNmUXVxanJhaEtjQUdnYU1NeUhIZ2RxYVltanduNVlVc1pmOG5iTkV2ZWlVd0JZRzhjakFNRmp6dGdOQmUtemhtMTd1S25SYWJRNXZySzNYeWg4dmdYZ1VXN0VXWjF1RlNtYlM2REUwY3Jrb0diZVdoMmFUM3JMVjhXczlVYk9fSzRrYm5ZVFR1cm1sQVVtbzNONDh6bnFKM194VEpBYXRCcDZKSXlDV1R4OEk0TnBWaVAtQ3E5LXBEWVNoM2JRcjY?oc=5",
+   "title": "Palestinian olive trees torched as settler pogroms escalate during harvest",
+   "source": "Al Jazeera",
+   "time": "2026-10-16T10:27:20Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/palestinian-olive-trees-torched-as-settler-pogroms-escalate-during-harvest?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -182,6 +218,15 @@
    ]
   },
   {
+   "title": "Indonesia regulator fines entities for trading violations in shares of three listed firms",
+   "source": "Reuters",
+   "time": "2026-10-16T10:11:21Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT19xNkFlWGlKRk14ZTJVYnFwTGM0eEIxeGdLdUN4OE5NekIyOWJkSVNuZWdZdW1NYndTYU1RUF9EQm1kdklJaHNWMjg2TFNNaU1PZkJmdGdtb0FIaExBb0tUdV85a3ZDdVgwLU9IOXNQWTVvRDQ0ZGJINTdQYWJ2ZUt5S3BXbnFHMXBPazh3Y0dWaXBuQ2RscXBmb2FadnVKWkxNTXQ5bDRmWl9aaDh1bWxhaF9fR210?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "Focus: Canadian steelmakers offset some US tariff pain with domestic demand",
    "source": "Reuters",
    "time": "2026-10-16T10:06:26Z",
@@ -204,15 +249,6 @@
    "source": "Financial Times",
    "time": "2026-10-16T10:00:09Z",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWEZ5aWNuTFRWSnBoRkFoZ01RSEhkWmtIUmc0VjdUOU9RLW50RnVudUhIcGtUTG5oU3llbGt3MXBzaFRSX01MVDRtSi00aUx4a0xINktTbmpkVkZkSFFOVFZ3N1Q4MkZfYzNzYjhIR3hUYURIU243NHN3SUJmd0ZJSExBdWI?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Canadian steelmakers offset some US tariff pain with domestic demand",
-   "source": "TradingView",
-   "time": "2026-10-16T10:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZmxrZ1NlU0xKSUg0NmZnWWZVRmNxdENUVmRIcjZic0xKdkh5ZHFHVjlZUzMzZDRUVkdtemJtdnU3UEdZOUtpQUo0WjM2Ql9RYjFJdWg2eFZkQ2JlVGkxQ1JvaVcySi16TEtQcW9kMnpLWkRwT2gtUDMzc2E5d04yUmYzT1IxNGxueHpKTE1ONDhnYWtXNzVDRXhMMjQtbkp2YUUyaUI3VUlWRkdTS0NHX3AyTW9Yam1XeFBNb1NBdUFDMWJXZndEV3pjMmJwMVRDVlk2Mw?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -284,15 +320,6 @@
    "source": "The Guardian",
    "time": "2026-10-16T09:37:00Z",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0NhZzJlcE5SQWZQMF9wcm9GLUpNc05SaGFza0paemNlV2t6YUpzRjBCSk1vLUltUnlFeWRJQmFlbmpaU1dVcnU4WVFubjVlR0dIWHlWQUgwMG8xRHd2VHZzUWFMRW1EMlY1bTBaVVdKZURJczVzWFJLWVRSVXNQbkhZSFRHZzFDeFBWMzc1dmVHekpvRHhjSkVOalNSbEU3eFdZTnBpWk85VzNMYVZr?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-   "source": "BBC",
-   "time": "2026-10-16T09:34:30Z",
-   "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -430,6 +457,15 @@
    ]
   },
   {
+   "title": "Chart of the day: 10-year Treasury yields hit reverse this week but the real test is still ahead",
+   "source": "investingLive",
+   "time": "2026-10-16T08:40:18Z",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWHpsYlR0N3F3OWpyd0d5QmFSU0pEZUdha2dacXQ3VlhqLV9pZEpTY1ZacVBMVzAtdXB5TlRrMDVDbHlrQ2RQY0pyTTRTa2hIdFlFZmFvb0N0VjFJa2YtVXhPVkpWdjFEY1hPMmJVSjEycElJV2hucFZBQ3J2czEzNmdKcU9GVjVVUU91b2xsWm5jcWZEaVFBUDNZNmVlWWtORk9aV1NjRjIwQThEN2xiUWNRYUJTTFU4SWFWckxYNm5KdzdKeUYwQXRLX0tScElUY1YyNGY4YTY?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Norway wealth fund urged to ease nuclear arms ban after Gaza investment row",
    "source": "Al Jazeera",
    "time": "2026-10-16T08:36:13Z",
@@ -543,7 +579,7 @@
    ]
   },
   {
-   "title": "Sitharaman Says Trade Barriers A Hurdle to China-India Ties",
+   "title": "Sitharaman Says China’s Trade Barriers Biggest Hurdle to Ties",
    "source": "Bloomberg.com",
    "time": "2026-10-16T07:45:31Z",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVUxzNEM2ZTlJRjg1UWxueHZJNHhISnZQd0pxd0NQOXlhbjVUSXd2bkNJNkZwMkx1bW5hSXVtZmYySGdxYzQ5RWdfcDlHQlBhTDBJV1JGNWtlbW5LRTE1LUJGamtxVzJkbXA0OEJ6MnZ3bEVJVFdGeGUwTlUwTTNJWHp1Y1ZZYUdBXzBFVjF6bS1XWW8xZE9fSldnWWNWOTBpZExKaFlJSlNibHFLd010YVh3?oc=5",
@@ -559,15 +595,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTm9xSDNrdXZBbEMwYUJLa1FySVFzajBjUC1xcDBHMG9pMzgyYzVSNGtjSlBhREIwdkpBYkFBbHJqQ3NLRkpTbEFVQ0pBTHI2V3dodWEwc1ZXaXM0MEYzcUswTGhqeFNlQ3h5Si1GbGxZMGlWU2FBUWpMcHFfUGxZVWNiM1k3X1p1U0dZ?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Indonesia regulator announces sanctions against 3 listed firms",
-   "source": "Reuters",
-   "time": "2026-10-16T07:30:09Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT19xNkFlWGlKRk14ZTJVYnFwTGM0eEIxeGdLdUN4OE5NekIyOWJkSVNuZWdZdW1NYndTYU1RUF9EQm1kdklJaHNWMjg2TFNNaU1PZkJmdGdtb0FIaExBb0tUdV85a3ZDdVgwLU9IOXNQWTVvRDQ0ZGJINTdQYWJ2ZUt5S3BXbnFHMXBPazh3Y0dWaXBuQ2RscXBmb2FadnVKWkxNTXQ5bDRmWl9aaDh1bWxhaF9fR210?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   },
   {
@@ -601,15 +628,6 @@
    ]
   },
   {
-   "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
-   "source": "CNBC",
-   "time": "2026-10-16T07:11:22Z",
-   "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "title": "Pillay decries US sanctions on ICC, where she is ‘confident’ Netanyahu will one day stand trial",
    "source": "The Times of Israel",
    "time": "2026-10-16T07:09:48Z",
@@ -638,6 +656,15 @@
    ]
   },
   {
+   "title": "Indonesia regulator announces sanctions against 3 listed firms",
+   "source": "TradingView",
+   "time": "2026-10-16T07:02:50Z",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUGdBVmxjVGlNQUhhLVpLOENSWEEyYktCWFpTa0ExcHk4NkxTX1dmTGtJQ25hbkhIV3Awd2lodUZtcVR4RUo4UTQzU1owUTByWFJQclJBMy02TkR0dUxsamY2cDRReWg5LTdUWGEyWmlCcy1lZWFfYnNlZGl1THZZa2g4NW9adzRfaFFSOWM4U0NRZHdpODU4elExNi1kdWNrSEVneVBHTVpjQWhWYlNYeVNSVnF4ZUVHM2REMDJMWlBXa2JyNENsY3pSY1o?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "Oil eases, but set for weekly gain on Mideast supply risks By Reuters",
    "source": "Investing.com",
    "time": "2026-10-16T07:01:04Z",
@@ -656,35 +683,6 @@
     "YIELDS",
     "INFLATION",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Outlook: Iran War Risks and Falling Yields Support a Rebound",
-   "source": "Investing.com",
-   "time": "2026-10-16T06:46:00Z",
-   "link": "https://www.investing.com/analysis/gold-outlook-iran-war-risks-and-falling-yields-support-a-rebound-200689690",
-   "tags": [
-    "YIELDS",
-    "GEOPOLITICS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Bets on Fed rate hold in October strengthen after Warsh comments",
-   "source": "Financial Times",
-   "time": "2026-10-16T06:43:11Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSkowQ1I4RlFmbDVzQTBjVXJMdzlqamF3bnhidDJOTlc4VnBVT1F3VDE3cExoQzRJWWdsU1Uxc2F6Q3dmWlRBR01DNXhRV05KdGMwT1RacVVGNXFoMHlOVTJGbmVweHp5dzZGRUFEV1pDcWV2MlEtY21nMEY0WEE2SzEwclg?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "In Israel, Netanyahu’s ultimate legacy is the opposition he has forged",
-   "source": "Al Jazeera",
-   "time": "2026-10-16T06:41:15Z",
-   "link": "https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
