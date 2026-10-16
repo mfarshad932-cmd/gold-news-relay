@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T12:00:33Z",
+ "generatedAt": "2026-10-16T12:28:54Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -67,7 +67,7 @@
   "bbc_world": {
    "http": 200,
    "items": 37,
-   "kept": 9
+   "kept": 10
   },
   "aljazeera": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 30,
+   "items": 32,
    "kept": 12
   },
   "gn_fed": {
@@ -91,7 +91,7 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 16,
+   "items": 17,
    "kept": 12
   },
   "gn_war": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,51 @@
   }
  },
  "items": [
+  {
+   "title": "US senators call for investigation into Ukraine's Starlink restrictions",
+   "source": "BBC",
+   "time": "2026-10-16T12:16:42Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Europe's answer to SpaceX pops 19% as Ukraine's Starshield limits raise concerns",
+   "source": "CNBC",
+   "time": "2026-10-16T12:16:24Z",
+   "link": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Is Israel fighting the wrong war?",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-16T12:02:18Z",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zTklRSkktMkV5NGdnbnNYSV9nbHNERW55VDZGUUZkaDBxdkZ6MTJWN01Kc2g0TTRQS1hLM1FfVkdFVW1DTEEyR1ZqWTNuSk1fZTJ1dDVpMA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "TSX futures edge higher as gold prices rise; comments from BoC’s Macklem in focus",
+   "source": "Investing.com Nigeria",
+   "time": "2026-10-16T12:00:18Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUTBCX0U5OWprNWpYT0RtU0VfckZ3am1CMG9HWElSN1g5OWtlSFpUT2c2ZDJSOXpvNGR2R1RwbE9xcjNzazJPeEVFOUpZYmJyTmVHaF82T2hrMUtGVWw2aUdjcUk0VjJ6Rng3ejJNTDY5UlNIU0p6RkJxMkVZQmVRQkVsSUYxWUI4cDdCUXdGS1hCQlpxOVUtVDhmOF9jTk1FcG1qUmEwOFB6T1lVR3hlWHRqUFpqNmVvbmVid0N1REprdWJuUkdwODlKYjFFeFNv?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "US Treasury Yields Tick Higher, but Post Weekly Decline",
+   "source": "TradingView",
+   "time": "2026-10-16T11:56:17Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdlB5Q0NLZkRuVDk5cU5kdFE1UE0teGoxT3pteDlzWkRrSGdlNVFsM1hKSm1MT0NFQnZsdmxVSVBSYU1vQkZWM0JfaGpqVktlSXhUc2syYkpCYnNDX0RwLU1KODFNY0tFamtwS1E0MmFrYldOYUNWdWRJM2ttcE9XZHo4U1BsQ0t2MVdnbWdDWVI5R0k2emp4ZWVkSEpzTUUycG9ERjZ0aTU?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
   {
    "title": "‘Trying to dominate’: How Israel is embedding itself in the Cypriot state",
    "source": "Al Jazeera",
@@ -144,12 +189,12 @@
    ]
   },
   {
-   "title": "TSX futures edge higher as gold prices rise; comments from BoC’s Macklem in focus",
-   "source": "Investing.com UK",
-   "time": "2026-10-16T11:52:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVWlyRmE5MTlXZE12WFZoXy1keTB2akU1YkdpcG0ybHZGdDhEQkRqRXN5c3lWR0Z3amIxaUlvd0ExMVpheWhpRmhBUjZ0d2RXTFZrX0owa1ZfLXZWOHR0Qm95WWNOeE9OVXRUZVNzWmMtX0xDU2pXLW1rbHFXbm12QzU5a1RNY3Y3YjZ1RTRzckdYVTBjUjRJVjZsVkVIX2tNaFZtcWw4UTNCVUpyR1U2ekU0ZENHTWRmVHV4NHpmWDdjM3BuMTdBMWNXdkIzcEhI?oc=5",
+   "title": "investingLive European session wrap: Dollar slips as stocks steady and yields edge a little higher",
+   "source": "ForexLive",
+   "time": "2026-10-16T11:51:59Z",
+   "link": "https://investinglive.com/news/investinglive-european-session-wrap-dollar-slips-as-stocks-steady-and-yields-edge-a-little-higher/",
    "tags": [
-    "GOLD"
+    "USD"
    ]
   },
   {
@@ -508,12 +553,11 @@
    ]
   },
   {
-   "title": "Stock Market Today: Dow, S&P 500 Futures Rise as Bessent Intensifies Economic Pressure on Iran, Treasury Yields Cool Off — TSLA, AA, IBKR in Focus",
-   "source": "TradingView",
+   "title": "Stock Market Today: Dow, S&P 500 Futures Rise as Bessent Intensifies Economic Pressure on Iran, Treasury",
+   "source": "Benzinga",
    "time": "2026-10-16T09:25:22Z",
-   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPd1FlM1FkcFU4ZEVOQzhVajd2N0wwcHloZ0VQRUlUc1pnU2FxRS1kckFfRkctVm5uV1ctRllSYVAtZ1JNb21pT25kU2djeC1wc01aaGxjQkI5V01wMGFReDh2SlVoQnMzZEpqWkoyZHdmLVE3U21KcVhTYkktckMwUE9USmZRbzdtSG1tRVBIbzl5dEpfVFJOa0tYTWh0MjFmbnB6YjJ5RW5VMkVueGZoaTJOYmd4OVB4R2duUk1NOUZGT2VlYWFjOENXOHZjclhMbl9vOXVXTjlFcDNvSkh2U2c0Y1VFNHE3X0JQaWhEd0hOZUxyZkJwRFNjM2tvNkExRXdGRmt5YkxYU3JxUEZfRVFtY1dTd1IxckpVdkFhNXU4V2p4?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPRUkwb254Z0pwa1dQaWN1YVIyOU5aYTMwZWxaWGZISEN5NE9SSnJIdFdJV1l2cDdQbHhCakU2OGJQTWV5UVF4YnBjaUJhbXp6SHVFcy1DbnJkMlhPbTd4ZFBzRDR4RndtSTVvZlJPYzdXR19tLVRXMVRyVEx4LVZWNzNrMWhmdFBsYWdYMHNsaEV6ZjUwY05yTGJudWtkRWRPQkJjOGZmZ3I2cl9uaUdMbkUxS1BkZnlYQmVGM1g2Y2UzWDQtWGVidDFGdmtwNGF3Q3pGNUVNYjJ0aXFLakNwY1hMN1YzS1lXNXZHQkZ4SU13cXhZNGVpdkVlTldMNFNnTHRBaFBxOGVWT19PeWN3d3U4cXVvZjdSR0RJZUNFY3U?oc=5",
    "tags": [
-    "YIELDS",
     "GEOPOLITICS"
    ]
   },
@@ -590,7 +634,7 @@
   {
    "title": "‘I’m on a War Footing’: Terry Tao and the Crisis in Math",
    "source": "The New York Times",
-   "time": "2026-10-16T09:02:04Z",
+   "time": "2026-10-16T09:02:05Z",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5obDJaUW0zTDU0Q2RqRGd6QlRabDFENjNiMTJtR0ZLOXkycWhXNjVlT2Vxc1hFRWhacTd6MEFyM01fU1c5UmNxME82N1VVVDFCWnBKWVZ0bDdvVXRZLXFXaldhNF83RG1keHVIV04xVQ?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -640,54 +684,6 @@
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWHpsYlR0N3F3OWpyd0d5QmFSU0pEZUdha2dacXQ3VlhqLV9pZEpTY1ZacVBMVzAtdXB5TlRrMDVDbHlrQ2RQY0pyTTRTa2hIdFlFZmFvb0N0VjFJa2YtVXhPVkpWdjFEY1hPMmJVSjEycElJV2hucFZBQ3J2czEzNmdKcU9GVjVVUU91b2xsWm5jcWZEaVFBUDNZNmVlWWtORk9aV1NjRjIwQThEN2xiUWNRYUJTTFU4SWFWckxYNm5KdzdKeUYwQXRLX0tScElUY1YyNGY4YTY?oc=5",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "CNBC Daily Open: Warsh holds cards close on Fed policy, but inflation numbers may tip his hand",
-   "source": "CNBC",
-   "time": "2026-10-16T08:31:55Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMWYzVlFEVkVvRUtzZUh6TmdiaU5NbWdIbEJvUHpaNTlJcDdCdlN6TE04RzkzMzIzMTVEOWZFV1pwdHg1aHhYaVlDU2FPNGlNUXpxZTExWUxsazI1U0o4TTEwdEU1bWg0TkJRWlZYOUM1bVgxZmhCRU5nVHZ0UHFPVnMwTVU5OURBbUJlckZLdWRkM09NTHVSb2poYmdQa1BJRkNTeWNhRHAwNWNJMUpZWXZmXzhzWFBwSEdQM2EzSmVmZDBSWnM1ddIBzgFBVV95cUxPRml6Z0ZYemctczJHWjBsY2Y3cnQ3enRkeEc2NDg4MnVzdVhxM2FUNzFJVVZKdjFRYnFQbTJhd25NSmE5bWtvQjdwUFZNOWFJWGc0TnFOeVhnLWJ6ZXY3RDQtRUF3akVkTmVoRlZiTWNvdUNoZm04bTZoYjlWZldXd0hXT3pwT2tPUGZNMTRtV2JlSVhYbXRGeDRLRF9XV2tJb3pNN3lUb0Zpc1ZhN2VCOUtQTk1MY3AxWjM3bEltaTNpZndRUF9XbzlRNkRUZw?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Oil Drops Following Recent Extension, but Amid Prevailing Escalation Factors",
-   "source": "Investing.com",
-   "time": "2026-10-16T08:30:00Z",
-   "link": "https://www.investing.com/analysis/oil-drops-following-recent-extension-but-amid-prevailing-escalation-factors-200689701",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Treasury Yields Continue to Plunge Despite Hot Inflation Reports",
-   "source": "Investing.com",
-   "time": "2026-10-16T08:28:36Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa09tMEN3UmhQWmpiODh2ZG1IX2JlZk80dUNEaHo1Y1J5QW1ZdkZDUzVvbDRzdExMMUgzYTJnSHNCUEF3ZmwtbkVFU3JnbGg2bjdxWmdyLVg0MEhpeFVNOVF0bDd2b2F5WkQ3NW1aelY1RjJDSm1iUWtNV0FWQ2ladm9qLTFOcEVPSk1YY0xtZGE5YzlJVFpDZUpaMlNhbXVJTDNsVkRFalkyUQ?oc=5",
-   "tags": [
-    "YIELDS",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Gold - Trade Ideas for Friday",
-   "source": "Investing.com",
-   "time": "2026-10-16T08:22:00Z",
-   "link": "https://www.investing.com/analysis/gold--trade-ideas-for-friday-200689699",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "EXCLUSIVE: PetroChina set for record trading profit as war upends market, sources say",
-   "source": "Reuters",
-   "time": "2026-10-16T08:19:55Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQW5fbkZTYm9qdzQzT19nUjIyTVZDN1hhOEhkRmI5Rm9PQ3RKUk10Z00wUWZ3a0JFZlVyQV9NQlFSVF9jZU5MTXBPQXBwbFE4UlJEa3lGTVpELVktUWJVRHB5MHRFMWNHVEJHMWc3LXFaYXd3LVNtbW9ycDJydGN2Q3pOWWk1bTRsaWV5c0RvLTZDM3JhdUVSWHc5U01CLU9GTHlObjNqRXNibU5MbUxndFFBWV9jR0tyU0E?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
