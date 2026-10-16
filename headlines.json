@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T18:37:08Z",
+ "generatedAt": "2026-10-16T19:05:29Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 2
   },
   "cnbc": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -91,22 +91,22 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 19,
+   "items": 23,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 28,
+   "items": 27,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 21,
+   "items": 20,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 43,
+   "items": 45,
    "kept": 12
   },
   "gn_oil": {
@@ -126,12 +126,39 @@
  },
  "items": [
   {
-   "title": "Nasdaq tumbles 2%, heads for worst week since June as investors rotate out of AI trade; oil rises: Live updates",
+   "title": "Nasdaq tumbles 2%, heads for worst week since April 2025 as investors rotate out of AI trade and oil rises: Live updates",
    "source": "CNBC",
-   "time": "2026-10-16T18:35:31Z",
+   "time": "2026-10-16T19:03:07Z",
    "link": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "AI investors have woken up to the bond market’s warning signs",
+   "source": "MarketWatch",
+   "time": "2026-10-16T18:52:00Z",
+   "link": "https://www.marketwatch.com/story/ai-investors-have-woken-up-to-the-bond-markets-warning-signs-6f604c61?mod=mw_rss_topstories",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Mexico limits tariffs break to established local carmakers",
+   "source": "Reuters",
+   "time": "2026-10-16T18:40:47Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdno1S1hpa0pyaXl2RWtmamJpdjk2VW5LZmhzNk55dktqVl9VLWNLdTZvQXN6MnJ1ODZxWmp3cU9xaGhFaHljRmJ5ZDhEdGF2ZS1nOWkwWldERTlOSWtYb3dsLUNiQ3hoaE5lY0cydW8wd1hWTzF4WEYzMkJ3R21oM2tWRlR5NDFLVF9sd3E1aGFoOGNQcEpBMFdnOTJmQVh4UE5pTWZ4STEydXI5TUlYT1o3R2xGbUZpUnZ2Q3ZR?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "U.S. fiscal 2026 budget deficit rises to US$1.99 trillion, largest in 5 years",
+   "source": "BNN Bloomberg",
+   "time": "2026-10-16T18:34:57Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa0REQ3M2V2hfblE1S3RWQ1VFU1NHUjF6MW9icWF6QzJsbVJ2NDVncjE2MWVYRjk5a3NFZ2dOaFBOTHJPdlJFMGYxQ0NielVBWXdTcXRjZU9JV25FTjB5amZ6RXFZYXFCeFZfSDBLNi1nakFUWUVNU0plZXVycmRZOFdYVjhncnp2TUx1V2tLUkZRRDdQVURmb3NodHItV3dRSi1pNWdEX3lsSkpfSV8ybmxDQ0NNUXVOQUpIaWxjcWttZHNMYlFYUk05cDBwSV85?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -272,7 +299,7 @@
   {
    "title": "Here’s Why Treasury Yields Have Defied Hotter-Than-Expected Inflation",
    "source": "WSJ",
-   "time": "2026-10-16T17:09:29Z",
+   "time": "2026-10-16T17:10:59Z",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWmM5WWl3bHBqcVJ0WG11bnNBaEZuNFlaWVVEV2dEYXRpVkFkQXJPcTd4bjFJY2NiR2lfV0N3Z2hzdmludTNLeW93b2pHSGlFZmppNzdPbFZuYWsyYTBSYl9ETnFSTm9GSE5EM281cVhFQ2F1WDY1TVFTUXpsV2RuY3FhRnMzWTNJbnc1SGFPb3I3UlljMUpMRk51Rkh5WW9lWHVSMU9LVmdacl9fdENEcWJPS1B4eGRZUmt0aWZJV01Ia2tIZzVZVWR3aw?oc=5",
    "tags": [
     "YIELDS",
@@ -643,31 +670,6 @@
    "tags": [
     "TARIFF",
     "OIL"
-   ]
-  },
-  {
-   "title": "Forex is driven by yields",
-   "source": "FXStreet",
-   "time": "2026-10-16T13:44:27Z",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FQjd2WG1tUHdNOUlHcnZ3V0lmMHFNQ1M0RTNuc2tFNmNpSzVKZ3BHOWQwM0F4VVJZc3BVLU1CWXdLUWtkN0lqbmZIRktZazF1Mm1yTjJfV25wLW5RbHdkQmVId1ZOaWZwWlcxazQweXdRQWptQXZISVJTVnc?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Dow opens 240 pts higher as AI stocks slide and inflation concerns weigh",
-   "source": "TradingView",
-   "time": "2026-10-16T13:42:17Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLWxDRHJ1RWN4Y2s3MW1zRk1GTFlRdUhmMXg1TzF3WEQwLUdWbTA2M1lUMTFxdkJaeUpUWFgzS3pUeEJGaWdXQUNMaDRyTXg4NHZyOG14Q1c1TldwWGU1ejNVdnNjMFJTYk42RWkxR003RjdXYzdBdnFmSGo3ZHBldVR1amkyYW5ud3YxVVhMdVlOVmdDbUpNdzhNR0g5c3dHa1VDbGtHVW5yazZkQmo1SDNWS1lmazFiWm9TZ3F1c3NhRmttX1pEZQ?oc=5",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Washington buys bonds, Gold buys the story: US30 vs XAU",
-   "source": "FXStreet",
-   "time": "2026-10-16T13:39:38Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1pTWWM4OXpjTWc4S0dGY3pwT0xrekdxVzd5Y3B1NlUwMlJ6TDlLV1ZoUlkwcnRBc3czRGVRMks5YnZBOXdHandmamlSdkRrN3g5cnB2QlpfUUVGV015Rkh4U0RpaHI5aU0zcms2QU5Lb0Rwd0pnVnlkUnpuY3JUalVoWlNMalpEb2NNcDVkQ3otb2RkOXpabHNNWlhnVlpJdVE?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
