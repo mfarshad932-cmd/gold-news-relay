@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T21:55:22Z",
+ "generatedAt": "2026-10-16T22:23:42Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 3
+   "kept": 2
   },
   "cnbc": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -81,27 +81,27 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 33,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 32,
+   "items": 33,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 22,
+   "items": 20,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 25,
+   "items": 23,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 25,
+   "items": 24,
    "kept": 12
   },
   "gn_yields": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 10,
+   "kept": 10
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,6 +126,15 @@
  },
  "items": [
   {
+   "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
+   "source": "Al Jazeera",
+   "time": "2026-10-16T21:56:07Z",
+   "link": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Paraguay tech minister defies Beijing sanctions, vows to deepen Taiwan ties",
    "source": "South China Morning Post",
    "time": "2026-10-16T21:43:02Z",
@@ -137,6 +146,17 @@
    ]
   },
   {
+   "title": "Inflation data sparks debate over Federal Reserve rate decisions",
+   "source": "Fox Business",
+   "time": "2026-10-16T21:36:19Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QZTZvWjd2ZFBidG9ueHBiNF9wWWpQX1hmWldndTVobU54ZmxMNzFEU3JnVzRoQ2NjaldNcVowLS1WLVJlWU9ONnlmY1k0MFJOdTc4VmFZUWNRX28?oc=5",
+   "tags": [
+    "FOMC",
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
    "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
    "source": "MarketWatch",
    "time": "2026-10-16T21:30:00Z",
@@ -144,6 +164,15 @@
    "tags": [
     "YIELDS",
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Wall Street undecided on gold’s near-term trajectory, Main Street flirts with bearish bias after gold hits $4,200/oz ceiling",
+   "source": "Kitco",
+   "time": "2026-10-16T21:29:32Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd2tIcnNsS1pwejhtOGZtMjJnWHdxeVpxVk1KUFBBMVZ0YUtPd3pPNnNYWHFUNTZ4U1VXQ29fQVp5MUliaEZoeEJtaDlhR1I3U1phcUhxaFI2bWxPcmZFVmdvenRVZXhUbjJHQmpFV3d3dW5kbGtETjJxOUMxdmtxbmdPNW9ZejJjbnByM3RIU0UtY2puVE1ZS1ZFcWRRVDJWNTFZdWVQZXNyLXNUbnctNUJwMzZJdkt5ZG5HcWl3?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -495,15 +524,6 @@
    "tags": []
   },
   {
-   "title": "Wall Street undecided on gold’s near-term trajectory, Main Street flirts with bearish bias after gold hits $4,200/oz ceiling",
-   "source": "Kitco",
-   "time": "2026-10-16T18:17:00Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd2tIcnNsS1pwejhtOGZtMjJnWHdxeVpxVk1KUFBBMVZ0YUtPd3pPNnNYWHFUNTZ4U1VXQ29fQVp5MUliaEZoeEJtaDlhR1I3U1phcUhxaFI2bWxPcmZFVmdvenRVZXhUbjJHQmpFV3d3dW5kbGtETjJxOUMxdmtxbmdPNW9ZejJjbnByM3RIU0UtY2puVE1ZS1ZFcWRRVDJWNTFZdWVQZXNyLXNUbnctNUJwMzZJdkt5ZG5HcWl3?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
    "title": "Warsh Vows to Tame Inflation as A.I. Delivers ‘Shock’ to Economy",
    "source": "The New York Times",
    "time": "2026-10-16T18:06:41Z",
@@ -659,25 +679,6 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUdVYlJOYlg4aUFyZGNOTDRabURKeUlPejBTRGl4b01NQ2J3NjdIZG1nTFRDbG12aHFWMTZKb2EtRFROWVlwd2IyN3lpWWZwUW5sQjRlYkEwS1R2UXJZczZoZl9MMUw1VVFJVGIyekkxSFdjVmY1Q3NTTUpubWR2MElvamRZNVpabzRYdUFVTjJIcVJ2UmozVHgzT3lwZ3hDT0dqdTZ2N1VYanpKQW1haXA2V0NJTmVlRVHSAb8BQVVfeXFMUElaWUQ3ak1aRDVBLWFVUVZRTTFFRUJxOGFrYjJ6ZGFka1dDUVdiZ1dBMUlNUXNHTHRpd0JMS2NndkYySkc5eHVOUmNZazZzQi1tLVdKNWM4eGc3N2c4UV9mMXkxbkZTVjRHZFRMaDJMT21BaGRoMC1HX1ZUeEZhdmZGMmRPMjhKLXJjNzJLaGpRa3NnWk5xNjliSnVEV0wxcFFqSXRYR1l6alFGZ1RsS09GTVh2RWd0dHU3Vk9EY0k?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Spain to appeal to CAS after FIFA penalty for Islamophobic chants",
-   "source": "Al Jazeera",
-   "time": "2026-10-16T16:43:37Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbHRGTEZrM3ZSc3h3VTh0c1MwVTZLMGpPZFpUNjNLekRVMUFRYUhZZ2hpbDZhS3NiaENsWWR3VGpDOWh2cmlIR2toV0JpeFRLMUdZelotT2Zvd3ZFS3NCQ21jdDljZ0tzMjdVR01tSzV2UFp5QUt2eUk0SnYwVkhFcGhzbW4wX2RFQnNTR3lWa2Vmd2EwMF9xX2czX250REFudjNBREQ4cDFGVWZObVHSAbMBQVVfeXFMT2pLbjk2dllnRFdPV1F5bU9yTXh4cjNxR090N1Jwd3V3c3NfVWxZTVZMb0xJV25KN1YyM1dmWDN2eVBNNUpZRWJtWFJ4by1JVzVHaXJ3M0pZSDRfTkNSWGhQSmZsMGdqVENLeGNNZkpjTXM1QmdMc3hqcWRCNXQwZ0ttTGp2bXc0YXcteTl3UEt4ZjU3b1pkbm54T0VsenB2V2lwXy1aQUViaEdXeFBRaE9sS1k?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Putin envoy says Russia and US are discussing joint deals including on data centres",
-   "source": "Reuters",
-   "time": "2026-10-16T16:34:18Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTzh3aTJ5dl95cHBVVC1pTGhZU3BoLU5UeDVjd0F6Mmlhc3BMc3dkZFByZXhPMDFUUnMtWkpEcW1GN3oyN0RzN0Y4YlI0VVl1ZzBVY2lQbFFGcUpiRDJoMUpzbXZPN1dCYjdpY3ltZVNRMGk3Nnp6b2poTEJHX2p0R2ZvUFFmVTlfQzJxRHNDU0hWNVE4R2dxMFhzdXhCYnpyUEpxQ01uenpJWVQ3OFZ1YWNQYw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
    ]
   }
  ],
