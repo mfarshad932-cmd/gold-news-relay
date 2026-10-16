@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T06:20:34Z",
+ "generatedAt": "2026-10-16T06:48:58Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -24,10 +24,9 @@
    "kept": 0
   },
   "bea": {
-   "http": 403,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 403"
+   "http": 200,
+   "items": 48,
+   "kept": 0
   },
   "fxstreet": {
    "http": 403,
@@ -58,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 9
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
@@ -82,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 28,
+   "items": 27,
    "kept": 12
   },
   "gn_fed": {
@@ -97,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 31,
+   "items": 26,
    "kept": 12
   },
   "gn_sanctions": {
@@ -107,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 57,
+   "items": 55,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "gn_cbgold": {
    "http": 200,
@@ -127,6 +126,15 @@
  },
  "items": [
   {
+   "title": "U.S. Treasury Yields Stabilize as Investors Focus on Borrowing Costs",
+   "source": "WSJ",
+   "time": "2026-10-16T06:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaTh2LXo3TUR2cXpfSTI2QlNFNGQwVlNtM0FMQW9EZ1ctdGZmSXd1WFpnTnN2a3VKTHdHdmNaLXlEd21pdnJWdEZOZ0MxV2dnZ29LZ1RoZXlRS2x5V2JLazF1a1puX2NjM1h0ai1fdXRFal9hTDZLMDNBSEk2SHJnc1BR?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
    "source": "CNBC",
    "time": "2026-10-16T06:18:12Z",
@@ -136,12 +144,40 @@
    ]
   },
   {
+   "title": "Ukraine critically low on Patriot interceptors as Russian strikes intensify",
+   "source": "The Washington Post",
+   "time": "2026-10-16T06:12:06Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkFUUWl2cU1MNkFNYU9KY2V5OG9JWUtUbGRfLWZNVG4tamZaY252SXRvVlZZSmlsSnVDTDBocEx5ZTFSQTlzWV9uOEticEJIUjFnYlo4eW41Zldibjh4WVhYQ09QRkE5ZG1OZWtxQ3liRHdfZ0VkQm43MzUyYkhIeXlhSW9yZXRPdzVSYVNjNmlYQUJnT21tbmNaQkQ1NngyTk9oZlhqMUhYSFlvaFlUdUlXM2hwX0lvUVpMMDlFaUNPc1pUUzNQM0NR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "EDP: ERSE Proposes 2027 Electricity Tariffs",
+   "source": "TradingView",
+   "time": "2026-10-16T06:12:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcDhtcWExa2U4NEtPS29PSWRvaU1XQXlPeFBaRENYX0MtZDJYNGNGSm0yY3lWY0RjMTQ2N3E4eFhfallIUVJtQVQtcDBkMGdjOEV2eHYtMkcxSmFIZkRUUkZPMXd1d2ZQWUZqV2UxQ2NKd3g0Slc0MUU2SFhfRXd3ZTNhR2s4cUtJbnJKRXZhbDE5X2wzdkJKb211anZpWldxZXRjcElxTngzWl9oVG4xUnVR?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
    "source": "CNBC",
    "time": "2026-10-16T06:11:35Z",
    "link": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’",
+   "source": "The Guardian",
+   "time": "2026-10-16T06:02:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT2hmbUgxV3ZHTlhUYk52eFhKVWhfV29MWDFzTzRXX2VxUWhZaF9qSXhtUUp5dlNpVTVlX2ZWY3RWWXNjUWYxT0lFU3JXYWNweWRCNlYxNTVVczZWZ2lNbFlGeGhLWklFMk9rUmNUcHVGMWMtX2JkdWtSODZrcktraDRzVkllclQ2c3hmaDZVWW0xUFhvdW5CM24tcUVPTlI5cTBTVXdPZ1lWSG1hQkpnRnEzcTZILU12cjZMdloxS0E0SFk?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -176,15 +212,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3VsbnB5RXpMTExtZ0U4Z2dWYUg5bE5pMzhQcXluNDhQNHlVT21TRnNPbGNma0lXVUNDQ3Z5blR4bF9MMGJhRkQ4dVBnQ1lwR3FnMmRmdFd2VmtZcU5kZWRLLXduZWhGZUl3c1RNNGgyNkhydzMzN2tIMmhlOXFaUW5MYXJpMXoxLTBwVjF6VDJDU0xhVXgtdXZEb2t0Q1NkUEkyQi1SajlnV3JnaW9fWkRYbTJKdHBUVkg2ZEVxb0RQUdIBxwFBVV95cUxOUDJJWk5UM21WdXJkejdKNTMxcHg3VE5UZ2d6aWpLSE41OVpYV3VidzN0aXo0STNLZ05SNGhNVUcyWlR6cHNrWWhTWnJDWXRUV0IwR3BiNEM5UXI1Z3p4VUo3eWVydjVkREg4Z1hKMkVZQUZQZnlvUUs4U1NXV1luemxuWkZ5VkhpRUZ5WlpWZ2o5ajM5QTZlUkVBLUJWdDY5V3FFY2ZzaVJZbVI1X1d4NW83Nmk3S09wU0ZlYU1DMG5UejNMaktZ?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Ukraine critically low on Patriot interceptors as Russian strikes intensify",
-   "source": "The Washington Post",
-   "time": "2026-10-16T05:54:33Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkFUUWl2cU1MNkFNYU9KY2V5OG9JWUtUbGRfLWZNVG4tamZaY252SXRvVlZZSmlsSnVDTDBocEx5ZTFSQTlzWV9uOEticEJIUjFnYlo4eW41Zldibjh4WVhYQ09QRkE5ZG1OZWtxQ3liRHdfZ0VkQm43MzUyYkhIeXlhSW9yZXRPdzVSYVNjNmlYQUJnT21tbmNaQkQ1NngyTk9oZlhqMUhYSFlvaFlUdUlXM2hwX0lvUVpMMDlFaUNPc1pUUzNQM0NR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -653,33 +680,6 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
-   ]
-  },
-  {
-   "title": "Progress toward a US-Mexico tariff deal has stalled, WSJ reports",
-   "source": "Reuters",
-   "time": "2026-10-16T00:11:00Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVGNhSXNCbUFqT0t4bkRCWTJfaWJOSkxLSXJpSkczTHhDdjlGdXhDam9DdmNOV0drSVlqT3U1eTUwVFZuRFJNQU9rSVZBUkJKOXBZQkJjb21DYkhHNDdXNFFpWFVtTDlMQ3RoTFZaQkdGYUpSWDZPOTNJVUQxQi1VWHlDVkdzM1F1S09Xelh5X1NfaVhqS0NESGxYVGJkOUZ1V0cyb1ZyVlhwRWxqOWFrYVNseHhMMkQxX29ROUN3MXF4bHQ3U3c?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Iran war live: Trump says ground troops unlikely in Iran; Saudi downs drone",
-   "source": "Al Jazeera",
-   "time": "2026-10-16T00:02:37Z",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "How North Korea’s cruise missile tests could ‘complicate’ regional defence",
-   "source": "South China Morning Post",
-   "time": "2026-10-16T00:02:32Z",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQWNkLUVfc2EzS3EwdGdtdllDbWdwbHhDS3JvRV85ZjFmYzREdkJTa3dJaHRkV0hwanVDUG9hQkU4czFGZ0huOU1NU1h2Unl0MmRqY1ZMT24zclFENDAySGRpeVhFcTNQdVBXWW9KaVdSMUNKMnFFUU9pU0RwNU5teUV1VzhjakhZTl9MOW1BWEFINXFmNWpNV3c3V2NzM2s1RmhWRllneWRYRzJ4MFRrZVE1UVl4X1Y3X1FwX0NHeTdweUcyaGdCLTBoT3lSSUpJT1E?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
