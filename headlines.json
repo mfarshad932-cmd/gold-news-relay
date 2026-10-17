@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T12:04:44Z",
+ "generatedAt": "2026-10-17T12:33:05Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 8
   },
   "investing_commodities": {
    "http": 200,
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 23,
-   "kept": 6
+   "items": 24,
+   "kept": 7
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 21,
+   "items": 19,
    "kept": 12
   },
   "gn_fed": {
@@ -96,17 +96,17 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 33,
+   "items": 34,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 27,
+   "items": 28,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 22,
+   "items": 21,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 9,
+   "kept": 9
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,44 @@
   }
  },
  "items": [
+  {
+   "title": "Trump signs executive order waiving sanctions against Russia",
+   "source": "The Washington Post",
+   "time": "2026-10-17T12:23:10Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3k5eWRlOVpmZUFuR1pVdXllbU5veXJ0UTJHMUdwWUQxY0t2OTZNWDR4dktfc3NFZlQ4aHRjd3BhVC1ZdF9yLUhIeE9ZSElGdjBoeVFJX1MxNFJadHFlaG1QTHJTcVl1MEZOWllvTjduYUpuRURxRjNpRFU5M3ZhY3ItbnZoWHljeE9EdjV4bzBhMFUtZkYxb09TX2hWNElWTjZlZW1vbDF6LUF2Ul9lY0p3?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+   "source": "BBC",
+   "time": "2026-10-17T12:11:58Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+   "source": "Al Jazeera",
+   "time": "2026-10-17T12:10:56Z",
+   "link": "https://www.aljazeera.com/news-analysis/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump Waives Most Russia Sanctions Passed by Congress",
+   "source": "WSJ",
+   "time": "2026-10-17T12:10:00Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnVnOEloY0J4aFRTZFZ2N2hTeHBWeUVXV3VPQmR0c04zcFlCdEs0aW1jUDRNM05Za3NMQnhtQ3BmVXNQRUFNMms5eXJJdVE4Q01ud0ZlYVVKOGhhSHBncjFLaVl6djRPb1NPVDZ6MkFtbHlYWmV0cWJ5VEdpTW1adFREWXRHVmUtcjR0MEl5QXhmSnMyamtrTUxiZjZkLTQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
   {
    "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
    "source": "The Washington Post",
@@ -155,6 +193,17 @@
    ]
   },
   {
+   "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
+   "source": "Al Jazeera",
+   "time": "2026-10-17T11:13:53Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2J3andQTW1UOC1yU3dPTUdSZHB2R0l4SVlwSFB6VzN2a2VoSnc3SWhjcnF3cTd0RG5KcVB3UldJOW5FU29TWkg2TkM1bFNqc0F1dXF6WFl1Y2ItbU84UlpYMTNVQ3RxNkNGVE9oNURSREtKNXp5UU15U1BKOFB4dllmNDlpLXdIM0lucWoyTlFBWTNfZXlZenRtQ0M1YzlUOHg3U0VsWC1WSHVBNHFiRFhZTdIBuAFBVV95cUxQa1NLdm9ma2pEWjVNczBpY3VfeFpHcjVQelNreTE0QjV2eEQ0RGlzcmxkSU1ndkVOSi1LMnl6cS1EU19hZmE1dGJRT3ZCZDN2VDdSOUNyWEZWRG9ZemtRalVmNXV2SHFqc0pvVHBQdFRoT3VQM0EtWEotWG9pRVJfNE5rREhlanRQbzB3Vl9VM3llZGljN3JyXzBmV1c3TUxRY0Z5T3VraGhMRHlXQTVOYW8tblVhTU45?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS",
+    "OIL"
+   ]
+  },
+  {
    "title": "Gold Price Slides on Hot Inflation, but Schiff Says It’s a Gift",
    "source": "Yahoo Finance",
    "time": "2026-10-17T11:13:21Z",
@@ -165,27 +214,6 @@
    ]
   },
   {
-   "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
-   "source": "Al Jazeera",
-   "time": "2026-10-17T11:10:22Z",
-   "link": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Trump signs Executive Order waiving sanctions against Russia",
-   "source": "The Washington Post",
-   "time": "2026-10-17T11:01:41Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3k5eWRlOVpmZUFuR1pVdXllbU5veXJ0UTJHMUdwWUQxY0t2OTZNWDR4dktfc3NFZlQ4aHRjd3BhVC1ZdF9yLUhIeE9ZSElGdjBoeVFJX1MxNFJadHFlaG1QTHJTcVl1MEZOWllvTjduYUpuRURxRjNpRFU5M3ZhY3ItbnZoWHljeE9EdjV4bzBhMFUtZkYxb09TX2hWNElWTjZlZW1vbDF6LUF2Ul9lY0p3?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
    "title": "Fed interest-rate decision this month is a closer call than markets think",
    "source": "MarketWatch",
    "time": "2026-10-17T11:00:00Z",
@@ -193,6 +221,17 @@
    "tags": [
     "FOMC",
     "FED"
+   ]
+  },
+  {
+   "title": "Trump waives some Russia oil sanctions, easing pressure on India",
+   "source": "TradingView",
+   "time": "2026-10-17T10:48:51Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRXRUbU14UUEycXV2RjdwUXdXRTlDTGlsZWpSS01wWVpXTXQxMFZxQW82TzRDRVYzSUVpTm5OTk5QSzdJWndXZFZ6ZTduSVVDOF9uUk9tWm5kOU1WQ2hZTEpYcW4xNE9OZlNYd0xCOWNJOXh3dlg0SGNwa2pyTkZMR0NlOC1yYnRzaWtOZFJNcE16YTNMMExoWkdPb01zTTQzOHFJS1RIUlhTckhhZzA5X2J5Nmgtbzd3RVlZZw?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS",
+    "OIL"
    ]
   },
   {
@@ -215,6 +254,15 @@
    ]
   },
   {
+   "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
+   "source": "Al Jazeera",
+   "time": "2026-10-17T10:25:19Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMTdYZ3dCWFIzdnNuaWVTbjZ4ZkVxMlVldkh3Z3FkeTYxUTY4U2JMZ2VLelFxb0RmZ0hMZ2JQNWYydTBXdXZyWTMwb2c4UGFPR3ZCZEtvRmhRYVdrU0ZkbVN0OFNRdTE4dEViRFpSajM1Nm5wRlpPQzhyb3pfR09ZOVJMWHJ6cHJqcGZaQzlfWHpjLWctdjg2TUdRMG0zVHlheEdadTZFRTBZal8zOGFvZURtZ9IBswFBVV95cUxPMTdYZ3dCWFIzdnNuaWVTbjZ4ZkVxMlVldkh3Z3FkeTYxUTY4U2JMZ2VLelFxb0RmZ0hMZ2JQNWYydTBXdXZyWTMwb2c4UGFPR3ZCZEtvRmhRYVdrU0ZkbVN0OFNRdTE4dEViRFpSajM1Nm5wRlpPQzhyb3pfR09ZOVJMWHJ6cHJqcGZaQzlfWHpjLWctdjg2TUdRMG0zVHlheEdadTZFRTBZal8zOGFvZURtZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
    "source": "CNBC",
    "time": "2026-10-17T10:20:44Z",
@@ -223,15 +271,6 @@
     "GEOPOLITICS",
     "TARIFF",
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
-   "source": "Al Jazeera",
-   "time": "2026-10-17T10:13:51Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFBWNm9HY3h0Y2lhOXh4VnZFWEI5Y0VJOVJCQUttOWJHVFRoYmF6bnR5X2xBdkZBbmYyTVVGU3FfNUxQR0gtWGlWRE1pWG1KYWVKY1JOYlhqYm9tQTFFaEF2QTdJcy1BMTJEY25NX0JQS2t0aXpzQzR2VTl4RjJ2c0VhazhzSmxLN2wyMUpQXzkyOUt6anRpMUYzeFdYSzQ1Tm5xTDlWbm02NEJ6OWfSAbMBQVVfeXFMTzE3WGd3QlhSM3ZzbmllU242eGZFcTJVZXZId2dxZHk2MVE2OFNiTGdlS3pRcW9EZmdITGdiUDVmMnUwV3V2clkzMG9nOFBhT0d2QmRLb0ZoUWFXa1NGZG1TdDhTUXUxOHRFYkRaUmozNTZucEZaT0M4cm96X0dPWTlSTFhyenByanBmWkM5X1h6Yy1nLXY4Nk1HUTBtM1R5YXhHWnU2RUUwWWpfMzhhb2VEbWc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -246,7 +285,7 @@
   {
    "title": "Trump waives new Russia sanctions in the \"national interests\"",
    "source": "Axios",
-   "time": "2026-10-17T09:59:46Z",
+   "time": "2026-10-17T10:11:58Z",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VUzFHTi03ajF4UU41MUNRZ2lBU2VubkVFOFVCUE9WeU1QZGx6U094RXEwZDVXY1FsaWZieE1wbWdaa0k1TDZtY0l4XzdJWWh3cTkwNFQ4UFJBX1Bmb3BOQTlwVW14dw?oc=5",
    "tags": [
     "GEOPOLITICS",
@@ -335,7 +374,7 @@
    "title": "Gold steady near $4,170 as easing Fed rate-hike bets counter high oil prices and yields",
    "source": "CNBC TV18",
    "time": "2026-10-17T09:22:27Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWlYxTmRHSmdXd0g2WkwzOHhZbU9ULTZaV2NCWmtmWW11QnVNOVNCTjFsdHRCWTZITEVadWxTQXFCZU9GVHliVENVVVlKTHBQVDQyVDFiYXBNZ2kwdS0wMGwwYmJtRkE3Z1g4Nmxzb3FMaGJaNjY0QlU0OXBmenlkWU5NMzM5WDAzUkRabGswOGZ4N2RRYllYaERkNzhwRjVZNjBGTXh1d1hSYmpkd2ltcWNxWk5tbmRiMV9mTWttaW9qTUpIWnM5amdUYXjSAdIBQVVfeXFMTy03bncxWlRjMmhlWTdNdFY2dkhsend1dTM0eUd2SHBUYnJockhXWVgwc1NxZnN0NGZrbmxseVl2dEgyWF9BVHNQX0lMU1ZCU0U0M3BvZGZyNW82U1RPRWJmbXg1d0h5eEwyVzJ0WE1pZjBPUmROTTlKdVV1Zm5yd3R0blB2SjJNR3IwR3c1VVlVOWdINnRaQnZFRHNkQVBuNDBOemxQZmRveG10TlB2Q0p2MTJrOUpseEc4aXFPVFpnSHk2ODZNcVZvVGt4Rnh4VUJ3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWlYxTmRHSmdXd0g2WkwzOHhZbU9ULTZaV2NCWmtmWW11QnVNOVNCTjFsdHRCWTZITEVadWxTQXFCZU9GVHliVENVVVlKTHBQVDQyVDFiYXBNZ2kwdS0wMGwwYmJtRkE3Z1g4Nmxzb3FMaGJaNjY0QlU0OXBmenlkWU5NMzM5WDAzUkRabGswOGZ4N2RRYllYaERkNzhwRjVZNjBGTXh1d1hSYmpkd2ltcWNxWk5tbmRiMV9mTWttaW9qTUpIWnM5amdUYXg?oc=5",
    "tags": [
     "FED",
     "OIL",
@@ -503,15 +542,6 @@
    ]
   },
   {
-   "title": "Can Yemen’s government forces sustain their offensive against the Houthis?",
-   "source": "Al Jazeera",
-   "time": "2026-10-17T07:15:19Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeDhiLUcydzlxRldTNi0wbl91U2dwejJiWkxUbEZzY2twcnh3RGRvZlZVc2pFeXJMSDN6WEdBeWsyb2IxRS12WWs1QW5KdXlKNnlDamdOVUllUDBIRHk5WUlhc3hwRG9fN1E1UzRXbWJYQTlGSmZwRXZ6d2t1VTVNSUdidWloeHVhZzdTdzNTS01Ia1lwNGJYbW1wUnFBWHNDNTFMMUpNaVdfVTFHbGdHX19fLXloZHhnQ3VUMFdYbUnSAcYBQVVfeXFMTXlqN1VMUHRJc1p4R1BTREdFQWhCWExsWmFuREdrcU5TMGV2eTc5UUlzMDZTNHZnRE9SZVV5SDZEbEtKbDdmOEZjUWdsTGpLRGlYTGgzVUQ1blhJQVhDRWlpTXF4UTFoaHBBb0lmNWlSS1phcUdENVE1WE1tSU11RXl3bE1fWXlFT2VIbHVBY3A3OGJLWmF1dlBZbHl6ZDNfRzFjdGRLR3A0endEYkR1THp0dUlDWHBvUThiSkw0UThPVlZzaDNB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "‘I cannot carry all of this alone’: the couples kept apart by the war in Gaza",
    "source": "The Guardian",
    "time": "2026-10-17T07:00:00Z",
@@ -541,7 +571,7 @@
   {
    "title": "Trump Waives Russia Energy Tariffs, Sanctions A Week After Diesel Deal As Crude Oil Prices Soar To A 5-Month High",
    "source": "Yahoo Finance",
-   "time": "2026-10-17T06:30:00Z",
+   "time": "2026-10-17T06:30:06Z",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUtFd2piaC1fWmlxbEtNLTlyRDk4NmNmb1NRbGUyd2M1WDhVVmNIaGN6M2dLQUpKTDhsS05DOTV6WjVVWmRLM0JLSlN6ZDU3U2J6MC1GTHM0THRTbUhNMHRKMXI1NGlhUUdTZ1QxSWpKdVp4V0cyeWZwaVhzcU5BWTZkZEZJZ2ZRdGY2bWcteEExaTJhMFE?oc=5",
    "tags": [
     "GEOPOLITICS",
@@ -672,35 +702,6 @@
    "tags": [
     "USD",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Are we sleepwalking into World War III?",
-   "source": "Financial Times",
-   "time": "2026-10-17T04:00:55Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSTloWVNfSkFhYlRqU05uZ01iZ0Qxb2twMWRCUXlPcmFWcVRsUjdEYlVBdmV4cFJZMUNrYzlMN0VNRm1leGhQcjFqZ3o2YXdBWVdwV1BkeHIyeENTdlI3MllyQ3lRX2ZtRjNEeDdvTThiR0hGYnZsTVVhZHVvU293amFTMVE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump Waives Most Russia Sanctions Passed by Congress",
-   "source": "WSJ",
-   "time": "2026-10-17T03:32:00Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnVnOEloY0J4aFRTZFZ2N2hTeHBWeUVXV3VPQmR0c04zcFlCdEs0aW1jUDRNM05Za3NMQnhtQ3BmVXNQRUFNMms5eXJJdVE4Q01ud0ZlYVVKOGhhSHBncjFLaVl6djRPb1NPVDZ6MkFtbHlYWmV0cWJ5VEdpTW1adFREWXRHVmUtcjR0MEl5QXhmSnMyamtrTUxiZjZkLTQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "3 U.S. Refining Stocks Retail Investors Are Watching After The Russia Sanctions Waiver",
-   "source": "Yahoo Finance",
-   "time": "2026-10-17T03:19:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVE9QZEV2ZGlVX0lMT2Y1bU5LeFZHRWZDM3pHa0ZrSVNEYmcwOUY5QlpJSmpaNDYzMDRKaFRwLVVfbWRJLVVKQzZpYXYtQlZTQjZTWS1qZkE2emc1VHJuaDRjVDJLc042NWtELW9oUFFQdV9GN0MxTEFSVS10QVl6Mi10ekstM1dUcUpn?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
    ]
   }
  ],
