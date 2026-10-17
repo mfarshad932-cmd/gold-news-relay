@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T12:33:05Z",
+ "generatedAt": "2026-10-17T13:01:13Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 7
   },
   "investing_commodities": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 24,
+   "items": 25,
    "kept": 7
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 19,
+   "items": 18,
    "kept": 12
   },
   "gn_fed": {
@@ -101,12 +101,12 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 28,
+   "items": 27,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 21,
+   "items": 19,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "fed_calendar": {
    "http": 200,
@@ -148,7 +148,7 @@
    "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
    "source": "Al Jazeera",
    "time": "2026-10-17T12:10:56Z",
-   "link": "https://www.aljazeera.com/news-analysis/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
+   "link": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -248,7 +248,7 @@
    "title": "IMF members call for more support amid war shocks, 'advanced intelligence' risks",
    "source": "CNBC",
    "time": "2026-10-17T10:28:10Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTmJHemllOXlYR2tLUWtLVnU5NzFIVFNyemV0Zy1COVY3NjQ4VFdWQnF4cjl0NWxseWd4Y0lnOVZkeDlqMlBiTXNLVG9GSjd5aVZ5Z09MbWNBbVhkd1dzc1ZRQWFOV0xoeUdDbDBUN21WdXUyN2JrZElPVkRCbHF3dDcxdTdLQnJncUNaRGY4VDJ4RjUyNk1OWUJtRWw5Mkt0bGVGUVowT0xudmp0MWZvcW9DWHrSAboBQVVfeXFMTldJb3lJNEFxZUpKVkk3TkpiTmcxQW1CV0VxOWZOTVJoNG1lczc2SUZmMklqaTBSWDhNMjlZVVBITGdJWlZSZm9RVzFRVURIM2Z6ZTdLUEtZcHptOU45bUVYYUlwWnZQSTZDeEZRbVNlbDZXVXBXcXFPVDBLbVhiRGpFUGRGNU1lb0J1V1llLUJkZEJJSUh3RlNxb1kwRXN6UTE2WVpSaFpzNHNPbGViVzFWWHRVTFhVRW1n?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0lveUk0QXFlSkpWSTdOSmJOZzFBbUJXRXE5Zk5NUmg0bWVzNzZJRmYySWppMFJYOE0yOVlVUEhMZ0laVlJmb1FXMVFVREgzZnplN0tQS1lwem05TjltRVhhSXBadlBJNkN4RlFtU2VsNldVcFdxcU9UMEttWGJEakVQZEY1TWVvQnVXWWUtQmRkQklJSHdGU3FvWTBFc3pRMTZZWlJoWnM0c09sZWJXMVZYdFVMWFVFbWfSAboBQVVfeXFMTldJb3lJNEFxZUpKVkk3TkpiTmcxQW1CV0VxOWZOTVJoNG1lczc2SUZmMklqaTBSWDhNMjlZVVBITGdJWlZSZm9RVzFRVURIM2Z6ZTdLUEtZcHptOU45bUVYYUlwWnZQSTZDeEZRbVNlbDZXVXBXcXFPVDBLbVhiRGpFUGRGNU1lb0J1V1llLUJkZEJJSUh3RlNxb1kwRXN6UTE2WVpSaFpzNHNPbGViVzFWWHRVTFhVRW1n?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -465,6 +465,15 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZTNRdGhnOWZyQXpXVjVSdDBFbVpKdEpWVWYwZTJyWjE2dEZZR2lzc29sdjhmZGNabFR2aXE2eVMxeUN0cWg2RXlpVFR3dkZOLXhpX2lHUkVZS2cwbGxFei13Vlg0Q3IwMDFQSXExOXhjSWpsSnlXTml4LTRLSjhHVDU4eWZEcnJJTEppM2F0aTlvY0FiMXBDN0VpWXJKM3owZDB6N0tQQmxNVWpWakNKM0FsUlVRWElIRUM4SA?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Trump's Canada feud collides with Alberta's separatist vote",
+   "source": "Axios",
+   "time": "2026-10-17T08:26:36Z",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaEVTbjh4MzVIeW1jSE9ickRhMWtvWWJESXhhWGpzZ3Fsd0tWSUZUNlR3X3BjRDlzVUxPX0Nqc2oxV1BhMDRMeWZXbGJUYklUZEd1dVFnMEhGTG05Wnd3QXdPbUpGeTJMSXFzQ2RrazNhXzNMWjc2cmI1VWZBYThGVHFXN1NLc0hOZHBhWXJydU0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -692,16 +701,6 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pY1N4T2FmZE1fVzRTcTFzYzhqMlByZ3ZlYW4yOUwyNGJXTnBqeWQ0c2lyR0RNQmFBejRHWUVhc1VFTFptclFUb09BR1h4dzhSSUs2VmZ1RzZXczBFY3p5UHQtVmxHaVdhcHJ4dHMwLTEzTC1UemR3WGduRk0?oc=5",
    "tags": [
     "CENTRAL_BANK_GOLD"
-   ]
-  },
-  {
-   "title": "Gold (XAU/USD) Price Forecast: Bulls Face Crucial $4,226 Resistance",
-   "source": "FXEmpire",
-   "time": "2026-10-17T04:04:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOclZjeFpXT3Q2S1lPSHlZN3FGcHBEd1YwcW9ia2NrZGVUbXh6Q3Rvdy1COGVQLVRWc3ZPWVdmMTJSeVR2c2FDTTVTLVpfSnBCa0llUHQ0VUJRRDJNUGFwVkE0bV9jdEtEM084bnd0NHhva0JMMmlfTFU0MU82dnMydEVid1JnTjZtSVZiYTZaeGN5ZUNCVkgzMzdVX2JDMl81a2p3ZmFaZXhUU0pHd0VOUEZpcw?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
    ]
   }
  ],
