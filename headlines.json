@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T03:35:06Z",
+ "generatedAt": "2026-10-17T04:31:32Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -40,10 +40,9 @@
    "kept": 12
   },
   "investing_commodities": {
-   "http": 502,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 502"
+   "http": 200,
+   "items": 10,
+   "kept": 7
   },
   "investing_news": {
    "http": 200,
@@ -73,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -87,38 +86,38 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 27,
+   "items": 24,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 17,
+   "items": 19,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 26,
+   "items": 24,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 27,
+   "items": 24,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 40,
+   "items": 38,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 7,
+   "kept": 7
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -126,6 +125,44 @@
   }
  },
  "items": [
+  {
+   "title": "Report: US general warned of THAAD, Patriot missile shortage before Iran war",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-17T04:17:19Z",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXY2YyY0w5QTlfbG5BVFNUZWp5U0lwWHV2ZUE1Tnk5RnpqUGVxeVRDdE9TUlNkV1RGWGdZWUtGdE02VlUxbWYwNjNrRF9iSVliWHBTbkt4QzVLbUpKSUcw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Are we sleepwalking into World War III?",
+   "source": "Financial Times",
+   "time": "2026-10-17T04:00:55Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSTloWVNfSkFhYlRqU05uZ01iZ0Qxb2twMWRCUXlPcmFWcVRsUjdEYlVBdmV4cFJZMUNrYzlMN0VNRm1leGhQcjFqZ3o2YXdBWVdwV1BkeHIyeENTdlI3MllyQ3lRX2ZtRjNEeDdvTThiR0hGYnZsTVVhZHVvU293amFTMVE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump puts new Russia sanctions passed by Congress on hold amid deepening row with Ukraine",
+   "source": "The Guardian",
+   "time": "2026-10-17T03:20:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2luakxEaEVyTXo5MTktaTdoVzd4Zk1EX1NoYk8zZGE4bDNoYVpBS3FZeXJnMU1jazRhVkVfT2hSZ3pPY1JmSlotWVY3LWFjcDdGeDV2eU12bHhMM2E3QWI1aVczdmxiYjhBNlhGU1RCeE9hakdKN3hmTlZvTEgwSmxQam1lNVdJOUVFemlueXNwcFVUS3hYckNfb0UwbVJrZ0ticnctYmlueFR0MHRBR0cwZ1ZJc3VlNVFNcGw5SndCczR4VVhrNndabWptMGcwMF9aVQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest",
+   "source": "AP News",
+   "time": "2026-10-17T03:18:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnJQRmxjVThxTzVHd0pFZ1kwcWtlM0Z1SWUxNVBnRDFFNzBsZmp0TmNFYkEwai0xSW8xcDNvbXpMRU5rU2hoZk1DZ2FuemtfdGVYTlpXN3QwZjV5emVoQlhZa0tDQ0tXM2d1emJRNjJvSHFJYTkwc0pBc1NYc2VyaVVrb2tEb0VEUW9Ka0dhRjM1WER1?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
   {
    "title": "EU Warns Against Funding West Bank Settlements as Israel's Banks Fear Sanctions",
    "source": "Haaretz",
@@ -141,6 +178,16 @@
    "source": "The New York Times",
    "time": "2026-10-17T03:07:11Z",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbjBtZHJzaWs1Q0M1VEQ3LVg3VTRvdkdwTFNKY2xwbG82X0ZYZGR1X3ZYZk1uOGRqWFdhcl90YUNTVlQ5dWNjV0Y1bmpYcWo4TENqdnhTMy1VQVV6MEtpM2ZlQXRuN2o3TS11UUNrR0F3Vnp4T0NqNHBiTndVY1ZGMU1sT2Nka2c?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Donald Trump exempts Russia from further sanctions mandated by new law",
+   "source": "Financial Times",
+   "time": "2026-10-17T03:07:07Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXNIdDdhLWJTcFJ3TmN4YUNHRGZSWmxRcWZ1NUVDVmYyLVBWNE04NWdCUExyTG1Jd3VDYW5BWVlFQWtlaFZEQV9BcjFyY2tkUmpxYWxMZjAtbGtfbGtCeUxJVmRJcDMtMk42N0hMSUFHRDdlbC1oYXVUTW13NC1Za2h2LWo?oc=5",
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
@@ -176,16 +223,6 @@
    ]
   },
   {
-   "title": "Trump puts new Russia sanctions passed by Congress on hold amid deepening row with Ukraine",
-   "source": "The Guardian",
-   "time": "2026-10-17T02:53:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2luakxEaEVyTXo5MTktaTdoVzd4Zk1EX1NoYk8zZGE4bDNoYVpBS3FZeXJnMU1jazRhVkVfT2hSZ3pPY1JmSlotWVY3LWFjcDdGeDV2eU12bHhMM2E3QWI1aVczdmxiYjhBNlhGU1RCeE9hakdKN3hmTlZvTEgwSmxQam1lNVdJOUVFemlueXNwcFVUS3hYckNfb0UwbVJrZ0ticnctYmlueFR0MHRBR0cwZ1ZJc3VlNVFNcGw5SndCczR4VVhrNndabWptMGcwMF9aVQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
    "title": "Trump waives several Russia sanctions as new US law takes effect",
    "source": "BBC",
    "time": "2026-10-17T02:48:36Z",
@@ -205,7 +242,7 @@
    ]
   },
   {
-   "title": "Trump suspends new Russia sanctions following deal to purchase diesel, citing ‘national interests’",
+   "title": "Trump waives new Russia sanctions passed by Congress, citing ‘national interests’",
    "source": "NBC News",
    "time": "2026-10-17T02:45:00Z",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUF6amxpY2lMcWdiQ09tRkNjZjZGWjFyemRBN2kyQmx3RUl2ZlN6cDJLN3ZOeFBYZEJucUpHNWpNRHpsZFh4UmkxMFZ6ak1OQ1pVemhGaEtSOGJENXljeVItbGlZUUxMNG5LSmNacXZHSjVoOTRyLTZrcTJmZ2prSWctNkE2eEYwcG15bWJnQVlWUkNKdUZKODVZSHhYellTLWNFZnkzMEFiT1FKak1adHVqV25DLUFWWC1uMDIyc0dYX0lSVFRmdDRnUVlEd094?oc=5",
@@ -241,16 +278,6 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWXJTWllOamFnaXBFZ3pqWkxkeXdKbW5BSzJNUk1NVmVBTWowX1VJNEFoeEIwZ05SVkpwRENMOEF0cWZ5Vm9YZVlCemZsR28xcDNXVHBNbHpLMlRyem9BY3J5bTZoQ3U2b194SlZXMGtBaEVBTmFXdXFENDJxcWtOU3VEV0lOb2piVlFwNmRZZndScmxFY2Zv?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Donald Trump exempts Russia from further sanctions mandated by new law",
-   "source": "Financial Times",
-   "time": "2026-10-17T02:33:13Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXNIdDdhLWJTcFJ3TmN4YUNHRGZSWmxRcWZ1NUVDVmYyLVBWNE04NWdCUExyTG1Jd3VDYW5BWVlFQWtlaFZEQV9BcjFyY2tkUmpxYWxMZjAtbGtfbGtCeUxJVmRJcDMtMk42N0hMSUFHRDdlbC1oYXVUTW13NC1Za2h2LWo?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
    ]
   },
   {
@@ -361,6 +388,15 @@
    ]
   },
   {
+   "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-17T01:08:43Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Trump Waives Russia Energy Tariffs, Sanctions in Graham Law",
    "source": "Bloomberg.com",
    "time": "2026-10-17T01:05:00Z",
@@ -429,21 +465,21 @@
    ]
   },
   {
+   "title": "Trump's decoy flight sparked by fears of Iranian cell with shoulder-fired missile: Official",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-17T00:14:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOVJrZjN1UTRKcF9ENHlZclJYUlRUN3NaaG1ucnd1ektfWGpUUW05blJZdWh2NFpqSm1vYi1qY041UEtwcGZCU0ZGQUFtNjJuOW5HeTZpck81Z1FZQVZHOUhlQkVONFhQSXU5N2RlanFxSTV2S29wN0RuQmtRdWhyaWhWX0VSY2JGam1sZ0o0Vms3Q20yZnlWNlpnVmlmOUFPUE5YbFoxOGpmV19VUGxXN2RB0gG3AUFVX3lxTFBfTW5PbGhJcDg0NUJTMkdXYTV1ZTBORkhPYTNSaTNfc080ek5xcloySXdzdlVSaW0xbEpPWGs0bHc3Vk13QVRCNm1LUHFhbk9zRFptTGJtZDctMEdZWFNWRkRBRzB5SGZ0X0FQMmo0cTNqcGlSYW8zcVBLTVljUFZZdU5HT2pNekE4SzVUQktQbWtoejRPOXM1TTNyNlM2VEI5eFVMNl9oMmZrX0RrY2I5TXRTOTZnVQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "3 US Dividend Stocks Worth Watching As Treasury Yields Climb",
    "source": "Yahoo Finance",
    "time": "2026-10-17T00:14:00Z",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdm5CRnpCYTZ0LTFzOWpWWEM5bkRGM18wdzFvazVoYmFweng1SnUwRGVBa3RaWEVpTWVOMVFqRHNaUUZRdE1vQWFpWll6cG0zclVLWUtiUm4wdHYxWVUyam1zUlozbGhraHVBWjB5NjhseTMtSzZieUFHcTRwa2tqN2g5LWpPZ2pNWjJTb1lESUFtNV9iZHc?oc=5",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-17T00:01:02Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -662,41 +698,6 @@
     "FED",
     "OIL",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Grades rise as US considers removing sanctions on some shadow fleet vessels",
-   "source": "TradingView",
-   "time": "2026-10-16T21:11:06Z",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb0htam1NQTIySWd2Z05SVnFZcXF6OUdqdHU3cUNMRnNGRmJ1SW9la1FlRVhoYUlsV1Zicm51MFNlRTdxSTJYSVJDdFVOX3ExSmxiVXViMnV0dVl1SnJRTzZyY1VVZksxSGotb3dsaEZyN0gwQThULUZSQ1V3MlFGNWV2ZnFvemxYcXA2M0I3cXRKLTZiOHBhcHEzeVFycy1zMW02ZVdLaEpVMUtHelRYbzAyQmFfUG9IeGxOMUVUcWFobEt2N1pNM3V5QVlfZGc5NTZrcGphN3JHbFp2M0E?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "High-Yield REITs vs. 10-Year Treasuries: Which Is the Better Buy?",
-   "source": "TradingView",
-   "time": "2026-10-16T20:59:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0pjaFVkRFNyV2h2NkNSZDlOeUFGckJHWTl0bVJqS0tGRUE0b3dreVZwSTJsaEI3ak9ONURod0U4eklCVWtTeFdfT2ZrVFpscEZOZmZpeWJvTU5VUF9SMjBQeWhTZm9UWE00WDNjaDZ3UTY3QWVKTGZSTTBzVnpkRHZNWkx2ZER1VnRuT3ZGTjYxQ0dhYnYwS1dHTGZGa2UwV3JFbmdtMl93c2lNV2cwYWNIMk9pd1NEWXc?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Zelensky Warns of More Trump-Russia Deals as Putin Envoy Eyes Expansion",
-   "source": "Newsweek",
-   "time": "2026-10-16T20:58:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYlBjN2VRX0pMZXJveHpEbm5ySzlnai1ZZW9zeVBhX1RtcmdoRHRMOVRLZ3B5Y2N5WVVUdUJ0YW90Sm1HRGV1SU5rQTFQelZHb1ppd0VpZVctSGdtLVRTdjR6cV8ybk1VM05XbHdzc0YzMDNnUlhvYXJBaHVZZUdLU3QwMl9BYWVpUC0xS1p5WQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Norway faces public dilemma over divesting from companies involved with war in Gaza",
-   "source": "NPR",
-   "time": "2026-10-16T20:56:02Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa2xfdUNjMEVhNmFsUXBXV09QRjdVQ2xEVnYyeDJCTGFPMGRJbFQ3YkNlcEFNRmRPM0VLbHFjSXhEa2J0aXlLdzYyVklGOVpHQ2xCa2pjTTR5REZCeGVmeEM3WXl2VlVkcmVpc1VEczAtQ0U4b202S1F2Q2FEcGdwbUdNLUw2a3lrT09MNGxPRWt4WXFBSnRnZ3JDdmxmUFBYemZZSW5QaExIbER6Ujg2VF92U20yUFMzR0k4T1lsZ0ZwOG9JRFgw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
