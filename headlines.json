@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T11:08:03Z",
+ "generatedAt": "2026-10-17T11:36:24Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 11
+   "kept": 10
   },
   "investing_commodities": {
    "http": 200,
@@ -86,17 +86,17 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 13,
+   "items": 15,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 19,
+   "items": 17,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 34,
+   "items": 32,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,18 +106,18 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 23,
+   "items": 22,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,26 @@
   }
  },
  "items": [
+  {
+   "title": "Russian strikes kill civilians, injure dozens across Ukraine",
+   "source": "Al Jazeera",
+   "time": "2026-10-17T11:22:41Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
+   "source": "Al Jazeera",
+   "time": "2026-10-17T11:10:22Z",
+   "link": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS",
+    "OIL"
+   ]
+  },
   {
    "title": "Trump signs Executive Order waiving sanctions against Russia",
    "source": "The Washington Post",
@@ -143,6 +163,16 @@
    "tags": [
     "FOMC",
     "FED"
+   ]
+  },
+  {
+   "title": "The Fed Will Have to Raise Interest Rates More, Even If It Pauses in October",
+   "source": "Barron's",
+   "time": "2026-10-17T10:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTRhSTZDWlgtd2E5SmUtR1NXTkFlOWlvbC0ySXJyQ2VMZnFlVldpNWRMakdxSTdEZ0ZoeUZ5TUdNeFFkcjV2eHB3Q09HTFNRckF0c1BJUnRnZHo5YzZiNlBIZVpNcnIxdGhPMGFYWkVjTnhuZmVvODFqOFNxWjY3cU4tOUpKNl9hb2JNZVNVU1FBb0k?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
    ]
   },
   {
@@ -342,6 +372,15 @@
    ]
   },
   {
+   "title": "Pentagon lowers count of Iran war dead and wounded, sparking questions and outrage",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-17T08:40:12Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1BwUjctMk8yVXY0LVVRRjB3eW1ENUVYYjFzWkNyMWVIOWpNVzBEeTNaQzU5M2pDWEE1ZXRJb2g2WGk2a1ZMT0hEbnhtV3lZRmsxTzhaSFFTckxTWmM2ZUVZWmVkaWVkbDZVak9vSGl6b3dMNk5UdnBjOHZZM1phbEZwbS1MTHhxVEItb2gyZ2FDYVpfaTJBSzZ30gGfAUFVX3lxTE1fLUdKUGQ3NTBmZzZnSkduVmJkc3V0d3FtX2ZnWkhzaVZQUHp5LXlTT0tackNubUt4ZFFDUlA3NGlNVGFoQ3ZJeWltR3lCX3VHVXlibl9zVThCQ3BaSUllamM2NmdUeGN6UzdKWE8zZ2NuLXlJMUdWUUNfcHhmWC1ZV2pmdko2cHFDRjd4ZUFYdWxUaU1BN0IzOVBXZjhiOA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Trump signs order waiving Graham Act sanctions on Russia",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "time": "2026-10-17T08:37:30Z",
@@ -490,15 +529,6 @@
    ]
   },
   {
-   "title": "Ukraine and Europe have little choice but to work with Trump",
-   "source": "Al Jazeera",
-   "time": "2026-10-17T06:36:03Z",
-   "link": "https://www.aljazeera.com/opinions/2026/10/17/ukraine-and-europe-have-little-choice-but-to-work-with-trump?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Trump Waives Russia Energy Tariffs, Sanctions A Week After Diesel Deal As Crude Oil Prices Soar To A 5-Month High",
    "source": "Yahoo Finance",
    "time": "2026-10-17T06:30:00Z",
@@ -572,15 +602,6 @@
    "source": "The Jerusalem Post",
    "time": "2026-10-17T05:44:52Z",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JVllGUXF2T2FZTk1LSU5rTFAwRGJpVzE1QUU5alBkNV96LVN3SXNwSWw3TDZfdGdPbkpoV3dqTHhScDhZdDJpY3lQN3QwLW1qOWd4SzhqMFh4bnhhRTJIa1VhQmVmaWJHNXBPQ283VUJJOENVZHRwa29sUW8?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
-   "source": "Al Jazeera",
-   "time": "2026-10-17T05:19:19Z",
-   "link": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -679,24 +700,6 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnJQRmxjVThxTzVHd0pFZ1kwcWtlM0Z1SWUxNVBnRDFFNzBsZmp0TmNFYkEwai0xSW8xcDNvbXpMRU5rU2hoZk1DZ2FuemtfdGVYTlpXN3QwZjV5emVoQlhZa0tDQ0tXM2d1emJRNjJvSHFJYTkwc0pBc1NYc2VyaVVrb2tEb0VEUW9Ka0dhRjM1WER1?oc=5",
    "tags": [
     "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Gold Futures Streaming Chart",
-   "source": "Investing.com",
-   "time": "2026-10-17T03:17:21Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aeTFoLWFsUHNUX24yTVZlQm03eU5lbWJIM3VwX3hnY0JkZW9mWXB2Z2ROaEkyazZrSEI5UGlDM2p3MEE2R2pDeEYtM0liVkNRN1ZJdHZ5SWs0R3BhNnpsX1A2TlpybEdRbUE?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "EU ramps up warning to banks against involvement in E1 settlement project",
-   "source": "Haaretz",
-   "time": "2026-10-17T03:15:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQR2hQUHBZZ1c4N2N0dzF2SHhURFdOV0tBUWlURHZGcF9ZbkxUS1hFWS1NQ1lqb0kyNnROMm45T1lQSEFKd2V4U3dHa3lIWUVENzdfZXhQVV9zMW5WNkNWWW51b3hTQUtnTjAzSkFXcndLR0xRYTlmeTF3VW1ldGtKUHJCTjlKd3RlRU5IS05CWTlZQnFXR2ZkMWNRMkt3UnlTd2EyWDRxcnRxN2MwZTA2UG9NQ2NBZzV0a2tzUW9VeXpaSXdPS0NCWlhYbC1RemhWVDl3ZmRValJsZ3RiRWp5QVp6MmdWVnRia1BoTl9mYVY2bTUtREVPVG9yM3V6SGh3cmJPVGZMMUtPUzEx?oc=5",
-   "tags": [
     "SANCTIONS"
    ]
   }
