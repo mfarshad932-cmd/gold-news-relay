@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T09:14:45Z",
+ "generatedAt": "2026-10-17T09:43:04Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -96,12 +96,12 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 28,
+   "items": 27,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 30,
+   "items": 31,
    "kept": 12
   },
   "gn_yields": {
@@ -125,6 +125,56 @@
   }
  },
  "items": [
+  {
+   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+   "source": "BBC",
+   "time": "2026-10-17T09:42:13Z",
+   "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "IMF urges support for poorer nations facing high inflation, war spillovers",
+   "source": "Al Jazeera",
+   "time": "2026-10-17T09:31:47Z",
+   "link": "https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss",
+   "tags": [
+    "INFLATION",
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump Waives Russia Energy Tariffs, Sanctions in Graham Law",
+   "source": "Bloomberg.com",
+   "time": "2026-10-17T09:28:13Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjdOTlgtZzZTczBVX3kxZFZGdUhKTFU5blRvREhYVGp6WTRhMEVUdHN0dkg4eHMzOXI1QXFZRVZROVVDejVJT2M0SjRNS3dHTW5ZTHNvaE9zdTlLb1JuTGlQSGx6eGVfTFE2cXBuTE9jbnE1Snd5Y0V2U0FlWkNLanVnWjEybUJpa0tmM2l0OGRyWHFIWW5nNXFGVkF1aDltZnYwR1BFY0RoWHdUR2c?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "TARIFF",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Dow Jones Forecast: 55,000 Target Faces Trump Tariffs and Fed Risks",
+   "source": "FXEmpire",
+   "time": "2026-10-17T09:25:42Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmlzMFlSakFLWkpCVU9WY0xPSlFteGNQbndGSW5oUVNucFhQelJuZDBLMG9LTjVyZXRqUDRSUENmb2d1STJodV9hSTI3LVd3MkUweGFJYmVVeGgxM0RZZEp5ZmNBb3RycEU1Mml2dlFNRDI1LWo1YmpuS3R6Sm9MeUJZSDVGdm5lSG5TSXFXZmlNSzBMNFdBTFdiUFlXNUtYMkw5WHZfbnZRR3pLekFZb0RhUl9BYjA?oc=5",
+   "tags": [
+    "FED",
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Iran-backed Houthis strike Yemen’s Aden: What that means",
+   "source": "Al Jazeera",
+   "time": "2026-10-17T09:16:48Z",
+   "link": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Trump signs Executive Order waiving sanctions against Russia",
    "source": "The Washington Post",
@@ -185,10 +235,29 @@
    ]
   },
   {
+   "title": "President Donald Trump Claims Gasoline Prices Will \"Drop Like a Rock\" When the Iran War Ends, but He's Completely Missed the Bigger Picture",
+   "source": "Yahoo Finance",
+   "time": "2026-10-17T08:26:01Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWERVZ2lPOVhVT0ZpNjNDdWdnY0theW0tZVBUS09WRUMycW9kRm9uRWtpNkRlNGR6N3pyV0RBOWFwZjFHZHpMUS16M3d0b2dMVFo0TngteHRvQVRYSEc2MEpRc0toSkFDSTV6UzRvODZ4aFJYT2luTWFub19WY3dnYURUYmZvdEFxOUxmaHVtUDk0MU45X0Z1a1R6X2VCaV9sYmF0UUln?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Trump pauses new Russia sanctions passed by Congress amid deepening row with Ukraine",
    "source": "The Guardian",
    "time": "2026-10-17T08:04:00Z",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2luakxEaEVyTXo5MTktaTdoVzd4Zk1EX1NoYk8zZGE4bDNoYVpBS3FZeXJnMU1jazRhVkVfT2hSZ3pPY1JmSlotWVY3LWFjcDdGeDV2eU12bHhMM2E3QWI1aVczdmxiYjhBNlhGU1RCeE9hakdKN3hmTlZvTEgwSmxQam1lNVdJOUVFemlueXNwcFVUS3hYckNfb0UwbVJrZ0ticnctYmlueFR0MHRBR0cwZ1ZJc3VlNVFNcGw5SndCczR4VVhrNndabWptMGcwMF9aVQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Trump Signs Order Exempting Russia From Sanctions Law",
+   "source": "The New York Times",
+   "time": "2026-10-17T07:57:36Z",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbjBtZHJzaWs1Q0M1VEQ3LVg3VTRvdkdwTFNKY2xwbG82X0ZYZGR1X3ZYZk1uOGRqWFdhcl90YUNTVlQ5dWNjV0Y1bmpYcWo4TENqdnhTMy1VQVV6MEtpM2ZlQXRuN2o3TS11UUNrR0F3Vnp4T0NqNHBiTndVY1ZGMU1sT2Nka2c?oc=5",
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
@@ -201,16 +270,6 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPelZtRmh6MFhuM0xVNWp3Ykx5QVI4Rk1fLU56a2dTNEM2QksxYkxIUG00SHU0aWgxZk04ZUhWUjN0ZEpZZXNOUHJ5aUQ4bElHVWJQWHAxZ3o3VzlUR05JTXdyeWtFTXBVdkxONXR1VUpJZi1jcmxZVnFWNV9VcmozekFzTUI3eThmTFItREt1X1drWDNTTks5c1RLcFYtUXFZWmRPX3NMdjlFX1k0TFlBUFpFaXYtTEU1NV9jN09vQ2JwZmROclo0Rg?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-   "source": "BBC",
-   "time": "2026-10-17T07:41:01Z",
-   "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
    ]
   },
   {
@@ -233,33 +292,12 @@
    ]
   },
   {
-   "title": "Trump Signs Order Exempting Russia From Sanctions Law",
-   "source": "The New York Times",
-   "time": "2026-10-17T07:10:00Z",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbjBtZHJzaWs1Q0M1VEQ3LVg3VTRvdkdwTFNKY2xwbG82X0ZYZGR1X3ZYZk1uOGRqWFdhcl90YUNTVlQ5dWNjV0Y1bmpYcWo4TENqdnhTMy1VQVV6MEtpM2ZlQXRuN2o3TS11UUNrR0F3Vnp4T0NqNHBiTndVY1ZGMU1sT2Nka2c?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
    "title": "‘I cannot carry all of this alone’: the couples kept apart by the war in Gaza",
    "source": "The Guardian",
    "time": "2026-10-17T07:00:00Z",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcl9LWkh3aTJHa3I3dzJOVEY1VkZDLUlRNkI0LWdzUlJTa1VDbkxSWUtLMU9zd2t1TzFMZGpCTlVzYzEwTF82QkpkNnVucUlYVEQ4d0xLeENRdGs5R29qbG5HTVlxV3AtcHRGSTZDX1VGeDEyQmRXSlg3dG43SllSdEpUNGQ1TzNJaW5Ieg?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump Waives Russia Energy Tariffs, Sanctions in Graham Law",
-   "source": "Bloomberg.com",
-   "time": "2026-10-17T06:58:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjdOTlgtZzZTczBVX3kxZFZGdUhKTFU5blRvREhYVGp6WTRhMEVUdHN0dkg4eHMzOXI1QXFZRVZROVVDejVJT2M0SjRNS3dHTW5ZTHNvaE9zdTlLb1JuTGlQSGx6eGVfTFE2cXBuTE9jbnE1Snd5Y0V2U0FlWkNLanVnWjEybUJpa0tmM2l0OGRyWHFIWW5nNXFGVkF1aDltZnYwR1BFY0RoWHdUR2c?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "TARIFF",
-    "SANCTIONS"
    ]
   },
   {
@@ -662,42 +700,6 @@
     "GEOPOLITICS",
     "TARIFF",
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Wall Street undecided on gold’s near-term trajectory, Main Street flirts with bearish bias after gold hits $4,200/oz ceiling",
-   "source": "Kitco",
-   "time": "2026-10-17T01:17:00Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd2tIcnNsS1pwejhtOGZtMjJnWHdxeVpxVk1KUFBBMVZ0YUtPd3pPNnNYWHFUNTZ4U1VXQ29fQVp5MUliaEZoeEJtaDlhR1I3U1phcUhxaFI2bWxPcmZFVmdvenRVZXhUbjJHQmpFV3d3dW5kbGtETjJxOUMxdmtxbmdPNW9ZejJjbnByM3RIU0UtY2puVE1ZS1ZFcWRRVDJWNTFZdWVQZXNyLXNUbnctNUJwMzZJdkt5ZG5HcWl3?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Trump's Canada feud collides with Alberta's separatist vote",
-   "source": "Axios",
-   "time": "2026-10-17T01:15:08Z",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaEVTbjh4MzVIeW1jSE9ickRhMWtvWWJESXhhWGpzZ3Fsd0tWSUZUNlR3X3BjRDlzVUxPX0Nqc2oxV1BhMDRMeWZXbGJUYklUZEd1dVFnMEhGTG05Wnd3QXdPbUpGeTJMSXFzQ2RrazNhXzNMWjc2cmI1VWZBYThGVHFXN1NLc0hOZHBhWXJydU0?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-17T01:08:43Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "GoPro said tariffs wouldn't raise prices, then HERO13 Black jumped $30 and buyers got no refund",
-   "source": "Yahoo Finance",
-   "time": "2026-10-17T00:59:00Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWHB5T0Z1M3BESnczbHFyb1VHZGh1MV9TRWk4RGdwSVlxZUwwV1RMbXpzT3hYNUVfV0ZzVk9Xb1kza25sUGhqQkt4bW05U0luYVJxeHlGVnRzNG4yTUtEWWpqTFlPMnhOZnM5bjZJbjE3NnBmZmRJTDB3Y3cwdnFXdEpicmMzcW1YNU5IbWQ4MjdPYlF5NF9TZDNuU3BqUQ?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
