@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T17:16:08Z",
+ "generatedAt": "2026-10-17T17:44:29Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -67,12 +67,12 @@
   "bbc_world": {
    "http": 200,
    "items": 23,
-   "kept": 6
+   "kept": 5
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 3
   },
   "whitehouse": {
    "http": 200,
@@ -81,17 +81,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 13,
-   "kept": 12
-  },
-  "gn_fed": {
-   "http": 200,
    "items": 9,
    "kept": 9
   },
+  "gn_fed": {
+   "http": 200,
+   "items": 8,
+   "kept": 8
+  },
   "gn_tariff": {
    "http": 200,
-   "items": 19,
+   "items": 18,
    "kept": 12
   },
   "gn_war": {
@@ -101,18 +101,18 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 32,
+   "items": 35,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 12,
+   "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 0,
-   "kept": 0
+   "items": 1,
+   "kept": 1
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,9 +126,48 @@
  },
  "items": [
   {
+   "title": "Zelenskyy urges support for new US sanctions on Russia put on hold by Trump",
+   "source": "AP News",
+   "time": "2026-10-17T17:33:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGNSbDZNbm5wY2VNaTRTRDZiMHFqMW9rbnpvNk1tU0JBdjlTQng0YXhGQTN4bWtRaUNPUUdxY0dHVEhOajRFem5jUFdSVm5QYnkyU1QtcGZuM3BBQnBqTnFYdlBrTHYyampsUEtDMDB5RUdIYVpJZVY5eHBlank0T1BhLW1OSWo5bnNNVUdCR0FJQjRRLVEtNVFqeHlZQjc2Mm1n?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
+   "source": "Al Jazeera",
+   "time": "2026-10-17T17:24:07Z",
+   "link": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Republicans Turn on Trump Over Russia Sanctions Waiver",
+   "source": "Newsweek",
+   "time": "2026-10-17T17:08:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOanpoQ1dnZkNheTE2SVdZZms3WkJBU3RiNXh4a192Vk92bmtUcFZZOFIzVDFqM0E2Q0NpOEFEVVhwMG5rbXowOVNENkw2WEtaUXJpQXRwdW4zc1Rac2pwOWtIYWY2a2I4YlRQcTR6ZjZQX2xTRU5SVnBLM25GdHpvLWVXZjdseVA4a3gzZEdGUmppZw?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Why are Latin American countries building closer ties with Israel?",
+   "source": "Al Jazeera",
+   "time": "2026-10-17T16:54:44Z",
+   "link": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Trio of Republicans bashes Trump’s sanctions pullback",
    "source": "Politico",
-   "time": "2026-10-17T16:20:00Z",
+   "time": "2026-10-17T16:52:00Z",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVmMtQ055cHV6NjVpNG0wOEhBQWtuZjlqUk85TTJJM0hQUUpXNjVjSFVqQU53Q2ZqdlNhMk1DNGU2RVpHVmFyaDFkb1o0bk5RSXduaFoyZVg2U3U5N19VZENQQnVmY3JHamMweGdaemRwbDljTnN5M2h5cFFMREdqT0dtdm9WaW5JV0lDXzV1MnJyV3VldGdjV0h3?oc=5",
    "tags": [
     "SANCTIONS"
@@ -172,6 +211,24 @@
    ]
   },
   {
+   "title": "PAX Gold Price Prediction: Asia Takes 48.5% of New Gold ETF Buying, While Analysts Eye 100x for Pepeto",
+   "source": "openPR.com",
+   "time": "2026-10-17T16:08:23Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYjY1dTMyeGRVYk1fU19qRGN6WDZXZEVyNUdzLVF1Ym5kbmxrUksybkdrSHR2Q3poV0pxVk9zQlNFRGtDNW9CQ050Rzg2Nm9UTnpSLWwxWmdoZ1dkczhKeDJ5Q2JJVDVLcjljUXlaa1VTUGNFU0Q1dldpQVJqa1V6RVZRcW53a2Y1dGJsSHIyNEpWRnFuamtQQQ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Schumer: ‘Trump just gave Putin the best birthday gift he’ll get this year’",
+   "source": "The Hill",
+   "time": "2026-10-17T16:06:28Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vTmFpNWxMZk1rSEo2OXZ2OGxtUmJDSFJSdGp0NGRwWmpqU1JxLXk2Q2FadDFkT05uTlhRTExBM0pOb3pSdkNkT2Zya1JhSHdmUjhHeFVXbU9OUV93UDRNS0lCTnhYbnprUGRpNlFfc1M5VUwxZ0g0d3lud3ZuaDjSAX9BVV95cUxPb05haTVsTGZNa0hKNjl2djhsbVJiQ0hSUnRqdDRkcFpqalNScS15NkNhWnQxZE9Obk5YUUxMQTNKTm96UnZDZE9mcmtSYUh3ZlI4R3hVV21PTlFfd1A0TUtJQk54WG56a1BkaTZRX3NTOVVMMWdINHd5bnd2bmg4?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "Trump signs executive order waiving sanctions against Russia",
    "source": "The Washington Post",
    "time": "2026-10-17T15:56:18Z",
@@ -182,12 +239,11 @@
    ]
   },
   {
-   "title": "Zelensky Links Huge Russia Energy Attack to Trump Sanctions Waiver",
+   "title": "Zelensky links huge Russian energy attack to Trump sanctions waiver",
    "source": "Newsweek",
    "time": "2026-10-17T15:48:00Z",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRERtcG1scnhrMjFTOE5zU3JnR0FfN2JDc25SdTE3UHQ1SHBEUXFUeXVBQTF2VVl2UjVIUmQwMF84Y1czUGRIX0hRZUxKeV83SHhvcU84VlRSYThieFpmOE9nSmxpZzktRXZ4SjFoMmRXcWZkbk14b3liNmVOMTNXSjRoRUxlczNCNmx5cThCUQ?oc=5",
    "tags": [
-    "GEOPOLITICS",
     "SANCTIONS"
    ]
   },
@@ -219,16 +275,6 @@
    ]
   },
   {
-   "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-   "source": "AP News",
-   "time": "2026-10-17T15:13:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGNSbDZNbm5wY2VNaTRTRDZiMHFqMW9rbnpvNk1tU0JBdjlTQng0YXhGQTN4bWtRaUNPUUdxY0dHVEhOajRFem5jUFdSVm5QYnkyU1QtcGZuM3BBQnBqTnFYdlBrTHYyampsUEtDMDB5RUdIYVpJZVY5eHBlank0T1BhLW1OSWo5bnNNVUdCR0FJQjRRLVEtNVFqeHlZQjc2Mm1n?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
    "title": "Trump’s decision to waive Russian sanctions outrages Congress, but no quick counter seen",
    "source": "AP News",
    "time": "2026-10-17T15:09:00Z",
@@ -257,12 +303,31 @@
    ]
   },
   {
+   "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+   "source": "NPR",
+   "time": "2026-10-17T14:25:10Z",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50MGlLYl9jeVFRcDdiaWJaSWtUdkpoUHJaczN0bldDUDY3ZW52TEh2QmZZOHU1X1JmVVNNMm9YbjdlaDNGUDFxYjAxdGlsYWxuRllHanZGMXhUWmtCUy1oZjcybFNhRnlJdnRJT0dVaXJ2UQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "3 Shipping Stocks With War Risk Exposure Retail Investors Should Watch",
    "source": "Yahoo Finance",
    "time": "2026-10-17T14:12:24Z",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZUJSMkVNazg5a05COG13alNlR1BrancxUzlVVFRMNlRsSlJxR0JVNnhzcng4bnU1WGxFa3BENVZEaS01ZlNTZEZUdGpRUUNrbmFRQkV1bmtsY2lJUVhhTHVnb3ljRm54aVlocW9ldDBwU2FhVTZPTWNIcXFDS3NrcVBqcWpxQ1FicFhZNk9zMHZieWNTRlE?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Zelensky says Russian sanctions Trump waived ‘could have helped enormously’",
+   "source": "The Hill",
+   "time": "2026-10-17T14:08:00Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTGZMYm5YTzJVQzVnXzE2S1l6M1ZwTTVrMG5iejd6RmFKQzN5R0tIMFJPSk9ZT0ozYlBsaUQyNXhaTkZoRHBROHlfUThqeVlOTUMzOEFaUHhYSXpDc25Ib0VxMWdPSFA3enhwaDFPSzFtMXlzbFc2QW9rNGlSZHpRRGZlYUIzMXEwZUxibkd4M28zVnc1SmQyR3NmZGVhQdIBowFBVV95cUxOTm1fWDZmWXJCdWVVSFUtajNJeUhzZEZOSkZ5ZDFMNXR4Wm9LSzNVcHlydFdHaXpCWnNJLW5qQ1dUaG5tUmdPR0V3bFlqRzNYeWNYd2c1R1F6WXBBNTRMSGdSODhCaWExVXpyRWhlOFNsdjJSWTA3T2FRTWFIMWFXdjZ0WmxoWEVDMUZLaTQ4WHhKSzBJTmJXNGxudzRQNnFMenhz?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -598,6 +663,16 @@
    ]
   },
   {
+   "title": "Here’s Why Treasury Yields Have Defied Hotter-Than-Expected Inflation",
+   "source": "WSJ",
+   "time": "2026-10-17T09:22:44Z",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWmM5WWl3bHBqcVJ0WG11bnNBaEZuNFlaWVVEV2dEYXRpVkFkQXJPcTd4bjFJY2NiR2lfV0N3Z2hzdmludTNLeW93b2pHSGlFZmppNzdPbFZuYWsyYTBSYl9ETnFSTm9GSE5EM281cVhFQ2F1WDY1TVFTUXpsV2RuY3FhRnMzWTNJbnc1SGFPb3I3UlljMUpMRk51Rkh5WW9lWHVSMU9LVmdacl9fdENEcWJPS1B4eGRZUmt0aWZJV01Ia2tIZzVZVWR3aw?oc=5",
+   "tags": [
+    "YIELDS",
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Gold steady near $4,170 as easing Fed rate-hike bets counter high oil prices and yields",
    "source": "CNBC TV18",
    "time": "2026-10-17T09:22:27Z",
@@ -606,15 +681,6 @@
     "FED",
     "OIL",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Iran-backed Houthis strike Yemen’s Aden: What that means",
-   "source": "Al Jazeera",
-   "time": "2026-10-17T09:16:48Z",
-   "link": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -637,70 +703,6 @@
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Pentagon lowers count of Iran war dead and wounded, sparking questions and outrage",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-17T08:40:12Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1BwUjctMk8yVXY0LVVRRjB3eW1ENUVYYjFzWkNyMWVIOWpNVzBEeTNaQzU5M2pDWEE1ZXRJb2g2WGk2a1ZMT0hEbnhtV3lZRmsxTzhaSFFTckxTWmM2ZUVZWmVkaWVkbDZVak9vSGl6b3dMNk5UdnBjOHZZM1phbEZwbS1MTHhxVEItb2gyZ2FDYVpfaTJBSzZ30gGfAUFVX3lxTE1fLUdKUGQ3NTBmZzZnSkduVmJkc3V0d3FtX2ZnWkhzaVZQUHp5LXlTT0tackNubUt4ZFFDUlA3NGlNVGFoQ3ZJeWltR3lCX3VHVXlibl9zVThCQ3BaSUllamM2NmdUeGN6UzdKWE8zZ2NuLXlJMUdWUUNfcHhmWC1ZV2pmdko2cHFDRjd4ZUFYdWxUaU1BN0IzOVBXZjhiOA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran giving Yemen's Houthis target intelligence for drone, missile strikes on Saudi Arabia - report",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-17T08:33:03Z",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkOXRSMkpFckJZaFBzb3I1djN5Q3pQaV9pTVFvYTF5UmR4S2tWVUdnOWpPb0s4SXppV3pzNzNhRkxUOHpoSnEwODNITDVkMzRtUFVua3B5U3U3emRk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Golconda Gold: Market Forecasts And Productivity Ramp Up Provide A Dual Tailwind (OTCMKTS:GGGOF)",
-   "source": "Seeking Alpha",
-   "time": "2026-10-17T08:31:12Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZTNRdGhnOWZyQXpXVjVSdDBFbVpKdEpWVWYwZTJyWjE2dEZZR2lzc29sdjhmZGNabFR2aXE2eVMxeUN0cWg2RXlpVFR3dkZOLXhpX2lHUkVZS2cwbGxFei13Vlg0Q3IwMDFQSXExOXhjSWpsSnlXTml4LTRLSjhHVDU4eWZEcnJJTEppM2F0aTlvY0FiMXBDN0VpWXJKM3owZDB6N0tQQmxNVWpWakNKM0FsUlVRWElIRUM4SA?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "President Donald Trump Claims Gasoline Prices Will \"Drop Like a Rock\" When the Iran War Ends, but He's Completely Missed the Bigger Picture",
-   "source": "Yahoo Finance",
-   "time": "2026-10-17T08:26:01Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWERVZ2lPOVhVT0ZpNjNDdWdnY0theW0tZVBUS09WRUMycW9kRm9uRWtpNkRlNGR6N3pyV0RBOWFwZjFHZHpMUS16M3d0b2dMVFo0TngteHRvQVRYSEc2MEpRc0toSkFDSTV6UzRvODZ4aFJYT2luTWFub19WY3dnYURUYmZvdEFxOUxmaHVtUDk0MU45X0Z1a1R6X2VCaV9sYmF0UUln?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump pauses new Russia sanctions passed by Congress amid deepening row with Ukraine",
-   "source": "The Guardian",
-   "time": "2026-10-17T08:04:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2luakxEaEVyTXo5MTktaTdoVzd4Zk1EX1NoYk8zZGE4bDNoYVpBS3FZeXJnMU1jazRhVkVfT2hSZ3pPY1JmSlotWVY3LWFjcDdGeDV2eU12bHhMM2E3QWI1aVczdmxiYjhBNlhGU1RCeE9hakdKN3hmTlZvTEgwSmxQam1lNVdJOUVFemlueXNwcFVUS3hYckNfb0UwbVJrZ0ticnctYmlueFR0MHRBR0cwZ1ZJc3VlNVFNcGw5SndCczR4VVhrNndabWptMGcwMF9aVQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Philippines declares national energy emergency as Asia risks energy crisis amid Iran war",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-17T08:03:24Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeE1ldVFZSXdBWWRGcDlTNDdpaEE0aFNicTNidEJrLWlycTQ4NDlqdzFhdXk2cl9XWXRxdExqWFhtcDgzNzdNMTljVmVCQ28zQjhIM1hzUXd5TllON2dEaGZYTm8xSUNtT0xQUm5fOVQzX19RT1E5b3FYVmpXejZWYkFnenVmMllSOVAxNk8xMFRSUXgwblJ6TFdkUXgxbzU3ZFQ2cnNxXzVZeVVhY1VkUzdB0gG3AUFVX3lxTE5mSTJ3M2xnS2g1Nm80TzZ4WGtla3RQSWkzdjRXRXNacWtJQUZvSTdRbXltSy15ZW51cGhzTnBVRXZ0X0JMT1h3Y0ZBOWZrNlZHWGszR3RmVGxRTGFNaUdIMzJpSWRYM3pFY1U3aEtlYnlubVJtZTFyWDRHdExfYnlySWFibktCN2ZPTjROSjgtVnB0Ymk2UkxIdHJkTEVuQWxEM0NMMzBKXzI3dmE4ZENUdllMakRXSQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran war votes in Congress become a focal point for campaign ad attacks",
-   "source": "The Washington Post",
-   "time": "2026-10-17T07:56:51Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPelZtRmh6MFhuM0xVNWp3Ykx5QVI4Rk1fLU56a2dTNEM2QksxYkxIUG00SHU0aWgxZk04ZUhWUjN0ZEpZZXNOUHJ5aUQ4bElHVWJQWHAxZ3o3VzlUR05JTXdyeWtFTXBVdkxONXR1VUpJZi1jcmxZVnFWNV9VcmozekFzTUI3eThmTFItREt1X1drWDNTTks5c1RLcFYtUXFZWmRPX3NMdjlFX1k0TFlBUFpFaXYtTEU1NV9jN09vQ2JwZmROclo0Rg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
