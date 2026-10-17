@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T18:41:10Z",
+ "generatedAt": "2026-10-17T19:09:16Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 0
   },
   "cnbc": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 3
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -91,28 +91,28 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 17,
+   "items": 14,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 28,
+   "items": 29,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 35,
+   "items": 34,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 10,
+   "kept": 10
   },
   "gn_oil": {
    "http": 200,
-   "items": 0,
-   "kept": 0
+   "items": 1,
+   "kept": 1
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,10 +126,28 @@
  },
  "items": [
   {
+   "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
+   "source": "Al Jazeera",
+   "time": "2026-10-17T19:03:49Z",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Is the US Embassy in Jerusalem for Israel or America?",
+   "source": "Al Jazeera",
+   "time": "2026-10-17T18:41:30Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
    "source": "Al Jazeera",
-   "time": "2026-10-17T18:26:59Z",
-   "link": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
+   "time": "2026-10-17T18:30:16Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFFTd0tBVFB3WGFRWGtIWEFRVXpiMC1oZFFwRmVNZ2d5WU5kM09seFBWNUp5SFRIa2R6NC1aWF9XODk4QlFTZDZNcnVwbFVNRmN4V2VzbTdxWE9sckVxMWpwVXpzUjFycGpfcE1NWktmZmZyR01oUUFGdUdwTGliZmFicENPcVJBR0RMeTNFdUdpd0w3YVVxbUxSSlVvZ3ZibmtKYXBsd2FxOWhjeXJCVjZRb011UdIBuwFBVV95cUxQYnVxTE1iNGhaNXdsdjFiWEVsaElON1FIVFNONS1CbTVQMjl2ZjJfakp3UDN2MXB6UzQ0WHRJd05ja05GRzJ4SEFOWjhTdjhLVTE1bEdjSTV2b01EZHVLRE93ZFBQTmxsU0ZZemxUV3lpMHB1dVdTMVBYckRZek1hWlRQU1FtTTg0ZUNjeTRnTG1zeGttZXpIcHdYOVBiSkJqcDhnaVlSY1hPS0xSYlVuZS1ZSllGSGJka3dv?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -577,7 +595,7 @@
    "title": "Fed interest-rate decision this month is a closer call than markets think",
    "source": "MarketWatch",
    "time": "2026-10-17T11:00:00Z",
-   "link": "https://www.marketwatch.com/story/fed-interest-rate-decision-this-month-is-a-closer-call-than-markets-think-f96ccf95?mod=mw_rss_topstories",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWG1TSFJvUk1SVTFSN1pNX0NvU2ZjSlNrb0E3aHRzNTlRZkJ3Z2FCZUd3aW56bXJEbERUc3ktcXloS3RXQWtoNTlvMDdHTW5wY0REcy1TMUl5clExUnRKeFBVWG0xM2pqbmNLdkNmcENYWUZocU1zNXE4eTI2VlhrZjVwUHlnaGUwZVZZMGsyTmJXd18wUU5laXVrVmpELWFheWZ3dHliSGk4RDh3SVJDNmhJc2ZIMVE?oc=5",
    "tags": [
     "FOMC",
     "FED"
@@ -609,15 +627,6 @@
    "source": "CNBC",
    "time": "2026-10-17T10:28:10Z",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0lveUk0QXFlSkpWSTdOSmJOZzFBbUJXRXE5Zk5NUmg0bWVzNzZJRmYySWppMFJYOE0yOVlVUEhMZ0laVlJmb1FXMVFVREgzZnplN0tQS1lwem05TjltRVhhSXBadlBJNkN4RlFtU2VsNldVcFdxcU9UMEttWGJEakVQZEY1TWVvQnVXWWUtQmRkQklJSHdGU3FvWTBFc3pRMTZZWlJoWnM0c09sZWJXMVZYdFVMWFVFbWfSAboBQVVfeXFMTldJb3lJNEFxZUpKVkk3TkpiTmcxQW1CV0VxOWZOTVJoNG1lczc2SUZmMklqaTBSWDhNMjlZVVBITGdJWlZSZm9RVzFRVURIM2Z6ZTdLUEtZcHptOU45bUVYYUlwWnZQSTZDeEZRbVNlbDZXVXBXcXFPVDBLbVhiRGpFUGRGNU1lb0J1V1llLUJkZEJJSUh3RlNxb1kwRXN6UTE2WVpSaFpzNHNPbGViVzFWWHRVTFhVRW1n?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
-   "source": "Al Jazeera",
-   "time": "2026-10-17T10:25:19Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMTdYZ3dCWFIzdnNuaWVTbjZ4ZkVxMlVldkh3Z3FkeTYxUTY4U2JMZ2VLelFxb0RmZ0hMZ2JQNWYydTBXdXZyWTMwb2c4UGFPR3ZCZEtvRmhRYVdrU0ZkbVN0OFNRdTE4dEViRFpSajM1Nm5wRlpPQzhyb3pfR09ZOVJMWHJ6cHJqcGZaQzlfWHpjLWctdjg2TUdRMG0zVHlheEdadTZFRTBZal8zOGFvZURtZ9IBswFBVV95cUxPMTdYZ3dCWFIzdnNuaWVTbjZ4ZkVxMlVldkh3Z3FkeTYxUTY4U2JMZ2VLelFxb0RmZ0hMZ2JQNWYydTBXdXZyWTMwb2c4UGFPR3ZCZEtvRmhRYVdrU0ZkbVN0OFNRdTE4dEViRFpSajM1Nm5wRlpPQzhyb3pfR09ZOVJMWHJ6cHJqcGZaQzlfWHpjLWctdjg2TUdRMG0zVHlheEdadTZFRTBZal8zOGFvZURtZw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -657,15 +666,6 @@
    "source": "The Washington Post",
    "time": "2026-10-17T09:48:55Z",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRERIQWNuajlwQnV0SGRwU0N4aDZpWjhhQklPaVJGSVQ2bzZBSTlLMW9TdVM3TU5PYUMzdU5VNzFpNG5aRy1wMDlHSHdtRkdiWkZYVDhQalNTXzJIb3BiNFEwMGpjUDZNSEhYNm1vN0VFeE5FZWhja041UFRxczI2ZU0wUkEwQmtrUlBKX0t6ZVBPbGpMMG12S3RIcjdRX1JGUWN6bGVEUHBQQzNUZlllVlVpV2hYb25kaE5FS3FULXZBTkdWMlJDZXl2ZEZXWFNNTHRDRnd3RXlzbF9LSWZIVVVQMVNyZ1dlcHdGQjR3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "As Israel blocks PA funding, the West Bank’s healthcare system is failing",
-   "source": "Al Jazeera",
-   "time": "2026-10-17T09:47:55Z",
-   "link": "https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
    ]
