@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-18T22:03:14Z",
+ "generatedAt": "2026-10-18T22:31:33Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 1
+   "kept": 2
   },
   "investing_commodities": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -66,8 +66,8 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 29,
-   "kept": 3
+   "items": 28,
+   "kept": 4
   },
   "aljazeera": {
    "http": 200,
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 37,
+   "items": 36,
    "kept": 12
   },
   "gn_sanctions": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 2,
+   "kept": 2
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,45 @@
   }
  },
  "items": [
+  {
+   "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
+   "source": "Yahoo Finance",
+   "time": "2026-10-18T22:22:56Z",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTNFNmRXMmo4Zi1Md1o4NFJzb3d6X1JpcUgtVEo4N3F2QW9Nd25UTkhKYzljbExueGZ5Qkp2aWtUVUV1bGF4dWR5MGZDZHdWN3pyd250SnFtLUpjbHdBSXIyVGNlMFE2TzFlOVlWMkxiMnE2eHJ2eC1HbjV5cjRLdV9tQmcyMHVTVjJaY1ZkTXBNRWM?oc=5",
+   "tags": [
+    "SANCTIONS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East",
+   "source": "CNBC",
+   "time": "2026-10-18T22:22:20Z",
+   "link": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+   "source": "BBC",
+   "time": "2026-10-18T22:10:45Z",
+   "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Economic and event calendar in Asia - China data the focus",
+   "source": "ForexLive",
+   "time": "2026-10-18T21:46:33Z",
+   "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-china-data-the-focus/",
+   "tags": [
+    "CHINA"
+   ]
+  },
   {
    "title": "Egypt says ready to back Saudi Arabia in war against Iran-allied Houthis",
    "source": "The Jerusalem Post",
@@ -298,6 +337,16 @@
    "source": "The Hill",
    "time": "2026-10-18T18:58:55Z",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSEg0SVY0RTI4M2lNZTZ0TmNjVE9jMlNNQ3NXLV9taXpjZDVxQjdISzM5MEtac0tFWEZ5MjBLb0NiSllUdFBlRTlwWmRDYUktXy1KbDVNR1gtc1ZzTHFLVEZ1X3pfSi02Z0ZvWGJNdlVsZlBzTHNnLV9uOTBTRUVCbjB2d2FiWU1KU0dpY04tSmRwaXVBZ0HSAZYBQVVfeXFMUEhINElWNEUyODNpTWU2dE5jY1RPYzJTTUNzVy1fbWl6Y2Q1cUI3SEszOTBLWnNLRVhGeTIwS29DYkpZVHRQZUU5cFpkQ2FJLV8tSmw1TUdYLXNWc0xxS1RGdV96X0otNmdGb1hiTXZVbGZQc0xzZy1fbjkwU0VFQm4wdndhYllNSlNHaWNOLUpkcGl1QWdB?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Bessent: Dropping oil prices before 2026 ends ‘will depend’ on Iran conflict",
+   "source": "The Hill",
+   "time": "2026-10-18T18:58:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZXhScDl0djgxWExLSzlHQ1pCR3JWVHEtZDNTNlltU3BwYTVua045RTFSaW1hUnpEbE1yWlpzY191N0pGZU5LMHE0YjM2bHNMRTFiV3lfMFNUN1lINFF3dllxSWFQckpvMkt3T1JvdUVDdDEzN0VmUmw2OGJsSXc2azFfRFdLaThhNmxMeDdiSm3SAZYBQVVfeXFMUEhINElWNEUyODNpTWU2dE5jY1RPYzJTTUNzVy1fbWl6Y2Q1cUI3SEszOTBLWnNLRVhGeTIwS29DYkpZVHRQZUU5cFpkQ2FJLV8tSmw1TUdYLXNWc0xxS1RGdV96X0otNmdGb1hiTXZVbGZQc0xzZy1fbjkwU0VFQm4wdndhYllNSlNHaWNOLUpkcGl1QWdB?oc=5",
    "tags": [
     "GEOPOLITICS",
     "OIL"
@@ -629,51 +678,6 @@
    "source": "AP News",
    "time": "2026-10-18T14:43:00Z",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTVQOXY5eWJtZXExSXpLYk9CMWUycWRQTEREeEtlUUtlQkRTR3laVnZQTEFIVjN6S1BpbXVkU3N1Nm1Vb09POV8xVGRncFFBMlp6RUR6QVJTTXBwcnZ4M2kzcmVXYVJVM3FaWkZyVlRsNGs2aml5UWdBM0Nuc3oyblpMS1hrdnVjcFZnNkx4bjJTVGJ3OEM0S1piZnFtbHZ1VnlUdEZvMjVHcGtZaGNSVg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "'This Week' Transcript 10-18-26: Energy Secretary Chris Wright",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-18T14:21:11Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSU9iR0RvdmVGb3N5d2hfNEw0bDZrUWZjSVdYcHdZSnMyVDlhVTZRZG1mTllkd0tGb09LMWhzLWt6N2ZnemhKVm5LMlBoMkJ3R3hObS1BZERGV3ZzbjRMOVpHTUxPRzRmTHN4OHZteWcxRWJUT0VhMGFZeFRsRlQzTjdTb0pPV3VTa242SWxnSk0yZnBqWDFpTVdEd9IBoAFBVV95cUxOMUZWOWc4a3FkWHlJR0lCNHdNdTlSNU5tbUNra01RU1p3bW1acE44ZGd0b2R3MW8xenpaSEFBWTJLTjdJX2Z2eHRUaWUxdlBBd0FXUUlDTFhyZnhPU1BjWUlOd3ZJOWhCNXpBOGJuOTRVYXVGRGN4STNWQWlTelJqSFJoQmx0dG80NElZYUtHczhBcDR4aEpPSXJvbEN4YXZX?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Intensifying drone attacks on ships in Black Sea bring war ever closer to Nato shores",
-   "source": "The Guardian",
-   "time": "2026-10-18T14:21:00Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY1dUTUxGUjZOM0tsVmtncWRlV2ZaZTRBUDFSRE94Q2U4ZktGZ1FCVFpDMHZ2VlY2aTRsSDRWaHVrWk00SDR4YnFueFJaYVFKT1daa2Ixc3BuNElkM0ZINjN0LWxMN2lYZ0xPdGF3U3pjdXpMTVg5c1oxVFNCR01zcU5YUTVLbzZ3Ty1LM0NuU1VGa3pZcHV0aS1BLVpfUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Scott Bessent says ‘no one has been tougher on Russian sanctions’ than Trump: Full interview",
-   "source": "NBC News",
-   "time": "2026-10-18T14:05:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWmFFTXh3cHZJMmJTanlMT20yZzZOd29FMENoR1JoNkg2b0NDU0x4dmlqSzVtWTJkNVJoWmg2eDY5QlF4VHRpVzBSQ1VjR2JOdElTMW02ekpLRkd3bXBFcnIwWUo1UjZCa0ZHWTgxU2xmazVRMzRVaHVCaGxSU0NGb2M5bmNHOGhadXdFZWtJSFBjUmhmUWNfSFM1cVRpMWJZNXdnLVFjemxVTGo2NnlxdkU5cFgzbkpSNHNhcTRiNzRjTExLZXVENUlkaHItU2g4aElpdnFKdi02TTg0eThjYg?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
-   "source": "CNBC",
-   "time": "2026-10-18T13:52:24Z",
-   "link": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Sudan army accused of drone strike on livestock market",
-   "source": "Al Jazeera",
-   "time": "2026-10-18T13:50:39Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORE01MWktRHIxdWNRVDFBZVdSc1FTVC1sd2d3dXF6R2xEZGotdW5aNFQ0RzNpWkpIeVUwZXE4bEh0bVVHT3gzQjd5Umw4U2djd0h3YlJVdWhoa21VMnhfbnpQNHFHR1UxMFprN3VVblNQWS1hTFplUjJuVzhtWWlOd2JlYWhKNG1FODRuOExkVk94WlJrMzZhZmF1VmpHQzBlaHFHNnRRNnVpZ9IBrwFBVV95cUxOcllwcV9VM2x5QV9yMm1tZEcwVXg2akZpZWNiSktma0dvX1EzM3pnLWtrdEJnNmsyeHdLb0gxU1dSR2E3UGtld1VqN1AyTVFseVZsczdfUFdHekNkWXNHVFV3X1U5bmxCaTlMbFhiMUtBMG1YUS1wTjRVaTZKTFhuQURVZFpxT0lKNWV3T0N6LTEzd0s5UDdxLWVjb0dBZThESVN1S09zOGdEM09qajF3?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
