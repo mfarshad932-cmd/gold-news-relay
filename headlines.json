@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-10-18T20:10:06Z",
+ "generatedAt": "2026-10-18T20:38:13Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 0
   },
   "fed_monetary": {
    "http": 200,
@@ -58,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 4
   },
   "bbc_business": {
    "http": 200,
@@ -87,13 +86,13 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "gn_tariff": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "gn_war": {
    "http": 200,
@@ -117,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "fed_calendar": {
    "http": 200,
@@ -129,10 +128,19 @@
   {
    "title": "Macron calls for calm in France and warns rioting must not escalate",
    "source": "BBC",
-   "time": "2026-10-18T20:06:20Z",
+   "time": "2026-10-18T20:33:21Z",
    "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Traders Grow Wary of Copper Bull Market With No Sign of Tariffs",
+   "source": "Bloomberg.com",
+   "time": "2026-10-18T20:00:04Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWdtNGVsOU02TXFvOUNyRUs4NTZLbXFZY1N3RkVSbjRuendpOE5waWFyWjVVMnF5aWlwZ3NOZG81QW95WG9fUUkydmltWkctaWg1R204UU1nRU1teU1FR2diZHdJMy13Z3NXbVliRTJLc3dSWEVubDRwVjV4WXh1dG9lcjJPa0dhbVBkWklyMVJIT3JSZ2VUQlFORHIyeWg0d3NjMG1vODFESXZlMVBXMVZlalk?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -201,6 +209,16 @@
    ]
   },
   {
+   "title": "Bessent says dropping oil prices before 2026 ends ‘will depend’ on Iran conflict",
+   "source": "The Hill",
+   "time": "2026-10-18T18:58:55Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSEg0SVY0RTI4M2lNZTZ0TmNjVE9jMlNNQ3NXLV9taXpjZDVxQjdISzM5MEtac0tFWEZ5MjBLb0NiSllUdFBlRTlwWmRDYUktXy1KbDVNR1gtc1ZzTHFLVEZ1X3pfSi02Z0ZvWGJNdlVsZlBzTHNnLV9uOTBTRUVCbjB2d2FiWU1KU0dpY04tSmRwaXVBZ0HSAZYBQVVfeXFMUEhINElWNEUyODNpTWU2dE5jY1RPYzJTTUNzVy1fbWl6Y2Q1cUI3SEszOTBLWnNLRVhGeTIwS29DYkpZVHRQZUU5cFpkQ2FJLV8tSmw1TUdYLXNWc0xxS1RGdV96X0otNmdGb1hiTXZVbGZQc0xzZy1fbjkwU0VFQm4wdndhYllNSlNHaWNOLUpkcGl1QWdB?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
    "title": "UK Signals ‘Different View’ From Trump on Russia Sanctions",
    "source": "Bloomberg.com",
    "time": "2026-10-18T18:44:13Z",
@@ -238,6 +256,16 @@
    ]
   },
   {
+   "title": "Ukraine launches 1,000 drones at Russia, attacks set St. Petersburg oil facilities ablaze",
+   "source": "CBS News",
+   "time": "2026-10-18T18:29:59Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmpzT0JqMHd6elRCQmR4Z1JKWWpycEc4UXI0dXJfQkN0NGlvOENSdjl3REZ6SndFSVRaNUo0cV9hX2hKNEN1bXFwbkdmUTlsUlQzUDgwLTFQUVdJWnRHTm5IMjZPSGw5M0xRTGtvZDA5VFhLeHRLWnVZSGZ0d2dxVklrTU8?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
    "title": "Trump Endorses Netanyahu in Israel's Upcoming Election, Citing War in Iran",
    "source": "Haaretz",
    "time": "2026-10-18T17:53:00Z",
@@ -263,6 +291,13 @@
    "tags": [
     "GEOPOLITICS"
    ]
+  },
+  {
+   "title": "Bitcoin’s Next Move Could Shake Stocks And Metals, Bloomberg Strategist Warns As Fidelity Sees Bull Run",
+   "source": "TradingView",
+   "time": "2026-10-18T17:37:19Z",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSHpZYmlnRHVTdWtWWDFpOWU5Nnl6V24yXzY5clIzWDViSjQ1MXc2R1hmTTQ4SUZFcW0zLUNsUlNfZHE4Y3N1Z1JaOWEtWXA2QUEzYXVabnkxRTF4SUZ0M19aZGo4TEZVV1RUSTJ2eTdSM1ZHSWljVWh3Yk92M29zbXNTOWg2WW90T0V3TkhtLWJEVmJkZUJvZnhVM3F5bldXOUZ3MlhNZWttMm1BLTNDSU9FeEg5ZzV2YUdLajlxOHFuN1JiTl94UEZLQy13T3VZZDVLU0ItMTA4ZWprcVBtUVI0Q3lFVnYyOENfZzZDTDNVSUdaZVE?oc=5",
+   "tags": []
   },
   {
    "title": "Fr Willie Doyle: Irish campaign to make 'WW1 hero priest' a saint",
@@ -308,6 +343,16 @@
    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOWUlqZVRLMXJMNDAwZ3JETjl0NHBZS0hDd2NWbEF4bnNvTUxMUF9PRTNKUlhPN1o5MDRMeE5YQmR2UjM2SUV0bG0xWWhEbE9tU0pSQUtBSk9MYmU1LXRPb2M2VU5tMjNUeDE4LWV5bzBQT3BrRDFESm5OVmVFMXk1RXNkTi1tNkFLWGIzRnZGeGIwTnZkZ2RLaThDTXYzZlVLNVZBOWlVUkJjTzR2aVNUREJ2bjJDN1ViSDBidmZHUXJrbnVSQTh1aGMtMjREcUdabm5DZzExenQtSGtDM18yUDdndnBOU25tTWRfX1BpWTBhdkZqeUlFdVhHYjU2NVBPLTk3Yk92UFpRRklk?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump Faces Widening GOP Backlash Over Russia Sanctions Waiver",
+   "source": "Bloomberg Government News",
+   "time": "2026-10-18T16:31:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdlFqTDZ6S01fYTRkQ1hOM0c4cUdJN3lNTWV0NUl3QXVCMFJnRWV4U2k0STh6VmlXZ280ZXZxX3p6UFVXNkJRdnFiWDFOXzc5eXhxSUVkd0dKVWZUNGtpMTh0dU43enJTM1ZiQnFfb3JPNk9HN3NmN2kzaWxTNHJ4U0xLOGhyUWZULXNZa3F2M2lZbFlERU1qVHV4T2RZNXVjYVdYS3JGbVdaRjRoTDZz?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -632,51 +677,6 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
-   ]
-  },
-  {
-   "title": "Bonei Zion Prize honors Olim rebuilding Israel after the war as North American Aliyah hits records",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-18T12:44:42Z",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12b0tkbV9Ya1ppNFpBQjQzNHhnb216YWxZV1hzQWVNSWpKdndERzlXWVd1UFNiTXZ0Y082R1prd1BYekZrY2lqOWRWbTJya0JKU2dWRDdn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran names new defense minister after predecessor killed during war with Israel",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-18T12:27:52Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95dzZPcDdJaGd2N3ZRWHNUYjNQbU84a29NRGZ4VEs4dEl5OWlQVTdNZlFNX3dHZVh0d2FNU0lWRW51RXVMZFFQckRMOVM1NGZYdVFrTF9Kd0N6T1JnSUhxMTlFdWh4ODR6aHc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The Iran War Has Cost $2,000 Per Household — So Far",
-   "source": "Forbes",
-   "time": "2026-10-18T12:26:27Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVFhpamNQUWhNT2pZQUsyWjhYZ1FaR0UtTXBaQWllXzg3YU12aFB4QlpfTU5XRDZGRjRJRVhwdDFtZHNLLTY1bDRWcjZDOEJzMGExTUVNRlVodVpEemhmeENvUlVKT1JvS2tsWDZHRXVRdjFsZWxIT0hzdnFVaUxlUnhBVzJrakxqVDJrbUJqVE5WS0Z1dmRKbUhZWnZIeVpGcjZwa2xndVB1QQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "New Iranian defense minister has background in missile development, broader defense industry",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-18T12:25:04Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYYnRDOUxZb3JqNDVOd1BvYndzT3gxVmJNTG9GOXFFeXBfWmR6RjltUGp2ZUZLYzRYcFo1eFNGMjdkMzgweDBLel9kM2FONmF4VzZ0MnhCNHFDcWtkZi12NU54VGp2bmNkbHc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?",
-   "source": "Al Jazeera",
-   "time": "2026-10-18T12:12:58Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRy1XbDZOeHREUlNCbnZHejI3VDVWZmNWbFNXRFhxSmNtYWJwUnA3azVHWHNqb2dIbEdjN2lNY25YNGV4dFl3SDF0R2JVMkQzN0tleF9xQTBNNlUtbGpzTTUyR08ySmpJUjVUNnFnLUkxaU10eFRjUmpPSmFwRmdQamhJSUJHREMyRWV5Zkxua045a0UxSnJJcDRzZE9GLU1PX3AwRUE5NNIBrAFBVV95cUxQSUF2elRkNkFEWThQS0FuRWdScTh1dFdlaFZkQUZBWmd2MkhTQjhCd0RxUmlMaEhya0hqbTNuVHdGU0VDT2JIaWM1QVZYUUJzSG1IMWt4S0FuQjJ1TlFqTE5hTDVaSEZHMmRUZ1lwTWJ5RWY3d1ZWU0Jza09zN3dQanEydTA0NlMxRGRYX3lfWl9KNVdiRzRZazlkNVRUdGJ6QWRKZkdmUXd1V0Fl?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
