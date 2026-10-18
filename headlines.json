@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-10-18T19:41:44Z",
+ "generatedAt": "2026-10-18T20:10:06Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 0
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -37,7 +38,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 1
+   "kept": 0
   },
   "investing_commodities": {
    "http": 200,
@@ -66,8 +67,8 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 29,
-   "kept": 3
+   "items": 31,
+   "kept": 4
   },
   "aljazeera": {
    "http": 200,
@@ -81,8 +82,8 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 2,
+   "kept": 2
   },
   "gn_fed": {
    "http": 200,
@@ -101,7 +102,7 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 29,
+   "items": 28,
    "kept": 12
   },
   "gn_yields": {
@@ -126,10 +127,55 @@
  },
  "items": [
   {
+   "title": "Macron calls for calm in France and warns rioting must not escalate",
+   "source": "BBC",
+   "time": "2026-10-18T20:06:20Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump endorses Netanyahu in Israeli legislative elections",
+   "source": "Al Jazeera",
+   "time": "2026-10-18T19:52:30Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFY5ZlJPZWJodFAxR1N5VGxMOFFxY0Z4WFJ2YS1ZRzBxUGRscUxXa3c4WW92RU10c3JtYUhDdXVieDNRS2EwOU9EVjgxTHM5WXFmbndSSGI2TEJ5Q0g5aXFHR3JSdHFCOUUyN19iTTZmbUY4ZF9wSEtSVDlhNF93d1JnTWlVeEhicjVRSEFuQWR6Z21rMmhtVEtGQWluc25H0gGmAUFVX3lxTE1MTF9LNVBvVzk3c1k1TzBxaV9SYzRHNmFNX2JsQTQtenh5NGNZS2s0UGI0ZUN2bl9oX2JJTmV5aVJ6QWNPVlBZaWEzTk1CY25MY3czaG4xU19KVFl4UXl4WDF5Nk55dkpEaTFSUklwci1jckxINVpxOThJcmFXVWFxQUk4TTJfUm9YUFBhRXQtOVB4ZkR1LXpjUFc3TGl1S0JsV1BRcHc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Crash-and-burn: Inside Israel’s self-defeating defense against ‘NAZA,’ BBC's war crimes allegations",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-18T19:40:31Z",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pLXI2UEhaYVlKeUMtTFFxTmZFOFhQUUhKTnVwcXpDa0lWQ3VGWEFzZGNOS2psUDNBbmdPbGpsY1VQQXhjVDdzVGNlZ0RORG1jWTBVQlFlLWhsRGxFNVJhWFBLU2FZc0pGTmFqNV9B?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Zelensky speaks to US envoys amid Trump spat after Russia warning to US",
+   "source": "South China Morning Post",
+   "time": "2026-10-18T19:31:04Z",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVXlyWm5sVlRkdWtuOWFtWUh1SlEtN0dfZlJ0UEtaT1h1LWVGZi1xWXU4UmJGSnBSX21ZUXh4ZVFnZ0FZY1p6Sm5lZ0dyWjV6RFd3UGMxdGpkQVFac0tvaDRpOWx5WTN0R20xRkdhTHhhWVN5YldSb19sM0g1cWZjR2s4Y050XzVMejJITld4ZDJyX1g4amNHRmdVZEVFZWNWTHB0R3I1dEp5elVZUnZEdW5MeGlBX3ZEcy1BbDJtMTVERkRnWG9wVjc3V0tmc21LekFqQmpRY04xUdIB2gFBVV95cUxQZGlsbUhua0xXZDVEbzcxVndBdmhGSDFfWUdDWnBjalZUZFJhdkI2S19ES29rdTgtNnRrQm1fQTJkT2p0dGxmNFFGZ3g3aUFDZHotS0dOaHZyWHBudk1LamVKenUyLV9ZaDV3VFYtV1ZDNXVfRk9hZzFnTHlrUll2TUJOV1hURmx5alJlYndRWjJTOTYyc2pQMXJpQUZOcnFPZGUtX1I0dDYyeldteDg4UlVobU1sVlZLOUplclFKYU1meHprSVFzTWdfeUJ5TUJLY2hCOUhhVVhtUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Zelensky speaks to US envoys amid Trump spat after warning US not to side with Russia",
    "source": "South China Morning Post",
    "time": "2026-10-18T19:31:04Z",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVXlyWm5sVlRkdWtuOWFtWUh1SlEtN0dfZlJ0UEtaT1h1LWVGZi1xWXU4UmJGSnBSX21ZUXh4ZVFnZ0FZY1p6Sm5lZ0dyWjV6RFd3UGMxdGpkQVFac0tvaDRpOWx5WTN0R20xRkdhTHhhWVN5YldSb19sM0g1cWZjR2s4Y050XzVMejJITld4ZDJyX1g4amNHRmdVZEVFZWNWTHB0R3I1dEp5elVZUnZEdW5MeGlBX3ZEcy1BbDJtMTVERkRnWG9wVjc3V0tmc21LekFqQmpRY04xUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump endorses Israeli Prime Minister Netanyahu for reelection amid Iran war",
+   "source": "Investing.com",
+   "time": "2026-10-18T19:25:36Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMDN5aUQwekJDOW45Z0FjSHdtUkRXSWFPVHV1cDdfVEFKTGZHYS1PVUMtNHk4QzVVbk45SS16Zmw0ZkpGcFlUamF3WHNxZVFOQ0tfYmx0azdsWFM5N2ZDejk1dzNHNkVaaEdOS3JrVzZYeGotU1hCbFdPdFU2Vi11Z1pEQ084enl0RmR3c2kzRGt2U0RTOHVBaVhiRVBObjh1dHYxVjhBRzZKd0p5RlFPUjYzMWs1eGVGdnhR?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -162,6 +208,15 @@
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Saudi Helicopter Crashes Near Yemeni Border as Houthi War Rages",
+   "source": "Bloomberg.com",
+   "time": "2026-10-18T18:41:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWhCNGJ1LTV5RGF3Q1EzN2RuOVNhc3F2ZlU3M3NTU0tnNWx3MkFWd1RnSW5KU3hmbmZHZV9nWUdmd3JkanYxdXAwTWVsVXEtRWEwNGhxbHFPTXNtX3dnN3VDSklhR1BaMXBvVThNcHRnUDFMR3Z1cWNib25ra09PZkoxTTZreFh5LVhGdk1WaFhpczJKTi1kY2pHQzd0SDEwcHo5Ym1WQ3BveWJheHpFbnZoaVM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -210,15 +265,6 @@
    ]
   },
   {
-   "title": "Crash-and-burn: Inside Israel’s self-defeating defense against ‘NAZA,’ BBC's war crimes allegations",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-18T17:33:59Z",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pLXI2UEhaYVlKeUMtTFFxTmZFOFhQUUhKTnVwcXpDa0lWQ3VGWEFzZGNOS2psUDNBbmdPbGpsY1VQQXhjVDdzVGNlZ0RORG1jWTBVQlFlLWhsRGxFNVJhWFBLU2FZc0pGTmFqNV9B?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Fr Willie Doyle: Irish campaign to make 'WW1 hero priest' a saint",
    "source": "BBC",
    "time": "2026-10-18T17:32:43Z",
@@ -260,15 +306,6 @@
    "source": "TradingView",
    "time": "2026-10-18T16:41:53Z",
    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOWUlqZVRLMXJMNDAwZ3JETjl0NHBZS0hDd2NWbEF4bnNvTUxMUF9PRTNKUlhPN1o5MDRMeE5YQmR2UjM2SUV0bG0xWWhEbE9tU0pSQUtBSk9MYmU1LXRPb2M2VU5tMjNUeDE4LWV5bzBQT3BrRDFESm5OVmVFMXk1RXNkTi1tNkFLWGIzRnZGeGIwTnZkZ2RLaThDTXYzZlVLNVZBOWlVUkJjTzR2aVNUREJ2bjJDN1ViSDBidmZHUXJrbnVSQTh1aGMtMjREcUdabm5DZzExenQtSGtDM18yUDdndnBOU25tTWRfX1BpWTBhdkZqeUlFdVhHYjU2NVBPLTk3Yk92UFpRRklk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump endorses Israeli Prime Minister Netanyahu for reelection amid Iran war",
-   "source": "Investing.com",
-   "time": "2026-10-18T16:38:49Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMDN5aUQwekJDOW45Z0FjSHdtUkRXSWFPVHV1cDdfVEFKTGZHYS1PVUMtNHk4QzVVbk45SS16Zmw0ZkpGcFlUamF3WHNxZVFOQ0tfYmx0azdsWFM5N2ZDejk1dzNHNkVaaEdOS3JrVzZYeGotU1hCbFdPdFU2Vi11Z1pEQ084enl0RmR3c2kzRGt2U0RTOHVBaVhiRVBObjh1dHYxVjhBRzZKd0p5RlFPUjYzMWs1eGVGdnhR?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -531,15 +568,6 @@
    ]
   },
   {
-   "title": "Saudi Helicopter Crashes Near Yemeni Border as Houthi War Rages",
-   "source": "Bloomberg.com",
-   "time": "2026-10-18T13:45:26Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWhCNGJ1LTV5RGF3Q1EzN2RuOVNhc3F2ZlU3M3NTU0tnNWx3MkFWd1RnSW5KU3hmbmZHZV9nWUdmd3JkanYxdXAwTWVsVXEtRWEwNGhxbHFPTXNtX3dnN3VDSklhR1BaMXBvVThNcHRnUDFMR3Z1cWNib25ra09PZkoxTTZreFh5LVhGdk1WaFhpczJKTi1kY2pHQzd0SDEwcHo5Ym1WQ3BveWJheHpFbnZoaVM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Trump's Russia waiver draws instant bipartisan backlash",
    "source": "Axios",
    "time": "2026-10-18T13:41:10Z",
@@ -649,33 +677,6 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRy1XbDZOeHREUlNCbnZHejI3VDVWZmNWbFNXRFhxSmNtYWJwUnA3azVHWHNqb2dIbEdjN2lNY25YNGV4dFl3SDF0R2JVMkQzN0tleF9xQTBNNlUtbGpzTTUyR08ySmpJUjVUNnFnLUkxaU10eFRjUmpPSmFwRmdQamhJSUJHREMyRWV5Zkxua045a0UxSnJJcDRzZE9GLU1PX3AwRUE5NNIBrAFBVV95cUxQSUF2elRkNkFEWThQS0FuRWdScTh1dFdlaFZkQUZBWmd2MkhTQjhCd0RxUmlMaEhya0hqbTNuVHdGU0VDT2JIaWM1QVZYUUJzSG1IMWt4S0FuQjJ1TlFqTE5hTDVaSEZHMmRUZ1lwTWJ5RWY3d1ZWU0Jza09zN3dQanEydTA0NlMxRGRYX3lfWl9KNVdiRzRZazlkNVRUdGJ6QWRKZkdmUXd1V0Fl?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Vance says in ‘some ways’ US has ‘decisively won’ Iran war",
-   "source": "The Hill",
-   "time": "2026-10-18T12:10:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUThwUl9Vd2V4OFoxY1NEd2xDWkZkQ2tpRTBWZ1h4UDdaWUZnMXhWQjlsZThkYnFxdGN2dnVaaFY4TGhpQ2lNM3lObUN6UUhwcE5VYnNwSUZWdG93Q1hDdWl5RzhpNl9PUG5CRzk5UnotaGhOdFl6SUl1N29FTXdjRllJelZOVndO0gGOAUFVX3lxTE5pR0ZvMDlEN1NuWWd5bWNUNTZ5LWVUMVZCMGJHX3Mxdno2MjZjdC1YclRXTlBCQVczYllzSFZIeHZxMldUcUtrSFQ2QTRRRWtiOXRLMnVIcWlJS3pnMGdiUVBXMnViQ0UwbmVhNGRveG9kdVBJZUU0VGI1Y0lHcHF2S05CNVM3TU8tQkhYUXc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "There’s a ‘New Middle East’, but not the one Israel planned",
-   "source": "Al Jazeera",
-   "time": "2026-10-18T12:07:34Z",
-   "link": "https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The Fed Has A Problem It Can’t Fix — And Stocks May Be The Surprising Winner, According To IO Fund",
-   "source": "TradingView",
-   "time": "2026-10-18T12:06:56Z",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORDNINTV2VDhELTdIbktsWHdYY05JMUhZNXRsbFFwb3pNWWxmZzhIQ09SSW9CU1ZtOU9Xek4tX2MtZVRINm9aUnp4UFJIQklwYkZfUnltM0d3bTIwSy0zbXVMRG80MGNVbGFyS2xSanRNbUs5TUFzUGRPWVFNSk5jVllRQzRaQVlHS09DMzRkX1pxTTgwT3AtYWduMXRXSGh0NEdHUEFwQ3RXYk4tVDhPYnJ4SDNjRkx4NUtwVmd0VklvcWthZzBxdFhoT0t1dkowcnZrblFtYk1TR3lnVjJ2ZGVkZEw5SHNiQW5QNA?oc=5",
-   "tags": [
-    "FED"
    ]
   }
  ],
