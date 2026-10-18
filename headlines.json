@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-18T22:59:41Z",
+ "generatedAt": "2026-10-18T23:28:02Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 2
+   "kept": 3
   },
   "investing_commodities": {
    "http": 200,
@@ -86,8 +86,8 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_tariff": {
    "http": 200,
@@ -101,18 +101,18 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 30,
+   "items": 28,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_oil": {
    "http": 200,
-   "items": 0,
-   "kept": 0
+   "items": 1,
+   "kept": 1
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,6 +126,46 @@
  },
  "items": [
   {
+   "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+   "source": "BBC",
+   "time": "2026-10-18T23:20:15Z",
+   "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East",
+   "source": "CNBC",
+   "time": "2026-10-18T23:10:45Z",
+   "link": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Stock futures rebound as oil nears $110, AI earnings loom",
+   "source": "TradingView",
+   "time": "2026-10-18T22:52:04Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3dfUDJ1NzdNM1Rka2xHNFlVRlRUR01jV2tMWVljWEpZVS1mNnFmVVZPZ3NFblh6SWZXZTdmWWpwcEc1aWgyd1o3ZWR6THNRMjExWWx1SnZJNm13S0VjanZUd0ZuQ1FMb1lZeENJbkVfYVJkYXlZUExWUXM5ek9adWowMENkTWNFT1BucXlIRXNNTkp5Tk5NZ2NHSFV5NWRxb3d1Z0tZNnhiYVNPcEpld0ppMDNBOE1laHc?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Oil dips as Trump waives Russia energy sanctions, offsetting Hormuz tanker blast",
+   "source": "investingLive",
+   "time": "2026-10-18T22:30:17Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM044eWRYVzVYNkg2N1dQOFRNT3haZlRWUWVqVmhHaDdXVkZWSllZZXBEalZlQ3BWdGh2Mjlwd085R3pJYl9OMkZmbExnZFpiaEtlRW84T215R2FLMWhsQWlseWpsbkptNFB6OGw4VnN1YWhMejFaT21GOGRUY2cyWHRteUIzVFB1T2xYeTh2ekRVaTNOV2RKbjhFZHlXeXBvWUp0a0J3Z05mZGhHV1FQSkRURlM2dXd2elE?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS",
+    "OIL"
+   ]
+  },
+  {
    "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
    "source": "Reuters",
    "time": "2026-10-18T22:24:51Z",
@@ -136,23 +176,21 @@
    ]
   },
   {
-   "title": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East",
-   "source": "CNBC",
-   "time": "2026-10-18T22:22:20Z",
-   "link": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html",
+   "title": "AI credit stress: Why falling Treasury yields matter",
+   "source": "FXStreet",
+   "time": "2026-10-18T22:09:36Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1VmV0tWUmlvNTlVeW52SEJJQ0JrcER1eXhYSzY2ZzNPSklCUGhDcWZjUHlDSUxLTHhqaTlTUjV2cUs4elNPMVRMMmJBYTA0d1BkREhDQi16VHBjNEhRbnVkT2tZaXpBbmZfNTlKMHNYN2w2d2NtY2lremE0Q1VXcnZGVHRjektEX3BUZHQ2Z0NmUmI5ZGttN2lUM2dsTkU?oc=5",
    "tags": [
-    "GEOPOLITICS",
-    "OIL"
+    "YIELDS"
    ]
   },
   {
-   "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-   "source": "BBC",
-   "time": "2026-10-18T22:10:45Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+   "title": "China data preview: industry holds up, consumers and property lag ahead of Q3 GDP",
+   "source": "ForexLive",
+   "time": "2026-10-18T22:04:05Z",
+   "link": "https://investinglive.com/news/china-data-preview-industry-holds-up-consumers-and-property-lag-ahead-of-q3-gdp/",
    "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
+    "CHINA"
    ]
   },
   {
@@ -171,6 +209,15 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQXhPR2ZLN3J0Y2tnREFabE1GS2ljUjl1eG5JWEoxaUptbE4tWFl0bUJOaGdqZ0ZJdGM2Y0ZVdWM2ako2OG92d0hENDljME8wUW92UXNKUlphc0lnWmNOMWpxNm5NU1NuWDQyLXZoRzRSS3dZYV9MT1J6bWZ6WHhkWDlnbTlLeWVZSmdscDQ4dGx6bkHSAZgBQVVfeXFMTkFFVnFsM1o4a0g1TjlGeEpBbmZMMjNvVmtxNFRFc09pQ2Q0Qk1peGZmUHFpaTVzNDdkT1J6bW85OXk4djFGOEFxNXV0Zk8wM0U3aWZIME1RYlZNRU5KOGRZOHFiUWpXcXV1OWZDYVhpZlR5RVhCUTQ3OUEtVkFkQ2M4ZUxpQzFYVW90MDZaOVRrSkJnYzUtRzk?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Chart of the day: Gold price eyes $4,200 breakout, but buyers still face two major hurdles",
+   "source": "investingLive",
+   "time": "2026-10-18T21:59:07Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOER5UkJFZFQ0TFdXaXBaaW40TXNHYWFGeU9HQTlQcnlraURWQTFPZFJfY0pKZUVJdWZwSGpiS0hmMXFLT2xHX2xXX1kxVEtxMTZrR1VCQ21TclRBTFQwQTlvbFJGellfUkd1X0NTeFNHMmQ5dGtQMDZyOEJpX0lRSUM0a1NxYmJVREl3WWQzZDdHbUNMRjdYUF9zYTZDdWs0NXFVTGdlYWo3YjBYVEVoM0R4eFhnYkF5ZGVITlE4ejdBZFpDc1ZwYTlnQW94dw?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -206,6 +253,15 @@
    "source": "CBS News",
    "time": "2026-10-18T21:29:16Z",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oMXFxLTlyZHJjQmZLbVVxNDI3R3JvYS15eUUtMjdrYTE5RVc5WWlOd0lha3d5Um1pbWl2OUs5dExhLWlzczFNVHNrN0FjQV9UTkdyMVFpWjVqZ0tRaTNlUlB3a2pRbkc1clBxMWNpSWdXbVNyb1FWVzJtbkZldw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ukraine launches more than 1,000 drones at Russia as spat between Trump and Zelenskyy continues",
+   "source": "AP News",
+   "time": "2026-10-18T21:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0JsZHhVNVNkaUhpSndSUTRqNjBFN2dpaktfTUZ4dWxBTkxzQ3I1LW5CRlBQNnR3UmJ5R0JzWGFaenZ5TDg3Qkt2bC05cmpYTlAwZkRSRjBoYlN1elkwelNDNmhPbkhhV1BDT05fWm96V3oxbk5YN09nUkQ2VzlvbTR1YV81Zl9wdzU5WEU1UXN3STc0ZHJlUnhiWUc2dUk?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -288,7 +344,7 @@
   {
    "title": "Trump endorses Netanyahu in Israeli legislative elections",
    "source": "Al Jazeera",
-   "time": "2026-10-18T19:52:30Z",
+   "time": "2026-10-18T19:53:50Z",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFY5ZlJPZWJodFAxR1N5VGxMOFFxY0Z4WFJ2YS1ZRzBxUGRscUxXa3c4WW92RU10c3JtYUhDdXVieDNRS2EwOU9EVjgxTHM5WXFmbndSSGI2TEJ5Q0g5aXFHR3JSdHFCOUUyN19iTTZmbUY4ZF9wSEtSVDlhNF93d1JnTWlVeEhicjVRSEFuQWR6Z21rMmhtVEtGQWluc25H0gGmAUFVX3lxTE1MTF9LNVBvVzk3c1k1TzBxaV9SYzRHNmFNX2JsQTQtenh5NGNZS2s0UGI0ZUN2bl9oX2JJTmV5aVJ6QWNPVlBZaWEzTk1CY25MY3czaG4xU19KVFl4UXl4WDF5Nk55dkpEaTFSUklwci1jckxINVpxOThJcmFXVWFxQUk4TTJfUm9YUFBhRXQtOVB4ZkR1LXpjUFc3TGl1S0JsV1BRcHc?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -460,6 +516,16 @@
    ]
   },
   {
+   "title": "Iran Faces Rising Threat From Within as Baluch Insurgency Escalates",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "time": "2026-10-18T17:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ3JoY1daMU5WMHZqVzlSN2VqNXhldXUxNnl1c2t4enpmckhkay1tVjZjOWJ5UXduUkhvNmhLUE5Wd1c1LS1iaFB2VnRBUHdmaW9URGpPdUs3YndPYTkxdXZscjBNcGpnMkZFTm9aRFBZRlFsOUgyLXpIaVlmOVhVOEQ3dkJycmplTzlxTW9Fajk4djZicllWVTBZcTJsalcxc1VlQ3k3TkxPbVJDZHJBTWZZa3dYeU5m0gG-AUFVX3lxTE15ZXZDeW1RZ1kwaEE0VllabU5oZHdIdkF2Z0Y1MGxua3V2SUc5YjlYTlBVdXNxTUJkcUJpZWdPY2ZDMGhqUDdLRDR0cV9vbTE3N3kybmpNeE5tMnBwRmVGVFlPbFJTTFRIMkpOTVpfZGdvaGU0RDVZOGZETFBzRnBHSnU3S3N1VGdZY2NNbWktVlotUjQ5eTduU2dWWVFnd3VuQUNldWNyRGJlS1FiZUtoeHVySXB2eDFZYVZ1WXc?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
    "title": "Trump’s Russia Tariff Waiver Helps Apple, Eliminates Tariff Advantage for CF and CVR Partners",
    "source": "Benzinga",
    "time": "2026-10-18T16:55:09Z",
@@ -610,73 +676,6 @@
    "source": "The Hill",
    "time": "2026-10-18T15:32:00Z",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMi1iRXdnQl9zNUpnUXRxUzZlTThpdWstdHFFdll2bDFpZTdzelNHN0JqQmF3UExTc3lid3lmZnJnRk1TOUNtZjBqazAwVFhUakoxakZ4c0VpV01BbjR5VkYtdmJueklES0pGVERBRGZsZWhyQklrWFlGcWxMYTFFM1djNzE2OW9GaGJUV0lRRXlXTjIxZG9QRFM5WElhUdIBowFBVV95cUxPeTh5U29FOGIyTFJFZ0wxT1dqU3ZRaDNINTNiSlpDUm1nS05pOTlqTlJNajhydHlMZkNkcUd5dHdCOWdISDB6TC15U3dZV0dHbUFTbzlqRzRPWEZRNmxrcl9LZTBRcncxR1FuOHhHR3dmbUFLaFhaa0hMV3I2bWt0TWlVa0xxYndVdkxZV096aFpzWkZJZW9xeW9MUFQwdXlGWGs0?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "US, Israel face threats of war if oil prices keep rising",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-18T15:31:45Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsY1JDdGkySENGaDFUSGF4MTdTTlNMeXFSYXhnZWZKdWxjeV9BREF3X0FVY2hCWmlQNl9DRE1ZdktlZWdqMGxQRE15dHZJdEc0c2NJdE1tLTQ5MzJwcEpjUGxkRmNPUE40NkE?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Scott Bessent says prices will come down after Iran war: ‘we will get to the other side’",
-   "source": "NBC News",
-   "time": "2026-10-18T15:18:47Z",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX3pMdGo4RnV3dUFGY296STN2LVI2N3JoVTd3UzNWbEp6Ykh2U2RVX2J4N2I2eHpiVFRYdlFIcG0wMEpFVmphTnVKUjVYMDVKNktBaDdzbXlyYmYzbVdWZDRIUU55OVQ4STVLSE9Rb2ZyTjdSS2k5YWlMYlJBWVBNc2FDVnJXQ0ZrN3JyMDAwaHNkYW16cDE5b2J0N0NDVTRaYUZPczUybkVRdUxjS3BGR0lEejlOY0pHVWh2X04tN2I4ZnNYN1l6bEx5SjV2ck1ZVGQ4VktWQXY2NlU?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Zelenskyy says waived Russian sanctions are 'strengthening Putin's war against us'",
-   "source": "NBC News",
-   "time": "2026-10-18T15:08:57Z",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWUhSQlBNNnViZE9STE5vcVFZelk1bnpPN3lrSmkxQ05yNXZSZV9CUmdpc0FQYl8zZ1I1Y2ZJeS0zdFR4bERpOTRrZ09zWUdUbDFfcWMtYVE0QTdaRzBMUDNjYmhvMnk4d29RandFcVB0REI3dUMtNXJkb1VUM3ZVRVpXS3ZTQ0U3bUxYaGdKOWwyRDVYYzhCNkpHMlpOYzloazhVaXVyclNfazVXUGtfQ3F5eTNQeXhMNlQ3T2UwLVg0d0pJaURCWFdkNGM5TlBWaFd1cQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Energy secretary defends waiving sanctions on Russia: 'It’s not an economic lifeline'",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-18T15:02:59Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTEQ0NUNTQlU2S1pJYUJvNjllcGk4bzVaM3MwM1BRbWNFSFVJdE1DYl85Qk8tTlQ1Z0xvYkNJcnlLWjEwOU10VzZlbnRGUEZsU3ZDci1BeGZJbnJ4UXJ1QjhOQW9aSFh3R1FlaDhONnROMnZJUjFIN0hyYkFuVnRfZzRjN19ndXBORUhKMy10djhQbThIR3pldTkybXloN1lERGprRG5xY9IBrAFBVV95cUxOM1E4b0kwa0EyQ3pzRE1pVmlBcE12ejZvVTNtQ3JzTnZxbkR6REdGbVhqalM1UTh5S2NlWm9CblFxbXJMVGI3T3NZNENrNU1JRjdJQXJTMDRqb3Y2bHdXM0xuVUJuVy1HLVBmbmRLQWdMeWc1b1R3Rkx1eVh1SDNWZkVlMzZIMWc2dVV0dS14cXZzSHNnM05rTF82XzZsaXI3MTRYWEIxRF9UZFFE?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "GOP Sen. Cramer says he agrees with Republicans who have criticized waiving Russian sanctions",
-   "source": "CBS News",
-   "time": "2026-10-18T15:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRzBMVDJSc0hEN29MUkt2UFFRQW9KUlNwRE9YRnBOYXVCRkV0X29iNnctLUhRRUZDbFAwY2RZVnpIc211Y0UxNXNVdWRiX3BlUUlXQzU4QkxoVDZadV9BckY1TndEamVGVWpsUXY5WUtBOERxcWJ4V0NsYUdIRUJzc1hLQUFSc29BYWR5VnFhZDVDT2t3QXlGNmNCVDFIa25aZzdtc00wSF9lUEZuc1ZleFE0Y3pFTXYteEluM3lMZE8?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Paris wakes up to 'war zone' after protests and clashes",
-   "source": "Reuters",
-   "time": "2026-10-18T14:55:36Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUZBV3hFWXc0V1FpUy02RTNrUmpsUnpTWXUzbUJsNmR5aEFrUEVzTTdDa0JJWDlXczhNSE9VcjVjVW0weWlHc0lmWXkxcUpfaDhNM1daNmlPaExibHpTN2ZRVWFaVXY5ZmM1WVhVVnNUa2xjNDlpZURrQ2VPbGlmOElpbWs?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Energy Secretary defends Trump waiving Russian sanctions: 'This is an incentive to end the war.'",
-   "source": "CNN",
-   "time": "2026-10-18T14:49:21Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QaTVWYWxfQW56bkhtN3RLN1lNZlNhb1dMb0czWXV4TW5Zck13aEt6a2c2aXdEYlpmbDlFQjdKeFdwMV8xUTlvUUVYY1dISmtvS2ttQXF6R09MMC1MeVpiLVk0ZE9PNzJDY1p1VXkzeHRrT3QwNnY2Q2dtZlMzVFE?oc=5",
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
