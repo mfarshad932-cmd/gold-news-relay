@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-18T06:00:28Z",
+ "generatedAt": "2026-10-18T06:28:49Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,12 +57,12 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
    "items": 49,
-   "kept": 0
+   "kept": 1
   },
   "bbc_world": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -81,8 +81,8 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_fed": {
    "http": 200,
@@ -91,23 +91,23 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 6,
+   "kept": 6
   },
   "gn_war": {
    "http": 200,
-   "items": 32,
+   "items": 29,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 37,
+   "items": 34,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "gn_oil": {
    "http": 200,
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,24 @@
   }
  },
  "items": [
+  {
+   "title": "Why hedge funds could be making a bond market shock more likely",
+   "source": "CNBC",
+   "time": "2026-10-18T06:13:05Z",
+   "link": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Heating oil customers face tough winter",
+   "source": "BBC",
+   "time": "2026-10-18T06:07:40Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq1j3x66e1rno?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "OIL"
+   ]
+  },
   {
    "title": "Trump Leaves Russia Sanctions Waiver Uncertain as Rubio Reviews Impact",
    "source": "Benzinga",
@@ -439,7 +457,7 @@
    ]
   },
   {
-   "title": "Iran war live: Two killed in Saudi helicopter crash; drones target Riyadh",
+   "title": "Iran war live: Ships attacked off UAE, Yemen; drones downed near Riyadh",
    "source": "Al Jazeera",
    "time": "2026-10-18T00:00:11Z",
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
@@ -666,24 +684,6 @@
    "source": "ABC News - Breaking News, Latest News and Videos",
    "time": "2026-10-17T19:21:46Z",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The 60-day War Powers deadline falls on Friday. What could happen next?",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-17T19:09:44Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkdDMVo0RFZ3Z0RfTXUtbzhnOGlTSXVEaFRIcWpHcWFwb2R3SU03bDIydVFjSks5WTlKSG1UdzdBbWUyTUtUTGZMdXBQQkU0VHZKejhLTlZVN3c0X05rSk5ram9mNHFZYVpjMm1Jdk1iZTFCUjE3SjhLS1ROa2htQUw1cDhFMXkzdnBQcENFcjVJbnplRTJ5ZC1n0gGfAUFVX3lxTE0xRHBkNGdJT1E0dk5Jb1dodlR5YnhMMDV3VWNVeEFDaFNfaU54SDVYUFVfQ0otVkxFOXZYQk5WWjhKYktQbEpqaEt1Q3hyV0ZfMU9kanVUY2pOLXpWODRpb3pEdl9LQ3I1eWFYQVpvYmtVbHU4VndKNlQzVV9acEVVVktCZDdPUXgyQnRoZU5DOVJOTGJacGJpdW5HWGJMYw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump's Canada feud collides with Alberta's separatist vote",
-   "source": "Axios",
-   "time": "2026-10-17T19:08:44Z",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaEVTbjh4MzVIeW1jSE9ickRhMWtvWWJESXhhWGpzZ3Fsd0tWSUZUNlR3X3BjRDlzVUxPX0Nqc2oxV1BhMDRMeWZXbGJUYklUZEd1dVFnMEhGTG05Wnd3QXdPbUpGeTJMSXFzQ2RrazNhXzNMWjc2cmI1VWZBYThGVHFXN1NLc0hOZHBhWXJydU0?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
