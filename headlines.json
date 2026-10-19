@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T07:29:57Z",
+ "generatedAt": "2026-10-19T07:58:20Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 4
+   "kept": 5
   },
   "investing_news": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 14,
+   "items": 15,
    "kept": 12
   },
   "gn_fed": {
@@ -96,12 +96,12 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 39,
+   "items": 36,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 30,
+   "items": 33,
    "kept": 12
   },
   "gn_yields": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 1,
-   "kept": 1
+   "items": 2,
+   "kept": 2
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,45 @@
   }
  },
  "items": [
+  {
+   "title": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround",
+   "source": "CNBC",
+   "time": "2026-10-19T07:48:53Z",
+   "link": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Oil Prices Fall as Traders Weigh Russia Sanctions Waiver, Middle East Risks",
+   "source": "WSJ",
+   "time": "2026-10-19T07:42:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTjUxeXdZWDd5c3MxTHBocWZqajJlQ2UwRTF6dW9KMXh6Q1ROdllKRGZiMV9kWUhvRW9CQzNQMU1LYk80U04zc0dLU2ppcFkySWRjenZFSm8wQjA5QmRPVXhPN3dhMTZPdnFiWjh1QjZ6VDR1ZDg5dFFlZ0t0STJzZlBrUzBMQ0N1R1RTQ2FkekRVaTlPN3lPYU94ZjZRdktUTlJEeTVqSEVFamNkc1FWelQ2MnRNb25OemZ5aUx3dl8?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "US reveals why it eased sanctions on Eritrean targets as Ethiopia, Eritrea deploy more troops and risk drawing other countries into war",
+   "source": "Business Insider Africa",
+   "time": "2026-10-19T07:31:29Z",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdk9Fdm42TWVPOHdOa1pGdXdCYVVGalpoMkZGQUdMTUE1d2plWktJTGc3bXN5QU1zVzhKOTJzWjhOZEZHd1k0aF9mNjVoV0k5THhrSjZyM1FWQnY2RDVNMVQyYjc0TjlScUlsOVlXVXcyMzM4YUs4cXNfQlh4M1dEVEJ6VVpUYS16QWtHM1lLeUVGZGgyS255NjRlNWljOHpQVkZxTGlvd3Q0bWhNV3lQRFZQcXd4NEhqLXVlQVZNUk5MaEEyZnM1MHpnSnNVOVpvODhpdHprclZiZw?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Gold Basing Against Its Short Trend’s Tracing",
+   "source": "Investing.com",
+   "time": "2026-10-19T07:28:00Z",
+   "link": "https://www.investing.com/analysis/gold-basing-against-its-short-trends-tracing-200689802",
+   "tags": [
+    "GOLD"
+   ]
+  },
   {
    "title": "Rubio says Ukraine and Russia should be focused on ending the war",
    "source": "Reuters",
@@ -263,6 +302,16 @@
    ]
   },
   {
+   "title": "Gold climbs as rate hike bets fade, putting explorers in focus",
+   "source": "Mining.com.au",
+   "time": "2026-10-19T06:05:27Z",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3U1WDZBQks5ekRObXRZUkQzcU1GNm5TNVdUZEREU29HWnI0OVQwWEQzNEc5S3BBUnZhWU9xaFp5SmNReFF1SktFUmIwQUNZV3pIR243T3J6bHRkYmdXLXdQSnh3V21YcnhlRGtOZ3Z3YmkwdFgwUkdiQWhYMmptWTdtTDV0eXBBWGlrMw?oc=5",
+   "tags": [
+    "RATES",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Funding shortages force World Food Programme to cut aid to Gaza",
    "source": "BBC",
    "time": "2026-10-19T06:00:18Z",
@@ -352,16 +401,6 @@
    "link": "https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html",
    "tags": [
     "RATES"
-   ]
-  },
-  {
-   "title": "Gold climbs as rate hike bets fade, putting explorers in focus",
-   "source": "Mining.com.au",
-   "time": "2026-10-19T05:26:39Z",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3U1WDZBQks5ekRObXRZUkQzcU1GNm5TNVdUZEREU29HWnI0OVQwWEQzNEc5S3BBUnZhWU9xaFp5SmNReFF1SktFUmIwQUNZV3pIR243T3J6bHRkYmdXLXdQSnh3V21YcnhlRGtOZ3Z3YmkwdFgwUkdiQWhYMmptWTdtTDV0eXBBWGlrMw?oc=5",
-   "tags": [
-    "RATES",
-    "GOLD"
    ]
   },
   {
@@ -637,49 +676,12 @@
    ]
   },
   {
-   "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
-   "source": "Al Jazeera",
-   "time": "2026-10-19T03:01:52Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcEJCSHJCeWRoX05HaTVfaElIWE11RVVPQkE2bzk1dUVjVm1ZT3JMRFV3Wm9GdjVXOGZSMEc5T2MzVlkzdk9hXzVQaGRmUVdTSXV4a1RxemFyUXVhS0c1cWE0eEZ4c2RvRG5hMUVVZ1JabldKcXVnRnlXUWFDZlQ4c0NtZG1CNEpVLTl5aHdtSGZHZ19YdlpZOXp0QW11Q3p4eEx2R2xsMlh5dk1OenRqS1lTSE5xUdIBuwFBVV95cUxQUG1DbHYyV01VRGEwR1BKOWtXWnJ4dFZqZDBCbnZMb19vV3E1Y0NabzJqZGt5Y3NSS05JT3QyR2xnOXprX2NnR3FxbWc3dk5EYXRfRzdwLTRBX21YUXFHdlZnc2F5Wm1zbkI4REk4ejk2VmFIVm94X01TMWp0SUJ1dVNvWEZjSzVlVndwTlpSUEJ0OTFXcXE2Qnk1LVlEVXRPSjNVQUhSc0hfbVpJY2w4dm1Zalg4QkIwNHpZ?oc=5",
+   "title": "$4,200 remains a tough nut to crack for Gold bulls",
+   "source": "FXStreet",
+   "time": "2026-10-19T03:01:53Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1BBZ2p0WVlHdXZ5ZEF4ZHBsTXM0dXMyZzBVTm5uQTlHaTQ1XzRkbDBVY2EtX05UQlNxWWFYcjBSODhwaDYteFFpMEU4ZW03UzZ0U1ZpOElfYllqaEw1dXFqdE9YUUp5amdhYlZEZTFVTG8ydHBqTGRtNVRsWjNJekV3MFhlZ3p6bEpHN0ZKZUlTelB6OG1JM3BaT3Y?oc=5",
    "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "5 fights that will shape NATO’s next Russia war plans",
-   "source": "POLITICO.eu",
-   "time": "2026-10-19T03:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1McXFqNFJMUjRLdFZJb1BrVWdkVzFYcTZIb3pmckF4dFBZVjJnR05jcVZITGZncFp6emdmam1KODZHMThVYXdoSUFraUQwMmVEWWtHdXhWb3NSVFdBajVMazg4amJRWDhkNXRacUcwMA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "As Russia-Ukraine war changes, Zelenskyy could be 'losing a strong partner'",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "time": "2026-10-19T02:39:54Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLXViRF9kbjBSb2JfRllXWEJOREJDWUdxd0ZvaGRwQWdaNXhjb1ZCdW1TU3pMc1NMTGFrcTIyY1N5cmN6cDFGUkMteVh3bE44b1VPR2UwczdRRUc0NVlsZFBmQk9fWGZoLWg1TWgxdk5Nc3Vwb2dFREtZemJHRzNkMEJnNHpkUmsxd1V1UElsSHJLSWdodkt5eWtyQXZsLXBObks4TndRTkQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Donald Trump's approval rating hits new low as Iran war shapes voters' opinions",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-19T02:38:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80bEdvU0lxTVBHN2F2REJzaEdiOUd0X2Vlb1RPV1dhbHpyczVSY2xiY1dkM0dRZ0lxY3I2WlZNSjhjX1FiVzluUTBvSzA3bTR0T3lwSkpfLUljY0Q5cllqREV2Tjg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "China industrial output, retail sales beat forecasts in September",
-   "source": "Investing.com",
-   "time": "2026-10-19T02:34:59Z",
-   "link": "https://www.investing.com/news/economic-indicators/china-industrial-output-retail-sales-beat-forecasts-in-september-4956219",
-   "tags": [
-    "CHINA"
+    "GOLD"
    ]
   }
  ],
