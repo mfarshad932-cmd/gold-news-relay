@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T16:04:32Z",
+ "generatedAt": "2026-10-19T16:32:53Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 10
+   "kept": 9
   },
   "investing_news": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 4
   },
   "bbc_business": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 22,
+   "items": 21,
    "kept": 12
   },
   "gn_fed": {
@@ -91,28 +91,28 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 12,
+   "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 39,
+   "items": 38,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 35,
+   "items": 37,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 18,
+   "items": 19,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -128,10 +128,64 @@
   {
    "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
    "source": "CNBC",
-   "time": "2026-10-19T16:04:03Z",
+   "time": "2026-10-19T16:30:58Z",
    "link": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+   "source": "BBC",
+   "time": "2026-10-19T16:20:51Z",
+   "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Why the era of easy-to-ignore bonds might be over",
+   "source": "CNBC",
+   "time": "2026-10-19T16:20:51Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTGtjdzNqSmZwb05TelFOV2lWVjhhVjBjLUx3Q3Z4OFhPeE4tb2xUSHlHZWxCRUxFZDZCMlZPZ2xTMi1JZTQtNDVGQmFUY1FPeWREd3hMeXJ2amJJcV9lQzVnVVVtS1c1TE9tU05QLVVZY0FOVE1wdnJqekF1aTM2cWhaVXFMR3V1TWhKaS1fT3g0U0I0ODZveFltclE?oc=5",
+   "tags": []
+  },
+  {
+   "title": "Crude Oil slips from a one-month high on Trump's Russia waiver",
+   "source": "FXStreet",
+   "time": "2026-10-19T16:10:52Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1hna29ZQVF3aFBkSWZkYWFxUUUyZ0hKX1hPUXgzb0d5aVVKVThrSVJaTVlTZXlGTHBpTE45b0IxWFk5TVNFOUtOSUx1VTgtSDlRaVFQWjItVjB6VmR0R2xCbzVaaXpKVEJpT2pSVThfc216Mi1HM0s0aE4zRmpzWWwxaHQ3YWUyQS1ud1Q3LVozcVRNM2NXOXRPeEE4LU96c1dDV3ZwYw?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Gaza faces worsening hunger as WFP announces food aid cuts",
+   "source": "Al Jazeera",
+   "time": "2026-10-19T16:06:57Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "How the gold boom is fuelling tree loss from Ghana to the Amazon",
+   "source": "Reuters",
+   "time": "2026-10-19T16:06:30Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObUxGRUVjWUdwSVNNUGFIeXRUWVdadTNPQ2NFclNhZDluSzZ4dnFRUTdEUFVidUtlVDlVWXdCc2ZnaFNmTkQ2Yk9fc19WSEo2blI3aVRsN1dFbVBtVkxaSXlkZW02ZjJQaXNEX1Z6OGJPR3ZaRm04ekJPWV9wbFBDLUk4bmtDeWRkelF5NWRBV2xtWnlGSHNXZUpISGxSd3lTU3FVRGpxSERBcHZ3X0JxMkw4dTJyR1B1SVV4SUZBdS0yNHQ5UU9R?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Ukraine’s Zelenskyy criticizes President Trump’s decision to suspend new sanctions on Russia",
+   "source": "CNBC",
+   "time": "2026-10-19T16:05:19Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX0dpQTVMYzZLSUYwVlRjMVc5dHNKTTV0RzRtaGVhNkhEaHJkSXVFeTA3NW0taGVwYkFkbXVVZ3o2cjJlUHhFVW16VmNhQnYxZHd5cUo0eDR2UFE2djRfdkw5OEpMVjFfcXJGeXgtazFyUzRvMnFWbjh1RkZ5WDcwdjVMaklCZGVEeFp4bXNsZTdwVmE2Nk5fS2lzUV9NalB6cDRHVTR2SU8tbEdoRTZmVVRZd1JxTWlpSkNycERPMHM0ejFURkFWWGVJLXVFUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -186,6 +240,15 @@
    "source": "The Guardian",
    "time": "2026-10-19T15:27:00Z",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbkJSbjJvNXlfZno4WTB1WThtaVBPamI4NU1aanB4TVdGUUtVUzNIX2xObWVuQ1FxZkY0TDVkUlpqRE1sZDRvVFpZMVdidWRRcWpFYXFaZUxrV2JFbklqczBzYk0xRkRoR0t0MEh3LVduQ0lQX3RKQV90bzF1bGhRZEE2aDZHQV9vS1JmNjVMWTF4VS1fZWN4NGxlVmJaeTNqWUREMUs5S3h2bTRMTkgzYWRET2NSTGM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "New York City Has a Rat Killing Machine",
+   "source": "The New York Times",
+   "time": "2026-10-19T15:18:41Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFB5R3RUczJHMWxBRV9Qb1k3RHhIT0VNdWxwbzNDNlpZSlkyZUVnamJQcm9LTXR0OUFSNkVBZXlnWnotVlRZTVRpWVp0bE9UTGR1YTk0N0Y2QnFNOFBuTjczTFdwN3RyNXgyNHRFYXExVExYZUZGbUNvMFpwQWVxdjBmSEtwRkRCdFVyeDBRZWRDeV82aHdXLVBPVjdKVTVOek5BTW1hTGxIWm5RMUdR?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -481,7 +544,7 @@
    "title": "Trump Defends Russia Sanctions Waiver as Rift With Ukraine Deepens",
    "source": "Crude Oil Prices Today | OilPrice.com",
    "time": "2026-10-19T13:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGZrYzlaRHFYcGc3Vnk3Qnk0T0RaajVLRVg2STU5bnZkcW50TkkybzN2cmNtWVZPZUpkY2ZfOEM4SVl0MlAzMEJ6UXg2VGpqNFZoMF81akk2OFhXRXZtVHZPdFNuNlc3QXZxeTFOUlpLM2g2d2xmektwaEY3bVpNVkl0b05Zek8tRUwzWWVKMXJUbmFLd3ZkWXBqNzdfWTBtdjVIOVlTdGgtM0Nod0NVSNIBtgFBVV95cUxNcVV6b3M4ejFlZVM2bFdCZjFKNGk2UVYzRk8tMWVPV19wdnI5ZGMtNlJWTnlqLU9oenpqdGprZ0ZsYnpVNFhmYUZFM25adzBiMlBqRF9KY1huNmpyR2ltaDJYQUhOZEVCbk56a2NUeGpaZm9sOUN4cFktU2s4SGpUejMyQy1xNWR1V0J1YmJNV0hpak42a1pwazZiaG90RnF2QzdGNlNMLUJHa0xXZktBcGZaQ1NYQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcVV6b3M4ejFlZVM2bFdCZjFKNGk2UVYzRk8tMWVPV19wdnI5ZGMtNlJWTnlqLU9oenpqdGprZ0ZsYnpVNFhmYUZFM25adzBiMlBqRF9KY1huNmpyR2ltaDJYQUhOZEVCbk56a2NUeGpaZm9sOUN4cFktU2s4SGpUejMyQy1xNWR1V0J1YmJNV0hpak42a1pwazZiaG90RnF2QzdGNlNMLUJHa0xXZktBcGZaQ1NYQdIBtgFBVV95cUxNcVV6b3M4ejFlZVM2bFdCZjFKNGk2UVYzRk8tMWVPV19wdnI5ZGMtNlJWTnlqLU9oenpqdGprZ0ZsYnpVNFhmYUZFM25adzBiMlBqRF9KY1huNmpyR2ltaDJYQUhOZEVCbk56a2NUeGpaZm9sOUN4cFktU2s4SGpUejMyQy1xNWR1V0J1YmJNV0hpak42a1pwazZiaG90RnF2QzdGNlNMLUJHa0xXZktBcGZaQ1NYQQ?oc=5",
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
@@ -512,6 +575,16 @@
    "link": "https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump gives reason for waiving sanctions against Russia",
+   "source": "CBS News",
+   "time": "2026-10-19T13:11:00Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnJMejZIR001RHY1bkQtTTJjNDFKSVJSbXhFNTJLTktnWXlfS0dDUWpHeVRNZWo2NkFHZVN1ZGVBTUhiSF9SSXpRNjBkVFZqZThGby1UbzVfNl9QMUtKSGgzUTRNNDBiQjhNbXdXVFFicGdqdzBZdGJMLTFkOHlCRUtwMGtDMGZEdUhTSnRDcw?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -606,81 +679,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ05DWlItSGZET08wR3NkdHBxdHpCZmtIem9XMjc4eEc2cC1Db1l4MjgzZG9fb3ZHT1dWTkdNNEdSd1ctQjQ4VEdDcjlYY0FvY3BHZlMtbm4waWwySEMzTVBJZUpFaGh4dWtBb0dHUjlsc2wxbm9GZVVVaEZ2aWJvT2xYaXBNU2VxTW1xNDYyWlgzQUVZaVlaN29lVDdQLWpzUjlvQjVfb0JsZw?oc=5",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "Canada September CPI 3.1% y/y vs 3.2% expected",
-   "source": "ForexLive",
-   "time": "2026-10-19T12:30:21Z",
-   "link": "https://investinglive.com/news/canada-september-cpi-3-1-y-y-vs-3-2-expected/",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Cleveland-Cliffs Expects 2027 Will Be a Very Good Year With Help From Tariffs",
-   "source": "Barron's",
-   "time": "2026-10-19T12:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRXBBaFZwYTc4RnF4ZEx3SnJmanFFcE9KQlZtMG9ZRWZKdU5JblZMRWRYNkJtM2VKOExiWDRFSjYtMmJIb2FKV1dLclRNbS1FYlVhUXZmMjRUZjhmdm5BRHNkRDB2NVhNTTNPYnpBelZzYXJKNXpla2t2SG1LNGxYdUJwX01lZw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump Is Pushing Ukraine to Surrender to Russia, Zelensky Says",
-   "source": "The New York Times",
-   "time": "2026-10-19T12:25:33Z",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd2lNUlNWMUNFdnNSMmstUUFyS2lPZi0tWk44UFJEMWVpMWdXRjQzQXJfc1FrZkY3c290ZVo5eHBBc2V1RVBrTjZ1R3FHekY4eHM5dGx4U0Q5NzgzeVFGemFxSXlMYmF6NWtWTDhSM0RXMGlsSHV6aGlQWXRUU1pKdjVpU0Y4TUdnUzZ6STRB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Fields: The Northern Star Bid Puts Its Own Share Price On Trial (NYSE:GFI)",
-   "source": "Seeking Alpha",
-   "time": "2026-10-19T12:17:51Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeGJVY0VCekJ6YkJRU2JMcjdEQkc5NHBnSTZNLWNpUlcxUXZjYW5WeElDMTVROVNEWFI1QVNicjk1SGtLblBhbTdKeFBNRVpQNUJWd0JZQmtxeF9yd0YzZUVKWTNrdThaS0JveUhiT2NYWnVTcFRZQW1zVTA5OWw0NnhMemtMdU5GS3BHMV9aVlR4VWN5NzFncE14ZGJCakM4N2lHNzUyTQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Darline Graham: ‘I would choose to keep the pressure on Russia’",
-   "source": "The Hill",
-   "time": "2026-10-19T12:13:43Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTC0yLUlPS2o2U2J1Z1k5Vm5BcXU1LW5Ddldzc3M2MjM1eHdRWG5JdXNPbEk0bWk5cXQtMU1keDJad0N2LWJ4NWVNdXk5eTVJZmItQk5SZkpRR3h1QlViMzBnYkNzRHhBVWNENUpweVhKcmxqdGR4cWlpNVl0OGtTX1BJRTJYeVI2MVNpUzBSTHI5VW9MR1pLdk9DVzNsUdIBngFBVV95cUxPTC0yLUlPS2o2U2J1Z1k5Vm5BcXU1LW5Ddldzc3M2MjM1eHdRWG5JdXNPbEk0bWk5cXQtMU1keDJad0N2LWJ4NWVNdXk5eTVJZmItQk5SZkpRR3h1QlViMzBnYkNzRHhBVWNENUpweVhKcmxqdGR4cWlpNVl0OGtTX1BJRTJYeVI2MVNpUzBSTHI5VW9MR1pLdk9DVzNsUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Exclusive | Putin Floats a Summit With Trump and Xi to Discuss Ukraine Deal",
-   "source": "WSJ",
-   "time": "2026-10-19T12:09:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY3JSS1cwX2ZZSWhRMFl2SmpfZjdadXF2U3NhRjRmUDNNQ2ZiRXg0bjI0WmdZYXYxd3NNeHlQNUJYRS03eV90Q1hMMXlQU1ZUMm1IRGhDc2dLajdXdTNVWVBodlNpemNneU9BU2o5MVFJUTVuODRtYzBqRTREUFp4a0hrRHlMSkczQ3R6U3R0V3RMYldsTFRmUUJiMEd4eEtLRjd2eEtaWkM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil slips from 5-month high as Trump's Russia sanctions waiver may bring more supplies",
-   "source": "Yahoo Finance",
-   "time": "2026-10-19T12:00:04Z",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTNFNmRXMmo4Zi1Md1o4NFJzb3d6X1JpcUgtVEo4N3F2QW9Nd25UTkhKYzljbExueGZ5Qkp2aWtUVUV1bGF4dWR5MGZDZHdWN3pyd250SnFtLUpjbHdBSXIyVGNlMFE2TzFlOVlWMkxiMnE2eHJ2eC1HbjV5cjRLdV9tQmcyMHVTVjJaY1ZkTXBNRWM?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Gold Eyes a Technical Rebound — but the Real Test Is Still Ahead",
-   "source": "Investing.com",
-   "time": "2026-10-19T11:53:00Z",
-   "link": "https://www.investing.com/analysis/gold-eyes-a-technical-rebound--but-the-real-test-is-still-ahead-200689830",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
