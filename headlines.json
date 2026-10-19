@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T10:20:08Z",
+ "generatedAt": "2026-10-19T10:48:28Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 9
+   "kept": 10
   },
   "investing_news": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -86,8 +86,8 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 9,
+   "kept": 9
   },
   "gn_tariff": {
    "http": 200,
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 38,
+   "items": 41,
    "kept": 12
   },
   "gn_sanctions": {
@@ -111,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 1,
-   "kept": 1
+   "items": 2,
+   "kept": 2
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,52 @@
   }
  },
  "items": [
+  {
+   "title": "Rep. Don Beyer, D-Va., on Trump waiving sanctions on Russia",
+   "source": "NPR",
+   "time": "2026-10-19T10:37:56Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU1FhWGsxa3oydzB1MVI2YkIwQXNVQVFJZ3Q1bWVVUTJvTUNUY281UEpoUXBYZjhhQUZNWUVNSk85UjFxaF81Q09NWkRPdmlSbVBTMl90T0oyMUtXX1RDY3FzNHlCcmhXOFZxY3FXY1hBSHVxUTdJV0tqZlRYaW5FWDRQNlhMX2tkUkc1Z2FvSl9PNmRLYTkwUlZuRnVMY2ZZQVE?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
+   "source": "CNBC",
+   "time": "2026-10-19T10:36:47Z",
+   "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "A renewed Iran war is only a matter of time, Israeli experts warn",
+   "source": "The Times of Israel",
+   "time": "2026-10-19T10:30:56Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3AwS1dEYnBaTk1ZamFqRU5zUk1jY0laa01MUktpREM1ZUd5b21GbnlaYzZwVGVLaGVMVDM3VnBoTFNXQWNlMTN6MEFhb201VlY0Uk15TFd5eGxpTnZaQkJKejAwVl91T1Rqa2FMX3JhU3FNRXppUWc0ZkVFYTR1M1JyUE1ZRHBzOFFqQTV0U0NmelgyZUhVOFYzRdIBoAFBVV95cUxPZG5uN1pKTkVoWF9VOThPLVZrS0xIUGFqYTg5a1hoc25adEh3UG14U2RGVzRGQ285dVZFREhCMHRrS2tDTEY5SDR1di1sZHQzWE5BZkNlWG9LamJxQzZJVkFiblNnZ1Nfa2lVdEh4OFJwWm96djlMNWlIZ0tSNW5Md3ZRQTl6RE5HRHp5cXhBMS1nMXVCcDl2UHp6ZzZOZmxw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Opinion | The U.S. badly needs new tariff laws",
+   "source": "The Washington Post",
+   "time": "2026-10-19T10:28:48Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSkRkS3lEaUVrc1ByaEVmUXJjdV8zY0dTYzNpYlh2SlQ2TGxMUkZVYmZCWlFwR0VBYzA0Rld6Z0FCMWVlTXRkdFNSN2xOYzNJRWFRYWFHZ2dwdmxiNXc4X01oNlI1cUhwMjJGTlNRbkR2WEN6dXJGTVdZblE3MXN1SHBwNmRsZ2JkNmc?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "‘What the war has done to me inside’: Ukraine’s Svitolina announces separation from Monfils",
+   "source": "The Guardian",
+   "time": "2026-10-19T10:24:00Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRHE4aXNBbkFJYUZKUGNaYmRVc3F2NG95OUpwc1lnWi00ZS10VGp1eWxRcUpCbUJMUUxkYjA3X1pRX1NuX3hqUjBpaUVjd2JsRzNrQ1Q0SE9uNjN0Y3FBS1dsdVEtSE5kSlRONVcwVlpHUDhaLUlvcTJGMEpBTFljb1pqTTNQc2U3cENoLU9WXzQzYVZnMTV5QlQ4RjZOTHVFaDVFUWRNa0d0eUhmWmpiZm9HUWtMWUdnRGQxZ08zYXF6cElscm8wVGxKanB2QQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "UK introduces sanctions powers over illegal settlements as E1 tender deadline loom",
    "source": "Investing.com",
@@ -136,21 +182,12 @@
   },
   {
    "title": "US Equity Investors to Monitor Meta Platform, Tesla's Earnings While Watching Treasury Yields Alongside Crude Oil This Week",
-   "source": "www.marketscreener.com",
+   "source": "marketscreener.com",
    "time": "2026-10-19T10:17:06Z",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMW8xY29CaWIzVUxYLU9WLXA1SzZvR293Q09uMGl5Um0wcGRka2xTZFgteTEtRFlDNjgxV1c0Z2hoWHpDZVdwVW1iZEFhTkFFclFIbkFqMW1wT2gxelgyeHNNTGMtYnh3NnVadDFhbmNxM3lzNGdyQmhEMzM1UVRYRmFncXpQRHhZakczTzBUZW41a21MYU1SZnJ5cnlzNlVUWGFXQ3FsN25SRlN3aW1DQjJPcEllWGRJRWFSZXJfV2g2a1N1S08xLW16UHFWalQ2WmNNTnd4UVRVQ2NJcjZIYU5pUlpQVTg?oc=5",
    "tags": [
     "YIELDS",
     "OIL"
-   ]
-  },
-  {
-   "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
-   "source": "CNBC",
-   "time": "2026-10-19T10:13:22Z",
-   "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -173,12 +210,22 @@
    ]
   },
   {
-   "title": "Opinion | The U.S. badly needs new tariff laws",
-   "source": "The Washington Post",
-   "time": "2026-10-19T10:03:16Z",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSkRkS3lEaUVrc1ByaEVmUXJjdV8zY0dTYzNpYlh2SlQ2TGxMUkZVYmZCWlFwR0VBYzA0Rld6Z0FCMWVlTXRkdFNSN2xOYzNJRWFRYWFHZ2dwdmxiNXc4X01oNlI1cUhwMjJGTlNRbkR2WEN6dXJGTVdZblE3MXN1SHBwNmRsZ2JkNmc?oc=5",
+   "title": "WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages",
+   "source": "Al Jazeera",
+   "time": "2026-10-19T10:08:06Z",
+   "link": "https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss",
    "tags": [
-    "TARIFF"
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump Eases Russia Sanctions, Midterm Campaign Money, Violent Protests In France",
+   "source": "NPR",
+   "time": "2026-10-19T10:06:49Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWVnTEI3QnlaS2tfNE9XZE85TFNmMTJDdGZNeWNRaUJNOU02Z3UwRmoybmxCdlpRbU9IOGtNaVVsNlJVRjNJRFZJY2NWbXRuUWNqLWxndEk0WUMxLXlxLTMwVVMyLXlpT0pTWXZqdk4zUW01SWNqX2pNQ3hXdVFRYUg0cW9FMWJFOGRKeFVieF9NYlJpVjl3YVFZX0d2UlQtU3NXd28tVzRCZjlLbnNwSkNfMld6SXZjRWJMNEVxRU4?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -219,6 +266,24 @@
    ]
   },
   {
+   "title": "Vampire Carnival review – it’s Twilight at the fairground as abs run wild in pointy-toothed tug of war",
+   "source": "The Guardian",
+   "time": "2026-10-19T10:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTVJaQ1F4RHhNYWhuMlFCNXg2SHFWTFZ3MkJYal9XQXZhLWlhSG9oZVJkVmVEbDFacnFTaVJEY0RQS1o2WkVCckNGb3lmSVZFQ3dXVmlMMlAzM0xLQnh6Um1Ja1V2TDJQMjdXLXJIYTItaU1zVWVWTlRpSmVuTUsxUDB5SUlBaVA3RUIyRVhEZFN5dw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Crude Oil Clears the $93 Trigger: Wave Five Rally in Focus",
+   "source": "Investing.com",
+   "time": "2026-10-19T09:57:00Z",
+   "link": "https://www.investing.com/analysis/crude-oil-clears-the-93-trigger-wave-five-rally-in-focus-200689815",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
    "title": "Oil prices dip as Trump waives Russia sanctions",
    "source": "Investing.com",
    "time": "2026-10-19T09:55:36Z",
@@ -239,6 +304,16 @@
    ]
   },
   {
+   "title": "Brent slips after Trump waives Graham Act tariffs on Russian Oil buyers",
+   "source": "FXStreet",
+   "time": "2026-10-19T09:49:41Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTV6NDFzNkFFY0xiNlF4b3U3ZUVJNkNyMGxBSXMxSlUydTJsMldUUklZbHJuSk1URUhUVVVnSlFoOV95bEFPQnRYNDJ4NzBRQ0pSaElubTZZRXlUcUprZlZ5UWhFSDNmWmtYWVFPYU1OR1hIaWRLdnppbTlCcEJNNERKYnJDak5ocXhNYkJwM09BTTBBZUhHOWNCRlk3Q1ZrM05XMFZYbTZQb0p1QjRaWTZlMUp5Q25GSnc?oc=5",
+   "tags": [
+    "TARIFF",
+    "OIL"
+   ]
+  },
+  {
    "title": "Economic data spotlight: UK inflation set to climb as BOE rate hike and autumn budget collide",
    "source": "ForexLive",
    "time": "2026-10-19T09:48:35Z",
@@ -247,6 +322,15 @@
     "RATES",
     "INFLATION",
     "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
+   "source": "The Guardian",
+   "time": "2026-10-19T09:48:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdmYm1KSUNkMm9QcS10VF81SWJBNDRBSnc3X1RWaFJsNnVjQXBMbnZFTE9uS1lrdVJmRGxya2JpR3A0RkkwZUd0VFgwVkNOTnhia1dDcEFiMW12cW9xLUt5U1d6ald0b1NKWUVOSHhxdzVlT1ZKc2tLSllLMnlYZlozbHdvckpWY3o2NjJ4M3lYdk1idG1RZ1FZa0dDMnBpZll6anBaMkNCcnNBcENYZTZzMTBiNDhp?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -275,6 +359,15 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeEJFT1pYVW91WjhpaUtsSnBlQkEtYWZhMUhoZ0F6bXdZQWs2TFR6cGFpblpKMVVQQ1QySW94NzFJX2RTUWdzVDRPTm95Z0xhTHlsWFBDZ2MwY1NZcUN3ZGExaWZWcFFwOGRBQklsSGpvcEltX3NyUkxBWE9BaS1tQW1zT1ljX2ZSaXk3djZNRHNKVEpmV01JU0tiTlVRX0dFMzdWNjlycXhSbmRmRm4wUEQtUQ?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Chart of the day: Gold price eyes $4,200 breakout, but buyers still face two major hurdles",
+   "source": "investingLive",
+   "time": "2026-10-19T09:21:04Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOER5UkJFZFQ0TFdXaXBaaW40TXNHYWFGeU9HQTlQcnlraURWQTFPZFJfY0pKZUVJdWZwSGpiS0hmMXFLT2xHX2xXX1kxVEtxMTZrR1VCQ21TclRBTFQwQTlvbFJGellfUkd1X0NTeFNHMmQ5dGtQMDZyOEJpX0lRSUM0a1NxYmJVREl3WWQzZDdHbUNMRjdYUF9zYTZDdWs0NXFVTGdlYWo3YjBYVEVoM0R4eFhnYkF5ZGVITlE4ejdBZFpDc1ZwYTlnQW94dw?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -316,21 +409,23 @@
    ]
   },
   {
-   "title": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
-   "source": "The Guardian",
-   "time": "2026-10-19T09:06:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdmYm1KSUNkMm9QcS10VF81SWJBNDRBSnc3X1RWaFJsNnVjQXBMbnZFTE9uS1lrdVJmRGxya2JpR3A0RkkwZUd0VFgwVkNOTnhia1dDcEFiMW12cW9xLUt5U1d6ald0b1NKWUVOSHhxdzVlT1ZKc2tLSllLMnlYZlozbHdvckpWY3o2NjJ4M3lYdk1idG1RZ1FZa0dDMnBpZll6anBaMkNCcnNBcENYZTZzMTBiNDhp?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Kelly Clarkson’s expensive purchases: A multi-million dollar real-estate portfolio that spans the country",
    "source": "MarketWatch",
    "time": "2026-10-19T09:03:00Z",
    "link": "https://www.marketwatch.com/story/kelly-clarksons-expensive-purchases-a-multi-million-dollar-real-estate-portfolio-that-spans-the-country-fe1d3bc7?mod=mw_rss_topstories",
    "tags": [
     "USD"
+   ]
+  },
+  {
+   "title": "The Coverup: How a Trillion-Dollar Industry Launders Illegal Gold",
+   "source": "The New York Times",
+   "time": "2026-10-19T09:00:39Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSXF2NWxyWURic0VIREMtbDRpVW85amxWZ3VRa19FZ0ZMbVlSN0pUTVhPbFk0OVlyMGJmRVBUcFVWWFIwcWNBQWtGMUE5ZGNNSW16UXZDd1Jydl9OcDdCMVJzVjQwMXVRQ1pPV3NhUENJcktYZXBEYWpQWFVNdVBzbWZvcUhKRGQ1MXZxak0xYWFZOENlSUdLZl85bjRPcE9Q?oc=5",
+   "tags": [
+    "USD",
+    "CENTRAL_BANK_GOLD",
+    "GOLD"
    ]
   },
   {
@@ -382,7 +477,7 @@
    ]
   },
   {
-   "title": "GOLD: Has it found the firepower for a surge?",
+   "title": "Gold: Has It Found the Firepower for a Surge?",
    "source": "Investing.com",
    "time": "2026-10-19T08:34:00Z",
    "link": "https://www.investing.com/analysis/gold-has-it-found-the-firepower-for-a-surge-200689807",
@@ -442,6 +537,17 @@
    "tags": [
     "TARIFF",
     "CHINA"
+   ]
+  },
+  {
+   "title": "Gold (XAUUSD) & Silver Price Forecast: Oil Dip Cools Fed Bets, Can Gold Clear $4,201?",
+   "source": "FXEmpire",
+   "time": "2026-10-19T08:08:29Z",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQUNQWlFsTS15Umt2QlRxWFFtOXl3ZU5rNy1VekpLcVZVNUI0azJSZ1BrSUpGRm96X3lnV1E2OE4zNnp5b0xFT3NKQmxSb3MyQWFPbmh1cDRPbUVoVmJrNU90djRaR0pkMUJXcWVyc2gxTjRfeDJiem5KTldncDBPdkRFeXVqbnhTU2Q2MmJqNUxzbUxlOEZKZE92SFhDTFZ4Q3A2NE5VNEZENjlOd1V2ZmZTYnV1TGpiRVVRWlJoT3dqeW80cUE?oc=5",
+   "tags": [
+    "FED",
+    "OIL",
+    "GOLD"
    ]
   },
   {
@@ -539,15 +645,6 @@
    ]
   },
   {
-   "title": "Gold Pressing Against 0.5 Arc With Potential Breakout Toward $4,277",
-   "source": "Investing.com",
-   "time": "2026-10-19T06:54:00Z",
-   "link": "https://www.investing.com/analysis/gold-pressing-against-05-arc-with-potential-breakout-toward-4277-200689798",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
    "title": "Dubai Sweetens First IPO Since War With $592 Million Dividend",
    "source": "Bloomberg.com",
    "time": "2026-10-19T06:42:00Z",
@@ -591,98 +688,6 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWdtNGVsOU02TXFvOUNyRUs4NTZLbXFZY1N3RkVSbjRuendpOE5waWFyWjVVMnF5aWlwZ3NOZG81QW95WG9fUUkydmltWkctaWg1R204UU1nRU1teU1FR2diZHdJMy13Z3NXbVliRTJLc3dSWEVubDRwVjV4WXh1dG9lcjJPa0dhbVBkWklyMVJIT3JSZ2VUQlFORHIyeWg0d3NjMG1vODFESXZlMVBXMVZlalk?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Between Renewed Confrontation and a Negotiated Settlement: The Fate of a War That Was Never Meant to Last",
-   "source": "Al Jazeera Centre for Studies",
-   "time": "2026-10-19T06:25:51Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYWI3djRUX1JGZXlIUlpKN3Fmc1p1NHVRLVVFbFFDM2RjYndXMnA0dVBjVUpqNE56eHcyZDVTd0lVTFV3YW9VaFJHcFZYRFhTV3N3UDNjVlRUQjNwS1BZaEdua1FNU1g1dXUwTTdYOGlkY0JIRHp5VDJIUjN6M0t2SzY3NWhaYXRwWm5ycWd6NnBSQnIxdUlsdnl4Y1dnM2V2WVdhWUpzc1lDc2VFYVVHWElBRDRDLXpRVXFUcF80ZHlNUk5mbEdrRXNhYV8?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Vertex Minerals targets production leap at Reward gold mine",
-   "source": "Mining.com.au",
-   "time": "2026-10-19T06:20:32Z",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UVTlFTzE3VmNIcU5tdmNMaV9zR1pxU2dMMWdQQjR3SUVkV1FnSFNCR3I1a0I1bi1HWTNaNF94SnY3SmdSU3N5cWNWNk9uSHZ0NWRVeTJSdTgtLUJJQVduX0JjSWttRFhtdVRlWjNSNkZudHlhMmpEc0hsRUxTQQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "U.S. Treasury Yields Fall in Asian Trade",
-   "source": "marketscreener.com",
-   "time": "2026-10-19T06:09:45Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQazkwMzlKMXg5eVk1Zml4M2NLNTVZdzV4MU81SXNDbUFHOHNkWnJwWERadG93UUtjVVBtUFFpV2hkNXNWU0VzcC1hQmtPdWZ1dnMyLXB2bGxTdW1TSUZIc0s0cjlvZlJPamtabGJjX3hwcUNJUGFBUFVJc01kVVBzQWhWaW5nQkw3MGhSR3dQeThHUjRPbjVV?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "China's growth accelerates as AI boom helps boost exports",
-   "source": "BBC",
-   "time": "2026-10-19T06:08:02Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Gold climbs as rate hike bets fade, putting explorers in focus",
-   "source": "Mining.com.au",
-   "time": "2026-10-19T06:05:27Z",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3U1WDZBQks5ekRObXRZUkQzcU1GNm5TNVdUZEREU29HWnI0OVQwWEQzNEc5S3BBUnZhWU9xaFp5SmNReFF1SktFUmIwQUNZV3pIR243T3J6bHRkYmdXLXdQSnh3V21YcnhlRGtOZ3Z3YmkwdFgwUkdiQWhYMmptWTdtTDV0eXBBWGlrMw?oc=5",
-   "tags": [
-    "RATES",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-   "source": "BBC",
-   "time": "2026-10-19T06:00:18Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
-   "source": "ECB",
-   "time": "2026-10-19T06:00:00Z",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "title": "The kingmakers who could determine Israel’s election",
-   "source": "Al Jazeera",
-   "time": "2026-10-19T05:58:46Z",
-   "link": "https://www.aljazeera.com/news/2026/10/19/the-kingmakers-that-could-determine-israels-election?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "China’s economy grows 4.5 percent in Q3, beating forecasts",
-   "source": "Al Jazeera",
-   "time": "2026-10-19T05:56:47Z",
-   "link": "https://www.aljazeera.com/economy/2026/10/19/chinas-economy-grows-4-5-percent-in-q3-beating-forecasts?traffic_source=rss",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Asian shares are mixed with tech stocks volatile, and oil falls on Trump's Russian sanctions waiver",
-   "source": "thecanadianpressnews.ca",
-   "time": "2026-10-19T05:52:21Z",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPci10c1ZSRDU1Yjhkdzc5TzMwSm02S3B6NHVYRVNQVnJnb2FxRWFwaHJqeFZWWDVBb1JXZ0ZGLVBmdTJ2YXpBYm1Ud3hELXRVaGxTUU9pSkxudjVHRG1XYlBOZDdFblRjWXBDTllKV29VMXZnSk9mT3IzYllGZXJWR3ZVWDdKZ1Rmakw2TGxtZW02ODZYQXdJX3JJblVxZzEyaE56Z0dhVXBnTUo0OVZVcXltalB6NXdKb3hJLXdJN2VBXzJaTE9nWmVQTGxrOHRtUUhpNmJuT1VuZWRXUDhodEtQMGNuai1STVhsMWxQREt0VkpkeDJXcVR2TnNEUV9OSUZQOWZLb0VsYlNnUE41MU5tUQ?oc=5",
-   "tags": [
-    "SANCTIONS",
-    "OIL"
    ]
   }
  ],
