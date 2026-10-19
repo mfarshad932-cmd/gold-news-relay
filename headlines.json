@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T08:26:41Z",
+ "generatedAt": "2026-10-19T08:55:01Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 6
+   "kept": 7
   },
   "investing_news": {
    "http": 200,
@@ -66,7 +66,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 29,
+   "items": 28,
    "kept": 6
   },
   "aljazeera": {
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 14,
+   "items": 17,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 13,
+   "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "gn_war": {
    "http": 200,
-   "items": 37,
+   "items": 38,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,8 +106,8 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 12,
+   "kept": 12
   },
   "gn_oil": {
    "http": 200,
@@ -126,6 +126,34 @@
  },
  "items": [
   {
+   "title": "Treasury yields move lower as investors assess U.S. inflation backdrop",
+   "source": "CNBC",
+   "time": "2026-10-19T08:45:49Z",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nUzdzVnFiMmJCeWJJaVF2cjY5c1lrdkNyMFhqZGRqcGdDaU42WG9icUlJM1daS05OeThBNFpGQVJ6MjZFN2psQkI1WGFGMXJpRHY3RTVzdVI3ZExKVkN3ZVNMcDRwbk9zaVRoLVZrQdIBdEFVX3lxTE1mWUNCVkNBVTBnTHdJcGtFQnpqVzFnV2ZVVnNSUUxTMzlrQkwwLVJudmI2RHRwVUx1bzBCV1FPT3RqRmlMMzlOOXBfeUtWRVE2b1N2ZV8xMkVKOWlPWmNZSVFldDVzdjh5Z3VlRnZkNTFfLWY5?oc=5",
+   "tags": [
+    "YIELDS",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "GOLD: Has it found the firepower for a surge?",
+   "source": "Investing.com",
+   "time": "2026-10-19T08:34:00Z",
+   "link": "https://www.investing.com/analysis/gold-has-it-found-the-firepower-for-a-surge-200689807",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Kenyan Remittances Dented by New US Tax, Fallout from Iran War",
+   "source": "Bloomberg.com",
+   "time": "2026-10-19T08:26:06Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONVRfQ1NCUUlBR1dab216OGNEWXlrXy1KT3dVSnBlTkkyNVJ1TC1UWnlQZzgwSTA3QUd5NnB2ZW1GUUdHby14dHU3aWVMZ3JvOFpobVFJRFlJSXlvc3N2R280SnFjODkzQ0t3eHluUTVsYUljNEFjTkZDdlNQYmQ2eE10SE1HQmFtdy1ES04xYjZYZmQ0NEFyNUU4VUJTdmpKT3hOVzVzeU41RFJCdFRZTDZR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "WTI Oil eases below $97 amid hopes of higher supplies from Russia",
    "source": "FXStreet",
    "time": "2026-10-19T08:23:03Z",
@@ -142,6 +170,16 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYXQ2YjlLVHdNUzJHSVpLVnlDeWpRWHctbGZIcHB3ai1SUWs0LXFDc040c0dlRklNQ2Q0V3laOTh2NE1XYUFzRHp5SmdUV080aVFESVBfaUZzMlBMT3M2Y2dpU0ljMGpiRzdwaXd5T05MX0xWYzQtUW1IUDhiNmNraWNEd3Vfa2VqbGNXVjVUaEhWWl8tcW16YVZxdzZHUjVhbWpPY1ZVaXdyYzAyQllsdXhBWjJQT2p4aVl1ZmRvMFc?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Rises Amid Falling Oil Prices",
+   "source": "WSJ",
+   "time": "2026-10-19T07:56:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZU5uN1haS1FQQW82aVdiWmxlbDJrMkszT091U2xWR3dGOTdBeVZ6Z0gzSGpqQ2ZNTE96MG1kckxxY2NVV0I0THpteE9lWGZTdHUxa01OTzJkUndWcVVRWDVZWHVYeFZPcm5VckhaZFBVRDRjcmgyRDg5OUJ1WFBlTlotVGlnekE3SVFDVkpFMHBQbTVPWmd4WTNSSTd1X0ZJNDFlUmVWcGxlSE5oWG1ENmZoYk1oVTdKZlE?oc=5",
+   "tags": [
+    "OIL",
+    "GOLD"
    ]
   },
   {
@@ -394,22 +432,22 @@
    ]
   },
   {
+   "title": "Asian shares are mixed with tech stocks volatile, and oil falls on Trump's Russian sanctions waiver",
+   "source": "thecanadianpressnews.ca",
+   "time": "2026-10-19T05:52:21Z",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPci10c1ZSRDU1Yjhkdzc5TzMwSm02S3B6NHVYRVNQVnJnb2FxRWFwaHJqeFZWWDVBb1JXZ0ZGLVBmdTJ2YXpBYm1Ud3hELXRVaGxTUU9pSkxudjVHRG1XYlBOZDdFblRjWXBDTllKV29VMXZnSk9mT3IzYllGZXJWR3ZVWDdKZ1Rmakw2TGxtZW02ODZYQXdJX3JJblVxZzEyaE56Z0dhVXBnTUo0OVZVcXltalB6NXdKb3hJLXdJN2VBXzJaTE9nWmVQTGxrOHRtUUhpNmJuT1VuZWRXUDhodEtQMGNuai1STVhsMWxQREt0VkpkeDJXcVR2TnNEUV9OSUZQOWZLb0VsYlNnUE41MU5tUQ?oc=5",
+   "tags": [
+    "SANCTIONS",
+    "OIL"
+   ]
+  },
+  {
    "title": "Markets left to figure out sanctions",
    "source": "TradingView",
    "time": "2026-10-19T05:52:00Z",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSXNEV1BTMnU3N29DdDg1dDVyRDk0WlRjYUQyMU82a0k4Zy1uMVVKeFBPbl9ZZ2xZTUoxNGFmYl9IQmJrTjlXREI4aTZJY0RwWlNYVElQVFI1LWN1UWRJT3NzdGRtNHJ4dHo2SmtBRExINTdZekgzUXZ6VzRUT2tHTDQ3ZTRjOGo2Y3pLRzVtQjUyVlExY2VJaEU4bE9abndyOVVLUEpoNG54Zw?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Asian shares are mixed with tech stocks volatile, and oil falls on Trump's Russian sanctions waiver",
-   "source": "Yahoo Finance",
-   "time": "2026-10-19T05:48:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT2ctT29yY2NXUERHb0l4akNWOFNNYTZVUWVKYU5oNTRvMXlpcFFYelRJc0V5MUgtWUJOTTBkRWRwT0NZbFZ4aHdQZVE0aG1halZmLW84d01qb01QdmRSZTc1UC05VXVFWW9fV3pnVW0tSVlsX3A4WTFPZ1Z4bVBIYzJmbVgtMW1CRkpjUS1ncTI0b1NXemlwdjFpNXBkNXVDZWRZbA?oc=5",
-   "tags": [
-    "SANCTIONS",
-    "OIL"
    ]
   },
   {
@@ -638,45 +676,6 @@
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0eUE3NlZIYURIaERvcmpRV3o0NWZRakxqY0QyYWVZU055SUJJazMybTNUVzlSSEN1TjhOc241WU9ld0NjTS10TWFCV1BNVnVnNDFQaHdPRWVXbS03RTlnOGNBdEtpR2J2OWJGTXpUMFZUNE5pSjVnbWhpSQ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Vance struggles to tame GOP struggles in 2026, and may suffer for them in 2028",
-   "source": "CNN",
-   "time": "2026-10-19T04:00:44Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZVRRR1M3eVZ6S0tZOU5JcE5FV085SUpPdkw0c3lEYldyb2hZd3RkOVg2UHNLMGdVZ2dXNzVTY0F3SXRQZ1ZXV0Z2TlhSdkprZ1Z0N0pxVFBaREdwN0tzOUxLbTNwMlZjMzR2dVZlTVYtQlpnSVhjeGF5aEdqWnF3Z2Z3V24?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "investingLive Asia-Pacific market news: China beats, the euro wobbles and oil dips",
-   "source": "ForexLive",
-   "time": "2026-10-19T03:57:13Z",
-   "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-china-beats-the-euro-wobbles-and-oil-dips/",
-   "tags": [
-    "OIL",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
-   "source": "CNBC",
-   "time": "2026-10-19T03:56:03Z",
-   "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil prices slide 2% as Trump waives Russia sanctions",
-   "source": "Investing.com",
-   "time": "2026-10-19T03:38:19Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY1BjUDRPSzlBeDg2dXhMUGhEZlZ3SHloQWdxbjUycTZxU1JtVm41R3JqQklxbXlUNjJ2Q1NET3g2MWVyWGh0alFsY2Y5REtvYmFoWlg4eDZWS1F3a2I4cjJkNlFVc0ZBUk00UlBid1BveVlpUXR4U3FvZTcxdVVkMUozQXI1cW1aVkNTQnNydW5mMDAwUGFBVDU0S1BhSF8tZmZXYzVzLV8?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS",
-    "OIL"
    ]
   }
  ],
