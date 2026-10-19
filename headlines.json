@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T03:15:05Z",
+ "generatedAt": "2026-10-19T03:43:23Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 2
   },
   "bbc_business": {
    "http": 200,
@@ -66,7 +66,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 31,
+   "items": 27,
    "kept": 5
   },
   "aljazeera": {
@@ -81,27 +81,27 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 6,
-   "kept": 6
-  },
-  "gn_fed": {
-   "http": 200,
-   "items": 6,
-   "kept": 6
-  },
-  "gn_tariff": {
-   "http": 200,
    "items": 7,
    "kept": 7
   },
+  "gn_fed": {
+   "http": 200,
+   "items": 10,
+   "kept": 10
+  },
+  "gn_tariff": {
+   "http": 200,
+   "items": 8,
+   "kept": 8
+  },
   "gn_war": {
    "http": 200,
-   "items": 41,
+   "items": 43,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 27,
+   "items": 28,
    "kept": 12
   },
   "gn_yields": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 2,
+   "kept": 2
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,47 @@
   }
  },
  "items": [
+  {
+   "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
+   "source": "BBC",
+   "time": "2026-10-19T03:17:46Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Silver Price Forecast: XAG/USD gains above $57.50 as Fed rate hike bets decrease",
+   "source": "FXStreet",
+   "time": "2026-10-19T03:16:50Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbXIzNGVlYVQweFNySGZ1Z2xmY0JONWlYYXlRaGZKeFE1WFFGTlVRYm9NYlJQdndFSUYwMmRRX2Q0UlpwNlF0Mmx3WXlVdml6Y0ItQkU4T1FGZEtIOVpURk56YTB1ZUNBb2hHTjZhR2xXa3BVdlV6aEhwbHV5OEMyVjZIampqRmYtVkYwQm1wQnBnb0JGWEtRaEtxT2hYLTZVaDJuYTE4RmgzWTZRMHZGUzVhSktwOEVnelBfWg?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "USD"
+   ]
+  },
+  {
+   "title": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
+   "source": "Al Jazeera",
+   "time": "2026-10-19T03:15:45Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXVUc3p5OTNTUjNYTVkyMzd1bHMwMGhyRkw5Y2xMRmZMQS1qMGxuMUFnYWpJdzVLU2JUeFgyNkZzb2dIVU9QOXppTDFTcnNmbHBvWjlGVnVobnlhMnFFME12ZERqR0JUVUxuQ09sUGFuV1lnZlBHQ1p5V296RWdrcGs2bmlTTUIzS1NZQ21ILTR1eVdBcEN5V0xINmhoRXFYLVh5YldINNIBrAFBVV95cUxQazNtdU5PdWJ0Yko0YVFxaFJ0d1E0NUktYnVYSVJDc2J4TVNpWWZFTFA4aWg4MVB5SERmekpnQlFBbkFmSnlsVktsN01sNmlyTTFrNENkaHRPSEU4WEtDZ0RtTlpPV2ZGMElQeUFOMzRzTHRkQ2h0dndsSjl6U1NfX3RWSjZxZFlCMEhjM0paS1R2Zzg1U3dQOW9QWVVhQ2JRWGVsQXF3VVZDMUZO?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Gold edges higher on softer oil; Fed rate outlook in focus",
+   "source": "Reuters",
+   "time": "2026-10-19T03:11:00Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHBoaXFtRmhELVpxR3BOYzNDX3IzS1Y1UHZaZUlWRnBiY0Y3WWxwa19vSlVRUENyTGtpZVJFSEFSLW9hVWhEaktYRTVhVWpObTFOYThBVXNRX19VY0phaUJjSkdSMjFZQ19FUFZGMm44UnNpZkZGSnNCeUc2SFZ4c1ZZUU9lV2tiUk1odm44Wmc2WGVjSG5pYUU3QnE2NGYx?oc=5",
+   "tags": [
+    "FED",
+    "OIL",
+    "GOLD"
+   ]
+  },
   {
    "title": "Gold and Silver Price Forecast: AI Funding Fears Fuel Rebound",
    "source": "FXEmpire",
@@ -139,6 +180,25 @@
    "source": "The Washington Post",
    "time": "2026-10-19T03:07:08Z",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPblN6VHNwQ1V3NUZ1aVg4RzVPQ1RHWmRIU0lWUm1JenRXcGM0Y0hJd2RqMHlUSE9Tcm1EWWg4SlB1QUJ3d29COUR2TzEtdTRrR0JYcHpMZ2xqVjVJbzRuZTF3MlBiX0Fqd0hHMDlHNEFFVzhlVjc1Y0RGLXAzbnRVV0k3cmhUZjUxdnhmaGtBMjhVc0cyMDlqaDhwaWxJRFQxV1JwT3ZjbFM3Zw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+   "source": "Al Jazeera",
+   "time": "2026-10-19T03:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcEJCSHJCeWRoX05HaTVfaElIWE11RVVPQkE2bzk1dUVjVm1ZT3JMRFV3Wm9GdjVXOGZSMEc5T2MzVlkzdk9hXzVQaGRmUVdTSXV4a1RxemFyUXVhS0c1cWE0eEZ4c2RvRG5hMUVVZ1JabldKcXVnRnlXUWFDZlQ4c0NtZG1CNEpVLTl5aHdtSGZHZ19YdlpZOXp0QW11Q3p4eEx2R2xsMlh5dk1OenRqS1lTSE5xUdIBuwFBVV95cUxQUG1DbHYyV01VRGEwR1BKOWtXWnJ4dFZqZDBCbnZMb19vV3E1Y0NabzJqZGt5Y3NSS05JT3QyR2xnOXprX2NnR3FxbWc3dk5EYXRfRzdwLTRBX21YUXFHdlZnc2F5Wm1zbkI4REk4ejk2VmFIVm94X01TMWp0SUJ1dVNvWEZjSzVlVndwTlpSUEJ0OTFXcXE2Qnk1LVlEVXRPSjNVQUhSc0hfbVpJY2w4dm1Zalg4QkIwNHpZ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Threat forces Israel to Austria flight into emergency landing",
+   "source": "BBC",
+   "time": "2026-10-19T02:41:50Z",
+   "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -189,15 +249,6 @@
    ]
   },
   {
-   "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
-   "source": "BBC",
-   "time": "2026-10-19T02:22:42Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
    "title": "Commodity Corner: Oil slips on Russian supply outlook; gold gains on Fed rate expectations",
    "source": "TradingView",
    "time": "2026-10-19T02:20:00Z",
@@ -237,16 +288,6 @@
    ]
   },
   {
-   "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
-   "source": "Al Jazeera",
-   "time": "2026-10-19T02:10:09Z",
-   "link": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
    "title": "China moves to prop up stocks with selling curbs, buybacks after 10% slide this year",
    "source": "ForexLive",
    "time": "2026-10-19T02:07:46Z",
@@ -262,6 +303,17 @@
    "link": "https://investinglive.com/news/china-q3-gdp-beats-estimates-as-does-september-retail-sales/",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "Gold Rises as Fed Rate Hike Bets Ease",
+   "source": "TradingView",
+   "time": "2026-10-19T02:01:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNFJMRVZrc19nd3dWY181SDduQUJWUUt3cHJjSjdFQTE4dHktaXpYU1U0R3V0azBTM3g4dkx4S2E3TDV0ZkFJVlZ6d0FCMWo4Um1WcHFLYnhETjFfdUJ6dkdFc1l5Wk41YTdoTGxFaVN3UXVHcHBzN0J0cm01Q0NhVl9CZkJxcW1TVmVaQ0hXVlQwdw?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "GOLD"
    ]
   },
   {
@@ -506,6 +558,27 @@
    ]
   },
   {
+   "title": "Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies",
+   "source": "TradingView",
+   "time": "2026-10-18T23:52:03Z",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM2ZTMUFOWGlNTk9mU1E2QjFXVmRTalNpT0stLTBRdm5rVVZ5cVNWbU9qSEVVUXg4aU8tY0VNSlFMWV9wV3ZPbGFMLUVVSGg3X3JZNkxPTk1qY3pjbjJoYU9yTnpITE9EQTBTMGFGU25OVzZsTjNQNC1yUlIzLWJvLTJFaVE5Qlg5UkFmZ1AwazAwWUxIYjFHcEd4ZTEtZ0VYbHpNaTgtMUc1LTdtcGRhcEYwLU1GZE9DY0dubFBjWG9XUnQyX3lTR3QxaFJ6QkM0S0NLaWhuLUxzN3d6V0lEOA?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Gold Edges Higher as Traders Ease Rate-Hike Bets on Warsh Speech",
+   "source": "Bloomberg.com",
+   "time": "2026-10-18T23:47:43Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPREhDWC00MVloSzQ4QWFaYzl1MTdFTG1fRURVRmZzZF8yTms3MGpaYkhYSWd6Z2V6U1U2a1pNVDVKRl80OHdZY0YxSklldWVPR1g0YklVTGQ1MVhNdDJlUXh4dDNsQm1TQnBrMkp5NV9CTzlnS2VEeGR2a3V0bFhNNVBRejRlZlVRUE9sSUtEakxmMUlyQlQzdEYyanI1WXJaVjV2WXFUQjd1Tm9NR29tZUJCMWRGZw?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Crude oil climbs again as Russia-Ukraine \"ceasefire\" faces doubts, US-Iran stalemate extends",
    "source": "investingLive",
    "time": "2026-10-18T23:45:22Z",
@@ -618,71 +691,6 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
-   ]
-  },
-  {
-   "title": "Weekly Recap: EU/UK/EFTA 2.5% share and Burry filings lack counts",
-   "source": "TradingView",
-   "time": "2026-10-18T23:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVmtwNmNybXMxZkhaVEJaR0ctMk5XZHZ3ZklsdGx2aHhtOVN3SS04cFlxdlZydDNVRTVzeFBKUW9obFh0cVdnancxaEh3UmNPNGZ0SlFDYjlZcHpCeXppQzh3VDM4WnBKLXRPS3l5SVA5M1hUdzJlMWhxZmRPTldqaklrNUhHOVVUWHdJdHJ4cmpoUUdQOVJiX1dYNEZwSXd1YmZ6d3I0aHB2UWlEWm5ycndnUEZtNlRCRVQ3ZHZ6RU01WjA?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Stock futures rebound as oil nears $110, AI earnings loom",
-   "source": "TradingView",
-   "time": "2026-10-18T22:52:04Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3dfUDJ1NzdNM1Rka2xHNFlVRlRUR01jV2tMWVljWEpZVS1mNnFmVVZPZ3NFblh6SWZXZTdmWWpwcEc1aWgyd1o3ZWR6THNRMjExWWx1SnZJNm13S0VjanZUd0ZuQ1FMb1lZeENJbkVfYVJkYXlZUExWUXM5ek9adWowMENkTWNFT1BucXlIRXNNTkp5Tk5NZ2NHSFV5NWRxb3d1Z0tZNnhiYVNPcEpld0ppMDNBOE1laHc?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Oil dips as Trump waives Russia energy sanctions, offsetting Hormuz tanker blast",
-   "source": "investingLive",
-   "time": "2026-10-18T22:30:17Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM044eWRYVzVYNkg2N1dQOFRNT3haZlRWUWVqVmhHaDdXVkZWSllZZXBEalZlQ3BWdGh2Mjlwd085R3pJYl9OMkZmbExnZFpiaEtlRW84T215R2FLMWhsQWlseWpsbkptNFB6OGw4VnN1YWhMejFaT21GOGRUY2cyWHRteUIzVFB1T2xYeTh2ekRVaTNOV2RKbjhFZHlXeXBvWUp0a0J3Z05mZGhHV1FQSkRURlM2dXd2elE?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "AI credit stress: Why falling Treasury yields matter",
-   "source": "FXStreet",
-   "time": "2026-10-18T22:09:36Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1VmV0tWUmlvNTlVeW52SEJJQ0JrcER1eXhYSzY2ZzNPSklCUGhDcWZjUHlDSUxLTHhqaTlTUjV2cUs4elNPMVRMMmJBYTA0d1BkREhDQi16VHBjNEhRbnVkT2tZaXpBbmZfNTlKMHNYN2w2d2NtY2lremE0Q1VXcnZGVHRjektEX3BUZHQ2Z0NmUmI5ZGttN2lUM2dsTkU?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "China data preview: industry holds up, consumers and property lag ahead of Q3 GDP",
-   "source": "ForexLive",
-   "time": "2026-10-18T22:04:05Z",
-   "link": "https://investinglive.com/news/china-data-preview-industry-holds-up-consumers-and-property-lag-ahead-of-q3-gdp/",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Israeli filmmakers bring counter ‘NAZA’ programming to Capitol Hill",
-   "source": "The Hill",
-   "time": "2026-10-18T22:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQXhPR2ZLN3J0Y2tnREFabE1GS2ljUjl1eG5JWEoxaUptbE4tWFl0bUJOaGdqZ0ZJdGM2Y0ZVdWM2ako2OG92d0hENDljME8wUW92UXNKUlphc0lnWmNOMWpxNm5NU1NuWDQyLXZoRzRSS3dZYV9MT1J6bWZ6WHhkWDlnbTlLeWVZSmdscDQ4dGx6bkHSAZgBQVVfeXFMTkFFVnFsM1o4a0g1TjlGeEpBbmZMMjNvVmtxNFRFc09pQ2Q0Qk1peGZmUHFpaTVzNDdkT1J6bW85OXk4djFGOEFxNXV0Zk8wM0U3aWZIME1RYlZNRU5KOGRZOHFiUWpXcXV1OWZDYVhpZlR5RVhCUTQ3OUEtVkFkQ2M4ZUxpQzFYVW90MDZaOVRrSkJnYzUtRzk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Chart of the day: Gold price eyes $4,200 breakout, but buyers still face two major hurdles",
-   "source": "investingLive",
-   "time": "2026-10-18T21:59:07Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOER5UkJFZFQ0TFdXaXBaaW40TXNHYWFGeU9HQTlQcnlraURWQTFPZFJfY0pKZUVJdWZwSGpiS0hmMXFLT2xHX2xXX1kxVEtxMTZrR1VCQ21TclRBTFQwQTlvbFJGellfUkd1X0NTeFNHMmQ5dGtQMDZyOEJpX0lRSUM0a1NxYmJVREl3WWQzZDdHbUNMRjdYUF9zYTZDdWs0NXFVTGdlYWo3YjBYVEVoM0R4eFhnYkF5ZGVITlE4ejdBZFpDc1ZwYTlnQW94dw?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
