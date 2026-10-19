@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-10-19T18:26:34Z",
+ "generatedAt": "2026-10-19T18:54:58Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 0
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -81,22 +82,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 30,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 12,
+   "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 15,
+   "items": 14,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 38,
+   "items": 36,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +107,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 19,
+   "items": 20,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +126,25 @@
   }
  },
  "items": [
+  {
+   "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
+   "source": "Reuters",
+   "time": "2026-10-19T18:39:36Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Ukraine Suspects US Blocking Intelligence About Russian Attacks",
+   "source": "Bloomberg.com",
+   "time": "2026-10-19T18:26:43Z",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ0R5YW5BYzRZYlppalM4NzRiWUc0cWNsN2c3ZjIxb2ZvY0lyWEM3TTNyOUktU3hmWmtnZTFlUzQyd2dmMGNIWGJzNnJKT21iaDYxTEl1d2pDMTBwb19rbE1Jbzc1RXRGY2NsT1FESW1MWkZ2cEZBTEcxajRSTDVIVEhjWnZGcjAzRzl3OEdMMXNrcjVOc29Xak5iNnRKZFBZUWFVOGdzcUlWZzl3M3FKQU9lT09uWDZwODRoSHdmdjFqUVp1VWtHTmhFUVY?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Gold sags near $4,150 as Oil fuels US yields rebound",
    "source": "FXStreet",
@@ -163,6 +183,25 @@
     "CENTRAL_BANK_GOLD",
     "CENTRAL_BANK",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Benny Gantz drops out of Israel’s election race",
+   "source": "Al Jazeera",
+   "time": "2026-10-19T18:11:01Z",
+   "link": "https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Israel at risk of increased EU sanctions depending on election results",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-19T18:08:41Z",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92M2huNm9lQVlVVzV1QjVROUp0cHJyNVNyeGxkNlk0VXQ0ZVNDVGkxUFhtUDItZ0pIU1dLcnFxWHgtamNqY2p5VHRsUE1ITnNQLU5JNk1XdTJSekRwMHE3ekR1RTYxUTNLZFE?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -217,6 +256,15 @@
    "time": "2026-10-19T17:43:00Z",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN3QwRTctaVBMNHBFYmlkSmUyeDlUbmJEd1JDTGl4UXdkcDVWYnhrMDJOb3I3N01MUWQwMjZkUHdBNk8xeG9XLVNiV3dZVG93Wldudk5lbHUxdktGWE4wN0JOTjhBcllWYW9rOEM2LVk4S3FLV2w3ZVkxSkZ1QV9uZXdqMkxvVkxDY2Ryd1laSmI2ai1GRzdhcThsMlF2ZDZPbFpleDk4bnRwN21OTG1XWnRRRFEwWkctRGhtNXdTSExCYVhIUm9RSk1NaTZqNk0?oc=5",
    "tags": []
+  },
+  {
+   "title": "'Lincoln in the Bardo' takes a distinctly American grief to the Met stage",
+   "source": "NPR",
+   "time": "2026-10-19T17:41:06Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUZTWlp0V3lRdk1Gc09uQXpKQXJycXJ3YXBkMVBWM3FrQlJDaDItbWpZRHF5YllGSjVKVkNPM0lhZnF0bUtOci1kQ09JaF9oYlJHQjhRdW5fSzFwYi1GREEzRnE2QXRMQWRRRnpRT0tYUS1uVlE0NV81S0x3NlJoM3E3bnNENUhXX0pfQ3dEREpRTUR2TnQzaW5R?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
   },
   {
    "title": "Crude Oil turns higher on unconfirmed reports of US strikes on Iran",
@@ -549,15 +597,6 @@
    ]
   },
   {
-   "title": "Pakistan suspends Iran border trade, amid violence on both sides",
-   "source": "Al Jazeera",
-   "time": "2026-10-19T14:43:03Z",
-   "link": "https://www.aljazeera.com/news/2026/10/19/pakistan-suspends-iran-border-trade-amid-violence-on-both-sides?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Foamy war? St Andrews students play out modern take on ancient ritual",
    "source": "The Guardian",
    "time": "2026-10-19T14:43:00Z",
@@ -581,16 +620,6 @@
    "tags": [
     "SANCTIONS",
     "OIL"
-   ]
-  },
-  {
-   "title": "Israel at risk of increased EU sanctions depending on election results",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-19T14:39:26Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92M2huNm9lQVlVVzV1QjVROUp0cHJyNVNyeGxkNlk0VXQ0ZVNDVGkxUFhtUDItZ0pIU1dLcnFxWHgtamNqY2p5VHRsUE1ITnNQLU5JNk1XdTJSekRwMHE3ekR1RTYxUTNLZFE?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
    ]
   },
   {
@@ -641,35 +670,6 @@
    "source": "The Hill",
    "time": "2026-10-19T14:03:00Z",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNlIwTmE2ck5CcWdJUFZFYWp1ZENnc2ZHS003SGRVQmVtTU1TbmlwVU9ITmNGNlBwTk5TeVVzRFQxU19wVVpFYUtNN2xfTFZlNXoyVFJDa2JTMkJubWQ4cVYwRGlaR3dJaVhObml4VUJLdnhybUFqVlFtX0MxZk1ad283WjByYjDSAYwBQVVfeXFMUDRVMS04cUh5OUI1S3NoT18wTWNOZVpKMF9VTXNvNlFRRE85WjdGMndQR1pjd29ZLVpqQklXQTBja21hNmFQQUdaRzZuc0JibmxacWZmZkVPX0kyZTlXUEZoR1FLNjY4RFlkRmhaVWpYdzZKUXpKZWhLYlM4WUlidmRGSzZhYjk5NDYybks?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Gold's path to $6,000 and silver's return above $90 depend on renewed investor confidence – Metals Focus",
-   "source": "Kitco",
-   "time": "2026-10-19T14:02:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUx1Ym03aUVBcWtTT2RBZ25OSDl6X1l1YVlCTmc3SnFoLXlzZjNXWEFoZ21QYlJ6Y3Yxa0hRZnkySU9nbGVfNFBCNVR6bFdrUFVmdjQyQUFVSld1a0VBNWtMZWEyNmtOQ3ZGeWtlYUxlTjFKOFVhZXU2bGFzVzVaNS1WOFJDUFQyMlRXdmx3SVotbkpWR0NQeUl5ZEwyZ3UzZnlMb2l4ZWZiSG0zVDJnbzRFVQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Russia waiver leaves tariff leverage intact",
-   "source": "Politico",
-   "time": "2026-10-19T14:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVJ2MWNmbFN5c19QcnJDZmpDQzNhWmt6Z1BmcEZiakI3SnVUanJrSmxkUUktbkdWeUxUc05SbHZpdzRDekV4U1VhVGZxTGJhR1ZlRzMxdlRmcFh2d05ieWZ3ZkFENlhON0lPbWg5TERrellmRy1CUnZuVXNEN3l3U1dkVGNuWEgxNE1GN2lsUjRaRGw2aGNJZEhVYUc0c1R0YS1ib1hXUGNhQjc4Z2VJR3lxcw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "GOP, Trump, Hegseth tangle on Russia amid rising midterm pressures",
-   "source": "The Hill",
-   "time": "2026-10-19T13:57:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY1NnSXUyZDM0VkFKQ2lfd2RCUWN4aDd2SlVpZzIzZWM3Y0ZHajYteTNpemY0WUxWTTMydjBkdjcyT2t2NVdoNUlUclFlOUJVazRaLWUxbFVpZUlZWV8yMFpOUjRsVUhPaU1tLVFsdnVzdGFBelBzZ0g0S0V4RzF3WUZONExVSV9NWEh3QlQwRG1LeHVfUGx2bUZQc1FfQlgtbG9OQTdQQ2pjQmtOLWtvdk02YkplZFdM?oc=5",
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
