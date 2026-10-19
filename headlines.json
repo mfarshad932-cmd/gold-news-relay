@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T03:43:23Z",
+ "generatedAt": "2026-10-19T04:11:44Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 8
   },
   "investing_commodities": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 2
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -66,7 +66,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 27,
+   "items": 28,
    "kept": 5
   },
   "aljazeera": {
@@ -86,22 +86,22 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 11,
+   "kept": 11
   },
   "gn_tariff": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 6,
+   "kept": 6
   },
   "gn_war": {
    "http": 200,
-   "items": 43,
+   "items": 45,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 28,
+   "items": 29,
    "kept": 12
   },
   "gn_yields": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 1,
+   "kept": 1
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,72 @@
   }
  },
  "items": [
+  {
+   "title": "Trump and Zelensky escalate feud as Ukraine war strains alliance",
+   "source": "The Washington Post",
+   "time": "2026-10-19T04:07:24Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPblN6VHNwQ1V3NUZ1aVg4RzVPQ1RHWmRIU0lWUm1JenRXcGM0Y0hJd2RqMHlUSE9Tcm1EWWg4SlB1QUJ3d29COUR2TzEtdTRrR0JYcHpMZ2xqVjVJbzRuZTF3MlBiX0Fqd0hHMDlHNEFFVzhlVjc1Y0RGLXAzbnRVV0k3cmhUZjUxdnhmaGtBMjhVc0cyMDlqaDhwaWxJRFQxV1JwT3ZjbFM3Zw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "‘The world will be amazed:’ Iran’s commanders prepare for further war",
+   "source": "CNN",
+   "time": "2026-10-19T04:00:45Z",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0eUE3NlZIYURIaERvcmpRV3o0NWZRakxqY0QyYWVZU055SUJJazMybTNUVzlSSEN1TjhOc241WU9ld0NjTS10TWFCV1BNVnVnNDFQaHdPRWVXbS03RTlnOGNBdEtpR2J2OWJGTXpUMFZUNE5pSjVnbWhpSQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "investingLive Asia-Pacific market news: China beats, the euro wobbles and oil dips",
+   "source": "ForexLive",
+   "time": "2026-10-19T03:57:13Z",
+   "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-china-beats-the-euro-wobbles-and-oil-dips/",
+   "tags": [
+    "OIL",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
+   "source": "CNBC",
+   "time": "2026-10-19T03:56:03Z",
+   "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Oil prices slide nearly 2% as Trump waives Russia sanctions",
+   "source": "Investing.com",
+   "time": "2026-10-19T03:38:19Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY1BjUDRPSzlBeDg2dXhMUGhEZlZ3SHloQWdxbjUycTZxU1JtVm41R3JqQklxbXlUNjJ2Q1NET3g2MWVyWGh0alFsY2Y5REtvYmFoWlg4eDZWS1F3a2I4cjJkNlFVc0ZBUk00UlBid1BveVlpUXR4U3FvZTcxdVVkMUozQXI1cW1aVkNTQnNydW5mMDAwUGFBVDU0S1BhSF8tZmZXYzVzLV8?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
+   "source": "CNBC",
+   "time": "2026-10-19T03:26:06Z",
+   "link": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Ukraine war briefing: Trump accuses Zelenskyy of not wanting to end war as feud rumbles on",
+   "source": "The Guardian",
+   "time": "2026-10-19T03:19:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUUctRlR6MWdkbC1ZZUhDOC1GaXgtZF9BWGFlNjZXV0R4X2tsUVliMl82MkxnUzZnRHdiSllRTlpZX2M2ZVctMWwwSXBmUFJoX3ZzZXNQNFA2eGYwM3B3dHhkUzg5WUcwcTc3ZENsYmFXUml5ZjJiZEFpNlF4QXlEQUx4QmQ4RDJCZ1B2MDVFWXk2TWNFRkp0QVg3SWgySHVJRE1mMUt2dGJlU2hiaGNQdXYzNXhKME9xaGJGQUl1Qm1FbUg4MG8wcVdFU0NkOHhq?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
    "source": "BBC",
@@ -173,15 +239,6 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmRnZGpxbEducVItVG1QUU1xaDB6YkRMQXNfbUJadmp3TkVBSUtYbzhJVXMwMlFTT3YwRWZvQ2pPN3QyY1YtWUxMcWJlUnhOM2U1Mm5KYm9lZlFOeHdDaXZTblhscXVfVWMzdFFseHpUWHBpdGE4Z2QxLVhNekxRYldSMEQySzk2aE1JRjZmTjRKTEp3bzUwV1hNbDY3clhkeE9KdDEzR2E0QkVaU1dWSg?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Trump and Zelensky escalate feud as Ukraine war strains alliance",
-   "source": "The Washington Post",
-   "time": "2026-10-19T03:07:08Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPblN6VHNwQ1V3NUZ1aVg4RzVPQ1RHWmRIU0lWUm1JenRXcGM0Y0hJd2RqMHlUSE9Tcm1EWWg4SlB1QUJ3d29COUR2TzEtdTRrR0JYcHpMZ2xqVjVJbzRuZTF3MlBiX0Fqd0hHMDlHNEFFVzhlVjc1Y0RGLXAzbnRVV0k3cmhUZjUxdnhmaGtBMjhVc0cyMDlqaDhwaWxJRFQxV1JwT3ZjbFM3Zw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -235,15 +292,6 @@
    "source": "ForexLive",
    "time": "2026-10-19T02:33:05Z",
    "link": "https://investinglive.com/news/china-q3-gdp-beats-forecasts-at-4-5-retail-sales-grow-at-fastest-pace-since-march/",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
-   "source": "CNBC",
-   "time": "2026-10-19T02:29:11Z",
-   "link": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
    "tags": [
     "CHINA"
    ]
@@ -321,6 +369,15 @@
    "source": "The Jerusalem Post",
    "time": "2026-10-19T02:00:05Z",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LVzV5X3UxenBzemdkR1N4S0h3U09XSjVlOWNNdWN6NlA2dDUtY2Z0X1ZSd1MwTi1VbXF6VjVFSDNBdmwzbHNpSlVJc2gtekI1ZExPTnozR1dxWi1LTHE0RWtDeVo0ZzIxT3FLbkI3SGZhMEJjVFBrOWdlRk5WeDg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Saudi Arabia’s Military Limitations Are Being Exposed by Houthi Attacks",
+   "source": "WSJ",
+   "time": "2026-10-19T02:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM19uejBXQV9UYlQ0ZlFpMFFxYkM3WFY1aWlac3NVWUxFMUxqMzlCTE9DSl9JMlJXRHBPcnN6LVI4Xzl0OHBHYjVKME5jOFcwcFo4VnctUlpRUk1WRkhPczhHWDh2Tl9JeTVaLXU2X2dXVDNKd2dKdU5pcHhOWjRTYktfbV8tRjd3RFpNdXdfZnlxM19QYlRSanZVX0hRUlJBa0V0aFpTNGFUZExoSWs4S0Y0dmZMcUUt?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -404,7 +461,7 @@
    "title": "CNBC Daily Open: A thousand drones and one strained U.S.-Ukraine alliance",
    "source": "CNBC",
    "time": "2026-10-19T01:16:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdm92TFpJY3U4UlZBNVdBRXBGX1BGSUNoYWNLUzJEaWEtODB6eXl4a3JrWE5TNkxmQ1ZUZTdlWEFkN3AtV2xoMjFpc3lrNGdzRE9vWjVuOGpmd2V0dHZyQzhvdFFYbHl1NEZLT0tqZXhNMWx3ZXZ5bllqdjJfWlJpeDBmVlF4azdzZmtiUdIBkgFBVV95cUxOUW10bUZpY3hKOVNIbWtmWjRRcGRZdGZaWERlM2tGZkplZEhsQlJOVzk5Q2tFY1hBWGYzWVZFYWl4V1FQSVJTeFhjNTMySWJ1U0t1VUp5aXo3N1QyeTJZRGtYcWFXVFF1MW1uVUZUZGN6LXRRQ3V0WkVRWS1mZUcwemdLbW5Ld1NONWdOYTZZX2hDUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUW10bUZpY3hKOVNIbWtmWjRRcGRZdGZaWERlM2tGZkplZEhsQlJOVzk5Q2tFY1hBWGYzWVZFYWl4V1FQSVJTeFhjNTMySWJ1U0t1VUp5aXo3N1QyeTJZRGtYcWFXVFF1MW1uVUZUZGN6LXRRQ3V0WkVRWS1mZUcwemdLbW5Ld1NONWdOYTZZX2hDUdIBkgFBVV95cUxOUW10bUZpY3hKOVNIbWtmWjRRcGRZdGZaWERlM2tGZkplZEhsQlJOVzk5Q2tFY1hBWGYzWVZFYWl4V1FQSVJTeFhjNTMySWJ1U0t1VUp5aXo3N1QyeTJZRGtYcWFXVFF1MW1uVUZUZGN6LXRRQ3V0WkVRWS1mZUcwemdLbW5Ld1NONWdOYTZZX2hDUQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -482,9 +539,9 @@
   },
   {
    "title": "Oil prices slide as Trump waives Russia sanctions",
-   "source": "Investing.com",
-   "time": "2026-10-19T00:20:50Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY1BjUDRPSzlBeDg2dXhMUGhEZlZ3SHloQWdxbjUycTZxU1JtVm41R3JqQklxbXlUNjJ2Q1NET3g2MWVyWGh0alFsY2Y5REtvYmFoWlg4eDZWS1F3a2I4cjJkNlFVc0ZBUk00UlBid1BveVlpUXR4U3FvZTcxdVVkMUozQXI1cW1aVkNTQnNydW5mMDAwUGFBVDU0S1BhSF8tZmZXYzVzLV8?oc=5",
+   "source": "Yahoo Finance",
+   "time": "2026-10-19T00:44:00Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmVVT05tWWJZMEVaZXNUd2tESnlaa1FQbU45QzNSX2xQcWpzODZIdGdhZnVfSHFRTFQ5dHlEUGlIQVlkYURNbXN0OC1JMEVkcVRJVWZmU0ZEajc4dnZFT0UydHpVdnAtcDYwWndWazRoUWt6RlpDTEdjSy1oZ2s2TXlGeTBITXRaOVhqbEg2UQ?oc=5",
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS",
@@ -632,65 +689,6 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZDJUVTF1aUgxX3A1NFRZaFpfYURPazBpRldGNERsdUcteWZ1amdxcnRjTVVpMTFxaFhuWHVHUU5jcFU4ekdqN1JyV3hvdFJvM3BnR2RqU2w4NUUzSmhaalBTWldqeHZoM2dhRVcwb1hjX2lpMEJEMEwtNVFEOF9Nalc2dklfVzZJRzZXLXd4a1dSaGJIMFFNWTBWSnk?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Sebastian Junger on Ukraine war | 60 Minutes",
-   "source": "CBS News",
-   "time": "2026-10-18T23:38:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSFlOS25SalZJbHA4REloZlljTUNpVnROQ0NUOHhiMGtfMFk3STIzazRVd09FdmJ3QUt5QWlHci01NzF3eEdUay1UbEhnMVBLMURRbi1SWXBocHJ2aWJ1WVk5blQwT09jVFZpc1VoeElFaHFUOVF2Q0piU056Q2tyZ2Rjd1owZ3lzLXFv?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine war briefing: Trump accuses Zelenskyy of not wanting to end war as feud rumbles on",
-   "source": "The Guardian",
-   "time": "2026-10-18T23:36:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUUctRlR6MWdkbC1ZZUhDOC1GaXgtZF9BWGFlNjZXV0R4X2tsUVliMl82MkxnUzZnRHdiSllRTlpZX2M2ZVctMWwwSXBmUFJoX3ZzZXNQNFA2eGYwM3B3dHhkUzg5WUcwcTc3ZENsYmFXUml5ZjJiZEFpNlF4QXlEQUx4QmQ4RDJCZ1B2MDVFWXk2TWNFRkp0QVg3SWgySHVJRE1mMUt2dGJlU2hiaGNQdXYzNXhKME9xaGJGQUl1Qm1FbUg4MG8wcVdFU0NkOHhq?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-   "source": "Yahoo Finance Australia",
-   "time": "2026-10-18T23:28:51Z",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaDU5UzlmRDBuR3RaaDdsMDVRQlYtNWhVTV9ZcVlMbUlaT0JHZ210a25EMkFMbUJqd3Z3OG1CZDRQMnNobWVGVE1IcUphdzlMeXZDQVR4T3lYTDctSEI1RWstVE9rcmczRk1ZVFE2UGVtUVA2UHAyVVNLelJfM1FYemE3Tzd1UQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "US President Donald Trump says diesel deal aimed to keep talks with Russia going",
-   "source": "FXStreet",
-   "time": "2026-10-18T23:28:35Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVlhDQkItQ0oyWjNLdHJXSlV1SC02Y1ZNOGJsUi0zWXk2cTVMRFg5NDgzRzhkZHF4SXZYSHpoSVUzVDhzZ291RmNxMDFfN2NtQ1VFcG1LdHZNb2RoR0hMZ2swQUNaYWZwbG9EYXM1TG5aWmZ1eUJlbkNKa3ZUQWZhOUZJazUyT3R2XzZfWjlRVlB4QTgxWmxmWk9FUUdKS2FfUUtBX3dQUTk1a0dBWWFRb3VuMXNzXzFsc0d3dWhOSFU?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-   "source": "BBC",
-   "time": "2026-10-18T23:20:15Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East",
-   "source": "CNBC",
-   "time": "2026-10-18T23:10:45Z",
-   "link": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
    ]
   }
  ],
