@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T08:55:01Z",
+ "generatedAt": "2026-10-19T09:23:24Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 7
+   "kept": 8
   },
   "investing_news": {
    "http": 200,
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 17,
+   "items": 18,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 13,
+   "items": 12,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_war": {
    "http": 200,
-   "items": 38,
+   "items": 33,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 12,
+   "items": 13,
    "kept": 12
   },
   "gn_oil": {
@@ -125,6 +125,43 @@
   }
  },
  "items": [
+  {
+   "title": "Kelly Clarkson’s expensive purchases: A multi-million dollar real-estate portfolio that spans the country",
+   "source": "MarketWatch",
+   "time": "2026-10-19T09:03:00Z",
+   "link": "https://www.marketwatch.com/story/kelly-clarksons-expensive-purchases-a-multi-million-dollar-real-estate-portfolio-that-spans-the-country-fe1d3bc7?mod=mw_rss_topstories",
+   "tags": [
+    "USD"
+   ]
+  },
+  {
+   "title": "The US-Iran War Is Making World Hunger Much Worse",
+   "source": "Bloomberg.com",
+   "time": "2026-10-19T09:00:08Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNHhFMW5oVVJfdEZaVVpRbWpJUHdnb0FCT0w1cTFJYlltS21XamlZR2ZFd1ZKMklkX0tsd0gydXZSZWdRSUJpTm01SURmMnpQVjZ5bjMzVDk2YlFPVTlMU0ltZ2RtM3RRMHNvaHIzbC1mYUpqRUtydDF6ZnlUd3pyVmkteGszVzE1enFuQVpoODZvUm9xNWF6VklLaDVKRnZRUUpyZXRB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Rubio says there was no US pause in intelligence sharing with Ukraine",
+   "source": "Al Jazeera",
+   "time": "2026-10-19T08:58:04Z",
+   "link": "https://www.aljazeera.com/news/2026/10/19/rubio-says-there-was-no-us-pause-in-intelligence-sharing-with?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Oil prices slide as sanctions relief on Russian crude raises hopes of increased supply",
+   "source": "CNBC",
+   "time": "2026-10-19T08:52:21Z",
+   "link": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html",
+   "tags": [
+    "SANCTIONS",
+    "OIL"
+   ]
+  },
   {
    "title": "Treasury yields move lower as investors assess U.S. inflation backdrop",
    "source": "CNBC",
@@ -164,12 +201,38 @@
    ]
   },
   {
+   "title": "Will Oil Prices Decline as Middle East Supply Recovers?",
+   "source": "Investing.com",
+   "time": "2026-10-19T08:20:00Z",
+   "link": "https://www.investing.com/analysis/will-oil-prices-decline-as-middle-east-supply-recovers-200689805",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Eurozone yields firm as French unrest widens spread risk",
+   "source": "Yahoo Finance Australia",
+   "time": "2026-10-19T08:18:14Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWldQM1VDTjFCMS1NUW9HN05UMF9qLXd4c0Fic2JjNzRqQm5tQmVTWjlhSGxNX2dSQ0ExenZ6eHhSNzZhN0R0RlVKNjFwQlpLcTJ3dmgtLWUzSzBnUWRkN0JhVHRxMnJwY2RieXJIOE9qbi1RZWZPRDhOdHJzaUczZURXUHhvWTM1dzgw?oc=5",
+   "tags": []
+  },
+  {
    "title": "Witness recounts scenes ‘from a war movie’ in Canada military base fire",
    "source": "CNN",
    "time": "2026-10-19T08:16:22Z",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYXQ2YjlLVHdNUzJHSVpLVnlDeWpRWHctbGZIcHB3ai1SUWs0LXFDc040c0dlRklNQ2Q0V3laOTh2NE1XYUFzRHp5SmdUV080aVFESVBfaUZzMlBMT3M2Y2dpU0ljMGpiRzdwaXd5T05MX0xWYzQtUW1IUDhiNmNraWNEd3Vfa2VqbGNXVjVUaEhWWl8tcW16YVZxdzZHUjVhbWpPY1ZVaXdyYzAyQllsdXhBWjJQT2p4aVl1ZmRvMFc?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "European Industrial Stocks Facing China Shock 2.0 Before Any Tariff Reset",
+   "source": "Yahoo Finance",
+   "time": "2026-10-19T08:10:24Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaUhsTFdTNHBwNUlVaE5aekpjd0pBZ2RMd1NPRkpIQmN0dWJmUl9qWkxVanVYeF9IYWR3TE1qdU55THA2VVpDT0hUcHFlMHpfZHVoQWxxRlJKUi1tSXA1YXNSYzVmSG5Pd2JMaW84MmRCNG5TWXJReEdMLXgxUmw3OEpjdnJDaC1LRzhNbFg3YlFsVUZ1RkphVmY5OEJON05reWMzQUhrQQ?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
    ]
   },
   {
@@ -194,7 +257,7 @@
   {
    "title": "Oil Prices Fall as Traders Weigh Russia Sanctions Waiver, Middle East Risks",
    "source": "WSJ",
-   "time": "2026-10-19T07:42:00Z",
+   "time": "2026-10-19T07:46:42Z",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTjUxeXdZWDd5c3MxTHBocWZqajJlQ2UwRTF6dW9KMXh6Q1ROdllKRGZiMV9kWUhvRW9CQzNQMU1LYk80U04zc0dLU2ppcFkySWRjenZFSm8wQjA5QmRPVXhPN3dhMTZPdnFiWjh1QjZ6VDR1ZDg5dFFlZ0t0STJzZlBrUzBMQ0N1R1RTQ2FkekRVaTlPN3lPYU94ZjZRdktUTlJEeTVqSEVFamNkc1FWelQ2MnRNb25OemZ5aUx3dl8?oc=5",
    "tags": [
     "GEOPOLITICS",
@@ -611,71 +674,6 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTzdqZzItTUlRWjVveFRwQmh5UEhSZ3hiT0VxZGxoeUFfdmhOMElONVJuQnZKQ3d2UnpqZElWcFpPM183cV9KOU9nZ1JQZ2hhdkYwSXQ4U25ydVhjUHphVmFmb3FFSnh2Tmlpc0N1aGN5UV9sc0ZYYldSdHpDVnVsWDk3QU1vZzB1V3RPRVl0NGlLandEV3pEVzdPSmVqSkFRa2hfQ09sVHRqMFhq?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Morning Bid: Markets left to figure out sanctions",
-   "source": "Reuters",
-   "time": "2026-10-19T04:31:00Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15Zk9kSXZkOVBJMWZjbXNlSmI2a2F6VG5EUFFfcHlMUjhaX25qaW1qWGNCVFpRaUlMN042UHdTNEh1eHY0MUFmS2RLZTJOd2VLRTlkX082UFNjTHdSZjBlQTB4b0hpeXlzY2UzZXlTNWoyX1pOVi1RTVV6UEhtOG8?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Analysis-Global food inflation is expected to intensify as supply shocks pile up",
-   "source": "Investing.com",
-   "time": "2026-10-19T04:30:24Z",
-   "link": "https://www.investing.com/news/economic-indicators/analysisglobal-food-inflation-is-expected-to-intensify-as-supply-shocks-pile-up-4956295",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Iran names new defense minister after predecessor killed during war with Israel",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-19T04:27:15Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95dzZPcDdJaGd2N3ZRWHNUYjNQbU84a29NRGZ4VEs4dEl5OWlQVTdNZlFNX3dHZVh0d2FNU0lWRW51RXVMZFFQckRMOVM1NGZYdVFrTF9Kd0N6T1JnSUhxMTlFdWh4ODR6aHc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold edges higher on softer oil; Fed rate outlook in focus",
-   "source": "CNBC",
-   "time": "2026-10-19T04:23:04Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXUxeVVHc0hZNU4zazIxT2JkM2Vxd3I3N0wyemRBd3M3dkVSY0hmSGhiS3JPTkhseEU5TlRqZWg4aXl5N0ZWRE01SjgwSXpBZXNyUFllbHdHNHd6SkYzNEMxTURyYkE5blNfLXU5V0N2RkRaS1B2cEtqMG03YWlqeDIyWlBhNHJPT2NpdTh0QXhGNl91UjgxZjhB0gGfAUFVX3lxTE1JMkc3czdPbDRmdlB2VENWaGU1SE5hVXY2WmM0QmNmNVlualhDQThsTnMwaEdhYVMtM2taemNfZmdWWEZXUjlTdTV2ZXlOWXQ5dTlyalBtc05SN0tHTlc4akpsY1psaHdvd0owMl81cXBJNUFRN0NheGoyTU54TVFkWDBXUkl0NHpTd3kzdlc3NnR0WlBqYi1LQ2hMVVlZWQ?oc=5",
-   "tags": [
-    "FED",
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold, silver prices gain on MCX: Key factors Indian buyers should track",
-   "source": "CNBC TV18",
-   "time": "2026-10-19T04:20:29Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVGFudTBEVFVid0UwTGZqTG9Yd3VsejhHeDNXeVFtQldzRExDM0ZPcTlIS2ZkNnItUVNycWcwOFBVMTF6STdYN3NIUWwxa0VpODZXcThTaWtOa0FncmxhZ2RJLVUzek5kemNFT3JrRk41cFdRdWxodFFFeGEyVFFDUGpvZmN5LWJsemc0QmNOR0dYNTNWUnRNT2o1Rjl0YTVNRldCcm1jdW1LOTIwQ3Z1TVZleWMwbjZFU1ZzNDduUkLSAcYBQVVfeXFMUFdQN1pKaDlFc2l5ZzBldlZOSjNVWXhZZFVXWjB5RFNLZUR5UjlKbGwzM2FUVkZzRjhVRWhyVmxxbm5EREwtMG82VWxacVBWelZ5eEJHQjZ5NnB1NWhEdUhFWjVpRDhzWDJQeENqdUNDQjhweHdMcnRBZkYwZkVMU2hud04ya2xnc2dkeUsyQTBvdWpiMkZ3SVB0MGZRamhlSUVKZUIzVzREOGxRelpJZklUc3FfMUFOUGVrYXdLd3NaaVBXWktR?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "$95 is cheap for oil, could hit $140 by February, $500 by 2030, says a leading global currency strategist",
-   "source": "TradingView",
-   "time": "2026-10-19T04:12:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQekF0NmtlaGlzWDZEZVVFTjhhN2dyejZlMDFkVEt0UFlza1pUcE9UZUdVZzNYdnRZMVJYRjJHQl9RVlJJWGRmalJTcnlXWXVDc2I2VFN0YWQ3V3M2Sl9taTV4ZWY1alk1RmV1bmduRG5TWFVFTjZrczVuX3lPeDVzamNYdmJ3VE15ekxPR01tM1AzWlZqeHJxVVJRUUZQZlFyQUdXV1NzYkJhYjRrb2dUYURUdHZJM1NoTVh6dkphX1U3dDVrV2ptYWgtRS1vR3dWWVVUWDVCc2dsbnJKRWZaZzNzUjRHb2N4emIyR1g5N3VyQzBN?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "‘The world will be amazed:’ Iran’s commanders prepare for further war",
-   "source": "CNN",
-   "time": "2026-10-19T04:00:45Z",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0eUE3NlZIYURIaERvcmpRV3o0NWZRakxqY0QyYWVZU055SUJJazMybTNUVzlSSEN1TjhOc241WU9ld0NjTS10TWFCV1BNVnVnNDFQaHdPRWVXbS03RTlnOGNBdEtpR2J2OWJGTXpUMFZUNE5pSjVnbWhpSQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
