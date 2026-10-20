@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T10:29:48Z",
+ "generatedAt": "2026-10-20T10:58:10Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 32,
+   "items": 33,
    "kept": 5
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -91,28 +91,28 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
+   "items": 18,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 30,
+   "items": 31,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 10,
+   "kept": 10
   },
   "gn_yields": {
    "http": 200,
-   "items": 28,
+   "items": 32,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,52 @@
   }
  },
  "items": [
+  {
+   "title": "U.S. oil surges to top $107, Brent crude at five-month high amid Mideast tensions",
+   "source": "CNBC",
+   "time": "2026-10-20T10:48:27Z",
+   "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "French bond yields near 24-year high as new protests loom",
+   "source": "Yahoo Finance",
+   "time": "2026-10-20T10:41:19Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcDlSVG5vNFE3Nm1Nc2ppLXFPSXdUS1VuVDBXYzBIMVl1U3ZncnNBZTRDNzBGNk1XcnR6dnhMZWxKTjd4ckJIOHhjWHNmRy1vWGlGVlB1aUNSNGxINXhBMUxQZG5MUmxWUnVaYXFIYkwwelJpWXNRaklON2l3YnRlYk5uWGMyWEhBeGlvTWlGalVrQWZGOFE?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Three Years of War, Our Family’s Return to Keva",
+   "source": "The Times of Israel",
+   "time": "2026-10-20T10:35:00Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGljVTlQWlVQaFg0b0tKMFRxTjd0eFFjVkhyNUFJN1RNYjVMaDAtSnU3eDRVUGppVXlYTWo3b1hrZWxmRXc4R1B1M0NjVWMxTnI3LWdydHZmckZMTWpQY0RPNFFOMTNTWlBGUk1vUUdJbDhfa2MzWlI0TktMMi1YQ241OXg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
+   "source": "Al Jazeera",
+   "time": "2026-10-20T10:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkNKZjJ5cW9BYU5lSkdiZHVKUFI4WTVFcklmWDZ6QURlWEdNTndCQW1TeEVNdjdPdjZhWDBhcnUwakxBaGtPNXpIaGZrY2pTM2tDNWg1Wm55VnR6YnRoSzFmZ3RlVlExQVl6UXZWLXMwc0VRNzQ3R1FpQVNZbWt0cGdiWmpkR1o2TFo1V0hBa0thaV9WblRwY013MlZ0QmhJXzY0WklSN2hwRU9rTXo40gG0AUFVX3lxTFBmdWhDeUtpVkotOXBReU55Y3Rqb0ZVM3dpYjVleC13bVE2WnUwTGtHWFJRYm81SG5RTmRyRlBzUEZRSzVObnU4Um5yV2JQanMwckQ3LUZER25nei15YmtZTjdfaWlRNXMxNGRybkxacmNLSFZCRi1mVjhvTlVGdmF0SnhpVFdRb2ttTTdYdG1XMUJIbERHb3hVeTN3UlZVZjVVbmJFVXJGLXVaelBWRmF6R2pwMQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "WTI posts fresh monthly high near $100.50 as Iran continues attacks on oil tankers",
+   "source": "FXStreet",
+   "time": "2026-10-20T10:20:09Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnl2cG5IRjJOMFNBQk1fVU5hTjVRcVotY0ZodWNLWWI2U1Bfdm9ZeEhpQVBiMEwzdTRCelBadlRQWmJvc2wxS1dVbU5jZlM4eDd1VmI3QmhBeVN5YXFEUzZFMEMzUVFrXzJMVGhabEZkdUNCWEVuQnpvSXltR2JjUVhDOEk4TmZqckxkNkd3ZnlJNXRQTFJCSnJUUXNDNU54X3Q3aFlrSm1LR3JnMnFMQTI0cC1IVjVZUm9NM09PaFM?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
   {
    "title": "Exclusive: What Israel's underground war can teach other militaries",
    "source": "Axios",
@@ -155,12 +201,30 @@
    ]
   },
   {
+   "title": "We can stop Trump’s assault on the international criminal court | Kenneth Roth",
+   "source": "The Guardian",
+   "time": "2026-10-20T10:07:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkVzd2ctRlhuSGpqa0l0bWVienlmWWpSRmdiOWZ5MkIySHp4bTQtaGllUmhId0ZrbUkzcXYtTV9xeXhvR1g1WjFTTUFlM051WjdrczVlTHA5NFNlZEF1c2FqSHVrMUVWMWZZNFY1cmNmZjNnR3JtTXZPQkJKR29STDFZNkxRWVli?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "U.S. Treasury yields move lower as investors await housing data",
    "source": "CNBC",
    "time": "2026-10-20T09:57:07Z",
    "link": "https://www.cnbc.com/2026/10/20/us-treasury-yields-investors-economy.html",
    "tags": [
     "YIELDS"
+   ]
+  },
+  {
+   "title": "US demand for Swiss watches rises following tariff spat",
+   "source": "Yahoo Finance",
+   "time": "2026-10-20T09:48:38Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPclhJZzhqNXU1MXlwaW45dHlidUd4dXl5a1NsM3ZVM1pydnBjNmhlbS1FY2VQMDNiM0tteFEtaXkwNWRHU0hnU1V1NmU3Q0lRNFpwMjFyWFBQM2xfYV9GcXhfWmZBOVl3Q3ZNMElNbUsxbzIxZDI0eGszLU80bkZPalpleUR3bDU0VGV0ZTdTeS14T1NVMUQyWjJ3?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -311,6 +375,16 @@
    ]
   },
   {
+   "title": "Treasury, Eurozone Bond Yields Fall as Risk Aversion Beats Inflation Fears",
+   "source": "WSJ",
+   "time": "2026-10-20T08:22:59Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVHpmUnkwb1hrcFVSZHJyWXFiNzhpR1BLVXlmZ194WUQ0X0hzZHFGTGZPSGtOQXFmaURndUtlU1ZhYUNOdzUwUHJraG5yZ0laQnJpN3g0VXhvN3ZjeUlLdVRSRXJJUHZDeUVMVlJGUkN2MHNwa1d0bWVZOUNzN1kySS1RaXBmOEM5am1FZXU2UlJpMjVDY09BTE41UWpHNF9tQTF1c3ZvZXpZdXI5SnYtZUZ6eUpZVEMyVUNiN25idFFIbkNiN0Yw?oc=5",
+   "tags": [
+    "YIELDS",
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Gold Price Forecast: High Treasury Yields Put $4,000 Support in Focus",
    "source": "FXEmpire",
    "time": "2026-10-20T08:19:44Z",
@@ -413,6 +487,15 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObnZyamZJUE1NeFJ5MW9UNkZUZFQzaG5HRjQyWDNBYWpUNUt4aW15MzlsM0QwZkJLMkFXbENjaExFMjhnM1NkdXc0ekUwemtFUXZUcFdYczJUaUM4Rmtlbm8tdHFIbk4wOVVJNzhBcVpSSk01NnN6alczakJCUnZYOTZHcURETEU1NFd1N2Fqc2JFcGhkSFdMSGc2RVgzb3pidXJaUjh5WFRPbTBibnJaeVF3?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "European stock market open: Equities retreat as bond yields and fiscal risks weigh",
+   "source": "investingLive",
+   "time": "2026-10-20T07:25:11Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ013eDhidHRrN0J0REZyWklxb0w3c05YVEhFbnVJd1RQRmNRdkJIUHp0Q0cyaHFjM250dGlBRk56dGpuaTB5bmpyNWxPMDJaOFJuUElXWDdETjNsbW9fdDdhT2xaMy0wM25hUEVGWGttRDdHVlQxV1ZzTHB0a2NqV19hLU1QZ1VvUzJHeTRzZ2s4ZXM1a3RsU3pudWhxSEF3ZERseVhDTk5Jdkc0N3NnUVA5aHpxUQ?oc=5",
+   "tags": [
+    "YIELDS"
    ]
   },
   {
@@ -601,87 +684,6 @@
    "link": "https://investinglive.com/news/germany-september-ppi-vs-1-5-m-m-expected/",
    "tags": [
     "INFLATION"
-   ]
-  },
-  {
-   "title": "Ukraine war briefing: Zelenskyy claims US deliberately delaying interceptor missile deliveries to Kyiv",
-   "source": "The Guardian",
-   "time": "2026-10-20T05:58:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2RmejR4dzYzZVU3WUU5WGw5V19hanBUNUwyUFVUX1JNckFtOWpwTlFBcnVrbVBNVi1GRGRnTzEtbEtNZkRyOU51a2lIanNURFp0ZjY3UlVPS0ZLZVdTVi00cHdpVnlsRWVUa1o5M2NwaWtlaGptVnRkZVdoXzhva0pTc2MwNFliWE8wLXoyVUdRM3R0TzVJY3p4Z05YblJkcVBLOXI0QmNzUURTd0VBMFJGSE14Y2NWY18xSWJjVG5GeU9UeXBlcWI5VWlGLUttV05nbWpmRlVNM1RwTktOdA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
-   "source": "CNBC",
-   "time": "2026-10-20T05:57:34Z",
-   "link": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "U.S. Treasury Yields Decline in Asian Trade",
-   "source": "marketscreener.com",
-   "time": "2026-10-20T05:53:33Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaW9BWEV6M1E3UDVWb29KeVpQcnNzWVRubmNTZU9IcmdCZ0hYTWQ0Y1BzNFNSNllTN1paY29sajN5NGk0LUZnZF9EUkJRaWNDbkpJSVJlRGJra0J6Q1Fia2lQc09wbllFWEFZU2xmX19yYWI3VU13SnZvd0R0RUtfTFViOWkxd3JVb0ZRcy1TVmk0WjBWbTJkNlBaYw?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "A look at how Ethiopia’s wars, sea ambitions and Nile dam fuel fears of wider conflict",
-   "source": "AP News",
-   "time": "2026-10-20T05:52:00Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYzc4eGhhbVcyRThCeERPcDZwc1lCU3cyeEJuWEIxMDktdjFGNXdna0xRQ3BhQ05BVVhPaG5xSG92MWtKVjJvLWFGS0ZCMEk1bVhMZFZIcGdncVkxeFhMZEJocmxfTGN1a2V3by05RHBsOTBBTlFDTng2ZFNodFVXNWhWbnctRG5falBtdkVINWlwVDJIYndpRmh4Q2NXWWxB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Zelenskiy to meet Witkoff after Trump says Russia has been 'fine' on Ukraine",
-   "source": "Reuters",
-   "time": "2026-10-20T05:47:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGUzUUpJZDlBeHJNb3ZDUGd2a21yM3ZCY0lfOTc0ZjYxQ01jX1RoTC1wQlZzU0xRN3c3YnZBWGJuNG95ZnRSeXdESktNM1dFUnFLNTBJX3Zjem9rSVdKckVVckh2VGVCLXc2VVpPOTBKbUhnUU1jYUtHUzF5YVNMM0ZhWFBZeXBmZktWQ3VKaW5ubHVnOGt1Zy1VMTNGMDZqMWlyeg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "IDF soldiers, contractors arrested over multi-million Gaza war fraud",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-20T05:38:04Z",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tTHFaektUMDJOVTF2S2dBaVNDOHZEZWNidDRXaUFiLURpUTBTb045YUNVdUk0QlJ3NjJsVlhBUTdCa1BlZ0Z0ZEcxSnlzaW4xQU1vS2ZYblcxSWt6OWRuU1JhVm5hSG93M1dXMVBuQ2F2QQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump administration holds up Patriot missiles for Ukraine",
-   "source": "The Washington Post",
-   "time": "2026-10-20T05:33:27Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnRKRWVRSmwzaFFkcFBLbG1wS1BORl9qR0xSaTkzY0VhX0dKNzc1V2JGbEFtTm1wZkx0VjY2dkRzbGYxWlljZG5zVUY2eGU1RnZiTVRBSmNDYnJNSXo3RWFpT2JhM1ZQcklHVzhXcW5zSXRHemNaMS1PMGJJOHowOVpMQWRqNE54cU11Z2ZNUUFnZFBqQkFsVUNhbl9rLU13eDhyMGQ0cDVGdk5nLWxFOEZVQ0E?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The world’s finance chiefs see new risks — and less China angst",
-   "source": "CNBC",
-   "time": "2026-10-20T05:27:53Z",
-   "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Israel’s elections 2026 explained in maps and charts",
-   "source": "Al Jazeera",
-   "time": "2026-10-20T05:25:31Z",
-   "link": "https://www.aljazeera.com/news/2026/10/20/israels-elections-2026-explained-in-maps-and-charts?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
