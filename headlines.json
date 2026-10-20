@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T06:14:47Z",
+ "generatedAt": "2026-10-20T06:42:55Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,11 +57,11 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
-   "items": 53,
+   "items": 54,
    "kept": 3
   },
   "bbc_world": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -86,22 +86,22 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 12,
+   "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 12,
+   "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 41,
+   "items": 36,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 17,
+   "items": 16,
    "kept": 12
   },
   "gn_yields": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,43 @@
   }
  },
  "items": [
+  {
+   "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
+   "source": "CNBC",
+   "time": "2026-10-20T06:25:26Z",
+   "link": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms",
+   "source": "Al Jazeera",
+   "time": "2026-10-20T06:23:44Z",
+   "link": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Brent crude holds near five-month high on Middle East tension",
+   "source": "CNBC",
+   "time": "2026-10-20T06:20:02Z",
+   "link": "https://www.cnbc.com/2026/10/20/brent-crude-holds-near-five-month-high-middle-east-tension.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "WTI rises above $99.00 as Iran warns of wider blockade",
+   "source": "FXStreet",
+   "time": "2026-10-20T06:15:46Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa09JazdSY1NMNDVkWkxjVjVnWE56cFZaTk11clFmSDBseWxhdWtwUWNiR3pacjQyNlR1cGJ4ZFZzSWpfU2lnREoyR1NDUVRJQkZxZDNBNm9SR0hlXzZsNmNwWmJVT01tMjY5ZmV2UkJLZzR1RlJCV2JINFhpaS1vd3k2ak1INk9XTnhuWHhqZlgxcXZOZ3kxaHJBcw?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
   {
    "title": "Oil majors face spending test from Iran war windfall cash",
    "source": "Reuters",
@@ -169,6 +206,15 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaW9BWEV6M1E3UDVWb29KeVpQcnNzWVRubmNTZU9IcmdCZ0hYTWQ0Y1BzNFNSNllTN1paY29sajN5NGk0LUZnZF9EUkJRaWNDbkpJSVJlRGJra0J6Q1Fia2lQc09wbllFWEFZU2xmX19yYWI3VU13SnZvd0R0RUtfTFViOWkxd3JVb0ZRcy1TVmk0WjBWbTJkNlBaYw?oc=5",
    "tags": [
     "YIELDS"
+   ]
+  },
+  {
+   "title": "Ukraine's Zelenskiy travels to Norway for talks on war, security on Tuesday",
+   "source": "Reuters",
+   "time": "2026-10-20T05:47:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGUzUUpJZDlBeHJNb3ZDUGd2a21yM3ZCY0lfOTc0ZjYxQ01jX1RoTC1wQlZzU0xRN3c3YnZBWGJuNG95ZnRSeXdESktNM1dFUnFLNTBJX3Zjem9rSVdKckVVckh2VGVCLXc2VVpPOTBKbUhnUU1jYUtHUzF5YVNMM0ZhWFBZeXBmZktWQ3VKaW5ubHVnOGt1Zy1VMTNGMDZqMWlyeg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -558,21 +604,21 @@
    ]
   },
   {
+   "title": "Chart of the day: Gold price eyes $4,200 breakout, but buyers still face two major hurdles",
+   "source": "investingLive",
+   "time": "2026-10-19T23:45:12Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOER5UkJFZFQ0TFdXaXBaaW40TXNHYWFGeU9HQTlQcnlraURWQTFPZFJfY0pKZUVJdWZwSGpiS0hmMXFLT2xHX2xXX1kxVEtxMTZrR1VCQ21TclRBTFQwQTlvbFJGellfUkd1X0NTeFNHMmQ5dGtQMDZyOEJpX0lRSUM0a1NxYmJVREl3WWQzZDdHbUNMRjdYUF9zYTZDdWs0NXFVTGdlYWo3YjBYVEVoM0R4eFhnYkF5ZGVITlE4ejdBZFpDc1ZwYTlnQW94dw?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Gold tumbles below $4,150 amid elevated US Treasury yields",
    "source": "FXStreet",
    "time": "2026-10-19T23:23:06Z",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaHdFOGZuQU9QWkI2NlEydEJEenpoZV9CMXN2enFIOGlpSWJtRXdkdENVYllaVnFiXzM3cUJXb0JQWFZsSEtNeVJ2aWwybTRlMlhNY1c3Nlh5QmMxTll0SFY4ZGRlMWNqVTA2MVdmT1Rxa0FnSk8ydnMwSC02TkxtREhXYVF0THZrZnNsR3FTaUhpcmtzaGxYWHhMN0hOQldINUE?oc=5",
    "tags": [
     "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "India Gold market flips to premium as demand improves and supplies tighten",
-   "source": "FXStreet",
-   "time": "2026-10-19T23:19:57Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbFMyclp1ME1MNENTb0F3ZGFPYVJoWlRoZTZjOW5UQ2xkWHpyQ0dLbEZDcklYV3cwM2xxS0lwU2JUVkZrMkdURXNIVFZNVE1xU3R5T0RwbDF5RlNhUVFWTmF2eHpPTENYNWRVdTBwSmRaLWNVdDhDQ1FxUUNzWWl4UF80bzRZWVJDZThkYlFiZkRhU0ZpT2pJdVBKVnE0TjBBZTF5X2I0enUtblVsY1pQWl8zRmctM0dyRDBzTVJ3?oc=5",
-   "tags": [
     "GOLD"
    ]
   },
@@ -592,6 +638,16 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORS1UVmtBQ0ZsbG9zVUl5QWo5U2lTUmZRdEdqNVRxaXdhWVBpN0U0VHc1N3B5NzJ4ejk0VjdZcU41bndGM0wxUHJEOUpiSThyOVk4Sk9tWUNLbkg1NW56ZjkwUzBlQmlCZGk1SVpDYVZ1UldtOXZiWTA4LVpWSUpKOEQwMlB0QjBWaEtOcWJTNDdkVEJKendNM2lHaE1WSG9YN2oxTjRqaldRN0lsNERPekJIdUdoT250bFc4?oc=5",
    "tags": [
     "FED",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold and silver prices pressured by hot inflation, but gold ETF holdings buck trend to hit 2026 highs – Heraeus",
+   "source": "Kitco",
+   "time": "2026-10-19T23:04:14Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWS1XbUdWTEt4Vjd3MHRGSWhndDhGUFNnaDR1OExpajlpX1kwVVAxZXpPb1l5N1dPRm5QRTkyRjRVc0dKRDdiTVJ0Z09nQmpzaU9Ub2M3MVhDYksxelZOc1htWXg0UlIydGE4VE1iVkplbnFDWDVJMG1UWVNESk1TUmZRQWdzWUF0SWVaQTl1Zk1jLTZadlRRaWN6ZjVPS2drM1NvQ1Z4SHh6dHdjWXB2WjltU2VzU2RjY0VzQXV3?oc=5",
+   "tags": [
+    "INFLATION",
     "GOLD"
    ]
   },
@@ -628,63 +684,6 @@
    "source": "Reuters",
    "time": "2026-10-19T22:46:53Z",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHdkdnRqZldKMC1xSzg1cnQ2enRBOXpVQ1V6Yi0xUW02R3diUFAwYTRQR3Vqb2Q1U29RU0FGOWp6Z1V6TTl5RjZ5Qmk0QWR6bXJQdmZxbjJEODR2MGRISENvMjVtcTMyTGplZm5oLTRIRV9xZ1dJOUp6SnVYTFpSMFpKakZvc1JBZVJ5UHZ2QWMzVXNKSUZoeWhkZ0FTTGdKQXlEdkZ2RTduM0EyY2VVclloZXI5VmM4T2JzdFAteTM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold's path to $6,000 and silver's return above $90 depend on renewed investor confidence – Metals Focus",
-   "source": "Kitco",
-   "time": "2026-10-19T22:36:08Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUx1Ym03aUVBcWtTT2RBZ25OSDl6X1l1YVlCTmc3SnFoLXlzZjNXWEFoZ21QYlJ6Y3Yxa0hRZnkySU9nbGVfNFBCNVR6bFdrUFVmdjQyQUFVSld1a0VBNWtMZWEyNmtOQ3ZGeWtlYUxlTjFKOFVhZXU2bGFzVzVaNS1WOFJDUFQyMlRXdmx3SVotbkpWR0NQeUl5ZEwyZ3UzZnlMb2l4ZWZiSG0zVDJnbzRFVQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "US sanctions 5 Chinese entities over ex-Google engineer’s AI trade secrets theft",
-   "source": "South China Morning Post",
-   "time": "2026-10-19T22:36:07Z",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUlXRzA1YVNhSkh4U0dNMjVIZko0VHFqZHFaTlptUUdPTlFzU25TeFl3dXVnLVBMSGFXWExCMkpQRFpncV9VSjNncEVTTnl2SHB5R0ZmVGJnWUhBQUJXM1hibzdNVk1QVFdrOW1LVjBXQmVzNkN6bi01NFNPeHMtb1R3RkpLbl9XMkVWc2xrOTRKd3ZNUnBVUGdYeTdrNFZ5NEtiVDJ2Mm5tLWQwLTJkeDRuMkRaTU94anFQODZma0VlX0JIa1hzbmlQLXNIVWlYa1VJ0gHTAUFVX3lxTFB3SGxmMDdDZUNibnhKc1RHTGhSNzJZZFptRUh5NmlqRnlmUUE0bTAwMmMyNk15dUN1cTRFUmNqeDB3Nnh6VjdqSThnM3Q5ZmNxdDFRX0ptSjhDUnJLX1AtTEpBWWQwRFA2VzBJX2V6TWJna0IxWVdjVlVjMFpmZ3pVcWtzRV9aazdPeXpMSjcwMUN6NU9IRzZBcFdBeXZBWjlGQUJ6aHUwZEpHRFBmX19lOXg4Z3U3X1E3a3poX2ZGYVRvQ1VGMnhBZ29XZkJMWktuMG8?oc=5",
-   "tags": [
-    "SANCTIONS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Vandalism at Uniontown war memorial raises questions about city's overnight police coverage",
-   "source": "CBS News",
-   "time": "2026-10-19T22:02:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQjdjLW83MkkxdDBpZHVRT21LNlhsVloyYXotLVBfVDBGSEhBaFhLMldkdlF2b3JIQk03R00zbmlxRHFqX2hZTUN2TjNNU0lOTVhHd2lNSkh5eXlFLUhGeXdRNjlmdTdXQUVXUTBTU2lfUXpsU3FTSFhEV3hTcEZQdC0xdThscldXQ2d0NFBPY1Z5X1lwdFV4UWtGWU9XVHM0R0pHNFo3enhqMHdvTV8zaWZTWWZfVGh5MVFDQ0FYdFdIdVVqLWlsNC15VXE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Silvercorp Reports Operational Results and Financial Results Release Date for the Second Quarter, Fiscal 2027",
-   "source": "TradingView",
-   "time": "2026-10-19T22:01:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUWJxdzk5R2RuU2xqb20wREF1bjRvQkZ0SmpKdXJnVEhfdGJFN25INVFPdl81U2Y1RUQ2VlR0TXFjM1NhLXNsRWxiUEZaTEJvNHBRRXc4VU1Id2psLUF6QUd2ME5WeEtJVmlDSERmVWVkRGlQN1Y2QXI4aXc5ZGZ2Tk9pZzlxZE1rMm56Wl9uS2NyNjZIajVPX2Q2UzU0a0Jjck9qWVNVcmdxSzZWVEFWNzZoNTMyVko3YjhVLUdkQnF3amVqTTRMR0FodU5EWEFvMGVWMmZCUS1YYzMyQXkwT3J6OTA1UlNYZ3pIUjFMcUcya2luWUJUalAxQm1pZw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold price reverses gains as investors weigh Fed rate path",
-   "source": "Mining.com.au",
-   "time": "2026-10-19T21:55:48Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVpjdXlwUkpvSUtWRDgxaF92LTZoQXhsdWVUZERwaEQybFZ1M3ZYaXdHVEtqUjREbnBVUFBKMWlPVDVYY0dlTTdfamdXdkl2NmlIZ2NwZkJhX21NU3hvLWV2bzVPY1JhODh0Q05lUW11T2ZHbUFJdjYyRThWa00takczdk8tRTBk?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Zelensky should get ‘somebody else’ to negotiate to end Ukraine war, Trump says",
-   "source": "South China Morning Post",
-   "time": "2026-10-19T21:52:33Z",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeTlvdFpCZHNoVC1aWXE4VUdlZ2hzZklwdDQydUxmeFlwRHV6N29vekNpTnhFT1J4dlJPcHVpcV91SElmWU9XamUzQXY5YlRUV2NiSXk2WEJ5NWl1SWpveFBVQzJ3cTd2NXV3RzJfN09ucWJicTBZcm9hRXlub1pyVDliMmoxd2VGN0xyMkt1UEpPb0F2LVFDWmtVSTRIaUdPd0xyM204bGJJX1dhZExzaEVFak9JLThOOENZNEgyRXFlbTd0ZmZJV2NjLVJHSndZVkdOQ9IB1AFBVV95cUxQTlpPZGxad05KaXZVSDFiZkNtR3ZiVS1oc0JldFA1b2gxZ2k4dW56UmY5d3lwOE1iWHVXZXMxSzNCU20wdG1MM2RmZXpKckhBMm9IQVVlSWh0UlVwMFQ1RkU3TmE5TFBOaWp5S1o0eTNaM2Vja1kxbDJrRldIM2Z4T1psUk9VWjg3UkptOGJhRC1RNFd4SW5wV216V21RVVZXeG1lNVoyUWNMajdTdmh4dTZZSkhBeTFsbnFydUFSeGc5QWVXcnNYSzdWZTRKY3VYbzVIUA?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
