@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T06:42:55Z",
+ "generatedAt": "2026-10-20T07:11:16Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -21,7 +21,7 @@
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 1
+   "kept": 2
   },
   "bea": {
    "http": 200,
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 5
+   "kept": 6
   },
   "marketwatch": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 28,
+   "items": 29,
    "kept": 12
   },
   "gn_fed": {
@@ -91,17 +91,17 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_war": {
    "http": 200,
-   "items": 36,
+   "items": 31,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 16,
+   "items": 17,
    "kept": 12
   },
   "gn_yields": {
@@ -111,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "fed_calendar": {
    "http": 200,
@@ -126,12 +126,57 @@
  },
  "items": [
   {
+   "title": "Brent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply",
+   "source": "Investing.com",
+   "time": "2026-10-20T07:02:00Z",
+   "link": "https://www.investing.com/analysis/brent-tops-110-as-tanker-attacks-threaten-persian-gulf-supply-200689878",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Frank Elderson: Interview with Die Presse",
+   "source": "ECB",
+   "time": "2026-10-20T07:00:00Z",
+   "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
+   "tags": [
+    "ECB"
+   ]
+  },
+  {
+   "title": "Gold (XAUUSD) & Silver Price Forecast: December Hike Bets Build, Can Gold Hold $4,119?",
+   "source": "FXEmpire",
+   "time": "2026-10-20T06:58:22Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZUZnRmpsWmJYbXk2WEl3c0FPWHNGU1p3eVQ1SkhkVFNRcG5HN2NjQmNkRjlrWmpVcFNhTjlIQVBlWU5Ud01iWnNjMUtGcmtYc0J1c3hOeWtpR2hmQW4yZlRhS0xaRDJmTUtsa20wZWphamhYUWNCVjNReDhaVVBLbzdJUWZEcnBSdUZ1b2VULThURzF3MFdqQWtOMHdtTjBTeEJQRlNWaFZMQUVwTE1MUm01LW5uay1xYnd3eWRnbXR2WXZ5dnJv?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Copper Holds Drop as Traders Gauge Risks From US Tariff Policy",
+   "source": "Bloomberg.com",
+   "time": "2026-10-20T06:41:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTnNUZW5sQktjanBIbW1KZi1ta3lTeHVRbVNyRHotbkR5eXZEVVpXZndRV2hyUXI1T3NhSjB2RjlxZDVkd016UEVGUlNwcmdXUlJUTHVLTUVGYmdlUndQUDJER0VsbkRBX1k5ZFh6Tl9tUk1FSlkzZ2dzWTZpRTM0TUpQTXpKTFRqeTNuZkg4VHlBWVVjUkxNa09YZlRQcENNTUFBT0RVajNJM1d6Z3VmUGY5SQ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
    "source": "CNBC",
    "time": "2026-10-20T06:25:26Z",
    "link": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "UK unemployment falls to 4.7% in June-August; vacancies lowest since 2014",
+   "source": "Investing.com",
+   "time": "2026-10-20T06:24:18Z",
+   "link": "https://www.investing.com/news/economic-indicators/uk-unemployment-falls-to-47-in-juneaugust-vacancies-lowest-since-2014-93CH-4958895",
+   "tags": [
+    "JOBS"
    ]
   },
   {
@@ -150,6 +195,15 @@
    "link": "https://www.cnbc.com/2026/10/20/brent-crude-holds-near-five-month-high-middle-east-tension.html",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "German producer prices climb 6.7% in September, above forecasts",
+   "source": "Investing.com",
+   "time": "2026-10-20T06:16:53Z",
+   "link": "https://www.investing.com/news/economic-indicators/german-producer-prices-climb-67-in-september-above-forecasts-93CH-4958865",
+   "tags": [
+    "INFLATION"
    ]
   },
   {
@@ -173,6 +227,17 @@
    ]
   },
   {
+   "title": "UK unemployment rate falls to 4.7% as jobs rebound, keeping BOE rate hike bets intact",
+   "source": "ForexLive",
+   "time": "2026-10-20T06:00:14Z",
+   "link": "https://investinglive.com/news/uk-unemployment-rate-falls-to-4-7-as-jobs-rebound-keeping-boe-rate-hike-bets-intact/",
+   "tags": [
+    "RATES",
+    "JOBS",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
    "title": "UK August ILO unemployment rate 4.7% vs 5.0% expected",
    "source": "ForexLive",
    "time": "2026-10-20T06:00:14Z",
@@ -182,12 +247,30 @@
    ]
   },
   {
+   "title": "German producer prices hit highest since March 2023 as energy costs soar, fueling inflation worries",
+   "source": "ForexLive",
+   "time": "2026-10-20T06:00:09Z",
+   "link": "https://investinglive.com/news/german-producer-prices-hit-highest-since-march-2023-as-energy-costs-soar-fueling-inflation-worries/",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Germany September PPI +1.9% vs +1.5% m/m expected",
    "source": "ForexLive",
    "time": "2026-10-20T06:00:09Z",
    "link": "https://investinglive.com/news/germany-september-ppi-vs-1-5-m-m-expected/",
    "tags": [
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Ukraine war briefing: Zelenskyy claims US deliberately delaying interceptor missile deliveries to Kyiv",
+   "source": "The Guardian",
+   "time": "2026-10-20T05:58:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2RmejR4dzYzZVU3WUU5WGw5V19hanBUNUwyUFVUX1JNckFtOWpwTlFBcnVrbVBNVi1GRGRnTzEtbEtNZkRyOU51a2lIanNURFp0ZjY3UlVPS0ZLZVdTVi00cHdpVnlsRWVUa1o5M2NwaWtlaGptVnRkZVdoXzhva0pTc2MwNFliWE8wLXoyVUdRM3R0TzVJY3p4Z05YblJkcVBLOXI0QmNzUURTd0VBMFJGSE14Y2NWY18xSWJjVG5GeU9UeXBlcWI5VWlGLUttV05nbWpmRlVNM1RwTktOdA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -254,6 +337,17 @@
    ]
   },
   {
+   "title": "Gold inches up on softer dollar as investors assess Fed rate outlook",
+   "source": "CNBC",
+   "time": "2026-10-20T04:56:14Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnNyVDNDUGRwS0xzMXU4ZzlGQkxCRy1GQXp2QnZhQy1XT09UM042SkhnZVIwNW5NVXN1MEgwMFJlWC01Yld4OWhxYmZpbTMtQTl3ZDlaVXE0bDViZkZRZ3VkTHVwNDUyT0w5Q2lGcTNLZmpVc21pdzdNemtfRnU3U1BHV0hiUzhLd3VYZlBvWmQ2MjYyMnhVVXN4bDRCLWMyWXh3VjgtLVV1R19lN3fSAa4BQVVfeXFMTk5zclQzQ1BkcEtMczF1OGc5RkJMQkctRkF6dkJ2YUMtV09PVDNONkpIZ2VSMDVuTVVzdTBIMDBSZVgtNWJXeDlocWJmaW0zLUE5d2Q5WlVxNGw1YmZGUWd1ZEx1cDQ1Mk9MOUNpRnEzS2ZqVXNtaXc3TXprX0Z1N1NQR1dIYlM4S3d1WGZQb1pkNjI2MjJ4VVVzeGw0Qi1jMll4d1Y4LS1VdUdfZTd3?oc=5",
+   "tags": [
+    "FED",
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Gold braces for volatility amid recovery in bond yields, higher oil prices",
    "source": "FXStreet",
    "time": "2026-10-20T04:55:39Z",
@@ -310,12 +404,11 @@
    ]
   },
   {
-   "title": "Gold (XAU:USD) Technical And Macro Outlook: October 2026",
+   "title": "Gold Technical And Macro Outlook: October 2026",
    "source": "Seeking Alpha",
    "time": "2026-10-20T04:05:00Z",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzdyRkNLU0g0UlVSV3BQT0t6NkFONlhwRHdIU2ItRWJvZ3FaVFdDQkhJMkdsSllOYnNnaG5PWWNRZVVjeFNjN2lWMU16eVprVWM0ZHZRUU9PYUxrcFo2Ymk3eS01dXpTNzdXUENpWE9tWHVLdGZxbW5qLTBRaXAzbllsUmhHWEV0dUs4Mjh5bnFJWWM?oc=5",
    "tags": [
-    "USD",
     "GOLD"
    ]
   },
@@ -376,30 +469,12 @@
    ]
   },
   {
-   "title": "Ukraine war briefing: Zelenskyy claims US deliberately delaying interceptor missile deliveries to Kyiv",
-   "source": "The Guardian",
-   "time": "2026-10-20T03:19:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2RmejR4dzYzZVU3WUU5WGw5V19hanBUNUwyUFVUX1JNckFtOWpwTlFBcnVrbVBNVi1GRGRnTzEtbEtNZkRyOU51a2lIanNURFp0ZjY3UlVPS0ZLZVdTVi00cHdpVnlsRWVUa1o5M2NwaWtlaGptVnRkZVdoXzhva0pTc2MwNFliWE8wLXoyVUdRM3R0TzVJY3p4Z05YblJkcVBLOXI0QmNzUURTd0VBMFJGSE14Y2NWY18xSWJjVG5GeU9UeXBlcWI5VWlGLUttV05nbWpmRlVNM1RwTktOdA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Zelenskyy says Russia hit Ukraine again with no \"warning from partners,\" U.S. delaying \"vital supplies\"",
    "source": "CBS News",
    "time": "2026-10-20T03:16:23Z",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNUs1WnJWV01qWGFyRk5mTGJkUjd1aWUwY3BXWEZubnVFajF5TUFtNExyempsQTRGbXJieXlVMXlIbDdHMjFiQS04YmZSTElxcFk0WTh5c0U3MVRpUmh6MTJVRUVMa2NsaGN3NDN2YkpfaTV3Y3JKZ3N2WDVOdUUwVUg1SERpVjQwbVU1a1RGOHZKN2pDbHpHZnlR?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Copper Holds Drop as Traders Gauge Risks From US Tariff Policy",
-   "source": "Bloomberg.com",
-   "time": "2026-10-20T03:05:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTnNUZW5sQktjanBIbW1KZi1ta3lTeHVRbVNyRHotbkR5eXZEVVpXZndRV2hyUXI1T3NhSjB2RjlxZDVkd016UEVGUlNwcmdXUlJUTHVLTUVGYmdlUndQUDJER0VsbkRBX1k5ZFh6Tl9tUk1FSlkzZ2dzWTZpRTM0TUpQTXpKTFRqeTNuZkg4VHlBWVVjUkxNa09YZlRQcENNTUFBT0RVajNJM1d6Z3VmUGY5SQ?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -496,17 +571,6 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVHBJVVhad2JwY2JvekpVOHNrS2dmQWZtbXNFaHJoRjRPVnJsZ2gzUHJvaUliNS15bEpjQkZ5M3RidlhsTDVBbmNaZ0pXa1M5d2tXRXdUM3F1eVVCMm1PV0NZamlVWEtTU3dKUE45eTRIaENUUk1DLWZaU3E3TUFzSWI3azFjWGR1ZFFQeV8wcVZ6VXBW?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold inches up on softer dollar as investors assess Fed rate outlook",
-   "source": "Reuters",
-   "time": "2026-10-20T01:33:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVJCYm9CRFhWY01aUkRqYnVXb0RzRC1RUnhfOEFicHItalFBMnRMc0ZjcWRVcGNnZVg3ZXQ3WXNXeUZLN183enN0NFAtdmxuUHJhRU5jOHlQbTg1TldhNVdtbF9IWU1GZ1BfOEZvTnJpUEhGTE5xUkRSbl9FZVR4NlFJMEE2V1VYZ1hVRzk3SmpJMi1qelE?oc=5",
-   "tags": [
-    "FED",
-    "USD",
-    "GOLD"
    ]
   },
   {
@@ -620,72 +684,6 @@
    "tags": [
     "YIELDS",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Children among six killed in Russian drone strike on Ukraine park",
-   "source": "Al Jazeera",
-   "time": "2026-10-19T23:12:42Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "‘I got out of my bank stocks’: Why former Fed insider Chris Whalen is betting on gold",
-   "source": "Kitco",
-   "time": "2026-10-19T23:06:14Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORS1UVmtBQ0ZsbG9zVUl5QWo5U2lTUmZRdEdqNVRxaXdhWVBpN0U0VHc1N3B5NzJ4ejk0VjdZcU41bndGM0wxUHJEOUpiSThyOVk4Sk9tWUNLbkg1NW56ZjkwUzBlQmlCZGk1SVpDYVZ1UldtOXZiWTA4LVpWSUpKOEQwMlB0QjBWaEtOcWJTNDdkVEJKendNM2lHaE1WSG9YN2oxTjRqaldRN0lsNERPekJIdUdoT250bFc4?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold and silver prices pressured by hot inflation, but gold ETF holdings buck trend to hit 2026 highs – Heraeus",
-   "source": "Kitco",
-   "time": "2026-10-19T23:04:14Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWS1XbUdWTEt4Vjd3MHRGSWhndDhGUFNnaDR1OExpajlpX1kwVVAxZXpPb1l5N1dPRm5QRTkyRjRVc0dKRDdiTVJ0Z09nQmpzaU9Ub2M3MVhDYksxelZOc1htWXg0UlIydGE4VE1iVkplbnFDWDVJMG1UWVNESk1TUmZRQWdzWUF0SWVaQTl1Zk1jLTZadlRRaWN6ZjVPS2drM1NvQ1Z4SHh6dHdjWXB2WjltU2VzU2RjY0VzQXV3?oc=5",
-   "tags": [
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "CNBC's The China Connection newsletter: Navigating a tech-heavy world",
-   "source": "CNBC",
-   "time": "2026-10-19T23:00:02Z",
-   "link": "https://www.cnbc.com/2026/10/19/cnbcs-the-china-connection-newsletter-navigating-a-tech-heavy-world.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Ukraine war briefing: Trump accuses Zelenskyy of not wanting to end war as feud rumbles on",
-   "source": "The Guardian",
-   "time": "2026-10-19T22:56:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUUctRlR6MWdkbC1ZZUhDOC1GaXgtZF9BWGFlNjZXV0R4X2tsUVliMl82MkxnUzZnRHdiSllRTlpZX2M2ZVctMWwwSXBmUFJoX3ZzZXNQNFA2eGYwM3B3dHhkUzg5WUcwcTc3ZENsYmFXUml5ZjJiZEFpNlF4QXlEQUx4QmQ4RDJCZ1B2MDVFWXk2TWNFRkp0QVg3SWgySHVJRE1mMUt2dGJlU2hiaGNQdXYzNXhKME9xaGJGQUl1Qm1FbUg4MG8wcVdFU0NkOHhq?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "List of Republicans Breaking With Trump on Russia Sanctions Waiver",
-   "source": "Newsweek",
-   "time": "2026-10-19T22:52:00Z",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVExBbEh5MmZzXzM1cDN4UVROODF4eGdYcFhuWENuMUZ4TlRuZVYwVThBRmE2WEtmWGsxaUVaMmxUaDFSdEN6OC1WOW5RNTBNUURubEhWVUVFWG4wandIRV9iZ0VSU0JLaVlLTGc4RWdoUUlCOXB2WlE4TGt0Z1JHNXFqVkw2Y2haMG0tR2VIRlg1NW8?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Trump administration has not approved interceptor missile transfer to Ukraine, Washington Post reports",
-   "source": "Reuters",
-   "time": "2026-10-19T22:46:53Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHdkdnRqZldKMC1xSzg1cnQ2enRBOXpVQ1V6Yi0xUW02R3diUFAwYTRQR3Vqb2Q1U29RU0FGOWp6Z1V6TTl5RjZ5Qmk0QWR6bXJQdmZxbjJEODR2MGRISENvMjVtcTMyTGplZm5oLTRIRV9xZ1dJOUp6SnVYTFpSMFpKakZvc1JBZVJ5UHZ2QWMzVXNKSUZoeWhkZ0FTTGdKQXlEdkZ2RTduM0EyY2VVclloZXI5VmM4T2JzdFAteTM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
