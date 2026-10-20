@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T20:55:29Z",
+ "generatedAt": "2026-10-20T21:23:51Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 3
   },
   "marketwatch": {
    "http": 200,
@@ -81,32 +81,32 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 34,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 15,
+   "items": 13,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 20,
+   "items": 18,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 28,
+   "items": 25,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 13,
+   "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 27,
+   "items": 25,
    "kept": 12
   },
   "gn_oil": {
@@ -126,6 +126,53 @@
  },
  "items": [
   {
+   "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+   "source": "Al Jazeera",
+   "time": "2026-10-20T21:19:12Z",
+   "link": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold (XAU/USD) Price Forecast: $4,217 Breakout Puts Bulls Back in Control",
+   "source": "FXEmpire",
+   "time": "2026-10-20T21:15:49Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1pDY1h6aGUtRjBicXJnQ1Z2bjVMczhBMDdTNWRvNk1lSXREelZtYVlCS0c2OHFiNURONmR1RjBuWF9sQk83Q2t0blZXUEpnbWUtWHNZUFBYc1dFR1BFeTA2YzY5c0NlS1JsX3VwdC1CdElHallqZGhZNXhzQVdpVmxsbXdoVFhaS1V1ZklhY0dQMElIbHo3MHFITW14WUhEZk1ZTVB2UW5yNWYxOHE3UWxfeUlUUENZOUNB?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Trump: ‘Hatred’ between Zelensky and Putin is why war won’t end",
+   "source": "CNN",
+   "time": "2026-10-20T21:10:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVlkyQ1pKR1VnT3RVSHJhYjRSU2FEQWVOS1docVZIUkdlTHRzZUN2MmU4RWkyS1VfVEFfRnlmeE9mc0ZNZEVDcmNoTzAwQmFkYUZrYmx0cXJtT19aNl9ROXNKZEJJVWxablp0UFlxbElGWDdWT2xKRFByX0VuVDBCSVFIMjBhWVN2bkE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Opinion | A Buyout for Iran’s ‘Shadow Fleet’",
+   "source": "WSJ",
+   "time": "2026-10-20T21:03:00Z",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QRWdZNVRrNVM3dEk0dnNLeVk5U2lIajFBc243UTBwc2g2bGlsQ25PTm15YzJpWWZ4cFJUZVA5emR3UUlBc0YwV1ZGa3pmUGQ4aGVMbGhacHdNb3RBMnl3N09MMHQybm55bTlaSGxNV3B6aDF2aGpj?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "New university opens near Israel’s northernmost city, hoping to boost war-battered region",
+   "source": "The Times of Israel",
+   "time": "2026-10-20T20:58:34Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQUN5dDNoSnA5enFwd01mNmk1WnZyYXZKaTRUdUUybWhlbkZDam03Q3NTcTgweTJLRUJpTmt6NlMyekM2eXAwb1NJU1FROU9jODRNMEVOWnNIejlrcFFyWW5MZ3FVS2ZZSDVTcWl5OW5UVndyVGgwZnVHWkViaVF2LVJYVWRuakVWX0ktdF9GRk1DWnBKVmFkOU51Wm5jNXlPUGc0VEhTVk50ZklGZENnS0V0Q05xRFZBcGfSAb8BQVVfeXFMUE9QZUZ3dnhJMDJ0cThlaFVFMmlsSll3aDhZc1pfVGZFTkJvV3QzdGw5UE5wMEJocnJ0c284NHNIVEpsUDV2VFBJRjV5RTU5blZNQmxkcEpEVHllRWZfNEhCeTFZN19ZdlRYZGNFRU1RcEdSX1MzUlM0NjJHWXVkeFNicWh5YkFSYzZyNV9Ta3NxSVlwZUwzYTByREtuR0daMTl5SF9ReHBZQXpKSkR2TFhGQjVPdE9MdXhMYUhXXzg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Gold and silver ALERT: Why risks may grow after the election",
    "source": "Kitco",
    "time": "2026-10-20T20:49:37Z",
@@ -141,6 +188,15 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb2llR0hxTVpKUXRkOHJqRlJFZzZTQjFuQ3NWSXBVTmZ1NGdfVEtTbjNTY2pjUWtXVjhLTXJTak9UTDBnaWNiUjRHSnR2SkVjb1VTcmJidEd5OEFaM2xjUUs0cDlGZ0NORHV1VlBJSVd5cHR2enF5aE1keVR1RGl6OXY0MjFtcmY5SlNEbmJTQ0JDaE1zcU1QbjNtYnlQd2VZcHBwUTctYzhEanRvdFYxR2lFeEMxaWNFc1BmSGdsUndfbXgtbnc?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Crude Oil Inventories Fall Less Than Expected, Impacting Market Sentiment",
+   "source": "Investing.com",
+   "time": "2026-10-20T20:46:07Z",
+   "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-fall-less-than-expected-impacting-market-sentiment-93CH-4961139",
+   "tags": [
+    "OIL"
    ]
   },
   {
@@ -169,6 +225,16 @@
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "investingLive Americas FX news wrap 20 Oct: USD falls as deal headlines swing oil; Dow and small caps outperform",
+   "source": "ForexLive",
+   "time": "2026-10-20T20:19:50Z",
+   "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-20-oct-usd-falls-as-deal-headlines-swing-oil-dow-and-small-caps-outperform/",
+   "tags": [
+    "USD",
+    "OIL"
    ]
   },
   {
@@ -344,7 +410,8 @@
    "time": "2026-10-20T18:59:00Z",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWh6UnFFV05zWUZpN0JkSW11YlowaDFsVG85azlLaVdPTFdfSzJYTmpjbFV0eE9IZGdiTWtONjNjLUJKZGFqczFDMnJ6QXBpeTM3TnpXc1BzTlpwaGpWMnpkQS1kd3JNOThFWTFqbnpkaVNKRkJOZzVkem5yckpTT1l0LURWaWFwSkdKLXJRaEliYW91?oc=5",
    "tags": [
-    "GEOPOLITICS"
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -379,6 +446,16 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUS1IWjJzZUJLZi0wQjFCenQ5c09FMURxUm5OQ3ZucjFuZW5IZEJVNWI0SkZUc2lnQWFNMl85Mm1ENDQ2V2s5RTgyemF5aDJ3YnJ1ejNjMFVDSllQZHRpNFdLYmJxRHo3SUs0akM0V0JiaW5KdFAzV3dPQjIyVTM1ZWNuWWFnYzFJdkNJaXI2U1VYN2g2WjJrdTRPMy01cWw1N3J0QXRvTlhDdjFEaGlsb1hGT2JKdlBYamFybA?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "China threatens retaliation if UK follows the EU on tariffs",
+   "source": "POLITICO.eu",
+   "time": "2026-10-20T18:26:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcm9la09fRUJpQnlGcUdPNDdUTkwxaU5tWDZ1NVlLVkhTY2tMRjJZS2RGN1lKVUExQy1kQWtocS1iaEtYQlQ4U2lnT3o2bHF2aFhtQlpmN291SDQyS1ZoMkJKSGNybEUyS21kVWE1X2ktY2hwVGdLWXZOVms2b09kOXJRdDhLcVZTWjJobVc4Vks3WkZRVDBFdw?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
    ]
   },
   {
@@ -438,6 +515,15 @@
    ]
   },
   {
+   "title": "At the negotiating table and on the battlefield, Russia and Ukraine are at an impasse",
+   "source": "CNN",
+   "time": "2026-10-20T18:04:05Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOGN1ZVhRMGJKdklVYUFLX0I4N2pCMElvN2RGX1lCb1JZSkJkckxoQ3RvT1B1N1VIWUtXWmVEdjZiUUZiWjZpbWIzc3p2WXJ0M3hmdGRGcFdBaHlKck9Xd2htMUl0eDZHVkRqbnJRR1BYZXVUNll1bWlpT3NmRDdIcldGQlU0YlFBWWZVUE8yMEFOempfTGlfcA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Finland President Stubb offers some optimism for Russia-Ukraine peace",
    "source": "ForexLive",
    "time": "2026-10-20T17:57:04Z",
@@ -463,16 +549,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVG4za2l4OV83SVdWQXVzclhadmYyVDJjYS1CbllNQTdDM01zQkVsVG9wRHVKMkZuSHRPajduX0JieGpka2psWjR4V3lNb3hzSXI1elMyYWpaLTlGdk9ZUk95Z19wWVAxZXcxcl90YTJzWDdkcnB2ZEdmVy1IU1BCUXhURjU3bmZGcHIwY0oyNXNBQnBLcWJjQVlXdmNMWGpsQzVpXzlNSmtCUkVWZFFNYmVTalVDZjU0UW44UVU1Q08?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "China threatens retaliation if U.K. follows the EU on tariffs",
-   "source": "POLITICO.eu",
-   "time": "2026-10-20T17:35:37Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcm9la09fRUJpQnlGcUdPNDdUTkwxaU5tWDZ1NVlLVkhTY2tMRjJZS2RGN1lKVUExQy1kQWtocS1iaEtYQlQ4U2lnT3o2bHF2aFhtQlpmN291SDQyS1ZoMkJKSGNybEUyS21kVWE1X2ktY2hwVGdLWXZOVms2b09kOXJRdDhLcVZTWjJobVc4Vks3WkZRVDBFdw?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
    ]
   },
   {
@@ -600,79 +676,6 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQi11Q3Z4NWtSN1l0ZHQ5N0xqbVVsWmg2RU95UG5qU2FHY3BKdnVOeEtWWXBHeEhWRDQtZWluTlpLOWR5UHB5d3BVZlBralBCdlB0MF9LcFl1aDNxYkpOQzRkWVRqa3BwYlRTU01QSElXdVBZdEF5Q2F0WF95Qi1reE5rU2JXNWhwSkVNT1p4TDBiMVVGU0lXdzQ0Ym1mbE9taGYxQ2hzR1Y1al8tSXQw0gG0AUFVX3lxTE9yVzQzV2hFR1Jod19nLXNpUExVWnJNVi1XMUtjQlEyc18tNm9hbmNVSTRNYTlRamhDNFc4Unl2SUc4UlBhQkRrM2FmLU9vUUtaT0I0OUdJeUtTN1NHMHZ4b1JPRF8yZHlCVXJHdWdfblFqeDZyeDFINEJEdFNrUV9TVzdsMjFXQmMtYXZRWFBpdFg4RHBRM1Q2akkzWnowaGlNVDl3R0NZYjNTOXpxbzJ1UlNwdw?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russia's Oil Export Revenue Slides as Production Declines",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "time": "2026-10-20T16:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVQxQUtiaHBlMGNGS3BXMjU3azRHZVlHNXBLeHpRSXpXd2lNMWx1aGQzUkl3bkFMWXNZbTUtbFdLQXp6VXJIOTBxaDc2VWE2bWJIdzdyN0REanZQNVE4WGRHS21wYUcxNkVheXdiQ1YtWllQNldVbFc4SFBMbWF6Qnl0bjVtZkQ2NW5od0xLV2FpUWhmb3BmODlud3Z5eDhjWm1vYk9EQzd3QXlON1Z3c2FR0gG3AUFVX3lxTFBTeEdWUkFkNVQzaUJ3b0w0RnFURlJRdHd2cEFsalR6c0FnTjJVVkgxMnEydnNBVk5GdXJyY2IxQjNRcUkzdm5ma045c3Jfd1ozX0NGZFBZcndPdWZ6emhWYWdxaGhCZkRIWlRvQmdLbWNZTENmTDV6NklzS1RTTGZQWlYydTZmcVo0bC00TldKRXN3bUZjT3RnMXk5R1N4aTNhYXVaLUFEcDZUQThBYkFqVEdfVFhEUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Is Cyprus becoming Israel’s backyard?",
-   "source": "Al Jazeera",
-   "time": "2026-10-20T16:23:12Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_is-cyprus-becoming-israels-backyard-201026?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Homebuilder sentiment is at a 14-year low",
-   "source": "Axios",
-   "time": "2026-10-20T16:19:33Z",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsSUlCZ09oUFpwVXcyTHJSaHQzT2xYUHFsUmIySVAxdGp0VmM3eGEySW80WDFxTERlS21XREYxZmdnVm9wN0JKcHlxWHNkVHF6Mk9KSmxvcjA0R3BqczFNZ21jenpqMW4wRzRKYlJKMA?oc=5",
-   "tags": []
-  },
-  {
-   "title": "China close to matching US spending on ‘new way of war’, senator warns",
-   "source": "South China Morning Post",
-   "time": "2026-10-20T16:12:30Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcjV5djdvaGt5dm14RnEzM1lGZWRSUG1yb3JYTzNubjdEb0NDQkI0dkxpajVHbjFUWC13YkNoM3dmSncwOVliWWZFdE9pbDNISGtUc281eXZwNGNNZlYzajAxZ2RZRVBoSlN6YUNiZzlsSm92T3lIU3VZdnZ4ZTgwZ3FyRWp1c3psMjVvY1hmX0Mtai1YWk4tZkJmX09Fa0xhbWwwTkljV3FEZi1Sa0VCTlBNbHY4blBSdVByMGJLSzd4dEtWT1HSAcYBQVVfeXFMTTQ0QTFoeldCbTByeUQwbTF4Z2FRdGlNZWktUlFFX1RZazN2a1M2U3h0cHhpSGNXaXJhT2xDM2d0Qm43YWRVLXBlMV9wSlNSdW5BYmhpNm9VUkoxaWhRMlJsbVVkVnRCSW92aWVPQ2hMWkNvVXJtVjAzN3hrUWNrUEppcEdqMUhQMmdjNnFnUW5rWWpZVHN3cUhDTkdxU28yaDQ5QzhwdjlIcGlDeTJzQXFVeUJ6emRETkRLektVZWNLckJNcGVB?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "China close to matching US spending on ‘new way of war’, Republican senator warns",
-   "source": "South China Morning Post",
-   "time": "2026-10-20T16:12:30Z",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbUFobWluSXA2bTFEYnF0ZVZZSEFranlKLS1sZnN5VjNIVWt1WGRFd29iZTBPSF9sRTdrN1pGUlhHQXhqbV9PWVRmT0dfRndyQWlpbE1TRUk5VU1PUmpBdzkyQzdGd1o1clJScWhTdTl5Y1huMUxOaEhBR3pGdVU1U1Z1TVIxeGR5MndGYnl4QWFuOGRMRVl6RGhMbXRxbmsteVlCSTVjX0xac3VZWXZnTkxPNDBSUG9EaFhBdVBMd2NPbW1DZmpuTFFaSlVTMjl6OGIzZXd0Zw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Trump Administration Sued Over 50% Tariffs on Canadian Products",
-   "source": "Yahoo Finance",
-   "time": "2026-10-20T16:06:42Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMkdDVnE1VF9wVjdFb2xaZzB0UlQtaUxnVWhhMGgwdDFnNUdZbVpjMWF0TzBoZGZzRFNzbkhlTDE2MDlIZUQzd1lreWhxYWloQzdZdG1fVTNtSlJiSVVHMkdaenExSWJpR2lPN0o0SVotVmpVbkUyV09Bend2OUZVTWhkaXE0WnlidXg2ZlBhTURpME5Kek50bHR6cWhJbGc?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Food importer files new lawsuit to block Trump’s Canada tariffs By Reuters",
-   "source": "Investing.com",
-   "time": "2026-10-20T15:58:56Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0hneHdwR3puTWxrSnpSSE5mbGFCZUFzMUhzbGkwVzdocFQ3S2FCd0cyZWNfQ1UxWHF1UUJYV2J0R3pGbkRTeWRsMU5ncVZ6Mk5nMWdTeGRZNmo5WGZTb3d0NjNhamFOdUhzUmJHTG1GTjMtV01kazlwajFRWGt6ZS16enpNY1E3Mlc5TVY1d1Jvc0xwRFcxU0Vna0Nhblk5WnZZQUd2ZWd2akwtZENRbTk0Q2c5blpUaWlvbW5R?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Small businesses file new lawsuit to block Trump's Canada tariffs",
-   "source": "Reuters",
-   "time": "2026-10-20T15:48:37Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWU9VVXlWbnBJUWluWHZlOTVjRVVOdU9vOWt5ZklwVk5iN01SVGVmdThoc1h2XzFMb1VMdkhMWHh3UmtOVnp3MXhxUG5weFFTYi1kWWw5dWFWcEw1TFdXWS13S3FFdS1BbVFsdm5KZ0tfcUp6aGZ3RTBjcDl1ZVNCcGlDLXY5Yk93RlBKQXBVS3M2U0QwY1hvcmdtTjZ4TG1FanVXS25n?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
