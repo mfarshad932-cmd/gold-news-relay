@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T14:16:31Z",
+ "generatedAt": "2026-10-20T14:44:54Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 3
+   "kept": 2
   },
   "marketwatch": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 2
+   "kept": 3
   },
   "bbc_business": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
+   "items": 12,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 33,
+   "items": 34,
    "kept": 12
   },
   "gn_sanctions": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,44 @@
   }
  },
  "items": [
+  {
+   "title": "Oil prices fall as traders monitor conflict in the Middle East",
+   "source": "CNBC",
+   "time": "2026-10-20T14:42:39Z",
+   "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Dow jumps 600 points as solid earnings, oil decline steady market rocked recently by AI selling: Live updates",
+   "source": "CNBC",
+   "time": "2026-10-20T14:42:09Z",
+   "link": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "The Energy Report: War Is Hitting Home",
+   "source": "Investing.com",
+   "time": "2026-10-20T14:38:00Z",
+   "link": "https://www.investing.com/analysis/the-energy-report-war-is-hitting-home-200689918",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "CIBC slashes gold price forecasts but sees recovery to $5,200 in 2027 as central bank demand offsets Fed headwinds",
+   "source": "Kitco",
+   "time": "2026-10-20T14:34:34Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOajZTbWtYRkNIRkVvR0RzWHlPRjA0dmhybmVTVndycXR5Q2txZXBVZFp3QzhLWVpBV25ldUlOUk9XR3A1d28td3NEekczRzZRQzIzZDUwUVNHSUUwUXZNS08tU2RaaFAzc2VTWkRIWVdwOGJQNWNZZl9DLUhLbXgxblVpb1p2LTFOY1g1cWpHWWlLQW9rTVV0enhrMXkxN0ZPTmpBd0I1UW8wT3d4Vkx6YWtLWmlWRHM?oc=5",
+   "tags": [
+    "FED",
+    "CENTRAL_BANK",
+    "GOLD"
+   ]
+  },
   {
    "title": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
    "source": "CNBC",
@@ -156,7 +194,7 @@
    "title": "What I Am Watching Today – Yields, Platinum, NASDAQ and DAX",
    "source": "FXEmpire",
    "time": "2026-10-20T13:47:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDZEeFFTWlBJZlR5dF8zdGk2clJWclRFOE05aDJwMkxEV1VhQmN2RDlvRS1nMDYtNlhHRllMX0JlRW82cXVUTkZfdVVmZUVmbFh4V05fVkpiczE2U3l0YVFScE84dkIyV1NCd0RwLV9nMWNtUG1UZm1VSzludHZYUk0yQW5IMEUyYXZ1bzIxZmxGWjV2ZWk1akQwaTJyUzhEOFlVTzFLT1FjZVNiV0NnMG01b0Y?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazdZZkJZSXBQRjB3RjFqOGcwNGVieFZxSEpCRUE5YWl3R3lkcHBuRXlaS0ZqRERLYW1sZlgwLThSOVNTZHFhUEFjYnZGbTFXZzVqeWZUWGRobE1VMWVBcVBuMGdaQkJXVE4tbGRHYUtuaHdXNFFnS2xwWGhnd1IwdXlFSzBTUFFTMkdvVzBGS1FYRHN3MjBvTDdDMldQNGdoUzdxMnRQRjNodkVURi15T3Btc0VYWGF5bFhFd0hmNExydw?oc=5",
    "tags": []
   },
   {
@@ -235,15 +273,6 @@
    ]
   },
   {
-   "title": "U.S. crude oil tops $105, Brent crude at five-month highs amid Mideast tensions",
-   "source": "CNBC",
-   "time": "2026-10-20T13:11:31Z",
-   "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
    "title": "Iran agreed to secret nuclear site visits in shift towards compromise, report says",
    "source": "ForexLive",
    "time": "2026-10-20T13:09:07Z",
@@ -259,6 +288,16 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1daQTg5d2lOVXV0UWliMmhhb1R0c0MtbVFIRDRTSFBQWmZub2dmNFRTZmJWSDB3ME4xS1U3WnZ3MEtCamNScWNyYy13R25hSEdqOFdCcVZUNFRsTU1MMGxLWVRpSHB5NWxKTkR3d01Bb2ZheGg2WUtRTmZKZTJ4WHJKNG8tc0ZpSEZWUDNYLU5wUTJObmhqTU9wV3dWMVR4NXNqNVBpMUZGejV6M2hSZWZCUVZ5TGFJQUpNcUFkUnZ1dnVoajdBay1B?oc=5",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "As Iran War Shakes Up Global Oil, Halliburton Earnings Point to a Middle East Recovery",
+   "source": "Barron's",
+   "time": "2026-10-20T13:05:00Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ScHNELWZaaHU2cjltbzVEY211NWR6ajE0eFNEUThfa1lRaGJacXd6N04zY0FJOHRUSjZLcGhCV09aUnNJOTlRRG1hdXB3azV2RDNrUlBYS0hhekZNdEZHZ1lxWlgtYmJVcVN3bVY0bDZGYVhxSXVpNU5oNlN5MnM?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -294,6 +333,18 @@
    "time": "2026-10-20T12:44:33Z",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3o4S0RYVjNHTnMwVHNvMjRnWE5NblVIaEdTSFZoMmw5REE3U05tOXJqZW9BWDdqTE1ZWWpqeG13aHoyRDBJZ2Voa3VuZS1VdmQ3ME5NNXo4RVFYSFpTZC1JcERjNWRqUGxfZmRtTFdmTDByYlhNQTNXNTJGUl9vbEh4ZXZrSWtVdDNrTWYtc2pJMDR1QnUxcWxEcHVFQ2ZuTUF0amtMdDBoVGY2N0Y3cGpiMzFhSmlKa0FV?oc=5",
    "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold extends losses as rising Oil prices reinforce Fed rate hike bets",
+   "source": "FXStreet",
+   "time": "2026-10-20T12:40:28Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1lWdldiOEJVbVE2UU82Mk5Mc1d1ZWFIZl9rSW83ME9YTTVzV2ZGSWNoVk5fUEpITG5qSk5qTkwzVTk3THhYUGNNYm9fRTVhd0kyb1pJSEo0c2k4V01JdFZWRS1rTzJPV0k5TTFyTXRmYndfTi1VMFZPVTFvenUwbVJ0WGpOdTFJRzRPTy0tWFduSmh0TFpYNXRuUVU0M21HQUNpY3NocXI1d3ZKUXVPX1pB?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "OIL",
     "GOLD"
    ]
   },
@@ -369,22 +420,32 @@
    ]
   },
   {
+   "title": "Gold (XAUUSD) Price Forecast: Oil Premium and December Rate Bet Keep Sellers in Control",
+   "source": "FXEmpire",
+   "time": "2026-10-20T12:04:55Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOGNldjdXczdOMlY1M1c2RGhDaHN1WW1TZm1VOW1mdTFUZGUxb0V3ZzkyNDR6MnBvdlFnT3VQS05lXy1mOFRVNXdQeUVhMURuRmloZ0l4dkpnN1VGVVpLcEFvdGtOdl9OY1U3STZLX0dnZVZJUk9qUWdsaHlPUmh3eDhqU3lWbzJYTWs2WGVOTk44MXZESGtaMWMtek9RejJyWFlCYmZ4dFpTMjY0SlNrOEJnQ0VLM1VITnN5NlFCT1RVdEJyQUxPXzV1eE9BeGRR?oc=5",
+   "tags": [
+    "OIL",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Chinese military vessels and spy drones track Keen Sword war games off Japan",
+   "source": "South China Morning Post",
+   "time": "2026-10-20T12:00:07Z",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdVE0U1NLMG9Hd1VoVUVDVEdYQVpka2dZM3RPT0dlTkdjOUdOTHRQazdUY05UNnpPSkp4bDFJY1ZpVU8xcExyTEdhTWZFTWswTDhMSm1qQmFMRWtjMUktVUd5TkZic24tb3JpRExYMWNoVTBpMEtsMFpLOUlzay1CYzBQaENvalRGRlVJTTBZMXI4cTlPSS1NMHR0S05Jd2w0MmhHemNvTGtoQWtsU3dOc0t3NjNjS192TnduX3ozUFUxaWF6RU1fUdIByAFBVV95cUxQZW5uRXNseTRsZWduTUFsY3ZMNHZlTjFrYXpEdmVYbWtTVnFfMjAtN0FROWE1N2k4R09DNHJxRHV0bDltVGp3blAzZGlfZnBfZWEwRnlFWEZPbEU1Z2JuTkVkUWtXM3A5cjE5Vnoxd3R0MGh1blZGQVZUVVY4U3U2VWtIRnFMQk5hTy1nMy1Qckt0ZVBkNld0WjBrRG1XVEJGNnh2cHlHQzY1Yy0wdkFqV3pKS0RQelJ5Q20zT2RLM3cydWFGQ21ZQw?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "CHINA"
+   ]
+  },
+  {
    "title": "investingLive European news wrap: Rising oil prices keep weighing on risk sentiment",
    "source": "ForexLive",
    "time": "2026-10-20T11:40:52Z",
    "link": "https://investinglive.com/news/investinglive-european-news-wrap-rising-oil-prices-keep-weighing-on-risk-sentiment/",
    "tags": [
     "OIL"
-   ]
-  },
-  {
-   "title": "Gold (XAUUSD) Price Forecast: Oil Premium and December Rate Bet Keep Sellers in Control",
-   "source": "FXEmpire",
-   "time": "2026-10-20T11:34:37Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOGNldjdXczdOMlY1M1c2RGhDaHN1WW1TZm1VOW1mdTFUZGUxb0V3ZzkyNDR6MnBvdlFnT3VQS05lXy1mOFRVNXdQeUVhMURuRmloZ0l4dkpnN1VGVVpLcEFvdGtOdl9OY1U3STZLX0dnZVZJUk9qUWdsaHlPUmh3eDhqU3lWbzJYTWs2WGVOTk44MXZESGtaMWMtek9RejJyWFlCYmZ4dFpTMjY0SlNrOEJnQ0VLM1VITnN5NlFCT1RVdEJyQUxPXzV1eE9BeGRR?oc=5",
-   "tags": [
-    "OIL",
-    "GOLD"
    ]
   },
   {
@@ -403,18 +464,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zVUxZcy1LUmdGa2UzZEY3czEyMEF2b3BQenFSZFlvMlMyc1pONjRILU1zcllURnozRUh0OGR3cFFuNmhuNmpYNFF5bnc0c0tDSTNDdkY4TFNudXc?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold extends losses as rising Oil prices reinforce Fed rate hike bets",
-   "source": "FXStreet",
-   "time": "2026-10-20T11:30:10Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1lWdldiOEJVbVE2UU82Mk5Mc1d1ZWFIZl9rSW83ME9YTTVzV2ZGSWNoVk5fUEpITG5qSk5qTkwzVTk3THhYUGNNYm9fRTVhd0kyb1pJSEo0c2k4V01JdFZWRS1rTzJPV0k5TTFyTXRmYndfTi1VMFZPVTFvenUwbVJ0WGpOdTFJRzRPTy0tWFduSmh0TFpYNXRuUVU0M21HQUNpY3NocXI1d3ZKUXVPX1pB?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "OIL",
-    "GOLD"
    ]
   },
   {
@@ -445,6 +494,15 @@
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Federal Reserve issues chilling warning to 3.1M US homeowners and every American with a credit card — act before Oct. 28",
+   "source": "Yahoo Finance",
+   "time": "2026-10-20T11:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLTZTSUdaMURJRTdQUjFOeTFSNGpIenNnODdDMWp6RU5FUVZqUmhmTUZ1WENUZnNraGVkUzV1amRXdG5RTDNfWEhaLUJhcjhCdDlVeEdsY2xmX0YzdU13dGRkUjI3Nzl4X3Zud0hoMGlackk1cnBBUGNXdmFjQjJGT0tDWlQ5VVF5OGZFUFYzUV8zNkw2Z0hVaUZweUdkckE?oc=5",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -491,6 +549,18 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold dips as oil prices fuel inflation fears, Fed outlook in focus",
+   "source": "Investing.com Canada",
+   "time": "2026-10-20T10:42:58Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWk13WURyOGprYk1wXzZoRWh0cTVubTlNZ3dWX2RBbFM3NWlTYXFGOF9Hb0thQXIzWFBRZnVuaFVEcjFtYnZoblFOVVQzbldtUG00UFBsanFCZjYzRmRLWGhCX3VybUFGWlpOV1F4czZzX1dGaEg1UzF3MmFkLWpLT2hVcko0amxKMXlmVUpyMFV5aGJZVVRJMldPNFhJMzV6ZmdqM3NNMjdabWZPb0dyREpFN0w2N3Q1cTU3Xw?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION",
+    "OIL",
+    "GOLD"
    ]
   },
   {
@@ -616,72 +686,6 @@
    "link": "https://www.cnbc.com/2026/10/20/us-treasury-yields-investors-economy.html",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "US demand for Swiss watches rises following tariff spat",
-   "source": "Yahoo Finance",
-   "time": "2026-10-20T09:48:38Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPclhJZzhqNXU1MXlwaW45dHlidUd4dXl5a1NsM3ZVM1pydnBjNmhlbS1FY2VQMDNiM0tteFEtaXkwNWRHU0hnU1V1NmU3Q0lRNFpwMjFyWFBQM2xfYV9GcXhfWmZBOVl3Q3ZNMElNbUsxbzIxZDI0eGszLU80bkZPalpleUR3bDU0VGV0ZTdTeS14T1NVMUQyWjJ3?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Rubio arrives in India amid growing pressure on global energy markets",
-   "source": "The Washington Post",
-   "time": "2026-10-20T09:43:51Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclJjQ3VBc01WR1M4Rm9LeXVvV3pJX2hsUEo1ZnI5RkxwZExUQklld2VCaV9SNTNzUkZpQm54VnlQMU1aWHMweFp0UGFoenpTSmIwOHpZd1dUYlhkRG4xVE1tT3VIX2FoUFhpZGpHUXJoX1pvRWY5T09sSnJfZlB1RnNIMnJYUkdwaURCMjB5ckVISF9hYVY4NmRvY1U1TFl6LXZCWEdzRV9PMC0weHZOc2JxSWJXN282SnZaMERVeVFCZw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "White House posts so-called 'hype' videos combining real Iran war footage alongside movie, video game clips",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-20T09:40:07Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGZ3a3Q4R2NnNWJ6TXdGcWNEd0EzUnozYmtiNmI1TC1xcEw2dkMxN09CZDhuN3hDX3k2SkV1M2tjTGt2RHNFVXVmaEQwOVhQZVc4VzhJaHZraHloWWRzR0xoVkhqVmtoc2xPZ0pzWUxOa2ZpdnlrbENWSU1ZeTFha1pCRUlORXBzV2RLR1VhRElJejAyY0FXd2RlMlRnQWFp0gGmAUFVX3lxTFBiOXlWck42MkJWNjhKWDVDQWZXVGdLNm94cEU4b2ZJdlkxWFVyVWJpQkppenhGeW1JWGpESDh4UDFTS2s3WS1qa0c2cXJXLTlWa0pnd2pjZ19WcVZFaFhxRDZqNkI4QURjSGpDd0JUQ1lXSGY0Y3hGRVJrNUQyLUlzeEpTNmVwZmhobmZDeHlsWVk2NktDNEdwWXA2Uld5Z0JBUkhWVGc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Dubai Luxury Home Sales Fall From Record Levels as War Drags On",
-   "source": "Bloomberg.com",
-   "time": "2026-10-20T09:25:03Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY0lKRE83eE16SGRoaC0zX0tORERRMEdTTGtSeXdEWVZpczBCN1VseUctdUNONHFjN2NiXzN1WDhYWWVoU0tOVHFVeXRLRWV2VlVGcVJwOEVtSE5NQVQxREFhdC1oaW9EdlNsRmNMV3dZeW9MSU4tcGYtdHpTOUNweDN5OHZDODJTLTdOaVNCWnBYTC1FTEs5M0dqRUZCbUxVZC16UDVrMlQ5RGpuSU4xQzBDUmk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold dips as oil prices fuel inflation fears, Fed outlook in focus",
-   "source": "Investing.com India",
-   "time": "2026-10-20T09:13:58Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVk5uNm5nMjJVSWVTNkdiMGtOUUNmSVFGVzFhSGRwWlNuSzNJV2VIWW9DWkxicFBJWFpIQzBzck13SlhpWDRWclk3X2N3dXE1d1FGRldvYnBmSXFCU2R3dHlBcWpBNjNmZXF6Wmd0V3R2R25kWlRTbF90YjhTY3pYaFdkc0pzMmx1alViUEdGWmZiOVkxY3VwTUEwTGYzWTI2LUJiV2J3MzNqdTU4MkRQdW8tcTREdmM3Nklrbg?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION",
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Price Forecast: Key Levels to Watch Today",
-   "source": "Investing.com",
-   "time": "2026-10-20T09:13:00Z",
-   "link": "https://www.investing.com/analysis/gold-price-forecast-key-levels-to-watch-today-200689894",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Under Pressure: Is a Trend Reversal Near?",
-   "source": "Investing.com",
-   "time": "2026-10-20T09:11:00Z",
-   "link": "https://www.investing.com/analysis/gold-under-pressure-is-a-trend-reversal-near-200689893",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
