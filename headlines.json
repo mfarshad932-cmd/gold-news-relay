@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T13:48:08Z",
+ "generatedAt": "2026-10-20T14:16:31Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 4
+   "kept": 3
   },
   "marketwatch": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 31,
+   "items": 29,
    "kept": 12
   },
   "gn_fed": {
@@ -91,28 +91,28 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 15,
+   "items": 14,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 32,
+   "items": 33,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 9,
+   "kept": 9
   },
   "gn_yields": {
    "http": 200,
-   "items": 31,
+   "items": 32,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,40 @@
   }
  },
  "items": [
+  {
+   "title": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
+   "source": "CNBC",
+   "time": "2026-10-20T14:12:38Z",
+   "link": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
+   "tags": [
+    "USD"
+   ]
+  },
+  {
+   "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
+   "source": "BBC",
+   "time": "2026-10-20T14:09:42Z",
+   "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Spielberg’s War of the Worlds forced Americans to look in the mirror – and see the real monster",
+   "source": "The Guardian",
+   "time": "2026-10-20T14:02:00Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUZpWlk0bWhMcklaWXZrWVJldmZkUnZUZnYza0VQVnNzRnBLU09aSDZRR08zU3JjVDU4WGhqUjdNOEdsUmVGMDdzQW94VHNFRjZEX1JKWmlEV3FrVHJuTkZKNW5tanVpSHlyWlhMNExTRWZYek0tUWR6OEdYVGVST0NhZWpKX0lmOEw5NkxSRlNVZkdkNHhJTnFURkc0Vms?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "What I Am Watching Today – Yields, Platinum, NASDAQ and DAX",
+   "source": "FXEmpire",
+   "time": "2026-10-20T13:47:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDZEeFFTWlBJZlR5dF8zdGk2clJWclRFOE05aDJwMkxEV1VhQmN2RDlvRS1nMDYtNlhHRllMX0JlRW82cXVUTkZfdVVmZUVmbFh4V05fVkpiczE2U3l0YVFScE84dkIyV1NCd0RwLV9nMWNtUG1UZm1VSzludHZYUk0yQW5IMEUyYXZ1bzIxZmxGWjV2ZWk1akQwaTJyUzhEOFlVTzFLT1FjZVNiV0NnMG01b0Y?oc=5",
+   "tags": []
+  },
   {
    "title": "With Friends Like These ...",
    "source": "Bloomberg.com",
@@ -139,6 +173,25 @@
    "source": "Investing.com",
    "time": "2026-10-20T13:31:10Z",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcVN0UTZfVmVsWHlnV3djdWRkWFFZQmVCWmNZZk16OTNUSDUzLXBCU09XdG5HUW5qdzNjOUtpM05LaDZLLWx0MEpUM0VzV2lvQ1BSazlINVpGbWU2blctVllUTXRpNTVmRm1TV2JGUzRYV3ZEbk5tMU1pTHpnc0MzcWt3Z3BFZXZZX191UDNadXhsTDZGMEtOLTZULUhJYVJaV0FVS2g0b3FkR1hNRlRabnlXQ3AxNTV1ZUY0bXNETDdMZU84eWc?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "US envoy Barrack defends decision to join Israel in war on Iran",
+   "source": "Al Jazeera",
+   "time": "2026-10-20T13:28:31Z",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYnVoQUVCak1IYXdhdXVlblp6VHhmOGlZRTNoVkxySXZlNXJIdVY1MTdxOXNjNmp2RF91UXhZVTFwbHEzaXcwYXVKZ3pGYW92Tmxrb1FDRVRiYlZfTEhEd2dRM1ExNFhYQTdBdG40b1hjQW1xd29WaVJLRVJ4SW5JRVdwaFd2WlRmcS1yRGh5dE9SdTDSAZgBQVVfeXFMTkZONzBrZXFmZVoxMUNEUmozTnZRdTRyVmhGeHFvaGpuRzExVzEycm1ZQWhVQzdPcTRNbDhZVW5qV0JtQ3QwMFE4aDMtYnZyemI1WU8weWN3OXRPUm5XMllaRnZva2RQaHdVV1F4WnNwTVBFZEJDXzFPaGdseGNCOWx6Y1Juc29SaGNrcjMxYXVrX05MVFd4RE4?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed to skip October but raise rates again in December, nearly all economists say",
+   "source": "Reuters",
+   "time": "2026-10-20T13:27:27Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
    "tags": [
     "FED",
     "RATES"
@@ -163,10 +216,10 @@
    ]
   },
   {
-   "title": "US envoy Barrack defends decision to join Israel in war on Iran",
-   "source": "Al Jazeera",
-   "time": "2026-10-20T13:20:48Z",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYnVoQUVCak1IYXdhdXVlblp6VHhmOGlZRTNoVkxySXZlNXJIdVY1MTdxOXNjNmp2RF91UXhZVTFwbHEzaXcwYXVKZ3pGYW92Tmxrb1FDRVRiYlZfTEhEd2dRM1ExNFhYQTdBdG40b1hjQW1xd29WaVJLRVJ4SW5JRVdwaFd2WlRmcS1yRGh5dE9SdTDSAZgBQVVfeXFMTkZONzBrZXFmZVoxMUNEUmozTnZRdTRyVmhGeHFvaGpuRzExVzEycm1ZQWhVQzdPcTRNbDhZVW5qV0JtQ3QwMFE4aDMtYnZyemI1WU8weWN3OXRPUm5XMllaRnZva2RQaHdVV1F4WnNwTVBFZEJDXzFPaGdseGNCOWx6Y1Juc29SaGNrcjMxYXVrX05MVFd4RE4?oc=5",
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-10-20T13:19:14Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -188,6 +241,15 @@
    "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "Iran agreed to secret nuclear site visits in shift towards compromise, report says",
+   "source": "ForexLive",
+   "time": "2026-10-20T13:09:07Z",
+   "link": "https://investinglive.com/news/iran-agreed-to-secret-nuclear-site-visits-in-shift-towards-compromise-report-says/",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -233,16 +295,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3o4S0RYVjNHTnMwVHNvMjRnWE5NblVIaEdTSFZoMmw5REE3U05tOXJqZW9BWDdqTE1ZWWpqeG13aHoyRDBJZ2Voa3VuZS1VdmQ3ME5NNXo4RVFYSFpTZC1JcERjNWRqUGxfZmRtTFdmTDByYlhNQTNXNTJGUl9vbEh4ZXZrSWtVdDNrTWYtc2pJMDR1QnUxcWxEcHVFQ2ZuTUF0amtMdDBoVGY2N0Y3cGpiMzFhSmlKa0FV?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Fed to skip October but raise rates again in December, nearly all economists say",
-   "source": "Reuters",
-   "time": "2026-10-20T12:43:49Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
    ]
   },
   {
@@ -366,6 +418,17 @@
    ]
   },
   {
+   "title": "Gold eases as higher oil prices stoke inflation concerns",
+   "source": "Yahoo Finance",
+   "time": "2026-10-20T11:27:57Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM09USHp5SG1hTHFYREFaTld3TUFJQ2RCUThZUzYxZ3E0bHlQbDVzNHFtV01sTDV3U2R4NlFYckhGZU52a0xaZVZuWnJjcFNHVGpQZUw1NEI1SjBtSl9KUFFhVUZ5SWNvY1B3S0FFVlZGbHpoRFFrdEFCckEwd0UzaXZPZWlPaENhUWdKd0gxS1V0RHhsRkdjMzNwWWJPUEIzbVJfUmlwZF8?oc=5",
+   "tags": [
+    "INFLATION",
+    "OIL",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Jobless rate falls but small firms cut back hiring",
    "source": "BBC",
    "time": "2026-10-20T11:26:48Z",
@@ -416,7 +479,7 @@
    "title": "Traders Grow Wary of Copper Bull Market With No Sign of Tariffs",
    "source": "Bloomberg.com",
    "time": "2026-10-20T11:00:02Z",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLVo2U1Z0dG9reXdKRHAzcUJGUUVJYS1vMFdsd2Vsc0NzOTQ5MDJEU21RNFRZTzlHYnZUYVl1dHlQRVNadmJZeXRkcmpCX3UxM2R2ZXZkOHMtNVFoWDdyWVozelZQUnBnd3l2OFlYbUxjYlRTRHpjSnd4QnpHZEJrOVRuSG43Y0xFeHZrX2VaUXpmWE9nNlBYbUxya1lRNjJkUmtkcmY1QTZxbXJhQldJSld5TklkS0dDQjctWmR3dDVDUGNvU3dEQjRuSU1rbHFKZU12U1dEOE0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWtrX0JqbVFtZVlBUzQwbEl1eUQzSFdTLTExQ2hRWUwzN0o0ZGFUOTFkbm5md25Gcy1BSnFqcHp6ODBRTkVXTnpvUmY2dEhxby1hdWtNalBhNjk0Vjh4OHh1bU1oTzBaSVZDUElKZjVQY0JYMmVTX3UtUEpBZlBFTW84aVBCRVlBWmhLR0pkZ3B1dGZSMkJpY1Mxa2hZTTZQcnZJLVVUeFVDdV9vZFIybUhwWHl1VlpCVlhZMjFsQzBwOExm?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -485,15 +548,6 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
-   ]
-  },
-  {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-10-20T10:19:13Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -592,17 +646,6 @@
    ]
   },
   {
-   "title": "Gold eases as higher oil prices stoke inflation concerns",
-   "source": "Yahoo Finance",
-   "time": "2026-10-20T09:26:15Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM09USHp5SG1hTHFYREFaTld3TUFJQ2RCUThZUzYxZ3E0bHlQbDVzNHFtV01sTDV3U2R4NlFYckhGZU52a0xaZVZuWnJjcFNHVGpQZUw1NEI1SjBtSl9KUFFhVUZ5SWNvY1B3S0FFVlZGbHpoRFFrdEFCckEwd0UzaXZPZWlPaENhUWdKd0gxS1V0RHhsRkdjMzNwWWJPUEIzbVJfUmlwZF8?oc=5",
-   "tags": [
-    "INFLATION",
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
    "title": "Dubai Luxury Home Sales Fall From Record Levels as War Drags On",
    "source": "Bloomberg.com",
    "time": "2026-10-20T09:25:03Z",
@@ -639,51 +682,6 @@
    "link": "https://www.investing.com/analysis/gold-under-pressure-is-a-trend-reversal-near-200689893",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Canara Bank flags bond yield risk, bets on festive credit demand",
-   "source": "TradingView",
-   "time": "2026-10-20T09:05:52Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUm9qZlpQRm4wV01fM2dqdUhqcmxKZ3JpQmI4ZGNmWGg5QkJya2dMWmNhMldBTERNc1VGNjhLUkJNbVpmRU96ckRUX0huYXRiV2Q2eHd5LW53ZzhwVFVjVXQ4NDlvcDlxUWVQZ2JrY21vQnlEVEVIOERjT3JFVjhpSlYzRXltZEdZODdYVnFBNGJxNHhWMmlEVmZpTmNKQkdSdHlQR1JrQ1ExNkRFaVV1TFVwWG43VndUUHFhaw?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "A year after being hit by Iranian missile, iconic tower returns to full operation",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-20T09:05:00Z",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DY1pFdUM2SVhvc2l0Q1BFbTdwbnE5R082QjNpekR3OGZ5cTNaWUFVd3pBd1NyV3JzRW9yN0FhU2NjMFpVNUFCU3U5VTd2cjBpUms5ZHFkVzJ5NzUyZnBYOFVncTZkOGFqcmo1b2dCSno2QWdZSk5WZ2pyLUU?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The multi-million dollar real estate portfolio of Buffalo Bills QB Josh Allen and actress Hailee Steinfeld",
-   "source": "MarketWatch",
-   "time": "2026-10-20T09:02:00Z",
-   "link": "https://www.marketwatch.com/story/the-multi-million-dollar-real-estate-portfolio-of-buffalo-bills-qb-josh-allen-and-actress-hailee-steinfeld-58a9bd62?mod=mw_rss_topstories",
-   "tags": [
-    "USD"
-   ]
-  },
-  {
-   "title": "Qaddafi’s Ghost Haunts the White House’s War With Iran",
-   "source": "Newsweek",
-   "time": "2026-10-20T09:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeVZpX2RQNGZxZnE1NGpGMEFqdm5zY2NLUm5qUEI5TnJOd0NteHpGZzRhV0FzVjFVcmZCbGZTRl9TN29TZWs0VFBWZDVmS21fMkdsQ2RCajE0NEFaZWItYWtSaXp1b044LWxMTDU3S1ZlZEZLNlJ2LXZGY3laVkJacUNQSWFfejFXaTV0YVZSYw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The 10-year Treasury yield is above 5%. Should savers lock in now?",
-   "source": "Yahoo Finance",
-   "time": "2026-10-20T08:55:07Z",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNllablh6c3VxRkk5Z1FCZ1cwWThBUThOU0JLTUdNYzNEQjdWSFNSOG82QklGeUoySTZoU0xVUENZNWVENlVaUVNfd21QZ1dveWpFbm5VeGtWR3lTUndJNEVxZFdhRnZnZzU3aWtydzlBb2VUWlUyTm5hMjYwTmQtNGk4WnY5bXZuZWczekJ6QlVtbFVLVnloQnlRaUJRQUpWeDBCVjZvZTktWG9jMzlUUXRLalhnbnJQWENDU2xHLWMwX21udlM5OFVTZ3pOU0hIWlJmNHVn?oc=5",
-   "tags": [
-    "YIELDS"
    ]
   }
  ],
