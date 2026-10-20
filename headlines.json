@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T11:26:31Z",
+ "generatedAt": "2026-10-20T11:54:52Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 33,
+   "items": 35,
    "kept": 5
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 31,
+   "items": 33,
    "kept": 12
   },
   "gn_fed": {
@@ -91,7 +91,7 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
+   "items": 15,
    "kept": 12
   },
   "gn_war": {
@@ -101,18 +101,18 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 9,
+   "kept": 9
   },
   "gn_yields": {
    "http": 200,
-   "items": 30,
+   "items": 31,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,12 +126,51 @@
  },
  "items": [
   {
-   "title": "U.S. oil surges to top $109, Brent crude at five-month high amid Mideast tensions",
+   "title": "U.S. oil surges to top $110, Brent crude at five-month high amid Mideast tensions",
    "source": "CNBC",
-   "time": "2026-10-20T11:19:45Z",
+   "time": "2026-10-20T11:49:45Z",
    "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "French Government-Bond Yields Turn Higher; Treasury Yields Fall",
+   "source": "WSJ",
+   "time": "2026-10-20T11:32:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0ZrSXl6OXBoV0o4dU9HQ2VkMHV5SGV3OG9vMW00S245MDZGYld5SXVOM0MtakhEWF9rU3lLdXJCMFRWS2ExbXRQZWhCM25fVmhMcGI3LXdRZ0I3UmE2SHJBYTZ0Mi11ZV9jU3IxRGRsNkFhRW9tdE1acTBPRVp4M3laTUVqcnlfd2UtUldmcU9wWEdyczNBSkZuekhHS01tazBtbUwwYms?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Gold extends losses as rising Oil prices reinforce Fed rate hike bets",
+   "source": "FXStreet",
+   "time": "2026-10-20T11:30:10Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1lWdldiOEJVbVE2UU82Mk5Mc1d1ZWFIZl9rSW83ME9YTTVzV2ZGSWNoVk5fUEpITG5qSk5qTkwzVTk3THhYUGNNYm9fRTVhd0kyb1pJSEo0c2k4V01JdFZWRS1rTzJPV0k5TTFyTXRmYndfTi1VMFZPVTFvenUwbVJ0WGpOdTFJRzRPTy0tWFduSmh0TFpYNXRuUVU0M21HQUNpY3NocXI1d3ZKUXVPX1pB?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "OIL",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Jobless rate falls but small firms cut back hiring",
+   "source": "BBC",
+   "time": "2026-10-20T11:26:48Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "US Must Weigh Ukraine Missile Needs Against Others, Rubio Says",
+   "source": "Bloomberg.com",
+   "time": "2026-10-20T11:14:48Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd2FjSDhWNm1lSmN0UjRaX25HQ1loRmJOYV9kX0drWWM1a05UemJLd0hxVnFQWFI5Qi04WV9VeGVuTUVkUkY4NEtzQ0x3SE5KbGl1WFRPZVdoWjFBOFE5MGVGZ1p6d24yblFpVVhNdTR5Sjg4ZWJqZkdsTW0zcFFENGdaS3Z4MHVPeXdETlZrWFpxb3RzV2hmMGNPeWxqYlF3VTIyb0czaU5ZdXBLR3JRU2Fn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -163,12 +202,31 @@
    ]
   },
   {
+   "title": "France’s growing debt woes: How bond markets set countries’ borrowing costs",
+   "source": "Al Jazeera",
+   "time": "2026-10-20T10:53:01Z",
+   "link": "https://www.aljazeera.com/economy/2026/10/20/frances-growing-debt-woes-how-bond-markets-set-countries-borrowing-costs?traffic_source=rss",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Iran prolongs talks in stalemate to influence US midterms, officials say",
    "source": "Reuters",
    "time": "2026-10-20T10:52:14Z",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUEYwdEFGeHhKUmdIMXF2VEppVElubGVKYlNlbk5xRGlnY1pVMEFsc0pma1ZGOGdOXzFBWUVCWHVab2MxQ2t5ZlNGRG1oZkdCMENnOFktSm1OakZNUUZJX0w2ZHJmM1ZLV2JyS245RjFoUVNPTmZ3dVNfNDNWemZ2V3dZdTFZdmFwdTJhRVdjODhObHZIbXp5c181UFdKOVJTX2o0LWFDN3E3dm1TOGpj?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
+   "source": "Al Jazeera",
+   "time": "2026-10-20T10:45:43Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeFczaWFtb0JFb3NVYWg5NE5fQU1CcEZwZGtkRzBmRXdRS3NKNWNUMXEtSUV4UVljMFoya2FvUTdNSVlUWTk2eWRPX0gtLTc2SE9EMGg1YzJ2MFhjeWZxRXp2Z3VYeUNrcDF6VDdPZE1sUUxGQmpuUFNvcnBqdUNoa1FVRGpTc0JnS2MzaERnNTlJdWxKNWpzeTRVbDRad0tPdGNPalQ3Rm02SlpPTEE5R0Jn0gG3AUFVX3lxTFBycmVoX3JzTEJOSVQ3QU56OE9Wa3l1S3JsUUZzU21WSzZ5aTIyOEhtYWxKaDlxVHNTd0FZV1haSlNXdDFPSFNCZ1lQNkNUR09oRXZ5cXdtRElwSDNsY0JRelhjSHhQbkV5UkNUYVpJNnVKTGROb2EtR1BfZXc4V0llNjVHZmFBMVJab1lXci02TkJPUlljd1U0OFBqVkRtV3c0cE01V20weFNyX21HR2d6aUY4VkdJNA?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -190,15 +248,6 @@
    ]
   },
   {
-   "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
-   "source": "Al Jazeera",
-   "time": "2026-10-20T10:36:57Z",
-   "link": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
    "title": "Three Years of War, Our Family’s Return to Keva",
    "source": "The Times of Israel",
    "time": "2026-10-20T10:35:00Z",
@@ -215,6 +264,15 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
+   ]
+  },
+  {
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-10-20T10:19:13Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -304,12 +362,23 @@
    ]
   },
   {
-   "title": "Jobless rate falls but small firms cut back hiring",
-   "source": "BBC",
-   "time": "2026-10-20T09:31:29Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+   "title": "White House posts so-called 'hype' videos combining real Iran war footage alongside movie, video game clips",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-20T09:40:07Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGZ3a3Q4R2NnNWJ6TXdGcWNEd0EzUnozYmtiNmI1TC1xcEw2dkMxN09CZDhuN3hDX3k2SkV1M2tjTGt2RHNFVXVmaEQwOVhQZVc4VzhJaHZraHloWWRzR0xoVkhqVmtoc2xPZ0pzWUxOa2ZpdnlrbENWSU1ZeTFha1pCRUlORXBzV2RLR1VhRElJejAyY0FXd2RlMlRnQWFp0gGmAUFVX3lxTFBiOXlWck42MkJWNjhKWDVDQWZXVGdLNm94cEU4b2ZJdlkxWFVyVWJpQkppenhGeW1JWGpESDh4UDFTS2s3WS1qa0c2cXJXLTlWa0pnd2pjZ19WcVZFaFhxRDZqNkI4QURjSGpDd0JUQ1lXSGY0Y3hGRVJrNUQyLUlzeEpTNmVwZmhobmZDeHlsWVk2NktDNEdwWXA2Uld5Z0JBUkhWVGc?oc=5",
    "tags": [
-    "JOBS"
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold eases as higher oil prices stoke inflation concerns",
+   "source": "Yahoo Finance",
+   "time": "2026-10-20T09:26:15Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM09USHp5SG1hTHFYREFaTld3TUFJQ2RCUThZUzYxZ3E0bHlQbDVzNHFtV01sTDV3U2R4NlFYckhGZU52a0xaZVZuWnJjcFNHVGpQZUw1NEI1SjBtSl9KUFFhVUZ5SWNvY1B3S0FFVlZGbHpoRFFrdEFCckEwd0UzaXZPZWlPaENhUWdKd0gxS1V0RHhsRkdjMzNwWWJPUEIzbVJfUmlwZF8?oc=5",
+   "tags": [
+    "INFLATION",
+    "OIL",
+    "GOLD"
    ]
   },
   {
@@ -361,6 +430,15 @@
    ]
   },
   {
+   "title": "Canara Bank flags bond yield risk, bets on festive credit demand",
+   "source": "TradingView",
+   "time": "2026-10-20T09:05:52Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUm9qZlpQRm4wV01fM2dqdUhqcmxKZ3JpQmI4ZGNmWGg5QkJya2dMWmNhMldBTERNc1VGNjhLUkJNbVpmRU96ckRUX0huYXRiV2Q2eHd5LW53ZzhwVFVjVXQ4NDlvcDlxUWVQZ2JrY21vQnlEVEVIOERjT3JFVjhpSlYzRXltZEdZODdYVnFBNGJxNHhWMmlEVmZpTmNKQkdSdHlQR1JrQ1ExNkRFaVV1TFVwWG43VndUUHFhaw?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "A year after being hit by Iranian missile, iconic tower returns to full operation",
    "source": "The Jerusalem Post",
    "time": "2026-10-20T09:05:00Z",
@@ -404,13 +482,6 @@
    "tags": [
     "YIELDS"
    ]
-  },
-  {
-   "title": "French Government Bonds Recover as Yields on Eurozone, U.S. Peers Fall",
-   "source": "WSJ",
-   "time": "2026-10-20T08:51:11Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0ZrSXl6OXBoV0o4dU9HQ2VkMHV5SGV3OG9vMW00S245MDZGYld5SXVOM0MtakhEWF9rU3lLdXJCMFRWS2ExbXRQZWhCM25fVmhMcGI3LXdRZ0I3UmE2SHJBYTZ0Mi11ZV9jU3IxRGRsNkFhRW9tdE1acTBPRVp4M3laTUVqcnlfd2UtUldmcU9wWEdyczNBSkZuekhHS01tazBtbUwwYms?oc=5",
-   "tags": []
   },
   {
    "title": "German producer prices climb 6.7% in September on energy costs",
@@ -618,69 +689,6 @@
    "source": "Investing.com",
    "time": "2026-10-20T07:02:00Z",
    "link": "https://www.investing.com/analysis/brent-tops-110-as-tanker-attacks-threaten-persian-gulf-supply-200689878",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Frank Elderson: Interview with Die Presse",
-   "source": "ECB",
-   "time": "2026-10-20T07:00:00Z",
-   "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "title": "Gold (XAUUSD) & Silver Price Forecast: December Hike Bets Build, Can Gold Hold $4,119?",
-   "source": "FXEmpire",
-   "time": "2026-10-20T06:58:22Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZUZnRmpsWmJYbXk2WEl3c0FPWHNGU1p3eVQ1SkhkVFNRcG5HN2NjQmNkRjlrWmpVcFNhTjlIQVBlWU5Ud01iWnNjMUtGcmtYc0J1c3hOeWtpR2hmQW4yZlRhS0xaRDJmTUtsa20wZWphamhYUWNCVjNReDhaVVBLbzdJUWZEcnBSdUZ1b2VULThURzF3MFdqQWtOMHdtTjBTeEJQRlNWaFZMQUVwTE1MUm01LW5uay1xYnd3eWRnbXR2WXZ5dnJv?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Copper Holds Drop as Traders Gauge Risks From US Tariff Policy",
-   "source": "Bloomberg.com",
-   "time": "2026-10-20T06:41:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTnNUZW5sQktjanBIbW1KZi1ta3lTeHVRbVNyRHotbkR5eXZEVVpXZndRV2hyUXI1T3NhSjB2RjlxZDVkd016UEVGUlNwcmdXUlJUTHVLTUVGYmdlUndQUDJER0VsbkRBX1k5ZFh6Tl9tUk1FSlkzZ2dzWTZpRTM0TUpQTXpKTFRqeTNuZkg4VHlBWVVjUkxNa09YZlRQcENNTUFBT0RVajNJM1d6Z3VmUGY5SQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Copper Prices Decline as US Tariff Concerns Ease",
-   "source": "TradingView",
-   "time": "2026-10-20T06:41:00Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUTlLVndULUhQcThrYXYzY1JRS1owdXFDZTVCdU1FQlEySkYwSmV5UkRxUlFCV1lodFl4akR5dUxqMmN3b2t1RkEzTTEzeXNqczFpSmpxeDdwVi1XRXdmQms2UEVwaHdrN1ZyZV94aUc0VWZKRldQR3lScWE2c2RnUEJOME4zdG1lcGpGeHp2S1RiaDEycFgyRVVTVHRla1dt?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms",
-   "source": "Al Jazeera",
-   "time": "2026-10-20T06:39:08Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONXRfQnFxMFFtbndQU1hXTEhjdXFyaG5VeHYyM1pWRFNuN1ppUFNCcVExN2dnX3RNVURRcTZUYmI0bFFyV1o1VUZXT0dtQ2lORWw1S3JldTBVa1hBQmZRb2xoLWhmM2tEVHY5YkxldEw2RVV2a3RkY0NiMWNTdzBpSlNWMVJ3NTRheGxPU1hxNER5akdoQlJCWFhlMU85czRzNjJXeFhVOGMwb3NS0gGyAUFVX3lxTE5xbldHMTBkQ2wydW5zQzdLaHVtdlJEMTAyS1dHUjZkdmQ1UC1EdkkzZEU3VkdGSjZCZHRPVHJuOFlEcnczQUJFV1BnUEYzdXJvY3FKeS10ZVBiSERwRTcwWWQxMWFmQWM5eS1OU2JPSnpqRWlEbllyTkpOS1JEdWJfTzFQOENNRkxKQU1HQzBzZUhlRng2dk1wUVJHejY1RTBvLUtHWGNfQldoNTZ1Y1dBSkE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "UK unemployment falls to 4.7% in June-August; vacancies lowest since 2014",
-   "source": "Investing.com",
-   "time": "2026-10-20T06:24:18Z",
-   "link": "https://www.investing.com/news/economic-indicators/uk-unemployment-falls-to-47-in-juneaugust-vacancies-lowest-since-2014-93CH-4958895",
-   "tags": [
-    "JOBS"
-   ]
-  },
-  {
-   "title": "Brent crude holds near five-month high on Middle East tension",
-   "source": "CNBC",
-   "time": "2026-10-20T06:20:02Z",
-   "link": "https://www.cnbc.com/2026/10/20/brent-crude-holds-near-five-month-high-middle-east-tension.html",
    "tags": [
     "OIL"
    ]
