@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T08:36:19Z",
+ "generatedAt": "2026-10-20T09:04:40Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,17 +47,17 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 5
+   "kept": 6
   },
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 9
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 4
   },
   "whitehouse": {
    "http": 200,
@@ -96,17 +96,17 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 31,
+   "items": 32,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 14,
+   "items": 13,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 30,
+   "items": 31,
    "kept": 12
   },
   "gn_oil": {
@@ -126,9 +126,53 @@
  },
  "items": [
   {
+   "title": "The multi-million dollar real estate portfolio of Buffalo Bills QB Josh Allen and actress Hailee Steinfeld",
+   "source": "MarketWatch",
+   "time": "2026-10-20T09:02:00Z",
+   "link": "https://www.marketwatch.com/story/the-multi-million-dollar-real-estate-portfolio-of-buffalo-bills-qb-josh-allen-and-actress-hailee-steinfeld-58a9bd62?mod=mw_rss_topstories",
+   "tags": [
+    "USD"
+   ]
+  },
+  {
+   "title": "The 10-year Treasury yield is above 5%. Should savers lock in now?",
+   "source": "Yahoo Finance",
+   "time": "2026-10-20T08:55:07Z",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNllablh6c3VxRkk5Z1FCZ1cwWThBUThOU0JLTUdNYzNEQjdWSFNSOG82QklGeUoySTZoU0xVUENZNWVENlVaUVNfd21QZ1dveWpFbm5VeGtWR3lTUndJNEVxZFdhRnZnZzU3aWtydzlBb2VUWlUyTm5hMjYwTmQtNGk4WnY5bXZuZWczekJ6QlVtbFVLVnloQnlRaUJRQUpWeDBCVjZvZTktWG9jMzlUUXRLalhnbnJQWENDU2xHLWMwX21udlM5OFVTZ3pOU0hIWlJmNHVn?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "French Government Bonds Recover as Yields on Eurozone, U.S. Peers Fall",
+   "source": "WSJ",
+   "time": "2026-10-20T08:51:11Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0ZrSXl6OXBoV0o4dU9HQ2VkMHV5SGV3OG9vMW00S245MDZGYld5SXVOM0MtakhEWF9rU3lLdXJCMFRWS2ExbXRQZWhCM25fVmhMcGI3LXdRZ0I3UmE2SHJBYTZ0Mi11ZV9jU3IxRGRsNkFhRW9tdE1acTBPRVp4M3laTUVqcnlfd2UtUldmcU9wWEdyczNBSkZuekhHS01tazBtbUwwYms?oc=5",
+   "tags": []
+  },
+  {
+   "title": "German producer prices climb 6.7% in September on energy costs",
+   "source": "Investing.com",
+   "time": "2026-10-20T08:43:22Z",
+   "link": "https://www.investing.com/news/economic-indicators/german-producer-prices-climb-67-in-september-on-energy-costs-93CH-4959184",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Silver Price Forecast: XAG/USD rises to near $57.30 amid drop in US bond yields",
+   "source": "FXStreet",
+   "time": "2026-10-20T08:38:33Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakxlejg2MTZ5RWlQWWRROVdQS2tYVllEaUlWVXhGT2FPUUNwbVNHS0ZPdHRWUGJ4dXZrdVgtSGtkal92Nnp2Y3NPSjBRcUY5anU5TzM0TmJKTHhzOTlmT3lzUmxJbU53TF9WY1hWNjhZd3prakxEQTJsbmZ2Y3owR25aVVY2dFp6d1U4WGRTRzYzRGNVWlNBd2Y4X0ctcFNnWUQzWEhtVXozNUJ1NjRYZ2ZXN0NmSTVlNGZN?oc=5",
+   "tags": [
+    "USD",
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Gold (XAUUSD) Price Forecast: Oil Premium and December Rate Bet Keep Sellers in Control",
    "source": "FXEmpire",
-   "time": "2026-10-20T08:21:44Z",
+   "time": "2026-10-20T08:25:17Z",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOGNldjdXczdOMlY1M1c2RGhDaHN1WW1TZm1VOW1mdTFUZGUxb0V3ZzkyNDR6MnBvdlFnT3VQS05lXy1mOFRVNXdQeUVhMURuRmloZ0l4dkpnN1VGVVpLcEFvdGtOdl9OY1U3STZLX0dnZVZJUk9qUWdsaHlPUmh3eDhqU3lWbzJYTWs2WGVOTk44MXZESGtaMWMtek9RejJyWFlCYmZ4dFpTMjY0SlNrOEJnQ0VLM1VITnN5NlFCT1RVdEJyQUxPXzV1eE9BeGRR?oc=5",
    "tags": [
     "OIL",
@@ -194,6 +238,16 @@
    ]
   },
   {
+   "title": "Israel at risk of increased EU sanctions depending on election results",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-20T07:42:04Z",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92M2huNm9lQVlVVzV1QjVROUp0cHJyNVNyeGxkNlk0VXQ0ZVNDVGkxUFhtUDItZ0pIU1dLcnFxWHgtamNqY2p5VHRsUE1ITnNQLU5JNk1XdTJSekRwMHE3ekR1RTYxUTNLZFE?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "Gold falls as bond yields regain ground ahead of Meta Q3 earnings",
    "source": "FXStreet",
    "time": "2026-10-20T07:40:52Z",
@@ -219,6 +273,15 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmt4UnZTS2FnLXFYUmpSMllrOEZQbWxJSTVIbzU4QVNKbWtIRVFYOTFVb3NHdU50a0pWU2QyUnQxNWtsS3pBY09nckxwa1FwTDhZMzFxWl9VUmlMaEh4NUlSTTYzZXEwYmFUSkFrOEJMbEVMaXhmVGJVTy1UeTlyaERxRTNEbHNTSFgzUzZEOEFvVWg4Z1RneGhBRnJodG9ONnRkQ3Jn0gGrAUFVX3lxTE9DazE5N3puTzVrU2hCUUJmYU9FY1RiNTA1Y2hiZG84QVU5TjZzTG9aaFhsY3lLVFZwNE9RX0IwTy1VRm9lbV95Y2NWX1U0RjlOaVl2ZXBveUNxNk95dFZnYzQyNF82MFhqSmItcXJQa09QODVWRWcwMVZ3cW45bWVYd1FqZlUwcDNzU0hwUkRCX0lNeEUtWW9VWHVtUkxvaHFTRmY3TUlaRjJjSQ?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump slaps additional 50% tariff on certain Canadian goods",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-20T07:21:59Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDZTVjFHZXBWcUoteUpOakQ0T016RDVlQWxGR19KYnhEeEdfQzV3UmVLNkdEbWVCckxFbHZsNjhpcW9HQktmWGd5RmtobE1fWTJ4TnpqQlRZZDJRTUs2QzU4eW9zNl9ZeEpfRFk0OVRRTzRBVUJYS1F0dTFWRlNqNUFNV0taQU81MnBWbHd1MG5rendjb1g1X290RdIBoAFBVV95cUxPX09ka2RKeVgzdHdOWERZWHFGNWhmeWk0bHE5b0V3T3B0X19JQzZfcVQ0SHFkNXRBLWp3Sk1QMWduVU5sdy1DektIa19VeWtwTGNuNy1lbnU0OW0wazRjN1ZQdWJZdlp1N2kwSjc3RVhBaG40eFZTN0xTbE5xTHMyenZZazdlOXdqSHhrbkZrcTlzOGZiX3BnTy1tSThqTm1G?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -343,16 +406,6 @@
    ]
   },
   {
-   "title": "Israel at risk of increased EU sanctions depending on election results",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-20T06:15:44Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92M2huNm9lQVlVVzV1QjVROUp0cHJyNVNyeGxkNlk0VXQ0ZVNDVGkxUFhtUDItZ0pIU1dLcnFxWHgtamNqY2p5VHRsUE1ITnNQLU5JNk1XdTJSekRwMHE3ekR1RTYxUTNLZFE?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
    "title": "Oil majors face spending test from Iran war windfall cash",
    "source": "Reuters",
    "time": "2026-10-20T06:04:00Z",
@@ -437,7 +490,7 @@
    ]
   },
   {
-   "title": "Ukraine's Zelenskiy travels to Norway for talks on war, security on Tuesday",
+   "title": "Zelenskiy to meet Witkoff after Trump says Russia has been 'fine' on Ukraine",
    "source": "Reuters",
    "time": "2026-10-20T05:47:00Z",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGUzUUpJZDlBeHJNb3ZDUGd2a21yM3ZCY0lfOTc0ZjYxQ01jX1RoTC1wQlZzU0xRN3c3YnZBWGJuNG95ZnRSeXdESktNM1dFUnFLNTBJX3Zjem9rSVdKckVVckh2VGVCLXc2VVpPOTBKbUhnUU1jYUtHUzF5YVNMM0ZhWFBZeXBmZktWQ3VKaW5ubHVnOGt1Zy1VMTNGMDZqMWlyeg?oc=5",
@@ -625,65 +678,6 @@
    "source": "CBS News",
    "time": "2026-10-20T03:16:23Z",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNUs1WnJWV01qWGFyRk5mTGJkUjd1aWUwY3BXWEZubnVFajF5TUFtNExyempsQTRGbXJieXlVMXlIbDdHMjFiQS04YmZSTElxcFk0WTh5c0U3MVRpUmh6MTJVRUVMa2NsaGN3NDN2YkpfaTV3Y3JKZ3N2WDVOdUUwVUg1SERpVjQwbVU1a1RGOHZKN2pDbHpHZnlR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Houthi rebels strike Yemen’s government forces, killing at least 53",
-   "source": "NBC News",
-   "time": "2026-10-20T02:54:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR3B5QUxha3llVXNVMTV2dXF2S243NlpESnJiTnJ5Qk5xZ2VkdmQteTJxb2tYRC1wQVhKa3YycUhtYU1KakRVV1VRcFBKMDZHS2tnS1hPZl8xOFdDUUVDUU45cEJEYTdlZHlGUEh3bHFGbTNlZGhrcG5GV2dpazRlbzcwQzlLMlgzd2dyMXVtT25NaTdMOTRDODFvcFNRQ1daZ3BiUF82NG04X1F1TnphNWxISzk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Dollar Slips as Investors Assess Fed Rate Outlook",
-   "source": "TradingView",
-   "time": "2026-10-20T02:46:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWXlfeFN5Vjc5dW9iZmxXWDZaNFJVakJIRXhuS3lISXEzQXY4ZTkyX3MxZGptY2NaOW1hU3owaXAxc3VPR2JpMWRZb2VfeGRnV28ycHFKeFlvY1pIUjVhcnkxUE8tUEh4b2d3TFc1V3VtaUVDQ3p1WjVsYllqd2R4bnNPRF92MF84OVh3RXFjOU5HdlpVZ1Y1YzVhU21WamxJM1E?oc=5",
-   "tags": [
-    "FED",
-    "USD"
-   ]
-  },
-  {
-   "title": "Gold dips as oil prices fuel inflation fears, Fed outlook in focus",
-   "source": "Investing.com India",
-   "time": "2026-10-20T02:40:11Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVk5uNm5nMjJVSWVTNkdiMGtOUUNmSVFGVzFhSGRwWlNuSzNJV2VIWW9DWkxicFBJWFpIQzBzck13SlhpWDRWclk3X2N3dXE1d1FGRldvYnBmSXFCU2R3dHlBcWpBNjNmZXF6Wmd0V3R2R25kWlRTbF90YjhTY3pYaFdkc0pzMmx1alViUEdGWmZiOVkxY3VwTUEwTGYzWTI2LUJiV2J3MzNqdTU4MkRQdW8tcTREdmM3Nklrbg?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION",
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "China Reveals Advanced Nuclear Sub Was Used to Test-Fire Missile",
-   "source": "Bloomberg.com",
-   "time": "2026-10-20T02:33:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSFpXNWs5SDlSOXZBSnU2eVBHaXZzWTVSSXRwRk5tbmNiNHJ4WTJfeGk0S2JyWGZNYW9TRE12MVFwbzg4WV9aMzdWLVFpcXN4SnlQXzJicWV1c18yN0ttSlJONGQ4TkR0TlMzQmFZRGU1RjMtQ01DWTZxc1VCa2oxaS1iVExjTExYYjVkT0RQUUZsQ3dYdjJYMU9GbkhQR3V4SFVLaHgydVIyYUV5TTFWS0RKb1FNQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "China’s September US soybean imports rebound from zero a year earlier, data shows",
-   "source": "Investing.com",
-   "time": "2026-10-20T02:06:29Z",
-   "link": "https://www.investing.com/news/economic-indicators/chinas-september-us-soybean-imports-rebound-from-zero-a-year-earlier-data-shows-4958675",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "The human cost of surging US air strikes in Somalia",
-   "source": "Al Jazeera",
-   "time": "2026-10-20T01:54:15Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTDJwZkpNdU1jZ2FRZHR6RVh5TFNTb2l1cDlqblZacVNaUU54bTlGTkkzNVZ4ZGpGSWNwaWwwVWMydTVsczBIRTFIMTFHOWRnRnpIMF9td0hsVXRmeFJyaTV2ekkzNmlza3JzaDBPOFpETUR4cVBjLW1iVVRjd2ZDSm1UZHY2TFhHRWVGTlFCSWk5WUN4ZzZ3S1F5VldldE3SAaQBQVVfeXFMTnpIbFozdHN4MkNpN04xTFhUZ241ekpuNGs5eE5WeWdnY3k2dHREYzdqNk5DMUNkUnU4VjFlTFZCRDZYTkZLRmdkYUxfWU1hUzgzU2VvSUtwR1pwaTZSRWZTc2VzQjlVVVNMZnhhaXpXLVhXTGJiSVh6Y3lzbEFGQ2wyS2F4Q0ZDaUQyYlhid0tpSEpEN3JVMHNqdWFHLTVKSHhCOXY?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
