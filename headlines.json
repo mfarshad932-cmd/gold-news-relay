@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T12:23:02Z",
+ "generatedAt": "2026-10-20T12:51:24Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 6
+   "kept": 4
   },
   "marketwatch": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 2
   },
   "bbc_business": {
    "http": 200,
@@ -81,13 +81,13 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 35,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 12,
+   "kept": 12
   },
   "gn_tariff": {
    "http": 200,
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 32,
+   "items": 33,
    "kept": 12
   },
   "gn_sanctions": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,44 @@
   }
  },
  "items": [
+  {
+   "title": "Fed to skip October but raise rates again in December, nearly all economists say",
+   "source": "Reuters",
+   "time": "2026-10-20T12:43:49Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "Trump faces bipartisan backlash over waiving Russia sanctions",
+   "source": "CBS News",
+   "time": "2026-10-20T12:29:58Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVW5KeFN2cWxTOGpmS3RNdkl4WVhBTTJnbDYzNjJCWUpxSXAzYUdxSG9VYTVyc0s5YjZvdGgySF96X0tuY1lqeGRPb2lHMXNVYWdXTW1Da0FrNGFIWGFMUFhkV1ktejdSXzV6OU1CQjdkM3hGOG5STDhGZ0N1eERiZGtMUTBwYUpIMEJBZ1FsMTVpdzZWblE?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Is Russia stalking satellites which help Ukraine from space?",
+   "source": "Al Jazeera",
+   "time": "2026-10-20T12:17:06Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS3l2bXR5NGZxZ1lXdnZBYU9VSTdYclNiWl9kNUh1YW9wRzhwRldRNkNDOHVoSEl5b0piWUFFNi1WY19MdTA2cmVpc2VPdGU0RmFVdkJrZXctVUdsWHYyS0Nmem8tY2RtM1ZQSUU1Y0k1RFY3dDJyQ1NnTldlNExmMU9nODNDRjRDM3A0dG5YMldsd2ROcV9LLVdZX1pwSmR4ajFv0gGoAUFVX3lxTE5xSDh4dWpHR2pKOWlSQkF2dHJQVDB6WDJ4WE5DYW1sV1h1V0c1OVZPS19kOF9KbHlWMUVnNlJzYW4zM0RuN0ZYMXJ5ZUhLQWdrSkdXNHliOXVKZDhFbkthREp6ZWswTmdOMWZZZTNJbTZrZktMMWxjeUJnSlVWNkJQUGhHc3hIUm9hZTBvMkZsNEp3MUFRNXV6NFM4NTlHWEFZR3RMYVBHRA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Can New York Win the War on Rats?",
+   "source": "The New York Times",
+   "time": "2026-10-20T12:14:48Z",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWjlKc3VJcDMycXJ1dVBWNGsyaElQUFFZQlZxeGxXRHhNUUl0M0RPT3d5b2RWWTdBcEVhazZOaGNURVFVa1A0bnEyQ1dmTFdmNjNBeHhjcDJrcGw5YnpPSDgxNVRyUTNwRWRCUjQzSGtYc2VjdTRmWGFoYk5KRVVqS3N2ZlFJNE9w?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Short-end U.S. yields edge up as investors digest French unrest By Investing.com",
    "source": "Investing.com",
@@ -246,6 +284,15 @@
    ]
   },
   {
+   "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-20T10:57:18Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "France’s growing debt woes: How bond markets set countries’ borrowing costs",
    "source": "Al Jazeera",
    "time": "2026-10-20T10:53:01Z",
@@ -307,6 +354,15 @@
    "source": "The Times of Israel",
    "time": "2026-10-20T10:35:00Z",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGljVTlQWlVQaFg0b0tKMFRxTjd0eFFjVkhyNUFJN1RNYjVMaDAtSnU3eDRVUGppVXlYTWo3b1hrZWxmRXc4R1B1M0NjVWMxTnI3LWdydHZmckZMTWpQY0RPNFFOMTNTWlBGUk1vUUdJbDhfa2MzWlI0TktMMi1YQ241OXg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "A Russian missile and drone blitz kills 7 in Ukraine as Zelenskyy seeks help in Norway",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-20T10:32:27Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT1Vjc1pzX0toc2pPdlF6ODhTNGRuRkMtVElUbWp0ZlBWb3NyM0FqWXRsX1U3bk1NV2NBVFVPNTNvTzBZM3B4RmxmWjgtV01zU2YyVGdJV0FnZTdSRXpIVDFxdVBZNnNGa0FQTW1LOEpWc3FZMDJibE83dlR3ZGdXZHNzM3p1NTlqbnJPR1Mtdm5xdGFjYXhTTnU4TlprdFVLWl80UdIBqgFBVV95cUxQSE83bzdLeU1yRDZRNnZpMTFUVFdGYjhQRGc1d1VwVHlmZmpYdnEzRWVsYjcxNklxTUFUTjBQZ2M5cUYwSklZemRjZkppaHhvVWlTcTFkT1FReW43OEY5dWNfZEJLNEhNVVV6TVZPVDUzX01wR3FyMmVVZGlzTmxJTl9BcmtKZGxseEFfNElxVkNTOF9yWm1yd3lLTEtPb1JnNE5wSHlhT1MtZw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -435,6 +491,15 @@
    ]
   },
   {
+   "title": "Spot gold price near low after U.S. housing starts fall 5.2%, building permits fall 0.2% in September",
+   "source": "Kitco",
+   "time": "2026-10-20T09:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3o4S0RYVjNHTnMwVHNvMjRnWE5NblVIaEdTSFZoMmw5REE3U05tOXJqZW9BWDdqTE1ZWWpqeG13aHoyRDBJZ2Voa3VuZS1VdmQ3ME5NNXo4RVFYSFpTZC1JcERjNWRqUGxfZmRtTFdmTDByYlhNQTNXNTJGUl9vbEh4ZXZrSWtVdDNrTWYtc2pJMDR1QnUxcWxEcHVFQ2ZuTUF0amtMdDBoVGY2N0Y3cGpiMzFhSmlKa0FV?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Gold eases as higher oil prices stoke inflation concerns",
    "source": "Yahoo Finance",
    "time": "2026-10-20T09:26:15Z",
@@ -507,15 +572,6 @@
    "source": "The Jerusalem Post",
    "time": "2026-10-20T09:05:00Z",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DY1pFdUM2SVhvc2l0Q1BFbTdwbnE5R082QjNpekR3OGZ5cTNaWUFVd3pBd1NyV3JzRW9yN0FhU2NjMFpVNUFCU3U5VTd2cjBpUms5ZHFkVzJ5NzUyZnBYOFVncTZkOGFqcmo1b2dCSno2QWdZSk5WZ2pyLUU?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Can New York Win the War on Rats?",
-   "source": "The New York Times",
-   "time": "2026-10-20T09:02:06Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWjlKc3VJcDMycXJ1dVBWNGsyaElQUFFZQlZxeGxXRHhNUUl0M0RPT3d5b2RWWTdBcEVhazZOaGNURVFVa1A0bnEyQ1dmTFdmNjNBeHhjcDJrcGw5YnpPSDgxNVRyUTNwRWRCUjQzSGtYc2VjdTRmWGFoYk5KRVVqS3N2ZlFJNE9w?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -630,64 +686,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc1FqZFZlU0RfZVAtOVlUMkxYaWRhdk4zWW9WTEVsSDZnbFZOLXZuQ2diR3RCaVBKMGdaR3JsaG1HSnNoZDAyNi1MWnl2UjJ5Y09GRkdockhlTl9LR1hUTnc4enE5QXVDN3RZOXFHeHBNNjhJT29TOHRwZi05UTNuLXNUMmZPcTJZN3hqdkkwM1VNeGJSSFA0ZlVITV9wVjFKZmxaRXNfYm9sUER5V19vTURaNXQtYnhUd3NubHNpeENUemM?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold rejects a key trendline as higher oil prices and yields weigh; growth concerns remain in focus",
-   "source": "investingLive",
-   "time": "2026-10-20T07:45:54Z",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa3V2MEx5eTk1NTl4SzNISGFkRUd4RWtUVTNrX3Roajd3ZFF1SjBDQlg1N1lNNmRtdEZsRWRrNTlTMExscXI3Z21USGlVd19TMy1jVWRGZDlEOGhKU1lsTE40akZGZGdCb2lybF9fX1lDTW1xY2V5aUhMUkdWLVFWMVZLcVYwLTRLdEQxM1dCVDctY2NaYl9DVk01c2hfT0pGOUhOdUNLYkFqR3kzR09LVTNGNnNndGZqdDhvZzBINlNrYTZIWlNiZE1Wc0FSWFJHckpN?oc=5",
-   "tags": [
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "U.S. Treasury yields move lower as investors await housing, employment data",
-   "source": "CNBC",
-   "time": "2026-10-20T07:43:14Z",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaM2dEaXY3djRjLTk3Zm56azJQeFVocnVEQmwzb0wwbWpvMFRxTkdINFNMdkNMS1RSZUNfajNDSjBQRGZ6V210U1NERGI1UTNCMDZDUjJmU0k1RF9vUV9WSFhGdG9CeGNZblhWVlFGU0hsdjhFZkhfZzFMVlJ4Z9IBgwFBVV95cUxPWWdOVGZuSDZKX1ZBTEczSzAwREw2SldJTmY2VmtTSUNIM0d1aVFJb2lEbXdEWHZRWE1yaldhb0ZKRWVMamxIUkstN1ZMMzJCNjBJR0RJRnEtUG54am1uMnEwT09kSTRUU3V5WC1Fb19leWlHVnI5OFdJOW9nQ3Q0dmVUWQ?oc=5",
-   "tags": [
-    "YIELDS",
-    "JOBS"
-   ]
-  },
-  {
-   "title": "Israel at risk of increased EU sanctions depending on election results",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-20T07:42:04Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92M2huNm9lQVlVVzV1QjVROUp0cHJyNVNyeGxkNlk0VXQ0ZVNDVGkxUFhtUDItZ0pIU1dLcnFxWHgtamNqY2p5VHRsUE1ITnNQLU5JNk1XdTJSekRwMHE3ekR1RTYxUTNLZFE?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Gold falls as bond yields regain ground ahead of Meta Q3 earnings",
-   "source": "FXStreet",
-   "time": "2026-10-20T07:40:52Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcElOaFcyOFE1Y1A0TXU1Ym4wYWJva1lsdUJsYXFaaU40eUoyRVdIUTlvanZSa1dpcmIzeV9nSUJLWlJOaGcwdENYdy1hRGJPS19yRUx0OTMzbHdPWEJXSE83R2dUcURhWFQtalRHS3dBNTUxQVdoWVBmUnFOZURjTnJnR1F2VC1Zc0FlTzJGOXBJTDh1cjVZTDZTN2ZiRTFHVzFBbU1ZcFMzTzk2Q29SenBaMTFKRGs?oc=5",
-   "tags": [
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold at $4,165: Key Support, Resistance, and Geometric Price Projections",
-   "source": "Investing.com",
-   "time": "2026-10-20T07:31:47Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObnZyamZJUE1NeFJ5MW9UNkZUZFQzaG5HRjQyWDNBYWpUNUt4aW15MzlsM0QwZkJLMkFXbENjaExFMjhnM1NkdXc0ekUwemtFUXZUcFdYczJUaUM4Rmtlbm8tdHFIbk4wOVVJNzhBcVpSSk01NnN6alczakJCUnZYOTZHcURETEU1NFd1N2Fqc2JFcGhkSFdMSGc2RVgzb3pidXJaUjh5WFRPbTBibnJaeVF3?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "European stock market open: Equities retreat as bond yields and fiscal risks weigh",
-   "source": "investingLive",
-   "time": "2026-10-20T07:25:11Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ013eDhidHRrN0J0REZyWklxb0w3c05YVEhFbnVJd1RQRmNRdkJIUHp0Q0cyaHFjM250dGlBRk56dGpuaTB5bmpyNWxPMDJaOFJuUElXWDdETjNsbW9fdDdhT2xaMy0wM25hUEVGWGttRDdHVlQxV1ZzTHB0a2NqV19hLU1QZ1VvUzJHeTRzZ2s4ZXM1a3RsU3pudWhxSEF3ZERseVhDTk5Jdkc0N3NnUVA5aHpxUQ?oc=5",
-   "tags": [
-    "YIELDS"
    ]
   }
  ],
