@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T10:58:10Z",
+ "generatedAt": "2026-10-20T11:26:31Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 8
+   "kept": 9
   },
   "investing_news": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -91,7 +91,7 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 18,
+   "items": 14,
    "kept": 12
   },
   "gn_war": {
@@ -106,18 +106,18 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 32,
+   "items": 30,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 2,
+   "kept": 2
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "fed_calendar": {
    "http": 200,
@@ -126,12 +126,49 @@
  },
  "items": [
   {
-   "title": "U.S. oil surges to top $107, Brent crude at five-month high amid Mideast tensions",
+   "title": "U.S. oil surges to top $109, Brent crude at five-month high amid Mideast tensions",
    "source": "CNBC",
-   "time": "2026-10-20T10:48:27Z",
+   "time": "2026-10-20T11:19:45Z",
    "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "Gold price today, Tuesday, October 20, 2026: Gold prices subdued again by soaring oil prices",
+   "source": "Yahoo Finance",
+   "time": "2026-10-20T11:10:03Z",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMnk0X1dEWm5adjVlLTRadGNYT1diTUNYOUlHMnZhZHRCX0dNaGQwcUx2QTlmbVIzaDFvbmVOaXJXaVFIdEJBNEo3RWwzOTVSU0J6UFdwZm9RQ3NWb2t3djlBSTJ6Zy1NSXh3LW13d21LRThudWtscTJLejBrN0ZlbDV3TEF0T2FSS1hYM1p6Tk5jd2MzZExuRHJmV1dlWTJ6S1RGSmR4aFdEUy1rM0pPYlAwYXNRalh5aWlCQjlSMEdhVzR2MkNQb3U4ekdiZGpMMURwT1gwVlRmTHJldnJ5UHB0MmtfS3BvU05KX3l2RUZMQ0Y5eGpv?oc=5",
+   "tags": [
+    "OIL",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine",
+   "source": "NPR",
+   "time": "2026-10-20T11:03:52Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN0VYeGR0NHVTUzc3TVpTTmxVNFo1QmE5bXZpWmNOWWFVZ2JoMS1lMDVmTFlVbkN0QWZLVEQzY2xURm4tT3QzVFFuc2VwNjFlc1E1bmMxdTA5SDRKUXZhLXlwRjdFXzBYZW9fR1V4Y0stazdlcXlDUkx5dmFYMW4za3lLOGEyUG9nRVpac3dlcVA5TTdBcm50MEg5YXJ3azlTaHdjVzVMRWZrZW5QM0Qzbm43aG45ekZGUUtVS1BaUDk4YWI1QzM4?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Traders Grow Wary of Copper Bull Market With No Sign of Tariffs",
+   "source": "Bloomberg.com",
+   "time": "2026-10-20T11:00:02Z",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbm1MclVHa3FIVkhCVmFyME5wWHNoNlVDd2NEaTRHSk0ydW0wMU91SG5kY25wVm02R0xwTmFILS1UckNNVlIzbmZGV2Qwak1lOXo3UVlRYzVVUDFJb3RGSHhPaGxzYXdxUS1vbzlybkZuczEwSmJtYnpRb2laUzk4Q05xTlNiYmZ2dDJOWVp0eHQ3N1JuSlVFOTIwdEZKUFV4aXRVYkluX2tvRWdUWlljXzhza0Eyb0xTZUFaeE5NeWY5RGhuOTVPWDlQNm9HczFiRnBaYUNibUxBdmJGMG9xMDctZw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Iran prolongs talks in stalemate to influence US midterms, officials say",
+   "source": "Reuters",
+   "time": "2026-10-20T10:52:14Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUEYwdEFGeHhKUmdIMXF2VEppVElubGVKYlNlbk5xRGlnY1pVMEFsc0pma1ZGOGdOXzFBWUVCWHVab2MxQ2t5ZlNGRG1oZkdCMENnOFktSm1OakZNUUZJX0w2ZHJmM1ZLV2JyS245RjFoUVNPTmZ3dVNfNDNWemZ2V3dZdTFZdmFwdTJhRVdjODhObHZIbXp5c181UFdKOVJTX2o0LWFDN3E3dm1TOGpj?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -144,19 +181,28 @@
    ]
   },
   {
-   "title": "Three Years of War, Our Family’s Return to Keva",
-   "source": "The Times of Israel",
-   "time": "2026-10-20T10:35:00Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGljVTlQWlVQaFg0b0tKMFRxTjd0eFFjVkhyNUFJN1RNYjVMaDAtSnU3eDRVUGppVXlYTWo3b1hrZWxmRXc4R1B1M0NjVWMxTnI3LWdydHZmckZMTWpQY0RPNFFOMTNTWlBGUk1vUUdJbDhfa2MzWlI0TktMMi1YQ241OXg?oc=5",
+   "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
+   "source": "Al Jazeera",
+   "time": "2026-10-20T10:37:05Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkNKZjJ5cW9BYU5lSkdiZHVKUFI4WTVFcklmWDZ6QURlWEdNTndCQW1TeEVNdjdPdjZhWDBhcnUwakxBaGtPNXpIaGZrY2pTM2tDNWg1Wm55VnR6YnRoSzFmZ3RlVlExQVl6UXZWLXMwc0VRNzQ3R1FpQVNZbWt0cGdiWmpkR1o2TFo1V0hBa0thaV9WblRwY013MlZ0QmhJXzY0WklSN2hwRU9rTXo40gG0AUFVX3lxTFBmdWhDeUtpVkotOXBReU55Y3Rqb0ZVM3dpYjVleC13bVE2WnUwTGtHWFJRYm81SG5RTmRyRlBzUEZRSzVObnU4Um5yV2JQanMwckQ3LUZER25nei15YmtZTjdfaWlRNXMxNGRybkxacmNLSFZCRi1mVjhvTlVGdmF0SnhpVFdRb2ttTTdYdG1XMUJIbERHb3hVeTN3UlZVZjVVbmJFVXJGLXVaelBWRmF6R2pwMQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
+   "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
    "source": "Al Jazeera",
-   "time": "2026-10-20T10:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkNKZjJ5cW9BYU5lSkdiZHVKUFI4WTVFcklmWDZ6QURlWEdNTndCQW1TeEVNdjdPdjZhWDBhcnUwakxBaGtPNXpIaGZrY2pTM2tDNWg1Wm55VnR6YnRoSzFmZ3RlVlExQVl6UXZWLXMwc0VRNzQ3R1FpQVNZbWt0cGdiWmpkR1o2TFo1V0hBa0thaV9WblRwY013MlZ0QmhJXzY0WklSN2hwRU9rTXo40gG0AUFVX3lxTFBmdWhDeUtpVkotOXBReU55Y3Rqb0ZVM3dpYjVleC13bVE2WnUwTGtHWFJRYm81SG5RTmRyRlBzUEZRSzVObnU4Um5yV2JQanMwckQ3LUZER25nei15YmtZTjdfaWlRNXMxNGRybkxacmNLSFZCRi1mVjhvTlVGdmF0SnhpVFdRb2ttTTdYdG1XMUJIbERHb3hVeTN3UlZVZjVVbmJFVXJGLXVaelBWRmF6R2pwMQ?oc=5",
+   "time": "2026-10-20T10:36:57Z",
+   "link": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Three Years of War, Our Family’s Return to Keva",
+   "source": "The Times of Israel",
+   "time": "2026-10-20T10:35:00Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGljVTlQWlVQaFg0b0tKMFRxTjd0eFFjVkhyNUFJN1RNYjVMaDAtSnU3eDRVUGppVXlYTWo3b1hrZWxmRXc4R1B1M0NjVWMxTnI3LWdydHZmckZMTWpQY0RPNFFOMTNTWlBGUk1vUUdJbDhfa2MzWlI0TktMMi1YQ241OXg?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -192,6 +238,15 @@
    ]
   },
   {
+   "title": "Asian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate",
+   "source": "Investing.com",
+   "time": "2026-10-20T10:17:00Z",
+   "link": "https://www.investing.com/analysis/asian-lng-prices-surge-past-30-as-middle-east-shipping-risks-escalate-200689898",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Uncertainty over US tariffs keeps copper trading in a tight range",
    "source": "marketscreener.com",
    "time": "2026-10-20T10:13:23Z",
@@ -207,6 +262,18 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkVzd2ctRlhuSGpqa0l0bWVienlmWWpSRmdiOWZ5MkIySHp4bTQtaGllUmhId0ZrbUkzcXYtTV9xeXhvR1g1WjFTTUFlM051WjdrczVlTHA5NFNlZEF1c2FqSHVrMUVWMWZZNFY1cmNmZjNnR3JtTXZPQkJKR29STDFZNkxRWVli?oc=5",
    "tags": [
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Fed Minutes Show Another Rate Hike Is Likely This Year as Kevin Warsh's FOMC Battles Persistent Inflation. Here's Why That Signal Matters for Stocks and Bonds Heading Into Year-End.",
+   "source": "Yahoo Finance",
+   "time": "2026-10-20T10:03:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXNrVF9vRkFfd1lIS1pDRzl1TldxWnRqeUlDQmF5Tjk4ZXhubVdoWS1qNFB0XzBOVGQ0c0FXNkEyWVBCQU1URE5yZkt2ajhFZjNUT2xzV21rYzI1N2Q5RlRLRmZYNUxiWVZpazFGRWVaUzZDVWZqUUxlV040Q1VQTFBUWjg4TkJKVEdvY1c0QkxjcVo2MHJuTDNn?oc=5",
+   "tags": [
+    "FOMC",
+    "FED",
+    "RATES",
+    "INFLATION"
    ]
   },
   {
@@ -388,7 +455,7 @@
    "title": "Gold Price Forecast: High Treasury Yields Put $4,000 Support in Focus",
    "source": "FXEmpire",
    "time": "2026-10-20T08:19:44Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQmlUM3NFaW9MbDB2LTB0b2JOa1p4X2I0bXVrZEpaTDFrVG5iaUF1X1dIUy1VXy10elREd0VMamJqNG5oVFFDeTFuRGRkc2Exb251cGFhV1B0dXUybUZMdVVLX2IyaWlPaGFrcXVBaW12Y0JJbGxDV1RMQVlpMHAwQlBGNktmYzBfWnM3bkNsczFJOGZFX2p4ZWRJU296amRoaVotZVAtWnd0NmFrTmtrRWFCSWM3QkxLZ0xCNnJRcFRhTy1RY1hXRW1mRG5uVnNF?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOUNlTzZwM2ZwaEZlNUV4Ny1XYUNLb0FYNHVxV0RmRHVsTktIQ1Y4SUM0a1ZrbU1rYkxnMUhQaHREeVJDSk1QMHN4N1hSTHB1czZBV0NrWWplM1JpbDBIaHBZREdBaU41OHR2Sk5sWkRZR0MxYm9BemtEUnJfc1MyYUZXTERDWmFVcDRqQ3NLQkVRbUdRN01MRVBsTE9aZDRWdzJuQWZKd3hnb2RkWEVsSExqdTh5OC1BV09lb1o5TmJ3Vnc?oc=5",
    "tags": [
     "YIELDS",
     "GOLD"
@@ -610,80 +677,12 @@
    ]
   },
   {
-   "title": "Oil majors face spending test from Iran war windfall cash By Reuters",
-   "source": "Investing.com",
-   "time": "2026-10-20T06:21:14Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNHRmMXdQV2U4R1c4YzEyMGg0RmUxeVJxUENmY21FcTFTYk1Mai1MYlRlTFM5cHpUVjlSMEs0MlNHbEZhYkc5andHdmdLNk5RVmp0bkNFbVN3TEJRX3dEOUplVU4zcDJacGVxTlUtRTljX1JoM2xYTDZ0N045RWd1RVR4OS16b0lvb2M1SzlvV0RSWHN0OTNFSFR0aWw2bUpqT1FieDkyTHk0bzZ0Y05mMDFIMV8?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
    "title": "Brent crude holds near five-month high on Middle East tension",
    "source": "CNBC",
    "time": "2026-10-20T06:20:02Z",
    "link": "https://www.cnbc.com/2026/10/20/brent-crude-holds-near-five-month-high-middle-east-tension.html",
    "tags": [
     "OIL"
-   ]
-  },
-  {
-   "title": "WTI rises above $99.00 as Iran warns of wider blockade",
-   "source": "FXStreet",
-   "time": "2026-10-20T06:15:46Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa09JazdSY1NMNDVkWkxjVjVnWE56cFZaTk11clFmSDBseWxhdWtwUWNiR3pacjQyNlR1cGJ4ZFZzSWpfU2lnREoyR1NDUVRJQkZxZDNBNm9SR0hlXzZsNmNwWmJVT01tMjY5ZmV2UkJLZzR1RlJCV2JINFhpaS1vd3k2ak1INk9XTnhuWHhqZlgxcXZOZ3kxaHJBcw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Oil majors face spending test from Iran war windfall cash",
-   "source": "Reuters",
-   "time": "2026-10-20T06:04:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQemV5ZWpZWkdhUzlRTmJsLXMyNVFMa0EzLTYxSGJubDVlSkVWMGVuckZDRVZOOS05eGc1aHlSOGJva3A5d2R2SENNNVBNeTM5eXNEeWJWTDlDbzBUdlZTTDdFZDRlT3dkVWtSWmJJekhvc3BSQk5KbnlTcjR2Q1otUEFlS0JYSUVZclR1d0NGRzJJaHBXbFdBS1RPZWZqOVNXemZtVmlRQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "UK unemployment rate falls to 4.7% as jobs rebound, keeping BOE rate hike bets intact",
-   "source": "ForexLive",
-   "time": "2026-10-20T06:00:14Z",
-   "link": "https://investinglive.com/news/uk-unemployment-rate-falls-to-4-7-as-jobs-rebound-keeping-boe-rate-hike-bets-intact/",
-   "tags": [
-    "RATES",
-    "JOBS",
-    "CENTRAL_BANK"
-   ]
-  },
-  {
-   "title": "UK August ILO unemployment rate 4.7% vs 5.0% expected",
-   "source": "ForexLive",
-   "time": "2026-10-20T06:00:14Z",
-   "link": "https://investinglive.com/news/uk-august-ilo-unemployment-rate-vs-5-0-expected/",
-   "tags": [
-    "JOBS"
-   ]
-  },
-  {
-   "title": "German producer prices hit highest since March 2023 as energy costs soar, fueling inflation worries",
-   "source": "ForexLive",
-   "time": "2026-10-20T06:00:09Z",
-   "link": "https://investinglive.com/news/german-producer-prices-hit-highest-since-march-2023-as-energy-costs-soar-fueling-inflation-worries/",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Germany September PPI +1.9% vs +1.5% m/m expected",
-   "source": "ForexLive",
-   "time": "2026-10-20T06:00:09Z",
-   "link": "https://investinglive.com/news/germany-september-ppi-vs-1-5-m-m-expected/",
-   "tags": [
-    "INFLATION"
    ]
   }
  ],
