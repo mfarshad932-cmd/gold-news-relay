@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T05:53:34Z",
+ "generatedAt": "2026-10-21T06:21:56Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -21,7 +21,7 @@
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 3
+   "kept": 2
   },
   "bea": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 8
+   "kept": 10
   },
   "bbc_business": {
    "http": 200,
@@ -66,7 +66,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 34,
+   "items": 35,
    "kept": 5
   },
   "aljazeera": {
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 28,
+   "items": 30,
    "kept": 12
   },
   "gn_fed": {
@@ -91,28 +91,28 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 21,
+   "items": 22,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 32,
+   "items": 28,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 9,
+   "kept": 9
   },
   "gn_yields": {
    "http": 200,
-   "items": 22,
+   "items": 25,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 2,
+   "kept": 2
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,53 @@
   }
  },
  "items": [
+  {
+   "title": "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
+   "source": "BBC",
+   "time": "2026-10-21T06:21:02Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+   "source": "CNBC",
+   "time": "2026-10-21T06:20:14Z",
+   "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+   "tags": [
+    "RATES",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "UK inflation rises by more than expected to 3.5% as war drives up fuel prices",
+   "source": "The Guardian",
+   "time": "2026-10-21T06:02:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXZKalZDSmdoYmVBRXFWY2NHYjE1QjF3U1N1ZE9KdkN0OGJBR0hpZElYbVVISGs0aElrbnQ3T3JpZ2t2Ti10WDBaZlA0UENPa1BuRklWSW1QLUUtWm1TV083NE0tbllMQU1jdEt5NzBBQ1hGVWtUWDJjZnl1UXN4aktWMXR3eG9lMGZpTnBkZ2FOOTlRdGtUSVpFRXJYYWZLcFQ5aVM5Qkp5MjA?oc=5",
+   "tags": [
+    "INFLATION",
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gaza children face worsening food shortages as prices rise and aid is cut",
+   "source": "Al Jazeera",
+   "time": "2026-10-21T06:00:47Z",
+   "link": "https://www.aljazeera.com/features/2026/10/21/gaza-children-face-worsening-food-shortages-as-prices-rise-and-aid-is-cut?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "UK September CPI +3.5% vs +3.4% y/y expected",
+   "source": "ForexLive",
+   "time": "2026-10-21T06:00:30Z",
+   "link": "https://investinglive.com/news/uk-september-cpi-3-5-vs-3-4-y-y-expected/",
+   "tags": [
+    "INFLATION"
+   ]
+  },
   {
    "title": "Samsung, SK Hynix upgrading China plants to make more advanced chips, people say: Reuters",
    "source": "CNBC",
@@ -159,6 +206,15 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbUxXaFJ3OXVFaXBFZGF4Q2NqV2ZzaGtoM3pYaUszZUxmVFNlZ21xdnZRcTV0WXdxWFc2bk5SY2FCSVRwbU4tenhhN0VTcGZsREZZbjFyYXM2dTRGRWFhMzllSmZPa1RoU2hrNEZ6b3M1dXBDR0gyYk1HQVlmU1RPRDAwVnJSc3dva1RlSzd5WmVWeExBTkV5Zk9aMXVMc0Z0c1FoLVpKZFphb1kzcWphdDk4MlBsSlJZbHJwRl9DYw?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Manchester City’s Threatened Exile Dwarfs Rivals’ Past Sanctions",
+   "source": "Bloomberg Tax",
+   "time": "2026-10-21T05:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX29JOGxSRmJ1UnJaQ2RWeVVCS1ZkRXppcXJaampvNXFUX0VSRmRhWG1XVUJGcDhmcE1hVEdYWFZGUnEzMmdTbmJVaUFmVHJSVHpIdjY4bnBuM2Z2MjZ2X0JMMkxwRU1ZQUo3REdVMktQbGE5VXVYRkxDSGhsN0Y4NS1VS0xPNHJJX1RHOEtGbWs5SmNnX2J4VWZLTHF2XzdUdF9RU2hfNEVRS3N2a3ZnWTl3dkhVUQ?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -331,6 +387,15 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM3RJb3NQcmhrY1U3Nm9sOUU4OFhvaTF3dFpCb1hCOWZFN19IZWwxM0lLX0pCQ2lMbm0yYjVBMVR4ZURVeE9qVl83Tmo4OVVUWURFWm1uem1NNkE0ekl5TV8yVXNaWE9McFRNSjRyUzlfNzRxMHQwZ3pCNm9uSFdZYnlhdVZsOXhLX2xNR0lrMW9IRlJxR0NfMzYyN2VfeFNJOHVPbWg2VkQxcWNsVFI5SDlB0gG3AUFVX3lxTE9LOGNCQ1Z0MlQzVE9SWFVINWVWWHZub3dteDBhbDNHVjk0TFhabGZ3ODRjclBwRkpyamtIRUM1ZU5PdUpaTkstOWNZYUdvRXdxekZTUFp0S3VfS1AteEY2UVpueU1PNmJXdjhicmpiTnBORXlHWnpPNXpvV1JOaTB5V0dPdm84bU5uT1FYNUpkX1RrQy1VTWpDWnRqWmtWaXFHUHF0VjluSjVMTVo2anBBbjUtaVE0QQ?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Platinum Jan 27 (PL=F) stock price, news, quote and history",
+   "source": "Yahoo Finance Singapore",
+   "time": "2026-10-21T02:43:46Z",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50WVB6bERGNDlKNmZxMUQyb0pHNWNqNmpqVEhCcmN2eTBSQUhST1RuV2ZMZnFENWhyQlU5d0JFb2c2TTlmTzV6dUJEZTNkbk5rN3F2TQ?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -570,12 +635,22 @@
    ]
   },
   {
+   "title": "Elon Musk ordered Starlink slowdown for Ukraine: Report",
+   "source": "CNBC",
+   "time": "2026-10-20T23:06:56Z",
+   "link": "https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Is gold really a hedge against inflation?",
    "source": "Yahoo Finance",
    "time": "2026-10-20T23:06:26Z",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2Q5cjNQYmlrTnJMY21SaVdhcXBmSlBjcDY3Y0psZ09zczgyOGNmV2xrODVuS3VoSzVHZlpHV1hTTUNkTzRpMVRJME9MTGxUNDhsV21Ga1VLZ1Q0dWtyN21aMEJIMTZ2N0s2MnBCNjk0cnhSTGZ5X29ibG1zOXFnMjZBMHM2TERZd2tjNU9DTnNYMkk0ZWxneThwVjFkUThXTWZpeDNCWWY1dTJqcFE?oc=5",
    "tags": [
     "INFLATION",
+    "CENTRAL_BANK_GOLD",
     "GOLD"
    ]
   },
@@ -615,76 +690,6 @@
    "tags": [
     "TARIFF"
    ]
-  },
-  {
-   "title": "Analysis • As Yemen war escalates, Saudi allies draw strict lines on military backing",
-   "source": "Haaretz",
-   "time": "2026-10-20T22:04:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQOGRXc1E3NHphWUFvUC11UmYzN1lpTXc5N2hEbThhbUhVT0Vrc2NmNnJ6S0tmcnBOWnRZSlVtRzBtbXBURHZWS0Q1VEI3b1hjQzhDVFkwQUdGVTRzbFJDZV9SZHhPblRrb3c5WkxsLW9UWng2S00zZ3AwYWo5dWhMWHZzbXBYTlhVMzZfRV93SUxSTjJOeDNVMkFyaXNnWmhLRjdodlUtSEE4b244c1hYVVMweTZib3UyZEdYVWNTUUR0UWtHUl8zZTl5T19nS2hjOFdLZnV1dmlLLWt1MEwtQXBEcF9MVjdUSjdZdU9KSVRVTllmTFdnQmVfYkp1T0dZRE96T0pjUVZjRjBDQVdn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump pushes Zelenskyy to end war with Russia as fuel prices rise with midterms looming",
-   "source": "CBS News",
-   "time": "2026-10-20T22:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU0VpNXlndGxHbVEzdV95VlpuWXlXVjBrTmJORmMwSHctRXZ0cjNkc3IxZUpnYU9hVExxb09DVmxfY0IwcHFycWRaRm1QVkNHcldQbW5fUDJXbEhuLTQ0Q20xTFJDNG9pR0NGbHVSNmUxeVFZT21XQ1JYX1czZVREclRReFRXSVNTaDVEdW5OdkRVTmkzX2lvTy16ekZlbXlPNFFYZXF0NlVoLXJYbUZDNmM4eUM1dFFTcFE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-   "source": "BBC",
-   "time": "2026-10-20T21:27:39Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OcXdwQnZ5LWxrMElfTGl2Z1MtRnhOVzBmdTZaYms5cVdPXzlQekFlYVdrUzFqMlc3RVBvWG00aE1ibTF2cTJZSUhyMVpaY2ppTkRCYXpQVjhvMmM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "‘The Mothers of Kherson’ Review: A Ukraine War Opera",
-   "source": "WSJ",
-   "time": "2026-10-20T21:26:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0VaYW9ZYmxCdjBsbVlBMEtxQk5aNUgzdVQ1eFBJV1NnS3BEdEE2YXVSWmhjRkJXMzAyMkNUOGxpWWhuUVFKTzJvOVNKaHFZNG5yWklvV0NsOWJjTzNpWmRIcnVLQlktb0psWHkxcnZwRS1VVGdNN2c2bnpDMG1BME1jU25ONXJBQ1ZrWHZ5bFNyYkVDNmRvZjNtdFdXUmI0MF9oSVFXeVlNZk1VQkRZQ0hNSUM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "CIBC cuts Q4 gold price forecast to $4,500, then sees bounce to $5,200 in 2027 (GLD:NYSEARCA)",
-   "source": "Seeking Alpha",
-   "time": "2026-10-20T21:25:29Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUFrNzIzWFVHUlc1aVVWX0FjMWIzMk13ekdhOGdQRDRFREVfNUFyNU0tbExsMzQ5b3M2UjE5SFh3cWhIQ0w5N1Bkb21TamM0WkQyY2VRVXQweVp5dDZGVTJqWHVZd3dLMTgwVlRiUjk0WWNubWFEYm9xTDdNWV9VVldWT1RwbWc4TVdoa04yRWp5Q2VQVjFTakQ5ZXJHOGk5eXRjT2lQWXBGOW1FYWFpcw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "CIBC cuts Q4 gold price forecast to $4,500, then sees bounce to $5,200 in 2027",
-   "source": "TradingView",
-   "time": "2026-10-20T21:25:29Z",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR2R5WXNVdDJYRHFENjZEQVlXSzBOTzJhbWhjcV94cVZrdWJUVFZfUUpCSDFFV3YzR3AzVmp6UXl6MGlaTEs1RnY4SV9KU0RGd1MxVzV5ZkZSOW1uSk5hT1ExRDVUVFAwaUtoLTI1V2xqR0ZUdjgxX3V1Z3FKeUc3RnRqMEhFY0hES1hub2RJMVVCUm1PbXIyNXpnZkhpWHNLNHhFOXFXT2Q1ZnFEeEFPWEVibWl3SExxbnlFYWk4ZjMzemJWQ3VxeXl1eTBQV3NWR01OSw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
-   "source": "Al Jazeera",
-   "time": "2026-10-20T21:23:50Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd2xqYzZQTE9jc2NOdjRqMmVxTDFUNmhaWFdoLWtFcE8wd0RwbHI1X2xoVW9YUzM2cjBPMTRGVlJqNE1QMlVKUEt5RnNjLU9LUXZzQmROUzJIOW4wcUoyWHk4LUpkNzFYblVpRkJETWlQQllmN2JHRUdxSURuRHhrUDdPTTFBMUM2bkpiRktaSTZvTE5ESkRlb0NYcmpkUzlyRlIyMnNJdkpHaGFOUDRCc2laemLSAboBQVVfeXFMT1VKMXhyck1RS2NsSGd4LTRyb3dFY1pFR0s5cGlWa1hURHNEd1hLRldPVFdlZ1lXQlBaZURGNlJnS2txc3VfbGZsRkF4c3FBUWpBV2FpbFdUOE16MHpHUkZSQkl1dXFxSmphTm5oTDdDVUktYnJpX1k2SnZWMjItRUVSX21fOEg5S0RZSDJNZEd4VkU2MFlBMzZtdE1ZVWJ3a2FYblljZXNGYnBhQXpqMlk2bXNfcGd3akJR?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Is having 3 kids the ultimate status symbol?",
-   "source": "Axios",
-   "time": "2026-10-20T21:15:11Z",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CakFDbk1hM0pDMlg5eG5LeG5WT3RHRVZyOFY5dU1RaEI4MFlpUHVVQkJ5UUU0WVVlbEcyVXVaTzBGcHQ3bkRQck94LUJHRWlGRndYSGNNb3JRZ3hsNk1zSnlvZ1lJNVg0dzZYeEFwWlZGX3JEbld6OTRJaw?oc=5",
-   "tags": []
   }
  ],
  "fedCalendar": [
