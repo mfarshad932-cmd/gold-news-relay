@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-10-21T04:00:12Z",
+ "generatedAt": "2026-10-21T04:28:34Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 0
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -21,7 +22,7 @@
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 2
+   "kept": 3
   },
   "bea": {
    "http": 200,
@@ -72,7 +73,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +82,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 26,
+   "items": 28,
    "kept": 12
   },
   "gn_fed": {
@@ -91,18 +92,18 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 18,
+   "items": 20,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 33,
+   "items": 32,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_yields": {
    "http": 200,
@@ -111,8 +112,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +126,43 @@
   }
  },
  "items": [
+  {
+   "title": "Gold and Silver Price Forecast: Breakdown Risk Persists as Oil Rebounds",
+   "source": "FXEmpire",
+   "time": "2026-10-21T04:22:29Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN19Mb3M3WUtRSzBaNXVtaTRNWWlpcFlpRjJCOG0yZEN3NjVYeHg0ZmV6bGd3U1RPQ01pekNudEJ2Z3lyODZ2eFNjRHBKb1dENDZhZUJCai1Ka0pQN21PX0dLMC1Lc01ka09zSnNSVC1KT3VHcVFGUHk3eUFySDFNWGMxOHZ5aVFNdWdGQVlOemd2MW9ya0l4bHJaWXJMY3UxQWxxWW9TcXp2UmVMWHUyRURacEtfTHFBb1lSV3Zn?oc=5",
+   "tags": [
+    "OIL",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
+   "source": "ECB",
+   "time": "2026-10-21T04:15:00Z",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
+   "tags": [
+    "ECB"
+   ]
+  },
+  {
+   "title": "Silver Gains As US Treasury Yields Ease Near One-Month Lows On Weak Housing Data By Kedia Advisory",
+   "source": "Investing.com India",
+   "time": "2026-10-21T04:11:33Z",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWlR4a0NDWkdDQksyZW1EMUxzX2t0QVRCVHRJZ1lXYXlDckR6U1ZtY0U2RDN6d0ktTnhJNGN6aTZ2TzJwMnZvaFBqUE9iNXJfV3RfWWpWbDRHaWRiZXNNN2dFRnBibzdPWGx0VEJvV21ucXByRGVZVmN1dF80ZXl6SjRuYWtiYzNYbFAwR0dpalR3S0cyOUpXRUtuZW90RTNidmNMcXJqbFRRSl9JV2xZZzhTcGg0QmJTdmNtMUFqVDMyWUpLOXQ3a0k5aDRQTnM?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Ken Griffin calls Trump’s tariffs on US allies 'a disaster' and predicts it will hurt Republicans in the midterms",
+   "source": "Business Insider",
+   "time": "2026-10-21T04:01:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQjZwMzdabVpDdzJVdWJkV1VTSHJRanFZc04zNVV1WlNXbnpaQTNvcjhuSHNSUnY3d2c4WFlibzVmdVl0S3lfVHhrTTEtSTZ1elhTSEFPXzJ6YVFPQzhXVHJ1UjVMRmRaaEJ3YlBhTzJsTkRpXzIzWTVfNUYzUXhQcFNXRzlGWFhmeHZTeGdRbHE2QVpxeUctVmpqUHJzNkVScWJB?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
   {
    "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
    "source": "BBC",
@@ -144,6 +182,15 @@
     "USD",
     "OIL",
     "GOLD"
+   ]
+  },
+  {
+   "title": "investingLive Asia-Pacific market news: RBA’s Hauser puts November hike in play",
+   "source": "ForexLive",
+   "time": "2026-10-21T03:36:54Z",
+   "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-s-hauser-puts-november-hike-in-play/",
+   "tags": [
+    "CENTRAL_BANK"
    ]
   },
   {
@@ -419,7 +466,6 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2Q5cjNQYmlrTnJMY21SaVdhcXBmSlBjcDY3Y0psZ09zczgyOGNmV2xrODVuS3VoSzVHZlpHV1hTTUNkTzRpMVRJME9MTGxUNDhsV21Ga1VLZ1Q0dWtyN21aMEJIMTZ2N0s2MnBCNjk0cnhSTGZ5X29ibG1zOXFnMjZBMHM2TERZd2tjNU9DTnNYMkk0ZWxneThwVjFkUThXTWZpeDNCWWY1dTJqcFE?oc=5",
    "tags": [
     "INFLATION",
-    "CENTRAL_BANK_GOLD",
     "GOLD"
    ]
   },
@@ -640,54 +686,6 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SRkdBS3RDTWZaRTJabFJyZzk2ZWotNnE4a0ZGSU9LSDRYck5JLURBWjh4RDMyUGZadEJiczk0QVpncGxsTlBsOG50MWVQei1CM2pZX0xwcEp0WkhGSl9nekF4eERNcUZ1S1ZnYjA5RGtFLW5aOV9feA?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Zelenskyy on meeting with Marco Rubio about war in Ukraine",
-   "source": "NBC News",
-   "time": "2026-10-20T20:22:41Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWHdwUVNCUHZTODd1N1U0UTV0WC1pQVpBa0FicS1jTV9WRVQwWEVNNnk1cXBnc25JTVFoMkVIRGtMT0lNcE1xTnNDZV8zWXdLYlk3S2lFN0V0dFBxcE9IT2VMMk5vdW94WkxYa3dwMGdVdkhkMVVrMjZJQVQwdXNDbERYRzkyeXQzMnVXUXM4bWZ5WHJsQkR5cTNab2NiQTU1MXVCc3FXMUhBSDRi?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump Waives Sanctions Against Russia Just Before New Law Takes Effect",
-   "source": "WSJ",
-   "time": "2026-10-20T20:21:48Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnVnOEloY0J4aFRTZFZ2N2hTeHBWeUVXV3VPQmR0c04zcFlCdEs0aW1jUDRNM05Za3NMQnhtQ3BmVXNQRUFNMms5eXJJdVE4Q01ud0ZlYVVKOGhhSHBncjFLaVl6djRPb1NPVDZ6MkFtbHlYWmV0cWJ5VEdpTW1adFREWXRHVmUtcjR0MEl5QXhmSnMyamtrTUxiZjZkLTQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "investingLive Americas FX news wrap 20 Oct: USD falls as deal headlines swing oil; Dow and small caps outperform",
-   "source": "ForexLive",
-   "time": "2026-10-20T20:19:50Z",
-   "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-20-oct-usd-falls-as-deal-headlines-swing-oil-dow-and-small-caps-outperform/",
-   "tags": [
-    "USD",
-    "OIL"
-   ]
-  },
-  {
-   "title": "UK police rearrest two men on suspicion of assisting Iran’s intelligence",
-   "source": "Al Jazeera",
-   "time": "2026-10-20T20:17:53Z",
-   "link": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold struggles near $4,150 as global rate hike risks loom",
-   "source": "FXStreet",
-   "time": "2026-10-20T20:13:00Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEJRVF9YVjNwSkg2cFBZMHVvZmVtWWhvalVsakhnZ2RzRzA2VjZRTVEwN1UzYzgySmduRTRQQnNMdmFVbVlWLXJrUmM0SjFCc0c5d01pc0RBaHEzVzRQWWZvRktVbGdjcTRfajEzSmE1VER5cWZVT2E5TWpaY0VtYzJLZmxleHNKbGpRaGx3bm5ZTzc3c1FPOTNLSWo3NmpW?oc=5",
-   "tags": [
-    "RATES",
-    "GOLD"
    ]
   }
  ],
