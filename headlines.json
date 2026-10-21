@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T09:40:15Z",
+ "generatedAt": "2026-10-21T10:08:35Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,12 +57,12 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 10
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
-   "items": 52,
-   "kept": 5
+   "items": 53,
+   "kept": 6
   },
   "bbc_world": {
    "http": 200,
@@ -81,28 +81,28 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 32,
+   "items": 33,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 10,
+   "kept": 10
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 20,
-   "kept": 12
-  },
-  "gn_war": {
    "http": 200,
    "items": 22,
    "kept": 12
   },
+  "gn_war": {
+   "http": 200,
+   "items": 23,
+   "kept": 12
+  },
   "gn_sanctions": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 9,
+   "kept": 9
   },
   "gn_yields": {
    "http": 200,
@@ -126,10 +126,83 @@
  },
  "items": [
   {
+   "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+   "source": "BBC",
+   "time": "2026-10-21T10:03:41Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
    "title": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
    "source": "CNBC",
-   "time": "2026-10-21T09:34:05Z",
+   "time": "2026-10-21T10:03:31Z",
    "link": "https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Sticky Inflation Is Testing the Fed’s Resolve",
+   "source": "Bloomberg.com",
+   "time": "2026-10-21T10:00:10Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQkUxWWNmVENYWHNyd3ZtSlV1SGVPSGpFdXl0dm5GWHpVVktsMi1wZ3RmdG4xdkV4SUpmaVMxLTFhQkpDLUs0VDdWOXZnVGZidXVZRGdkOUFNS0E4Tmd2Z3VLZ0wyUjY3SGptbjZnLWp5TUVJekdodHdId0trTWFWUTZQT09YVWluWkdCNFBIaFhfYjZRQkRfNEVRS21PV181TlQyaklJNVM1Qm8?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Sudan's currency tumbles to new low as war hammers economy",
+   "source": "Reuters",
+   "time": "2026-10-21T10:00:09Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObWxDQTE0QkwwSENSbi1rVnNZX3M1TU5WN1FGS0drYmMyY1I2MldCcDdOVHE3a3VDbmhXckpia2k4MFVXbW9ZZHl4azhHRG5XTW90aXZWb29WYVNITHppMEhleVdORjAwUV8yblNTZUZpTmtrSHk1NkN6aGlVdV9VQkg5S2hhX3hobkFWSEdtaTdFSTVuLVMxMHZMckxrd1pYV3c?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran war sparks heating crisis in US north-east as winter approaches",
+   "source": "Financial Times",
+   "time": "2026-10-21T10:00:06Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbXkwb0d6UGRQdE93ZXpHV3ZBMWl2LS0xZTNjZGZILU5ZbXFDalFLTDJwbjgtRlFZMlY0ZTdiT1EzM3l1X05reUI3aDg0MFNMR2w0cXdpZ2dTMFppVHVvbG4wX2N0b0NRdmdHOGZrdGV4YTVjcThscGtjQk04bVltYWR1MUE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran war looms over the midterms",
+   "source": "Politico",
+   "time": "2026-10-21T10:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQm1ESl9ra1hXcjBaY003WjNPZ1JPOVhrMlBvYnB6T3lPWU0xRjZvNW1FYTNkUExtZVFNWS1XaTVSZktURjF0MElCa1RfNTVOQ3ctMWN3NV9KS0NLN2tIbkMycExodGtnZkp4WTVHWUZzcC1BUGNvUGtROC1ieEZ5Z0NybUxGNUl0VDFYSm5qaGpZY2FmVUc1V1hldmhxYS1jeFhGNUVDTnE3TVE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "‘Hunted like animals’: inside Trump’s war on the people who build America",
+   "source": "The Guardian",
+   "time": "2026-10-21T10:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa3lpTFdjWVc4NjhGR2VGVnJzN3JQNHFiS2thNl9SRVFQLW00NUJvU2pqeEF6cUtXRFBSVTdpRDhIR3k2cWJQNmFTNDlUUjdnRmRESEFBQW0wUURUZTBoakxMYmRDY191ZTM4ZW55S0tMaGRQczRwY3dDSHlESnRyT2ZiSktmV2FxV2hsRElyZURrUXlGdVBwMGRVdm1kbWxOT0gwT3hfQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+   "source": "BBC",
+   "time": "2026-10-21T09:45:31Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Connecting the dots: How rising government bond yields could hurt your retirement savings",
+   "source": "investingLive",
+   "time": "2026-10-21T09:44:58Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON3dlLTV2OHJreUthdVdaeTJ3dmJPOHNfbS11c19QdkxwWTJwTkxDWmZXRnozdFhPMklha0pKcmVQdkpqTFNZSGk2bFJ1Z3FMQUx5MW5xMVZqY05SaUlRdDBXRXdVVWNEeEg1VzhRN1F3eVowRTUxVG9adHBLUFhySFBpcDFwdXNmTkxienlhcXZRRHd1TFJ1UE94UzBUWFhVblppcHEyenREVTRuel8ydzBiVW5tVFd3Y2RycjJzbkEwLVE?oc=5",
    "tags": [
     "YIELDS"
    ]
@@ -137,7 +210,7 @@
   {
    "title": "Russia energy sanctions will stay despite US diesel deal, von der Leyen says",
    "source": "POLITICO.eu",
-   "time": "2026-10-21T09:33:29Z",
+   "time": "2026-10-21T09:36:40Z",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYjRmWGIwVmdiQ0dEd0o5Y2FNR0pVQVlEV01mS3ZYTEZsd3dQQ1QwdWowRTE1QmpOd2llLS1XcDQ2aEVQRTZ5dTYzVGJ5MjBDN1ozc2RmVUcyekNBcFhsT0xscENOanh3WXVQMFZPX0IyenVVWXNsTl9mQml2RTlKaGpNd3JuTE5WV2ZJVG1BWkxURzdIN3FHV2FnVQ?oc=5",
    "tags": [
     "GEOPOLITICS",
@@ -200,10 +273,28 @@
    ]
   },
   {
+   "title": "Eurozone Bond Yields Rise, U.S. Treasury Yields Steady",
+   "source": "WSJ",
+   "time": "2026-10-21T09:14:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUVqY01YZEVBNGdnSkZQSllpNnZmNFNUUm5ab0VxODNVWXVUdm5VYW1GcGRjSXJvTE9lSjlITEZZYmR6MUJiQ1ZtaFhNb3JDQkJoQ09JdlJUdlFsTXRfeEVKM0s1em51dUR0Z3h2WW9hRS1BdVVDSWhGSXNZZ1NIRTlzSnk4ZzZianQ0bnRheEEwRGpXTmY0SA?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Eurozone Bond Yields Rise, U.S. Treasury Yields Steady -- Update",
    "source": "marketscreener.com",
    "time": "2026-10-21T09:12:48Z",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGFCc1ZieFEweWh1SEtRZk0xYkxuVHAtc191M0FlTEFKaEJndVQzNVBLQkUzSnNKTDR6MW00eU8wRmZSQTNoOHJIVEM0Z2g0M1RiYlBZZXRuTlNGb1NMYmZ4UVhfLThEM0FtcHpfTldWaThTR09feHd4X0I1M1NQaFpFU255VkhxMW90M3ZOWWxYME9OQ1VGN0lkQnRjZXY0T1VJZWYzQ2xfaktQU0VlQTFn?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "European markets steady for now but widening bond yield spreads offer a warning",
+   "source": "ForexLive",
+   "time": "2026-10-21T09:11:28Z",
+   "link": "https://investinglive.com/news/european-markets-steady-for-now-but-widening-bond-yield-spreads-offer-a-warning/",
    "tags": [
     "YIELDS"
    ]
@@ -330,12 +421,14 @@
    ]
   },
   {
-   "title": "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
-   "source": "BBC",
-   "time": "2026-10-21T08:07:09Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+   "title": "Gold bounces off weekly low; Fed hike bets and modest USD recovery keep upside limited",
+   "source": "FXStreet",
+   "time": "2026-10-21T08:07:03Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNWZWblVYYUdZZ09NcWdpaWxMcWNpYTdzYjNqUzI1Zjl3ay1KN1RWZUk4UHN6OGZnNEN6bHlSaTVxZDk2eHdSTFE4RF9hbzlYUVU0bGtvSk9vZ0RvMkJPLVBtUzMyYTNQWHZ3UWRKdENkSG5HdEdyYXhPYjFZTUNlOTQ0YWx0dVUwUS1VSU9CNl9WQnNpVFRhbUktUTMyZzBCQTEwb1UyOU14cFk3aTFVWlBPYUp1NTg?oc=5",
    "tags": [
-    "INFLATION"
+    "FED",
+    "USD",
+    "GOLD"
    ]
   },
   {
@@ -412,6 +505,15 @@
    ]
   },
   {
+   "title": "DSV: Customs activity at record high as tariffs and geopolitics bite",
+   "source": "CNBC",
+   "time": "2026-10-21T07:27:30Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN3ZOSW5CT2VIMkREZk9UX2lsWElBS3k5eVQ4WV9CSUdzckdCT2JrZjNYcWhsT0VudlZYZ3FvR0p0SXFSOEhrYV9ldHd1Ri1xcV9hWjB5LVZjVnNQS1NqZDU5bW1LQk03bFVrdndRNzZxRU1EcU5iMlhsSjhvYzVZM1BqVmhJMUhTZ1ktY1UwTjV5a19pRU4tWnZHWmxDNmtfbHFjYTNodVBYTFRINVdJ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "WTI Oil approaches $99 amid fears of supply disruptions from Gulf countries",
    "source": "FXStreet",
    "time": "2026-10-21T07:27:23Z",
@@ -467,6 +569,15 @@
    ]
   },
   {
+   "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
+   "source": "Kitco",
+   "time": "2026-10-21T06:42:16Z",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now'",
    "source": "BBC",
    "time": "2026-10-21T06:37:55Z",
@@ -477,22 +588,11 @@
   },
   {
    "title": "U.S. Treasury Yields Edge Higher in Asian Trade",
-   "source": "WSJ",
-   "time": "2026-10-21T06:30:58Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUVqY01YZEVBNGdnSkZQSllpNnZmNFNUUm5ab0VxODNVWXVUdm5VYW1GcGRjSXJvTE9lSjlITEZZYmR6MUJiQ1ZtaFhNb3JDQkJoQ09JdlJUdlFsTXRfeEVKM0s1em51dUR0Z3h2WW9hRS1BdVVDSWhGSXNZZ1NIRTlzSnk4ZzZianQ0bnRheEEwRGpXTmY0SA?oc=5",
+   "source": "marketscreener.com",
+   "time": "2026-10-21T06:33:53Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNmZLODRpWU1uUDdYUWU4WWhpZi04MTRiaTlZX2l5SEMwZFo1Vi02MGt6c2xieUVueWY3TGk4dUNQMWlkYm1QT1B3OTJUM1E5ODRmSWprSVdLVVFJMVZ2STJveTZhUXBzMVBjLW5mRE1OaXVzaGZPZkFoQzN3akhSZm1GMEhwMEM1d0FnZGw1ZDBEdHU2TThuLTdyV3FyamRa?oc=5",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "Gold remains depressed near weekly low as bears eye $4,100 break amid Fed bets, USD uptick",
-   "source": "FXStreet",
-   "time": "2026-10-21T06:27:33Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNWZWblVYYUdZZ09NcWdpaWxMcWNpYTdzYjNqUzI1Zjl3ay1KN1RWZUk4UHN6OGZnNEN6bHlSaTVxZDk2eHdSTFE4RF9hbzlYUVU0bGtvSk9vZ0RvMkJPLVBtUzMyYTNQWHZ3UWRKdENkSG5HdEdyYXhPYjFZTUNlOTQ0YWx0dVUwUS1VSU9CNl9WQnNpVFRhbUktUTMyZzBCQTEwb1UyOU14cFk3aTFVWlBPYUp1NTg?oc=5",
-   "tags": [
-    "FED",
-    "USD",
-    "GOLD"
    ]
   },
   {
@@ -511,6 +611,15 @@
    "link": "https://www.investing.com/analysis/api-crude-product-inventories-continue-to-draw-200689952",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "US food importer sues Trump administration over 50% tariffs on Canadian goods",
+   "source": "Fox Business",
+   "time": "2026-10-21T06:12:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZjJNY1RkbHZ5NFhYYXIxdFBSdDF2cEVMMjMzWjMwQTBkVWpRSkFReERtRTZCcUR5VElrODduaWNtXy04dzZGaHYyT2lwTzV2MFJVV0FUZWhRSUxsS2Z5VHlBdlJ2SGNITl9JbDFrYXFUVGxycFZ0Y2g4cmNnNEpydU1PVkhJUkYwWWRYc3RfMVpkOFBRZGh5bFctR0gxNW4yOWEzZzQ5Z1dKcmw0RXZz?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -568,118 +677,6 @@
    "link": "https://www.cnbc.com/2026/10/21/samsung-sk-hynix-upgrading-china-plants-to-make-more-advanced-chips-people-say-reuters.html",
    "tags": [
     "CHINA"
-   ]
-  },
-  {
-   "title": "Far from fringe: How Israel’s mainstream parties vote with the far right",
-   "source": "Al Jazeera",
-   "time": "2026-10-21T05:24:49Z",
-   "link": "https://www.aljazeera.com/news/2026/10/21/far-from-fringe-how-israels-mainstream-parties-vote-with-the-far-right?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Adidas raises profit outlook after record quarter, tariff refund helps",
-   "source": "www.marketscreener.com",
-   "time": "2026-10-21T05:22:19Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbUxXaFJ3OXVFaXBFZGF4Q2NqV2ZzaGtoM3pYaUszZUxmVFNlZ21xdnZRcTV0WXdxWFc2bk5SY2FCSVRwbU4tenhhN0VTcGZsREZZbjFyYXM2dTRGRWFhMzllSmZPa1RoU2hrNEZ6b3M1dXBDR0gyYk1HQVlmU1RPRDAwVnJSc3dva1RlSzd5WmVWeExBTkV5Zk9aMXVMc0Z0c1FoLVpKZFphb1kzcWphdDk4MlBsSlJZbHJwRl9DYw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold Tests $4,126 Support: A Mean-Reversion Opportunity?",
-   "source": "Investing.com",
-   "time": "2026-10-21T05:07:00Z",
-   "link": "https://www.investing.com/analysis/gold-tests-4126-support-a-meanreversion-opportunity-200689942",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Manchester City’s Threatened Exile Dwarfs Rivals’ Past Sanctions",
-   "source": "Bloomberg Tax",
-   "time": "2026-10-21T05:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX29JOGxSRmJ1UnJaQ2RWeVVCS1ZkRXppcXJaampvNXFUX0VSRmRhWG1XVUJGcDhmcE1hVEdYWFZGUnEzMmdTbmJVaUFmVHJSVHpIdjY4bnBuM2Z2MjZ2X0JMMkxwRU1ZQUo3REdVMktQbGE5VXVYRkxDSGhsN0Y4NS1VS0xPNHJJX1RHOEtGbWs5SmNnX2J4VWZLTHF2XzdUdF9RU2hfNEVRS3N2a3ZnWTl3dkhVUQ?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "China signals intent to push back against cleantech tariffs at COP31",
-   "source": "Reuters",
-   "time": "2026-10-21T04:59:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN2daVHg0a1kzRzNvQ3lLNDFQZjU4ekd6Tm5aV2JaMko3WV92RTVSRVZsM3lVNFF0V0w5UnMwYnZuWmRTWDhTOVRTUmlYd2EzVDh2bFFrVWtoOF9velluN1ZnbG1lczhfOGg1YkwzcVZNUDQ2Y1hGbnQ5OFBFczV0amR5TkZxc1AxekVra2VIOGZ4UVEwT0pmODNmTl9MRHVHVFFRWDc5dTJobEJhNmFYZWtzcWxwV1lB?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Is Putin’s Waiting Game Working?",
-   "source": "The New York Times",
-   "time": "2026-10-21T04:48:00Z",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SRkdBS3RDTWZaRTJabFJyZzk2ZWotNnE4a0ZGSU9LSDRYck5JLURBWjh4RDMyUGZadEJiczk0QVpncGxsTlBsOG50MWVQei1CM2pZX0xwcEp0WkhGSl9nekF4eERNcUZ1S1ZnYjA5RGtFLW5aOV9feA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "WTI Price Forecast: Bulls stay in control above $95.00 support amid Mideast jitters",
-   "source": "FXStreet",
-   "time": "2026-10-21T04:41:14Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQU1vTEFUSGg4TExFNUp4aV80ZWt5djZiTGowam81M1lzX2VBbVBiOWRiQUE2MXFPVzExODZ2aWd2cXJWalI0azJpMklmdHpJeUFjbm1IbG9NNDc1akhLMFpJMmFVN1dQVDQ2MUF3MTdkd1hKS0hzWFlBVy1UV2NPMjNaWDkydG9Mcm1qb3puNy1iV2FTRDI1Wnl4Vm1QMWEyUU9OazBHa0w3QXhRLUtramVubFFibVVsMllhNC1aenI?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Gold price in India: Rates on October 21",
-   "source": "FXStreet",
-   "time": "2026-10-21T04:35:16Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaThJUVBYTnNMakJyaFJzaGJmZ3lJSDJmdnA4NzN3MDQ0U3YteUNfVnYteW5henE4cEtPUHBycEktdDVLa3dPVnpSaktsQVV5VjhpZkY1SHUtRnlpbEFST2pxMWFDT1ZoRHdwdTlPT1VWSElHRUptRHRlSG1LaFVET3l0WFpyUVc5NGZjZlMzNVBJVFM5LVlpaU4zZ0d0UF8yR2dmOVBR?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold and Silver Price Forecast: Breakdown Risk Persists as Oil Rebounds",
-   "source": "FXEmpire",
-   "time": "2026-10-21T04:22:47Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN19Mb3M3WUtRSzBaNXVtaTRNWWlpcFlpRjJCOG0yZEN3NjVYeHg0ZmV6bGd3U1RPQ01pekNudEJ2Z3lyODZ2eFNjRHBKb1dENDZhZUJCai1Ka0pQN21PX0dLMC1Lc01ka09zSnNSVC1KT3VHcVFGUHk3eUFySDFNWGMxOHZ5aVFNdWdGQVlOemd2MW9ya0l4bHJaWXJMY3UxQWxxWW9TcXp2UmVMWHUyRURacEtfTHFBb1lSV3Zn?oc=5",
-   "tags": [
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Heads up: UK September CPI inflation report due today, BOE rate hike for November almost fully priced in",
-   "source": "ForexLive",
-   "time": "2026-10-21T04:21:38Z",
-   "link": "https://investinglive.com/news/heads-up-uk-september-cpi-inflation-report-due-today-boe-rate-hike-for-november-almost-fully-priced-in/",
-   "tags": [
-    "RATES",
-    "INFLATION",
-    "CENTRAL_BANK"
-   ]
-  },
-  {
-   "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
-   "source": "ECB",
-   "time": "2026-10-21T04:15:00Z",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "title": "Silver Price Today | Price of Silver Per Ounce | 24 Hour Spot Chart",
-   "source": "Kitco",
-   "time": "2026-10-21T04:12:21Z",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yMEZVZlBMcVNiamZhXy0zc09ncWhlZDByYTFoUnhVWTBZUExUVXdKYzFGNkUzdGg5cG9EUXZUVXJuaVRITHE1bnhtbw?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
