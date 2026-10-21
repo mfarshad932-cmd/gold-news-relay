@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T14:23:35Z",
+ "generatedAt": "2026-10-21T14:51:57Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 5
+   "kept": 6
   },
   "marketwatch": {
    "http": 200,
@@ -66,7 +66,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 37,
+   "items": 38,
    "kept": 5
   },
   "aljazeera": {
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 37,
+   "items": 35,
    "kept": 12
   },
   "gn_fed": {
@@ -96,23 +96,23 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 26,
+   "items": 27,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 14,
+   "items": 13,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 24,
+   "items": 23,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,10 +126,46 @@
  },
  "items": [
   {
+   "title": "Gold Tests a Bottom as 10-Year Real Yields Ease to 2.77%",
+   "source": "FXEmpire",
+   "time": "2026-10-21T14:42:16Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHYxdDh0bWFSUjhRTFNQNmFTQThyUkl3OXZvRlo0SDU0REhHb2NkTk05UGhtMzFKaGxYb1BfRGNjT2c0UlBBWEFidVJRM2QtQW5sbEdvSWZsd0YwUHlJRUVIYUJaLWYzNV9HQ2RRV2dmbEpFbzRmQkR0MVBYejBJY2xpRDAta0hiSGJ2MjluYTVGTXlrbEc1WFlzNFVlQUlySXJ1WHJnSE93QQ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Crude oil inventories fall more than expected, indicating strong demand",
+   "source": "Investing.com",
+   "time": "2026-10-21T14:32:07Z",
+   "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-fall-more-than-expected-indicating-strong-demand-93CH-4963519",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
    "title": "Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
    "source": "CNBC",
-   "time": "2026-10-21T14:12:35Z",
+   "time": "2026-10-21T14:30:17Z",
    "link": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Putin agrees to resume trilateral talks on Ukraine war with Kyiv and Washington, Kremlin says",
+   "source": "AP News",
+   "time": "2026-10-21T14:21:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMW9MQzVDRzVJcjRnVnpSeW5ZVlhBTEFablZZNTNQNFNkYmhmWjFXR2M4RlNDWldOTlh5TjFSYU5tVHhPSFFidnBtNFVGMEthRjV1TElCVGdQMjZHOXNNLXV6R1F0QVJjYTR6Q0pMbW4xVkFmUDVuQXNoYUJxbUd1TlBaWG4xdlBaYTZQVTJUSEdZXzJXN28xS0praHdNb0t2eUU3clRWTF9fR2ljZW1V?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Silver price weakens on higher US yields as Iran tensions limit downside",
+   "source": "FXStreet",
+   "time": "2026-10-21T14:10:20Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUUFXSkdIOGE3NnFOMmZqcVdESkUzZ1M3Ym9sdXdOa29INzVWazRoQVR4UVpUaV96TVpjSEJtWmhaSUstcUVneFNxcDAyV3Rnb0RZSkdIaXpjVDMxR3NzTVJUWVI5YnZXQ1pVWHNWbjRIQzVYVHJ3NFRGdTA4dXhqVUhjMDB2YUpQMWJhVGpRaTlPem9ubXM1SkpDeF9tNzRUOHBVdGx2X3BQcThWZU1EV0k0MXZMUHBRWW5LMA?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -339,6 +375,15 @@
    ]
   },
   {
+   "title": "Witkoff to present Putin with peace proposal after talks with Zelensky",
+   "source": "Axios",
+   "time": "2026-10-21T12:15:28Z",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93ZlRUYlo2cFl3RW55YlgzLXZSa2F0Vkd0TFhoM1h0c1luUWxZTDY1bVA2SjFaMHUyaUZqVE0zT3BlQm9sOWh2MWpJRHJ1MVhqMllaZURRdGcxRUhxV0VodEZzRThVZjA2ek1TMmRJck5obmM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Video: Opinion | Trump’s Trade-War Miscalculation",
    "source": "The New York Times",
    "time": "2026-10-21T12:02:58Z",
@@ -435,15 +480,6 @@
    "link": "https://www.cnbc.com/2026/10/21/webull-us-customer-data-china-access.html",
    "tags": [
     "CHINA"
-   ]
-  },
-  {
-   "title": "Witkoff to present Putin with peace proposal after talks with Zelensky",
-   "source": "Axios",
-   "time": "2026-10-21T11:01:16Z",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93ZlRUYlo2cFl3RW55YlgzLXZSa2F0Vkd0TFhoM1h0c1luUWxZTDY1bVA2SjFaMHUyaUZqVE0zT3BlQm9sOWh2MWpJRHJ1MVhqMllaZURRdGcxRUhxV0VodEZzRThVZjA2ek1TMmRJck5obmM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -581,15 +617,6 @@
    ]
   },
   {
-   "title": "Trump envoy Witkoff meets Putin in St. Petersburg for Ukraine war talks",
-   "source": "AP News",
-   "time": "2026-10-21T10:31:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMW9MQzVDRzVJcjRnVnpSeW5ZVlhBTEFablZZNTNQNFNkYmhmWjFXR2M4RlNDWldOTlh5TjFSYU5tVHhPSFFidnBtNFVGMEthRjV1TElCVGdQMjZHOXNNLXV6R1F0QVJjYTR6Q0pMbW4xVkFmUDVuQXNoYUJxbUd1TlBaWG4xdlBaYTZQVTJUSEdZXzJXN28xS0praHdNb0t2eUU3clRWTF9fR2ljZW1V?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
    "source": "BBC",
    "time": "2026-10-21T10:20:15Z",
@@ -651,34 +678,6 @@
    "source": "The Jerusalem Post",
    "time": "2026-10-21T10:07:52Z",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2RXh0OW1Vd0N2S1hqWjNpal9mY2NtVTBnX0lKaHU5UmZCN1J6aW1haXpIYW5FOUMwSm9xNmktSjQwdG5FUm43WDlxbUxPR3hDOFU4dFVTOA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Global diesel prices seen staying high despite Trump’s deal with Russia",
-   "source": "Investing.com",
-   "time": "2026-10-21T10:07:21Z",
-   "link": "https://www.investing.com/news/economic-indicators/global-diesel-prices-seen-staying-high-despite-trumps-deal-with-russia-4962231",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Sticky Inflation Is Testing the Fed’s Resolve",
-   "source": "Bloomberg.com",
-   "time": "2026-10-21T10:00:10Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQkUxWWNmVENYWHNyd3ZtSlV1SGVPSGpFdXl0dm5GWHpVVktsMi1wZ3RmdG4xdkV4SUpmaVMxLTFhQkpDLUs0VDdWOXZnVGZidXVZRGdkOUFNS0E4Tmd2Z3VLZ0wyUjY3SGptbjZnLWp5TUVJekdodHdId0trTWFWUTZQT09YVWluWkdCNFBIaFhfYjZRQkRfNEVRS21PV181TlQyaklJNVM1Qm8?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Sudan's currency tumbles to new low as war hammers economy",
-   "source": "Reuters",
-   "time": "2026-10-21T10:00:09Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObWxDQTE0QkwwSENSbi1rVnNZX3M1TU5WN1FGS0drYmMyY1I2MldCcDdOVHE3a3VDbmhXckpia2k4MFVXbW9ZZHl4azhHRG5XTW90aXZWb29WYVNITHppMEhleVdORjAwUV8yblNTZUZpTmtrSHk1NkN6aGlVdV9VQkg5S2hhX3hobkFWSEdtaTdFSTVuLVMxMHZMckxrd1pYV3c?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
