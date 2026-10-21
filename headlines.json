@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T05:25:14Z",
+ "generatedAt": "2026-10-21T05:53:34Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,11 +57,11 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
-   "items": 54,
+   "items": 53,
    "kept": 4
   },
   "bbc_world": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -86,17 +86,17 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 9,
+   "kept": 9
   },
   "gn_tariff": {
    "http": 200,
-   "items": 20,
+   "items": 21,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 34,
+   "items": 32,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 24,
+   "items": 22,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,6 +126,42 @@
  },
  "items": [
   {
+   "title": "Samsung, SK Hynix upgrading China plants to make more advanced chips, people say: Reuters",
+   "source": "CNBC",
+   "time": "2026-10-21T05:44:34Z",
+   "link": "https://www.cnbc.com/2026/10/21/samsung-sk-hynix-upgrading-china-plants-to-make-more-advanced-chips-people-say-reuters.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Oil prices climb as traders assess Middle East developments",
+   "source": "CNBC",
+   "time": "2026-10-21T05:27:19Z",
+   "link": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Far from fringe: How Israel’s mainstream parties vote with the far right",
+   "source": "Al Jazeera",
+   "time": "2026-10-21T05:24:49Z",
+   "link": "https://www.aljazeera.com/news/2026/10/21/far-from-fringe-how-israels-mainstream-parties-vote-with-the-far-right?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Adidas raises profit outlook after record quarter, tariff refund helps",
+   "source": "www.marketscreener.com",
+   "time": "2026-10-21T05:22:19Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbUxXaFJ3OXVFaXBFZGF4Q2NqV2ZzaGtoM3pYaUszZUxmVFNlZ21xdnZRcTV0WXdxWFc2bk5SY2FCSVRwbU4tenhhN0VTcGZsREZZbjFyYXM2dTRGRWFhMzllSmZPa1RoU2hrNEZ6b3M1dXBDR0gyYk1HQVlmU1RPRDAwVnJSc3dva1RlSzd5WmVWeExBTkV5Zk9aMXVMc0Z0c1FoLVpKZFphb1kzcWphdDk4MlBsSlJZbHJwRl9DYw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "China signals intent to push back against cleantech tariffs at COP31",
    "source": "Reuters",
    "time": "2026-10-21T04:59:00Z",
@@ -136,12 +172,30 @@
    ]
   },
   {
+   "title": "Is Putin’s Waiting Game Working?",
+   "source": "The New York Times",
+   "time": "2026-10-21T04:48:00Z",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SRkdBS3RDTWZaRTJabFJyZzk2ZWotNnE4a0ZGSU9LSDRYck5JLURBWjh4RDMyUGZadEJiczk0QVpncGxsTlBsOG50MWVQei1CM2pZX0xwcEp0WkhGSl9nekF4eERNcUZ1S1ZnYjA5RGtFLW5aOV9feA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "WTI Price Forecast: Bulls stay in control above $95.00 support amid Mideast jitters",
    "source": "FXStreet",
    "time": "2026-10-21T04:41:14Z",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQU1vTEFUSGg4TExFNUp4aV80ZWt5djZiTGowam81M1lzX2VBbVBiOWRiQUE2MXFPVzExODZ2aWd2cXJWalI0azJpMklmdHpJeUFjbm1IbG9NNDc1akhLMFpJMmFVN1dQVDQ2MUF3MTdkd1hKS0hzWFlBVy1UV2NPMjNaWDkydG9Mcm1qb3puNy1iV2FTRDI1Wnl4Vm1QMWEyUU9OazBHa0w3QXhRLUtramVubFFibVVsMllhNC1aenI?oc=5",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "Gold price in India: Rates on October 21",
+   "source": "FXStreet",
+   "time": "2026-10-21T04:35:16Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaThJUVBYTnNMakJyaFJzaGJmZ3lJSDJmdnA4NzN3MDQ0U3YteUNfVnYteW5henE4cEtPUHBycEktdDVLa3dPVnpSaktsQVV5VjhpZkY1SHUtRnlpbEFST2pxMWFDT1ZoRHdwdTlPT1VWSElHRUptRHRlSG1LaFVET3l0WFpyUVc5NGZjZlMzNVBJVFM5LVlpaU4zZ0d0UF8yR2dmOVBR?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -223,7 +277,7 @@
   {
    "title": "Benjamin Netanyahu pushes to resume strikes against Iran",
    "source": "Financial Times",
-   "time": "2026-10-21T04:00:13Z",
+   "time": "2026-10-21T04:00:40Z",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uZG1oS2R0eDRSRUV4Yy1nOHNraHA2anRiRkhoVFNqb1hBdHV5cE55dWlxc1hlVzBIS1FjWHNyRnNiTnVsQUYtNjV3YXFRVDNxMHZsb1FVQ1RMTWRyYkRMbzB4OVZKWUEzVnMyczRZNzY?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -631,62 +685,6 @@
    "time": "2026-10-20T21:15:11Z",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CakFDbk1hM0pDMlg5eG5LeG5WT3RHRVZyOFY5dU1RaEI4MFlpUHVVQkJ5UUU0WVVlbEcyVXVaTzBGcHQ3bkRQck94LUJHRWlGRndYSGNNb3JRZ3hsNk1zSnlvZ1lJNVg0dzZYeEFwWlZGX3JEbld6OTRJaw?oc=5",
    "tags": []
-  },
-  {
-   "title": "Trump's 50% Tariffs on Canadian Goods Illegally Rely on a Superseded Statute, a Lawsuit Argues (opinion)",
-   "source": "Yahoo Finance",
-   "time": "2026-10-20T21:10:51Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc3lLU2FFcENNUExIbTVpVV92aFB4YzZVMXQ1RnNJRzlROEpqZV9FbTd3M19lWFVlV0dPTWRpQjRRdFNGVmNNZlg0bDNKSEZ0b1BKOXhLcVp4di1WbFROa3NINU1ndmh2OWJ5V2l4OU1ab21NSHZHTGYyUlFoeGR2THJtYko0Rl9FRDB1S0pMQmE2MG9pYklXYU9KUWdIZw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump: ‘Hatred’ between Zelensky and Putin is why war won’t end | CNN Politics",
-   "source": "CNN",
-   "time": "2026-10-20T21:10:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdGJVX051NHJXNXBqM3EtbUpYRGowMHBMNkFhb0VrdlRZcnJya2EtSXA3Z1pBS1NJQXRkaU45eXhSUW1PWjhsdVJRQnhSOFJzZDZMUnhWUDhDR3VXcl9wSFl3dWdPdDZVd0NCNDZ1QTYzYmhacTBtSGxaVU1JcnNQMlcwaXVYeVNrZDBUazhYVQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump: ‘Hatred’ between Zelensky and Putin is why war won’t end",
-   "source": "CNN",
-   "time": "2026-10-20T21:10:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVlkyQ1pKR1VnT3RVSHJhYjRSU2FEQWVOS1docVZIUkdlTHRzZUN2MmU4RWkyS1VfVEFfRnlmeE9mc0ZNZEVDcmNoTzAwQmFkYUZrYmx0cXJtT19aNl9ROXNKZEJJVWxablp0UFlxbElGWDdWT2xKRFByX0VuVDBCSVFIMjBhWVN2bkE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Marco Rubio in India: Can US biz diplomacy ease Trump tensions over tariffs, Russian oil and bring trade deal closer?",
-   "source": "TradingView",
-   "time": "2026-10-20T21:03:42Z",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNN3FwZUpqX2NDUkdPWFNBS3BtYTdTZmM4YXIxYUt3LVNOZ3lSVHIydS1venprazd2ME5SUHlJVV9mZklaaEhiTDA1dUk4VGRaNGdXcTM5NXBJOUstOW5BclFtU3lLQjJCTndEMXZMM3RYR19KN2x6R1NNYTVjazhlUFloNHJoTzhEb1R6MlhySm5OLVdJc2ViNU1KRzRsZkl1Ti14a3lsSmpJZkNibFdlOUVSOW5MS0NTT203SVZXYVlRaWc4VTdZbnBGcWp4UERfdjQ3R0hwaEpFaWJDWlgwX2xtNzZtTU5OSHAxZDhmcGNJTUYzeFBVcTlWN1lRU0xI?oc=5",
-   "tags": [
-    "TARIFF",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Opinion | A Buyout for Iran’s ‘Shadow Fleet’",
-   "source": "WSJ",
-   "time": "2026-10-20T21:03:00Z",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QRWdZNVRrNVM3dEk0dnNLeVk5U2lIajFBc243UTBwc2g2bGlsQ25PTm15YzJpWWZ4cFJUZVA5emR3UUlBc0YwV1ZGa3pmUGQ4aGVMbGhacHdNb3RBMnl3N09MMHQybm55bTlaSGxNV3B6aDF2aGpj?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "New university opens near Israel’s northernmost city, hoping to boost war-battered region",
-   "source": "The Times of Israel",
-   "time": "2026-10-20T20:58:34Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQUN5dDNoSnA5enFwd01mNmk1WnZyYXZKaTRUdUUybWhlbkZDam03Q3NTcTgweTJLRUJpTmt6NlMyekM2eXAwb1NJU1FROU9jODRNMEVOWnNIejlrcFFyWW5MZ3FVS2ZZSDVTcWl5OW5UVndyVGgwZnVHWkViaVF2LVJYVWRuakVWX0ktdF9GRk1DWnBKVmFkOU51Wm5jNXlPUGc0VEhTVk50ZklGZENnS0V0Q05xRFZBcGfSAb8BQVVfeXFMUE9QZUZ3dnhJMDJ0cThlaFVFMmlsSll3aDhZc1pfVGZFTkJvV3QzdGw5UE5wMEJocnJ0c284NHNIVEpsUDV2VFBJRjV5RTU5blZNQmxkcEpEVHllRWZfNEhCeTFZN19ZdlRYZGNFRU1RcEdSX1MzUlM0NjJHWXVkeFNicWh5YkFSYzZyNV9Ta3NxSVlwZUwzYTByREtuR0daMTl5SF9ReHBZQXpKSkR2TFhGQjVPdE9MdXhMYUhXXzg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
   }
  ],
  "fedCalendar": [
