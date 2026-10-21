@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-10-21T04:28:34Z",
+ "generatedAt": "2026-10-21T04:56:54Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 0
   },
   "fed_monetary": {
    "http": 200,
@@ -82,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 28,
+   "items": 27,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "gn_tariff": {
    "http": 200,
-   "items": 20,
+   "items": 18,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 32,
+   "items": 35,
    "kept": 12
   },
   "gn_sanctions": {
@@ -107,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 24,
+   "items": 23,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
    "http": 200,
@@ -127,9 +126,18 @@
  },
  "items": [
   {
+   "title": "WTI Price Forecast: Bulls stay in control above $95.00 support amid Mideast jitters",
+   "source": "FXStreet",
+   "time": "2026-10-21T04:41:14Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQU1vTEFUSGg4TExFNUp4aV80ZWt5djZiTGowam81M1lzX2VBbVBiOWRiQUE2MXFPVzExODZ2aWd2cXJWalI0azJpMklmdHpJeUFjbm1IbG9NNDc1akhLMFpJMmFVN1dQVDQ2MUF3MTdkd1hKS0hzWFlBVy1UV2NPMjNaWDkydG9Mcm1qb3puNy1iV2FTRDI1Wnl4Vm1QMWEyUU9OazBHa0w3QXhRLUtramVubFFibVVsMllhNC1aenI?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
    "title": "Gold and Silver Price Forecast: Breakdown Risk Persists as Oil Rebounds",
    "source": "FXEmpire",
-   "time": "2026-10-21T04:22:29Z",
+   "time": "2026-10-21T04:22:47Z",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN19Mb3M3WUtRSzBaNXVtaTRNWWlpcFlpRjJCOG0yZEN3NjVYeHg0ZmV6bGd3U1RPQ01pekNudEJ2Z3lyODZ2eFNjRHBKb1dENDZhZUJCai1Ka0pQN21PX0dLMC1Lc01ka09zSnNSVC1KT3VHcVFGUHk3eUFySDFNWGMxOHZ5aVFNdWdGQVlOemd2MW9ya0l4bHJaWXJMY3UxQWxxWW9TcXp2UmVMWHUyRURacEtfTHFBb1lSV3Zn?oc=5",
    "tags": [
     "OIL",
@@ -152,6 +160,16 @@
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWlR4a0NDWkdDQksyZW1EMUxzX2t0QVRCVHRJZ1lXYXlDckR6U1ZtY0U2RDN6d0ktTnhJNGN6aTZ2TzJwMnZvaFBqUE9iNXJfV3RfWWpWbDRHaWRiZXNNN2dFRnBibzdPWGx0VEJvV21ucXByRGVZVmN1dF80ZXl6SjRuYWtiYzNYbFAwR0dpalR3S0cyOUpXRUtuZW90RTNidmNMcXJqbFRRSl9JV2xZZzhTcGg0QmJTdmNtMUFqVDMyWUpLOXQ3a0k5aDRQTnM?oc=5",
    "tags": [
     "YIELDS"
+   ]
+  },
+  {
+   "title": "Gold (XAU/USD) Price Forecast: $4,217 Breakout Puts Bulls Back in Control",
+   "source": "FXEmpire",
+   "time": "2026-10-21T04:09:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1pDY1h6aGUtRjBicXJnQ1Z2bjVMczhBMDdTNWRvNk1lSXREelZtYVlCS0c2OHFiNURONmR1RjBuWF9sQk83Q2t0blZXUEpnbWUtWHNZUFBYc1dFR1BFeTA2YzY5c0NlS1JsX3VwdC1CdElHallqZGhZNXhzQVdpVmxsbXdoVFhaS1V1ZklhY0dQMElIbHo3MHFITW14WUhEZk1ZTVB2UW5yNWYxOHE3UWxfeUlUUENZOUNB?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
    ]
   },
   {
@@ -205,16 +223,6 @@
    ]
   },
   {
-   "title": "Gold (XAU/USD) Price Forecast: $4,217 Breakout Puts Bulls Back in Control",
-   "source": "FXEmpire",
-   "time": "2026-10-21T03:15:07Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1pDY1h6aGUtRjBicXJnQ1Z2bjVMczhBMDdTNWRvNk1lSXREelZtYVlCS0c2OHFiNURONmR1RjBuWF9sQk83Q2t0blZXUEpnbWUtWHNZUFBYc1dFR1BFeTA2YzY5c0NlS1JsX3VwdC1CdElHallqZGhZNXhzQVdpVmxsbXdoVFhaS1V1ZklhY0dQMElIbHo3MHFITW14WUhEZk1ZTVB2UW5yNWYxOHE3UWxfeUlUUENZOUNB?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
    "title": "US-Mexico trade talks stall over metal, auto tariffs; deal faces delay",
    "source": "CNBC TV18",
    "time": "2026-10-21T02:48:55Z",
@@ -237,6 +245,15 @@
    "source": "The Guardian",
    "time": "2026-10-21T02:22:58Z",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHdPdHJvbUlsMVFnY29MWXpHZHZJQjN6dXRoVW5vVmp0Qng5ZjItd25wZ014Y29EMGFOWDY1b1JWdV9lRTcyS21leHVzNUQ3aTRDMU5wLTlqUXhoYXRuTkNjZUVVTjF1dFYyMzNLM0tieU9VNWhVUzJILTdWT3MzQ3VUc3Y5cGkxVjhpN3hXcGZielpTU0xITVo4eVpnRUU?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-10-21T02:21:56Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -315,15 +332,6 @@
    "source": "ForexLive",
    "time": "2026-10-21T01:20:42Z",
    "link": "https://investinglive.com/news/us-intel-says-putin-ordered-nato-sabotage-drive-leipzig-drone-attack-an-opening-shot/",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-10-21T01:19:16Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -675,15 +683,6 @@
    "source": "Reuters",
    "time": "2026-10-20T20:31:02Z",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2TU9GY0g4Y0tFM0I1THY4NG9HOVVIZnV3aDNUT29tbXlsRmNadjNObmNCS1JuQkF3TXNibThIczhiT3dLcW0wWDFyVDFDdWxKSkViblNEYjlFTHBabkFNT1VmdkpZUVk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Is Putin’s Waiting Game Working?",
-   "source": "The New York Times",
-   "time": "2026-10-20T20:29:55Z",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SRkdBS3RDTWZaRTJabFJyZzk2ZWotNnE4a0ZGSU9LSDRYck5JLURBWjh4RDMyUGZadEJiczk0QVpncGxsTlBsOG50MWVQei1CM2pZX0xwcEp0WkhGSl9nekF4eERNcUZ1S1ZnYjA5RGtFLW5aOV9feA?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
