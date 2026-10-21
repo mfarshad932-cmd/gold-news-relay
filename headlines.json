@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T06:50:17Z",
+ "generatedAt": "2026-10-21T07:18:37Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 10
+   "kept": 9
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 4
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
@@ -91,33 +91,33 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 21,
+   "items": 20,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 31,
+   "items": 29,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "gn_yields": {
    "http": 200,
-   "items": 23,
+   "items": 24,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -126,22 +126,31 @@
  },
  "items": [
   {
+   "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+   "source": "CNBC",
+   "time": "2026-10-21T07:08:25Z",
+   "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+   "tags": [
+    "RATES",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
+   "source": "BBC",
+   "time": "2026-10-21T06:53:25Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
    "title": "US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now'",
    "source": "BBC",
    "time": "2026-10-21T06:37:55Z",
    "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
-   "source": "CNBC",
-   "time": "2026-10-21T06:30:27Z",
-   "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
-   "tags": [
-    "RATES",
-    "INFLATION"
    ]
   },
   {
@@ -154,6 +163,17 @@
    ]
   },
   {
+   "title": "Gold remains depressed near weekly low as bears eye $4,100 break amid Fed bets, USD uptick",
+   "source": "FXStreet",
+   "time": "2026-10-21T06:27:33Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNWZWblVYYUdZZ09NcWdpaWxMcWNpYTdzYjNqUzI1Zjl3ay1KN1RWZUk4UHN6OGZnNEN6bHlSaTVxZDk2eHdSTFE4RF9hbzlYUVU0bGtvSk9vZ0RvMkJPLVBtUzMyYTNQWHZ3UWRKdENkSG5HdEdyYXhPYjFZTUNlOTQ0YWx0dVUwUS1VSU9CNl9WQnNpVFRhbUktUTMyZzBCQTEwb1UyOU14cFk3aTFVWlBPYUp1NTg?oc=5",
+   "tags": [
+    "FED",
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
    "title": "UK inflation rises to 3.5% in September, highest since October 2025",
    "source": "Investing.com",
    "time": "2026-10-21T06:21:43Z",
@@ -163,12 +183,12 @@
    ]
   },
   {
-   "title": "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
-   "source": "BBC",
-   "time": "2026-10-21T06:21:02Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+   "title": "Oil Prices Climb Above $110 as Middle East Supply Fears Persist",
+   "source": "Investing.com",
+   "time": "2026-10-21T06:11:00Z",
+   "link": "https://www.investing.com/analysis/oil-prices-climb-above-110-as-middle-east-supply-fears-persist-200689951",
    "tags": [
-    "INFLATION"
+    "OIL"
    ]
   },
   {
@@ -188,6 +208,17 @@
    "link": "https://www.aljazeera.com/features/2026/10/21/gaza-children-face-worsening-food-shortages-as-prices-rise-and-aid-is-cut?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "UK September CPI inflation rises to 3.5%, reinforces BOE November rate hike expectations",
+   "source": "ForexLive",
+   "time": "2026-10-21T06:00:30Z",
+   "link": "https://investinglive.com/news/uk-september-cpi-inflation-rises-to-3-5-reinforces-boe-november-rate-hike-expectations/",
+   "tags": [
+    "RATES",
+    "INFLATION",
+    "CENTRAL_BANK"
    ]
   },
   {
@@ -330,6 +361,15 @@
    ]
   },
   {
+   "title": "Silver Price Today | Price of Silver Per Ounce | 24 Hour Spot Chart",
+   "source": "Kitco",
+   "time": "2026-10-21T04:12:21Z",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yMEZVZlBMcVNiamZhXy0zc09ncWhlZDByYTFoUnhVWTBZUExUVXdKYzFGNkUzdGg5cG9EUXZUVXJuaVRITHE1bnhtbw?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Silver Gains As US Treasury Yields Ease Near One-Month Lows On Weak Housing Data By Kedia Advisory",
    "source": "Investing.com India",
    "time": "2026-10-21T04:11:33Z",
@@ -373,18 +413,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OcXdwQnZ5LWxrMElfTGl2Z1MtRnhOVzBmdTZaYms5cVdPXzlQekFlYVdrUzFqMlc3RVBvWG00aE1ibTF2cTJZSUhyMVpaY2ppTkRCYXpQVjhvMmM?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold bears await $4,100 break amid oil-driven Fed hike bets and USD uptick",
-   "source": "FXStreet",
-   "time": "2026-10-21T03:42:03Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNWZWblVYYUdZZ09NcWdpaWxMcWNpYTdzYjNqUzI1Zjl3ay1KN1RWZUk4UHN6OGZnNEN6bHlSaTVxZDk2eHdSTFE4RF9hbzlYUVU0bGtvSk9vZ0RvMkJPLVBtUzMyYTNQWHZ3UWRKdENkSG5HdEdyYXhPYjFZTUNlOTQ0YWx0dVUwUS1VSU9CNl9WQnNpVFRhbUktUTMyZzBCQTEwb1UyOU14cFk3aTFVWlBPYUp1NTg?oc=5",
-   "tags": [
-    "FED",
-    "USD",
-    "OIL",
-    "GOLD"
    ]
   },
   {
@@ -540,6 +568,15 @@
    ]
   },
   {
+   "title": "Gold’s Long-Term Bull Case Is Shifting From Rates to Sovereign and Fiat Risk",
+   "source": "Investing.com",
+   "time": "2026-10-21T01:13:13Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGhQSEpRUXJoU20tSElPQjRLZTVYS0dBamdyamF5cnFUUTNzNk5WMlhRNlBBekQ3cVpraVNkai1FY0RicVd3ZmpmT1N5TUYxYVpzTmNjczVXWVJpTVVuc2pOWHM3eTZXbEdOeDBndGZIcDRVRnJTRXMxZFpEa3IyRXhBbWlGazRsRkxaOW5qRmJ1ekJhRXhFVzFOR3NPTFI0TmxkeE1KRWprby1zekpjRGZMdHpUVndyQ1dn?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Republicans push back on Donald Trump’s wavering support for Ukraine",
    "source": "The Guardian",
    "time": "2026-10-21T01:08:00Z",
@@ -649,44 +686,6 @@
     "FED",
     "OIL",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Why gold is a safe-haven investment during inflation and market volatility",
-   "source": "Yahoo Finance",
-   "time": "2026-10-20T23:08:09Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUl92OFgxdjZaakxMLWNlTHI3M1p0Sjk5a256U2lzeDNmcjdlWUc0ZHo0djBrZm4wdTJiaUpGbU5pSlFwY0FYeU1QUGJtZWVpQjB3Tm1nclRLcm1XY2xxeDRGXzdRbHd5RlV5dmtrR1Jqa1VMLURMclRLYkZfRmtRb2l0RFF1RjlCeDJpLVlKRkY2NldaYlQ3VzVEd05xSTVjYXNGX09WSlNsWEVITlRQTg?oc=5",
-   "tags": [
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Elon Musk ordered Starlink slowdown for Ukraine: Report",
-   "source": "CNBC",
-   "time": "2026-10-20T23:06:56Z",
-   "link": "https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Is gold really a hedge against inflation?",
-   "source": "Yahoo Finance",
-   "time": "2026-10-20T23:06:26Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2Q5cjNQYmlrTnJMY21SaVdhcXBmSlBjcDY3Y0psZ09zczgyOGNmV2xrODVuS3VoSzVHZlpHV1hTTUNkTzRpMVRJME9MTGxUNDhsV21Ga1VLZ1Q0dWtyN21aMEJIMTZ2N0s2MnBCNjk0cnhSTGZ5X29ibG1zOXFnMjZBMHM2TERZd2tjNU9DTnNYMkk0ZWxneThwVjFkUThXTWZpeDNCWWY1dTJqcFE?oc=5",
-   "tags": [
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "South Africa Set to Tighten Budget Rules to Restrain Spending",
-   "source": "Bloomberg.com",
-   "time": "2026-10-20T23:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPem1VX09vQ090cldJSkhsYkQzSGdBM0VmUnZiZkl6Rm1qM2lSMkNDaFhhc3Y5Y2xiWVpiLWN5b3dWM1pwOFYwQ0V3dC1Td2Y4ZDVLbHk2QnpXSkpLcTZVMW9KMFByOE9Qc3RJNmlmakpPWnU3Ml93ejlqRGZIaFhCX1VDU01NTGNWeV9ZQUhwTEk0c3RnVmE3dWx2VExnX19iYXdNMzRYSUhyNmxlN2ZYaW42S0Z6dXFoTWVrN0MzOS1Kdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
