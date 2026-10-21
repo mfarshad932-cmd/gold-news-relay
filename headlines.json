@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T07:18:37Z",
+ "generatedAt": "2026-10-21T07:46:47Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -62,7 +62,7 @@
   "bbc_business": {
    "http": 200,
    "items": 52,
-   "kept": 4
+   "kept": 5
   },
   "bbc_world": {
    "http": 200,
@@ -80,44 +80,52 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 31,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_fed": {
-   "http": 200,
-   "items": 9,
-   "kept": 9
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 20,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 29,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 8,
-   "kept": 8
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 24,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
-   "items": 3,
-   "kept": 3
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 6,
-   "kept": 6
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -128,7 +136,7 @@
   {
    "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
    "source": "CNBC",
-   "time": "2026-10-21T07:08:25Z",
+   "time": "2026-10-21T07:43:03Z",
    "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
    "tags": [
     "RATES",
@@ -138,7 +146,7 @@
   {
    "title": "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
    "source": "BBC",
-   "time": "2026-10-21T06:53:25Z",
+   "time": "2026-10-21T07:32:24Z",
    "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
    "tags": [
     "INFLATION"
@@ -180,6 +188,15 @@
    "link": "https://www.investing.com/news/economic-indicators/uk-inflation-rises-to-35-in-september-highest-since-october-2025-4961671",
    "tags": [
     "INFLATION"
+   ]
+  },
+  {
+   "title": "API: Crude, Product Inventories Continue to Draw",
+   "source": "Investing.com",
+   "time": "2026-10-21T06:13:00Z",
+   "link": "https://www.investing.com/analysis/api-crude-product-inventories-continue-to-draw-200689952",
+   "tags": [
+    "OIL"
    ]
   },
   {
@@ -675,17 +692,6 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1daQTg5d2lOVXV0UWliMmhhb1R0c0MtbVFIRDRTSFBQWmZub2dmNFRTZmJWSDB3ME4xS1U3WnZ3MEtCamNScWNyYy13R25hSEdqOFdCcVZUNFRsTU1MMGxLWVRpSHB5NWxKTkR3d01Bb2ZheGg2WUtRTmZKZTJ4WHJKNG8tc0ZpSEZWUDNYLU5wUTJObmhqTU9wV3dWMVR4NXNqNVBpMUZGejV6M2hSZWZCUVZ5TGFJQUpNcUFkUnZ1dnVoajdBay1B?oc=5",
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "title": "Gold declines below $4,150 as elevated oil prices reinforce prospects of further Fed tightening",
-   "source": "FXStreet",
-   "time": "2026-10-20T23:24:15Z",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSDZ1d0NVRTZjclFidU9Hb2liR1U5d1liaUxDMU0xMVRDTUg3NkZGd05tX2p0cmV5NTRYeGJYLXRNaktyYndZNGhiOGk0YVk1WHEwNnNyZ1NmTXRjc0tFcmZhdlZ4VnN6QWNTanNoakFFRklPWk9zUW56XzhRdTFiQzRJenFjZHU4OWh3RjY0X055dE5VaFN5YzN2M3hTZWxwN09mWnVYVTRkWnpZbEMzT3BiNHdveGw4bTRySlB4cklOTUJET2hTTHpRYUJ3VjBxWTNB?oc=5",
-   "tags": [
-    "FED",
-    "OIL",
-    "GOLD"
    ]
   }
  ],
