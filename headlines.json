@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T20:03:46Z",
+ "generatedAt": "2026-10-21T20:32:07Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
@@ -67,12 +67,12 @@
   "bbc_world": {
    "http": 200,
    "items": 38,
-   "kept": 3
+   "kept": 4
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 3
+   "kept": 2
   },
   "whitehouse": {
    "http": 200,
@@ -81,32 +81,32 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 37,
-   "kept": 12
+   "items": 0,
+   "kept": 0
   },
   "gn_fed": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 11,
+   "kept": 11
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 26,
+   "items": 25,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 15,
+   "items": 18,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 28,
+   "items": 29,
    "kept": 12
   },
   "gn_oil": {
@@ -126,6 +126,25 @@
  },
  "items": [
   {
+   "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+   "source": "MarketWatch",
+   "time": "2026-10-21T20:15:00Z",
+   "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+   "tags": [
+    "RATES"
+   ]
+  },
+  {
+   "title": "Gold edges higher as yields retreat, Fed decision in focus",
+   "source": "Kitco",
+   "time": "2026-10-21T20:05:11Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ2JoR2RWb1Q5VDIxZVAwUkFvRTI3Q0ptU3lnbFBCeXJTUWttZ0x2NU16MnZZUEN5WUR5UzdzOTN2c05WaXJGeEFwT0Riejc0QnZZOUtFRkFsa3BxUVo4cjQ5NmNKMnFlcmpadVIxREE5WHNhNkhaOGdZSWFaUWFqTGhwSUQwbmUzYjFLdzZHS2M2V082dFRYM2hIWTUtTEZtbURvaA?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Cuba needs Canada’s voice in coming UN sanctions vote",
    "source": "The Hill Times",
    "time": "2026-10-21T20:01:53Z",
@@ -135,12 +154,39 @@
    ]
   },
   {
+   "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+   "source": "BBC",
+   "time": "2026-10-21T19:58:06Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Treasuries Slide After Middle East Strife Report Spurs Oil Gains",
    "source": "Bloomberg.com",
    "time": "2026-10-21T19:46:49Z",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1NpTjhYQmpDMUFOVUJRdC1WRTdYNFBRd0V4cl9KZFF4NDVjU3Nkbzdjblh4TXhDaDBQa2hicElLWXFjSlUzWTh0eHB2WHNwSXZnZ2RwTVdGVUpvRE04ZVpMQnB4blBGQlVkdW8yQWV4NXVUOUl4YVZVVU1xc205OGhwTHYxN1Q4M3JCUnlMRUszSzIzeXFmS2FUTURIakRHUGpjMWpXUng4OFY5M1l1MkswaEZ5QQ?oc=5",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "Putin agrees to resume 3-way peace talks with Ukraine and US",
+   "source": "Reuters",
+   "time": "2026-10-21T19:27:02Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
+   "source": "Al Jazeera",
+   "time": "2026-10-21T19:12:17Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMFdVak1QOFhwYnBoaW5XVWlNY05HTXlvZXh1bGVUU3Z1VXBmbkhyRUFqeV9TMndmdy1RcDVPd3FzdTNock94LWt4LXZsXzhqV1lZSkNtMjB5ZDRmX0tsVE9LbFBRR1FHd0VfbzBMMTNwZTl3Mmd4Nml1b3d2ZW8tY252ZzI1OVVSYlRuemwyNEZWb1A4ODlGOGJfV3A5all6Y0hsb2ZuQUxMYVFIWDlPZWJMdm1BdEXSAbwBQVVfeXFMUEx6Vjg5MkdDbjdhRTBaZnJVY1lGLVJad2k3ekVfOUM5WUp6UUItaXFaNkVfR3hrdjRDaTVHWl9JR2hSVDdRUFozSkVOOTJTdGVyX3Ficml2bzZmTzM0YVVqcmJxdlhVYlpCelZHU1R1aTM1eHJyWW1pcHViMGluUGNhekUtaHltU1VyV0MyWGVLZlpKc255RzZxaEdlem42R0dQTnN3ZGxPOEhRa1BTT2hnNFFBRUtrS3hjQy0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -159,15 +205,6 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaTZjVVFkREhGa0NmeTZzdllwaUZKaTJac0hwa3I3aW1JY0dUWHF2RnFibHRLamVUdklGdkctWlNqVmZmRU9BZDlOMXJpVG93MEstYTVtWDZ6cWZldXN3MXVCTTE3STFuczdzR0VpTUk1MjVwRG5SX01jaTlMNXEwTnBpMml3b1l5VS1abjlaX0JvMWtMZXc5REl6RkU?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
-   "source": "Al Jazeera",
-   "time": "2026-10-21T18:58:29Z",
-   "link": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -215,6 +252,15 @@
    "tags": [
     "USD",
     "GOLD"
+   ]
+  },
+  {
+   "title": "US sanctions Greece-, Panama-based law firm over aid to Iranian shipping",
+   "source": "Reuters",
+   "time": "2026-10-21T18:37:59Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFh4ZEdDSDhEcmZJWFR1VDVOUDVaYTR6aURwNjEzRnpsVGV4aTl1RFR3LVZpa1ZRZW5DY1ByTnBXZmk3RVl4VHRZM0x6UGRnUWp1dUJJUWItY3lYU3dmZ1RBYU1OLTdjc3JXOVB3V09mM051WGM1dEJsaW1WQXRmd3BmVXRaRUZMNzR4bkVBY3RTNWt1aXYxcGdWZVdUMy0xNUNzMlpJMkpyR0RaQVdKbUNENzFIdw?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -272,15 +318,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tX29UX1ZxVnFQZkNOM2dycmE1b3dBY1l3ZFpsSjkzUnM3UDNKREtza0NtRVdfbkFDQVg0R3ZPeDk3NnEzbXB4MUVXNUNMcl9nY0Q1emdPa0VRMkk?oc=5",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "US sanctions Greece-, Panama-based law firm over aid to Iranian shipping",
-   "source": "marketscreener.com",
-   "time": "2026-10-21T17:57:23Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS2JzZDd2dHRwdXVPTzliM0tET09saHJkX0oyQzBCWmNvU1lNYUlraHU3bEZHZWpzWXpvcDMyeXZaQkQyZnVWYUl5NXRiVHpMVUlkYzR2bUlHaDRQS0NkaHJ4NlplTUFFMW5Xd2dvOXczaE9sSVFMVWNYSHljYzlTQ3RLSk1EeThmVWM4QUljYVpRUmVaa0N0WVdGRzFhQzRsRFQ0YnRpcE1pMThacWtvRjJRNVZ4em9DY0dYQ1NKajQ?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   },
   {
@@ -577,12 +614,12 @@
    ]
   },
   {
-   "title": "Putin agrees to resume 3-way peace talks with Ukraine and US",
-   "source": "Reuters",
-   "time": "2026-10-21T15:44:38Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE?oc=5",
+   "title": "Suppliers at ALSC Global Ask EASE Logistics to Flex with Tariffs and Use Caution on AI",
+   "source": "Yahoo Finance",
+   "time": "2026-10-21T15:47:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNm5YdmNtLXF3WVVBaU5zUmRwcXZPMXVRTWQ0NUJzamFQZ01MNW1jaVVCRVk5SGdMT1RGSkxGT1lQUTVrRENMcFhqSUJINnBURkFiNmtRNXBHN3d6YW9zcnlGd2pfOWJXalRLb3M3dFZDUkNrbUs5aDJBU3N6Ukx2T0VqdUJtbGhxb09HUERrRUEyTmxpZzJNUEUtYw?oc=5",
    "tags": [
-    "GEOPOLITICS"
+    "TARIFF"
    ]
   },
   {
@@ -637,43 +674,6 @@
    "source": "Al Jazeera",
    "time": "2026-10-21T14:54:55Z",
    "link": "https://www.aljazeera.com/economy/2026/10/21/russia-to-send-first-diesel-tanker-to-the-us-amid-trump-deal?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Zelensky says he’d be open to freezing front lines to end Russia war",
-   "source": "The Hill",
-   "time": "2026-10-21T14:52:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORzdqSmNqOHczZ2FpSExPYm1GdlUySlE2cl9oWGdWbnRtWFgyOE81TWlGMjJ4UHY3R3U3Ylc2OVEtRFV0TjVGMmRPbllaWXBaZWtHWkVQeTNfcXQ3R1hWNHJOOEZvRTh1Q2xWTDZKVUlrVi03QkpCUGNiRDVsTWFNcXlHaWtIZWV6b0U2Ni1BbmFsUEQ0Sl9LbdIBngFBVV95cUxQRk9TSGM2N1VQM3FZc2hxN3h5X2FSZzRSR29YdWVxRjM0RlR1aVNyb0lzMHhFcDBONVJtVm5idVk5UUhZWEl4cHhaVkJ4cW9zVl9hSThfMk4taF9vUHkwNDdVRHdLcU9lbWdvTHdJaEpKY0pXZjZtYkx2LUg0VWd2NDI5TDdiNmg3ZTM3Q1FPeVhfSnJJd0VQN3MtVmFIUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "UK inflation rise to highest in almost a year as Iran war drives fuel prices higher",
-   "source": "The Washington Post",
-   "time": "2026-10-21T14:49:57Z",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdi00bWtzMnJjYzZOenhKdV9ZVE5oT0xOMFQyQmI0dnp0enk0dkhQdWw4Wm1uWXZzd1BieC0wdkhxYXJhZzl5c3I3RWR0ZFliMmdqeTg2U1ZVVDVfU2ZvSjhPRFU2TmpjNm1adDBGQ1hJcnBBSUFmQmNfbUtRSVpEeWJkQ0M1SHBmU0E1VkN3VDBqZVhqZ2J0TDUyc0JOc193aUNXMTBId1Z0Uk1ORTZlbVRvRVVUTVQ2anBDTXhoeDhIZlZvazlZZGJYeENQUUx2N28tZg?oc=5",
-   "tags": [
-    "INFLATION",
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Tests a Bottom as 10-Year Real Yields Ease to 2.77%",
-   "source": "FXEmpire",
-   "time": "2026-10-21T14:42:16Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHYxdDh0bWFSUjhRTFNQNmFTQThyUkl3OXZvRlo0SDU0REhHb2NkTk05UGhtMzFKaGxYb1BfRGNjT2c0UlBBWEFidVJRM2QtQW5sbEdvSWZsd0YwUHlJRUVIYUJaLWYzNV9HQ2RRV2dmbEpFbzRmQkR0MVBYejBJY2xpRDAta0hiSGJ2MjluYTVGTXlrbEc1WFlzNFVlQUlySXJ1WHJnSE93QQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "The political ad wars are still being fought over the airwaves even as digital gains share",
-   "source": "CNBC",
-   "time": "2026-10-21T14:40:02Z",
-   "link": "https://www.cnbc.com/2026/10/21/why-broadcast-tv-still-dominates-political-ad-spending.html",
    "tags": [
     "GEOPOLITICS"
    ]
