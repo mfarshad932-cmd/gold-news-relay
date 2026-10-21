@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T16:17:06Z",
+ "generatedAt": "2026-10-21T16:45:28Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 8
+   "kept": 7
   },
   "investing_news": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 38,
+   "items": 40,
    "kept": 12
   },
   "gn_fed": {
@@ -91,7 +91,7 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 21,
+   "items": 18,
    "kept": 12
   },
   "gn_war": {
@@ -101,23 +101,23 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 12,
+   "items": 15,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 24,
+   "items": 25,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 5,
+   "kept": 5
   },
   "fed_calendar": {
    "http": 200,
@@ -126,9 +126,64 @@
  },
  "items": [
   {
+   "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+   "source": "BBC",
+   "time": "2026-10-21T16:38:06Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russia and US discuss sanctions-hit Lukoil's foreign assets, Kremlin says",
+   "source": "marketscreener.com",
+   "time": "2026-10-21T16:32:40Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWjJaLXZXaHhOUnRKMXE1T0lVRGl5a1UtVmJIS0FFREFtcEVYWHFrTnZuNkdYc3pKZEhaWWZXTVhKTzJxNWJjeXA0M0J5MnJvalY2ZUUxb2lVUUxEMU1kbTRvWVZlY1JkWVpmcWVOTG9zN0RLcERPOGpfVDdQT2w2RnRDaHZSOTFsRE55dEd4MTRRaTNjZ2czNEdZS2ppREFFUU5JYVB2RU5VSmhqZE9pTDV0M3pZY3QtdnFLSTE0RUlOdGs?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Trump, Graham campaign on heels of Russian sanctions waiver",
+   "source": "The Hill",
+   "time": "2026-10-21T16:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOU90djFFUGN6UmV3dDAtdFlZR0NwbXpQbVM3SDVKWkRZU05SRXAwOU04b0VMOG5acjVRcmlTejMydjAzUTRQdUlCRy15el9yYTJqR3VMeldRWEZCSWszMWN0dzY2Nmk5bGl1elJmVkZnOEQwNUMxbUxqUlpqb1VXSTJENG56TzdEN3hDcW5jLVBEU2VnSlZTYklqMlh5ZEVFdlpDa0FyNFNXN3ZuMVhTZtIBugFBVV95cUxOMFpnNklxU25pWkN4NlBwWjhWb1YwYkxxcG9ZVUlaZ09TR2JIRjhmVndWTUlSa2gwN3hkX2dxT0gtSnU4bldQcjBibW8xcUNUc1JqUnJfWHBIS3o3LUwwdlZzM1l0d055TzVJTGNfOWFPSjI1cWpvUXpLOVNmMG5ucFp3eV9xOWpCWmVBaWRDODNxcEowRUVET1k2M054elZMa2xnZV94TVFNV0JsdlBLSDJVSVppSFYzekE?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "CME : Treasury yields fall on housing data.",
+   "source": "www.marketscreener.com",
+   "time": "2026-10-21T16:24:09Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUl9rSnMxa2p0OGxsSEx4OE5wZno5VGp3aWZNUmxKR1hMdGdaTTNJbmFfVEhHcnR2VFlGSnUxaDNJa0Z2UVBvTi14QUs0Zkx2UGszYVlMVU9yMktKR1JHMXduaWZqYUZTNjBRRHZMeGdieXpKeENxeFhxMklLVnRNdnRLMEQ3MUNYMWlsbE9EVF9MeVQtajNwUQ?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Crypto News: Pepeto Announces AI DeFi Tools While Investors Weigh Real Estate, Gold and the Bitcoin for 2026's Smartest Investment",
+   "source": "The Manila Times",
+   "time": "2026-10-21T16:23:41Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPckw2QW9ZTEx1M1NwVFZfRExRdVM2U2laaFdPTFRzTmVfRlRXRXotd2tfZ3hxUUJ4MnhPeDNlWGxiSUtsempMLS1fT0dBd3BTeUppXzg1eHVwcWJ5WmpyU3hpbW5HRGZTblR2TmxabjFicjJQeXFjTHk4VTlPREVuSl9ZZmQ2WmE3VU5oc1pDemR2SDloa0NYRGtyd0ZjUDZwZ21qVmZtMGxJdUxLM0pwSTBJZTV1WnRHNHNfYWY0cTdweVVCZVBpXzRwV0Rwd01GUFZGMlN4aF9ldEtlVl9HdTN3UGJNb05jdTQ1YzZKMWh2ejNSR1ZMUW9MZmlUcWppZnFxTDZsN2lpVmtGNk9fcmVJNmZ1VmJCVUhvb3dENTdndGhCS2RTd9IBrgJBVV95cUxNYXYySmNFaExLOW1PV3plcTIwTnRReklfTVRnZndNblliTENYRG1YckVOa2puZEhYeUJnR1dBNnBLeXR0eHozUjktaDBXb3g2UV9qMWUzRlZxSlJCbVhUZ0J3bnE0U1p6djZPenkyU29tMXQzWWI1RE9LNXZjTzRldEtSaHliQ0VhdUdZN0JDTFZqZWE4aVFTY2t4WVpPNkVqYThmSE9TTkFmeGI3VUx5Skpma2U5WVk0d0U2QUZRY0ZXc21LcTN0OFgtbEk4NmM4bmxKZ3UybktGcnIwY1M5cU1LWFUzOUptRi1DZDR4TmRSeUdSb1ZzWnE3cmxTS21QdHh3NV82eDhLczVWUllTZm4tVHhpMVdYdXdMWXRtd2NPcHNlLXh5b292UXhudw?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "CoreWeave Bonds Stop Bleeding After SpaceX Results, But Investors Still Demand 3x Treasury Yields",
+   "source": "Benzinga",
+   "time": "2026-10-21T16:23:36Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaTJ1R1RTN2VycllqWDYydzRDb0UzX0ZnQl9GV1h4aDYxTWhiN0Q1Q1VzdUYxV0Vqb1VYY0JBUDBtakdHYXY5VHFGZVhkdF9ORzVHdDJCdHFPLThxRmtJN1FPWFBxcUlLbmxtVHBxN2dSc0Z6bWY5dDNDYUk0Q1NRQjQ1UG9HVTRoNDVLNkdpUUxfNklLb2Z3MXEtekpTcjh5?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "How Ukraine’s drone strikes on Russia crippled the world’s second largest diesel supplier",
    "source": "CNBC",
-   "time": "2026-10-21T16:02:13Z",
+   "time": "2026-10-21T16:18:27Z",
    "link": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
    "tags": [
     "GEOPOLITICS"
@@ -144,20 +199,11 @@
    ]
   },
   {
-   "title": "Former Treasury Secretary Rubin flags election chaos risk markets may be underpricing (SP500:)",
-   "source": "Seeking Alpha",
+   "title": "Former Treasury Secretary Rubin flags election chaos risk markets may be underpricing",
+   "source": "TradingView",
    "time": "2026-10-21T15:59:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ01mUVlPX3VmSTRjdl8tOVBweHNFb28xcTR0Z3hpcnhuT19GYVZiUDFBeXNtaTdvenpjemVaZE0zRmJKWmFOd1JkWDBPQ0duaFZKSzBtQTZ4bEMyanRWQU5uVVZmMm1kcnp3YlFoVTVaWS1sa2VleEpTRGZrc1cxNEZCaW9iMTVoenJrNTVKV1k4SVgyNnRDQzJDYTA3QnhVTll5TW1iSzhaY1ZuNzJqc3VVVnE2UmRKenVVR3V6OHA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUE01QjhjT29FQXRYRkVRNTZMNXMwdkk4N1pjVHMweDYtYTdYNlQtM0gwN1EtOVRzTWhfenpGMkItRy1wbk05c2VlNG5nb21WMHh5cGZpM3pCamZya1ZBN3laaHNkX3JKZjN6LVVYaWVoR0tSR3BXSUotaHRWN3J5eVJiRkJsYnMxc09aMGx3bFB6V01Fa2RuUXFtcGJ4U1AtYksxaFJESEJ1UFlxc1pINVRQNXpfX2tQZmxybUFsMUVNa2hWbUR2STJWOURSekdZRVpNblFLSHZiVFpMV2tKRXln?oc=5",
    "tags": []
-  },
-  {
-   "title": "Russia ready to resume talks with Ukraine and US to end war",
-   "source": "BBC",
-   "time": "2026-10-21T15:56:21Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
   },
   {
    "title": "President Zelenskyy seeks ceasefire along Ukraine war's front lines",
@@ -178,6 +224,15 @@
    ]
   },
   {
+   "title": "RTX Positioned for 2027 Growth as Missile Agreements, Pratt Margins Improve, RBC Says, RBC Says",
+   "source": "Yahoo Finance",
+   "time": "2026-10-21T15:40:49Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV3Y2Mm1DOUJjblExVThTUjNGNkR0SkJNRF9oeDd5UjR1c3paX1BxbTZ4Y2VuR3IzUnNtNWpqX1RWTEJ4ZnVxdVZndFBoWlNDalFlYUtkWDdQTk00bnZReW1aWkZiWm5sR0VVMm9fVHkyY1FoeDlIY1QzcEJsMDRxbm1vMWFwREkyRl9uVW1zMm1JRG9CR0FJQUhLZXA3SVNl?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Russia says Ukraine must make \"necessary decisions\" to end war as Witkoff meets Putin",
    "source": "CBS News",
    "time": "2026-10-21T15:34:26Z",
@@ -193,6 +248,15 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DYlFuZ2xsR2xmVFkxVHA3bzh2UWpaU0ZuTHpoQXRrVnc5a3ZqNlpQMy12cDJWX3FHUG1Kd0R1am1qaGR1S2hoTXRPdzhQRmR4X0xVVFNwbGFUR2k0dGsybGZKdWgzNEtZVTV3QXhyZHdsdWt0UTQ3OTIzX2Q?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "EU Working on Blocking Statute Against U.S. ICC Sanctions",
+   "source": "WSJ",
+   "time": "2026-10-21T15:12:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWI2X0JYVkh3cC1nTWNqN0lwNkxzSWlJUTNNelNOOHNvczFNZGs3VzkwUFBodUNFLWY2TkhuNDVQUzFIY0xzNm52UG9ObkpoMURXWTdPZ01HSF9UZXdzT2JVa2FkMklYeS12eXJ5UDlCakFIeXJCWFphYzB3Nmg4VDdJWGtuV0hHY3FSTktSVjkwQVRKWU1Wbw?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -606,72 +670,6 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-   "source": "CNBC",
-   "time": "2026-10-21T11:20:58Z",
-   "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "Silver price today, Wednesday, October 21, 2026: Silver prices showing more resilience than gold",
-   "source": "Yahoo Finance",
-   "time": "2026-10-21T11:10:20Z",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQR2ZGVllldUJfeF8ya2FkTm9zVnBINTFIU3RzYlVWam9va0l0Y2NHcHdqT1BfMnVVaThuZGZvTTBqR0F6TDlYbWRWTWRKMmk0d2hXckJ0VTZOMkY3WFplLXJCMU9LVmpmRUtqbWVrRDVQcXBvX0dfNWlRSWEyeDd1cmg4MGxuSEJXMHNEeTZGRnhEMTZybXJ3YmtudGVqSVhLbFpiZmkyREZpYUk1eU52MFh4eHZ2QUIxOENfNnBlaHpFUHBScE01NURDS0hZLWMzLWJIa3pVUEdKM0JkRU5ibF95ZkFsOFp6TGdzdFQzRFpPRHJsa1BKUllVR3U?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "House committee says Webull messages point to China access to U.S. customer data",
-   "source": "CNBC",
-   "time": "2026-10-21T11:05:18Z",
-   "link": "https://www.cnbc.com/2026/10/21/webull-us-customer-data-china-access.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "The Havana Syndrome — sonic skulduggery in the new cold war",
-   "source": "Financial Times",
-   "time": "2026-10-21T11:00:04Z",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zTWk3TnY0OG9ScUQxdW5uTkFjRFFhelFObWFpWHFIQWNrSE0waXRsbXA0N2tMUmdYUDR4WkVMLWtLUERhWUtmaEFxZ3VwV0ZtRk9uaDlzT0Z4bU9hd2ZvLWwxLXRWVUJQT2Zvelo3REM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Royal Gold: I Still Think It's Cheap",
-   "source": "Seeking Alpha",
-   "time": "2026-10-21T10:59:10Z",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc0dlbmxiNlJCalBlR2NJWDVVY0pmeE1ZdVZUdW14aEhZLUs0aUNNbUtIV3lZX0tCbWxYYk1kaDQ3Z2VhQW15RFYyX0ctd1hsSDREdlMxcG9vNGpheEp2NUctUzF6SzV1MmtNZXZPQ2h0Yk9ibDlmZjNqTFFhZU9sSA?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Opposition to data centers will drive up inflation, says BlackRock’s Larry Fink",
-   "source": "MarketWatch",
-   "time": "2026-10-21T10:59:00Z",
-   "link": "https://www.marketwatch.com/story/opposition-to-data-centers-will-drive-up-inflation-says-blackrocks-larry-fink-831c25b9?mod=mw_rss_topstories",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Gold steadies near one-week low as oil-driven inflation fears grow",
-   "source": "Kitco",
-   "time": "2026-10-21T10:58:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVNjNUhTSlFmbTVzMDlFam1DMS1ObmJ6ZTFWbWoxRG5fakdyUDZ0bGo5T3dkXzU5b0J6X2I0VklzUHUzNTRISGhWY0Jod1ZTdTRidS1tUzF5NFJic01ENFlURGZsUzFVZDVTalZrSU5ZMW1BMzVJLWRWMXNJamxUWV9EV1lZRGJCOFhjZjFRMldTRHVvX01pN1NNRVc1VXBpaUdUOURQTkdldnp3MWM5Y294b1E?oc=5",
-   "tags": [
-    "INFLATION",
-    "OIL",
-    "GOLD"
    ]
   }
  ],
