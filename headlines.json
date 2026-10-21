@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-10-21T21:56:54Z",
+ "generatedAt": "2026-10-21T22:25:15Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 0
   },
   "fed_monetary": {
    "http": 200,
@@ -82,32 +81,32 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 38,
+   "items": 39,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 12,
+   "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 16,
+   "items": 13,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 30,
+   "items": 29,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 19,
+   "items": 20,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 28,
+   "items": 29,
    "kept": 12
   },
   "gn_oil": {
@@ -127,12 +126,52 @@
  },
  "items": [
   {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound As Dollar Pulls Back",
+   "source": "FXEmpire",
+   "time": "2026-10-21T21:57:56Z",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjJLLWd5ZC1NanczdGpOak9Nd01XWUtKZDROem1OZ2pQbUtOZTRXanY1VkZJOVhCb2x6Z0F3TlI1TmFXdllaUFNaR1VxdTN5cmhPOFowUFZWaGRKdHl1ak1IUzNJWnp6TlB2cUFvNGRLUmZ4Z3hRRk9ncWNfSGt4cDRtRFlHQlhOZUdpVVFaa3B1OENXQWlmZkEtR3V3SFVNQUFKR0NlUE1FYXkxVElrYkpUWmpsQVpoU29BcldyX21ENnBGTl9MYTJLajdiOTh5SXc?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Trump Berates Reporters Over Questions On Russia Sanctions",
+   "source": "Newsweek",
+   "time": "2026-10-21T21:57:36Z",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2tDZmJZUHYwZl9JNXBjam9ENHNDT3g2TzZrRVZmTjdVMzUwcjZ1OE1Za2FMRXYzVExxRVlkaG03RFJENU5MTWE4c1BXcFd3SlJYQ01ZOThES3N2akFkSGQ0bE9VVkNabEN5anJxcUptbmVxVjZCS1Q2WV9BZzlKcmlNUFpHTWh4eWdLNk84ek1mbmk1?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Gold gains as Treasury yields stabilize, Nasdaq surges despite Fed tightening concerns - Kitco PM Report",
+   "source": "Kitco",
+   "time": "2026-10-21T21:48:25Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUGxuTFo5VGp0TGhZcEozV0RBZ2JmQ0lGX2czWkhhdjViVEc1eENPWmR2RlpFVzdFRGUycWxBSklHZkxXRHN6bnZocDZuMDdTNGRnN2lQLWY3MEtVbktuNllWODNyMzNkWHlMV18xcjIyQ0RadHpaRzZNcldTbjU1T29FbURsSV9FVmc1VEZ5TzhlZXo1VjNRODMtVkdLR3E2UWhESEpRTVB6N0pGZHdLZGJNWUZzemlDUEM0?oc=5",
+   "tags": [
+    "FED",
+    "YIELDS",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
    "source": "CNBC",
    "time": "2026-10-21T21:48:02Z",
    "link": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "New Zealand Q3 CPI 3.7% y/y (expected 3.8%, prior 4.1%)",
+   "source": "ForexLive",
+   "time": "2026-10-21T21:45:10Z",
+   "link": "https://investinglive.com/news/new-zealand-q3-cp-y-y-expected-3-8-prior-4-1/",
+   "tags": [
+    "INFLATION"
    ]
   },
   {
@@ -292,6 +331,16 @@
    ]
   },
   {
+   "title": "Gold Steadies as Conflicting Iran Signals Cloud Path for Rates",
+   "source": "Bloomberg.com",
+   "time": "2026-10-21T20:11:31Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVVhiNnNvSzlrcTh1Sk53QWlQU0tVZXk0TjItdnNEa2hKMVNKSTdmUVhNWnAtcUE2YTFpRVhCV2VzaFQ0ZVJHOHA5ZWdvb1ZvcGFvSk1zZ3BnMl9OSnpNLUVhUWM0amw4anNNcWx1ZF9WZVBaLVNneDVxYUQ5ZW5BM2phZjNaVkxNS1Y5T21aNlhJT19SQ3VWR0NKbW9FQmZGTTk3UmRvNlZQSm93eFZiUVpKSQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Gold edges higher as yields retreat, Fed decision in focus",
    "source": "Kitco",
    "time": "2026-10-21T20:05:11Z",
@@ -440,16 +489,6 @@
    ]
   },
   {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound As Dollar Pulls Back",
-   "source": "FXEmpire",
-   "time": "2026-10-21T18:38:36Z",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjJLLWd5ZC1NanczdGpOak9Nd01XWUtKZDROem1OZ2pQbUtOZTRXanY1VkZJOVhCb2x6Z0F3TlI1TmFXdllaUFNaR1VxdTN5cmhPOFowUFZWaGRKdHl1ak1IUzNJWnp6TlB2cUFvNGRLUmZ4Z3hRRk9ncWNfSGt4cDRtRFlHQlhOZUdpVVFaa3B1OENXQWlmZkEtR3V3SFVNQUFKR0NlUE1FYXkxVElrYkpUWmpsQVpoU29BcldyX21ENnBGTl9MYTJLajdiOTh5SXc?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
    "title": "US sanctions Greece-, Panama-based law firm over aid to Iranian shipping",
    "source": "Reuters",
    "time": "2026-10-21T18:37:59Z",
@@ -507,9 +546,9 @@
    ]
   },
   {
-   "title": "President Putin meet US President Donald Trump special envoy to tok how to end war wit Ukraine",
+   "title": "Russia-Ukraine war latest update: President Vladimir Putin meet Donald Trump special envoy Steve Witkoff on how to end conflict wit Ukraine",
    "source": "BBC",
-   "time": "2026-10-21T17:54:30Z",
+   "time": "2026-10-21T17:59:02Z",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UWWNNQnU3TkZzYjh6U1BVUXdZTWV0UlhyVXNBMDZfN2lzSmRDblIybEQwZmJzOG1QWDdoOUZla1lJSmxqenlGRkhJZHAzcDVvdTJtWmVLazBnbWkxc3fSAWNBVV95cUxPSTlMdjFCTmFPY2wyc01lM2d2ejBtTnZZX05vTERwX3NnQnFEOUJCRDdqQlozd0hBZHBvZ180Q3dCcVFZT0lncTZiWFZrN25GcUFfM0dVX1o2VEVYODB2RC1CMTQ?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -646,43 +685,6 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaks5Y3F2QmdjMjVuWDgxUlBSUkxBZS11ZnFmempwWm5Gdk41a3hVcmN3aW45ekxZOElHWHBCUUd6NWNJY1NtNnd0R1dFekxJSFJxS1JGSjNaSXNqNW5WOXB4SHk3MTZYeVBIQ1hMVUs4QUJRVzRwLVk2RUtaeEljY1JRRjNkaldoQjk0WTZfRFU4MU9XUnY2clE2SUo2c1JzRW83cNIBqgFBVV95cUxOOHh0OUJPZXVhSnNRelBNaUJMRGliQV90eFgtQXpsd1RFelFPQm5BZGgxMzgtRGQ1dnUzWHhOZXBsWmVZNW1qTURNWV9wWF9FS29iT0pkN1pWc1dXVXVYTHdDVzlmS01oaGphWEZwY0o5LU9vOHJJMjAwYVlTMTFDYjM2VzFZRmRwdzJhM1BfQ01ZUE5LdlR2RWw1TnZFN0xheFJiOEJjR0hhUQ?oc=5",
    "tags": [
     "OIL"
-   ]
-  },
-  {
-   "title": "Dakota Gold at ld micro event: richmond hill drives growth case",
-   "source": "Investing.com Nigeria",
-   "time": "2026-10-21T16:55:26Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdVFBS2RzbmpVMzY2Tm5lV1hEYVF0emstVTlESUtENHdLcWFxM3A3ZmRBQ0lkQkdiZ2VjOGZmSGNRSV9lM3hwdDZQY3JCSHd6S1BoR3BJcl9icnFMY1JNbVVuNExBLVFKRVBnMWQwY0d5OHEyZ0RpVGN1YWhSZUE1R25vWkRMUlJ2LTRBSl9VQUMwVEhWd3pOY09ETndvdFp0ckhNSTdGRmsxVFdVYVhUQlhJWUVreG1KcXZDS0VXLTU?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War",
-   "source": "The New York Times",
-   "time": "2026-10-21T16:51:53Z",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DYlFuZ2xsR2xmVFkxVHA3bzh2UWpaU0ZuTHpoQXRrVnc5a3ZqNlpQMy12cDJWX3FHUG1Kd0R1am1qaGR1S2hoTXRPdzhQRmR4X0xVVFNwbGFUR2k0dGsybGZKdWgzNEtZVTV3QXhyZHdsdWt0UTQ3OTIzX2Q?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russia and US discuss sanctions-hit Lukoil's foreign assets, Kremlin says",
-   "source": "Reuters",
-   "time": "2026-10-21T16:34:09Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOXFuTlNJOXJUX2VvaVV0Wjd1U2o4ZTRNNnVkRms0RWlsWXVmYWdaZDE3VnJMN1hPaXNILW5MaUlvVC11VnpPYUhMQXU2NDdDYWg2c1NMRlhSMDViMmxybkdWZkZGTl9ydTk5ZmlCcENnd0hNWDlsODFIOWx4bXAwZWZjcmIyaWctYzJoWnNGZXlBVGliN0xNQk5MMzdKalF6RFFiRmhBb1NMTHkxMWc?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Trump, Graham campaign on heels of Russian sanctions waiver",
-   "source": "The Hill",
-   "time": "2026-10-21T16:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMFpnNklxU25pWkN4NlBwWjhWb1YwYkxxcG9ZVUlaZ09TR2JIRjhmVndWTUlSa2gwN3hkX2dxT0gtSnU4bldQcjBibW8xcUNUc1JqUnJfWHBIS3o3LUwwdlZzM1l0d055TzVJTGNfOWFPSjI1cWpvUXpLOVNmMG5ucFp3eV9xOWpCWmVBaWRDODNxcEowRUVET1k2M054elZMa2xnZV94TVFNV0JsdlBLSDJVSVppSFYzekHSAboBQVVfeXFMTjBaZzZJcVNuaVpDeDZQcFo4Vm9WMGJMcXBvWVVJWmdPU0diSEY4ZlZ3Vk1JUmtoMDd4ZF9ncU9ILUp1OG5XUHIwYm1vMXFDVHNSalJyX1hwSEt6Ny1MMHZWczNZdHdOeU81SUxjXzlhT0oyNXFqb1F6SzlTZjBubnBad3lfcTlqQlplQWlkQzgzcXBKMEVFRE9ZNjNOeHpWTGtsZ2VfeE1RTVdCbHZQS0gyVUlaaUhWM3pB?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   }
  ],
