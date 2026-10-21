@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-10-21T21:28:47Z",
+ "generatedAt": "2026-10-21T21:56:54Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 0
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -81,7 +82,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 39,
+   "items": 38,
    "kept": 12
   },
   "gn_fed": {
@@ -91,33 +92,33 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 13,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 26,
+   "items": 30,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 17,
+   "items": 19,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 29,
+   "items": 28,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "fed_calendar": {
    "http": 200,
@@ -126,19 +127,46 @@
  },
  "items": [
   {
-   "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-   "source": "BBC",
-   "time": "2026-10-21T21:27:41Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+   "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
+   "source": "CNBC",
+   "time": "2026-10-21T21:48:02Z",
+   "link": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
+   "title": "Russia frees retired American teacher as Trump envoy meets with Putin",
+   "source": "NBC News",
+   "time": "2026-10-21T21:43:43Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWdKN29CS0VtMWp1c05CSU5VZGFING9fd09zOXJ2VjVYZzdnWFRreEhOa0VBUUotNElRaXNJbDRGQnMwSFFXc041RlJfemRvb3daNVZMWlVQSm84V1pVZnZsN25CU2NZSFB4ZEZGT0JJTDZDenBfMlJDS1JlNFNiRHRURVlTQ1h6Zm9CY1A3eVRnX3BXazg3Mm9WZXBmcFdld2Vic1RxRDN0bkFGV29vU2I1bzZZaHQ1d1E?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Editorial | Netanyahu's Iran war plans: A dangerous gamble with Israel's election",
+   "source": "Haaretz",
+   "time": "2026-10-21T21:38:00Z",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQc2JtZnhOalF2T3hqOU13WVVSRVRkdGNXR0Y3U0I0ck5WcG5XRm9HY0Z0dWNGdGFWT1JJcktqaC1fUmJaUmVrbkZ0V1A0eU9RQnNqa0tia0FnTnpld3UxRmkyWi1BZUFvVFpTSEI1ZTFmWjdtWHdtbW9nMEZEa0FXX05qVHdsX1JvMmMyM3B6RG5rRWlLSlpWSHlHem1iYktRczMtbU1nUzgzTlBORDU5c1JhTjh5ZkJISW5rLXMwci1xTDdaYk9Qd3AzX0VXVlJWRmJqWkJKc2VSSFBzNHpkNm5mem8tTldIQXMzUlAxaHJ1NUlHZ2k0d3NVOWgxUjkxbGxrNWZR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Treasury Counselor David Zervos: Energy shock, not sticky inflation, driving yields",
    "source": "CNBC",
-   "time": "2026-10-21T21:27:25Z",
-   "link": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
+   "time": "2026-10-21T21:33:31Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSGstdUNUcVhGZHpWa0Z1RHVYRlRGX0I3OXUwNDI4RGdPbTBHMGdrQ0ZlSUxwcDhaQXhlOG54SkhrUlYwaHVIbDc2YlJHYXo1NDNtLW82NkZMZ3J2MUVGS0p6YnRlTDZEazZxZWVsZ0IyQ3NJS0M1T2hRaFJMazJkRFBwSl9iWEJTV04wX3J6UE45dUtUbnYxaWdZUW5vRFpyTE9vaUdEUllsOEZTZGM2NnF2YlJnNlBHaFVZS084SGg?oc=5",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+   "source": "BBC",
+   "time": "2026-10-21T21:27:41Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -178,6 +206,15 @@
    "link": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
    "tags": [
     "YIELDS"
+   ]
+  },
+  {
+   "title": "Putin agrees to resume 3-way peace talks with Ukraine and US",
+   "source": "Reuters",
+   "time": "2026-10-21T21:06:57Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -311,12 +348,13 @@
    ]
   },
   {
-   "title": "Putin agrees to resume 3-way peace talks with Ukraine and US",
-   "source": "Reuters",
-   "time": "2026-10-21T19:27:02Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE?oc=5",
+   "title": "U.S. Sanctions European Law Firm Over Alleged Iran Ties",
+   "source": "WSJ",
+   "time": "2026-10-21T19:28:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNODdyNlBLVDc1dU9mSDR3djhoTkgtS24wZUVIUUJ4dzNIa3FlNnMta1B4WmdYVGloTVEyb3pJOTJkak9ySGtXekozbW5DSW1vQUc3czBwdUYza3hCakhFS3RsOTJJa0ZWUG5xYkFaZlFIalBMVUNtaWEtMC1oNmdOTTJIQkljR1M4TzByZkoyLXlQRjJJVFE?oc=5",
    "tags": [
-    "GEOPOLITICS"
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -371,6 +409,15 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYzM0WDB6VWtJZTdsVWlOTW50dXViZDNQWGNxVVN0VE4xMEJvaWU3bUJsS2JkZGNncnFJQXQyYWVPRm9MTW5mcEw2VG1kSWZPMm1uLTFEeHo3cjh1enRxY1NITzNhbzhtSTBZMXBXWjBBWHhWWFhYeTVNNWljU2JlQTdrQlZsSnJuamhqX2p1V2RDU2hNR1BJWkhveFJUYTU1NFBjS1Q5VzhEVUdBS01LcTZXZC0?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "US-Mexico Trade Talks Hit Impasse as Lutnick Exerts Influence",
+   "source": "Bloomberg.com",
+   "time": "2026-10-21T18:53:16Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3Eyc1g2QWdUVDdjbkV4M1h1OXVOS1p6RFNqR25hcTFVdjRKeFdpQVJ4MDZsTlJQZU1wTGJ3bWtlY0xlejhPUnZKR2llZ0ttU2EtQWs4Tm0wWjh6NlJsc1YwNWJGRUwtcGtQQVNFSjBJT1VCbUo0SkNvdHVoVHk3VTNERGpWZWNpYVJDNjNnYmV5MFlBMXpzUDNFSjh0cGhKS05QeUdHdlE5NlczV0l3b1pB?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -620,15 +667,6 @@
    ]
   },
   {
-   "title": "Russia frees retired American teacher as Trump envoy meets with Putin",
-   "source": "NBC News",
-   "time": "2026-10-21T16:38:32Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWdKN29CS0VtMWp1c05CSU5VZGFING9fd09zOXJ2VjVYZzdnWFRreEhOa0VBUUotNElRaXNJbDRGQnMwSFFXc041RlJfemRvb3daNVZMWlVQSm84V1pVZnZsN25CU2NZSFB4ZEZGT0JJTDZDenBfMlJDS1JlNFNiRHRURVlTQ1h6Zm9CY1A3eVRnX3BXazg3Mm9WZXBmcFdld2Vic1RxRDN0bkFGV29vU2I1bzZZaHQ1d1E?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Russia and US discuss sanctions-hit Lukoil's foreign assets, Kremlin says",
    "source": "Reuters",
    "time": "2026-10-21T16:34:09Z",
@@ -642,45 +680,9 @@
    "title": "Trump, Graham campaign on heels of Russian sanctions waiver",
    "source": "The Hill",
    "time": "2026-10-21T16:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOU90djFFUGN6UmV3dDAtdFlZR0NwbXpQbVM3SDVKWkRZU05SRXAwOU04b0VMOG5acjVRcmlTejMydjAzUTRQdUlCRy15el9yYTJqR3VMeldRWEZCSWszMWN0dzY2Nmk5bGl1elJmVkZnOEQwNUMxbUxqUlpqb1VXSTJENG56TzdEN3hDcW5jLVBEU2VnSlZTYklqMlh5ZEVFdlpDa0FyNFNXN3ZuMVhTZtIBugFBVV95cUxOMFpnNklxU25pWkN4NlBwWjhWb1YwYkxxcG9ZVUlaZ09TR2JIRjhmVndWTUlSa2gwN3hkX2dxT0gtSnU4bldQcjBibW8xcUNUc1JqUnJfWHBIS3o3LUwwdlZzM1l0d055TzVJTGNfOWFPSjI1cWpvUXpLOVNmMG5ucFp3eV9xOWpCWmVBaWRDODNxcEowRUVET1k2M054elZMa2xnZV94TVFNV0JsdlBLSDJVSVppSFYzekE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMFpnNklxU25pWkN4NlBwWjhWb1YwYkxxcG9ZVUlaZ09TR2JIRjhmVndWTUlSa2gwN3hkX2dxT0gtSnU4bldQcjBibW8xcUNUc1JqUnJfWHBIS3o3LUwwdlZzM1l0d055TzVJTGNfOWFPSjI1cWpvUXpLOVNmMG5ucFp3eV9xOWpCWmVBaWRDODNxcEowRUVET1k2M054elZMa2xnZV94TVFNV0JsdlBLSDJVSVppSFYzekHSAboBQVVfeXFMTjBaZzZJcVNuaVpDeDZQcFo4Vm9WMGJMcXBvWVVJWmdPU0diSEY4ZlZ3Vk1JUmtoMDd4ZF9ncU9ILUp1OG5XUHIwYm1vMXFDVHNSalJyX1hwSEt6Ny1MMHZWczNZdHdOeU81SUxjXzlhT0oyNXFqb1F6SzlTZjBubnBad3lfcTlqQlplQWlkQzgzcXBKMEVFRE9ZNjNOeHpWTGtsZ2VfeE1RTVdCbHZQS0gyVUlaaUhWM3pB?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Putin ready to resume three-way Ukraine peace talks",
-   "source": "Al Jazeera",
-   "time": "2026-10-21T16:26:08Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzY1d2JNd1BjSXluNDBwdmNIeDVNa0VUTVNxSmxUY2VCM1lmakdmZGZWSmtrRHg5RklyeUFnSzBuckwxcm5kMzl6WEJ3b2s3eVdpR1hLQ0lMelQ3RUJRdjAxY3drdG4zVXRyYkIwQjNnY2hjV1RteS1ZdG9CamprckEwVDhCeG5GdzlMLUhxT1BIaTFlQVpFTnFTWmhCT2tBcXN5aXo3OURSRDRHRG1YT3JDRdIBuAFBVV95cUxPeGdfc1N1T0ZOWE9RNDdXcWx5czRzY1U2SEpEV2NzbzhOV0Ywa21EbWxRZHZUQ3ZNYjh1T3ZIS1dwR3lQUVlyQVJZdDFrUkZEbmNWWnVFS1NTYlAwc0tjRnA4M09BVUZ1SE9KRG5qS3VfZXRzeUZpQnhSVEpjRUdlbUlaZXhmeHJSbVVqOUtIdUl1bXdvY3dpdFJjbkpNZER2QTBKX1lhNHhRYnNWZE55SmtjUDhGOUU5?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "CME : Treasury yields fall on housing data.",
-   "source": "www.marketscreener.com",
-   "time": "2026-10-21T16:24:09Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUl9rSnMxa2p0OGxsSEx4OE5wZno5VGp3aWZNUmxKR1hMdGdaTTNJbmFfVEhHcnR2VFlGSnUxaDNJa0Z2UVBvTi14QUs0Zkx2UGszYVlMVU9yMktKR1JHMXduaWZqYUZTNjBRRHZMeGdieXpKeENxeFhxMklLVnRNdnRLMEQ3MUNYMWlsbE9EVF9MeVQtajNwUQ?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Crypto News: Pepeto Announces AI DeFi Tools While Investors Weigh Real Estate, Gold and the Bitcoin for 2026's Smartest Investment",
-   "source": "The Manila Times",
-   "time": "2026-10-21T16:23:41Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPckw2QW9ZTEx1M1NwVFZfRExRdVM2U2laaFdPTFRzTmVfRlRXRXotd2tfZ3hxUUJ4MnhPeDNlWGxiSUtsempMLS1fT0dBd3BTeUppXzg1eHVwcWJ5WmpyU3hpbW5HRGZTblR2TmxabjFicjJQeXFjTHk4VTlPREVuSl9ZZmQ2WmE3VU5oc1pDemR2SDloa0NYRGtyd0ZjUDZwZ21qVmZtMGxJdUxLM0pwSTBJZTV1WnRHNHNfYWY0cTdweVVCZVBpXzRwV0Rwd01GUFZGMlN4aF9ldEtlVl9HdTN3UGJNb05jdTQ1YzZKMWh2ejNSR1ZMUW9MZmlUcWppZnFxTDZsN2lpVmtGNk9fcmVJNmZ1VmJCVUhvb3dENTdndGhCS2RTd9IBrgJBVV95cUxNYXYySmNFaExLOW1PV3plcTIwTnRReklfTVRnZndNblliTENYRG1YckVOa2puZEhYeUJnR1dBNnBLeXR0eHozUjktaDBXb3g2UV9qMWUzRlZxSlJCbVhUZ0J3bnE0U1p6djZPenkyU29tMXQzWWI1RE9LNXZjTzRldEtSaHliQ0VhdUdZN0JDTFZqZWE4aVFTY2t4WVpPNkVqYThmSE9TTkFmeGI3VUx5Skpma2U5WVk0d0U2QUZRY0ZXc21LcTN0OFgtbEk4NmM4bmxKZ3UybktGcnIwY1M5cU1LWFUzOUptRi1DZDR4TmRSeUdSb1ZzWnE3cmxTS21QdHh3NV82eDhLczVWUllTZm4tVHhpMVdYdXdMWXRtd2NPcHNlLXh5b292UXhudw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "CoreWeave Bonds Stop Bleeding After SpaceX Results, But Investors Still Demand 3x Treasury Yields",
-   "source": "Benzinga",
-   "time": "2026-10-21T16:23:36Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaTJ1R1RTN2VycllqWDYydzRDb0UzX0ZnQl9GV1h4aDYxTWhiN0Q1Q1VzdUYxV0Vqb1VYY0JBUDBtakdHYXY5VHFGZVhkdF9ORzVHdDJCdHFPLThxRmtJN1FPWFBxcUlLbmxtVHBxN2dSc0Z6bWY5dDNDYUk0Q1NRQjQ1UG9HVTRoNDVLNkdpUUxfNklLb2Z3MXEtekpTcjh5?oc=5",
-   "tags": [
-    "YIELDS"
    ]
   }
  ],
