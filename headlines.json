@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T08:20:03Z",
+ "generatedAt": "2026-10-22T08:48:25Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 8
+   "kept": 9
   },
   "bbc_business": {
    "http": 200,
@@ -67,12 +67,12 @@
   "bbc_world": {
    "http": 200,
    "items": 37,
-   "kept": 5
+   "kept": 4
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 26,
+   "items": 28,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 11,
+   "kept": 11
   },
   "gn_tariff": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 6,
+   "kept": 6
   },
   "gn_war": {
    "http": 200,
-   "items": 28,
+   "items": 29,
    "kept": 12
   },
   "gn_sanctions": {
@@ -111,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "fed_calendar": {
    "http": 200,
@@ -126,6 +126,33 @@
  },
  "items": [
   {
+   "title": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
+   "source": "CNBC",
+   "time": "2026-10-22T08:46:21Z",
+   "link": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Gold Retests Range Floor; Can It Cushion the Decline?",
+   "source": "Investing.com",
+   "time": "2026-10-22T08:32:00Z",
+   "link": "https://www.investing.com/analysis/gold-retests-range-floor-can-it-cushion-the-decline-200690055",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Canada to invest billions in tariff-hit steel and auto sectors",
+   "source": "Seeking Alpha",
+   "time": "2026-10-22T08:21:30Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTWFXQ0U1amlmS3NEeDV0V3NPNkFsdTFmbzdNcWI3ckRvaTVKUS1XZmVJUHh1N3ZHcG9SV2RGZUpmeVg2WElqX0FHN2h6Um82c1J6ckhjRjZVQzl2SjFrZExOS3dncDJMN3RjNjR5ZUxlUWU3WXBud1lqYWs1U2czV2FlTXdOYWhXZi1SMzFuNFE4Qk5yUWxjYmI4eW5PLWZHb1E?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "WTI Oil rallies above $99 as the Middle East war threatens to complicate further",
    "source": "FXStreet",
    "time": "2026-10-22T08:18:24Z",
@@ -133,6 +160,26 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
+   ]
+  },
+  {
+   "title": "Gold Could Fall Toward $3,908 as Inflation Fears Lift Treasury Yields",
+   "source": "Investing.com",
+   "time": "2026-10-22T08:15:00Z",
+   "link": "https://www.investing.com/analysis/gold-could-fall-toward-3908-as-inflation-fears-lift-treasury-yields-200690050",
+   "tags": [
+    "YIELDS",
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Can Russia broker a new US-Iran deal?",
+   "source": "Al Jazeera",
+   "time": "2026-10-22T08:11:45Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb0t6TE1iTm95ald6TEVjM29NUjFjOTJ1ZWJyODFWeWtUeGR3T1ZDa2NXX0ZIQ3RGZUxNUWF1Q002amRNOHVGOW5Cazh3N3lEaGROQ2t4dkpCZmo4ZmFrQm5BNXNYZ3ZGemJHa3FPQjcxWm5NVE5jWFk4c1FiQ190eG1mSmZuYWExLVHSAY8BQVVfeXFMT2FDR2F4X0dyOXVGczJBRkJXcVJFbGpSQ1RRSU9IM0NnejEzdm8tSFVkMnlaeWhjZzV6Wk5FZW10c0lER19fMGM0OXBrcDU1MVJNaGp2Rk4yODVOakMzNUMxem5RMVp4UUdZS3RtMTFSLVhZa0lrbHcxS25vc3ZlWURpQVVNc3d0MEpNQ0lqUG8?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -145,12 +192,13 @@
    ]
   },
   {
-   "title": "Can Russia broker a new US-Iran deal?",
-   "source": "Al Jazeera",
-   "time": "2026-10-22T08:03:45Z",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb0t6TE1iTm95ald6TEVjM29NUjFjOTJ1ZWJyODFWeWtUeGR3T1ZDa2NXX0ZIQ3RGZUxNUWF1Q002amRNOHVGOW5Cazh3N3lEaGROQ2t4dkpCZmo4ZmFrQm5BNXNYZ3ZGemJHa3FPQjcxWm5NVE5jWFk4c1FiQ190eG1mSmZuYWExLVHSAY8BQVVfeXFMT2FDR2F4X0dyOXVGczJBRkJXcVJFbGpSQ1RRSU9IM0NnejEzdm8tSFVkMnlaeWhjZzV6Wk5FZW10c0lER19fMGM0OXBrcDU1MVJNaGp2Rk4yODVOakMzNUMxem5RMVp4UUdZS3RtMTFSLVhZa0lrbHcxS25vc3ZlWURpQVVNc3d0MEpNQ0lqUG8?oc=5",
+   "title": "FTSE 100 today: Stocks fall as Gulf war lifts oil, miners slide on weaker metals",
+   "source": "Yahoo Finance Singapore",
+   "time": "2026-10-22T08:08:12Z",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUWxTTzVxWDJoOGZSTWZlM09Ha3pRdm5VdGJQdThqd2tJYTNSb19COGxzQkc1b2R6NENPMUhEMFhYR3VuaGc4Y3VPQ1hTS2FpR0l1OXc4dGFwekxZMDhNbDNpdDkzVHJBY1l4Y1hZWW5ycXcxbUFNNjR6SUdubmIyag?oc=5",
    "tags": [
-    "GEOPOLITICS"
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -160,6 +208,15 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclNYY2JYSC1lQzAwaUdSWGJvYVVvaFEzdWw1SVc1TnVGUE1pdGZlc2swN1pOczA3VWtmRFhLdkRRNkFxZjdtelBWSU9WRjgwVmNJdE51ajhDaW9vYVlzS1ljM0RRcDBPUXZFdmVJck9wb0UyNWRRU251a0l3N3VrSzRyc3h1RjRDZkE1VEZ3S2xDVTVubml4T3dTdXl4UmJPbVFhYzhZTmZvRnJETDliY3FMWQ?oc=5",
    "tags": [
     "YIELDS"
+   ]
+  },
+  {
+   "title": "The DOJ’s Focus on Cartels Using FCPA and Sanctions Enforcement",
+   "source": "WSJ",
+   "time": "2026-10-22T08:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSFZsTUtqZkN5M1Rnb0NvVHoyUlFXblJJdE16bGdPYmhvMnRBcjlxdDdqeWxzTXpQU3ZtS2NpTUMwUlpUNy1QOEdqeXVsdVBZVGMtaHFzRzk5RzFfcHZEM0JuUmx3eFpLYjFYVDBwdERqM1FnZWs0SlYtdVZreFVqQ09nLVNoWXlqaXJOV092RzVxelh0akg0WjQzb0p4RGFE?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -383,9 +440,9 @@
    ]
   },
   {
-   "title": "Opinion | Trump Doesn’t Get That Ukraine Isn’t His to Give Away",
+   "title": "Opinion | Trump Is Still Chasing His Yalta. Here’s What He Doesn’t Get.",
    "source": "The New York Times",
-   "time": "2026-10-22T05:00:04Z",
+   "time": "2026-10-22T05:00:05Z",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUM5RTVWVk16QTRSTjIwbnloY1VtcUxmR01OODJwUXZia2NDS2VvRngtdEhJcHVBSFFkeEY4bzVTbVpoaDdTMk1raGdkenA4NklvOFVRLVYwdW1fU2NOWXhIMDduY2VsNW8tOGRBWkJjS284dGFrRnZxRDhuQjFkWVdibzQ?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -420,15 +477,6 @@
    ]
   },
   {
-   "title": "EIA Says US Crude Inventories Sink Further",
-   "source": "Investing.com",
-   "time": "2026-10-22T04:50:00Z",
-   "link": "https://www.investing.com/analysis/eia-says-us-crude-inventories-sink-further-200690032",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
    "title": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
    "source": "CNBC",
    "time": "2026-10-22T04:35:54Z",
@@ -447,16 +495,6 @@
    ]
   },
   {
-   "title": "Crude Oil Slips As Reports Signal Improving Shipping Traffic In Strait Of Hormuz By Kedia Advisory",
-   "source": "Investing.com India",
-   "time": "2026-10-22T04:33:20Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeTUxNURCLVlPbDF3NlZpejdkUUxEQmR4QTlNRDBtbVZfNXh6TlJ0SFlxY2xaemJUc19fVlFVbXI0cW9KT3RscG9lNmkzNllvdWczZ1FsQ0RxMDFpb01SdFFfUERyNWdjUkFRX3ZxZGwtNHV6YU1XSElCajlHazJjWDZuZWpxVW9vT0pXUWtMdFREelZkOUhseUNqY0hxZm5uTWRGYnd4MWhRZUg3eDFQZlk3OE4tQnV2VkFveE5OcmJiU1RuNV9qVndQUWFmNmdk?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
    "title": "Gold Falls As Oil Price Rally Revives Inflation Fears Ahead Of Fed Rate Decision By Kedia Advisory",
    "source": "Investing.com India",
    "time": "2026-10-22T04:33:20Z",
@@ -467,6 +505,16 @@
     "INFLATION",
     "OIL",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Crude Oil Slips As Reports Signal Improving Shipping Traffic In Strait Of Hormuz By Kedia Advisory",
+   "source": "Investing.com India",
+   "time": "2026-10-22T04:33:20Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeTUxNURCLVlPbDF3NlZpejdkUUxEQmR4QTlNRDBtbVZfNXh6TlJ0SFlxY2xaemJUc19fVlFVbXI0cW9KT3RscG9lNmkzNllvdWczZ1FsQ0RxMDFpb01SdFFfUERyNWdjUkFRX3ZxZGwtNHV6YU1XSElCajlHazJjWDZuZWpxVW9vT0pXUWtMdFREelZkOUhseUNqY0hxZm5uTWRGYnd4MWhRZUg3eDFQZlk3OE4tQnV2VkFveE5OcmJiU1RuNV9qVndQUWFmNmdk?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -584,15 +632,6 @@
    ]
   },
   {
-   "title": "New Zealand inflation cools more than expected in Q3",
-   "source": "Investing.com",
-   "time": "2026-10-22T02:54:01Z",
-   "link": "https://www.investing.com/news/economic-indicators/new-zealand-inflation-cools-more-than-expected-in-q3-4964581",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
    "title": "EXCLUSIVE: China snaps up Australian canola as improved ties, lower tariffs fuel demand",
    "source": "Reuters",
    "time": "2026-10-22T02:48:00Z",
@@ -656,43 +695,6 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWtDUVVQYXZ6WlJZNC1ER0dCcGVTcTg4R0RpdEN1VkZpb25KQzZuV2trZU84UVdPckpSWTNFR1IzMHlsckdKbURUOW5tdTRac2tBbm5hbUZxNTRRMjN1d3ZNYlFzNHhaUVhnclJQOThsb3R1VEY2YW9PcE12UUpXMC12cXFLOC1MRkJoSGVkT1R6N0YyVjR2U3Bva00tc2ptMHc?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
-   "source": "Al Jazeera",
-   "time": "2026-10-22T01:58:56Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkw0S1pZT3NUWTZoNXV5UzlmSkNncVpJZm55RzZNUzRYaE84WHdCbkFIaC1CeVRuVEZRbURObUZBVzJGYVNDMnRFeXczdW0zVjg3d0dCSmE0U1VMbnNxTWozWDYzdzBzYTlZTUtsS1dqQjVibE1DanpQS0hwaGhiSzByWXRwaXY2b01wSFFaN2RvOTFrNDFMTnRObE5DWDFmcmlWSUhqdkVCMGZ1aERCeUVsbmV2UdIBuwFBVV95cUxPRHdYejczZDIxeWFydUo4eTZkYWNPSGpjdzFHclJOeFF5NWtRZldfZjVyODVGZkRYRlRyRHU0ZkhnQ1hYT1k3ZXJta0xCT2ZtSzVyRnZKamJyVWVOOE04N1dDdEZLNTlLcjdEcElKZk1IWXJKYVc2eDk5SGJGTDc3YVhkdUlMRmtyU1h2TjllVmNPVmh3ZUJtUDdjcHI0X2I2Ry1VeW1YV3hPZnNpQmtUSi1NSnEzN1B0UFpj?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "CNBC Daily Open: War worries meet AI anxiety",
-   "source": "CNBC",
-   "time": "2026-10-22T01:49:00Z",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1semNjaklDVl9YU0QzWk9Ia0F5MHhZYk0wQTV3Y1NlVWJQcUc3MkpZRWttUTQxSk1HNEVVV05xc29SSnk3b0ZqTTFNdk1vbG9NN0k3aU10UXNkQkhTQXpNWUhUR2hGT0RJaXlaUVU1SnlETlFNRGk4ZUpVR1QwZ9IBgwFBVV95cUxPeU1hMUV2aWlmVGJsUHREc3kzUlNSdFBMampEMmd6MVFFOE5YS19fZ2hLZXlFdVBqbHluV2MzbGJ3OGlkRjU3UzZoT2FmeHBlcW1ZMWwxODRzZENySGR0aHd5ZHQ1bU16dHVrT3R6WFhFeW14aWhyNkhsak5OVS1zYm1PNA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "War-Torn Europe Propels Resurgent Indian Defense Industry",
-   "source": "Bloomberg.com",
-   "time": "2026-10-22T01:40:36Z",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xNkpyUG5VR3UxUV9KM2lWYlJHbXBkcEwwaVo0V0EzajU4RXl2ckVPWi1rckxWNHlneXZMOGxYR0ppUlFDSUZ5VS1uSmloZXQxOVpOa190ckRCRHpmSXdRMVdRcS1tMEptN0tDanNBRQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound As Dollar Pulls Back",
-   "source": "FXEmpire",
-   "time": "2026-10-22T01:18:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjJLLWd5ZC1NanczdGpOak9Nd01XWUtKZDROem1OZ2pQbUtOZTRXanY1VkZJOVhCb2x6Z0F3TlI1TmFXdllaUFNaR1VxdTN5cmhPOFowUFZWaGRKdHl1ak1IUzNJWnp6TlB2cUFvNGRLUmZ4Z3hRRk9ncWNfSGt4cDRtRFlHQlhOZUdpVVFaa3B1OENXQWlmZkEtR3V3SFVNQUFKR0NlUE1FYXkxVElrYkpUWmpsQVpoU29BcldyX21ENnBGTl9MYTJLajdiOTh5SXc?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
    ]
   }
  ],
