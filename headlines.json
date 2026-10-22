@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T05:58:23Z",
+ "generatedAt": "2026-10-22T06:26:43Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 8
+   "kept": 9
   },
   "bbc_business": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 38,
+   "items": 37,
    "kept": 5
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 31,
+   "items": 30,
    "kept": 12
   },
   "gn_fed": {
@@ -91,12 +91,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_war": {
    "http": 200,
-   "items": 30,
+   "items": 29,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 28,
+   "items": 29,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "fed_calendar": {
    "http": 200,
@@ -126,7 +126,36 @@
  },
  "items": [
   {
-   "title": "WTI Forecast: Advances above $98.50 as bulls eye further gains",
+   "title": "U.S. Treasury yields may be poised for a breakout with Fed meeting as catalyst, says BMO",
+   "source": "CNBC",
+   "time": "2026-10-22T06:11:40Z",
+   "link": "https://www.cnbc.com/2026/10/22/us-treasury-yields-breakout-fed-bmo-.html",
+   "tags": [
+    "FED",
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "India's Mideast oil imports return to pre-war levels in September",
+   "source": "Reuters",
+   "time": "2026-10-22T06:02:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRl9GVUFVbTBqSFIzbnJpZmJ0c3Q5ZFJlQ0hQUkkwZW5aVDdVWTMwczBlRFRTbF9zM0NNODcyWG9PUTg5WXZKOXRfSUdJSXhHM1FPcFhUOTVmb0pIUHh5Rl9tYldSWDd1all5UV9fV2VMSmNxSUU4anJpUVVvMkFadHpQcmwxdFhRSHlvSXhpMEY1bXNkV2NnUnVNelltUHVRQjFzWE14TWZVVnhrRndv?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Ukraine’s access to Starlink a decision for Elon Musk, Rubio says",
+   "source": "Al Jazeera",
+   "time": "2026-10-22T05:54:12Z",
+   "link": "https://www.aljazeera.com/news/2026/10/22/ukraines-access-to-starlink-a-decision-for-elon-musk-rubio-says?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "WTI Price Forecast: Advances above mid-$98.00s as bullish setup backs additional gains",
    "source": "FXStreet",
    "time": "2026-10-22T05:53:12Z",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWjNnYml6YkMzU0E3WUVZdU96RzZBWWRwLVlfYUE4Y2RsajFYbF9QTnlOUzI5Q0NUUUc1VlgyVkYtNzZpRWNlTU5yQVU1VTh2T3l6MnFmZldTVlJILWV6c2NtYTB4RTRUc0lwZk9pV19ISlk1b3VqLU9BaHQwbF9WSWJvY09GUHJvZ1RwX3luQzFNbFJHU0VmOUNxUHFQTE00dUIzSEl4akR1MUNmd1BvSEhWZi1uWXhwUC05SEFNZEVWVEVL?oc=5",
@@ -157,6 +186,16 @@
    "source": "CNBC",
    "time": "2026-10-22T05:18:24Z",
    "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "US-Iran tensions refuse to fade as fresh Strait of Hormuz attacks keep oil markets on edge",
+   "source": "ForexLive",
+   "time": "2026-10-22T05:03:33Z",
+   "link": "https://investinglive.com/news/us-iran-tensions-refuse-to-fade-as-fresh-strait-of-hormuz-attacks-keep-oil-markets-on-edge/",
    "tags": [
     "GEOPOLITICS",
     "OIL"
@@ -242,6 +281,15 @@
     "FED",
     "USD",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Kansas Sen. Roger Marshall says the Ukraine war, not the Iran war, has caused high diesel prices",
+   "source": "AP News",
+   "time": "2026-10-22T04:13:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFlwUEhrRzY3LVNyRkJaZkdfb04wYURuSFpOV21ZMXhnM2poTjI4T0dtdjJNdEE2cXZvRm02N01JS2x2RzFzMzUxc1JCc2E4V0FjcVR2TTU5WTREV1BGbndhMS12czc3ZkY1S2dyRUowZ18tUGtNXzdzZ3JEYTZlTkZ5eUgycHBIRTNwaVZSMlNFaDI2TUlIYWZtMGp3ZTFmN3lFeU9SNmFjMm54UmwzWA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -354,15 +402,6 @@
    "link": "https://www.investing.com/news/economic-indicators/new-zealand-inflation-cools-more-than-expected-in-q3-4964581",
    "tags": [
     "INFLATION"
-   ]
-  },
-  {
-   "title": "Kansas Sen. Roger Marshall says the Ukraine war, not the Iran war, has caused high diesel prices",
-   "source": "AP News",
-   "time": "2026-10-22T02:42:52Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFlwUEhrRzY3LVNyRkJaZkdfb04wYURuSFpOV21ZMXhnM2poTjI4T0dtdjJNdEE2cXZvRm02N01JS2x2RzFzMzUxc1JCc2E4V0FjcVR2TTU5WTREV1BGbndhMS12czc3ZkY1S2dyRUowZ18tUGtNXzdzZ3JEYTZlTkZ5eUgycHBIRTNwaVZSMlNFaDI2TUlIYWZtMGp3ZTFmN3lFeU9SNmFjMm54UmwzWA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -653,43 +692,6 @@
    "link": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "After 75 years, remains of North Texas soldier missing in Korean War finally come home",
-   "source": "CBS News",
-   "time": "2026-10-21T22:40:29Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSHlfX1dPS0thUnkzN1czcmJNRTNJSy0xZ2ZBdFR0bjFQX3dzNU1nVUlhN1ZSYXdZQTgxS016MEpxdWtjVWFoY3h2WjdOX0t0dWRaZVdCeVNycXpDWmoxaDBlLTVRdXhPOGd0UmdoOTBvX1RCSWh0Nmp0ZkwtLTJoR3F0bkpVMllkaTI2N3dBVTh1OHJrakRjei1oTzh4bTg4aTAwbE95b3U?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "After 75 years, Korean War soldier’s remains return to North Texas",
-   "source": "CBS News",
-   "time": "2026-10-21T22:31:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLVJHQU5aNTMzM0RsVHltQ29RcFE4SlpXeGlHYmJMbEhqTms0TEF5RTBsU2NvbEdXM1QyY3NRNFdxYWFrMWlxMDI3NVFVN2diR05yR3VPcEg4Zlc3WHhyQ3preUNzZ0kzUXByTFFOZVRWQWcxQXJPQ2NQUkVYeWxkMmwyOHVpODAtdzR6Wmh6Q1Y0VXh4VjBYc2NxTzVQUUxlYlRJ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US imposes sanctions on Greek, Panama law firm for helping Iran shipping By Reuters",
-   "source": "Investing.com",
-   "time": "2026-10-21T22:28:21Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTUY5VTlhMXN2Rk1hZmMxMXlOSkxBSWIyamtiRnlCbGwzTUh3T2JKcWs3cGJKVUtrMFFkVnZweDBUOS02eFhEMk5kY05LcVlxM2RyLVlnZk1KQ3dSMFZuN3FKX1k2YVF1WlhVWHZnNWtxZG9lYjhEbDF4NmpwaGc4MWdsYWJBMEhqd3ZUMDdyUDJSbGVVTnZfYjNuNWJKa3RDRWR3YkpzbG5oWVo5ZGllRlpkNmdSU0l0TDZ2Vy13?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Putin agrees to resume 3-way peace talks with Ukraine and US",
-   "source": "Reuters",
-   "time": "2026-10-21T22:25:11Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
