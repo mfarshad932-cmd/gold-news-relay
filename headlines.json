@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T15:25:11Z",
+ "generatedAt": "2026-10-22T15:53:21Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 10
+   "kept": 9
   },
   "investing_news": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 8
+   "kept": 10
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 4
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 26,
+   "items": 23,
    "kept": 12
   },
   "gn_fed": {
@@ -91,17 +91,17 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "gn_war": {
    "http": 200,
-   "items": 43,
+   "items": 42,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 17,
+   "items": 18,
    "kept": 12
   },
   "gn_yields": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 7,
+   "kept": 7
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,81 @@
   }
  },
  "items": [
+  {
+   "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
+   "source": "CNBC",
+   "time": "2026-10-22T15:48:37Z",
+   "link": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
+   "tags": [
+    "INFLATION",
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Canada hit back at Trump tariffs. Now the U.S. alleges possible election interference.",
+   "source": "Axios",
+   "time": "2026-10-22T15:46:15Z",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ1VPaDMtckQ5cDF4QmN1R1hfM0FDVEJQd2ZWNWFWVXFiZWtRNXEzNHBYb21jMEhfRWJQeXVOcjhnSFhXTlZfc05IMFc2NGFEdmY3TkYxeU1iMjFpY1lDWVhVWnZJcXFUeVBwckVnSFNVeWgxMVJHRjd3cWVQcm5XSGh4Q3JoMm8?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Brent crude tops $111 after Trump hints at action on Iran, U.S. orders staff to leave Saudi Arabia",
+   "source": "CNBC",
+   "time": "2026-10-22T15:36:13Z",
+   "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
+   "source": "CNBC",
+   "time": "2026-10-22T15:35:55Z",
+   "link": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Zelensky on Trump: ‘Not something personal’ as he pushes back again on lifting sanctions",
+   "source": "CNN",
+   "time": "2026-10-22T15:32:00Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMnNaUU0yblJFZ2cwUk9taVpTS0cwNGp3bGNNcWtJUU41YjNudmM4eWRCUE44R052WVNSby1KcEN1c1hFaFdGRzI3Z1loZy1Xc2FhTExLZ3VyRWJCUkJDN0ZySDVNUmhxSWh2c3hUTjZkdGJmQTItZmU5enNDak1oT0UtNzg2YTNmLVo1QmZENFRxelhKVFBidDh2YWNPZGlzMFF3dUFoMzN3cFpvM2pZekwxZkQ4Rk9CQ2pLRGo4MFgyY2lvbkxn?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Danish military orders long-range missiles, drawing Russian ire",
+   "source": "Reuters",
+   "time": "2026-10-22T15:23:58Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeWVxWUtvMXB3QkMxUHZEdExVX1hoNzhHcjFJZS1hcDhCWDM5WjhBQzAxTDZ3UldZWXN5Wk5xSGcwS1JQeXZvdjl2STlibXdHWF9KS1liYi1talJ2Vk5xUEFpVmNRM3NQcmZKLU1KUW5iU1V3bmktRVhNdGpoM2dja0tPN1VVNmQwaDNLM2s4NWFORjZKUDIzX2JqanFoVDVBTEo0R1F1RXg3eEJMWUlqTW5lWEFKblU?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war",
+   "source": "AP News",
+   "time": "2026-10-22T15:22:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVo5NGVvb09wSzBSTFVOa21PVVRNWWlEYUd1ZEU2U0tjTm55R3hYQ2Ezd1lUWUYwbFNpVUhJVDBxNlZaamJKaDJvblV1dl83LVhSX21rMkZuUXQtWFZmZmpZbXRrMkwwRzloVnA0QUs0cjN5MXNiZDBKR2MwaW9Sa1BKUGlaRUlQeG5PYnNPcTQ3YXZFc3QybjE1ZmVCYVJmY0doag?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again",
+   "source": "CNBC",
+   "time": "2026-10-22T15:16:05Z",
+   "link": "https://www.cnbc.com/2026/10/22/under-the-radar-stocks-to-play-the-next-leg-of-the-energy-trade-with-oil-prices-jumping-again.html",
+   "tags": [
+    "OIL"
+   ]
+  },
   {
    "title": "Market sell-off gains steam as concerns about Iran war and high AI spending collide",
    "source": "NBC News",
@@ -150,6 +225,16 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12YkxWSndGS2t3eDRzeXBLclJjSVlXTHh5SkxUYk5fRW9nWUt2a0t1S0RxNWpkbXBHdzhMWUh6OWhXZE01bG91QW9rQlVVMUpFb1hzU2FwVXJqUmtzS2lOR21hSG0tVjVTQ1pSeXNjeWJBRFNjN3U2SjZLQ212ZUk?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran threatens oil and AI facilities across seven Gulf countries if US and Israel renew attacks",
+   "source": "The Guardian",
+   "time": "2026-10-22T15:03:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkEyT2MxcnpyTV9nYUk1TXh1WlV5cUc5NWd1b1FZVjM3Q21KY1cwS1FuLWFsaGNVWTlHZzBuU2VxckxiLXdRcjZuQWliQVY5dTUwUG42RkJfZEpid2l6c3FQcmsxbi1BUU9kWUg2OEFEQlExTF9SdWRjdFYtamVfbVZ2bUZFZXhHTlRTTnRhZk0zaTdYaHZCTEdxTGVvM1RfbVFGX01vczM?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -299,12 +384,12 @@
    ]
   },
   {
-   "title": "Trump’s tariffs loom over Maine Senate race between Collins and Jackson",
-   "source": "CNBC",
-   "time": "2026-10-22T13:53:23Z",
-   "link": "https://www.cnbc.com/2026/10/22/maine-senate-election-trump-tariffs.html",
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-10-22T13:53:48Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
    "tags": [
-    "TARIFF"
+    "GEOPOLITICS"
    ]
   },
   {
@@ -438,16 +523,6 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYVRiX2l0VmgzS2xKZzU5UV9Ec0xIRGs4ZmpzalI3REZpT1NsVk5ZQnZLSWxxdkhraEVtSHBab2lZQ0NVMkN0NXBRb3NqLW9CS1h0ZWM3eDJsOVkzVm5hSnZsMVBqMWExTXZSMjZFZndfdFlyX1o2SURfOTQ3aGFyd2NzU25DTC1oYmJwcEt0NkdxZkR3dVo2dklrZTdQcHhtZ2M3T01MNXYyR2JNbnhQaVRNMUpnZndBSk5MNw?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Brent crude tops $112 as U.S. and Israel reportedly weigh fresh Iran strikes",
-   "source": "CNBC",
-   "time": "2026-10-22T13:16:35Z",
-   "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
    ]
   },
   {
@@ -606,79 +681,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWoydmRWR3hfaGxNdFNTVU5hcGhtckhXVFI1d3RyLU1BS3JPaDRma29uWktuQURIQ2xqMlRFMmFCeEJranpybUZhWHlkSjktc3p2TUtvckF3ZUNMVzZlRDhIYk14YzBFc0ZxUmVmd1E5bmVHTDhOLXNPTkhzZ1VoXzNtWk9pdDhWcUNKMGhaV3BDSFZVUlNLME9WSG1ZTFVwSnV4SkZpU1LSAa4BQVVfeXFMTVZwTlRtcW1DZ3BLaDNPRUhXV0RFTFJiUktZRVRxcG1BZTg5c2dFYW1jWU96WlB0U2RzVkxhblhDcU9yNGpwNlc2OFRjYnJSblYwWS01dlZfbU5aWk92M0dzOVd1bWV2UUE3U0x1dWxxOGthbkZJRDJ2MUJTRHk0SldTQ01UbldwWVZrRG40Q2M2S3RsME9SZTVaZ1JuOHJZeXZjd0h0NHJUN3MyeU9R?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Former U.S. Ambassador to the EU: Putin believes he has the wind at his back in the Ukraine war",
-   "source": "CNBC",
-   "time": "2026-10-22T12:12:46Z",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU05pNzJrbDBXUkV2Mks0WUFYR1hFYks2OUp4MjNrUTRobXNOYi1vR2hLUmdHcnVMaXFuOTRTT2EzVzBSUnRQcmxfUVZNaTVydzl0VHNvOTNpcjBuMkt6QzNTcEFpdDZFVkZOVF9WQ2hHOUw0ZTUtX3pjY3RZdEMwQzVnRWRFQnBTVTFzN2czZUhidVlEUFFubnhRNHhFQktuUmhJS001ekY3WEpCVTE3Mm1DcjNmZ1B2T2Rvank1cEhqUnFad21GRUtyOGxydGxveEE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "investingLive European session wrap: Dollar, yen and bonds kick it old school",
-   "source": "ForexLive",
-   "time": "2026-10-22T12:12:25Z",
-   "link": "https://investinglive.com/news/investinglive-european-session-wrap-dollar-yen-and-bonds-kick-it-old-school/",
-   "tags": [
-    "USD"
-   ]
-  },
-  {
-   "title": "Who blinked first? Fragile EU-China trade peace sparks new war of words",
-   "source": "South China Morning Post",
-   "time": "2026-10-22T12:00:18Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcTZFencyRmU4TEFvb3hrZXFlQXBsTmxJUHhZLWdtX096eE9fUFNNbnNVeExpMTJxNVRienloTEF0bEx1RGFRaUQ3SWpfb1laQU9lTk80ZUtvUHVNWWxPSTMxSGpENVp6clcyX3hRLUhBcDlUV2VUQkxCNDNWNEN5UTVsdGd1UENPd3JYeWZhZVRXbG1UeGVsWWhNWDhoQndOd29mbkpDbGIzNHFzZ1BMaS1QTEM1NlVZTzg5QUFqeVlPT1U?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war",
-   "source": "AP News",
-   "time": "2026-10-22T11:59:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVo5NGVvb09wSzBSTFVOa21PVVRNWWlEYUd1ZEU2U0tjTm55R3hYQ2Ezd1lUWUYwbFNpVUhJVDBxNlZaamJKaDJvblV1dl83LVhSX21rMkZuUXQtWFZmZmpZbXRrMkwwRzloVnA0QUs0cjN5MXNiZDBKR2MwaW9Sa1BKUGlaRUlQeG5PYnNPcTQ3YXZFc3QybjE1ZmVCYVJmY0doag?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Long-End US Yield Hits One-Month Low as AI Fears Fuel Haven Bid",
-   "source": "Bloomberg.com",
-   "time": "2026-10-22T11:56:27Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS2QtcWhJRzBXeWNiMnFqOXhfNHd4WDhjb1RqUk0xa3NNbUdyYl8xTE5aRDdCVy01WDRPMGstSjJ1SndrZlFDdllTNEdveGJwVjE4YlpJNlpQQjJNQnVJWFBqNkpCOEhaNzFvTW1yNXRhU2NWdnZ3MUhua0RPaUxhVS0zdkxQZEYxTndHU1k2Sl9kYzVsMmU2a1AwODZZS2hoQndjRHIyel9nYy1OQllYaEhFQ1I?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Turkey Cuts Interest Rate for First Time Since Start of Iran War",
-   "source": "Bloomberg.com",
-   "time": "2026-10-22T11:55:27Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS21raEpHOXhHTFhJQkRzeURLTm81NjZCNzE5cmFTZDVYWUtkUkgwdUx1RXkzZmZlejM5cjdpaWx5RDE2ZEt6Ymg3X1cxdXNLYXZJSUFJSGhDLWJVbDlTa1dkT2luSVdieFFicGxZN1lrTXhta0hPNmh2OXhPYUNEeDRtM2NYSWVsTzZNb2hPSkppLS0xblp4SkNKYjNZU2t0SFpIN1ZwazB5WG5aX2tPclRkTHpZQQ?oc=5",
-   "tags": [
-    "RATES",
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil Signals Geopolitical Risk Is Back on the Radar",
-   "source": "Investing.com",
-   "time": "2026-10-22T11:41:00Z",
-   "link": "https://www.investing.com/analysis/oil-signals-geopolitical-risk-is-back-on-the-radar-200690072",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Mideast oil exports are recovering. Fresh attacks in Saudi Arabia show risks remain.",
-   "source": "MarketWatch",
-   "time": "2026-10-22T11:35:00Z",
-   "link": "https://www.marketwatch.com/story/mideast-oil-exports-are-recovering-fresh-attacks-in-saudi-arabia-show-risks-remain-1473391a?mod=mw_rss_topstories",
-   "tags": [
-    "OIL"
    ]
   }
  ],
