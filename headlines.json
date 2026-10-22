@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T12:35:04Z",
+ "generatedAt": "2026-10-22T13:03:25Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,12 +52,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 3
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 8
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -81,13 +81,13 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 26,
+   "items": 25,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 9,
+   "kept": 9
   },
   "gn_tariff": {
    "http": 200,
@@ -96,23 +96,23 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 45,
+   "items": 42,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 18,
+   "items": 19,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 22,
+   "items": 24,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 9,
+   "kept": 9
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,62 @@
   }
  },
  "items": [
+  {
+   "title": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
+   "source": "CNBC",
+   "time": "2026-10-22T12:52:48Z",
+   "link": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Brent crude near $112 as U.S. and Israel reportedly weigh fresh Iran strikes",
+   "source": "CNBC",
+   "time": "2026-10-22T12:51:48Z",
+   "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "European Union awards top rights prize to International Criminal Court days after Trump sanctions",
+   "source": "AP News",
+   "time": "2026-10-22T12:50:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZWdYUUNleXFwZEJlODl0UEExMl9kWGlRTGlkREpheFBEZTNqUWowLVAzUzNiWGloN2dEcmY1QjNHTmJzQjRJMXVwdkcta1JQcFVUTmhQcnJaVlRMMTJVQ2JUUmZ2V0J4eFBITkJKWWVxVk5kSXdWTDQ4TTNMd1dEWjhMN0dHekk1bFpIWTVfWnhVRDVYYS1Bb0pfS3RyamFRbVJXQzRUMEVEaWktVkdpVjZCYWQ4MGxzaWdleTdHZlREb0NqR1Bac0Q4N1pDTDRudzl0N2k2cU9lX1VjZlA0Q3R3N0swZUo2a3RV?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+   "source": "MarketWatch",
+   "time": "2026-10-22T12:35:00Z",
+   "link": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Jobless Claims Drop Below Expectations, Indicating Labor Market Strength",
+   "source": "Investing.com",
+   "time": "2026-10-22T12:32:06Z",
+   "link": "https://www.investing.com/news/economic-indicators/jobless-claims-drop-below-expectations-indicating-labor-market-strength-93CH-4966028",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "All-or-Nothing Biotech Bets Dented by Rising Treasury Yields",
+   "source": "Bloomberg.com",
+   "time": "2026-10-22T12:30:08Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWUyZTlJTW9GaTl5Q0NaTnBLX1JzYi1hM0ROTnZKTnJxS2F3U1A0QlpuTzlncmc5c21KbVBTM2c5bl9MWXZpREE3Mi1COWJITlNGVk93Y01CcDNCR2ZmWWdWb056VXB5MjNiUU1aY0hVVFo0Y1dfaTl5aGlKNGx1SVN5U0lVUHZCdlYzZGJVMVVvSXFXek5fU1p0bjVvMXQ1OUN4S1l6ZHNsNTFFVC1wTg?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
   {
    "title": "WTI Oil Price Forecast: Buyers eye breakout above $100 as upside pressure builds",
    "source": "FXStreet",
@@ -153,15 +209,6 @@
    ]
   },
   {
-   "title": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
-   "source": "CNBC",
-   "time": "2026-10-22T12:11:29Z",
-   "link": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
    "title": "Who blinked first? Fragile EU-China trade peace sparks new war of words",
    "source": "South China Morning Post",
    "time": "2026-10-22T12:00:18Z",
@@ -182,6 +229,16 @@
    ]
   },
   {
+   "title": "Turkey Cuts Interest Rate for First Time Since Start of Iran War",
+   "source": "Bloomberg.com",
+   "time": "2026-10-22T11:55:27Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS21raEpHOXhHTFhJQkRzeURLTm81NjZCNzE5cmFTZDVYWUtkUkgwdUx1RXkzZmZlejM5cjdpaWx5RDE2ZEt6Ymg3X1cxdXNLYXZJSUFJSGhDLWJVbDlTa1dkT2luSVdieFFicGxZN1lrTXhta0hPNmh2OXhPYUNEeDRtM2NYSWVsTzZNb2hPSkppLS0xblp4SkNKYjNZU2t0SFpIN1ZwazB5WG5aX2tPclRkTHpZQQ?oc=5",
+   "tags": [
+    "RATES",
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Oil Signals Geopolitical Risk Is Back on the Radar",
    "source": "Investing.com",
    "time": "2026-10-22T11:41:00Z",
@@ -197,6 +254,15 @@
    "link": "https://www.marketwatch.com/story/mideast-oil-exports-are-recovering-fresh-attacks-in-saudi-arabia-show-risks-remain-1473391a?mod=mw_rss_topstories",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "‘Extraordinary’ JPMorgan Report Predicts Bitcoin Price Will Beat Gold, Stocks And Bonds—But There’s A Nasty Catch",
+   "source": "Forbes",
+   "time": "2026-10-22T11:20:20Z",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcXlMeHdtUmIzMjVYeEU3Q1BFd2ZfeG5pc2FLSWpXb1FERWE0cXd4akh2dDJlQVc3bUlDMXFGNUQtMEJydWtwSnZIREdKRHJHVld4T0hkZHg4SXJaeW9BUWR1TEZkdnJfRVh5cTc4RmhRT0pDSmVQdGNjay04QnVFdzRnODVhRGN4Y0w1UVNiVEVDN01ySHpxXzEyVmJKRi0yUlNkTGpwems2TmRLWDFTMzBCZGtNMlpzQ0dsaWxRbmp4QVZfUG82VkhvbzFVcVMxQ2xnclhhMHNacm5mR2FzX3l0enZEcWptZ2xZQThBMUxkNXY0SWMtTQ?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -263,16 +329,6 @@
    "tags": [
     "FED",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Turkey Cuts Interest Rate for First Time Since Start of Iran War",
-   "source": "Bloomberg.com",
-   "time": "2026-10-22T11:02:06Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS21raEpHOXhHTFhJQkRzeURLTm81NjZCNzE5cmFTZDVYWUtkUkgwdUx1RXkzZmZlejM5cjdpaWx5RDE2ZEt6Ymg3X1cxdXNLYXZJSUFJSGhDLWJVbDlTa1dkT2luSVdieFFicGxZN1lrTXhta0hPNmh2OXhPYUNEeDRtM2NYSWVsTzZNb2hPSkppLS0xblp4SkNKYjNZU2t0SFpIN1ZwazB5WG5aX2tPclRkTHpZQQ?oc=5",
-   "tags": [
-    "RATES",
-    "GEOPOLITICS"
    ]
   },
   {
@@ -357,16 +413,6 @@
    ]
   },
   {
-   "title": "Brent crude tops $111 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
-   "source": "CNBC",
-   "time": "2026-10-22T10:42:21Z",
-   "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
    "title": "As US pursues sanctions against it, ICC wins European Union’s top rights prize",
    "source": "The Times of Israel",
    "time": "2026-10-22T10:38:36Z",
@@ -409,15 +455,6 @@
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QRWdZNVRrNVM3dEk0dnNLeVk5U2lIajFBc243UTBwc2g2bGlsQ25PTm15YzJpWWZ4cFJUZVA5emR3UUlBc0YwV1ZGa3pmUGQ4aGVMbGhacHdNb3RBMnl3N09MMHQybm55bTlaSGxNV3B6aDF2aGpj?oc=5",
    "tags": [
     "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "European Union awards top rights prize to International Criminal Court days after Trump sanctions",
-   "source": "The Hill",
-   "time": "2026-10-22T10:33:01Z",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMnRfdUhlWjhWQWVpYUZ5d21VbGVvNkotUGN5Zm5aWUpTd1NHZUVzRl91UEk1SFJyQ3Y1TlZ0NTdieXlxYkdzODRwTHZpM1hqSXBxNldGNnAyeDdybl9yNUZTRlMxRC1qMTd5YnVFMHJNaXEtMEdycGFUTG5EZGIxb1hmR0RVUnF1Y1U1eWI4NnNoVTUxYk02WkRGS0Z4OWpPbW94bFNGNm1NVzVvUGYybVNnMmlFMGFWekI1OFZrZ2RLUWR6d1U3V1FDUTV3M0hWVEZFYTlFd202bDNlUUhMcTBhaUpsUzJvVFHSAeoBQVVfeXFMTTJ0X3VIZVo4VkFlaWFGeXdtVWxlbzZKLVBjeWZuWllKU3dTR2VFc0ZfdVBJNUhSckN2NU5WdDU3Ynl5cWJHczg0cEx2aTNYaklwcTZXRjZwMng3cm5fcjVGU0ZTMUQtajE3eWJ1RTByTWlxLTBHcnBhVExuRGRiMW9YZkdEVVJxdWNVNXliODZzaFU1MWJNNlpERktGeDlqT21veGxTRjZtTVc1b1BmMm1TZzJpRTBhVnpCNThWa2dkS1FkendVN1dRQ1E1dzNIVlRGRWE5RXdtNmwzZVFITHEwYWlKbFMyb1RR?oc=5",
-   "tags": [
     "SANCTIONS"
    ]
   },
@@ -643,42 +680,6 @@
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Russia strikes power plant in Ukraine after Trump announces energy ceasefire",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-22T09:18:31Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSTVKVU8tajFBRnZmQ2NNNldFMDZ0S1F5c2hKYjB1cEo3bkkwdjZodFFRU3c2V1ZPN3J5NzI1UzZRV2s3dndKSFF2UUxMQ3BTQnV0WkNUVGdQeGdnU25oM1lNUGRTREFsTUF6YUJFTU1lVlI3Q3U2bjQ0RG1vOHJCMC05eTJTNE9hdzNwMkNvMHBjNFAyb0ZUOExhaVFCN05EdWUwM3dlOXNkVTZyMWfSAbMBQVVfeXFMT0p1Wm5MMXNsSDQ4SUVzTjBlajdXUFBWM1EtNzF1MHJJYkJzTzhsSFZTMEx3eExROHhHQ2xBQmRUQU11OXFjMFFmR1RqZDl0NkxLdV81UHZqeExiQ3JSM3QyQkVST3dXeXU4OEM2ZU5tYWhJLWhKSTZtbXJFNURJRXNZTzRkclkxZ3ZZRzgzQjd3V2RIeEFXXzdXblNYVFNWaVJGZXhxcHp0VHlhZVZWeTJRNzA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "TREASURIES-Treasury yields fall as traders seek safety",
-   "source": "www.marketscreener.com",
-   "time": "2026-10-22T09:16:23Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON3JUV3ZwRU94WlJJWWdsY1BWYmsybFU2XzJpZTh6SnMzVkpiUVcyYjJuZXl4My1vbUxZT2tTS1UtRVBvdzlIT2M2NktZbUhEN0oycGdZMTZWOXFPcm1CLXIyYjNjaGhzMV9OWFduQUZTV2hXaml2Wk1mUzhhdEpyUlM4THhuaWVuWlgwbFBFVGhEVy1Qa2FxdkdRNHkxRlVBaW1ueU82VHYteTg?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Watch Al Falasi: Satellites for Disaster Prevention Over War",
-   "source": "Bloomberg.com",
-   "time": "2026-10-22T09:15:57Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOUthejJNenVuNllfd05NeWRKcFdPcjhFakFmY193TkUyMXJTM3loQjRyMm5pUU9XZnRNZlJOaFJYVXhxQnAzM0VOTVhDWkdMbmhnSVQxX0FrX1A2NnowS2Nxb3c4ZHFCSHV5M3ZBOUJCNlNQV3NfSzVTcFd5QzBja2pUeDZZMWRxTDlvZC1pUllONnNxQU5sa0VXWUVxeEVETWpnUGlzT01scDJF?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
-   "source": "BBC",
-   "time": "2026-10-22T09:14:48Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yZ2dTanNHRmFaRmNxVWRFLXoxMF9wUU9hYW1udXV5ZkUta1R5SVVRWVp1eHhfUU5admNaQ0JWN1VZZTRrVm9hZGpVcEgzMGxCNm9GZXNtZkpINnM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
