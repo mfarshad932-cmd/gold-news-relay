@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T16:50:04Z",
+ "generatedAt": "2026-10-22T17:18:25Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -24,9 +24,10 @@
    "kept": 2
   },
   "bea": {
-   "http": 200,
-   "items": 48,
-   "kept": 0
+   "http": 403,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   "fxstreet": {
    "http": 403,
@@ -57,7 +58,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 10
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -66,7 +67,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 38,
+   "items": 39,
    "kept": 4
   },
   "aljazeera": {
@@ -81,27 +82,27 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 27,
+   "items": 28,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 6,
+   "kept": 6
   },
   "gn_tariff": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 9,
+   "kept": 9
   },
   "gn_war": {
    "http": 200,
-   "items": 38,
+   "items": 39,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 18,
+   "items": 20,
    "kept": 12
   },
   "gn_yields": {
@@ -111,8 +112,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +126,79 @@
   }
  },
  "items": [
+  {
+   "title": "Hegseth wanted Eisenhower’s globe for his office. His staff broke it.",
+   "source": "The Washington Post",
+   "time": "2026-10-22T17:16:37Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQTE3MEhEbHVRX1Y2ekMzRmFXTHZTczlCTTRybW1yZUt1WG1hYzlzZ2pka3dhbkl2Q2o1SUhOY1h3RTdRTjJBczNRVlhOeGxwcUlNWk9XSEl3N2Z0MzZzZ0twak95eWV3YmhSREJoSjdKNVJaU3BVNjVJaGZCTG43WUV2UV9Pcy1KZmFhZ2pXbXBYTG1id0xPVmt1Rm9xTkRHTmVUd0Z1RnRpUTItamt2V1NaVFNTSlF1RnNjbzd6MlA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
+   "source": "CNBC",
+   "time": "2026-10-22T17:04:12Z",
+   "link": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
+   "tags": [
+    "INFLATION",
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Opinion | Music has never ended a war. But Israel's leaders could learn from it",
+   "source": "Haaretz",
+   "time": "2026-10-22T17:02:00Z",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVnllRTBmVW9PZkZsTjhnQ2xpYlRYTGdsalZ2QkNramNVYlpGQ0JaQmozLXpNM19GMzBaVVdfbFdxbmE4Tm96NVNHdHdyNmw3NkhjenNNdHp2aUF3LXhBRVlhWklCbjBjWmR6NkZQN280dFVrQjlVcUMxNnIxenVuX3lFTnR1YUJ4dmxGVlZmaWJjT0pPUjFVa1FEOVphWmhxeFZzVndIOFUtOTZEYUZMV1lJUWl3U195THlhLXQzcnNnVWZoWFdPa1B0MlVEM21paGtjQWxyOEoyWEw1ak1zSGRwd1lwaVRTTTItaThpRVlaSDg2alVKLTVvUUpkQ1FrN2NlcnpB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Democrats plan to investigate U.S. diesel companies involved in easing Russian sanctions",
+   "source": "The Washington Post",
+   "time": "2026-10-22T17:01:04Z",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNVQzNTdialg4SXI3UUhJb3dGTnBJS0J3MGlYcDVrNlViMkJqY3NLN09ZSllPVUlzZm0xN2ZTQ1hfT1JnVHVzZ0pGMUhaQzFzd185VHRHdGg3eTVSZFdyeUNhZzJCdVlGaEZZcDhBNHNTR0dBMzJoRTZYS3lBV1FfVGhLQXQ1VC0zMk5CRVNGSTFnU2hBNFpPWEtyckZIaWNldmpYaDZySHVJM1lnQzJmNFZNU1VWa1ZpTERDNDVJT3hTRXYxUXA0YVVUaGk?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+   "source": "CNBC",
+   "time": "2026-10-22T16:54:26Z",
+   "link": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Study: After 3 years of war, reservists face financial strain and stalled careers",
+   "source": "The Times of Israel",
+   "time": "2026-10-22T16:52:30Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQck9JS3dWY1B5bVNzRGNMRUJ6QkIxS0RHTGRZZ2NpZWU3MlBuOHBZbG54QVpPSEhrbFpfSXFFQkxJWmphcDdWMVBITTB5UEVQZDlyMFV4WjVFSC0zbGlhcENHQjRmZWtaWFFNOUZYN3R1Y0hfVFdIXzM4QUg0WU9xVXNMY1pxQlJxNGgzc0kzS3dMUmpkeXpwUXR3ZDk1Wm43QVJRbUlhZWItWTRQYy000gG0AUFVX3lxTE5walFPM3FXWXp4MVhxS2RxSV8tT0ZRbTZrZ1R1dGRqUEx4dDJnWlRsajRkMDVVMTRRbXo3ZkVoUFoxUHFPV2RaeVNDb0UtQkpiTE5VY0J2WXM2aGRuUVRudE1QNzlBSVFJOHFIYmQzeEwxSEVrNkNaT1JuODJPamh0LVR0UUZtNHMzRW5ORm5LMHM4SWRMQ0hLTldsdVlvU1dYb0N5X21lQW41QkpEVjZQd0RwMQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Bill Ackman: Iran war has been 'extremely well-executed'",
+   "source": "CNBC",
+   "time": "2026-10-22T16:48:07Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa2hzX3I0Qm5tcmRZamRkWHVVcGQ2ZEprZ0xPTFFVclM4aVE0VHowdG9fYUpWY2NJTmdKRVJfZnNPRFNJN0VFaXhrTmdKZEpFeXRpaklFdi1ySDhuSEpMdzFSZkFzYi12d3pGZFZrYXhyZkQ1MDYzT0FXdVlCQjRaSXVFLWRxd0ZGeDVsRFhUb2ZCMWdndnhqZkkzZnU?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Stocks drop as Meta dampens AI optimism; Treasury yields fall",
+   "source": "TradingView",
+   "time": "2026-10-22T16:42:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYmdocWNzR1lUWmtnMWVka2IwRzVCQWNuNlBrQ2V2LUJuWkQ0MGRTa1F2anJVTXlZdGtXQzRFOW91dkFoUVY2YmNFNTc3cHFPOEpPaHp5NExwX0tadFlEQjBFTWsxbGlHYktMNFVpay10SnM3OUxJRDZBdzlvVFQtOThPQTBwLWtfN3VWcmJ2Rm5vQ2xaaC0zUC1UdXN2b2RDaTg4SGs0QjFMQ0I0N3AyYXAwd2pocU4weWQ2TGsxdXNSbjQyN1k5NjFR?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
   {
    "title": "U.S. Dollar Moves Away From Session Highs As Treasury Yields Drop: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
    "source": "FXEmpire",
@@ -145,22 +219,21 @@
    ]
   },
   {
+   "title": "‘Gears Of War: E-Day’ Cost Xbox $500 Million, Report Says",
+   "source": "Forbes",
+   "time": "2026-10-22T16:35:41Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjlZU2xDMDBjZ3BiOWQ2TVBZdDM3dHNqOWVpOWM5dWJyZzFRYThZN2hKd1lFbzBhMlpmRjVqNEhiSlU2UEZaT3NCcnV1dHdoNENXRFpJYk5ON1FsUWF0SkE2YVNLV3dreDFOeVplQU1GN01yeW8xSWN5YXNITGxOREE1WmtKQjQyS2dMcFVEOGZpN2MtbTFZYnRaZGQ0MFVnQzNXbGQ2RXUzS1k?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
    "source": "MarketWatch",
    "time": "2026-10-22T16:35:00Z",
    "link": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
-   "source": "CNBC",
-   "time": "2026-10-22T16:33:26Z",
-   "link": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
-   "tags": [
-    "INFLATION",
-    "GEOPOLITICS"
    ]
   },
   {
@@ -191,20 +264,20 @@
    ]
   },
   {
-   "title": "Hegseth wanted Eisenhower’s globe for his office. His staff broke it.",
-   "source": "The Washington Post",
-   "time": "2026-10-22T16:18:20Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQTE3MEhEbHVRX1Y2ekMzRmFXTHZTczlCTTRybW1yZUt1WG1hYzlzZ2pka3dhbkl2Q2o1SUhOY1h3RTdRTjJBczNRVlhOeGxwcUlNWk9XSEl3N2Z0MzZzZ0twak95eWV3YmhSREJoSjdKNVJaU3BVNjVJaGZCTG43WUV2UV9Pcy1KZmFhZ2pXbXBYTG1id0xPVmt1Rm9xTkRHTmVUd0Z1RnRpUTItamt2V1NaVFNTSlF1RnNjbzd6MlA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "How the French bond drama affects U.S. markets",
    "source": "Axios",
    "time": "2026-10-22T16:13:53Z",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CNG1BdlVuVGZrdTl4X3BoX2J3ZHF6bEM1ZFN0ZjlMa2lLRmhTWEU4UzNLNUxyeE1vZnZhRm1wMkpGSV9xM1ROMkFpdzNXa3hQTUhKdEFPNGs1YUt6XzJTZXpza0JRLVIwZHhRRWlR?oc=5",
    "tags": []
+  },
+  {
+   "title": "Canada hit back at Trump tariffs. Now the U.S. alleges possible election interference.",
+   "source": "Axios",
+   "time": "2026-10-22T16:10:21Z",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ1VPaDMtckQ5cDF4QmN1R1hfM0FDVEJQd2ZWNWFWVXFiZWtRNXEzNHBYb21jMEhfRWJQeXVOcjhnSFhXTlZfc05IMFc2NGFEdmY3TkYxeU1iMjFpY1lDWVhVWnZJcXFUeVBwckVnSFNVeWgxMVJHRjd3cWVQcm5XSGh4Q3JoMm8?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
   },
   {
    "title": "Defense Ministry sanctions UK registered company after transfer of fuel to Hezbollah-owned company",
@@ -220,6 +293,25 @@
    "source": "Al Jazeera",
    "time": "2026-10-22T16:06:55Z",
    "link": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold plunges over 2% as Middle East energy shock fuels inflation worries",
+   "source": "FXStreet",
+   "time": "2026-10-22T16:05:04Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUTZWNzctNWgwbFUyT2V3dWljbGRTT1ZxOEQ2NVVraFg2TEF0aExxRGtmR0hneHc1VThHaHJlcWlvNkJnVTNlR1Z4Z29zcmFscHZrX1NKMzkwNTA2ZC1JclJvTTQ0T2Q5RTN0MUJPejVYc3ppU2M0aE82Wm5EcVkzenU2NzU3S19ORGFjUG53bXVRcFJQZFFDa1phZEpLREtHTlpnVi1SaDlkVEl4VFJLRG0zT1hQMG9odFRwLTNvOGFJdw?oc=5",
+   "tags": [
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed",
+   "source": "AP News",
+   "time": "2026-10-22T16:01:00Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeldMenNBb3pveGlrZmlGLXZkaWNZaEhBUHMwSWh4dm5ZQW1IRWxEVGRxbFVDeUdwTnh2WW1jSXJ3T2U1cmh4cTR5bC1DSXdOSzJZb3hFaGNBNlAtclluMU4zMVBEVWpua1A2S2dBbXdjeWo1SFNUWGNvZ1dRRXhKSk4xTjlYUXFXNVM4NFctSmdxVHRqcjZrOWF4allidw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -241,15 +333,6 @@
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Canada hit back at Trump tariffs. Now the U.S. alleges possible election interference.",
-   "source": "Axios",
-   "time": "2026-10-22T15:48:53Z",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ1VPaDMtckQ5cDF4QmN1R1hfM0FDVEJQd2ZWNWFWVXFiZWtRNXEzNHBYb21jMEhfRWJQeXVOcjhnSFhXTlZfc05IMFc2NGFEdmY3TkYxeU1iMjFpY1lDWVhVWnZJcXFUeVBwckVnSFNVeWgxMVJHRjd3cWVQcm5XSGh4Q3JoMm8?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -385,15 +468,6 @@
    ]
   },
   {
-   "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
-   "source": "CNBC",
-   "time": "2026-10-22T15:08:47Z",
-   "link": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Gold Edges Lower as Traders Weigh Middle East Signals, Fed Rate Path",
    "source": "Bloomberg.com",
    "time": "2026-10-22T15:07:59Z",
@@ -524,15 +598,6 @@
    ]
   },
   {
-   "title": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
-   "source": "CNBC",
-   "time": "2026-10-22T14:21:56Z",
-   "link": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
    "title": "Hegseth’s Staff Broke Eisenhower’s World War II Globe Moving It To His Office, Report Says",
    "source": "Forbes",
    "time": "2026-10-22T14:10:26Z",
@@ -612,71 +677,6 @@
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/yemenis-face-severe-shortages-in-taiz-amid-houthi-blockade?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trading Education: Gold falls despite lower yields: A lesson in trading what the market gives you",
-   "source": "investingLive",
-   "time": "2026-10-22T13:41:46Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYVJiT3BFak5PZlBlN3BFMUptRkpQUTdiR3VFSGF5amNxblJ1MGY4V2JkQUNhaHNsQ3VQMnNOdEl4VWxjLUJ6UFA4SzY3Yk1rTDF4dWpsdVhKU01ZTmZMdnhOZnJvOGQ5NzBsNG16dDlvdHpWWFotWUtnTmFpQV80TDFNbmM4SXlNUW5kRXFWNUhjWDhfS2NMN0ZXYzk1X3FiSk5KVXdkTXE0SFMtZUVwbmNkMlNHbmp2cWpWN014YkhJYTRHWU1yQ05ZUXQ?oc=5",
-   "tags": [
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "American States Water: A Great Utility That Now Yields Less Than A Treasury (NYSE:AWR)",
-   "source": "Seeking Alpha",
-   "time": "2026-10-22T13:37:30Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU2tpbUFRV1dhSjNSOFJ5TkJKUWZ0SWpmdGE5OVNXMzg4bnBJN3hSVzhIZ19GUGRSWU1sWjVhbmxuc284WHhYQ1BJaHdpa3NET1FWT1FfanhrVm1yb1RWQ0kwdG9Gb0JGNUVoWEUwSkJMWVhfcy11SmU0VkNvbWtoYnJPV2gxelRZamtVMXdXamxwaGVPUThTY1U2WVNDbGFfTGFEOVVxSHFnMXB2eEdGNmJFSDBfQQ?oc=5",
-   "tags": []
-  },
-  {
-   "title": "International Criminal Court Wins E.U.’s Top Human Rights Prize",
-   "source": "The New York Times",
-   "time": "2026-10-22T13:36:46Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZWpEZ0drTVNWMElYU1Jkano2b25Kd19wVmVoTHcySGlrU0JWVEV1eFVfcEoxQTVZV20yZjlXOWVUTlJDRkJQTHY5V0o1NWpZM1VSNjJjZkhHUjhMTGVUQnYyRW1Ld21RenROeFZFX0FuQjM2bmYtQ3JzSzdwN1FPRUZETzJ5bDFCRmk2ZG9aVjBILWRQSm1NbE8yUU1OX3M?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Gold sinks to over two-month low as higher-for-longer interest rate expectations weigh",
-   "source": "FXStreet",
-   "time": "2026-10-22T13:35:56Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUTZWNzctNWgwbFUyT2V3dWljbGRTT1ZxOEQ2NVVraFg2TEF0aExxRGtmR0hneHc1VThHaHJlcWlvNkJnVTNlR1Z4Z29zcmFscHZrX1NKMzkwNTA2ZC1JclJvTTQ0T2Q5RTN0MUJPejVYc3ppU2M0aE82Wm5EcVkzenU2NzU3S19ORGFjUG53bXVRcFJQZFFDa1phZEpLREtHTlpnVi1SaDlkVEl4VFJLRG0zT1hQMG9odFRwLTNvOGFJdw?oc=5",
-   "tags": [
-    "RATES",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Putin’s War On Ukraine Puts Oil Giant Rosneft Under Mounting Pressure",
-   "source": "Bloomberg.com",
-   "time": "2026-10-22T13:35:51Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVzF0NmhDRTFRT3BZUmhlUlJVcllGWkZBc1VVbGEwc0xDREQ4QTI0UEp4c0laQ3A5VGMtdVVkblNwSlJFQTN0WDE1bzhPMVN4YmVUVktXbXZDbXYydktvd0xGMngxdm1TOHdaTWlUSVByWjlTblZRTEkzOFZCbWQwbWlleVVmekxrRDZBS0pDa0VNY1hRMnYyRGRoOUloU05Xb3Vob0RMMnZyd2VxVWhTeWF6ajZqdmxa?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
-   "source": "WSJ",
-   "time": "2026-10-22T13:31:12Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "‘Gold is no silver bullet’ and isn’t hedging against equity drawdowns, but ‘debasement trade’ should continue – HSBC",
-   "source": "Kitco",
-   "time": "2026-10-22T13:21:11Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYVRiX2l0VmgzS2xKZzU5UV9Ec0xIRGs4ZmpzalI3REZpT1NsVk5ZQnZLSWxxdkhraEVtSHBab2lZQ0NVMkN0NXBRb3NqLW9CS1h0ZWM3eDJsOVkzVm5hSnZsMVBqMWExTXZSMjZFZndfdFlyX1o2SURfOTQ3aGFyd2NzU25DTC1oYmJwcEt0NkdxZkR3dVo2dklrZTdQcHhtZ2M3T01MNXYyR2JNbnhQaVRNMUpnZndBSk5MNw?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
