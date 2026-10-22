@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T04:05:11Z",
+ "generatedAt": "2026-10-22T04:33:32Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,17 +57,17 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
    "items": 55,
-   "kept": 6
+   "kept": 7
   },
   "bbc_world": {
    "http": 200,
    "items": 38,
-   "kept": 3
+   "kept": 5
   },
   "aljazeera": {
    "http": 200,
@@ -86,27 +86,27 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_tariff": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "gn_war": {
    "http": 200,
-   "items": 34,
+   "items": 33,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 18,
+   "items": 21,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 31,
+   "items": 29,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 1,
+   "kept": 1
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,54 @@
   }
  },
  "items": [
+  {
+   "title": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
+   "source": "CNBC",
+   "time": "2026-10-22T04:26:42Z",
+   "link": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold declines to one-week low, below $4,100 on Fed hike bets as bulls shrug off weak USD",
+   "source": "FXStreet",
+   "time": "2026-10-22T04:23:32Z",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDVlQkk1SGRLNUFJckNVS2NxOXFNcUxEdVlIdWQzOUpFUHZkczlSaEdTX2JLMmZESjBkWmdPLV84UWNOMDFYM3h3VExabGpLcDdXNVNja00zYkZjTHJHOWpOZ0JMeFBzQm5lSTFCS3oyY0tyRW0zVmNKYVlwenRCM1NEbWxTWE5UZ1c4a05Ua0daSW9qTVdGQW1vRVQtVW9IcU5VYV9ja09ZNlNtN0xFQ0MwMDhrbEZfVjJWQjNqRGtWMm54N3J3bQ?oc=5",
+   "tags": [
+    "FED",
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "China snaps up Australian canola as improved ties, lower tariffs fuel demand",
+   "source": "TradingView",
+   "time": "2026-10-22T04:06:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa0tZVVdNQUJ5WmpxbnZadURKOGJZNzVEZTNPNmFsaGprY0RlN2N6V0FsSDJubTdRNVVZaWplakRtb2lDZXloQjJ4XzFudkQwRS1JM0k2bGVGOVM1cE1GQ1Zna3NPcUx5aVBGNTEzYU03M1BITWJvZEVmNnZ3NDd5RHN6MlFDeUQ3V3g1RjlJMy03NmdKTEpQNllsbTRzclNocEdSUUg5MDk4alFOdUxTNmdfTzNwNkdpR3FPU055aERUaDZsWkltU3JkU3Z4SHhLMXRiVUdhaEhfZ0ZlQVE?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "As Kansas Senate race tightens, Marshall argues opponent is just another Democrat, while Hamilton says he's \"independent-minded\"",
+   "source": "CBS News",
+   "time": "2026-10-22T04:05:18Z",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHBMVlhibGN2cVpCVVltMlpQMWxqd29sU3ZMNVF2RnBRVGY1Wlh5eU8zcTJ0dHk4SG5MV1BZWDliZVRCNW1sOXhnTUtCeTRERklEekZwZXB6elJ5emNxMUZmYkE1dmx6WmRFb2xTdUMzdEZSUkFneGpJNkRYWkxNTE5RTzFnN19kZURsUA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "No purchase, no seats: Starbucks China rolls out new policy",
+   "source": "BBC",
+   "time": "2026-10-22T04:02:29Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
   {
    "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
    "source": "CNBC",
@@ -137,10 +185,29 @@
   {
    "title": "‘Open War’ Between Afghanistan and Pakistan Adds a Volatile Element",
    "source": "The New York Times",
-   "time": "2026-10-22T04:01:07Z",
+   "time": "2026-10-22T04:01:08Z",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcGRkcm03cXZRa1dmVV9Za1E4cmg1a1lKNGNXNFIzWlhRTUtuMlJzc0Q2Q2FoYmlCcWtwcHRuaDJwbW1Hd0paemlqdTNwUzJSMVdPQ3pZWGotOGwyaXFSbUNuQVprMVZ1UklHZ0ttdDU0c0lWdjc2aWZNanlTQzNwVnVBUzBoTlZE?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold (XAU/USD) Price Forecast: Consolidation Sets Stage for Decisive Breakout",
+   "source": "FXEmpire",
+   "time": "2026-10-22T04:01:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORy10M1BVdjNaU0M0QzE1ZDB5U0N6bjdCYW5mRlYwZ1I1RnhHc2twelNFSTZJQXBfU0dkUnFLVjNhLXRydXZJSjZid2ZmUWxpdkh4VUxtNm1pQmhmdER0ZnVVc0pEODUtbGNYcTlMQjZaS0dfLUtVc0YweUNuU0hfeGMtbHRJVy1VT210N1I2TWVkb09ieHlVVmhlUzZpYm10eFQwcmFLdHFBaGFNQ3FZUFI3T0d6cDVvbWpsMVB3VWdoOUE?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "investingLive Asia-Pacific market news: Asian stocks slide, dollar slips",
+   "source": "ForexLive",
+   "time": "2026-10-22T03:35:08Z",
+   "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asian-stocks-slide-dollar-slips/",
+   "tags": [
+    "USD"
    ]
   },
   {
@@ -161,16 +228,6 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DYlFuZ2xsR2xmVFkxVHA3bzh2UWpaU0ZuTHpoQXRrVnc5a3ZqNlpQMy12cDJWX3FHUG1Kd0R1am1qaGR1S2hoTXRPdzhQRmR4X0xVVFNwbGFUR2k0dGsybGZKdWgzNEtZVTV3QXhyZHdsdWt0UTQ3OTIzX2Q?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold (XAU/USD) Price Forecast: Consolidation Sets Stage for Decisive Breakout",
-   "source": "FXEmpire",
-   "time": "2026-10-22T03:05:01Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORy10M1BVdjNaU0M0QzE1ZDB5U0N6bjdCYW5mRlYwZ1I1RnhHc2twelNFSTZJQXBfU0dkUnFLVjNhLXRydXZJSjZid2ZmUWxpdkh4VUxtNm1pQmhmdER0ZnVVc0pEODUtbGNYcTlMQjZaS0dfLUtVc0YweUNuU0hfeGMtbHRJVy1VT210N1I2TWVkb09ieHlVVmhlUzZpYm10eFQwcmFLdHFBaGFNQ3FZUFI3T0d6cDVvbWpsMVB3VWdoOUE?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
    ]
   },
   {
@@ -300,6 +357,26 @@
    "tags": [
     "USD",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Gold falls near $4,115 as Saudi attacks fuel inflation, Fed outlook in focus By Investing.com",
+   "source": "Investing.com South Africa",
+   "time": "2026-10-22T01:07:48Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDhLd0ktUHBabTFZOENQaVBzdHNSNi1OZHFEdnNRSzl2bXpEd3BpZy1STHNqU245ZURXcGtZVXhvNHZpNS1sMlc4bU96SmF6NmwwWUVzMlZNb21PSWppeGdWWE5NanY1cTN5OWxkc0ZhS0tRbTl6UXQ0TGg3bFZiYkNXWkZsdXZ5bGFLSGxZbUxTdnh2RGVwZnhVRnFnWXZ5N25qSVlpcDFxUDREYkw2WjlDNHEzWUtVTkFrQmphbTZCcXY2MWJr?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+   "source": "BBC",
+   "time": "2026-10-22T01:07:34Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -609,79 +686,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSGstdUNUcVhGZHpWa0Z1RHVYRlRGX0I3OXUwNDI4RGdPbTBHMGdrQ0ZlSUxwcDhaQXhlOG54SkhrUlYwaHVIbDc2YlJHYXo1NDNtLW82NkZMZ3J2MUVGS0p6YnRlTDZEazZxZWVsZ0IyQ3NJS0M1T2hRaFJMazJkRFBwSl9iWEJTV04wX3J6UE45dUtUbnYxaWdZUW5vRFpyTE9vaUdEUllsOEZTZGM2NnF2YlJnNlBHaFVZS084SGg?oc=5",
    "tags": [
     "INFLATION"
-   ]
-  },
-  {
-   "title": "Editorial | Netanyahu's Iran war plans: A dangerous gamble with Israel's election",
-   "source": "Haaretz",
-   "time": "2026-10-21T21:38:00Z",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQc2JtZnhOalF2T3hqOU13WVVSRVRkdGNXR0Y3U0I0ck5WcG5XRm9HY0Z0dWNGdGFWT1JJcktqaC1fUmJaUmVrbkZ0V1A0eU9RQnNqa0tia0FnTnpld3UxRmkyWi1BZUFvVFpTSEI1ZTFmWjdtWHdtbW9nMEZEa0FXX05qVHdsX1JvMmMyM3B6RG5rRWlLSlpWSHlHem1iYktRczMtbU1nUzgzTlBORDU5c1JhTjh5ZkJISW5rLXMwci1xTDdaYk9Qd3AzX0VXVlJWRmJqWkJKc2VSSFBzNHpkNm5mem8tTldIQXMzUlAxaHJ1NUlHZ2k0d3NVOWgxUjkxbGxrNWZR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-   "source": "BBC",
-   "time": "2026-10-21T21:27:41Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russia agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says",
-   "source": "AP News",
-   "time": "2026-10-21T21:20:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMW9MQzVDRzVJcjRnVnpSeW5ZVlhBTEFablZZNTNQNFNkYmhmWjFXR2M4RlNDWldOTlh5TjFSYU5tVHhPSFFidnBtNFVGMEthRjV1TElCVGdQMjZHOXNNLXV6R1F0QVJjYTR6Q0pMbW4xVkFmUDVuQXNoYUJxbUd1TlBaWG4xdlBaYTZQVTJUSEdZXzJXN28xS0praHdNb0t2eUU3clRWTF9fR2ljZW1V?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil’s $74-to-$130 Range Exposes the Market’s Geopolitical Pricing Problem",
-   "source": "Investing.com",
-   "time": "2026-10-21T21:17:00Z",
-   "link": "https://www.investing.com/analysis/oils-74to130-range-exposes-the-markets-geopolitical-pricing-problem-200690029",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
-   "source": "MarketWatch",
-   "time": "2026-10-21T21:14:00Z",
-   "link": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Will Russia’s diesel shipment to the US lower prices before midterms?",
-   "source": "Al Jazeera",
-   "time": "2026-10-21T20:54:27Z",
-   "link": "https://www.aljazeera.com/economy/2026/10/21/will-russias-diesel-shipment-to-the-us-lower-prices-before-midterms?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "How Israel’s election could change the Iran war",
-   "source": "Politico",
-   "time": "2026-10-21T20:47:31Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOHo1MUNwTDZnOGMtZ0lCNW1laG9WNmdrSjdVREZFbjJ2LU1ia2w3bC1PNGs4aWVHM3pIOTdNYUI4T004YzBZUVQ5bFlKTmU5QUpqbGNSZEZqQ3pBOXNlNFhlUXVzdG9ocEpvbEQ0dmZ1MWV2dFhwbGNiSV8zYkkyTnZEOHQ3VnNnWnZnTDdZcmxoSXlaWVQ1czV2YkFnLURIUEZ6OHdsbzBJUHcxLXh2QXY1endrVEIzWEdr?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "investingLive Americas FX news wrap 21 Oct: Nasdaq leads as AI optimism offsets Gulf oil risks",
-   "source": "ForexLive",
-   "time": "2026-10-21T20:37:39Z",
-   "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-21-oct-nasdaq-leads-as-ai-optimism-offsets-gulf-oil-risks/",
-   "tags": [
-    "OIL"
    ]
   }
  ],
