@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T06:55:04Z",
+ "generatedAt": "2026-10-22T07:23:25Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -21,7 +21,7 @@
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 3
+   "kept": 2
   },
   "bea": {
    "http": 200,
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 8
+   "kept": 9
   },
   "investing_news": {
    "http": 200,
@@ -62,7 +62,7 @@
   "bbc_business": {
    "http": 200,
    "items": 56,
-   "kept": 7
+   "kept": 8
   },
   "bbc_world": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -81,27 +81,27 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 30,
+   "items": 26,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 9,
+   "kept": 9
   },
   "gn_tariff": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "gn_war": {
    "http": 200,
-   "items": 28,
+   "items": 29,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 19,
+   "items": 18,
    "kept": 12
   },
   "gn_yields": {
@@ -111,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 4,
+   "kept": 4
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,46 @@
   }
  },
  "items": [
+  {
+   "title": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
+   "source": "CNBC",
+   "time": "2026-10-22T07:12:29Z",
+   "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "In Israel election, Palestinian citizens weigh fear against disillusionment",
+   "source": "Al Jazeera",
+   "time": "2026-10-22T07:02:10Z",
+   "link": "https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Breaks Below $4,100 as Middle East Tensions Escalate",
+   "source": "Investing.com",
+   "time": "2026-10-22T06:56:00Z",
+   "link": "https://www.investing.com/analysis/gold-breaks-below-4100-as-middle-east-tensions-escalate-200690047",
+   "tags": [
+    "GEOPOLITICS",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold, Jobless Claims and the Fed: The Labor Market May Be Weaker Than the Headline",
+   "source": "Investing.com",
+   "time": "2026-10-22T06:56:00Z",
+   "link": "https://www.investing.com/analysis/gold-jobless-claims-and-the-fed-the-labor-market-may-be-weaker-than-the-headline-200690046",
+   "tags": [
+    "FED",
+    "JOBS",
+    "GOLD"
+   ]
+  },
   {
    "title": "US treasury sanctions Greek-Panamanian law firm over aid to Iranian shipping",
    "source": "The Times of Israel",
@@ -205,12 +245,39 @@
    ]
   },
   {
+   "title": "Gold, Silver Outlook: Trading the Ranges Before the Next Break",
+   "source": "Investing.com",
+   "time": "2026-10-22T05:52:00Z",
+   "link": "https://www.investing.com/analysis/gold-silver-outlook-trading-the-ranges-before-the-next-break-200690038",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Attacks on Saudi Arabia Fan Oil Supply Worries",
+   "source": "Investing.com",
+   "time": "2026-10-22T05:44:00Z",
+   "link": "https://www.investing.com/analysis/attacks-on-saudi-arabia-fan-oil-supply-worries-200690037",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
    "title": "Woman 'scared to turn heating on' due to oil cost",
    "source": "BBC",
    "time": "2026-10-22T05:29:22Z",
    "link": "https://www.bbc.co.uk/news/articles/cmgel220j7nvo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "Gold Futures: VC PMI, Square 9 and 360-Day Cycle Analysis",
+   "source": "Investing.com",
+   "time": "2026-10-22T05:28:00Z",
+   "link": "https://www.investing.com/analysis/gold-futures-vc-pmi-square-9-and-360day-cycle-analysis-200690035",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -223,16 +290,6 @@
    ]
   },
   {
-   "title": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
-   "source": "CNBC",
-   "time": "2026-10-22T05:18:24Z",
-   "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
    "title": "US-Iran tensions refuse to fade as fresh Strait of Hormuz attacks keep oil markets on edge",
    "source": "ForexLive",
    "time": "2026-10-22T05:03:33Z",
@@ -240,6 +297,15 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
+   ]
+  },
+  {
+   "title": "Is an 'AI war' complicating your job search?",
+   "source": "BBC",
+   "time": "2026-10-22T05:01:31Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -268,6 +334,24 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12YkxWSndGS2t3eDRzeXBLclJjSVlXTHh5SkxUYk5fRW9nWUt2a0t1S0RxNWpkbXBHdzhMWUh6OWhXZE01bG91QW9rQlVVMUpFb1hzU2FwVXJqUmtzS2lOR21hSG0tVjVTQ1pSeXNjeWJBRFNjN3U2SjZLQ212ZUk?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Price Outlook: A Drop to $3,100 Before a Rally to $10,000?",
+   "source": "Investing.com",
+   "time": "2026-10-22T04:52:00Z",
+   "link": "https://www.investing.com/analysis/gold-price-outlook-a-drop-to-3100-before-a-rally-to-10000-200690033",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "EIA Says US Crude Inventories Sink Further",
+   "source": "Investing.com",
+   "time": "2026-10-22T04:50:00Z",
+   "link": "https://www.investing.com/analysis/eia-says-us-crude-inventories-sink-further-200690032",
+   "tags": [
+    "OIL"
    ]
   },
   {
@@ -538,15 +622,6 @@
    ]
   },
   {
-   "title": "Global diesel prices seen staying high despite Trump’s deal with Russia",
-   "source": "Investing.com",
-   "time": "2026-10-22T01:18:42Z",
-   "link": "https://www.investing.com/news/economic-indicators/global-diesel-prices-seen-staying-high-despite-trumps-deal-with-russia-4962231",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound As Dollar Pulls Back",
    "source": "FXEmpire",
    "time": "2026-10-22T01:18:00Z",
@@ -621,80 +696,6 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPREpfN1htOWJzU0N3eVdLWVdOWjYzcWFjZGdhaGJYbEdCdlJMRnZOSndFOE9wNmtqbGdaZTBnbXliVk9jZzduRHlBazduQXhEdEFmVjZiRWNKX2o1UFMzM05NZGFOTU84LXBoNTJqYlhDVUVZUm5HelU0UW5MSnBjaDl4OXk4YUIwTXVfWTlMblJWWVY5TWlyR0RTdmpkRjVZX2FwUmhKZ3VrN21valljSDBySDQ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Cass County Judge: end of Swift and Sure Sanctions program a blow to Michigan",
-   "source": "WSJM",
-   "time": "2026-10-22T00:00:23Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWG5EOWI1V0J1TnN6d201R2owRW5qNzlNMnhxQTdEYVNsb2pSYjFRaUFaQTFZVmV0TmM4aGpwM3VJdW1VN0JNRlNEc3FGd25EdWFPUEd0d2VNcVFsT3cyVmwzRUZnazdOclUydGhQQVlOYjhaUkJJSW5GTFFWWGpJYzdjU19henV6Z0xEbFFWUFg3NGRvMlI3cVRaNDRSczlJWC1YUnN0bWtmb0YzVHc?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Iran war live: Trump denies Iran talks, says situation will resolve soon",
-   "source": "Al Jazeera",
-   "time": "2026-10-22T00:00:00Z",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Midterms and Iran: Congress could change hands, but Trump would still control the war",
-   "source": "CNN",
-   "time": "2026-10-22T00:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBveTZmNEdNYVVhaGo4N19FSC1GcDFiQ3FDVE9UdXc3cW9PaEF5NHdkMC1vYnZiSWJSNmRsaWpwejJmUERydlNSOWx1YUwyaDM1aXBBekxjOE5aU1BnOExSSkRVVDhrcnpTZnUzazRROUg1RnZ5N2NZdUR3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Aluminium Gives Up Its War Premium, Copper Stays Elevated",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "time": "2026-10-22T00:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWWRNcEFodF9pZi0zZFRaMmdjZjJaRmpNNkIxOG8yS3drYlc4QnlRTFRhUllfTFBBejFRb0ZPb3llOEpHbjk2UUotZ2JqNWN5NU44aks0QWQxVjZOV2x6bFFhSS1UbGxlUGZOb0VFUnZoYzRFV3dUTEVTS1JHQ284YVBhUXg5SERjcDVYZHh3Q3VFZzg1emUxdHptUjRxUWM1cUNj0gGoAUFVX3lxTE5ZOS05U0RFYUxRdWpMLXUzNlExOVNYc3djU0NTMFZraXJoZ2J1TjN2c3I3bFNZMHNqQnVnV3VEUE0zWEJGeTFxMFhqenYxUFpLcTVCSFUxZ2h5UnRRRWdXY3VLc3VsalJxNFFCVGZvVG9iSjRvU1ZvczVES1NWM0tlOW1NemVfcURZTWxMLVlqWjdjSlV1QS1oT3hkUHlpN1pUd1A5VklYUw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil prices will fall ‘dramatically’ when Iran war ends: Former Energy secretary",
-   "source": "Fox Business",
-   "time": "2026-10-21T23:44:03Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vc3JpeEdOLWd0TWdGZGZsNjNqaU5JZnZZajVzamlYV08waURBZkhFYl9yMUhYUjA3b0xLZGN4c3dyVmExdzhJemtjd3ZVS1ZyOHN3Y092blk3TTg?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Iran tells US to prove it wants peace by lifting blockade",
-   "source": "FXStreet",
-   "time": "2026-10-21T23:39:03Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYjAycWkzRmt4d1YzTUg3ZDVnS19hd01RNEFpUVAzX09MSFRXUEtwSjNfWjFuMFRKVmZ0OFdhblVpcWFFamxFUm15dUtVX3FQcnpIVjllRzhoQ0w5Szc1blVOXzR6NmZNNnV5clZ0NmNsNjBWZEJERlVDYldndzdLZlJMeExOckF6WEZkQm92VUdBVEtQd3B5NXF6Tlc3SWFMd2c?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Peter Thiel breaks with Trump over Iran war: ‘We should not have done it’",
-   "source": "Politico",
-   "time": "2026-10-21T23:33:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWDVTYThmX3RmY2M5YnNvRDZZQmxjTzJ3bE1teG9NMkNWOGpmZ2R1ZHllOG9pbUFEU0JKN2xLcmY3ZWFlY0RoLURYeno4aTk4RHllSTQwZWFsMHFkdzF2ZVh0eV9ZNnNacU1zdFNOQUlVNC14V3lLTWNLTjdCODlYRGdn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The 'trillion pound' oil fund the government believes Britain could have built",
-   "source": "BBC",
-   "time": "2026-10-21T23:27:05Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "OIL"
    ]
   }
  ],
