@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T14:00:06Z",
+ "generatedAt": "2026-10-22T14:28:28Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 6
+   "kept": 5
   },
   "marketwatch": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 8
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -81,13 +81,13 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 25,
+   "items": 27,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 5,
+   "kept": 5
   },
   "gn_tariff": {
    "http": 200,
@@ -96,28 +96,28 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 43,
+   "items": 42,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 17,
+   "items": 16,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 26,
+   "items": 27,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 9,
+   "kept": 9
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 1,
-   "kept": 1
+   "items": 3,
+   "kept": 3
   },
   "fed_calendar": {
    "http": 200,
@@ -128,10 +128,37 @@
   {
    "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
    "source": "CNBC",
-   "time": "2026-10-22T13:58:22Z",
+   "time": "2026-10-22T14:28:10Z",
    "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
    "tags": [
     "JOBS"
+   ]
+  },
+  {
+   "title": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
+   "source": "CNBC",
+   "time": "2026-10-22T14:21:56Z",
+   "link": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Nasdaq tumbles on AI spending concerns and jump in oil prices: Live updates",
+   "source": "CNBC",
+   "time": "2026-10-22T14:09:51Z",
+   "link": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Gold Faces Geopolitical Pressure Despite 10-Year Real Yield Drop to 2.77%",
+   "source": "FXEmpire",
+   "time": "2026-10-22T13:59:27Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONkR5MXRYM3AyT19nVlBBdU9xQVpYajFyREtPRnNhZXVSNDhBQ2hyMGhtazRBSWJPbVdoTlY3NVBPLXZ1d1dLenBtUThfZ25CYUVJZWsyRFFFMG1aQVRXVS1XR1BSakRGZmZ6RmZzVkNycVRQMXFBckN0YXpqbGdBVmNiSnYxcnc3N1Z2Znc0TEhreGZ6cHMtVFJmcThTa2J6aUxnQ29uVFZFMGJFLXVsMUxQUm9HX1p6TXJwclRnRGU?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -144,12 +171,31 @@
    ]
   },
   {
-   "title": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
-   "source": "CNBC",
-   "time": "2026-10-22T13:44:19Z",
-   "link": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
+   "title": "XAU/USD price outlook: Gold Spot/US Dollar pressing against 1 (100%) support arc",
+   "source": "FXStreet",
+   "time": "2026-10-22T13:44:18Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZVBEY0dvWWdxci1zVUZGU25xVkhFeFpVNGw4ZXZaVmcxVlRiUXRMNWJhcXEwM19QNlJ1RElFMGJ1VVA5QnpqZ19jclJGMGhLeHZXWTdPeEIzd0NsaUd3LXUtTVB6bjZLXzZTVERIMFg2d2p4TFlCcFRQQXlOYkR3a0dGOExiNUxuUVp3X05MNXBaVlNBRjFkRnBVYnptRzZCT0p6SkwweklvcjJyRjBhLUhKUDZLNUVTUTkzejB2RGk?oc=5",
    "tags": [
-    "YIELDS"
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold Tests Critical Support as Breakdown Risk Builds Toward $3,900",
+   "source": "Investing.com",
+   "time": "2026-10-22T13:43:00Z",
+   "link": "https://www.investing.com/analysis/gold-tests-critical-support-as-breakdown-risk-builds-toward-3900-200690085",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Yemenis face severe shortages in Taiz amid Houthi blockade",
+   "source": "Al Jazeera",
+   "time": "2026-10-22T13:42:26Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/yemenis-face-severe-shortages-in-taiz-amid-houthi-blockade?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -171,11 +217,21 @@
    "tags": []
   },
   {
-   "title": "Stocks sell off as Meta and Tesla lead AI trade lower and oil rises: Live updates",
-   "source": "CNBC",
-   "time": "2026-10-22T13:34:59Z",
-   "link": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
+   "title": "International Criminal Court Wins E.U.’s Top Human Rights Prize",
+   "source": "The New York Times",
+   "time": "2026-10-22T13:36:46Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZWpEZ0drTVNWMElYU1Jkano2b25Kd19wVmVoTHcySGlrU0JWVEV1eFVfcEoxQTVZV20yZjlXOWVUTlJDRkJQTHY5V0o1NWpZM1VSNjJjZkhHUjhMTGVUQnYyRW1Ld21RenROeFZFX0FuQjM2bmYtQ3JzSzdwN1FPRUZETzJ5bDFCRmk2ZG9aVjBILWRQSm1NbE8yUU1OX3M?oc=5",
    "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Putin’s War On Ukraine Puts Oil Giant Rosneft Under Mounting Pressure",
+   "source": "Bloomberg.com",
+   "time": "2026-10-22T13:35:51Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVzF0NmhDRTFRT3BZUmhlUlJVcllGWkZBc1VVbGEwc0xDREQ4QTI0UEp4c0laQ3A5VGMtdVVkblNwSlJFQTN0WDE1bzhPMVN4YmVUVktXbXZDbXYydktvd0xGMngxdm1TOHdaTWlUSVByWjlTblZRTEkzOFZCbWQwbWlleVVmekxrRDZBS0pDa0VNY1hRMnYyRGRoOUloU05Xb3Vob0RMMnZyd2VxVWhTeWF6ajZqdmxa?oc=5",
+   "tags": [
+    "GEOPOLITICS",
     "OIL"
    ]
   },
@@ -357,6 +413,15 @@
    ]
   },
   {
+   "title": "Gold falls ₹1,000 per 10 grams, silver plunges to 10-month low",
+   "source": "CNBC TV18",
+   "time": "2026-10-22T12:16:47Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0NMTUJick5kbGZmWkk4U1ZUa1BXdGpjUXpQTjZxbDd6RlplOGh0bkd5NFczcnZQT3k0ZWtwbVFjV05wYkt0a3BJUTg4X2ZaSUtHR2hVNnU4V3p6eE9JT0t6dG10Z3B1cWlGcnNlWGVqOExrejNCZVNfXzhkN0NRay1YcnBfN1A3a2dlVnN6UXVLZVQzQXMyWlZhbUdfdXphTHY5THdfakdYZG1oMHBlRGJMWjBYUFFTaGo4bkZXTzZRelnSAcgBQVVfeXFMUHgwSW1ZMjc2M1RyRjdGZWg1aG9DVlozdnYzUXlQR200SnIxRVFudjdiYjBhUUl5WGt1ZTRQcHRqTkl1T25EV2pJQlFOWVo4U1FlV2dpSHVkUHJGN3hmV2tobEhSaFpQeEJoT18wekFZczVoRWQyd2FYOGUzakR5Q2paZUVYQkxiZ1hybzlqdlEtVGYwNVc3VTFjUklyTzVLMEJpN3BHTVZLc0pGLWs0emg4elgwWklvQ0VZRkVVeElSSG52blBNd2k?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
    "source": "Al Jazeera",
    "time": "2026-10-22T12:15:42Z",
@@ -402,6 +467,13 @@
     "GEOPOLITICS",
     "OIL"
    ]
+  },
+  {
+   "title": "Long-End US Yield Hits One-Month Low as AI Fears Fuel Haven Bid",
+   "source": "Bloomberg.com",
+   "time": "2026-10-22T11:56:27Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS2QtcWhJRzBXeWNiMnFqOXhfNHd4WDhjb1RqUk0xa3NNbUdyYl8xTE5aRDdCVy01WDRPMGstSjJ1SndrZlFDdllTNEdveGJwVjE4YlpJNlpQQjJNQnVJWFBqNkpCOEhaNzFvTW1yNXRhU2NWdnZ3MUhua0RPaUxhVS0zdkxQZEYxTndHU1k2Sl9kYzVsMmU2a1AwODZZS2hoQndjRHIyel9nYy1OQllYaEhFQ1I?oc=5",
+   "tags": []
   },
   {
    "title": "Turkey Cuts Interest Rate for First Time Since Start of Iran War",
@@ -604,80 +676,6 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdExxQ0lXdm9xNElwdDl2Z3diNE9WVWRyMUo2RWFwa1V3ZDlWdFcyZHhmQTBzQ1FyYUFRLVFpZzZtWE05bVpkc29mdTBvMUg5VUt3ZTJ0Z19yd2dMTmNWRjdTbTVEUTVsSFQzS1V1SHc5aUFDdzRHaWtoM1ZHaUhKMUhPR2xWSWtoc0ZZVEFVZG9zWFBYcFJvRVVKTVY?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran Claims 7 Ships Hit in Persian Gulf as Oil Prices Surge",
-   "source": "Investing.com",
-   "time": "2026-10-22T10:29:00Z",
-   "link": "https://www.investing.com/analysis/iran-claims-seven-ships-hit-in-persian-gulf-as-oil-prices-surge-200690068",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Oil Prices Surge Above $111 as Houthis Strike Saudi Targets",
-   "source": "Investing.com",
-   "time": "2026-10-22T10:28:00Z",
-   "link": "https://www.investing.com/analysis/oil-prices-surge-above-111-as-houthis-strike-saudi-targets-200690067",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Republican backlash over Russia policy poses challenge for Trump in Congress",
-   "source": "Reuters",
-   "time": "2026-10-22T10:26:35Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaDFDZkZKQWR4NUxYR1dscU5tbnl5STNSam5nVW9fNnVNUm9TOGktNjNFQy1maTJ6ZlpWWnY3ejdPMEtnQlRxcjNrZWpLOUhYNjdLdER6dEhDXzlZMmpZX1ZzLWZYUi1UMUxDTkZxa1ZvcEFjUjh3eFVEVDREaWttdEV2V0pxdEpRZ1VtUDEwcE9pTTFXa3V3azFwRWpwTVRrdkZKb0xQUWg1bkhFcXNXN1hiY3hyZG1YNms2bzNUTQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "True Anomaly CEO: Space war will get \"spicier\"",
-   "source": "Axios",
-   "time": "2026-10-22T10:25:19Z",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sLUx4TnZqNE93anVWODhrTzNiMUNZYWFIMVFLMHkwV184NjdwVGxIUmI5VjVjWEhJMFg0ZXpUZVRyYnFFbG01WUUySkxMMjNnTGVhTUpXV29qZ2FNTkxBTFB5UUJLTmZTS0JZX1dn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Michigan Senate debate: Key takeaways from El-Sayed, Rogers clash",
-   "source": "Al Jazeera",
-   "time": "2026-10-22T10:21:32Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZmR5eWxGMU50XzlFZWtXdTUzUzNYX3BLQjd4clR6ZFNFQjRXdlhzcGo3UFg0REMxWVhFR2VURDdRTDFJXy1nZWo4VkdEdW1SYWNLdzg3dkdnSlc3MHZCRzk4WVlSay0yYTlsc1c4dGJaNFlfMjd5T3lhSDFkenI4Ul82b0hxZDBvQ0ZGZHJONjFTQlhBSElreXBYdmhfWElWUElNYU82V2rSAa4BQVVfeXFMT2ZlRDFaSUczakI2anFJbnl0VTN2LV80bU1ZdnhqbTJhR3lObzRxZk00WE82NVdFN0llejVqMWtWZUxmWU5HalRDY1ZwYU5iU0x0YVctR19WTlBQT2hOS3JNRko2NzJ3TjZ3RnJiUjBST0RpSkMxSlp0bFVfM1NEVHRxQ2x6aXhyaW5Lc0E3ci1hWmtUcTFzY3h4Q1pqUm5nNkduVDZ3SlNRT0tfZTdn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russia pounds Kyiv with missiles and drones, hours after agreeing to peace talks",
-   "source": "NBC News",
-   "time": "2026-10-22T10:11:47Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOEdGTWtjTl9xZ0UwUDlueUFBSG5PaXNRZW1oN0o4ZXF6Q1pjbEhrb2RmWkdVVUJTeEQ3ODQ0R1hoSFNjbTFVSEN0aEQ1SF9DeExXSmRubWNLcXhvWG4wSGs5Q0pKM1BjZWd2SExwNUprNWdzeFNBR2hLRjYxVnFCN2stOGh4WmYyb2JZZzZsNVVUdzRENFIxeXFDZVZVRm9Zd0N5N19IY3ZmYzYzbjA4?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
-   "source": "The New York Times",
-   "time": "2026-10-22T10:10:07Z",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdVNUa2czY1BWdUVoZ3RRN1BLODdObEJ1Skw5OE4yZDU1dVJIVW5WX0xqaUtPeWM0MjRTcE9Ma1B5OG1MaXZJOVVUbURxQVRmcGQ5ajRBZHpnSTcxQ21WdXhMbXZ5Z1luSzFFTFlVWWN1OVZCWllUcjdpLWxjVUNycjJn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Venezuela claims to have 300 billion barrels of oil in the ground. But experts say that's a stretch",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-22T10:06:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS09ibGdpb2RaS3k4dldOVXh2ekpvanVLdnFHUjh2b3VOeUYzQXAwYTJyN0ZNa2k0aFV3UHJ3NmprQlBqV0tqZWFqdDJMWUpucDhadDB2LU9ocEZrWmpCbmMzeGxVNGdocUpZQ1U0V0pBZzB5TGNpRGVxR29TdHZCV2pQQ3RiWEUyelZYZjc4bFpxYmtWYkJQWjVIeFkyYWNIeHJwNUR3SHNsZC1OcDllZWJLONIBswFBVV95cUxOS09ibGdpb2RaS3k4dldOVXh2ekpvanVLdnFHUjh2b3VOeUYzQXAwYTJyN0ZNa2k0aFV3UHJ3NmprQlBqV0tqZWFqdDJMWUpucDhadDB2LU9ocEZrWmpCbmMzeGxVNGdocUpZQ1U0V0pBZzB5TGNpRGVxR29TdHZCV2pQQ3RiWEUyelZYZjc4bFpxYmtWYkJQWjVIeFkyYWNIeHJwNUR3SHNsZC1OcDllZWJLOA?oc=5",
-   "tags": [
-    "OIL"
    ]
   }
  ],
