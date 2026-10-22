@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T03:08:31Z",
+ "generatedAt": "2026-10-22T03:36:51Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 4
   },
   "whitehouse": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 28,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 12,
+   "items": 13,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_war": {
    "http": 200,
-   "items": 32,
+   "items": 35,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 31,
+   "items": 32,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,15 @@
   }
  },
  "items": [
+  {
+   "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
+   "source": "CNBC",
+   "time": "2026-10-22T03:35:28Z",
+   "link": "https://www.cnbc.com/2026/10/22/chinas-stock-market-csi-300-bear-market.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
   {
    "title": "Gold (XAU/USD) Price Forecast: Consolidation Sets Stage for Decisive Breakout",
    "source": "FXEmpire",
@@ -151,6 +160,15 @@
    "link": "https://www.investing.com/news/economic-indicators/new-zealand-inflation-cools-more-than-expected-in-q3-4964581",
    "tags": [
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Kansas Sen. Roger Marshall says the Ukraine war, not the Iran war, has caused high diesel prices",
+   "source": "AP News",
+   "time": "2026-10-22T02:42:52Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFlwUEhrRzY3LVNyRkJaZkdfb04wYURuSFpOV21ZMXhnM2poTjI4T0dtdjJNdEE2cXZvRm02N01JS2x2RzFzMzUxc1JCc2E4V0FjcVR2TTU5WTREV1BGbndhMS12czc3ZkY1S2dyRUowZ18tUGtNXzdzZ3JEYTZlTkZ5eUgycHBIRTNwaVZSMlNFaDI2TUlIYWZtMGp3ZTFmN3lFeU9SNmFjMm54UmwzWA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -195,7 +213,7 @@
    "title": "Tigray resumes daily life amid fears of wider war",
    "source": "Al Jazeera",
    "time": "2026-10-22T02:10:33Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcl8wNzRPTEh3Qkx1Uk1ldkVsTDZJNlBVUG8wSVUxZVA3MlFMek8wTEk0TEhwSmJ2QW5HQW9WNElYUElZTDNjZUJwTUR5S1Y4U2NETHVPR2JSeFVyd09pZDNjRzdWTG4yeEdSWXViZUgzV3BWUnBYV1llSWVDQXFMS0hNRFZibFZPcXp4N2Fua29XeWZNYmc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcl8wNzRPTEh3Qkx1Uk1ldkVsTDZJNlBVUG8wSVUxZVA3MlFMek8wTEk0TEhwSmJ2QW5HQW9WNElYUElZTDNjZUJwTUR5S1Y4U2NETHVPR2JSeFVyd09pZDNjRzdWTG4yeEdSWXViZUgzV3BWUnBYV1llSWVDQXFMS0hNRFZibFZPcXp4N2Fua29XeWZNYmfSAZsBQVVfeXFMT1duZVQtN3V5RkEyT2J0SURXdE1CYmFrU2hpS1FNamV3UmVMcWlNSWJIZzN4bDZRRGxENzQ1QkZxNjRvcThFaDF1ekoyRW5yN0d3b1BRVjRELU0xcklNZkF4TUNRV2wwMkZtaEIwNEVEUXNnb29aVXQ5RzU4N3I1MVZqeEt1MWEzUTNFaXBpZ1d6WEJXajRNYTVtWUk?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -244,6 +262,15 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
+   ]
+  },
+  {
+   "title": "Iran’s Tells Trump to Prove US Wants to End War Diplomatically",
+   "source": "Bloomberg.com",
+   "time": "2026-10-22T01:02:34Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORnFJRllTaFp3NjhpNEphOFhhYmtnd3M0SWFZekdQWVhaNHJWMnpzWERzbGFzMk1WOHRSODBKdW1YeXdhSmRwTEpmSEw2a1hfYVhfT2VFSmdnMmoxOGV0TzJLd3poNEF1b2x4amI1N0ozcVI0VkdqdkQwWG5uZDI1cDY2UTJtSWVaMmJYeE1leHg2MnB0ZG41dFpaQ2pxNWJpeEtqWnp1OEZHbmlncTJudUNGYmY4eUE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -365,15 +392,6 @@
    "source": "Politico",
    "time": "2026-10-21T23:33:00Z",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWDVTYThmX3RmY2M5YnNvRDZZQmxjTzJ3bE1teG9NMkNWOGpmZ2R1ZHllOG9pbUFEU0JKN2xLcmY3ZWFlY0RoLURYeno4aTk4RHllSTQwZWFsMHFkdzF2ZVh0eV9ZNnNacU1zdFNOQUlVNC14V3lLTWNLTjdCODlYRGdn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran’s Tells Trump to Prove US Wants to End War Diplomatically",
-   "source": "Bloomberg.com",
-   "time": "2026-10-21T23:32:31Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORnFJRllTaFp3NjhpNEphOFhhYmtnd3M0SWFZekdQWVhaNHJWMnpzWERzbGFzMk1WOHRSODBKdW1YeXdhSmRwTEpmSEw2a1hfYVhfT2VFSmdnMmoxOGV0TzJLd3poNEF1b2x4amI1N0ozcVI0VkdqdkQwWG5uZDI1cDY2UTJtSWVaMmJYeE1leHg2MnB0ZG41dFpaQ2pxNWJpeEtqWnp1OEZHbmlncTJudUNGYmY4eUE?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -663,25 +681,6 @@
    "link": "https://www.investing.com/analysis/golds-rebound-from-arc-support-keeps-the-bullish-structure-intact-200690025",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Trump links Russia sanctions waiver to release of jailed American",
-   "source": "The Hill",
-   "time": "2026-10-21T20:15:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSVd2UWJ4RVp0ZkFhcnIwMnQ2dWZpekpxei04cTllSC1rOUtrQnV6WjBrM01UNXlGNTVNNktUOHFWb2Fua0hWYjE3bENxOUY5cVB1b2lvcHQ5OE9vRmxsSkwwQXdxZDlveE9NdGVHSDRTX1kxeFd2eGd1eUtidEphTlV30gGHAUFVX3lxTE1RWjk3ZTQtajdpdV9SZVMzeVRHT0xyd3VSV3dyRlduZEVwM3NUUFhPRTRmZkRUbVFDOFUtVHNyNUZSdFhHTTJsTEI0M2RWQ1pJWGxMd25PSkhFLWZZdFktSEZ3cDdBb1p6Q1I0YUlhSWJFbENNNERoNW5waTFHZnpCaGNoMTdvbw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-   "source": "MarketWatch",
-   "time": "2026-10-21T20:15:00Z",
-   "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-   "tags": [
-    "RATES"
    ]
   }
  ],
