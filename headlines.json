@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T05:01:52Z",
+ "generatedAt": "2026-10-22T05:30:02Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
@@ -81,32 +81,32 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 26,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 12,
+   "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 6,
+   "kept": 6
   },
   "gn_war": {
    "http": 200,
-   "items": 35,
+   "items": 31,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 20,
+   "items": 19,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 29,
+   "items": 30,
    "kept": 12
   },
   "gn_oil": {
@@ -126,6 +126,44 @@
  },
  "items": [
   {
+   "title": "Woman 'scared to turn heating on' due to oil cost",
+   "source": "BBC",
+   "time": "2026-10-22T05:29:22Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmgel220j7nvo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Chart of the day: Gold price falls below $4,100 as sellers threaten another breakdown",
+   "source": "investingLive",
+   "time": "2026-10-22T05:20:05Z",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ2p2LWNZaDcyMmxYUkhJX3BsNFZHcEl0UEpoZzRNRm04RG1PT082NmFXZHFGbi0xeGJHZnZRZ3lsYlJpY3hVQlFUMnZqdUM1eVhWdHRfei0xNV9VTmdDTFUtejJkQzh4RnFyVzhCQkRkUXNTREFaaXpSQXA0TlR1MUdMSzFxTXBFdkN4UlJNQjI3WTBMVk9YcVQyUWhuOElTT1hzNERvTGVvVEh1NGxyT2d1RjBXRlR1c3F0TFNIa1JaUGVGMUtFdw?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
+   "source": "CNBC",
+   "time": "2026-10-22T05:18:24Z",
+   "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Putin’s War On Ukraine Puts Oil Giant Rosneft Under Mounting Pressure",
+   "source": "Bloomberg.com",
+   "time": "2026-10-22T05:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVzF0NmhDRTFRT3BZUmhlUlJVcllGWkZBc1VVbGEwc0xDREQ4QTI0UEp4c0laQ3A5VGMtdVVkblNwSlJFQTN0WDE1bzhPMVN4YmVUVktXbXZDbXYydktvd0xGMngxdm1TOHdaTWlUSVByWjlTblZRTEkzOFZCbWQwbWlleVVmekxrRDZBS0pDa0VNY1hRMnYyRGRoOUloU05Xb3Vob0RMMnZyd2VxVWhTeWF6ajZqdmxa?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
    "title": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
    "source": "CNBC",
    "time": "2026-10-22T04:35:54Z",
@@ -140,6 +178,19 @@
    "time": "2026-10-22T04:35:16Z",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTm9oTExyRjM3Qk5HN0ZTaFpBZ3NZUklSWEpEXzNyT0t0b1BlamhNN1NjRURtSjNzM2lLWjdZdEFjSE5zd0NCeUktLTVXNl9xdGk0cDZRMW1CVE5KOGxJSXNBekNYSW5SUGhuQUtSVGJycUZCRE9UUTRVZWJOdzNHTlRyM0h4akJQekE2STdYX25yaHllaEZFandIdW5uaDlEaXJmT2RR?oc=5",
    "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold Falls As Oil Price Rally Revives Inflation Fears Ahead Of Fed Rate Decision By Kedia Advisory",
+   "source": "Investing.com India",
+   "time": "2026-10-22T04:33:20Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUVRzVG9qZC1GUkpZbEVoQmRPMHllY0ducVZoSWdIcEZON20wWVJXUDh3NlFGdXZhV19wbFVkNnZzZjc2MGVKandSbUItZmttYV90b1hrUS1JTWdkV0lXQ2Z2MEdWaU5MSVBEbEx6eldWeXRaR3dyRUZZQVBYVXdkSGM0YkE3c0dRNmFnNG11M0dFQy1fb0xqbGZldEJkS05WeE1oYnhTNVdSTXdXZkFvRlZmbkJpU1JlSTRheWhFeVl3aHdDMURmMWtXbW1JTFdK?oc=5",
+   "tags": [
+    "FOMC",
+    "FED",
+    "INFLATION",
+    "OIL",
     "GOLD"
    ]
   },
@@ -195,7 +246,7 @@
    ]
   },
   {
-   "title": "No purchase, no seats: Starbucks China rolls out new policy",
+   "title": "No order, no seat: Starbucks China rolls out new store policy",
    "source": "BBC",
    "time": "2026-10-22T04:02:29Z",
    "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
@@ -344,6 +395,15 @@
    ]
   },
   {
+   "title": "Carney says Trump’s tariffs hurt Americans as US Embassy alleges Canadian interference",
+   "source": "AP News",
+   "time": "2026-10-22T02:10:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWtDUVVQYXZ6WlJZNC1ER0dCcGVTcTg4R0RpdEN1VkZpb25KQzZuV2trZU84UVdPckpSWTNFR1IzMHlsckdKbURUOW5tdTRac2tBbm5hbUZxNTRRMjN1d3ZNYlFzNHhaUVhnclJQOThsb3R1VEY2YW9PcE12UUpXMC12cXFLOC1MRkJoSGVkT1R6N0YyVjR2U3Bva00tc2ptMHc?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
    "source": "Al Jazeera",
    "time": "2026-10-22T01:58:56Z",
@@ -466,7 +526,7 @@
    ]
   },
   {
-   "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
+   "title": "Iran war live: Trump denies Iran talks, says situation will resolve soon",
    "source": "Al Jazeera",
    "time": "2026-10-22T00:00:00Z",
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
@@ -490,15 +550,6 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWWRNcEFodF9pZi0zZFRaMmdjZjJaRmpNNkIxOG8yS3drYlc4QnlRTFRhUllfTFBBejFRb0ZPb3llOEpHbjk2UUotZ2JqNWN5NU44aks0QWQxVjZOV2x6bFFhSS1UbGxlUGZOb0VFUnZoYzRFV3dUTEVTS1JHQ284YVBhUXg5SERjcDVYZHh3Q3VFZzg1emUxdHptUjRxUWM1cUNj0gGoAUFVX3lxTE5ZOS05U0RFYUxRdWpMLXUzNlExOVNYc3djU0NTMFZraXJoZ2J1TjN2c3I3bFNZMHNqQnVnV3VEUE0zWEJGeTFxMFhqenYxUFpLcTVCSFUxZ2h5UnRRRWdXY3VLc3VsalJxNFFCVGZvVG9iSjRvU1ZvczVES1NWM0tlOW1NemVfcURZTWxMLVlqWjdjSlV1QS1oT3hkUHlpN1pUd1A5VklYUw?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Carney says Trump’s tariffs hurt Americans as US alleges Canadian interference",
-   "source": "AP News",
-   "time": "2026-10-21T23:47:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWtDUVVQYXZ6WlJZNC1ER0dCcGVTcTg4R0RpdEN1VkZpb25KQzZuV2trZU84UVdPckpSWTNFR1IzMHlsckdKbURUOW5tdTRac2tBbm5hbUZxNTRRMjN1d3ZNYlFzNHhaUVhnclJQOThsb3R1VEY2YW9PcE12UUpXMC12cXFLOC1MRkJoSGVkT1R6N0YyVjR2U3Bva00tc2ptMHc?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -637,54 +688,6 @@
    "source": "Al Jazeera",
    "time": "2026-10-21T22:03:35Z",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzY1d2JNd1BjSXluNDBwdmNIeDVNa0VUTVNxSmxUY2VCM1lmakdmZGZWSmtrRHg5RklyeUFnSzBuckwxcm5kMzl6WEJ3b2s3eVdpR1hLQ0lMelQ3RUJRdjAxY3drdG4zVXRyYkIwQjNnY2hjV1RteS1ZdG9CamprckEwVDhCeG5GdzlMLUhxT1BIaTFlQVpFTnFTWmhCT2tBcXN5aXo3OURSRDRHRG1YT3JDRdIBuAFBVV95cUxPeGdfc1N1T0ZOWE9RNDdXcWx5czRzY1U2SEpEV2NzbzhOV0Ywa21EbWxRZHZUQ3ZNYjh1T3ZIS1dwR3lQUVlyQVJZdDFrUkZEbmNWWnVFS1NTYlAwc0tjRnA4M09BVUZ1SE9KRG5qS3VfZXRzeUZpQnhSVEpjRUdlbUlaZXhmeHJSbVVqOUtIdUl1bXdvY3dpdFJjbkpNZER2QTBKX1lhNHhRYnNWZE55SmtjUDhGOUU5?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump Berates Reporters Over Questions On Russia Sanctions",
-   "source": "Newsweek",
-   "time": "2026-10-21T21:57:36Z",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2tDZmJZUHYwZl9JNXBjam9ENHNDT3g2TzZrRVZmTjdVMzUwcjZ1OE1Za2FMRXYzVExxRVlkaG03RFJENU5MTWE4c1BXcFd3SlJYQ01ZOThES3N2akFkSGQ0bE9VVkNabEN5anJxcUptbmVxVjZCS1Q2WV9BZzlKcmlNUFpHTWh4eWdLNk84ek1mbmk1?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Gold gains as Treasury yields stabilize, Nasdaq surges despite Fed tightening concerns - Kitco PM Report",
-   "source": "Kitco",
-   "time": "2026-10-21T21:48:25Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUGxuTFo5VGp0TGhZcEozV0RBZ2JmQ0lGX2czWkhhdjViVEc1eENPWmR2RlpFVzdFRGUycWxBSklHZkxXRHN6bnZocDZuMDdTNGRnN2lQLWY3MEtVbktuNllWODNyMzNkWHlMV18xcjIyQ0RadHpaRzZNcldTbjU1T29FbURsSV9FVmc1VEZ5TzhlZXo1VjNRODMtVkdLR3E2UWhESEpRTVB6N0pGZHdLZGJNWUZzemlDUEM0?oc=5",
-   "tags": [
-    "FED",
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
-   "source": "CNBC",
-   "time": "2026-10-21T21:48:02Z",
-   "link": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "New Zealand Q3 CPI 3.7% y/y (expected 3.8%, prior 4.1%)",
-   "source": "ForexLive",
-   "time": "2026-10-21T21:45:10Z",
-   "link": "https://investinglive.com/news/new-zealand-q3-cp-y-y-expected-3-8-prior-4-1/",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Russia frees retired American teacher as Trump envoy meets with Putin",
-   "source": "NBC News",
-   "time": "2026-10-21T21:43:43Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWdKN29CS0VtMWp1c05CSU5VZGFING9fd09zOXJ2VjVYZzdnWFRreEhOa0VBUUotNElRaXNJbDRGQnMwSFFXc041RlJfemRvb3daNVZMWlVQSm84V1pVZnZsN25CU2NZSFB4ZEZGT0JJTDZDenBfMlJDS1JlNFNiRHRURVlTQ1h6Zm9CY1A3eVRnX3BXazg3Mm9WZXBmcFdld2Vic1RxRDN0bkFGV29vU2I1bzZZaHQ1d1E?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
