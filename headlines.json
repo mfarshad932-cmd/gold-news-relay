@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T23:26:52Z",
+ "generatedAt": "2026-10-22T23:55:12Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
@@ -81,27 +81,27 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 30,
+   "items": 32,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
+   "items": 13,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 35,
+   "items": 38,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 17,
+   "items": 18,
    "kept": 12
   },
   "gn_yields": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,12 +126,58 @@
  },
  "items": [
   {
+   "title": "Japan core inflation in September surges to its highest this year at 2.1%",
+   "source": "CNBC",
+   "time": "2026-10-22T23:43:51Z",
+   "link": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Opinion | Oil’s great escape from the Middle East",
+   "source": "The Washington Post",
+   "time": "2026-10-22T23:35:25Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnBBQkJLYmlzMGtrT3g5bVNHdGtCd2Z0YzA4QzNpQlBOYWpsck1iTDRuTUQwdVdJdEUwdVIzZ1hOV0xpaEl3N3V2eFNNRmF4VU52MTRRa2k4U2FHVGdxbDd6ZFNhTnJXeWtrVVhqRmZEdmJydzJQT251a2xYNUZpTjNwZkVFYmdvU1ZiSlRSU0JRZ3lzdTJJ?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Gold falls to two‑month low below $4,050 as oil spikes",
+   "source": "FXStreet",
+   "time": "2026-10-22T23:35:22Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOGt3akRjaTllR1l3OWtsZzBxVGJoc2xRb2gwNmdkMEUxSGlJNDJ2djZjNjFRMDN2ckktU24tS0xGWlpzZkgtWkdxYXFfQ1UyX2Roc0JVeVZPWk1xbnJsM2pfeTZyRGVvRDRZUVB0UlBNU1ppVWRVempmaWxTdjk0emxPeklIWHRWc08yMDRDZkdSSHRJTDdTZktod3U?oc=5",
+   "tags": [
+    "OIL",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Elon Musk's Starlink and Starshield, and what they mean to Ukraine in the war against Russia",
+   "source": "CBS News",
+   "time": "2026-10-22T23:21:37Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12YkxWSndGS2t3eDRzeXBLclJjSVlXTHh5SkxUYk5fRW9nWUt2a0t1S0RxNWpkbXBHdzhMWUh6OWhXZE01bG91QW9rQlVVMUpFb1hzU2FwVXJqUmtzS2lOR21hSG0tVjVTQ1pSeXNjeWJBRFNjN3U2SjZLQ212ZUk?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Newmont beats quarterly profit estimates on higher gold prices",
    "source": "Mining.com.au",
    "time": "2026-10-22T23:18:48Z",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUmFQd0l0Q2gwZFA4eTZXY2Y3OE8xZkduR1hPZUgxa3FvUV9Sd25vaE1MbDlEM2J4MUs2SXBUTVpPTk11bFpuNkk5TXItN1dCcXFvNm9YX3Y5S1Q2M3NQZGhTOVg4S1BvaXVTWkg2WUVHLUZ0d1RoN2RsVWN3Q0JMYk5LTHI2WkVhWEZVYmRn?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+   "source": "BBC",
+   "time": "2026-10-22T23:16:20Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -153,7 +199,7 @@
    ]
   },
   {
-   "title": "Why these Iowa GOP voters are wary of Trump resuming the Iran war after the midterms",
+   "title": "Trump keeps hinting he’ll resume the Iran war after the midterms. These Iowa GOP voters sound wary",
    "source": "CNN",
    "time": "2026-10-22T22:29:28Z",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JYzBHenlMcVhid1hEbkMybzdvb2dxQTZKN29OTk1WVnhNZm1yZzhzNkZYNjFaMXhuVUtHUHFIV0lsQ09oaEF3YTE2Z0tUR3lOMUU2V3dWQk50OC1oT3dVdFZxaWVmOGkwczBkeDg0R3o5LWdoNFNwZ2JlMA?oc=5",
@@ -180,13 +226,22 @@
    ]
   },
   {
-   "title": "Trump invokes Cold War-era Defence Production Act to boost oil production and refining",
+   "title": "Trump invokes Defence Production Act to boost oil production and refining",
    "source": "South China Morning Post",
    "time": "2026-10-22T22:21:42Z",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZGRQT0tNUUJBZVJPazVjTkpBTnVxeWtST3BVSk9uM3VDNzNFRGYyUjFOajlsZFlRRVRSUlN0UnB4d1JLNWFaU0ZrWndic21XbnVJLVM2Y1otalQtdDhGWlNNbGI1NnMwcUY1LTFnT3E3anN0aGV2ODB5bS1LLVFGOVpVVWZLYXFKbUtYak1zdFBCc3RKVFpITHo5Q0RDNFdSMW1ESjhSR2ZsbjVVVWk4WjkxWm9MZlpBNWM2S3ZwOWM4c2U3NE5vNE13azNTUHh6VFFBdkJPZ1IwZVIwZV9TbHRLSHo0MkU?oc=5",
    "tags": [
     "GEOPOLITICS",
     "OIL"
+   ]
+  },
+  {
+   "title": "Trump's tariffs loom over Maine Senate race",
+   "source": "CNBC",
+   "time": "2026-10-22T22:17:08Z",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjFwQ3R1T190RnNKSEkyYlJvZXFMenRFcjA3dWl0SF9ac3lDOXFwRWFNU1ZXOU9rV1NNaUZVbi1xQlJSbzlDTGtPanhKbGltNEpSRVhXalFTYUxyR25VT3YwQTZ4X1lfdG0xY0JMVXV4WnU1a1c2SnVuN3BTRXN5ZnVKZkhOc1FsbHhMeElB?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -217,10 +272,10 @@
    ]
   },
   {
-   "title": "Opinion | Oil’s great escape from the Middle East",
-   "source": "The Washington Post",
-   "time": "2026-10-22T22:05:25Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnBBQkJLYmlzMGtrT3g5bVNHdGtCd2Z0YzA4QzNpQlBOYWpsck1iTDRuTUQwdVdJdEUwdVIzZ1hOV0xpaEl3N3V2eFNNRmF4VU52MTRRa2k4U2FHVGdxbDd6ZFNhTnJXeWtrVVhqRmZEdmJydzJQT251a2xYNUZpTjNwZkVFYmdvU1ZiSlRSU0JRZ3lzdTJJ?oc=5",
+   "title": "DBE: A Deutsche Bank Quant Index Juices Invesco Energy ETF Outperformance",
+   "source": "Seeking Alpha",
+   "time": "2026-10-22T21:56:13Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeXN5NWg3NUJQejh1WkFWSlVRYmxoU2NwQTlGVEdJM3ZEVlk5VVgyRHcyN0c5T3I4VWd3X0piQzNEMjEyY0cycWJKdnQ1MWtmUGdWb3p1MG04d3hhVmh4MEZaSXZRYzJicXU3UTBtdThYTy1Nb1huWHdieVdzZUVPd0IzRTY0bHBpQzBXbkVBcV9ieUV0V3BvMnBVaVFZY1IxeWZ0dFhwTkJrWGJRRlphemJ5RQ?oc=5",
    "tags": [
     "OIL"
    ]
@@ -379,15 +434,6 @@
    "source": "Bloomberg.com",
    "time": "2026-10-22T20:29:05Z",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTTNBTXk0dmFkMlJTTHUtOW1QZHlHX2xZUWQwRjlqQ2U5OHh4MERkYUdUOFBaM04yT3RjYjBYamxoTi1feXZtOEZhbjdVbFhfTXE4X3dhVFR5aHB1WkliV2Ytb1VCR29kTGQ0dnE0Y2pCMVZKa0Z1dHZlbGNrRVR4ZmdPOTJSSUkyUmM3VjVLTEZ1RS1uVjZfZUtjYlE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Elon Musk's Starlink and Starshield, and what they mean to Ukraine in the war against Russia",
-   "source": "CBS News",
-   "time": "2026-10-22T20:28:54Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12YkxWSndGS2t3eDRzeXBLclJjSVlXTHh5SkxUYk5fRW9nWUt2a0t1S0RxNWpkbXBHdzhMWUh6OWhXZE01bG91QW9rQlVVMUpFb1hzU2FwVXJqUmtzS2lOR21hSG0tVjVTQ1pSeXNjeWJBRFNjN3U2SjZLQ212ZUk?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -623,52 +669,6 @@
    "source": "Bloomberg.com",
    "time": "2026-10-22T18:41:23Z",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY0VjYTFBSlJBaG0yQlJOc29yNEJrbTBJSHA1c1dVb2tlVzdFRjctbkVrNVhSckxmMEhyaXBCYzdjYTdCYk9ONVUySXZnUUp1R19fSU1tWWlUcjNvejBVbVhURkJqdW9naUsweUp0MVlNcW9FUF9Na19sOHhrTExNTjlUR29EcnJ3UmhjR1E5VHdXRXJGN1lSdHVDYzNEcHA5X0FwYm1EaFpXZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "‘The Mothers of Kherson’ Review: A Ukraine War Opera",
-   "source": "WSJ",
-   "time": "2026-10-22T18:39:03Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0VaYW9ZYmxCdjBsbVlBMEtxQk5aNUgzdVQ1eFBJV1NnS3BEdEE2YXVSWmhjRkJXMzAyMkNUOGxpWWhuUVFKTzJvOVNKaHFZNG5yWklvV0NsOWJjTzNpWmRIcnVLQlktb0psWHkxcnZwRS1VVGdNN2c2bnpDMG1BME1jU25ONXJBQ1ZrWHZ5bFNyYkVDNmRvZjNtdFdXUmI0MF9oSVFXeVlNZk1VQkRZQ0hNSUM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold slides as safe-haven demand shifts to US Treasuries despite lower yields",
-   "source": "FXStreet",
-   "time": "2026-10-22T18:37:32Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR3R0a3pNU2ItV205c3pIcGlQQTA0VzRkVVh5VVpZV3pPanRCZ0FuNHhiZFdUeHpuNlE1RFBKbUtXSlYzemZPbTBWR2NVOHJnd0ppd05FbWdVNklDR2NHVi15OUpkNjBsTXg3eTdxN3hsZ3BlVnYwbEV3bDFnRXV6cmo2WVFzd2RLX0g3T3htYzNwVVRDMDl1X0d1eGV2OFZaeDJrMzBPLVlpTUlTclhZeDdHMHVpM3FKR0ZrYg?oc=5",
-   "tags": [
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "MSM: FY26 growth improved, but digital-core charges and tariff uncertainty cloud the outlook",
-   "source": "TradingView",
-   "time": "2026-10-22T18:36:48Z",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMEFMZHlBZUFidWp3TUViSmZ5eHdpNG1fWFU3dUQ5MXFQTDlZUl9uMU5tbWRhV0xCSFBQSnBmbjBCVDZ4ay0tcWY0Y01tMWo5Nm9remZ6b0dDdjJ3ZWMxUWxwQ2F0bHNGLS1sb25fcjV0Q0Z0b0RCNGVmZ0t4ME0wZkd1THpzYXkxTy12WVM3VU05MW55TUVTOFEzb3hyR2VYcHVaS2JTZTg2M2hSUFRtbHZFaC1KTzluMGs2VUxoTm5aZVNaMDVxOGhmbnZEc3ZqdUp1R0I3ODdpbnpyZVBFRFpFLUhqYTVJaVZJZGExYWUzUlk3aHh0MHVEejBkek4zTm5Z?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "The market now sees a 22% chance the Fed doesn't hike again this year",
-   "source": "investingLive",
-   "time": "2026-10-22T18:19:58Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUx3cEhzTFpFRWVUSjZtTTFiX1ZqdHZvRmdybS1vcUpDWGxFb1Vwd2hYZTIwMU8wNG5aQkpCdUdoOVozM0ltSzBudVBvOEFkYzJBNkp5Zm1pQXVwSjkzdEd3eDVYSW52NmhxaU11U2hKN0xnWHFmcmVISzh1YjlHWk5qWjJ2VFBKSDF5Sm9NZU1vN1dacjhWYWhxVm4xX3VCOTdDRGpWSERWQXBsMWc?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
-   "source": "Al Jazeera",
-   "time": "2026-10-22T18:17:29Z",
-   "link": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
    ]
