@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T00:23:35Z",
+ "generatedAt": "2026-10-23T00:51:54Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 5
+   "kept": 4
   },
   "marketwatch": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 8
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -91,8 +91,8 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 12,
+   "kept": 12
   },
   "gn_war": {
    "http": 200,
@@ -101,7 +101,7 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 17,
+   "items": 18,
    "kept": 12
   },
   "gn_yields": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_cbgold": {
    "http": 200,
@@ -128,10 +128,30 @@
   {
    "title": "Japan core inflation in September surges to its highest this year at 2.1%",
    "source": "CNBC",
-   "time": "2026-10-23T00:19:45Z",
+   "time": "2026-10-23T00:50:01Z",
    "link": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
    "tags": [
     "INFLATION"
+   ]
+  },
+  {
+   "title": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
+   "source": "WSJ",
+   "time": "2026-10-23T00:38:46Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "U.S. Treasury yields crater, 10-yr closes at one-month low on safe-haven demand",
+   "source": "Investing.com",
+   "time": "2026-10-23T00:22:30Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSWh3MktMQ3pNNzZDblpKTXI2Umpzd2taclphRDQxX0d6a0dia19HVzhjcUxxbGgtNG5yRjNXaHYyWGQ4SktXUlYwZTRqWmVBVVhHcjltVFNQQlNWSHFiSy0zZGFJWFpacWJPY1U0T3RPOFgwYmJsT0NfendTZlhXZ2wzSndqN2Y5QTRFSjNtZk9jQk9OaWhwOWhJRTdrNTJxdzhkS0FGODBqLWpmWHhHMnVNSDBvQ0VQaFgzOU0tOA?oc=5",
+   "tags": [
+    "YIELDS",
+    "GOLD"
    ]
   },
   {
@@ -200,6 +220,15 @@
    ]
   },
   {
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-10-22T23:18:20Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
    "source": "BBC",
    "time": "2026-10-22T23:16:20Z",
@@ -216,6 +245,16 @@
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Gold price slumps 2% as oil spikes to five-month high",
+   "source": "Mining.com.au",
+   "time": "2026-10-22T23:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcmtwdXNQbUU0UmE0Rlo5dUNLMXdWZ29ZSHU4UVotdnpKTE1VTTJ2OWlYSnl3bzE3and2N2pTMjI3dXMweXppSzJPc09ma3BvcWlxX01qZjlPclR4T3Y3R1RkZWNUb3pReUtCTmFSWjBRWDdmMkREV0lFcTJtck01Zg?oc=5",
+   "tags": [
+    "OIL",
+    "GOLD"
    ]
   },
   {
@@ -243,6 +282,15 @@
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JYzBHenlMcVhid1hEbkMybzdvb2dxQTZKN29OTk1WVnhNZm1yZzhzNkZYNjFaMXhuVUtHUHFIV0lsQ09oaEF3YTE2Z0tUR3lOMUU2V3dWQk50OC1oT3dVdFZxaWVmOGkwczBkeDg0R3o5LWdoNFNwZ2JlMA?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Newmont beats quarterly profit estimates on higher gold prices, Cadia recovery By Reuters",
+   "source": "Investing.com Canada",
+   "time": "2026-10-22T22:26:41Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdU50eUlvX0xPVnI4QkNnVWNtRjcwU0ZxT3NyZ214MHhnVFBMQW81ZXh2dndVZm9sR2M0OTgwUDIwVUJGdWNJeUVoN2kxOWtGM2NTeHR6SnBseFhhOWdrQUVndDVwc2hicVl4b2ItdDhwZS1lN0hlMjNEOGhqa3FVWHJ0M0JZSFAzYkFVa3Qwd0VaS1J5dDlXMUtkT3ZrX3MwOEoxb2dSN18zTExUYUNhVXVrd0ZrcDFmRGRrNmlqY1NZcW56UWtN?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -381,15 +429,6 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdDNHQlIxQkRfeVl2bWtrX2lzYTZsX0JYazZRaGdkclU5aHAwWlppV05YSTdvS0kwQXNVa0p6N0tseXVpcDZPRFBhdV9fbTExaXZZSTJJT1RXQmVXR3ZpTE5aZXp5cXFHRnB0WGxJNjVubU14LUs0eFV0SDVHWnJpYVkwYlNxZEhvZDVPa1U1MXlsYi15a2czRGJiOER5RjQ5M0toakZZbWV5S245WkM3QVNhZw?oc=5",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-10-22T21:23:49Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -612,6 +651,13 @@
    ]
   },
   {
+   "title": "Ten-Year Yield Falls Below 5%: 10 Real-Estate Stocks Rally - iShares U.S. Home Construction ETF (BATS:ITB",
+   "source": "Benzinga",
+   "time": "2026-10-22T20:03:40Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZzA4ZW0tQ1BaODFyUUNqc1FUZnVXYU14bnJKNUpGMnEtU0Z0YzJLbURkMUJHZXZBZ01NQkR1SDQxLUV6dkNlMEJfbndRYTVlOGtHYTQ4UllIYVpIZmd5WkJoWmFramdlaU93VWhxVEoySWZ0blFZOGJtaUFsNFE0MG5ZbHE5ckdhZVZwbFkzN1NhQ1VVVnhRdjhtU1Fub05vZnNCLWRqQUVUM0VKYzFwTk5fVnBoNHlM?oc=5",
+   "tags": []
+  },
+  {
    "title": "Ten-Year Treasury Yields Fall Below 5%: These 10 Real-Estate Stocks Are Rallying Sharply",
    "source": "TradingView",
    "time": "2026-10-22T20:03:40Z",
@@ -621,58 +667,12 @@
    ]
   },
   {
-   "title": "Ten-Year Yield Falls Below 5%: 10 Real-Estate Stocks Rally - iShares U.S. Home Construction ETF (BATS:ITB",
-   "source": "Benzinga",
-   "time": "2026-10-22T20:03:40Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZzA4ZW0tQ1BaODFyUUNqc1FUZnVXYU14bnJKNUpGMnEtU0Z0YzJLbURkMUJHZXZBZ01NQkR1SDQxLUV6dkNlMEJfbndRYTVlOGtHYTQ4UllIYVpIZmd5WkJoWmFramdlaU93VWhxVEoySWZ0blFZOGJtaUFsNFE0MG5ZbHE5ckdhZVZwbFkzN1NhQ1VVVnhRdjhtU1Fub05vZnNCLWRqQUVUM0VKYzFwTk5fVnBoNHlM?oc=5",
-   "tags": []
-  },
-  {
    "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
    "source": "Al Jazeera",
    "time": "2026-10-22T19:55:28Z",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWmJwWHBSdTZDQ3F5dGxvRFM2UkY3NDRWX2RCN0hWMnNWeDUtN0twVzlQUjdfTzBpWmR0d0lEYzlKODVoYllyaV9LLUZaeVg3RnFaQ1FuV2ZTdnlXUkYtQ0xYS0NsYW9Tb0lsQVI2NGNXNjV2WW95NkIwYW9xUXg4ZnJ0MGl6OV9fNE5zWU5LYS16eG1NOVJN0gGcAUFVX3lxTFAwQWVoRUJLMUZmdVpINHhTcHY3MncwcG9ucVkzNy1INXYzUlBweE5TaHk2RXJpLU5IUzg0a0JTaU1wOEczS1JQV2tsbnczX192Rm9qYTlqU0dET0U4WlVGRWpYczVNZUt5a0d1U3ZmY1Zwa2xMQUVhMVNZa1FwdDFJTjBQcHQ5bGNJQlJ3YjVUU083QVZQRFBTT2VQbw?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed",
-   "source": "AP News",
-   "time": "2026-10-22T19:48:00Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeldMenNBb3pveGlrZmlGLXZkaWNZaEhBUHMwSWh4dm5ZQW1IRWxEVGRxbFVDeUdwTnh2WW1jSXJ3T2U1cmh4cTR5bC1DSXdOSzJZb3hFaGNBNlAtclluMU4zMVBEVWpua1A2S2dBbXdjeWo1SFNUWGNvZ1dRRXhKSk4xTjlYUXFXNVM4NFctSmdxVHRqcjZrOWF4allidw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Selloff Shows Why Oil-Driven Rate Fears Are Overpowering War Risk",
-   "source": "Investing.com",
-   "time": "2026-10-22T19:39:00Z",
-   "link": "https://www.investing.com/analysis/gold-selloff-shows-why-oildriven-rate-fears-are-overpowering-war-risk-200690104",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold miners face margin pressure as lower prices complicate third-quarter results By Investing.com",
-   "source": "Investing.com South Africa",
-   "time": "2026-10-22T19:33:46Z",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa1M2aW5TVXpiTk5SbzdhU2xUU09GLUxYN25lOFhyWVRqQXJFQ3lCd09XRnRaakJCLVhaQURxRmxHSE9qelpZeW4tNy14YlcyLWJ2N0dvc0lYTUpsaldENy12LTlVUTRiTHZFd0VfOEJWVE5xNHZqb2FVdXUyT0NNX3oyelNob0NKck1uS0l4ZGRIbEpKdkJkMGpxdDBlQWVJS1JobUxfc2ppdnpvNjQwRnVDNWtTd1JGQWg1S1pMal82dmVla2FnTGx3X2JsdXNtM1E?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Brent crude tops $113, highest level since May, after Trump hints at action on Iran",
-   "source": "CNBC",
-   "time": "2026-10-22T19:19:41Z",
-   "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
    ]
   }
  ],
