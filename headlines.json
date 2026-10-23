@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T08:53:22Z",
+ "generatedAt": "2026-10-23T09:21:42Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 3
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 25,
    "kept": 12
   },
   "gn_fed": {
@@ -91,17 +91,17 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 17,
+   "items": 19,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 36,
+   "items": 33,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 16,
+   "items": 17,
    "kept": 12
   },
   "gn_yields": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,10 +126,38 @@
  },
  "items": [
   {
+   "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
+   "source": "Al Jazeera",
+   "time": "2026-10-23T09:03:39Z",
+   "link": "https://www.aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare",
+   "source": "CNBC",
+   "time": "2026-10-23T09:02:44Z",
+   "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Take Five: AI trade meets the Fed",
+   "source": "Reuters",
+   "time": "2026-10-23T09:01:10Z",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWlIdzFDR0xNQ01RZzhsaXVtMXYtbWU3U3RvejE4NzV3TFZPXzI5SUpGTG9jLUxxbEhiNGFVMTZyUU84MVhTZGJaWkxtZ2cwaG9OTlJiYmFLTzFLLXZFQURzNUE5M05Lcjc5UXQ4Q1RIaVNWOFZlSlA2MTBLUFYtSVdLcGI3V3lCN216QQ?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "The Iran war’s toxic impact on one of the planet’s most unique seas",
    "source": "CNN",
    "time": "2026-10-23T08:46:57Z",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSWlFUGxveEw5REhNSnJ1VkUxU0g1Yng0THpzRHd2NHNySDNEMUJNLXlkcnJmd0ZBRlhxdHU5RjVHZllQMzBGTGcwaU9KSjBPaHAwLXAxV2FLNE42MGwxNXp5VHg4T1BnRmJNbkI4YjlzV0JDSEFJZ2xNbDdhQWR0ajM1cjhuSVM3eXBQeG9B?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGY4WXQxN2NWb0E3d2R1bTFXOVFieEN3LWcxSlhLWFpvOFpsUVpVT0ZxWVhfUVpwNWlPY0tYV2NKcV9CUV95MFlPNEVaMW93MjRHbWxtZ2dBbTJ0bGFxY1JPNTltbHM0aFRzUnN3aXV4ZE1qN29yWlhsU3RSS05TUFlUOUg2anBw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -154,21 +182,21 @@
    ]
   },
   {
+   "title": "Gold at $4,000: Why $3,600 Could Matter Next",
+   "source": "Investing.com",
+   "time": "2026-10-23T08:45:00Z",
+   "link": "https://www.investing.com/analysis/gold-at-4000-why-3600-could-matter-next-200690131",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "The Democrats’ looming trade battle",
    "source": "Politico",
    "time": "2026-10-23T08:45:00Z",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaGhBUnBlUklCTW9vcHFmeFdNU0IwZGpTRVFOYXNsVkxabVNGOTFGTnAzd21qYlZVb3VTdEZMb0dCR3h5dncxTVZRNVhrWWdOTU53TFJqbGdrdEFxc056M3VyZzRCNjlOOFZLUVE3UWNxQVdzSVo4WDFXNVljaGdGNVVaUjVjWUZSNHB5Tw?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold at $4,000: Why $3,600 Could Matter Next",
-   "source": "Investing.com",
-   "time": "2026-10-23T08:38:00Z",
-   "link": "https://www.investing.com/analysis/gold-at-4000-why-3600-could-matter-next-200690131",
-   "tags": [
-    "GOLD"
    ]
   },
   {
@@ -199,6 +227,15 @@
    ]
   },
   {
+   "title": "French Bond Yields Hit Multiyear Highs, U.S. Treasury Yields Edge Higher",
+   "source": "WSJ",
+   "time": "2026-10-23T08:27:07Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUVqY01YZEVBNGdnSkZQSllpNnZmNFNUUm5ab0VxODNVWXVUdm5VYW1GcGRjSXJvTE9lSjlITEZZYmR6MUJiQ1ZtaFhNb3JDQkJoQ09JdlJUdlFsTXRfeEVKM0s1em51dUR0Z3h2WW9hRS1BdVVDSWhGSXNZZ1NIRTlzSnk4ZzZianQ0bnRheEEwRGpXTmY0SA?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
    "source": "CNBC",
    "time": "2026-10-23T08:10:27Z",
@@ -214,6 +251,16 @@
    "link": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
    "tags": [
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Eurozone October PMI misses estimates as growth slows, keeping ECB rate hike dilemma alive",
+   "source": "ForexLive",
+   "time": "2026-10-23T08:00:18Z",
+   "link": "https://investinglive.com/news/eurozone-october-pmi-misses-estimates-as-growth-slows-keeping-ecb-rate-hike-dilemma-alive/",
+   "tags": [
+    "RATES",
+    "ECB"
    ]
   },
   {
@@ -251,15 +298,6 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
-   ]
-  },
-  {
-   "title": "Take Five: AI trade meets the Fed",
-   "source": "Yahoo Finance",
-   "time": "2026-10-23T07:29:52Z",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR3RCeXNFb1BTWmh5UXIxWmFXQk1RRXVuME1ZZTlUeEs2RnZHdHNZUk1WNktHeUViSEtwdlFXSlRRZFRzV0p2MFc2LXZzUUR5MU54eVVHWDFsVjFmS2k5TEQ5eklPcTNDbWxlcWVYcFhIOEtYWnNGckE4bmNvR1hyQlBVSHFmOWZaeG9xMTJESEJhQQ?oc=5",
-   "tags": [
-    "FED"
    ]
   },
   {
@@ -386,6 +424,15 @@
    ]
   },
   {
+   "title": "Falling Treasury yields may be hiding a darker story about the AI boom",
+   "source": "investingLive",
+   "time": "2026-10-23T06:18:13Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclE0a1JTYVV0SFdDaW5Lam0wRXR4a29Dck8zb1B2Q0VhTFJrNVFhNDdUMTJycnoybmZINnBDTWZyb2VlT3g5QUxaZFM2b3VINE9pQkZ2NUdGUDF1WmtaSDQ0RlRIZ042UVhVZmM2bS10OTNnRW1Jb01QWEdwOHJlRXB0a0cxVnNXSUg5eXRmMWFKeE9DSmVaSjM2NjZBVUh6VXNRQWZCVzBFQms?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "U.S. Treasury Yields Edge Up, Bond Market Focus to Stay on France",
    "source": "WSJ",
    "time": "2026-10-23T06:17:00Z",
@@ -400,6 +447,7 @@
    "time": "2026-10-23T06:16:00Z",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUJFNF9jb29zTXFTdl9vc0ZXNFlTMXB1UWFoYzFDT0VxRktZMFZZMkJPSlBJSVVGbXhhRG9TalF0TnZjNUNPZmdNVS1ncE5TbEJweDlvSHJYU2dlaDRUVmVnQ3QwT3ZSTVA1eFpzT0NBM2R2OEdqcnBHX3ZRc1dZcE9GYTB0cnlnUGVXQkhzTEMyX2lqZ3hr?oc=5",
    "tags": [
+    "CENTRAL_BANK_GOLD",
     "GOLD"
    ]
   },
@@ -555,7 +603,7 @@
   {
    "title": "UK government promises to save businesses £800 million in paperwork and tariffs",
    "source": "Reuters",
-   "time": "2026-10-23T05:02:00Z",
+   "time": "2026-10-23T05:03:43Z",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFM0SWI5QmdpcUtXMmF3bUUwekJQbVlUQ1k3dGNvZEpMNkdkZEJWNGMtTkNBNHNQbWhDam13YjVHUF9RWW5wTmhlVDVPRU42V1hiMEZzMVBrNnUtbkZvby15YzhnWVhPOE5iNTdJbFNFR2lfSkFWSDBVYXlTXzNEeXBudzBGT3ppN2FMUmxlVllPVU9rQmtfTUp4UTlfaEtKb2V0SVR0UWtkWG84d0VkNV8yNA?oc=5",
    "tags": [
     "TARIFF"
@@ -633,54 +681,6 @@
    "tags": [
     "YIELDS",
     "OIL"
-   ]
-  },
-  {
-   "title": "Indian bonds flattish as oil spike offset by falling Treasury yields",
-   "source": "TradingView",
-   "time": "2026-10-23T04:33:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcWtCVDM0NTFjbnE5dlFOcE5leUg4VXhEcTJCY1haSldBRmxlalFjUXJrTEZ2SmpQYmdudUVNMlZ5MG5tTUo3SzZJLWpUREFKLURhTHhsVTlINU1hWXJqQXN0X1VQS0ExZWhtSXBra1UyZ3JTaUFERU9sZUNOVUR3Z2hpeGI1ZHR1VDdEdGpOZThfYmNRXzJWd2dYSEFGcVIwbElSdVlHaGN1VjJidmJkWEFCYlVvaVc0cVBDOHpZVVFRWEUxRjFjVk5INlAtTklHelp4Vg?oc=5",
-   "tags": [
-    "YIELDS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Gold heads for steep weekly loss as oil prices fuel Fed rate concerns",
-   "source": "CNBC",
-   "time": "2026-10-23T04:29:38Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEhSek0wcnlJbXhsZ0NkYmVoNEJmSUF5NEdCRElnZUVtNEcyY1hJSUloNEVtV3RRcDNXazdBUzc5a0V5OS1JXzFZMkROWVU2VHE3dUZmUExCMzdiRkNXZ0ZTY3pwUEJXR2RGaWY2QXVJOEtxV3lCWmV6OGdkZEE2NmJxcGZpSUYzZUhFNnRCVkotekVpY3BrWEVudnJkckF6dmVVZl9qNUtwN193MVV30gGvAUFVX3lxTE1QSFJ6TTByeUlteGxnQ2RiZWg0QmZJQXk0R0JESWdlRW00RzJjWElJSWg0RW1XdFFwM1drN0FTNzlrRXk5LUlfMVkyRE5ZVTZUcTd1RmZQTEIzN2JGQ1dnRlNjenBQQldHZEZpZjZBdUk4S3FXeUJaZXo4Z2RkQTY2YnFwZmlJRjNlSEU2dEJWSi16RWljcGtYRW52cmRyQXp2ZVVmX2o1S3A3X3cxVXc?oc=5",
-   "tags": [
-    "FED",
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Russia's new type of 3D printed missile will make jet Shaheds look like a 'small problem,' Ukraine's drone gurus warn",
-   "source": "Business Insider",
-   "time": "2026-10-23T04:27:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb0tKVWJFS2sxZXdYY1FWSmdZemg3WDA2SnVzRTlJVEV0anVSUThyWUlDLWxKN0FsX3ZsZk9LTDIzbjNFUmduX1hKcDg0VFFBaGphcDVsM25JTzJTYWRYRm9vTDg3UlhmZEI2R1lhRFBrY2lXbXR6U3VLck03OXpIS2dSSFZ6QXFpOHdNUU5udUhmdkJHTHpTVTBVbWlscjhHNEY0VTJ6ZWxaMTUxbkE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up",
-   "source": "Al Jazeera",
-   "time": "2026-10-23T04:09:28Z",
-   "link": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "How Mark Zuckerberg went to war with his own board of directors over pay and power",
-   "source": "The Washington Post",
-   "time": "2026-10-23T04:08:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWnlBZ3dyc0JsazJiVEcxTFJYbWY3b2pjeDRrb0x5VkJXUTBld3RqM0tFV3FaZTluaU12NFdmZ1g2S1JIZVdrS2lWUTkycFNXRlNXOFBEMmVscm5IQU55X0VDUUVLVzZzZEczamhDcFZFQjdPakpsaVJyTy1MM0JWX1lLQmF1NGQzRmhEQ1V0ZnBxODNLZmRjOFk2d2NYUWFiMElZcG1zbkJleUNfc1JQZnJwOWphWGpGY1Zz?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
