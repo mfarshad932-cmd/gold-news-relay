@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T06:59:58Z",
+ "generatedAt": "2026-10-23T07:28:18Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 1
   },
   "marketwatch": {
    "http": 200,
@@ -57,11 +57,11 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
-   "items": 57,
+   "items": 56,
    "kept": 7
   },
   "bbc_world": {
@@ -81,13 +81,13 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 32,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 6,
+   "kept": 6
   },
   "gn_tariff": {
    "http": 200,
@@ -106,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 33,
+   "items": 35,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,54 @@
   }
  },
  "items": [
+  {
+   "title": "Volvo Cars shares plunge 25% amid China sales slump and fresh job cuts",
+   "source": "CNBC",
+   "time": "2026-10-23T07:27:31Z",
+   "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "WTI Oil rises beyond $100 amid fresh concerns of supply disruptions",
+   "source": "FXStreet",
+   "time": "2026-10-23T07:16:59Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZVFMM3RMMXE3U1k5NjFJTWRYdXFBbmFqem5EQ1Iya2tMQnZlWXJ2cXBnbnh1MzBlSElYaDQ5eW5yZ0YtUDU3Y0U2YS1Jd2Exdnh3aFRBVUVGTXVXbEJ2R3FJa0hwWUlFeXo2UmlCZTlpSDRFMGhTTmFPcnB6T1IyXzFWTm1YcW80Znc2S2d4TDA4OW5yTFdGM2hVekcyZXNpVFNyb1k5XzdJdFFBeXc?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Oil Futures Continue to Rise Amid Fears of a Return to Middle East Escalation",
+   "source": "Investing.com",
+   "time": "2026-10-23T07:08:00Z",
+   "link": "https://www.investing.com/analysis/oil-futures-continue-to-rise-amid-fears-of-a-return-to-middle-east-escalation-200690127",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "The Fed Faces Its Most Confusing Economy Yet",
+   "source": "Bloomberg.com",
+   "time": "2026-10-23T07:00:11Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTWtTcnB5VzZ4eWIwQV9sRU5BWmxDNXU3a1MyYm9MNEdvSXM4cjA0THVHMWVfT29lTnp2RDdXSG5JOERnci1iNjZCRWp2MkhYV1N4LXB3b0pILVVGc1c1d3RJWUNDSzFnS0dDRURUNTNCX3VmTWQ0djBYXy0wV0IwQ0xIVFByRGtJSUtSSDdPWkNBckhtTm1GbXktcmx6X3ZZY1dYbzlCTHZFcW9iMVM1dGlLWmpva3lzWUhTUHJqNC1fallTRzJZ?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Gold struggles to extend rebound as Fed hike bets, firm USD cap gains",
+   "source": "FXStreet",
+   "time": "2026-10-23T06:59:29Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXZUdHQxUjlmRkl1RXVmSDVZRnFwd0dFeTRxU3NaY0REVzdWampCTlVpZTZJTHhRNkZhZGhvRnpmbjN0OHlhaU5rN1ZaZ2NtUU1VY1UyZ3JyUWZ3cWZKUnU3Yl9fZXhxaXYxY19HTUI4R29HYndLOVhnTU9YcHNZZ01QdUoyTmktVThNY2ZQblhzdF93ZUYwaExFWS01aUpwWUFCQS03T09paGU2NDVta0FZVGo1Uy1VWS1QbXJ3?oc=5",
+   "tags": [
+    "FED",
+    "USD",
+    "GOLD"
+   ]
+  },
   {
    "title": "Electrolux posts Q3 loss as middle east conflict, U.S. tariffs hit earnings",
    "source": "Investing.com Nigeria",
@@ -142,6 +190,16 @@
    "tags": [
     "OIL",
     "GOLD"
+   ]
+  },
+  {
+   "title": "UK retail sales fall more than expected in September, complicating BOE rate hike outlook",
+   "source": "ForexLive",
+   "time": "2026-10-23T06:23:10Z",
+   "link": "https://investinglive.com/news/uk-retail-sales-fall-more-than-expected-in-september-complicating-boe-rate-hike-outlook/",
+   "tags": [
+    "RATES",
+    "CENTRAL_BANK"
    ]
   },
   {
@@ -226,6 +284,25 @@
    ]
   },
   {
+   "title": "Citi’s $60 Oil Call Meets $112 Brent",
+   "source": "Investing.com",
+   "time": "2026-10-23T05:36:00Z",
+   "link": "https://www.investing.com/analysis/citis-60-oil-call-meets-112-brent-200690121",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Rising Crude Oil Imports Reduce China’s Need to Draw from Stocks",
+   "source": "Investing.com",
+   "time": "2026-10-23T05:34:00Z",
+   "link": "https://www.investing.com/analysis/rising-crude-oil-imports-reduce-chinas-need-to-draw-from-stocks-200690120",
+   "tags": [
+    "OIL",
+    "CHINA"
+   ]
+  },
+  {
    "title": "Gold Slips As Oil Price Rally Fuels Inflation Fears Ahead Of Fed Policy Decision By Kedia Advisory",
    "source": "Investing.com India",
    "time": "2026-10-23T05:30:02Z",
@@ -244,6 +321,16 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT1NDUjBqbjRwU2xydjNvU0RhV3BQdHhCamhRM1JuX1UxVHRydkFGLW1nXzV5Z1dqUzd3NGpWa3IyUnp2MEs4TmN0NmgtZldKWlJjRTktazFvbEoxTTBxbXo4RDZZM3p6U001QzAyS01MdnNCNm9kZGZqUFg3bkhzSlptdmo1WG1FaHFSajRlOWpqM29RcmpYUlRsUXRleFhsUDNZ?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "USD/JPY: Yen Hits 5-Week High at ¥156.10 as US Yields Slide, Japan Inflation Hits 2026 Peak",
+   "source": "TradingView",
+   "time": "2026-10-23T05:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaUZPUEplazkzMDJjTzQ4QjAwa1hpQ2dEa1hQTlJIS1Y0VmNMN09GX3pwYktpYzVTSWVKZmVrNFVsdFJDb2RQZ05wRjFzRUZnTU1jdDZzR1lEdVdLZmprNEJSaUZMVFNxb3BmMGFjSzNqQWdfUnZBM0FRTEdUQlV5bkdHNk9WTmh3WW1QMFZOU0Fud1VMU1VVNGk5b1pvYzJLd0s0bUlqbl9hYXM5czc2S1RJMlc3TURaVkE4YVpfNnVWMHNNWGpCeXNyREZoUHB5NWRPSjNXY2VfOXV0dnQ3UjhlYkI?oc=5",
+   "tags": [
+    "USD",
+    "INFLATION"
    ]
   },
   {
@@ -271,6 +358,15 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFM0SWI5QmdpcUtXMmF3bUUwekJQbVlUQ1k3dGNvZEpMNkdkZEJWNGMtTkNBNHNQbWhDam13YjVHUF9RWW5wTmhlVDVPRU42V1hiMEZzMVBrNnUtbkZvby15YzhnWVhPOE5iNTdJbFNFR2lfSkFWSDBVYXlTXzNEeXBudzBGT3ppN2FMUmxlVllPVU9rQmtfTUp4UTlfaEtKb2V0SVR0UWtkWG84d0VkNV8yNA?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "2GB touts ‘Ben Roberts-Smith day’ as Fordham interviews alleged war criminal | Weekly Beast",
+   "source": "The Guardian",
+   "time": "2026-10-23T05:02:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWk56b3FTTEQtNW5WVVFIMGpfbFRFLUNrMkVvT1BEVzJPcDNKNzRTdktpUjdxbllyc1NSVDZWeUNKTFVxVzhQczZJdXp0djFZbjU1eE92enBDOUJEa2k2cE9ldHhiazRfUG50eFZrSWV3a3NELUZONWFUQkhkOURQNk9WREpzWjR4YVNIelRVSmhua3lkbjlidlZoQ0QyRDVBRWJiWWtpSl9GNTRGbDVlVFhMcEpZeXgwdEZCQTZDajFmcFBNdVo0cU1GMXBfOWNidFg3TVV0X1M?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -316,6 +412,15 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa1pZbTNPODRoNnNTWE1MZzg5ZDF5RHZfd0dzcnpmM2dBTzdBalNVX2ZZM2lLMkdONzhMb09QVzRJMk5qU1VpWDU1VjhBYmVVbXlORVJMSDFkdVpDWTdhXzBLSDBZUHpXd3RCME5NTkRFS1JvYk04QkZKRzdiT0xkY0FWcDFWMDMzTDJzZjNSZVhhQTAtc1Z6RHpFUGp1VG1kdndYNVBB?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Brent Builds Geopolitical Premium as Gulf Risks Rise",
+   "source": "Investing.com",
+   "time": "2026-10-23T04:38:00Z",
+   "link": "https://www.investing.com/analysis/brent-builds-geopolitical-premium-as-gulf-risks-rise-200690113",
+   "tags": [
+    "OIL"
    ]
   },
   {
@@ -429,25 +534,6 @@
    "time": "2026-10-23T03:46:00Z",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYktXbWo0THlBSzNMMzk1YUZlcE5mOXpxc3k1V3V2dGVhc3NGVGVHTmdrU1hfMTBDSlpYTndoZTlrdzM0RXdsN2pZWm1KRktpOWF5ckg5Ujd3UGR2ZXdORmZoNFJiTkQtek5ZdzZvRUloOElrRC0zY0tka09TcktBUjF2ZjNqZndFVE9vTXFFVdIBjwFBVV95cUxOYktXbWo0THlBSzNMMzk1YUZlcE5mOXpxc3k1V3V2dGVhc3NGVGVHTmdrU1hfMTBDSlpYTndoZTlrdzM0RXdsN2pZWm1KRktpOWF5ckg5Ujd3UGR2ZXdORmZoNFJiTkQtek5ZdzZvRUloOElrRC0zY0tka09TcktBUjF2ZjNqZndFVE9vTXFFVQ?oc=5",
    "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "2GB touts ‘Ben Roberts-Smith day’ as Fordham interviews alleged war criminal | Weekly Beast",
-   "source": "The Guardian",
-   "time": "2026-10-23T03:45:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWk56b3FTTEQtNW5WVVFIMGpfbFRFLUNrMkVvT1BEVzJPcDNKNzRTdktpUjdxbllyc1NSVDZWeUNKTFVxVzhQczZJdXp0djFZbjU1eE92enBDOUJEa2k2cE9ldHhiazRfUG50eFZrSWV3a3NELUZONWFUQkhkOURQNk9WREpzWjR4YVNIelRVSmhua3lkbjlidlZoQ0QyRDVBRWJiWWtpSl9GNTRGbDVlVFhMcEpZeXgwdEZCQTZDajFmcFBNdVo0cU1GMXBfOWNidFg3TVV0X1M?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold rebounds from three-month low; not out of the woods yet amid Fed hike bets",
-   "source": "FXStreet",
-   "time": "2026-10-23T03:41:35Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXZUdHQxUjlmRkl1RXVmSDVZRnFwd0dFeTRxU3NaY0REVzdWampCTlVpZTZJTHhRNkZhZGhvRnpmbjN0OHlhaU5rN1ZaZ2NtUU1VY1UyZ3JyUWZ3cWZKUnU3Yl9fZXhxaXYxY19HTUI4R29HYndLOVhnTU9YcHNZZ01QdUoyTmktVThNY2ZQblhzdF93ZUYwaExFWS01aUpwWUFCQS03T09paGU2NDVta0FZVGo1Uy1VWS1QbXJ3?oc=5",
-   "tags": [
-    "FED",
     "GOLD"
    ]
   },
@@ -601,92 +687,6 @@
    "tags": [
     "GEOPOLITICS",
     "TARIFF"
-   ]
-  },
-  {
-   "title": "US tariff war is fueling Vietnam's coal boom: Maguire",
-   "source": "TradingView",
-   "time": "2026-10-23T01:14:00Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbXBMakl4SUZHdEJDbWNIbzlOMWt0eFVyMEMxY1ZIVl82UXVwZ0ZYSTNJcDBSc2NhQ2pyLWVIeVd4U3c1cmZIN0dVeUR1M3VXT0VWS0N6RFdNaW5BZG95ZUplQ1VOOWFQejQ5NXdVd2dxQklBRnB4c2lwMWoyU3JJUTdsWVktdmExcjVXYlB2Sl8wRGhDVFdTOHNGa0NFYWFWdWNsLW9ETU1OUWJhbEhBY2lUWlY0STNKdVk3dXB6OA?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "WTI trades near $99.00, five-week highs amid escalating Middle East supply risks",
-   "source": "FXStreet",
-   "time": "2026-10-23T01:01:37Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYkk2MjB6TE1aRDYxOURrYThUc21aVWptSnZTZjBvdHpzTklSSEY4UmVRYkdPNlJvR2lmcXNKbTROVXVwWTNFek5aOGh1cksyR2tYUmRsbEZ6bUdqam1LdjJrdXRPUXd0dnBNUDFmMFVULVJuMnhKVVdzemI2WWZBMWhQbHVVZlVFOU1oMFlZRVlUVURKWHg2QnZ2RWFDbmZPLXlzb3V6MktpMl8yd19Za0thZHI4QUQyNGc3QQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Japan core inflation in September surges to its highest this year at 2.1%",
-   "source": "CNBC",
-   "time": "2026-10-23T00:55:11Z",
-   "link": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
-   "source": "WSJ",
-   "time": "2026-10-23T00:38:46Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Japan flash PMI holds at 52.3 as services gain offsets factory slowdown before BoJ",
-   "source": "ForexLive",
-   "time": "2026-10-23T00:38:32Z",
-   "link": "https://investinglive.com/news/japan-flash-pmi-holds-at-52-3-as-services-gain-offsets-factory-slowdown-before-boj/",
-   "tags": [
-    "CENTRAL_BANK"
-   ]
-  },
-  {
-   "title": "Gold price slumps 2% as oil spikes to five-month high",
-   "source": "Mining.com.au",
-   "time": "2026-10-23T00:32:54Z",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcmtwdXNQbUU0UmE0Rlo5dUNLMXdWZ29ZSHU4UVotdnpKTE1VTTJ2OWlYSnl3bzE3and2N2pTMjI3dXMweXppSzJPc09ma3BvcWlxX01qZjlPclR4T3Y3R1RkZWNUb3pReUtCTmFSWjBRWDdmMkREV0lFcTJtck01Zg?oc=5",
-   "tags": [
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Alkane Resources - Quarterly Report - September 2026",
-   "source": "The Manila Times",
-   "time": "2026-10-23T00:32:51Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcm1LUGJSNzE3aHlUOTNxc2RYZkxrUTBrTzZfOEhEVDJLWVo2akRaY1hlWXR0WFViYTNuTlV3NWxxUXdOSi0yZmFOZmNsYng2bEVaYWFGZEp3U0lLWlBFLXJzRl9mYUJZeWhVYjNfWk5XSXZYNk01WklINEk2dmFFXzNVblhNakhQOTI1c3l5eXBMQk9rT1pWRlNSMU1mSGlhTHhYYlhUb0lDV1FCdTZwYlpuc3UwbFNCVi1rclZEUWU3b3BE0gHEAUFVX3lxTE1ybUtQYlI3MTdoeVQ5M3FzZFhmTGtRMGtPNl84SERUMktZWjZqRFpjWGVZdHRYVWJhM25OVXc1bHFRd05KLTJmYU5mY2xieDZsRVphYUZkSndTSUtaUEUtcnNGX2ZhQll5aFViM19aTldJdlg2TTVaSUg0STZ2YUVfM1VuWE1qSFA5MjVzeXl5cExCT2tPWlZGU1IxTWZIaWFMeFhiWFRvSUNXUUJ1NnBiWm5zdTBsU0JWLWtyVkRRZTdvcEQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Opinion | Oil’s great escape from the Middle East",
-   "source": "The Washington Post",
-   "time": "2026-10-23T00:32:09Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnBBQkJLYmlzMGtrT3g5bVNHdGtCd2Z0YzA4QzNpQlBOYWpsck1iTDRuTUQwdVdJdEUwdVIzZ1hOV0xpaEl3N3V2eFNNRmF4VU52MTRRa2k4U2FHVGdxbDd6ZFNhTnJXeWtrVVhqRmZEdmJydzJQT251a2xYNUZpTjNwZkVFYmdvU1ZiSlRSU0JRZ3lzdTJJ?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "U.S. Treasury yields crater, 10-yr closes at one-month low on safe-haven demand",
-   "source": "Investing.com",
-   "time": "2026-10-23T00:25:53Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSWh3MktMQ3pNNzZDblpKTXI2Umpzd2taclphRDQxX0d6a0dia19HVzhjcUxxbGgtNG5yRjNXaHYyWGQ4SktXUlYwZTRqWmVBVVhHcjltVFNQQlNWSHFiSy0zZGFJWFpacWJPY1U0T3RPOFgwYmJsT0NfendTZlhXZ2wzSndqN2Y5QTRFSjNtZk9jQk9OaWhwOWhJRTdrNTJxdzhkS0FGODBqLWpmWHhHMnVNSDBvQ0VQaFgzOU0tOA?oc=5",
-   "tags": [
-    "YIELDS",
-    "GOLD"
    ]
   }
  ],
