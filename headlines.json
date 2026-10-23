@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T22:06:41Z",
+ "generatedAt": "2026-10-23T22:35:01Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 9
+   "kept": 10
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 39,
+   "items": 38,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 12,
+   "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 27,
+   "items": 29,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 43,
+   "items": 44,
    "kept": 12
   },
   "gn_sanctions": {
@@ -111,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 4,
+   "kept": 4
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,70 @@
   }
  },
  "items": [
+  {
+   "title": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
+   "source": "CNBC",
+   "time": "2026-10-23T22:30:52Z",
+   "link": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+   "source": "BBC",
+   "time": "2026-10-23T22:25:06Z",
+   "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Watch Gen. Hodges (Ret.) Says Trump Actions Help Russia's War",
+   "source": "Bloomberg",
+   "time": "2026-10-23T22:23:25Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQzJZaGM2M2hqUFFOTjVJTGdQZUc1RHJSMlNDWmF2OXBPTm04VDAxNmViaTBETExGV2R2Y0lCVktxekJfXzFUT0swOUcwT0ZqbzBIR2lqeFFvdFdtMWdwdHRVYk9lbzMzYXRjUm9uUnU4NVpqdVdaUVdPWUo1VU1ZdjhFTEI5TzJ0elRHLXhESVpweV9sNExpRVNpMTdNVnNJQUl6Ulpyak81UQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Opinion | Iran war fever is rising again. The battlespace has changed.",
+   "source": "The Washington Post",
+   "time": "2026-10-23T22:16:07Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmozelRrLWFLcnl3U2U1ZjhUOFFTOS1uWGdFc0Ftc0lxb25Jdkh4cy04Y2JNaUNZSGEzMUFUcHlhSDEyS0NjVU1pdjFsMmJBS1JaUlFpWnVxRlNZZUx5TXFaVkxBekl6bjhDWHBBclVBR2QtOUFhVFF2WjVhUUlzaEMxTFlWT3VyX2NzWGdRZmVyWk1LVDVXcFVxODR2VG5GQWc5bjlWVG9Sdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump ends tariffs on some Canadian products, aiming to help Senator Collins",
+   "source": "Reuters",
+   "time": "2026-10-23T22:07:23Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWdrcmlzeVVGU0lLY2lmdVZHQ094Uk80eXhLb25UQkVoYjhXX3lXSERuOW1pVzNpRGEzQWMtMUVfVEp5bERnM2hqM0hFZFNrb1B5Y1QxRG9tMDUtTFNQSFFoMFZodXFPbmtDUUhpYXVIOXhNRTdkNU9RcDkzRW8xTkM0REpYZ0k3TlhDOGx6WEhYSUJIWG5WSE1Ia1FLWHVTVHN5UFhjVmhtb1J4TkpDTU90LVp4eWR0MnBxaA?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Why is Israel increasing its presence in the Balkans?",
+   "source": "Al Jazeera",
+   "time": "2026-10-23T22:01:52Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Why Trump and Carney Haven't Touched Energy in Their Tariff War",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "time": "2026-10-23T22:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWkl0eEIzLUtSMVNqLUhkUjBmeExQcmpSNjFMdjJUbl9KR19Ubk91dzJIODVsbFNkNFkzN01jZTJ4NVBJc1U1YjNLSmZRX0ZoN3VVLVZyMzVmcVliUE04RUlMZDFxdVA5X3p0QV9ITUVKN2h3ekFwRXBReEZCaDd4Ql9RNnBUU0NHVUZLcVl2ellDOXZCYkl4ZTBLdFoxTFk1enlHS1lkRTBnTEJFQXFibWgtTjjSAbQBQVVfeXFMT1pJdHhCMy1LUjFTai1IZFIwZnhMUHJqUjYxTHYyVG5fSkdfVG5PdXcySDg1bGxTZDRZMzdNY2UyeDVQSXNVNWIzS0pmUV9GaDd1VS1WcjM1ZnFZYlBNOEVJTGQxcXVQOV96dEFfSE1FSjdod3pBcEVwUXhGQmg3eEJfUTZwVFNDR1VGS3FZdnpZQzl2QmJJeGUwS3RaMUxZNXp5R0tZZEUwZ0xCRUFxYm1oLU44?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "TARIFF"
+   ]
+  },
   {
    "title": "Gold and Treasury Yields Reverse Course as Havens Rally",
    "source": "Mining.com",
@@ -191,6 +255,15 @@
    ]
   },
   {
+   "title": "Melania Trump brokered ceasefire at besieged Ukrainian town, White House says",
+   "source": "The Washington Post",
+   "time": "2026-10-23T21:27:14Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY3g1ZWdGb1FvTHBDdVRKR093bHZmd2RPQjgxdWd2ZnIwblRXRWR3VDVPd1RBVVN4QzdMbDUyX29vZVpFLS1Ha0hvRWtPdHNYZ0ZkcWhZUTJVYkR3c3VQZnoxakJlMy16eHpuZ2FvRHFaTEdwd2lSay1wWTFqemhNR2JaTXVudVlVa19GTkpjNDRJb0xtS0lIN3BtaTBmOGJfb2tCcFMtNGFsaERNcXBMZ0xJRmFfa3hmdGdneEhR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
    "source": "CNBC",
    "time": "2026-10-23T21:26:59Z",
@@ -209,6 +282,15 @@
    ]
   },
   {
+   "title": "Wall St Week Ahead Earnings flood, Fed meeting will test rickety AI market rally",
+   "source": "Reuters",
+   "time": "2026-10-23T21:21:32Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3FjeUJFd2Z6ZFBxOEFlLUx4anZlN1BqeFkxQ1pFcTdXTENYc0tMdW9RbjJ1Vk91Y2tmSXVoRDFCTmZoQ2cxN3BaSlFfTXplZUNZTFIzVmR3OTVmUVYzWnBXVkxRNXAtOEpBSUpIVjlBMnJ6cVViYnFSSHZoaC1CbkR5TnBzZndWNEo5aFlkWTVKY0hSYzRuOTlzUjYwcGlrcFJKQXhlbmFOMHNWLTRiRHZaM21fWEF1SDl1Mg?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month",
    "source": "Reuters",
    "time": "2026-10-23T21:19:02Z",
@@ -222,15 +304,6 @@
    "source": "The Washington Post",
    "time": "2026-10-23T21:08:40Z",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclp5T1pZS2MxZFdLYUhNbTFJemF5dGxFTERtSnowODVOQVJPOUR4YUo0NTRmRDFtOUJpb185Vll4QjdLeExiaDk2ZUY5YW1vOGtiak1kbDRJQjNlRjlsU09CUlF6Y0stWkZ4NFNMRnE0bk5jelpKUkRTTXRvV2t3V09FUktPb05oYUlvbTdmeHI2b2tOTnAzT2dTcmc5RGFrR0xaeDJ3Y0lrUlJBWVQ3NGJ6Um5yZmhfdnNJ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump removes 50% tariffs on Canadian products to try to boost to Maine companies",
-   "source": "Reuters",
-   "time": "2026-10-23T21:08:33Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWdrcmlzeVVGU0lLY2lmdVZHQ094Uk80eXhLb25UQkVoYjhXX3lXSERuOW1pVzNpRGEzQWMtMUVfVEp5bERnM2hqM0hFZFNrb1B5Y1QxRG9tMDUtTFNQSFFoMFZodXFPbmtDUUhpYXVIOXhNRTdkNU9RcDkzRW8xTkM0REpYZ0k3TlhDOGx6WEhYSUJIWG5WSE1Ia1FLWHVTVHN5UFhjVmhtb1J4TkpDTU90LVp4eWR0MnBxaA?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -254,6 +327,16 @@
    ]
   },
   {
+   "title": "Netanyahu: Israel should ready for global sanctions, use blockchain to circumvent them",
+   "source": "The Times of Israel",
+   "time": "2026-10-23T21:00:46Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUi1PLVNNZWZQMUFaMXlfZVA2Y3Z6aHFBcmM4T1ZVbmdSYkJKV0xVd2dBNDduZElvdGF1TkI0dVlwXzhiZGExbGZkZUJpYjVNcDRNakRjOVhkQTFqZ3FjaFM3NGRjYmxrTlJjWHBtZ1hUUXNwUC1rTk9ES2t6aEdMQjFXNEZSQ0FNdDNWUERocThTeWdiM3VBUkRRY0dlQWdudE0zcjZTb1NmRmdmN2ZsMFczTDBoQdIBuwFBVV95cUxNdjNhSU9mZVkzUjhhb09hd1JCcUNZelk3VkJLZGhMSVBfN2JhV0NPMzFYSTl1RU1VSTJKT1FoeldCUWQ3Vzd1ZXpJTUFCVnFGWmFOb0NyaUxUajQ4UUhrMUotejJ3VGFnLXVxVW82S3VWaGVueFpkWWlSSHoyZWFZc0pWcVQ2X0l6aUpHVGdvVjNjdjZ4cnZvNExQQzVhNUlYYy1GWnFZRGFtNlJqMFJNTnJtZGp3T3drQ1Ew?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "Coffins and Canoes From Canada Get 50% Tariff Under New Trump Order",
    "source": "Bloomberg",
    "time": "2026-10-23T20:54:50Z",
@@ -272,25 +355,6 @@
    ]
   },
   {
-   "title": "Melania Trump brokered ceasefire at besieged Ukrainian town, White House says",
-   "source": "The Washington Post",
-   "time": "2026-10-23T20:51:10Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY3g1ZWdGb1FvTHBDdVRKR093bHZmd2RPQjgxdWd2ZnIwblRXRWR3VDVPd1RBVVN4QzdMbDUyX29vZVpFLS1Ha0hvRWtPdHNYZ0ZkcWhZUTJVYkR3c3VQZnoxakJlMy16eHpuZ2FvRHFaTEdwd2lSay1wWTFqemhNR2JaTXVudVlVa19GTkpjNDRJb0xtS0lIN3BtaTBmOGJfb2tCcFMtNGFsaERNcXBMZ0xJRmFfa3hmdGdneEhR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Netanyahu: Israel should ready for global sanctions, use blockchain to circumvent them",
-   "source": "The Times of Israel",
-   "time": "2026-10-23T20:51:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdjNhSU9mZVkzUjhhb09hd1JCcUNZelk3VkJLZGhMSVBfN2JhV0NPMzFYSTl1RU1VSTJKT1FoeldCUWQ3Vzd1ZXpJTUFCVnFGWmFOb0NyaUxUajQ4UUhrMUotejJ3VGFnLXVxVW82S3VWaGVueFpkWWlSSHoyZWFZc0pWcVQ2X0l6aUpHVGdvVjNjdjZ4cnZvNExQQzVhNUlYYy1GWnFZRGFtNlJqMFJNTnJtZGp3T3drQ1Ew0gG7AUFVX3lxTE12M2FJT2ZlWTNSOGFvT2F3UkJxQ1l6WTdWQktkaExJUF83YmFXQ08zMVhJOXVFTVVJMkpPUWh6V0JRZDdXN3VleklNQUJWcUZaYU5vQ3JpTFRqNDhRSGsxSi16MndUYWctdXFVbzZLdVZoZW54WmRZaVJIejJlYVlzSlZxVDZfSXppSkdUZ29WM2N2Nnhydm80TFBDNWE1SVhjLUZacVlEYW02UmowUk1Ocm1kandPd2tDUTA?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
    "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
    "source": "MarketWatch",
    "time": "2026-10-23T20:50:00Z",
@@ -300,28 +364,10 @@
    ]
   },
   {
-   "title": "Opinion | Iran war fever is rising again. The battlespace has changed.",
-   "source": "The Washington Post",
-   "time": "2026-10-23T20:46:07Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmozelRrLWFLcnl3U2U1ZjhUOFFTOS1uWGdFc0Ftc0lxb25Jdkh4cy04Y2JNaUNZSGEzMUFUcHlhSDEyS0NjVU1pdjFsMmJBS1JaUlFpWnVxRlNZZUx5TXFaVkxBekl6bjhDWHBBclVBR2QtOUFhVFF2WjVhUUlzaEMxTFlWT3VyX2NzWGdRZmVyWk1LVDVXcFVxODR2VG5GQWc5bjlWVG9Sdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "GOP Sen. Susan Collins Says Trump Will Nix Some Canadian Tariffs—As She Faces Tight Senate Contest",
    "source": "Forbes",
    "time": "2026-10-23T20:41:24Z",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPU1hWX0JYQ0NJNG5yWjFnVnpneVM0VURFSTkzYnBjWXVKQ3FSTzV0UWJSUTBXTW40bk94MGN2dFRHVkN0bTlST1VmR3NRV19CNEVHb0FkVWpIM1RWdi11VFJrblRKRnc5YUduNlZ2QWdKOXAzeTd2TGRXUHY4T2hhdlhzR1d1T1QzZkpvMS1kb2l4ZVZqb1ZfRllMcEdWWEVteV8yeVJKTGdLcDBQTERPS0swNzNYcjQya205a0Y0cGlLUTlKRzFzOXBIdWdfMmFvSzlZb1FZekl6cFFZQTU0Mg?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "White House says the US is lifting tariffs on some Canadian goods",
-   "source": "BBC",
-   "time": "2026-10-23T20:39:39Z",
-   "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
    "tags": [
     "TARIFF"
    ]
@@ -336,7 +382,7 @@
    ]
   },
   {
-   "title": "Exclusive | Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins",
+   "title": "Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins",
    "source": "WSJ",
    "time": "2026-10-23T20:33:00Z",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmZYSFVLdHB5ZTlUdnVQWFQxTURvTlVUdGJZWlJmVGxJRWdkWWw4aXJpN0pCTUg4UDdMaDhQX0tIcDlLbG5tM3BFOEduZkxtbmhncmJIRVZMUUJNNDBWN0lISzV3WWhmUnY2Z05UcEUxVzdyeVRqVmhuLWlnRnhyb2hDYkgxS250UG8wTzB1YWNsQkFKWTZuYzM4SldUVlhfWDJtMGplOFRCUjdkVGlkX2VfXzRUWHlJajVHWVN3?oc=5",
@@ -597,15 +643,6 @@
    ]
   },
   {
-   "title": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
-   "source": "CNBC",
-   "time": "2026-10-23T19:21:12Z",
-   "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
    "title": "Susan Collins Touts Canada Tariff Exemptions in Tight Maine Senate Race",
    "source": "Newsweek",
    "time": "2026-10-23T19:21:00Z",
@@ -639,43 +676,6 @@
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONHZYZnB2WTB6MVI5Z1BoV2Q5c1hYQjVxbnRoaS1SLXM0NXVhZ0hjS3hKQV9lQmdDY2Q0OEhRSkF5c3pHYTNoYkQ5SXlVN1JxR1pmNUxtVndRQ2FzVURZTXA5MG5WVXA1WDQzLWc5aXdwY09UN3QzdXlITXFBdGVETUxrVndtRFkwbUo4dVhERC1KTXRlSnYzT3piaExubjF0WnoxVU55UTF1WlBBUFJiSjFuVENZNmN1NUNTYkxwZU1PdDZkWk10QzVUc3pSSGVjUGdPaEVqak1VeXpuR1NzdjlRZw?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Brent Crude Hits 5-Month High as Middle East Supply Fears Intensify",
-   "source": "Investing.com",
-   "time": "2026-10-23T18:57:00Z",
-   "link": "https://www.investing.com/analysis/brent-crude-hits-5month-high-as-middle-east-supply-fears-intensify-200690178",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Analysis • Instead of averting sanctions, Netanyahu offers an Iran-style blockchain economy",
-   "source": "Haaretz",
-   "time": "2026-10-23T18:53:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPLU9XT3otWURsWWdLcjVmczNmVWRIWURfcFZEbG4tbzljUFFBZEJqb2NSbTF5UWdnM2xQT3JWMTVVTjRabXNTb28xemxzaS1SYjdlN0JNSjB6YTd6OG1LRXZDVUNObDNvX1JEbXVPSUxfblpteFJEZWF3eFpUQ2ZPREhCTHpPZkVUT0Y1MHVUNVRnZUR4NUo4X0JROGlDa0ExWFZFM212aHZabXJfLUtZb2FNOFJUeWQwZ1hxalVYNlRnd1lPMlVnaUFFc3F4M2lLS2hlSENHb2RMT0d1SFV4SVVqaGlRdzJPX05kM2x0eUJDamVZWUJjMnlRcVo0X2tEVGhKUi0weWNFQXlRcTdhaDI4Y2Y?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-   "source": "BBC",
-   "time": "2026-10-23T18:52:17Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump prepares tariff relief on Canada ahead of midterms - report",
-   "source": "Seeking Alpha",
-   "time": "2026-10-23T18:44:06Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWGloRF9OVUVjWFNhMzRSZENkTExIcXRPc25taU5XTTAwdE9KblpSdXd1amtpdTdaTGgtRkRLVVBjd0hHdk9oWng1UUVXdVZMUVZhMWM4TXFtQ2wzX3VnMGxHZnJOVzhabjgtV0lzSDFaX3QyN05GcHg5YlBRN1V5RXVKYVpYNGdadWx1VEw2aTZHbHg5aDUyT3hxVjhNWi01Xy03Ui1B?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
