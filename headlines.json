@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T03:13:24Z",
+ "generatedAt": "2026-10-23T03:41:43Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -24,9 +24,10 @@
    "kept": 2
   },
   "bea": {
-   "http": 200,
-   "items": 48,
-   "kept": 0
+   "http": 403,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   "fxstreet": {
    "http": 403,
@@ -81,32 +82,32 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 32,
+   "items": 33,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 5,
+   "kept": 5
   },
   "gn_tariff": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_war": {
    "http": 200,
-   "items": 37,
+   "items": 34,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 20,
+   "items": 21,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 26,
+   "items": 28,
    "kept": 12
   },
   "gn_oil": {
@@ -125,6 +126,16 @@
   }
  },
  "items": [
+  {
+   "title": "Gold Price Forecast: XAU/USD hits fresh three-month low below $4,000 amid surging energy prices",
+   "source": "FXStreet",
+   "time": "2026-10-23T03:30:55Z",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVGVPMGVnV04yaGNoaUhXX0J0dV80S0xnRHZ4a3F2SmJYLVBLemoyUEVLZklsSkcyNEFTbFh2UnY2czdkTkpJTzF5d0Z3SjJnQXBWRFR4WUtUS2ZrZS1uSWczYjlyOHdqSmlPOU1WcDBIMjR1TmkxZmZKRV9LaHB4cXNtbklranVvVVpqX3YtYzkwS3duMDJReXRqQWVrbUg4b3dQRFpDYWw1QUVJbGJUSDlRUEFzZTdZMnVISTg0Tm5MZmUyaG9uNmJYT3B0Mk5LeDhBazFFVQ?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
   {
    "title": "Analysis • Netanyahu and Trump's private war could bring Iran closer to a regional deal",
    "source": "Haaretz",
@@ -156,7 +167,7 @@
    "title": "Australia sanctions 2 over North Korean fake IT workers scheme for nuclear funds",
    "source": "South China Morning Post",
    "time": "2026-10-23T02:21:10Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPakJzeXVsNTVHUDJFTVh3T2tCWmppdXlCV01PM1FYR2ZLVVRTdWVNVkdCcHp3MlNiM2xzN3JQSzN0ZlBZSnJCU3d0V1RFSy0xc2tidEdIT21ReWZHY0FjOEdLNkJFbDc5YUVMTFJENVhHSElHdkFJZko1TnRtdFoyRXp4V3Y1S04wZTlnTHpaWU14VHk1emtnRmpIcXozUzR4QVE0SFJhWGxlU3FjcVJFNHdfRDFBeTkzTmU2N1RjaUJ1a0w4TFZldWk3Unc1ZDJ0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPakJzeXVsNTVHUDJFTVh3T2tCWmppdXlCV01PM1FYR2ZLVVRTdWVNVkdCcHp3MlNiM2xzN3JQSzN0ZlBZSnJCU3d0V1RFSy0xc2tidEdIT21ReWZHY0FjOEdLNkJFbDc5YUVMTFJENVhHSElHdkFJZko1TnRtdFoyRXp4V3Y1S04wZTlnTHpaWU14VHk1emtnRmpIcXozUzR4QVE0SFJhWGxlU3FjcVJFNHdfRDFBeTkzTmU2N1RjaUJ1a0w4TFZldWk3Unc1ZDJ00gHQAUFVX3lxTE9mTnVqZWQ5M1RVYmJwTHJsTk5TM1RiWWNzeVEtcTREbmlyZXFJS1FDVkd2cV9wZXoyYjBfLWtkaWs1bDNBc2hkR2w1cUE2Z0l6WkJ6Sk5EUUVDRWhqNDZWZTVQQkVXZ3ZVamNMRFotU25kWmcyaF8xNHVONnZFTnVzUFpiYXRqY1d6MkVwYUhCRTF4VHF3amJFcmJPbnpzRUFVWUQ2Vy1ESjcwLU9DeEgtU0lBS1hYb0t2NVJocU9Jb0ZoU2tlTElqdlJGZFYwQWw?oc=5",
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
@@ -313,6 +324,16 @@
    ]
   },
   {
+   "title": "U.S. Treasury yields crater, 10-yr closes at one-month low on safe-haven demand",
+   "source": "Investing.com",
+   "time": "2026-10-23T00:25:53Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSWh3MktMQ3pNNzZDblpKTXI2Umpzd2taclphRDQxX0d6a0dia19HVzhjcUxxbGgtNG5yRjNXaHYyWGQ4SktXUlYwZTRqWmVBVVhHcjltVFNQQlNWSHFiSy0zZGFJWFpacWJPY1U0T3RPOFgwYmJsT0NfendTZlhXZ2wzSndqN2Y5QTRFSjNtZk9jQk9OaWhwOWhJRTdrNTJxdzhkS0FGODBqLWpmWHhHMnVNSDBvQ0VQaFgzOU0tOA?oc=5",
+   "tags": [
+    "YIELDS",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
    "source": "NBC News",
    "time": "2026-10-23T00:23:49Z",
@@ -322,22 +343,22 @@
    ]
   },
   {
-   "title": "U.S. Treasury yields crater, 10-yr closes at one-month low on safe-haven demand",
-   "source": "Investing.com",
-   "time": "2026-10-23T00:22:30Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSWh3MktMQ3pNNzZDblpKTXI2Umpzd2taclphRDQxX0d6a0dia19HVzhjcUxxbGgtNG5yRjNXaHYyWGQ4SktXUlYwZTRqWmVBVVhHcjltVFNQQlNWSHFiSy0zZGFJWFpacWJPY1U0T3RPOFgwYmJsT0NfendTZlhXZ2wzSndqN2Y5QTRFSjNtZk9jQk9OaWhwOWhJRTdrNTJxdzhkS0FGODBqLWpmWHhHMnVNSDBvQ0VQaFgzOU0tOA?oc=5",
-   "tags": [
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
    "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
    "source": "Al Jazeera",
    "time": "2026-10-23T00:00:00Z",
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fidelity's Timmer Blames Sticky Inflation and Fiscal Risk for Rising Bond Yields",
+   "source": "Yahoo Finance",
+   "time": "2026-10-22T23:57:34Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLW4ySUlud050eTVyeWNhUDNwWTVVTE9fVGo0bDZSbjFza2ItMWp2VHlqTDh0VG1UaVEwVmg3SzA4d1RERjRxdV9qY1praDlPZE1IRDZQMTZTUjZwazlWRlBINVllY05ZVnR3aHVudWx0YVlYX0NiYkozNTJ3QThOQXcyR25ENzFDWHJVSjI4c3lmUHh3UTNkYURlYTZSNWZHSl92Nm9YREE?oc=5",
+   "tags": [
+    "YIELDS",
+    "INFLATION"
    ]
   },
   {
@@ -659,25 +680,6 @@
    "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-22-oct-nasdaq-sinks-as-ai-worries-bite-treasury-yields-tumble/",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "Gold Miner Newmont Stock Rises on Expected Return to Growth in 2027",
-   "source": "Barron's",
-   "time": "2026-10-22T20:54:00Z",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMm1CdVhhSTNOeWFLR3J2UDVYdTBFeUstU25FOWNMVzlnalZPb3FiS2dTTVhYaC1ERUw2amVXZXpqUnJaRUlpTTlXS05rU19RenBBZnJGbjhKVW13anBHNUp3dllHZTkxUk9vWDFmQmdkUXoxZkpRcFIwdVd3R20xRg?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "War in Iran, higher energy prices are only delaying gold's rally to $5,000; mining stocks remain undervalued – Gabelli",
-   "source": "Kitco",
-   "time": "2026-10-22T20:49:15Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNXy1KLUdfVklTU19ybkZVc3VVVy1JakVKZHB1SlNKR2NJNEg0cVpSR3VnTVZhSFZzaWNPbWR1Y0c3MVJZSGRSdTVwMGk2X1FBRTFRZjdReEpWbk1aSTJicnhlaFlQcG1TM3JNcnpQdDZQanRiTGd3cG9kUXVsZ0c3VnZ6Ujd3M1JFbW5nT0VYdktQaWdwNHIzdnZPMEFuUDVhTnRJbGt1WVEyQzk5SWRCM2QxelNYSmk2?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "GOLD"
    ]
   }
  ],
