@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T06:03:31Z",
+ "generatedAt": "2026-10-23T06:31:38Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,12 +52,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 3
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 4
   },
   "whitehouse": {
    "http": 200,
@@ -81,17 +81,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 31,
+   "items": 34,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "gn_tariff": {
    "http": 200,
-   "items": 17,
+   "items": 15,
    "kept": 12
   },
   "gn_war": {
@@ -106,18 +106,18 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 33,
+   "items": 34,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 4,
+   "kept": 4
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,42 @@
   }
  },
  "items": [
+  {
+   "title": "U.S. Treasury Yields Edge Up, Bond Market Focus to Stay on France",
+   "source": "WSJ",
+   "time": "2026-10-23T06:16:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUh5anllcENIVlhXM0xrczNZWEVERVdFSE5lRzVkUFY1STBRUUtSZmdHbkRXX2pqNDY1TGxWdDJxTFZKRkc3cFhmUzBjTGUtdmlZaFYybG9tOFVaNk5IZTVpd1FVOW9mZUlRY2I1MFJwblJ3S1hqNVNkSVIyVmg0VzcyTEpncGhaWmUyYnFibVZqUUN2aU41MWxyc1QxYmJpSHVGVG1Jb2RGY1doTWln?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
+   "source": "CNBC",
+   "time": "2026-10-23T06:15:54Z",
+   "link": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+   "source": "MarketWatch",
+   "time": "2026-10-23T06:15:00Z",
+   "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+   "tags": [
+    "RATES"
+   ]
+  },
+  {
+   "title": "Could lab-made gold crash prices like diamonds? US start-up says it turned mercury into gold",
+   "source": "Yahoo Finance UK",
+   "time": "2026-10-23T06:14:16Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OYzl0VkdycEx6d3JMUU0zOEtIa3gtMGxNUkZTTzRZQzdXMHcySVpuNVNJNzFVM0YtbndxaHFsY3hBX2N4ZDJSSWdEWVQyT3RnUmVGYUdJX3dvRTY1MVZ0QXNxTTdKV3V4NEEtQlctcUo2R0dyRkxBT1RIWV9FQVE?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
   {
    "title": "How a Cold War Architect Broke Through the Iron Curtain",
    "source": "Bloomberg.com",
@@ -219,12 +255,30 @@
    ]
   },
   {
+   "title": "Justice Department Closes Inquiry of Federal Reserve Pushed by Trump",
+   "source": "The New York Times",
+   "time": "2026-10-23T04:57:45Z",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zdk5zX0FqR2NfVFhkd1hOdHJ2TllsbkNrVk5UeloyRXJaMWpHc2c5T19PNkVZc3F5bHFFRHp3M2ZwYXZhMnZlaV91N0xvQ00zbmxhV1FKYVVfNEJDWVVacDViQQ?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
    "source": "CNBC",
    "time": "2026-10-23T04:55:59Z",
    "link": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-10-23T04:53:49Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -257,10 +311,20 @@
    ]
   },
   {
+   "title": "Indian bonds flattish as oil spike offset by falling Treasury yields",
+   "source": "TradingView",
+   "time": "2026-10-23T04:33:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcWtCVDM0NTFjbnE5dlFOcE5leUg4VXhEcTJCY1haSldBRmxlalFjUXJrTEZ2SmpQYmdudUVNMlZ5MG5tTUo3SzZJLWpUREFKLURhTHhsVTlINU1hWXJqQXN0X1VQS0ExZWhtSXBra1UyZ3JTaUFERU9sZUNOVUR3Z2hpeGI1ZHR1VDdEdGpOZThfYmNRXzJWd2dYSEFGcVIwbElSdVlHaGN1VjJidmJkWEFCYlVvaVc0cVBDOHpZVVFRWEUxRjFjVk5INlAtTklHelp4Vg?oc=5",
+   "tags": [
+    "YIELDS",
+    "OIL"
+   ]
+  },
+  {
    "title": "Gold heads for steep weekly loss as oil prices fuel Fed rate concerns",
    "source": "CNBC",
    "time": "2026-10-23T04:29:38Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS0x2VHNBWkt6RWNETndlR0p1eDd4UnhlZFFFbWpaYWdocUl2MnRCQm16RFpYbHQ3dF9jOEtLMENKOHUySjNmaW03YkhFRmR3WXRnbWtIaGZwbVVQNHJMMC11aklCdlBNcjMySDZsOU16WVBaZl8zR2ttZkgxMXVVWldnY25RRjJzbks3WFJwZWpnUE9maFdseVAwcmlmRHFJYUxCTEJ4RmN5QdIBrwFBVV95cUxNUEhSek0wcnlJbXhsZ0NkYmVoNEJmSUF5NEdCRElnZUVtNEcyY1hJSUloNEVtV3RRcDNXazdBUzc5a0V5OS1JXzFZMkROWVU2VHE3dUZmUExCMzdiRkNXZ0ZTY3pwUEJXR2RGaWY2QXVJOEtxV3lCWmV6OGdkZEE2NmJxcGZpSUYzZUhFNnRCVkotekVpY3BrWEVudnJkckF6dmVVZl9qNUtwN193MVV3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEhSek0wcnlJbXhsZ0NkYmVoNEJmSUF5NEdCRElnZUVtNEcyY1hJSUloNEVtV3RRcDNXazdBUzc5a0V5OS1JXzFZMkROWVU2VHE3dUZmUExCMzdiRkNXZ0ZTY3pwUEJXR2RGaWY2QXVJOEtxV3lCWmV6OGdkZEE2NmJxcGZpSUYzZUhFNnRCVkotekVpY3BrWEVudnJkckF6dmVVZl9qNUtwN193MVV30gGvAUFVX3lxTE1QSFJ6TTByeUlteGxnQ2RiZWg0QmZJQXk0R0JESWdlRW00RzJjWElJSWg0RW1XdFFwM1drN0FTNzlrRXk5LUlfMVkyRE5ZVTZUcTd1RmZQTEIzN2JGQ1dnRlNjenBQQldHZEZpZjZBdUk4S3FXeUJaZXo4Z2RkQTY2YnFwZmlJRjNlSEU2dEJWSi16RWljcGtYRW52cmRyQXp2ZVVmX2o1S3A3X3cxVXc?oc=5",
    "tags": [
     "FED",
     "OIL",
@@ -332,6 +396,15 @@
    ]
   },
   {
+   "title": "Yen shines as AI jitters spur safe-haven rush",
+   "source": "CNBC",
+   "time": "2026-10-23T03:46:00Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYktXbWo0THlBSzNMMzk1YUZlcE5mOXpxc3k1V3V2dGVhc3NGVGVHTmdrU1hfMTBDSlpYTndoZTlrdzM0RXdsN2pZWm1KRktpOWF5ckg5Ujd3UGR2ZXdORmZoNFJiTkQtek5ZdzZvRUloOElrRC0zY0tka09TcktBUjF2ZjNqZndFVE9vTXFFVdIBjwFBVV95cUxOYktXbWo0THlBSzNMMzk1YUZlcE5mOXpxc3k1V3V2dGVhc3NGVGVHTmdrU1hfMTBDSlpYTndoZTlrdzM0RXdsN2pZWm1KRktpOWF5ckg5Ujd3UGR2ZXdORmZoNFJiTkQtek5ZdzZvRUloOElrRC0zY0tka09TcktBUjF2ZjNqZndFVE9vTXFFVQ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "2GB touts ‘Ben Roberts-Smith day’ as Fordham interviews alleged war criminal | Weekly Beast",
    "source": "The Guardian",
    "time": "2026-10-23T03:45:00Z",
@@ -367,15 +440,6 @@
    "tags": [
     "USD",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-10-23T03:23:49Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -598,7 +662,7 @@
    ]
   },
   {
-   "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
+   "title": "Iran war live: European, Mideast ministers meet in Istanbul for talks",
    "source": "Al Jazeera",
    "time": "2026-10-23T00:00:00Z",
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
@@ -624,69 +688,6 @@
    "tags": [
     "OIL",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target",
-   "source": "Investing.com",
-   "time": "2026-10-22T23:49:30Z",
-   "link": "https://www.investing.com/news/economic-indicators/japan-cpi-inflation-hits-9mth-high-in-sept-crosses-boj-target-4967840",
-   "tags": [
-    "INFLATION",
-    "CENTRAL_BANK"
-   ]
-  },
-  {
-   "title": "Gold falls to two‑month low below $4,050 as oil spikes",
-   "source": "FXStreet",
-   "time": "2026-10-22T23:35:22Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOGt3akRjaTllR1l3OWtsZzBxVGJoc2xRb2gwNmdkMEUxSGlJNDJ2djZjNjFRMDN2ckktU24tS0xGWlpzZkgtWkdxYXFfQ1UyX2Roc0JVeVZPWk1xbnJsM2pfeTZyRGVvRDRZUVB0UlBNU1ppVWRVempmaWxTdjk0emxPeklIWHRWc08yMDRDZkdSSHRJTDdTZktod3U?oc=5",
-   "tags": [
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Japan September 2026 Headline CPI 2.1% y/y (expected 2.1%)",
-   "source": "ForexLive",
-   "time": "2026-10-22T23:30:44Z",
-   "link": "https://investinglive.com/news/japan-september-2026-headline-cpi-2-1-y-y-expected-2-1/",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Elon Musk's Starlink and Starshield, and what they mean to Ukraine in the war against Russia",
-   "source": "CBS News",
-   "time": "2026-10-22T23:21:37Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12YkxWSndGS2t3eDRzeXBLclJjSVlXTHh5SkxUYk5fRW9nWUt2a0t1S0RxNWpkbXBHdzhMWUh6OWhXZE01bG91QW9rQlVVMUpFb1hzU2FwVXJqUmtzS2lOR21hSG0tVjVTQ1pSeXNjeWJBRFNjN3U2SjZLQ212ZUk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Long-End US Yield Hits One-Month Low as AI Fears Fuel Haven Bid",
-   "source": "Bloomberg.com",
-   "time": "2026-10-22T23:20:53Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS2QtcWhJRzBXeWNiMnFqOXhfNHd4WDhjb1RqUk0xa3NNbUdyYl8xTE5aRDdCVy01WDRPMGstSjJ1SndrZlFDdllTNEdveGJwVjE4YlpJNlpQQjJNQnVJWFBqNkpCOEhaNzFvTW1yNXRhU2NWdnZ3MUhua0RPaUxhVS0zdkxQZEYxTndHU1k2Sl9kYzVsMmU2a1AwODZZS2hoQndjRHIyel9nYy1OQllYaEhFQ1I?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Newmont beats quarterly profit estimates on higher gold prices",
-   "source": "Mining.com.au",
-   "time": "2026-10-22T23:18:48Z",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUmFQd0l0Q2gwZFA4eTZXY2Y3OE8xZkduR1hPZUgxa3FvUV9Sd25vaE1MbDlEM2J4MUs2SXBUTVpPTk11bFpuNkk5TXItN1dCcXFvNm9YX3Y5S1Q2M3NQZGhTOVg4S1BvaXVTWkg2WUVHLUZ0d1RoN2RsVWN3Q0JMYk5LTHI2WkVhWEZVYmRn?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
-   "source": "BBC",
-   "time": "2026-10-22T23:16:20Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
