@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T19:16:46Z",
+ "generatedAt": "2026-10-23T19:45:07Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 10
+   "kept": 9
   },
   "bbc_business": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 38,
+   "items": 37,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_tariff": {
    "http": 200,
-   "items": 22,
+   "items": 24,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 34,
+   "items": 37,
    "kept": 12
   },
   "gn_sanctions": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,10 +126,100 @@
  },
  "items": [
   {
+   "title": "Trump rolls back some Canada tariffs as midterm election approaches",
+   "source": "The Washington Post",
+   "time": "2026-10-23T19:38:40Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclp5T1pZS2MxZFdLYUhNbTFJemF5dGxFTERtSnowODVOQVJPOUR4YUo0NTRmRDFtOUJpb185Vll4QjdLeExiaDk2ZUY5YW1vOGtiak1kbDRJQjNlRjlsU09CUlF6Y0stWkZ4NFNMRnE0bk5jelpKUkRTTXRvV2t3V09FUktPb05oYUlvbTdmeHI2b2tOTnAzT2dTcmc5RGFrR0xaeDJ3Y0lrUlJBWVQ3NGJ6Um5yZmhfdnNJ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Investors are starting to find opportunities in the battered bond market",
+   "source": "CNBC",
+   "time": "2026-10-23T19:31:12Z",
+   "link": "https://www.cnbc.com/2026/10/23/investors-are-starting-to-find-opportunities-in-the-battered-bond-market.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+   "source": "BBC",
+   "time": "2026-10-23T19:30:19Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ahead of Tight Race, Trump Exempts Some Canadian Goods From Tariffs",
+   "source": "The New York Times",
+   "time": "2026-10-23T19:28:04Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMmRoTFhmbklvRWhyYlRzSlJjaENOdnVnbFhIZ1lWa3E1alhpSS1ybXV5M3dabXM0NlVFaktyY3pTd2U1OEFqVGR1bTRuM0x3dUZTNnlNLTZoOVQ4YklZRVJBU3FiNE56QnI1ek45X0RlOW5sZGNVTUFJYkgtbmtKTGRqaE9ESWRVX040?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Senior Ukrainian negotiator says local humanitarian ceasefire with Russia will start on Oct. 27",
+   "source": "AP News",
+   "time": "2026-10-23T19:22:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
+   "source": "CNBC",
+   "time": "2026-10-23T19:21:12Z",
+   "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Susan Collins touts Canada tariff relief in tight Maine Senate race",
+   "source": "Newsweek",
+   "time": "2026-10-23T19:21:00Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNekh3eFJ6SnJSck40QW1fbUdxb1M2TGtTOTNmQ3M0VGQydHFZRFItN3puTWh4M2VKVnNNQ2lrYksyYTk4bHBHMzBkcEU4SGVuMHVsQWk3bWZIa255V09raE9vSTFudnFRanMwbnZreUxFSWp1UXF4eFJyaXljWWNwM2NrSGlDRUVVYjdwdUt3aXdoRk4tQ3l2M0pvZExmZw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
+   "source": "CNBC",
+   "time": "2026-10-23T19:19:08Z",
+   "link": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Opinion | Iran war fever is rising again. The battlespace has changed.",
+   "source": "The Washington Post",
+   "time": "2026-10-23T19:16:07Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmozelRrLWFLcnl3U2U1ZjhUOFFTOS1uWGdFc0Ftc0lxb25Jdkh4cy04Y2JNaUNZSGEzMUFUcHlhSDEyS0NjVU1pdjFsMmJBS1JaUlFpWnVxRlNZZUx5TXFaVkxBekl6bjhDWHBBclVBR2QtOUFhVFF2WjVhUUlzaEMxTFlWT3VyX2NzWGdRZmVyWk1LVDVXcFVxODR2VG5GQWc5bjlWVG9Sdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "US expected to lift 50% tariffs on select Canadian agricultural imports, WSJ says By Investing.com",
    "source": "Investing.com South Africa",
    "time": "2026-10-23T19:07:13Z",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeS1NUVo4alNodE9wcGhQVGlIMGdNOWRjTktubmpOajZBOGEyMDZNR1UyNklyd25YOF9tWHpXSDM2TjV1T0pOYzVYMmp4bG9OenpESHlCY3k3WUkwNVN3WVotRVROZ1JrZ1FJT2RScm1ZaDBsZ1dXVTFwaVg1V3djNXMxaFAyeC1vMk00aGpIdjg1U1Zid0w0d1RRSjhxM0V3SE9hb0ZyYlpFT2ZYSWJ2WjBnRGZ6ZDZhQlZPRThSLXdyT3ZvVDdYalV3?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "US expected to lift 50% tariffs on select Canadian agricultural imports, WSJ says",
+   "source": "Investing.com",
+   "time": "2026-10-23T19:05:54Z",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNajh0VzE0N3h4bWYxcEtVR2xSSnozdkh6SEFLT2xyWkdhcnA3bHNqaC16Qi1RUmFBamkwTEhwdGdEUm92MThKb1JzQzBmNXhQWHdwM2NfRUxyRVhOSldXeHhSRlUtVHY0RVFzdzRyeDNOQWhsTF82VDIxcEZMRENBQ0pXQTg1S3dkNDU5U1VJQWpHamxqRDU5bnFoUVViSnRSWEhNbGdTZnVnUTF0NEFSd3VkY3owMWJLdlFORXM5MXVyZGJCWkMwdWpFMA?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -218,6 +308,15 @@
    ]
   },
   {
+   "title": "Exclusive | Trump Expected to Remove Some Tariffs on Canada in Bid to Help Susan Collins",
+   "source": "WSJ",
+   "time": "2026-10-23T18:42:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmZYSFVLdHB5ZTlUdnVQWFQxTURvTlVUdGJZWlJmVGxJRWdkWWw4aXJpN0pCTUg4UDdMaDhQX0tIcDlLbG5tM3BFOEduZkxtbmhncmJIRVZMUUJNNDBWN0lISzV3WWhmUnY2Z05UcEUxVzdyeVRqVmhuLWlnRnhyb2hDYkgxS250UG8wTzB1YWNsQkFKWTZuYzM4SldUVlhfWDJtMGplOFRCUjdkVGlkX2VfXzRUWHlJajVHWVN3?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Trump to lower Canada tariffs for certain agricultural goods, Collins says",
    "source": "Politico",
    "time": "2026-10-23T18:39:00Z",
@@ -261,15 +360,6 @@
    "link": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
-   "source": "CNBC",
-   "time": "2026-10-23T18:23:35Z",
-   "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-   "tags": [
-    "OIL"
    ]
   },
   {
@@ -391,24 +481,6 @@
    ]
   },
   {
-   "title": "Exclusive | Trump Expected to Remove Some Tariffs on Canada in Bid to Help Susan Collins",
-   "source": "WSJ",
-   "time": "2026-10-23T17:48:00Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmZYSFVLdHB5ZTlUdnVQWFQxTURvTlVUdGJZWlJmVGxJRWdkWWw4aXJpN0pCTUg4UDdMaDhQX0tIcDlLbG5tM3BFOEduZkxtbmhncmJIRVZMUUJNNDBWN0lISzV3WWhmUnY2Z05UcEUxVzdyeVRqVmhuLWlnRnhyb2hDYkgxS250UG8wTzB1YWNsQkFKWTZuYzM4SldUVlhfWDJtMGplOFRCUjdkVGlkX2VfXzRUWHlJajVHWVN3?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Investors are starting to find opportunities in the battered bond market",
-   "source": "CNBC",
-   "time": "2026-10-23T17:40:31Z",
-   "link": "https://www.cnbc.com/2026/10/23/investors-are-starting-to-find-opportunities-in-the-battered-bond-market.html",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
    "title": "Melania Trump helps forge a ceasefire deal in a Russian-occupied Ukrainian city, White House says",
    "source": "The Washington Post",
    "time": "2026-10-23T17:34:20Z",
@@ -440,15 +512,6 @@
    "source": "Al Jazeera",
    "time": "2026-10-23T17:26:13Z",
    "link": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
-   "source": "CNBC",
-   "time": "2026-10-23T17:25:29Z",
-   "link": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -516,15 +579,6 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaGRUN09iclhFTHhrQWVDRkd6SDh0Um5Ibi1sNWdRdTAzR1ZqTjhCR0N6bm1VNE1ITm5xX2xHVkN3bkNYV19JMHEzYTAxTnBvT3dDLU1YZHZRQ2xQVjlWVFNoQXowLW5ibzRXOHJZZEtmUDZtdU1JYS0taWN2R0Z4YjVubGllcUhfSVJPRUtST2hKeVJVNHFZ?oc=5",
    "tags": [
     "OIL"
-   ]
-  },
-  {
-   "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
-   "source": "BBC",
-   "time": "2026-10-23T16:59:51Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -618,64 +672,6 @@
    "tags": [
     "FED",
     "CENTRAL_BANK"
-   ]
-  },
-  {
-   "title": "Talk of resumption of Iran war rattles markets",
-   "source": "Yahoo Finance Singapore",
-   "time": "2026-10-23T16:17:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTnVybzdiNzIydWE5bVBydmlfdnA5RzhDMHNPTjMxdENLM1hQcjBDMkVQamVobjZMUGoyemk0YURvTi1zclFRbE9fa0hocXhjSDR0b3Bla1pwOHpiY0hKdjhLX3M2dUttdkFqNzhWVTd4VVc2aTJfQU1ZTVQ3T1hUMDF1bGh0TkpY?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold eyes weekly loss of over 3% as Fed interest rate decision looms",
-   "source": "FXStreet",
-   "time": "2026-10-23T16:16:50Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTVjU1hSdWdxNkxCVWc1OWZyR1VTZE1WbGdiblo0UW01bG5vYU9Sanh5NG1zQnlsZG5aM2UzdjdqR0xjSHRHUEE3cF82UGd1em1jNkgzNmhIeW9pQUtaVDRzejl1NUtZUUZicUpXWlVKcEt3NXF3OHdUbXRLSG1ZaWdib21WQmhMOVpDMXdjV2VIN0FrN1JhRmVSVUNsVHdzWkE?oc=5",
-   "tags": [
-    "FOMC",
-    "FED",
-    "RATES",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Global Oil Price Hits $117 a Barrel, Highest Since April",
-   "source": "The New York Times",
-   "time": "2026-10-23T16:14:44Z",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjZmQ1hOTHp4RFVzdWVRRWdzYnFPeEExcnNLS3J3RlRlc3A1OVprRXoxck1hUy1iejdTSGtucjFVSFFSQzFSelg3ZjFmRzNPSDlMdU1OX3F1YUJmZVBjNnY2Ykx3LTV4Q2VBZHRkQmJqcTRubnpqSTFKa1V5b24walJCTC1nT2ZfQ1hJalg4aHo?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "TSX falls at open as gold weakness, AI spending concerns weigh on sentiment",
-   "source": "Investing.com Canada",
-   "time": "2026-10-23T16:09:08Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMVdQeGdkbExKSzRuaEtUVWtoWXpEd2JERmhiWWNWUERKbFpRWWRIVVV0cXBBY2NlVnVseUpLOS01X2ZTeWhEQkVGVm5ZbGlYdWZad2txVFdxV2kxMzZBcHRBSjlqV3h4SVpmSGZZdGlHZzBKcG9STDhDdzdCZElVbTNQR0QyWHJvS1lzUVNmS29nZzBDeFFrQUpCVDR0Nmg0Z3FzNDlpZDd1Zw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Eric Ham: What’s behind Trump’s recent about-face on Canada",
-   "source": "BNN Bloomberg",
-   "time": "2026-10-23T16:06:13Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUFVxeVU2Z0FvLVVZcTE5dDQ4dGlKREt3azRlU0diZ0F0NkdqZUtwNDA0ZlMtUlVpeGlVVGxMdmROSkpMMmYzLTRDRDU3eEtqdkE2WldlejZTbVd1NVcxb2lsZ1llZFFmeElqdWNSb1E4OHlKcTRIYnRaNkxpckkzbVhzX0FTbTJLNUw2YS04SEtDQlBOdGoyZkloWUhEN3prUHBrYXBqYTRIbThyb2xkejgtNEc?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Eric Ham: Trump’s about-face on Canada",
-   "source": "BNN Bloomberg",
-   "time": "2026-10-23T16:06:13Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd2kza19vWmFZNDEydnRLWXVmNTVwY0p1WHZwRms3aDZqZGlaRXpjV2oxQm1JQ2V6SlpOSl9jamdmdm1ENnhyMEJtVGlsWHhkbVdwYjVlVTF6VV9pazVlWE1vWHNJazdBMnM1WlZEMFdPZkg2Tmwxek1SWEFhNEo3ZHlTejA2QlJzaWF1UURNMThjTi1zRzJzV2JR?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
