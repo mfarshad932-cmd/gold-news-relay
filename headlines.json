@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-10-23T11:15:07Z",
+ "generatedAt": "2026-10-23T11:43:28Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 0
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -42,7 +43,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 10
+   "kept": 9
   },
   "investing_news": {
    "http": 200,
@@ -66,7 +67,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 25,
+   "items": 24,
    "kept": 5
   },
   "aljazeera": {
@@ -81,13 +82,13 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 28,
+   "items": 32,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 10,
+   "kept": 10
   },
   "gn_tariff": {
    "http": 200,
@@ -96,17 +97,17 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 44,
+   "items": 43,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 17,
+   "items": 18,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 36,
+   "items": 37,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +117,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +126,87 @@
   }
  },
  "items": [
+  {
+   "title": "U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare",
+   "source": "CNBC",
+   "time": "2026-10-23T11:39:59Z",
+   "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "US Treasury Yields Decline Over 2 Weeks — What Is Driving the Drop?",
+   "source": "Investing.com",
+   "time": "2026-10-23T11:26:15Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQWpTRUJtdnNkQ1RnNFVNVjZBNkFNaDVTbnBRb24zeUZyY2dDZEkzWE1ZMmgzM1lfTF9Nc0VBVW90SnVSOWE1NF85Qk0yRERBY1FOWUpIR3UzLUR0SGdKTjRqdllReGtOUVFJYi1sTEJGUndibnpLMGpVbUFxNERBSFlfRjBXbTU0aHNpSGlxTHlTZnF0bFZMMVFqYlByd2dyYXZUaEw0QUZEWDRPbERF?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "$4,000: Gold fights to hold its ground after sharp sell-off",
+   "source": "FXStreet",
+   "time": "2026-10-23T11:23:07Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTVjU1hSdWdxNkxCVWc1OWZyR1VTZE1WbGdiblo0UW01bG5vYU9Sanh5NG1zQnlsZG5aM2UzdjdqR0xjSHRHUEE3cF82UGd1em1jNkgzNmhIeW9pQUtaVDRzejl1NUtZUUZicUpXWlVKcEt3NXF3OHdUbXRLSG1ZaWdib21WQmhMOVpDMXdjV2VIN0FrN1JhRmVSVUNsVHdzWkE?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+   "source": "NPR",
+   "time": "2026-10-23T11:22:25Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa29KcUNsazVzV2xtd0xheXQwTUdiUVY1THRSNVdSSjVYMUlzRzBiOTI0cGFVaW10UDZ2TjdQU2QySkV5WjVqMXIxdEZ3cm9mMDFCcUJ2eFJ1dTI3dC0wd1BaMWlwNUdTVzU4a2U1V09HcGI5UERDZlBwOVNGUlJXQXp2Tzk2TjU4ZFhIRG9HWlozZ2ZSZ2YxYlRmVlo?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
+   "source": "CNBC",
+   "time": "2026-10-23T11:16:30Z",
+   "link": "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Global equity funds attract inflows for a fifth consecutive week",
+   "source": "Yahoo Finance",
+   "time": "2026-10-23T11:14:39Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZmFjLTlPT0RpS3RQNy1PUG80YlNFNjFyUGhKOG9wSXVhVi1HalBMdDFYQ1QwcmZTajFnTk9kNUVsRndCRlhmMkdSTEp0dGZnVUFIZ2lMS2diNmo0UXlLNGZMak1aOXIwekk5NWFuR3hNdHMxNzI0a0Z2aHhmd2VhQks2dTV1LWpZajFJVF9PVmF6bUk4ODVGN0JaUnpheGxVRmc?oc=5",
+   "tags": []
+  },
+  {
+   "title": "Russia and Ukraine have swapped 270 prisoners of war each, Russian state media reports",
+   "source": "Reuters",
+   "time": "2026-10-23T11:13:44Z",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYU5takp3TVNYY2RfSUlHLThUWUxCMzRRRGgtT3FiOHJlMHNDblpDSXVxT19KcHMzWXRlR2NsaDllV1pCem5iVjJkVi0yZFNCRHR4SmtQQW12a05EUXBLejV0ZmphejZzQkZXM2pVcURrX1dSdkdGT2RiaEp5Q2xpUkhOMUw3cFBtZHVOLVktcFI4MllnczhOUXJuS1VZNzcwZGFkSm44R0ZLOWV1WWJCX1k0N0VTRktSOFNWQy1KS2I2dFVUd0E?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold price today, Friday, October 23, 2026: Gold opens at 3-month lows as oil prices keep rising",
+   "source": "Yahoo Finance",
+   "time": "2026-10-23T11:12:48Z",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZnp1ZFhreERCV0F0bEs4emx4WlVNdW40OGJhWThrY0pIazRJY1FiTkIxeTFIbVRQX1NmYWVSaktzbzhTdEhocjZMMzdMUHBmeXFJOXUyLXRBSm9OMkdDWnJuMmg0SXBuNUxsSEd4U2ZRbndoN243LVl4ZEFzc2JkdVRCWWFIell2SW5IdEFXZGZ4b3AzUjNQbU41bFBCNnhpNXFsUkUySU9FaUhXem8tTDJuU1pGakZYM3A1UzRTZHY0aDJiZlc1WTZpWWJ0ZW9MQml0Rkdta05KZTFQbFNqeGREQXlseVVhQXNmaDFnbzZMeFgzcHZzc0FTVXc?oc=5",
+   "tags": [
+    "OIL",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "TSX futures drop amid gold price fall, AI anxieties",
+   "source": "Investing.com",
+   "time": "2026-10-23T11:05:29Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUkR0N3E5ZGNCOFdrdWxoNFN3OGtVZ3owenJlenVZYW1TZHBrRV83VVQ0dV9mYnJ3c2Q4eGtodENtb2dnSDdBS3JveDFYci16c0ZlSWd1cTF3VFhmelpiM2czTHdmeXhiN0xRR3A5bGpoM0owYlpwZXBJVVJNdUdWaUgyQ1B0SVFDS0ZEdnRhYzJNVUdUa2xXSVMxUnRWNjMxZE1xVmNoS3FIX3M?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
   {
    "title": "AI trade meets the Fed",
    "source": "Reuters",
@@ -189,16 +271,6 @@
    ]
   },
   {
-   "title": "U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare",
-   "source": "CNBC",
-   "time": "2026-10-23T10:51:41Z",
-   "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
    "title": "France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around.",
    "source": "MarketWatch",
    "time": "2026-10-23T10:45:00Z",
@@ -208,12 +280,12 @@
    ]
   },
   {
-   "title": "US Treasury Yields Decline Over 2 Weeks — What Is Driving the Drop?",
+   "title": "Brent Hits $114 as Houthi Attacks Threaten Saudi Energy Infrastructure",
    "source": "Investing.com",
-   "time": "2026-10-23T10:43:07Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQWpTRUJtdnNkQ1RnNFVNVjZBNkFNaDVTbnBRb24zeUZyY2dDZEkzWE1ZMmgzM1lfTF9Nc0VBVW90SnVSOWE1NF85Qk0yRERBY1FOWUpIR3UzLUR0SGdKTjRqdllReGtOUVFJYi1sTEJGUndibnpLMGpVbUFxNERBSFlfRjBXbTU0aHNpSGlxTHlTZnF0bFZMMVFqYlByd2dyYXZUaEw0QUZEWDRPbERF?oc=5",
+   "time": "2026-10-23T10:35:00Z",
+   "link": "https://www.investing.com/analysis/brent-hits-114-as-houthi-attacks-threaten-saudi-energy-infrastructure-200690141",
    "tags": [
-    "YIELDS"
+    "OIL"
    ]
   },
   {
@@ -321,10 +393,19 @@
    "title": "Japan university defence bids surge as post-war taboo fades amid China concerns",
    "source": "South China Morning Post",
    "time": "2026-10-23T09:31:50Z",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmRmS1BzZnpCMzRTamZnRFlOeDFXYjVPSXd4OUZLSDF6ZktrQWJ5Q283ZkFQMWtOdnZNb2wwbHlkc083cmowOHdtdm14RjY4UTBDY2RnY3pBMS1JcU1PUnJLQ0hsSjQ0M3ZtYUxCazNMSzUxcXRxb244LXMyNkRSWWJ2RHY1WV9XUzdvaU9xWUQtSFZPa1ByZ1pYNFJmNzFXZGtRTTRzaG0tR1RoVERUQ3hTRXpaZFZVNno1SmZOR0hCYzBqRHluR2ZCS2ZfNkHSAc8BQVVfeXFMUERyM0R4bU0yRld6eHY1X0NiY3dFbWpETjJfS3h4aG9KV0ZJUFQ1aWRHS2tWcS1RVGE3TENkU2lseGp3S2duWFlvXzB3R2dpdm9iNXlvQjNFdnhZNXk4b0dXMjlUN2ExNXNRSDVfRmVtaThqYlQwbFpNR3k0MnJocDFNbHBmMlcydTIyWHhTNXk5Nk9OSThVdmFPOGQ1UEVIVVRPdTRyeElCVnQwc2R0aGpiX1c2aUFjTTdjQW1HNWxDek9mRHVKUTRsWmlCSnYw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRHIzRHhtTTJGV3p4djVfQ2Jjd0VtakROMl9LeHhob0pXRklQVDVpZEdLa1ZxLVFUYTdMQ2RTaWx4andLZ25YWW9fMHdHZ2l2b2I1eW9CM0V2eFk1eThvR1cyOVQ3YTE1c1FINV9GZW1pOGpiVDBsWk1HeTQycmhwMU1scGYyVzJ1MjJYeFM1eTk2T05JOFV2YU84ZDVQRUhVVE91NHJ4SUJWdDBzZHRoamJfVzZpQWNNN2NBbUc1bEN6T2ZEdUpRNGxaaUJKdjDSAc8BQVVfeXFMUERyM0R4bU0yRld6eHY1X0NiY3dFbWpETjJfS3h4aG9KV0ZJUFQ1aWRHS2tWcS1RVGE3TENkU2lseGp3S2duWFlvXzB3R2dpdm9iNXlvQjNFdnhZNXk4b0dXMjlUN2ExNXNRSDVfRmVtaThqYlQwbFpNR3k0MnJocDFNbHBmMlcydTIyWHhTNXk5Nk9OSThVdmFPOGQ1UEVIVVRPdTRyeElCVnQwc2R0aGpiX1c2aUFjTTdjQW1HNWxDek9mRHVKUTRsWmlCSnYw?oc=5",
    "tags": [
     "GEOPOLITICS",
     "CHINA"
+   ]
+  },
+  {
+   "title": "A Ukrainian soldier lost his sight in war. Now he hopes to see his children again",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-23T09:30:14Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbGhVZUJMd1Vnd2VnYXpTSG00RHAyZk82djl3dWdYUHBjVHJnT0ZnSjJPRHBpT1EtWmJ2bGdUUHZEREdsd091TXZMSENmelFhdC1uQXJ5ME9DNzQ4UkpHTjNuemFTc2xYUnZUb2pRTWpsTDhRMHd5UHpybjczckMyREV4TUw2QTBLNWhpaXBwWGNjVnQ1emtFX3lxZi1lUnBaTmpOVVlmVjLSAa4BQVVfeXFMTTVfNVJCUWYtV1BrZ1RRQmlYLWpHWXY3N1Q5ZjUtbWNvYWg5NkhMWnZnSUFLa252cVlNVFBQSFRJa1hNN01WblBfVjhEVExPVGl1eG14TTQ5N3VRUFBqVlNXal9MVkVUa0F3NDEtcWE3Wk5wR0JadHBqeFRUeUpaY0llX3hMaXA5N1ZTYm5lVjZtM2VDYXBsNTJqR1plUENBNjhsWktuMGRzYTh1Sl9B?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -334,15 +415,6 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRWloQWdGR2RtVlpicDV6Qm1WT3F2ZFlPVHRtVlR0bVZUbW9DWWJHVENrcGUzbzVzZTZDc3lQdDJ0d0FZa3pxR1htNHByQ25aQmtFODNhNFBQU0tNdlpIV011RzM3cFNBbG9yeXBNWUtrb1EwNDl0dWRHMXFuaXZfdVVvbUdaNlRyS21nbWRpMTFuOWhJRjc2TA?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
-   "source": "CNBC",
-   "time": "2026-10-23T09:28:29Z",
-   "link": "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -550,6 +622,15 @@
    ]
   },
   {
+   "title": "Gold gets caught in market liquidation despite falling real yields supporting higher prices",
+   "source": "investingLive",
+   "time": "2026-10-23T08:02:56Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWm5PWk9od3h1TkVwaUdZbEo4Um4zV29TUzBnWXB2NUxPZG5mckd5ZElIQ3BTMDVPQ0xkR2I4NDVVb28wSGJQUVViQmVfSWxvZDJMOC1fRlRWekQ1a3RpSmwzb0hyMnl6aWtwMlFEZ2dzc3paVmFlRjFuV3B1NXhDWVVWTTE0UUVWQ2ZwaEhhUktSbmtPcFEwTFpjTGVWTUVDdlBrSFZJeGhybUgybkpUeC1FQ3lQSi1nWnVBanlfU3c3TnEyc0NwNjdR?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Eurozone October PMI misses estimates as growth slows, keeping ECB rate hike dilemma alive",
    "source": "ForexLive",
    "time": "2026-10-23T08:00:18Z",
@@ -594,89 +675,6 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
-   ]
-  },
-  {
-   "title": "Gold hits 3-mth low as oil rally fuels rate concerns; set for weekly drop",
-   "source": "Investing.com",
-   "time": "2026-10-23T07:27:38Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOUVXME5UQlZPUUpuQlJRSlM5RWcxeTB2TTZieGZTaDBGM3VqajY5c0VsOHdJMkYyQTcyTGhOS084NkQtcTJyMjVxWmVsT0l5M254RXpBUlJmbGs1NWtHSzYya3VzTmh1ckVMa2RNZVdZNnNVLWIzMUhrLWMtc212RkZDdUlwdW51YWQwTHRVWEFYbVZ2U0JQYTRKSHNrQm9ieWxSOUUwS1FRMXRrYjhVaGNSMm5WaTFFc1lkR0VYTVJuUk9ZeGc?oc=5",
-   "tags": [
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Europe needs a war economy",
-   "source": "Al Jazeera",
-   "time": "2026-10-23T07:25:41Z",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VR3Rwbmg5NGhhckkySDQ0R0doc3kwYWh2cmRmVlVHak1qRFNGM01PNUR3VG9tOHRaQm1WdGlFUmt5cWRKLVdjZEVhdWphVENGTDZjQWJHVG5ZQW1iRzBRZzUydmdpRWhhWDNrT25NY3NJZFBuRUF0d2o1ZXbSAYIBQVVfeXFMTVdja29JS0w2SjNQNXNBSjVzZVRDNExycUJoSzFCN09IVnNmNk5mMV8wRjZqVEM1MjN3UFZuQ0dUcUllQTg5R0l2Q1doNkREQmdwa1M2aFpzakZxNlJVOWVDS0k0bzZsZkJ2OU5EOFhEdmQ2dEJxeVM1MmlueDNoTFBwQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Futures Risk Further Losses as Bearish Crossover Signals Downside",
-   "source": "Investing.com",
-   "time": "2026-10-23T07:18:00Z",
-   "link": "https://www.investing.com/analysis/gold-futures-risk-further-losses-as-bearish-crossover-signals-downside-200690128",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "WTI Oil rises beyond $100 amid fresh concerns of supply disruptions",
-   "source": "FXStreet",
-   "time": "2026-10-23T07:16:59Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZVFMM3RMMXE3U1k5NjFJTWRYdXFBbmFqem5EQ1Iya2tMQnZlWXJ2cXBnbnh1MzBlSElYaDQ5eW5yZ0YtUDU3Y0U2YS1Jd2Exdnh3aFRBVUVGTXVXbEJ2R3FJa0hwWUlFeXo2UmlCZTlpSDRFMGhTTmFPcnB6T1IyXzFWTm1YcW80Znc2S2d4TDA4OW5yTFdGM2hVekcyZXNpVFNyb1k5XzdJdFFBeXc?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Oil Futures Continue to Rise Amid Fears of a Return to Middle East Escalation",
-   "source": "Investing.com",
-   "time": "2026-10-23T07:08:00Z",
-   "link": "https://www.investing.com/analysis/oil-futures-continue-to-rise-amid-fears-of-a-return-to-middle-east-escalation-200690127",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "The Fed Faces Its Most Confusing Economy Yet",
-   "source": "Bloomberg.com",
-   "time": "2026-10-23T07:00:11Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTWtTcnB5VzZ4eWIwQV9sRU5BWmxDNXU3a1MyYm9MNEdvSXM4cjA0THVHMWVfT29lTnp2RDdXSG5JOERnci1iNjZCRWp2MkhYV1N4LXB3b0pILVVGc1c1d3RJWUNDSzFnS0dDRURUNTNCX3VmTWQ0djBYXy0wV0IwQ0xIVFByRGtJSUtSSDdPWkNBckhtTm1GbXktcmx6X3ZZY1dYbzlCTHZFcW9iMVM1dGlLWmpva3lzWUhTUHJqNC1fallTRzJZ?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Electrolux posts Q3 loss as middle east conflict, U.S. tariffs hit earnings",
-   "source": "Investing.com Nigeria",
-   "time": "2026-10-23T06:57:34Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUkpwdVlQcURLT3BNOENyNHdnYzRVX0M3VDV1VlY4cW5VcjRsOHhoQzVHbVkyZk5lWWVUNzVtYmN1YXByTzdLdUs4bzctVXFRTG1VT0R0T1ZYaGVBTjZqcmJXUDBzcFJGSkFKb0VKZUpzRTl3WHB3N1NvbXNoZ1RZanZHelNjSS1fR3RzZm1TRWUwVVRuZHpfRDE4YlVGNjBRNEN6U0E3RkdDY0JWdzRPeVBYeXozRGNJMlFZ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Watch Azour: War Impact on Energy Markets Under Control",
-   "source": "Bloomberg.com",
-   "time": "2026-10-23T06:56:35Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaTBYdk44MXZPcGpOOW53YmFqSDIwejZwZkRpNWYySmRNX2FCcU55SV9UNGgxVjR5SVFzVExQMDI3bTVtZVhvYjRPV21KZTJCZUZRMi00SlcyMFRCUS12NUVrR2ZMTFo1UzVzbkMzb0FlZ2EwNDFlQUFZaFFfOW9wNkU3MU4tVlJLa1VHbTdFRUF4bjlQeDBTM040cGlIQVFka2l3ZjBB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "New Found Gold paves the Queensway to production",
-   "source": "Mining.com.au",
-   "time": "2026-10-23T06:33:45Z",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13UUdVWnZjRC1KNkNnRDhxdUI3aDRXVVdKQzYtVVlaNmtFek91VFJNN09XanI1NzdGWmU3cWhWN2k1NzFndjVhNl9DU2xJMFMtbXV1RWlkb0lRZWwwYUZBaXYweEVrWHlhWE01ck5rTnh1MHFRSVVwT0w4WQ?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
