@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T17:51:44Z",
+ "generatedAt": "2026-10-23T18:20:04Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 8
+   "kept": 7
   },
   "investing_news": {
    "http": 200,
@@ -81,17 +81,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 37,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 13,
+   "items": 12,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 15,
+   "items": 19,
    "kept": 12
   },
   "gn_war": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 37,
+   "items": 39,
    "kept": 12
   },
   "gn_oil": {
@@ -125,6 +125,86 @@
   }
  },
  "items": [
+  {
+   "title": "Something Is Going on With the Discount Window",
+   "source": "Bloomberg.com",
+   "time": "2026-10-23T18:16:09Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZFBaa2lOZnBKSHRzNWw0ZklWRE9USXRsWWJnMUR0bzFWVDRQN3doSW10WXo1S0VNYmZmdGFmZTJ2UVNzUHU2Y1NodUFMTWd2NHdCZENTWkRWRUJ3Y2VrX0dSWFdRc1ZvX3drWnVoSURVQTR5WGVJUm1wWnJzUUF6TmlYX05TbDhkdFRnLS0zdHd3YnVYbElTdXhYNU05ZnhNaUE?oc=5",
+   "tags": []
+  },
+  {
+   "title": "Treasury Yields Rise, Eurozone Bond Yields Fall Amid French Concerns",
+   "source": "WSJ",
+   "time": "2026-10-23T18:11:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUh5anllcENIVlhXM0xrczNZWEVERVdFSE5lRzVkUFY1STBRUUtSZmdHbkRXX2pqNDY1TGxWdDJxTFZKRkc3cFhmUzBjTGUtdmlZaFYybG9tOFVaNk5IZTVpd1FVOW9mZUlRY2I1MFJwblJ3S1hqNVNkSVIyVmg0VzcyTEpncGhaWmUyYnFibVZqUUN2aU41MWxyc1QxYmJpSHVGVG1Jb2RGY1doTWln?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Tests $4000 As Pullback Continues",
+   "source": "FXEmpire",
+   "time": "2026-10-23T18:10:10Z",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU19Ra2otVFVKRTlhaW5MYjdLMVhxd1BTaWN0Z3Y0eFBKc1FLbnZJOTVIaTFJUW1xYTlZTW5XWG9JUFVtaW54ZWxMTm50MWY4U1hBYUpqR0otRElyci0tNTQxc1VIQVNLU3RYcVM1d3MwQUdXMDNUdFZ2bS11d19TcXRtMVM0MVhSdXhDaWdITU1EUzl5SkNrYmowbFNXVkZRMzI0YWdZMFIwaW5KbUVpM3p4bVo1bkE5MzFWdC01MXZYa0oz?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "US expected to remove 50% tariffs on some Canadian agricultural and forestry goods, WSJ reports",
+   "source": "Reuters",
+   "time": "2026-10-23T18:06:21Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWdrcmlzeVVGU0lLY2lmdVZHQ094Uk80eXhLb25UQkVoYjhXX3lXSERuOW1pVzNpRGEzQWMtMUVfVEp5bERnM2hqM0hFZFNrb1B5Y1QxRG9tMDUtTFNQSFFoMFZodXFPbmtDUUhpYXVIOXhNRTdkNU9RcDkzRW8xTkM0REpYZ0k3TlhDOGx6WEhYSUJIWG5WSE1Ia1FLWHVTVHN5UFhjVmhtb1J4TkpDTU90LVp4eWR0MnBxaA?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "US Dollar Turns Slightly Lower Against The Loonie; 10-Year Treasury Yields Nudge Higher",
+   "source": "marketscreener.com",
+   "time": "2026-10-23T17:59:19Z",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONnRJMWczeWM4YURIdF8xX3BCYUdINTNnQ3hhM0xGVnJRblY4aUYyV2lTbjRFNF9oZmNJVnJXbEx1cW5RVVZLbHBURG9nX2I2eVVEUW5oN3dHUXVsQmRfVHE4TVd4UVNlSVpDNGpZdTdKdkVQQVNmRUQxc0YwUjZId08zNUpWZWUwNlVjRXY5RWhUR3ItLVpsTDduc3lpLVNrdnFja3Vjc1hDbVpWQmlRRzl4eGVWRVhlQmg3NExoWFFhcHgwbE9weUpQV0RWa0ZxRW9fMTd3?oc=5",
+   "tags": [
+    "USD",
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Trump Expected to Remove 50% Tariff on Some Canadian Goods to Help GOP in Midterms, The WSJ Reports",
+   "source": "marketscreener.com",
+   "time": "2026-10-23T17:58:13Z",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUEZYS0FsNkp5SjhvQmF1aVpfQWFNbG1qVW4ycnRCQjBZQ3hGR213bGNvRjJVSjhab01GdnFRbnl5UXFJS2dlQ05QOHBrMXhiRklhSU04NnI0WG9OcFBwWm1rLW1nOXRtY0k2OGwtaDFiWkVjR2xRT1l4VHRZbXdkd0ROci1Nc0tRNGJqcjhBa0x4RWNlcHRGb0luMlJHajFSdFFtTFM4WTNvOW5PS3hETXlDUUdhellYdG1pOW00d2xZeXVpOHBkeXBHVFFtWUJLU1NCdTZjckFUcjNrLW50Q2thLVY?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "US expected to remove 50% tariffs on some Canadian products as soon as today - report",
+   "source": "ForexLive",
+   "time": "2026-10-23T17:55:55Z",
+   "link": "https://investinglive.com/news/us-expected-to-remove-50-tariffs-on-some-canadian-products-as-soon-as-today-report/",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Opinion | France ‘on the Brink of Civil War’",
+   "source": "WSJ",
+   "time": "2026-10-23T17:52:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdGlJRnZKM1pTLWhheldCVTlKUG1BSElubUNQa0czZllSR2M2eW1ubUJRdTJ4TjhYanRaYWgxM2p2SFhpdDBnZDczNE5VUTFveWxzRDBtczNFRWJIUVVXVkd6Nm9PNUo2SzczV3BEQ3EtWU5KR1NTQk1pQlNnUlMyV3E4Tk4xNWdFbTlXeGpVeWM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Melania Trump brokered ceasefire at besieged Ukrainian town, White House says",
+   "source": "The Washington Post",
+   "time": "2026-10-23T17:51:33Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY3g1ZWdGb1FvTHBDdVRKR093bHZmd2RPQjgxdWd2ZnIwblRXRWR3VDVPd1RBVVN4QzdMbDUyX29vZVpFLS1Ha0hvRWtPdHNYZ0ZkcWhZUTJVYkR3c3VQZnoxakJlMy16eHpuZ2FvRHFaTEdwd2lSay1wWTFqemhNR2JaTXVudVlVa19GTkpjNDRJb0xtS0lIN3BtaTBmOGJfb2tCcFMtNGFsaERNcXBMZ0xJRmFfa3hmdGdneEhR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Exclusive | Trump Expected to Remove Some Tariffs on Canada in Bid to Help Susan Collins",
    "source": "WSJ",
@@ -153,10 +233,10 @@
    ]
   },
   {
-   "title": "Melania Trump brokered ceasefire at besieged Ukrainian town, White House says",
-   "source": "The Washington Post",
-   "time": "2026-10-23T17:29:02Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY3g1ZWdGb1FvTHBDdVRKR093bHZmd2RPQjgxdWd2ZnIwblRXRWR3VDVPd1RBVVN4QzdMbDUyX29vZVpFLS1Ha0hvRWtPdHNYZ0ZkcWhZUTJVYkR3c3VQZnoxakJlMy16eHpuZ2FvRHFaTEdwd2lSay1wWTFqemhNR2JaTXVudVlVa19GTkpjNDRJb0xtS0lIN3BtaTBmOGJfb2tCcFMtNGFsaERNcXBMZ0xJRmFfa3hmdGdneEhR?oc=5",
+   "title": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
+   "source": "Al Jazeera",
+   "time": "2026-10-23T17:30:51Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -195,6 +275,15 @@
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-chinese-families-are-rushing-to-buy-gold?traffic_source=rss",
    "tags": [
     "CHINA",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "New Found Gold doubles Queensway valuation to $1.2B",
+   "source": "Mining.com",
+   "time": "2026-10-23T17:13:50Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nY0FScnVCV2U2NXotZDNlQ05KX3JyZ1NKb2N5aEt4WjlLVDNnTXF6dUpSaEF0a3R5MG93N2RsZmdhdUZtUDltVnk4TGQxbUowNnZ6RTRLeXVGMi1ZRkpKSHQ1Zll4ZHo2SXVxaU9mdVQ5Vzg3TW81cmlTVVpPcEE?oc=5",
+   "tags": [
     "GOLD"
    ]
   },
@@ -263,12 +352,30 @@
    ]
   },
   {
+   "title": "Benjamin Netanyahu warns of banking sanctions, plans alternatives",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-23T16:44:04Z",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGpHOHlpeHMzV0pMc3JOOVJvN3AtVFNjNGZWOUNzM1JlbkdLWmk2MVlHV3FBYkZqLUFJaEZBRW42OHhRZzRtWUw5RFV2cUwzZGR6d2FQeE0xWldISl90TGhqa1E2eVFGUXZDb0RKYXJZN1pEeFNyOU1OcW9MaElpeF93azluUQ?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "EU vows to fix ’China Shock 2.0’ via talks with Beijing",
    "source": "Investing.com",
    "time": "2026-10-23T16:43:17Z",
    "link": "https://www.investing.com/news/economic-indicators/eu-ministers-vow-to-tackle-china-shock-20-through-talks-with-beijing-4969048",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "Fed seen holding rates next week before likely December hike, Pantheon says",
+   "source": "TradingView",
+   "time": "2026-10-23T16:37:47Z",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUkM2WWRscjV2UHN4M3l3SzZ0LXktRW1GR3VmTE5KRlRoUkNvcXpDU2ZYcjlkMnY0OGdCTWJScFgtUmsyVm5FMzN2UFgtYUxHY0ZKTTFKNkpoSGVSSVI4NGNmakdCWTlSTGRPTzRNbUh6cUxBRzVjU1VRaGZ3dG5kUnV2Q3NsbmUzNjZpSl8xRlBzdlFfSzZ2RUY1aVgxaDliWVVQQ3hRLWpRbEdFMThPOHgzRUNZSWo1QmV4bTNfZ3d4MUVHQkxlVjgzZjZLaEM2R2Zv?oc=5",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -279,15 +386,6 @@
    "tags": [
     "FED",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Benjamin Netanyahu warns of banking sanctions, plans alternatives",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-23T16:34:25Z",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGpHOHlpeHMzV0pMc3JOOVJvN3AtVFNjNGZWOUNzM1JlbkdLWmk2MVlHV3FBYkZqLUFJaEZBRW42OHhRZzRtWUw5RFV2cUwzZGR6d2FQeE0xWldISl90TGhqa1E2eVFGUXZDb0RKYXJZN1pEeFNyOU1OcW9MaElpeF93azluUQ?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   },
   {
@@ -318,22 +416,22 @@
    ]
   },
   {
+   "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+   "source": "WSJ",
+   "time": "2026-10-23T16:24:02Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+   "tags": [
+    "FED",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
    "title": "Melania Trump helps forge a ceasefire deal in a Russian-occupied Ukrainian city, White House says",
    "source": "AP News",
    "time": "2026-10-23T16:24:00Z",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
-   "source": "WSJ",
-   "time": "2026-10-23T16:23:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
-   "tags": [
-    "FED",
-    "CENTRAL_BANK"
    ]
   },
   {
@@ -358,12 +456,31 @@
    ]
   },
   {
+   "title": "Global Oil Price Hits $117 a Barrel, Highest Since April",
+   "source": "The New York Times",
+   "time": "2026-10-23T16:14:44Z",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjZmQ1hOTHp4RFVzdWVRRWdzYnFPeEExcnNLS3J3RlRlc3A1OVprRXoxck1hUy1iejdTSGtucjFVSFFSQzFSelg3ZjFmRzNPSDlMdU1OX3F1YUJmZVBjNnY2Ykx3LTV4Q2VBZHRkQmJqcTRubnpqSTFKa1V5b24walJCTC1nT2ZfQ1hJalg4aHo?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
    "title": "TSX falls at open as gold weakness, AI spending concerns weigh on sentiment",
    "source": "Investing.com Canada",
    "time": "2026-10-23T16:09:08Z",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMVdQeGdkbExKSzRuaEtUVWtoWXpEd2JERmhiWWNWUERKbFpRWWRIVVV0cXBBY2NlVnVseUpLOS01X2ZTeWhEQkVGVm5ZbGlYdWZad2txVFdxV2kxMzZBcHRBSjlqV3h4SVpmSGZZdGlHZzBKcG9STDhDdzdCZElVbTNQR0QyWHJvS1lzUVNmS29nZzBDeFFrQUpCVDR0Nmg0Z3FzNDlpZDd1Zw?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Eric Ham: What’s behind Trump’s recent about-face on Canada",
+   "source": "BNN Bloomberg",
+   "time": "2026-10-23T16:06:13Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUFVxeVU2Z0FvLVVZcTE5dDQ4dGlKREt3azRlU0diZ0F0NkdqZUtwNDA0ZlMtUlVpeGlVVGxMdmROSkpMMmYzLTRDRDU3eEtqdkE2WldlejZTbVd1NVcxb2lsZ1llZFFmeElqdWNSb1E4OHlKcTRIYnRaNkxpckkzbVhzX0FTbTJLNUw2YS04SEtDQlBOdGoyZkloWUhEN3prUHBrYXBqYTRIbThyb2xkejgtNEc?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -564,120 +681,6 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaVJzRXNOVFlDaWZGTU9UZUI2azFMMlRXYTVuV1RydmY4OFA2TmpFRVBMYkdGLU9Ia1phc1pFMk92TFY2Y3FKT2RqWUN4NXRHMklWbEZRLXJQZTdlOTMtOEdXRXg0V3U1RlNnbzJtckl2TU1BT2tGeXAycnJwWkVWWHV6QkxnRVhuMzNfQmFWOEh0cEREb2h0dV82SHpVT1dhUk1OQWxDcW5zNDh2cEt3?oc=5",
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "title": "Gold Slides Below $4,000",
-   "source": "TradingView",
-   "time": "2026-10-23T14:46:18Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00czhBVENnSVRUZ1drQ0lfUG1ZQi1pcWI1eGJpSlBFaGFpWEh4UXNrRjBBYzVOSHB5d09Sek1MYUpfN2NTbVM0Wm1MOXpsVmluLTRVLXpmOUREejlLSGEwNlJFcG82UXZuLTdpcW16WXdzSUNLV1EzYTdzcnpTVDQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Tests $4,000 Demand Zone as Real Yields Keep Opportunity Cost Elevated",
-   "source": "FXEmpire",
-   "time": "2026-10-23T14:45:13Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMnM1VWJrQ3paZk9RMThFYmdKYnJpbG9lUFFvRVZFYW1PMHlrdDFpOFRtWTN2RHhWMlhBRUJDU2Z5MWptYmtrYTF2UHdSQ1dQeUN0eWZjODFjbzRETlg3WW9ZZU1jWGxia1Y3UFY0STBFVF94bkVNUVNvREpodjEzUkh0LUp6aDNhV0lGb1pqLVc0bmV4MUhIY2JYdWNVT0NJVDNzUnBVWm85TVlDTXQzMFo0cFZYaTNIUjBtakZLYjVBUQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Russia, Ukraine agree to ceasefire for one city brokered by Melania Trump, White House says",
-   "source": "NBC News",
-   "time": "2026-10-23T14:42:38Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbHpkSFNHT1ItNVJvZmFnSjlaZ2gzTWNNUnhTZDhiSk9IWm5lX2lJcnZYWlRfdm5oWHJhbzBsS3VyQ0FrakZVUi1CR0lpcC12RjZKN0dpLW41bldkNEtyZGNTdVk5SGNDd0s5V0NCWGd0UXJYQlJ1SURPcFB6QktfYUhlX3BQZkdyVUFfY3ltcVFLUENsZDlBY09CVV9sMnU2QjFNaW9pMzl0VGM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Volvo plans to cut 2,500 jobs due to China's bruising pricing war",
-   "source": "Business Insider",
-   "time": "2026-10-23T14:40:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcnl4SXFCLUloRXVKR0RoYzBHOS1kb3pMNFl0YmNKX2szTGFUMG5mNzVJRTRiX2hBaVd3Y2RqbTVNNVhvTU1PSm43a244ZDJUX050YzVwaGtna1ZIRjV1clVZdTUxMGhUMTJFdTBtRU9XMGhtZFpmWjA3NllZMFExTXZ4S3M1M21fakljaGlB?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Gold drops below $4,000 as ‘haven’ asset joins market sell-off",
-   "source": "Financial Times",
-   "time": "2026-10-23T14:37:46Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREJiUTlBN3JzcUxxMzV0ZkI2Qkc3UjlydG5yRWtzTDZGZzJnMHF3ampSSW1YblM1aEQxck9vMjF5dFBZdUpBWDVNY2Y1cEZXMk5td09NclZ1T0E3eG1KY2JLZG83SE14TUtSWTJmeGRwSzNIYjBkRDJqaXFXSVhvSmhsUy0?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Diesel price surge putting mining profits to test",
-   "source": "Mining.com",
-   "time": "2026-10-23T14:31:38Z",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MVEwtSERnR09LelhIVloxc19qb3R1NXJER0ZwelgzcHBXcmxoRXBNTWhCSlpwd3c1cjVneDJfLW43YV9YR0M2VXYxeVVGLUFkMzYtRC16NG9tUnBPNG05VHNRcmV5aGhrZ3ZLMGVFWTZFUGlCQ196WVZKeHkzZw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "RingCentral (RNG) shares skyrocket, what you need to know",
-   "source": "TradingView",
-   "time": "2026-10-23T14:31:02Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMU9hRjROWm9KbGxvUnJfUV9VYUJpNVFsX1c4UVl2VWlaeUI4dzRhZFJrR0ZUYUpWY3VCVi1ING5ibVVkdDNlY2w0NXp2UEtRazBpcDhyZnlFZTB3aEx5WnpVdWNGMkpYYlpqaWIxd2Z0cHU3dVlUT0NrWFpCV0lVR3BVU1B0WXpBWUlPNE92X1d5NWpieVJtSnB3OXZBWnEzZUF5cUFudlVQQ3RlYy11MUxYMDg0UQ?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Russia and Ukraine swap 270 prisoners each",
-   "source": "Reuters",
-   "time": "2026-10-23T14:30:57Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYU5takp3TVNYY2RfSUlHLThUWUxCMzRRRGgtT3FiOHJlMHNDblpDSXVxT19KcHMzWXRlR2NsaDllV1pCem5iVjJkVi0yZFNCRHR4SmtQQW12a05EUXBLejV0ZmphejZzQkZXM2pVcURrX1dSdkdGT2RiaEp5Q2xpUkhOMUw3cFBtZHVOLVktcFI4MllnczhOUXJuS1VZNzcwZGFkSm44R0ZLOWV1WWJCX1k0N0VTRktSOFNWQy1KS2I2dFVUd0E?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Why Comfort Systems (FIX) shares are plunging today",
-   "source": "TradingView",
-   "time": "2026-10-23T14:30:43Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZkY4TWJSZGc0RmtUY2NfSjJ1TFhrTEJBazhXWW5IdzEwTlJuazZqeWtVelY5eEhpbTd4TU1kMlJMMEVCQTU2b1F2UVJPWGt3V0NWMmZ3S0pMMk1LSE50YkxLMENRNE1ObWVqQU1IYWJNTWhqLXd5UG1zNkdBMnBnSFFhRXVuWWF6RG9aQjNId1pLaDd0S3ZSX0FEOEdsUWpWeDNyYUI1V3NYbEFyOExj?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says",
-   "source": "CNBC",
-   "time": "2026-10-23T14:28:48Z",
-   "link": "https://www.cnbc.com/2026/10/23/russia-ukraine-agree-to-oleshky-ceasefire-melania-trump-white-house.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Tesla’s Mysterious Profit Beat Is Solved. A Tariff Refund Boosted Margins.",
-   "source": "Barron's",
-   "time": "2026-10-23T14:25:00Z",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWhsX2lURkUxVjB6VDRnbkhGSG9PVGUxbDkwZHhrZVljS1U3Um9SWDV3T0VIbUxRbXpudzFNRzBwSi1tNXQ1TEx1czFaTEVPS0IyTk9WdGliaHFWNVR6UkNTNmVHWWozWTBFVDZSQ2RCc2JaanBhVTk5aUgtNWc4UDRZUEJyd3k3QmZTSlFNb0NXUQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
-   "source": "BBC",
-   "time": "2026-10-23T14:13:33Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HVXR4Q2ppWjg1UE14akpXVTFoRWtic1NBV3ZkbDdpaldLd0VjSmlRNFp6UGljVTRNOWpPVHlCdTVnYVYybFZsT2NFaldRN2JzbWF1bnlIMUJJamM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine and Russia each exchange 270 prisoners of war",
-   "source": "POLITICO.eu",
-   "time": "2026-10-23T14:11:03Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajlJNHJvZVNmbXh5UmVHMThkNm9LY1R6SWlfeGd0XzE5ckl0cXFUSUxQbEVzdTlkMW9KU3M4SGFLSnRDR1dQSzB5cjdzNnR0bGs2Rk43b0pEaGxhckhIbnZ5WHhTeU03UGxnM2c5NERvOFU0RnRNV1JtTWV4RTZaWXRSbnB4ZndLQklXckdCU2pheGZzNHJDWmszZHY?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
