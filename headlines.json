@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-10-23T11:43:28Z",
+ "generatedAt": "2026-10-23T12:11:37Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 0
   },
   "fed_monetary": {
    "http": 200,
@@ -48,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "marketwatch": {
    "http": 200,
@@ -73,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -87,17 +86,17 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 13,
+   "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 19,
+   "items": 17,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 43,
+   "items": 36,
    "kept": 12
   },
   "gn_sanctions": {
@@ -112,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
    "http": 200,
@@ -127,13 +126,86 @@
  },
  "items": [
   {
-   "title": "U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare",
+   "title": "As Republicans brace for election losses, Musk prepares for war",
+   "source": "The Washington Post",
+   "time": "2026-10-23T12:02:47Z",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWUxGM3VOYXY2YkRLTDM2dFRNLVRDdmp5M2NGc1JzSjh2SkhhRDAxMksyVFF3SElteFR2d2FCVEdLY1ZCQXMydzFPazNuM0kyZ0tYSHdURjdfN1dycmlseUhUSTBtdWFEb0tSMXZVejV6bFZyaUNaMGZRWDNncThqVHlyRVNoSVZYelBDQWh2ZzdvN1lTNDEwcnVMMURwRk5nczk4V2JtQXBlb3haS0VaY1pDdU9CWU5ob1FMSVRGY0FVZTN5?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Higher interest rates have made family offices pickier about investing in real estate",
    "source": "CNBC",
-   "time": "2026-10-23T11:39:59Z",
+   "time": "2026-10-23T12:01:05Z",
+   "link": "https://www.cnbc.com/2026/10/23/high-interest-rates-raise-the-bar-for-real-estate-deals.html",
+   "tags": [
+    "RATES"
+   ]
+  },
+  {
+   "title": "Volvo Cars plunges 26% as CEO says China sales slump came 'faster than we thought'",
+   "source": "CNBC",
+   "time": "2026-10-23T11:58:40Z",
+   "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Island inflation rate rises to 3%, figures show",
+   "source": "BBC",
+   "time": "2026-10-23T11:58:19Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "U.S. oil rises above $100, Brent at five-month high as Iran says it’s prepared for warfare",
+   "source": "CNBC",
+   "time": "2026-10-23T11:51:59Z",
    "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
    "tags": [
     "GEOPOLITICS",
     "OIL"
+   ]
+  },
+  {
+   "title": "US-Iran war, then and now: How the landscape has changed since February",
+   "source": "Al Jazeera",
+   "time": "2026-10-23T11:43:53Z",
+   "link": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "investingLive European session wrap: Equities cautious as Treasury yields rebound, oil holds firm",
+   "source": "ForexLive",
+   "time": "2026-10-23T11:34:13Z",
+   "link": "https://investinglive.com/news/investinglive-european-session-wrap-equities-cautious-as-treasury-yields-rebound-oil-holds-firm/",
+   "tags": [
+    "YIELDS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "EU ministers vow to tackle ’China Shock 2.0’ through talks with Beijing",
+   "source": "Investing.com",
+   "time": "2026-10-23T11:30:28Z",
+   "link": "https://www.investing.com/news/economic-indicators/eu-ministers-vow-to-tackle-china-shock-20-through-talks-with-beijing-4969048",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "‘Pink blooms from among the rubble’: Battling breast cancer in Gaza",
+   "source": "Al Jazeera",
+   "time": "2026-10-23T11:27:35Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/pink-blooms-from-among-the-rubble-battling-breast-cancer-in-gaza?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -226,6 +298,16 @@
    ]
   },
   {
+   "title": "U.S. Treasury Yields Turn Higher With Oil; French Bond Yields Rise on Protests",
+   "source": "WSJ",
+   "time": "2026-10-23T11:03:54Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSk1wWWp6WG1vZjdfYjZXX1hRU0lPVEl6WnVGbkozSXB5eTU5UHN2aG9nRHRpc1VMNlI5eF92YXNZNTFUOGFBMnk1anY0cUxFcG5YTTF0NFRhaGZ0VjkwbjNETmpiWkVXUHlNMmZJV014MlJ2LXRKZWlmS3E1N21wZHdnUXZybnJBRzlVSmdwUQ?oc=5",
+   "tags": [
+    "YIELDS",
+    "OIL"
+   ]
+  },
+  {
    "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
    "source": "BBC",
    "time": "2026-10-23T11:01:08Z",
@@ -262,19 +344,19 @@
    ]
   },
   {
-   "title": "As Republicans brace for election losses, Musk prepares for war",
-   "source": "The Washington Post",
-   "time": "2026-10-23T10:52:54Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWUxGM3VOYXY2YkRLTDM2dFRNLVRDdmp5M2NGc1JzSjh2SkhhRDAxMksyVFF3SElteFR2d2FCVEdLY1ZCQXMydzFPazNuM0kyZ0tYSHdURjdfN1dycmlseUhUSTBtdWFEb0tSMXZVejV6bFZyaUNaMGZRWDNncThqVHlyRVNoSVZYelBDQWh2ZzdvN1lTNDEwcnVMMURwRk5nczk4V2JtQXBlb3haS0VaY1pDdU9CWU5ob1FMSVRGY0FVZTN5?oc=5",
+   "title": "France is getting its credit rating reviewed. The French debt turmoil has helped turn U.S. Treasury yields around. What comes next?",
+   "source": "MarketWatch",
+   "time": "2026-10-23T10:45:00Z",
+   "link": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
    "tags": [
-    "GEOPOLITICS"
+    "YIELDS"
    ]
   },
   {
    "title": "France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around.",
    "source": "MarketWatch",
    "time": "2026-10-23T10:45:00Z",
-   "link": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNFZqaDdNOGV0ZE9QamJuMmRLOUtHSXg0Q3QydGxnb3U1NjBOLXJPV0J5UlgtZ0pXdDNjaTVNYjBxWFNTTXR0eXluT05SMkhVeWIyczlQVG9sdjVsekFXZXQteWJGMDFiYVFkdzMxWWE3UUlkaE1BVTZUcTdnNzVIUkdOUWdQSjdwUmRjYVVTZmZoUFZRRHl5bDlyOFR0UV9waGl1aWVmekVoTkMzVF90NFpESWpzYWlrR1BrNTFvc1hzWVBsVHhGUGYxNFdqZk9Jel9KTmJFRDhHNlk4RVN4VTdiOTg3QQ?oc=5",
    "tags": [
     "YIELDS"
    ]
@@ -369,15 +451,6 @@
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1psQVV3TnhCb0RZTUcyR1lQYlJZdEFMVDBFRmltWlZSdUVzRnV6WWZJU2ZRRTR0aENGU2tPeUhSdjA5OTBva0hKaTlXakM5WlFiNi1XXzdJQmtxcEk3NkgtRHJONXphb1dVamZrSHBOVzRiZ1RieWJ4eG42VUc1MkgtSU1MUjNiUFoxREEteEM2djgxYzFJSlh0OW1RNC1uaERkbVBWRkZNREYxbEFyaUpRTGJCMThDYVo2bVllMDZBdGVZQWZBRzh2cDBoRGtrYmgtbmFwV2JQaEJ2dEFJ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we thought'",
-   "source": "CNBC",
-   "time": "2026-10-23T09:41:01Z",
-   "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
-   "tags": [
-    "CHINA"
    ]
   },
   {
@@ -601,80 +674,6 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUVqY01YZEVBNGdnSkZQSllpNnZmNFNUUm5ab0VxODNVWXVUdm5VYW1GcGRjSXJvTE9lSjlITEZZYmR6MUJiQ1ZtaFhNb3JDQkJoQ09JdlJUdlFsTXRfeEVKM0s1em51dUR0Z3h2WW9hRS1BdVVDSWhGSXNZZ1NIRTlzSnk4ZzZianQ0bnRheEEwRGpXTmY0SA?oc=5",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
-   "source": "CNBC",
-   "time": "2026-10-23T08:10:27Z",
-   "link": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Japan core inflation in September surges to its highest this year at 2.1%",
-   "source": "CNBC",
-   "time": "2026-10-23T08:06:37Z",
-   "link": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Gold gets caught in market liquidation despite falling real yields supporting higher prices",
-   "source": "investingLive",
-   "time": "2026-10-23T08:02:56Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWm5PWk9od3h1TkVwaUdZbEo4Um4zV29TUzBnWXB2NUxPZG5mckd5ZElIQ3BTMDVPQ0xkR2I4NDVVb28wSGJQUVViQmVfSWxvZDJMOC1fRlRWekQ1a3RpSmwzb0hyMnl6aWtwMlFEZ2dzc3paVmFlRjFuV3B1NXhDWVVWTTE0UUVWQ2ZwaEhhUktSbmtPcFEwTFpjTGVWTUVDdlBrSFZJeGhybUgybkpUeC1FQ3lQSi1nWnVBanlfU3c3TnEyc0NwNjdR?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Eurozone October PMI misses estimates as growth slows, keeping ECB rate hike dilemma alive",
-   "source": "ForexLive",
-   "time": "2026-10-23T08:00:18Z",
-   "link": "https://investinglive.com/news/eurozone-october-pmi-misses-estimates-as-growth-slows-keeping-ecb-rate-hike-dilemma-alive/",
-   "tags": [
-    "RATES",
-    "ECB"
-   ]
-  },
-  {
-   "title": "ECB Consumer Expectations Survey results – September 2026",
-   "source": "ECB",
-   "time": "2026-10-23T08:00:00Z",
-   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "title": "Newmont in charts: Q3 gold production up 1% QoQ; average realized gold price drops to $4,317/oz",
-   "source": "TradingView",
-   "time": "2026-10-23T07:48:12Z",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMTRhelBOYk40N2hEUUtld0g3b1VCSWp4YkRHaTB5SXhOYldVVERTaGluZlRlT2VXY2tIVDljdkgtQTZ5WVdzc1F6alphN1dWcHdJdEJvODR2MnJaSmtqZ3kxTE9oVHU2V05wcFNCTHlMZGlPUmppOFdXZE8wNzl5aEdBRVA5RUJUTG9TWnFWN245VVRxTkpQZHNHMGcxb2tDSmVQMmctVHpTbjdiV2FoTUtHVzhsNGJhR2lWOHdmNmFOdlctZjNmQ1FYU2NsRWt6Sk1CUEV6alZWdndfWUpXVVRycWxOODY5YlE?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Signify rallies 9% after topping profit forecasts on U.S. tariff refund, cost cuts",
-   "source": "Investing.com Canada",
-   "time": "2026-10-23T07:47:44Z",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUGlaRmNkZUJZenpmZ1VLNUxibjlsNk1uU2pDUFFuOUhscjU5cWVsX0cxMmo4azRKSUNRS1o0dll5WmYwOTVFYTBGRHJWbDdWR1dLRy1UVVRvRVlpVDFLX1NmX1dpak0zMGVpQ29FRzRmNERtOUR0aU5TUzZuSUl6VVVIWWpwZXlJRTJzZXBLWFZOVkxjM3l6STZ3NENGTnI0dmtGeUtKcjFOWmx1cWhRcXBzZDRRckpONENQbGEyNWxuY3UzUVZXbmVwM2lSV3NvS3JyOTlR?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
-   "source": "Al Jazeera",
-   "time": "2026-10-23T07:42:08Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPanhMUG9fMjBOTDd6UGhPUnUzd1pPcTVseGNYeEY0SXZPZXpEZVlkREFUVFRUQkgwSEpXQkgwNVF4T29pdGlkWTFpYWhzamt4U1I3NVhUVmxGM3hnUzRCMkdPZm1zb3FjeWRYYXJLcTdaTFNNQTRwS21hbjlibzhoQWt3VG1oaU5tQ2tLRV9IazZqTVFabzBINmNKZ1BSY1lxN0NqVFVFU2ZJYktuTGfSAbMBQVVfeXFMUG1ncnBSWUd5S0F0LUx5c2RSVjk4QlFPbGlpUWEwZkhKSVRoYVhiU2FmS2lLWm5mdTR4LU8xMEJlRF9fU3Nua2psYmM3T1ROdDN4VUltMVc1YUc0OUFOMzI3UzB3ZGdWRHFiX0dEdlpiai1aOWR5eFoyaV9qbEVHQUZ6X3hMelBRVkg2STlzNm0zQ0wxTjhvb1p0R1o5clBGYVc0b3NaeFlHNkp3a3RmY1g2ZVU?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
    ]
   }
  ],
