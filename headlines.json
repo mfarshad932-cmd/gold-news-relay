@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T08:58:06Z",
+ "generatedAt": "2026-10-24T09:54:48Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -67,7 +67,7 @@
   "bbc_world": {
    "http": 200,
    "items": 27,
-   "kept": 5
+   "kept": 4
   },
   "aljazeera": {
    "http": 200,
@@ -80,44 +80,52 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 33,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_fed": {
-   "http": 200,
-   "items": 9,
-   "kept": 9
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 23,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 35,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 11,
-   "kept": 11
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 25,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
-   "items": 2,
-   "kept": 2
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 2,
-   "kept": 2
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +133,15 @@
   }
  },
  "items": [
+  {
+   "title": "Why is Israel launching a new military operation in the occupied West Bank?",
+   "source": "Al Jazeera",
+   "time": "2026-10-24T09:14:40Z",
+   "link": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Coeur Mining: The Cost Trick Every Silver Investor Should Understand (NYSE:CDE)",
    "source": "Seeking Alpha",
@@ -153,7 +170,7 @@
    ]
   },
   {
-   "title": "North Korea’s Kim Jong Un arrives in China, South Korean media say",
+   "title": "North Korea’s Kim Jong Un visits China via newly opened bridge",
    "source": "Al Jazeera",
    "time": "2026-10-24T07:07:20Z",
    "link": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss",
@@ -404,15 +421,6 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Iran war live: Tehran says US military banned entirely from Gulf entry",
-   "source": "Al Jazeera",
-   "time": "2026-10-24T00:00:00Z",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
