@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T03:46:26Z",
+ "generatedAt": "2026-10-24T04:14:45Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -62,7 +62,7 @@
   "bbc_business": {
    "http": 200,
    "items": 55,
-   "kept": 4
+   "kept": 3
   },
   "bbc_world": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -81,18 +81,18 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 36,
+   "items": 34,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 14,
+   "items": 12,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 0,
-   "kept": 0
+   "items": 26,
+   "kept": 12
   },
   "gn_war": {
    "http": 200,
@@ -106,18 +106,18 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 32,
+   "items": 31,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 2,
+   "kept": 2
   },
   "fed_calendar": {
    "http": 200,
@@ -126,23 +126,49 @@
  },
  "items": [
   {
+   "title": "Gold (XAU/USD) Price Forecast: Bearish Momentum Puts Major Support at Risk",
+   "source": "FXEmpire",
+   "time": "2026-10-24T03:55:34Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVVlMV0p6MmhrT2NsanpnY3ZPLUp4SGJQQk5JRkpNYVJ0aExicFluSU1aaG5nQXhGcEdYc2dLZ1dhREJfazQxZjM2S1BpQ0g5RG1DVUdFYWNfTkQ2V0VXRU1iUWZNOERJb2Y2Q3JEQUY5QndxcVZBaTFIS1djVDVtZXhrTlREcHZRbkp6UGJqUURqUFV2VGxlakxTYnlYX2drcUpYT0lTS1FxN0lmTHBkbWVHSW9CWGY5SDRpUkRkTQ?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Argentina identifies dozens of victims killed in its ‘Dirty War’",
+   "source": "Al Jazeera",
+   "time": "2026-10-24T03:51:58Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Israel raids towns, detains dozens of Palestinians in occupied West Bank",
+   "source": "Al Jazeera",
+   "time": "2026-10-24T03:47:14Z",
+   "link": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Opinion | A stinky cheese tariff",
    "source": "The Washington Post",
    "time": "2026-10-24T03:05:42Z",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdC10Z3N0VFJ1TFJiREFfb24ybTYxdlZxNXpoY0NoNDJub0REeGpWeTdmaTVJQ3RzSkM2UmlRclR1Wm5ZS1BvS19KMzBoM3IzcnJpanBPYjNpOEdyVnBiaTl1cm4wVDJxczFVSUQ3NzhCc2tuX1Vpb2d5R2VTX1lpZXU5Z2pGS2JCdHo2THh3?oc=5",
    "tags": [
-    "GEOPOLITICS",
     "TARIFF"
    ]
   },
   {
-   "title": "Gold (XAU/USD) Price Forecast: Bearish Momentum Puts Major Support at Risk",
-   "source": "FXEmpire",
-   "time": "2026-10-24T03:01:38Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVVlMV0p6MmhrT2NsanpnY3ZPLUp4SGJQQk5JRkpNYVJ0aExicFluSU1aaG5nQXhGcEdYc2dLZ1dhREJfazQxZjM2S1BpQ0g5RG1DVUdFYWNfTkQ2V0VXRU1iUWZNOERJb2Y2Q3JEQUY5QndxcVZBaTFIS1djVDVtZXhrTlREcHZRbkp6UGJqUURqUFV2VGxlakxTYnlYX2drcUpYT0lTS1FxN0lmTHBkbWVHSW9CWGY5SDRpUkRkTQ?oc=5",
+   "title": "Trump rolls back some Canada tariffs as midterm election approaches",
+   "source": "The Washington Post",
+   "time": "2026-10-24T02:35:57Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclp5T1pZS2MxZFdLYUhNbTFJemF5dGxFTERtSnowODVOQVJPOUR4YUo0NTRmRDFtOUJpb185Vll4QjdLeExiaDk2ZUY5YW1vOGtiak1kbDRJQjNlRjlsU09CUlF6Y0stWkZ4NFNMRnE0bk5jelpKUkRTTXRvV2t3V09FUktPb05oYUlvbTdmeHI2b2tOTnAzT2dTcmc5RGFrR0xaeDJ3Y0lrUlJBWVQ3NGJ6Um5yZmhfdnNJ?oc=5",
    "tags": [
-    "USD",
-    "GOLD"
+    "TARIFF"
    ]
   },
   {
@@ -170,15 +196,6 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMU1MYWlNMUJCOW1BdTVsSVlsSTJDUUlHUzVweXF4eHhUdEsyQVZ3RWRLYmpQUzZQMkZsNWl0aDMwOGcwdWdKTV93VnQ1STZteV9IY09seDlDQ2lrNEQ1WkIwTU9CZW9GMmFMRVZwckZLdHpLRG1IOEtKOW5zSkQzUlhuTjZGSDd6cnpVVGkxRVlZUWotbHlnaDdTU0xSdw?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump rolls back some Canada tariffs as midterm election approaches",
-   "source": "The Washington Post",
-   "time": "2026-10-24T01:57:28Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclp5T1pZS2MxZFdLYUhNbTFJemF5dGxFTERtSnowODVOQVJPOUR4YUo0NTRmRDFtOUJpb185Vll4QjdLeExiaDk2ZUY5YW1vOGtiak1kbDRJQjNlRjlsU09CUlF6Y0stWkZ4NFNMRnE0bk5jelpKUkRTTXRvV2t3V09FUktPb05oYUlvbTdmeHI2b2tOTnAzT2dTcmc5RGFrR0xaeDJ3Y0lrUlJBWVQ3NGJ6Um5yZmhfdnNJ?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -243,6 +260,15 @@
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNnhScjdrWGZONXc3VmtybHowWF9pMW5LbjJhZUZuOUpWZVRtWmVFQW5FVmYybV9rQ3kwRWd2YUtvbHVyODJCdUlHRW15WDJxNHlhR3RKNDB0SzIwUXNzUWZEaGRveFd1dVlOcV9mTGZiMmRBelIzaElfWVRFWUZzZmJ3S3RjTy1KNWF5YklEWWVFUUVHVlBWdlJjc1gwNFV0ZDF0SHhxdXJaNjdZd1VjR2dWbEh5cFdDbjVnQXNsc0dISlZBZVcxNGwtTFprQjZkcWZCLUxya05jdw?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Live Updates: Latest from Israel, Iran, and the Middle East",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-24T00:00:05Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85NlA1SmNrMExBRGxIeWlSS3U2a2NMU2t5dE9ZUGllc3RtVi1HY0V1ckx2eUtBck5wS1hOU2trZFVoR1RJQTdUMXNQcWlGOEJuaEN1NVk5MWRQWVIxVk1UZ29wLXA3SWZvcTFFRUVGQXljdXUyN01MX09DUUFZelk?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -431,21 +457,21 @@
    ]
   },
   {
-   "title": "How Elon Musk's Starlink and Starshield are shaping the war in Ukraine",
-   "source": "CBS News",
-   "time": "2026-10-23T21:50:00Z",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc19mOEhuMG96YWstVGxzZktFVVlBSlFXVk1BcC1OYkVwTHBMd2FTdTlIVWw2SUdweFNnSWdJN0xMV1RFT19Mb1BoNlQ3RmNIRUFJZ1JvR0ZuWHdhc2N6Rm5TZkFnX0JMQVBFbnBKZVhNM0l5SUJKQ3JhZW1ZZVM3ajB1MUhLUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Trump to Cut Some Tariffs on Canada to Help GOP Lawmakers",
    "source": "WSJ",
    "time": "2026-10-23T21:50:00Z",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlhqZ2F4Q3VmV0RGd1h5cHQ0cDFLYmFsRFd5bTk1dzJvZVF4MkZtLUdYSVljbEJNR0lqMmFyemRDTjFINTlYZUhfRGEtcDcyazJVcnYtQXlDRnNoR0tqV0t5aHNuV0NPejFKM2xqcjFRMTR2S1JDVkE1cWs2UDlBUXVGOEtvMHM0SHJmcTBIV2F3ZzZfa21qTnNzcURyWnU5SjZRMA?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "How Elon Musk's Starlink and Starshield are shaping the war in Ukraine",
+   "source": "CBS News",
+   "time": "2026-10-23T21:50:00Z",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc19mOEhuMG96YWstVGxzZktFVVlBSlFXVk1BcC1OYkVwTHBMd2FTdTlIVWw2SUdweFNnSWdJN0xMV1RFT19Mb1BoNlQ3RmNIRUFJZ1JvR0ZuWHdhc2N6Rm5TZkFnX0JMQVBFbnBKZVhNM0l5SUJKQ3JhZW1ZZVM3ajB1MUhLUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -568,9 +594,9 @@
   },
   {
    "title": "Coffins and Canoes From Canada Get 50% Tariff Under New Trump Order",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "time": "2026-10-23T20:54:50Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcExTdkQyc3dXRlpQSGVfXy1teVdtTUpMRTQ5bW9LRlU4ZFhXUFRNZlVKTDZwVEREdi1GVDlMNWxMTm93bWpCdkUwdno5VlZSaWJneWpQVXVpTmxoRFNqVWtJVnBNNVVmbnRQT1dMQWw5SlNBMXgyRTVPMjRka0xfa0k0Vml2d1B6NXF6cFpuR2dvc205Q2pZc2NvZmUtMEtSZVJJbGEyanFsakVFRmJjRkZaQV8xdTFO?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS3BuS2dqcWlzQXVTWEFlRXRTSEszdnV1UVllOUtyZkhPSnZSMnVYcGFIcFk1VTdOMF8yRXZrc0lqVGtmR0FjeW1NcEMzdHNiVHBsZkZfTk5SZ0U5eElUaHJUNERnX3NmSElWV2dVUkxfbU1aMlBib1JES2NsZHEwdXYwWkRWYTZIcEpkeDdSUVBZUnBWNnhkNjljQlpHU3E0cTlCZVFtQWgxV0VYeVJ1eXhncEVMd0ZLbmhDSlpRck05ZUNhTW4xZXZuUk4?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -642,36 +668,9 @@
   },
   {
    "title": "Trump Changes Some Canada Tariffs in Bid to Aid Maine Senator",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "time": "2026-10-23T20:25:50Z",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjFBMU83aC1GcHBCSm5zbnM4NkRQRmJtOHoycTNVVmd0b0NGTm5RTTVhZ1ktWGR4QTJhaXE5cVd5bm1YY09yMFpsYzF1aWRrVnIzb29BU1VQX1k3Q0VfbWVfc2RjWmFGNnlJRlllbmJxU1hGVkdkbXlDek5kOC1FT3NKeW1sODc4UzFDQzRNQ2F4VzF5Y3hNdzY1MmVKeko1dTJPN2JXRmd3TmpOQjFGU3VR?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold Price Tests $4,000 Support as Bearish Gaps Signal Further Downside Risks",
-   "source": "Investing.com",
-   "time": "2026-10-23T20:24:00Z",
-   "link": "https://www.investing.com/analysis/gold-price-tests-4000-support-as-bearish-gaps-signal-further-downside-risks-200690182",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
-   "source": "CNBC",
-   "time": "2026-10-23T20:20:58Z",
-   "link": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Collins says certain Canadian goods now tariff-exempt",
-   "source": "The Hill",
-   "time": "2026-10-23T20:20:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdzdaY0stQ2ZHYXVQYWsxVjRRV1pRLXZDZF9sYWtQWjBLZWttNzZfU0J5Vkdoc3BZdmZpd3A4NXB3dnVTMlAtSjRtR1dXY19maV9pNWU1UXoyTGlPY3lwN3NOZjR6cGYxRFl4MmVac2psY3V3YXdXQ1JUNlFsTzB2UzJvcUR2eTVxQ1plX2JuWmJkUkhFSWfSAZsBQVVfeXFMTzFUbWxBSC1kLTdLOVowSldCRXhyVXdadjIwQURJMkR3VkZ5eGNaM1VNRWNSVWRNYndHWGRyZkYtekNUMTRHRUdmWU1Ia2pLcUNjMy1oby1yUEI1NVp0S05EMUh1NHNnYkFoZUlYT01IZWp5eG1HNWFFcXJncmdKQWo2MzBlYTMyZ3FycFo0SXNLenFvclgzLUs1b0k?oc=5",
    "tags": [
     "TARIFF"
    ]
