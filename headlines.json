@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T09:54:48Z",
+ "generatedAt": "2026-10-24T10:23:08Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 2
   },
   "marketwatch": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 9
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 27,
+   "items": 26,
    "kept": 4
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 4
   },
   "whitehouse": {
    "http": 200,
@@ -80,52 +80,44 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 30,
+   "kept": 12
   },
   "gn_fed": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 5,
+   "kept": 5
   },
   "gn_tariff": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 25,
+   "kept": 12
   },
   "gn_war": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 36,
+   "kept": 12
   },
   "gn_sanctions": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 10,
+   "kept": 10
   },
   "gn_yields": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 22,
+   "kept": 12
   },
   "gn_oil": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 2,
+   "kept": 2
   },
   "gn_cbgold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 8,
+   "kept": 8
   },
   "fed_calendar": {
    "http": 200,
@@ -134,10 +126,37 @@
  },
  "items": [
   {
+   "title": "As winter nears, heating oil emerges as hurdle for Republicans in US Senate races",
+   "source": "Investing.com",
+   "time": "2026-10-24T10:19:06Z",
+   "link": "https://www.investing.com/news/economic-indicators/as-winter-nears-heating-oil-emerges-as-hurdle-for-republicans-in-us-senate-races-4970790",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Starlink slowed, Ukraine’s drones stalled: The private power behind a modern war",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-24T09:54:23Z",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaOG5JcldsQXVvcmt1SFZVNXlia0gybHEwYTF5aVZfOFItOWgxUWN0c25Wd2VUZjVicGhJb3ljd0xYaW9Zd3ZKTHhRc1VmRjBuTjREeGtNM1NSblAtY0FV?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Why is Israel launching a new military operation in the occupied West Bank?",
    "source": "Al Jazeera",
    "time": "2026-10-24T09:14:40Z",
    "link": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
+   "source": "The New York Times",
+   "time": "2026-10-24T09:03:20Z",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zVHoyTW1BVDJmY2hJQlNqLU5xbXdWR3h2eWRZTzNaZ0VENDNnd0lZMm10UDE0X0puMEdyWFFjRUJ6UmlPQ2JOWU03aV9BY2NTS29VUTZtanFPbkM0TFBQWjUwYWdzLV91azRXTDFZN3M5SnpT?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -185,6 +204,16 @@
    "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
    "tags": [
     "ECB"
+   ]
+  },
+  {
+   "title": "U.S. Treasury Yields Turn Higher With Oil; French Bond Yields Rise on Protests",
+   "source": "WSJ",
+   "time": "2026-10-24T05:52:31Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSk1wWWp6WG1vZjdfYjZXX1hRU0lPVEl6WnVGbkozSXB5eTU5UHN2aG9nRHRpc1VMNlI5eF92YXNZNTFUOGFBMnk1anY0cUxFcG5YTTF0NFRhaGZ0VjkwbjNETmpiWkVXUHlNMmZJV014MlJ2LXRKZWlmS3E1N21wZHdnUXZybnJBRzlVSmdwUQ?oc=5",
+   "tags": [
+    "YIELDS",
+    "OIL"
    ]
   },
   {
@@ -256,6 +285,15 @@
    "source": "Al Jazeera",
    "time": "2026-10-24T03:47:14Z",
    "link": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
+   "source": "The New York Times",
+   "time": "2026-10-24T03:46:54Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYmtHSXQwRFhlWlZKbTU2TEhPODc5MERFTG9feGQwRUY1ZklES2JWS3UxTUxOelgxRExOSFdUWEJnVFFDX284OHNsZWxIUzBVRzdINlpRRVhIYlBTN3A4Q2JrYWFrZVZ0MEZGRXVXVXVKTW82dmgwRWROUHFXcVVPU0oxdkljc3lldHc?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -394,6 +432,15 @@
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNnhScjdrWGZONXc3VmtybHowWF9pMW5LbjJhZUZuOUpWZVRtWmVFQW5FVmYybV9rQ3kwRWd2YUtvbHVyODJCdUlHRW15WDJxNHlhR3RKNDB0SzIwUXNzUWZEaGRveFd1dVlOcV9mTGZiMmRBelIzaElfWVRFWUZzZmJ3S3RjTy1KNWF5YklEWWVFUUVHVlBWdlJjc1gwNFV0ZDF0SHhxdXJaNjdZd1VjR2dWbEh5cFdDbjVnQXNsc0dISlZBZVcxNGwtTFprQjZkcWZCLUxya05jdw?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad",
+   "source": "Axios",
+   "time": "2026-10-24T00:23:34Z",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNeTEzZmFLRm96a0wwNXV4bTBDU3JHX3Qtc0x3TnVKOW1PbFJ4c1FyNFNncVR0VkpLeUwyX2xGenAwU281WEpFZWRYdTNVaVIxbFRuaFBMRFNWaVI5ZFJBeHhyRll3QWs5aDJYQUtMQUdMMWpnalRPclZ3aDd4dw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -624,60 +671,6 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ1hCUWxvaWZIVXZJQndVRVFrdmhrWlRjZlloNFFMQzRrYV9oMEZhZkJTOFJyWDJXZzdUNUtBbm0zUDRFWjZkd0w5RjltdHJzX01HbEFKMWVEUVFPV082dVp0N2M0X3VvV1I5QnRVVTRuWEdzZEtYQkZ0TmFiWlEtR3NYRHl5QkR4bjNfSUJDZ1VNd1hzdkFOVUp5ZWRQWXhIcW5DSW1EWk5sb29kSHYtQk5n?oc=5",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "Gold settles below $4,000 after steepest weekly loss in nearly five months (GLD:NYSEARCA)",
-   "source": "Seeking Alpha",
-   "time": "2026-10-23T21:35:17Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVHR4ZURocFFQVExrS2Z3X1RjZXl2dmFLUThHQkJHdElpa0w5b1JtWGNqVmpwN0NSZm9aZmdjQmFGZEtkYUlQYldiYm1yaDFIWW5xcko2VmgyN2loRldjOXhtN1FYRkEybDlid0FlaWVWVXNRVDQzOFdHU1J4NGM3VldQeFNfMHk2ZGNOTTAzdzRrOGN6MGZEY3RBdjFqMGNmOEd6R1M0OHI0dzByby1B?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Trump lifts 50% tariffs on some Canadian goods in boon to Maine Sen. Susan Collins",
-   "source": "CBS News",
-   "time": "2026-10-23T21:32:30Z",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS2NhaVA4X0paUnI4dFJwMU83bjYwX1pmVnA5Y2JMcG9mb2FBQU4yX1oxU2pSZ1VxamNRVFdkQ3FHUUJTbGwzaHdBbXZjcDcyNDRwM3ZIZ0FBNE45eTcwNGJBaWdYWTFZemk3OV9zQ1VZbGplY0JiSEkybUdCbE9RLW0ySDd3NjJJeEVJ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Melania Trump says she secured a one-city ceasefire between Russia and Ukraine",
-   "source": "CNN",
-   "time": "2026-10-23T21:31:00Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcWpQTWswaXFqeFRIX0RnZEl2OU1VcjktSl83VjZLUnNMdGF6dmhwY2tKTndhUGdLZF81aW11Q1V5WEhid2QxWFBHZU9Sd1R2S0M0V2dXRGZGVW1JanZNSXRnYmVoUGZIdkZyWnpLX1dpaTFuWDI5XzIzYV9qQlYyRng2ZVlCbU1OUXJLWEtQRnIteld6RGJmbDJma0Y1X2MxU1Z0QS01VlppWE1sLUtaMEZLQ1VSZHJSX0NMNnBB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Melania Trump brokered ceasefire at besieged Ukrainian town, White House says",
-   "source": "The Washington Post",
-   "time": "2026-10-23T21:27:14Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY3g1ZWdGb1FvTHBDdVRKR093bHZmd2RPQjgxdWd2ZnIwblRXRWR3VDVPd1RBVVN4QzdMbDUyX29vZVpFLS1Ha0hvRWtPdHNYZ0ZkcWhZUTJVYkR3c3VQZnoxakJlMy16eHpuZ2FvRHFaTEdwd2lSay1wWTFqemhNR2JaTXVudVlVa19GTkpjNDRJb0xtS0lIN3BtaTBmOGJfb2tCcFMtNGFsaERNcXBMZ0xJRmFfa3hmdGdneEhR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
-   "source": "CNBC",
-   "time": "2026-10-23T21:26:59Z",
-   "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Top intel Democrats say they've \"war-gamed\" how to react if Trump alleges foreign interference in midterms",
-   "source": "CBS News",
-   "time": "2026-10-23T21:26:15Z",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc3I0NmVWSU9iVWxYOFlwYWRLTExtcExYS1l6MWhwa1ZPVzdiNjFfNVF0QXY1X0hLcEZnSEJwUDdBS0tPeE53a3RRM0ZveTdIVGVZZFBEY0Qxa3dQRktmYVF5WVFDbHpZUDVwdmh3eFpwRlhpdXNZdUpqTUpxTmJYM3VWSV84RVBUSll4X0R3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
