@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T12:48:35Z",
+ "generatedAt": "2026-10-25T13:16:57Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -86,17 +86,17 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
+   "items": 15,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 32,
+   "items": 29,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,8 +106,8 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "gn_oil": {
    "http": 200,
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,35 @@
   }
  },
  "items": [
+  {
+   "title": "Opinion | The Silicon Valley civil war is playing out on film",
+   "source": "The Washington Post",
+   "time": "2026-10-25T13:08:09Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFBwd3dMSVFneGlRbHFTWG1TQS1DNWViYVhDeXpKeXZ6SlVXZW01YVpHWnBrR1FxazBoUU1XUWlPXzhYNjNXc2h3eHBCUkdKVnc3TFgxdUxNd1E5ZUkteGhTa3ZMVmtuQk0wN3JUNVhBU0I3Q09xTXF2Q2FRZjEzbjRERC1ma19TZXRkZHFuY2FwbzNCWnNVYkpVcUdDVjExSTYzTTlpR3lTM2Q3Y2g0U09MQjd1OFJ0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+   "source": "CNBC",
+   "time": "2026-10-25T12:49:33Z",
+   "link": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US Interest Rate Forecast: Oil Rally Fuels December Fed Hike Risks",
+   "source": "FXEmpire",
+   "time": "2026-10-25T12:49:02Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVjE0dGZiWG5BVFM3OHRuV0hGMzVSNFF1SzJNODdRTTdQY0hnOEc4Z05aODNiU3EtdkhoNmFCVUp6SG01VHBQTDcwVVBCZzk0NWVmakJSQ2ZhS2FQVzBlMnBFMWNFX3E2MDdYMlcyWHljRkQ0clFuZUVvaE5xSnVCQUdmNmJaNEVYMzlNZHY4TTVNWTcwZFVuYTg3RlRkQ2JwcE5ybTNsY3NqYV9XSFJ0aHFZZHhFUGs?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "OIL"
+   ]
+  },
   {
    "title": "‘Nonanswers’ aren’t working. This is what investors really need from the Fed.",
    "source": "MarketWatch",
@@ -227,15 +256,6 @@
    ]
   },
   {
-   "title": "Opinion | The Silicon Valley civil war is playing out on film",
-   "source": "The Washington Post",
-   "time": "2026-10-25T11:23:01Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFBwd3dMSVFneGlRbHFTWG1TQS1DNWViYVhDeXpKeXZ6SlVXZW01YVpHWnBrR1FxazBoUU1XUWlPXzhYNjNXc2h3eHBCUkdKVnc3TFgxdUxNd1E5ZUkteGhTa3ZMVmtuQk0wN3JUNVhBU0I3Q09xTXF2Q2FRZjEzbjRERC1ma19TZXRkZHFuY2FwbzNCWnNVYkpVcUdDVjExSTYzTTlpR3lTM2Q3Y2g0U09MQjd1OFJ0?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Report: Iranian Officials Say U.S. Diplomats 'Fair Game' as War Tensions Mount",
    "source": "Haaretz",
    "time": "2026-10-25T11:07:00Z",
@@ -245,10 +265,19 @@
    ]
   },
   {
+   "title": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
+   "source": "Al Jazeera",
+   "time": "2026-10-25T10:54:46Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlpCbHphMHZ1OU9KdDFLVzhKMFR4Q1BxVzBqamJEMjJ1YnF1YXFCYjhEaC1GV3I0N3JpcUp0emRoTHlFV1NFOVpYc2daSmZzS2hlSElXUTd2RFZxaVNoOTVvWGphNlJvQ2RHVzRMWHFzS1ROWVFvNnBrb0phekVsSGg5LVlCbmJmamRBcDU0WWs1Ump3TTV4YnZjd0RyMzUtVmxwcm1meWhULTdVTFEwcS0wQ1JuV3fSAbwBQVVfeXFMT0o3Wlo2OHNpSGl1alBxS1dGcGZyUm8tX0F1aWNKYm1NdUZkaXJSbzNjbmZmSjE5WW1KOUliQVhjQW96d3E3NXBoMjlJZEpjN2Fick1zNTJqVVFwT2NoUTdQSnZsc24tUkYzQm1pVmdxU3RBbWFWRW1hbzdPTGdGQUcxelNPTEdNaWMzZnJMb081dmlNblpYbnF1Vm9fX2swOGUxTDEwQW0tamh0dHRiTDV2OWNkVXdiUElaT00?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
    "source": "Al Jazeera",
-   "time": "2026-10-25T10:51:07Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMmpqOVNzdVRBZjZhT3dXUTVoejlWRjc3VFZ1UFBzN3lyZnY3TnBXQjdMS1Zmb3hqbWNGcXZVS0xNcUl4UkxDZnJpdVFhdnBkMTdLM3JacHozYXNUbkgwVTdoUW5ZbURNa25GbmxhS2VmTUpzdjNJbUVfWlpyeTBGQ0sxYmloTmJtVGRJdjlnbndmb2tuOS03N1l0ODJGWU9aQnQzaDRmcjkxYVUyTU1RSzlCTXNJWW_SAbcBQVVfeXFMTjJqajlTc3VUQWY2YU93V1E1aHo5VkY3N1RWdVBQczd5cmZ2N05wV0I3TEtWZm94am1jRnF2VUtMTXFJeFJMQ2ZyaXVRYXZwZDE3SzNyWnB6M2FzVG5IMFU3aFFuWW1ETWtuRm5sYUtlZk1Kc3YzSW1FX1pacnkwRkNLMWJpaE5ibVRkSXY5Z253Zm9rbjktNzdZdDgyRllPWkJ0M2g0ZnI5MWFVMk1NUUs5Qk1zSVlv?oc=5",
+   "time": "2026-10-25T10:54:46Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNXZneXNmeEVvOUxpY1N5ejEwbm9MaG9pRnE3am9iM0VBS1lXYXUyTURKNFdqQkpNOGFYdy1Sa2VMV3F1OEZYdUFvdW9XTnJUaHVJWHRlaVJnakZHR1NsdDdibzRZMTFMcUlFaVlmM3VpYVRTeEFVRVdtNTdsRkYzWVNkcnJhc1Z2ejJ5R3Y0SGtyazU2bFg4aHZKQ1ZoMzNDRGxTcTQzbklqN0lhRHhBMVFn0gG3AUFVX3lxTE4yamo5U3N1VEFmNmFPd1dRNWh6OVZGNzdUVnVQUHM3eXJmdjdOcFdCN0xLVmZveGptY0ZxdlVLTE1xSXhSTENmcml1UWF2cGQxN0szclpwejNhc1RuSDBVN2hRblltRE1rbkZubGFLZWZNSnN2M0ltRV9aWnJ5MEZDSzFiaWhOYm1UZEl2OWdud2Zva245LTc3WXQ4MkZZT1pCdDNoNGZyOTFhVTJNTVFLOUJNc0lZbw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -272,13 +301,11 @@
    ]
   },
   {
-   "title": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
-   "source": "Al Jazeera",
-   "time": "2026-10-25T10:43:30Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlpCbHphMHZ1OU9KdDFLVzhKMFR4Q1BxVzBqamJEMjJ1YnF1YXFCYjhEaC1GV3I0N3JpcUp0emRoTHlFV1NFOVpYc2daSmZzS2hlSElXUTd2RFZxaVNoOTVvWGphNlJvQ2RHVzRMWHFzS1ROWVFvNnBrb0phekVsSGg5LVlCbmJmamRBcDU0WWs1Ump3TTV4YnZjd0RyMzUtVmxwcm1meWhULTdVTFEwcS0wQ1JuV3fSAbwBQVVfeXFMT0o3Wlo2OHNpSGl1alBxS1dGcGZyUm8tX0F1aWNKYm1NdUZkaXJSbzNjbmZmSjE5WW1KOUliQVhjQW96d3E3NXBoMjlJZEpjN2Fick1zNTJqVVFwT2NoUTdQSnZsc24tUkYzQm1pVmdxU3RBbWFWRW1hbzdPTGdGQUcxelNPTEdNaWMzZnJMb081dmlNblpYbnF1Vm9fX2swOGUxTDEwQW0tamh0dHRiTDV2OWNkVXdiUElaT00?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
+   "title": "News by CNBC TV18 on TradingView, 2026-10-25 — cnbctv:f9714265c094b:0",
+   "source": "TradingView",
+   "time": "2026-10-25T10:35:25Z",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyejZXSGRuNzRDWnBJZ250NVUxMTR4ZklueVFjMGxKSGI5czYyaVJRaWhSanhEZWNFQ1BqNGlpRlpmeWlpbmpKSzBMX28zbHNJZmhyb2pJVjlKZ2FUc1oxUzRIRTJXZWs?oc=5",
+   "tags": []
   },
   {
    "title": "Bond yields harden by nearly 30 bps in Oct, to raise govt's interest burden, squeeze fiscal room: Experts",
@@ -651,33 +678,6 @@
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRWcwWlBQQkM0djlLUXlzcE9KMFRLa2JqbkxMTjEtOVItd0NCdzJnc0dsZTU2UUEwWVdEU1AyQlZ6TVFMRzR2dndGNUlMcmZoby1nWl8yTThKbUVWZldkSTFnMnVEN1hmOFN6WTh3SUZCRnoxRkRKR3lEOTZoeXBHbzgxYzNpcjRaWGpuVHg3S2hTNlkwR2w3Mk11MnlZdVNPMjZ4UFE3NnZzMkN1dXE2YkpmcVVld08zeXlneFBHQXlVRTU1N1RKVEFDZHVOcXhjY2JOcG14VWozUQ?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump’s latest tariffs could be strategically timed for U.S. midterms",
-   "source": "BNN Bloomberg",
-   "time": "2026-10-25T02:58:05Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR0hmeUFmdDRTYWhqRTBmTktQSzdyekwxQmRhbVRHa3BxYXlnbjBxMmRHUnMtMTUtMDdJMWh6V0xtbkhUdG80UndHY2VTemlhaE9DYUtzM3hab0pEcGNRRzRxOGZoLUVZZEFfQ19QVmVHOXNuZ1NPdDEzdEc1OE9QSXVrMmRvMTFVXzU0QW9OY2oxaGllUXVKVHB3dEhCRVExdXRmdmNIa0d2R3U3bTJJaVJnelVaNFJLLXc?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Elon Musk claims Kyiv violated Starshield terms by using in war",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-25T02:39:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQckVJeEFrcEY5aThDcnRhZV8zREt2ajZIR1d5ekt4bDJvSmVRaFhlQ3RJTWozenFkclZWLVJKM2EzRzE3S2R5ZWtrMmNXT2lQR2Ryc0E0b1RPWkYtaHBtQk1RaUhhQ3hTUnVmR0M0dE55ZkVGa1dKY2dPeWdYOW05bWJqbEc5VDIyTUE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine war briefing: Kyiv targets Russian-occupied Crimea as UK and France conduct joint military exercise",
-   "source": "The Guardian",
-   "time": "2026-10-25T02:37:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObU45ZW9lclhObFg1dUFjT2NOc01IYjR0RkNmejlWM3pKdWJrNE1qMlpIWE9sTUZ0LUppSXNfNC1PQUhWZjJRQkU5eWdFTWN2dXJ1UmRuTWVoaTZNSGRVcUxmeHRIRzN0cGxQdG5ZVHhqckJabk05NWp6eEFPSUhoMEpoY1NSOWhNQ2xYX0V4dHFGR1dZTDg5QUQzbkViTFloSVpNc1YzWU5zdk5ES0VjUXBKT0FBZVhIQ2wySmVia0haSllKOFNzbkVPdmF3aU12T1VkRzFIdFk2cTJ1c09tbzBCUW9lQ0U?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
