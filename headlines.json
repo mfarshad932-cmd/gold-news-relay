@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T18:00:10Z",
+ "generatedAt": "2026-10-25T18:28:30Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,12 +52,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 11
   },
   "whitehouse": {
    "http": 200,
@@ -91,12 +91,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
+   "items": 15,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 33,
+   "items": 29,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,8 +106,8 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 5,
+   "kept": 5
   },
   "gn_oil": {
    "http": 200,
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,60 @@
   }
  },
  "items": [
+  {
+   "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+   "source": "CNBC",
+   "time": "2026-10-25T18:18:49Z",
+   "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Falana urges Africa to rally behind Cuba, demands end to US sanctions",
+   "source": "The Guardian Nigeria News",
+   "time": "2026-10-25T18:15:04Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVlYVXBWMkhlWG9xdFZDb0stQ1dXdEV6bzF5TzFXNkxhRHY3QVViUnhla0QtakdWR3V1T2tBdW9sRGViMmtGUUFoQjNwYmxaal9jc0RJaXdDN3o0YzE2RW5TQWpoNVNyOXFfMC1sYXlFMThQSW1hUVhaaW9TTkFrb2NCMVZWMExvVkxwRnNiNkVRUDVHUElaVTRn?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Opinion | The Silicon Valley civil war is playing out on film",
+   "source": "The Washington Post",
+   "time": "2026-10-25T18:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFBwd3dMSVFneGlRbHFTWG1TQS1DNWViYVhDeXpKeXZ6SlVXZW01YVpHWnBrR1FxazBoUU1XUWlPXzhYNjNXc2h3eHBCUkdKVnc3TFgxdUxNd1E5ZUkteGhTa3ZMVmtuQk0wN3JUNVhBU0I3Q09xTXF2Q2FRZjEzbjRERC1ma19TZXRkZHFuY2FwbzNCWnNVYkpVcUdDVjExSTYzTTlpR3lTM2Q3Y2g0U09MQjd1OFJ0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Israeli air strike on Gaza City university kills three people",
+   "source": "Al Jazeera",
+   "time": "2026-10-25T18:12:13Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Albanese faces stark choice if Trump escalates Iran war",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "time": "2026-10-25T18:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbWt0WTk5NkcwT0tyMVV2T3BfVGxZR2NoWTNCTzZ1dVhUQUpENnI2ck9LVzktYW9hS3RleUVQQTRqcDJQNEFMbHlIdjA1Vll3VUJBekRXcnJyOUtET2RaSmkwSC1EMElrMFN2TGd3ZElKTGdoUVVkVjlGNjJMQ29sNU5tMmFqby0wVXY2YW80SlQ2b0N3M3llcXp3R1g?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US and Israel elections: New leaders, same policies?",
+   "source": "Al Jazeera",
+   "time": "2026-10-25T17:53:23Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Netanyahu's crypto remarks fuel Israeli election fearmongering",
    "source": "The Jerusalem Post",
@@ -135,19 +189,19 @@
    ]
   },
   {
-   "title": "Iran says messages are still being passed to the US amid war concerns",
-   "source": "The Times of Israel",
-   "time": "2026-10-25T17:21:22Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdXlwcEhrS1J3dUNPUlNJRmJKOElhMjdSQW5yTUJTTVhGQ3daeDJ5bEdNSVRHTWZTWmNBc0h0OS15clBhRUlHYW1uYU5vM3J4cTNTSlJaeFlfSk45LVRCaGVmRHM2eXg1SHBCZlh4SWNiRjlsSDcxX19XWWFaWnhPQlpURnFNM3M0RDdiMHN6bEtPbDMtbGhWb0thdWp6aWFQYTZBTzY5b25Xa0tPcmZFVFZjMkxzQQ?oc=5",
+   "title": "Power Outages Leave Kyiv Dreading Its Worst Winter of the War",
+   "source": "WSJ",
+   "time": "2026-10-25T17:23:20Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPazkyOWh6YWJnMGtOY19fQUdsa0xHVDdicnBmOHpiSW40QnU5U2pCQU43UnFRNG0tT2pWQjB0bUJFYUIxNXBjMUZTU2M1SlJqeUI1MkhfNlRsYUJhdHhTRWNBY1Z3WWRsUmJyeGt6RExxS2FsXzRZNUNGOXZRNzBlQXN6R2pnem9JNUFrYjBVSUEzeFd1UV9wVXpRVkU?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Opinion | The Silicon Valley civil war is playing out on film",
-   "source": "The Washington Post",
-   "time": "2026-10-25T17:20:06Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFBwd3dMSVFneGlRbHFTWG1TQS1DNWViYVhDeXpKeXZ6SlVXZW01YVpHWnBrR1FxazBoUU1XUWlPXzhYNjNXc2h3eHBCUkdKVnc3TFgxdUxNd1E5ZUkteGhTa3ZMVmtuQk0wN3JUNVhBU0I3Q09xTXF2Q2FRZjEzbjRERC1ma19TZXRkZHFuY2FwbzNCWnNVYkpVcUdDVjExSTYzTTlpR3lTM2Q3Y2g0U09MQjd1OFJ0?oc=5",
+   "title": "Iran says messages are still being passed to the US amid war concerns",
+   "source": "The Times of Israel",
+   "time": "2026-10-25T17:21:22Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdXlwcEhrS1J3dUNPUlNJRmJKOElhMjdSQW5yTUJTTVhGQ3daeDJ5bEdNSVRHTWZTWmNBc0h0OS15clBhRUlHYW1uYU5vM3J4cTNTSlJaeFlfSk45LVRCaGVmRHM2eXg1SHBCZlh4SWNiRjlsSDcxX19XWWFaWnhPQlpURnFNM3M0RDdiMHN6bEtPbDMtbGhWb0thdWp6aWFQYTZBTzY5b25Xa0tPcmZFVFZjMkxzQQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -186,15 +240,6 @@
    "link": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Power Outages Leave Kyiv Dreading Its Worst Winter of the War",
-   "source": "WSJ",
-   "time": "2026-10-25T16:37:11Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPazkyOWh6YWJnMGtOY19fQUdsa0xHVDdicnBmOHpiSW40QnU5U2pCQU43UnFRNG0tT2pWQjB0bUJFYUIxNXBjMUZTU2M1SlJqeUI1MkhfNlRsYUJhdHhTRWNBY1Z3WWRsUmJyeGt6RExxS2FsXzRZNUNGOXZRNzBlQXN6R2pnem9JNUFrYjBVSUEzeFd1UV9wVXpRVkU?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -320,6 +365,15 @@
    ]
   },
   {
+   "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
+   "source": "Al Jazeera",
+   "time": "2026-10-25T14:51:13Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmJvVFROYklRaWdWUnhjOXhGUVpNQmRzME1NM25aUWVTNVlDQU90aGNQaTRlZTUzZUNscE9QZHNZX2ZZY0pKS2htbjNpUHJXaDVMR25zeFRlU1I2ZzN0LWlsdTNsSU9TUnZvcFVFTXVyUXZtUjNvZFhlQU1WUjdITnBlZ1hzc0gyRXV4blBDMkdPcC13Wl9VbW5uaC1JaGR30gGmAUFVX3lxTE4xY3BFSzlQa0VZLWcwaUo3SklTdzRKaExfbzlEUjNDYlVpczR6amNiN3BmUzRaM0tReUhJeVVnWkJnaWJkVXMtVUlQR3haX2JScWFsRHRmazlzYW9hMVZfaFdIYWxiendHMldwcDBMOWctQWNQX0xQd0RZUVVDOEt5OUQzSkhZbFpHMEIxc0dSOENFbm1jRVNUUjZBSzN6MjJzTjNJMFE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
    "source": "Al Jazeera",
    "time": "2026-10-25T14:51:13Z",
@@ -327,15 +381,6 @@
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
-   "source": "Al Jazeera",
-   "time": "2026-10-25T14:48:45Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmJvVFROYklRaWdWUnhjOXhGUVpNQmRzME1NM25aUWVTNVlDQU90aGNQaTRlZTUzZUNscE9QZHNZX2ZZY0pKS2htbjNpUHJXaDVMR25zeFRlU1I2ZzN0LWlsdTNsSU9TUnZvcFVFTXVyUXZtUjNvZFhlQU1WUjdITnBlZ1hzc0gyRXV4blBDMkdPcC13Wl9VbW5uaC1JaGR30gGmAUFVX3lxTE4xY3BFSzlQa0VZLWcwaUo3SklTdzRKaExfbzlEUjNDYlVpczR6amNiN3BmUzRaM0tReUhJeVVnWkJnaWJkVXMtVUlQR3haX2JScWFsRHRmazlzYW9hMVZfaFdIYWxiendHMldwcDBMOWctQWNQX0xQd0RZUVVDOEt5OUQzSkhZbFpHMEIxc0dSOENFbm1jRVNUUjZBSzN6MjJzTjNJMFE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -357,15 +402,6 @@
    ]
   },
   {
-   "title": "Gaza content creator tells Al Jazeera how much her award win means",
-   "source": "Al Jazeera",
-   "time": "2026-10-25T14:16:06Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "\"The Mosquito Bowl\" and the human cost of war",
    "source": "CBS News",
    "time": "2026-10-25T14:10:19Z",
@@ -381,15 +417,6 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM0hvVWNtdkhvV0N3TVpOdTNYYTVoWUVMR2FBT1JxT09mQVZBeG1DZEFuUTkycVJXQXlQV2xrTDUybWc4RFNQLWhndk1tS3k0OVNVeUVXU2dGTHRsbW9vbzJzQUtMRUFpeVJhZFVVNHc1X3FxdmVQYWdjS2N3Wjd3bWtZNk9tT1VwNmNkSHVhS3VsSnVXYktjWks1bms?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
-   "source": "Al Jazeera",
-   "time": "2026-10-25T14:03:17Z",
-   "link": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss",
-   "tags": [
-    "GOLD"
    ]
   },
   {
@@ -452,7 +479,7 @@
    "title": "‘Nonanswers’ aren’t working. This is what investors really need from the Fed.",
    "source": "MarketWatch",
    "time": "2026-10-25T12:44:00Z",
-   "link": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSThTTUxPRzFxTk54d2t3Nklxc3hsVGFTZkdZQjFXN1NmbmxPRXpOZ0FQeUhvTmtucmN3dDh3ZktKMUU3bTBLLXBfa2Nhd1NzTWdweXRCUDItT1pjbV9pWl9tMDk2SjVGM05SeEIzUGxDcHV2ZUZLR1ZYSWpSaWVXWnlhdHQ3ZTZOUlZKQzBRLVlwYzBrbmFGUVp4NFNTUHFQNlRyVmZaOXh2UFVkZmNwRWZvbjBHcDA?oc=5",
    "tags": [
     "FED"
    ]
@@ -618,6 +645,15 @@
    ]
   },
   {
+   "title": "Macro pulse: US bank earnings could reveal the hidden cost of surging Treasury yields",
+   "source": "investingLive",
+   "time": "2026-10-25T09:59:39Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUm1uR1dhbjBnSmdmd1E2UlNDM19ndkx4N3ZIUy1MZlN3dkJBYmZyY1dMcTFqNkhsZ2h0TU0wNFp6QW1WNy1vRk9MM2NialBpUXRDVS1wZVRZa2cydzRSeUR6cUdWMDNDRDNsRm5NdTZIakcxZk5TTXBpSEdHZC1kNGM4cUZUWE5QTS1IVFJmYk9sSFhJNmtBeFF1Z01DQU16dHlaUjhGNEt0X1hodXU3UHlRZUFOdXJ2aUtnNFZR?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Israel’s War-Focused Election Masks Underlying Economic Schism",
    "source": "Bloomberg.com",
    "time": "2026-10-25T09:30:00Z",
@@ -634,42 +670,6 @@
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Natural Gas UK Future (Nov 2026) Trade Ideas — CAPITALCOM:NGLNMX2026",
-   "source": "TradingView",
-   "time": "2026-10-25T09:26:29Z",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblhTUDdkU2pFVWRwZGNGVXBZTEFmamJlbnJMQllLZnhMNzJveFpwTlM5Y3JOblVjLVcxRWdmd0Y5RnBjOUx6X3I5a3gybmVZNTliTjQ1R3JCUVJmTWZER01XNDJFTmp3NFRpSTZKa2pTaXR4TTNBQ2szT2JTb285TFpDbU1uOGJMeWljOTkwVDFrdw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-   "source": "BBC",
-   "time": "2026-10-25T09:00:00Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Wheaton Precious Metals Corp. (WPM) stock price, news, quote and history",
-   "source": "Yahoo Finance UK",
-   "time": "2026-10-25T08:38:17Z",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FbXFpZlVsX2FqeVZnMUVOX2JXYnFRb21pRGNkU3ozTU0ycFB5M3VDRVRKRnAyYXQyYlFCTmdtbTd3RjJZQlJHUFhVWjRVNURf?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Saudis intercept Houthi cruise missile fired at southern city",
-   "source": "The Times of Israel",
-   "time": "2026-10-25T08:30:13Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONXZ2NEcxLUhIWE5UUW1GR3JLWXNhTFp2TG1rcEdFUFVURHdpbUFkS1laTWcwNlNQcjJOcWhiVU5iN2tnZEs5XzBCX0xqY3NuQzRCaWJRM3R0dWN1RHVQUUd1R1Y4MEREWjh0dVo4MHR1M1YycHgwSEpRS25KdURsZmRhRzBRRXg4cE1ZQkEzZGV1d1RNTFJDbF9GRjJUaWtxMDY0eklnSGRvLVE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
