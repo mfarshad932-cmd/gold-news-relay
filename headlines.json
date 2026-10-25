@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T16:35:21Z",
+ "generatedAt": "2026-10-25T17:03:28Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,12 +42,12 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 3
+   "kept": 2
   },
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 1
   },
   "marketwatch": {
    "http": 200,
@@ -106,8 +106,8 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 11,
+   "kept": 11
   },
   "gn_oil": {
    "http": 200,
@@ -126,12 +126,30 @@
  },
  "items": [
   {
+   "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+   "source": "MarketWatch",
+   "time": "2026-10-25T17:00:00Z",
+   "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+   "tags": [
+    "RATES"
+   ]
+  },
+  {
    "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
    "source": "CNBC",
-   "time": "2026-10-25T16:02:56Z",
+   "time": "2026-10-25T16:42:42Z",
    "link": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
+   "source": "Al Jazeera",
+   "time": "2026-10-25T16:30:51Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -338,7 +356,7 @@
    ]
   },
   {
-   "title": "Top economists ‘gravely concerned’ at Netanyahu touting crypto to beat sanctions",
+   "title": "‘Irreversible damage’: Top economists ‘gravely concerned’ at Netanyahu touting crypto to beat sanctions",
    "source": "The Times of Israel",
    "time": "2026-10-25T13:16:17Z",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbHB5Q2Y3cF96b3RVbDNHZm04NkRwNmRZR0RtM2ZQUFlFNkd5TUVvMlZqZXYtRk4yVDBTQV9yMkNEdG9PZ2NmUm1tWGJTbjlhX3pyR0ZQRTd3ejF3NURMMHZoRFUxbzcyNU1VQmhyZGFYckFJbGx5ZndibGdVaG1Ob3ZQRGN2RG1ENGdzYXY5Z2xpUzRDNEZ1aDhSR1ZEMDVMdGpNTElZU1UtSlF2S1HSAbMBQVVfeXFMTmQ5RnhENjNtb3Zjem9TWVBTVlBsRjlQUzd3b1pIaGFua1FtMnkxRnVUZjlPMEdieTA2bFo3cDY0b01JWE5Qc0JUa2l2XzhOMTlfbDJRUDM3bFRKMWJ1Z1hhUl9WeWZCXzR6T2lyYWZnM2ZpdlRjTWEyd1A0OHBIQmJiUnMxOEtDenpDVVA3QzRaT0ZhR0czN3BITmxpSWJybENiRUhSS0Y4QkRNaUtNalUxNDA?oc=5",
@@ -418,15 +436,6 @@
    "time": "2026-10-25T12:30:00Z",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzZNQk5wdXJObmtzQTQ4bmphZl96bHp5VldRY3dhdTI4eVVEa2JLdjVxTjJwTVF6bW9TbXFnYl9remY0SGhzcHNvRkpiRHI2Z1ZiVWg3Wkl2TWtJb1RoRG9GTXUzQ3lYdngzZVVfTkMzM0dtSDlIemN5S0NvVkhDMmhjMnF6WVlRa0pOZUM3SkRDS1VTVm5pV2Qzb3BPNkZhM2NvTHRWUWlBd2k4NC1odFdCTFFXdw?oc=5",
    "tags": []
-  },
-  {
-   "title": "Why Israel’s latest assault on Hebron is so significant for the West Bank",
-   "source": "Al Jazeera",
-   "time": "2026-10-25T12:17:39Z",
-   "link": "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
   },
   {
    "title": "3 U.S. Onshoring Stocks Investors Are Screening As Tariffs And Energy Costs Rise",
@@ -662,15 +671,6 @@
    "source": "Benzinga",
    "time": "2026-10-25T07:59:21Z",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkxXX3NrRXBrYkM1MW50Sk16WnJFQUVwNzlYRXRMajE5Nkt5UTdtdjVFVkY2WkVMb2ZjVERkMk9QbXRYaEVZOEJ4LV9uaXl1SktoRUpvTkVnUExheE50aklZVkVKWGJkZE1adkI3UzFUMzYyNDZ6UTNuZTdoSVRYRHUtTzRMdHRBSHR0ZUNpSV9KUFhXY2cxTGd1SnM?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump Says Audi Will Invest $4 Billion in Georgia SUV Plant as Tariffs Reshape Auto Industry",
-   "source": "TradingView",
-   "time": "2026-10-25T07:59:21Z",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRDkzUFdCT2V4RVU3dE1tR1FGRDllY3llSElZbGc1cHRDeVN6dEJncGhmbnZOc3htejU0VmNacFJWUW5TZFFYZzZMVTdPeFBFcldKeXlGdGd5U216NHNRYTNjb1RIQ0tQakZzdnU0dGpTR0cySjJ4OFNFYzQxM1EzRWdmTEwxR21MLVliR25rMURDd2NnRnlBWXNSbDhMSXc4RGp2Wmc5WVNQUllGa2JMNlYwV1VKMHZPTDBfbGZtRHdkUUthUHNTUmY3Ukx2Ni10eVh4cHBZTFE0MWRBcFRPcmhBbTU?oc=5",
    "tags": [
     "TARIFF"
    ]
