@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T15:10:19Z",
+ "generatedAt": "2026-10-25T16:07:01Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 4
+   "kept": 3
   },
   "investing_news": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 32,
-   "kept": 7
+   "items": 30,
+   "kept": 6
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 11
+   "kept": 12
   },
   "whitehouse": {
    "http": 200,
@@ -81,33 +81,33 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "gn_fed": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_tariff": {
    "http": 200,
-   "items": 12,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 34,
+   "items": 30,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 15,
+   "items": 16,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 9,
+   "kept": 9
   },
   "gn_oil": {
    "http": 200,
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -126,13 +126,69 @@
  },
  "items": [
   {
+   "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
+   "source": "CNBC",
+   "time": "2026-10-25T16:02:56Z",
+   "link": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Audi to Build Factory in Georgia, Trump Says",
+   "source": "The New York Times",
+   "time": "2026-10-25T16:01:08Z",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUzRuM0NZODNTYlVUeWRIY3pkY2s2d1k1Y3F4TTlXUEpiazNfbHpWa3BwUTRENzdmZUFUS0ZFNDVHMG5FLWhkcGF5WjlOUlc3eVJ5ZFhfemNJVVVWVjFNN3htQUpNWWwxUFdyTWxWd0dYenN2Mm9ubGdmRTdRS010dA?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Israelis have changed. Will they change their leadership?",
+   "source": "NPR",
+   "time": "2026-10-25T16:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtVXRuM1dxV0lqVnVoRnRiNGJ5SExjMUhraVFoTTFXSm1HYzJqclI0R1ZqamRzdDVfdEJnVHYwcWZVbjRwVkZaRjVBVW01UUw4azBnOTRuSGZwSUlOZ1JaQmNnU21qZE02b2ZtVEp5c0VtOGltdXdYSzhPMjY?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Opinion | The Silicon Valley civil war is playing out on film",
+   "source": "The Washington Post",
+   "time": "2026-10-25T15:50:06Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFBwd3dMSVFneGlRbHFTWG1TQS1DNWViYVhDeXpKeXZ6SlVXZW01YVpHWnBrR1FxazBoUU1XUWlPXzhYNjNXc2h3eHBCUkdKVnc3TFgxdUxNd1E5ZUkteGhTa3ZMVmtuQk0wN3JUNVhBU0I3Q09xTXF2Q2FRZjEzbjRERC1ma19TZXRkZHFuY2FwbzNCWnNVYkpVcUdDVjExSTYzTTlpR3lTM2Q3Y2g0U09MQjd1OFJ0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Seven killed in Gaza as Israel targets university campus and other sites",
+   "source": "Al Jazeera",
+   "time": "2026-10-25T15:40:25Z",
+   "link": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Trump started a trade war with Canada. GOP candidates became casualties.",
    "source": "The Washington Post",
-   "time": "2026-10-25T15:01:31Z",
+   "time": "2026-10-25T15:34:41Z",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWFBHZlRreWd4WG1mTlk4ZTVjME5pUkJFTVdDaGxRNldybXRjVlFVNkRsbHJqdFhoWmVIbWUzX21WZVFKellXamZVaExlVXl5UUpsTG5ITVNYR2psSmFHNHY0NV9jX055Qi1LS2lVNE96TnEycVRvM0c4cjNzM19YSmFMR1NsT0lQb2Y5blh5T1cwUEZBTF9ic0VocnBBQ3BVUTNuX01ST2JkX054MVV4TGg0TlVFZ0M5Z0E?oc=5",
    "tags": [
     "GEOPOLITICS",
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold Price Outlook as US Bond Yields Rise Ahead of FOMC Decision",
+   "source": "Benzinga",
+   "time": "2026-10-25T15:15:15Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWTV2U3h4MGhEYTdwN09jMG9zTlRjdHBOb1JIOEJZMEdrMmF3bVg1UjRQVGdaZkxYY2lRdEZ2SkpjUTdXcG1GaHIwQ3V5TElEU1J2c1ZVX0wybHZtUGw0bEZabDM0SW1wV1VlNHptcXhqSHVUNjVXdHNPSkpmYjl0c1FDRl9GTERkQVJvdmExM2kxTE9HTFpQSGdrLXFnbFVMS0syNHVFU3V2d1ZjekV4YXpfNk1LQUE2akYwSVkwM3NhUQ?oc=5",
+   "tags": [
+    "FOMC",
+    "YIELDS",
+    "GOLD"
    ]
   },
   {
@@ -172,6 +228,16 @@
    ]
   },
   {
+   "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
+   "source": "Al Jazeera",
+   "time": "2026-10-25T14:48:45Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ1JxQlNveTZSckpqLVR5eFJsci1WWF8xQVZteUV0ZFhqd0JWa1JaaGUtUmNyM00tRlVQcHdfcWZCRUFpTFdpVDN1TF9BazN6T2xXOHFPYmYzam4wUFNvMXNIWXBYRTdTU2xWQUtmTXlfcEZhQU9YN1N4cU43aWNjRDFreGZlRUpOM3BuWUE1VHhhODZSX2dlVm9JeEk5VXM5R19VSlh3b29sQXFa0gGyAUFVX3lxTE1PSXBpQXVLOTJkbW1jTkUtRGN2LXpoNkZkWjREYjZKNTlqTUdva1F6YnJTbFJNZUZUdVhsVHp6U2lxc0FRNDVpaFI3VkxOSWxQamgzcG52VlkxWEx4MGxoN2xHSDBjbzRjWDI0NUxxUG1KMjMxQUZYMnRmenZjSHJHeTExNzVrUzM5eHFyTk1oYWtjSm1hVG5aZ3dYTGVFdTRyNUcxOVFabW9PUHdXMl84SEE?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
    "source": "Al Jazeera",
    "time": "2026-10-25T14:47:55Z",
@@ -181,29 +247,10 @@
    ]
   },
   {
-   "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
-   "source": "Al Jazeera",
-   "time": "2026-10-25T14:46:38Z",
-   "link": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
    "title": "Russia to host first Olympic federation world event since Ukraine invasion",
    "source": "BBC",
    "time": "2026-10-25T14:34:33Z",
    "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Opinion | The Silicon Valley civil war is playing out on film",
-   "source": "The Washington Post",
-   "time": "2026-10-25T14:20:06Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFBwd3dMSVFneGlRbHFTWG1TQS1DNWViYVhDeXpKeXZ6SlVXZW01YVpHWnBrR1FxazBoUU1XUWlPXzhYNjNXc2h3eHBCUkdKVnc3TFgxdUxNd1E5ZUkteGhTa3ZMVmtuQk0wN3JUNVhBU0I3Q09xTXF2Q2FRZjEzbjRERC1ma19TZXRkZHFuY2FwbzNCWnNVYkpVcUdDVjExSTYzTTlpR3lTM2Q3Y2g0U09MQjd1OFJ0?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -247,7 +294,7 @@
   {
    "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
    "source": "Al Jazeera",
-   "time": "2026-10-25T13:47:33Z",
+   "time": "2026-10-25T14:03:09Z",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmdtUml1WGlzcUlpWFFyTkJEX3FBb0FYZEVDNWhzc3dfRXVRQ21LeG1JdXU2czV5d2ptVGdDRVRodmFHUFpjMlIzcklqNW1JbmZxaFYzVHB5UXRuOG10M2t4WDhpLTJLYnNkZEdNUmwwenhaY0UwaUprSUJnUlJiUlNhQnVQNEpKTUFydjdjVUx6QzF4SXd5ODc3Ukw5S3Y2NF9zVUlWa2ZZV2FUV2YzVUN1OXlEajJxTC01WdIBwgFBVV95cUxQVEQtejRyTHlUTjltZ1l3enRCanJLeUhpZ3loM1ltZXMtYWxlTGpkZVBtby10SEp2bUY1Wk04enRpUzVKVC0zZVduaklzWVlNZ0pzOUtkU29ySDdQa0NBMVpDM1VjeWkxNE1RRTY4WWpFTGgyckJLOEs3NjBEZ0s3eEV1UUFDaHluVmRYRFl3M3dseDcwSy0tN3EzTjc0eEo2NTJ2NlV3ZWRVM1BGLUttbXFSVkRzWnczblVvTjlLR1JCZw?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -311,10 +358,19 @@
    ]
   },
   {
+   "title": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
+   "source": "CNBC TV18",
+   "time": "2026-10-25T13:02:01Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2FyelRfT2JTYUVPcmN3bktvdHptSWhVNG1rLXJTTXJ1dkw1X2tHclZqZGIzQVNkcnN1WW9KWGYyaTJmYkI1TWhldzFYdXhPcHdhdHdwVl9PV0hXTzhkcEtraXIzNnBxUU9wQ3c3bGpEa0hEUXNPVG0zZ0I4V25qQ1pUZ012MVNWTnpNS0E1Y3dnbW12cmlPTGNsWXlwcWhFX09jUktkeWU3X1IwS3N6bE5TdXVhdVRM0gG4AUFVX3lxTE5TYXJ6VF9PYlNhRU9yY3duS290em1JaFU0bWstclNNcnV2TDVfa0dyVmpkYjNBU2Ryc3VZb0pYZjJpMmZiQjVNaGV3MVh1eE9wd2F0d3BWX09XSFdPOGRwS2tpcjM2cHFRT3BDdzdsakRrSERRc09UbTNnQjhXbmpDWlRnTXYxU1ZOek1LQTVjd2dtbXZyaU9MY2xZeXBxaEVfT2NSS2R5ZTdfUjBLc3psTlN1dWF1VEw?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "War of words over Xinjiang erupts between Chinese and Turkish social media users",
    "source": "South China Morning Post",
    "time": "2026-10-25T13:00:09Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdFhWQ3pnMTRiNVE3LVhxZGMzT2NGOTA0OWxkRjZVRkIxSElVSE41VG5jbTJSc1NWRm5wYnQ3TU9TQmE0bVh0aWM5bGxHaUhZLW5VSHdha01TNjAxS3pnVVpaT2VQZkRiS2JtSzg3VTNyOUVaZDJ2M0JJLVI0RWM2SXFsbzhmLU53ZUZVNVBVcVVIVTg1UWJpbE9neHdVeXFUNGVKY21McWk4MXE5dGJSVDRucFhKUzZIb0tHby0tRHUtbFFBbHZ4b0dQcE04NGN40gHQAUFVX3lxTE12NDFSRl9DWHQxd0JnVjJETUt1eGE1a3FLLThOeFJWMmNWeGo3Y2VOckx6S3R5bGlOZDRKUkdUaXJWdjdWY25qUEJjeUZUOXd3QTJPS3NLWFRNYkJicTNaN0NYR2gtUDhhLUFsZ1IzUWJSQ1lYc0JmbVlBREVtY2tZZmh6THh3SUNSRkw0c2kwTGp3eF9XWUs3NElQUS1GV3p2bWhRbU11WXdrMGNZZERlSjRjSDFSel9HQThfajJUQWxNNG1tQ0N6cGhpa2JNeWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYnVlZ3ZJTGZWcHZ2aG5TQnBMUGp6UV9VNTBHR2daZzN6RzRUY0FlYXJOM25qbWhReV9VWlNmdEVlZTYzUzNjVEo4WjZ4c3ZhRTZqbVZYTnVVbUY3WmZyTlBKM053cnFTT1I4Y0JaTmw0OXZuT0VpcUlOYldWLXg1ampHeGk5WjZYTlYtUUpXdFp1NGdDZ280bzViNWFDM0J1QVpXalhYTFdGbGQzbXM5VGhhYmVSLTRsazRsd3pDXzZhNWx3dVZvTFI5U2QzWmRzdHY5dmtsNG9HZDllM2R2QWtpUkZNV1gtWkFiMFF5VGRJQWIxWVRrOFZNU27SAdABQVVfeXFMTXY0MVJGX0NYdDF3QmdWMkRNS3V4YTVrcUstOE54UlYyY1Z4ajdjZU5yTHpLdHlsaU5kNEpSR1RpclZ2N1ZjbmpQQmN5RlQ5d3dBMk9Lc0tYVE1iQmJxM1o3Q1hHaC1QOGEtQWxnUjNRYlJDWVhzQmZtWUFERW1ja1lmaHpMeHdJQ1JGTDRzaTBMand4X1dZSzc0SVBRLUZXenZtaFFtTXVZd2swY1lkRGVKNGNIMVJ6X0dBOF9qMlRBbE00bW1DQ3pwaGlrYk15ZA?oc=5",
    "tags": [
     "GEOPOLITICS",
     "CHINA"
@@ -327,6 +383,15 @@
    "link": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "Saudi Energy Announces Electricity Service Tariff Adjustment",
+   "source": "TradingView",
+   "time": "2026-10-25T12:40:02Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLVl1NU5oYWFRUUQ3djl5ZGlteTRZUzdXUVA4RExVQzUwcVB3alR1OUl6cVBSTk1Ka2RtUVl3RjNYQm94bGtKVndrQmVUbUxIT3B6UjIwYktjU1lGc2hUYXduZTcwMUplS0xGbjRpZXRpdGU2UlE5WVkzcVZkRXZ2X0xZcUIxU0tqQW9Tc0dBLVRQV0pUV2MyN3ZSQk93X29GclRNZkFOeGhnX0JHbVJXX21sOHZLRFpwU2dGUlBNbFphUk14UTk0Sjl3?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -355,15 +420,6 @@
    ]
   },
   {
-   "title": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
-   "source": "Reuters",
-   "time": "2026-10-25T12:15:33Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTEZ5RjBsTDJ3?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
    "title": "3 U.S. Onshoring Stocks Investors Are Screening As Tariffs And Energy Costs Rise",
    "source": "Yahoo Finance",
    "time": "2026-10-25T12:09:16Z",
@@ -388,16 +444,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS2tWNzJzT2ZBVEIwY09lQ2NvdkdvbWNZM18tQXcxWXhRSHZKc1cyNmxNN0MxVng2Y2xYTlZTbmJJUGx4aUxGYXp0Wkg2Vnc0ZnNOYjNmdklkc1VKc0VCWlBHcF9RU3RsQlQybGQ0U3VnUXVqWTBkX0ZqRElVTzZnZ3NSUDNPekJZWHM4Wjd5OVd2cVdsY2xObUI5NG02OUVvTzFLSTk3TjU?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
-   "source": "Al Jazeera",
-   "time": "2026-10-25T12:05:16Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
    ]
   },
   {
@@ -587,7 +633,7 @@
    "title": "BYD to build new factories in Europe to beat trade barriers aimed at Chinese EVs",
    "source": "South China Morning Post",
    "time": "2026-10-25T08:00:09Z",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVE1selR1WmhFUGRFVDNDMEFCaEZ4eTBDR3hpVTRVTWR4OXpCUzFNVWdxUHlLZ0VzOGU4R2pjcEJHZDBfNUE4OWFRRF8wLU9Bak5XTWhEUlpsbXZmWldkYjNfTEl4M0l0bTRUYmtwZmtDYmxUMm1kZnZDSjVkaG5KbVVEbnU1SzdJb1BQMWstY3RfbU5WcHJVMVJYSjdKOGlmWjZlVGRMTThsWHduZklnU3R5c2JKZ1RtUkh5SnUteHN1ZGE0ZUF4Qms0T0dpMU04a01j0gHTAUFVX3lxTFBwc3F1X1BTUkpYS0hFNU14b25ZdEFjTkI1SE0zaGMxNU5rajB0cUN6SHlZQ2Y4TUViajBIajIwUUFQQTAzanR0czQyVlZGaDZHblNrYkp6SncyUi1UVjFxNFJpYTJhR1Fpc0pyU0dzZUpkR2lwRm15T3lkbXRldDVUTlBGc05VV3F1UWdNNnhoNm55aTRNdVB5ZWFfMDJjR1NuX3JCLWVSLWpfM0ktLUJVeHRVZ3FldWRuT3NmcUxnMXZNR3FHTTduRVpPbERRdjViZkk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcHNxdV9QU1JKWEtIRTVNeG9uWXRBY05CNUhNM2hjMTVOa2owdHFDekh5WUNmOE1FYmowSGoyMFFBUEEwM2p0dHM0MlZWRmg2R25Ta2JKekp3MlItVFYxcTRSaWEyYUdRaXNKclNHc2VKZEdpcEZteU95ZG10ZXQ1VE5QRnNOVVdxdVFnTTZ4aDZueWk0TXVQeWVhXzAyY0dTbl9yQi1lUi1qXzNJLS1CVXh0VWdxZXVkbk9zZnFMZzF2TUdxR003bkVaT2xEUXY1YmZJ0gHTAUFVX3lxTFBwc3F1X1BTUkpYS0hFNU14b25ZdEFjTkI1SE0zaGMxNU5rajB0cUN6SHlZQ2Y4TUViajBIajIwUUFQQTAzanR0czQyVlZGaDZHblNrYkp6SncyUi1UVjFxNFJpYTJhR1Fpc0pyU0dzZUpkR2lwRm15T3lkbXRldDVUTlBGc05VV3F1UWdNNnhoNm55aTRNdVB5ZWFfMDJjR1NuX3JCLWVSLWpfM0ktLUJVeHRVZ3FldWRuT3NmcUxnMXZNR3FHTTduRVpPbERRdjViZkk?oc=5",
    "tags": [
     "TARIFF",
     "CHINA"
@@ -598,6 +644,15 @@
    "source": "Benzinga",
    "time": "2026-10-25T07:59:21Z",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkxXX3NrRXBrYkM1MW50Sk16WnJFQUVwNzlYRXRMajE5Nkt5UTdtdjVFVkY2WkVMb2ZjVERkMk9QbXRYaEVZOEJ4LV9uaXl1SktoRUpvTkVnUExheE50aklZVkVKWGJkZE1adkI3UzFUMzYyNDZ6UTNuZTdoSVRYRHUtTzRMdHRBSHR0ZUNpSV9KUFhXY2cxTGd1SnM?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Trump Says Audi Will Invest $4 Billion in Georgia SUV Plant as Tariffs Reshape Auto Industry",
+   "source": "TradingView",
+   "time": "2026-10-25T07:59:21Z",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRDkzUFdCT2V4RVU3dE1tR1FGRDllY3llSElZbGc1cHRDeVN6dEJncGhmbnZOc3htejU0VmNacFJWUW5TZFFYZzZMVTdPeFBFcldKeXlGdGd5U216NHNRYTNjb1RIQ0tQakZzdnU0dGpTR0cySjJ4OFNFYzQxM1EzRWdmTEwxR21MLVliR25rMURDd2NnRnlBWXNSbDhMSXc4RGp2Wmc5WVNQUllGa2JMNlYwV1VKMHZPTDBfbGZtRHdkUUthUHNTUmY3Ukx2Ni10eVh4cHBZTFE0MWRBcFRPcmhBbTU?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -618,66 +673,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QUDl1NXhVSzFWNWxMdWx2OWFKMkl6WE5fTmdBeEJ3RnhvQ1hjSlhBVGJWSm5Va2tWazh1M29pdkpadW1XNGVCOGdVd2FEVksxQkd2aDdhWno1VkU?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Britain must be 'ready for war' by 2030 amid Russian aggression, UK defense secretary says",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-25T07:31:37Z",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9heFlNVjJ1QWdvN0NWS1FLOWVLX3VpOVYzTUxYSkdvcFFqaFFhSWRfVzRxMlBWTlZxWGxKWVNyRHBUSmx3Tjk3RXBHOXQ4SjJyOEl6bWxOdGZUQU5zZ1BB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Why young Chinese embrace Japanese pop culture but reject war-era symbols",
-   "source": "South China Morning Post",
-   "time": "2026-10-25T07:24:55Z",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRC1SWGxKV2V0M2NXZk8xYlZSQldHdWxjUXdyc3ZkV1JiVXlVZG5pd0xIRzFJejY5a3dKT18yV2VuSEF5OVZsUXRiUzlnZXFMSDMzZWRONngyd0dFa2pWTFJXN0FEV0huRF9XdVNiY3RiczB1MjJlb2NjY09RZkJSNC13eUpZTDhaTHg3N1JDRWlWbFpoQTdVMExoNTVQVjBzRDRULVhKRDNxQTlXOUtWbXg4SXNVc2QyRlotZ0FWZFIwUEJFdF9FSEE3eVl2em1VWV9lTFo3Qi02QdIB2gFBVV95cUxQdnUwZEUxSnJFUlVmT3Ftb1hwTEhpME1TN0xKbnJUc0lpX2NJNHlaWmp3NE4xQkNGLUZQYklnRGdHdjFFbHRvUUNuSzFiMVo1TVNXbFpvLW94c3FXclBncTN4OUlSZFFNR2c4eWhrTFhVQWY4YzN2WjhhbXl4MmNrNXlDWVlaNlJWMXpQclhZZ3JPNFAwRGxXNXhGR2dSSzFVX1BRMWJyUWg5RXdGV3NONHVtd3ZNRkM3eHpXdmFsSHFuVEYwUEVlazZlS1Brekt3dTlnUjhoTDFGdw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Rosebank: Life on the oil field at the centre of a political storm",
-   "source": "BBC",
-   "time": "2026-10-25T07:15:38Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Heating oil costs 'more than double' ahead of winter",
-   "source": "BBC",
-   "time": "2026-10-25T07:12:21Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6n8de1jgrdvo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Bitcoin’s Fed Week Starts With A Fresh Rise In US Inflation Expectations",
-   "source": "TradingView",
-   "time": "2026-10-25T07:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM2J2MXZXNi1DUUtxdHRrYUFXcUQ3MWVZS0RvMjFaYmNYcWhldzcxQ0pTS3pfbWJYR2xYVk9MRl9kX3RoaG5PczFZRzlZTGdBQ1FmN1ZLTHVMN2pFV3N4Qk1XT181NE1pelRkYjluTmtmbGw0QUtDMjVGa1NjUlNQemF0c282Szl4YWNoVWZxTGZtYjk5SUJaUVl2aUhmOWh5Y2ducWdRNmFBbVFtVXhQbll2bEstTkN1aDhoVERYbVlEdlllVkdZbGlR?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Gold market and central banks: Russia, Kazakhstan sell as Poland, China buy",
-   "source": "Yahoo Finance",
-   "time": "2026-10-25T06:58:33Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWmd3S1lwaVU4cThiaGFiYXVHc1V4VDJfOFF0Zm5UNVRDOTR1X05TMXVUOEVfd3Y4V2tnZ0FWS2ZvWFBPSGN4YVFxNDlfeUdTVUhaamNOOUJjUTRqNzVVQmJiR0VRNVpPQnZCQ1A5Yjluc1BYclJlS3A1Z19tV3JTYXl3ZjRMUi1mWGV0V2c2UUFHVDh1NmlxbnRlMk9NbnJFbWhSbw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CENTRAL_BANK_GOLD",
-    "CHINA",
-    "CENTRAL_BANK",
-    "GOLD"
    ]
   }
  ],
