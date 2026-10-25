@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-10-25T04:47:22Z",
+ "generatedAt": "2026-10-25T05:15:42Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 0
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -72,7 +73,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -91,12 +92,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 17,
+   "items": 15,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 34,
+   "items": 36,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,8 +107,8 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 9,
+   "kept": 9
   },
   "gn_oil": {
    "http": 200,
@@ -125,6 +126,24 @@
   }
  },
  "items": [
+  {
+   "title": "The right’s obsession with ‘civil war’ in Britain",
+   "source": "Financial Times",
+   "time": "2026-10-25T05:01:30Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcjA0OF9qNUZXTDZMeXJhSEo2dUk1QVVMb2g2UVAwME51dTNQTnE5bldnWXZ3cG56Ynhlam1fWlliMG95X2tFeWRjaVB3bTJ1Y2J3OUN0Z18tTkN5LVYtVktEX0IyWFhETHZ4bUJXZTd1N29MNWtTOEVyUVZKUzg0TkoyUHI?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "TRX Gold: Buckreef Continues Well, As Both Engine And Growth Path (NYSE:TRX)",
+   "source": "Seeking Alpha",
+   "time": "2026-10-25T04:35:52Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSmg0RWxmZl9vY1p1N2dfZkxER29mRlJ5WmFDckU4aEtOaXd1TWFFTUQwYzVnU2xaQzREYVR2T2hfaWctVEpTYkE5cXI2VmJyX2x1NGVPSWVuTVo2VVNzdVBHNjIwQVNYSTNlSzNuX1hEQVVOeS1XRmxrUU4ycXhPMkwybEw4SmZVV29XcGRMeGR2YUllbTdyeTZKaHg3ck1fbW1KNlJaY3NHVHc?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
   {
    "title": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
    "source": "Al Jazeera",
@@ -656,25 +675,6 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc3NtM1M3Vm1RRkw2LU13T0hKRVFRLVoxLWlIekhtUmFMSGsxS2tQN0FDdHhOcmdqclhybUlVRVNZSnNtSk10R2ZieGRSSDZJQnU1elIxQVprMHpQZFJaRGY5cHdha3NuOF85bWVHYUdxc3FtV2pQdVphQU1jdVczT2txY3NKbjNvVDJ5Y3loY2FFREpCdXRUUG82R0twdHdTcTdkckM5T3YwbnQ1aFVueUlmS2RHOU81eFFMLVB3MktuNnVLU2d3SA?oc=5",
    "tags": [
     "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "'Threat to national security': Eisenkot rips Netanyahu for proposing Israel ready its economy to bust sanctions using crypto",
-   "source": "The Times of Israel",
-   "time": "2026-10-24T16:15:02Z",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPelhoOExScU9VTVRkMWMtMVJNdkYyNTdEekNJUVFiSkdrbnVNLUNNWDdDdV8zb0kxQ2loVE0xajZ1dzJKS1dDSFdOUzVPZnNWVmtwQUFDYV9YcG9zZm4zTmNxdlBCdV9IRG51eW5GWVpuOE02RmhQX2VacEgyd1BXb2tLN3dzQkw5TVIxbUFLWGJnNDhXa1lRbDV2UnVHUnV3akh3ZVI1N0FZak5jcGoyWUJFQURycUxla21GTHRfZE1lLTJYbFdvOVY2QXlRaFB4TVN5M0laUmJlV0FpbXJBVVJuME9SUFFsQm9ONlIzcE5QcnVnTldBSklaUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Benjamin Netanyahu warns of banking sanctions, plans alternatives",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-24T16:14:43Z",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGpHOHlpeHMzV0pMc3JOOVJvN3AtVFNjNGZWOUNzM1JlbkdLWmk2MVlHV3FBYkZqLUFJaEZBRW42OHhRZzRtWUw5RFV2cUwzZGR6d2FQeE0xWldISl90TGhqa1E2eVFGUXZDb0RKYXJZN1pEeFNyOU1OcW9MaElpeF93azluUQ?oc=5",
-   "tags": [
     "SANCTIONS"
    ]
   }
