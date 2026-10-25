@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T00:03:46Z",
+ "generatedAt": "2026-10-25T00:32:07Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -80,44 +80,52 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 8,
-   "kept": 8
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_fed": {
-   "http": 200,
-   "items": 6,
-   "kept": 6
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 12,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 32,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 13,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 11,
-   "kept": 11
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
-   "items": 1,
-   "kept": 1
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 8,
-   "kept": 8
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +133,15 @@
   }
  },
  "items": [
+  {
+   "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+   "source": "Al Jazeera",
+   "time": "2026-10-25T00:00:00Z",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "North Korea's Kim Jong Un returns from China after war memorial visit, state media says",
    "source": "Reuters",
@@ -511,15 +528,6 @@
    "source": "The Guardian",
    "time": "2026-10-24T13:58:00Z",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzZDWVBLT0diMGZ3Ymk4TTRvUFV6SU1BemJNc2k0ODN4OW1lTDhyeTlabXVGQUFvajRhSEF2eWJpMTNUQWphdzZ5dkVQQloxSEl4amR4OHFwYnRuNkZ3WUpHWkE2RHhLbThVN1M0X3E3VldJQzRlT003VDZZOXN6LURJOV93TE9fa0czVnFyUWFET2RYUS1vOXZrdGY1Nmhyc0FTcW4tSzNXMkxiaEhr?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Netanyahu floats Crypto to bypass sanctions",
-   "source": "Al Jazeera",
-   "time": "2026-10-24T13:40:16Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWW1KZzRVem83NUdpSVFJcm94T2hWc3BJX0Q4VDdXbXNZY1dzaEFfZmtSZzUxT2QtU3MwSmVmOGFTNkxWVVpWQUZ4S3dkbTZ3SzNmUXY5OUFWQnlVVnh6dXpZVi11LXp4NHE0aUNIcjMyaDB2Tk93MG1pOWsxWkdUanJoLXY0S0Y0dTlXQnhMaWpDc0RVZ0U1SnBWSdIBoAFBVV95cUxNMkJNY3RpU19EYWJFbkh4b0ZJMlNoS2ZkUmF0VGljSWZLQm9DQkJWSlJVVm1VbG0zcFJvNzZnWVAwLU4yU2VmbzRpZkIwWlBvSm5PcWtYS1RPaUJYb0lMSWM0YUp0ekZDQXcwUHQ5ZFJUZU1VakRyb21td19tZG9Gd1d4bUR2M1ZpRW5sYkJtdXo5d3pnVE5fSmcwcWpra0Z0?oc=5",
    "tags": [
     "SANCTIONS"
    ]
