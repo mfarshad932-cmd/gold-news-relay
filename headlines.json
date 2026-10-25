@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-10-25T05:15:42Z",
+ "generatedAt": "2026-10-25T05:44:02Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 0
   },
   "fed_monetary": {
    "http": 200,
@@ -73,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -92,7 +91,7 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 15,
+   "items": 13,
    "kept": 12
   },
   "gn_war": {
@@ -102,7 +101,7 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 14,
+   "items": 12,
    "kept": 12
   },
   "gn_yields": {
@@ -127,10 +126,28 @@
  },
  "items": [
   {
+   "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
+   "source": "Al Jazeera",
+   "time": "2026-10-25T05:34:46Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOamQ1NjFrZ0U3T0w3YWRZMnV0b21vQzdLdHc1bS03ekhFbXgwZ0MtMTg0bFF2Q0hwV2I2TnpabEd3cDBHcTl4VnR6MnloSFc5TDJVdXgwZllCTks4V1BKUlkyN3hSd2d0Q3doWDNBVEhVem9MUjhMdDUyQmtDeXdObktVaXJQd0lGMFBLeldOSG51NzVSQnkyOUU3QXpsTUVRRjQ4VFRLQ3JyX0ptbmfSAbMBQVVfeXFMUGl2TEZWVmRnWlAyb05YdDhDSjZNYjV0bXBTb2twMDdwVm1fY0VOelVqUFZLUXJ3UjA4MlJuRjczSEd1LWhYUm1LVDZKQ3dKRnBsbUxQZ0VHc0RuM282UHJmREhzTUt2MnZsZUI3ZW16WEY3a1BjOTFVcFpjTmxmV2hoTk5FTXFyUlZwY1BqZU4wMEpucVhKRXVNTmlTb2pXdnkxNFpneUd6d1htTnloLXl3Z0E?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "The right’s obsession with ‘civil war’ in Britain",
    "source": "Financial Times",
    "time": "2026-10-25T05:01:30Z",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcjA0OF9qNUZXTDZMeXJhSEo2dUk1QVVMb2g2UVAwME51dTNQTnE5bldnWXZ3cG56Ynhlam1fWlliMG95X2tFeWRjaVB3bTJ1Y2J3OUN0Z18tTkN5LVYtVktEX0IyWFhETHZ4bUJXZTd1N29MNWtTOEVyUVZKUzg0TkoyUHI?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Live Updates: Latest from Israel, Iran, and the Middle East",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-25T05:00:05Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCblZ2MkV3NDdVMUlhVVlyRnYzRnFIN2tDUWdtTW80UHJIRnA0OWo3RU9DRmdjTkVpYWJreWVpLVI3bjRCMnEzSjI1VVZGYkdUYkVYS0dHNlI3N2tfdHFYcFBnNGtoNUhUV3ZIa1NJbEtKUFJnZC03XzRxY19vM0k?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -163,6 +180,15 @@
    ]
   },
   {
+   "title": "Trump Prepares for Iran Escalation After US, Israeli Elections",
+   "source": "Bloomberg.com",
+   "time": "2026-10-25T03:43:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbS1tMzRuM2wzRGNDV0R5b3o5N3p0V1U1OVhreW01YXB6dWdmQlBCMS1Hb2FmQnJYYVZsSVJKNG5pVHFGN1pqWlJYUk13cC02OTR5RWpZczZ1c21KMjkyMmIxOXJOQ1VDZFg0V3pSTENZTi1DM1NDeGx1OHJBVVc4TjlyeG84ZUhTZ3NXVnVHZGZVaE9tVFFoSHVkUlJoeE5BMkJJVU9kOFNSUG05YVRtc09R?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Trump touts $4 billion Audi plant in Georgia as he defends tariffs",
    "source": "Investing.com",
    "time": "2026-10-25T03:35:16Z",
@@ -176,6 +202,15 @@
    "source": "WSJ",
    "time": "2026-10-25T03:00:00Z",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWdQVTJ5cktsaWtHd1RaNHBZcDIyQ0NjbWczWVU5WGxKVE95UHBpbnFWQWUtOG9rbjlkZ2JGTXNLaU50bGx4RUtzUTF3eU1jZmU3ckxMN1lTUTh2NzhCNU03S29HSXhrTGlqcE1NNXh1S2hWU2xVeUVLamIzZnZEb0UwVl9yaVZTWkp4cDM1TkVPYkZleHlzc0E2MVI3OVRlb3pZNEVzR25xUkk?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
+   "source": "Al Jazeera",
+   "time": "2026-10-25T02:58:18Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTBIcDhPZnhvMkN6U2ZGamdNTXVRczlFNk54SzVpcWJHZlFtQ2hUZHZWSDhnNC1ZQy1zbEJjUW12M3ZybjVES2hOVzZZSS1PQnE2UWNqNFd3RHZyZ1p2ZjR0OTRYY3JXOTVrOS13SkM0anYteGFqQ1NJei1TVEtSUlJRSmFQVFhHVTNWTl8xUjliaS1MVEhpNm9MSFk3RlM2U0EzMlVSZ2hSX1nSAbABQVVfeXFMTzVVRFl3TENUdERQVy1vMlhocFFYSEplaV9pSTlCSGx1Xzg4WnV5WkFoa3VSSXdUZVBsUFVVR2JCdzhoSkV4WkZ2Yzd1RmlXVS02aGpDa3BEUk1kaFk5eUg5eDVJa1RhRDJGSjhsamhhS250dkstV1pDU1RsVm9fS2ZicDBJRU9jZ296eWUtRnN2QnVGNWNBbDVfUWw3VjdITWdlMXR3X0RKY1dYeG5vbGY?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -196,15 +231,6 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR0hmeUFmdDRTYWhqRTBmTktQSzdyekwxQmRhbVRHa3BxYXlnbjBxMmRHUnMtMTUtMDdJMWh6V0xtbkhUdG80UndHY2VTemlhaE9DYUtzM3hab0pEcGNRRzRxOGZoLUVZZEFfQ19QVmVHOXNuZ1NPdDEzdEc1OE9QSXVrMmRvMTFVXzU0QW9OY2oxaGllUXVKVHB3dEhCRVExdXRmdmNIa0d2R3U3bTJJaVJnelVaNFJLLXc?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
-   "source": "Al Jazeera",
-   "time": "2026-10-25T02:49:33Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTBIcDhPZnhvMkN6U2ZGamdNTXVRczlFNk54SzVpcWJHZlFtQ2hUZHZWSDhnNC1ZQy1zbEJjUW12M3ZybjVES2hOVzZZSS1PQnE2UWNqNFd3RHZyZ1p2ZjR0OTRYY3JXOTVrOS13SkM0anYteGFqQ1NJei1TVEtSUlJRSmFQVFhHVTNWTl8xUjliaS1MVEhpNm9MSFk3RlM2U0EzMlVSZ2hSX1nSAbABQVVfeXFMTzVVRFl3TENUdERQVy1vMlhocFFYSEplaV9pSTlCSGx1Xzg4WnV5WkFoa3VSSXdUZVBsUFVVR2JCdzhoSkV4WkZ2Yzd1RmlXVS02aGpDa3BEUk1kaFk5eUg5eDVJa1RhRDJGSjhsamhhS250dkstV1pDU1RsVm9fS2ZicDBJRU9jZ296eWUtRnN2QnVGNWNBbDVfUWw3VjdITWdlMXR3X0RKY1dYeG5vbGY?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -303,15 +329,6 @@
    "source": "CBS News",
    "time": "2026-10-25T00:56:00Z",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41aU1UdTdmTE1vN0dXQVd4WjhiRE9YandGT0JWWk5mNktsZ0VKU3ZKWmhLelhtbWRpM1F4NFJZWGk4bmxoejFyOF9kLWcyMFFIUzdHb0dkZzhUQUxBSlVVNHgtQ0YwOGJ1Vm9rX3hkZmJKWnV5bFlZ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Live Updates: Latest from Israel, Iran, and the Middle East",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-25T00:00:05Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCblZ2MkV3NDdVMUlhVVlyRnYzRnFIN2tDUWdtTW80UHJIRnA0OWo3RU9DRmdjTkVpYWJreWVpLVI3bjRCMnEzSjI1VVZGYkdUYkVYS0dHNlI3N2tfdHFYcFBnNGtoNUhUV3ZIa1NJbEtKUFJnZC03XzRxY19vM0k?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -478,15 +495,6 @@
    "source": "CNBC",
    "time": "2026-10-24T20:38:30Z",
    "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Could Israel’s military crackdown influence Tuesday’s election?",
-   "source": "Al Jazeera",
-   "time": "2026-10-24T20:37:02Z",
-   "link": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -666,16 +674,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iT3BOTjNLUVJkOXhfWWYtbmFWN2tCY0MxQkpxLTNYRnp2ZUQ1VGRVYm5KR3dmZlRhLVJuQUhHU01vaW5oVi1oQ3paSUFFTWJwR3o0NU1wcXUyQzFq?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Rebuking Netanyahu, Bank of Israel says crypto can’t be ‘route for bypassing sanctions’",
-   "source": "The Times of Israel",
-   "time": "2026-10-24T16:40:04Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc3NtM1M3Vm1RRkw2LU13T0hKRVFRLVoxLWlIekhtUmFMSGsxS2tQN0FDdHhOcmdqclhybUlVRVNZSnNtSk10R2ZieGRSSDZJQnU1elIxQVprMHpQZFJaRGY5cHdha3NuOF85bWVHYUdxc3FtV2pQdVphQU1jdVczT2txY3NKbjNvVDJ5Y3loY2FFREpCdXRUUG82R0twdHdTcTdkckM5T3YwbnQ1aFVueUlmS2RHOU81eFFMLVB3MktuNnVLU2d3SA?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
    ]
   }
  ],
