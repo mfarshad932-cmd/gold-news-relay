@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T08:33:48Z",
+ "generatedAt": "2026-10-25T09:02:08Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 6
+   "kept": 5
   },
   "investing_news": {
    "http": 200,
@@ -66,7 +66,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 36,
+   "items": 37,
    "kept": 8
   },
   "aljazeera": {
@@ -81,8 +81,8 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "gn_fed": {
    "http": 200,
@@ -91,7 +91,7 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 13,
+   "items": 12,
    "kept": 12
   },
   "gn_war": {
@@ -106,8 +106,8 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "gn_oil": {
    "http": 200,
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,24 @@
   }
  },
  "items": [
+  {
+   "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+   "source": "BBC",
+   "time": "2026-10-25T09:00:00Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
+   "source": "Al Jazeera",
+   "time": "2026-10-25T08:44:17Z",
+   "link": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Saudis intercept Houthi cruise missile fired at southern city",
    "source": "The Times of Israel",
@@ -143,15 +161,6 @@
     "FED",
     "INFLATION",
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-   "source": "BBC",
-   "time": "2026-10-25T08:15:24Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -240,9 +249,9 @@
   },
   {
    "title": "Gold market and central banks: Russia, Kazakhstan sell as Poland, China buy",
-   "source": "Yahoo Finance UK",
-   "time": "2026-10-25T06:58:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMHItSFJobjRyTUNZSVJTS3JvaHRNQzJORFpEb0x3MUJLQ1VIS1RCZW10Vm15TFNoSlpfTE5zRkdIU212VE16a0F0TzBqWEQwX2c2S1l4T244REkwZ2c3NVhfZTdRRjNFcWlVMm8wQmFVQ0x3NGp0Zm9TRXI1c0x1ajUzdU44YmJ3?oc=5",
+   "source": "Yahoo Finance",
+   "time": "2026-10-25T06:58:33Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWmd3S1lwaVU4cThiaGFiYXVHc1V4VDJfOFF0Zm5UNVRDOTR1X05TMXVUOEVfd3Y4V2tnZ0FWS2ZvWFBPSGN4YVFxNDlfeUdTVUhaamNOOUJjUTRqNzVVQmJiR0VRNVpPQnZCQ1A5Yjluc1BYclJlS3A1Z19tV3JTYXl3ZjRMUi1mWGV0V2c2UUFHVDh1NmlxbnRlMk9NbnJFbWhSbw?oc=5",
    "tags": [
     "GEOPOLITICS",
     "CENTRAL_BANK_GOLD",
@@ -360,21 +369,21 @@
    ]
   },
   {
+   "title": "Trump hails tariffs for new US$4.2 billion Audi plant in Georgia",
+   "source": "South China Morning Post",
+   "time": "2026-10-25T04:44:54Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjlRUFVtdGV2dTVudm9SbUJfcmNnUWlZUm9mM1BYX25WM1Q2bFdnMUE5WE9IT0FpXzM1a0c0dHFydEY4Qnd4bnR4NVZKQ055cXNiVk83SmxKSzRYeWNJWkVUcUJUWGlpcHpfSW1FUU9lY1Zfb2EyX0pqMkZpUjNRS0QyaV9ZSkFubXhrOG9leEltSWp5YmVxVlhrb0ExNXdDTW5rV28yMVRCY2duZkVIZ0V0ZVhjZXZsbkdnaXFHNm1aQdIBwgFBVV95cUxQSmN3NjA1dVJtVHQ1MjJaYjdwMFNVVVg5OHMtQWZlWHRLTkNlbGdXbjNYV2EzVFRFNlM5Y0w3SXhfa00taVRJeXpNQ1pGMi1uM0NlbWNrN19teENXWm01WWZYalV3Z1pZZHp3MmJzRHNIei1JNTdkTnlOLWVjYkxtS0hfdk5vRXM3WjdpN1lmUDBJZEZhd0lSOGR2am9mdWU3cWk4RzdXaWE4YndrQnljSXBUdTlZTlRqU1kxWi1OYUd2Zw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "TRX Gold: Buckreef Continues Well, As Both Engine And Growth Path (NYSE:TRX)",
    "source": "Seeking Alpha",
    "time": "2026-10-25T04:35:52Z",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSmg0RWxmZl9vY1p1N2dfZkxER29mRlJ5WmFDckU4aEtOaXd1TWFFTUQwYzVnU2xaQzREYVR2T2hfaWctVEpTYkE5cXI2VmJyX2x1NGVPSWVuTVo2VVNzdVBHNjIwQVNYSTNlSzNuX1hEQVVOeS1XRmxrUU4ycXhPMkwybEw4SmZVV29XcGRMeGR2YUllbTdyeTZKaHg3ck1fbW1KNlJaY3NHVHc?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
-   "source": "Al Jazeera",
-   "time": "2026-10-25T04:11:11Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnk5QXFZSUVHb3U0WEhGVFZ6YWUwYVdNdFgtOUNqS2VvSTBiYjJXVktNVGhNak5VQnBBSUdXOWxXM29pMkRXWW1OM3JZMlQzS1JQZmd3VTd3VnBFVm9ma3drTzFJTGZiTExQdXpFakhBUVh0TjZRTjRuSUtCbDV4VF9HdHRCR04xVzR2Qld5anpQRHVfVGtwSHhaeU1wdTVuQzhtWmRkM2t0TE5USE1WVNIBtgFBVV95cUxPazFHLUVrT2l3VF9wNWtMZHRXdWVJUlRmRkpESVhpTTNFVVltSXRuSFgwNVZCM1F2WTZlbmVfWG9EdFhvclplVExQQ2ZDbDlteTN3OWQ5dFZiX29GV3VFS1dmTkhFNzNMZXktdXJMbFVKRmRTZEVtU1J3TVpMcTJZOFg4SlhfR0lXY2dTYUFVQkw0MlV0M2Y3c2RnTDZVQkNOWFJsQnZoR2tSQjJKUl9rY3NQNVRaQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -666,15 +675,6 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qd21fSHR3RDBnbGpsNFpocFBFSk1kcHJoZ1dwMjJOM1dWT3Iza3BOeXJ5R1J1Rm4yM1R1Mi1Pci0wc0NMb0p3TThmMWFRczVHaWRyN0pjNEVqc0RwLUVlTmNHVHRPVkZCSEJDWEV5b2pDNG94Mkt4Ng?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed Set to Lead G7 Trio in Hawkish Rate Pause: Eco Week Ahead",
-   "source": "Bloomberg.com",
-   "time": "2026-10-24T20:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbFg3ZkV4QzdBaTNjLTU0N3lHTUpMWEFETVhtYU9NS2l5QlhfMU0zeV9SLTd4ZTFwbnBGUGFOa29IQ25VMmQ3aXotU1hPRkZHR0szdFQ2RzRCemE4SzNVYS1GRG5oZjh0RHVIU2FiUzJLemdEdlk3TGF3SWdKQi1ZZGk5SFNwS2ZKTU1HNzJZSk85T0tiTlU4VXVVVlVsVkE2R2VlSGIxOVd1MUpjY1U2cA?oc=5",
-   "tags": [
-    "FED"
    ]
   }
  ],
