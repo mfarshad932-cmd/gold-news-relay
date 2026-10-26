@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T05:19:16Z",
+ "generatedAt": "2026-10-26T05:47:39Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 32,
+   "items": 35,
    "kept": 6
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 3
+   "kept": 4
   },
   "whitehouse": {
    "http": 200,
@@ -81,8 +81,8 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 12,
+   "kept": 12
   },
   "gn_fed": {
    "http": 200,
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 31,
+   "items": 32,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,8 +106,8 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "gn_oil": {
    "http": 200,
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 4,
+   "kept": 4
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,60 @@
   }
  },
  "items": [
+  {
+   "title": "Trump says Canada trade deal coming 'soon'",
+   "source": "Yahoo Finance UK",
+   "time": "2026-10-26T05:27:15Z",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTWZrM3FJRGxfVk45Ukt2b0xQM00yWEdzc09ZOEdibVR1Ql9xWUFxQk95TW94R2pYLVAxM1Bqd1JEM1lsUmpiOXFlMGRQbU1RWWRhckg0TktwVmVlaVE2Qi1uNnlXQ3JpUVBsY3Y3aGcxc0I4M2tDRXp2amtVLW5BcHoxdw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
+   "source": "CNBC",
+   "time": "2026-10-26T05:18:01Z",
+   "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Israel’s election: Five key things to know",
+   "source": "Al Jazeera",
+   "time": "2026-10-26T05:16:38Z",
+   "link": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Plunging Shilling Forces Uganda to Tap Meager Reserves War Chest",
+   "source": "Bloomberg.com",
+   "time": "2026-10-26T05:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTXpqbTVHTWZYWnNNQ3BUM0g5MUdWS2hIcldpOHE1eWVFa2dtNFVyTko0cUc4d2ExZkw5b3dHcm1HOVJHUjAtcW52Sy1PX19jQUg5VzJKSmItcGZ5VzRxTEFsQnJIOUpiamxrRXZULURNV18zbHJYb1IyM1BjOE44b2d0ZkZxYXQwSk90d3hma1I3R2NON1oyNVd1UU9KdlpldXoyM1h1UjBTN0wwUkxURWFWR29PczV3WXBuLXVB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "See How Flight Routes Are Changing to Avoid War Zones Around the World",
+   "source": "WSJ",
+   "time": "2026-10-26T05:04:03Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlB4dVplUTFDQ25acHl6Q240Uk1aWTAzWDB5WUVZeXB6eTJZZVgwZjZCcVUxbmtOdDlsdUxLUVdCRTV3OXJ4eEpQV3RzNmxqNjcxMVd5MTFrb3FNVUFKTjFJUl9rWnJLWW83VUpJRHJPTzVqZFNmV3BodnpOcWRPWV9lN1ozXzNXRU1BckV0RF9LSWxFcktRelpyWktqYklsTTZkbDEzTjNndUozTmNIWVNpR2I3VjZzNlFfQnpIMFlIUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russia’s War on Ukraine Is Straining Food and Fuel Supply",
+   "source": "Bloomberg.com",
+   "time": "2026-10-26T05:02:49Z",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KS25wTEw0YXIxWE1yOWFVYlQ3T2RsaDBIb0hzdG5pSnZvR090eXVmTHVQVnZXbXVtQzdUdDBOb2prZEo3a3Z0eVF2VWhzb0o5dThndUFZWGtDRW0zRzlRejhaelozaE1yR2NUZFpLTVZpenVoVGRrRDJjMA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Benjamin Netanyahu’s Plans to Beat Potential Sanctions With Crypto Called Destructive By Rival: He Has ‘G",
    "source": "Benzinga",
@@ -191,6 +245,17 @@
    ]
   },
   {
+   "title": "Gold rebounds from three-month low and retakes $4,000 on weak USD; focus remains on FOMC",
+   "source": "FXStreet",
+   "time": "2026-10-26T04:34:22Z",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ1VFckNUaUtDNkpsb2NmeG9GZG9LX1NITzRxVGd2cHl5YnNBNlBYYUIxYkpaVUZFMXFKU0N2ZVVRZzBvSGZCaWNpb25hdmg4LXJ1Yi1oTlktOHVPaURKUWt1RFJhYkdCcFMzdVVTdVlEQUkxZ0JFNU41Yzg4bHhpejhhZEFnbHhucVRxdDVoWDhNVllWMzlMandteGN6RVp3bTBUYllpUHF5cWpwYnNFYkh4MnJOeTVNNS1MV01kRkRoMTRkLXF6ag?oc=5",
+   "tags": [
+    "FOMC",
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Trump started a trade war with Canada. GOP candidates became casualties.",
    "source": "The Washington Post",
    "time": "2026-10-26T04:31:31Z",
@@ -222,12 +287,30 @@
    ]
   },
   {
+   "title": "Currency markets subdued ahead of pivotal central bank week",
+   "source": "CNBC",
+   "time": "2026-10-26T04:10:21Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcGFvb3AzYVl2dldBb1ZwS3BWZHV0bEloZkxYSVBmalpnM2F0ZGpGTmlibE1iOXBPUFBMRFVyYkJNRDRfMVZZcEVualZCdFFyWFVrSTBULVpHemZRU2ZBUGRCMlFoQUNoNFhBTEdDZGwxcWs5Nm5Da2lZbVJacHctZDdWWWFvaDFKX19qZC1xWG5BQjVIWDR4emJwcWpHZ3hxdVHSAaIBQVVfeXFMTXBhb29wM2FZdnZXQW9WcEtwVmR1dGxJaGZMWElQZmpaZzNhdGRqRk5pYmxNYjlwT1BQTERVcmJCTUQ0XzFWWXBFbmpWQnRRclhVa0kwVC1aR3pmUVNmQVBkQjJRaEFDaDRYQUxHQ2RsMXFrOTZuQ2tpWW1SWnB3LWQ3Vllhb2gxSl9famQtcVhuQUI1SFg0eHpicHFqR2d4cXVR?oc=5",
+   "tags": [
+    "CENTRAL_BANK"
+   ]
+  },
+  {
    "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
    "source": "Al Jazeera",
    "time": "2026-10-26T04:05:44Z",
    "link": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "Amateur prospector finds $150,000 gold nugget in outback",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "time": "2026-10-26T03:58:26Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQekttbkJJZmlqOXpkQ2JNdmc1RXhKOWJ3cUpjVW5fVzlUREE4V29Zd0FiV2lsN0tBNVEtb2t1QWE3OGlpRHBCT21IZVZpMXFEZUdmbVJlZ05xaU5vS0hIQzJtX2UtV0d3c19tTktRNFd6Z3p2Z1V0VEtzXzdYRUNFWHNMUXlQOExTcHc?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -261,7 +344,7 @@
    ]
   },
   {
-   "title": "Gold steadies near 3-mth low as elevated oil prices weigh; Fed meet eyed By Investing.com",
+   "title": "Gold steadies near 3-mth low as elevated oil prices weigh; Fed meet eyed",
    "source": "Investing.com India",
    "time": "2026-10-26T03:06:38Z",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYlJLQ2tNWjRwbVFjQkEwU0lXeWRELWZOR0ZqUklnZGFBLUxwOXVxdk1hSWZudVNIT2gzLTVFOElwdkNmaVRPNGtwV0s4U3RyN3ZodmpYd05fRkc0YXl0OHR5SDJ1ZDdtV3RZdEx4Vm4zbllFTmJRWm9FYkd6QWxjUnd6RXotY0l6cm1WVzdkM2dXMkQ3U3NBTXl5b3Nrc1hTOWtKQWdtNl9RckZ0bUtmOGVKT2VuRHBTMnJOdHJERTRKbDA?oc=5",
@@ -299,21 +382,14 @@
    ]
   },
   {
-   "title": "See How Flight Routes Are Changing to Avoid War Zones Around the World",
-   "source": "WSJ",
-   "time": "2026-10-26T02:03:56Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlB4dVplUTFDQ25acHl6Q240Uk1aWTAzWDB5WUVZeXB6eTJZZVgwZjZCcVUxbmtOdDlsdUxLUVdCRTV3OXJ4eEpQV3RzNmxqNjcxMVd5MTFrb3FNVUFKTjFJUl9rWnJLWW83VUpJRHJPTzVqZFNmV3BodnpOcWRPWV9lN1ozXzNXRU1BckV0RF9LSWxFcktRelpyWktqYklsTTZkbDEzTjNndUozTmNIWVNpR2I3VjZzNlFfQnpIMFlIUQ?oc=5",
+   "title": "Goldman’s 79-tonne central bank gold estimate goes mainstream as reserves shift to London",
+   "source": "investingLive",
+   "time": "2026-10-26T02:35:18Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGpNdmtuTWJ5dGRKcGpKWllUUE9RcGQyZ0RhaldXZG56ZTZ4bHBRYVVHaVVkOUVRVlFTLWxhb0NMbG1Ub05pMzZLV2wwOE1VaGYwVW1PbjgwVmhxbzVHTUxfU2pTcGFRYW5ZYVRFMmtFeEZmdEFoUTE4TmhWQU5tZHJDNGtBa1E0dFhNRUY0TG9DNEVVdHgwb1dxTnlLeTJRcG9LMno3VmlMOTkxQkxfT1FSMjhXZWRIdkdteFM2UVNYTncydlZn?oc=5",
    "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Currency markets subdued ahead of pivotal central bank week",
-   "source": "Reuters",
-   "time": "2026-10-26T02:02:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlRGQXNlMDJDS0ZlQnJqVlI0Q3FOUUhyZmpfcUY2TDJNOTA5a0NDMEc5QWpKZ3NrQlZ0QWJSMERlU2wzQlFxcWF0OVFRVlNOSUYydEdiaU5LaTFvVDMxTk5NWTF6NVVFZEdRcW8tOHpZRnlmWDhiRnV3QlllYnVtVldqTGllWmY2RnF1MWVlMFRBT0xWbHliN3pWM3NhQnNzRV80ZHJ5T0M?oc=5",
-   "tags": [
-    "CENTRAL_BANK"
+    "CENTRAL_BANK_GOLD",
+    "CENTRAL_BANK",
+    "GOLD"
    ]
   },
   {
@@ -437,7 +513,7 @@
    ]
   },
   {
-   "title": "Iran war live: Saudi forces attack Sanaa after Houthis target Riyadh",
+   "title": "Iran war live: Saudi, Pakistani and Turkish defence officials due in Tehran",
    "source": "Al Jazeera",
    "time": "2026-10-26T00:00:00Z",
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
@@ -490,17 +566,6 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOW00Z2sxN0VtMkp4b3B3bTRPclRJbUVrRF9Fa1V1Nm5DS2V2Tmt3clhLYnRqdjBBNDhsNzlNaDByNGxmN1FjUUJuM3RfampNT1VkbVNteGxIUTVnUUtFS1U3VDh1U2xMb0hKNk9rRV8yc2h3M2RWU3RqWll2QzdCQkNIMmJzR2psLUF4Sk03dFNoWXpO?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold declines below $4,000 as higher oil prices reinforce Fed rate-hike expectations",
-   "source": "FXStreet",
-   "time": "2026-10-25T23:24:52Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenkzWHJESUR3b3dVVTA2QzZkUlB6VmRRaVJzT2xvemEwakRCU3dDLThobUtKQmx6MUdBQVRNREw5TUgzdHNSLUVaR3JmRTZTeVA1VjJuWVpOS1pMWG5zbjg0M0RESlRzalROOUlKSDdNYjZZTW12YWM3TWtsYTJGTTZRSFFPa3kzYS00TG1NQTYzTVlJSXVETkh6dzh4aXZOUmNaeHZ0MkZXc2xNal9DaU1fakV3VjV6TlFsaDlpRjF4NjBY?oc=5",
-   "tags": [
-    "FED",
-    "OIL",
-    "GOLD"
    ]
   },
   {
@@ -619,72 +684,6 @@
    "tags": [
     "GEOPOLITICS",
     "TARIFF"
-   ]
-  },
-  {
-   "title": "How IDF countered Hamas claims over Gaza hospital blast in 2023",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-25T20:15:49Z",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mSVJvNDM1amdUeU1BTXBLNEhyVU1KTFJnX0FvWlFPRXdGdjk0S2tYUjRwdkZkLVJNY0ZDSVNnVWJJSGUxZ2pOWU1SZVJJOWY2eGxONFc1R0tzdHN0X3pTRnJiOHJEWWVFeFJQVG5B?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "‘Catastrophe’: Former Israeli chief banker slams Netanyahu’s warning about sanctions",
-   "source": "The Times of Israel",
-   "time": "2026-10-25T20:01:22Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWkVMSGVhZzgtcE82LUF3dmtfbWZNTGJOZHlxRkhSc01meXJNaDNuN3lNQW1sY1hVQ25DdXdEdEp1RlUzWFl1bTlQR250Wkh2eUloSm1tUEFGa1N2by1YVjRCT2JHMjFkLTRXNDU2TFBRWm4tUzB2SUhkOFVuNFpVUzRwWWt6S01HTmNLdmRxTE1XYWg1eUliWm5HbnN1ZktPRDRVZDZ3R3pMWUJNNmJMdmZDaHFwb28tNFR1QmZPaHVaSHZo?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "The US-China Tech Cold War Is Moving Undersea",
-   "source": "Bloomberg.com",
-   "time": "2026-10-25T20:01:02Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYk1YUTlkOHNSaGtQU1d0WTk5Y2xTemFfOW1SZHplZVZmMFluWm5ma0l4clpXWlUxVXluMFVOR0pGdzdSRThqTS1IMnBwSjBkRVM4NE80MHFzWWg0YmxrZTVOTnNIQm80cUdTMU8tR1FEOXg3ZUZwM29DLWY0Qll5bGZWSlJ1V3dqMzk0bVRtU1o2TE1XQnBiQmQ3azFScnM1?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Analysis • Netanyahu's final pitch: Vote for war, ostracism, poverty and insanity",
-   "source": "Haaretz",
-   "time": "2026-10-25T19:52:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNdXRKdmY1RVdaTmFkUXQxSGxaRWFCOEZLZlRMWlgxamdpcEpnaDlhV1R2Ny04NEtueXEwTHluUUZoOGd6STNZRkkxcjdoa0I0TnRtYU9MdzkycVVMb05tNG4yNjd2Z0JEM0ZYTnNBMG5ReC1lTU03cWxsWkxTTFBDTHNMNW1LalFKazRTTnMyX1paYlZHcUlTZ1NPM3puWnI3cHNINUszR2FXTUFNZHhuMV9nVno1NWtKT0JXZ0dmTmllWEs1SVF1U01QLWR4N3BCTVUyYVFYd0dFalUtem9tU19vMU9CSjF1SGQzX2NHYXRpMUxLQXZ1V2ZxY0M1aTdkUXRuVWQ1OUlRVS1rQ2lzZGdNcUpaSmc5?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Falana urges Africa to rally behind Cuba, demands end to US sanctions",
-   "source": "The Guardian Nigeria News",
-   "time": "2026-10-25T19:02:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVlYVXBWMkhlWG9xdFZDb0stQ1dXdEV6bzF5TzFXNkxhRHY3QVViUnhla0QtakdWR3V1T2tBdW9sRGViMmtGUUFoQjNwYmxaal9jc0RJaXdDN3o0YzE2RW5TQWpoNVNyOXFfMC1sYXlFMThQSW1hUVhaaW9TTkFrb2NCMVZWMExvVkxwRnNiNkVRUDVHUElaVTRn?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "US Interest Rate Forecast: Oil Rally Fuels December Fed Hike Risks",
-   "source": "FXEmpire",
-   "time": "2026-10-25T18:53:44Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVjE0dGZiWG5BVFM3OHRuV0hGMzVSNFF1SzJNODdRTTdQY0hnOEc4Z05aODNiU3EtdkhoNmFCVUp6SG01VHBQTDcwVVBCZzk0NWVmakJSQ2ZhS2FQVzBlMnBFMWNFX3E2MDdYMlcyWHljRkQ0clFuZUVvaE5xSnVCQUdmNmJaNEVYMzlNZHY4TTVNWTcwZFVuYTg3RlRkQ2JwcE5ybTNsY3NqYV9XSFJ0aHFZZHhFUGs?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "OIL"
-   ]
-  },
-  {
-   "title": "At height of Gaza war, PM met secretly with ex-Mossad official working for Qatar — report",
-   "source": "The Times of Israel",
-   "time": "2026-10-25T18:36:22Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU3FoYXNnUVVzOWtaVkpoQmhrcDJ5alpaS1J6T0haSDBEMWxoUnlFaDJJX21pNmRvYy1JTUJsM2R4TF9BV2tKTVN5NEdEYW5vWXNnZ3VCR2dPSVFwVWdpSzhiQkVrSXNtb2MyTWI5S3RjVlF5Mm00eEhudk11WHhRRm9Fckc1alhXM0hRbHFkLXZwUk9tb3d4bFFmSXh2SXdGd0ZCQUxfdG1xekczaFJRYnBmZWk1TThQbjRkX1VTdkk4ZHMyd2FlNTlpOUI?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
