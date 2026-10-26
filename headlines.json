@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T09:34:27Z",
+ "generatedAt": "2026-10-26T10:02:48Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 0
   },
   "cnbc": {
    "http": 200,
@@ -80,44 +80,52 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 11,
-   "kept": 11
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_fed": {
-   "http": 200,
-   "items": 16,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 17,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 36,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 12,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 8,
-   "kept": 8
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
-   "items": 1,
-   "kept": 1
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 5,
-   "kept": 5
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +133,15 @@
   }
  },
  "items": [
+  {
+   "title": "How war, security and coalition math are shaping the Israeli election",
+   "source": "CNBC",
+   "time": "2026-10-26T09:46:59Z",
+   "link": "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Trump’s Trade Chief Is Trying to Sell Americans on an Unpopular Product",
    "source": "Bloomberg.com",
@@ -669,15 +686,6 @@
    "source": "Financial Times",
    "time": "2026-10-26T05:00:30Z",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHhFTlhMUHBJSDVYZGR5M2plUkZTTmVVTlpWakZCRjM3RDhENWV2UnVVSXpRWktYbl9NcW82bW9YRjBrdWl5a25ESGQ4cU5vV0dqRDVid2FzZXhjVnFGR0FtOW13TjM5a2xhWGV6RTRnbXRCWnRSWG11SFQ4QzZ2aGtjUGM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Israel’s global image is in free fall. Why isn’t it a bigger issue in the election?",
-   "source": "The Times of Israel",
-   "time": "2026-10-26T05:00:05Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVNvZWs3dXdmbFA0cmUweUZ3ZkdEeEt1Z3B2dVJXRjFmaDdTZWthN3NjMEtwVWJCcEZTU3AwYUI5aWt1cnl2NDdFUGNxUmI0Y3hNVHFzbkpFWEJWODJHU19FMXFrTlkxNFRSMGVCMkxHejQxTnZVX1BpT1JSRzdKRjVoSHJnMGctU2lKYnhEWEtpV2pwV09RcXFhTEdPNFFxbUh2c1BXY3NZNUpoN1U00gG0AUFVX3lxTFAtejhyd2w0ZjVNTmxMeG85ekNra1V4eXFPWkE0MDJSVU5FZnhmQVJJRVRBaTB5UzJtdmtNZ1h6cEZ5SmMwSWpyQVU2U3dqUldoRk1DTFJkSmxnSDVleGV0cGZkZnUwSlpXeWptdGxMVmczeDhiUVBsd0ZBSl9BZldiZmVjV0JablZ2SnpNUy12eXFISk10TWJjdUJtUTRtUXlhYUNNS19tOGEyUkxVeEloNWlWQg?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
