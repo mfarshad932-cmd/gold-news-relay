@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T12:24:18Z",
+ "generatedAt": "2026-10-26T12:52:38Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -46,9 +46,10 @@
    "err": "HTTP 502"
   },
   "investing_news": {
-   "http": 200,
-   "items": 10,
-   "kept": 2
+   "http": 502,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 502"
   },
   "marketwatch": {
    "http": 200,
@@ -82,7 +83,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 19,
+   "items": 18,
    "kept": 12
   },
   "gn_fed": {
@@ -97,12 +98,12 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 37,
+   "items": 35,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 16,
+   "items": 14,
    "kept": 12
   },
   "gn_yields": {
@@ -127,6 +128,25 @@
  },
  "items": [
   {
+   "title": "Oleshky: the occupied Ukrainian town for which Melania Trump helped broker a ceasefire",
+   "source": "Reuters",
+   "time": "2026-10-26T12:30:15Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmV3Y25paUFiMk1UOGZkcDY4cHJiM3ZGNm9OSHpXMHJRemtuQVd1anhiZGxRM2pITkpQNnRsOFhJSERWS05zSy04bWJyUThJeE1EU2MxenhWZi1FY2FPNFhJaGhoTjlXVjJUSjZreFBOQjRuR19wOGhrU1NpOXdMQ2RaTUVQbW9GR1hZcDNWcVdzc182TFdIb1RiQXZuaDJiNVV4YmI2clotcDZjNGdxM0tTdUxYWjk3?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Steadies After Weekly Drop as Focus Shifts to Fed Meeting",
+   "source": "Bloomberg.com",
+   "time": "2026-10-26T12:29:32Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSlpQTVJTaWJGcUtSSm42dGtDT0wyU3VQeHlmbURBb2VDbmhIUjA0TlR1cmVPNC1lOUFvNDdGSXlYSW5xeldkQ29hbk52blVmUndSOEhTY0ZoNnR5MWtPZzdDdEMwWkJ1ZldKeHRCc0JBVVZSTXktdnlpd1BHN1VVaEFCa1hodEpERVZKRFFUdGZQRldZekhrTGNzR2p1Mlp2c3hXd0R2bXRrRW1zd0dxTkpnNA?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
+   ]
+  },
+  {
    "title": "President Trump announces upcoming Canada trade deal, lifts certain tariffs",
    "source": "Fox Business",
    "time": "2026-10-26T12:18:13Z",
@@ -142,6 +162,15 @@
    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSmc5Q2JGNlF2c3RWUlQyTldTQkxWc2VCam5PNWRfekRtN0d0U2pNVFlTMmZsdExCQlVWZWhOam9teG8xNEx3a3BiT1dmVkRsZ3dyZzZOcFBSdFg0YU9vTWIzaEkwUUczdkVpY3gxSDVhQ201TEtmYl9NQXAyS09EWGtLbDY2SElzQkdYMTVNVTQ4RHRHNktkWXlDNEhVZDdQZF84aW8yOVpJXzB0UGxkdnRjZ1pyRU52OXlNNWNFOVR5WFo0UU1lX2s1WWh3bmNaZXZOX2JwVzNPLXh3N25yZDU2eTR5OTZueENuUjRibkRVbG1mbEE4VHFBZHdycjFZSUhKSXJPT2hIOEtFel9B?oc=5",
    "tags": [
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
+   "source": "Al Jazeera",
+   "time": "2026-10-26T12:17:02Z",
+   "link": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -182,12 +211,33 @@
    ]
   },
   {
+   "title": "Canadian Dollar Faces US Trade War Headwinds Despite Hawkish Central Bank, Commerzbank Says",
+   "source": "Yahoo Finance",
+   "time": "2026-10-26T11:51:32Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU3ZFeHdUU0Y0Mm5qTWN1bU9FWm1DR0VZVDBBSVdCa2lQR2RhVHVzR3lJUVFIV25RS2tIbFRIYWcyeTBfcF9tR3dxbURlNkdIZWJzSWdhMWE5cWhOQk92dmNUQ2NtZ1NNbVlUMzhLM2stSkoxQTZqQ01PWVh4UmFhbU40alhoeWg1LW9kNzJuVGllUkVnRW9UaEM0VVFhLUo4?oc=5",
+   "tags": [
+    "USD",
+    "GEOPOLITICS",
+    "TARIFF",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
    "title": "Trump says he'll soon decide whether to ‘make a deal’ with Iran or ‘finish it off'",
    "source": "CNBC",
    "time": "2026-10-26T11:49:17Z",
    "link": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US Stock Futures Rise Ahead of Federal Reserve Decision and Major Technology Earnings",
+   "source": "Yahoo Finance",
+   "time": "2026-10-26T11:42:10Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWjRNaTdzZnZMZ0ZNV3VkNnpRZTVKV0lpVDJmXzh5bUt2UTZLalNHVzFJdy1fdkF6TVo4ak0wZEUzV3JZTFI5SE9rOUpTcWhBaHFWa0JqOWpmdDZBZnBSLXlXVDluY0dQOTltV2lVUUVReEFtdllsNUtzNXkyQTV4azJmYWlwUmJmWnY2YmV3RlZJbUxqMVBJ?oc=5",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -298,6 +348,15 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalRqTmpLa3B3QjJ4ME9SUzJLal9HLWVKWTgxdk41S2hfUnJ3WXRDbGtNY2lTSEhrNldwWnlReWxxOXo0YlZuUzlwMGRCanVKMEFnUXFfc3JCREx6WFA3UTJNNGl1cnM0dlJheXhnUWhiUjN4bUo3VkQ4djlVcmhKaWxOeFlLQTRfSHlZcWNqdzhsSTU2RV9PYWQtTzZ6czkyanV5bndraElNQTQ?oc=5",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "Opinion | U.K. Labour’s Ceasefire in the War on Gas",
+   "source": "WSJ",
+   "time": "2026-10-26T11:11:03Z",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeFNuSXZVMGluN0FBQS1aUm80YmFUaGZDVm85OWt4UVBGYnpOREhTV1Q2OWhBZ25pYWVES3RQZG1YSTZKZ0RBNW5BVHpOenJ4bWprUTNsREF6UjlyMjZSZktzTHVUNmJkY05ua3dBa2pxTVRCazJseGNwX3Z6a0t2dERzZ0tQdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -617,61 +676,6 @@
    "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
    "tags": [
     "ECB"
-   ]
-  },
-  {
-   "title": "War Is Interested in You by Gideon Rachman review – are we on the brink of world war three?",
-   "source": "The Guardian",
-   "time": "2026-10-26T09:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc2VNak8tSHRZbzRTdkFmN1k5TnZPWnBXbExHQWQzektrQXdqVkRRdU1YTjF2Zy1PSlVsV1VaZnphanplOV9yNHpvYktQdEFRd0hiYk82Wi1XT2N3OTZZVVNZa05FTU1oZVJLQ1JnaFJHMk5tZUgyaWJZb0ZyMTJXNFZ0SEZ2NHFoS0l3U2R1aC1qU3hIY1dJMnRiZ0QzN0NsVDktZXpFc3pFQkoxRVh2N2t5SndIWk03RzZFeS1FeFdUdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "‘We don’t need 50 more data centers.’ Arizona AG declares war on AI.",
-   "source": "Politico",
-   "time": "2026-10-26T09:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORU1tUnUwcnFscXhSM1FsZzdLbUVSam1CTzh3dmkyanFHUHVuaHFvQm51TnpzZWpkRjBaSk5pelJyOHlFVDRmd1FKQmFXeWdFT2lRVnRIeWM1YUtIdTdxM1VDVm9QdWlGd2pOREx4dzVPc3pkLXJNdDlDS0t3cERVV2NCOXNGd3dSMC1fczFpbUpFaGhVTkE2MFRGZFE5RXl3OGNTN3hVTTJSS2R4cW1mbWxB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold clings to recovery gains above $4,000; upside seems limited ahead of FOMC meeting",
-   "source": "FXStreet",
-   "time": "2026-10-26T08:51:58Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ1VFckNUaUtDNkpsb2NmeG9GZG9LX1NITzRxVGd2cHl5YnNBNlBYYUIxYkpaVUZFMXFKU0N2ZVVRZzBvSGZCaWNpb25hdmg4LXJ1Yi1oTlktOHVPaURKUWt1RFJhYkdCcFMzdVVTdVlEQUkxZ0JFNU41Yzg4bHhpejhhZEFnbHhucVRxdDVoWDhNVllWMzlMandteGN6RVp3bTBUYllpUHF5cWpwYnNFYkh4MnJOeTVNNS1MV01kRkRoMTRkLXF6ag?oc=5",
-   "tags": [
-    "FOMC",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Trump ‘War on Fraud’ Stymied by Depleted Expertise, Resources",
-   "source": "Bloomberg Law News",
-   "time": "2026-10-26T08:45:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYzBYVTJuZGR2SWNPLUF5a1JlNlBSWEhHV0ZZcFVRSlhqWWlsbUVPbklla1lVQ3QzZU52RFR5eWROMEczOC1sUXdxZWpqNkM2bDBCX3hOYmhYRU95VnRNQ20tMXItV29aQ2k5dzZfQkVFNXFxbnF1UFVHSFZtckhFdVBtQWtXckd0cnM1YnRhRnF3X2k0N1VPMXdIcGZiWWc0Sklnb3VB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Do Palestinians in Gaza expect anything to change after Israel’s election?",
-   "source": "Al Jazeera",
-   "time": "2026-10-26T08:43:39Z",
-   "link": "https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran says it’s prepared to go back to war amid threat from the U.S. and Israel",
-   "source": "NPR",
-   "time": "2026-10-26T08:40:27Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTWF4R1g5cjkxZXNYdDVVa0N4SWVoY3FiOVVsdnJ3Nll4Si1lbVNnemhBQi05aWF3NEllLWtKTHM5Qlh3bGRmcVhiWXpFZWt2VW5iRzJCN1dzNFlqX09sVWZsTG81OEpMa0tKbnZ2T0NRMWE0el9kYkQxNjhyWVE1NkF4RGhGVUNnV1hHZGo1eUZvZUZ3c01zN1Z4WjVLNmhJdlEtU3U4VlU2SHRxOFUyeG5LbWJzaDI0X2xVel93?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
