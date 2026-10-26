@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-10-26T08:09:27Z",
+ "generatedAt": "2026-10-26T08:37:46Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 0
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -66,7 +67,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 37,
+   "items": 36,
    "kept": 7
   },
   "aljazeera": {
@@ -81,38 +82,38 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_fed": {
    "http": 200,
-   "items": 14,
+   "items": 15,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 16,
+   "items": 14,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 34,
+   "items": 32,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 14,
+   "items": 12,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "gn_oil": {
    "http": 200,
-   "items": 1,
-   "kept": 1
+   "items": 2,
+   "kept": 2
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +126,25 @@
   }
  },
  "items": [
+  {
+   "title": "US Dollar Index Price Forecast: DXY holds bullish bias above 101.50 ahead of FOMC",
+   "source": "FXStreet",
+   "time": "2026-10-26T08:27:41Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTDJaYVN5Q2Y5NFgwQVBHVDE1TnY4bC1KNzRFS0VlUDc5d1ItalFYVEJFWV9zWlFQam9CLVdQOVU4VUNxX3N4ckplNFdpUE9DV1lubksyWHlnWVAyd1l0SkVHVHV4X3RPMnFfOUJZbEluN2sxTWd4T0FHOHZvbW5ydWdRYUpIQjRhclppbE5UQTZrMldTUzctMnZRSTA4dW5lemtlbnNhZzdCMnF5M3F6NVBxZS1QYV9PWEhISXNpQQ?oc=5",
+   "tags": [
+    "FOMC",
+    "USD"
+   ]
+  },
+  {
+   "title": "News by CNBC TV18 on TradingView, 2026-10-26 — cnbctv:1ad0f634b094b:0",
+   "source": "TradingView",
+   "time": "2026-10-26T07:54:56Z",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01RjAxY2NvUHFqbXltOFlrd0t0cldpcnJLUGpHeDcwREx2aFdEUFJfYTNJYjU5UmdlQ2FoMFk2TnlGNGpvY1g3ZWlFOFVKcmxGRE5RNEtzMnpIQW5tdk5sZ05XX0NmYms?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
   {
    "title": "U.S. Treasury yields inch lower as investors look ahead to the Fed's rate decision",
    "source": "CNBC",
@@ -176,6 +196,15 @@
    ]
   },
   {
+   "title": "'It's not supportive': Ukraine's Zelenskyy laments lack of US assistance in war with Russia",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-26T07:32:48Z",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUlNKZ1lVSHR3Zmg5ajlVWEdHUjlYVXpnYkszWFRqQkpvSThsdGdRejh5VWM4MWppVlZ4c0tReVV0d3UyTmFQTDNsblotOXUwV09VbTdEcV8wWGYxX05wMGNmTjk5R2tockJoRW03cHBoczJIb1NibnhvVVI1RlYzcENUc2dyaU9aQzBFZlpaVHrSAZYBQVVfeXFMTzBWdW5CeVVEUGpLWTBmaUhpczhtTE52OEdlamh6elpVMEZaeVAtQXRJeUZ6R3hNdkRHYzI5RVNoTjVuY2JuNWY3VVZNRWFxaDY1amVCamFQNnFVOEFFaEJoV3VrQWh4THlkYXBVX0tVbjNnQTh4anFNYzBYWVVjU1lqSndBLW41aE8ySHJSMUdIbHlTVVlR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Gold Hasn’t Forgotten the Rules - The Market Changed the Game",
    "source": "Investing.com",
    "time": "2026-10-26T07:31:00Z",
@@ -191,6 +220,15 @@
    "link": "https://www.investing.com/news/economic-indicators/sweden-producer-prices-jump-34-in-september-on-energy-costs-93CH-4971521",
    "tags": [
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Delegations meeting in Tehran with region on edge over potential for renewed fighting",
+   "source": "AP News",
+   "time": "2026-10-26T07:20:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMWJncVBjVnZqc1hWNmxhZFFWZUZkS1hXLXcyOXJSeFphV0lJR3dGX3loYTVKVmdFMzFuN1ZNYktiRFAyWW1mdkhBcE9UaE01V1NveFJ2SUlzU1h5YW5sN084S19oeXBaRWRRZVdCWnlWR2kzN3F2ZVUwMmUtMlh1STBSUXZDdVc3clRBb3VESi1FNWM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -600,7 +638,7 @@
    "title": "Currency markets subdued ahead of pivotal central bank week",
    "source": "CNBC",
    "time": "2026-10-26T04:10:21Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzBCR21LYng1YlpWWUZJSmdpZkVHeTNWdzJQMERzNzV0Q21lUHpVNDFuVWxGSlBYYTd2UDh6aWxJYzZ2a1IzVkhldXluNmxrUzhnR2VOMU52akw1SmFtLWZJMDNZcjkybXowaHpmLXNWSldvQWFDVGJNdDFSVVJNOElpcWp1RnBETWszRzZyeXBHUkxNc0IwQzROanTSAaIBQVVfeXFMTXBhb29wM2FZdnZXQW9WcEtwVmR1dGxJaGZMWElQZmpaZzNhdGRqRk5pYmxNYjlwT1BQTERVcmJCTUQ0XzFWWXBFbmpWQnRRclhVa0kwVC1aR3pmUVNmQVBkQjJRaEFDaDRYQUxHQ2RsMXFrOTZuQ2tpWW1SWnB3LWQ3Vllhb2gxSl9famQtcVhuQUI1SFg0eHpicHFqR2d4cXVR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcGFvb3AzYVl2dldBb1ZwS3BWZHV0bEloZkxYSVBmalpnM2F0ZGpGTmlibE1iOXBPUFBMRFVyYkJNRDRfMVZZcEVualZCdFFyWFVrSTBULVpHemZRU2ZBUGRCMlFoQUNoNFhBTEdDZGwxcWs5Nm5Da2lZbVJacHctZDdWWWFvaDFKX19qZC1xWG5BQjVIWDR4emJwcWpHZ3hxdVHSAaIBQVVfeXFMTXBhb29wM2FZdnZXQW9WcEtwVmR1dGxJaGZMWElQZmpaZzNhdGRqRk5pYmxNYjlwT1BQTERVcmJCTUQ0XzFWWXBFbmpWQnRRclhVa0kwVC1aR3pmUVNmQVBkQjJRaEFDaDRYQUxHQ2RsMXFrOTZuQ2tpWW1SWnB3LWQ3Vllhb2gxSl9famQtcVhuQUI1SFg0eHpicHFqR2d4cXVR?oc=5",
    "tags": [
     "CENTRAL_BANK"
    ]
@@ -650,46 +688,6 @@
    "tags": [
     "FED",
     "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold steadies near 3-mth low as elevated oil prices weigh; Fed meet eyed",
-   "source": "Investing.com India",
-   "time": "2026-10-26T03:06:38Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYlJLQ2tNWjRwbVFjQkEwU0lXeWRELWZOR0ZqUklnZGFBLUxwOXVxdk1hSWZudVNIT2gzLTVFOElwdkNmaVRPNGtwV0s4U3RyN3ZodmpYd05fRkc0YXl0OHR5SDJ1ZDdtV3RZdEx4Vm4zbllFTmJRWm9FYkd6QWxjUnd6RXotY0l6cm1WVzdkM2dXMkQ3U3NBTXl5b3Nrc1hTOWtKQWdtNl9RckZ0bUtmOGVKT2VuRHBTMnJOdHJERTRKbDA?oc=5",
-   "tags": [
-    "FED",
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "IEA's Birol does not expect energy markets to return to pre-war levels in 2027",
-   "source": "Reuters",
-   "time": "2026-10-26T02:49:00Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV2ZfTHdlczRzUzg4VTlJa2R6czhZeEtoZW8taUE3MzFxWEh1MVh0U2FPdG5XcEs2ZVhGZ2JxT3JwSkVBUEtseTR0YktxN05ycmxmODRONkVMd3JEbUJQdDIycm5QSHRMcGZqejJDSk5kMkFtT3dMa2EwNnlTV3Q0ZTNieWFSbWJGUVBoNFVDcklUZlF6UDhsMDVqbTJvd2FlWHJqMVBTVDJnM1d5ejc1V2hpTjVxZ3NmcXBhUA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Goldman’s 79-tonne central bank gold estimate goes mainstream as reserves shift to London",
-   "source": "investingLive",
-   "time": "2026-10-26T02:35:18Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGpNdmtuTWJ5dGRKcGpKWllUUE9RcGQyZ0RhaldXZG56ZTZ4bHBRYVVHaVVkOUVRVlFTLWxhb0NMbG1Ub05pMzZLV2wwOE1VaGYwVW1PbjgwVmhxbzVHTUxfU2pTcGFRYW5ZYVRFMmtFeEZmdEFoUTE4TmhWQU5tZHJDNGtBa1E0dFhNRUY0TG9DNEVVdHgwb1dxTnlLeTJRcG9LMno3VmlMOTkxQkxfT1FSMjhXZWRIdkdteFM2UVNYTncydlZn?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "CENTRAL_BANK",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold, silver recover slightly after sell-off: What to watch this week",
-   "source": "CNBC TV18",
-   "time": "2026-10-26T01:40:27Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTkNfb2xBU2FRTFEzbFFJRHcxamNVWEVPMUIwdUhnQkg2dVpaSXlFaHd1NmIyNS1vVi12bXpYQXkzaG1zVDBDRlEwVkt3bzd1RFhucU44ODlsVDI4Qm8tUm1WX05FTlVhZXRMblZabDNWMkcxV1dZbElURHVEM0FCcFA3cDVlMzhSc2JRZlRJWTdtTG1HbXFsNVFWZzZfdlFwY3BldlY4T3ktcTZjei11dzFOWGhUM2YyY3RUZEM5ejPSAcYBQVVfeXFMTUVCMUVid0ZZX3FUODl0UWQ1U2MxS0JseTdrcUgxRXpDVkpXUVRrS1k0eFZzNkxrT1JFUHRWbGxPbFotcDBRczM2YU14NnY2YUhPMkx1elVjdENEbUVMVW9EbVo3ajRQcFNWeDJRZHd1VjlfemZjRF9EOVF1ck52bkJfMmo4VDJNZ21HZWlqV0hrQWZVN3lDRU9iNkRMeWh0NS11amczelJwS0x3aEhvbk9aR0VCbjBhMFVvN3J5TkgySDRVZDZn?oc=5",
-   "tags": [
     "GOLD"
    ]
   }
