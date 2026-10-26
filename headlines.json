@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T15:42:49Z",
+ "generatedAt": "2026-10-26T16:11:11Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,12 +52,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 3
   },
   "bbc_business": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 27,
+   "items": 28,
    "kept": 4
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 11
   },
   "whitehouse": {
    "http": 200,
@@ -86,17 +86,17 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 29,
+   "items": 31,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 20,
+   "items": 18,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 44,
+   "items": 37,
    "kept": 12
   },
   "gn_sanctions": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "fed_calendar": {
    "http": 200,
@@ -126,8 +126,65 @@
  },
  "items": [
   {
+   "title": "Brent oil tops $117 as Saudi defense minister travels to Iran for talks to de-escalate conflict",
+   "source": "CNBC",
+   "time": "2026-10-26T16:06:36Z",
+   "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Plunging Shilling Forces Uganda to Tap Meager Reserves War Chest",
+   "source": "Bloomberg.com",
+   "time": "2026-10-26T16:05:50Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTXpqbTVHTWZYWnNNQ3BUM0g5MUdWS2hIcldpOHE1eWVFa2dtNFVyTko0cUc4d2ExZkw5b3dHcm1HOVJHUjAtcW52Sy1PX19jQUg5VzJKSmItcGZ5VzRxTEFsQnJIOUpiamxrRXZULURNV18zbHJYb1IyM1BjOE44b2d0ZkZxYXQwSk90d3hma1I3R2NON1oyNVd1UU9KdlpldXoyM1h1UjBTN0wwUkxURWFWR29PczV3WXBuLXVB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
+   "source": "CNBC",
+   "time": "2026-10-26T16:03:57Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXZ6VS16VVVGaDZiM2NoUDVUX0NQVldsR3RZZkZRR0lXb0R0Sm56dVdFTjh3X2dURUh5N2FUYXgyUGZ5QXlWUzJobDhpWTRHTjZ2YzA5Ry1LQ3hJNk93OGNab2c3T1lGRUNCcmR4TFZNWTVOX1I1Z19WckhFbEJldGVXUznSAYoBQVVfeXFMTjVYMVJhMVNScnd1RE1ObnFaMFhENE03c1NqZW5EaHpGbjUweWRQMXVwMl93ZjczZUlBSC02aDZsLVkydzdCMFlWc0xUZG15TTU0V2hTQnJTMS1iTWJ1ckdSejdCcnlIMWRZTnNaNUZmcnlOa01JOHNNYjQ2OEZyOXpTQzVjMmtDUzRR?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "Opinion | Brace yourself, GOP. Trump’s Iran war and tariffs are going to sting.",
+   "source": "The Washington Post",
+   "time": "2026-10-26T16:03:44Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ0ZZWUVxTE90YTY4SERGdVhsMlFxNUF6ZWdlSmxPcERBNk9YUWxRV0RIRzY4czJrX29ocEVJeE5rN0d0VFJ0TTlVMVJpNTdJck04QThZLVdYTm9CRXp1OEg5V0NMZGM0WGhEU1lxMWZkQWhQMDU4cmxmbm1XSm5YWDV1RjEyeDc2d1picmtqZlFwaFFQajhUY242QVNPTU9fZ21ScnBNdHJ3TkJ0ZDNHeQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
+   "source": "MarketWatch",
+   "time": "2026-10-26T16:01:00Z",
+   "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Israel committing crimes against humanity in occupied West Bank: UN",
+   "source": "Al Jazeera",
+   "time": "2026-10-26T15:44:59Z",
+   "link": "https://www.aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Slovakia to develop Russia ties in areas not hit by sanctions, minister says after Moscow talks",
-   "source": "www.marketscreener.com",
+   "source": "marketscreener.com",
    "time": "2026-10-26T15:35:01Z",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ2hkbW04N1R2RVdlWldieF9HZmVRQVM5WV81NW56eDlHMlk5SHRWNU5GME5nVDJqVkNiSndsdG5jSU82WnRVRGRZNGg3eDlmS1VVaHloM2MtNVVpaDhHN1JwdkUtX1JxZ2N0VWFaSG5UT3BaWnRMV2FuN05KTXdFNV9ZSG9WSERJNklwcVVUVWdzeEpZVTdNRV84U1UzOGdrV255NjJjVzE4OHE2TTNHRTlfVUpncWRpUU9ES2VUbEZaamtwVzlrX0cyT1hXNHJHOU1zWkJxT1NzSmpDWEVpUw?oc=5",
    "tags": [
@@ -145,12 +202,30 @@
    ]
   },
   {
+   "title": "Israel Election 2026 • Katz denies pre-election Iran war push; Lieberman seeks probe of PM for treason",
+   "source": "Haaretz",
+   "time": "2026-10-26T15:19:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNZ3VnWmpkV3h6QnpTbVhOQllDaHdwcXJXZFNFdXlVSnRkQkNKenFBZ3pwOTJiSEpVSTRJcWhpcmNsWGpmRzB2dThfM1o1WVMzMVM0UmtXQkItQnNRRUVkc0lESW9qYm9lUXJMeWFDcjhqamtlMFJYQzlVNWRRWGZuR0ptMmFWdHMtN2VqZUpWVUYxcmNjbHJ0cXFxbzU3emhLZFVKM25yMDAycWV4MHdYdC05dXVqajMxNHhHUUJJUjFzRjRlM1R3YXhaMUI1TWtvRzA3aDZoUjg4RUt6UWZfRUdZYzVPM0gxNlotZFR5UUpEYXpaMUkzMXdZb3c0X1hIcWduSUltekZWM0ZYS2Z5b294bFp5dw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "UN-commissioned experts say Gaza ceasefire has not stopped Israel from committing genocide",
    "source": "AP News",
    "time": "2026-10-26T15:18:49Z",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZnd1NVJUWmc4MHhtYUdaTUc3VzBGSkFET0RBbkdTM1hJZFRQWUlKOVA0Qm9uUTUxTi1hNGROUU1MWnliMjVrLXdzRXlxd0xjM1NBOUZOS09pZWRaR0YwdmNxcWlJYm5jZkdJSlJtV1QxUWhsZENVMGdPcHNHSUZjUi15Vl9mclBmdWtaZjhqclVCaDVpSlBN?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+   "source": "The Guardian",
+   "time": "2026-10-26T15:16:00Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzFZTjVTeEZ2NGxlLTA5OTZNQWtudFh1MmJwR3FvR1hXY0hDQU10a0hldmxXenBaUGlZOUNxTTdZdllEeC1YNlgxVWdGcV9Ddy1GT19TOWF0eGt3WlgwMWZoYi1YaGZLSV8xZEVOZHFIdTFPUzRDTTFQWmFaQzk3dGl1OWVUYlloek1wVkdQUDZQdFYwM2t4VEZsWngyY0ZoX2MtTjFBUS1iWWkzTTVtTEQ1ZV9kcG5CbmhBYmszS3pRQ1pQYTVZdTZfdjJLUQ?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -169,15 +244,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYmlMWG8zWnZaM1lhTHlWQ1RWaXdBWVVVdHBsdlc3Y3dNNllpQjNVQVBDT183UWFEQVBZcHFoWkpGV0NMTFNzNFRscTgzV0hmeUpuNXVxUVJiSzJkMExoM1ByZ2k0cjRjX1VXV3NadFF1M2lqZ0hCM2luMWxuSWlRWk9HZU8tVUEyT0NWZ2ZPZkFWTkJLRHpJZUo1VXloajhnQ2ZaNDl0V01EbW9kcTUtTVIzcHN3UHoy?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-   "source": "The Guardian",
-   "time": "2026-10-26T15:07:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzFZTjVTeEZ2NGxlLTA5OTZNQWtudFh1MmJwR3FvR1hXY0hDQU10a0hldmxXenBaUGlZOUNxTTdZdllEeC1YNlgxVWdGcV9Ddy1GT19TOWF0eGt3WlgwMWZoYi1YaGZLSV8xZEVOZHFIdTFPUzRDTTFQWmFaQzk3dGl1OWVUYlloek1wVkdQUDZQdFYwM2t4VEZsWngyY0ZoX2MtTjFBUS1iWWkzTTVtTEQ1ZV9kcG5CbmhBYmszS3pRQ1pQYTVZdTZfdjJLUQ?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   },
   {
@@ -207,16 +273,6 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWnpOVXc4aXh6ZGlocUVjQWZWWDd6RDRrRktoUkdTYU5LWjNMNHZvZlhNNkc2SVEwZTBmaGFZRHBDUHV0SzFTX0RKdWM0TVVER3ZmUUQtOGpQTUt1X19QUVhNeUQzclhmdG9pckFLYm5YTWhfTVhlckc4STZXZ2tkZnd5ZnNfQ2NqSXhnd0N4Q1c4LXg5UTRaSNIBngFBVV95cUxQSGNyY3diNWp1V2VHb002VTVER2U2Z3Qwdm1aRmpkNUJJWTdNa2ZwYnhNeWlnc2RqTm0xSHEyUmNpdUpkQWJtN2lPV09nU0JJck1zR1cxTDFIMEJhN1FLUkJLaHhZRzdfdU5FeWhkb1VyRG5ZOHBrdnFFRHFjaDVlUG5QeFVTODY0NzEzYms3RWRzVWpLajZZRkdBcTRHQQ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Opinion | How Trump’s forever war and tariffs could sink the GOP",
-   "source": "The Washington Post",
-   "time": "2026-10-26T14:58:05Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ0ZZWUVxTE90YTY4SERGdVhsMlFxNUF6ZWdlSmxPcERBNk9YUWxRV0RIRzY4czJrX29ocEVJeE5rN0d0VFJ0TTlVMVJpNTdJck04QThZLVdYTm9CRXp1OEg5V0NMZGM0WGhEU1lxMWZkQWhQMDU4cmxmbm1XSm5YWDV1RjEyeDc2d1picmtqZlFwaFFQajhUY242QVNPTU9fZ21ScnBNdHJ3TkJ0ZDNHeQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "TARIFF"
    ]
   },
   {
@@ -300,6 +356,15 @@
    "link": "https://investinglive.com/news/us-october-dallas-fed-manufacturing-index-13-4-vs-9-8-prior/",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
+   "source": "The New York Times",
+   "time": "2026-10-26T14:30:53Z",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd05yanVUalZUaF96N3JPYjQtOHdSX0g5SXhxZ08xV1NYRk1yN2lwTndDMXZXR1NUcXFmdmVsenlIbWRMalBfXzFtSk5tVl9hdjgxQlhDU2V5VzJPTWlEek04c3lnMkt0bVFXZ0Q2a0praUUyV3BtbTlhaVBoMFRielVkV1pTYnlPMGVod1ZHMi0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -431,16 +496,6 @@
    ]
   },
   {
-   "title": "Oil prices fall as Saudi defense minister travels to Iran for talks to de-escalate conflict",
-   "source": "CNBC",
-   "time": "2026-10-26T13:28:57Z",
-   "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
    "title": "Gold prices squeezed between rising oil and falling yields, Fresnillo silver output declines in 2026 – Heraeus",
    "source": "Kitco",
    "time": "2026-10-26T13:26:55Z",
@@ -543,15 +598,6 @@
    ]
   },
   {
-   "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
-   "source": "The New York Times",
-   "time": "2026-10-26T12:47:37Z",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd05yanVUalZUaF96N3JPYjQtOHdSX0g5SXhxZ08xV1NYRk1yN2lwTndDMXZXR1NUcXFmdmVsenlIbWRMalBfXzFtSk5tVl9hdjgxQlhDU2V5VzJPTWlEek04c3lnMkt0bVFXZ0Q2a0praUUyV3BtbTlhaVBoMFRielVkV1pTYnlPMGVod1ZHMi0?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "In his own words: Trump on gas prices and energy costs since launching the war with Iran",
    "source": "AP News",
    "time": "2026-10-26T12:43:00Z",
@@ -632,54 +678,6 @@
    "link": "https://www.cnbc.com/2026/10/26/monday-biggest-wall-street-analyst-calls-like-tesla.html",
    "tags": [
     "USD"
-   ]
-  },
-  {
-   "title": "Canada trade deal 'very close' as PresidentTrump adjusts tariffs",
-   "source": "Fox Business",
-   "time": "2026-10-26T12:09:46Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wNHdCN3NfWTJyQm1TX0psQXIwbXJBNE5iWFdWWmpaMFZ2WHlMaUl5c3REQk8zM1M2Q1kxOXRTcl96S3NNYTBJX2paaDFXSTJROUgxbXJteDFSNHc?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "investingLive European session wrap: Stocks rebound as oil eases, French bonds find relief",
-   "source": "ForexLive",
-   "time": "2026-10-26T12:07:01Z",
-   "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-rebound-as-oil-eases-french-bonds-find-relief/",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Trump’s Trade General Fights Back as Tariffs Become Toxic",
-   "source": "Bloomberg.com",
-   "time": "2026-10-26T12:00:01Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVgwUHVEa3l1VndVY3FnYlB5QktneUNfTHRQeVB2ZEpLU2UzWmhGSGZNd0FWaWdNTFRpRngtTEVlS3FZMGJiZ0lsVlZkMks1R01GZ2hLVnk4WldmblF4Rk5hY2kwRVRyVWNqVmlLcXJBVGpUQmdSWlp6NmlxZW96U2paNWtxRjJPb05EUFRYYTRZendKbjJsaDlVd0tIeTZCLWs5a2V2N2hIb1Rq?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Canadian Dollar Faces US Trade War Headwinds Despite Hawkish Central Bank, Commerzbank Says",
-   "source": "Yahoo Finance",
-   "time": "2026-10-26T11:51:32Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU3ZFeHdUU0Y0Mm5qTWN1bU9FWm1DR0VZVDBBSVdCa2lQR2RhVHVzR3lJUVFIV25RS2tIbFRIYWcyeTBfcF9tR3dxbURlNkdIZWJzSWdhMWE5cWhOQk92dmNUQ2NtZ1NNbVlUMzhLM2stSkoxQTZqQ01PWVh4UmFhbU40alhoeWg1LW9kNzJuVGllUkVnRW9UaEM0VVFhLUo4?oc=5",
-   "tags": [
-    "USD",
-    "GEOPOLITICS",
-    "TARIFF",
-    "CENTRAL_BANK"
-   ]
-  },
-  {
-   "title": "US Stock Futures Rise Ahead of Federal Reserve Decision and Major Technology Earnings",
-   "source": "Yahoo Finance",
-   "time": "2026-10-26T11:42:10Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWjRNaTdzZnZMZ0ZNV3VkNnpRZTVKV0lpVDJmXzh5bUt2UTZLalNHVzFJdy1fdkF6TVo4ak0wZEUzV3JZTFI5SE9rOUpTcWhBaHFWa0JqOWpmdDZBZnBSLXlXVDluY0dQOTltV2lVUUVReEFtdllsNUtzNXkyQTV4azJmYWlwUmJmWnY2YmV3RlZJbUxqMVBJ?oc=5",
-   "tags": [
-    "FED"
    ]
   }
  ],
