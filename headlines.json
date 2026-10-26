@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T21:51:14Z",
+ "generatedAt": "2026-10-26T22:19:34Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 10
   },
   "investing_commodities": {
    "http": 200,
@@ -86,33 +86,33 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 31,
+   "items": 33,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 21,
+   "items": 20,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 48,
+   "items": 46,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 10,
+   "kept": 10
   },
   "gn_yields": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 12,
+   "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 2,
+   "kept": 2
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,33 @@
   }
  },
  "items": [
+  {
+   "title": "The Fed doesn’t like to move rates before elections. Here’s when it did.",
+   "source": "The Washington Post",
+   "time": "2026-10-26T22:00:08Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWlSVVFnYUJCa1p3WjVqTEVWU1NNamlobzV0T3ZMQ0loYVp0elR0RWhLQThFdTlDNEc3ZXhkUGp6dDB2WEdqYjI2NnZMNWliZ19lRTNkUjhtSzBGTnNwZXJPOVB5NE1KVVZhbFJkZ2hFSTI3TzVZVHdYRFJGQzBDM2lmT3J0MXlqVGhlU2UxbUdGQWJQcmRIR3dmcXByWnpyaDBfU19ENllsM2Jfd0VMOXdhV3JsbFpoMU95TTRnR2E0dw?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Goldman Sachs: AI buildout to add up to 50bp to US core PCE, but the boost is temporary",
+   "source": "ForexLive",
+   "time": "2026-10-26T21:58:53Z",
+   "link": "https://investinglive.com/news/goldman-sachs-ai-buildout-to-add-up-to-50bp-to-us-core-pce-but-the-boost-is-temporary/",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war",
+   "source": "The Washington Post",
+   "time": "2026-10-26T21:49:33Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPejFkczNnNTlDQi1sY3d3VkFxUjVSb1lJWEFYVGV1dDUydnFKRmxwTzctQnNzRzkzUjd0c05YMXZiak8xX2ZYSnhWQjZ5QWRrbEFabS16VzJVS2U3aWhpbm9nU0E3YndHRVYxX09tcTRIMF9YZU5ZbXRNRHBQTExJNWZ4ZnhWQndPNk9mYVVyOGR4Nzc4Mlkzdjl6WUJSa0NEM3E5LXdlZ1NpZEFIVktCYXB3VQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Opinion | Buying a cardboard box should not require a senator’s help",
    "source": "The Washington Post",
@@ -153,15 +180,6 @@
    ]
   },
   {
-   "title": "Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war",
-   "source": "The Washington Post",
-   "time": "2026-10-26T21:25:37Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPejFkczNnNTlDQi1sY3d3VkFxUjVSb1lJWEFYVGV1dDUydnFKRmxwTzctQnNzRzkzUjd0c05YMXZiak8xX2ZYSnhWQjZ5QWRrbEFabS16VzJVS2U3aWhpbm9nU0E3YndHRVYxX09tcTRIMF9YZU5ZbXRNRHBQTExJNWZ4ZnhWQndPNk9mYVVyOGR4Nzc4Mlkzdjl6WUJSa0NEM3E5LXdlZ1NpZEFIVktCYXB3VQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Has Oil Replaced Gold As 2026’s Most Compelling Safe Haven Trade?",
    "source": "FXEmpire",
    "time": "2026-10-26T21:19:28Z",
@@ -178,6 +196,16 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONUFPcHpOVUJESFg0UnkyM3h6b1VDNUNYLXl1bHIyM1VEbHVyckc1S3hqc0ZZVUoyZjI1Y3BzNGZUNDVHNEMtRGtFdFgyNl92MFdOVklfam9raFFqM25lQ3JDSG94RXoyaEpheDh4VUJSZ0JPVFh6Z194Y3A1YVVIX2pEVlIyd19TNm9LU2pQV0hJb2VpbFlRRmwxM3V4ZVhxWWV1QXRxcG9fY2RVRy1HYXVBWVdSa2Rf?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "U.S. Treasury Yields Turn Higher With Oil; French Bond Yields Rise on Protests",
+   "source": "WSJ",
+   "time": "2026-10-26T21:10:25Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSk1wWWp6WG1vZjdfYjZXX1hRU0lPVEl6WnVGbkozSXB5eTU5UHN2aG9nRHRpc1VMNlI5eF92YXNZNTFUOGFBMnk1anY0cUxFcG5YTTF0NFRhaGZ0VjkwbjNETmpiWkVXUHlNMmZJV014MlJ2LXRKZWlmS3E1N21wZHdnUXZybnJBRzlVSmdwUQ?oc=5",
+   "tags": [
+    "YIELDS",
+    "OIL"
    ]
   },
   {
@@ -408,13 +436,6 @@
    "tags": []
   },
   {
-   "title": "GE Vernova and ATI shares are soaring, what you need to know",
-   "source": "TradingView",
-   "time": "2026-10-26T19:40:45Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYWs4cHZjNGpXaUdLOGZDamE4MVVIOTRhVFJreWpQTkFOVFlUZHg0SElVN04zSUhPY05xcUFiTnZ1LTZ1WE1qZWRxMllmLWxiUmJ0VHdLcHMtRXVuSDE5VHMtMmtIcXd1RzdMV2p2WHg1NThhUks4YVltcERzSlozMG9QWjFqVjczSzZYXzdSX3RoLTJCQ2I0RnZUUHM2Q1c3WldfSVg1bEtEdU5xUEZRejBrWjFHV3dra2psVg?oc=5",
-   "tags": []
-  },
-  {
    "title": "DXP, Graham Corporation, MSC Industrial, CACI, and Powell shares are soaring, what you need to know",
    "source": "TradingView",
    "time": "2026-10-26T19:40:45Z",
@@ -422,6 +443,13 @@
    "tags": [
     "FED"
    ]
+  },
+  {
+   "title": "GE Vernova and ATI shares are soaring, what you need to know",
+   "source": "TradingView",
+   "time": "2026-10-26T19:40:45Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYWs4cHZjNGpXaUdLOGZDamE4MVVIOTRhVFJreWpQTkFOVFlUZHg0SElVN04zSUhPY05xcUFiTnZ1LTZ1WE1qZWRxMllmLWxiUmJ0VHdLcHMtRXVuSDE5VHMtMmtIcXd1RzdMV2p2WHg1NThhUks4YVltcERzSlozMG9QWjFqVjczSzZYXzdSX3RoLTJCQ2I0RnZUUHM2Q1c3WldfSVg1bEtEdU5xUEZRejBrWjFHV3dra2psVg?oc=5",
+   "tags": []
   },
   {
    "title": "US and Canada working on deal to ease tariffs on Canadian steel and auto imports",
@@ -477,6 +505,15 @@
    "tags": [
     "GEOPOLITICS",
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Copper Extends Drop as AI Stocks Weigh Ahead of Fed Meeting",
+   "source": "Bloomberg.com",
+   "time": "2026-10-26T18:54:10Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXNPdGpiZHFxRGtsZzJXa1NWQ2ZtRW1YMENlQ0JFWEtoTmI2S245dEdHS194RXg1V05veUVWOGl3TFcwNmZUTzA3dzY5akhZX01xNV94eWwxNkdtZEQ4bkdmSFhQQ252a1p6Q1dWUVllLXFyQWFkZzNFLXIydXJmdnFtVXQ5MG1tNjJuNkQxNFZfOFduOTQ4TmZJZHk5UzhJVU1SVi1jSmJ3aEowcFBR?oc=5",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -634,43 +671,6 @@
    "tags": [
     "FED",
     "RATES"
-   ]
-  },
-  {
-   "title": "Positioning For The Post-Midterm War Shock",
-   "source": "Seeking Alpha",
-   "time": "2026-10-26T17:51:43Z",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXdld0k1ZXM4VzNEcFhBTEFtRndDUkV6TWRtaFVxbV9xMk5YcjVjeWlSUU5pZkVrbUw2N0xsV1ZCV05qRkFWR3htQURKakN4MFVoejNKbVhyejVUWkZGbFpaOFdXZHBQa1hMWnU2bnk3U1h3dXBaclhJWU5zMGlZZFNKNG1sRGZkd0FZ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Mecca defence alliance members in Tehran to defuse Iran-US, Yemen tensions",
-   "source": "Al Jazeera",
-   "time": "2026-10-26T17:48:45Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONk1ubVptNEpFS3lXMGZ6TnEwaHN4aVh1c3ZhMkc3T0xoYzBXWHpJYXgyZ20tMmRhQTQ0X1ptZ3RJd2c0bjVuN19kaDRHS1hKdjM5R1dNbjN2Y1ZCRkhpdndVYXlibUFreS13QmN3dC1NcmJSel9aUHdBcEE0QUxUcTlHS2NkdGhwSjFGc0lGT2lIOWY5OW9aX2dNX3RLdTNvWEF3NVI5dGNIa3pnalFiT0hMVEFoZ9IBuwFBVV95cUxOUEFzeTRiSDlJa0pLZXVPUVI3NVRqSjVfSzlxMnJGQWNtMzNTcmdwVTFkR2dTXzB5MXRzLUF2ZEFqcHVyRDE2Z0IwaW94UUVDQTltQjFKbGNJd1RTRjV3UTBXY0NxQmh1aExGWEVaMnJscUZmRkJLTWJoaG1aU2drSDRMcnJYVXBVUVYxbmZ3MFpnYkFjLWp4b2dSMFdpdkphbE90UHFfZHBVUTJyQXVNcFVGV0JRM2REZ18w?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Pentagon identifies all 6 American troops killed in Kuwait amid Iran war",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-26T17:43:27Z",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORmp2d20zWUowWS1zZzhIR2hIaC1VLVdzYXgwMDFaMzB3ZHI0YzlyUUpTQmtLeGJDVTJuZnBsaVJvdFp5bUZxbXg5RkxpV1B3LU0weGpvU2FnOW90aE9sYW1CTEhZR3RITEtEUXVCZDQwVjlVZXhVc0hhckFnOVZoeV9nOVh4czlXNFg00gGQAUFVX3lxTE4zYk5MNVJ5RTh3OWEzSjUzTlZuLXh1Z1ptMVY2cVgwSVpBRDlYUWZQdzdFNWFvbDdITk5XWTk0WVhYYld3ZUhoWGo2UjBRbk5lTFJKM0NuZXpfVEQ3UkdfWmtmSmdMU2dDRmFYWC1nSGZNYVVOV3ptdzRPY19BaHJubWVvNzcyR1RGcFJkN0pKYg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate",
-   "source": "CNBC",
-   "time": "2026-10-26T17:42:54Z",
-   "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
    ]
   }
  ],
