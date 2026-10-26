@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T13:49:23Z",
+ "generatedAt": "2026-10-26T14:17:45Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -40,16 +40,16 @@
    "kept": 3
   },
   "investing_commodities": {
-   "http": 0,
+   "http": 502,
    "items": 0,
    "kept": 0,
-   "err": "TimeoutError: The read operation timed out"
+   "err": "HTTP 502"
   },
   "investing_news": {
-   "http": 0,
+   "http": 502,
    "items": 0,
    "kept": 0,
-   "err": "TimeoutError: The read operation timed out"
+   "err": "HTTP 502"
   },
   "marketwatch": {
    "http": 200,
@@ -59,7 +59,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -68,13 +68,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 25,
-   "kept": 6
+   "items": 26,
+   "kept": 5
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -83,12 +83,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 23,
+   "items": 24,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 26,
+   "items": 19,
    "kept": 12
   },
   "gn_tariff": {
@@ -98,7 +98,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 34,
+   "items": 38,
    "kept": 12
   },
   "gn_sanctions": {
@@ -128,6 +128,24 @@
  },
  "items": [
   {
+   "title": "The art of the tariff",
+   "source": "Politico",
+   "time": "2026-10-26T14:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYmJEVGwwM2Jya3ZuQkVhZDdncnJHZVc2Q3pwSndvMUFUU2tBVF9CR0oyc2tydTR1bS0xakozOU1ZU2U1VUtCdk9Tb2VWOVA4MGpvNXNmVGlkRExYb056a0l4Y2dPdGhqcGViUUJiNVc2S2kxY3RBdWxJbktDQTVqU1Y5RjBKSngxeXpheV91bnJEeGg0YlE?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Volodymyr Zelensky says Pentagon has not yet signed off on Patriot missile supplies",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-26T13:50:51Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdG1OZDR1X0Zsc0VEcEgtNzd6eUdnendGVlB4cjVtNjZLVzVralBUb01oVzRZRDVhUTBjUHdfYjN0MVY0WWlISE9SUzlrVTJDb3o3a0JudDhUUkVSbFdCSEJvdTk0Tzdrc3ZVMXZCYmE3TWpqWS1GamVZYmVDSjFVTEpXQUZMZnJpVGc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "United States Dollar Index nears 102.00 as traders brace for central bank decisions",
    "source": "FXStreet",
    "time": "2026-10-26T13:42:03Z",
@@ -138,6 +156,15 @@
    ]
   },
   {
+   "title": "Gold SWOT: Northern Star is open to improved Gold Fields takeover offer",
+   "source": "Kitco",
+   "time": "2026-10-26T13:36:32Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcWhLZndlNTdacGFGYkI4ek9pZUx2b0s2VUxUVEdRUU9VODVQQTFBTXk5Nk5Vb0JNWC1GMC0yd1RsMkI4N3Y5MWhnS0ZLUGJuREIySGZNb0JaZUxubmNfRjE0dk9ETGhYQTAtUXEzc0NKWGtRV0VNR1ZpUzJZTjFWWjAxQ0pMR21rNkF6cGNaV2JobGw1QWh6Y0lWZzlTTDBPUWsxM1NDbUg?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Netanyahu touts Trump endorsement on eve of vote, suggests they may restart war on Iran",
    "source": "Reuters",
    "time": "2026-10-26T13:35:55Z",
@@ -145,6 +172,13 @@
    "tags": [
     "GEOPOLITICS"
    ]
+  },
+  {
+   "title": "Stock market rises as Wall Street looks to rebound after difficult week",
+   "source": "TradingView",
+   "time": "2026-10-26T13:33:00Z",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTnNEb1o4dXp4U0xQdy1vTHZlc2FEanNHQUMtT2VHcVZPbjJMblBXM0NrazhLS2JqWHA1V3F6TjFqVVFHYnhaMTdzNVk1Q0xIZkE1d0FqQmdqN0w1SkpZSFVZMzhyTTZZVURjVmVHcjF5WXc5dm9CZ2xMZUc2RGQ5Snc0eEZ6Rkh3WVFZajZfWVlmM1FOVHFWejJqbHowZlpuWm9TVUdoQ3Y1ejJmdUp4SnREZ2FHOGN4d1kxQlhMdEExM1diTmJkNUhqUDJiTWM?oc=5",
+   "tags": []
   },
   {
    "title": "As Trump brags about U.S. oil and gas company profits, his stocks gained millions during Iran war",
@@ -206,6 +240,15 @@
    ]
   },
   {
+   "title": "US foreign aid to Israel highlighted in campaign ad in support of El-Sayed",
+   "source": "Al Jazeera",
+   "time": "2026-10-26T13:20:23Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Israel expands expulsions in occupied West Bank to cement control",
    "source": "Al Jazeera",
    "time": "2026-10-26T13:11:08Z",
@@ -252,6 +295,15 @@
    ]
   },
   {
+   "title": "Ukrainian who fled Oleshky views US-brokered ceasefire with deep scepticism",
+   "source": "Reuters",
+   "time": "2026-10-26T12:50:20Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRnZGd0pLWUhOSFdyNDlPRkNQVG9fV1N1RWh3amZjMGExZHE1dS0wVm11cVc3cUd6YVhRbXdMbm9ZWVNrZTVqMmt4aFFUbG03RTF5S1M0eTdUa3hSWEZhcFAxa2ZKRi1EcEZEQkw1azFHeWM4YTBucE1fZlVmSG1ZMUhXYXlYcXdLX3V1M2NwR1hkNzZ1SE1vOUJTMFF0bnRvX2ZwZkdQZWNiUU9qa2tURk5tZUhVQ01KNUN1NU1ZWXh3dw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Gold Stalls Near $4,012 Unless the SPDR Trust Drops Below 999 Tonnes",
    "source": "FXEmpire",
    "time": "2026-10-26T12:50:15Z",
@@ -265,6 +317,15 @@
    "source": "The New York Times",
    "time": "2026-10-26T12:47:37Z",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd05yanVUalZUaF96N3JPYjQtOHdSX0g5SXhxZ08xV1NYRk1yN2lwTndDMXZXR1NUcXFmdmVsenlIbWRMalBfXzFtSk5tVl9hdjgxQlhDU2V5VzJPTWlEek04c3lnMkt0bVFXZ0Q2a0praUUyV3BtbTlhaVBoMFRielVkV1pTYnlPMGVod1ZHMi0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "In his own words: Trump on gas prices and energy costs since launching the war with Iran",
+   "source": "AP News",
+   "time": "2026-10-26T12:43:00Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVloTVpZeHZsZHpoNVdPZFQ0X21mbU5QSnY1UmczNVNJTG9iTmhMSlNoaVM0YUVwWnQzNjIzb3ktV1JRUEp5VVR4bHdCOGdHUGZXQ2RzMzAzLVlrZ2M4OVhjOUoyOVJtNEplUEc2YlRCTE1YWV94aUVhZ2dybUJ2SkoxRHE0ak5ObVBnVmxmTWNIaTNPT2VCM21pTHA3N28?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -421,6 +482,15 @@
    ]
   },
   {
+   "title": "UN-commissioned experts say Gaza ceasefire has not stopped Israel from committing genocide",
+   "source": "AP News",
+   "time": "2026-10-26T11:42:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZnd1NVJUWmc4MHhtYUdaTUc3VzBGSkFET0RBbkdTM1hJZFRQWUlKOVA0Qm9uUTUxTi1hNGROUU1MWnliMjVrLXdzRXlxd0xjM1NBOUZOS09pZWRaR0YwdmNxcWlJYm5jZkdJSlJtV1QxUWhsZENVMGdPcHNHSUZjUi15Vl9mclBmdWtaZjhqclVCaDVpSlBN?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Microsoft, Alphanet, Amazon Earnings Meet Fed Rate Decision: 3 Charts To Watch This Week",
    "source": "TradingView",
    "time": "2026-10-26T11:37:01Z",
@@ -502,15 +572,6 @@
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY0pKVWZRNTJVeDB4NHN5ZzBtMDFIczZILTZOZ1EtN3F6bEZxRmtPbjdpMEpZck5NRS1wVHU4N3ZaaEo3dlQzTnVNcUxtOW1MdEgyV1IxWXFmTHlTQndHdGNzcWZnbVlZM1BsMFlKYWh4ZTJQWDlLR2dxVzg3Zkc3MEJOMlM1QW9OSW9DODUycFNOVEFVX1g2REY1RTdhbTFjQ1k0VU9paW4xSS1OOTVPcmVyakRFdDdZUUUzQjhfLXFJTnQ2b3lobmxlZ05MQU9UMkRMbw?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Ukrainian who fled Oleshky views US-brokered ceasefire with deep scepticism",
-   "source": "Reuters",
-   "time": "2026-10-26T11:16:09Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRnZGd0pLWUhOSFdyNDlPRkNQVG9fV1N1RWh3amZjMGExZHE1dS0wVm11cVc3cUd6YVhRbXdMbm9ZWVNrZTVqMmt4aFFUbG03RTF5S1M0eTdUa3hSWEZhcFAxa2ZKRi1EcEZEQkw1azFHeWM4YTBucE1fZlVmSG1ZMUhXYXlYcXdLX3V1M2NwR1hkNzZ1SE1vOUJTMFF0bnRvX2ZwZkdQZWNiUU9qa2tURk5tZUhVQ01KNUN1NU1ZWXh3dw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -616,72 +677,6 @@
    "time": "2026-10-26T10:58:00Z",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaXRIb2dhYXhSNzBrVkxLc2RaSHhhN3haRzdIX1J3YS1lZW1yZFcwN3VWVEFoVUxIV2dMVE85c0FycU9Rbi0xRm5iQkdSZjlEUW1mdzJkbThzQlNzUnk5Wm1Ob2ZlbkV0UVJoeENaT0ItWUlsNEVZRHY5N3hPZm1Id0k1UzVPMVdxa2ZycVJzanQ4MUNJTUlQY2ZSUGFiQlZUU2tfaklPSTZSZlFuWW1qa2c5SjZxMV9hVmtBVVk4bmJ1akU?oc=5",
    "tags": []
-  },
-  {
-   "title": "Trump Says Canada Is ‘Willing to Give Us Anything’ as Michigan GOP Rep Raises Alarm Over Auto Tariffs — P",
-   "source": "Benzinga",
-   "time": "2026-10-26T10:50:47Z",
-   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPNWtia1RMZHFrVVMxcmdpaXpjbndRbDkxVWRQMVNLVmxBb2VfQVJUTktUNzd5MmlxV2djNl9GZFVuekJieHRyUFB0SDlhZ2RSakVjTVFCb0t2X1ZYWWczNm9uN05fTXk2Nm1icHR6Nlp4bEJOM2x1MkRDVVFfT0FvOE1Pa09iYXlPRjJ6cGViUUNyYWR1WXdHV2RpVFllZnltam9pV2pMRzFpT29JUW9kUjlLcmdPN0tmbUhkdGIyVnVmSUs3b3NHWFdHdFZlbTQ2SDJKY2VKam5wSV95YjI0aUtaSWNVZkQweUNkcWNGbjFRUHNjaTZpMTc2SzNlM2ZKODZRdF90SkhBX2tsdGxWOVUtd0pxbVEwUzNLRG14ZlI?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "In his own words: Trump on gas prices and energy costs since launching the war with Iran",
-   "source": "AP News",
-   "time": "2026-10-26T10:50:00Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVloTVpZeHZsZHpoNVdPZFQ0X21mbU5QSnY1UmczNVNJTG9iTmhMSlNoaVM0YUVwWnQzNjIzb3ktV1JRUEp5VVR4bHdCOGdHUGZXQ2RzMzAzLVlrZ2M4OVhjOUoyOVJtNEplUEc2YlRCTE1YWV94aUVhZ2dybUJ2SkoxRHE0ak5ObVBnVmxmTWNIaTNPT2VCM21pTHA3N28?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
-   "source": "TradingView",
-   "time": "2026-10-26T10:49:55Z",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOLV9FUklhcWhDZTFPZVJ3RVJUWXZBbDlhS1AyRTB0MEFndERYUnd2N25acmkyeG5YQ29sRmJNbXFUdDBOd0pOcmN5c1pyZGxaMzVRdEFnTDhxalFYdktra1V2aFFhVnEwQ2c5Ui1ib1Q3bDI1cXhIZDlWQ3FYQ3BJWUY4MEplbkNyT2hNa0xTUmNjTmZnc2pVU0pfN1MwbzRXN3FsRGY0dXlYSHpDQXEwTzU4dF9tTzdnT3dqUFB0N1J5bVlUdk5RVDh2eFBJQVhzQXM1azdlMzZQdDVmWHlUX3h6TQ?oc=5",
-   "tags": [
-    "FOMC"
-   ]
-  },
-  {
-   "title": "Gold News: XAUUSD Gets Fed-Week Relief, but Inflation Keeps Bears in Control",
-   "source": "FXEmpire",
-   "time": "2026-10-26T10:42:17Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNDd6eHY4S0Z4aHRCOTN6VV9laXpRbmFPN3I4LUU1RVIyYjB0cXRsOWdUN2hncUFrMVE2MnBiOEE4bXpTbm1XNW9fTEF0YTcyX1paYmMxbU1ucEgtSXpDTkFSU0ZybFFTbkJIRGNPRXBGUlBfRUdvWVhsVGtIdW16amFKMUlhbHoxR0Rrc25hWWdWbFlZYndFbW5LYVYxcWNPWlFrVW9keVVxN054eW02MmNpQmRkWUZTY2pQb0xENlN2U0U?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Saudi-led coalition says it struck Houthi missile facilities",
-   "source": "Al Jazeera",
-   "time": "2026-10-26T10:41:45Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd1hTSTAxQWN3bDhQbmtGYjUyNHUtYUhScXhSMFNIUVYwaV83ZHI4S0E1bG9kWWFWRjRrcENhQlVxZ25YZExCek52eU5RWlk4NjRxUUpsc3YzazRtc3NncllKekNRUnZwbmJjenJhNVhfUk5PYWNaTlY3U2V2dFpsM1pyWjg2YmxwcE1TR0h4TlBqMjJCanhmWklITHlmYU9HQ2pMMnlvemdkQdIBqgFBVV95cUxQd1hTSTAxQWN3bDhQbmtGYjUyNHUtYUhScXhSMFNIUVYwaV83ZHI4S0E1bG9kWWFWRjRrcENhQlVxZ25YZExCek52eU5RWlk4NjRxUUpsc3YzazRtc3NncllKekNRUnZwbmJjenJhNVhfUk5PYWNaTlY3U2V2dFpsM1pyWjg2YmxwcE1TR0h4TlBqMjJCanhmWklITHlmYU9HQ2pMMnlvemdkQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "UK autumn budget preview: Can Healey calm markets and change BOE rate hike bets?",
-   "source": "ForexLive",
-   "time": "2026-10-26T10:40:25Z",
-   "link": "https://investinglive.com/news/uk-autumn-budget-preview-can-healey-calm-markets-and-change-boe-rate-hike-bets/",
-   "tags": [
-    "RATES",
-    "CENTRAL_BANK"
-   ]
-  },
-  {
-   "title": "Suwayda remains in stasis as US signals differences with Israel on Syria",
-   "source": "Al Jazeera",
-   "time": "2026-10-26T10:36:48Z",
-   "link": "https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
   }
  ],
  "fedCalendar": [
