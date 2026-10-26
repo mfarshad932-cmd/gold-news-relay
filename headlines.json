@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-10-26T08:37:46Z",
+ "generatedAt": "2026-10-26T09:06:06Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 0
   },
   "fed_monetary": {
    "http": 200,
@@ -22,7 +21,7 @@
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 1
+   "kept": 2
   },
   "bea": {
    "http": 200,
@@ -43,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 5
+   "kept": 6
   },
   "investing_news": {
    "http": 200,
@@ -67,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 36,
+   "items": 23,
    "kept": 7
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -87,17 +86,17 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 15,
+   "items": 17,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 32,
+   "items": 37,
    "kept": 12
   },
   "gn_sanctions": {
@@ -107,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 6,
+   "kept": 6
   },
   "gn_oil": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 1,
+   "kept": 1
   },
   "gn_cbgold": {
    "http": 200,
@@ -127,6 +126,96 @@
  },
  "items": [
   {
+   "title": "Trump’s Trade Chief Is Trying to Sell Americans on an Unpopular Product",
+   "source": "Bloomberg.com",
+   "time": "2026-10-26T09:00:10Z",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYVZfX1VJUmVFLXo1YlhraW9JQWpOaGpNRjZpRy10aGRSRFpXQWJWa3R5Tk1YXzNvanpVYWNzRzd4Tl9taDhqOHBPSy11TVgzZE5UdWtSV3QtWnlMMWRCc2tSMF9DaVFLaDk3TFotZi1GM0pUcXoyb25YTkxsTU53aHJlZUxxVnNmUDRZZ0lzbllvWG43N0tJRFBVU3JySG9mem5vRE9URTNvSW9VaEkwX1c5SUVRYXdRZ2pjUk84TGN2c2FXZlpNa1hqOXR5LV9zYnAyOS0yMGk5WXhWMlhxM3p3?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+   "source": "ECB",
+   "time": "2026-10-26T09:00:00Z",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+   "tags": [
+    "ECB"
+   ]
+  },
+  {
+   "title": "War Is Interested in You by Gideon Rachman review – are we on the brink of world war three?",
+   "source": "The Guardian",
+   "time": "2026-10-26T09:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc2VNak8tSHRZbzRTdkFmN1k5TnZPWnBXbExHQWQzektrQXdqVkRRdU1YTjF2Zy1PSlVsV1VaZnphanplOV9yNHpvYktQdEFRd0hiYk82Wi1XT2N3OTZZVVNZa05FTU1oZVJLQ1JnaFJHMk5tZUgyaWJZb0ZyMTJXNFZ0SEZ2NHFoS0l3U2R1aC1qU3hIY1dJMnRiZ0QzN0NsVDktZXpFc3pFQkoxRVh2N2t5SndIWk03RzZFeS1FeFdUdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "‘We don’t need 50 more data centers.’ Arizona AG declares war on AI.",
+   "source": "Politico",
+   "time": "2026-10-26T09:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORU1tUnUwcnFscXhSM1FsZzdLbUVSam1CTzh3dmkyanFHUHVuaHFvQm51TnpzZWpkRjBaSk5pelJyOHlFVDRmd1FKQmFXeWdFT2lRVnRIeWM1YUtIdTdxM1VDVm9QdWlGd2pOREx4dzVPc3pkLXJNdDlDS0t3cERVV2NCOXNGd3dSMC1fczFpbUpFaGhVTkE2MFRGZFE5RXl3OGNTN3hVTTJSS2R4cW1mbWxB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump ‘War on Fraud’ Stymied by Depleted Expertise, Resources",
+   "source": "Bloomberg Law News",
+   "time": "2026-10-26T08:45:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkZDSmp3aHd6SE9TeThBVDZPemt2ZmdkRTFxeUxlc1p3ZGJZQ1dxa2I1blFSejg5TDdxVThiSGVncElnOHdROF9JQjVRYjJGTVNJdVVkVTBuVENtbWZTcUxxRDh2S3BKMVY0S0wyNXg2SEY1RXNiU0ZCX29OT2ctNEExNDRWSTc5QjRCdXNhekh2UHI3ZFVmS1NhZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Do Palestinians in Gaza expect anything to change after Israel’s election?",
+   "source": "Al Jazeera",
+   "time": "2026-10-26T08:43:39Z",
+   "link": "https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran says it’s prepared to go back to war amid threat from the U.S. and Israel",
+   "source": "NPR",
+   "time": "2026-10-26T08:40:27Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTWF4R1g5cjkxZXNYdDVVa0N4SWVoY3FiOVVsdnJ3Nll4Si1lbVNnemhBQi05aWF3NEllLWtKTHM5Qlh3bGRmcVhiWXpFZWt2VW5iRzJCN1dzNFlqX09sVWZsTG81OEpMa0tKbnZ2T0NRMWE0el9kYkQxNjhyWVE1NkF4RGhGVUNnV1hHZGo1eUZvZUZ3c01zN1Z4WjVLNmhJdlEtU3U4VlU2SHRxOFUyeG5LbWJzaDI0X2xVel93?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Oil Falls Amid Diplomatic Efforts to End Iran War",
+   "source": "WSJ",
+   "time": "2026-10-26T08:40:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWk9kRWJfSkYwUzNmQ3pfOUVSU21YWjFpWjJDb3YydFREdDBHSF93TUhjYTkzaXdXQkExcTdUZEJCQ1A3M2FnWG04NFpTaXBQdFVFdnZzOUhGakFrVlgyNWNZV2VwUlFiLXp6TVdkelRhU0tUWnNqQWlqR3NfcS1fY0FVZkNkYzR0RGVoa05GMmJQM1ZldUFPcmstazJVM1dTS2c?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Stock index futures rise as Wall Street looks to rebound after difficult week",
+   "source": "TradingView",
+   "time": "2026-10-26T08:38:36Z",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSGRqS25MaUlQYVZDYUxTQ2FSQUcwNzlNeUd4dG9NODc5MmV1V0Q0ZWw1ZlhpMWZZaUtGd0hxTG9aVzVxWEpOY3pSWWp0Y0d6bnREcEVna3RNUTJKQmNYMlJJZmVJb2dDWlZ5Wm96dkNrV2UxMGNuVlFqTjQwMVhvUl83ZUFKY2VmQUo5RDFGNU13YXZIcktJM0tDbHZOMlBEekV2OXVKa0ZkUTZhbF9rYUxpRE5MNzk4WGZKR29WQjhNaGRkamZ2M2txdjZOVDZqdVpqU0JfNA?oc=5",
+   "tags": []
+  },
+  {
+   "title": "Trump Says “We’re Making A Freaking Fortune” From The Iran War’s Oil Spike. Here’s What The Economic Data Actually Show",
+   "source": "Yahoo Finance",
+   "time": "2026-10-26T08:36:32Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmpLSHRWU0FvX1lYS3hkYnNubm5KQ3RuaUcySmZuTExXR1FkM3FCa0M1UnphdmpabnFZa2NwNFVWTU1hU1ZtOTBhcjh2MXBhUkdUanU0ZUxRZHRYYlMwSm1LcUkxS0t0aVEtekRKRXltQllJX1h2R1QxMHJZekljSjdhMm5DQm5WYzBXRHVkWWJNaG5VczJF?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
    "title": "US Dollar Index Price Forecast: DXY holds bullish bias above 101.50 ahead of FOMC",
    "source": "FXStreet",
    "time": "2026-10-26T08:27:41Z",
@@ -134,6 +223,33 @@
    "tags": [
     "FOMC",
     "USD"
+   ]
+  },
+  {
+   "title": "Gold Hits The Floor and Buyers Come to the Fore, but at a Loss to Score",
+   "source": "Investing.com",
+   "time": "2026-10-26T08:25:00Z",
+   "link": "https://www.investing.com/analysis/gold-hits-the-floor-and-buyers-come-to-the-fore-but-at-a-loss-to-score-200690233",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Opinion | U.K. Labour’s Ceasefire in the War on Gas",
+   "source": "WSJ",
+   "time": "2026-10-26T08:11:03Z",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeFNuSXZVMGluN0FBQS1aUm80YmFUaGZDVm85OWt4UVBGYnpOREhTV1Q2OWhBZ25pYWVES3RQZG1YSTZKZ0RBNW5BVHpOenJ4bWprUTNsREF6UjlyMjZSZktzTHVUNmJkY05ua3dBa2pxTVRCazJseGNwX3Z6a0t2dERzZ0tQdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "See How Flight Routes Are Changing to Avoid War Zones Around the World",
+   "source": "WSJ",
+   "time": "2026-10-26T08:04:09Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlB4dVplUTFDQ25acHl6Q240Uk1aWTAzWDB5WUVZeXB6eTJZZVgwZjZCcVUxbmtOdDlsdUxLUVdCRTV3OXJ4eEpQV3RzNmxqNjcxMVd5MTFrb3FNVUFKTjFJUl9rWnJLWW83VUpJRHJPTzVqZFNmV3BodnpOcWRPWV9lN1ozXzNXRU1BckV0RF9LSWxFcktRelpyWktqYklsTTZkbDEzTjNndUozTmNIWVNpR2I3VjZzNlFfQnpIMFlIUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -503,15 +619,6 @@
    ]
   },
   {
-   "title": "See How Flight Routes Are Changing to Avoid War Zones Around the World",
-   "source": "WSJ",
-   "time": "2026-10-26T05:04:03Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlB4dVplUTFDQ25acHl6Q240Uk1aWTAzWDB5WUVZeXB6eTJZZVgwZjZCcVUxbmtOdDlsdUxLUVdCRTV3OXJ4eEpQV3RzNmxqNjcxMVd5MTFrb3FNVUFKTjFJUl9rWnJLWW83VUpJRHJPTzVqZFNmV3BodnpOcWRPWV9lN1ozXzNXRU1BckV0RF9LSWxFcktRelpyWktqYklsTTZkbDEzTjNndUozTmNIWVNpR2I3VjZzNlFfQnpIMFlIUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Russia’s War on Ukraine Is Straining Food and Fuel Supply",
    "source": "Bloomberg.com",
    "time": "2026-10-26T05:02:49Z",
@@ -573,122 +680,6 @@
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUlYtMHNPcjI4MnNlUHRjNTUwQlZlOTBJenVLbHZrSWlIS2tPRC1namRETXBDUE9hLXVPbENETEp2V1VzZE1GQ1BKSzBFeVE5dE0wbS1GX18xZU1sdHFpQ29rTy1WWE5yZ05uSWM3em40cVJIbldZUkZnMldtemJCRDJ1V1NIeTBUaEVuWWpxcVhVTlF3Q0lKbVp6SUJ1SHBvN2xmSzZYbFA2WTZ6eWNwQi0yOFF2MGsxRzhiNDRNbzN2N1p6d0xfVS1HRWU?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "WTI Forecast: Dips below $100.50 as Middle East risks linger",
-   "source": "FXStreet",
-   "time": "2026-10-26T04:59:38Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdGx6UlJMRjBpa2NLeUM4UGNGXy01c0JxeVZVMDE3SmhBYlNPU3ZRVWJ1cXpfYjZHQzY0OHdHc2wwbTV3R1dRR1M1TVc5YWFuTnpJUlEwX21jN3ZGeHZ1T29rb0Y5bEZvNzk4RmRwR0ZJbE9OUlZhdGxhb3ZXOXNFZ0J3TVhRZWI0aWtFb1pHXzlZR09yTnE3T0FQNFVTRzEtNzJNQm1YMzloZS13RWp3YUQ3bTJRcW5Cemtj?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Gold Falls As Rising Oil Prices Reinforce Fed Outlook For Higher Rates To Last By Kedia Advisory",
-   "source": "Investing.com India",
-   "time": "2026-10-26T04:40:05Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYXBOa2FKaC13cG10VExFNmJwRWJ4Q2JObE5VaVhpQVVjVnZoQzM3R1VsT2NIMnJBWXVveS1WRVJQaWJDUWtCemRtZ2tSczlselNFalZVMHZ4NnQ3Tm9OZlV5WUpNd2ZQbElRN3VkRUFMVEtESTUwdVpHZTlmNTVJT0ZyT0YyMXphNmhtdmI4a3JNRmgtd0ZFOTFXbXA4V0I3NkJVME9tTzAyVlBJaUZtTE8tU1l3ODFhc2dlZFpDbHRGSFN3enc4VloySlRjQQ?oc=5",
-   "tags": [
-    "FED",
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "China’s domestic car sales seen rising 2% in 2027 after 2026 slump",
-   "source": "Investing.com",
-   "time": "2026-10-26T04:36:36Z",
-   "link": "https://www.investing.com/news/economic-indicators/chinas-domestic-car-sales-seen-rising-2-in-2027-after-2026-slump-4971380",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Gold price in India: Rates on October 26",
-   "source": "FXStreet",
-   "time": "2026-10-26T04:35:42Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVFlOS3I2bXlld2hyakN3Y3p5Z2o3TGZXc2x6VlRZNEhmdy1XX0xLRFp2VXl4RVVxY3BhMmRiMFMzTm1pM2M0YkstM3lwdmNhZElER2dFV1VnNDRjUDBKdFY3dXlVdFBiXzBhMEo4elIwYkVPb19kYXNOVDFjRWJ5SGx2V2oyaGt4eTNSc0NvT0VkaTJiZk5hRzF3b1ZYSnpOSThkeFRR?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Oil drops from near six-month highs on hopes Iran war hostilities to ease",
-   "source": "Yahoo Finance",
-   "time": "2026-10-26T04:28:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRjNIelN3bmZMUWt0eHdNZFZlR3hFbndhSHhjUG1WdDBLaVJhc2NPZ0hxdVZCQlJoVkczUHRyQUNjMmxmYW9wMWRZaElTbm5wQzlCUE83TzdJTWkxZVNMbWZPVVRIeWk4WUhnaGt0VnB6ZGw5VWdNbkl2cGY3M0ZNdE05SlJBRlNt?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "China National Team ETFs Draw Most Inflows Since Trade War Rout",
-   "source": "Bloomberg.com",
-   "time": "2026-10-26T04:14:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc1VzZUdFMU1JMGduUUlIVHEtUkFzZnZkVDhlMGxsRERySHVxTFZCTW1QOG5sRkhjd3RpRVFRODljZTVSdFc3d0JwSGlXVVl3dV9ZbUgwcVRGd0tub3NQTjBJMlY2Qk04Nk1EcEJtdGllSHlGZDUyNHZjSVUxMXg2M3B3bThkcDFzS2dLd0JfNFFmQnVvdkJEV2l0bkRyQ2hEc01GMWxnVDRlVzJaQkdRdjJhMWo?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Currency markets subdued ahead of pivotal central bank week",
-   "source": "CNBC",
-   "time": "2026-10-26T04:10:21Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcGFvb3AzYVl2dldBb1ZwS3BWZHV0bEloZkxYSVBmalpnM2F0ZGpGTmlibE1iOXBPUFBMRFVyYkJNRDRfMVZZcEVualZCdFFyWFVrSTBULVpHemZRU2ZBUGRCMlFoQUNoNFhBTEdDZGwxcWs5Nm5Da2lZbVJacHctZDdWWWFvaDFKX19qZC1xWG5BQjVIWDR4emJwcWpHZ3hxdVHSAaIBQVVfeXFMTXBhb29wM2FZdnZXQW9WcEtwVmR1dGxJaGZMWElQZmpaZzNhdGRqRk5pYmxNYjlwT1BQTERVcmJCTUQ0XzFWWXBFbmpWQnRRclhVa0kwVC1aR3pmUVNmQVBkQjJRaEFDaDRYQUxHQ2RsMXFrOTZuQ2tpWW1SWnB3LWQ3Vllhb2gxSl9famQtcVhuQUI1SFg0eHpicHFqR2d4cXVR?oc=5",
-   "tags": [
-    "CENTRAL_BANK"
-   ]
-  },
-  {
-   "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
-   "source": "Al Jazeera",
-   "time": "2026-10-26T04:05:44Z",
-   "link": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Amateur prospector finds $150,000 gold nugget in outback",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "time": "2026-10-26T03:58:26Z",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQekttbkJJZmlqOXpkQ2JNdmc1RXhKOWJ3cUpjVW5fVzlUREE4V29Zd0FiV2lsN0tBNVEtb2t1QWE3OGlpRHBCT21IZVZpMXFEZUdmbVJlZ05xaU5vS0hIQzJtX2UtV0d3c19tTktRNFd6Z3p2Z1V0VEtzXzdYRUNFWHNMUXlQOExTcHc?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting intensifies",
-   "source": "Reuters",
-   "time": "2026-10-26T03:48:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORlYwOVl3Z1hlOFdacWVmeXZVNnVhejFlWDVOR0toczJ2MWNjT1FMRWZjVU0xd1hGaGtzNU9VcGdYSnR1Z2NVQjFfRVpKallEcEVuTzNweldmeEdYOE05UXFOejl1ekR1ZjlxUlhHT1NLa3J0cmZYWUxhSEs2eXNGb2xNNUJycVNWci1ZVzZUOXBSNGc0bzRJNWVTTnVlWHhXRlBrLWRTOV9HbmlJTmVfZk95N0FIQnBLQTlTa3N3eFBaVDJMWGptVU1VN3A?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "investingLive Asia-Pacific market news: Brazil ETF slumps on Lula win",
-   "source": "investingLive",
-   "time": "2026-10-26T03:45:18Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZU9lN1dDZUZLak9iaWZTeXBtXzVjWk1XanhmZGRNUFJGNEgydmtEZGJyRm5qRG96Y1hfME94YWlHSlZmMFA2LVY2TjlsTTlNcmtkQlhNT2xBaWR1aFljbzZMSlg5cmVKaW1ITVUtbVoydVBidmt6MTFiTzNsYUUzYl9ycEFBQl9NenNKQ3ZUVkNlOUhQXzl5SmE5YWx5LUlaNmc?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD"
-   ]
-  },
-  {
-   "title": "Gold Price Forecast: XAU/USD gains at start of Fed’s policy week",
-   "source": "FXStreet",
-   "time": "2026-10-26T03:26:05Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTmppZ3ZXUk9zWHJfSTJxMkphMWpVTk5DQXN0cWthMjhCWFowS3FwbXlmS21zb0ZHNDBxWGpMb2ZlUmQxVktDMExySFVZUExtRk1mMHoxRlRUTnpEcnJ5MDlPZFJETHNUUkF1RmVualNoVmJsd1BlclFzTFhKeHhYY1ZKZ3pIYW8yM3FIWTlRZ2lGcjM3WFpqM09ac3MtWkJSNDhQbW5SalZHM3J3d2c?oc=5",
-   "tags": [
-    "FED",
-    "USD",
-    "GOLD"
    ]
   }
  ],
