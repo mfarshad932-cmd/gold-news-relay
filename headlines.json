@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T02:06:09Z",
+ "generatedAt": "2026-10-27T02:34:30Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 28,
+   "items": 30,
    "kept": 3
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 3
   },
   "whitehouse": {
    "http": 200,
@@ -81,28 +81,28 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 30,
+   "items": 34,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 24,
+   "items": 32,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 21,
+   "items": 18,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 39,
+   "items": 37,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 10,
+   "kept": 10
   },
   "gn_yields": {
    "http": 200,
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,19 +126,64 @@
  },
  "items": [
   {
-   "title": "China September industrial profits jump 14.4% y/y, rebounding from 4.2% in August",
-   "source": "ForexLive",
-   "time": "2026-10-27T01:49:19Z",
-   "link": "https://investinglive.com/news/china-september-industrial-profits-jump-14-4-y-y-rebounding-from-4-2-in-august/",
+   "title": "Saudi-led coalition intercepts four Houthi drones targeting southern region",
+   "source": "FXStreet",
+   "time": "2026-10-27T02:30:56Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON1IxeGpSaXJqcWdudmFTWk5EN0NGUWFkMnVXT0JsclVlMGM2TFhHVE9sc1RPZ3FDWjljNWtzSzgyZmRPblg1V3VCZTNLT3ZPcWVkaTlMWjRFRExFVWFiZWJQTjdET29TZkhSUW9qekhlMkozMnBUUXhCVDV5OVNtOGdIUTlhZXdtNDdPOEdtdmVITWItU1plT1RWQW5iZlR1UHpna09mVTkteGJjOHF6ckh0enVManc3UUE?oc=5",
    "tags": [
-    "CHINA"
+    "OIL"
    ]
   },
   {
    "title": "China industrial profits post strongest growth in three months, rising 14.4%",
    "source": "CNBC",
-   "time": "2026-10-27T01:45:58Z",
+   "time": "2026-10-27T02:23:29Z",
    "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Opinion | Buying a cardboard box should not require a senator’s help",
+   "source": "The Washington Post",
+   "time": "2026-10-27T02:17:34Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnVMTE5TVTVISEY3b240VWc2RjVZV2pQWEdRSmpYUjZNUG5OLVRYS3ZNTUZDdWdmUTV1MzNtV284VVRaVm5HRUNfX0ZJcTduMEZjX3JoQzJtOTFwZ21oX19tSUE2WHRGVnVnbVBQSmNwaU1vZWVoZ194ZlNRYmIyT1pFRndhNzlaWnJqTEFVbUFMSi1UTGZfY3BINS1kSFRJQjZj?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "America Needs Canada’s Aluminum. Trump’s Tariff Exposed Just How Badly.",
+   "source": "WSJ",
+   "time": "2026-10-27T02:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jbzVnMndsNlQxclpucDhubXk1UlpfVVNoc2s0RVUtbS0ycmw4bURxZ25DV2lSZ01iUVVxOEVwc09GTVpLM3JOa2prei1vWS13aXhkWTFwb1JzNnpUS0NxZjJTLU83LTQzd3FqN2FteXdsbmtI?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Russia, Ukraine begin localised ceasefire to allow for humanitarian operation in Oleshky",
+   "source": "Reuters",
+   "time": "2026-10-27T02:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcmNDbG5UNU9BQktvTmJ4MW8yYWptYlVPd2ZRYUhZakItODJtZ2l1RHhOeFJEbGZfbDAxYVI3aGpYU3RyVEtLLWZHNHE2SkZnYUk0V1VsWHAtR0p5TkhBNENFMmpJTmU5OHI0bld6VEtuV3VCU29CdVVSOE1aRGFOLUVyVEhSMXNUbGdoS2tqdHl6RElKajZmbUd4S3RHSmNqdTFhSTJiTTZUcDc3YV9QNXdsT2oyS1ZfeU9VaDhjMzhPRHAx?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+   "source": "BBC",
+   "time": "2026-10-27T01:57:48Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43cng1RGt3STU5RnFCQTdDSERZMV9SaUpSMEhOdHBZbDZiSjZNZnlBWFF0VHZSTkhRWnhjSkhhaEhPeEE2VWZuSFRLVGlzZVMxbEg5Vmt1U1phOGM?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "China September industrial profits jump 14.4% y/y, rebounding from 4.2% in August",
+   "source": "ForexLive",
+   "time": "2026-10-27T01:49:19Z",
+   "link": "https://investinglive.com/news/china-september-industrial-profits-jump-14-4-y-y-rebounding-from-4-2-in-august/",
    "tags": [
     "CHINA"
    ]
@@ -209,30 +254,12 @@
    ]
   },
   {
-   "title": "Opinion | Buying a cardboard box should not require a senator’s help",
-   "source": "The Washington Post",
-   "time": "2026-10-27T01:11:41Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnVMTE5TVTVISEY3b240VWc2RjVZV2pQWEdRSmpYUjZNUG5OLVRYS3ZNTUZDdWdmUTV1MzNtV284VVRaVm5HRUNfX0ZJcTduMEZjX3JoQzJtOTFwZ21oX19tSUE2WHRGVnVnbVBQSmNwaU1vZWVoZ194ZlNRYmIyT1pFRndhNzlaWnJqTEFVbUFMSi1UTGZfY3BINS1kSFRJQjZj?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
    "title": "WTI falls to near $100 as Middle East talks ease supply fears",
    "source": "FXStreet",
    "time": "2026-10-27T01:09:29Z",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQjVQZU95UlFqM3RTLWUxM2lFUC1GZnV3Tkw5eTlzM3RMRU5FMS1TUTNvQzlqTVc0UzFndU5OS0FRUTlwYXpjOXBpVVZsc1dhOXVLaExrYzZ4SVlZMnRtV0NiLW1hNDFNbDF0NjY5NGpPYndPVjkxdlN0SnMzWTdQVjN2bmFmV3NTN2I3SEdiV3lhZktQNmhEeVY3UnpuZXY1N2RFdlFB?oc=5",
    "tags": [
     "OIL"
-   ]
-  },
-  {
-   "title": "America Needs Canada’s Aluminum. Trump’s Tariff Exposed Just How Badly.",
-   "source": "WSJ",
-   "time": "2026-10-27T01:04:36Z",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jbzVnMndsNlQxclpucDhubXk1UlpfVVNoc2s0RVUtbS0ycmw4bURxZ25DV2lSZ01iUVVxOEVwc09GTVpLM3JOa2prei1vWS13aXhkWTFwb1JzNnpUS0NxZjJTLU83LTQzd3FqN2FteXdsbmtI?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -451,15 +478,6 @@
    ]
   },
   {
-   "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-   "source": "BBC",
-   "time": "2026-10-26T22:30:02Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43cng1RGt3STU5RnFCQTdDSERZMV9SaUpSMEhOdHBZbDZiSjZNZnlBWFF0VHZSTkhRWnhjSkhhaEhPeEE2VWZuSFRLVGlzZVMxbEg5Vmt1U1phOGM?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
    "title": "Netanyahu touts Trump endorsement on eve of vote, suggests restarting Iran war",
    "source": "South China Morning Post",
    "time": "2026-10-26T22:29:05Z",
@@ -660,25 +678,6 @@
    "tags": [
     "FED",
     "RATES"
-   ]
-  },
-  {
-   "title": "A light economic and event calendar in Asia Tuesday, October 27, 2026 - Japan services PPI",
-   "source": "ForexLive",
-   "time": "2026-10-26T20:09:59Z",
-   "link": "https://investinglive.com/news/a-light-economic-and-event-calendar-in-asia-tuesday-october-27-2026-japan-services-ppi/",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Gold Steadies After Weekly Drop as Focus Shifts to Fed Meeting",
-   "source": "Bloomberg.com",
-   "time": "2026-10-26T20:09:10Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSlpQTVJTaWJGcUtSSm42dGtDT0wyU3VQeHlmbURBb2VDbmhIUjA0TlR1cmVPNC1lOUFvNDdGSXlYSW5xeldkQ29hbk52blVmUndSOEhTY0ZoNnR5MWtPZzdDdEMwWkJ1ZldKeHRCc0JBVVZSTXktdnlpd1BHN1VVaEFCa1hodEpERVZKRFFUdGZQRldZekhrTGNzR2p1Mlp2c3hXd0R2bXRrRW1zd0dxTkpnNA?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
    ]
   }
  ],
