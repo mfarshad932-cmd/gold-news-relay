@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T19:08:00Z",
+ "generatedAt": "2026-10-27T19:36:21Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,12 +52,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 3
   },
   "bbc_business": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 24,
+   "items": 25,
    "kept": 6
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -86,12 +86,12 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 31,
+   "items": 29,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 31,
+   "items": 29,
    "kept": 12
   },
   "gn_war": {
@@ -101,18 +101,18 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 5,
+   "kept": 5
   },
   "gn_yields": {
    "http": 200,
-   "items": 17,
+   "items": 15,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,21 +126,39 @@
  },
  "items": [
   {
+   "title": "S&P 500 rises as chip stocks gain for a second day, oil prices ease: Live updates",
+   "source": "CNBC",
+   "time": "2026-10-27T19:33:44Z",
+   "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "A hidden ‘triple top’ in oil price charts suggests the rally has run out of gas",
+   "source": "MarketWatch",
+   "time": "2026-10-27T19:24:00Z",
+   "link": "https://www.marketwatch.com/story/a-hidden-triple-top-in-oil-price-charts-suggests-the-rally-has-run-out-of-gas-3743d5a1?mod=mw_rss_topstories",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Israelis vote in a pivotal election centered on Netanyahu's leadership, Oct. 7 and its aftermath",
+   "source": "AP News",
+   "time": "2026-10-27T19:03:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjZwSHA4OFBaR3JuMHQxem5wOWlIX3ppalRJRHZOLWs0aHk5V3Zlei1KR2FrZzRGX2Q3UmhxZ25YYm5WNzBvVmFSX1I4N3ZTeldBOUdRck1nSm9PMWt5MmNtcDlYTWZOR0hfSUhvb3h1NlRJUlJsRVNqNGhJMGZaZ01zM0U4NWRlTGxQR0Y4dGE2dkZEMllzaU1B?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "PII: Q3 growth and profit recovery were boosted by pricing and tariff refunds, amid ongoing cost and demand risks",
    "source": "TradingView",
    "time": "2026-10-27T18:51:05Z",
    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQaGJqQTZJMWR0VjZpbE5kLVJpWUdPTXotSTgyQW9Ld2QyWDk4M08wUHNTWk8zbFBaRUNNTDdqX0xLMmlfYXo5RU1LNE9iUWszZm1uY0RSeXZMXzFPbjhjQlR5VmNENlZTWThhNnVtM0tRVC0xRXF5ZXRJaWxsanA5TElvckFKQ1ZiU3MwUmx4ZUtKM3BCSDJPa0RQbTlTWnpEUXY1SDJHUXEycGVYWm5JODFHSkNoaHFBZ3JMUEwxREVrT0xST0xNVlNtZFNmRmNhY0FNY0tUV3I0aVlXWE91ZFRWbEVnX1o5aE1tQWVKb0UwQy02SlZfMDFoRlF5MXQ0VVdCRjRvbTM4X0RBVmtvaWl1XzZ0UVQ0eVhHMFZldw?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "S&P 500 rises as chip stocks gain for a second day, oil prices ease: Live updates",
-   "source": "CNBC",
-   "time": "2026-10-27T18:44:31Z",
-   "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
-   "tags": [
-    "OIL"
    ]
   },
   {
@@ -287,12 +305,11 @@
    ]
   },
   {
-   "title": "Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund",
+   "title": "The U.S. Called It Putin’s ‘Slush Fund.’ Now Trump May Drop Sanctions on It.",
    "source": "The New York Times",
    "time": "2026-10-27T17:30:52Z",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdHZ2c2JMQTZCSDJGZWdLc1B3dkNlQW5Ici16QUU2LXdkQURUZnA3YzFHcVFZVmtMcHdXT3ZDMGZBZzZ3LVZlNFN1RDVRTU50bnUxYWhvOXI0WkxQTHFzQS10MkFJNmVFYXZzc0pNTjFNeTNaR1VLQTN4R2Z0c0oxMU9aUDBCdw?oc=5",
    "tags": [
-    "GEOPOLITICS",
     "SANCTIONS"
    ]
   },
@@ -449,15 +466,6 @@
    "source": "AP News",
    "time": "2026-10-27T16:28:00Z",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Israelis vote in a pivotal election centered on Netanyahu's leadership, Oct. 7 and its aftermath",
-   "source": "AP News",
-   "time": "2026-10-27T16:18:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjZwSHA4OFBaR3JuMHQxem5wOWlIX3ppalRJRHZOLWs0aHk5V3Zlei1KR2FrZzRGX2Q3UmhxZ25YYm5WNzBvVmFSX1I4N3ZTeldBOUdRck1nSm9PMWt5MmNtcDlYTWZOR0hfSUhvb3h1NlRJUlJsRVNqNGhJMGZaZ01zM0U4NWRlTGxQR0Y4dGE2dkZEMllzaU1B?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -667,15 +675,6 @@
    "source": "The Hill",
    "time": "2026-10-27T14:53:00Z",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX3ZMX2xsOFVadVduTG9Nd1BMcEJIMXBGc1pXanF3aXJsWHY1Mm9GQ3E2UzNFRWJYN2dvSkFxWDUzMEJfbnN5U2pvRkluWlM5b3BYVU83Z21NOUpxUnZsS2x0Z1ZKZ1hjMFFqcU5vaFNVMU1MNWlNUjFFdmJnRmdKWFBhR2dZOUhBSWxoUDZmUGJrMHROZ0xTbkZITDB6dUZobHR5NtIBqgFBVV95cUxPaUdGdHhPRmpDU0kza09UUHJnSnJ1VnkxUHA3TnBFZWhDTDgtZ012M2JzRGhjWWpxdmZHc0xYUVdJM1J4bG90NU1oN1IxcWthRmdURnctMEpQbzRuT3ZrLTBsWFoxM0JxbVg2dW5oVnpsXzJDVy1rNE5CSXotdzVPeUtpRTd3OEJRVE9xcndkeWpkeWxjbWdKRVZXal9HX01GaXpBUS0yUXpCZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Sudan’s war steals children’s future with school closures and displacement",
-   "source": "Al Jazeera",
-   "time": "2026-10-27T14:48:04Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGtvekpmWmNhYXZUMmlBXzE3Ynp6YmhOal93NnptZlo2elFaeUwtYTNfQkI0OGRMdk1tY0s2enlpLTBEYk5QaU1rRXQ1a0FqNjhMZ0dfR3dkdUZ1WmF0SXBiMkhCSlVvZW1obnJHdXJsY0dDcUZMQWhLenpETzdwYUVsV0RIZnZOWUFLeVNPTjRDSzdSMDJFQl9keDBqNVNuaUhFVkp2UG9FUnExc2VRTkp5NWdQZmJJdzdr0gHAAUFVX3lxTFBReWdIRXNraG5yUWRKTmxxZFhYWk9tYm5UNUYzeWxobWtGTFRIbU03QnpmelJJMVhvdzREbWEyc1EtdFdMUWQyT0w5MGpxU2dEZGxWNnhYRm9DUzhkZk8xcUNQQUlKSGZDR3B3cG5IQVExWC0xOW9zN2c5VU16MllySjZrdXFScUdZdjdlU2FYUHkwTERNc0dUa05SeGRYLWFqd2psNDh1TDFWWlJ3blloQnF0enpwZkMwWDRjcTE1bQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
