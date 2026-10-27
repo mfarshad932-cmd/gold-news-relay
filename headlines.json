@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T23:44:39Z",
+ "generatedAt": "2026-10-27T00:41:21Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 12
   },
   "investing_commodities": {
    "http": 200,
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 3
   },
   "marketwatch": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -81,28 +81,28 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 30,
+   "items": 33,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 21,
+   "items": 32,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 21,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 42,
+   "items": 40,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 10,
+   "kept": 10
   },
   "gn_yields": {
    "http": 200,
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 2,
+   "kept": 2
   },
   "fed_calendar": {
    "http": 200,
@@ -126,12 +126,98 @@
  },
  "items": [
   {
+   "title": "Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war",
+   "source": "The Washington Post",
+   "time": "2026-10-27T00:25:37Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPejFkczNnNTlDQi1sY3d3VkFxUjVSb1lJWEFYVGV1dDUydnFKRmxwTzctQnNzRzkzUjd0c05YMXZiak8xX2ZYSnhWQjZ5QWRrbEFabS16VzJVS2U3aWhpbm9nU0E3YndHRVYxX09tcTRIMF9YZU5ZbXRNRHBQTExJNWZ4ZnhWQndPNk9mYVVyOGR4Nzc4Mlkzdjl6WUJSa0NEM3E5LXdlZ1NpZEFIVktCYXB3VQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
+   "source": "CNBC",
+   "time": "2026-10-27T00:17:44Z",
+   "link": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
+   "tags": [
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "U.S. stock futures rise as Anthropic IPO buzz boosts tech; Fed, earnings on tap",
+   "source": "Investing.com",
+   "time": "2026-10-27T00:10:24Z",
+   "link": "https://www.investing.com/news/economic-indicators/us-stock-futures-rise-as-anthropic-ipo-buzz-boosts-tech-fed-earnings-on-tap-4973986",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Climbed Back Above $4000",
+   "source": "FXEmpire",
+   "time": "2026-10-27T00:07:52Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONUFPcHpOVUJESFg0UnkyM3h6b1VDNUNYLXl1bHIyM1VEbHVyckc1S3hqc0ZZVUoyZjI1Y3BzNGZUNDVHNEMtRGtFdFgyNl92MFdOVklfam9raFFqM25lQ3JDSG94RXoyaEpheDh4VUJSZ0JPVFh6Z194Y3A1YVVIX2pEVlIyd19TNm9LU2pQV0hJb2VpbFlRRmwxM3V4ZVhxWWV1QXRxcG9fY2RVRy1HYXVBWVdSa2Rf?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
+   "source": "Al Jazeera",
+   "time": "2026-10-27T00:00:00Z",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Japan September services PPI holds at 3.7% y/y, in line with forecast, before BoJ",
+   "source": "ForexLive",
+   "time": "2026-10-26T23:52:21Z",
+   "link": "https://investinglive.com/news/japan-september-services-ppi-holds-at-3-7-y-y-in-line-with-forecast-before-boj/",
+   "tags": [
+    "INFLATION",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
+   "source": "WSJ",
+   "time": "2026-10-26T23:47:19Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Australia CPI preview: banks see 1.0% core rise, above the RBA’s 0.8% forecast",
+   "source": "ForexLive",
+   "time": "2026-10-26T23:31:36Z",
+   "link": "https://investinglive.com/news/australia-cpi-preview-banks-see-1-0-core-rise-above-the-rba-s-0-8-forecast/",
+   "tags": [
+    "INFLATION",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
    "title": "Gold rebounds above $4,000 amid hopes of easing US‑Iran tensions",
    "source": "FXStreet",
    "time": "2026-10-26T23:20:59Z",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR2h0TkR3TDJRYzVCLThGNTBZV1lScHB4NU1veVJXRERvaEpwX0o5NUdVSXV3TVB3Z05JMENoQkVIampiOWNrUGZuOGhCLXBqcXdSS0JWbkp5c3BULVdPUVhrLWJtZjFxcmhYM05pLXV5WmJ2VFhlU3g4ZGJoVzNXNjhhWENsVFY1c0cwNnp6UUdGRXJJbk5iRk4zN1kyS1Q2dldmd29DM0pEUQ?oc=5",
    "tags": [
     "GEOPOLITICS",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold Steadies Above $4,000 With Fed Rate Decision in Focus",
+   "source": "Bloomberg.com",
+   "time": "2026-10-26T23:20:28Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLTRVUHViYXZZWTg4WHdFSXgxV1ZMS2FqdHgtUUxQSlJxN0JzbG5ZNXdOVTJFMUR2VmEtaU9MUGl5T2VXUHg0YmliUFdIOEIzVjhYdHNmUmo2aXVtMll3eGp6WkJCTVRtUl9SQmd0NmFTZXBma1VrVDNXZDVSc3V4M3hrVlFFeU9iV3VmNDhGM2FVQnRvZnA1bFBpSjRfZmRYeGJDX2ZWVEk4OXhE?oc=5",
+   "tags": [
+    "FOMC",
+    "FED",
     "GOLD"
    ]
   },
@@ -172,6 +258,15 @@
    ]
   },
   {
+   "title": "EXCLUSIVE: US, Canada working on deal to ease steel, auto tariffs, sources say",
+   "source": "Reuters",
+   "time": "2026-10-26T23:04:19Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1JXYWUtZ2l1TGNtSDlwbkN6SkxUR1RxaWZjQnFpNk8yTzBuLTR5OEUxQ296SmZEd3dDS25tMjh1eW5hRGg4X1gtVUpVQi1UbWIyYXpJQmh6NGxpX011WWlEYWh0Z3FKRm55UUl6UnpKUTZmM3lhUElLNUVIb0tkWDBYVkI1LXI2aWxwT1Q2aUpSZjhOcUVxaTByX21WVlExQVE?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Iran War Boosts Malaysian Data Center Appeal, SD Guthrie Says",
    "source": "Bloomberg.com",
    "time": "2026-10-26T23:00:00Z",
@@ -181,12 +276,12 @@
    ]
   },
   {
-   "title": "EXCLUSIVE: US, Canada working on deal to ease steel, auto tariffs, sources say",
-   "source": "Reuters",
-   "time": "2026-10-26T22:35:46Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1JXYWUtZ2l1TGNtSDlwbkN6SkxUR1RxaWZjQnFpNk8yTzBuLTR5OEUxQ296SmZEd3dDS25tMjh1eW5hRGg4X1gtVUpVQi1UbWIyYXpJQmh6NGxpX011WWlEYWh0Z3FKRm55UUl6UnpKUTZmM3lhUElLNUVIb0tkWDBYVkI1LXI2aWxwT1Q2aUpSZjhOcUVxaTByX21WVlExQVE?oc=5",
+   "title": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says",
+   "source": "AP News",
+   "time": "2026-10-26T22:48:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckctdmhsdjZTU1FZLThLMWZNbUtFTHlmNDB6bE9ZT2tOeU9yd2NQLTEzVExNeHBJSTZUM1lIYjZpZDhCMmRENGV0aml4ZmpDQWpIUm5YSlVxb2JEdTRaLXJlcHFOSUhLR3M1VGFIVUZNbGJaRklpbGJZWDJldjF3ZlZaN3Y3eDJmaXpMTHZOMGI4ODRHbHFqcHVJTXBQaThUTUdxbktSaFcxQQ?oc=5",
    "tags": [
-    "TARIFF"
+    "GEOPOLITICS"
    ]
   },
   {
@@ -205,16 +300,6 @@
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTndpUEZjcS1BNWNHUENhVWxMWVk3VUFVX2JsY2ZPcmNCZnRESTVYY0dRZVRBdjNrV0tKYmo5Zzd3X3g1ajF5NnhYaEJENmMtWVhLdzNwdC1DYnNpTmtzbHJvd0Z5N3ExYmlFR2RKMC1ab0ZvcDc5ei1PSkRMM3JBbFZoZnFXbHJvZnJKa0x6ZHRSV2xha3duVjByOUY3Mm5LOXY5WWNLT3V0aFQ1QUNLQThHVzdfc0FKYWg2ZTgyZ19pdHB2VWVFLVhmNmpKLWxVZ3p30gHTAUFVX3lxTE9TVWVoYjRqRkRxN1pLYkpVVUV5dE1lODlYd3VOWDN3NEpoOFRuM3FIcldVa3hIemR1eHRLYVRyc0NOMzRVYjhhaEVXTGJfa1h6OU5tRWgwMWZHTzFfNXVLdjh6bU9RNDQ1eW9BczBQSkR2N2hXVVZpVWFIb1dDX1NubjVKcnEzcFdEeXl1S0lGWTNBTzUzS1FHbVlLT2oyOWR1OF9GQ2J6RXViTm9qdDlFSngtNGdVQjdIVWF0T2RIWEtxUW9mbndoamROUkZVenVHaHM?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
-   "source": "WSJ",
-   "time": "2026-10-26T22:26:49Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
    ]
   },
   {
@@ -245,15 +330,6 @@
    ]
   },
   {
-   "title": "Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war",
-   "source": "The Washington Post",
-   "time": "2026-10-26T21:49:33Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPejFkczNnNTlDQi1sY3d3VkFxUjVSb1lJWEFYVGV1dDUydnFKRmxwTzctQnNzRzkzUjd0c05YMXZiak8xX2ZYSnhWQjZ5QWRrbEFabS16VzJVS2U3aWhpbm9nU0E3YndHRVYxX09tcTRIMF9YZU5ZbXRNRHBQTExJNWZ4ZnhWQndPNk9mYVVyOGR4Nzc4Mlkzdjl6WUJSa0NEM3E5LXdlZ1NpZEFIVktCYXB3VQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Adani Power profit surges on high power demand, tariffs, beats street estimates",
    "source": "TradingView",
    "time": "2026-10-26T21:45:43Z",
@@ -281,6 +357,15 @@
    ]
   },
   {
+   "title": "Russian attack on Kyiv kills one person, hits metro station, medical facilities, mayor says",
+   "source": "NBC News",
+   "time": "2026-10-26T21:38:57Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWFYxWEhsWmxYZ2hTNTZTWG1DYkd2XzVtZ1lxd0NMLXpfYzY5dXktSlREN25BbmRWaUduUkRWdmg1UVBPUERBM3BlUmVic19DXzhDSkVvWXV2cWpPN3QxSGhaYV9sYlNfc1h4RFdJVVgzdExmTEY3WHdqcllSS2hZWnk2d1F6UllqMEgtU0xVX2c1Ny1WVWE5dEdjVjBmQmNidk45aERNeHpleXRPOFc0N042di1Ybm9mXzdB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "A World War II Museum Brings the Lessons of War to a Younger Audience",
    "source": "The New York Times",
    "time": "2026-10-26T21:32:14Z",
@@ -296,15 +381,6 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFM0TUtUb3A2NkZRRHR0UWFpSGxpQVAzQmV1bDJkZ0h4Zm13VjBJcndpVVdzT0llaUlCVTZleGtHWWJzTzVmb0l0Wkd4bFh4TTJTVnJUaFZRdDVueHRUdnRsTGNxOXJEcHlvQml3VG1xNGplT09vZHhzZTRZeTdkaDNZRW0yYlFvdFA2TWVuXzExdHRlWXR5NGZ4dzVPcEMtb1NPTE12bXRxSkRCNmp1RkxETDE?oc=5",
    "tags": [
     "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Climbed Back Above $4000",
-   "source": "FXEmpire",
-   "time": "2026-10-26T21:11:55Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONUFPcHpOVUJESFg0UnkyM3h6b1VDNUNYLXl1bHIyM1VEbHVyckc1S3hqc0ZZVUoyZjI1Y3BzNGZUNDVHNEMtRGtFdFgyNl92MFdOVklfam9raFFqM25lQ3JDSG94RXoyaEpheDh4VUJSZ0JPVFh6Z194Y3A1YVVIX2pEVlIyd19TNm9LU2pQV0hJb2VpbFlRRmwxM3V4ZVhxWWV1QXRxcG9fY2RVRy1HYXVBWVdSa2Rf?oc=5",
-   "tags": [
     "GOLD"
    ]
   },
@@ -586,6 +662,7 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcG9fenlud3ZpX29GNjZ0dkNmeGwyRnBmSVRlTE1IV2R5LU9oLXhLZHRBVjdxUVdBTElJSU9HcFFwaWdTbC1mZmhBYVNWZkx2TmVISzgydnlQYkNhQzRtWUtBYTkwMXJuNkNLNTJLUlRFeGhaamhNWFdqSjFheTR5YmQzNXVKZ256d3F0T01XM2hPTnBKR0xDeEI2enN6NUZGdmtV?oc=5",
    "tags": [
     "GEOPOLITICS",
+    "CENTRAL_BANK_GOLD",
     "GOLD"
    ]
   },
@@ -594,81 +671,6 @@
    "source": "Al Jazeera",
    "time": "2026-10-26T19:22:02Z",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjZqVnhxNmJJMDNWWEZkYjAtSWVxbVBKZENjMDZqd1JfcGpWdUhWdGJ1S2tHM0lDcEp0clVQVUV3Nl9mcjZqVGJ4UWdENU1CSGZmMEdVMml2T0UwOU9VTmZlamhxNDlOa1VENzl0Z2xITmNnbjNMTC1uNndyS0hNb3hoUUtPUzgwU0lhUTk4Zk45YjZWZnFwY295RXBzbEJPTHR5ZTJ6ZGJ2RHM1WmkxU1czc2VlWjlESzU00gHAAUFVX3lxTE04TzhkRlV1Ym5FMms4ZmVYY05fOWxfeExwb181SW1QTzh1UlVfei1nZS1FZzNIcURMMFd1Z1cxSDZxY01MV2Z0S0tCYkNQUEFmNHg5bEpCMnE1cWlTd1BtVC01cHZHUDVsOVIxVWZaMnBpaTNMMm44UGpHVW55U013RmxtY3FtTGpOREJ5UFVpWUtWb2htZzRGYWRSVFR6R3F4NVkyYWRUaTFHd0x5dHNjZFQ3WHI0U1NIRUtxMXFvVA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Hezbollah readying to renew war with Israel with funds from Iran, sources say",
-   "source": "Haaretz",
-   "time": "2026-10-26T19:22:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOYUtvTy1mcWFqYmMzSjhzQ184WWcyblJsdEJoN2hCNnFEaERzVzA3UXN0d3p1cmZ0dWpZYjQwa0lmZGpUcXprV1BQRXh6dHFuZllXUEx5QWI1TnZ1UHRYVEdvUGViMkxjRmxqMHVjOWpudmxvbndMM0hFSE43TklHT2dqUjFNbkdrZFZjT3I2b2ZLVFFxMEdXWjhzUzlHN1lZYjlxZnlUSnF5Y3RJdFUyM0lRVGNvb2phU2dFMnoyd0l1Yl9SWkstbTR2U0Z6M2x3SUx0ckpVLXpjVjVwYW5OdW15WkUxT3NneW9vOTM5Um9Eb1g0VWNYaXkyaHpqNHdHVE11WldUczV2dGd0Ump0V1AwaWRQYm8?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Canada’s Carney Navigates Trump Tariffs as Economy Slows",
-   "source": "Barron's",
-   "time": "2026-10-26T18:58:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWjhYbGJUSHRwWTZqQzBfN0Q3MVVQd0pDRlBURnEyUzhJRlBsVHVDSmZUZWQ2SThaZFRpQnh4ejVXVl92VW5laENCSTBUcGdzTm40R19HeDJ0bnMyWmhBNEZPUXJPUHV5RWpYRW5KdHlDSmhvOENXblF1aTNtUkZiOElUN2NmQUhuZDkzRmVPX0ZHLVZDR2psMGN5SlE3RDMyOXc?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Copper Extends Drop as AI Stocks Weigh Ahead of Fed Meeting",
-   "source": "Bloomberg.com",
-   "time": "2026-10-26T18:54:10Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXNPdGpiZHFxRGtsZzJXa1NWQ2ZtRW1YMENlQ0JFWEtoTmI2S245dEdHS194RXg1V05veUVWOGl3TFcwNmZUTzA3dzY5akhZX01xNV94eWwxNkdtZEQ4bkdmSFhQQ252a1p6Q1dWUVllLXFyQWFkZzNFLXIydXJmdnFtVXQ5MG1tNjJuNkQxNFZfOFduOTQ4TmZJZHk5UzhJVU1SVi1jSmJ3aEowcFBR?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
-   "source": "CNBC",
-   "time": "2026-10-26T18:51:23Z",
-   "link": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "Scott Bessent says Iran's economy is 'collapsing' as Treasury tightens financial vise",
-   "source": "Fox Business",
-   "time": "2026-10-26T18:51:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0FEeExrX3U1WXlHVmFYZnpzcFFIemNmMk1ZMncybXJSb1BsdDIwMkl6TS1QcFFBZGdSTjV4V1NwckhGMnBOc0lPWDJrV1ZPbW4xb0dQOUxBYWZyd3BhRldrM0tqTEk3QWd6Q3ZOcXB4ZUxRQ2FOYnZJdUxtX3UwNDJXSHhPSHJSTDVZNXpaQTVlZkFhVjdLODdmdk80TEpMdThwMzlKSy1JMWtFdmVj0gG0AUFVX3lxTE01S0dQTXMteXV4XzdqaUVyNDducWlYZC15UE1kUnhXR0J3QjZpV0hlc3dVX2VvUzBTYjFRNFNpZ0l4ZExzb1lKQUdadGhTRmVoRFhzYzJFNzFFLUJjdk5hdzFMQTJiV09zUndETnViOTVWZ1JQUlNFSURCdnc4X0RsaDE3N1M5SGl6YVB0Q3lZLXN3REM4b2hGc1RRMWxTUjFSTWtHMDI4NTRvckNidktIVkhIZg?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
-   "source": "CNBC",
-   "time": "2026-10-26T18:37:01Z",
-   "link": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
-   "tags": [
-    "USD"
-   ]
-  },
-  {
-   "title": "Reevaluating The Leveraged JNUG ETF As Gold Consolidates Near The 2026 Low (NYSEARCA:JNUG)",
-   "source": "Seeking Alpha",
-   "time": "2026-10-26T18:33:14Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeEpSckJVeC1uRkJLbVYycWJFYUJfaGgwbjg4NWlYUmpFMm12Njk3anFVLTNrTTBYUGwyd20xcjZFUjlmdDUyVDNSSk1qRWFMS1JxODZQX3RodFJZVXdnYXRVWWo3SnRGekE4QU13Z3VfTHhBNldLRTU5WWpjTWo0ZWxvcGlqNE1RaU5panlWeVlHY0VJR1VhOGkzYUxQd2Q0N1NmanRmZTVqNjlsZU1GUlJZd2NXQQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Zelenskyy says peace talks with Russia, US to restart",
-   "source": "Al Jazeera",
-   "time": "2026-10-26T18:31:45Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUEF5ekxPaGRENWVZYW1RUGdlT2VIMV9SanFqTDZUT2Y3YmRjUG1qb3hseEEzNDZxY1ZDRGl4MmhIbWUxeGMyMW5ERDRPbVNJQ0NxU3F2WS10TWZjVDR4UUM2WGh4dFB5YTBFS0Z5bzdhUWd4bE56Vkt6WWxsT0ExQk5xdjk5ckczcXQtcVBuV2l1ZXdqb0JjUDk5NzZmYVBjRkk1eVFGQdIBrAFBVV95cUxPUUFpQllKdHQxWkN6eUtWcWxjdnc0WjVvdUpvVVBCOEtsSmxkb0otUjQ4WjgzWVo2aVM1MGNBLWExd1FWbE9QajZEMDVRNFh3UVhaRzdCSWpwSDJCYWNvVTFlTG41WGNUa25tQ1lqWnZyVHZMOEVDTGg1UTNiTkFmbEw3SW5XcVZZWVNtN1lwNGdkR3VXZzJ4ZGtOX2t3UEw5eDhJZDZnbW5VNUdV?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
