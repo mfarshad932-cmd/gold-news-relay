@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T17:43:05Z",
+ "generatedAt": "2026-10-27T18:11:27Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -81,32 +81,32 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 37,
+   "items": 33,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 18,
+   "items": 21,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 28,
+   "items": 29,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 41,
+   "items": 48,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "gn_yields": {
    "http": 200,
-   "items": 16,
+   "items": 17,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 5,
+   "kept": 5
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,25 @@
   }
  },
  "items": [
+  {
+   "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
+   "source": "CNBC",
+   "time": "2026-10-27T17:53:47Z",
+   "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Federal Reserve expected to hold interest rates steady in last decision before midterm elections",
+   "source": "Fox Business",
+   "time": "2026-10-27T17:46:38Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVIydWFYR0ZrclVBdXVnc1J0MkhqNHl1Z29oMkFPVkF4T2tzUndiR0UxX3hqblBsRFdQQkdGdUJkcnFncTFTanBIbThDM19DdGdSWDltQW9McFprYU1MYVhxM20wU1lDRG9QdURQcm44UU9DOXhOdF91b3pVNGphOHduaVFXWl9ESzlGaHRNQ3QtS2o4VW5hS1lNVEpEUmFSTl9XTWotU043QUt0VmR3NHFRZ2VPQdIBuwFBVV95cUxONHJ0LWVOekZ2amM5T1E5bTBYZDdvSGFJUHRHR3JjT0x5YUN1b19SMjFtYW1SZmJZOFpKTlJJYkdTMVNaNEVqRE9yYmQ1RF9Sckt1eXBJN1dpeDlxT2phZ21zY09BRktfbzZqY3h6T1FYU3NwemZEQm5MSDQySWpmbDJyM21nY05OanlTeEVLWEFHOEZsWjBMa3FMVEl2c0dQT3BTemFpOXllUnpVVEhyMXJxcVU5RjY2YlVN?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
   {
    "title": "Gold reclaims $4,060 as Oil retreats ahead of crucial Fed decision",
    "source": "FXStreet",
@@ -155,18 +174,19 @@
    ]
   },
   {
-   "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
-   "source": "CNBC",
-   "time": "2026-10-27T17:35:12Z",
-   "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+   "title": "Indian Lenders Defer US Dollar Debt Plans Amid Rising Treasury Yields and Hedging Costs",
+   "source": "CNBC TV18",
+   "time": "2026-10-27T17:37:52Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWV8zaFAyQ0ZKNjFPQk9ydE1ubjdMcXl6eEk3UkMyV0F5SzQ2aHFHXzhDUnhnWnMxczdlQlFNQ2tackpRZVV4VG8yYTlGRzQ0ZnVKaUxvb3ZnZHNpMmN3cW9GVnktdkliMDQ3YjZXMzlHLUlLdjJwdi1waVZLOWdoRjRJUGZoN0EwYW0tc3F6XzdLMzVhN2c5QVJoWWV1ZjV3YXdOUE1Nb1RzZlNzMkNBbHNWNNIBuAFBVV95cUxQbHRVV2FKUHJDc0QzLVJZcFlEQmJVSGhNZ0JYVHYxbm9vSkNYRzYtZm1YWjltQXh3R3hBb082bjNDNy1LUEc0MHc3M0tZdlFYS1ZRRXJWRXlOZTBWX2NHdTFiQ1hPOWpTQ1VyYTdJbGpUNUVyTG5XTm9OSmVMc3dza0pyLVd4YlJ3Y3hsRTJqczhsSzlTSmNodWdWTmZKN3l2dU80R3JuODdSZ1JpaVByYUhqYXJCSFRI?oc=5",
    "tags": [
-    "TARIFF"
+    "USD",
+    "YIELDS"
    ]
   },
   {
    "title": "The U.S. Called It Putin’s ‘Slush Fund.’ Now Trump May Drop Sanctions on It.",
    "source": "The New York Times",
-   "time": "2026-10-27T17:30:51Z",
+   "time": "2026-10-27T17:30:52Z",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdHZ2c2JMQTZCSDJGZWdLc1B3dkNlQW5Ici16QUU2LXdkQURUZnA3YzFHcVFZVmtMcHdXT3ZDMGZBZzZ3LVZlNFN1RDVRTU50bnUxYWhvOXI0WkxQTHFzQS10MkFJNmVFYXZzc0pNTjFNeTNaR1VLQTN4R2Z0c0oxMU9aUDBCdw?oc=5",
    "tags": [
     "SANCTIONS"
@@ -179,6 +199,15 @@
    "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "Opinion | This peninsula is an economic powder keg. A blast could cost trillions.",
+   "source": "The Washington Post",
+   "time": "2026-10-27T17:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdU83YzVjZUUyRzN6M1R5SEhsVnRsd0VVcEI5ay1PRUQ4LS02c3FmQzRDMFNvdGxXeWZyNFZvNWNRX0UyUFN3djcxSXplS1BmdnIzQVR6V3VtSm9SSWFNSVU4ZkdQdlpwS2tNeWZ4UDQ2ZWFiX2o5VXpfamx3SEk2TlZtaWJCOVFwTFZ2OC1Yd0p5NGVXUE9Faw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -204,15 +233,6 @@
    "source": "Al Jazeera",
    "time": "2026-10-27T17:03:45Z",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/funeral-held-for-family-killed-in-jordanian-airstrikes-in-syria?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Opinion | This peninsula is an economic powder keg. A blast could cost trillions.",
-   "source": "The Washington Post",
-   "time": "2026-10-27T16:57:38Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdU83YzVjZUUyRzN6M1R5SEhsVnRsd0VVcEI5ay1PRUQ4LS02c3FmQzRDMFNvdGxXeWZyNFZvNWNRX0UyUFN3djcxSXplS1BmdnIzQVR6V3VtSm9SSWFNSVU4ZkdQdlpwS2tNeWZ4UDQ2ZWFiX2o5VXpfamx3SEk2TlZtaWJCOVFwTFZ2OC1Yd0p5NGVXUE9Faw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -438,6 +458,15 @@
    ]
   },
   {
+   "title": "Former U.S. ambassador to Israel on how Gaza war affects Netanyahu's reelection chances",
+   "source": "CBS News",
+   "time": "2026-10-27T15:18:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQckZSc3Q2Y2hjYXZ4Q2Z4cTRSaURFSkZGbEJXdHVFdXJfRG56NTl4LUZYbDFKWlI1TlJPN1h1dW54RHYxZXA2UW1BeDZ4b05lYUsybWZCUy1KYjFtSXAxOGpDQ3lPLWgzNUF4UG5WNzJGa241Nmo1a1pnZmF4Q0tjbVBCQWI0ZXU2aXNlUVBXNlFpQUhIZ01DZnZvTG1kcTRaWE00cHRsWjhTQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Truce begins in Ukraine city where residents ate weeds to survive",
    "source": "BBC",
    "time": "2026-10-27T15:13:24Z",
@@ -642,33 +671,6 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb2xMY1ZNOGZMdGFLZGV6Ui1rTTZmODJnOGprdHhzRlJXcmkwbndqd2libFRWeF9jSkowZXE5SF9EYmhoZ3pwekhNZWUxYmtRRE5wSHRSMXRUd0JyWkNnTi1HeWdJUjZHRXRtZDJKaVZZN1BrQzNnamdCWVZGVXJFTXlCWTFfLTFZSnpMeVB1RHRwa2pMYUxZT2I3c05WTDdoNXVuVHdsTDgzYkRINVFXbFR5a29jUEnSAbwBQVVfeXFMUHduZGtfYlZfU2EyYm9WQmNMaFFZT2lyR3R4Z2JtOEN5NHUwZzhMTWpkSWx6TVVwOWJVbzdiM2plZTR3NUpvSkhQVlFGNVBtNEdvWWNaOTRaOUF3Z25sXy0wcEFMZ2F3MzNjMzY5aXl2bXJ4a0xEZjMzWjB3TE8tekVtWmJ6azk3bE1ndnRRdzJackdzUFdOY0R2NHlPZk00c0d5c1kxZXZpVEREWDkxUEpsTS10VHIxQXFmcEc?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "U.S. equities trend higher as FOMC rate decision and big tech earnings loom",
-   "source": "TradingView",
-   "time": "2026-10-27T14:04:27Z",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORGdQeEdua2lrVjZ1ZlZOc09mckdqV0xsdDMzYWtORzJFRUozaXpXLTNwYlJTZVhydzh1ckJTR05jSkI4SU12UTFXZm4zcnJUal9kSEtteGUtRlZ6aVRzdlc2N1lJRW1GRWY2S0VMM1VRbWlWQUd3aU9lRnlVbTI0Y1NaUERobF9VVkZLendKeHJWVm5jbndVeVV6UktaTTFNcG5tTEg5MVB5Skl0YTNWTFZwbmlBNE1NbU9CaXJkeHhMc3BGaGNqa3hHd0hETWdZbU9n?oc=5",
-   "tags": [
-    "FOMC"
-   ]
-  },
-  {
-   "title": "Gold price shoots to session high $4,048/oz after Consumer Confidence rises to 91.7",
-   "source": "Kitco",
-   "time": "2026-10-27T14:01:14Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2Z0X2NLUnZiMGxDRGJEZnBERF81MFhsaEZpUjB3NmNOWWNCYzRBRVQtTDYtaTRTUXdINy0ycXNtOWdlVTVXSmZNYm1PMHQxRFdaS2Z4LUwzMzdwU1VSYU55VFhuOS1fTHZNeVR0UTZzTjdXc2l0NVVWcmI5TnJ1MUItdXhMVlByMkRpUHVzMTN4Y21VYWVVeU9uNWxfcjU3NURqTWljaWxzaC11cnJTNU1hbnE1dEhvV29z?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "US October Richmond Fed -2 vs -2 expected",
-   "source": "ForexLive",
-   "time": "2026-10-27T14:00:28Z",
-   "link": "https://investinglive.com/news/us-october-richmond-fed-2-vs-2-expected/",
-   "tags": [
-    "FED"
    ]
   }
  ],
