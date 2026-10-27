@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T20:33:06Z",
+ "generatedAt": "2026-10-27T21:01:28Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 3
   },
   "marketwatch": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 3
+   "kept": 2
   },
   "bbc_business": {
    "http": 200,
@@ -66,7 +66,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 27,
+   "items": 28,
    "kept": 6
   },
   "aljazeera": {
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 37,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 20,
+   "items": 21,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 32,
+   "items": 31,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 40,
+   "items": 44,
    "kept": 12
   },
   "gn_sanctions": {
@@ -111,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -126,10 +126,64 @@
  },
  "items": [
   {
+   "title": "Crude Oil Inventories Drop Less Than Expected, Impacting Prices",
+   "source": "Investing.com",
+   "time": "2026-10-27T20:48:15Z",
+   "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-drop-less-than-expected-impacting-prices-93CH-4976943",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "How investors can position ahead of into the Fed's next policy decision",
+   "source": "CNBC",
+   "time": "2026-10-27T20:44:35Z",
+   "link": "https://www.cnbc.com/2026/10/27/how-investors-can-position-ahead-of-into-the-feds-next-policy-decision.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "No clear winner in Israeli election, exit polls suggest, as Netanyahu’s fate hangs in the balance",
+   "source": "AP News",
+   "time": "2026-10-27T20:38:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjZwSHA4OFBaR3JuMHQxem5wOWlIX3ppalRJRHZOLWs0aHk5V3Zlei1KR2FrZzRGX2Q3UmhxZ25YYm5WNzBvVmFSX1I4N3ZTeldBOUdRck1nSm9PMWt5MmNtcDlYTWZOR0hfSUhvb3h1NlRJUlJsRVNqNGhJMGZaZ01zM0U4NWRlTGxQR0Y4dGE2dkZEMllzaU1B?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Bullish Treasury Bets Face Reversal Risk From Hawkish Fed",
+   "source": "Bloomberg.com",
+   "time": "2026-10-27T20:30:06Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVdDN1Q0dWNoV3p6Z1JKbXlQM0tsU3lGVFVKMzNkZW5qR2FVYUFicy05NURWOXJmUEd3TTR0ZHlRVUY1V3hxU3dWdXA3ODdaZFltdXJ2WnI5NmN0TGNseXFKYXhoUjg4dndnaGlUVXdRQ0YyN2VPaS1IUnd5d2lOaU5RTU0wa05yS1h4b1NmaDlYdmNrQVpxRHpEaTJxQU96UmVPdHhuNEZ5S3k3?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "What gold and platinum are telling us about the stock market’s direction",
    "source": "MarketWatch",
    "time": "2026-10-27T20:30:00Z",
    "link": "https://www.marketwatch.com/story/what-gold-and-platinum-are-telling-us-about-the-stock-markets-direction-81405633?mod=mw_rss_topstories",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold’s Correction Creates a Potential Buying Zone for Miners and Silver",
+   "source": "Investing.com",
+   "time": "2026-10-27T20:29:00Z",
+   "link": "https://www.investing.com/analysis/golds-correction-creates-a-potential-buying-zone-for-miners-and-silver-200690384",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold and silver ALERT: The next rally is close but price drops are still possible",
+   "source": "Kitco",
+   "time": "2026-10-27T20:28:05Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkRJWXZQR1IzRWpCSzFSS2NleXVtemhkbFhNVEhmTklUdTA1Z1ZaWG1UcWRDSFlDNmVUX05yR0VlMFBDU1BKeUFHaldoOGlxeFBuanl3eU1hSzIteUo0RlgxU2JNdU9uQkFmYS1xdEVxbzZ2czdqcGJzeWpWbElfMlNtSDJ3NkNNSEFiclhRT3A3RHUwZDgtRHNaRmtkTE9scDJuRXQ1cHlyV2ZjajBJ?oc=5",
    "tags": [
     "GOLD"
    ]
@@ -150,6 +204,15 @@
    "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "S&P 500, Nasdaq end higher as traders gear up for tech earnings, Fed this week",
+   "source": "Investing.com",
+   "time": "2026-10-27T20:15:41Z",
+   "link": "https://www.investing.com/news/economic-indicators/us-stock-futures-rise-as-anthropic-ipo-buzz-boosts-tech-fed-earnings-on-tap-4973986",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -180,15 +243,6 @@
    ]
   },
   {
-   "title": "How investors can position ahead of into the Fed's next policy decision",
-   "source": "CNBC",
-   "time": "2026-10-27T20:00:01Z",
-   "link": "https://www.cnbc.com/2026/10/27/how-investors-can-position-ahead-of-into-the-feds-next-policy-decision.html",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "title": "Refiner Stocks Post Worst Day Since April 2025 Tariff Shock - Valero Energy (NYSE:VLO)",
    "source": "Benzinga",
    "time": "2026-10-27T19:38:46Z",
@@ -216,7 +270,7 @@
    ]
   },
   {
-   "title": "Israel election results live: No clear winner – first TV exit polls",
+   "title": "Israel election results live: Eisenkot bloc ‘ahead’ of Netanyahu camp",
    "source": "Al Jazeera",
    "time": "2026-10-27T19:28:12Z",
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
@@ -259,15 +313,6 @@
    "link": "https://www.investing.com/analysis/brents-117-ceiling-depends-on-saudi-export-capacity-avoiding-damage-200690379",
    "tags": [
     "OIL"
-   ]
-  },
-  {
-   "title": "Israelis vote in a pivotal election centered on Netanyahu's leadership, Oct. 7 and its aftermath",
-   "source": "AP News",
-   "time": "2026-10-27T19:03:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjZwSHA4OFBaR3JuMHQxem5wOWlIX3ppalRJRHZOLWs0aHk5V3Zlei1KR2FrZzRGX2Q3UmhxZ25YYm5WNzBvVmFSX1I4N3ZTeldBOUdRck1nSm9PMWt5MmNtcDlYTWZOR0hfSUhvb3h1NlRJUlJsRVNqNGhJMGZaZ01zM0U4NWRlTGxQR0Y4dGE2dkZEMllzaU1B?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -469,21 +514,21 @@
    ]
   },
   {
+   "title": "Congress passes war powers resolution, offering rare rebuke of Trump",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-27T17:12:58Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVk1VYWQ2VlZubkFtWnd4QVhRS2JwejNON3VaNTJyVlNiRDVCcThzckZuY2ZjRmFJRTNuM3pnSExrSnNYUHhUYlVadVVSVmN1OFdCVHZqMURUUWpBRTdZNk1UeW1ZRUlBYWV6MkMtM1k1b3ptbXo5ZkZMTmxaUDVhVmVwa2g2eGJzSnVPWHB3ZnVQc1ZjTVdNekFGcUzSAaIBQVVfeXFMTnAxeW9TMDQ3dkxsNHYtVFFQNFdtdlBGZ1RZZHlJMlNWeFlITWNMdnp0aVZNRFVJeEltc1hUNk9MRjhVMFJsbkFGanZvRVFQRU11NnJ4MGVLZGdpejQ0NmVaSEdmR0dEQVBoRHBTdDBFbGU2MUJsS085c2ZtYThIWlQ2VUJGclVlVmwyUUR4WGNSTE5fQUUwUGRsQ1pIZm9MR21n?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Ceasefire begins in Ukrainian city of Oleshky, Melania Trump announces",
    "source": "Politico",
    "time": "2026-10-27T17:11:00Z",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzY2dHMGtoVEI4VXRuaWl2d3cxT2prX2pVc1Bpc1hMWFV3d21IcTlkdF9aZDVBX3VBTVA2Z09CRXBpQnhoRzhuWjJJd080bkg1QS11Y2VKdkJGNFBGVnFpVmJjeGFNUWMyX2huT2xNNkRjTm1kRjlSb3BnOUQ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "S&P 500, Nasdaq gain as traders gear up for tech earnings, Fed decision this week",
-   "source": "Investing.com",
-   "time": "2026-10-27T17:06:46Z",
-   "link": "https://www.investing.com/news/economic-indicators/us-stock-futures-rise-as-anthropic-ipo-buzz-boosts-tech-fed-earnings-on-tap-4973986",
-   "tags": [
-    "FED"
    ]
   },
   {
@@ -626,58 +671,13 @@
    ]
   },
   {
-   "title": "What to expect from the Fed's meeting this week",
-   "source": "Axios",
-   "time": "2026-10-27T16:06:32Z",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2QjMwVy1tS2cybWVnUXFyMkJaTmxYZUtpR204enBzX0RJZ2VMN1B5S0xxODN3NkZNWFlMcFN2VmF3dFBsX3FYZG9VMnBDbFQ4NDVxQ2NXa0Mtc3A5UEtTcjRyRTNDakZVdTVsUzJvRHI1LTA?oc=5",
+   "title": "Senate overwhelmingly advances Russia sanctions bill named after Sen. Lindsey Graham",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-27T16:09:27Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY201cHExVEdiSzNVUkNQZ2cydldwMkhLeEllZFVEelRtMVQzMGdxZHk4Z041YklkcW0wY2tscXFTaFpBUnRENHJnekJjU3JfTHU2RnFaMnA4SjBsVWRwTGk1ZVVWV1BVWWl5dHptaFNYdThJUEFaYWk2MUUzeVRsa1RKdHBManRzNHR5eEJWa2d6cjBfSW1kX2hBeTIwUdIBowFBVV95cUxNYndwVEREWVpyY3dxenJmS3JtUXFjbUkwYVoyNEZ0NE43NHN2SFh3THpneC1peF9MUzJsamhaRVU3M2R0b2JvaDI0ZElSTHl3NDU0aWgzM3g1ZDBoOXpLSFdjSmZLREtBVXVsYThQbkUwOThxd1pLUXhhaTBsTDl0c0FyemhVWjFuZ3pfOV9vTkFjVk5pdlhnbjE0M2s4VUtMTk1v?oc=5",
    "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "On the ground in Kherson as Melian Trump-brokered ceasefire in effect",
-   "source": "AP News",
-   "time": "2026-10-27T16:06:00Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZldZaEc0cFVfVmVsbk1YdHpJQnVwZnJGX3pIZkRlNThtbUZDUEhyZl9Dc1ZwODBIS3p5ZVNlSkxjZFhVZ1NvNDVjYTdJSmpIMnlJQ2xNZlM0cDZ3TXJkUVFIVm9jX215UHo1OEduOVd5eDRPdWpGQkI4Tm9jNldFYUVvcGplRWhiSkh2THhDaUJKZW9WNFhSN2Etb3VoODJEX2xrOGRweklSeWJSeHZaNlpEczE1ek1aY1BjUDJPOTR5Wnpta0E?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "China Issues Draft Trade Secret Rules After U.S. Sanctions",
-   "source": "WSJ",
-   "time": "2026-10-27T16:04:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcDFLSWRoSklXOTdXX2lobDh5QXRKZDBfUS1GVmJUU1VpcXRzTmJqQmZFY1p1dF9aSXROVTdCaTRDaEpEVEc3b0J5Qy1Gb01Dbml0a3VZR3N6RUJOaXhacUJaeVh3emJqWm5PaXBvU0lFeXVLVUNTc1lWU2dNVGk5Ulg5WFdxTmVsV29qQXdRRGRBZTNIZndSZzRn?oc=5",
-   "tags": [
-    "SANCTIONS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Gold’s $4,000 Zone and Silver’s $52.60 Range Test Buyers’ Conviction",
-   "source": "Investing.com",
-   "time": "2026-10-27T16:01:00Z",
-   "link": "https://www.investing.com/analysis/golds-4000-zone-and-silvers-5260-range-test-buyers-conviction-200690371",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-   "source": "CNBC",
-   "time": "2026-10-27T15:52:26Z",
-   "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
-   "source": "CNBC",
-   "time": "2026-10-27T15:45:57Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTDVKNHJCemJmeWhwdU90TEp4d25ST2xFWk00MmNlanhyMGVBQlMtbUc4aGlydFlIVEplN3JUdV9TZEQ4bnQwelladTVoOE5RbURubUpHa0JhcUw2Q2k2TzNUMjF0UURQRHBzZ2hzT0JQY3BCVldDdXdmc0tDMGEwWmZGNFlQaU5iYWVOV09lc1pNZEc0WjIzenBhVTY4T3pTZlHSAacBQVVfeXFMTWhvLS10MTdQZ3V5VjJVRnFsUjFKVXo0QktxWkxkMGVRNU9KdmY0NXh4eTZma2pfaHVtSnBWNGhlTkJvYTc2ZmRicVZBbmlCRW9hX1dWTnRtWlhhS3NuZ0l5Z2tWNWtNQzN3MGhVYnVfMFhoRGpMbmJDby1XeVJRNl9jRjlvenAwVHhqYzJXUzBRVTkzMnVtS2xyYjlfWDBVMk1sUzkyVzg?oc=5",
-   "tags": [
-    "TARIFF"
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   }
  ],
