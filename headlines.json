@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-10-27T21:01:28Z",
+ "generatedAt": "2026-10-27T21:29:49Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 0
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -66,13 +67,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 28,
+   "items": 29,
    "kept": 6
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +82,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 37,
+   "items": 35,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 21,
+   "items": 19,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,7 +97,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 44,
+   "items": 43,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +107,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 14,
+   "items": 16,
    "kept": 12
   },
   "gn_oil": {
@@ -126,30 +127,39 @@
  },
  "items": [
   {
-   "title": "Crude Oil Inventories Drop Less Than Expected, Impacting Prices",
-   "source": "Investing.com",
-   "time": "2026-10-27T20:48:15Z",
-   "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-drop-less-than-expected-impacting-prices-93CH-4976943",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "How investors can position ahead of into the Fed's next policy decision",
+   "title": "How investors can position ahead of the Fed's next policy decision",
    "source": "CNBC",
-   "time": "2026-10-27T20:44:35Z",
+   "time": "2026-10-27T21:18:47Z",
    "link": "https://www.cnbc.com/2026/10/27/how-investors-can-position-ahead-of-into-the-feds-next-policy-decision.html",
    "tags": [
     "FED"
    ]
   },
   {
-   "title": "No clear winner in Israeli election, exit polls suggest, as Netanyahu’s fate hangs in the balance",
+   "title": "Kremlin downplays rare Putin call from leaders of Finland and Norway",
+   "source": "Al Jazeera",
+   "time": "2026-10-27T21:11:15Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb2xMY1ZNOGZMdGFLZGV6Ui1rTTZmODJnOGprdHhzRlJXcmkwbndqd2libFRWeF9jSkowZXE5SF9EYmhoZ3pwekhNZWUxYmtRRE5wSHRSMXRUd0JyWkNnTi1HeWdJUjZHRXRtZDJKaVZZN1BrQzNnamdCWVZGVXJFTXlCWTFfLTFZSnpMeVB1RHRwa2pMYUxZT2I3c05WTDdoNXVuVHdsTDgzYkRINVFXbFR5a29jUEnSAbwBQVVfeXFMUHduZGtfYlZfU2EyYm9WQmNMaFFZT2lyR3R4Z2JtOEN5NHUwZzhMTWpkSWx6TVVwOWJVbzdiM2plZTR3NUpvSkhQVlFGNVBtNEdvWWNaOTRaOUF3Z25sXy0wcEFMZ2F3MzNjMzY5aXl2bXJ4a0xEZjMzWjB3TE8tekVtWmJ6azk3bE1ndnRRdzJackdzUFdOY0R2NHlPZk00c0d5c1kxZXZpVEREWDkxUEpsTS10VHIxQXFmcEc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Exit polls show a rebuke of Netanyahu but no clear winner in Israel’s election",
    "source": "AP News",
-   "time": "2026-10-27T20:38:00Z",
+   "time": "2026-10-27T21:01:00Z",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjZwSHA4OFBaR3JuMHQxem5wOWlIX3ppalRJRHZOLWs0aHk5V3Zlei1KR2FrZzRGX2Q3UmhxZ25YYm5WNzBvVmFSX1I4N3ZTeldBOUdRck1nSm9PMWt5MmNtcDlYTWZOR0hfSUhvb3h1NlRJUlJsRVNqNGhJMGZaZ01zM0U4NWRlTGxQR0Y4dGE2dkZEMllzaU1B?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Crude Oil Inventories Drop Less Than Expected, Impacting Prices",
+   "source": "Investing.com",
+   "time": "2026-10-27T20:48:15Z",
+   "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-drop-less-than-expected-impacting-prices-93CH-4976943",
+   "tags": [
+    "OIL"
    ]
   },
   {
@@ -240,6 +250,15 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSjZub3owR0N5S3lzZVhsNjB4OS0zRVVnNFJkMWZkbnVhR0pyQmVleDk2akZRbEdxZ19YMV9fT3p6TlJiNlFCcU9GMmF0Ty1Ma3Q5cldwWm5LTVhrYWl6cVdNNEs0dk4ybUc1X2M5U0VYOEtTR0JPaXVyUFFvaHJQdDB2M0lRWVViN2RPSGs5T19XWFpBVG9jNW1QR3ZxRTAwcWdlZEhPZW4zdw?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Treasury Yields Fall on String of Weak Housing Data",
+   "source": "WSJ",
+   "time": "2026-10-27T19:57:15Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0ZrSXl6OXBoV0o4dU9HQ2VkMHV5SGV3OG9vMW00S245MDZGYld5SXVOM0MtakhEWF9rU3lLdXJCMFRWS2ExbXRQZWhCM25fVmhMcGI3LXdRZ0I3UmE2SHJBYTZ0Mi11ZV9jU3IxRGRsNkFhRW9tdE1acTBPRVp4M3laTUVqcnlfd2UtUldmcU9wWEdyczNBSkZuekhHS01tazBtbUwwYms?oc=5",
+   "tags": [
+    "YIELDS"
    ]
   },
   {
@@ -532,6 +551,15 @@
    ]
   },
   {
+   "title": "Higher tariffs on Canadian imports would be ’catastrophic,’ Honda exec says By Reuters",
+   "source": "Investing.com",
+   "time": "2026-10-27T17:05:21Z",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUzktbzh1a0tVTGpLZlpRSm41YnljZm5EX0hsRXdldmJxcjIzem5tVk8ycFpKeDVvbkZTdXRTZ3EtWlMyU2lBck8yUmxEaU42UzZuS1hzbVJvbGloTmdneFV0MjRBbDc4NVZTajhXT3JYbWh1RVlta1BuLXFzeXB5eG9WLUR3WTdsR2xJdUZZNFJwVlV4aDFiU3U5c0swc05IN0VUSDM5ejN5XzhlRWpvODRGem1kZWtPaUp6TkV1YThGMWdYaVd2Rg?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Funeral held for family killed in Jordanian airstrikes in Syria",
    "source": "Al Jazeera",
    "time": "2026-10-27T17:03:45Z",
@@ -650,34 +678,6 @@
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "FCX Q3 Earnings Beat Estimates on Strong Copper Pricing",
-   "source": "TradingView",
-   "time": "2026-10-27T16:14:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQi1hM1p4U2hIQlFtZGNmMDlrb0JaMjJoZ3diRWd3Qk55YXFFRjBZVy1HX0JRRDVqdVNzckd1WkpEeXlqMXRkcmJTR0xjeDJzNTI5Y3RwUXE2cmRUU0JyRkZPWVRpWVRQU2RtTHdLOWItQXROMjYtUzFJeUFkSnF2eW9LVlQ0TUtScjJJSGlMRE5TZThJOXZ5MnhUS0dqdldZMTdKSmFuajBabzgyNWQyZA?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "First lady Melania Trump says Ukraine-Russia ceasefire expanded within Kherson",
-   "source": "Reuters",
-   "time": "2026-10-27T16:10:26Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWI5XzRBZkxjUTFKVVhqZmVHVkU4NmZVRGdWak5SRUhZN1ZIMEdzMzRzQjI3eW9zeC1UakhZZmZuNF9hS0VtV2J0YVF4bDVad2kyUklyYnNVOVNlWXBES29JUk9iVHJhTld2NEVSSE9Wa0F6UUwzM3pCQmVTTFlUNm43ZUEwLXZHbHoyTmRYX29oREFfdGZrUjhwZmx5UVprM3owTmR0N2FhLXlkalVzd1JUbjgybTdWbVREMEVwb3dHUkdRM2c?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Senate overwhelmingly advances Russia sanctions bill named after Sen. Lindsey Graham",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-27T16:09:27Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY201cHExVEdiSzNVUkNQZ2cydldwMkhLeEllZFVEelRtMVQzMGdxZHk4Z041YklkcW0wY2tscXFTaFpBUnRENHJnekJjU3JfTHU2RnFaMnA4SjBsVWRwTGk1ZVVWV1BVWWl5dHptaFNYdThJUEFaYWk2MUUzeVRsa1RKdHBManRzNHR5eEJWa2d6cjBfSW1kX2hBeTIwUdIBowFBVV95cUxNYndwVEREWVpyY3dxenJmS3JtUXFjbUkwYVoyNEZ0NE43NHN2SFh3THpneC1peF9MUzJsamhaRVU3M2R0b2JvaDI0ZElSTHl3NDU0aWgzM3g1ZDBoOXpLSFdjSmZLREtBVXVsYThQbkUwOThxd1pLUXhhaTBsTDl0c0FyemhVWjFuZ3pfOV9vTkFjVk5pdlhnbjE0M2s4VUtMTk1v?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
    ]
   }
  ],
