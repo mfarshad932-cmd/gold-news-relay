@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T03:31:08Z",
+ "generatedAt": "2026-10-27T03:59:29Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 3
+   "kept": 4
   },
   "marketwatch": {
    "http": 200,
@@ -86,23 +86,23 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 31,
+   "items": 30,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 20,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 45,
+   "items": 37,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "gn_yields": {
    "http": 200,
@@ -111,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,54 @@
   }
  },
  "items": [
+  {
+   "title": "Opinion | Buying a cardboard box should not require a senator’s help",
+   "source": "The Washington Post",
+   "time": "2026-10-27T03:47:34Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnVMTE5TVTVISEY3b240VWc2RjVZV2pQWEdRSmpYUjZNUG5OLVRYS3ZNTUZDdWdmUTV1MzNtV284VVRaVm5HRUNfX0ZJcTduMEZjX3JoQzJtOTFwZ21oX19tSUE2WHRGVnVnbVBQSmNwaU1vZWVoZ194ZlNRYmIyT1pFRndhNzlaWnJqTEFVbUFMSi1UTGZfY3BINS1kSFRJQjZj?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Taiwan rebuffs China's commemorations for post-World War Two 'restoration' of island",
+   "source": "Reuters",
+   "time": "2026-10-27T03:42:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZjdsQURjQ0MxQmgtQVEyTGZiNzFRd1QtY0dsRXowVHhQRVNObEJLV0Vhc0tKQVZDbVp2a2Rmbklod1hURHFhUGVZb2JKRUdxMGxtSmxtcW55aV9fdG40eUhJNHZmUC1HLWlUWTVtekVVYTZqdGsxeEJtbEh5VkVQdFBYRS1rYzBoVVBVOUZtaEtWQ2FEQ3dpYmZyOENnRmZoRFVUT2h3MW9tNXE4a3JYZTY1RjhGUlA0ak5ENHRqTQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "China’s industrial profit growth picks up amid deepening economic divergence",
+   "source": "Investing.com",
+   "time": "2026-10-27T03:36:19Z",
+   "link": "https://www.investing.com/news/economic-indicators/chinas-industrial-profit-growth-picks-up-amid-deepening-economic-divergence-4974129",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "China industrial profits post strongest growth in three months as tech boom widens economic divide",
+   "source": "CNBC",
+   "time": "2026-10-27T03:34:08Z",
+   "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Gold Price Forecast: XAU/USD trades with caution as Fed’s policy takes centre stage",
+   "source": "FXStreet",
+   "time": "2026-10-27T03:30:22Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON2xlZ3VVNlExVV9MOHZKR3N3S3ZUMjdrNTE1SUtnc0Jjb3NVZmkyRlNuNWFuTDUzWmQzVUdoZnFBSmhicWhyR0Itc3JlNTZhVTJPdE5qeERKaG1kQnh1SlpTaTJhVVl4djdhS01qRUduTklXOWRhRERyNWVZQUx0Vlk1dUxzclFJYkVlTVl0UUdNalNFM1A1c2R2cVBLbmhHTmQtZkpBeF9kbFBTLTY2dEZ5VV9NUWRaUkoxM3ZWQkpobmhjQS1j?oc=5",
+   "tags": [
+    "FED",
+    "USD",
+    "GOLD"
+   ]
+  },
   {
    "title": "Has Oil Replaced Gold As 2026’s Most Compelling Safe Haven Trade?",
    "source": "FXEmpire",
@@ -139,7 +187,7 @@
    "title": "Myanmar refugee in Denmark demands justice over junta war crimes",
    "source": "South China Morning Post",
    "time": "2026-10-27T03:03:05Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSjR1VVZYZjdiTlBzcG1ianFYQld2SXJfZUNJTVNOaVNwYk0tV2RoQU5oOFhkRnI4eTZWOTZPZEZUdEpfY2xPMjJtUWpYZkJITWpDd3FoQmlLdVB3SnZOd200d3ZMMHVRZVpBdjJobl9DOFhGVVVXcExPRF9CNlVmWmJDZjc2QVRVN3hvLXlUNXIzcDR2Nm52WkVnNlJIaU1URWZDNHM1Tmo2NXdhZEt2S2pseG9yd0JvRjhpNXozRTbSAcABQVVfeXFMTUtpMmJaVHp5VnQ0bjA0akJBd1ZpTFB2SDB2VEtQcEhocEZtOTV1dHhnZWc5QXBwWGJuRlpSdnB4ay0zV3BhVEJaZTBqUHU1MUlvOEVMZFp0XzgwazdCZU1FZld2WHFubVJqZGdUaEZhSm1BQ3ZpUUYyR2wwcVFvZmJkWGMtVFdBMl9OV2hxUV83TjFiMlU5SkhURVJzaEFzajA3RmhWSTBXRlA2S3h3RVZIdjVWRlFMV1UtUlJpVERl?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS2kyYlpUenlWdDRuMDRqQkF3VmlMUHZIMHZUS1BwSGhwRm05NXV0eGdlZzlBcHBYYm5GWlJ2cHhrLTNXcGFUQlplMGpQdTUxSW84RUxkWnRfODBrN0JlTUVmV3ZYcW5tUmpkZ1RoRmFKbUFDdmlRRjJHbDBxUW9mYmRYYy1UV0EyX05XaHFRXzdOMWIyVTlKSFRFUnNoQXNqMDdGaFZJMFdGUDZLeHdFVkh2NVZGUUxXVS1SUmlURGXSAcABQVVfeXFMTUtpMmJaVHp5VnQ0bjA0akJBd1ZpTFB2SDB2VEtQcEhocEZtOTV1dHhnZWc5QXBwWGJuRlpSdnB4ay0zV3BhVEJaZTBqUHU1MUlvOEVMZFp0XzgwazdCZU1FZld2WHFubVJqZGdUaEZhSm1BQ3ZpUUYyR2wwcVFvZmJkWGMtVFdBMl9OV2hxUV83TjFiMlU5SkhURVJzaEFzajA3RmhWSTBXRlA2S3h3RVZIdjVWRlFMV1UtUlJpVERl?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -163,6 +211,15 @@
    "link": "https://www.investing.com/news/economic-indicators/china-industrial-profits-rise-144-in-september-on-ai-demand-4974109",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "Truce begins in wartorn Ukraine city after it was announced by Melania Trump",
+   "source": "BBC",
+   "time": "2026-10-27T02:58:48Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zUnlnMk5HcGo3aFhDUHJyM3l4R2tmdEJLT1hhakpqRnpTZTRKcEFjenlYSnJpTXhmWVRyY2J5OUhOWUpkNVIzM2FVRDB2VXU2MVY2YThZTzF1aU0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -194,15 +251,6 @@
    ]
   },
   {
-   "title": "China industrial profits post strongest growth in three months, rising 14.4%",
-   "source": "CNBC",
-   "time": "2026-10-27T02:23:29Z",
-   "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
    "title": "Ukraine war briefing: Trilateral peace talks with Russia to restart, says Zelenskyy",
    "source": "The Guardian",
    "time": "2026-10-27T02:19:00Z",
@@ -212,21 +260,21 @@
    ]
   },
   {
-   "title": "Opinion | Buying a cardboard box should not require a senator’s help",
-   "source": "The Washington Post",
-   "time": "2026-10-27T02:17:34Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnVMTE5TVTVISEY3b240VWc2RjVZV2pQWEdRSmpYUjZNUG5OLVRYS3ZNTUZDdWdmUTV1MzNtV284VVRaVm5HRUNfX0ZJcTduMEZjX3JoQzJtOTFwZ21oX19tSUE2WHRGVnVnbVBQSmNwaU1vZWVoZ194ZlNRYmIyT1pFRndhNzlaWnJqTEFVbUFMSi1UTGZfY3BINS1kSFRJQjZj?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
    "title": "Gold, silver rates: What is weighing on prices and what investors should watch",
    "source": "CNBC TV18",
    "time": "2026-10-27T02:08:00Z",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM1VJS1Q0TUpQdmhkN0VMbmdZdmE4RzVLTm1HdFFZXzlIMXpxWXlvTzdfaFNIRFdSaWstb0pSa05SSkJ3MlBRMXJfcmxEZFBOUVd5c2R0czVTd2h3R2hjRDFMQTc1c2taQmFQcHNyOFdwWUdGUDJJZUhZclN0SHNSVXpXaElmbFJYWHJNZGN5NUtDczZTZDZIcEFIaWo4eEVzX3ZWTVBBOGpYZ2Rqc3g1LU93REV3NFN6UHV5ZU84MzRaUzM0YmdabtIBzgFBVV95cUxNZXBuUG1FWjFVc1dOenZQU2Q5YnY2U1d4VFZGNE1FMkRZZ0ViZURGTXNyaDNMTUtLM2U1WWg3ZEl1SVUtU2lqdDhPX0wySVdTN1Zldk84V2dta2xLUnF1WTRPSHEzdGxSRDFpNFZDSWpGOS1lUDktN3ZvWFNfWmZNSzdFSC1wd3B2TFlYcWlsUjFhOGpaM0FSc3F4aTN2VEFmZ1dvX3IxV3VTTUxERm9VNGxOeDdudnY2bU9zX3o4NF8yZVUxaWs2X3FEclIwUQ?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "See How Flight Routes Are Changing to Avoid War Zones Around the World",
+   "source": "WSJ",
+   "time": "2026-10-27T02:05:10Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlB4dVplUTFDQ25acHl6Q240Uk1aWTAzWDB5WUVZeXB6eTJZZVgwZjZCcVUxbmtOdDlsdUxLUVdCRTV3OXJ4eEpQV3RzNmxqNjcxMVd5MTFrb3FNVUFKTjFJUl9rWnJLWW83VUpJRHJPTzVqZFNmV3BodnpOcWRPWV9lN1ozXzNXRU1BckV0RF9LSWxFcktRelpyWktqYklsTTZkbDEzTjNndUozTmNIWVNpR2I3VjZzNlFfQnpIMFlIUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -383,15 +431,6 @@
    "tags": [
     "FED",
     "GOLD"
-   ]
-  },
-  {
-   "title": "See How Flight Routes Are Changing to Avoid War Zones Around the World",
-   "source": "WSJ",
-   "time": "2026-10-27T00:35:04Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlB4dVplUTFDQ25acHl6Q240Uk1aWTAzWDB5WUVZeXB6eTJZZVgwZjZCcVUxbmtOdDlsdUxLUVdCRTV3OXJ4eEpQV3RzNmxqNjcxMVd5MTFrb3FNVUFKTjFJUl9rWnJLWW83VUpJRHJPTzVqZFNmV3BodnpOcWRPWV9lN1ozXzNXRU1BckV0RF9LSWxFcktRelpyWktqYklsTTZkbDEzTjNndUozTmNIWVNpR2I3VjZzNlFfQnpIMFlIUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -644,43 +683,6 @@
    "tags": [
     "YIELDS",
     "OIL"
-   ]
-  },
-  {
-   "title": "Why Gold Miners Are Falling Faster Than Metal Prices",
-   "source": "Investing.com",
-   "time": "2026-10-26T21:06:00Z",
-   "link": "https://www.investing.com/analysis/why-gold-miners-are-falling-faster-than-metal-prices-200690291",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Canada trade deal 'very close' as PresidentTrump adjusts tariffs",
-   "source": "Fox Business",
-   "time": "2026-10-26T21:05:29Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wNHdCN3NfWTJyQm1TX0psQXIwbXJBNE5iWFdWWmpaMFZ2WHlMaUl5c3REQk8zM1M2Q1kxOXRTcl96S3NNYTBJX2paaDFXSTJROUgxbXJteDFSNHc?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "US, Canada working on deal to ease steel, auto tariffs, sources say",
-   "source": "TradingView",
-   "time": "2026-10-26T21:01:53Z",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSnFDUmJFbTFGLVExSFB3LXV5alhXQjU0ZW9qRzRtY2c4MVRjM2dZYkU2N2xyc3ljdG93NkJxQXRwRkJVYTNWamo3eEJBazUzQ1JYWjY1VkxQQXlfME1HOE9LdDRhcG4wVlk0dmdUM0lXdWU0ZDFwbUpLX0xmdklqcUx0aFhsTGdkVzNPWlFDS2hpdk1mNWd1VEkyMnp6QzNvbnZMVVBSMGZhVUtzTUNkeEhlbkF6X01qS1NlbzRfbUo0Zld3bjRDdTl4UTU1VGc?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
-   "source": "WSJ",
-   "time": "2026-10-26T20:55:42Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
-   "tags": [
-    "FED",
-    "CENTRAL_BANK"
    ]
   }
  ],
