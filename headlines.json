@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T04:56:08Z",
+ "generatedAt": "2026-10-27T05:24:28Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 30,
+   "items": 31,
    "kept": 3
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 27,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 24,
+   "items": 22,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 17,
+   "items": 18,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 37,
+   "items": 34,
    "kept": 12
   },
   "gn_sanctions": {
@@ -125,6 +125,79 @@
   }
  },
  "items": [
+  {
+   "title": "Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns",
+   "source": "CNBC",
+   "time": "2026-10-27T05:09:59Z",
+   "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Three Russian diesel tankers steam for US — including one under sanctions",
+   "source": "Financial Times",
+   "time": "2026-10-27T05:01:46Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGk0enQ4S1dKd2xXdnZPWjRvWEtieklCbUItUFpSQmtqLWN1eTNNY1ZHOEZXVkFNVW1QQXBXNk96WUg3TS1RSWhNUlBpTzdYMi1ZMUJYclhlbFh6YS1JcnV5UE11RlYtSUZRNjBkWFNwZDIybWhUeW03M2stMXlyLVNwX3o?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "UK’s tariffs on Chinese diggers challenged by Caterpillar",
+   "source": "Financial Times",
+   "time": "2026-10-27T05:00:28Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0xWTlFHR3Y4MzBRSk1KSDZHaFI2amJZQnd6RGxRRXBmcFd0cmw5eHhvOEVHTzNQZkVjcmFaWW94enR1dXBGVlhxR2Fyd3VBaGRPSUVETS1xZ3ZPWmI5Z050clpDVHUxMXVmU0J5Mk0wS3dPOVNPdTZiVGs1TF9EV3lIc1A?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "WTI Forecast: Holds below $100.00 as Mideast risks limit downside",
+   "source": "FXStreet",
+   "time": "2026-10-27T04:57:07Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTlVkWmVRbU40b0k2eTFmUGVkYWFyUE1mcXc5MUJxdDVpeU1zRXlnTGlEb3pGNFhEY3FXWFRUVGVwZTNrS2lTVm44TDIxcVN3VVY3eGdENndkYXpuTHpzdTFXVFFZVFlBc0k4RzBqR0NmQ2dwQ2UzZFY5S0s3bFNraWhzNFQtS19vZzlaSDhIU1paSmJGRElXQ0VkV190UTZfLS1McmlGZVA0VDBmSXMyN0RfM0dSd2lmeGktck93U1g2eGM?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Iran, Saudi, Turkiye and Pakistan agree to more talks amid Houthi attacks",
+   "source": "Al Jazeera",
+   "time": "2026-10-27T04:54:26Z",
+   "link": "https://www.aljazeera.com/news/2026/10/27/iran-saudi-turkiye-and-pakistan-agree-to-more-talks-amid-houthi-attacks?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Bond market tensions ease but Treasury yields near 5% and France's debt risks keep investors on edge",
+   "source": "ForexLive",
+   "time": "2026-10-27T04:49:54Z",
+   "link": "https://investinglive.com/news/bond-market-tensions-ease-but-treasury-yields-near-5-and-france-s-debt-risks-keep-investors-on-edge/",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Opinion | Buying a cardboard box should not require a senator’s help",
+   "source": "The Washington Post",
+   "time": "2026-10-27T04:45:22Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnVMTE5TVTVISEY3b240VWc2RjVZV2pQWEdRSmpYUjZNUG5OLVRYS3ZNTUZDdWdmUTV1MzNtV284VVRaVm5HRUNfX0ZJcTduMEZjX3JoQzJtOTFwZ21oX19tSUE2WHRGVnVnbVBQSmNwaU1vZWVoZ194ZlNRYmIyT1pFRndhNzlaWnJqTEFVbUFMSi1UTGZfY3BINS1kSFRJQjZj?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Israel heads to the polls as shift to the right dominates critical election",
+   "source": "Al Jazeera",
+   "time": "2026-10-27T04:44:14Z",
+   "link": "https://www.aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "US, Canada in talks to ease steel and auto tariffs: report (EWC:NYSEARCA)",
    "source": "Seeking Alpha",
@@ -173,15 +246,6 @@
    ]
   },
   {
-   "title": "Opinion | Buying a cardboard box should not require a senator’s help",
-   "source": "The Washington Post",
-   "time": "2026-10-27T04:13:24Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnVMTE5TVTVISEY3b240VWc2RjVZV2pQWEdRSmpYUjZNUG5OLVRYS3ZNTUZDdWdmUTV1MzNtV284VVRaVm5HRUNfX0ZJcTduMEZjX3JoQzJtOTFwZ21oX19tSUE2WHRGVnVnbVBQSmNwaU1vZWVoZ194ZlNRYmIyT1pFRndhNzlaWnJqTEFVbUFMSi1UTGZfY3BINS1kSFRJQjZj?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
    "title": "Gold eases on firmer dollar ahead of Fed decision",
    "source": "CNBC",
    "time": "2026-10-27T04:06:05Z",
@@ -199,6 +263,15 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOenJjWWFLN0xjSXdjOHdmUFJ5ekx1M0FLLWR0dGxDc1p6X2xJbDAzM2Zia0lIZFhwdTBJOExfNnVseXd4M1RzUjRDV2MySDBTTTFuQTFKYmVrd2JEWTdOUG9BM3kzU24waU9zQlJMV0d3cFR1VXJrdVZzd1FITEV4Y3lMbHVOM1hZWlFnQlZKd3FvVDA?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "European markets face a quiet calendar today as central banks and big tech earnings loom",
+   "source": "ForexLive",
+   "time": "2026-10-27T04:02:45Z",
+   "link": "https://investinglive.com/news/european-markets-face-a-quiet-calendar-today-as-central-banks-and-big-tech-earnings-loom/",
+   "tags": [
+    "CENTRAL_BANK"
    ]
   },
   {
@@ -250,9 +323,18 @@
    ]
   },
   {
+   "title": "Russia, Ukraine begin localized ceasefire to allow for humanitarian operation in Oleshky",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-27T03:25:26Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN2UxRndYUmlmOHExZW1OWDNxbW1WcmttUlZOZlpKaVFXSF81Rk9tTFc5ZEZ6VlhSSjRwSnV3ZnFaU25uNXhtbDJnMzJhQXNLSmxtS3pIbVFIUG5UemlXdWlOM01WalkwZXIzMk0wblFfX0M3SlhDTzZSRERYbzMzV1JCc0NTWlFJM0E?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Has Oil Replaced Gold As 2026’s Most Compelling Safe Haven Trade?",
    "source": "FXEmpire",
-   "time": "2026-10-27T03:16:43Z",
+   "time": "2026-10-27T03:17:39Z",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFM0TUtUb3A2NkZRRHR0UWFpSGxpQVAzQmV1bDJkZ0h4Zm13VjBJcndpVVdzT0llaUlCVTZleGtHWWJzTzVmb0l0Wkd4bFh4TTJTVnJUaFZRdDVueHRUdnRsTGNxOXJEcHlvQml3VG1xNGplT09vZHhzZTRZeTdkaDNZRW0yYlFvdFA2TWVuXzExdHRlWXR5NGZ4dzVPcEMtb1NPTE12bXRxSkRCNmp1RkxETDE?oc=5",
    "tags": [
     "OIL",
@@ -603,90 +685,6 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
-   ]
-  },
-  {
-   "title": "Australia CPI preview: banks see 1.0% core rise, above the RBA’s 0.8% forecast",
-   "source": "ForexLive",
-   "time": "2026-10-26T23:31:36Z",
-   "link": "https://investinglive.com/news/australia-cpi-preview-banks-see-1-0-core-rise-above-the-rba-s-0-8-forecast/",
-   "tags": [
-    "INFLATION",
-    "CENTRAL_BANK"
-   ]
-  },
-  {
-   "title": "Gold price rebounds ahead of Fed decision",
-   "source": "Mining.com.au",
-   "time": "2026-10-26T23:26:42Z",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wZEM0NU5kenl3NGJRM2dMVEc5ektzbG9jdFZwV1VfaFpqRVZVUWRTb0RzcHlpZm5YTXZsRkw2VDRyNlFtQm5Wd3V1V3VpZW9VckNDSkpYYm5YUkNnZm05QmFkT3VTWUV6U0U2SGxmZi1XUQ?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold rebounds above $4,000 amid hopes of easing US‑Iran tensions",
-   "source": "FXStreet",
-   "time": "2026-10-26T23:20:59Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR2h0TkR3TDJRYzVCLThGNTBZV1lScHB4NU1veVJXRERvaEpwX0o5NUdVSXV3TVB3Z05JMENoQkVIampiOWNrUGZuOGhCLXBqcXdSS0JWbkp5c3BULVdPUVhrLWJtZjFxcmhYM05pLXV5WmJ2VFhlU3g4ZGJoVzNXNjhhWENsVFY1c0cwNnp6UUdGRXJJbk5iRk4zN1kyS1Q2dldmd29DM0pEUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Newcore Gold says market undervalues Enchi after PFS - Luke Alexander",
-   "source": "Kitco",
-   "time": "2026-10-26T23:10:29Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2dJS3lIQ29lTFNITjBZb0dtekZfS0dOZFhZSkpQNFIxanZNVGFfZzFxNnphV3hJejNoblc1X0dDSVU5RkxCYzZXRWVuYlZFMFhabGRkM2o4TnZvY2pqM0hldGlMV1Y4NldZYS1rSWl6STItZFBhekNPU3I4TUFkQW5uYmQ4OTJSTXBVUDdfVnRpWHV4bWtKc19mVGV4T3ozVDJza2dHcFdxN2N2TUZ1NUpuUnA4Y3c?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
-   "source": "CNBC",
-   "time": "2026-10-26T23:10:16Z",
-   "link": "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Netanyahu touts Trump endorsement on eve of vote, suggests they may restart war on Iran",
-   "source": "Reuters",
-   "time": "2026-10-26T23:06:29Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUluTlhFbGtJMWMtZ09ieVhSblh2b0Y4cWpleDVwWUVfUWVyanZIOHFhenFqaWRYZ0U0cEd6MFVjQk5xSXZkWjJNRmM4ZWdPa01KTHBRRjVHRnJPRWtlbGRwWFBNOFJnQ3F5Z2JZbjVFVE5ERUxDdmozN0FPUjRkaUpVNGIwRUFTVXhROU95dC1wby0wX2xzTlg2ODlZeDR2cmM3bHFFaHItbGJ6X3gxT2lwX0FONW11aGtoeWFXQmhmc00tWnlQZEhHQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "EXCLUSIVE: US, Canada working on deal to ease steel, auto tariffs, sources say",
-   "source": "Reuters",
-   "time": "2026-10-26T23:04:19Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1JXYWUtZ2l1TGNtSDlwbkN6SkxUR1RxaWZjQnFpNk8yTzBuLTR5OEUxQ296SmZEd3dDS25tMjh1eW5hRGg4X1gtVUpVQi1UbWIyYXpJQmh6NGxpX011WWlEYWh0Z3FKRm55UUl6UnpKUTZmM3lhUElLNUVIb0tkWDBYVkI1LXI2aWxwT1Q2aUpSZjhOcUVxaTByX21WVlExQVE?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Iran War Boosts Malaysian Data Center Appeal, SD Guthrie Says",
-   "source": "Bloomberg.com",
-   "time": "2026-10-26T23:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbWxTdkZkQTRuTkdfVlcyUEhhWHhzMHUzS2p5TjduQlphT0NhSTdzenlrdGtlV3N5U2QxM2ZNUkM1dTJwOVFNc2tzSm9OeVJZbHg0M0VYQXFNR1BVSnFKcWI0d1R3bDdLY1BnQUtRM0tnRnJNWVFwbGtzakR4aTJYREtIVm8xbkY5WXhFY3huVXpTYkxkcDVndlpaSHNadEYyQVE0Z2dLQnh6Wi1ISWwtVg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says",
-   "source": "AP News",
-   "time": "2026-10-26T22:48:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckctdmhsdjZTU1FZLThLMWZNbUtFTHlmNDB6bE9ZT2tOeU9yd2NQLTEzVExNeHBJSTZUM1lIYjZpZDhCMmRENGV0aml4ZmpDQWpIUm5YSlVxb2JEdTRaLXJlcHFOSUhLR3M1VGFIVUZNbGJaRklpbGJZWDJldjF3ZlZaN3Y3eDJmaXpMTHZOMGI4ODRHbHFqcHVJTXBQaThUTUdxbktSaFcxQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
