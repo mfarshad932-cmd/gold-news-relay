@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T14:50:59Z",
+ "generatedAt": "2026-10-27T15:21:14Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 3
+   "kept": 2
   },
   "marketwatch": {
    "http": 200,
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 33,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 40,
+   "items": 39,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,23 +96,23 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 45,
+   "items": 50,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 9,
+   "kept": 9
   },
   "gn_yields": {
    "http": 200,
-   "items": 15,
+   "items": 12,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,21 +126,102 @@
  },
  "items": [
   {
+   "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+   "source": "BBC",
+   "time": "2026-10-27T15:13:24Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+   "source": "CNBC",
+   "time": "2026-10-27T15:12:30Z",
+   "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "S&P 500, Nasdaq gain as traders gear up for tech earnings, Fed decision this week",
+   "source": "Investing.com",
+   "time": "2026-10-27T15:10:13Z",
+   "link": "https://www.investing.com/news/economic-indicators/us-stock-futures-rise-as-anthropic-ipo-buzz-boosts-tech-fed-earnings-on-tap-4973986",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "S&P 500 rises as chip stocks gain for a second day, oil prices ease: Live updates",
+   "source": "CNBC",
+   "time": "2026-10-27T15:07:17Z",
+   "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Trump’s arch would cast shadow on Arlington Cemetery",
+   "source": "The Washington Post",
+   "time": "2026-10-27T15:02:28Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2pFUENIN3JnaktfbXBXaFk5cVVNbWtYUEM4ZHpjZ1Jsa2RlaXVTZmN1Y0VESklWSEdheVRMVjdCRVNHd3BsZWZhdEFHNndNWmU0VE9XWElUeGVma2I2eklwN3liQm1jRHRKak5JZWYxM3BfRG1ubmFkUXp0cHpjSUxTZnhLOWs0cnB3U3NENkdFRm9hNlVaekFFNE9tb09XMmhFOFpkZ04weVlhMXU0ZW5DNjl1RU83WlE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump's Tariff Shuffle on Canadian Goods Keeps Average Rate Steady, UBS Says",
+   "source": "www.marketscreener.com",
+   "time": "2026-10-27T14:57:21Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWWY1Tm1TaGhFMUN4RGdNQTZweDRvNHNWMDVxUkdwUXpEN0VUampKdUQ4QWlIbEhyMExaTnhtNzlvaTNJeDBWLVVkQnAtTlg0TVR1cTUzTkxKdkZpSmx1eDFwRFByNVlDZFVNcFVvQV9mdDJ1Z0ZZeUlLNEZCVGlSMVZMd2pOTThrUVcxRkdEQXFLc013bnVuaHZ0RzIyZUhJb1NkaFRNOVdoNkNaTTFibGx5UTlUaUU0a2RfS2ZjTzVhb1ctM2k0?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Qatar, Iran discuss war and Hormuz in Moscow meeting as another ship struck in Strait",
+   "source": "The Times of Israel",
+   "time": "2026-10-27T14:54:16Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1hWM01wUEtkUnYwQkRqQnkwNVQzWHZ6dkRCQ2hDcGlKVEs5UkV5NWVWXzUtY1d1WXd1ZDNMSDkyeHA0RVBkbEYzdG1xaXhNaUVwQVVqajlCZzZueFdRN1FUQ3JKTXVXS2dFbHVxc3hISnY3RnJLTWhKdVZFbzhRR0VyQ2lFMHA4d2dHXzFJa2tFTDZBNlNZbGRVQ2x1M2FGbGJlcUpCVnJJVUtnYW1iMzZDY1JOZ9IBuwFBVV95cUxNd2hTZUhBNlJ6MlNmWWhFelRCU3U0bDM0aWpPanM2aTZGLW9XV1loZ0hwN3pXcFREeEkwQzJwTzlBd3JJT1V4M2FQSnJNYWVRak8yTWlISUQzeVU4M2cycGFvNW1BQkNLSTNGTnhtLXd6dEw4Mm12cENWOThkVngxWjJvS0tpOFVfWGNVSFgyVC1EaDBaOGlTMEZnTWxqempqXzlIeUxDRUhheXJjUUVxU3pWZ2tKME1VYjJJ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ceasefire brokered by Melania Trump takes effect in Russian-occupied southern Ukraine town",
+   "source": "The Hill",
+   "time": "2026-10-27T14:53:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX3ZMX2xsOFVadVduTG9Nd1BMcEJIMXBGc1pXanF3aXJsWHY1Mm9GQ3E2UzNFRWJYN2dvSkFxWDUzMEJfbnN5U2pvRkluWlM5b3BYVU83Z21NOUpxUnZsS2x0Z1ZKZ1hjMFFqcU5vaFNVMU1MNWlNUjFFdmJnRmdKWFBhR2dZOUhBSWxoUDZmUGJrMHROZ0xTbkZITDB6dUZobHR5NtIBqgFBVV95cUxPaUdGdHhPRmpDU0kza09UUHJnSnJ1VnkxUHA3TnBFZWhDTDgtZ012M2JzRGhjWWpxdmZHc0xYUVdJM1J4bG90NU1oN1IxcWthRmdURnctMEpQbzRuT3ZrLTBsWFoxM0JxbVg2dW5oVnpsXzJDVy1rNE5CSXotdzVPeUtpRTd3OEJRVE9xcndkeWpkeWxjbWdKRVZXal9HX01GaXpBUS0yUXpCZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Sudan’s war steals children’s future with school closures and displacement",
    "source": "Al Jazeera",
-   "time": "2026-10-27T14:46:02Z",
+   "time": "2026-10-27T14:48:04Z",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGtvekpmWmNhYXZUMmlBXzE3Ynp6YmhOal93NnptZlo2elFaeUwtYTNfQkI0OGRMdk1tY0s2enlpLTBEYk5QaU1rRXQ1a0FqNjhMZ0dfR3dkdUZ1WmF0SXBiMkhCSlVvZW1obnJHdXJsY0dDcUZMQWhLenpETzdwYUVsV0RIZnZOWUFLeVNPTjRDSzdSMDJFQl9keDBqNVNuaUhFVkp2UG9FUnExc2VRTkp5NWdQZmJJdzdr0gHAAUFVX3lxTFBReWdIRXNraG5yUWRKTmxxZFhYWk9tYm5UNUYzeWxobWtGTFRIbU03QnpmelJJMVhvdzREbWEyc1EtdFdMUWQyT0w5MGpxU2dEZGxWNnhYRm9DUzhkZk8xcUNQQUlKSGZDR3B3cG5IQVExWC0xOW9zN2c5VU16MllySjZrdXFScUdZdjdlU2FYUHkwTERNc0dUa05SeGRYLWFqd2psNDh1TDFWWlJ3blloQnF0enpwZkMwWDRjcTE1bQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "S&P 500 rises as chip stocks gain for a second day, oil prices ease: Live updates",
-   "source": "CNBC",
-   "time": "2026-10-27T14:44:26Z",
-   "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
+   "title": "Opinion | This peninsula is an economic powder keg. A blast could cost trillions.",
+   "source": "The Washington Post",
+   "time": "2026-10-27T14:47:44Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdU83YzVjZUUyRzN6M1R5SEhsVnRsd0VVcEI5ay1PRUQ4LS02c3FmQzRDMFNvdGxXeWZyNFZvNWNRX0UyUFN3djcxSXplS1BmdnIzQVR6V3VtSm9SSWFNSVU4ZkdQdlpwS2tNeWZ4UDQ2ZWFiX2o5VXpfamx3SEk2TlZtaWJCOVFwTFZ2OC1Yd0p5NGVXUE9Faw?oc=5",
    "tags": [
-    "OIL"
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold tests its 100-hour moving average as buyers look for more control",
+   "source": "investingLive",
+   "time": "2026-10-27T14:41:51Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGQxRm11SUZZeEVyNGtINHU3bG5IZ3JNRjRWM0h5c1BKeGN2S2VoV0M4VUFhY1RiRGJGR2ZwNG1aLXVHWkpldlgyR2tiVVdfMGIxLU1XdmVrWFB4Nk9JOUg2TTd2anRIT2ZVZlpDY3FEVDctMEx6OFZ6am1Ud1FnRXVkejdXVUJ2b3R3YkhJdTVKbm9IOG5lMHo4bnlEZ3NDOG1Bd2tqdTNscGJ6WXc?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -163,12 +244,12 @@
    ]
   },
   {
-   "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-   "source": "CNBC",
-   "time": "2026-10-27T14:33:33Z",
-   "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
+   "title": "Trump’s sanctions against the International Criminal Court undermine justice",
+   "source": "The Hill",
+   "time": "2026-10-27T14:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpTW9qQVFqcmFTNkRhc3l5dFQtbzRiSllIY19ELUZ0ajZsaUdjM0JjbjRUeGx5T3NwekRzNjNZWlF1ZDVVUkcwZmNuMi0xZFotZUoteXU5aHpVdk5uZFdhWS0zUEwxQUNpczFFVnJmT1VUNHNZSkJ0SFVR0gF_QVVfeXFMT1lIUjItWjZyTFo0YU1wcnk1X1ZLcGhNcGlfSzh2c2J4VzNfbmwwc0FDMVhhakphZGVlVk9jVmxJRnEzM1VCOXBoWV9jeWJJVkhxOXdJVDRKeXJVTTZBM0VJS25tUk5PZ2dUZFRjajg0UThHdEY5Y1FLRGN1X3N1UQ?oc=5",
    "tags": [
-    "FED"
+    "SANCTIONS"
    ]
   },
   {
@@ -178,6 +259,15 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX0UtbWpzVjNWQXd1Zm1xcmNZWmgxVDh2NFdUZVdzWE1odlBFV0E5bUYtaGFWaUtHXzZqRkpEWnY0WWZEcXg5TVhGR2stUDNEd2x4dWdqclRCa2dfN1NHTjJGYUxfV1BBa3p1cDExdDhyTWVyYms0TTRUOUY4Q3VuVFNFWVItSWdEblhkeHN6SU5tV2t2TV8yedIBngFBVV95cUxPd2ZwVTZhTVZ6eDFCSk5KbGF6akt0YTNqRExUWXROd0NvXzM5bnRPWTgyU1pldkw0VHE0MS1lMHp1UmZqWmJRM05jU2Q0Nk1QaHhocFZVZFlUeTVhd0Y4T01OVEZjNGk4cEVCUWRfMGk1OUhzbW02YVFRRU02NFZfSFBwV0xuZ2llcU5BZWpRR0hpdnhnTzFWdDRMS2RCUQ?oc=5",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "FOMC rate decision could mark return of dissenters, offer clues for December – Natixis",
+   "source": "Kitco",
+   "time": "2026-10-27T14:26:44Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGUyRzlJNGUzT21xNHZDWEtSenVMdXVqWW9COUlKeF9vcDhrb3RWamhzLWpxZTJvanUzSnBIUksyRXNLeFB0d2VyTXRITFRLcXFIUWt0XzNlbUZFYW90M0tGUkJEdUI3Rml1VkRUdDdHZWRMVGpjaXhfeUotTTJkOWJER3Y1Sm5reXZiX2duWDQxWDNWQ3RxOHA2NjNRMTQxTUc1NkY4ZnZ3RVlpWlVmM1FNUzI?oc=5",
+   "tags": [
+    "FOMC"
    ]
   },
   {
@@ -191,20 +281,20 @@
    ]
   },
   {
+   "title": "Gold prices holding above $4,000 as U.S. new home sales fall",
+   "source": "Kitco",
+   "time": "2026-10-27T14:26:15Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcmVuTjI5Vi1CZko5WXA1ZWdubXkzaGtWTzd5dTB4M3RGSHJlaEQzMnh2cEVGdjl6RDdyRkk4bDk1cTNfaXVneUlKaVprTVFkNUpTNnl5MlFmMUl4Sm5oODBEU1BkZHA1V3lKWjFWSnluazA5YzYzLUFqcHNlLVZzaURLLUc3Q1haRWtDMjRuQlA1b2podll6Z3BJMWpBMmhh?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Midterms have been kind to the S&P 500. SocGen says don’t get cozy",
    "source": "TradingView",
    "time": "2026-10-27T14:20:44Z",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaHNteVdONExNWGZ3eUI5dTIwUjNGQmI5RHl2UmtJVU9ab0VQTXo2TmJyLXEtbWVtNXpBeWUxVmgwMmFOLWpOQTRaSWZmTUlZcndmZ2pENkF0cGFHVFNfR2tlZ2J3NGpHeExCcGZnTHd5cTNKa2xBNnFzdERNWUwyanNrcUN0Y2Iwd1JrazZiR25MeHBGMTRXeGxqcEItS0Q1X0ZJa3ZtM0trRU15X3U0T2NQY3YzaE9aZE1Tbk5VNk1MVWJ4SzFF?oc=5",
    "tags": []
-  },
-  {
-   "title": "Ceasefire brokered by Melania Trump takes effect in Russian-occupied southern Ukraine town",
-   "source": "The Hill",
-   "time": "2026-10-27T14:20:12Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX3ZMX2xsOFVadVduTG9Nd1BMcEJIMXBGc1pXanF3aXJsWHY1Mm9GQ3E2UzNFRWJYN2dvSkFxWDUzMEJfbnN5U2pvRkluWlM5b3BYVU83Z21NOUpxUnZsS2x0Z1ZKZ1hjMFFqcU5vaFNVMU1MNWlNUjFFdmJnRmdKWFBhR2dZOUhBSWxoUDZmUGJrMHROZ0xTbkZITDB6dUZobHR5NtIBqgFBVV95cUxPaUdGdHhPRmpDU0kza09UUHJnSnJ1VnkxUHA3TnBFZWhDTDgtZ012M2JzRGhjWWpxdmZHc0xYUVdJM1J4bG90NU1oN1IxcWthRmdURnctMEpQbzRuT3ZrLTBsWFoxM0JxbVg2dW5oVnpsXzJDVy1rNE5CSXotdzVPeUtpRTd3OEJRVE9xcndkeWpkeWxjbWdKRVZXal9HX01GaXpBUS0yUXpCZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
   },
   {
    "title": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
@@ -231,6 +321,24 @@
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORGdQeEdua2lrVjZ1ZlZOc09mckdqV0xsdDMzYWtORzJFRUozaXpXLTNwYlJTZVhydzh1ckJTR05jSkI4SU12UTFXZm4zcnJUal9kSEtteGUtRlZ6aVRzdlc2N1lJRW1GRWY2S0VMM1VRbWlWQUd3aU9lRnlVbTI0Y1NaUERobF9VVkZLendKeHJWVm5jbndVeVV6UktaTTFNcG5tTEg5MVB5Skl0YTNWTFZwbmlBNE1NbU9CaXJkeHhMc3BGaGNqa3hHd0hETWdZbU9n?oc=5",
    "tags": [
     "FOMC"
+   ]
+  },
+  {
+   "title": "Gold price shoots to session high $4,048/oz after Consumer Confidence rises to 91.7",
+   "source": "Kitco",
+   "time": "2026-10-27T14:01:14Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2Z0X2NLUnZiMGxDRGJEZnBERF81MFhsaEZpUjB3NmNOWWNCYzRBRVQtTDYtaTRTUXdINy0ycXNtOWdlVTVXSmZNYm1PMHQxRFdaS2Z4LUwzMzdwU1VSYU55VFhuOS1fTHZNeVR0UTZzTjdXc2l0NVVWcmI5TnJ1MUItdXhMVlByMkRpUHVzMTN4Y21VYWVVeU9uNWxfcjU3NURqTWljaWxzaC11cnJTNU1hbnE1dEhvV29z?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "US October Richmond Fed -2 vs -2 expected",
+   "source": "ForexLive",
+   "time": "2026-10-27T14:00:28Z",
+   "link": "https://investinglive.com/news/us-october-richmond-fed-2-vs-2-expected/",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -271,21 +379,21 @@
    ]
   },
   {
+   "title": "Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
+   "source": "Al Jazeera",
+   "time": "2026-10-27T13:47:10Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZzNVQW5uV3pYd3hISHo5Q2YtalI4U3pOM2FSbTlXX2FOclZ4a3hxRnJxN3dLRGctdnM1ZFctX3RCQWYxdDRCOXdXcVluVmJMNDVVTVRXc29ybG1XNE9VQW5hTFpRbG02T00tdno2cTV1X0x1QUFGT2IzeVM5SHhnbjN5ZHJYUjZYT2lyZzNIbFllREVPcjA5Tm9xRHF2aUQ0NG9iOVRfSTVpQnFoRlhJ0gG0AUFVX3lxTE5aMVc2Mml2aDIwRGpFTHRyM0RlQko5d1lGMXdGVjZOM0NyMVlaamJPbG50SHFEN0tPZXZfMVR3VEpmbWJsSWw2NW1qeVlpWGJ6aVlYdjRqX3ZwOERmb0VtWnIwNHo0ZlpLUjdrb2Fncl92MldnM053WVpsT0liNjlhN3haVC1oVjBpQVJXTFlXUVZkbXRDS0pMZUh6eGd1T3hIY0JyQVlNMGpkd2VyNWhTQWx5Yw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Federal Reserve kicks off meeting as JetBlue Airways stock rebounds",
    "source": "Fox Business",
    "time": "2026-10-27T13:46:06Z",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94VjR3eVZURWdpbVhtbGVwOW1YdW1pcG9OUGtzU2NlVmJLNV9OSDVXRHZXMUpzSmFWWTNfd0NNVlM4cGk1b01kWU1nUVJ2emI0d255NFdGdml6RDg?oc=5",
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "title": "Melania or the Pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
-   "source": "Al Jazeera",
-   "time": "2026-10-27T13:45:15Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZzNVQW5uV3pYd3hISHo5Q2YtalI4U3pOM2FSbTlXX2FOclZ4a3hxRnJxN3dLRGctdnM1ZFctX3RCQWYxdDRCOXdXcVluVmJMNDVVTVRXc29ybG1XNE9VQW5hTFpRbG02T00tdno2cTV1X0x1QUFGT2IzeVM5SHhnbjN5ZHJYUjZYT2lyZzNIbFllREVPcjA5Tm9xRHF2aUQ0NG9iOVRfSTVpQnFoRlhJ0gG0AUFVX3lxTE5aMVc2Mml2aDIwRGpFTHRyM0RlQko5d1lGMXdGVjZOM0NyMVlaamJPbG50SHFEN0tPZXZfMVR3VEpmbWJsSWw2NW1qeVlpWGJ6aVlYdjRqX3ZwOERmb0VtWnIwNHo0ZlpLUjdrb2Fncl92MldnM053WVpsT0liNjlhN3haVC1oVjBpQVJXTFlXUVZkbXRDS0pMZUh6eGd1T3hIY0JyQVlNMGpkd2VyNWhTQWx5Yw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -302,33 +410,6 @@
    "source": "Al Jazeera",
    "time": "2026-10-27T13:37:26Z",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTRaRVVfZzBEb3VpVnZCdEpPZVhXVzZNX0ZVamVhQ2dvc2ZLMXhNekRJNG9XZ25XMndfMENTSkNWUk1qWmVoY3ljV2h3bm80SEVGNWlwdlotaXdBUXVGOUJ0THlzM0FqSV80R2hoaUprSHl1d0xUUVZzX2hlRGc3MWNZb3drLWRneGpQRmtJeEdXdnFFSUlZRm85Y2RUbVRMSmxSaXBkd1JpTlVBUEpIaNIBtgFBVV95cUxPQU1LU255MVY3XzQ3Y1lBTXlGeDd0dnBieFYtSDd3YkUzQ09BclJpX05FWWtqYVNseHV5ZnNkSXFfVkJWOVhNQUlOVDBGX2VGbEVkM2xURXRuQjhzbHc0QXl5MGw2WE04TDBfaWp3TGhITE9maUd4c2tCRUVTOEh2akppVHRwME90VkNiNGtTQWJyYXZHZWVxQjViSHJCcnNaaDZBbkVtOHhtVDRtZlFTMXVEbVlEdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump’s sanctions against the International Criminal Court undermine justice",
-   "source": "The Hill",
-   "time": "2026-10-27T13:34:11Z",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpTW9qQVFqcmFTNkRhc3l5dFQtbzRiSllIY19ELUZ0ajZsaUdjM0JjbjRUeGx5T3NwekRzNjNZWlF1ZDVVUkcwZmNuMi0xZFotZUoteXU5aHpVdk5uZFdhWS0zUEwxQUNpczFFVnJmT1VUNHNZSkJ0SFVR0gF_QVVfeXFMT1lIUjItWjZyTFo0YU1wcnk1X1ZLcGhNcGlfSzh2c2J4VzNfbmwwc0FDMVhhakphZGVlVk9jVmxJRnEzM1VCOXBoWV9jeWJJVkhxOXdJVDRKeXJVTTZBM0VJS25tUk5PZ2dUZFRjajg0UThHdEY5Y1FLRGN1X3N1UQ?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "U.S. stocks open up as traders gear up for tech earnings, Fed decision this week",
-   "source": "Investing.com",
-   "time": "2026-10-27T13:33:54Z",
-   "link": "https://www.investing.com/news/economic-indicators/us-stock-futures-rise-as-anthropic-ipo-buzz-boosts-tech-fed-earnings-on-tap-4973986",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Trump’s arch would cast shadow on Arlington Cemetery",
-   "source": "The Washington Post",
-   "time": "2026-10-27T13:32:28Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2pFUENIN3JnaktfbXBXaFk5cVVNbWtYUEM4ZHpjZ1Jsa2RlaXVTZmN1Y0VESklWSEdheVRMVjdCRVNHd3BsZWZhdEFHNndNWmU0VE9XWElUeGVma2I2eklwN3liQm1jRHRKak5JZWYxM3BfRG1ubmFkUXp0cHpjSUxTZnhLOWs0cnB3U3NENkdFRm9hNlVaekFFNE9tb09XMmhFOFpkZ04weVlhMXU0ZW5DNjl1RU83WlE?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -585,89 +666,6 @@
    "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-remain-rangebound-ahead-of-the-fomc-decision/",
    "tags": [
     "FOMC"
-   ]
-  },
-  {
-   "title": "Can Chinese Dip Buyers Keep Gold Above $4,000?",
-   "source": "Yahoo Finance",
-   "time": "2026-10-27T12:16:38Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON3JXenVhanB1ckF4LTFIRFhQSWtEX3RidGVlV3pYLVVtdnB6b01ERmM5M21HbU1odGFMTnB3N2k4VnJzSjF3eTdUbFlicTBKVjU1bEQ2QUVUUGNucVgzSDhMZjV3LVVWTDlIaTI1bnVhZUEzekFScTFpakZxY00yOG5DN3hTRUtmenVnbm4yRzFTeGRvSEVidlNqYTdoY0k?oc=5",
-   "tags": [
-    "CHINA",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Norway, Finland leaders hold ‘frank’ talk with Putin on ending Ukraine war",
-   "source": "South China Morning Post",
-   "time": "2026-10-27T12:14:16Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdFloTnduaFU4c0JxQzZQbVIxWEdfRzVrM2NTUzgyV2Z4c3d3SlE4R0dwVjg0OHRkc2N6Y0Fhd0Y0bVJFSmlXcGF6NUhETEFxR1hVWTB4Zi1rdzBTY3EwamhTR1N4cm0wdi1ReGEtcS00NGVTaElBcVZxSWlBbExYNUxaUFN1eDJVaWxVeTZHX21Xa3BISENLSmVwTmNXS3gyX1hPTmxBRmxFLURjOWFrT0lINWJVWXJFMmfSAboBQVVfeXFMUHBhdUtwcVI5ZXByaWpWQS1pT0phd3RpTEE3U3h5WEZ5ampULVAzZmdtVnVJX092QUswOHRFQ0VaRFBtdnNtVVNKNWpjT0NNa0pYZTF1TkRGc1c5bGtUQ211U3FRSko5ckVwRXhCMXVKM0VNWmF6bGt4SU03MzRONkE1VjlRZTJOWmVobXJRR1AtalFHRTFua1BFUE5aQ0lJdnZRTFppbjdYQWdmbXF2TVFxWFhqQWk2MzJ3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US Dollar: Firmer into Fed decision – ING",
-   "source": "FXStreet",
-   "time": "2026-10-27T12:10:45Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdVpkRmt2dGlCVjlPWFM5U2JKT3daVnlucDN3Wkx4RjV3S01WYWhwRkgtc25CdXpDMGxlOF9RNEFCemZUN0lfcXQ1V2JJbjlEWEw3ODFnUmpEN2lvM0ZHSjlqQjdtTnYzOVg5UDM1TGY0TmVNMV9iM3gyWlFxYnFzbGZudFpVbGFu?oc=5",
-   "tags": [
-    "FED",
-    "USD"
-   ]
-  },
-  {
-   "title": "FOMC Preview: A hawkish hold as markets watch for signals about timing and extent of further tightening",
-   "source": "investingLive",
-   "time": "2026-10-27T12:04:02Z",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT2MwYnpFYi15dzgtZml5SE1XM0NsaDM4UzZNS2lab1paWExueU81d2czUzJ4a1E5X2MwYk1FemZjX0dCWFhpRnBNc1hKb2twQkNzUElvb1ZmVDlNTFNIY3dvR0JBVVNxNjFsaHJfdmtFQ29FR2d4RzQ1WjhETGRJd1JnNHJJaXhzbHdwTU9QZFNtTlYtS0hrdnZCRGJlQnI2dHBQWFVOcUhpb0tNNXBRdEh0YnpLUUdBTVFiUDBvb2FvQUFnS3k3aTBiek9SMnJ5dFV5elhvTTFPeG8?oc=5",
-   "tags": [
-    "FOMC"
-   ]
-  },
-  {
-   "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-   "source": "BBC",
-   "time": "2026-10-27T11:53:57Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oleshky ceasefire begins in Ukraine city where residents ate weeds to survive",
-   "source": "BBC",
-   "time": "2026-10-27T11:53:57Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zUnlnMk5HcGo3aFhDUHJyM3l4R2tmdEJLT1hhakpqRnpTZTRKcEFjenlYSnJpTXhmWVRyY2J5OUhOWUpkNVIzM2FVRDB2VXU2MVY2YThZTzF1aU0?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Opinion | This peninsula is an economic powder keg. A blast could cost trillions.",
-   "source": "The Washington Post",
-   "time": "2026-10-27T11:47:44Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdU83YzVjZUUyRzN6M1R5SEhsVnRsd0VVcEI5ay1PRUQ4LS02c3FmQzRDMFNvdGxXeWZyNFZvNWNRX0UyUFN3djcxSXplS1BmdnIzQVR6V3VtSm9SSWFNSVU4ZkdQdlpwS2tNeWZ4UDQ2ZWFiX2o5VXpfamx3SEk2TlZtaWJCOVFwTFZ2OC1Yd0p5NGVXUE9Faw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Why reported Khamenei call for end to ‘neither war nor peace’ moved markets — a bit",
-   "source": "MarketWatch",
-   "time": "2026-10-27T11:45:00Z",
-   "link": "https://www.marketwatch.com/story/why-reported-khamenei-call-for-end-to-neither-war-nor-peace-moved-markets-a-bit-dd94b602?mod=mw_rss_topstories",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Markets Wait For Fed Meeting, Tech Earnings",
-   "source": "RTTNews",
-   "time": "2026-10-27T11:42:10Z",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMTNMYkpOTVZBVVhocThvTS14OFZPMWhBOW1uVFZYcWZsOUpjU0pJUGE4a2hJN2tTVnZhOVF2NXFQRnMwUm5RSXROa3pRYXRiSV8xRmlJMVFvd2d6S3lCTVhUZV9RM1IyYVpIZ1ZMU3RIa0dmZGh5dWpyc1AyRG54Z05lUUtQU2lsT2Rn?oc=5",
-   "tags": [
-    "FED"
    ]
   }
  ],
