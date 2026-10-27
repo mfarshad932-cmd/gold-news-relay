@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T18:39:39Z",
+ "generatedAt": "2026-10-27T19:08:00Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 0
   },
   "cnbc": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 23,
+   "items": 24,
    "kept": 6
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -81,38 +81,38 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 36,
+   "items": 37,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 21,
+   "items": 31,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 30,
+   "items": 31,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 43,
+   "items": 42,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_yields": {
    "http": 200,
-   "items": 15,
+   "items": 17,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,6 +126,43 @@
  },
  "items": [
   {
+   "title": "PII: Q3 growth and profit recovery were boosted by pricing and tariff refunds, amid ongoing cost and demand risks",
+   "source": "TradingView",
+   "time": "2026-10-27T18:51:05Z",
+   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQaGJqQTZJMWR0VjZpbE5kLVJpWUdPTXotSTgyQW9Ld2QyWDk4M08wUHNTWk8zbFBaRUNNTDdqX0xLMmlfYXo5RU1LNE9iUWszZm1uY0RSeXZMXzFPbjhjQlR5VmNENlZTWThhNnVtM0tRVC0xRXF5ZXRJaWxsanA5TElvckFKQ1ZiU3MwUmx4ZUtKM3BCSDJPa0RQbTlTWnpEUXY1SDJHUXEycGVYWm5JODFHSkNoaHFBZ3JMUEwxREVrT0xST0xNVlNtZFNmRmNhY0FNY0tUV3I0aVlXWE91ZFRWbEVnX1o5aE1tQWVKb0UwQy02SlZfMDFoRlF5MXQ0VVdCRjRvbTM4X0RBVmtvaWl1XzZ0UVQ0eVhHMFZldw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "S&P 500 rises as chip stocks gain for a second day, oil prices ease: Live updates",
+   "source": "CNBC",
+   "time": "2026-10-27T18:44:31Z",
+   "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Russia jails IT worker for 13 years for donating money to Ukraine",
+   "source": "Al Jazeera",
+   "time": "2026-10-27T18:42:48Z",
+   "link": "https://www.aljazeera.com/news/2026/10/27/russia-jails-it-worker-for-13-years-for-donating-money-to-ukraine?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russia's Crude Exports Set to Fall as Diesel Production Rises",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "time": "2026-10-27T18:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONThiUkFwcFVUcktESTFSSDZkQ3lGc1psSzFHcE0taFdnU0FRVlVrUHRYLVpwSDJfR2tqeGVlYVF0ejZuQ1hETDEzOVRMTGlsRFRkelJ3UGZVcWxGbjV4eEtnUWlzWmY3bTRXSHM4X2tJWTVfZHJrdW1aWWFOTUUyNDh2Smc0TWswSlZjNHBVOExDTkVJbG9VX0NFVlhUUmYybndQajVHMVVjYW5BbmM1Q2tIUUVIR1nSAbwBQVVfeXFMT18yREg1YUNaSS03Q3dsMDhPak9iWURRYXM1WHUtZDl1R18wQm5mbW1ZeUtrVWprWk5YbGhfbElCMUMwLURTREJjbXFZSUd5djJkMXhYYkJIaGtuaU5YU2I1YUlsem5CQUxkcFVpRWdfaVByanFHRkh6UXRYTFRxZW4xeXl4eVhrV2NiOWpvNkJNalctRXRRaHpxUjdVZi02NDIyYnpXLXBCekowRlNzcy1ydEdsbE90SEVDYlA?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
    "title": "Food and household brands warn of more price hikes as Iran war costs bite",
    "source": "Reuters",
    "time": "2026-10-27T18:29:43Z",
@@ -135,12 +172,12 @@
    ]
   },
   {
-   "title": "S&P 500 rises as chip stocks gain for a second day, oil prices ease: Live updates",
-   "source": "CNBC",
-   "time": "2026-10-27T18:27:22Z",
-   "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
+   "title": "European Leaders Split Over Phone Call to Putin",
+   "source": "The New York Times",
+   "time": "2026-10-27T18:26:02Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2pwMF96endmTnpwZlhtZ3hsNUtKTDVWWm1PRnN2RUVmRHNmZUZsZWdtUFVtMWlaTmdHTC1hcmJ3dTA0WFNNWnZTWlFHdU9qTmNvNXBvcnBuRlhSYVI2VnVkUDZ3WUVaS2NfQjZlLUR4N0lfTjNIQmctWHd1c0hzcHRnTlk?oc=5",
    "tags": [
-    "OIL"
+    "GEOPOLITICS"
    ]
   },
   {
@@ -160,6 +197,25 @@
    "link": "https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "3 Auto Stocks Facing North American Supply Chain Risk",
+   "source": "Yahoo Finance",
+   "time": "2026-10-27T18:08:50Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVmVuT251LU0wSi1wSTIzeG82SkxkM0VHTFB3bzZ0T0o2X1o4UnBITk8tejhsNlFDSlZfMk91bmhnLUhYTGFzYWljRHU5T1Y1LXZzbGxfT0hGQS1GUC1ieTVVeHpqZnhlRktEVC1sM210b3RwZWdicWdkUkdaRE1FNVRQVU5wcExxZFAtRUViNkQxc2QxYXc?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "White House tempers tough talk on Canada trade as inflation tops voter concerns",
+   "source": "NBC News",
+   "time": "2026-10-27T18:00:38Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlk3RGpCUVlyZldUNFNERXNJTUJxY0dsaEduR1BoWnI4alk3c0lJendvUG1qMVI0MnEtLTYzVmJKbFNHYnFfZ0I3YkFKVU5BaWU1NjIzLW5SZmNKV3FDcXFYNlRuSk5yelpqdEtzVFFQa0h0Y3hYT0dZN19CeXJnRlN6RGtfcllJaXlXN1JodnJWS0F2Y3loZw?oc=5",
+   "tags": [
+    "INFLATION",
+    "TARIFF"
    ]
   },
   {
@@ -352,6 +408,15 @@
    ]
   },
   {
+   "title": "Pope says ‘there is no such thing as a holy war’ in message to religious leaders",
+   "source": "AP News",
+   "time": "2026-10-27T16:34:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTFmMnNzZmVXS3VnMFQ5WHdOT1VmU090cUpfU3c0SE9TaWhzbE5HYUVZQ2VKaXZ6T0RmMXk4SE1YZG5rNDBac1A1WEswT0JLR01lTTJ6WU5jb00tRnN4cU5NRHBtNHZ1RzVpd2gyUkVXNzdVZnlGcnFoWUhTS1F1NkVXYjBmdHFwdUxVbllyNzdKWkhMbTFmdnVST0hZeEYwalhIb1NaWW5ZRC1P?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "America Needs Canada's Aluminum. Trump's Tariff -2-",
    "source": "marketscreener.com",
    "time": "2026-10-27T16:30:02Z",
@@ -482,8 +547,8 @@
   {
    "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
    "source": "Al Jazeera",
-   "time": "2026-10-27T15:27:30Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOC11eFk1bzZtbDZJckFTX0dZSUFYZ0RrOWdUOHVFLVhpbm43UVZQX2ZYZ2hnaFVaM1Npa1p1VlFrdHVFZ0gzZDQ0blJib0QyZnowbVRkT3o1bUlRQkxuRTdTS0lfdTcxd1dSc1dQOEd5bnR2U2R6TG9vY2hjdDdDNFFRZlE4aWRtRTQ2N1RQY2VDb3BmdTNLNFNoTVA4S0Nra3dlc0NBMWQ?oc=5",
+   "time": "2026-10-27T15:29:20Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOC11eFk1bzZtbDZJckFTX0dZSUFYZ0RrOWdUOHVFLVhpbm43UVZQX2ZYZ2hnaFVaM1Npa1p1VlFrdHVFZ0gzZDQ0blJib0QyZnowbVRkT3o1bUlRQkxuRTdTS0lfdTcxd1dSc1dQOEd5bnR2U2R6TG9vY2hjdDdDNFFRZlE4aWRtRTQ2N1RQY2VDb3BmdTNLNFNoTVA4S0Nra3dlc0NBMWTSAa4BQVVfeXFMTU5EdEc2VFRjUlpXUTBIb2h6NjlUdmQtYmh0RWpXRGlVLUcxWTB4Mkd6b0ZyRDZaZ1cxQTB0QWtJR3Z0WmoxTGdGMkxOUUV6NFRkQm1Qa1BIRmZpTG1ndGMwd0tNb2o1MHNoUmJXMVo2QkI5Uk9kZk90VGs2UUhtcDFhM2N1eHZNUUhnWl9jbXBra2FaM09wYXRxSXAtS0daaFlrYVc3YjltcUc0TDBn?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -613,71 +678,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGtvekpmWmNhYXZUMmlBXzE3Ynp6YmhOal93NnptZlo2elFaeUwtYTNfQkI0OGRMdk1tY0s2enlpLTBEYk5QaU1rRXQ1a0FqNjhMZ0dfR3dkdUZ1WmF0SXBiMkhCSlVvZW1obnJHdXJsY0dDcUZMQWhLenpETzdwYUVsV0RIZnZOWUFLeVNPTjRDSzdSMDJFQl9keDBqNVNuaUhFVkp2UG9FUnExc2VRTkp5NWdQZmJJdzdr0gHAAUFVX3lxTFBReWdIRXNraG5yUWRKTmxxZFhYWk9tYm5UNUYzeWxobWtGTFRIbU03QnpmelJJMVhvdzREbWEyc1EtdFdMUWQyT0w5MGpxU2dEZGxWNnhYRm9DUzhkZk8xcUNQQUlKSGZDR3B3cG5IQVExWC0xOW9zN2c5VU16MllySjZrdXFScUdZdjdlU2FYUHkwTERNc0dUa05SeGRYLWFqd2psNDh1TDFWWlJ3blloQnF0enpwZkMwWDRjcTE1bQ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold tests its 100-hour moving average as buyers look for more control",
-   "source": "investingLive",
-   "time": "2026-10-27T14:41:51Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGQxRm11SUZZeEVyNGtINHU3bG5IZ3JNRjRWM0h5c1BKeGN2S2VoV0M4VUFhY1RiRGJGR2ZwNG1aLXVHWkpldlgyR2tiVVdfMGIxLU1XdmVrWFB4Nk9JOUg2TTd2anRIT2ZVZlpDY3FEVDctMEx6OFZ6am1Ud1FnRXVkejdXVUJ2b3R3YkhJdTVKbm9IOG5lMHo4bnlEZ3NDOG1Bd2tqdTNscGJ6WXc?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Three Russian diesel tankers, including two under sanctions, on the way to U.S. (CL1:COM:Commodity)",
-   "source": "Seeking Alpha",
-   "time": "2026-10-27T14:40:58Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3E2di0wS1RtX0FSVk5RZzliVlh0Ym1aTUptM09oamRCZGFRYXduTDRYMG9IOUNzZm0tUDk4NHBmLWVaOGljN2lLdHZKMFpOUFNvYzRkZUs1TERzRTNIb2NOVlplRzZBU3dqeUU3eEZkR0IzcVk1bVl3SFJSckltQUFHc2FOd2FfRHRJWkN4ck5HNnVOSWVCSXZZSXVNWVA3d0FLT1o4NVlxcUNFNUJxZWVpOA?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Lumber Hits Lowest Level in Over 2 Years",
-   "source": "TradingView",
-   "time": "2026-10-27T14:37:01Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdzNSbFF4NmtTNHZUZ1ByeDFNeTJJVVVNbnVpWVhMMUVkbFhnZUN5MEtOa3F0VzlkVVROQy0wMHhRbW5PdkJUTGRiU0ZaY0R6WFRXTUVnZjgtN2Rib1hkVDNvVkZJOUNtcVUzazlqN3gtVXNER3ZNVHA5Nlo1WG5nV3pCaTRmMmVlZmlNMWt2WVpQTXV2b0E?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Yemen's Houthis say they hit Saudi Ras Tanura oil refinery with missile",
-   "source": "Reuters",
-   "time": "2026-10-27T14:36:49Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMU9tRHdmbzQ2ZHlsQzBDVmpqUEhlTk9meXgzN1VMOWlUMnlKOU1ibFRMQ1VQNDNjTkloUG9lb054S2JXZ2YwMS1MMXM4b1pwczl2clNyTHM5RGZVdnd6bzJXTVl4bW4yZ0pGTEV2aEV4dlR2cDNkc0lvNjVMN2ZScklvRDE3S1VyS0FoaC02Z3BqTHJPeTJrekxhM0dONmN0VzdXTmE5QjNfM0pIZ1Q2SHMtSkZzbFNqSThaN2RybDFBdw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Everyone who bought Gold near $4,000 is holding their breath right now",
-   "source": "FXStreet",
-   "time": "2026-10-27T14:34:45Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWxYUTFaUVNQaC1KNHFneFlvbDQyRC1JenhGYVNDcG4zakYwVV9QTUMwRk9ER3JDX2xCcXFIbXBnZU1DY01ld2otTXNubTA3NFFXeUJLZThBYlRSUENOWTZ3aVFoX3RUZlVHUWx6NU5PaTJGQmI1QVJPcFNZbllDTjd2REpjRlJKWTNRNnVURVBrbVd5M3pJeHpJUFJsMExSdlFfZnVRdDNueFVzM3ZYUG1LS2gtRjA?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Trump’s sanctions against the International Criminal Court undermine justice",
-   "source": "The Hill",
-   "time": "2026-10-27T14:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpTW9qQVFqcmFTNkRhc3l5dFQtbzRiSllIY19ELUZ0ajZsaUdjM0JjbjRUeGx5T3NwekRzNjNZWlF1ZDVVUkcwZmNuMi0xZFotZUoteXU5aHpVdk5uZFdhWS0zUEwxQUNpczFFVnJmT1VUNHNZSkJ0SFVR0gF_QVVfeXFMT1lIUjItWjZyTFo0YU1wcnk1X1ZLcGhNcGlfSzh2c2J4VzNfbmwwc0FDMVhhakphZGVlVk9jVmxJRnEzM1VCOXBoWV9jeWJJVkhxOXdJVDRKeXJVTTZBM0VJS25tUk5PZ2dUZFRjajg0UThHdEY5Y1FLRGN1X3N1UQ?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "OPEC Set to Keep Oil Quotas Unchanged",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "time": "2026-10-27T14:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX0UtbWpzVjNWQXd1Zm1xcmNZWmgxVDh2NFdUZVdzWE1odlBFV0E5bUYtaGFWaUtHXzZqRkpEWnY0WWZEcXg5TVhGR2stUDNEd2x4dWdqclRCa2dfN1NHTjJGYUxfV1BBa3p1cDExdDhyTWVyYms0TTRUOUY4Q3VuVFNFWVItSWdEblhkeHN6SU5tV2t2TV8yedIBngFBVV95cUxPd2ZwVTZhTVZ6eDFCSk5KbGF6akt0YTNqRExUWXROd0NvXzM5bnRPWTgyU1pldkw0VHE0MS1lMHp1UmZqWmJRM05jU2Q0Nk1QaHhocFZVZFlUeTVhd0Y4T01OVEZjNGk4cEVCUWRfMGk1OUhzbW02YVFRRU02NFZfSFBwV0xuZ2llcU5BZWpRR0hpdnhnTzFWdDRMS2RCUQ?oc=5",
-   "tags": [
-    "OIL"
    ]
   }
  ],
