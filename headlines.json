@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T21:58:10Z",
+ "generatedAt": "2026-10-27T22:26:31Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 0
   },
   "cnbc": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 29,
-   "kept": 6
+   "items": 28,
+   "kept": 5
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -86,17 +86,17 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 21,
+   "items": 26,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 32,
+   "items": 30,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 44,
+   "items": 45,
    "kept": 12
   },
   "gn_sanctions": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,10 +126,10 @@
  },
  "items": [
   {
-   "title": "Exit polls show a rebuke of Netanyahu but no clear winner in Israel's election",
-   "source": "CNBC",
-   "time": "2026-10-27T21:45:00Z",
-   "link": "https://www.cnbc.com/2026/10/27/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance.html",
+   "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+   "source": "BBC",
+   "time": "2026-10-27T22:11:08Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -137,8 +137,17 @@
   {
    "title": "Exit polls suggest a rebuke of Netanyahu but no clear winner in Israel’s election",
    "source": "AP News",
-   "time": "2026-10-27T21:33:00Z",
+   "time": "2026-10-27T22:10:00Z",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjZwSHA4OFBaR3JuMHQxem5wOWlIX3ppalRJRHZOLWs0aHk5V3Zlei1KR2FrZzRGX2Q3UmhxZ25YYm5WNzBvVmFSX1I4N3ZTeldBOUdRck1nSm9PMWt5MmNtcDlYTWZOR0hfSUhvb3h1NlRJUlJsRVNqNGhJMGZaZ01zM0U4NWRlTGxQR0Y4dGE2dkZEMllzaU1B?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Exit polls show a rebuke of Netanyahu but no clear winner in Israel's election",
+   "source": "CNBC",
+   "time": "2026-10-27T21:45:00Z",
+   "link": "https://www.cnbc.com/2026/10/27/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance.html",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -238,7 +247,7 @@
    "title": "What gold and platinum are telling us about the stock market’s direction",
    "source": "MarketWatch",
    "time": "2026-10-27T20:30:00Z",
-   "link": "https://www.marketwatch.com/story/what-gold-and-platinum-are-telling-us-about-the-stock-markets-direction-81405633?mod=mw_rss_topstories",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb0JpZk9naWRQV0pBRFJ1NTR6V01tVzdTYmNYZUQ1ZFZGdXYtcmhqMnhhWXZuOG9NZ3c3WVhqZU1UZ2hHcWlkczdVWkxfSGR2VU1jbHF2T2hqTHhaYjJGa3FzLTBreWNHcE04bi1PZkdQYVV5WENjYWtyMjJyeWlqNHlfNjZYa3pXQUFGMlo3ek9fcEFwYUhMUDZhUE9WY1dVT1JkSWpVVTAzeVhOSFg2VmJadEk?oc=5",
    "tags": [
     "GOLD"
    ]
@@ -262,10 +271,20 @@
    ]
   },
   {
-   "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-   "source": "BBC",
-   "time": "2026-10-27T20:19:53Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+   "title": "The 19 People in the Room When the Fed Sets Interest Rates",
+   "source": "WSJ",
+   "time": "2026-10-27T20:18:42Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zQTh2T0ZUUndUVjdhNGpfVm55LW9ZajNTYXM4bWpiTjVSSXlKckJEekdyOWtjM1d0NG5XWEJBTUZWWnE2aTNqNWpCaUt6blVOMDVvbnNuMmNTSDRiMFczRTRITG9qV2NGS3pON1VwX3VhQmVjLTVZZzJVSDZKdzQ?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "Exit polls from Israel’s election show no clear winner",
+   "source": "Al Jazeera",
+   "time": "2026-10-27T20:18:18Z",
+   "link": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -319,7 +338,7 @@
    "title": "Refiner Stocks Post Worst Day Since April 2025 Tariff Shock - Valero Energy (NYSE:VLO)",
    "source": "Benzinga",
    "time": "2026-10-27T19:38:46Z",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT2NZd0w3Y2J2V2kwTlF1bHJwc1dtYlFWelRLTW5Gam1FbkNsQkREd3RlQnR0Z0hQMy16UWQtYnNUYkRycVdyc3VDdUg3dzE0YXdXMHJMS0Q2Z21KUDlkUW5sOWpHUFk1ZW9FUnNsbVNnazJQa0JCNkhPOGhLOERGaDhxMTBJR21IV2RGckd0bTE5MWtHMDhxT05TeEpGTUZLUjBTYzhnM0xNdkJOTDRUeHdDU3FHNi1yVkZpd2wybXo1ZmNueDBrRlBmaTlEZTVaaXlHeVp6NWtpaEdsM2p6TkYtVGlsNEw0RWJwMGhQWjg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZXhqcmFHcTBUMDdnWW9ZRWkyT2JQN2w5di1BUFJydlNndTZCT21nRFhDVkNxbmVrSjBBTHJCRGhERTRneE1MenpmUFpxZi1VNHR1WHNCQjZGWHhfbi11R1dmcVpCOTFkYTN6QVFULXEwNURoNjh2dVVVdGVJSW9PRXBGT3FwNEpCeVRia2dDbUlITU41aEZjUG9kZ2UwaDBjQU9Cd2tnS2hDZkk5VVNWT1g0NEJsSFdqc2hPRFN1NnhlekNVRVh6UjhVamlCMnc?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -424,6 +443,15 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcFZXOGh4Yk5XazZ5QXlOYTliTmFUc2E2WHYxSnpTNjJ3Mk5YM25RUk1HdzdGOWh3SW56X3ZPdjdlU1hUdEJvSzNObHBRamc1aVI3SXBCOVZXSXRtU2poeGp5dUNkRmhPM0dOZllBV2VrSjNBb2Rpak5RWFl0U3ZJbG9vZjhnOGdiM0hTQ1hXd1h5TTJwbWl6ZTFQb1NnNFA3bGdjakUwSVZkTHM5V2lXalhUc0l2NElfNG1qV29MYnl5ZWJvSEFtazJR?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "FOMC Expected to Maintain Target Rate Range at October Meeting After September Hike",
+   "source": "Yahoo Finance",
+   "time": "2026-10-27T18:36:24Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN2tpM2ZtSy15THY1V3JBZFZGZWl4SERLRGJkN01nVUo0NHEyTmdqLVE2bU56aWZvNXRSX2RXTkFpOUd0TTUySjVpcm5MejNmT2llVHdxXzV1NTNaMW1kdERqbG1JdEY3emNIMjhEdENKcEZ0U2FZbURUREs5QldfbFNqaU9lc1dqUlE3LUFNTHZhZzBZNFBQVFVaTVdoeVot?oc=5",
+   "tags": [
+    "FOMC"
    ]
   },
   {
@@ -590,6 +618,15 @@
    ]
   },
   {
+   "title": "Trump and Cassidy clash over war powers vote in meeting with Republican senators",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-27T17:22:27Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQak1Ja0NjSjZQVDdGZVFtUl8tT0s0WGJNMUQtYUN1TjZIblk4QjhtZGtyUHcxUkVVRWZfNVlaeEF5ZkF1bkNucTdZTG1uUmdLSnE5cER0blpaTVVmc2V6cWI3dVkwVVBhQmFzWm5WdWlpblU1Wm9oSlpkX2o4dU1iUWNPQ01QZnhYejZ6SnRQLU4tMHZsNlVxV05vUHp5RXZWcjZqU9IBqgFBVV95cUxOMkRBaVUzeTByQklPMmJZV2lyTVJvR2FodDFHbXRpVW84ZHNWdVgwUGFlVHRwelJBeXphb1hnRzlQM3R1Rk9VcGw3aUpMVlc1WExKWl83T2Vxd1Zjd0p5UzFtZEJ1dkk3ZDVYOW1NYVlYX1NBTHFydHV2NW12eWJtSmptaWJUWFNodmdGbk1OUXJmdzdxeWlMWHZHWmQ4MEtibUZadzVFT0xPdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
    "source": "The Guardian",
    "time": "2026-10-27T17:18:00Z",
@@ -635,46 +672,10 @@
    ]
   },
   {
-   "title": "Funeral held for family killed in Jordanian airstrikes in Syria",
-   "source": "Al Jazeera",
-   "time": "2026-10-27T17:03:45Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/funeral-held-for-family-killed-in-jordanian-airstrikes-in-syria?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Higher tariffs on Canadian imports would be 'catastrophic,' Honda exec says",
    "source": "Yahoo Finance Singapore",
    "time": "2026-10-27T16:56:05Z",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSi14aFNOMl9nWGtXNU1ueUJveU4xV09TalRiVWZiZ0RMNG9ULXRrWlB5amJLVy16bGNBb29RRDNENUNTMWNrTGFfNWVTY29KRVYzQ3p0cEhlZHJkU1ZfRFEwS0dXcjJCWFB1MlptV3A4N2NwTkVaSlJPWVJLcUIySkdDWnRZQ2tTRnI0Qmw1V2ZGcjVyTjdVag?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "We don’t understand the gold price",
-   "source": "Financial Times",
-   "time": "2026-10-27T16:55:48Z",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lWVN4NmI2V3dzWGFVOUF0OWtTX0tENlRLZlNtUm95ZnRaOTZrbUFZV1htNWU4Y05iaDVSR1pXbWNIU3dzNlZwZDZ5ZjBIWk1qOGdsWV9wNXdwcEM5ZWpwc1NEeTJ5a0Z4VEZhZVVZQnI?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "COMMENTARY: Doing business under US Canada tariffs and bans",
-   "source": "Reuters",
-   "time": "2026-10-27T16:50:21Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRm1VaWNHSXYwVHFIZ2FpMGlkczNWZFJDenQtU1BGcFpVN2RqeEhXOWtRZDFRTjNrd2JtUjRzR0xNWkQwODZtRzFPT2RLV2JTclp0YVM4REd1Nm9EQ2ZJSXlQbmlNdEExT0VXM25BcWVmd3ZpbFFsTVBydjFnTUxFanViWGJzb3lPTGlFbTNMRjlxX082enFrY0JaYU9IQ1I0VzlGNWJlWlFGTUU?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump nears Canada trade deal as tariff talks gain steam",
-   "source": "Fox Business",
-   "time": "2026-10-27T16:44:54Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2Y090dFlmWW1vOGNPRzBZc3dfRTZwSVN4TFRUeldhc2lubVpBbHRSQzlkbjhDNlpjcXNQTEEzcEhpZUlFZnBDU2t0dk5wZ2dXdVZWZGdHZGJsa0E?oc=5",
    "tags": [
     "TARIFF"
    ]
