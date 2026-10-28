@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T06:27:50Z",
+ "generatedAt": "2026-10-28T06:56:10Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 7
+   "kept": 8
   },
   "investing_news": {
    "http": 200,
@@ -86,7 +86,7 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 22,
+   "items": 21,
    "kept": 12
   },
   "gn_tariff": {
@@ -106,18 +106,18 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 15,
+   "items": 13,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 9,
+   "kept": 9
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -126,12 +126,58 @@
  },
  "items": [
   {
+   "title": "WTI rises above $100.50 after strike on Saudi refinery",
+   "source": "FXStreet",
+   "time": "2026-10-28T06:49:32Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2Jvbmx2YkFUWktYZ3kwdlRQekx3TmVhaUhrRDhYLXlFVHNjNnF6cHVYbWdHOG1EbnNva3VjaHpXV2VqbEZHNm5ySmw1VnppVnQ1REo0ekZkTW84Q1RKanV4Tkk0SGgxWmhMYnBxREF5bkl0ZlVZSVR2ckRaWTZMOTE2d3N3VDlETDZ1ODR2SzZNUHpwZ0FVUGhvMA?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Chart of the day: Gold faces a make-or-break moment near $4,000 as Fed and market risks converge",
+   "source": "investingLive",
+   "time": "2026-10-28T06:42:04Z",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM2xUQmxQQldWWDJBYUV3endDZkRvX1drd3l1X1lvYzFxNlF3V0JMVWN2VzBNX05vaFRMc0FfVFlVVkZMRlJwaS1mNVd2NWxwS05kZ25uVklLY2VzUWhsc0VobU9GVDI1MEVmUzlhVWpBWUVnN09ibi13UU1iWm9Xb0tEbkx5cGRCcFNIem9KanpyRUZ6a3VEdHpmR05pU25wcElDZE1hajVsdmpfSVBEeWdCYTVCVXY2ZFgwdFRUU1N6S0pQM1otOU9EMkM4ekdqRzNJRDNrZw?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "RCO: Q2 growth accelerated as Cognac led; guidance held and tariff savings will fund growth",
+   "source": "TradingView",
+   "time": "2026-10-28T06:40:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbmVRU0x1bEl2OHYzUkRSNTdQcE56bXNDdnVOV3lMUFV4emxSdUJXa1NQY2ptTlRkT3FhVTBvVllacHZEcnN6T18zMXMzRjdnaHMxZ0xvMnl4MmptUWRhNEFuSzVZTHpDenB4QlF6SUFfSWtDUU1HeUtyaEkxaEFReHFVUF9OSWstZ1dfVklzMlNzRVo4RlF3a1JfNkRaNFExa2JHcHUzMDJ5UGYzWllIdUFBNU9nelhxUndGYjdwN0xReVVyeE5sdHFQTHRqLU1RT0tHSk14UXgzazI3TE9wcy1VeDZzQlhnWjFKUGNrb200RXdoellWcllDRVRTZlN1elE?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold Holds the Bounce: Testing Weekly VC PMI as Daily Resistance Looms",
+   "source": "Investing.com",
+   "time": "2026-10-28T06:35:00Z",
+   "link": "https://www.investing.com/analysis/gold-holds-the-bounce-testing-weekly-vc-pmi-as-daily-resistance-looms-200690392",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Stock futures are mixed as traders await Fed decision, Big Tech earnings: Live updates",
    "source": "CNBC",
-   "time": "2026-10-28T06:21:26Z",
+   "time": "2026-10-28T06:34:56Z",
    "link": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "Cost of Iran war reached $47.1 billion, Pentagon said to tell US Congress",
+   "source": "The Times of Israel",
+   "time": "2026-10-28T06:34:14Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZXRrR0swYThnZ0NhQ2l6LU43NkllM0NnakItVmh0dl82Q1d0RGNmd1hlUmMxRmtOWWw1MDZMRzVPODhiSUs5dFFWLXdONVN4Y0VLdDN3bWJxaWdJNWlEdHdFQmdRekpsaTdxWDFIRnpkakFxLUNocklEWGU2Z3lFazBJaHNfQm8yQlJmQ0hIU2xxNjkyU0xDbktxcmpsMFp5YkppZ0wxaldyb2c5Q0xqUWVMRUhTWklM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -422,6 +468,16 @@
    ]
   },
   {
+   "title": "Dollar steady ahead of Fed decision, kiwi slumps after RBNZ holds",
+   "source": "CNBC",
+   "time": "2026-10-28T02:50:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd1Bmb3hwMXBlY196NUl2TU1lMURBZWZGMUJjNG50SXVMQzRTa3NtUnJINDRvWUt2OHc1UVRqWEJuUEdmcXVTVUozd0s4T21BaG5XQkIyd3ZhQlYtX1dXaW5Yckp1VGdtMlFWNUJvRjA2UkZScTZyb1VOOVQ5UjktUkpwYXV0Y1FjWk0xelRiRS1jOThBd0w4dUt4QkcteElzYmRB0gGoAUFVX3lxTE1kd01VX0poRkdFblJ4Y1FCYXVOSV9PcmpnSVJZR1FSSllmMHlBRTVWOVM5ZkxDOS1sMVIwajBtTERXb0MzMGlnZEtPeENHNkw0bHVwX0tTUllEeVh6M1hHdi14YVVJZFFhU2cycE9yTExKRTlSQ3JiYndCbHROWk9pNGwwYjdjZ3BhckppMHAyWUdINTRQaXR3VlNYZ2wzalVOZV8weTg1Rg?oc=5",
+   "tags": [
+    "FED",
+    "USD"
+   ]
+  },
+  {
    "title": "‘The Mothers of Kherson’ Review: A Ukraine War Opera",
    "source": "WSJ",
    "time": "2026-10-28T02:47:25Z",
@@ -518,6 +574,15 @@
     "GEOPOLITICS",
     "OIL",
     "GOLD"
+   ]
+  },
+  {
+   "title": "US said to warn Gulf states it may launch short yet intensive war with Iran after midterms",
+   "source": "The Times of Israel",
+   "time": "2026-10-28T01:44:35Z",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdlQ0bFlQVFBIMjkyWDk0TjA0OWZxc2h4bE1CdF9SdWdxb3d4NzlTdW44WUVBRXdYUmQtNzJBQnpuRDZZTmkwN3hHUnB0TEl3a1RtTGZBeWt4dlB1WG1DUjB0NE1IYmpDTnd6UmJGcjJXT000Z2FKY3pZRVRrUHVwcnhxQTZGTEd5eVNBZVVna0ttT200bjdtWTk5cjZnemxZZC1KWUk5ajJWdHIzYW1vZE9IRG9rQVRMdGVhYmJQTWdveGtLbHRGeHJzNFdrRndzQ2c?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -628,70 +693,6 @@
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWXcxU2lVMWlRZGlIczVuTDFDYWItQ0daaExvNnRMMXNqWE8yRjBhLU5mbE1qTkFDZXdteU9NdnBtS0tEV1pfc0hGM056VVZVZWRQTkV0cEhZOG1Fa2RjSEJqYVc4dlBtTGw0d1lBMWZVQkdaaGZDUzczQnluNjNJazlsTTdqdzVUeVE?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Arab parties on track to win record seats in Israel election, polls show",
-   "source": "Al Jazeera",
-   "time": "2026-10-28T00:43:56Z",
-   "link": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Netanyahu, Eisenkot camps clash over Israel election projections",
-   "source": "Al Jazeera",
-   "time": "2026-10-28T00:43:02Z",
-   "link": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Treasury Yields Rise, Eurozone Bond Yields Fall Amid French Concerns",
-   "source": "WSJ",
-   "time": "2026-10-28T00:35:33Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUh5anllcENIVlhXM0xrczNZWEVERVdFSE5lRzVkUFY1STBRUUtSZmdHbkRXX2pqNDY1TGxWdDJxTFZKRkc3cFhmUzBjTGUtdmlZaFYybG9tOFVaNk5IZTVpd1FVOW9mZUlRY2I1MFJwblJ3S1hqNVNkSVIyVmg0VzcyTEpncGhaWmUyYnFibVZqUUN2aU41MWxyc1QxYmJpSHVGVG1Jb2RGY1doTWln?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Iran war cost increases to $47 billion",
-   "source": "The Hill",
-   "time": "2026-10-28T00:32:00Z",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0WWlxN3hLNVdzZVR0RDEzQnJuZ05ETXIyZnIydnhQZGNrQ0VPbllPMlFKWG9pS0RvNklFWDhjbldzNW5XemRHYkJrS3pxdHdnd3plbDRvYU9oSlByVEVqQU9BMmZ4U2Z5MWFTSEhFZVJSNkNq0gF6QVVfeXFMT2gzVGdTQXQtSTJHZXFmZjFuaHIyQlZVc0ZnUFo0QTNBeXJ5LVdzR0xoeEZiMGpaaVBFcGxxYnJKRHRJZVpJTFd2V1d5ZDJzMFVNTWpBRk4wUGJPeUY3aDBoTi1IZm9KUXFSYVVTWDFrbzM4S3BlcXhpc2c?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Australian September core inflation (trimmed mean) 3.7% y/y (expected 3.6%)",
-   "source": "ForexLive",
-   "time": "2026-10-28T00:31:39Z",
-   "link": "https://investinglive.com/news/australian-september-core-inflation-trimmed-mean-3-7-y-y-expected-3-6/",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Israel’s Eisenkot says country voted for change",
-   "source": "Al Jazeera",
-   "time": "2026-10-28T00:30:22Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Dollar steady ahead of Fed decision, kiwi slumps after RBNZ holds",
-   "source": "Reuters",
-   "time": "2026-10-28T00:22:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRE96SkVILWZEWGsxdTRORUJsWlJ4YmNlclNadUxmdGpHRlNONHllVDY5eTBiZHBsbndwSEtBeDI0STFqdDhsNUxLVVhhVmZrWFdGUVFCaDNGd25VVENDcDdmT1ZUMHFFRWN2enRXeXk1ZUNfNHp5OE8wam94MktvQlNzazVNRG1Ed2lXYTFMVjNCY2JPckJRWlIyQ2ZvVzVqOEsw?oc=5",
-   "tags": [
-    "FED",
-    "USD"
    ]
   }
  ],
