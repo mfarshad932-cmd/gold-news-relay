@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T09:17:46Z",
+ "generatedAt": "2026-10-28T09:46:08Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 27,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 21,
+   "items": 38,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 24,
+   "items": 21,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 44,
+   "items": 39,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 16,
+   "items": 15,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 3,
+   "kept": 3
   },
   "fed_calendar": {
    "http": 200,
@@ -126,21 +126,55 @@
  },
  "items": [
   {
+   "title": "Federal Reserve set to issue interest rate decision as midterm elections loom",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-28T09:25:46Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEhoYVl4OGJtaXFLRU1idHB1dmlvYk1uNEtNNnlMVkFlZEN4N3hpNVB5cmNjWkFEajM2WUZ4bDJJN0pNYlpra21QSGI4cFFwLWllM0xxZlptYWRmdkRlbXAwRWVLcGRBd3J3MDFpUDBvUjVWMElMOGwtZlJMemRJQzczLXI1cWNFMnJKeEcwcGJhUjkzVjZfZ3puam1BQUZFMTRFZ1BIa9IBrAFBVV95cUxQeXRhLUNLYUFqaEtwY25VNnhEUzVzZmRMczBrdVo0SnJXdjdCZjhCbVpURUZJQ2M2MUwyVzlHblFrcTQ0UGhIYUVubHhUZHFVbldqNnJxOFprRG9FRmJIV3ZPaFJiSHZ2a1k0N2R4Q2swcFJ2cDNhZVVJdG0zbG9qaFdvd1l5MXcwbjFWZnBFelBZdFZBMk9pekEzOGFmaEVqVVNmTkx4dXU0eXha?oc=5",
+   "tags": [
+    "FOMC",
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "Treasury yields tick higher ahead of Federal Reserve interest rate decision",
+   "source": "CNBC",
+   "time": "2026-10-28T09:22:26Z",
+   "link": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
+   "tags": [
+    "FOMC",
+    "FED",
+    "RATES",
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Qatari mediators present Iran with new deal to end the war, official says",
+   "source": "Reuters",
+   "time": "2026-10-28T09:07:52Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "The Ocean ‘Was the Color of Chocolate.’ Mexico Declares War on Seaweed",
    "source": "The New York Times",
-   "time": "2026-10-28T09:05:54Z",
+   "time": "2026-10-28T09:05:55Z",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SVWV6Q3ZUQTFvQVlhdnhETVYtMUY5T1dmZ3o1czJKaENvRkdRb2tLbnpRQ2ZIdzJnR2dVaUNobXM2T3dOMjl1WXZpUHJrTVVKbk1kSEYxdk0tRThBV2dYVzVsWkZSX3pXVm1obWl2Qmh0Y2dIVGJuRXl1TWd0RDg?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "What to Watch at the Federal Reserve’s October Meeting",
+   "title": "The Federal Reserve Will Release Its Interest Rate Decision Today. Here’s What to Watch.",
    "source": "The New York Times",
    "time": "2026-10-28T09:05:48Z",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcUJVN2QwZGtTaW1kaW1YenZOLVpfZDdLTHFMSUxaZFBPeUFoUEQ5S2d3b3N6dE5DREtLMmZnWDFFSVhqQzFVS2tnR3JrSndRUlZxVmQ2RmtPdTRJNkdjM0IyTjVJek1RUVk1cEg1N3FqbUI1YzFwb3VmYjhQUUtPMDJTZkVqZw?oc=5",
    "tags": [
-    "FED"
+    "FOMC",
+    "FED",
+    "RATES"
    ]
   },
   {
@@ -148,15 +182,6 @@
    "source": "The New York Times",
    "time": "2026-10-28T09:03:50Z",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUlBRblQ1REZKX3dwWUFoV0FvOVU0ZWlLWkN0Z241SFFISDFJU0dEYnBicEVSVDVhVk9vNmxNdjZmUWRKM05SMktVVlVCeUgyUUVVOUNCeFBVOU9rUElDMUJ1TW1leGtPQ0tMeW4tYjZUTlVfTjEyR0l2dGJ5SkVGOGNCMXBqQ285NnRN?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Qatari mediators present Iran with new deal to end the war, official says",
-   "source": "Reuters",
-   "time": "2026-10-28T09:01:33Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -172,9 +197,9 @@
   },
   {
    "title": "Senate candidates built up massive campaign war chests with out-of-state donations",
-   "source": "NPR Las Vegas",
+   "source": "NPR",
    "time": "2026-10-28T09:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSklJTkNmb1o0SVZaQUxiejBIMnJ0anlsRkJWUkg1SE1wSS1sMmFjQzJub3E3M1k2el9GYW1xUkNaWUNsdzUwQ1Q2TXhXNWpTdmVRaXBfWldCQkppOTFKREVhQjdwWEZNUXoyZU1PX3dCaFBtanlZOVFXcUFxbXZPdGstZHF1ME83QjMyb1BmUU9JZjhWclE3Qm1BeTZZTHJOMi0xTlZuc3A0ZkRMNEZVd3ZUUGI?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU0VfZWhCR05lRmRJU242QVplSGRYZHZoTlpMNVg1MUprSU4zQmxLM1Z2eFlrQ1BTbHcxZ3A2VEpjeUhlRFdYcHNmV1hsYmJKYV9IMFJaZnB0a2ItWXNMQkNCOW9mWUdBSDFSMjN1cTl4ZDFOZnhVTGc0bGZULXNsNkJwdHBOTWVEYkpzMkNCdk8zdllhQUQxU1dR?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -292,6 +317,15 @@
    ]
   },
   {
+   "title": "Trump is in a corner and likely to lash out at Iran again. Here’s how to avert that disaster | Simon Tisdall",
+   "source": "The Guardian",
+   "time": "2026-10-28T08:08:00Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR3Q4STJjSG54YjZEMFBtTXNNa2FyMEpBOHM3VmtKV0hhRnhjZWJSVWRZWnhoYU1uOWpxX0FVZkc2cnJQaVVNOUtES1BsTGVLenAwUzFRV014dlA1RWhoVjJ4S3BoMzN3TGlXV0UzbW84MEdqcTNjWlVSbVo4MjZBQlZBMWc0TjF4dU5tNXk2VGdDVDRQUkZWOVpfczU0ZzlG?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
    "source": "CNBC",
    "time": "2026-10-28T08:07:22Z",
@@ -394,7 +428,7 @@
    ]
   },
   {
-   "title": "Gold sticks to intraday losses below $4,050 as USD retains bullish bias ahead of FOMC",
+   "title": "Gold holds intraday losses below $4,050 as USD stays firm before FOMC",
    "source": "FXStreet",
    "time": "2026-10-28T07:32:41Z",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMHlUZFlDWXp0MU85MG52dDRvTFYteU5fWXg3eEJrZ2dfUXN5VTVzRnUtbW5UanRtcFR5X1BkNUp0czVwYXg3NGJxQk5NU2tzWTVHaDhmd2k0c21WX2FvV2ZaLUZzbGsxdDdNUExrcjAzd1BoQjN0R2tibG81SEM1ZWh3YmRDQU1ZSG90dzlaUXhGdDBnWHdMX1dSMmYtNHU4VF9UVGFyU25xYkt6WFE?oc=5",
@@ -587,24 +621,14 @@
    ]
   },
   {
-   "title": "Gold slips on oil-fuelled inflation fears ahead of Fed meeting",
+   "title": "Gold eases on higher oil prices ahead of Fed decision",
    "source": "Reuters",
    "time": "2026-10-28T06:16:00Z",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUczTDEtcklEQks1UTM3TlZhanpWZ19RUUVMTnkzQTFXWHpmeEF0YWVST0gzamNJNG5KVFJIcUZMOUxnZnBRMkhXYjBkaGdER1Vkc2hQWmplZmluYkQ4YWNsbkwwY0N5ZzFDQldCTDJucHRZY3lOVHdPWEt0RnJmQVprXzBoQnFEZHM3OS13cGNrRFp6MjBuMXJrVTRpcGs3UkpN?oc=5",
    "tags": [
     "FED",
-    "INFLATION",
     "OIL",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Trump is in a corner and likely to lash out at Iran again. Here’s how to avert that disaster | Simon Tisdall",
-   "source": "The Guardian",
-   "time": "2026-10-28T06:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR3Q4STJjSG54YjZEMFBtTXNNa2FyMEpBOHM3VmtKV0hhRnhjZWJSVWRZWnhoYU1uOWpxX0FVZkc2cnJQaVVNOUtES1BsTGVLenAwUzFRV014dlA1RWhoVjJ4S3BoMzN3TGlXV0UzbW84MEdqcTNjWlVSbVo4MjZBQlZBMWc0TjF4dU5tNXk2VGdDVDRQUkZWOVpfczU0ZzlG?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -671,24 +695,6 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGhmTW80YzZ5QkQzdzJIUkZJNmtmQ2NUeXU2NjN0V2RpcFJRS21OQ05qR3VjZGZ6Nmc3d2NzWHhBVjVNOEl4dThaQTlJaDltZWlUUlZkb09FYzU0YjJNbFdGQWY3MjdsV0NLRmxTZHdPemdLM00xTUpwNXhMZmtScWVNSFE?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Food and household brands warn of more price hikes as Iran war costs bite",
-   "source": "TradingView",
-   "time": "2026-10-28T05:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUWZxVEk2c1lVSmtHYkNNYUdmZzZPNERqNzZMT2tBRmRyMDNyNGN2Vk9xc2cwd1dSVHlObk5nSkNGZld5cnBMYU1VSlM5ZWQ1Yi1ST3lvOWdkNzBCeW5GZVMyUE43M29TYUhMWm5OVDZOYTJkS3hFbl91MHlzSVdQSnJ2RTFDYk9wanJmcF9LczduSC15eUpvWm1IdDVHRWdyQ2xDOVBfdTdzR0VKbUZrLUphbmxYdEVIeDhRRnlKNHZkS3U3aTM1b0c0TFhOV0hZRVg0eG5pdkN3Ync?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Silver Tests Key VC PMI Resistance After Rebound as Gold-Silver Ratio Hits 75",
-   "source": "Investing.com",
-   "time": "2026-10-28T04:59:00Z",
-   "link": "https://www.investing.com/analysis/silver-tests-key-vc-pmi-resistance-after-rebound-as-goldsilver-ratio-hits-75-200690391",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
