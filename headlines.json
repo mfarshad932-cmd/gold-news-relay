@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T20:09:33Z",
+ "generatedAt": "2026-10-28T20:37:53Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,16 +52,16 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 2
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 10
   },
   "bbc_business": {
    "http": 200,
-   "items": 48,
+   "items": 49,
    "kept": 2
   },
   "bbc_world": {
@@ -81,38 +81,38 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 37,
+   "items": 33,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 32,
+   "items": 36,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 23,
+   "items": 24,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 39,
+   "items": 40,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 20,
+   "items": 18,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 15,
+   "items": 16,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,92 @@
   }
  },
  "items": [
+  {
+   "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
+   "source": "CNBC",
+   "time": "2026-10-28T20:32:54Z",
+   "link": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+   "source": "BBC",
+   "time": "2026-10-28T20:24:39Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
+   "source": "WSJ",
+   "time": "2026-10-28T20:21:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVpkc0tPSDBPVHptQ0w1dG1CTjVvTXpYZTAwbWlJOVpJUHc3UTN5R2pPeTA0QnoyVWpRVGpLS3JFd0xSeDdoWjJtRlJBNHZXVm5kcTBRaUdxQTNNeGdNQmFxYWE0MjBoZG80SVlscnJSaGRDdDBmUFRsT3BtWnd5TjlwZ3dqWDNDRnFVamJ4RlVqZThYTm5tVTJB?oc=5",
+   "tags": [
+    "FED",
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
+   "source": "CNBC",
+   "time": "2026-10-28T20:17:19Z",
+   "link": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
+   "tags": [
+    "FED",
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "U.S. oil-refinery stocks are up roughly 150% this year. How long could this historic run last?",
+   "source": "MarketWatch",
+   "time": "2026-10-28T20:16:00Z",
+   "link": "https://www.marketwatch.com/story/u-s-oil-refinery-stocks-are-up-roughly-150-this-year-how-long-could-this-historic-run-last-f01c590f?mod=mw_rss_topstories",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Federal Reserve keeps rates unchanged despite elevated inflation",
+   "source": "AP News",
+   "time": "2026-10-28T20:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Ford Raises Outlook Even as War, Inflation Exact Mounting Toll (F)",
+   "source": "Bloomberg.com",
+   "time": "2026-10-28T20:07:41Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU29JS3RValdrUlZKXzYzNVQtQ3RqWWNKWkRIeGgtSVN3c09ndC13ZjJzN2thMEhBY2M0M3U4NFRaYWIzQ2tkTkxSV080OVBFVlA0TGZnMW5yZTZ3QUM4M0QtUFRCZ0RDcE12WnJXTF9ETExNX1pOQTNfWEJSdUZoRG5aWmpvWVlSenBMTTViZDM4dW1vRFlxWS1JQlpSMjZ0VGppUDRBQW9RM1JSdmdxa2VB?oc=5",
+   "tags": [
+    "INFLATION",
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed’s Rate Hold Sends Bond Yields in Different Directions",
+   "source": "WSJ",
+   "time": "2026-10-28T20:03:45Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzhGN0RDSl9wZ0hDWi1fcGFTRnJHUTAzeEhUY1BZeVFJU1ZyaVFPdDkzNm9sVTVmcm9pSkxRWjlTOHRpSjlPNmxUb0pPaHBN?oc=5",
+   "tags": [
+    "FED",
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings",
+   "source": "Reuters",
+   "time": "2026-10-28T20:01:12Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
   {
    "title": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information rich’ period is coming.",
    "source": "MarketWatch",
@@ -164,16 +250,6 @@
    ]
   },
   {
-   "title": "Federal Reserve keeps rates unchanged despite elevated inflation",
-   "source": "AP News",
-   "time": "2026-10-28T19:47:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
    "title": "Fed holds rates steady despite concerns over inflation",
    "source": "CNBC",
    "time": "2026-10-28T19:43:48Z",
@@ -181,6 +257,15 @@
    "tags": [
     "FED",
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Skeena Resources: Tighter Situation After Metal Price And Forecast Step Down (NYSE:SKE)",
+   "source": "Seeking Alpha",
+   "time": "2026-10-28T19:43:32Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWtSOWd5Sm04M1M1TE5qX1licWQ1SVZxVnNJOWFuT213WHNYSHg1M2YxWEloQUxuWWZ1aWFwXzNQUFhMdkQ1WnAxMzZLMnVHMzFuVXVVZlYtQ3I5MDUyZnQtdVhkSGV4ZEpPSFdqNkIybmtIQmxQWTVrTlFlWFlsWmV6ekczdVd2dHNWN2JXeHhiVzBkXzFRNFhfWGhBMzZHSTBSSXRNUkR0bjNqcWhJcnFZQkFWQTA?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -223,6 +308,16 @@
    ]
   },
   {
+   "title": "Fed chairman talks tough on inflation — plus, what's behind Micron's big rally",
+   "source": "CNBC",
+   "time": "2026-10-28T19:17:35Z",
+   "link": "https://www.cnbc.com/investingclub/2026/10/28/fed-chairman-talks-tough-on-inflation-plus-whats-behind-microns-big-rally.html",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Iran war costs rise to $47 billion, U.S. military estimates",
    "source": "The Washington Post",
    "time": "2026-10-28T19:16:54Z",
@@ -261,15 +356,6 @@
    ]
   },
   {
-   "title": "Wall Street mostly rises as Fed holds key rate steady, deferring next likely hike to December",
-   "source": "Reuters",
-   "time": "2026-10-28T19:10:01Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "title": "Qatar said to float deal trading UN inpectors’ access to Iran nuclear sites for sanctions relief",
    "source": "The Times of Israel",
    "time": "2026-10-28T19:09:29Z",
@@ -280,10 +366,19 @@
    ]
   },
   {
+   "title": "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
+   "source": "Reuters",
+   "time": "2026-10-28T19:08:23Z",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "Fed leaves interest rates unchanged despite inflation in the US",
    "source": "Al Jazeera",
-   "time": "2026-10-28T19:05:44Z",
-   "link": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss",
+   "time": "2026-10-28T19:06:24Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUk5ZS185Z0RvUzM4ZVF2WVJfdUhIc252d2U0c3pfRXBJRnpiVVlxV3N4NEtMd1VLYWZlLXVvMzZ1X25EMUtUME56dW43cW9nWHR0RFAxNFoybVQ1VFEwdjdVd3pDQXEzSWZtblhKVEZUUDkxbDBoVmlQM1BZRFc3UmlvQWJqV240aTZod3JEQnEzTlVWVmQ2c0VDUGt6eEVkM2dXV2F1dmZSaVl1RVpQaFNn0gGyAUFVX3lxTE5STllLXzlnRG9TMzhlUXZZUl91SEhzbnZ3ZTRzel9FcElGemJVWXFXc3g0S0x3VUthZmUtdW8zNnVfbkQxS1QwTnp1bjdxb2dYdHREUDE0WjJtVDVUUTB2N1V3ekNBcTNJZm1uWEpURlRQOTFsMGhWaVAzUFlEVzdSaW9BYmpXbjRpNmh3ckRCcTNOVVZWZDZzRUNQa3p4RWQzZ1dXYXV2ZlJpWXVFWlBoU2c?oc=5",
    "tags": [
     "FED",
     "RATES",
@@ -297,6 +392,17 @@
    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNQnliMEJEay0yWEw2VG8tSUdIbmZBR2dxaWppZGNmdFE1QjZLZzh5NlJFa3d1dmphUzhiUTdJbVVBcFc1d0R6QkxZb3RXTHJsSjVCUG9fQ2hjSmZ0QWl2SFNiZXJOSTV6X2U1MTlsdTEtbUgyY3NyaVFpSFpmSkg5Q3BpWkR4YW9EOEMxbUxuX0NiS1A3emZUN0VoTzBNbWtORVRaOXc1TF9CZ043Tll4LWZxY1VSXzZGSTlRVV9VdlpuWHI4WVNDQmtqMXNXWW5yUHQ4ZGg2Z0hLeVFMWUZ6UUxWejhzZEJtQTRyNXFKSEQ3ZGY2MEc0RE92OVktWFVicFlESnZuRHRqZlZYT2ZnZDVOUEM?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Fed votes in split decision to hold interest rates steady despite sticky inflation",
+   "source": "Yahoo Finance",
+   "time": "2026-10-28T19:03:08Z",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTFNHanJ3MTBjVnBzMDd2NTFYRTR1azVJNmdJbXpiYm8wd0phUHZfcVNBWE1ySUwtSnJsVldzdGxoMXZTd09FR1pPV1EwV2N2YkROMVcxUENTRTNVd2NfQUdiM3JReWNhTTdDVjNMZ1diU0NxSEN2M1l1THVaNUo3emVBU0pSRHFZWE1JcHY1VkliTU9SRjB2VDdlTUJVSHZod1ZnZW1SeW53MWIyNDNDSWk5WW5IczBETFdjakhzdVNXNVdzNFFQTEtmQzNBek5wWmZjLWRxSmI2N09DZTJn?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "INFLATION"
    ]
   },
   {
@@ -345,16 +451,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUXk3WkJqU0FYdlpVUU9XTzUwSGRhSGpkbmhITGRSbFVtb0M0NlhlT194LW10TUdYRVBMUV9lTHlfeUE4WFR6cWljeTAyMVVYTGxWUy1nTXgtSldpdF95WG9GX1ZFYVd5LUJxaTJGSkk2QWk0R3Z6VTJ0RTVCWDI3Y0RHak93X0dCemp0VWZZM1E0czVhVlhUMl9CUm1sSlFTa1c4NWJkU2NaQXlpUzdxX2twWEJtbU9EUEpn0gHAAUFVX3lxTE45Z2c5MDhCd1R4WDl0NEY0M3JpSnFWRnVBdnc2OUt4ZVdSMEUwWXcwTDJRWXZBcUpEVUNOWUhfRWRLME01blpkSzUwbnZkbjFrNVNWVTZTSHcwanBzazdyNFdTUWRqX0xST1hGbXRELUNodWw1WG94Uk1HSzZGR1hhR1NMeFV0RTRZSXNPRVhEanlhdkstbDhzeXM0Vm5XQlIxWGpUQ3pzTnhtbjFnWU9Ca2xnQkdkWGdaa0txM0xPMg?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
-   "source": "CNBC",
-   "time": "2026-10-28T18:58:04Z",
-   "link": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
-   "tags": [
-    "FED",
-    "YIELDS"
    ]
   },
   {
@@ -547,15 +643,6 @@
    ]
   },
   {
-   "title": "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
-   "source": "Yahoo Finance",
-   "time": "2026-10-28T18:09:35Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVW9RWTZXNDQ2TFpldS1JSFRQX01mTFRDZmtURE04dEJiMHhZb2Z2ZUpEdGZBZGRKVmdEempyWGVfZkZqRVM3YThmV2U3NWJGT21HeVVjQjFwbU96eDVCem1PZFlKQlBZR1FHQW5jb1AwcFNkdEY1UklXekZMb3pvUUxwVzVobUFJMmh3SUdtSWZtdzRQLUtUNlNR?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "title": "Trump-targeted Lisa Cook dissents as Fed puts rates on hold",
    "source": "Politico",
    "time": "2026-10-28T18:09:00Z",
@@ -609,90 +696,6 @@
     "FED",
     "RATES",
     "INFLATION"
-   ]
-  },
-  {
-   "title": "U.S. sanctions 10 individuals, entity over N. Korean IT worker fraud schemes",
-   "source": "Yonhap News Agency",
-   "time": "2026-10-28T18:03:45Z",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vcU03Vk5qUk9iWkRIdWZNR2Z0aEljT0FjR3VqVDBzdm5tZlo0dHhXaVZNSlVqdGxrYzFiY2hUcTFIbjFmbEh1WHNESE1JVExhX3FnSmY1WnpFUQ?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Where to put your money no matter what the Fed does",
-   "source": "CNBC",
-   "time": "2026-10-28T18:03:40Z",
-   "link": "https://www.cnbc.com/select/3-money-moves-to-make-no-matter-what-the-fed-does/",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Fed Holds Rates Steady But Two Officials Sought Another Increase",
-   "source": "WSJ",
-   "time": "2026-10-28T18:03:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPazBCeUZ1clQ5WktEdzg0Y0daaUdFLWEtRk9FSklTSnd6ajZUa0hRTzdYREpJZHJ2NlBrWlhGdUkxbjlOUHVYbk9KX1pORklGRzdYMFlHUnB4bjA1X2lndHVHdEVCZGxuN3pYOVIwY1NMMlh2ZlF5YkQtS3lsZ0xpRGZtaUphcThQbllYMVd2RkZkakVrLVE?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Federal Reserve holds interest rates steady even as inflation remains high",
-   "source": "CBS News",
-   "time": "2026-10-28T18:02:13Z",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSk1RMm9QTGg5a0ZmU1d1OXRGZlFMZjJwZ0pHczhCR3ZHNjdNT0R6ZnhPRjJfMlY3SFB0RzFUcjJQMWQzM01TREpIRlNaaXRYVTVQRXI3S0tTVUJSWkZuMnRHY3JaeVB0cEQ1RmJUSnZZT2prSFk0Z0Z0eFNvREs4Ti1FcWtjNjZSUEJF?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Iran pressed to make nuke concessions as massive post-midterms strikes loom",
-   "source": "Axios",
-   "time": "2026-10-28T18:01:48Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ORVA0cF9QdVNRYWwzaGFXNFd1UnIxdlRrOWY0YktCWjlLX05xVE5pazNfTmhIOVVDNWZCbEZGVm5nRUYtYUJjcWl4MVgxdHlvbXQ3azQ0ZkZ1c01mamNyd1ZnalpMdExnanVOdjY4NGFxZHJNTGNIQjZ1ZVpKZkE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold price drops to $4,035/oz as Fed votes 10-2 in favor of rate hold",
-   "source": "Kitco",
-   "time": "2026-10-28T18:01:20Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTkVadUVFNW9aUUZEM1BhNnZBQ0k3M004YUdlemlZbldkZmN2ZXRaWjNnalI0VzZ3aC0tTERhWWxRR1RWZTlpaGZvTnFndnJxUEk1OUgyU3lKWkE3SVZFeUJNX2NCTWZ3WDA5TS01VTd0dmVIVFJ5akl0UHR4b3BVUzVnbVR4Sl90clRuY3FNdGF4Zmx3SnNpWVU5WHFVRGhqMFE?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Federal Reserve holds rate at 3.75%-4.00%, with two dissents",
-   "source": "Seeking Alpha",
-   "time": "2026-10-28T18:01:07Z",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNExDT3RObzhDeml3Yk5pQTc1YnRjblVhS3BpLWlxMXJkWG9vMUlJQXZraWl5dlhIQ1NZQnA5S01tVDNDSzNqalV0NmVEVmVCVlA3U2M1Ri0yV0lxbXVXdzQxcHlDZU95dHlBdDRQbGJISGpZaE4wYUQtU3daR04zVw?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "US issues new North Korea-related sanctions, Treasury website shows",
-   "source": "marketscreener.com",
-   "time": "2026-10-28T18:00:36Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWTVzMU5yOTVyR0tzekktODZZTVVBWTQyWmZ5eGhTOHBuc3NGcFNVbXRiNFVzLTczMUdPclZNME9mTzdXN1V4RGJEUkMyaU85U2dCRW1yUFczMHZ4bnAxcWFjeEczOU5Na0V5N1M5RVljRldrT3hidUp4b1d5anV0b0lQY1NJVmpndHdQdUIzaVhSZG90dkRPc0plYzAzU2dRYUp3d3pxaUNHT3ZTVDctV3ZsR1U4cnB2QjJj?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "FOMC decision Oct 28: Rates left unchanged",
-   "source": "investingLive",
-   "time": "2026-10-28T18:00:03Z",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IekpHbmt4YURScE1GaW9USk84MWJNc3pqY1BkRmwxZmI0bDhxelZhTFVVQkc5N2w2NnNkRUQxRF81MHVGUnBTQ0tBTU1JV0tqd1R4eDhaOWlDWWszRks4TWhWdHlmQkVROGNfNkl3?oc=5",
-   "tags": [
-    "FOMC"
    ]
   }
  ],
