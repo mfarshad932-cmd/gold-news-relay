@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T05:31:11Z",
+ "generatedAt": "2026-10-28T05:59:31Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 33,
+   "items": 37,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 29,
+   "items": 21,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 26,
+   "items": 27,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 46,
+   "items": 42,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 15,
+   "items": 13,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 8,
+   "kept": 8
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,25 @@
   }
  },
  "items": [
+  {
+   "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
+   "source": "CNBC",
+   "time": "2026-10-28T05:52:51Z",
+   "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Equinor profit jumps as Middle East war lifts oil, gas prices",
+   "source": "Reuters",
+   "time": "2026-10-28T05:49:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRjk0NlQ2cUJXcWhhTmVRdlNZempYM2RZM0pYTnAxRzVEMWVvazFGV0RoUmMwQWN0TEx2R2dXbS14SGxLRG4xVGJIbUFyOXd0Z2xXdHlaU0tEaUtPVkltU25RZUl3WWJPbmE1eG1MX1hKZkdXN0dldG9PWDFGMHNQdlloWmJud2RkRktYY1ZXNWpPanVHNlp1QThpQnprcGZIbnhEdQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
   {
    "title": "Transcript: What a local ceasefire means for the Russia-Ukraine war",
    "source": "Financial Times",
@@ -189,6 +208,17 @@
    ]
   },
   {
+   "title": "Gold Holds Above $4,000 as Traders Look to Fed Rate Decision",
+   "source": "Bloomberg",
+   "time": "2026-10-28T04:22:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUt1anRfa2s0VVI2NXlTQlJWaE5weVJJNlhlRWxZMzA4LTVRelVZU3ZRRzBYMXgxdEI1UjVBRE9GbmJROXdIS08tbE9OQ24tVFhDZjRvTEFPLWRNUHV1RzdhWEVpSWhXbGp5UUw3SVhJTk9UYmNLS0lvSXdVbjBETjFCY2pycF9HaDlSY2I0b2FHdlVKc0RIcEpVUUw2ZlhEbExwa3FrY20tcDY5dlNF?oc=5",
+   "tags": [
+    "FOMC",
+    "FED",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Gold drifts lower as USD hits two-week high ahead of FOMC decision",
    "source": "FXStreet",
    "time": "2026-10-28T04:15:54Z",
@@ -226,6 +256,15 @@
    "link": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "Private hospitals may have to go public with tariffs",
+   "source": "TradingView",
+   "time": "2026-10-28T04:04:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZjk1UTdQbnZXRS00YkVneUNiM3UwVk9LamhQMUVET0gwYmE1d0J4eVN6WXlyM293SVVXdG91QmFFR1h5b2tJOXpLV3pMRUFVLXczeDFPQTdCRlJvMEw1YkM0NmJEM1NSQTYtSDVWaFhEbWI5cUNFS1lLYXhXNjVDcXgtbE9FMUVaOURGdGtUYXQ2ZklHcGpoT2E1SXZBN2tISXdnbXBLSVhIVzhtOHc?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -496,6 +535,16 @@
    ]
   },
   {
+   "title": "Gold Clings to Gains Above $4,000 as Markets Await Fed",
+   "source": "WSJ",
+   "time": "2026-10-28T01:25:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeVEweGpTcFBEQ3R5aDdnOUhnaG84X2xJN2JmZ0lNVlRHU0xnOHdxVGd4dW94NmhoSTRuODVVVUtnMzg3VHJrcno5eFhoNjFOV2RQWk80ajlsYkMxUTdTUFJGOHUtenMxM0Q0TkVIVURydGRSZy1QNnlkYUFTTkcwVUs5aWJwS3p2VFFSWXdsemRiSzdsTXRrTFVOYmRRc1BqSnlpZk9EQW1qQ0xWd3Y0?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
+   ]
+  },
+  {
    "title": "BAE Systems completes 1st live-fire test of Navy missile launcher (BAESF:OTCMKTS)",
    "source": "Seeking Alpha",
    "time": "2026-10-28T01:15:35Z",
@@ -614,17 +663,6 @@
    ]
   },
   {
-   "title": "Gold Holds Above $4,000 as Traders Look to Fed Rate Decision",
-   "source": "Bloomberg",
-   "time": "2026-10-28T00:28:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUt1anRfa2s0VVI2NXlTQlJWaE5weVJJNlhlRWxZMzA4LTVRelVZU3ZRRzBYMXgxdEI1UjVBRE9GbmJROXdIS08tbE9OQ24tVFhDZjRvTEFPLWRNUHV1RzdhWEVpSWhXbGp5UUw3SVhJTk9UYmNLS0lvSXdVbjBETjFCY2pycF9HaDlSY2I0b2FHdlVKc0RIcEpVUUw2ZlhEbExwa3FrY20tcDY5dlNF?oc=5",
-   "tags": [
-    "FOMC",
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
    "title": "Dollar steady ahead of Fed decision, kiwi slumps after RBNZ holds",
    "source": "Reuters",
    "time": "2026-10-28T00:22:00Z",
@@ -651,43 +689,6 @@
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Pentagon picks Poland for new missile maintenance facility",
-   "source": "The Hill",
-   "time": "2026-10-28T00:15:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3dqVFZlZDBpb292bjhPZDBXOEhJU25vTnZnV3hoLXAtQTlCMzZUOWloV1pSTG4yMXlGSFdUX3hGZmJ4MExreFg3MGE0bXphTzlFUE1yOW45SjI5dkJQNWxpRXRxWGNYczAyUWNMekZyRzdqZ19CRHltRVRZbmFGUWNwTDZNbm1Ba0phR2VJMXB5cElTMXd5UWdycWZsY3M2UGREU2VrSHrSAa4BQVVfeXFMUFpYbkhDeDViYi1OMXZLNmlWM3NBLUItS1lTRGlheWxhczVHZzFwLXczc1hjd0lxV2FLdkI0SEc0VEstOWpBMV9XNkVXRGs4OV9HLU0zU28xMjRsT255dlZxZVhMNGpBUzdXTnptc2RvWnZVSkcwamF3Y1hlOVo5YWZDTDNubXNCeUtQWTROcTZ1MzBleG1fNWdxcmprLWd3ZjhpZW1qcUNEc2ZwN0hR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Warburg Pincus Sweetens Ingenia Offer, Ramps Up Bidding War",
-   "source": "Bloomberg",
-   "time": "2026-10-28T00:11:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSzhlTEtmT1dyQm1icUZQY1ptWU5leHI0RU50eGlnN18zRWJPMDhnUHBwaFFRZmtFYkxoSl9oNkluc29HTERITlhPVGtUdVhNRy1kdHp5aUJ3Q2tCTXl4ZVZYa3hFdEtPRjIxSEdjZ2k1RVQ0ZnVMMHQ2ZHVycjRISS1FY2pKdmN2RFpvUTFJTG5nWHFuVG9JekdJMDNyWWl1VmRVcU5MTERFdUhUaEExb0lR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold (XAU/USD) Price Forecast: Short-Term Strength Faces Major Resistance",
-   "source": "FXEmpire",
-   "time": "2026-10-27T23:58:08Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNUJucWdrSzBlbGdUazhfZnU2WGdrbDFrSk9NNk9NUWhzMlctbXc3U013N3BCdnh1VnB6LXNmanN0NUVVWWJCTmo5dVNFTWl5cXAyemp2dWV6UllmWENGSERsckVrTV9TUXlRRVJraVJVblhMbnJDU2daNjhaRkdGSllqTnQwYnVmc1k1N3ZEVm5UblZvbmo3M3ZldjFQd2RNeFY4Y21uZG5ORHUtaExwRWRNU1N6MzR6eHY2NlpB?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "S&P 500, Nasdaq Jump On Chipmaker Strength As Investors Eye October Fed Decision — ORCL, HOOD, JBLU, RIVN, SMCI In Focus",
-   "source": "TradingView",
-   "time": "2026-10-27T23:45:11Z",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPS3liQ2NWNDNzQVl5UEYwZlBEcnFrNFh4OXgwNE15ZlNWRTJjM0NoaS1wR3l6QnRnTHJSdG9lQmdMa2ZjVktxcHNLaW1Fa1NTTGZQZFZNd24zaEY1ZGJKYWhUT3ZqWU12M0trRzdFbWIxTnhJcFUtQ0ZUN2Y2REF3Ylp5Q0pZbi1wcWEtUXJZNmpIN2sxVDNWbHpRRU1qWE9GZTBQemNPSzdQQzRSOGF2NDJfeFltUk9HLXEtalptemxFWnZFUmt2blBBMWJFQ3FaLTFwRVgyVnM5dlBmME15T19lbko5cDBhbDg4S1c3N0EtcWhMNVNzSFRxYk84QmI3VkRUeA?oc=5",
-   "tags": [
-    "FED"
    ]
   }
  ],
