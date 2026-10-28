@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T06:56:10Z",
+ "generatedAt": "2026-10-28T07:24:20Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,12 +42,12 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 8
+   "kept": 7
   },
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 4
+   "kept": 5
   },
   "marketwatch": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 12
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 31,
+   "items": 29,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 21,
+   "items": 31,
    "kept": 12
   },
   "gn_tariff": {
@@ -101,18 +101,18 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_yields": {
    "http": 200,
-   "items": 13,
+   "items": 15,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 7,
+   "kept": 7
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,35 @@
   }
  },
  "items": [
+  {
+   "title": "Stock futures are mixed as traders await Fed decision, Big Tech earnings: Live updates",
+   "source": "CNBC",
+   "time": "2026-10-28T07:21:21Z",
+   "link": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "U.S. Treasury Yields Rise Ahead of Federal Reserve Interest-Rate Decision",
+   "source": "WSJ",
+   "time": "2026-10-28T07:19:35Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzhGN0RDSl9wZ0hDWi1fcGFTRnJHUTAzeEhUY1BZeVFJU1ZyaVFPdDkzNm9sVTVmcm9pSkxRWjlTOHRpSjlPNmxUb0pPaHBN?oc=5",
+   "tags": [
+    "FOMC",
+    "FED",
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "German consumer sentiment slips on inflation fears, survey shows",
+   "source": "Investing.com",
+   "time": "2026-10-28T07:12:24Z",
+   "link": "https://www.investing.com/news/economic-indicators/german-consumer-sentiment-slips-on-inflation-fears-survey-shows-4977593",
+   "tags": [
+    "INFLATION"
+   ]
+  },
   {
    "title": "WTI rises above $100.50 after strike on Saudi refinery",
    "source": "FXStreet",
@@ -163,15 +192,6 @@
    ]
   },
   {
-   "title": "Stock futures are mixed as traders await Fed decision, Big Tech earnings: Live updates",
-   "source": "CNBC",
-   "time": "2026-10-28T06:34:56Z",
-   "link": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "title": "Cost of Iran war reached $47.1 billion, Pentagon said to tell US Congress",
    "source": "The Times of Israel",
    "time": "2026-10-28T06:34:14Z",
@@ -190,6 +210,15 @@
     "INFLATION",
     "OIL",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Trump is in a corner and likely to lash out at Iran again. Here’s how to avert that disaster | Simon Tisdall",
+   "source": "The Guardian",
+   "time": "2026-10-28T06:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR3Q4STJjSG54YjZEMFBtTXNNa2FyMEpBOHM3VmtKV0hhRnhjZWJSVWRZWnhoYU1uOWpxX0FVZkc2cnJQaVVNOUtES1BsTGVLenAwUzFRV014dlA1RWhoVjJ4S3BoMzN3TGlXV0UzbW84MEdqcTNjWlVSbVo4MjZBQlZBMWc0TjF4dU5tNXk2VGdDVDRQUkZWOVpfczU0ZzlG?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -276,6 +305,18 @@
    ]
   },
   {
+   "title": "Gold slips on oil-fueled inflation fears ahead of Fed meeting",
+   "source": "CNBC",
+   "time": "2026-10-28T04:33:42Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSzB5QWNHVXdSNlM0Qmk3Uy1YUHpsNzltb2tHMnd4d3RPMDFPaDJsX0JvWTBRWkdKLVB4MUllNWNNandyVGM2MEFPRldjVm9RcElFbF9SOUdickF1LTFmdU02cFNRd0xkRlB4SVg1UUdmN3FQTVBvQVNyU1R3Tzk0Y0Nfdmw2SlRlR1h5TTAxdDU3M0YwcUFnajcxNVhvbzFfbG1mNNIBpAFBVV95cUxNSzB5QWNHVXdSNlM0Qmk3Uy1YUHpsNzltb2tHMnd4d3RPMDFPaDJsX0JvWTBRWkdKLVB4MUllNWNNandyVGM2MEFPRldjVm9RcElFbF9SOUdickF1LTFmdU02cFNRd0xkRlB4SVg1UUdmN3FQTVBvQVNyU1R3Tzk0Y0Nfdmw2SlRlR1h5TTAxdDU3M0YwcUFnajcxNVhvbzFfbG1mNA?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION",
+    "OIL",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Mbappe faces backlash in China for meme fiasco",
    "source": "Al Jazeera",
    "time": "2026-10-28T04:28:22Z",
@@ -333,6 +374,16 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZjk1UTdQbnZXRS00YkVneUNiM3UwVk9LamhQMUVET0gwYmE1d0J4eVN6WXlyM293SVVXdG91QmFFR1h5b2tJOXpLV3pMRUFVLXczeDFPQTdCRlJvMEw1YkM0NmJEM1NSQTYtSDVWaFhEbWI5cUNFS1lLYXhXNjVDcXgtbE9FMUVaOURGdGtUYXQ2ZklHcGpoT2E1SXZBN2tISXdnbXBLSVhIVzhtOHc?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Rupee opens 4 paise higher at 95.08 against the dollar, Fed decision awaited",
+   "source": "TradingView",
+   "time": "2026-10-28T04:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOanZ5SVRTdkVTREJmZUdTQUZPazltZHl2bVdMZkxZR0hLSDA5Zjg5b3lCWXJPZE9XZGZKeEpsaEFpX0s3bTNFQjhhN2E1anU3X3QtUkMzOVBKMXpfaF9Sa2JUWm4wYTh5UmgyZWFaMDBWSzMyemNDZENwQ2hiWVVuX1NCNTF3YTdVV0NnTEtub25UVzlIZEN6bnpUdko4NENmalp1LTVldjN0d0loWmtZSW5MRzR2VXFnVXQ1dThQMjE4TEFQdml3V3Y2aFI0cHVBd0Vfag?oc=5",
+   "tags": [
+    "FED",
+    "USD"
    ]
   },
   {
@@ -497,6 +548,15 @@
    ]
   },
   {
+   "title": "Prisoner of war bracelet returned to daughter photographed in \"Burst of Joy\"",
+   "source": "CBS News",
+   "time": "2026-10-28T02:34:20Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeTd3WTRLWG02NGJMdnd1ajJNRDZQSEtVWEtmb1dqc1MtRUxMaC1WdWZDdS15a1ZpQ3hrb012X2RTTWRDelgxVG1abjJsVXM2TGRLajZzMDA3YUhhRHJYV1JVcXVVU2c5b0pMbUx5Ymd3emxTM2g3SUZab09nVXM4OVlXa0hOSTFBVU5FMjFFUzZYUDNKSWttTUlnc3FSTU9JX1E?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Prisoner of war bracelet returned to woman pictured in “Burst of Joy”",
    "source": "CBS News",
    "time": "2026-10-28T02:26:00Z",
@@ -613,15 +673,6 @@
    ]
   },
   {
-   "title": "Silver Holds Steady as Fed Decision Looms",
-   "source": "TradingView",
-   "time": "2026-10-28T01:35:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZmw4akgwU3RVMjg0VGFrTi1oYnJCRHZHdVQ1QUNESExSYVh4ZE95ZUNGOWJXWExlX3hXYktUdGNab2ltYzFRMmJBNE9IZUF6NENNdlZmNDZVY2NTWEZUaXczSUNyTE1Zb200c3c0clhzNHB3NEg1QjgyWFhvbXAwZEVmWkFvSVdlczQxYXRzM0Q5UEtSZEFR?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "title": "Gold Clings to Gains Above $4,000 as Markets Await Fed",
    "source": "WSJ",
    "time": "2026-10-28T01:25:00Z",
@@ -647,52 +698,6 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUVqY01YZEVBNGdnSkZQSllpNnZmNFNUUm5ab0VxODNVWXVUdm5VYW1GcGRjSXJvTE9lSjlITEZZYmR6MUJiQ1ZtaFhNb3JDQkJoQ09JdlJUdlFsTXRfeEVKM0s1em51dUR0Z3h2WW9hRS1BdVVDSWhGSXNZZ1NIRTlzSnk4ZzZianQ0bnRheEEwRGpXTmY0SA?oc=5",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "Iran War Cost Rises to $47.1 Billion, Pentagon Told Lawmakers",
-   "source": "The New York Times",
-   "time": "2026-10-28T01:09:55Z",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TTUZTQXdTX1VoLXBEdnpiRzZ5MWRuRFh6aS1FZGRhdWdtNDlyZVJZbmdNYjhfRkl5QUtkbmF6RktUTXFQWkJYRnlMUTExUEpFYkUtS1B3cmE3ZEFrXzJNYzJKakdOTkN1Q1RNX0hfaXRGT256aW5Uazl6MA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate",
-   "source": "Reuters",
-   "time": "2026-10-28T01:01:00Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRmNndRN0ZxR18wcDdQUy01TjRUZnN3V2NOMGRPcmF1WnZCVDM0TzgzWHdHSVpISFgzWnFYbDlpazlmZVpIVEltalZ0cHVSak1YQ1ZkVmtTbXFvcFhUVFFoSE5NTWR1UTFWdnp0bGtxVXJYM0c0VmgxbS1KS1EtUW9qb2xCVEhHVWdNWVdvTWpVZnp6QW13TWVGOEhPeXF1MVlPTWhpTmV2Q0N3MjUxaVdEeU5MZFRLLWRCOA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Australia trimmed mean CPI rises to 3.7%, above forecasts, as RBA hike case firms",
-   "source": "ForexLive",
-   "time": "2026-10-28T00:52:42Z",
-   "link": "https://investinglive.com/news/australia-trimmed-mean-cpi-rises-to-3-7-above-forecasts-as-rba-hike-case-firms/",
-   "tags": [
-    "INFLATION",
-    "CENTRAL_BANK"
-   ]
-  },
-  {
-   "title": "Bullish Treasury Bets Face Reversal Risk From Hawkish Fed",
-   "source": "Bloomberg",
-   "time": "2026-10-28T00:50:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVdDN1Q0dWNoV3p6Z1JKbXlQM0tsU3lGVFVKMzNkZW5qR2FVYUFicy05NURWOXJmUEd3TTR0ZHlRVUY1V3hxU3dWdXA3ODdaZFltdXJ2WnI5NmN0TGNseXFKYXhoUjg4dndnaGlUVXdRQ0YyN2VPaS1IUnd5d2lOaU5RTU0wa05yS1h4b1NmaDlYdmNrQVpxRHpEaTJxQU96UmVPdHhuNEZ5S3k3?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Gold’s worst may be over as risks are ‘priced in’, analyst says",
-   "source": "Mining.com.au",
-   "time": "2026-10-28T00:49:39Z",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWXcxU2lVMWlRZGlIczVuTDFDYWItQ0daaExvNnRMMXNqWE8yRjBhLU5mbE1qTkFDZXdteU9NdnBtS0tEV1pfc0hGM056VVZVZWRQTkV0cEhZOG1Fa2RjSEJqYVc4dlBtTGw0d1lBMWZVQkdaaGZDUzczQnluNjNJazlsTTdqdzVUeVE?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
