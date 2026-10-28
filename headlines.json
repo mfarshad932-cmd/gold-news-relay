@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T17:19:36Z",
+ "generatedAt": "2026-10-28T17:47:58Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 8
+   "kept": 9
   },
   "investing_news": {
    "http": 200,
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 0
   },
   "cnbc": {
    "http": 200,
@@ -61,7 +61,7 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 43,
+   "items": 45,
    "kept": 2
   },
   "bbc_world": {
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 31,
+   "items": 32,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 28,
+   "items": 26,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 22,
+   "items": 21,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 36,
+   "items": 37,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 15,
+   "items": 13,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,85 @@
   }
  },
  "items": [
+  {
+   "title": "Fed meeting live updates: No hike expected, but investors watching Warsh for what's next",
+   "source": "CNBC",
+   "time": "2026-10-28T17:43:53Z",
+   "link": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
+   "source": "CNBC",
+   "time": "2026-10-28T17:39:43Z",
+   "link": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Rapidan Energy's McNally: Ceasefire optimism is fading and crude is repricing",
+   "source": "CNBC",
+   "time": "2026-10-28T17:35:39Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcW5Pc3RfUjM4dkJ0X2lKNkNEYXBlYWJuTUJiRHdsVHRGUHF3RW0yQThBRzlwbEktRm9PZEtlZm9iSWhuNkpQOERqWnFfdThKdTFoN0pUb2N1bmFUT0hVNm9sbXZEbHNENVRGMFhJXzc2RC1oemlnOHpWcnd1a2IxVkRERmRXNUJ2MjVCbVFJWDMtdGN3OV8xM1cxYjlKSWJFdWhVZnVvUFRad3d0TVc4YlIxQkwyNC1KQ3c?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "US economic pressure on Iran falls short without allies, report says",
+   "source": "The Jerusalem Post",
+   "time": "2026-10-28T17:35:39Z",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GVks5Y3llck9ydDZrN2dpNDgxekhYNEtVdzAxNEpWelJsTkxpMElyUnluOVpHY3FtWFdfZ3VVUm5WRUYwWU05LXhLc3NINzZhV0R6QzNEZmxsdTd1QlRB?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Gold slips toward $4,000 as Oil above $100 clouds Fed rate outlook",
+   "source": "FXStreet",
+   "time": "2026-10-28T17:32:14Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3JTdmtHTC16RXZVLWJaNGhBNXhmZDdhcEdhZ01RcTF1RTNsM0JfcURhY3VGWlR5UThMN0I1S0JNRWNtenF3dk1qSE1LYWM2MC10cm9xa1l6TDVyWFR5bG5kTHVHbHc1VXNWRmlIMnpRcnhLU2tydHhBcjhLbVpaelpHRVB2aHlCTXFFX09rQ3lnQXUwQ1lZR1VTS0p4VlJNaTVqaHhyLTRkeDQ?oc=5",
+   "tags": [
+    "FED",
+    "OIL",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "America Needs Canada’s Aluminum. Trump’s Tariff Exposed Just How Badly.",
+   "source": "WSJ",
+   "time": "2026-10-28T17:32:03Z",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jbzVnMndsNlQxclpucDhubXk1UlpfVVNoc2s0RVUtbS0ycmw4bURxZ25DV2lSZ01iUVVxOEVwc09GTVpLM3JOa2prei1vWS13aXhkWTFwb1JzNnpUS0NxZjJTLU83LTQzd3FqN2FteXdsbmtI?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold Faces a New Test as Oil and Treasury Yields Pull in Opposite Directions",
+   "source": "Investing.com",
+   "time": "2026-10-28T17:16:00Z",
+   "link": "https://www.investing.com/analysis/gold-faces-a-new-test-as-oil-and-treasury-yields-pull-in-opposite-directions-200690456",
+   "tags": [
+    "YIELDS",
+    "OIL",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
+   "source": "Al Jazeera",
+   "time": "2026-10-28T17:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcXBFYXVkMjN1YnVpQm5GVFg1aGt0UlZaQzVUWVJTUVk4NzB0QmY4c1EzakNIcTAwZ0RGMmdRMW54VXYtdXk1ejloc3l0YzJyRzh3OEx3UmNzOFNfblRSQWRVRXE4U0hxWnhkQkh5X2NWNnVzOG9kY3FTNVBMeHc0MnJHNkhvTThQTDBWbWpCQjhjUHhnbzJvR0dhMmhEbTJCYktLdV93LUdYTXYzdEc2MnRFbEVMVGVqQnfSAb8BQVVfeXFMT1laVFdPaG1oQVlqdk55OUNjYnRLQkpyVmt1ei1EdktNb0FldWlUZDJWVjNfd0FhZjZiaUdGb1VkYlU0TXUyVFdtSmdWZUdqSUtVSWxXV2twcGl0ZWM1SUR6VF9KNHhTM2paa3hhQjBXSGY4cDk2SklNRUFDUzdUU1Z5OVotOUE0U1l0UnE1M2xkSXdGejlYTGIxMWFNS1BYemtzaDl6QTNDdVNycVA3d3FSbVZuWjhWdXRXYWFFQmM?oc=5",
+   "tags": [
+    "INFLATION",
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Fed May Hold Rates Today, But Bond ETFs Face a Bigger Test Ahead",
    "source": "Benzinga",
@@ -150,6 +229,15 @@
    "link": "https://investinglive.com/news/iran-s-araghchi-iran-continues-to-give-diplomacy-a-chance-to-succeed/",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US imposes sanctions on Rwanda's defense ministry over Congo conflict",
+   "source": "Reuters",
+   "time": "2026-10-28T16:58:34Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFV5WTBDc2l5NVRFbllUS1NOZzZTM2x3cVVmaV9ydHhIdGRScmJVV3FQYTdJYlRMclVKZHVCSTEwcnpJaGpVUDZmVWlfZzN6NzA1b0VrZllGZHhWYVc5YkpCYTFONl82NlI5MWVxZ1NzZ3BPRzU4aG9iNlZLLWtVWW0tdXN4ZmVfbktkeHlKV1VpZG44RlNIZEVR?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -205,15 +293,6 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaThpempheGlNSGNUUW1wY0hhSnZCeS1DZHNpVG9CRkxlR1g4R2dmWXBzOTBnMFc1bHpXV2o5a2tQanJYa1RvQWRVNWlVYmNCdjM2amFoQkRCczVvMGl6d0VnWnQ4VUd5RlBTQng4ckoyeGRhcmZ5d2xDaVZneFhkcEU2OWtwMXktUVNWQi1vRjFPNDhtYzAyaHlyRmcyU2xzYUFabnRkdklQbEpRMFo1QjZxd1I?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Fed meeting live updates: No hike expected, but investors watching Warsh for what's next",
-   "source": "CNBC",
-   "time": "2026-10-28T16:43:48Z",
-   "link": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
-   "tags": [
-    "FED"
    ]
   },
   {
@@ -354,12 +433,15 @@
    ]
   },
   {
-   "title": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
-   "source": "CNBC",
-   "time": "2026-10-28T16:07:17Z",
-   "link": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
+   "title": "Gold stalls its recovery as markets brace for Fed interest rate decision",
+   "source": "FXStreet",
+   "time": "2026-10-28T16:07:02Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSldnRWZXaXlGU0JoeTFCdEdLRFR3cURrdlg3SjhwQ3UxcjMtY2lYQjJFOVhlUUxDVF9mSjdESWZBbVZFS1ZVaXI1VTF1VW1faUFOZDBpN1ZOR19lc3VYSHZ3REEtQ25zQnh5VmRSekZoSHplNW1SYk5kZzh5eXNxVTVyTE5LUUhuampjaDV6U20yeWc1ZmZlajl0eTJnSllmQVphTA?oc=5",
    "tags": [
-    "TARIFF"
+    "FOMC",
+    "FED",
+    "RATES",
+    "GOLD"
    ]
   },
   {
@@ -406,15 +488,6 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "America Needs Canada’s Aluminum. Trump’s Tariff Exposed Just How Badly.",
-   "source": "WSJ",
-   "time": "2026-10-28T16:02:03Z",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jbzVnMndsNlQxclpucDhubXk1UlpfVVNoc2s0RVUtbS0ycmw4bURxZ25DV2lSZ01iUVVxOEVwc09GTVpLM3JOa2prei1vWS13aXhkWTFwb1JzNnpUS0NxZjJTLU83LTQzd3FqN2FteXdsbmtI?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -489,15 +562,6 @@
    "tags": [
     "FED",
     "RATES"
-   ]
-  },
-  {
-   "title": "US imposes sanctions on Rwanda's defense ministry over Congo conflict",
-   "source": "Reuters",
-   "time": "2026-10-28T15:26:46Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFV5WTBDc2l5NVRFbllUS1NOZzZTM2x3cVVmaV9ydHhIdGRScmJVV3FQYTdJYlRMclVKZHVCSTEwcnpJaGpVUDZmVWlfZzN6NzA1b0VrZllGZHhWYVc5YkpCYTFONl82NlI5MWVxZ1NzZ3BPRzU4aG9iNlZLLWtVWW0tdXN4ZmVfbktkeHlKV1VpZG44RlNIZEVR?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   },
   {
@@ -619,59 +683,6 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZkJ6TWJ3TVRyUnVaWmxHMEpzT2J5ekltS19LbGZtcHExcXlkRU1rTlU1Y01pZ0tmVlJueWl6aWt2Y2pmZWxIOEpDcTRhN1U1QTF6d3FwczYzZUZtazhISmtPbUpYd1B3LWJYMEdWVWt6QUwzbE5jdUxkU0JxWVphb1RIU3Q0M1BiMHpIN3VxS3Y5Z0Q1bG4wNWtBdlM3dUhlNFhaVjV2NkRXTWRZUVp2Qm5yWTdZdw?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "The price of gold today, Oct. 28, 2026 — and the best places to buy",
-   "source": "CNBC",
-   "time": "2026-10-28T14:41:54Z",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vc19QQVR4amE0dHZqc0N6UjA5ZGh5RWJhTHZUaVh3THVwMS1OT01xd0dPbEdZbDg4MzMwS3VCUGRyRGR6Z0ZUbnF0RFUwTDRNUnF6TE5WQnFYUjdSdXhwS2VwMHlfdjdBTEhBSzJBYXVzQdIBd0FVX3lxTE0yb2ZQb1JRUEdESHo5R0FqYVlQR1NXalNhVUpqZXhkQUM5UHpBbWlGMnlDMlZuNWJpRVd1eEpscF84cGZBc1VJU0V1MFFpQ0ZUYUI2RzY1T2RLTUVrS2dzU3c5WkkycUJIbnZXcVVNcDEzbkhYTVJz?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Federal Reserve Chairman set to issue bank rate decision as midterms loom",
-   "source": "CNN",
-   "time": "2026-10-28T14:40:29Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVEItTEtTYkUtTkRFcXB4VnNLM2J2UWZMWkZTZHowMFozT1hGZHpBNlkycWFJdUtBTEtudFUzd3FwTTlodGZsQ3J1NXZ2eWNIMFBFOHdyWmE5TTdVYjBERXA1U3EzcnlBal9GM2l3ZkE0c2lYMEx1Tlh1V0c5UmhGMTVRSVFhcHBfZnJ3ZGdlTmpFa0xmQ2tyNmh1aUV3X0RhaHdQa2VuYU1LaFdSWWVLMFlUWFdKSFlIQUlNUWhWUHNuN1VmekJBSQ?oc=5",
-   "tags": [
-    "FOMC",
-    "FED"
-   ]
-  },
-  {
-   "title": "Dividend ETFs That Might Benefit as Tech Faces Volatility",
-   "source": "TradingView",
-   "time": "2026-10-28T14:37:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObG1yb2VWQ3FiY0tLUUtPd1ctSURkdHZ6NlJMQUluUjZ6elg1X3NCUDdIY1dQQXdoZUdwLVJQRlpoTUJuUjFZNENCTkk5MVM4UlU3UjVPaVJSTDlwR0N5ams2aGpiMTlZaDhpenNqUzUxWmxraFRvQVlWSFVtUmlBQ09uNk1kaEJaRnEtZDBqYTNyMzBrdTJ5STZEeFVKQXp5RVUzUWpKYTQtZmVwWVhPNG5Pdw?oc=5",
-   "tags": []
-  },
-  {
-   "title": "UK unveils energy bill relief, tax breaks as Iran war hits economy",
-   "source": "Yahoo Finance",
-   "time": "2026-10-28T14:33:22Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVJzZ2p1R3F4UDcxWmV6NGlQckFSbVNabXhSaDNyV2d5eEwwYm5CbmplaUw4RGVWRGctTGxVQVluWGRtZmRJN0tiYUY1d1JQTnNPV0htSEJyaHdENXV1Z3hrY0huLU1FeVNmUHVOZVFmNVB6Wm52bU51dmd6T0diMEt1OTFuVkE2cFNqNFhfMWtVQkJ6MGNTRzhR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Crude Oil Inventories Fall Less Than Expected, Impacting Oil Prices",
-   "source": "Investing.com",
-   "time": "2026-10-28T14:32:08Z",
-   "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-fall-less-than-expected-impacting-oil-prices-93CH-4979823",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Treasury Yields Little Changed, French Bonds Outperform",
-   "source": "WSJ",
-   "time": "2026-10-28T14:31:01Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWk45NGlORUMtZ2RfUVBDZ2lTODZTT3lyaGpqZTJXd3hzb1NBNTdPVnlNc0p2QlI5cFZSUjNRYzhoY2E2cFlvNWNBNldoaE82X0N2bkpNZlctVnY0M1NCVnVoc2tBYThRYzlYMDVERTJiQ0JKX1dYMVU2RDdzTUVycUNCTUpEMkpCSHIzbGJvNkVKNzZYS0JYN3MwVmtRQjRFTmNFLXQzVlVTS3ZqQVI0d3ZGbw?oc=5",
-   "tags": [
-    "YIELDS"
    ]
   }
  ],
