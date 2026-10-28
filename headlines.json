@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T02:12:48Z",
+ "generatedAt": "2026-10-28T02:41:08Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 36,
+   "items": 38,
    "kept": 12
   },
   "gn_fed": {
@@ -91,12 +91,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 26,
+   "items": 30,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 44,
+   "items": 45,
    "kept": 12
   },
   "gn_sanctions": {
@@ -111,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,73 @@
   }
  },
  "items": [
+  {
+   "title": "Prisoner of war bracelet returned to woman pictured in “Burst of Joy”",
+   "source": "CBS News",
+   "time": "2026-10-28T02:26:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmZkTTJOWFZKa3Yxb0ZhV1NKZFZmTGRhOTRqV0QxeDlLeVd6ZGtCTVdjZ3RYTUFaNVFzTXJVM2VmckcyMW1tX0Z6NEk4WjJTTHNVV21iVEtDTlpxd0U4TVBPRHh3WFFEaDRjNXdzS18xd0huUHE3aWh0dUlQa3VxbkZhaVEwQWNxaHJqNTlXZDFhTnBEaDJaR1RKbHdQNFczeGNMM25vQWxHcDBFcXc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+   "source": "CNBC",
+   "time": "2026-10-28T02:15:55Z",
+   "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Financial Deep-Dive: Gold Correction Is Not A Buying Signal",
+   "source": "Investing.com Australia",
+   "time": "2026-10-28T02:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUFRwZUpISXNoR1o0REUzdDNubDFtXzJTVUVtRGdPbE9Yb0pGRDJmbkdtQzc5OEVMM25wOXlfMHFaX0JwaWwyNjNOR2k5NU5zY0JtMnNWaHlTdE1mRmFKWFdfQ0o4T2dBQUZhV1JON2NTVzhsUEtZdWNnc3U5clNoRHVEOGtUREwzU04tMFFZTnF2M2d3NzRMd1hSNzlTYTdmRnU0?oc=5",
+   "tags": [
+    "CENTRAL_BANK_GOLD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Australia Q3 inflation quickens, bolstering RBA rate hike case",
+   "source": "Investing.com",
+   "time": "2026-10-28T02:02:55Z",
+   "link": "https://www.investing.com/news/economic-indicators/australia-q3-inflation-quickens-bolstering-rba-rate-hike-case-4977312",
+   "tags": [
+    "RATES",
+    "INFLATION",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
+   "source": "WSJ",
+   "time": "2026-10-28T02:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXd0OHZEUnBrMFNkRjJ5dHFUakFsTDU0NUxhdzhQUnpPQ0JxMllJanhoeVFQWm1GMmk2RkRUdDFWLVR2N0VwczZOQmZmbG9BanpUSTE2VEhnSS1xd29mUzFzbEdRTVBDWGRSOW1hRW41WU04eE9OSUo4QmFoSG9DUUhUNi13bzNkbEZaWlFUaVUzUzZPWGtMc2JDeEZyODg2Q09JdFZBekl1WnNJdDVBYnZQMzhieGt4bjFuOFZnMA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "El-Sayed distances himself from ad tying Gaza war to increased costs",
+   "source": "The Washington Post",
+   "time": "2026-10-28T01:56:09Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMllIMFdWR1BQVVBNLUZPTnRoR3ZIOFFJbU9RSlBHd1dMbGV6Vm5yYlgzbnV2ZHEwSnNkVExmYkdoODkwTkF6Wi1sa1RwbjdNOWxWdThsMEVTcV9zdUs0TjRYNkZkQ3Q4UXF0N0lyZ1BOdlBmSUNvOVlTNTZLMjVPcVJKYlA0OUJCWk92WFNjbmV2Z2NyZU9hR01WODM1MjhQTnFsQVpoRldEM0hXZldhUG5B?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
+   "source": "WSJ",
+   "time": "2026-10-28T01:44:58Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
   {
    "title": "Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict",
    "source": "The Guardian",
@@ -162,15 +229,6 @@
    ]
   },
   {
-   "title": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
-   "source": "WSJ",
-   "time": "2026-10-28T01:31:38Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXd0OHZEUnBrMFNkRjJ5dHFUakFsTDU0NUxhdzhQUnpPQ0JxMllJanhoeVFQWm1GMmk2RkRUdDFWLVR2N0VwczZOQmZmbG9BanpUSTE2VEhnSS1xd29mUzFzbEdRTVBDWGRSOW1hRW41WU04eE9OSUo4QmFoSG9DUUhUNi13bzNkbEZaWlFUaVUzUzZPWGtMc2JDeEZyODg2Q09JdFZBekl1WnNJdDVBYnZQMzhieGt4bjFuOFZnMA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Why the Fed Is Expected to Hold Rates Steady Despite a Case for Raising Them",
    "source": "WSJ",
    "time": "2026-10-28T01:11:06Z",
@@ -203,17 +261,6 @@
    "time": "2026-10-28T00:52:42Z",
    "link": "https://investinglive.com/news/australia-trimmed-mean-cpi-rises-to-3-7-above-forecasts-as-rba-hike-case-firms/",
    "tags": [
-    "INFLATION",
-    "CENTRAL_BANK"
-   ]
-  },
-  {
-   "title": "Australia Q3 inflation quickens, bolstering RBA rate hike case",
-   "source": "Investing.com",
-   "time": "2026-10-28T00:51:41Z",
-   "link": "https://www.investing.com/news/economic-indicators/australia-q3-inflation-quickens-bolstering-rba-rate-hike-case-4977312",
-   "tags": [
-    "RATES",
     "INFLATION",
     "CENTRAL_BANK"
    ]
@@ -329,6 +376,15 @@
    ]
   },
   {
+   "title": "Warburg Pincus Sweetens Ingenia Offer, Ramps Up Bidding War",
+   "source": "Bloomberg.com",
+   "time": "2026-10-28T00:11:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSzhlTEtmT1dyQm1icUZQY1ptWU5leHI0RU50eGlnN18zRWJPMDhnUHBwaFFRZmtFYkxoSl9oNkluc29HTERITlhPVGtUdVhNRy1kdHp5aUJ3Q2tCTXl4ZVZYa3hFdEtPRjIxSEdjZ2k1RVQ0ZnVMMHQ2ZHVycjRISS1FY2pKdmN2RFpvUTFJTG5nWHFuVG9JekdJMDNyWWl1VmRVcU5MTERFdUhUaEExb0lR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Gold (XAU/USD) Price Forecast: Short-Term Strength Faces Major Resistance",
    "source": "FXEmpire",
    "time": "2026-10-27T23:58:08Z",
@@ -336,15 +392,6 @@
    "tags": [
     "USD",
     "GOLD"
-   ]
-  },
-  {
-   "title": "El-Sayed distances himself from ad tying Gaza war to increased costs",
-   "source": "The Washington Post",
-   "time": "2026-10-27T23:49:05Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMllIMFdWR1BQVVBNLUZPTnRoR3ZIOFFJbU9RSlBHd1dMbGV6Vm5yYlgzbnV2ZHEwSnNkVExmYkdoODkwTkF6Wi1sa1RwbjdNOWxWdThsMEVTcV9zdUs0TjRYNkZkQ3Q4UXF0N0lyZ1BOdlBmSUNvOVlTNTZLMjVPcVJKYlA0OUJCWk92WFNjbmV2Z2NyZU9hR01WODM1MjhQTnFsQVpoRldEM0hXZldhUG5B?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -371,15 +418,6 @@
    "source": "Al Jazeera",
    "time": "2026-10-27T23:35:51Z",
    "link": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Warburg Pincus Sweetens Ingenia Offer as Bidding War Ramps Up",
-   "source": "Bloomberg.com",
-   "time": "2026-10-27T23:32:52Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSzhlTEtmT1dyQm1icUZQY1ptWU5leHI0RU50eGlnN18zRWJPMDhnUHBwaFFRZmtFYkxoSl9oNkluc29HTERITlhPVGtUdVhNRy1kdHp5aUJ3Q2tCTXl4ZVZYa3hFdEtPRjIxSEdjZ2k1RVQ0ZnVMMHQ2ZHVycjRISS1FY2pKdmN2RFpvUTFJTG5nWHFuVG9JekdJMDNyWWl1VmRVcU5MTERFdUhUaEExb0lR?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -639,40 +677,6 @@
    "tags": [
     "GOLD"
    ]
-  },
-  {
-   "title": "What gold and platinum are telling us about the stock market’s direction",
-   "source": "MarketWatch",
-   "time": "2026-10-27T20:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb0JpZk9naWRQV0pBRFJ1NTR6V01tVzdTYmNYZUQ1ZFZGdXYtcmhqMnhhWXZuOG9NZ3c3WVhqZU1UZ2hHcWlkczdVWkxfSGR2VU1jbHF2T2hqTHhaYjJGa3FzLTBreWNHcE04bi1PZkdQYVV5WENjYWtyMjJyeWlqNHlfNjZYa3pXQUFGMlo3ek9fcEFwYUhMUDZhUE9WY1dVT1JkSWpVVTAzeVhOSFg2VmJadEk?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold’s Correction Creates a Potential Buying Zone for Miners and Silver",
-   "source": "Investing.com",
-   "time": "2026-10-27T20:29:00Z",
-   "link": "https://www.investing.com/analysis/golds-correction-creates-a-potential-buying-zone-for-miners-and-silver-200690384",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold and silver ALERT: The next rally is close but price drops are still possible",
-   "source": "Kitco",
-   "time": "2026-10-27T20:28:05Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkRJWXZQR1IzRWpCSzFSS2NleXVtemhkbFhNVEhmTklUdTA1Z1ZaWG1UcWRDSFlDNmVUX05yR0VlMFBDU1BKeUFHaldoOGlxeFBuanl3eU1hSzIteUo0RlgxU2JNdU9uQkFmYS1xdEVxbzZ2czdqcGJzeWpWbElfMlNtSDJ3NkNNSEFiclhRT3A3RHUwZDgtRHNaRmtkTE9scDJuRXQ1cHlyV2ZjajBJ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Treasury Rates Today: October 27, 2026",
-   "source": "Forbes",
-   "time": "2026-10-27T20:23:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yck9yOUFWR0FpdE9oMU00NGZWMVVrb25MOWxBWmRuU3Ztc1FvdGJZZlBMXzZwUnpPQVp5Mlg4UzFwX2VZTG00SUFUa3p0VVoxRFZOY2M3V2N3R1ZlLXhCdVVpWHNKd2s?oc=5",
-   "tags": []
   }
  ],
  "fedCalendar": [
