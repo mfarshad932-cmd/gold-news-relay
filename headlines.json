@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T16:22:52Z",
+ "generatedAt": "2026-10-28T16:51:12Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -61,18 +61,18 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 42,
+   "items": 43,
    "kept": 2
   },
   "bbc_world": {
    "http": 200,
    "items": 20,
-   "kept": 6
+   "kept": 5
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 10
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 28,
+   "items": 32,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 40,
+   "items": 25,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,28 +96,28 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 33,
+   "items": 37,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 12,
+   "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 13,
+   "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -126,10 +126,122 @@
  },
  "items": [
   {
+   "title": "Bank of Canada raises interest rates for the first time in three years",
+   "source": "Al Jazeera",
+   "time": "2026-10-28T16:44:44Z",
+   "link": "https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years?traffic_source=rss",
+   "tags": [
+    "RATES"
+   ]
+  },
+  {
+   "title": "Fed meeting live updates: No hike expected, but investors watching Warsh for what's next",
+   "source": "CNBC",
+   "time": "2026-10-28T16:43:48Z",
+   "link": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "The Federal Reserve Will Release Its Interest Rate Decision Today. Here’s What to Watch.",
+   "source": "The New York Times",
+   "time": "2026-10-28T16:36:07Z",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcUJVN2QwZGtTaW1kaW1YenZOLVpfZDdLTHFMSUxaZFBPeUFoUEQ5S2d3b3N6dE5DREtLMmZnWDFFSVhqQzFVS2tnR3JrSndRUlZxVmQ2RmtPdTRJNkdjM0IyTjVJek1RUVk1cEg1N3FqbUI1YzFwb3VmYjhQUUtPMDJTZkVqZw?oc=5",
+   "tags": [
+    "FOMC",
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "Why Falling Treasury Yields Could Send AI And Technology Stocks Higher",
+   "source": "Yahoo Finance",
+   "time": "2026-10-28T16:35:24Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdERjMFdLQkZabGVnWVNFVWtycXpNeVpSZFhqMHNPRXlhc1N3R3g4TjJJS25DT25tdF9BV0plOEFrTThmd0V3ZTlPbVpLZ0xIbjFHR1NERU1ucTA1cDhhcmtiVUFkeUplTmNJdmt4QmI4QlNjbUctWE1FYmU2MWlubXNMdkQ5Rk1hSDhRUTAtU0ExWEFGUmtuR09NMDNDUQ?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Federal Reserve likely to skip rate hike despite elevated inflation",
+   "source": "AP News",
+   "time": "2026-10-28T16:34:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "A World War II Museum Brings the Lessons of War to a Younger Audience",
+   "source": "The New York Times",
+   "time": "2026-10-28T16:32:48Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0F6RWVUVnlXV0FUN0VmOVJlT1NrZEZvNktySkJ1X1o0bVJFcWMzNUxpbXpoX0thaUJBNmwyNzNLN0U1ZWtwSUVvTjBxUG9uOW10UzRFcjctZXRqOUJ0Sm1PRzIyRFVkUlBjSTVRbXdGbTdUZ3ZYSzVkYlVYam05NUg0NWFLX0d0RU1r?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Treasury sanctions 10 North Koreans and Russians over IT worker fraud scheme",
+   "source": "CBS News",
+   "time": "2026-10-28T16:31:29Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY0lScEd6dVc5a093d3hJc21OUGpYc1NrNXZ0M3F1ekdCV29PUV84bzVLMmRKQW5RaE93QmpuRWxtMEtIbHItd3JPcHlpMmtCdXNMSkg0SHhKTXlvQVdyN2FxN1kwd1hwWjY2MmYxeDAtbjEwWXBFX3dDMTFPT3NJOXRuM2F5cmNGVkpnQ0xfVQ?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Caretaker role will limit Netanyahu though he’ll retain war powers, as possible Iran attack looms",
+   "source": "The Times of Israel",
+   "time": "2026-10-28T16:31:25Z",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNck9RTF9WRzNyVm12TzJ4eUMtVVQzVF85UkZ3YVdTbUktcjFSX0xlOGpYejgwdUllcEVRczVRc1ZNR29xQjJLOW5aU21LczJSWnBTa3BjYUthdXc3eVFYVlJMOHBZcnlrbGtHeEQzdHdzQUFJUVdtOEdmbm9HWWd3eFpkVnR2d2o2SEpWUk82WmhlU3BRanUzdldVTkNhc1ZwYUtyWTB5ZU8yRXB4X0F0aS1NVE9FY0EtYlBzaERubkFOR2I00gHKAUFVX3lxTE1rNzNJMjMwdnRkMFNHR3VHRzFIZGRGQ1dmSEhYQW96VVVQeVpVdGl4RVhDd1dZWGlnRDZkTklQWEZLT3lMWkhXQ2xycVpaeGRKMWdiRG1FenAyb0FJdjFrRWJoLWFINzA1ekh6c0hTM3dOTFVVWW1xVTV5N2pDS2hjREIzbVhyeHdlSkNSc21GblhsTkpNQjc5NENWMTJiTXZ0ZDNENFRJeHZrY29TOFgxdEFQbElvMVJoSlA3UVc4eVV4Rld1a00xT2c?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Treasury sanctions North Koreans, Russians for alleged IT fraud",
    "source": "The Hill",
-   "time": "2026-10-28T16:19:43Z",
+   "time": "2026-10-28T16:30:18Z",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd0p0dmNIVFFLZVdyYS02Y09icnRJOVY3T0ZrcURZZFhIanV5Zld4a19leUZwT0VVSWw4aVFrbEM0VVZRYjZVbUFnaG0wSl9uSEtGWWlUR0dKLWpGUXM2MEtORW9zdWRaOVRFSWhNV0lBNzIzWS1hV2twck5HaWNfMjVwbDkyYXJWWk1kZTl0NkVMcE9Zb1lQSlRLTnFkdV930gGmAUFVX3lxTE5DQ1hvUllpdlk3SG1FTEV5OF81ZURsNkQyV0JEc3RYcmNTOTRTRVp4NW5lbWY5V3BsZkN4QXNnVVNrX3ctTzVDOVppU0RrU0VuRG9yd0pNaDY1MUR4aTJ6Q2pmcTVTb3pYMDBfNVlsZ3lBZ0FRMmRXc09jZWpxVk9mRkRQR1UwM2F2bmhucjlDZnhTdXFPMDVqajhXS1gyWW9UNnhZMlE?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Kinross Gold earnings in focus after production guidance cut By Investing.com",
+   "source": "Investing.com Nigeria",
+   "time": "2026-10-28T16:28:58Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTl9iblpZLUxkeEptdHl2NkhIZzlzQWs1OEpRZnRqaWZHWld5TGNwU0ZmNFFZOTBZNnpWejBPUEJSUnhleDlQQ0VNTVEwT0RNWFJqbnpma1htb1laQWxZRGxGR2gtQkdIdzZLc1VCS1FjUkhrSEYwSDBOMXhWX1VZT0ZOVlowYUxYNGlsNWRSOHhDSFpDZ2JVQXc3RlNmM0FEN3hCQXlpZUduT0hwSXM2aFVWem9rNl9aeGJ4OU93?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "US Wins Over 23 More Countries in UN Vote Against Cuba Embargo",
+   "source": "Bloomberg.com",
+   "time": "2026-10-28T16:25:36Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTElTNkR6UkNfUTFiZThDdGdiLVozejhqdVA3My1vN293bUlGUFk4Z0ZSVEVTNkJzSURvd1g3dElpMUFoLXE2UlVQeWF1bkcwdjJXcGhNWFUwZG9IcE5SN2xlWWdqV1QzUGh1NE5lUTFkU2xqOGQwSU45dmpCYXFYeU0yVkxiOU41elNmVG1uTGhpOTlOX1YwQXJWVlJQSk4zYnJVdGw3Q1Z3dmVZNndoa2ZYcw?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "There’s a War Over How to Train Your Dog—and It’s Getting Nastier by the Day",
+   "source": "WSJ",
+   "time": "2026-10-28T16:23:55Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcUlVWlNsd0Y5bXNlNFpHU3lBVnduWlJBaTNmRmtIWG5xOWlOUUJQeDRXOXZLdTZYUnh2TjNBcmxxeGRoZDJnRW56X1Jaek1qRkhYUkhKckdVXzNhcUdyWkYydDNBYlVGc1dfRmd6UEY4TEh4d1dpQlg4aElUS0hJWTlpajBZRFlELWIzM1Q1RDBTWFlYM3EycHJMeTVsLWc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S. imposes new North Korea sanctions amid stalled diplomatic talks",
+   "source": "NBC News",
+   "time": "2026-10-28T16:23:29Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUp3MTYtWkhjR0NvVndNRlFvQmNMdG9Sczc0TF9uUnh1NEJ4aWRiaHBLUDZ3SkNWbDAtR1pGSVprN0hsbUFCdXJyQ0g1WWlmNVI0QnZVMlBmZWNkVnpwbG52UWJBQkZBX0p2MXBoNWpQTG80bWRzYklCcWhGWFdPdHdMSXFnMElOY21CSnUxRjRMTUpRQzYzaHRzdEFhVTZ0YlQ0U3JDZTdnT09rQnlzSG9QbFE4MmFvRUE?oc=5",
    "tags": [
     "SANCTIONS"
    ]
@@ -144,12 +256,21 @@
    ]
   },
   {
-   "title": "Fed meeting live updates: No hike expected, but investors watching Warsh for what's next",
-   "source": "CNBC",
-   "time": "2026-10-28T16:10:51Z",
-   "link": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
+   "title": "AngloGold Ashanti: The Dividend Survives $4,000 Gold, The Share Price Doesn't (NYSE:AU)",
+   "source": "Seeking Alpha",
+   "time": "2026-10-28T16:16:42Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVGFUV0c5ellJdWptNjN4c25YOW9jMk9hMHU3dW95TzczejRieHRTeDFNX2tSWXIwZ1R1WmJGX1lZWDFaN1h1bFdza05qLWJGTlc4SVhxejBNS0RBYjZURXRfQnhoaTJzdWEzb1diNUdpMjY0TmtRRWpnMTV5WHdlbU50WUViaWlNVXppUkxiTEt0UnFyQVZFNXVjVG9KWWY1MU9iRHJZSUZMTmtYUVV2TlJoTQ?oc=5",
    "tags": [
-    "FED"
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Kremlin says European countries not included in next Ukraine talks",
+   "source": "Al Jazeera",
+   "time": "2026-10-28T16:12:02Z",
+   "link": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -159,6 +280,24 @@
    "link": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Israeli soldier visiting UK faces war crimes complaint",
+   "source": "Al Jazeera",
+   "time": "2026-10-28T16:06:17Z",
+   "link": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Israel’s election has no clear winner — but Benjamin Netanyahu looks far from defeated again",
+   "source": "NBC News",
+   "time": "2026-10-28T16:05:15Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1Z4LWc5bDlkWVpJcVd2czA1T1ZOeHpONExKX1QxZzBMZ09NXzdfdWdlbC1KODFyalZIcE5zX2VYYjVVUU5DRHc0U2RheHh6QmZLVjE3MC1RdXR4MVRiaXU5MFBaQ2daQXZ4emJSSE5pZDZnSnl1SmhRa3pSLWRYZ1Z0bWFiNHNzVV9MMThEWTh2MFFPQkVlT0ZBRGVhWk0tXy1PUDA1UkxYM2dLeEVjSDc5aXNwYWpUaWc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -172,12 +311,39 @@
    ]
   },
   {
+   "title": "Canada reports limited progress in trade talks with US",
+   "source": "Reuters",
+   "time": "2026-10-28T16:03:09Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObkVGYXBiWnNCZDFyNVRMSjNnZG5xRENTUDkzbk04SVdRV3d5LVZFbkxRR2FVSGt5MnhUYkZSVWtBNzJBclcxZ3FacC1JTUpMTExLQU9USDhTTjY3aWwyTWNpSlRMUy1FLURMQkpYalZXdl9qS2RFdHQ0Tm9XaWdjU2pqSTNOQ2U5WDU1OXUyaVZYcG1LMkl6UmRJZ0M?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Iran sees only unacceptable ideas in latest mediation to end war, official says",
+   "source": "Reuters",
+   "time": "2026-10-28T16:02:29Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "America Needs Canada’s Aluminum. Trump’s Tariff Exposed Just How Badly.",
    "source": "WSJ",
    "time": "2026-10-28T16:02:03Z",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jbzVnMndsNlQxclpucDhubXk1UlpfVVNoc2s0RVUtbS0ycmw4bURxZ25DV2lSZ01iUVVxOEVwc09GTVpLM3JOa2prei1vWS13aXhkWTFwb1JzNnpUS0NxZjJTLU83LTQzd3FqN2FteXdsbmtI?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Baltic Pushed Brokers to Submit Rates During War, Court Told",
+   "source": "Bloomberg.com",
+   "time": "2026-10-28T16:01:01Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRWEyOEM2VjhDMzZCZnBjZXhFWUhqSW5mRkhNQUJiaUFKaXJ5aTBIOU5jaGdKVl9ORjRJTW1pcFBCenJJbHptTUZybWh0RUpXUkllRzNTcUpqYmRXcGtycHpaRFZYNFdfV0F5Nm85azN5R3NPUHFROTdzbURFWU5WZkxScWQycnJlYndlVlBGeVM1VVpucEV2ektwT3JHSTMyV25UQUlDQ0JtVmJhZUNR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -253,6 +419,15 @@
    "tags": [
     "FED",
     "RATES"
+   ]
+  },
+  {
+   "title": "US imposes sanctions on Rwanda's defense ministry over Congo conflict",
+   "source": "Reuters",
+   "time": "2026-10-28T15:26:46Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFV5WTBDc2l5NVRFbllUS1NOZzZTM2x3cVVmaV9ydHhIdGRScmJVV3FQYTdJYlRMclVKZHVCSTEwcnpJaGpVUDZmVWlfZzN6NzA1b0VrZllGZHhWYVc5YkpCYTFONl82NlI5MWVxZ1NzZ3BPRzU4aG9iNlZLLWtVWW0tdXN4ZmVfbktkeHlKV1VpZG44RlNIZEVR?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -370,7 +545,7 @@
    "title": "Federal Reserve Chairman set to issue bank rate decision as midterms loom",
    "source": "CNN",
    "time": "2026-10-28T14:40:29Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVEItTEtTYkUtTkRFcXB4VnNLM2J2UWZMWkZTZHowMFozT1hGZHpBNlkycWFJdUtBTEtudFUzd3FwTTlodGZsQ3J1NXZ2eWNIMFBFOHdyWmE5TTdVYjBERXA1U3EzcnlBal9GM2l3ZkE0c2lYMEx1Tlh1V0c5UmhGMTVRSVFhcHBfZnJ3ZGdlTmpFa0xmQ2tyNmh1aUV3X0RhaHdQa2VuYU1LaFdSWWVLMFlUWFdKSFlIQUlNUWhWUHNuN1VmekJBSQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZjBDS1J4YXFVdHZYUV92MU94bGk3SXVwYkNJaWtEWi1OSGNzWWNuUnByXzdVRWwxajlTQkpSaGtaQ29rZ1Z2SmdPUHVDVk1DSFhPMTBBcEVPVGp6ZjlOSmJIMElNeVBoN3YtXzh1VWoxb1RHVVJhR245ei01N19oX3hrTGNDajY0MzVNbzNKbGlNM2xTa1ZFMEpB?oc=5",
    "tags": [
     "FOMC",
     "FED"
@@ -505,184 +680,6 @@
    "tags": [
     "FOMC",
     "FED"
-   ]
-  },
-  {
-   "title": "U.S. Federal Reserve Expected To Hold Interest Rates Steady",
-   "source": "TradingView",
-   "time": "2026-10-28T14:08:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMm52Z09NVnY5Ukt4Q1VuZWtiSWk3UkNFTTFzSmRQblEwNlpTV256bExXR1BNel9nREtKZFdGZklsX1RNZjVDM05nYmtuaEJPd3ZYSUZjNHhXWXJpWjdQQUJ4eUNsb3JqSGF4VTc3anp4M3F0cXhLR2Qwc20xdzljUWxobmtCYWNENFoyUmxIV3pNRll4WlFxNXRuSDBZWFpfTlNkMzM4RlYwaDBBeDRUY3pqRTlsMFNNV2c?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "Iran war will end \"whenever I want it to end,\" Trump says as cost tops $47 billion",
-   "source": "CBS News",
-   "time": "2026-10-28T14:04:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWlE4T2h2OTd3eElwN2RoWWcxZEl4c2x3ektnbTJ3M2c3cnprRVJDX1hqdGJsZzh2NHV3WXlOUU1TenlQc2Y0VHY5NklIZmFpallkb2thWDdDellfMUlqbmdrYnVLampJZTF6RktLNkJ6VlpFOHdXQmZIdVhXa1RzNnlfZW45NEZXT2pYQndOeTZuZVc0NFFnYjM0ZFlQckZTaHQ4NXpsQV9UYWNUQkE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "There’s a War Over How to Train Your Dog—and It’s Getting Nastier by the Day",
-   "source": "WSJ",
-   "time": "2026-10-28T14:01:28Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcUlVWlNsd0Y5bXNlNFpHU3lBVnduWlJBaTNmRmtIWG5xOWlOUUJQeDRXOXZLdTZYUnh2TjNBcmxxeGRoZDJnRW56X1Jaek1qRkhYUkhKckdVXzNhcUdyWkYydDNBYlVGc1dfRmd6UEY4TEh4d1dpQlg4aElUS0hJWTlpajBZRFlELWIzM1Q1RDBTWFlYM3EycHJMeTVsLWc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Stellantis CEO Says Quality ‘War Rooms’ and Cost Cuts Paying Off",
-   "source": "Bloomberg.com",
-   "time": "2026-10-28T14:00:59Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmpRTXg3aVB4RW1XVEUxRG45UkFZcmhzVmhNT2VIRTRiUk5mc2YxdGhRMjNaWUVkVGxyMGJKeG1XVHh5elNJYUxLMDZ0dFBIcDNVWU9UM0padV9ZOGlNd29IMHlLcExqa0RXdThqZzF5azM3MDRQZE0xSk5qZXVGZFpoNHRBWVNSeXBrdWY0RFBiNkllZjNTMjNGVENTUkhydDNKT0ZxcUM1UmVSWm13Vk5sNA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed expected to leave interest rates unchanged in October",
-   "source": "FXStreet",
-   "time": "2026-10-28T14:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdmhKVUllVDVRbjAwVHdiejBYQmxjVEM4dzIxbGdqOEYxcXA4V2NxLTFaSkIwWkV3ZHNmRmJxTzN0eFNPcmh0Ri1qU0VHODV0SUNzR0VIZ09jREZwNTBEeFBfNFFEb2duX1JfUHFoamdrU0RvNHlrTlcwWTc2ODJCZEZKZEhFYjlkV0RTdE5lUjBYOU1mU3htTmN3MlhreHR6UTVuQnVZXzFLZkdlMklQS0RlZlpWZnhOTnMzbDN3?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "OpenAI launching election war room to track interference efforts",
-   "source": "Politico",
-   "time": "2026-10-28T14:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVVZfeUFPaHlSb3RSN0Q5VGtFcmhNODBoOEhLMmVZcFU2S2QxbzJVcHVPV21LX3FLYzRsQ3RtNjdyak1GekpldmhLUTBnYmlJNTJHMVZIM2h4VEoyZWN5aDlhcDZFSmhZVkZZT3pQSktEeGFRQ0Y1YzhFNWQ2OTdCc0dXWWFrLXJyelRpOGNSb3M?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Why are three of the UK’s four nuclear deterrent submarines at sea?",
-   "source": "Al Jazeera",
-   "time": "2026-10-28T13:56:41Z",
-   "link": "https://www.aljazeera.com/news/2026/10/28/why-are-three-of-the-uks-four-nuclear-deterrent-submarines-at-sea?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Treasury yields nudge toward one-week highs; Fed decision, Big Tech earnings loom",
-   "source": "Investing.com",
-   "time": "2026-10-28T13:54:05Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSlBnYVNnaGpLWDhrcDNEbmZsOHBPcWNMUFpJaHVmU28ybzRsTWRmNDZyWHJrN0JwQmhZblp5S3ItS1Z3VFBkQVZRaUZGYWN3elhBWGNPNEZqTkZOQ3c3WEFoZjhGYjdBcElUX1V2ZjNVaVNjRnduTXNRdjFlSWRheXpDM2RYdFpXVWMxdWtOR0oyYW1ITEkwVkZ4dGxndm5zWmM1ZzZ0aGNGYzlaNGR4VlIyd05Mb3R1N2tvMg?oc=5",
-   "tags": [
-    "FED",
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Gold Price Forecast: $4,096–$4,125 Zone Sets the Tone After Fed Decision",
-   "source": "FXEmpire",
-   "time": "2026-10-28T13:49:45Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSUY3RWlHbmg1RVl5SFIzOGJpZnkxZWVEQkcxRlVvTkd1MVRoQ2tEVW5uRzh0eEVvUmdNTHJLZ2s4cEhiUXZITWRkeThreEZDS3ExbWdkUkMtMk8taVpZMkRuQXMxS1JzSjNxanVfanRZRFpPNzhpQURSZWZaSnYzdkhJa0d1MldYSHFQOXlsdTdnRTJObG83VTlERHBZTEtwZHk2OVdtaHIzcWFiMUxlUi1mS0g0cXRrZHc?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold price at CAD$5,684/oz after Bank of Canada raises 25 bps, sees growth slowing in Q4 before rebounding in 2028",
-   "source": "Kitco",
-   "time": "2026-10-28T13:45:50Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSGxPSDR3YmNvd0xKLTg2UnU0VHJpd3hfUHFiejFvNDVQdGw4ZjF2Nl9WVkdFdUFjT0oxbHRxRnRoYmZQRG5hbzdIbGY5c0Y1NkdRZEo2aWlEQ2dQR1E5LVVVb3AwcE9GRjVJWmpvZ2xUb1NBR2JsTkFLOElMMVl3TGc2REZfVzRsblNxZi16aGlac2c0cndYVkF6X0didlVnV0tQTlJLTi1jdXhfb3phamZ4ZjA2VzQyZ1dtVnVR?oc=5",
-   "tags": [
-    "RATES",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "World Bank sees commodity prices up 23% in 2026 due to Middle East war, other shocks",
-   "source": "Investing.com",
-   "time": "2026-10-28T13:43:02Z",
-   "link": "https://www.investing.com/news/economic-indicators/world-bank-sees-commodity-prices-up-23-in-2026-due-to-middle-east-war-other-shocks-4979537",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Shatirah House Restaurant Announces Financial Impact From Revised Electricity And Water Tariffs",
-   "source": "TradingView",
-   "time": "2026-10-28T13:41:05Z",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPOVlKZUIyZVNLYXlfSzRIem1uQ2N1NmRwVUF6SC1TMFV2dGVCWEpzbFZpT2o0LU5mRjBSb0ZiQ2N4dzA5WjgtRmxOZWVUOVRycEtsM0QzQ0dKcHMxa1NNVmRiUGY0RTJ3Vm92M2JOR19Fc1J6U0dkM2NIVUZwZzF1aVpVUWIzLXJJdFdKZ2FudGViU0lhUWFseEkxYVduUHE2RlVhYkpmd1E5SGZkNnNzUXQ5elg5LXh5X09FLW9rQWNxRUNhX1BWdUpheWc4eHlrOHJaS0s1djVpOWtiZnVWTGg4VElyODVMTVBienVJUzE2dWdVZWM0dA?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
-   "source": "The Guardian",
-   "time": "2026-10-28T13:41:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnhLY0QxNnotazVyRzJXNnJGZTJORWI5UzZpakY5Ql9ybWJONUt1MVl4UEdpb1JOZk5KNm1TdTV1TkRUTERwdzBHdjJzU3IxdWM4ME5vMTZFMWI5bVkwN0dXSjItVUpGMFpSSXBwOGdkVVEtM2lpclhTRGVMTjFYS0VKTl9yT0FTWlZzc2dEdVRpNmVDM1V5NlpudXRyT0RoNzlGaXhhNA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "National Building And Marketing Announces Impact Of Tariff Adjustments On Ajeej Steel",
-   "source": "TradingView",
-   "time": "2026-10-28T13:37:22Z",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdjVDT21fenlyWFRqdlBmWjlXR0NjSjg2T2taUnFleHdnZ3JUeDFLcWFqSEJYN3NiQmMybHZubnBZRnN6Qjc0ZFdjZHV4YXZqQkJGM0ZhMG9iVkFadFJHVXZCZUJ6c0NjeDBfUmI3aUV5MGx0OTJOcjhMM3NULTdIcl91Zjh3MnU0X0ZMMXhsbS1tWFhFTE9EeVkzZnBrZUx6N20tTHE0QTRROTBiMTJ4Mm41S25Ycl9TM0RoOEZQNnRFOGlCSXRQVF9sd3dueHpkYUlLNGdEYmlXWXdBT1owejJXdnVkX0xfR1E0?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Metals Exploration shares fall as La India delay offsets strong Runruno quarter",
-   "source": "Yahoo Finance UK",
-   "time": "2026-10-28T13:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWNROXBNUW52eEE1R1VCWUdNT0FpRzFRaGtYcENPQXl2MUhacVN4RU1EUTNSdXM4M2JkTnNOVEtaV29GSVh1VTY3cnphdW9aTGxBN0ZMZGY5THczRzRkdlRuaUgxb3FWcmd0ZFNWOGtQYUZvSjAyYldzYWtkRVVadXA1X0gtQl9nSnc?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Energy Prices Set to Jump 32% This Year in World Bank Outlook",
-   "source": "Bloomberg.com",
-   "time": "2026-10-28T13:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVThJMFhQT2x5MTVYS09WSmZ6TjV3bWlibFc5WVFVSjB0bk5nQURiS1VqdTMzZWhIN2h6Y010bUowSS0ySzJMX0dIQktsMWxMX21sckxkQ250V1BNZFhnd0t2QmhlazhEREFaY0xmMHhFZVZjTDVYVWZlUEZDQldlTkQ0bnJBTVVaQWJDSnVCaVBkWl85TTdFR2RCeUVfWWdFbFlpQy1KY1dyMWhuNUxjS2dyanAxUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Watani Iron Steel Announces Financial Impact From Amended Electricity And Water Tariffs",
-   "source": "TradingView",
-   "time": "2026-10-28T13:28:50Z",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdVBNbGdHNEotM2NrMmVTZUMwRURiSVNYcmUwaWU5QUdoM3k1T25HYlZGUDgwcXBkQ09UWm42a1A0YkQtdE5zY1V1d1VCRlZtWWhDMnNxTnZNVk1yUDBlM0xNWDBFbEZDdmNpdllocEdBT25RRTN6N3BZRERwdWg5N2hBbnNOdFB4clJscXNKU0hPQ0w1ZjJnSkVqekxOdmlCeWlJVnFpeUIwbjAxXzlDUll0VUVObjV4d2c3bUR1NWhSa0dYaFc4NTJFUThxUEJaM29sTWQ0MlpoN29jYkFfQWF6dkVtZ0dqWnVNR2hn?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "National Gypsum Expects Higher Annual Production Costs Amid Utility Tariff Changes",
-   "source": "www.marketscreener.com",
-   "time": "2026-10-28T13:26:42Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU2plZjlpRzJVUFNLQmZfRS03N0lwYXItbkNmYUlERjE3MTJUcTN6Q1Q1aTdZcTl1ajN6MjYxZ0FIdHVRUW51NlRQdE1GaXZaNUhELXdQeHR2MUo4NzBBS1M0YkxoZG8yRHA0UnRsWmRJTXNUaDhEYXBhdGl3c1liTnFURWJBZDJsenY3dUVnWDUxaGVtMW0yWXM5dFA4TnpheDkwZEd5RkNHSFRlVVlNWHJGc3lrSjJQZmVYTUlOY3o2TVJXazVOdGRETDNhdFpx?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold slips on higher oil prices ahead of Fed decision",
-   "source": "Kitco",
-   "time": "2026-10-28T13:24:52Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNUpNRHNTVTl3VlUyYkQyREstclhqc1JzWGNKZVBqY2dldnJGY2tDZTFiUVFXa0djNkdWZDhkS21RUXh1eXlObVVHY3o3NmhobzRmbVlCYjJieXZyRzVEaXpQazg3b1lZNG96djFhSGFZU0I1Y0hwUXJIbW5wejZ2Y3E5NDkwT3pTRzRLejYwaVZUanVxR3NYa3c1bGt4d0k?oc=5",
-   "tags": [
-    "FED",
-    "OIL",
-    "GOLD"
    ]
   }
  ],
