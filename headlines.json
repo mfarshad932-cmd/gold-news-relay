@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T11:39:31Z",
+ "generatedAt": "2026-10-28T12:07:53Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 3
+   "kept": 2
   },
   "bbc_business": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 21,
-   "kept": 5
+   "items": 20,
+   "kept": 4
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 10
   },
   "whitehouse": {
    "http": 200,
@@ -81,17 +81,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 26,
+   "items": 25,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 30,
+   "items": 28,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 20,
+   "items": 23,
    "kept": 12
   },
   "gn_war": {
@@ -101,12 +101,12 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 6,
+   "kept": 6
   },
   "gn_yields": {
    "http": 200,
-   "items": 15,
+   "items": 16,
    "kept": 12
   },
   "gn_oil": {
@@ -125,6 +125,60 @@
   }
  },
  "items": [
+  {
+   "title": "Fed meeting live updates: No hike expected, but all eyes on Warsh for what's next",
+   "source": "CNBC",
+   "time": "2026-10-28T11:57:33Z",
+   "link": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "FTV: Q3 growth and margin gains were led by IOS, with tariff refunds boosting profitability",
+   "source": "TradingView",
+   "time": "2026-10-28T11:38:39Z",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRUd5dVRsY0NPNnBRUW5tOGV0WHNWUzVuZ00tVVBhRlNhUHAtMGhaby1OSnUtcjRhbDdISWxmUGpCWjRyMUo0a1ZHZ3VzbmdrakR2VFQyYVMxeGVKc2xjbWh6Y0F5RzUyN1A3RFhBRUNsRDBtcDZTRklFZjdydk1wamYyWUtPZVpJaDBHNkpraF9EZ1RueGY2UG9TNUNqbkFZQ0tlVV82UXhwYXNjc1l5ay1XVE5BblFuOWVBVmtOM1ZCRUdnbVRoZWJOOTVtN0JUdl9JeDY1R2xraFhRN2tuTnJZZmlKU1UzZ0NWc1pVN0ZyTlgteElkM2E1bGxRcHE3Y2c?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Families brace for a fourth winter of wind, rain and floods in Gaza’s camps",
+   "source": "Al Jazeera",
+   "time": "2026-10-28T11:36:04Z",
+   "link": "https://www.aljazeera.com/features/2026/10/28/gaza-families-brace-for-a-fourth-winter-of-wind-rain-and-floods-in-camps?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russia-Africa Summit: What is on the agenda, and why does it matter?",
+   "source": "Al Jazeera",
+   "time": "2026-10-28T11:33:26Z",
+   "link": "https://www.aljazeera.com/news/2026/10/28/russia-africa-summit-what-is-on-the-agenda-and-why-does-it-matter?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "High voter turnout among Palestinian citizens of Israel threatens Netanyahu",
+   "source": "Al Jazeera",
+   "time": "2026-10-28T11:33:13Z",
+   "link": "https://www.aljazeera.com/news/2026/10/28/high-voter-turnout-from-palestinian-citizens-of-israel-threatens-netanyahu?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "The Morning Risk Report: Extreme Networks to Pay $2.5 Million Over Sales to Russian Missile Maker",
+   "source": "WSJ",
+   "time": "2026-10-28T11:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUDBIV2JpRWd1NzdtZW10anFDU0FhNjVDZnRLZ2xQX1BKX2Y2dmlrZk1pYWpLem5fWkNuOXpJWUg0YTVNN2QzNXhYNGlkX3l6Q2I5QTRNVllHTXFLblJSOUthelItRjVkQm9hOHFIdWhMSjB3S1dOQ1J1SGZ6ZjU0eVJDZkFoOE1GTjVxMzZzM3ZMUUg4RDlPOV9feWxQZFpvcjdtQmRpYXJoRlNBLU1YbmtDWm8zX2R6bzE2NXA4QTdKNHBGd3B3RkdiZWpQalpXQTVqVHRJbmU4Wl9mZ2w1XzNB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
    "source": "NPR",
@@ -145,6 +199,25 @@
    ]
   },
   {
+   "title": "Israel’s election has no clear winner — but Netanyahu looks far from defeated again",
+   "source": "NBC News",
+   "time": "2026-10-28T11:22:54Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1Z4LWc5bDlkWVpJcVd2czA1T1ZOeHpONExKX1QxZzBMZ09NXzdfdWdlbC1KODFyalZIcE5zX2VYYjVVUU5DRHc0U2RheHh6QmZLVjE3MC1RdXR4MVRiaXU5MFBaQ2daQXZ4emJSSE5pZDZnSnl1SmhRa3pSLWRYZ1Z0bWFiNHNzVV9MMThEWTh2MFFPQkVlT0ZBRGVhWk0tXy1PUDA1UkxYM2dLeEVjSDc5aXNwYWpUaWc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed Likely To Hold Rates Steady, Says Wolfe Research’s Roth — Analysts See Inflation Risks Keeping December Hike In Play",
+   "source": "TradingView",
+   "time": "2026-10-28T11:20:54Z",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRXF1WjN2bFUxOVg5eGs5VGNpR1BlZU42WWE4WWdEQ0ZVZ1A5ZElwWWZrNkszLV8wZy14cGR4OXhOMEpoVjMtQURjaWYtQ0h6SmpfUjRZaVR2XzRUTGxRMXdGNGpEbXR5ZlItZEttckY1OFN0SC10X1FGNjhxY0dSUUl3Ykh3SkkwTFV5bU1VcXVFemcydzJEOEhWUXJ5Yl9NZzlSeHU4YnU0dlRqYkNsYUtBU3ZaOGlKUHRIZkcxUHY4THBfR1NNUTRUcDhYSHJDNXdWUWdOR1JtNm5OeG95WTBfTXhpejBvdnBQSU1WblpoWTMtUVhuR1JBY19LQ1RCYmVKaDNSX0Jmdw?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Analysis-As Iran war drags on, airlines pull back on fuel hedges and warn on fares By Reuters",
    "source": "Investing.com",
    "time": "2026-10-28T11:17:49Z",
@@ -158,6 +231,15 @@
    "source": "WSJ",
    "time": "2026-10-28T11:12:00Z",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXd0OHZEUnBrMFNkRjJ5dHFUakFsTDU0NUxhdzhQUnpPQ0JxMllJanhoeVFQWm1GMmk2RkRUdDFWLVR2N0VwczZOQmZmbG9BanpUSTE2VEhnSS1xd29mUzFzbEdRTVBDWGRSOW1hRW41WU04eE9OSUo4QmFoSG9DUUhUNi13bzNkbEZaWlFUaVUzUzZPWGtMc2JDeEZyODg2Q09JdFZBekl1WnNJdDVBYnZQMzhieGt4bjFuOFZnMA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "As Iran war drags on, airlines pull back on fuel hedges and warn on fares",
+   "source": "Reuters",
+   "time": "2026-10-28T11:08:27Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSnZ2TEZjYXMwcUtkN0cxbHVHVEd5YWp2NjRUMVFPWEFweEJyQUl3alk1UllPZ2lnVDdEQ0haUFRzNjVGZllNRk1ZR0JlaXdCOG8zRjVodWpPcXBvNlVGWGJTQlBXR2JSWGxaTU5qdHZ6dlhpYUdyeUcxcTdYUWppWmduVmtIM3RvOHAtenZCY0djWUs3UXFfRk9NVFV3Um9yNWVHS1NkWUJTRzFx?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -183,19 +265,19 @@
    ]
   },
   {
+   "title": "Microbix Biosystems Inc. (MBX) Reviews 50% U.S. Tariffs on Diagnostic Reagents",
+   "source": "TradingView",
+   "time": "2026-10-28T11:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY2h2VXBiRVFhM1ByWXdtZFVEdDN5STFfa1cwbTlDaXBZODk4bTFaSWRTMUptM29IMTQ1SjFHZ1pDNGFDVl92SXNHMnJqcTUwUHF2Y0o3aFNLUEY1WWF6OE1uYnlRNnh4REFwakY4dUVEUVZQUnNEeGEtd2pRUGtsVFRSWnQ5bFpCN1Boc19xbnZ1TldSQXQwQmxBZUpiVGIwWVRtRG5SRkpzZUFEWmp2NmxQTzB4ZWVPLTh0a3hUb3RqWmpMLUJSS2dHRWNjeW9T?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Iran war has cost $47 billion, U.S. military says",
    "source": "CBS News",
    "time": "2026-10-28T10:59:03Z",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ua0dyX2ZtaW93a1ljT3duTEtHQzRRVDdVM3EtYXM1OTRvYUVsaVpiUWxLSGJsR1hDQWNNaElDa3llbXNZQ1YxSjFpTXh1WGxrYjl5RnkyQWRhYkxfakpnTzUwTUN1US1UemtPQWpVWQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "As Iran war drags on, airlines pull back on fuel hedges and warn on fares",
-   "source": "Reuters",
-   "time": "2026-10-28T10:55:43Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSnZ2TEZjYXMwcUtkN0cxbHVHVEd5YWp2NjRUMVFPWEFweEJyQUl3alk1UllPZ2lnVDdEQ0haUFRzNjVGZllNRk1ZR0JlaXdCOG8zRjVodWpPcXBvNlVGWGJTQlBXR2JSWGxaTU5qdHZ6dlhpYUdyeUcxcTdYUWppWmduVmtIM3RvOHAtenZCY0djWUs3UXFfRk9NVFV3Um9yNWVHS1NkWUJTRzFx?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -217,6 +299,16 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSWFKcVMwS1lUQXBmTndUVUwwbGVsSHZMak9SWkdQV20yMlpNNWxWUFBlYlhMM0RLZ1pKN21KcHJCdG5yZ3NoOXRyY254MzBSZ2JFSkZjUW5HRldHMTdTbVRXeWFUOWt2NkRiTC1LZXpXNUlGQmZwVldNak5GT21ldWFsdmlqeEFX?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US Stock Futures Mixed Ahead of Alphabet, Microsoft Earnings and Federal Reserve Rate Decision: Dow Jones, S&P, Nasdaq, Wall Street",
+   "source": "Yahoo Finance",
+   "time": "2026-10-28T10:49:43Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd2xfcTN0UklocUc0ZHluT0RKdnRnUTVyUGx5TXZTNXRCVTZhV1BwT2l3N1B5eHF0MGJReXduTEFDd1paNUpxcEVrZUt5MUdRc050SnRaUUktTUJnb0RPQWtfWlBfN2gxNVllOFBTcDVwMU5MZ2VnOXFlc200ckE0ZlZiR051RVh5ejM3eWVhNHhFajk2VUdFMg?oc=5",
+   "tags": [
+    "FOMC",
+    "FED"
    ]
   },
   {
@@ -446,6 +538,15 @@
    ]
   },
   {
+   "title": "Trump administration pays out milestone $100 billion in tariff refunds",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-28T09:54:28Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaC1NcXQtTU1pa0V3QTQ3eW9CMThMVUVWXzBVLUpkTlNCekpxQkxiQi1XZzI0X1VzZ2hNdXRjUzF5MVlzcm9zcnJRb3pRanp1TGJ1Mm02T0NDWXU0MXI1R3JmNHNKb3lnOWx2R0dpQjR2Rk9aNGowb0NNcXRpVWdQRmVoN1pndGhaLUxXc3d5d2R6RVlhVHlNbHd6c1RnZUdUNFp5YUl3OGF4VURrTjg00gG0AUFVX3lxTE5IUDFROHpDMGhZM1pRelFZelItOFlhYTk4ZlpZaVpwWjBuYUZoN2l4MFM2bjRFMDBjMEtyNXFsSF93eFBzcU43TW16XzNacEh1b0Vja0xRZkp5LTFMaE4wUUlfd1o4RUNsNkN0aWVtb1hQTHZELUtvR2N0QVROTjN2dF9JZW9QUVl6NzNTRVJFSDRKYy15WHRUMGxDNWNabzFvZGFSNlhHcnBtWlN3TnloUFZlbQ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Trump is in a corner and likely to lash out at Iran again. Here’s how to avert that disaster | Simon Tisdall",
    "source": "The Guardian",
    "time": "2026-10-28T09:50:00Z",
@@ -494,6 +595,17 @@
    ]
   },
   {
+   "title": "Federal Reserve set to issue interest rate decision as midterm elections loom",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-28T09:46:02Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEhoYVl4OGJtaXFLRU1idHB1dmlvYk1uNEtNNnlMVkFlZEN4N3hpNVB5cmNjWkFEajM2WUZ4bDJJN0pNYlpra21QSGI4cFFwLWllM0xxZlptYWRmdkRlbXAwRWVLcGRBd3J3MDFpUDBvUjVWMElMOGwtZlJMemRJQzczLXI1cWNFMnJKeEcwcGJhUjkzVjZfZ3puam1BQUZFMTRFZ1BIa9IBrAFBVV95cUxQeXRhLUNLYUFqaEtwY25VNnhEUzVzZmRMczBrdVo0SnJXdjdCZjhCbVpURUZJQ2M2MUwyVzlHblFrcTQ0UGhIYUVubHhUZHFVbldqNnJxOFprRG9FRmJIV3ZPaFJiSHZ2a1k0N2R4Q2swcFJ2cDNhZVVJdG0zbG9qaFdvd1l5MXcwbjFWZnBFelBZdFZBMk9pekEzOGFmaEVqVVNmTkx4dXU0eXha?oc=5",
+   "tags": [
+    "FOMC",
+    "FED",
+    "RATES"
+   ]
+  },
+  {
    "title": "US Treasury Yields Rise Ahead of Federal Reserve's Monetary Policy Announcements, Chair Kevin Warsh's Press Briefing",
    "source": "marketscreener.com",
    "time": "2026-10-28T09:43:33Z",
@@ -523,32 +635,12 @@
    ]
   },
   {
-   "title": "Israel’s election has no clear winner — but Netanyahu looks far from defeated again",
-   "source": "NBC News",
-   "time": "2026-10-28T09:32:29Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1Z4LWc5bDlkWVpJcVd2czA1T1ZOeHpONExKX1QxZzBMZ09NXzdfdWdlbC1KODFyalZIcE5zX2VYYjVVUU5DRHc0U2RheHh6QmZLVjE3MC1RdXR4MVRiaXU5MFBaQ2daQXZ4emJSSE5pZDZnSnl1SmhRa3pSLWRYZ1Z0bWFiNHNzVV9MMThEWTh2MFFPQkVlT0ZBRGVhWk0tXy1PUDA1UkxYM2dLeEVjSDc5aXNwYWpUaWc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Traton CFO: For Q4 Tariff Burden Could Increase To Around €160 Mln - Conf Call",
    "source": "TradingView",
    "time": "2026-10-28T09:27:32Z",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTUNqMXZOUTV1WnY4WWhGck12RVhyLURWUTlzcl9NMjFGLUZ6bWNTdmhoVXlveWxqNGNpVnY2TnIzOWVIU0U5S3UzampsNUNRZ2VtZHFYeks1QXpwX0NNdExEVDJCM3A5YkxWRERSWHMyS1MzTXlqbmlUb3FHM1doVG41OHgxMkotVHBNM0JKajZLT1BxdklwWEFjanFRZmlsQk80UXB2eVY4OUpGamxVc3AzaTBjR3JHZnNDTndMZ0NyOXcxUHBDTGlIZHpWVTZYMUhwLVJwSkVrenBJ?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Federal Reserve set to issue interest rate decision as midterm elections loom",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-28T09:25:46Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEhoYVl4OGJtaXFLRU1idHB1dmlvYk1uNEtNNnlMVkFlZEN4N3hpNVB5cmNjWkFEajM2WUZ4bDJJN0pNYlpra21QSGI4cFFwLWllM0xxZlptYWRmdkRlbXAwRWVLcGRBd3J3MDFpUDBvUjVWMElMOGwtZlJMemRJQzczLXI1cWNFMnJKeEcwcGJhUjkzVjZfZ3puam1BQUZFMTRFZ1BIa9IBrAFBVV95cUxQeXRhLUNLYUFqaEtwY25VNnhEUzVzZmRMczBrdVo0SnJXdjdCZjhCbVpURUZJQ2M2MUwyVzlHblFrcTQ0UGhIYUVubHhUZHFVbldqNnJxOFprRG9FRmJIV3ZPaFJiSHZ2a1k0N2R4Q2swcFJ2cDNhZVVJdG0zbG9qaFdvd1l5MXcwbjFWZnBFelBZdFZBMk9pekEzOGFmaEVqVVNmTkx4dXU0eXha?oc=5",
-   "tags": [
-    "FOMC",
-    "FED",
-    "RATES"
    ]
   },
   {
@@ -565,7 +657,7 @@
    "title": "Treasury yields tick higher ahead of Federal Reserve interest rate decision",
    "source": "CNBC",
    "time": "2026-10-28T09:22:26Z",
-   "link": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNblEzWWhhd29Pcm51emZVLUtkQ0FHb3FFYTBBRTlsTU9MN1lKQVl5eDVGUjJPYnpfTm8tV2JteFlEbVkxbV9WNHhvbHdUQ0JYOWk4YkVObXhrUlRDQ0ZLTHhNcUtCRVdRLVU5TXYyN2RLUVFRMHR5SklNMXB5eUt4RnNaZknSAYoBQVVfeXFMT19ETGtYNWFfbnVCbTdXTkoxYVBJN25Vd0xUeE1zVmxVVXlHbFhMUHZOX2Q1VGNKTmx4aTNUd0R2WVloQXF1Y2JLUHRzc0ZRaXRKRjY2UGo2R29ucndXc05LczJQQU9pekw1TmhfT0YzTm9pbEhuRUl1WHRrRThBSWJWTmxISEd3WHJB?oc=5",
    "tags": [
     "FOMC",
     "FED",
@@ -598,98 +690,6 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcUJVN2QwZGtTaW1kaW1YenZOLVpfZDdLTHFMSUxaZFBPeUFoUEQ5S2d3b3N6dE5DREtLMmZnWDFFSVhqQzFVS2tnR3JrSndRUlZxVmQ2RmtPdTRJNkdjM0IyTjVJek1RUVk1cEg1N3FqbUI1YzFwb3VmYjhQUUtPMDJTZkVqZw?oc=5",
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "title": "The Special Ops Podcasts Changing the Narrative of the War on Terror",
-   "source": "The New York Times",
-   "time": "2026-10-28T09:03:50Z",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUlBRblQ1REZKX3dwWUFoV0FvOVU0ZWlLWkN0Z241SFFISDFJU0dEYnBicEVSVDVhVk9vNmxNdjZmUWRKM05SMktVVlVCeUgyUUVVOUNCeFBVOU9rUElDMUJ1TW1leGtPQ0tMeW4tYjZUTlVfTjEyR0l2dGJ5SkVGOGNCMXBqQ285NnRN?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Senate candidates built up massive campaign war chests with out-of-state donations",
-   "source": "NPR",
-   "time": "2026-10-28T09:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU0VfZWhCR05lRmRJU242QVplSGRYZHZoTlpMNVg1MUprSU4zQmxLM1Z2eFlrQ1BTbHcxZ3A2VEpjeUhlRFdYcHNmV1hsYmJKYV9IMFJaZnB0a2ItWXNMQkNCOW9mWUdBSDFSMjN1cTl4ZDFOZnhVTGc0bGZULXNsNkJwdHBOTWVEYkpzMkNCdk8zdllhQUQxU1dR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "How AI has got the Fed in a bind",
-   "source": "Politico",
-   "time": "2026-10-28T09:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVTdHYXBUMEV4enBnVGx4aC1OeHZXZktKYklMcWEwQmZIMi13QzcyU1hQeC15bXpWVE95Zm9IbDRvbzRvS1QtV2JiZTFuMmlpR3FhSHRTeFM3Y2c3QjJ1amM1b0VxWEMyYlhNbUxMajlLeG9ETGRjeU5ubmFuODVNdHZzN0JkRXFMUWNTSlhR?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Canada signs trade deal with UAE in push for non-US markets",
-   "source": "Al Jazeera",
-   "time": "2026-10-28T08:59:07Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYUNLSUNGU2xKLWNaaXk1M0xyb1dwNXhDeF91U3FoUTVhVUF0TlVpbV9RU2tkRDdOTVcyR0lpZTNpQlV4bVloUXFqcFdXOFZXbVFYMFNzRHNiOU1YZWhzdlNzbjFWbXJObXRzblNtdGdMWUo1SlRMMHhwT1JNWjhNelhmT2ZJc1FLQ3RNOUFVZEtfa1RQQzB3Yjg0bTliNXpOZTc00gGoAUFVX3lxTE1fQlh0LXdrWHZncEh6em9qUnZhSnlsR180S2huOURBWE43RHZxT2stSmVYbmRMb0N2bGNEQjZOREg4UGc0S0poem5DQzNnWVc4ejNGODVNdGltYm5jV2dpN0RLTGg3LXpoQ1k2OEJWQk80bkxNZzJqaklpZkRjWk5FNzdWV3A2OWY4ZThPNndfY1pUX3lzazl0TnJMekZuejBla2dBaXUwbQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "US Dollar Index Price Forecast: DXY sits near two-week top, above 102.00 ahead of FOMC",
-   "source": "FXStreet",
-   "time": "2026-10-28T08:59:01Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcnhmRzN4Mi1aZVh6OENXejZMVXAxOERmX25rZDhJeDh6a2ItUGpHbzVSTnBDNDktMTA3WXJ5RUVWaEZ6VnRabE9rellJbm02QmJheW8wZnRJZHNncXJTUmFTLVdFU2FJbHVRQ1V4czQzMDQyTV8tbXBtRlpRWGpCUWI4V3Buc3dwMjRuOE43Y2RZb1VJZG1zdHBhcWxfNFhIOHZWQnZCWnMya2FpWVA4Tnplam1YeFl2bEx4UDhjaFMwb18t?oc=5",
-   "tags": [
-    "FOMC",
-    "USD"
-   ]
-  },
-  {
-   "title": "China says it takes Mbappe’s apology ‘seriously’ after Mao dictator comment",
-   "source": "Al Jazeera",
-   "time": "2026-10-28T08:57:49Z",
-   "link": "https://www.aljazeera.com/sports/2026/10/28/china-says-it-takes-mbappes-apology-seriously-after-mao-dictator-comment?traffic_source=rss",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Iran war and cost-of-living take center stage in Virginia congressional race",
-   "source": "NPR",
-   "time": "2026-10-28T08:47:06Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORnZRWTVacFVJSXV6czkwSUdYZ2pmWG9rWnJ6MXZpQXZDVjA4S1hfMWJRdTkwZXh1TGw0Zk1ReERzSDRxTjFveDU5bGV4UndoazkzZ2NxMmVxX2hiVUsxMVNYT1JlRjQycHpxZ2c5a1VrWEJVMWY3dmNWSFpFazFDZmRZUEtpZUtmSmtnZC0tc3czRE01STJmeTZpZlpLanVIM3BCOGNMdmVEaEtVRUZoVHVFOV8xNVdHZmFzY3Rn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Qatari mediators presented Iran with new draft deal; Iran's response expected by the end of the week",
-   "source": "ForexLive",
-   "time": "2026-10-28T08:46:43Z",
-   "link": "https://investinglive.com/news/qatari-mediators-presented-iran-with-new-draft-deal-iran-s-response-expected-by-the-end-of-the-week/",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed expected to hold interest rates steady but a hike is anticipated by year's end",
-   "source": "NPR",
-   "time": "2026-10-28T08:45:31Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcWV3U05EZ3BBLVNkT0dMTS03cVNFYWZjZkdmTkJFS00teW1RZVBIUk4yV0NURmNQcEJsT1dZcUhHQVIzSGZjelR2SU55OXJRZEdDU3hqWkI4YnpfOG0ycEs3QTBYcUxFN0RlcXIxMHd5SXJSd2lEUEtjUmlfLXh2WGxUaDFmSWhvVGJ5QjBkcWVyNERMbDYtUkU1NktZSUNlMHNUc0htVFVzUTZWN3pzcjNTZk0yWkhmRlRlbHlMWDNEY2hQ?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "Khouri: Strong Israel-Arab bloc result does not mean Israel has changed",
-   "source": "Al Jazeera",
-   "time": "2026-10-28T08:35:05Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/khouri-strong-israel-arab-bloc-result-does-not-mean-israel-has-changed?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
