@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T19:41:24Z",
+ "generatedAt": "2026-10-28T20:09:33Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,21 +52,21 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
-   "items": 47,
+   "items": 48,
    "kept": 2
   },
   "bbc_world": {
    "http": 200,
-   "items": 23,
+   "items": 24,
    "kept": 6
   },
   "aljazeera": {
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 33,
+   "items": 37,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 29,
+   "items": 32,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,12 +96,12 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 43,
+   "items": 39,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 17,
+   "items": 20,
    "kept": 12
   },
   "gn_yields": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,12 +126,61 @@
  },
  "items": [
   {
+   "title": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information rich’ period is coming.",
+   "source": "MarketWatch",
+   "time": "2026-10-28T19:56:00Z",
+   "link": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
    "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
    "source": "CNBC",
-   "time": "2026-10-28T19:40:49Z",
+   "time": "2026-10-28T19:53:50Z",
    "link": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "Fed meeting recap: Warsh says central bank will host fewer rate-setting meetings in future years",
+   "source": "CNBC",
+   "time": "2026-10-28T19:53:25Z",
+   "link": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
+   "tags": [
+    "FED",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "UK announces further tariff suspensions on food, drink and fuel",
+   "source": "POLITICO.eu",
+   "time": "2026-10-28T19:50:53Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTXQtS1g4MTlnLXEtNWhUQW5teUhVeXkxNjh3WnltZ3ZsUnNVdTZxQVp5VHRlUGx1OHFXd2h0eFBoOW4zQ1otZUwyVUF4ODZqaVpNdEgtZldPTzNQSmM4LWN0Z3J3R1ZlaHYyVUhLTlNucm90ZEtsdGlpMm5ablhWbjJLSnoxczJfSy1rRFRxR19QZVVzdk1Cc2hldw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Federal Reserve keeps rates unchanged despite elevated inflation",
+   "source": "AP News",
+   "time": "2026-10-28T19:47:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Fed holds rates steady despite concerns over inflation",
+   "source": "CNBC",
+   "time": "2026-10-28T19:43:48Z",
+   "link": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+   "tags": [
+    "FED",
+    "INFLATION"
    ]
   },
   {
@@ -144,13 +193,13 @@
    ]
   },
   {
-   "title": "Fed Chair Warsh says central bank to reduce the number of rate-setting meetings in coming years",
-   "source": "CNBC",
-   "time": "2026-10-28T19:33:08Z",
-   "link": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
+   "title": "Federal Reserve holds interest rates steady",
+   "source": "The Washington Post",
+   "time": "2026-10-28T19:35:44Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcFVkNXozVXFDZmYzRUlaajVOYzF5RnZNaHZ3d2QxWkRhbXJKeVY5a3k2cV9jRWd2YU5UcEpuODg1T3JxaDFsRFhHdzIwZ3hpNmd3elJ2alBFb3J1NU1MT3FodWhfcHpkV1dkXzlLNmVUaXFyT1BTNVdJbHhwOHhqWGVKZWFlZmduejd3YURDa2FOZDdaYlptNkVn?oc=5",
    "tags": [
     "FED",
-    "CENTRAL_BANK"
+    "RATES"
    ]
   },
   {
@@ -183,11 +232,21 @@
    ]
   },
   {
-   "title": "Federal Reserve holds interest rates steady",
-   "source": "The Washington Post",
-   "time": "2026-10-28T19:12:50Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcFVkNXozVXFDZmYzRUlaajVOYzF5RnZNaHZ3d2QxWkRhbXJKeVY5a3k2cV9jRWd2YU5UcEpuODg1T3JxaDFsRFhHdzIwZ3hpNmd3elJ2alBFb3J1NU1MT3FodWhfcHpkV1dkXzlLNmVUaXFyT1BTNVdJbHhwOHhqWGVKZWFlZmduejd3YURDa2FOZDdaYlptNkVn?oc=5",
+   "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
+   "source": "Al Jazeera",
+   "time": "2026-10-28T19:13:32Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
    "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Federal Reserve makes interest rate decision ahead of midterms",
+   "source": "Fox Business",
+   "time": "2026-10-28T19:12:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0hLUjN3TllXcDVjaXRBaUwxOW1QcnJLRkc3ZGR3SnR1U283WVdPeWozMmw2eFlLa3ZVb011TlEtMHI0RjV6eWE0T2ZXcXRNQVR5eEIzbVhRektfTHkzLWNLbVc5U0RQaXUyRnFSZ2VCUmZNOFlpcTQyWXc5S21zRWxpb2FBSS1FSkpiVnc0VnV5S2o50gGaAUFVX3lxTE1DUFpkcUswb2dYdVhleE1XejZfZVdTSHJsbUhOelF3Z1B4UUpGdWhqUGQzTmxvTmhGbFFQZ1VNdmhNenprZE1Hbjh6bW9RUTFGN0lfYkZMZ3g4YUh1VlM2eUhGNHNpVUN5ZG12R2RrSnpxTDRKTVR6Y29oMUhHNVdMZ1N1UzFLUjF3LUNnc0pvUFNQZXA1T1JnQ0E?oc=5",
+   "tags": [
+    "FOMC",
     "FED",
     "RATES"
    ]
@@ -211,13 +270,13 @@
    ]
   },
   {
-   "title": "Federal Reserve keeps rates unchanged despite elevated inflation, gives little signal of next move",
-   "source": "AP News",
-   "time": "2026-10-28T19:08:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
+   "title": "Qatar said to float deal trading UN inpectors’ access to Iran nuclear sites for sanctions relief",
+   "source": "The Times of Israel",
+   "time": "2026-10-28T19:09:29Z",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM3pJVGxsbHFKTEpVQXdldkFMaEg4TFd3Z19lWnVrZld0R3NFSmpsSjExRGRPemVmb3FUUUI1ZzNieExKd0lHVFZiZGVIbExRMmdPS3hzcWZsLTc4MlkyRVpkTDhlb2dSNjBPT1BtN1picjBsZ1BsU3FzMVVMd3FWME9lMnVNMFM4NkhvUWZvMFV5NUJqYjl2My1ObHdqZXV2d0xGTy1sZE0wRDFqQXI3bGdOWjFsUjBpM01ka2NqTUJXcWxkaHQ2T2ROdzZ1Mi1ad0JMcUVXOGc?oc=5",
    "tags": [
-    "FED",
-    "INFLATION"
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -241,6 +300,25 @@
    ]
   },
   {
+   "title": "What are the implications of Israel’s elections?",
+   "source": "Al Jazeera",
+   "time": "2026-10-28T19:03:03Z",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US Short-End Yields Fall After Warsh Signals Fewer Fed Meetings",
+   "source": "Bloomberg.com",
+   "time": "2026-10-28T19:02:32Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRUNlWElDTGpDVE1ZTGNKaERIbnpvVjNlbHViLU9kd2NaWjhkWWRNbE5tY0RyLTJpTmJyVnF1R1RSVzl2VVktVXJGQ1pvTGNDS0NBNm8tUmV5N1JKd0c1MTkySHFsbVdfMzhrUWszNG9UbHc1dG1MU2tGM3BFQlg2RU85blBMM0t2YXFCa3NTcUtwVl9VVDVDZHFJSm50ZGNCc3p1RDl4TzZTdndtX25V?oc=5",
+   "tags": [
+    "FED",
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Federal Reserve keeps interest rates unchanged in final vote before midterms",
    "source": "NBC News",
    "time": "2026-10-28T19:02:16Z",
@@ -251,12 +329,42 @@
    ]
   },
   {
+   "title": "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
+   "source": "Bloomberg.com",
+   "time": "2026-10-28T19:00:52Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYTNINnF3d0YzSWhxXzBuRUxDc2RycVdyV1FFVGFMcFMtdUZxVmx4RGQ5NDdJRmpRdlhMRlN4d1NTV1BFYVFXekxSQUhjRjBKWlNxTzNrb04xTmx5THJ1OVBZem1HWldlb2EzaWFsbmVNYUIxVWtqano5ZFJZanllZVJTYWNuYXVqRzFxMjRRSjVqaXBvWFQ5cTJiSElpWldqbjA5bXl6eEM?oc=5",
+   "tags": [
+    "FOMC",
+    "FED"
+   ]
+  },
+  {
    "title": "US imposes sanctions on Rwandan defense ministry over involvement in eastern Congo conflict",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "time": "2026-10-28T19:00:06Z",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUXk3WkJqU0FYdlpVUU9XTzUwSGRhSGpkbmhITGRSbFVtb0M0NlhlT194LW10TUdYRVBMUV9lTHlfeUE4WFR6cWljeTAyMVVYTGxWUy1nTXgtSldpdF95WG9GX1ZFYVd5LUJxaTJGSkk2QWk0R3Z6VTJ0RTVCWDI3Y0RHak93X0dCemp0VWZZM1E0czVhVlhUMl9CUm1sSlFTa1c4NWJkU2NaQXlpUzdxX2twWEJtbU9EUEpn0gHAAUFVX3lxTE45Z2c5MDhCd1R4WDl0NEY0M3JpSnFWRnVBdnc2OUt4ZVdSMEUwWXcwTDJRWXZBcUpEVUNOWUhfRWRLME01blpkSzUwbnZkbjFrNVNWVTZTSHcwanBzazdyNFdTUWRqX0xST1hGbXRELUNodWw1WG94Uk1HSzZGR1hhR1NMeFV0RTRZSXNPRVhEanlhdkstbDhzeXM0Vm5XQlIxWGpUQ3pzTnhtbjFnWU9Ca2xnQkdkWGdaa0txM0xPMg?oc=5",
    "tags": [
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
+   "source": "CNBC",
+   "time": "2026-10-28T18:58:04Z",
+   "link": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
+   "tags": [
+    "FED",
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Warsh Says FOMC Meeting Schedule Will Change as of Next Fall",
+   "source": "Bloomberg.com",
+   "time": "2026-10-28T18:56:06Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmFaSnVIZ25QMm1nYTFDalFNWnhBNmRWc1VlV1RlTDhaT0IxSFVEc2pZVmFuay1UYUszVVpOc0pvTmFXZG42QmJpQW1fZnRLS0EtbGtzNjhtazl5OWttS05aVFROWG5ReVdHNGsxT0FYdVFOR0JpYVJ4YUpvbzN5U1FNY0RjTWgtcWFFUGVyNUVpbFhLNHEycXh0eWN0bDFNd09mY3B3?oc=5",
+   "tags": [
+    "FOMC",
+    "FED"
    ]
   },
   {
@@ -407,16 +515,6 @@
    "tags": [
     "FED",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Fed holds rates steady despite concerns over inflation",
-   "source": "CNBC",
-   "time": "2026-10-28T18:14:40Z",
-   "link": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
-   "tags": [
-    "FED",
-    "INFLATION"
    ]
   },
   {
@@ -595,98 +693,6 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IekpHbmt4YURScE1GaW9USk84MWJNc3pqY1BkRmwxZmI0bDhxelZhTFVVQkc5N2w2NnNkRUQxRF81MHVGUnBTQ0tBTU1JV0tqd1R4eDhaOWlDWWszRks4TWhWdHlmQkVROGNfNkl3?oc=5",
    "tags": [
     "FOMC"
-   ]
-  },
-  {
-   "title": "Fed Holds Rates, Says More Data Will Help Next Decision",
-   "source": "Bloomberg.com",
-   "time": "2026-10-28T18:00:01Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYTNINnF3d0YzSWhxXzBuRUxDc2RycVdyV1FFVGFMcFMtdUZxVmx4RGQ5NDdJRmpRdlhMRlN4d1NTV1BFYVFXekxSQUhjRjBKWlNxTzNrb04xTmx5THJ1OVBZem1HWldlb2EzaWFsbmVNYUIxVWtqano5ZFJZanllZVJTYWNuYXVqRzFxMjRRSjVqaXBvWFQ5cTJiSElpWldqbjA5bXl6eEM?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Federal Reserve issues FOMC statement",
-   "source": "Federal Reserve",
-   "time": "2026-10-28T18:00:00Z",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-   "tags": [
-    "FOMC",
-    "FED"
-   ]
-  },
-  {
-   "title": "Balad leader blasts ‘racist’ exclusion of Arab parties in Israel",
-   "source": "Al Jazeera",
-   "time": "2026-10-28T17:54:51Z",
-   "link": "https://www.aljazeera.com/news/2026/10/28/balad-leader-blasts-racist-exclusion-of-arab-parties-in-israel?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Burnham’s budget blasts British baked beans",
-   "source": "POLITICO.eu",
-   "time": "2026-10-28T17:54:00Z",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BTWVlcHl6VXo0Ykd1ai10R3RwSlJlVkE1N1BTaXdvWXlyUWd3RElPa054X09kelZZbjBfUTQ0UUxYb3hoWVBBelh2RWNKR1RWcEx1d1gwSlh2eGFocHdpZm14ZDJzMnRCTVFOTzdVeEJ3eFFpU0VSOE5rWHU?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold’s Rebound Needs 2 Things — A Fed Catalyst and a $4,106 Breakout",
-   "source": "Investing.com",
-   "time": "2026-10-28T17:51:00Z",
-   "link": "https://www.investing.com/analysis/golds-rebound-needs-2-things--a-fed-catalyst-and-a-4106-breakout-200690427",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "In Ukraine's Kherson, brief ceasefire brings rare respite",
-   "source": "Reuters",
-   "time": "2026-10-28T17:47:43Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZzQwZllXSC0yN0tJa2gtNXBEVF9ZUmJQdGphNEhDaFVhMXd0Zm45OGdnZmlGN1ZNS0dLamFvRmdwTTBlR0w0cUkwbkhYOWp1ZjBraDFxWElCeG50azFBbUVnZW53ZmptVWpUYUxRSFNER0o3ajNzd1FsbmhndHlPeXJxdm00QWo4RHNPVC02SHhZeWRPMk9mbERNWjk4U29Ld3Z3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "American policymakers ‘prisoners of history’, says historian on Iran War",
-   "source": "CNN",
-   "time": "2026-10-28T17:46:20Z",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOczlFUEUyRFVyTlZ2aUR4SE9QNkNGR293STdVYjJrLXNnc0JGeWpNa0xfSWs5U0hNa2wwaFBTM3lIT052UThmcmxRUjl5TjNNdWdldzZpSkU2eGZqVFdOdWhxN3oxbm9VQUJOc09IMGVrQnBfVEx1N2JTZmpPUEVFOTFRcEloZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Galantas Gold at Emerging Growth Conference 97: Chile pivot takes shape",
-   "source": "Investing.com UK",
-   "time": "2026-10-28T17:44:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdzcybndNSlFLQ29JVmM3NTl6U3VoQVJ5eDNXNWNBeFprbGxkV1JwYnRUV3FPX3Z0N01LSkl4U1JWYm9qSEpPQWZLR2ZjTHV1MUhQajgwSVMwS3RjS1h0d1BVcDdGN1FuVGluYklVazBXWFlnNm9Xa1NINXI0eWxJZnZwSEVHNm9nRnlQb3VlX1VBR3Y1QmFSM3VWeFhESmtkUDlfbHlfRWVweUZlYkFkTGpYcE1VbDRvTV9ta1N1UzMyLUR5QTdVdjZMUQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Bone of contention: why dog trainers are at war",
-   "source": "The Guardian",
-   "time": "2026-10-28T17:44:00Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQkR6bHEwVWpKM0JFQW9mZjN6ZVBSVm1KTkZNZ1BIbXVkblFuNlBCd2ZYTDdwXy1DcEhic1lwU2F3elJZN05MbUlkNFdKVmd5VTE4bXd3VTRKcTMxNXVNZWd1eFpwbnY2UDZhN0l0SHpTNG5fUnJPbk56aTMzZ2g2UGpmbzVqRTljZzVNbERoZXB0UDd6STVpRTRnQk9kUmx3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "After years under fire, a rare quiet settles over Ukrainian city as truce holds",
-   "source": "AP News",
-   "time": "2026-10-28T17:41:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcmI5OTdYbjBVWGV2ZFkzcDdKeWVZUURaTXlZS2JXOHhuZGxSM0RGbzBmU2JqNkR0N2t5bmd0anBNNC1QT2VZeXRXUktxU1pSZTcxYkh4YUp2TzFlcVdZSFk5OUYyaW1uTmxtOHY4dEs4eDlqcngzak9QZDU3enotV2RDNW9GaWRGbmxkbWZyTTBNWHlWV2FKd1NwZTBlempmMjh6V01pY21CZ3ZyZkpz?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
