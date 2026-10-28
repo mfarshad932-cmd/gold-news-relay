@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T13:32:57Z",
+ "generatedAt": "2026-10-28T14:01:20Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,32 +47,32 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 5
+   "kept": 6
   },
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 0
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 3
   },
   "bbc_business": {
    "http": 200,
-   "items": 40,
+   "items": 41,
    "kept": 2
   },
   "bbc_world": {
    "http": 200,
-   "items": 20,
+   "items": 19,
    "kept": 4
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -86,33 +86,33 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 30,
+   "items": 26,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 23,
+   "items": 24,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 28,
+   "items": 36,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_yields": {
    "http": 200,
-   "items": 15,
+   "items": 14,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,6 +126,70 @@
  },
  "items": [
   {
+   "title": "Fed meeting live updates: No hike expected, but investors watching Warsh for what's next",
+   "source": "CNBC",
+   "time": "2026-10-28T13:50:58Z",
+   "link": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "World Bank sees commodity prices up 23% in 2026 due to Middle East war, other shocks",
+   "source": "Investing.com",
+   "time": "2026-10-28T13:43:02Z",
+   "link": "https://www.investing.com/news/economic-indicators/world-bank-sees-commodity-prices-up-23-in-2026-due-to-middle-east-war-other-shocks-4979537",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Price Forecast: $4,096–$4,125 Zone Sets the Tone After Fed Decision",
+   "source": "FXEmpire",
+   "time": "2026-10-28T13:42:08Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSUY3RWlHbmg1RVl5SFIzOGJpZnkxZWVEQkcxRlVvTkd1MVRoQ2tEVW5uRzh0eEVvUmdNTHJLZ2s4cEhiUXZITWRkeThreEZDS3ExbWdkUkMtMk8taVpZMkRuQXMxS1JzSjNxanVfanRZRFpPNzhpQURSZWZaSnYzdkhJa0d1MldYSHFQOXlsdTdnRTJObG83VTlERHBZTEtwZHk2OVdtaHIzcWFiMUxlUi1mS0g0cXRrZHc?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Shatirah House Restaurant Announces Financial Impact From Revised Electricity And Water Tariffs",
+   "source": "TradingView",
+   "time": "2026-10-28T13:41:05Z",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPOVlKZUIyZVNLYXlfSzRIem1uQ2N1NmRwVUF6SC1TMFV2dGVCWEpzbFZpT2o0LU5mRjBSb0ZiQ2N4dzA5WjgtRmxOZWVUOVRycEtsM0QzQ0dKcHMxa1NNVmRiUGY0RTJ3Vm92M2JOR19Fc1J6U0dkM2NIVUZwZzF1aVpVUWIzLXJJdFdKZ2FudGViU0lhUWFseEkxYVduUHE2RlVhYkpmd1E5SGZkNnNzUXQ5elg5LXh5X09FLW9rQWNxRUNhX1BWdUpheWc4eHlrOHJaS0s1djVpOWtiZnVWTGg4VElyODVMTVBienVJUzE2dWdVZWM0dA?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "National Building And Marketing Announces Impact Of Tariff Adjustments On Ajeej Steel",
+   "source": "TradingView",
+   "time": "2026-10-28T13:37:22Z",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdjVDT21fenlyWFRqdlBmWjlXR0NjSjg2T2taUnFleHdnZ3JUeDFLcWFqSEJYN3NiQmMybHZubnBZRnN6Qjc0ZFdjZHV4YXZqQkJGM0ZhMG9iVkFadFJHVXZCZUJ6c0NjeDBfUmI3aUV5MGx0OTJOcjhMM3NULTdIcl91Zjh3MnU0X0ZMMXhsbS1tWFhFTE9EeVkzZnBrZUx6N20tTHE0QTRROTBiMTJ4Mm41S25Ycl9TM0RoOEZQNnRFOGlCSXRQVF9sd3dueHpkYUlLNGdEYmlXWXdBT1owejJXdnVkX0xfR1E0?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Metals Exploration shares fall as La India delay offsets strong Runruno quarter",
+   "source": "Yahoo Finance UK",
+   "time": "2026-10-28T13:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWNROXBNUW52eEE1R1VCWUdNT0FpRzFRaGtYcENPQXl2MUhacVN4RU1EUTNSdXM4M2JkTnNOVEtaV29GSVh1VTY3cnphdW9aTGxBN0ZMZGY5THczRzRkdlRuaUgxb3FWcmd0ZFNWOGtQYUZvSjAyYldzYWtkRVVadXA1X0gtQl9nSnc?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Energy Prices Set to Jump 32% This Year in World Bank Outlook",
+   "source": "Bloomberg.com",
+   "time": "2026-10-28T13:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVThJMFhQT2x5MTVYS09WSmZ6TjV3bWlibFc5WVFVSjB0bk5nQURiS1VqdTMzZWhIN2h6Y010bUowSS0ySzJMX0dIQktsMWxMX21sckxkQ250V1BNZFhnd0t2QmhlazhEREFaY0xmMHhFZVZjTDVYVWZlUEZDQldlTkQ0bnJBTVVaQWJDSnVCaVBkWl85TTdFR2RCeUVfWWdFbFlpQy1KY1dyMWhuNUxjS2dyanAxUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "This U.S. city’s industry was hit hard by the trade war. CTV News asked voters if it’s swayed them",
    "source": "BNN Bloomberg",
    "time": "2026-10-28T13:23:26Z",
@@ -133,15 +197,6 @@
    "tags": [
     "GEOPOLITICS",
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Fed meeting live updates: No hike expected, but investors watching Warsh for what's next",
-   "source": "CNBC",
-   "time": "2026-10-28T13:21:16Z",
-   "link": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
-   "tags": [
-    "FED"
    ]
   },
   {
@@ -223,6 +278,15 @@
    "source": "CNBC",
    "time": "2026-10-28T12:41:35Z",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNamRfODdTN09KcEtLOFFObnpuTlFPR1BCajVfSFctb3RObS1LQm05SzRUcEZLVFRfVjRZU3RxMEVQYy0tVUkyRGwtLTJyczh0SWtWb0tHNWJZdHpNNGtJZVc4QVM4STFYRUxUNzM0cFU1NktEczk2aHMyX0dDd29WODd5OVl2eTd1N0J5cnRLWHZodlhUUFpQd3ctM3JJY3EtTkVib2ZlSUd2bUE3Z1dwY3VVYlhvS2VBbDIxdVpOSTZTeEZKUWlr?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "See How Flight Routes Are Changing to Avoid War Zones Around the World",
+   "source": "WSJ",
+   "time": "2026-10-28T12:36:52Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlB4dVplUTFDQ25acHl6Q240Uk1aWTAzWDB5WUVZeXB6eTJZZVgwZjZCcVUxbmtOdDlsdUxLUVdCRTV3OXJ4eEpQV3RzNmxqNjcxMVd5MTFrb3FNVUFKTjFJUl9rWnJLWW83VUpJRHJPTzVqZFNmV3BodnpOcWRPWV9lN1ozXzNXRU1BckV0RF9LSWxFcktRelpyWktqYklsTTZkbDEzTjNndUozTmNIWVNpR2I3VjZzNlFfQnpIMFlIUQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -498,15 +562,6 @@
    ]
   },
   {
-   "title": "See How Flight Routes Are Changing to Avoid War Zones Around the World",
-   "source": "WSJ",
-   "time": "2026-10-28T11:06:49Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlB4dVplUTFDQ25acHl6Q240Uk1aWTAzWDB5WUVZeXB6eTJZZVgwZjZCcVUxbmtOdDlsdUxLUVdCRTV3OXJ4eEpQV3RzNmxqNjcxMVd5MTFrb3FNVUFKTjFJUl9rWnJLWW83VUpJRHJPTzVqZFNmV3BodnpOcWRPWV9lN1ozXzNXRU1BckV0RF9LSWxFcktRelpyWktqYklsTTZkbDEzTjNndUozTmNIWVNpR2I3VjZzNlFfQnpIMFlIUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Gold Slips Near $4,040 as Investors Assess Fed Policy and US Dollar Strength",
    "source": "Yahoo Finance UK",
    "time": "2026-10-28T11:02:43Z",
@@ -625,63 +680,6 @@
    "tags": [
     "USD",
     "GOLD"
-   ]
-  },
-  {
-   "title": "‘Russia is already part of who I am’: African students in Moscow",
-   "source": "Al Jazeera",
-   "time": "2026-10-28T10:40:52Z",
-   "link": "https://www.aljazeera.com/news/2026/10/28/russia-is-already-part-of-who-i-am-african-students-in-moscow?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Commerzbank Says Treasury Yields Rise as Oil Prices Gain on Report of Possible US Strikes Against Iran",
-   "source": "marketscreener.com",
-   "time": "2026-10-28T10:38:12Z",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPckx3MkFtN2cySzdaT242aUx1RURUNHFYXzFWVEZ5WklLTG1tOHUtVTExYTNXLWJjQmJfQXJCODRsWFdZd3VPeWtKYUNqejZadVZzN295cVlFQW4xQXFlanB0anJZWXh1YU12SklYV0tiWElacW13Nm82aGp2UXFqTUE0TGdkQ2tNb2V0TmI5b2Q4XzZxTGlvX0NnZFBzekJ3U1hNc01rbWIycmlwUDRWaFM4YXlKVURzcHFqbXJxZXNURXFta3ZjeWVPTDVXbU04enBjNTFrZkNNR2JQbjRfV3had01xbC0y?oc=5",
-   "tags": [
-    "YIELDS",
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Norway and Finland hold rare phone call with Putin: What that means",
-   "source": "Al Jazeera",
-   "time": "2026-10-28T10:34:29Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNemhySkg5TlYtQWNYUW5FclBIZHhtOGtET3BkcUR6UnVQYmQtZ0dwbWN6Zm1XOVNTd1RZUC10THI3MnIxVkM1dXZPOXYyUGVIa3JNV2dBZWczMzJUUzctakxkbmNEcmNHWFF0dmtUWW1LTUp0MHFnSl85SmJpbnVKRzJKbzR1TXE5OUxYTGtpVFRaRjBKMFVrcU91YkQxOGtZbGVCUHFKV0c0bFJL0gGyAUFVX3lxTFBQZU5RT2pMWUo2RmZJUE54VDlubE9NaWFUT0hfdDdaN3VzTUpNZmpTNmdUcDFxZnpkOVNlVXRtSzRhS1RHVVZ5SmpxWUlSWkZpMXNMazZDVGQyZVA2dkUwNXdaTnZDeXNYWUZ2ZEtXVzZKN0xmSkdzR0hVd3RaZk1kOHpPaS0wdzc2eEREVm9hZ1ZsQkQySnJmaWg4ZW9pdEhpXzlWaWYzZEdKZ21VVDlJeEE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US deploys Patriot system in Israel amid preparations for Iran strikes",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-28T10:32:07Z",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MeGxMWXcyX3piREtnVDJPOGF3OTdFQmVoUHNxZlM0ODA5bk45aGdoNDhvVUVZc21XVlJ1VEthSktfRnVtWm84NVRFdTVSNHl4VWxqemlIM2NJYy13T0dET212V3ZpTnBySFNjZERR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "JAAA: Federal Reserve Hikes Should Result In Dividend Growth And Continued Outperformance",
-   "source": "Seeking Alpha",
-   "time": "2026-10-28T10:29:05Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdXNqRi1EX0x1UGZiTUJqWTVvT1hJbzJZS2FXV3NjQ2lNMms5UnhsTDFzS3hrY2MwdUFpZlZrZERNS0p2UkhhaXFwOVZfemRoakFhTVRJRkxrRGVBSGJiVk1XemFNNGlYOTVyNWhuUG9sOHgzLVVqNzg5N0s0TXRLc0wzTTZuYkdicFppNjJrVm0tLXlES1c0d0FXamFiOHlKUlJuak0tOEQzT3NXdURhMi1zcXVhZTVKSEI0S25CQVo2YVliRUY4RQ?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Iran: Our policy of showing no flexibility over nuclear issue remains unchanged",
-   "source": "FXStreet",
-   "time": "2026-10-28T10:28:56Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLWtZYk9Ic3NOeVZmYVVTNzhyczkweE93aGxFNlVWdFpLcmNPanVlTS03czVOQzUtd3ZCOWk1eWdRblZBUnNfRGVTMFZhOUVpb2M1SHRRamE2LTh0TmxDbHo1bHZkNEphenM0aW5LRk9XbkF6UV9IMV9xeHpqZWpHTnVOMTFEYk42OGZNeWl4c21MM0t4THhWOEZOeTBtZWZuNmtfSTRENG1QVnI0ekhrcEROWHlZdnBRVm1haEFB?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
    ]
   }
  ],
