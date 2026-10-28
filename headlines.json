@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T14:01:20Z",
+ "generatedAt": "2026-10-28T14:29:29Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -67,12 +67,12 @@
   "bbc_world": {
    "http": 200,
    "items": 19,
-   "kept": 4
+   "kept": 5
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 26,
+   "items": 24,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 26,
+   "items": 25,
    "kept": 12
   },
   "gn_tariff": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 14,
+   "items": 12,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -126,12 +126,104 @@
  },
  "items": [
   {
+   "title": "Israel's election result is messy - here's why",
+   "source": "BBC",
+   "time": "2026-10-28T14:26:24Z",
+   "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Exclusive | Arab States Must Invest in Productive Sectors After Iran War Exposes Weaknesses, U.N. Official Says",
+   "source": "WSJ",
+   "time": "2026-10-28T14:21:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObzU1a2pOTDl0cHRFUm13a0lDTU9IMGotck5yMWNmdUlmNEl2MTZ6RXpMbmJubjNRRHdlN2lCNE1ieEZ6MVVZNUxPelRfU0V5MGZEZ2hmRXpWX1NHUXYyX05NNDgxanpKcmRWaWpHbWhQd1dIa05VYkptdmsyeXYzb05rdW55dXpiRWpvZVc5YWo3dUdIakh2UlZoZFVkdlJCcDJQMnFXVy1SUlBZVFFjZEVMbi1OWWg2V2xneDk5amZ2NzNkNmZfVHNMNEVhSmFmSmI5cFh1eHZFNnlt?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Who finances private credit in the United States? What the Federal Reserve’s data reveal",
+   "source": "FXStreet",
+   "time": "2026-10-28T14:15:22Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPck9UaEZtUXM4TEdYblpBUnZWSHJLdGo2TExCM2M3LWU1Nl9qQS1aekdneFhQSHRaWWFhSDBDOFhtekxuSms2RGdUVGJYRFFucmNRSWFhOVhsbENsa1JPYXdsUW03ZDlEZGgySENub2hucG8xSmlFa0R4eWFGdzdMUG9WTHppeHhsRkJVbGFmM3hqenl6QzhoeDlmRVRSRHJxV1dTSWR6M1hVdUIwaDBUZFE5Ql80MUlNb3NEdk5xRU50dUFIYXpTNzJhZTFpQQ?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "The Iran war is creating oil spills visible from space",
+   "source": "CNN",
+   "time": "2026-10-28T14:14:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdEQxeWt5OW9VaVlBMUdZSlYwQkw2bFkxaTVnYnNRZ0NuU1FlYjVJSkNUWG0wZnhNRXRReFZvcTZHanZiQ1RyenI0TnRYbGJuNjY3dkhHM0YxVzZXbXlRdDhvT3BfRE1fVFRQOTVzMXdxc0lOQ2FrTGY2QmdHcE5lSEp1bVZ1b0FB?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Espionage threats blur lines between security and dissent in Iran",
+   "source": "Al Jazeera",
+   "time": "2026-10-28T14:03:08Z",
+   "link": "https://www.aljazeera.com/news/2026/10/28/iran-faces-espionage-attempts-but-using-threat-for-crackdown-on-opponents?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "There’s a War Over How to Train Your Dog—and It’s Getting Nastier by the Day",
+   "source": "WSJ",
+   "time": "2026-10-28T14:01:28Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcUlVWlNsd0Y5bXNlNFpHU3lBVnduWlJBaTNmRmtIWG5xOWlOUUJQeDRXOXZLdTZYUnh2TjNBcmxxeGRoZDJnRW56X1Jaek1qRkhYUkhKckdVXzNhcUdyWkYydDNBYlVGc1dfRmd6UEY4TEh4d1dpQlg4aElUS0hJWTlpajBZRFlELWIzM1Q1RDBTWFlYM3EycHJMeTVsLWc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Stellantis CEO Says Quality ‘War Rooms’ and Cost Cuts Paying Off",
+   "source": "Bloomberg.com",
+   "time": "2026-10-28T14:00:59Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmpRTXg3aVB4RW1XVEUxRG45UkFZcmhzVmhNT2VIRTRiUk5mc2YxdGhRMjNaWUVkVGxyMGJKeG1XVHh5elNJYUxLMDZ0dFBIcDNVWU9UM0padV9ZOGlNd29IMHlLcExqa0RXdThqZzF5azM3MDRQZE0xSk5qZXVGZFpoNHRBWVNSeXBrdWY0RFBiNkllZjNTMjNGVENTUkhydDNKT0ZxcUM1UmVSWm13Vk5sNA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "OpenAI launching election war room to track interference efforts",
+   "source": "Politico",
+   "time": "2026-10-28T14:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVVZfeUFPaHlSb3RSN0Q5VGtFcmhNODBoOEhLMmVZcFU2S2QxbzJVcHVPV21LX3FLYzRsQ3RtNjdyak1GekpldmhLUTBnYmlJNTJHMVZIM2h4VEoyZWN5aDlhcDZFSmhZVkZZT3pQSktEeGFRQ0Y1YzhFNWQ2OTdCc0dXWWFrLXJyelRpOGNSb3M?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Why are three of the UK’s four nuclear deterrent submarines at sea?",
+   "source": "Al Jazeera",
+   "time": "2026-10-28T13:56:41Z",
+   "link": "https://www.aljazeera.com/news/2026/10/28/why-are-three-of-the-uks-four-nuclear-deterrent-submarines-at-sea?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Fed meeting live updates: No hike expected, but investors watching Warsh for what's next",
    "source": "CNBC",
    "time": "2026-10-28T13:50:58Z",
    "link": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "Gold price at CAD$5,684/oz after Bank of Canada raises 25 bps, sees growth slowing in Q4 before rebounding in 2028",
+   "source": "Kitco",
+   "time": "2026-10-28T13:45:50Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSGxPSDR3YmNvd0xKLTg2UnU0VHJpd3hfUHFiejFvNDVQdGw4ZjF2Nl9WVkdFdUFjT0oxbHRxRnRoYmZQRG5hbzdIbGY5c0Y1NkdRZEo2aWlEQ2dQR1E5LVVVb3AwcE9GRjVJWmpvZ2xUb1NBR2JsTkFLOElMMVl3TGc2REZfVzRsblNxZi16aGlac2c0cndYVkF6X0didlVnV0tQTlJLTi1jdXhfb3phamZ4ZjA2VzQyZ1dtVnVR?oc=5",
+   "tags": [
+    "RATES",
+    "GOLD"
    ]
   },
   {
@@ -163,6 +255,15 @@
    ]
   },
   {
+   "title": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
+   "source": "The Guardian",
+   "time": "2026-10-28T13:41:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnhLY0QxNnotazVyRzJXNnJGZTJORWI5UzZpakY5Ql9ybWJONUt1MVl4UEdpb1JOZk5KNm1TdTV1TkRUTERwdzBHdjJzU3IxdWM4ME5vMTZFMWI5bVkwN0dXSjItVUpGMFpSSXBwOGdkVVEtM2lpclhTRGVMTjFYS0VKTl9yT0FTWlZzc2dEdVRpNmVDM1V5NlpudXRyT0RoNzlGaXhhNA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "National Building And Marketing Announces Impact Of Tariff Adjustments On Ajeej Steel",
    "source": "TradingView",
    "time": "2026-10-28T13:37:22Z",
@@ -187,6 +288,15 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVThJMFhQT2x5MTVYS09WSmZ6TjV3bWlibFc5WVFVSjB0bk5nQURiS1VqdTMzZWhIN2h6Y010bUowSS0ySzJMX0dIQktsMWxMX21sckxkQ250V1BNZFhnd0t2QmhlazhEREFaY0xmMHhFZVZjTDVYVWZlUEZDQldlTkQ0bnJBTVVaQWJDSnVCaVBkWl85TTdFR2RCeUVfWWdFbFlpQy1KY1dyMWhuNUxjS2dyanAxUQ?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "‘It’s going to be ugly,’ Republican rep. tells CTV News ahead of midterm",
+   "source": "BNN Bloomberg",
+   "time": "2026-10-28T13:23:26Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcFBMUld0dE1OdnV5a0trbU05U2NzSFlBSjlaM3JvTnVnUGh0b2RBNUZWSnhYWnlpV0ljSWdGTklGSnBVV0FjWlVYN19za0VIcGZTbTh4Z19DSzhhbnRQN0NxR3pjVTQyb1BtN256SFNqTmJnckNYRUVXdmJvOHpQenpscVE2ZUJMN1BFam9IY1VLX0toYWtOdDZZVXhWMXZWU2lEOHdseVFEa0hjRURCWkdPb2FIQQ?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -305,15 +415,6 @@
    "source": "The Times of Israel",
    "time": "2026-10-28T12:35:10Z",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQXVwb1hReGQzckI4V3JzZXRqejJvSkxYenk2QmlSQlVVSFp3SDhod2dVeGZUYTliUUdOcllVaUlUelBYblBBVVVCNURkdk5ZelNHbkw4cEJqNmZrdjZKOVdncGUwZFdFMXJXb19ETWRJOTRkSWtRcUdVY3pXTml0TmxBdnNJSGtnX21TSElhd0R5a1F6UHY3TTVMcEtwazQ4SEl6Z2x2d0lVUTVkRFV3M1FoY2R6eW1fS1RWT0JaMjN6TUNMU3c?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Stellantis CEO Says Quality ‘War Rooms’ and Cost Cuts Paying Off",
-   "source": "Bloomberg.com",
-   "time": "2026-10-28T12:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmpRTXg3aVB4RW1XVEUxRG45UkFZcmhzVmhNT2VIRTRiUk5mc2YxdGhRMjNaWUVkVGxyMGJKeG1XVHh5elNJYUxLMDZ0dFBIcDNVWU9UM0padV9ZOGlNd29IMHlLcExqa0RXdThqZzF5azM3MDRQZE0xSk5qZXVGZFpoNHRBWVNSeXBrdWY0RFBiNkllZjNTMjNGVENTUkhydDNKT0ZxcUM1UmVSWm13Vk5sNA?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -579,107 +680,6 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zNFZleUltZjdQbFhjS003RjRRUUltSzFxTTN0YTNMZ2UxLXBGS2JQa0hfVG1iNG5aUVBlbExrWFF5SGpKdkZRNWR0Qmk1VUVfWjlKcXAtLWxhdVVMa2ZQM0tPc0U4b2IxNU9zRjd1Q1o?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Microbix Biosystems Inc. (MBX) Reviews 50% U.S. Tariffs on Diagnostic Reagents",
-   "source": "TradingView",
-   "time": "2026-10-28T11:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY2h2VXBiRVFhM1ByWXdtZFVEdDN5STFfa1cwbTlDaXBZODk4bTFaSWRTMUptM29IMTQ1SjFHZ1pDNGFDVl92SXNHMnJqcTUwUHF2Y0o3aFNLUEY1WWF6OE1uYnlRNnh4REFwakY4dUVEUVZQUnNEeGEtd2pRUGtsVFRSWnQ5bFpCN1Boc19xbnZ1TldSQXQwQmxBZUpiVGIwWVRtRG5SRkpzZUFEWmp2NmxQTzB4ZWVPLTh0a3hUb3RqWmpMLUJSS2dHRWNjeW9T?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Iran war has cost $47 billion, U.S. military says",
-   "source": "CBS News",
-   "time": "2026-10-28T10:59:03Z",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ua0dyX2ZtaW93a1ljT3duTEtHQzRRVDdVM3EtYXM1OTRvYUVsaVpiUWxLSGJsR1hDQWNNaElDa3llbXNZQ1YxSjFpTXh1WGxrYjl5RnkyQWRhYkxfakpnTzUwTUN1US1UemtPQWpVWQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold’s Rebound Needs 2 Things — A Fed Catalyst and a $4,106 Breakout",
-   "source": "Investing.com",
-   "time": "2026-10-28T10:55:00Z",
-   "link": "https://www.investing.com/analysis/golds-rebound-needs-2-things--a-fed-catalyst-and-a-4106-breakout-200690427",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Analysis-As Iran war drags on, airlines pull back on fuel hedges and warn on fares",
-   "source": "Yahoo Finance UK",
-   "time": "2026-10-28T10:54:41Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSWFKcVMwS1lUQXBmTndUVUwwbGVsSHZMak9SWkdQV20yMlpNNWxWUFBlYlhMM0RLZ1pKN21KcHJCdG5yZ3NoOXRyY254MzBSZ2JFSkZjUW5HRldHMTdTbVRXeWFUOWt2NkRiTC1LZXpXNUlGQmZwVldNak5GT21ldWFsdmlqeEFX?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Investors brace for a hawkish hold and tech on tap",
-   "source": "CNBC",
-   "time": "2026-10-28T10:54:29Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcE1TYVJhdW12YXBTc1NSbGRUeW5DSnVLRU0tX2JwMFpvRjc1M3RJZ3BwUnM4VUxkQUp5OGFjaElkSDhIOVN6VkVpeFBaaU92RE5obVVBZEMtc1NoNkxBX2E4LV9YRGtWS0VxYVZUX0d3djV0YVJSbDkxMldsX25raDlEVDEyQXRDUHV5Yk5xdWo2U1ZISFHSAZYBQVVfeXFMT3BNU2FSYXVtdmFwU3NTUmxkVHluQ0p1S0VNLV9icDBab0Y3NTN0SWdwcFJzOFVMZEFKeThhY2hJZEg4SDlTelZFaXhQWmlPdkROaG1VQWRDLXNTaDZMQV9hOC1fWERrVktFcWFWVF9Hd3Y1dGFSUmw5MTJXbF9ua2g5RFQxMkF0Q1B1eWJOcXVqNlNWSEhR?oc=5",
-   "tags": []
-  },
-  {
-   "title": "US Stock Futures Mixed Ahead of Alphabet, Microsoft Earnings and Federal Reserve Rate Decision: Dow Jones, S&P, Nasdaq, Wall Street",
-   "source": "Yahoo Finance",
-   "time": "2026-10-28T10:49:43Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd2xfcTN0UklocUc0ZHluT0RKdnRnUTVyUGx5TXZTNXRCVTZhV1BwT2l3N1B5eHF0MGJReXduTEFDd1paNUpxcEVrZUt5MUdRc050SnRaUUktTUJnb0RPQWtfWlBfN2gxNVllOFBTcDVwMU5MZ2VnOXFlc200ckE0ZlZiR051RVh5ejM3eWVhNHhFajk2VUdFMg?oc=5",
-   "tags": [
-    "FOMC",
-    "FED"
-   ]
-  },
-  {
-   "title": "Gold Price Forecast: Rebound at Risk as Treasury Yields Remain Near 5%",
-   "source": "FXEmpire",
-   "time": "2026-10-28T10:47:33Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSWlmRl9tQ05iVkNKNUZrN0lzeTlTUFdVRWFRSlVGR0pxYjgyVHBQbGd6UGdXemNrOE9zR2JkYTdZUUt0bVNWR0lJSkhwVzhWM2w5WTl4Z2VEZUpkTG1HWUhWWU1iQVFtQ01vZm1DbE9lOXhUbS1WLU9sbTN1b0Frc0k4anlDRkoycWw4ZlcxYXktRGp5SU9qbTBtaE55cHJ6eDc4S2Zic1QwZEdjckhkWmRxNVFpZ1lDdkNsa1AzdVVBdmptSlE?oc=5",
-   "tags": [
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "META_TITLE_QUOTE",
-   "source": "Yahoo Finance",
-   "time": "2026-10-28T10:42:40Z",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LRXk3WmZ5Y1MwZVR2TUhJNEJYakk2Z3ZPbHkyWklVNkdJTnB3bjBpb0ctRzhrUzNhUmstaFJfUkJ0SVZ3VmRGTVJGS3F3aG95?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Fed likely to hold rates steady ahead of midterms",
-   "source": "The Hill",
-   "time": "2026-10-28T10:42:25Z",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2pPeHlGNkV2VUoyUlVodUxxdnV5Q0pRc2VUNDRINmYyN2lxdlRnMVBfc281cksycXVhYWVXTnR0ZHBMeVFJclVWTWV5Q3VOSzlQUFQwTkMwNkpxRDFaVXZocWxYc2tSTDY3dHR3MUJYZUV4a0N6RDB1YXMyRlhWetIBhgFBVV95cUxORmNwQXRxNnQ0bHpMV2JKUEJPdmdUcHBFdTJVTU9uS1N3dUhqNDlsR0tXTGxnTVV1MEZnVjFBM3pEODdydHBpWXJOY09leTdBdFBvWWhpak5ZT2FycVliZkNIekFuRTktUWdxczVqemE2VjdtLWFORDczenFzUjQzdGhoaGVodw?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Trump, Congress set to clash over Hegseth, Iran war, Ukraine after election",
-   "source": "The Hill",
-   "time": "2026-10-28T10:42:25Z",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWGN5NHVUMFZKR3VPVDJiTFA0ZkZhUnBTd3UwTmJHRmdac0xjOVR2ZVZVQ0RQeXhlZ1pfWDhRTUhNNE1xM29DQnBHWkYxQjgzTEJVMEhUcU5xaFBxRUotSGVTaHBwU2d6UkdKeFFLWXZLel80aWRaV0lrRHU2SWs0X1A5OHVoNEVyNHkxMTB5bWg5cFnSAZgBQVVfeXFMTi1mX1FpZ3hsTV9DVVpvcXMxU0lDX0pKbmIzdENOMG1QWTFjTzU2YnRMOU9vNUdJYVVjRnVSX0o2SG1QdWt1ai1JVFA5QXJmQ1RZSFlsUDh6VkttZDd0MEhjb2JicVVHV0k1ZzktSUZzeThCWGRsM0U0TF8zUFEzekVGUXFITENpZlRoYVZaVlAtVUNoWGFpcjQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Price Forecast: XAU/USD recovery halts below previous support around $4,070",
-   "source": "FXStreet",
-   "time": "2026-10-28T10:41:40Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOGdfV0gtYlMwTUZ6WUVfYk9zYVpnZk91cVk0a3J6bkp0cFIyc25mRWdQcVRFQ3NETXhXelFsTEM3UnljNUxRWjMtN3dwb0RiUkRrZ2d3cE9yeXVTS3JMaGdLbmZtblpacHpPYXhGZ1QxMnQ5Z3BwU0RIM21TanpELWVLQS0tNGd4VmxQRlFqWW4zeUV6TFNFeDZ4VERDZEJOcFZObnNYdmdQeFlaUUhzWHQ1WUZoaWZFc2tqZVJB?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
    ]
   }
  ],
