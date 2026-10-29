@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T11:16:12Z",
+ "generatedAt": "2026-10-29T11:44:20Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -62,7 +62,7 @@
   "bbc_business": {
    "http": 200,
    "items": 40,
-   "kept": 1
+   "kept": 2
   },
   "bbc_world": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -96,23 +96,23 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 36,
+   "items": 34,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 22,
+   "items": 24,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 22,
+   "items": 23,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,6 +126,31 @@
  },
  "items": [
   {
+   "title": "Nasdaq futures slide as Alphabet results intensify AI spending fears",
+   "source": "Reuters",
+   "time": "2026-10-29T11:31:45Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
+   "tags": []
+  },
+  {
+   "title": "Treasury Sanctions Facilitators Of NKorean IT Worker Fraud Targeting US Businesses",
+   "source": "RTTNews",
+   "time": "2026-10-29T11:22:41Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVlM5dlZEUS1zMHY1eWs2Vkl6OUZnMFdEbDNRVFFDNzRJMVN5aFBhdEQ3YV9MZnhOVG1lTno2SnFNRnFfUTR5OVhhNUtxak12U0pmLW8yd3JjUkNxMU9tTmg4Z0d2Q1FMbzZ5eUV0Z01qdThSWkdmSTBEZjRvOS00dU5PVndzRnQyWFpwSzNZOUhfcWlGSzEzSGg1YUd1RmlTV3RzbmFHSTBKNk9yMll1eURwVzNkRkpRbzdR?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+   "source": "BBC",
+   "time": "2026-10-29T11:22:18Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "President of the European Central Bank Christine Lagarde to step down in February",
    "source": "CNBC",
    "time": "2026-10-29T11:15:40Z",
@@ -133,6 +158,54 @@
    "tags": [
     "ECB",
     "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Gold prices today, Thursday, October 29, 2026: Gold prices hardly budge after Fed holds rates steady",
+   "source": "Yahoo Finance",
+   "time": "2026-10-29T11:15:17Z",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNclRxb0szRExxazlPX1gtN19mcHUzQTBWWHdmUlpINGYzeGtRTlhoNzdRQzRBMm9aTDZzeHUzb0kxMl9BWGx0TWdxM1dZWEtuWUU0NTRhekU4QzRjR1FleXVTNTBqbFVqcnI3QjZxN2lMTlN0Sk9hNWs0a0J5dW16TVFXOXlTZWQ0NG9LYTZXa1htX3ZvbUR6YUFteXJUTFJrLTY2WG02R280TFl4T0lEQS1FLWhXMU5pdUxqUHBuSElfNTJxTTQzN2s1djV2blJOeUg2bVNKd0ZKRmh2S2JuQU5DQktYcURKcXlPVGg3UHRqcXhRWDNwalgycm1WRHl1M2c?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
+   "source": "Al Jazeera",
+   "time": "2026-10-29T11:14:38Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXo4WGVRZE9wNk5rWUQzcENPb3lhaVRWSU8wSnN4eE5HT2NNT2tNNHV5czhKaGNKQnRSdVNmenFUaEVraTd0WWZYSG1SdGJGZnlmVXNhZHNNanlhVXRLdmx1TV9oV3lfV1kwUko0VVg4bEoyTzFzOFhkd3l4bXBHSzVHMlVXZmJVRGptMUlrZlFpYTlvcXlLZlBTNHlZaDJRekNjRTRCSG9uSjTSAbABQVVfeXFMUGRIczNfdUtzdlp3Sl85MEtReUNERjA3WjdJbWs0bFl1cVh4bHU1clU3bHk5bEthcUJIb2xOM3RiX0IxdWl2elpwbXVQd0M0dlBnc01LLUs0eDRYQ0cwemR1V1hGcFFEc0x5VE1tajh2eS1aaUNUZ1hpTVNyaFc1NTE4MjJNQkJ3V09MSHdnNlQ1Y1h0NjZrYV8zUE5jOFdYRG9DZ3c2UlNRdDZBdURmNjg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran’s hidden web of military agencies is slipping hardware past the US blockade",
+   "source": "Reuters",
+   "time": "2026-10-29T11:14:26Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWDdNT2d1X203WGstY0tRd0xFeXFhWlBQVmlXM2hRRXdzZHQ3UmszXzNXcVE3LTB5TWhUcXJwWUVlSi15cGFUNVFqd2xTNllBQm9PdlphUVQ3bU1pOTI5dUtGb3pZYUstMmpaa2hzbk5RXzd2bVp5YmlhR19nYkNJTjdfTG11amxxZ0dOWXBveEowTC1wRHozRWxPYUx5OXo2TWpjdHRnOXc5eTRQWXN6S2RyWVUxVF8wMGk0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Jio Platforms set for steady Q2 growth; tariff hikes remain in focus",
+   "source": "TradingView",
+   "time": "2026-10-29T11:12:32Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYmFOV2VKcmdfSDV1eHBhRVRYbTFxTHJNVFFpajBYemh0M2tCM1J1UFRONW9QMks4bDVhWlU0T1ZtVUZqT2JCdWdLbmN2c0I0eUM3SHMxdlFJYzdpTGUtZlRjWW9Gb2VhWWlpYVYxdlBBaDdpYVlkN2kza0EyZ0xEMFZvdEdRRGRGYTJueE5VNERmU09OVk1qVkgtQ1R2V0Y1cmREWjl0VDNQSmF3azQ5d3VWQTEtU2pQUEJZTXpkNk9qQQ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold weakens ahead of US PCE inflation amid hawkish Fed outlook",
+   "source": "FXStreet",
+   "time": "2026-10-29T11:12:25Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNOVzAtejhZWTl2QlFRUG1kYkN5SzI3ZDZsZU1MS1dveGFKaW9vczFvZHF2REFGQ0JHX3hranA0eXJWR3paN1NQU21uZ3hXRV9HSDd2dVFfLTZnaWk5RUI2QkxSWVlvMXNla2luVXM5TTdIVHVhRklSbFNrMmFNRDJ0RkhRVGsyVDZaWGtPTEc3dWlzNmMyemR4MlBacFNqeGhXcTlxMmZZdw?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION",
+    "GOLD"
    ]
   },
   {
@@ -157,6 +230,15 @@
    ]
   },
   {
+   "title": "Warsh Puts a Spotlight on AI Financing’s Vulnerability to Fed Policy",
+   "source": "Bloomberg",
+   "time": "2026-10-29T11:10:32Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR1JxbVRPLXRpVDVuNEdBQnFSTU1jMmZuQThOTE5qcEFRT0tObGsyN2dRTVBBbHhnVU4yYUVoZGNONDFaeUhhdFVDb1BlNFZSZUZuOTVsTkczQTJkNy03Z3dPZk01M2QxMzNUdUhrY19WcE04X3UyWDNTUVp3S2F6SXBuV1gyZGZPSFNMWTdxSkd3V1k0NndHVmJkcGZxMkRUTTZua0NnTWJDUWFZdWlocUI4ZVJ2ZlM4a3RWNW1iSQ?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "Putin praises Elon Musk as a ‘genius’ as Russia develops Starlink alternative",
    "source": "CNBC",
    "time": "2026-10-29T11:04:27Z",
@@ -166,12 +248,21 @@
    ]
   },
   {
-   "title": "Warsh Puts a Spotlight on AI Financing’s Vulnerability to Fed Policy",
-   "source": "Bloomberg",
-   "time": "2026-10-29T11:00:01Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR1JxbVRPLXRpVDVuNEdBQnFSTU1jMmZuQThOTE5qcEFRT0tObGsyN2dRTVBBbHhnVU4yYUVoZGNONDFaeUhhdFVDb1BlNFZSZUZuOTVsTkczQTJkNy03Z3dPZk01M2QxMzNUdUhrY19WcE04X3UyWDNTUVp3S2F6SXBuV1gyZGZPSFNMWTdxSkd3V1k0NndHVmJkcGZxMkRUTTZua0NnTWJDUWFZdWlocUI4ZVJ2ZlM4a3RWNW1iSQ?oc=5",
+   "title": "Japan and US strike deal on missile assembly as Tokyo expands long-range arsenal",
+   "source": "South China Morning Post",
+   "time": "2026-10-29T10:58:58Z",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa0tDQWFuLW5KWmFmR2U4RUpjYTQweWJaR1Nmd3FsQmdaYWM3RkZWTmlDZkNrWXJ4MHotLTYxLXpIdFRMUUFNd0FTczhLaVkxV0ZXRVdxOWVHdUpPMWpKSnZLSk5ySHBoY2thT3pSYURvX2JkYkFEVWdQQk9MMVdGbWcyZUloSldzcUtMRTRFcTdaOHhPRlVtbUZ2OXotN0pNVTVlMHBfRnZOYnJ1dVQxVnVERV9wZnRKS3hhUDhkZnhNejc3VUR5cHFFY9IBywFBVV95cUxPWmVIWEJvZnFobmYyN1duczgycUUxSGVuY05tVlNxdVJDeTZFdFkyY2Vmc2ZMWUphLXNuUDdYQS1BSldEeXVCRjB2RXZvandRTDE5Wnlnem93VjVQbTNBRERMMC1YU0Q5SHc2UER3NW1STkVLbFZuYVZOMUpwQVJIUW56bU1DY0h2TktmLUZEY2ZkaUh3cFVMODJRUUJIaWxEdU5LbEFsTk8yN1Y4R05hTmx3WVhhUExTa01Fdk9YMkZFNlZaWTZRTndKMA?oc=5",
    "tags": [
-    "FED"
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US-Israel war on Iran",
+   "source": "The Guardian",
+   "time": "2026-10-29T10:49:43Z",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LSVFkclU2MmJEVzNmZUhwajZUQ3JQSjRWSzZrdFlueFBSZEl3Ql81eWZfVVZNbmtMXzJpWFBQNXViRjYyaGt5YTU5bkxYOW5xSV9vNUhiQXhTYmZKamZkLTBsYk50dw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -208,15 +299,6 @@
    "link": "https://www.aljazeera.com/sports/2026/10/29/kylian-mbappe-real-madrid-and-la-liga-face-long-redemption-road-in-china?traffic_source=rss",
    "tags": [
     "CHINA"
-   ]
-  },
-  {
-   "title": "Iran’s hidden web of military agencies is slipping hardware past the US blockade",
-   "source": "Reuters",
-   "time": "2026-10-29T10:28:57Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWDdNT2d1X203WGstY0tRd0xFeXFhWlBQVmlXM2hRRXdzZHQ3UmszXzNXcVE3LTB5TWhUcXJwWUVlSi15cGFUNVFqd2xTNllBQm9PdlphUVQ3bU1pOTI5dUtGb3pZYUstMmpaa2hzbk5RXzd2bVp5YmlhR19nYkNJTjdfTG11amxxZ0dOWXBveEowTC1wRHozRWxPYUx5OXo2TWpjdHRnOXc5eTRQWXN6S2RyWVUxVF8wMGk0?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -299,6 +381,15 @@
    ]
   },
   {
+   "title": "America Needs Canada’s Aluminum. Trump’s Tariff Exposed Just How Badly.",
+   "source": "WSJ",
+   "time": "2026-10-29T10:02:07Z",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jbzVnMndsNlQxclpucDhubXk1UlpfVVNoc2s0RVUtbS0ycmw4bURxZ25DV2lSZ01iUVVxOEVwc09GTVpLM3JOa2prei1vWS13aXhkWTFwb1JzNnpUS0NxZjJTLU83LTQzd3FqN2FteXdsbmtI?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "ECB President Lagarde to step down on 7 February 2027",
    "source": "ECB",
    "time": "2026-10-29T10:00:00Z",
@@ -306,13 +397,6 @@
    "tags": [
     "ECB"
    ]
-  },
-  {
-   "title": "Nasdaq futures fall 1% as Alphabet results intensify AI spending fears",
-   "source": "Reuters",
-   "time": "2026-10-29T09:58:03Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
-   "tags": []
   },
   {
    "title": "U.S. Treasury, European Bond Yields Fall After Fed Decision, Ahead of ECB Meeting",
@@ -370,6 +454,15 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
+   ]
+  },
+  {
+   "title": "I Went Home to Long Island to Find Out How the Iran War Is Shaping the Midterms",
+   "source": "WSJ",
+   "time": "2026-10-29T09:19:18Z",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb0p4WWpzemhQQmVIVGxPaHNEUVgwc2xtSnpWenBaV1V5SE9jTmRHRWprcXZrbU4wYjlWMmJPUWpBN19lSG1IcTR5RjAwLWhaNm1fWUxhcTdWTUJqNWtROGh2N1JpRFozY3VzTjJGNzhuMXl1Y21lUTh1WHZmUEpiSWh0M3Vsa3hiWlpLUGJLSWZPTl8tcWRiX1FvV01tRVB2bFVwVHVnNTJ0ZzBlaUU4d1lnNkpzQ1dmZFluZUNCODB0d2dHUElVdWdNdUs2ZlVqNjRGeTlMaHB0V3Jfc0dQbzh3clowbWxGeXNIZE9nWWk?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -443,15 +536,6 @@
    "tags": [
     "FED",
     "INFLATION"
-   ]
-  },
-  {
-   "title": "I Went Home to Long Island to Find Out How the Iran War Is Shaping the Midterms",
-   "source": "WSJ",
-   "time": "2026-10-29T09:02:16Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN19NMnh6ZmxYZHlfNlZ5Z2V4MnNqbjlucFNUVmVad093UFU0RGNFd3pTNWZyQWd6eXo5eGFtS1ptd1NnWkdXS0VDeXNUY0FCRGNqVHotZWxVLTVZMnpjYldZVFhCQUowMF9mcURLaTF2aVhGMVJLcGNXNU5hb0pmM3hRXzFxejlya2Vqbm5NQVBGVWhWeElsRzJxb1l4aFk4R09idVUybTA2Mlc5RF9OZEV6eWtvbm4wNzdfT0pRQ2JObURZbUE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -547,24 +631,6 @@
    ]
   },
   {
-   "title": "US-Israel war on Iran",
-   "source": "The Guardian",
-   "time": "2026-10-29T08:46:26Z",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LSVFkclU2MmJEVzNmZUhwajZUQ3JQSjRWSzZrdFlueFBSZEl3Ql81eWZfVVZNbmtMXzJpWFBQNXViRjYyaGt5YTU5bkxYOW5xSV9vNUhiQXhTYmZKamZkLTBsYk50dw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "America Needs Canada’s Aluminum. Trump’s Tariff Exposed Just How Badly.",
-   "source": "WSJ",
-   "time": "2026-10-29T08:32:06Z",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jbzVnMndsNlQxclpucDhubXk1UlpfVVNoc2s0RVUtbS0ycmw4bURxZ25DV2lSZ01iUVVxOEVwc09GTVpLM3JOa2prei1vWS13aXhkWTFwb1JzNnpUS0NxZjJTLU83LTQzd3FqN2FteXdsbmtI?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
    "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
    "source": "BBC",
    "time": "2026-10-29T08:23:31Z",
@@ -614,67 +680,6 @@
    "source": "Al Jazeera",
    "time": "2026-10-29T07:59:36Z",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzN0dVNJQ1U3bGptWHNyNmFsNDBMdF9qaW84MGtyaVEwVmZrUm1xZEtsS2J3eUVjQVktdWlPR3pMQlc1MkM4WTRmSGFYamJLNUN0eUZub0VGbldzcWVOVHo5eWNiVU9EWl83MmFhb0FIM3JhU3hRX01oTDRnYkhhekRwVW9BM2M2eGZZ0gGQAUFVX3lxTE9RNFo1S3I3YVhDdVBNS2l5LTloUHRCeHVqd0lFRjNfOGZrRlNkQ3FCbkdpV25adVVOOFdrbDduVFFOejZWS3VGR0JUVTBpWk5DRjJ1THdEcVR3anoxVTNaOERhTnVPTC16REFjdW1IM3duS092ZUtGaDViWkx1Sk41cFB0R1lhZkZCV3poemlxYw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Australia considering Iron Dome's Tamir interceptor for missile defense",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-29T07:59:03Z",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGRllmZnFnenUycE5TYUZkQ2F5YXh2N2ZNV19kTTB0QXlsSXI5VUpUTkZnSkFlZEljNVI1S3VXc2Nua1NDNFpyVkJyVHdmUkNVWi1LZWM5V2NFNVZwWkdnTF9Fcw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
-   "source": "BBC",
-   "time": "2026-10-29T07:54:33Z",
-   "link": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "India 10Y Yield Eases from Over 3-Year High",
-   "source": "TradingView",
-   "time": "2026-10-29T07:54:01Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV2hCemVweEFGMUNiNTMxMV9ITHljNnJrdGJ4cThnY0x1UVBwX3FsRzg5QUh5T2tuSzN1QVF3RnA4T2g2dTVqVDRxS2ZadWVtX3BvcGZROGJ3djRVMTVNcE9RT1NoSVVyVzdDV2VSZ0JRQlY3ck83d0VhM1R5VWlpb0VKcGg5Zno1S3R1T1hkRjMwVUluX09DMkh3?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Japan and US strike deal on missile assembly as Tokyo expands long-range arsenal",
-   "source": "South China Morning Post",
-   "time": "2026-10-29T07:53:28Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa0tDQWFuLW5KWmFmR2U4RUpjYTQweWJaR1Nmd3FsQmdaYWM3RkZWTmlDZkNrWXJ4MHotLTYxLXpIdFRMUUFNd0FTczhLaVkxV0ZXRVdxOWVHdUpPMWpKSnZLSk5ySHBoY2thT3pSYURvX2JkYkFEVWdQQk9MMVdGbWcyZUloSldzcUtMRTRFcTdaOHhPRlVtbUZ2OXotN0pNVTVlMHBfRnZOYnJ1dVQxVnVERV9wZnRKS3hhUDhkZnhNejc3VUR5cHFFY9IBywFBVV95cUxPWmVIWEJvZnFobmYyN1duczgycUUxSGVuY05tVlNxdVJDeTZFdFkyY2Vmc2ZMWUphLXNuUDdYQS1BSldEeXVCRjB2RXZvandRTDE5Wnlnem93VjVQbTNBRERMMC1YU0Q5SHc2UER3NW1STkVLbFZuYVZOMUpwQVJIUW56bU1DY0h2TktmLUZEY2ZkaUh3cFVMODJRUUJIaWxEdU5LbEFsTk8yN1Y4R05hTmx3WVhhUExTa01Fdk9YMkZFNlZaWTZRTndKMA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Former US officials call on 2028 candidates to denounce Biden’s Gaza policy",
-   "source": "Al Jazeera",
-   "time": "2026-10-29T07:41:04Z",
-   "link": "https://www.aljazeera.com/news/2026/10/29/former-us-officials-call-on-2028-candidates-to-denounce-bidens-gaza-policy?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Switzerland looking at Barak MX, SAMP/T NG for missile defense",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-29T07:40:01Z",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zcS1BV1dnaTExdFEzTDlmMHV1eDJvbS0xY3RsSXhRVV9hZkdPd2QwejA3ZjFTS3RJdHRfaWY5LUpXZkc3SHNsSElsWmFHdEFETV9MUTFzdy1YSl9JMnpjTDZlSQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Israeli soldier visiting UK faces war crimes complaint",
-   "source": "Al Jazeera",
-   "time": "2026-10-29T07:36:07Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFY1dkgwNVZueWhZeGNhZi14ZTZZdGVKUGZ1blpZSUR2MENsRlZFcEZSdXB4eE5ySUNXYncxaUNBNVhxaE1jM1QxWmZIblU2c0IycWpIV1dQVFBSNFZiZEpSTHpua1pjTHNRWV9SZXEzTHIybzNET0tqSDlJYUtzZ0hVazRtVXh4bWhQNGFJNlAwazBPQ1JKN051NUnSAaIBQVVfeXFMTUZhTkI1VFdyX3padVNMRTZGcnpHUDMycHYwckpUYlVIeXAwQldlU0wyYy1RY2VVREZmamI1Sldna2MzN3VPbnBnaDdpWmRrcV9XRFNLR0VadG9tMkdBbXpUc05BUVRxd3NQQ3hpdXUzYjZ2YTVxaVdaMzFmMGlXcUkyQTFYQUFYa1pFaGZQanh3MHRTenhNVGp0eVM4LTFyTDF3?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
