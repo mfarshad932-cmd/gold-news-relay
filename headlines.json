@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T15:02:53Z",
+ "generatedAt": "2026-10-29T15:31:15Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 2
   },
   "cnbc": {
    "http": 200,
@@ -61,7 +61,7 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 42,
+   "items": 44,
    "kept": 1
   },
   "bbc_world": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -81,32 +81,32 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 32,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 52,
+   "items": 53,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 27,
+   "items": 25,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 41,
+   "items": 37,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 23,
+   "items": 24,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 19,
+   "items": 20,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 7,
+   "kept": 7
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,60 @@
   }
  },
  "items": [
+  {
+   "title": "FOMC’s forward guidance has caused more problems than it has solved, says Jim Bianco",
+   "source": "Seeking Alpha",
+   "time": "2026-10-29T15:21:22Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdjI3Y2cxTkxJRHNCTE1ZVEhVcV9MZnlsR0NSMmlEaXJWZU5Mb3dkQktac25XYWxOU2pwSVNJak1ZWDhMaU1Zb0Q2YU96enZ4R3ZlMElUVHpNZTNpVVdGblhEQ3lDNGVOODNvLWlRdnJMZ1ZIOV9tdmFtbnpGczYwNVNSd3E5R3lwSnBUVGt4RExDb3g2Rm1JOTJDNW5kYzcyb0dtbnFGSUU2eWJzNFZPc2M2NktJYjFsb2xfc19B?oc=5",
+   "tags": [
+    "FOMC"
+   ]
+  },
+  {
+   "title": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening",
+   "source": "Al Jazeera",
+   "time": "2026-10-29T15:12:36Z",
+   "link": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "How Gold and Silver Are Traded By Different Investor Types",
+   "source": "Investing.com",
+   "time": "2026-10-29T15:06:00Z",
+   "link": "https://www.investing.com/analysis/how-gold-and-silver-are-traded-by-different-investor-types-200690533",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Why Americans can’t buy these world-class EVs",
+   "source": "The Washington Post",
+   "time": "2026-10-29T15:05:52Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTzN1Vk1hZTFneENZNU5qbzJ3emtQTUIxZFVaZmRQTllUMUNoaHJXa2JxdjhscGR0ZHEtY1l2LTlzVjJRcE9jb0llZnhLel9CRklINk4yVEh2MGpZRXZmRXBrWGVhMEVUTC1Beng4cFNmSV9LZ0hFSjU2X3BpOVZZMzdQbWJyMWFmMkJVU2JLVkl0S1YwM0pYZlBzaWdhcWFCX1hJMjFHem5QdXZIaVRaUl9YNGNWdzZITEU5U0tzb2cyNXhhRFVN?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "PHIN: Higher earnings and cash generation outlook face tariff and vehicle-market uncertainty",
+   "source": "TradingView",
+   "time": "2026-10-29T15:04:09Z",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOY3BZVmNNU0R6ckVJNTlubWNjNjgyZlRSYXR6aHR2MnkySDlCWDFaV3VKRHVNUEZTVVQ4bGllTThGM3ZUaTdWWTJxdzlHU2dyNk1ZYWVkV0xKY3FuMGxTXzh4RGpiSXlyX1A0SU5QTUdyaWw0YzlwUUlnRnZwd21IeGsyeXgwUkZFWTgzdHNrZC0tRWQ1SFVyWUpCLVN2cHp1eEROQzR5VjMwZ3NqOXM5cVgyQmpCOG02S2VGNTR2X1R4T3IzMm4zUXNXd204eGt0dW9KNHV2aHdXQUJfdTc5MVp4YktvZUhGQ0ltVXR5bkJlNlZzVGYyamM3enNjVVJwVHFZNw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Consumer spending flattens out after U.S. inflation surge",
+   "source": "MarketWatch",
+   "time": "2026-10-29T15:04:00Z",
+   "link": "https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories",
+   "tags": [
+    "INFLATION"
+   ]
+  },
   {
    "title": "The politics of President Lagarde's European Central Bank early exit — and who could replace her",
    "source": "CNBC",
@@ -379,6 +433,16 @@
    ]
   },
   {
+   "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
+   "source": "The New York Times",
+   "time": "2026-10-29T13:31:26Z",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0duQ2s1THJaQTllWHI4eXh0UEZXVjVLUkdBbUFyaHpERDhqQkxLcnhTRzVQU3k0MW5FeWF4Q25BZnJ4dHZuckZiRHZnN2V4eEljbEZDbFFxZnFZREJnQ29wTHdJSDhfV0FzYkdRQ1NkblZyZDAwTmZOdzhyZFlUc3N6M25CMWt6Y0VQMGZ3QmE?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Federal Reserve holds interest rates steady even as inflation remains high",
    "source": "CBS News",
    "time": "2026-10-29T13:17:34Z",
@@ -397,6 +461,15 @@
    "tags": [
     "RATES",
     "ECB"
+   ]
+  },
+  {
+   "title": "US sanction Rwanda: United States sanction Rwanda defence ministry ova M23 rebels in DR Congo",
+   "source": "BBC",
+   "time": "2026-10-29T13:12:03Z",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfb2tENi0ybW1icG5yNEJnVUtfRVItTUZ3VzItOXBQSXBMekVrMjFaYmlVRUhNM1lEWWt1U3FRZUdKWjJNTlJSMHd4QjRSdWdadklDcVR1Qk5ON3p5enfSAWNBVV95cUxQem8zMFBuVVdCV3EtMDdMekhmQUI5YzRJZlFHQmRxc3JvTkhwaml4ZUtQSEtPVVhEeVRfeUZFeUlUc3ppV1BTSmZtdHNtX2p5U3BRS05jVXQ2aGFpTEJXWGVYQVk?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -468,15 +541,6 @@
    ]
   },
   {
-   "title": "Consumer spending flattens out after inflation surge",
-   "source": "MarketWatch",
-   "time": "2026-10-29T13:01:00Z",
-   "link": "https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
    "title": "US weekly jobless claims hover near 57-year lows",
    "source": "Investing.com",
    "time": "2026-10-29T13:00:41Z",
@@ -495,20 +559,19 @@
    ]
   },
   {
-   "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
-   "source": "The New York Times",
-   "time": "2026-10-29T12:59:35Z",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0duQ2s1THJaQTllWHI4eXh0UEZXVjVLUkdBbUFyaHpERDhqQkxLcnhTRzVQU3k0MW5FeWF4Q25BZnJ4dHZuckZiRHZnN2V4eEljbEZDbFFxZnFZREJnQ29wTHdJSDhfV0FzYkdRQ1NkblZyZDAwTmZOdzhyZFlUc3N6M25CMWt6Y0VQMGZ3QmE?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
    "title": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
    "source": "Al Jazeera",
    "time": "2026-10-29T12:56:57Z",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXo4WGVRZE9wNk5rWUQzcENPb3lhaVRWSU8wSnN4eE5HT2NNT2tNNHV5czhKaGNKQnRSdVNmenFUaEVraTd0WWZYSG1SdGJGZnlmVXNhZHNNanlhVXRLdmx1TV9oV3lfV1kwUko0VVg4bEoyTzFzOFhkd3l4bXBHSzVHMlVXZmJVRGptMUlrZlFpYTlvcXlLZlBTNHlZaDJRekNjRTRCSG9uSjTSAbABQVVfeXFMUGRIczNfdUtzdlp3Sl85MEtReUNERjA3WjdJbWs0bFl1cVh4bHU1clU3bHk5bEthcUJIb2xOM3RiX0IxdWl2elpwbXVQd0M0dlBnc01LLUs0eDRYQ0cwemR1V1hGcFFEc0x5VE1tajh2eS1aaUNUZ1hpTVNyaFc1NTE4MjJNQkJ3V09MSHdnNlQ1Y1h0NjZrYV8zUE5jOFdYRG9DZ3c2UlNRdDZBdURmNjg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "As war strains Kremlin finances, Putin reaches into more pockets in search of new revenue streams",
+   "source": "AP News",
+   "time": "2026-10-29T12:54:00Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkdacW5ISTg1djZDV3kzbVhqOUVkNXhyQVh2bFJRT25NZ3VpSHBwZlBLZ3l4Q1lWU0lpdUhCY21BOVRMbzJtbmxxeHZ3b3VkQUZPRUNCVXY5OXdpS056emN4VU5VQjgtbFYwVjdSalkxeF84NWxHTGNoeTFlUGJvQlM2bkRaTlFTTnVQa0REX2Q4eGdISkwwdjIyc2tTYjg?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -620,69 +683,6 @@
    "tags": [
     "FED",
     "INFLATION"
-   ]
-  },
-  {
-   "title": "Why is Russia sending fighter jets and air defences to Ethiopia?",
-   "source": "Al Jazeera",
-   "time": "2026-10-29T12:32:49Z",
-   "link": "https://www.aljazeera.com/news/2026/10/29/why-is-russia-sending-fighter-jets-and-air-defences-to-ethiopia?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Core PCE Price Index Steady, Matches Forecast Amid Inflation Watch",
-   "source": "Investing.com",
-   "time": "2026-10-29T12:32:10Z",
-   "link": "https://www.investing.com/news/economic-indicators/core-pce-price-index-steady-matches-forecast-amid-inflation-watch-93CH-4983500",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "US September PCE core inflation +0.5% m/m vs +0.3% expected",
-   "source": "ForexLive",
-   "time": "2026-10-29T12:30:27Z",
-   "link": "https://investinglive.com/news/us-september-pce-core-inflation-m-m-vs-0-3-expected/",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "US initial jobless claims 194K vs 199K expected",
-   "source": "ForexLive",
-   "time": "2026-10-29T12:30:06Z",
-   "link": "https://investinglive.com/news/us-initial-jobless-claims-194k-vs-199k-expected/",
-   "tags": [
-    "JOBS"
-   ]
-  },
-  {
-   "title": "GDP (Advance Estimate), 3rd Quarter 2026",
-   "source": "BEA",
-   "time": "2026-10-29T12:30:00Z",
-   "link": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
-   "tags": [
-    "USD"
-   ]
-  },
-  {
-   "title": "Personal Income and Outlays, September 2026",
-   "source": "BEA",
-   "time": "2026-10-29T12:30:00Z",
-   "link": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "A week of Israel’s lockdown in Hebron: What’s happened, when will it end?",
-   "source": "Al Jazeera",
-   "time": "2026-10-29T12:29:05Z",
-   "link": "https://www.aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
