@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T14:06:09Z",
+ "generatedAt": "2026-10-29T14:34:30Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 4
   },
   "whitehouse": {
    "http": 200,
@@ -81,17 +81,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 28,
+   "items": 27,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 52,
+   "items": 54,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 29,
+   "items": 25,
    "kept": 12
   },
   "gn_war": {
@@ -111,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 9,
+   "kept": 9
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,36 @@
   }
  },
  "items": [
+  {
+   "title": "European Central Bank keeps key interest rate on hold at 2.5%",
+   "source": "CNBC",
+   "time": "2026-10-29T14:18:44Z",
+   "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
+   "tags": [
+    "RATES",
+    "ECB",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Shell profits double to $10.8bn as Iran war pushes up margin on oil",
+   "source": "The Guardian",
+   "time": "2026-10-29T14:14:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUZ5dFJPeFNSVHdMcWlFazJSWmYzVGwwUnZHOGcyQXpyYTlPcTVGXzU0eXJSN0prQ2dHNXBjaWxfWnlLc2RrandVX1JyQ245M2E4UUFYZDFVVUVyU1ZYUTJaQWd3MDZRMkdKRlJxRDZIRXdJREVBWURaUDlWR2RwVVE4MzJTSGlXVXR2Tkk4VW02c2huMFBDM0YyczMwOHBIMnR3aldyZlJFT3dBenc?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+   "source": "CNBC",
+   "time": "2026-10-29T14:11:31Z",
+   "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+   "tags": [
+    "INFLATION"
+   ]
+  },
   {
    "title": "U.S. GDP grows 3.4% in the third quarter as inflation squeeze persists",
    "source": "Investing.com",
@@ -145,6 +175,16 @@
    ]
   },
   {
+   "title": "Gulf Oil Giants Work to Expand Overseas Storage As War Exposes Supply Risks",
+   "source": "WSJ",
+   "time": "2026-10-29T13:56:55Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOFEwQVVzNnVCYUtFWXo0ZktYajNCb2x1bEhySmZPeGZYTGxzWlo2WmY1Z0xSQTNseHh4UmlLcUdXMVZfWnE0bnprNEJ0UUFWdXBqTlNLSmdFQXFmcXdRSC1BUTczbXZmYWJWT2IycnQxY2hkdkdqdXJzVUhjNzZrMjlFMDYydkJXYVR5c0xWc0NKdTQ5TDR0MllSWUJGb21hRUs3S2ZHZmRid2o2V2lKQW42VmpCMW1ZdGpQUlhyMWJCZw?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
    "title": "Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool.",
    "source": "CNBC",
    "time": "2026-10-29T13:51:17Z",
@@ -161,15 +201,6 @@
    "tags": [
     "ECB",
     "CENTRAL_BANK"
-   ]
-  },
-  {
-   "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
-   "source": "CNBC",
-   "time": "2026-10-29T13:50:36Z",
-   "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
-   "tags": [
-    "INFLATION"
    ]
   },
   {
@@ -218,14 +249,22 @@
    ]
   },
   {
-   "title": "European Central Bank keeps key interest rate on hold at 2.5%",
+   "title": "The price of gold today, Oct. 29, 2026 — and the best places to buy",
    "source": "CNBC",
-   "time": "2026-10-29T13:41:39Z",
-   "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
+   "time": "2026-10-29T13:44:20Z",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE40dXYxLXM3eVhRa0hNZUlBcE9ReEY2NGlCdy13bWVVWTJRZlNzaEFSczd3RXZnMGF5eG0xZUhfelVQNWZ6TWpRVjJsTXVEblgzNS1RWFdyb3ZPNGI5UEFIODBtUmRDbURWYjNMdWlnQm5TUdIBd0FVX3lxTFBHbWZ0TkpWcjhsbzIwVkc4Sl9Sczh2dHhublFHRXgtQmh5YkxmQ2hUdEdVSTctX19FaE10NXA0LWotcHN2VVpSNW1GYTd0UUpQRWJKV2k4X04tVEE5eHdLX0Q3cXRCT2ZWWmtGV0duQjJjX0ZySnow?oc=5",
    "tags": [
-    "RATES",
-    "ECB",
-    "CENTRAL_BANK"
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Ford Raises Outlook Even as War, Inflation Exact Mounting Toll (F)",
+   "source": "Bloomberg.com",
+   "time": "2026-10-29T13:39:22Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU29JS3RValdrUlZKXzYzNVQtQ3RqWWNKWkRIeGgtSVN3c09ndC13ZjJzN2thMEhBY2M0M3U4NFRaYWIzQ2tkTkxSV080OVBFVlA0TGZnMW5yZTZ3QUM4M0QtUFRCZ0RDcE12WnJXTF9ETExNX1pOQTNfWEJSdUZoRG5aWmpvWVlSenBMTTViZDM4dW1vRFlxWS1JQlpSMjZ0VGppUDRBQW9RM1JSdmdxa2VB?oc=5",
+   "tags": [
+    "INFLATION",
+    "GEOPOLITICS"
    ]
   },
   {
@@ -238,21 +277,21 @@
    ]
   },
   {
+   "title": "Trump Administration Promised Tariff Relief In Talks To Secure U.S. Audi Factory - WSJ",
+   "source": "TradingView",
+   "time": "2026-10-29T13:37:37Z",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc09BMzFmSHlvUEVPemZOeS05M0NjTG4yRXRkUFpnb3hLYkJkWko3YmluLVk4dU5EaDZWMWpmZ1l3ZWFaeWN1QXBpZEt3NVZSc1VVd3lLeU4wUjc2UWFBZ000SHdjVHM5OV81SklQemp0eGIyUXNtWUJjYWxIMjgxb1RhRUpLV2xwSlhsMXFvejFDOUYzWFJQWnNuUXlOYmVfdEl3UElMMVhmbmlzQVU5YzhwSUNrV3RhRVBZWWlxX2JkMGp6aVlsWl90LUJFaXRfdjJ2V1dvWWVRcmxqWk1kdjB5OUEzWjJV?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Exclusive | Trump Administration Promised Tariff Relief in Talks to Secure U.S. Audi Factory",
    "source": "WSJ",
    "time": "2026-10-29T13:36:00Z",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeUpKcVNybjJHYmNxUVRITlRaVW9qQVdrQjI4MFZvTkJ6bU8tSVNKQzNIWG54bXVMWGl2QzhMX3VpUVdWRERaYlhhNENWcW0yNUJKdWFFVzduQ0pzamh6aWJhQlJDem9JWm1EUUxLQzBjVjBMVTg4MFNHOElhaUptVno3d3dLUUhmMmRKSmMzOVExM0NBaG5yQnZXUlpLQjg4YlpnNTc1bmd5M3BYcmx4MUJpbndqZ2JfMG5MRDZqLWE?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "The price of gold today, Oct. 29, 2026 — and the best places to buy",
-   "source": "CNBC",
-   "time": "2026-10-29T13:29:22Z",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE40dXYxLXM3eVhRa0hNZUlBcE9ReEY2NGlCdy13bWVVWTJRZlNzaEFSczd3RXZnMGF5eG0xZUhfelVQNWZ6TWpRVjJsTXVEblgzNS1RWFdyb3ZPNGI5UEFIODBtUmRDbURWYjNMdWlnQm5TUdIBd0FVX3lxTFBHbWZ0TkpWcjhsbzIwVkc4Sl9Sczh2dHhublFHRXgtQmh5YkxmQ2hUdEdVSTctX19FaE10NXA0LWotcHN2VVpSNW1GYTd0UUpQRWJKV2k4X04tVEE5eHdLX0Q3cXRCT2ZWWmtGV0duQjJjX0ZySnow?oc=5",
-   "tags": [
-    "GOLD"
    ]
   },
   {
@@ -287,6 +326,15 @@
    ]
   },
   {
+   "title": "Inflation Accelerated in October, PCE Index Shows",
+   "source": "The New York Times",
+   "time": "2026-10-29T13:11:39Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1ZoQ3UxNHpZXzFvaHVlV2gtODE5Q2hvby1YSVg5RzE1N1ZRS0ZJbGwzUmxlenBwYUpGV19BQzVZSVhLeG9NUHRHVVhIeWVUeXRzejQ5NmtWZ3kyZmJnUXpvWTI0dGcxVEZCSFpwTk5la3pHZ1FCTDlXUVR1Nk5xWnBmcmw?oc=5",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Gold and Silver Extend Losses After Fed Update: Is a Trend Reversal Near?",
    "source": "Investing.com",
    "time": "2026-10-29T13:08:00Z",
@@ -294,6 +342,15 @@
    "tags": [
     "FED",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Defense Gets Most Mentions in UK Budget Since World War Two",
+   "source": "Bloomberg.com",
+   "time": "2026-10-29T13:07:53Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU1FzY0d5MGZDREtBbTVJanIzRFJkbHU2Tl9XNWxtRm1CS3pVSTZIREwyWlY2dEVGdE90ZmFsV25Ha1d6VURJSG0yYVdpQ1NRZUFSSjU4NjhLWVRMRzRBejJaRnpzR3V0dmZtM05JN3FmTUhOTE1BZDNma3ZDaEh2UmI0eVJkUXU3VWNQdlRtUVNNeGdxajNkTUdSZmY1NnNxMlVJNzNSX2VpRVhwLXNIbkhkVno?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -354,7 +411,7 @@
   {
    "title": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
    "source": "Al Jazeera",
-   "time": "2026-10-29T12:55:51Z",
+   "time": "2026-10-29T12:56:57Z",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXo4WGVRZE9wNk5rWUQzcENPb3lhaVRWSU8wSnN4eE5HT2NNT2tNNHV5czhKaGNKQnRSdVNmenFUaEVraTd0WWZYSG1SdGJGZnlmVXNhZHNNanlhVXRLdmx1TV9oV3lfV1kwUko0VVg4bEoyTzFzOFhkd3l4bXBHSzVHMlVXZmJVRGptMUlrZlFpYTlvcXlLZlBTNHlZaDJRekNjRTRCSG9uSjTSAbABQVVfeXFMUGRIczNfdUtzdlp3Sl85MEtReUNERjA3WjdJbWs0bFl1cVh4bHU1clU3bHk5bEthcUJIb2xOM3RiX0IxdWl2elpwbXVQd0M0dlBnc01LLUs0eDRYQ0cwemR1V1hGcFFEc0x5VE1tajh2eS1aaUNUZ1hpTVNyaFc1NTE4MjJNQkJ3V09MSHdnNlQ1Y1h0NjZrYV8zUE5jOFdYRG9DZ3c2UlNRdDZBdURmNjg?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -439,15 +496,6 @@
    "time": "2026-10-29T12:40:54Z",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
    "tags": []
-  },
-  {
-   "title": "Inflation Accelerated in October, PCE Index Shows",
-   "source": "The New York Times",
-   "time": "2026-10-29T12:38:44Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1ZoQ3UxNHpZXzFvaHVlV2gtODE5Q2hvby1YSVg5RzE1N1ZRS0ZJbGwzUmxlenBwYUpGV19BQzVZSVhLeG9NUHRHVVhIeWVUeXRzejQ5NmtWZ3kyZmJnUXpvWTI0dGcxVEZCSFpwTk5la3pHZ1FCTDlXUVR1Nk5xWnBmcmw?oc=5",
-   "tags": [
-    "INFLATION"
-   ]
   },
   {
    "title": "U.S. Initial Jobless Claims Fall to 194K, Beating Expectations",
@@ -578,19 +626,19 @@
    ]
   },
   {
-   "title": "Caterpillar tumbles as tariff costs, rising inventories overshadow earnings",
-   "source": "TradingView",
+   "title": "Caterpillar tumbles as tariff costs, rising inventories overshadow earnings (CAT:NYSE)",
+   "source": "Seeking Alpha",
    "time": "2026-10-29T12:17:55Z",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSnhqRVhoa0tvTEx1bk9obTRGVUs3MkNRYk1yMGJVNDJPYjRtdEZrX1R1ODFYbnEwRmJBQzZNNGlueXlmdVdJQjhCcXVRcDgxTkZsRy1QTEc5RXdRSG4yUWpaaTRQZjVzR1l6aW1WMmNwMEFMNzU0M3I2dDVzMm5zRFllakp1YXRUSF9yWENZVk1nVUp1b18xLUZhLTI1dEY1NFNObFNmSUFNSGJleEhfcjFGZ0hmb1RmVFdVdG5RdWJJVHhSZU03RDI0U3R4SzZ6WTFJ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzhUWUYtTTJTSzN6eVQ2SldCUHc4YzF5RU1WOFl3RXlKUVlpblp5bXBGMUlycWhXeFJSaFA1eFBYR1FCMHJCUV9iSWxjUTZJQlM5dXU4MFJ2T0MxbDRwek5sbjBFdnNDdXRQRXgyZTFjeXJaUG9GS1Q0WFVuaTNxd3QxNzZzTElRSlRSLXNPTzVtUUFzemRsRlVDd1U3LV9JN3gyQ0lPbm9LbGRYVzk3SEFn?oc=5",
    "tags": [
     "TARIFF"
    ]
   },
   {
-   "title": "Caterpillar tumbles as tariff costs, rising inventories overshadow earnings (CAT:NYSE)",
-   "source": "Seeking Alpha",
+   "title": "Caterpillar tumbles as tariff costs, rising inventories overshadow earnings",
+   "source": "TradingView",
    "time": "2026-10-29T12:17:55Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzhUWUYtTTJTSzN6eVQ2SldCUHc4YzF5RU1WOFl3RXlKUVlpblp5bXBGMUlycWhXeFJSaFA1eFBYR1FCMHJCUV9iSWxjUTZJQlM5dXU4MFJ2T0MxbDRwek5sbjBFdnNDdXRQRXgyZTFjeXJaUG9GS1Q0WFVuaTNxd3QxNzZzTElRSlRSLXNPTzVtUUFzemRsRlVDd1U3LV9JN3gyQ0lPbm9LbGRYVzk3SEFn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSnhqRVhoa0tvTEx1bk9obTRGVUs3MkNRYk1yMGJVNDJPYjRtdEZrX1R1ODFYbnEwRmJBQzZNNGlueXlmdVdJQjhCcXVRcDgxTkZsRy1QTEc5RXdRSG4yUWpaaTRQZjVzR1l6aW1WMmNwMEFMNzU0M3I2dDVzMm5zRFllakp1YXRUSF9yWENZVk1nVUp1b18xLUZhLTI1dEY1NFNObFNmSUFNSGJleEhfcjFGZ0hmb1RmVFdVdG5RdWJJVHhSZU03RDI0U3R4SzZ6WTFJ?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -630,53 +678,6 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZHJRQkZ4aW94OGViVWxSRlJBb1lJZGR3U25SSHdfRmJNNFV2dklvNFRtS0psNDZmUGVVb2c5ZlpqMEN5OUZaenU0X0JQY2NQdEF4RlkzdHd2YUdvN2FMMkdBTHR5dmpDZDdvTU4zR2ZYWjdqTWEtVUgwZUVmVXhnZg?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Stellantis Loses $503 Million As Tariffs Take Effect",
-   "source": "Yahoo Finance",
-   "time": "2026-10-29T12:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHQ5RVRITDVoRnNkcmxoOWs2dGZhZ1k5RHdMOG5ZaTlWbnZqUl9yWjl2dHZjZXlqQkVlTVZOaVV5TXE0bDhLLTlWQ0I4RFBTNXd5ZWEwVXg2eThxaHoxcktQZmdveFh5cThRNEh6N25DNVc5a2l1VkZTZFZZdGV2ZGhsUzEwQmVDd3AyQ0tlTk1tRjdEd1pGVmlXcTlzQmpPcUdn?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Nucor: Tariff Tailwinds And New Capacity Set Up A Stronger 2027 (NYSE:NUE)",
-   "source": "Seeking Alpha",
-   "time": "2026-10-29T11:56:19Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX2dfU3NtQXphamswYXZjWWZ2dk5mYVdzdFZZbXh2ME1NZ2JUSnRHdGJES3VzaGJOdHZqQ2hIRzZHM0YxUjVXeXhnS0U3NXRmLUV1b2NacjZqY3FQWlZhUWdZQkVOWlZKSHFrbDRsMFRndHRqelhlZ2RHSmVQMlB4a1c0aU5HbndEUDNTZW5kRGktYkxSR19ySzUwUzU5QQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold Prices Under Pressure as Iran Peace Hopes Clash With Renewed War Risks",
-   "source": "Investing.com",
-   "time": "2026-10-29T11:49:00Z",
-   "link": "https://www.investing.com/analysis/gold-prices-under-pressure-as-iran-peace-hopes-clash-with-renewed-war-risks-200690520",
-   "tags": [
-    "GEOPOLITICS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’",
-   "source": "Al Jazeera",
-   "time": "2026-10-29T11:47:09Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZk9HcnJxTU44TTZNeDNNbXZzbFJRUk8xSkJ1NDdueGs5UFdBYzlWdTVHQ0x6Vk5rX3BEanZfTk5NNnFYMHRaUnpYSTd6cGdBMjhLWURZZUlVTEdhbDZzUXNnaUNCS0E5UjJKN09xcTB2M1BQdFgtbWZYOGZYd29lVUx0RFBpRnRSd253V0RCbl9YQ2tGWWhGZTI4S2loT3lrWXlvWTdzRmJadGJweE5qbVN30gG3AUFVX3lxTFAtU2c4d0J1NDF2SUtocUxNNDFqcWhUeGwwZ0pKMEJEX3pJWEtUMlNHaUdMSjdyTGduMmxnWGFhb1NvWm1WLUpCMDZWWDZWaXNwdlZqTzVnV3lranBuQ3hMR0otd21Wa21xcUQwMXM5MGNaR1VXb0ZhcW5ETHBVM2R3QWVWOXNVNVNaUGZtckJ2SS1pcURpdzJvZlZmR2dDdURRVUdnQ3lqUXk3TkdvajBuOUpCZEl1WQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The Federal Reserve holds rates and two officials vote for a hike: Why the US Dollar stayed flat anyway",
-   "source": "FXStreet",
-   "time": "2026-10-29T11:42:42Z",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNd2N6RThaOXNPR2VJU0xEcllvdy1qcWtTYmlLSm1MSHFPNl9MUEl6bjhBaWQzalR5RFpLRXczdjU0Wl9HbHpfMUl2VXVBUEpNR1M4dGx4VnFEQkRTTGkwaGJ2Z1FCSl9Vc2RxdUJZYWlMWXFXYTJxeTEtUTE2a0lDVGExTUxHZmhGdE5LRjBERGN3aGhoMlZSekJFWmpNTl9SZ2RxNjUwZTl3T0tJRUN1eENJcWdEOHlURXhiNjhObXVyQkdMc2xvbkxrTmVaVHRNell1Ry1XZGsyVVNvU0E?oc=5",
-   "tags": [
-    "FED",
-    "USD"
    ]
   }
  ],
