@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T12:12:39Z",
+ "generatedAt": "2026-10-29T12:41:02Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -25,8 +25,8 @@
   },
   "bea": {
    "http": 200,
-   "items": 48,
-   "kept": 0
+   "items": 49,
+   "kept": 2
   },
   "fxstreet": {
    "http": 403,
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 2
   },
   "cnbc": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -86,17 +86,17 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 51,
+   "items": 49,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 25,
+   "items": 27,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 35,
+   "items": 37,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 21,
+   "items": 24,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 8,
+   "kept": 8
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,6 +126,81 @@
  },
  "items": [
   {
+   "title": "Analysis: Kevin Warsh is keeping his options open — and Wall Street guessing",
+   "source": "CNBC",
+   "time": "2026-10-29T12:38:18Z",
+   "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+   "source": "CNBC",
+   "time": "2026-10-29T12:37:02Z",
+   "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last long with prices still rising.",
+   "source": "MarketWatch",
+   "time": "2026-10-29T12:36:00Z",
+   "link": "https://www.marketwatch.com/story/inflation-surges-pce-shows-fed-pause-on-rate-hikes-unlikely-to-last-long-with-prices-still-rising-79128886?mod=mw_rss_topstories",
+   "tags": [
+    "FED",
+    "RATES",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her",
+   "source": "CNBC",
+   "time": "2026-10-29T12:31:48Z",
+   "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+   "tags": [
+    "ECB",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "GDP (Advance Estimate), 3rd Quarter 2026",
+   "source": "BEA",
+   "time": "2026-10-29T12:30:00Z",
+   "link": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+   "tags": [
+    "USD"
+   ]
+  },
+  {
+   "title": "Personal Income and Outlays, September 2026",
+   "source": "BEA",
+   "time": "2026-10-29T12:30:00Z",
+   "link": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Why my antizionism didn’t survive a Houthi missile",
+   "source": "The Times of Israel",
+   "time": "2026-10-29T12:19:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRE5GdUd5OWVlSXlJcU5fbkt4ZjZVbDBsRV8yYm1zSFBCNDRvSTJISzlXaU9xeTNxcC1kMzc1SlNneXRkaUJLQ1E5VUctYkstQXM3R3RHeld4Q0daS0N2MVc5VVBramhRMFoxVlk0WTNobEZyX0FkcUR6SmtQSlN1Rm5UamM2Y3ZzN3c?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Caterpillar tumbles as tariff costs, rising inventories overshadow earnings (CAT:NYSE)",
+   "source": "Seeking Alpha",
+   "time": "2026-10-29T12:17:55Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzhUWUYtTTJTSzN6eVQ2SldCUHc4YzF5RU1WOFl3RXlKUVlpblp5bXBGMUlycWhXeFJSaFA1eFBYR1FCMHJCUV9iSWxjUTZJQlM5dXU4MFJ2T0MxbDRwek5sbjBFdnNDdXRQRXgyZTFjeXJaUG9GS1Q0WFVuaTNxd3QxNzZzTElRSlRSLXNPTzVtUUFzemRsRlVDd1U3LV9JN3gyQ0lPbm9LbGRYVzk3SEFn?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
    "source": "CNBC",
    "time": "2026-10-29T12:06:03Z",
@@ -135,13 +210,12 @@
    ]
   },
   {
-   "title": "President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her",
-   "source": "CNBC",
-   "time": "2026-10-29T11:59:27Z",
-   "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+   "title": "Stellantis Loses $503 Million As Tariffs Take Effect",
+   "source": "Yahoo Finance",
+   "time": "2026-10-29T12:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHQ5RVRITDVoRnNkcmxoOWs2dGZhZ1k5RHdMOG5ZaTlWbnZqUl9yWjl2dHZjZXlqQkVlTVZOaVV5TXE0bDhLLTlWQ0I4RFBTNXd5ZWEwVXg2eThxaHoxcktQZmdveFh5cThRNEh6N25DNVc5a2l1VkZTZFZZdGV2ZGhsUzEwQmVDd3AyQ0tlTk1tRjdEd1pGVmlXcTlzQmpPcUdn?oc=5",
    "tags": [
-    "ECB",
-    "CENTRAL_BANK"
+    "TARIFF"
    ]
   },
   {
@@ -164,6 +238,15 @@
    ]
   },
   {
+   "title": "Lebanon's Aoun laments lack of progress on ceasefire, IDF withdrawal, urges European support for Lebanese army",
+   "source": "The Times of Israel",
+   "time": "2026-10-29T11:34:48Z",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMUU4eFZHUW1tM0pXV1lRclF5ZmNpMkF2Q2o5emRRamxmSWZkbkVtN0lGellidS1VcDk5QWZnLWhjYV9LQ29nSjQ2SENNU2N5OFlwV2ZSYkZBbEtSQkQ5UFZTR0JqdXp0MlBoREVwekZyM0RwR0lLak80LU9scVdub1BRYU92cFdZb20yS1RhcVZweW5JNnMybkNaZGJHcjJ2V0VIWW1TcDBvTDlSa0llWjJ6VkxMTTgzbmpSamhITk9lNkhZRXR3d2xlR1pxYkxjNF9sQV9CV3M1akxrb01Ja1pMcEFDTjdv?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
    "source": "BBC",
    "time": "2026-10-29T11:34:03Z",
@@ -180,6 +263,15 @@
    "tags": []
   },
   {
+   "title": "TotalEnergies Profit Doubles as War Boosts Refining and Trading",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "time": "2026-10-29T11:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSlZxMkNqbmU5TmhPeDZDeERPdjZMTnhiTF9VSzhRS0J3YVlZSndTODk2V3NqSXpxOUVGQ2dRRkhGTF96RUMwRXNRdmFYQXJ0Zkw1LXN3NGoySVlMWkp0MFRqdk5LUmJfYm5xWGRWZDFXbzZYa0hDZlNUWXVIdWN0X0hFSlhtX2VmMlRjSnRTS3NGeHNLbUNzMTkyeEEzVnBjTmFHU0xveldFSXJzaGJXQ3hsTUVxWmxrSWJR0gHAAUFVX3lxTE1MQ2xsLXE5QW1UcVRTYVRmMjBCR0ZLTG84dUl3ckc3ODFaNWlWQnEzelFxYXVaZkZBdHNtaG92N0dlM0RMWGthcE9UOWh2RGRjV3pOd0xQWWlKUk9jRV9JUmpySm45OWNENTlDd3h4enJ3VTFlOUtOMWY4ZF9zNXJpVlJMUnRoSGFqanVjbkMtWnQxcFVwV0laN2pKenBaaURnOVREd0hnLUlqcHh6SFowQi1TVHBZOGhHdnJNM1hYNg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Israel’s election rhetoric: What candidates said, and how they performed",
    "source": "Al Jazeera",
    "time": "2026-10-29T11:27:22Z",
@@ -191,7 +283,7 @@
   {
    "title": "Treasury Sanctions Facilitators Of NKorean IT Worker Fraud Targeting US Businesses",
    "source": "RTTNews",
-   "time": "2026-10-29T11:22:41Z",
+   "time": "2026-10-29T11:22:44Z",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVlM5dlZEUS1zMHY1eWs2Vkl6OUZnMFdEbDNRVFFDNzRJMVN5aFBhdEQ3YV9MZnhOVG1lTno2SnFNRnFfUTR5OVhhNUtxak12U0pmLW8yd3JjUkNxMU9tTmg4Z0d2Q1FMbzZ5eUV0Z01qdThSWkdmSTBEZjRvOS00dU5PVndzRnQyWFpwSzNZOUhfcWlGSzEzSGg1YUd1RmlTV3RzbmFHSTBKNk9yMll1eURwVzNkRkpRbzdR?oc=5",
    "tags": [
     "SANCTIONS"
@@ -208,7 +300,7 @@
   },
   {
    "title": "Gold Edges Lower After Fed Holds Rates With Limited Guidance",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "time": "2026-10-29T11:21:18Z",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzc5eDBRUXkxOGFMamVVSDgwYW50VUV2anJjUGhKTzVTRjZpTDhoQWpTcXV6bXlWY19CMTF6cXBSenJMOGswaVFmVGtDeDNpcXowbG9XVExVN000aDMxMjZQWnJRbjQ0blBYTUwzclB6M3E3QS1zSEptcUR6elJZWUxVTHB2bFdJUWtrVjN3cDE1S2ZkRWhGWkhqbWh6VkJaTFIyN1BCZXpBd24xUEVrNw?oc=5",
    "tags": [
@@ -412,6 +504,16 @@
    ]
   },
   {
+   "title": "Gold Price Forecast: Dow Ratio Warns of More Downside as Yields Rise",
+   "source": "FXEmpire",
+   "time": "2026-10-29T10:10:03Z",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmlXb2NPU2NsUlNBSmR4dnBLN3BXeXFXX2JFempMa1dPSXNSZDJONTFvUld0cm5BVTFMZWRFNm93b3A2el9GREtiUWtpUkFldTJjN2JHeFZSOGJxNU1xc1YwU0lvTkU0MmtEdVlrQlJ6ZnlVd2tuSUdvX2l6UnFNS3JPanVmOE93WUxjc1lvSnYtMjFLZExXbllsclE3aEhIcVgxQ0FrWGxuc3VNaldGajkzTVRsTXotYVZLNmkwajhqS0Rj?oc=5",
+   "tags": [
+    "YIELDS",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Oil Prices Fall as Vance Moves to Restart Iran Peace Talks",
    "source": "Investing.com",
    "time": "2026-10-29T10:08:00Z",
@@ -429,6 +531,15 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
+   ]
+  },
+  {
+   "title": "As war strains Kremlin finances, Putin reaches into more pockets in search of new revenue streams",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-29T10:05:22Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2NLOEttNllMMDFjQS1JX25fTGlyLUJxY3FKN0loOEN1cnotQmt4c0hUcEI2MWxXSlBqelE4WTRNXy1JVjRDamRUWXdXRUVyaU9RT09RQkFMZzNtQVZtbFhEQWlCLUMzZGZacldONWotb1hyNDRlSS01a2gtREVRUEZRemh4X19zTjR2Q0gxV0UwazBQRmVrNkJrUkpaa3psLVBiUHpaR3RuQdIBrwFBVV95cUxPc1BQSmhoOWVVVVBlRUQ4WUtZbDN5by1HNEZ3VE9WeEFfY0tXMzhxeTlGc0dsbU4ydkFYS2tnSlYxN3Fma3NtS2ZsR1plcThVYmI0eTVnSFZWZEtuU1l4dE5oQmZWS2Z4QTZwRWxwNHVZRlQ3TF9ObkI4cXZDUk5BRmdGeGpBVHFJa1pIU1pDMm1IVXJ4dVFUMG1KelFYbDNVYUhyaDVlUHlOalFkV0Rn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -470,6 +581,15 @@
    "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
    "tags": [
     "ECB"
+   ]
+  },
+  {
+   "title": "Founder of the doomed 'never-ending' cruise speaks out: 'I'm the villain in the story, but I'm doing everything I can'",
+   "source": "Business Insider",
+   "time": "2026-10-29T10:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTmdVZ1ItUkJxSWJaMDI5ZmExSUMxdzBSSldoRWpYMGNYb1BjZndXdC1jMDlVcnZ6UzMzd0hRMjZPeEN6SnJqVUotZGtjSk5kZlhUd3pHN2tITUFRUXdYOTVaaFI2SHBTNU5CeEE5THo3UDNneGdXVzZNQnBZaktZbGVkY3k0TFhXVjFWQkpkTlMzSWt5MFFLaVUydkN0YzQtLWc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -562,128 +682,6 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRjBmZURZaDBSUUczY3pnb292MXFNbVNtN0ZUcjNxaEhHZ005US1GWEI0ajljVTRMdTM0WTAtSHFSX3BhcVZEb2tWOV9VZWJEMDNNOThTTXRrVUlOVzI3VW5wZEpJTzFKSjRlME9FdmZfNXhsS3dzZkFvbW5HanhMcWZGb1ZBNDJkRnBpVkFIdkRGcjA?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold’s Recovery Faces a Test as Markets Price In a December Fed Rate Hike",
-   "source": "Investing.com",
-   "time": "2026-10-29T09:09:00Z",
-   "link": "https://www.investing.com/analysis/golds-recovery-faces-a-test-as-markets-price-in-a-december-fed-rate-hike-200690502",
-   "tags": [
-    "FED",
-    "RATES",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "How could Israel break election deadlock? Here are four scenarios",
-   "source": "BBC",
-   "time": "2026-10-29T09:06:48Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Founder of the doomed 'never-ending' cruise speaks out: 'I'm the villain in the story, but I'm doing everything I can'",
-   "source": "Business Insider",
-   "time": "2026-10-29T09:04:08Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTmdVZ1ItUkJxSWJaMDI5ZmExSUMxdzBSSldoRWpYMGNYb1BjZndXdC1jMDlVcnZ6UzMzd0hRMjZPeEN6SnJqVUotZGtjSk5kZlhUd3pHN2tITUFRUXdYOTVaaFI2SHBTNU5CeEE5THo3UDNneGdXVzZNQnBZaktZbGVkY3k0TFhXVjFWQkpkTlMzSWt5MFFLaVUydkN0YzQtLWc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump administration in ongoing talks for a temporary peace deal with Iran - Semafor",
-   "source": "ForexLive",
-   "time": "2026-10-29T09:03:54Z",
-   "link": "https://investinglive.com/news/trump-administration-in-ongoing-talks-for-a-temporary-peace-deal-with-iran-semafor/",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
-   "source": "The New York Times",
-   "time": "2026-10-29T09:03:21Z",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0duQ2s1THJaQTllWHI4eXh0UEZXVjVLUkdBbUFyaHpERDhqQkxLcnhTRzVQU3k0MW5FeWF4Q25BZnJ4dHZuckZiRHZnN2V4eEljbEZDbFFxZnFZREJnQ29wTHdJSDhfV0FzYkdRQ1NkblZyZDAwTmZOdzhyZFlUc3N6M25CMWt6Y0VQMGZ3QmE?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "How AI drones are influencing the course of the Ukraine war",
-   "source": "NPR",
-   "time": "2026-10-29T09:02:00Z",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qdXhNZHo1TFh4QmdLbVVmc3dZdlZRVEUwak9VT3lSUVBPNndwMUQ2c1BGcVJJd2N2TUs3OW1wTWNiTVM5TGc4aU01eEFDMTNXY2FrMVIzMTNOS2pic3dXQjdKWnFJYWV2alEyM3UyV1NWaVg5Z3l2d09zTQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Obama and Trump spar at rallies in Georgia and Ohio: Key takeaways",
-   "source": "Al Jazeera",
-   "time": "2026-10-29T09:01:39Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdmVfakdVc0pOTjhBdWtISTlFczZDLTJndnB6a2tHMkFFT3VGMkg2T0ZZdFJPcGs3MXNFRXNiM3AwWTZLc3p3OUZBcTE1RWVWYjJDN1k2RVFjSldTT2VYZ2VlVjJyQUp5VGtoQWx2Z1BEdTlxRmhtdmZscml5bTd0cEVyUVNGOEkwaHRPV1h6UUhOaHdWUGZWbVRKaHlnUdIBowFBVV95cUxOckZwc1gydXNxVmppNWY4VmJ1aFQxRV9ock83eE9RSy1KWXctWTY1QTdndkd6cU9jMUgxU2xUT3M5cm11LW5pVHR2dHVWRng4NkpuNjY0WlRxVTVITnh5YVFUMnZRcUc4QlZ3VHg5ZWkzUlVkQlVLOEdJTWtIZEJpa1lsbW5lTnl5YmROc1lVY2FmUHJTc3ZoV2hrYWpGRUl0RmVF?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Warsh’s AI Optimism May Box Him In at the Fed",
-   "source": "Bloomberg",
-   "time": "2026-10-29T09:00:15Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOXVva3ZTOGhrVDZQeV9OSzZQcTJDS292VVRCRHBDdTNkRWhDQVhOYXBPeGl4TDdqaUxObEtjODhTc2swTk9KWHJpLVJib0V6YVZkNV96M2ZUci1FSl9jRThlbmkwcVZPekRXaEdScE9xYlVjQVFpcXFyRDlNMEQtV2VfUEhnejZzS0xnT2ZHbWJCT3R1NHpsbVhGVEpxNUhPNG5kYnRSN21peGdKcFM3LUNVS3d5dEppQ1RnRVAxRQ?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
-   "source": "CNBC",
-   "time": "2026-10-29T09:00:01Z",
-   "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Tariffs, diesel and computer chips are driving up costs for automakers",
-   "source": "NPR",
-   "time": "2026-10-29T09:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcExubXhWUXVfWjlZLTFIUzRYaG41dmJwMzhGM0hGd051RjJfQ2xXclJQaGVTNnpHS0JFTTBvc0VwczJtREtFdzRIMzNac1EyeG5LdHdCdEQtRThLQnNNZVhMMUhoVmpkNURKUGFJY3dmWXdIUi04ZXBuX21yYTBtZ2xfOGtQYzhITWx5eFpZR2FwMDctT01ILTdVVQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "North Koreans being recruited into forced labour in Russia, report says",
-   "source": "Al Jazeera",
-   "time": "2026-10-29T08:58:57Z",
-   "link": "https://www.aljazeera.com/economy/2026/10/29/north-koreans-being-recruited-into-forced-labour-in-russia-report-says?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold and Silver Price Forecast: Dollar Strength Threatens Rebound",
-   "source": "FXEmpire",
-   "time": "2026-10-29T08:55:24Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUEFYaWNfSVdLbnFaaGVnZW03TkJYdlZUQjk5R1VCTnlFMUdOLWlDT213MU5NTlR0UGtQYXhsYUdERy1Nc2hzZVU0YTdrQlI5TjBENWtCdTQ4OUUzQ3BHZmFmdnR1dXF2SzRyWlJYalJ5emhRa1pyd3BxOHhMbXlxU2hxaGwxTF81ckdCOUdIZzRCejEtYTJKaTc3ZE5mZ0pOWm5YWm9zY1pRNzRDUFNHOUhRMVZrZw?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Price Forecast: Dow Ratio Warns of More Downside as Yields Rise",
-   "source": "FXEmpire",
-   "time": "2026-10-29T08:50:15Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmlXb2NPU2NsUlNBSmR4dnBLN3BXeXFXX2JFempMa1dPSXNSZDJONTFvUld0cm5BVTFMZWRFNm93b3A2el9GREtiUWtpUkFldTJjN2JHeFZSOGJxNU1xc1YwU0lvTkU0MmtEdVlrQlJ6ZnlVd2tuSUdvX2l6UnFNS3JPanVmOE93WUxjc1lvSnYtMjFLZExXbllsclE3aEhIcVgxQ0FrWGxuc3VNaldGajkzTVRsTXotYVZLNmkwajhqS0Rj?oc=5",
-   "tags": [
-    "YIELDS",
-    "GOLD"
    ]
   }
  ],
