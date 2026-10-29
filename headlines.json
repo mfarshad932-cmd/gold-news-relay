@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-10-29T06:04:22Z",
+ "generatedAt": "2026-10-29T06:32:43Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 1
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -61,8 +62,8 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 52,
-   "kept": 3
+   "items": 39,
+   "kept": 1
   },
   "bbc_world": {
    "http": 200,
@@ -72,7 +73,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 3
+   "kept": 4
   },
   "whitehouse": {
    "http": 200,
@@ -86,7 +87,7 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 45,
+   "items": 43,
    "kept": 12
   },
   "gn_tariff": {
@@ -101,12 +102,12 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 22,
+   "items": 23,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 25,
+   "items": 23,
    "kept": 12
   },
   "gn_oil": {
@@ -126,10 +127,29 @@
  },
  "items": [
   {
+   "title": "Russia and US discussing sanctions relief for Moscow’s sovereign wealth fund, Kremlin aide says",
+   "source": "CNN",
+   "time": "2026-10-29T06:26:29Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX3RtTjdiTklWeVlfbTUwdFowWHJBZzl4dG43UEd3c0RVLUpNYk05RG41SlNtUVdMNFR3bHg4MTlNS3BEeDdiSXVuZnNwcUZ2RGFFYWxFYXFFLTBDUE5rbkthaldwMVotX21WWk45YWhZQ3ZSTHY0ZFpvcWxueTBqcThxWlBDZHBFaGc?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "Vance makes Tehran outreach as Middle East braces for resumption of Iran war",
    "source": "The Washington Post",
-   "time": "2026-10-29T05:46:54Z",
+   "time": "2026-10-29T06:11:39Z",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQUg3U20teGRmUGJTMVJrb29JZl9xOTU0N2tzZEVHY2xxMzVtTDZ6UmFDc01JbGhTVUlwOVZUOC1PVEQwLWpkMld4Qk1hbUZvelI2UUVSOEg5YUZYWGNfdnE2Z2xFNWYwMHN0UDRfVHE0T0ZMckp6bzRXdnIza2U1a1BPM3BjTDdKYnZ2eVhPaHR1c3NRTzlwWldmUXJjSkg2NFdUdGQwWQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russia’s alleged sabotage campaign in Europe raises fears of escalation",
+   "source": "Al Jazeera",
+   "time": "2026-10-29T06:10:31Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjAwZ0FOM1JnQjNmcC1vV3BTbUtUSGdHUTNRN0lpNy1QNG9uZ2ItMHU4S1hCYjk1OHU2VGFkOUV3YnZsSkllM1lCNmFxdUdib2wyOU1oeUc1X204bkpFUFNRQzlFUG9Jd3RYeC10bkZzOGJ2ekFXWjJHZHJIUWxhbmR4eFltZ0xsUi1tQ1ZnRy1lUThtRjFvZGdoSHF0bXZIRDFFZ1A5TldBV0dpcGhvcVNn0gG3AUFVX3lxTFBjMUZ2NkZWQmhfLTFtdnVJVVJjZDlQb0FUSmxKazRUejlyX0d4VGladzdseWpQd0ZHNHBlSWZNNlY3Z0stLXB2SS1VekJ4TjFQS0IyNmpfV0l0NS1VLUZ2TlZJam9kNzJFNU4yVENOTkN6Q2txNV9sR01ITW5HTmJMc2dtT1hhc09lLUtiTlM3RDBXbF8zLUFscnIzNUgtbW1rMy02a3VhbWdVbmo5dUNyZm9YNmtTTQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -156,7 +176,7 @@
    "title": "North Korea fires missile barrage days after rejecting South’s border talks",
    "source": "South China Morning Post",
    "time": "2026-10-29T05:40:35Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObnBpSXlkSExvSGF6RjcwVTlxZkQwYmJNM3d0elhXSUNjYjYweXBfbHFXbV82enhDWlFvdUFzTWhMRFdyWjdvWW00eTZTWDhaUW9iemQtMUlldExaQ3RJbldObHkya0N4ZEpGRHpSdzgxU2p3b3VvRzRtSmJWUUE2ajBnYlVYeHU3Vy14YVppc3pNb0FMWHpSNV9wc0h6MGJwU0VOd0V5U2Q2RG9qWEctYjVkcC0zSE4wU2E1VzBraVlXVFZTVXZ3QWxOdw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObnBpSXlkSExvSGF6RjcwVTlxZkQwYmJNM3d0elhXSUNjYjYweXBfbHFXbV82enhDWlFvdUFzTWhMRFdyWjdvWW00eTZTWDhaUW9iemQtMUlldExaQ3RJbldObHkya0N4ZEpGRHpSdzgxU2p3b3VvRzRtSmJWUUE2ajBnYlVYeHU3Vy14YVppc3pNb0FMWHpSNV9wc0h6MGJwU0VOd0V5U2Q2RG9qWEctYjVkcC0zSE4wU2E1VzBraVlXVFZTVXZ3QWxOd9IBywFBVV95cUxQdVowYkpYaXdYek5EOE85MEljQmdzaEJwNmxIaFNUOF9PaHRSYV9SWDVLcHZfa0s3alBLTkNiQmJfanQyTmNGYlFONE5uZW1XU0ZOMENDZ3hlenFWOS1yeFZHdFk1ZVE5UzNfYVN4OEQzbERUS1k4b2R6SEE2STdOVXp3NnpsVk9VbDlnX0JoVHhFZTE1TzZRR2lhaEh0OEd1cGRzemlaZUlBNzhHU3RUWEJFYXM4bkJ3b1lZUUgtX2lTYTd4Nks0MWdFcw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -428,7 +448,7 @@
    "title": "China’s microdrama war heats up as Tencent, ByteDance fight for eyeballs",
    "source": "South China Morning Post",
    "time": "2026-10-29T02:00:06Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX2MteDRBRVBIa2taNWRLOUQ3a0F6eU8zc0tqak96MW1BWm0zbmpMeWRWRm5EVzlncEgtalhQQ3RqekF2aXA2ZGNpMUVPUWRlUlBad3gteTNSenEyNHdNVEZ3NlBXTnMyNU05MHdlSGpBSXdMa2VfbTl3RGtGdVRnbEdkSmNLNHNCZExWYXZlLWpaU1pNelF0VXAyMkREODZ2Mmh0YVRZWnhuMG1TLU42SA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX2MteDRBRVBIa2taNWRLOUQ3a0F6eU8zc0tqak96MW1BWm0zbmpMeWRWRm5EVzlncEgtalhQQ3RqekF2aXA2ZGNpMUVPUWRlUlBad3gteTNSenEyNHdNVEZ3NlBXTnMyNU05MHdlSGpBSXdMa2VfbTl3RGtGdVRnbEdkSmNLNHNCZExWYXZlLWpaU1pNelF0VXAyMkREODZ2Mmh0YVRZWnhuMG1TLU42SNIBsAFBVV95cUxOaGhDT0VEaG9ETHBuT2FQeV8yRmU1NDhWV0Z4UzM0NmdONmg4QmtHQVFYZ1phSHh4NFlPbGRpUG1oYnJMU1VhdkJVNm1RRVBNTWR1Qkxjd3BvOVBKYWdGMi1qNkZFVmF2eUtxcmF6QVRMSlBDYXZUWDVXaXJva2ZnbXVnM01ZNy10eHdLYms1by1INUl4Z2Y5VW9GMW1OLUFEUU9QZWtYRG5oU3FVVER5Yw?oc=5",
    "tags": [
     "GEOPOLITICS",
     "CHINA"
@@ -669,24 +689,6 @@
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Fed's policy committee to weigh balance sheet issues early next year, Warsh says",
-   "source": "Reuters",
-   "time": "2026-10-28T23:33:51Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaDZHdmRFaXBHQzZvWXZjZU8xOFRrT0Q1WGx2ekJuQ1hCTV9EbHdTOElZTERXemZwY1o0ZzRZUXR6aDNkM0tOejh1N201SmxqR29NSFE2Q0c5TlJMQ29pZGhvM0E5TVc0UjkyTFVNY1VONjl3WG5WOXJaRElkNEktODF4LXhkaF9YTW5kN01DYUFtcy1hclBQbXFSdk5aSGFJMG8yTWtLd2ZlTnY5Ylp4MmJmWldCNXVZekg5T3FwMEpmSVBCWDFV?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Three times Trump voter on supporting the war | CNN Politics",
-   "source": "CNN",
-   "time": "2026-10-28T23:33:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KXzc2UGltdHZaM0dLTktOeERtUzJEbDZyRnE0MjJKRGROVW5LZ0pJaE1ya0dobWpyaUtMUVUwSFdHdWZkTmxSRXlmaHZtelkySlVCNkZ1ZnBjdTRPRUl6dTk5YXoxY3h0eWwyUjYzNVBHTU15d3hFcEFn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
