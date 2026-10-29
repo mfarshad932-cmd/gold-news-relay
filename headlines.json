@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T13:09:24Z",
+ "generatedAt": "2026-10-29T13:37:46Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -21,7 +21,7 @@
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 1
+   "kept": 2
   },
   "bea": {
    "http": 200,
@@ -57,22 +57,22 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
    "items": 41,
-   "kept": 2
+   "kept": 1
   },
   "bbc_world": {
    "http": 200,
-   "items": 26,
+   "items": 27,
    "kept": 7
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 30,
+   "items": 36,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 53,
+   "items": 55,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,28 +96,28 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 38,
+   "items": 39,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 24,
+   "items": 22,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 21,
+   "items": 24,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 9,
+   "kept": 9
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,58 @@
   }
  },
  "items": [
+  {
+   "title": "President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her",
+   "source": "CNBC",
+   "time": "2026-10-29T13:32:02Z",
+   "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+   "tags": [
+    "ECB",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "European Central Bank keeps key interest rate on hold at 2.5%",
+   "source": "CNBC",
+   "time": "2026-10-29T13:30:06Z",
+   "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
+   "tags": [
+    "RATES",
+    "ECB",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Federal Reserve holds interest rates steady even as inflation remains high",
+   "source": "CBS News",
+   "time": "2026-10-29T13:17:34Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSk1RMm9QTGg5a0ZmU1d1OXRGZlFMZjJwZ0pHczhCR3ZHNjdNT0R6ZnhPRjJfMlY3SFB0RzFUcjJQMWQzM01TREpIRlNaaXRYVTVQRXI3S0tTVUJSWkZuMnRHY3JaeVB0cEQ1RmJUSnZZT2prSFk0Z0Z0eFNvREs4Ti1FcWtjNjZSUEJF?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Monetary policy decisions",
+   "source": "ECB",
+   "time": "2026-10-29T13:15:00Z",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+   "tags": [
+    "RATES",
+    "ECB"
+   ]
+  },
+  {
+   "title": "Gold Edges Lower After Fed Holds Rates With Limited Guidance",
+   "source": "Bloomberg.com",
+   "time": "2026-10-29T13:12:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzc5eDBRUXkxOGFMamVVSDgwYW50VUV2anJjUGhKTzVTRjZpTDhoQWpTcXV6bXlWY19CMTF6cXBSenJMOGswaVFmVGtDeDNpcXowbG9XVExVN000aDMxMjZQWnJRbjQ0blBYTUwzclB6M3E3QS1zSEptcUR6elJZWUxVTHB2bFdJUWtrVjN3cDE1S2ZkRWhGWkhqbWh6VkJaTFIyN1BCZXpBd24xUEVrNw?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
+   ]
+  },
   {
    "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
    "source": "CNBC",
@@ -135,22 +187,21 @@
    ]
   },
   {
+   "title": "COMMENTARY: Warsh's muddled messaging revives Fed credibility doubts",
+   "source": "Reuters",
+   "time": "2026-10-29T13:05:02Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbFItLXdsM192U2swb09iUUdnRjhfeVh4QmNGelZPc2lsTHR3SnIyTVhlelVyMVVEanhlZlFjU1BkUWZfTVZvNmFOMHlMWGhPNXQ2OTR1OXE3STVtekZMbVNiSXowUW5ZVU1KNkQzN1lPUUZWSTZaSG03eU9uS0FXald3TWxrNWc2b3BKREdKYmstUDZINFdhVi1uQUN6NVdoa2xwWEhwdU9zZUxSTUJwamRiaUVSQTE1T2VtNklUU1UwQQ?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "Pete Buttigieg Uses $17.50 Waffle House Meal to Slam Trump’s Tariffs, Says Americans are 'Paying the Pric",
    "source": "Benzinga",
    "time": "2026-10-29T13:04:09Z",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONktUTjNEaDlzdllJNjM0NkFCZVBNdGlvc0FoWWcxQU8wY3F3anJTNG8taEtUZU5TSG11bS1jaE51SmY5SWp0MVc2cWxjSXZGTl94TUt3NjJlRzVKVDFCTldsMHZrcnZuWGdlVDduZnJ4RVJyaExoNHZTWkRWdXg4NV9kcjBPQngzM1F6RVpFSjlqdDRUTkxxb3IzTXlkTGhmakFSTFpLOWh4WmZYRE5GUndnUE9ienpCRzhFS3hYMkdzTTVxbDZoSUQ1WmVpSE1FME1DUFRtQXFHR1d6NTJ4TlFESEdMWjYtTlJVNA?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her",
-   "source": "CNBC",
-   "time": "2026-10-29T13:02:37Z",
-   "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
-   "tags": [
-    "ECB",
-    "CENTRAL_BANK"
    ]
   },
   {
@@ -245,12 +296,21 @@
    ]
   },
   {
-   "title": "U.S. inflation accelerates in September; third-quarter GDP rises 3.4%",
+   "title": "U.S. inflation accelerates in September; third-quarter GDP grows 3.4%",
    "source": "Investing.com",
    "time": "2026-10-29T12:48:07Z",
    "link": "https://www.investing.com/news/economic-indicators/us-inflation-accelerates-in-september-thirdquarter-gdp-rises-34-4983644",
    "tags": [
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Iran’s hidden web of military agencies is slipping hardware past the US blockade",
+   "source": "Reuters",
+   "time": "2026-10-29T12:42:55Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWDdNT2d1X203WGstY0tRd0xFeXFhWlBQVmlXM2hRRXdzZHQ3UmszXzNXcVE3LTB5TWhUcXJwWUVlSi15cGFUNVFqd2xTNllBQm9PdlphUVQ3bU1pOTI5dUtGb3pZYUstMmpaa2hzbk5RXzd2bVp5YmlhR19nYkNJTjdfTG11amxxZ0dOWXBveEowTC1wRHozRWxPYUx5OXo2TWpjdHRnOXc5eTRQWXN6S2RyWVUxVF8wMGk0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -262,6 +322,13 @@
     "FOMC",
     "FED"
    ]
+  },
+  {
+   "title": "SNAPSHOT US stock index futures pare losses after economic data",
+   "source": "Reuters",
+   "time": "2026-10-29T12:40:54Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
+   "tags": []
   },
   {
    "title": "Inflation Accelerated in October, PCE Index Shows",
@@ -282,15 +349,6 @@
    ]
   },
   {
-   "title": "Iran’s hidden web of military agencies is slipping hardware past the US blockade",
-   "source": "Reuters",
-   "time": "2026-10-29T12:36:41Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWDdNT2d1X203WGstY0tRd0xFeXFhWlBQVmlXM2hRRXdzZHQ3UmszXzNXcVE3LTB5TWhUcXJwWUVlSi15cGFUNVFqd2xTNllBQm9PdlphUVQ3bU1pOTI5dUtGb3pZYUstMmpaa2hzbk5RXzd2bVp5YmlhR19nYkNJTjdfTG11amxxZ0dOWXBveEowTC1wRHozRWxPYUx5OXo2TWpjdHRnOXc5eTRQWXN6S2RyWVUxVF8wMGk0?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "U.S. Initial Jobless Claims Fall to 194K, Beating Expectations",
    "source": "Investing.com",
    "time": "2026-10-29T12:36:06Z",
@@ -307,6 +365,16 @@
    "tags": [
     "FED",
     "RATES",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Fed's favored inflation gauge trended higher in September",
+   "source": "Fox Business",
+   "time": "2026-10-29T12:33:00Z",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tXzR6aE4tVjI0WWFkZDhaVkRhUUR2S0lfbnFTUW5LWktIM1Z4RVlNUGQ2X0xTVVFaXzJpbDZXNVRZeFhYM1JlOHRXNzRudTdHbm81NXFHcG9aUDU1WnVPN09LUXN5LThtQzlrVDJNX0dVQQ?oc=5",
+   "tags": [
+    "FED",
     "INFLATION"
    ]
   },
@@ -430,10 +498,19 @@
    ]
   },
   {
+   "title": "Buy Equinox Gold Stock. It Looks Like a Diamond in the Rough.",
+   "source": "Barron's",
+   "time": "2026-10-29T12:01:00Z",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZHJRQkZ4aW94OGViVWxSRlJBb1lJZGR3U25SSHdfRmJNNFV2dklvNFRtS0psNDZmUGVVb2c5ZlpqMEN5OUZaenU0X0JQY2NQdEF4RlkzdHd2YUdvN2FMMkdBTHR5dmpDZDdvTU4zR2ZYWjdqTWEtVUgwZUVmVXhnZg?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Stellantis Loses $503 Million As Tariffs Take Effect",
-   "source": "Yahoo Finance",
+   "source": "Forbes",
    "time": "2026-10-29T12:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHQ5RVRITDVoRnNkcmxoOWs2dGZhZ1k5RHdMOG5ZaTlWbnZqUl9yWjl2dHZjZXlqQkVlTVZOaVV5TXE0bDhLLTlWQ0I4RFBTNXd5ZWEwVXg2eThxaHoxcktQZmdveFh5cThRNEh6N25DNVc5a2l1VkZTZFZZdGV2ZGhsUzEwQmVDd3AyQ0tlTk1tRjdEd1pGVmlXcTlzQmpPcUdn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaTJXMk1WSDJJWnB5QWJkbDFRanp5M3dueDN1amVkb3U0QjJud3QzdXVUa211Ml9vczdRSlF5SWEwVGdUZUh3b1lnTXp0QzF0cU9HZ3R1NElkdE9MbDNxeW4zbFNvZERsczkwZ3BVTGx4eUJhcjJmemlNVWotLWVJVkd1VUNtZGVHMmNUR1dMZWQ1bG9qZFVtT2xpTW5fSlVua1E?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -445,6 +522,15 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX2dfU3NtQXphamswYXZjWWZ2dk5mYVdzdFZZbXh2ME1NZ2JUSnRHdGJES3VzaGJOdHZqQ2hIRzZHM0YxUjVXeXhnS0U3NXRmLUV1b2NacjZqY3FQWlZhUWdZQkVOWlZKSHFrbDRsMFRndHRqelhlZ2RHSmVQMlB4a1c0aU5HbndEUDNTZW5kRGktYkxSR19ySzUwUzU5QQ?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "US-Israel war on Iran",
+   "source": "The Guardian",
+   "time": "2026-10-29T11:51:21Z",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LSVFkclU2MmJEVzNmZUhwajZUQ3JQSjRWSzZrdFlueFBSZEl3Ql81eWZfVVZNbmtMXzJpWFBQNXViRjYyaGt5YTU5bkxYOW5xSV9vNUhiQXhTYmZKamZkLTBsYk50dw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -474,13 +560,6 @@
    "tags": [
     "GEOPOLITICS"
    ]
-  },
-  {
-   "title": "Nasdaq futures slide as Alphabet results intensify AI spending fears",
-   "source": "Reuters",
-   "time": "2026-10-29T11:31:45Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
-   "tags": []
   },
   {
    "title": "TotalEnergies Profit Doubles as War Boosts Refining and Trading",
@@ -519,6 +598,16 @@
    ]
   },
   {
+   "title": "M23 Rebels: US sanctions Rwanda's defence ministry over Congo war",
+   "source": "BBC",
+   "time": "2026-10-29T11:25:16Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GY3Y4czlDTlI5MjdiMTFzQTk3eHRLTDBBWnZtS2EtUFctZU5scFhuTUFqSmNZTmJIZENSUE9KSmg3TEU2ODNNRkFfUXdpOEJqQk0wcVJkejR2YTQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "Treasury Sanctions Facilitators Of NKorean IT Worker Fraud Targeting US Businesses",
    "source": "RTTNews",
    "time": "2026-10-29T11:22:44Z",
@@ -534,16 +623,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Edges Lower After Fed Holds Rates With Limited Guidance",
-   "source": "Bloomberg.com",
-   "time": "2026-10-29T11:21:18Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzc5eDBRUXkxOGFMamVVSDgwYW50VUV2anJjUGhKTzVTRjZpTDhoQWpTcXV6bXlWY19CMTF6cXBSenJMOGswaVFmVGtDeDNpcXowbG9XVExVN000aDMxMjZQWnJRbjQ0blBYTUwzclB6M3E3QS1zSEptcUR6elJZWUxVTHB2bFdJUWtrVjN3cDE1S2ZkRWhGWkhqbWh6VkJaTFIyN1BCZXpBd24xUEVrNw?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
    ]
   },
   {
@@ -604,78 +683,6 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR1JxbVRPLXRpVDVuNEdBQnFSTU1jMmZuQThOTE5qcEFRT0tObGsyN2dRTVBBbHhnVU4yYUVoZGNONDFaeUhhdFVDb1BlNFZSZUZuOTVsTkczQTJkNy03Z3dPZk01M2QxMzNUdUhrY19WcE04X3UyWDNTUVp3S2F6SXBuV1gyZGZPSFNMWTdxSkd3V1k0NndHVmJkcGZxMkRUTTZua0NnTWJDUWFZdWlocUI4ZVJ2ZlM4a3RWNW1iSQ?oc=5",
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "title": "Putin praises Elon Musk as a ‘genius’ as Russia develops Starlink alternative",
-   "source": "CNBC",
-   "time": "2026-10-29T11:04:27Z",
-   "link": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Japan and US strike deal on missile assembly as Tokyo expands long-range arsenal",
-   "source": "South China Morning Post",
-   "time": "2026-10-29T10:58:58Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa0tDQWFuLW5KWmFmR2U4RUpjYTQweWJaR1Nmd3FsQmdaYWM3RkZWTmlDZkNrWXJ4MHotLTYxLXpIdFRMUUFNd0FTczhLaVkxV0ZXRVdxOWVHdUpPMWpKSnZLSk5ySHBoY2thT3pSYURvX2JkYkFEVWdQQk9MMVdGbWcyZUloSldzcUtMRTRFcTdaOHhPRlVtbUZ2OXotN0pNVTVlMHBfRnZOYnJ1dVQxVnVERV9wZnRKS3hhUDhkZnhNejc3VUR5cHFFY9IBywFBVV95cUxPWmVIWEJvZnFobmYyN1duczgycUUxSGVuY05tVlNxdVJDeTZFdFkyY2Vmc2ZMWUphLXNuUDdYQS1BSldEeXVCRjB2RXZvandRTDE5Wnlnem93VjVQbTNBRERMMC1YU0Q5SHc2UER3NW1STkVLbFZuYVZOMUpwQVJIUW56bU1DY0h2TktmLUZEY2ZkaUh3cFVMODJRUUJIaWxEdU5LbEFsTk8yN1Y4R05hTmx3WVhhUExTa01Fdk9YMkZFNlZaWTZRTndKMA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "symbol__ Stock Quote Price and Forecast",
-   "source": "CNN",
-   "time": "2026-10-29T10:53:50Z",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SaFRuS082V2Jpb1U1NU1IcDdydnVTYl9PMFBYQ1V3YWlOd1VHSDE5TXhnem1HbElwZFRHREVEdkRFb0gwUkxINlEzWVJoMG8?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "US-Israel war on Iran",
-   "source": "The Guardian",
-   "time": "2026-10-29T10:49:43Z",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LSVFkclU2MmJEVzNmZUhwajZUQ3JQSjRWSzZrdFlueFBSZEl3Ql81eWZfVVZNbmtMXzJpWFBQNXViRjYyaGt5YTU5bkxYOW5xSV9vNUhiQXhTYmZKamZkLTBsYk50dw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Treasury yields ease after Federal Reserve rate hold",
-   "source": "CNBC",
-   "time": "2026-10-29T10:48:54Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tUkpYWmlUR3kwRzB5cTZuejFRaTloS09XeThKc3hXUnVVem12eHNkN0ZnV2VpemJ2N09sZWNkenlUNGhHVUo4RmdxaDFIUFhSU0JmMHlKckhSbXhxWXpMUGNsZ0dWOVVmd25nNnRpTE1lbEpTbWhkNk9VTnRpeGPSAYQBQVVfeXFMUE1seWVoTlViUzNtNmZyRk1NekFwcWN2ZkZSMUhWOUY2UHJQWnVZcTB2d1NPRXNzcmhzWlFGWlNNYUd2RTlEbUR1WEZlLWVCQzhjclZPdjlVX29STXVDVW1GOFVaeVUxeUoxSk9GRkhEeGg4RmlXclBlb1ZGZFgydFl0SjJN?oc=5",
-   "tags": [
-    "FED",
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "As Missile Stockpiles Dwindle and China Looms, U.S. Turns to Japan for Production",
-   "source": "WSJ",
-   "time": "2026-10-29T10:45:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQlpYYndWVXNLLXlOMGthclBzd0hQQ093MUozZjRDY1dMcGtlLWdJT1ZLOHBJMHo0YjY5QTVNU0VWQWYwU1l5SncwanZyTnpvQ3RRQnZYWUN3ZVFER3lXUFM5RDZOcVZiV3RwU0t3bUVRNmJmaVNXY1ZPV2NicTdRbkFhWFl2U2Jmak9ic0RVMVRST2FYeDZSOHpiNFpyM2VnNXBPTXpKUndLb1p0Yi1EY0hGWHI?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "COMMENTARY: Morning Bid: Firefighting cash burn",
-   "source": "Reuters",
-   "time": "2026-10-29T10:43:28Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTm9EX3pBcklqTS1idFI2Z3lHVVJDV25PNWcwZE1vZWxtUDJFd2dpY1BOYkxuX1RETm13SW5Jc0RaZklMR2R1TFJCWmNrM05XY0JlX1gyeGVNVVV1cnlWTk8zc0llYTFSaGFjY3gzeFpjUEFTaWJLV21xc2xpZ1lnSE5ydS1Ec2U3ZVJtdmFFUWNFOFhlQklj?oc=5",
-   "tags": []
-  },
-  {
-   "title": "US sanction Rwanda: United States sanction Rwanda defence ministry ova M23 rebels in DR Congo",
-   "source": "BBC",
-   "time": "2026-10-29T10:37:02Z",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfb2tENi0ybW1icG5yNEJnVUtfRVItTUZ3VzItOXBQSXBMekVrMjFaYmlVRUhNM1lEWWt1U3FRZUdKWjJNTlJSMHd4QjRSdWdadklDcVR1Qk5ON3p5enfSAWNBVV95cUxQem8zMFBuVVdCV3EtMDdMekhmQUI5YzRJZlFHQmRxc3JvTkhwaml4ZUtQSEtPVVhEeVRfeUZFeUlUc3ppV1BTSmZtdHNtX2p5U3BRS05jVXQ2aGFpTEJXWGVYQVk?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   }
  ],
