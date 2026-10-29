@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T10:47:51Z",
+ "generatedAt": "2026-10-29T11:16:12Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,12 +52,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 11
+   "kept": 9
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -81,38 +81,38 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 32,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 49,
+   "items": 48,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 27,
+   "items": 26,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 37,
+   "items": 36,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 23,
+   "items": 22,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 23,
+   "items": 22,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_cbgold": {
    "http": 200,
@@ -128,11 +128,60 @@
   {
    "title": "President of the European Central Bank Christine Lagarde to step down in February",
    "source": "CNBC",
-   "time": "2026-10-29T10:46:25Z",
+   "time": "2026-10-29T11:15:40Z",
    "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
    "tags": [
     "ECB",
     "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Oil majors reap bumper profits as Mideast war drives prices",
+   "source": "Yahoo Finance UK",
+   "time": "2026-10-29T11:12:10Z",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUHVOVHZGOXgweTZobWo2S1F4aUJqOGdZMkVOQl9aS29LU1p6RlNmRWVtVURWYXA3bU5tYWRDLWRSOUdOTGVRb09LRUJHNGFyNDNjbzhsVzgxNy02NHc3TmNGdWhsZkdEaXFnV3V4TzlUS0dxZEl2NXRDZWt5bmFuTER1d0FKUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "The Fed held off on a rate hike. Today’s GDP and inflation reports could make waiting harder.",
+   "source": "MarketWatch",
+   "time": "2026-10-29T11:11:00Z",
+   "link": "https://www.marketwatch.com/story/the-fed-held-off-on-a-rate-hike-todays-gdp-and-inflation-reports-could-make-waiting-harder-693338e6?mod=mw_rss_topstories",
+   "tags": [
+    "FED",
+    "RATES",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Putin praises Elon Musk as a ‘genius’ as Russia develops Starlink alternative",
+   "source": "CNBC",
+   "time": "2026-10-29T11:04:27Z",
+   "link": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Warsh Puts a Spotlight on AI Financing’s Vulnerability to Fed Policy",
+   "source": "Bloomberg",
+   "time": "2026-10-29T11:00:01Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR1JxbVRPLXRpVDVuNEdBQnFSTU1jMmZuQThOTE5qcEFRT0tObGsyN2dRTVBBbHhnVU4yYUVoZGNONDFaeUhhdFVDb1BlNFZSZUZuOTVsTkczQTJkNy03Z3dPZk01M2QxMzNUdUhrY19WcE04X3UyWDNTUVp3S2F6SXBuV1gyZGZPSFNMWTdxSkd3V1k0NndHVmJkcGZxMkRUTTZua0NnTWJDUWFZdWlocUI4ZVJ2ZlM4a3RWNW1iSQ?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Treasury yields ease after Federal Reserve rate hold",
+   "source": "CNBC",
+   "time": "2026-10-29T10:48:54Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tUkpYWmlUR3kwRzB5cTZuejFRaTloS09XeThKc3hXUnVVem12eHNkN0ZnV2VpemJ2N09sZWNkenlUNGhHVUo4RmdxaDFIUFhSU0JmMHlKckhSbXhxWXpMUGNsZ0dWOVVmd25nNnRpTE1lbEpTbWhkNk9VTnRpeGPSAYQBQVVfeXFMUE1seWVoTlViUzNtNmZyRk1NekFwcWN2ZkZSMUhWOUY2UHJQWnVZcTB2d1NPRXNzcmhzWlFGWlNNYUd2RTlEbUR1WEZlLWVCQzhjclZPdjlVX29STXVDVW1GOFVaeVUxeUoxSk9GRkhEeGg4RmlXclBlb1ZGZFgydFl0SjJN?oc=5",
+   "tags": [
+    "FED",
+    "YIELDS"
    ]
   },
   {
@@ -146,13 +195,11 @@
    ]
   },
   {
-   "title": "Putin praises Elon Musk as a ‘genius’ as Russia develops Starlink alternative",
-   "source": "CNBC",
-   "time": "2026-10-29T10:44:00Z",
-   "link": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
+   "title": "COMMENTARY: Morning Bid: Firefighting cash burn",
+   "source": "Reuters",
+   "time": "2026-10-29T10:43:28Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTm9EX3pBcklqTS1idFI2Z3lHVVJDV25PNWcwZE1vZWxtUDJFd2dpY1BOYkxuX1RETm13SW5Jc0RaZklMR2R1TFJCWmNrM05XY0JlX1gyeGVNVVV1cnlWTk8zc0llYTFSaGFjY3gzeFpjUEFTaWJLV21xc2xpZ1lnSE5ydS1Ec2U3ZVJtdmFFUWNFOFhlQklj?oc=5",
+   "tags": []
   },
   {
    "title": "Kylian Mbappe, Real Madrid and La Liga face long redemption road in China",
@@ -161,6 +208,24 @@
    "link": "https://www.aljazeera.com/sports/2026/10/29/kylian-mbappe-real-madrid-and-la-liga-face-long-redemption-road-in-china?traffic_source=rss",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "Iran’s hidden web of military agencies is slipping hardware past the US blockade",
+   "source": "Reuters",
+   "time": "2026-10-29T10:28:57Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWDdNT2d1X203WGstY0tRd0xFeXFhWlBQVmlXM2hRRXdzZHQ3UmszXzNXcVE3LTB5TWhUcXJwWUVlSi15cGFUNVFqd2xTNllBQm9PdlphUVQ3bU1pOTI5dUtGb3pZYUstMmpaa2hzbk5RXzd2bVp5YmlhR19nYkNJTjdfTG11amxxZ0dOWXBveEowTC1wRHozRWxPYUx5OXo2TWpjdHRnOXc5eTRQWXN6S2RyWVUxVF8wMGk0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Hegseth fires Pentagon's top military planner over what official says were leaks to media",
+   "source": "CBS News",
+   "time": "2026-10-29T10:24:26Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15YlAzc3RZM0hPSjl1UHVBZEV2UDI3Uko4MWJ0NG1rYUtieDN0Vjl2RG80bFlnXzAtbjVaV1BMYmhTeUlLTUJuYUt4dTN1YWhCRVRjSjRLT29pN25HSHVhQjg5d3BXaDFmZTc3MjNJWUVsMjR4YWh1bE45RTBUb3c?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -195,6 +260,16 @@
    "source": "Investing.com",
    "time": "2026-10-29T10:08:00Z",
    "link": "https://www.investing.com/analysis/oil-prices-fall-as-vance-moves-to-restart-iran-peace-talks-200690507",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Shell profits double to $10.8bn as Iran war pushes up margin on oil",
+   "source": "The Guardian",
+   "time": "2026-10-29T10:06:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUZ5dFJPeFNSVHdMcWlFazJSWmYzVGwwUnZHOGcyQXpyYTlPcTVGXzU0eXJSN0prQ2dHNXBjaWxfWnlLc2RrandVX1JyQ245M2E4UUFYZDFVVUVyU1ZYUTJaQWd3MDZRMkdKRlJxRDZIRXdJREVBWURaUDlWR2RwVVE4MzJTSGlXVXR2Tkk4VW02c2huMFBDM0YyczMwOHBIMnR3aldyZlJFT3dBenc?oc=5",
    "tags": [
     "GEOPOLITICS",
     "OIL"
@@ -305,6 +380,13 @@
    "tags": [
     "GEOPOLITICS"
    ]
+  },
+  {
+   "title": "GDP report set to provide snapshot of economy ahead of midterm elections",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-29T09:14:52Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOXA2Zy1xaExmZTR0bkJjUzRxeHNkWVhpYXl6aV9BaUdDdnZ6ZHhBTlFhb3ZBZWZRdlo0WkVmNmZkZklFLUthc0hIdWhDRUdwM0o5YWVLdDk2dFotM3NqOWh3RVlFdlIwWmNWN0dVOEFEa1pEaFRXRTdqWmVPSnI5YWFqdkJQRjEyZEczUVZ4dDYzaTJlQTVOTURQSlliMlgzZThJ0gGoAUFVX3lxTE5VNWRkZ1doeURsNXJuaDY2VzVwLWdtTk9hd2FlRUoxUW1aeWUwTWNIemtVZ2N4U2FyMVBrRE1HWF9Bck9ZX1kzeTg2MmZPaGRCTWFKTXhjVGZ5SEhHektfVzk3R2dRR2pYTmlROEh6akZUaXVxcTVRTGxLTWZfbFNUaTFFU3RDVjVxQjMxcG5idHY1OWxnQ1dDa3hkcDA0WU1sUzRzb3ZMOQ?oc=5",
+   "tags": []
   },
   {
    "title": "symbol__ Stock Quote Price and Forecast",
@@ -492,16 +574,6 @@
    ]
   },
   {
-   "title": "Shell profits double to $10.8bn as Iran war pushes up profit margin on oil",
-   "source": "The Guardian",
-   "time": "2026-10-29T08:17:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUZ5dFJPeFNSVHdMcWlFazJSWmYzVGwwUnZHOGcyQXpyYTlPcTVGXzU0eXJSN0prQ2dHNXBjaWxfWnlLc2RrandVX1JyQ245M2E4UUFYZDFVVUVyU1ZYUTJaQWd3MDZRMkdKRlJxRDZIRXdJREVBWURaUDlWR2RwVVE4MzJTSGlXVXR2Tkk4VW02c2huMFBDM0YyczMwOHBIMnR3aldyZlJFT3dBenc?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
    "title": "Destinus' monthly output tops Europe's pre-war annual cruise missile production",
    "source": "Reuters",
    "time": "2026-10-29T08:16:11Z",
@@ -605,83 +677,6 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFY1dkgwNVZueWhZeGNhZi14ZTZZdGVKUGZ1blpZSUR2MENsRlZFcEZSdXB4eE5ySUNXYncxaUNBNVhxaE1jM1QxWmZIblU2c0IycWpIV1dQVFBSNFZiZEpSTHpua1pjTHNRWV9SZXEzTHIybzNET0tqSDlJYUtzZ0hVazRtVXh4bWhQNGFJNlAwazBPQ1JKN051NUnSAaIBQVVfeXFMTUZhTkI1VFdyX3padVNMRTZGcnpHUDMycHYwckpUYlVIeXAwQldlU0wyYy1RY2VVREZmamI1Sldna2MzN3VPbnBnaDdpWmRrcV9XRFNLR0VadG9tMkdBbXpUc05BUVRxd3NQQ3hpdXUzYjZ2YTVxaVdaMzFmMGlXcUkyQTFYQUFYa1pFaGZQanh3MHRTenhNVGp0eVM4LTFyTDF3?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
-   "source": "CNBC",
-   "time": "2026-10-29T07:35:45Z",
-   "link": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "U.S. Treasury Yields Fall as Investors Digest Fed Meet, Focus Shifts to ECB",
-   "source": "marketscreener.com",
-   "time": "2026-10-29T07:30:50Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLThlXzNqaU8zek5QX0J0Q2IzYTViUUMwN2lKR0hHZUFJSWdQNGV0SUZJN2Y3dzdxYVQ3VGxseGkteVJjaWtDZ3FpSlJqeUlnNHE0R2dSenc1V1MzV0RMMnVLbTJneG05M3V3elVjX1B6cVY5STFQY0w1Mnd2YWVYQlI5OGV5WFR2WUVLYml5S2VXRHZ0QXJSMklYRVFWSWdNMU1QbF9scVRzVmNlMDBvRlFIUy1QQlpfWk1ZSXMxbmlacEtY?oc=5",
-   "tags": [
-    "FED",
-    "YIELDS",
-    "ECB"
-   ]
-  },
-  {
-   "title": "Gold sticks to bearish bias as USD stays firm amid Fed hike bets, ahead of US data",
-   "source": "FXStreet",
-   "time": "2026-10-29T07:17:55Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWTBHd29DZmt1QmRmY0ItZVpCdFFFeTcwRDJGb21KN0VYOFNoY193dGkyeGhLTV9RTnFMOElCRjFPcmJyMU5OOTNxMXR6VC1WQW12UEV1dGlSVXctM3JTN1JBQ1BQcm5zQ3h0N1RoNmV6d3FWbjhTaHZMY1FTcVU5M2JiVVotXzlVWlVCbnFOLXpoeEZtUkJYWjBJMXZWLWFTakVrSHV2OU9Ya0JMTUNYaFBkbms1a0x2?oc=5",
-   "tags": [
-    "FED",
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
-   "source": "BBC",
-   "time": "2026-10-29T07:16:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EaHZTX29uTy12a2ZMYmxqQk1NMmpLY0lDQW5uTm9ReFVlQ1I0bTVjUnkzdmhfejBZWkhQMFk5aFZHTTVQcHMzVTh3Vkh6UExRcDZpYUJ6eTBySTVxd0E?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Gold Rebounds From 0.618 Arc; Navigating Between 0.5 and 0.618 Arcs",
-   "source": "Investing.com",
-   "time": "2026-10-29T07:06:00Z",
-   "link": "https://www.investing.com/analysis/gold-rebounds-from-0618-arc-navigating-between-05-and-0618-arcs-200690488",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "US Oil Inventories Fall Again as Prices Rise",
-   "source": "Investing.com",
-   "time": "2026-10-29T07:06:00Z",
-   "link": "https://www.investing.com/analysis/us-oil-inventories-fall-again-as-prices-rise-200690486",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Gold Outlook: Fed Credibility Takes a Hit, but Buyers Aren’t Biting",
-   "source": "Investing.com",
-   "time": "2026-10-29T07:02:00Z",
-   "link": "https://www.investing.com/analysis/gold-outlook-fed-credibility-takes-a-hit-but-buyers-arent-biting-200690470",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Tencent, Visa deepen payments push in China after regulatory green light",
-   "source": "CNBC",
-   "time": "2026-10-29T07:01:50Z",
-   "link": "https://www.cnbc.com/2026/10/29/tencent-visa-citi-mastercard-.html",
-   "tags": [
-    "CHINA"
    ]
   }
  ],
