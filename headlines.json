@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T12:41:02Z",
+ "generatedAt": "2026-10-29T13:09:24Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,12 +47,12 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 4
+   "kept": 5
   },
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 3
   },
   "cnbc": {
    "http": 200,
@@ -61,18 +61,18 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 40,
+   "items": 41,
    "kept": 2
   },
   "bbc_world": {
    "http": 200,
-   "items": 27,
-   "kept": 6
+   "items": 26,
+   "kept": 7
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 33,
+   "items": 30,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 49,
+   "items": 53,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 27,
+   "items": 26,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 37,
+   "items": 38,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 24,
+   "items": 21,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,6 +126,153 @@
  },
  "items": [
   {
+   "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+   "source": "CNBC",
+   "time": "2026-10-29T13:08:00Z",
+   "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Pete Buttigieg Uses $17.50 Waffle House Meal to Slam Trump’s Tariffs, Says Americans are 'Paying the Pric",
+   "source": "Benzinga",
+   "time": "2026-10-29T13:04:09Z",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONktUTjNEaDlzdllJNjM0NkFCZVBNdGlvc0FoWWcxQU8wY3F3anJTNG8taEtUZU5TSG11bS1jaE51SmY5SWp0MVc2cWxjSXZGTl94TUt3NjJlRzVKVDFCTldsMHZrcnZuWGdlVDduZnJ4RVJyaExoNHZTWkRWdXg4NV9kcjBPQngzM1F6RVpFSjlqdDRUTkxxb3IzTXlkTGhmakFSTFpLOWh4WmZYRE5GUndnUE9ienpCRzhFS3hYMkdzTTVxbDZoSUQ1WmVpSE1FME1DUFRtQXFHR1d6NTJ4TlFESEdMWjYtTlJVNA?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her",
+   "source": "CNBC",
+   "time": "2026-10-29T13:02:37Z",
+   "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+   "tags": [
+    "ECB",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Consumer spending flattens out after inflation surge",
+   "source": "MarketWatch",
+   "time": "2026-10-29T13:01:00Z",
+   "link": "https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "US weekly jobless claims hover near 57-year lows",
+   "source": "Investing.com",
+   "time": "2026-10-29T13:00:41Z",
+   "link": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-hover-near-57year-lows-4983709",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+   "source": "MarketWatch",
+   "time": "2026-10-29T13:00:00Z",
+   "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
+   "source": "The New York Times",
+   "time": "2026-10-29T12:59:35Z",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0duQ2s1THJaQTllWHI4eXh0UEZXVjVLUkdBbUFyaHpERDhqQkxLcnhTRzVQU3k0MW5FeWF4Q25BZnJ4dHZuckZiRHZnN2V4eEljbEZDbFFxZnFZREJnQ29wTHdJSDhfV0FzYkdRQ1NkblZyZDAwTmZOdzhyZFlUc3N6M25CMWt6Y0VQMGZ3QmE?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
+   "source": "Al Jazeera",
+   "time": "2026-10-29T12:55:51Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXo4WGVRZE9wNk5rWUQzcENPb3lhaVRWSU8wSnN4eE5HT2NNT2tNNHV5czhKaGNKQnRSdVNmenFUaEVraTd0WWZYSG1SdGJGZnlmVXNhZHNNanlhVXRLdmx1TV9oV3lfV1kwUko0VVg4bEoyTzFzOFhkd3l4bXBHSzVHMlVXZmJVRGptMUlrZlFpYTlvcXlLZlBTNHlZaDJRekNjRTRCSG9uSjTSAbABQVVfeXFMUGRIczNfdUtzdlp3Sl85MEtReUNERjA3WjdJbWs0bFl1cVh4bHU1clU3bHk5bEthcUJIb2xOM3RiX0IxdWl2elpwbXVQd0M0dlBnc01LLUs0eDRYQ0cwemR1V1hGcFFEc0x5VE1tajh2eS1aaUNUZ1hpTVNyaFc1NTE4MjJNQkJ3V09MSHdnNlQ1Y1h0NjZrYV8zUE5jOFdYRG9DZ3c2UlNRdDZBdURmNjg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US economy grew at 3.4% annualized rate in 3rd quarter, government data shows",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-29T12:53:32Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOXA2Zy1xaExmZTR0bkJjUzRxeHNkWVhpYXl6aV9BaUdDdnZ6ZHhBTlFhb3ZBZWZRdlo0WkVmNmZkZklFLUthc0hIdWhDRUdwM0o5YWVLdDk2dFotM3NqOWh3RVlFdlIwWmNWN0dVOEFEa1pEaFRXRTdqWmVPSnI5YWFqdkJQRjEyZEczUVZ4dDYzaTJlQTVOTURQSlliMlgzZThJ0gGoAUFVX3lxTE5VNWRkZ1doeURsNXJuaDY2VzVwLWdtTk9hd2FlRUoxUW1aeWUwTWNIemtVZ2N4U2FyMVBrRE1HWF9Bck9ZX1kzeTg2MmZPaGRCTWFKTXhjVGZ5SEhHektfVzk3R2dRR2pYTmlROEh6akZUaXVxcTVRTGxLTWZfbFNUaTFFU3RDVjVxQjMxcG5idHY1OWxnQ1dDa3hkcDA0WU1sUzRzb3ZMOQ?oc=5",
+   "tags": []
+  },
+  {
+   "title": "Ukraine and Russia Bombard Each Other As Melania Trump Ceasefire Holds",
+   "source": "Newsweek",
+   "time": "2026-10-29T12:53:00Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ0ZweU9UYVQySV9OYWNLVXhNV0N1YmoxNWFLaEJjQUpET0lCa3dEVDNpclZUZWxWUms2VUxtaGdrSjl3UGI5eGpTd1VXNjZqY0V6Y0NHS1ptVGtGUVl5X2cyeDFTTC13MmZJdjBoRGJ6ekFzaXQtcDVhQXlfQTZEcmwxcV9OenFqN1FMazZ3aw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "October FOMC: DéJà Vu As Warsh Risks Repeating Powell's Biggest 2021 Mistake (SPX)",
+   "source": "Seeking Alpha",
+   "time": "2026-10-29T12:52:52Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLUQtVm1TX2V1SUREZjcxLVlFWXpMckVlVnVCaUhJNFQ5bk5oZWxIWU84VU9DRTZHZFl1d1gzOURYb1FNVjB0VlRodmRncE1Zd2ZKbVNKX0IyZ0VvQm9uNXh1SktPZ2FJbmVWN3duVkdDcGNhRFdwU0tHM2lpeUJ3N3kwYldpWnlvUDRHU29vTW1jdDVucnJhdkdvY1JrcVlKMTVTQzlXczA3OUN3UW9Nam1R?oc=5",
+   "tags": [
+    "FOMC",
+    "FED"
+   ]
+  },
+  {
+   "title": "Federal Reserve’s preferred measure of inflation rose slightly in September",
+   "source": "The Hill",
+   "time": "2026-10-29T12:52:21Z",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4ZXJvZXdxSXFlelNEd1cxSFdJVmVvQkxsX3IyY2szWmZMNTNKcUJBTllmTXdSb1BSZVVRZ3BNaElMMVpZUy02d095bl9TX1E1RmowbVdjaE9tS29ZX0ZudTZzMzdWU0NPX0Y2cERwNWZSVkdo0gF6QVVfeXFMUE5TSDFnZEdUUThvZnMtcG9mUnZ1OVVrejNSMFlZVlpHUHdmeFRjZWd0Y3ZmZkVteDFBT1BaV3ZKTVQzcGRSSzJEMk43WHB4d2tLQ210TXpFNU1zUmRpdWNENG8zQUtnbnpKRHdPRXhjenhxOWhJSmExdFE?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+   "source": "BBC",
+   "time": "2026-10-29T12:49:17Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "U.S. inflation accelerates in September; third-quarter GDP rises 3.4%",
+   "source": "Investing.com",
+   "time": "2026-10-29T12:48:07Z",
+   "link": "https://www.investing.com/news/economic-indicators/us-inflation-accelerates-in-september-thirdquarter-gdp-rises-34-4983644",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "October FOMC Statement: The Fed's Conundrum (SP500)",
+   "source": "Seeking Alpha",
+   "time": "2026-10-29T12:42:05Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZEIzWmdnN1AzZUk3NURzOTY4Tkt4bG5xaUNvM2tsTTBsZVNCUDhrQmtvbWNTaUdUamN0Q2ZaLW0taG1Hclg2b3NlZExVblRIckVja0EzamhUQUlCTlRYd3h2VXNpYWFrN3hYczdaUU5PNW1GM1Z3Q3VWU014VXVWdkxZZmdrX2hXamc?oc=5",
+   "tags": [
+    "FOMC",
+    "FED"
+   ]
+  },
+  {
+   "title": "Inflation Accelerated in October, PCE Index Shows",
+   "source": "The New York Times",
+   "time": "2026-10-29T12:38:44Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1ZoQ3UxNHpZXzFvaHVlV2gtODE5Q2hvby1YSVg5RzE1N1ZRS0ZJbGwzUmxlenBwYUpGV19BQzVZSVhLeG9NUHRHVVhIeWVUeXRzejQ5NmtWZ3kyZmJnUXpvWTI0dGcxVEZCSFpwTk5la3pHZ1FCTDlXUVR1Nk5xWnBmcmw?oc=5",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Analysis: Kevin Warsh is keeping his options open — and Wall Street guessing",
    "source": "CNBC",
    "time": "2026-10-29T12:38:18Z",
@@ -135,12 +282,21 @@
    ]
   },
   {
-   "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
-   "source": "CNBC",
-   "time": "2026-10-29T12:37:02Z",
-   "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+   "title": "Iran’s hidden web of military agencies is slipping hardware past the US blockade",
+   "source": "Reuters",
+   "time": "2026-10-29T12:36:41Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWDdNT2d1X203WGstY0tRd0xFeXFhWlBQVmlXM2hRRXdzZHQ3UmszXzNXcVE3LTB5TWhUcXJwWUVlSi15cGFUNVFqd2xTNllBQm9PdlphUVQ3bU1pOTI5dUtGb3pZYUstMmpaa2hzbk5RXzd2bVp5YmlhR19nYkNJTjdfTG11amxxZ0dOWXBveEowTC1wRHozRWxPYUx5OXo2TWpjdHRnOXc5eTRQWXN6S2RyWVUxVF8wMGk0?oc=5",
    "tags": [
-    "INFLATION"
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S. Initial Jobless Claims Fall to 194K, Beating Expectations",
+   "source": "Investing.com",
+   "time": "2026-10-29T12:36:06Z",
+   "link": "https://www.investing.com/news/economic-indicators/us-initial-jobless-claims-fall-to-194k-beating-expectations-93CH-4983528",
+   "tags": [
+    "JOBS"
    ]
   },
   {
@@ -155,13 +311,49 @@
    ]
   },
   {
-   "title": "President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her",
-   "source": "CNBC",
-   "time": "2026-10-29T12:31:48Z",
-   "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+   "title": "Fed’s preferred inflation gauge rose in September as third-quarter GDP beats expectations",
+   "source": "Fox Business",
+   "time": "2026-10-29T12:33:00Z",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tXzR6aE4tVjI0WWFkZDhaVkRhUUR2S0lfbnFTUW5LWktIM1Z4RVlNUGQ2X0xTVVFaXzJpbDZXNVRZeFhYM1JlOHRXNzRudTdHbm81NXFHcG9aUDU1WnVPN09LUXN5LThtQzlrVDJNX0dVQdIBd0FVX3lxTFBEM0VwX2EyY0JfZ1lGU3FscXFYYnQ5ZnBsM0FGZm1pNlZmbG1wQWpFREhFVGhjSXBDQzRzTGt4LUhzM2dEYVlYbXo3eTF6Y1IwOVdILTVCeXg0WE84UjJHWVZweE9rT3lPdWVKc1NZUXRNcXhGX3Fr?oc=5",
    "tags": [
-    "ECB",
-    "CENTRAL_BANK"
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Why is Russia sending fighter jets and air defences to Ethiopia?",
+   "source": "Al Jazeera",
+   "time": "2026-10-29T12:32:49Z",
+   "link": "https://www.aljazeera.com/news/2026/10/29/why-is-russia-sending-fighter-jets-and-air-defences-to-ethiopia?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Core PCE Price Index Steady, Matches Forecast Amid Inflation Watch",
+   "source": "Investing.com",
+   "time": "2026-10-29T12:32:10Z",
+   "link": "https://www.investing.com/news/economic-indicators/core-pce-price-index-steady-matches-forecast-amid-inflation-watch-93CH-4983500",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "US September PCE core inflation +0.5% m/m vs +0.3% expected",
+   "source": "ForexLive",
+   "time": "2026-10-29T12:30:27Z",
+   "link": "https://investinglive.com/news/us-september-pce-core-inflation-m-m-vs-0-3-expected/",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "US initial jobless claims 194K vs 199K expected",
+   "source": "ForexLive",
+   "time": "2026-10-29T12:30:06Z",
+   "link": "https://investinglive.com/news/us-initial-jobless-claims-194k-vs-199k-expected/",
+   "tags": [
+    "JOBS"
    ]
   },
   {
@@ -183,6 +375,15 @@
    ]
   },
   {
+   "title": "A week of Israel’s lockdown in Hebron: What’s happened, when will it end?",
+   "source": "Al Jazeera",
+   "time": "2026-10-29T12:29:05Z",
+   "link": "https://www.aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Why my antizionism didn’t survive a Houthi missile",
    "source": "The Times of Israel",
    "time": "2026-10-29T12:19:00Z",
@@ -198,6 +399,25 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzhUWUYtTTJTSzN6eVQ2SldCUHc4YzF5RU1WOFl3RXlKUVlpblp5bXBGMUlycWhXeFJSaFA1eFBYR1FCMHJCUV9iSWxjUTZJQlM5dXU4MFJ2T0MxbDRwek5sbjBFdnNDdXRQRXgyZTFjeXJaUG9GS1Q0WFVuaTNxd3QxNzZzTElRSlRSLXNPTzVtUUFzemRsRlVDd1U3LV9JN3gyQ0lPbm9LbGRYVzk3SEFn?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "investingLive European session wrap: Stocks diverge as markets brace for US inflation, ECB and Amazon earnings",
+   "source": "ForexLive",
+   "time": "2026-10-29T12:11:06Z",
+   "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-diverge-as-markets-brace-for-us-inflation-ecb-and-amazon-earnings/",
+   "tags": [
+    "INFLATION",
+    "ECB"
+   ]
+  },
+  {
+   "title": "Brewers start to feel the costs of prolonged war in Iran",
+   "source": "Yahoo Finance",
+   "time": "2026-10-29T12:09:19Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGVXbUZOeUNrYjBwZlE5MXUwa0hhZUM0Mm1iYVBEVnVWdERLR2g1VFNhanNYbmpia0ZmUkw5MTYwNVpyRE1uUVpSNFRGa1ktSFNoMVJBWjFqTUhsdWFZSDh5a2ZCNklZWlBlUjhQUzNLV0g3ajY4aU5SdFozNVZEc3ZPUGlqb011SllyT2hfMWt2ZEFqdzNncUVQTWFhdkVWOFlTUkxUTQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -228,6 +448,15 @@
    ]
   },
   {
+   "title": "What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’",
+   "source": "Al Jazeera",
+   "time": "2026-10-29T11:47:09Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZk9HcnJxTU44TTZNeDNNbXZzbFJRUk8xSkJ1NDdueGs5UFdBYzlWdTVHQ0x6Vk5rX3BEanZfTk5NNnFYMHRaUnpYSTd6cGdBMjhLWURZZUlVTEdhbDZzUXNnaUNCS0E5UjJKN09xcTB2M1BQdFgtbWZYOGZYd29lVUx0RFBpRnRSd253V0RCbl9YQ2tGWWhGZTI4S2loT3lrWXlvWTdzRmJadGJweE5qbVN30gG3AUFVX3lxTFAtU2c4d0J1NDF2SUtocUxNNDFqcWhUeGwwZ0pKMEJEX3pJWEtUMlNHaUdMSjdyTGduMmxnWGFhb1NvWm1WLUpCMDZWWDZWaXNwdlZqTzVnV3lranBuQ3hMR0otd21Wa21xcUQwMXM5MGNaR1VXb0ZhcW5ETHBVM2R3QWVWOXNVNVNaUGZtckJ2SS1pcURpdzJvZlZmR2dDdURRVUdnQ3lqUXk3TkdvajBuOUpCZEl1WQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "The Federal Reserve holds rates and two officials vote for a hike: Why the US Dollar stayed flat anyway",
    "source": "FXStreet",
    "time": "2026-10-29T11:42:42Z",
@@ -247,15 +476,6 @@
    ]
   },
   {
-   "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-   "source": "BBC",
-   "time": "2026-10-29T11:34:03Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
    "title": "Nasdaq futures slide as Alphabet results intensify AI spending fears",
    "source": "Reuters",
    "time": "2026-10-29T11:31:45Z",
@@ -272,12 +492,30 @@
    ]
   },
   {
+   "title": "First map of Mason-Dixon Line dividing North from South in U.S. decades before Civil War going up for auction",
+   "source": "CBS News",
+   "time": "2026-10-29T11:28:22Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvUVJsRV9oSlYwdHJIWTNPTVYzQlBiOWRtWkZSQTJfOFNJU1FMYjZ4NVRBMjlDR2R0R1p5M0liLWpHVVJvWEcxTWh2d0ZnXzE5R2NQNG5ZdTZJQWZIWnRCc1VmVW91NHNtckV3OURfTzNoZUpYXzFpdUxGb1hoWk0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Israel’s election rhetoric: What candidates said, and how they performed",
    "source": "Al Jazeera",
    "time": "2026-10-29T11:27:22Z",
    "link": "https://www.aljazeera.com/news/2026/10/29/israels-election-what-the-candidates-said-and-how-they-did?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
+   "source": "BBC",
+   "time": "2026-10-29T11:25:16Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -316,24 +554,6 @@
    "tags": [
     "FED",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
-   "source": "Al Jazeera",
-   "time": "2026-10-29T11:14:38Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXo4WGVRZE9wNk5rWUQzcENPb3lhaVRWSU8wSnN4eE5HT2NNT2tNNHV5czhKaGNKQnRSdVNmenFUaEVraTd0WWZYSG1SdGJGZnlmVXNhZHNNanlhVXRLdmx1TV9oV3lfV1kwUko0VVg4bEoyTzFzOFhkd3l4bXBHSzVHMlVXZmJVRGptMUlrZlFpYTlvcXlLZlBTNHlZaDJRekNjRTRCSG9uSjTSAbABQVVfeXFMUGRIczNfdUtzdlp3Sl85MEtReUNERjA3WjdJbWs0bFl1cVh4bHU1clU3bHk5bEthcUJIb2xOM3RiX0IxdWl2elpwbXVQd0M0dlBnc01LLUs0eDRYQ0cwemR1V1hGcFFEc0x5VE1tajh2eS1aaUNUZ1hpTVNyaFc1NTE4MjJNQkJ3V09MSHdnNlQ1Y1h0NjZrYV8zUE5jOFdYRG9DZ3c2UlNRdDZBdURmNjg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran’s hidden web of military agencies is slipping hardware past the US blockade",
-   "source": "Reuters",
-   "time": "2026-10-29T11:14:26Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWDdNT2d1X203WGstY0tRd0xFeXFhWlBQVmlXM2hRRXdzZHQ3UmszXzNXcVE3LTB5TWhUcXJwWUVlSi15cGFUNVFqd2xTNllBQm9PdlphUVQ3bU1pOTI5dUtGb3pZYUstMmpaa2hzbk5RXzd2bVp5YmlhR19nYkNJTjdfTG11amxxZ0dOWXBveEowTC1wRHozRWxPYUx5OXo2TWpjdHRnOXc5eTRQWXN6S2RyWVUxVF8wMGk0?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -456,232 +676,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfb2tENi0ybW1icG5yNEJnVUtfRVItTUZ3VzItOXBQSXBMekVrMjFaYmlVRUhNM1lEWWt1U3FRZUdKWjJNTlJSMHd4QjRSdWdadklDcVR1Qk5ON3p5enfSAWNBVV95cUxQem8zMFBuVVdCV3EtMDdMekhmQUI5YzRJZlFHQmRxc3JvTkhwaml4ZUtQSEtPVVhEeVRfeUZFeUlUc3ppV1BTSmZtdHNtX2p5U3BRS05jVXQ2aGFpTEJXWGVYQVk?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Kylian Mbappe, Real Madrid and La Liga face long redemption road in China",
-   "source": "Al Jazeera",
-   "time": "2026-10-29T10:30:25Z",
-   "link": "https://www.aljazeera.com/sports/2026/10/29/kylian-mbappe-real-madrid-and-la-liga-face-long-redemption-road-in-china?traffic_source=rss",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Hegseth fires Pentagon's top military planner over what official says were leaks to media",
-   "source": "CBS News",
-   "time": "2026-10-29T10:24:26Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15YlAzc3RZM0hPSjl1UHVBZEV2UDI3Uko4MWJ0NG1rYUtieDN0Vjl2RG80bFlnXzAtbjVaV1BMYmhTeUlLTUJuYUt4dTN1YWhCRVRjSjRLT29pN25HSHVhQjg5d3BXaDFmZTc3MjNJWUVsMjR4YWh1bE45RTBUb3c?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "ESCA: Tariff refunds lifted 9M earnings as Q3 sales softened and gross margin improved",
-   "source": "TradingView",
-   "time": "2026-10-29T10:17:26Z",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWjZydWRZb1ZPWDJzV2V6bmF0UGJ1VzhsR3VIMkVCd295b3ctMHJ3MG1KaGx4aUJhVW02RWthRXFzZ3JCcDROOU4xTWhTQXA4Z2xJeWRZRHd1NE1KeDNaSHhIT2JxRVR2bTdDTHhfT0tkTWdaWml0Qm9GcFBoRUlFTTRhMF8xUnVKVml1SENVS1FESmxFaExXQVExbi1xbGRhOVc5SS1VaVpxcWlwMXFWT1RvUXhXYm91WnNvVi15U1hUNVprMWlmeVFDdkpkTjJBbDZENWVVOUZaQ3E4NlJOT3ZuSDJNc3NabVNYNG8wWmRhZkVtamcxaE9KMm8?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Metsä Board Q3 returns to profit on higher prices, tariff refunds",
-   "source": "TradingView",
-   "time": "2026-10-29T10:16:42Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRmdOc3JGWURmOGhtSWsyaUFUS1lmXzRhSzlYV2EyazY0T3k3M09BN05udnpPMkU1TG52emdpMzdxRGlIOG9ncWVRdk9wbGFZMGMwcDlvTFVZaW82TjBXOVdUaEFybkt5OFNraUxyaDJTTldOSHBzS1JFLVBkN3VBVXVJNHREOVRZTG1NWE5pZG84UDFkNVZzNE5MQkE2cWtGTEtlZ1hNdThUTVhWdFF6VU9iNlpZWE9vTWEyeVVtd2oyUlFiZEZnUVZRUG1Jdw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "North Korea fires missile barrage toward the sea as tensions with South rise",
-   "source": "The Washington Post",
-   "time": "2026-10-29T10:11:07Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYmMzUEk4RmMtVWpOM1JRU05EWmd3VE1MM1VPQ2dVQkR3OUVrTnRqZGo3N3lENWhNYmNyOFJ2d2ZOV3NudmhGZldLLV9DVDdRYnpUUG1ucFBhSndvVDdjdjgzdTh1dElLTVc2MEQ4WUpnVGh0U2xlbGd4cUFvc0NSVjlZN1FMNlg0XzQ4TENOMnZlci1fR0NWOGU1WUNpaWdEQmZ5aGpROEdndmtWLXMzUWUtQU05UXNlaFJaMUttMFk4Wkk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Price Forecast: Dow Ratio Warns of More Downside as Yields Rise",
-   "source": "FXEmpire",
-   "time": "2026-10-29T10:10:03Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmlXb2NPU2NsUlNBSmR4dnBLN3BXeXFXX2JFempMa1dPSXNSZDJONTFvUld0cm5BVTFMZWRFNm93b3A2el9GREtiUWtpUkFldTJjN2JHeFZSOGJxNU1xc1YwU0lvTkU0MmtEdVlrQlJ6ZnlVd2tuSUdvX2l6UnFNS3JPanVmOE93WUxjc1lvSnYtMjFLZExXbllsclE3aEhIcVgxQ0FrWGxuc3VNaldGajkzTVRsTXotYVZLNmkwajhqS0Rj?oc=5",
-   "tags": [
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Oil Prices Fall as Vance Moves to Restart Iran Peace Talks",
-   "source": "Investing.com",
-   "time": "2026-10-29T10:08:00Z",
-   "link": "https://www.investing.com/analysis/oil-prices-fall-as-vance-moves-to-restart-iran-peace-talks-200690507",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Shell profits double to $10.8bn as Iran war pushes up margin on oil",
-   "source": "The Guardian",
-   "time": "2026-10-29T10:06:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUZ5dFJPeFNSVHdMcWlFazJSWmYzVGwwUnZHOGcyQXpyYTlPcTVGXzU0eXJSN0prQ2dHNXBjaWxfWnlLc2RrandVX1JyQ245M2E4UUFYZDFVVUVyU1ZYUTJaQWd3MDZRMkdKRlJxRDZIRXdJREVBWURaUDlWR2RwVVE4MzJTSGlXVXR2Tkk4VW02c2huMFBDM0YyczMwOHBIMnR3aldyZlJFT3dBenc?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "As war strains Kremlin finances, Putin reaches into more pockets in search of new revenue streams",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-29T10:05:22Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2NLOEttNllMMDFjQS1JX25fTGlyLUJxY3FKN0loOEN1cnotQmt4c0hUcEI2MWxXSlBqelE4WTRNXy1JVjRDamRUWXdXRUVyaU9RT09RQkFMZzNtQVZtbFhEQWlCLUMzZGZacldONWotb1hyNDRlSS01a2gtREVRUEZRemh4X19zTjR2Q0gxV0UwazBQRmVrNkJrUkpaa3psLVBiUHpaR3RuQdIBrwFBVV95cUxPc1BQSmhoOWVVVVBlRUQ4WUtZbDN5by1HNEZ3VE9WeEFfY0tXMzhxeTlGc0dsbU4ydkFYS2tnSlYxN3Fma3NtS2ZsR1plcThVYmI0eTVnSFZWZEtuU1l4dE5oQmZWS2Z4QTZwRWxwNHVZRlQ3TF9ObkI4cXZDUk5BRmdGeGpBVHFJa1pIU1pDMm1IVXJ4dVFUMG1KelFYbDNVYUhyaDVlUHlOalFkV0Rn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US Treasury Yields Fall Early Thursday as Investors Await Fed's Preferred Inflation Data After Monetary Policy Left Unchanged for October",
-   "source": "marketscreener.com",
-   "time": "2026-10-29T10:03:29Z",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTkhmSlVjNnd4ajlCSGlieldMdWhIN0tVbW00NzEyelBqRXhFZl9FcENJVl9zSUhBWktvNFBBejVrdS1OdVNVeXNDMkxTeE9TcFByZkxEclBFdk9vZWhyb09rYU1vOVlINmFUemY5SUdVU2VJVWVEeEFDUmxWamMtM2d3am9WZzRIbUJWbDVWOVQzN0hNWkhJMmxQYlZFYVJiaE5GeTZpU09IUUZRcnZCa3hpaHhtV0Z6bFpKTktKajNhclNqTkVlamw1eDA0OFF5WV84V2JIN3hfZGNrRXcwVXFvQktUdzhU?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "YIELDS",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "U.S. Treasury, European Bond Yields Fall After Fed Decision, Ahead of ECB Meeting -- Update",
-   "source": "marketscreener.com",
-   "time": "2026-10-29T10:02:40Z",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOV2tKYWNGMDBuZ1lFcjllSHJ5Z0NoSjhmTXhyNUdmTTBTNHFtWDN4dGtCMGhNWnJnbXZNNkZkQTFEcFFhOEFJdDQxcU54enRQOVZfajdVZGNfWTZFd1BhQ0Y3WmlxaDZWajNLMmJCTjRSTWNEWktrbmh2YTdSOFU2ZU1tSFRobXhkTzl2NDNVWDBxNkptWjc2NU40RDdCUnZ1RGJrbl9GYVVtTGdwcXRwaTZkWE5ocFZfMjVTU2ZoYzAzN293bXBaNGFtQUtzSXFLVENXTQ?oc=5",
-   "tags": [
-    "FED",
-    "YIELDS",
-    "ECB"
-   ]
-  },
-  {
-   "title": "America Needs Canada’s Aluminum. Trump’s Tariff Exposed Just How Badly.",
-   "source": "WSJ",
-   "time": "2026-10-29T10:02:07Z",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jbzVnMndsNlQxclpucDhubXk1UlpfVVNoc2s0RVUtbS0ycmw4bURxZ25DV2lSZ01iUVVxOEVwc09GTVpLM3JOa2prei1vWS13aXhkWTFwb1JzNnpUS0NxZjJTLU83LTQzd3FqN2FteXdsbmtI?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "ECB President Lagarde to step down on 7 February 2027",
-   "source": "ECB",
-   "time": "2026-10-29T10:00:00Z",
-   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "title": "Founder of the doomed 'never-ending' cruise speaks out: 'I'm the villain in the story, but I'm doing everything I can'",
-   "source": "Business Insider",
-   "time": "2026-10-29T10:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTmdVZ1ItUkJxSWJaMDI5ZmExSUMxdzBSSldoRWpYMGNYb1BjZndXdC1jMDlVcnZ6UzMzd0hRMjZPeEN6SnJqVUotZGtjSk5kZlhUd3pHN2tITUFRUXdYOTVaaFI2SHBTNU5CeEE5THo3UDNneGdXVzZNQnBZaktZbGVkY3k0TFhXVjFWQkpkTlMzSWt5MFFLaVUydkN0YzQtLWc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "U.S. Treasury, European Bond Yields Fall After Fed Decision, Ahead of ECB Meeting",
-   "source": "WSJ",
-   "time": "2026-10-29T09:57:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVJzTU8waHdld3FnbVROOGw4ZEtGS2g3UHpKYVFXTXhzdW9DeW8xYmJrY1RmWGFvNUlqWThQR2FWaTRuaklmYWlhbTNQV0lfa3BNNmFjSHBUaTk0NDVNSHRFLUg5MFFhTFZZMWZrTHh5ZHpYVnVzMlpNZ2hqaEM3LVJuOUhrUV9kc3NGRHpfdFNkUEhTX2oyTzVRMUhvS1dyNkF1UVV4eEtFM3VXTXJvUG9Lc3dnRjRDc190d0Vzem5ZNmxfNktGcUl3?oc=5",
-   "tags": [
-    "FED",
-    "YIELDS",
-    "ECB"
-   ]
-  },
-  {
-   "title": "How much is the war with Iran costing the US?",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-29T09:52:06Z",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdUNEd0tTanFlNnlJTkJxbFZUNF9iVHZJQ3BVVlFLSTVaZ2Q3d0Z3U01SdGM1WHFnUDJiajB0LXJ1T0M0Z28wcTZscV85VjN1LUd6T2xZU0ZQQ1haTzhzbUFWcnlVSmt4WXk2TTUyUlJfRU15ZWfSAXtBVV95cUxNYXV6SHZKUS1PcVlLdEQ4dmdzNUdKck1JLTg0V0F1TzFEc1g2UzBHUXdUdUd0MkdOSzg0MlNhVXVZakVUTDdBWmI2QnRKVWQ3SG95djhkbUo2S0NmbEZ3bENMamdiVF92XzBzdlcyUDVSTEpWcWVUeEIyb0U?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US Federal Reserve keeps its key rate unchanged at about 3.9% despite stubbornly high inflation",
-   "source": "AP News",
-   "time": "2026-10-29T09:34:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSEQxbi1pcURCemdIUFN2V3VodjZ2Rk01eXF0VGdTX2xyR1Z3LUlnQ0hLaTRKeDNIRWx2WlpMYkt2OU1KUDZYeVUza2U5d3E4REpMSVpYTC1WNzNVRmZGRUlBcHMtS3BpZ2l1TXgtczhnSTUzbmluOGZSRW80WHNTWmttRWljcFc0RVdZM0NMV0RFS2gxd01qNWZ5T0N6MTFhLUIxTUpVNG1wellDZF9VVC1ZbTNfRzFIb195M3VEeWN4R2IyNEtBTFRabkhOT0RkQXZyRlBFR0txalJvTTl2VTBVZDNBaXM?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "I Went Home to Long Island to See How the Iran War Is Shaping the Midterms",
-   "source": "WSJ",
-   "time": "2026-10-29T09:33:25Z",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN1JSU1RJbWgydG5vTjdkRWNRaDRiR1d6Ul9URjJ3aDJxdWxMSHVnTmd0cmdydWwzUVU3Z1ByajBCczBMTGV1LXZLdXNvVUlqMGszZGo5WTUwWkNNZVlYZjZtYXF5RWVZcTRaWExtbUNXUHBfWFFuLVVTb0VqdVRxd05Gb3hwMTRHVEliZmREdmtKSWwxR3NlbTNhaUR0QmxCZlZHdVFiMjQ5dFhJSFh3bUk0Vk5EU1UzVWFhY1I0RWs4MnFPWWwxVjhxdDhHODhHODRr?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Netanyahu’s next move to block cooperation with Arab parties: War on all fronts",
-   "source": "The Times of Israel",
-   "time": "2026-10-29T09:26:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUGYxbXN6YlBNODZ4R1lhTWNDS0tyaW1sLXVBcHU0d0N6SFA5djk4ekFwalpDcDk1VkZsSkZqdXIyaGtjdEl5NUdYeXlLUmZIbVlEakdnRzUxeks4cjdvNVQxSzU1R1IzTnJPblJGb2FOQjA0NldjalBPaXlfbXdwdE5vbHFRUDR4aWJCbE5FODZUS1FfOWNOYXg4dGs4bDFqcUg0cF9USWxmS3I2a2VR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "WTI Oil eases from highs on Iran peace hopes but remains above $100.00",
-   "source": "FXStreet",
-   "time": "2026-10-29T09:25:25Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU0VTdG16ME1yRS1zQ19Ba2RHU1lDb1FTSFVxcVg5SFhlUDFSX3ZxOFRGNDJWLVpIcEUtY3pfd3l4ZXY1blIyV1dCWUplcS1kY2ZRaVAyS1poMTl5cDViY2pJWWtadDkyelplVTlZdi1pdXp4MFZZczJxdTdDNHRMaUhtdnJtYVZHdmdtY19tTGxWeThqajdFSURLOFZaT1VvQnJ5SlI1OHM4VW9IYXNWYg?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "I Went Home to Long Island to Find Out How the Iran War Is Shaping the Midterms",
-   "source": "WSJ",
-   "time": "2026-10-29T09:19:18Z",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb0p4WWpzemhQQmVIVGxPaHNEUVgwc2xtSnpWenBaV1V5SE9jTmRHRWprcXZrbU4wYjlWMmJPUWpBN19lSG1IcTR5RjAwLWhaNm1fWUxhcTdWTUJqNWtROGh2N1JpRFozY3VzTjJGNzhuMXl1Y21lUTh1WHZmUEpiSWh0M3Vsa3hiWlpLUGJLSWZPTl8tcWRiX1FvV01tRVB2bFVwVHVnNTJ0ZzBlaUU4d1lnNkpzQ1dmZFluZUNCODB0d2dHUElVdWdNdUs2ZlVqNjRGeTlMaHB0V3Jfc0dQbzh3clowbWxGeXNIZE9nWWk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Argentina farmers evacuate cattle by boat as El Nino escalates",
-   "source": "Al Jazeera",
-   "time": "2026-10-29T09:17:10Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/argentina-farmers-evacuate-cattle-by-boat-as-el-nino-escalates?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "GDP report set to provide snapshot of economy ahead of midterm elections",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-29T09:14:52Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOXA2Zy1xaExmZTR0bkJjUzRxeHNkWVhpYXl6aV9BaUdDdnZ6ZHhBTlFhb3ZBZWZRdlo0WkVmNmZkZklFLUthc0hIdWhDRUdwM0o5YWVLdDk2dFotM3NqOWh3RVlFdlIwWmNWN0dVOEFEa1pEaFRXRTdqWmVPSnI5YWFqdkJQRjEyZEczUVZ4dDYzaTJlQTVOTURQSlliMlgzZThJ0gGoAUFVX3lxTE5VNWRkZ1doeURsNXJuaDY2VzVwLWdtTk9hd2FlRUoxUW1aeWUwTWNIemtVZ2N4U2FyMVBrRE1HWF9Bck9ZX1kzeTg2MmZPaGRCTWFKTXhjVGZ5SEhHektfVzk3R2dRR2pYTmlROEh6akZUaXVxcTVRTGxLTWZfbFNUaTFFU3RDVjVxQjMxcG5idHY1OWxnQ1dDa3hkcDA0WU1sUzRzb3ZMOQ?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Honda (TSE:7267) Stock May Be 20% Undervalued Despite Tariff Warning",
-   "source": "Yahoo Finance",
-   "time": "2026-10-29T09:11:34Z",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRjBmZURZaDBSUUczY3pnb292MXFNbVNtN0ZUcjNxaEhHZ005US1GWEI0ajljVTRMdTM0WTAtSHFSX3BhcVZEb2tWOV9VZWJEMDNNOThTTXRrVUlOVzI3VW5wZEpJTzFKSjRlME9FdmZfNXhsS3dzZkFvbW5HanhMcWZGb1ZBNDJkRnBpVkFIdkRGcjA?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
