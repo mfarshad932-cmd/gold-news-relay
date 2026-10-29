@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-29T20:14:34Z",
+ "generatedAt": "2026-10-29T20:42:56Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
    "http": 200,
    "items": 20,
-   "kept": 1
+   "kept": 2
   },
   "fed_monetary": {
    "http": 200,
@@ -52,12 +52,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 4
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 4
   },
   "bbc_business": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 29,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 44,
+   "items": 42,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 33,
+   "items": 32,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 26,
+   "items": 25,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 21,
+   "items": 19,
    "kept": 12
   },
   "gn_oil": {
@@ -116,19 +116,46 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 3,
+   "kept": 3
   },
   "fed_calendar": {
    "http": 200,
-   "items": 2
+   "items": 3
   }
  },
  "items": [
   {
+   "title": "Two U.S. service members die amid Iran war, Pentagon tally shows",
+   "source": "The Washington Post",
+   "time": "2026-10-29T20:33:59Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVRPSzRlRVc4Q2VvaVJkcU5wM1UzcktoQXhBdnNlTGJkRFB1QnBiM0M0c0FmQVpNX3dBczR6QmE1aUFLY0U3LWprcFdXUGVSQVpIbkRIRmI5QmlKYTZGeXJaUmlDWWdONVFEbENzck42a0h5bXp1Q0ZHejVzanRuTFBpSjhFQzhkNFN3S25FbzdqMFdrV3BVV2k0RG5sRGt5NUFHZV80QTRNSmJiSEh5a19Bdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+   "source": "Federal Reserve",
+   "time": "2026-10-29T20:30:00Z",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "FND: Tariff refunds lifted 9M margins as comparable sales and transactions declined",
+   "source": "TradingView",
+   "time": "2026-10-29T20:21:16Z",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaXlkSjBwdDkwbWJkUUdzcC1IVFcxZUl0cmJvUjI3eGNNS1JnVEFkZm5SVlhFUTZUejJqWXdPRUZrMkR1Zk5zQXd0UkV3WDlHUnc1NXdsbHh1cGd0TTVxV1NHYm5vYnVoU0JXSXE0c2dwRm5DeDFyUFR2U1BSWk9lQzNraHBCbjBTVHZaaXFiYkRVclFia3oxbDR1V0NwMnJhMl95aXZDX3JFc0hIQkNKNTdLWlJFWWJscURrUVVWMEVQVlFYeDlWQjdYYk1Mb3diQThDbUtiXy0xS0hpeVdTcFRWTC1tTXdwbFNCeFlSQmI4cGp6Tk1TLQ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Federal debt surpasses size of economy for first time since World War II",
    "source": "The Washington Post",
-   "time": "2026-10-29T20:06:05Z",
+   "time": "2026-10-29T20:16:03Z",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaG1kckJhMUVERWlLUEF6Y3dWSHRUSDlvbHFMNklfM3dBMGhSMzdBdWd2b24xT2VjbXBnR005WE9QVUtJbDFpTWhJMjdmUWtUVlBCRTlBTnRySjFpcHd2eUJOYjYwRHJQWFRySzNINGRXTG1Qdk50V0xORktRSDR2V1FXOWZ6Z2c5cERRblVEc201ZUJlTVgwSVlDaEdoOXBqZ3YtLS1mUVFoczJlVW1LWm5CTnM?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -150,6 +177,15 @@
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTzN1Vk1hZTFneENZNU5qbzJ3emtQTUIxZFVaZmRQTllUMUNoaHJXa2JxdjhscGR0ZHEtY1l2LTlzVjJRcE9jb0llZnhLel9CRklINk4yVEh2MGpZRXZmRXBrWGVhMEVUTC1Beng4cFNmSV9LZ0hFSjU2X3BpOVZZMzdQbWJyMWFmMkJVU2JLVkl0S1YwM0pYZlBzaWdhcWFCX1hJMjFHem5QdXZIaVRaUl9YNGNWdzZITEU5U0tzb2cyNXhhRFVN?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "The Mosquito Bowl review – Netflix mixes football, war and cliches in slick by-the-numbers saga",
+   "source": "The Guardian",
+   "time": "2026-10-29T19:32:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNTAxYW5QTmFxUWRmY1dMYXZIY3dZcEtlQ0VvTmgyZzZyd040ZjNvYWwyQzY4Ui0wdG1DM3Y0alBjRG1TS3RQUnJITUhOcFJKWkxkZFMxTXM4d2w0aUlwbXU5Q1B6MEkxZTlSM0QwVkVmb05XSVR5TXQ0aE5nN2Y0ajBYVGZGZ1VPTk53?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -217,6 +253,15 @@
    ]
   },
   {
+   "title": "Pentagon fires general it says leaked classified information to media",
+   "source": "Al Jazeera",
+   "time": "2026-10-29T19:04:02Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3loNGM5eUV1eU5abHowRDZ3WkZxeWZCLUl0Si1LMTZMaG1qaG1pQVgydW9ldHJ2cUZMNkR0LXFSTmZnMVlJRWwtQ1VMNGRTQUxxSFlHOTBlT0dXVzlseDd6YmNmZXB5OU1VSmdlWHMwMG1ZNjhxZF9FdFljbzF5WDl1R0I1R2ZlNi1kR2dONHJZWDJrLS1aaEdPb2V6SFdVZjFpbzBDMEMxM2NvclJkNtIBtgFBVV95cUxPeERhamduY3pqR20xN3ptM0loanMxcUlUd2xCWUR5MmZKclJnZXJYTXc3SzVESUdjZnF4cVZ5Zm1QWFFHQUt4WW5FaVh1Z2RrUnVBRWx0VF9PdGhINlVraTNLSTB3czNhWnhQeXNHWm5DTEhSUWJwc2JDYU51TmdlRDBLYzNzOFVEc2hwQ1puTUd6Vk9YT3h2LWRrRk96RmNnTkhXZ1BfZmxuYVJXdGpiUGhvcWZVZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Shell profits double to $10.8bn as Iran war pushes up margin on oil",
    "source": "The Guardian",
    "time": "2026-10-29T19:04:00Z",
@@ -224,15 +269,6 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
-   ]
-  },
-  {
-   "title": "Pentagon fires general it says leaked classified information to media",
-   "source": "Al Jazeera",
-   "time": "2026-10-29T19:02:53Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3loNGM5eUV1eU5abHowRDZ3WkZxeWZCLUl0Si1LMTZMaG1qaG1pQVgydW9ldHJ2cUZMNkR0LXFSTmZnMVlJRWwtQ1VMNGRTQUxxSFlHOTBlT0dXVzlseDd6YmNmZXB5OU1VSmdlWHMwMG1ZNjhxZF9FdFljbzF5WDl1R0I1R2ZlNi1kR2dONHJZWDJrLS1aaEdPb2V6SFdVZjFpbzBDMEMxM2NvclJkNtIBtgFBVV95cUxPeERhamduY3pqR20xN3ptM0loanMxcUlUd2xCWUR5MmZKclJnZXJYTXc3SzVESUdjZnF4cVZ5Zm1QWFFHQUt4WW5FaVh1Z2RrUnVBRWx0VF9PdGhINlVraTNLSTB3czNhWnhQeXNHWm5DTEhSUWJwc2JDYU51TmdlRDBLYzNzOFVEc2hwQ1puTUd6Vk9YT3h2LWRrRk96RmNnTkhXZ1BfZmxuYVJXdGpiUGhvcWZVZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -358,7 +394,7 @@
    "title": "Did the Fed make a mistake with its October rate pause? The Treasury could help save the day.",
    "source": "MarketWatch",
    "time": "2026-10-29T17:59:00Z",
-   "link": "https://www.marketwatch.com/story/did-the-fed-make-a-mistake-with-its-october-rate-pause-the-treasury-could-help-save-the-day-77d84993?mod=mw_rss_topstories",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZk45ZWVGX3Q2YVVVRTN4R1I0cld2ZmsydjNDTExsZWh3TFhObTRMdENLYUlIc014WUZJY2pPcDE1OHFiSU41T2gyNFh0cVhvemxSNHU1SU05czhJTFVnMWRBMUZlQnZ1dmpSQ1dRcmZhU1FsbGttUE9zMmRzLWtoUkNsUUF2ZTBfa05nUkFMR3RCRWNsNkJHXy0zZzNGMlhoRExYbi0wT1F0NFdUSVc5SHVmeVBTY1dnazQtSlp5U1FVbE1ZQWxCS00yMXNubHM?oc=5",
    "tags": [
     "FED"
    ]
@@ -387,15 +423,6 @@
    "source": "CNN",
    "time": "2026-10-29T17:48:00Z",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbGhpNDl5VDJsWmpOOGFwS29UZEV3YTNZOGdPZHVpeV80bTMtUVN5MlNBOEU5WWRNd0MxeEhGaEJEUzFqbmpMQWtNejBsMElPSDJzWUFRQ1o5bXpWcmZoTjAzZWRwOFBSLVJFR1BRQ0ppbko0NnV1bEZ5dzliSUkyakQtVURnVGpUSk8tSVhSRW5Ddw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The Mosquito Bowl review – Netflix mixes football, war and cliches in slick by-the-numbers saga",
-   "source": "The Guardian",
-   "time": "2026-10-29T17:48:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNTAxYW5QTmFxUWRmY1dMYXZIY3dZcEtlQ0VvTmgyZzZyd040ZjNvYWwyQzY4Ui0wdG1DM3Y0alBjRG1TS3RQUnJITUhOcFJKWkxkZFMxTXM4d2w0aUlwbXU5Q1B6MEkxZTlSM0QwVkVmb05XSVR5TXQ0aE5nN2Y0ajBYVGZGZ1VPTk53?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -518,6 +545,15 @@
    ]
   },
   {
+   "title": "North Korea fires missile barrage toward the sea as tensions with South rise",
+   "source": "AP News",
+   "time": "2026-10-29T16:57:32Z",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNzkzSFBERWxpTVJFbFIyemRsRnZILXJwMGZwQ3VUVmp2RW8tOXBJVmFIZ3NCZEpGaC1QZ19JTThvTWtrU01vTFBvUXUwSUpDWGpoLUNCYnFlVDdBdTJqMkNVWGl0WkdrS2hmdHZ2eElUTmRMUWdmOFgxZ3M0WWVabkswb2ZGTjQ1LThhdmJ6X1BrNmM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "See How Flight Routes Are Changing to Avoid War Zones Around the World",
    "source": "WSJ",
    "time": "2026-10-29T16:55:10Z",
@@ -634,45 +670,16 @@
    "tags": [
     "TARIFF"
    ]
-  },
-  {
-   "title": "Spin Master holds toy prices steady ahead of holidays despite tariffs, rising costs",
-   "source": "BNN Bloomberg",
-   "time": "2026-10-29T16:22:03Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeWtSZXQ3QndRRTJxTEZMUHhjeksxM0dFdEJNc0xGRUh2c3p1b0pVMzd6SDRPeGt1eTFXeGlvempoVU5TREVyd3ZaWHE1aVIyemU3cktXdlBUTzZQR3RnYVBtc2JlTkFxekdTaHo1bEFwSC0tTmNOX1phNTFVUmxFVzZRc0tjaG43dkJ6cXgzRy0xRkVRWTRGVXNzcTNxUkNyM2c5djhlR3kyNm90MUN3Yks3VUJBaHJNcFIxZmRCWQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Marafiq Expects Financial Impact from 2027 Electricity, Water Tariff Adjustments",
-   "source": "www.marketscreener.com",
-   "time": "2026-10-29T16:14:15Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTVZXbUNkVGFQaVpraU0xZVlPa2xHbkpHaHhnVWtOeV9pTUNUenV6MlFsR1NQaW9KdjltUm5CZVVXYS1aWHl6Z0dVUEFheFBlQ2VCRjVPeUc2aDZBRUlqS083dXI5ZzV3ZlhzakhZZlBQZUtxWnhVSXFfZEJaN3M2Z3ZROTNSNTVqNFpLWXlYa01RaldicXctcWV1cjBxTEU1VU5iMVhuNzRKQWZhOWNrSWdCUUVpZ0N2UFZ5aDAxMDhyOXAtbUZ5bVNpRWw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold getting set to rally: Brooke Thackray",
-   "source": "BNN Bloomberg",
-   "time": "2026-10-29T16:11:59Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1JXMFlsOTFlRG5tcnJERUdZZnNnNk8yUDdsU1pHNU9vZWdjaUctaWlYQnpvYlk3WHF6SkxPTDJNLWxQa0pEdUgzSVF2TWdWMUlDbXcxZkxXZW8wbVNHYkl6VTZLMWFzUlFOZlV6OEtvRFVZbk81NDRSWVRSbll2VlRNcHZGREREcDAtdnVBLWg1NngtV0hRS3pnTDYwRlI5?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Inside the breakdown of Trump’s $1.5 trillion Pentagon plan",
-   "source": "The Washington Post",
-   "time": "2026-10-29T16:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUHl0QUlzMlFiRTZONE1SNFV2T01ObHFvMUpOcF9rTGJpQmswUFk5N2FhNkxsSkNlc1dnUXJjLVRxN25WbmROOFNUMEVTT0NCd1VwUUVvVWZ6MkVkbkVQX0tYVWc0U0N0eUQtc3FGOXJucmQzUGJ1UjBTWWhyVFBBOVB3WklZVlpLU0xOYXBLRlBvNGRZcXFnMG9jQUFJNlZ2RUVwYnZIeTYzUU9RVGUw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
   }
  ],
  "fedCalendar": [
+  {
+   "title": "Discussion - Vice Chair for Supervision Michelle W. Bowman",
+   "time": "2026-11-06T12:15:00-05:00",
+   "impact": "Medium",
+   "kind": "SPEECH",
+   "src": "fed"
+  },
   {
    "title": "FOMC Minutes",
    "time": "2026-11-18T14:00:00-05:00",
