@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-10-29T23:04:21Z",
+ "generatedAt": "2026-10-29T23:32:43Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 2
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -86,17 +87,17 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 30,
+   "items": 31,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 32,
+   "items": 31,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 25,
+   "items": 26,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +107,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 14,
+   "items": 15,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 1,
+   "kept": 1
   },
   "gn_cbgold": {
    "http": 200,
@@ -128,10 +129,21 @@
   {
    "title": "Federal debt surpasses size of economy for first time since World War II",
    "source": "The Washington Post",
-   "time": "2026-10-29T23:02:23Z",
+   "time": "2026-10-29T23:19:32Z",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaG1kckJhMUVERWlLUEF6Y3dWSHRUSDlvbHFMNklfM3dBMGhSMzdBdWd2b24xT2VjbXBnR005WE9QVUtJbDFpTWhJMjdmUWtUVlBCRTlBTnRySjFpcHd2eUJOYjYwRHJQWFRySzNINGRXTG1Qdk50V0xORktRSDR2V1FXOWZ6Z2c5cERRblVEc201ZUJlTVgwSVlDaEdoOXBqZ3YtLS1mUVFoczJlVW1LWm5CTnM?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold falls to near $4,000 as US PCE data reinforces December Fed hike odds",
+   "source": "FXStreet",
+   "time": "2026-10-29T23:18:51Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV21WSjl6c1BWTC1UTmtKbkhXNXJHdlhTSEFqZmhxM1JvUFFiWS1YNlRWdlh3cGFLTFVleWIyTmJlZ0hza1dPNHBwT0FvbmxycS1FczVIbThueVVhVWYxeFJNdlBPZ2NTZE52Q1MzbE9ZQjJjU1JNZjgxbjFGY3BMSU82dm5kdndzTFdhdnJleEVoZmtPQTc0TWpEczVOZGVBeXl1aFJsdGEweDFLRXFvT2wwUFlnbkk?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION",
+    "GOLD"
    ]
   },
   {
@@ -179,6 +191,16 @@
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTzN1Vk1hZTFneENZNU5qbzJ3emtQTUIxZFVaZmRQTllUMUNoaHJXa2JxdjhscGR0ZHEtY1l2LTlzVjJRcE9jb0llZnhLel9CRklINk4yVEh2MGpZRXZmRXBrWGVhMEVUTC1Beng4cFNmSV9LZ0hFSjU2X3BpOVZZMzdQbWJyMWFmMkJVU2JLVkl0S1YwM0pYZlBzaWdhcWFCX1hJMjFHem5QdXZIaVRaUl9YNGNWdzZITEU5U0tzb2cyNXhhRFVN?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+   "source": "WSJ",
+   "time": "2026-10-29T21:48:04Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+   "tags": [
+    "FED",
+    "CENTRAL_BANK"
    ]
   },
   {
@@ -341,6 +363,13 @@
    ]
   },
   {
+   "title": "Treasury Rates Today: October 29, 2026",
+   "source": "Forbes",
+   "time": "2026-10-29T20:19:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yck9yOUFWR0FpdE9oMU00NGZWMVVrb25MOWxBWmRuU3Ztc1FvdGJZZlBMXzZwUnpPQVp5Mlg4UzFwX2VZTG00SUFUa3p0VVoxRFZOY2M3V2N3R1ZlLXhCdVVpWHNKd2s?oc=5",
+   "tags": []
+  },
+  {
    "title": "investingLive Americas market news wrap: ECB holds, sources report says December hike",
    "source": "ForexLive",
    "time": "2026-10-29T20:14:14Z",
@@ -374,6 +403,15 @@
    "link": "https://www.marketwatch.com/story/microsoft-to-raise-up-to-25-billion-in-bond-market-as-investors-get-pickier-about-ai-debt-binge-7c6ae777?mod=mw_rss_topstories",
    "tags": [
     "YIELDS"
+   ]
+  },
+  {
+   "title": "Economy, healthcare, Iran war top voters’ concerns ahead of midterms: Gallup",
+   "source": "The Hill",
+   "time": "2026-10-29T19:35:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ0dYVno0X05fZE92bkFxdG50eDFRZHhXMEVpenI0Y1JjZXdwc0ZlaG5ZTFdLM05idmJHWUUtLXN5LWtjeEM4Ti1ELUM0VmhtYndFc1hkRXZ2N3VfZmtHdDh6TGlNQkNDRlYydG5DbzhKbjU0bGd0elVSbk9UdHppZ0d4bThNS1hJSTRDQTluY04zd9IBlwFBVV95cUxNcVVsbFdjZmhrWU9uLVF6TF84ZFJ1a1A5REpTLXg3N2JOdkFfSUhTb3VMd1pwYjdwNHhkaEs0RW85N0YxRjNOUmYzeGlUc0lwb09pOXJQU2xFei1RYkZhVUxWaGYzQTM5VjN1cHd0RWJKWXoybnFzU2RfZXVaZFdoVHlYZUwyYTh3Vjc0Rk9jSXBjakpYMDZN?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -484,15 +522,6 @@
    "source": "The Times of Israel",
    "time": "2026-10-29T18:51:00Z",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aZzBDLU12a2U2enYyVlVNc3pKcjZvU2libDM0SjgxUGIxVm90M096WHpSUDF4TTF0TlJRZHRyeTdPNV8wU0lDRV96YWY0eUdDYVNDZ2YyLTNVbFRJbUgyOW5ZWElyMVJINnhPNjJvNmJzZzUwcnJr?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Economy, healthcare, Iran war top voters’ concerns ahead of midterms: Gallup",
-   "source": "The Hill",
-   "time": "2026-10-29T18:49:20Z",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ0dYVno0X05fZE92bkFxdG50eDFRZHhXMEVpenI0Y1JjZXdwc0ZlaG5ZTFdLM05idmJHWUUtLXN5LWtjeEM4Ti1ELUM0VmhtYndFc1hkRXZ2N3VfZmtHdDh6TGlNQkNDRlYydG5DbzhKbjU0bGd0elVSbk9UdHppZ0d4bThNS1hJSTRDQTluY04zd9IBlwFBVV95cUxNcVVsbFdjZmhrWU9uLVF6TF84ZFJ1a1A5REpTLXg3N2JOdkFfSUhTb3VMd1pwYjdwNHhkaEs0RW85N0YxRjNOUmYzeGlUc0lwb09pOXJQU2xFei1RYkZhVUxWaGYzQTM5VjN1cHd0RWJKWXoybnFzU2RfZXVaZFdoVHlYZUwyYTh3Vjc0Rk9jSXBjakpYMDZN?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -639,34 +668,6 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSnZORDdvSXVjaEZWNi1VbFk2VFZkeF9pM3FRWFo4Y2c5YWhac3E4RFNYMDRGUUdIQkN6V1dKZEd6NmlxSGRURUxwZFdVczM3dzlpZkZmNWdTa2tBS2xlODRHNk1ZVTk5cjJXenRickdTc21UUTd0UHVzTjYyRzJXcnA2dGlFSkJvSE44cmlPcUVCbm5XVWx3?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold remains stuck as the Fed takes a hawkish pause - TDS’ Melek",
-   "source": "Kitco",
-   "time": "2026-10-29T17:25:02Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXc0WmY1cTBwYXd0OVhjejV6em9BWjc3VzBzQkc2cVVYamJ6MkVxNHN3ZzI5YWJkN2x0MkJocXk4LWtVRUVrdm9UaUJQbi1YWDg4ZjRLdVNiZWF0UFN6SGNrLWl0ZDB3MG1HWjNkbUxkcXFKV2ktUVV0ZXNPOWl3bmRGRlNrTzhrNy1qMFV1RGRwcFJCT0dYMGJoY08tUU0?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Watch Fuel Costs, Tariffs Erode Republicans' Edge in Farm Belt",
-   "source": "Bloomberg.com",
-   "time": "2026-10-29T17:18:14Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM3hRenFtUzZ6VXFvZzlFWUl1YmJLNzVMSXhEbHNWTzVyV2hNU05uWVg2Sm5HMFlMSEJnRENKcnB6RzViQnpUS2gyTUI1ekpoNUdYQWM3bm9GNG54ZDRHaGlZc3VLSXp4bWNhdnY0YmJYZ1FwcVNjMXpOZjZJemFxZ1EwZnNTTkMweHFrcGhrRGN4ZTlvOUNwVjFoei1BRDlBMElReXhSR3NheWhYRnc?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "US interest rates held steady and economy grows - what it means for you",
-   "source": "BBC",
-   "time": "2026-10-29T17:15:05Z",
-   "link": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "RATES"
    ]
   }
  ],
