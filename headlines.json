@@ -1,17 +1,17 @@
 {
- "generatedAt": "2026-10-30T17:57:37Z",
+ "generatedAt": "2026-10-30T18:25:58Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
    "http": 200,
    "items": 20,
-   "kept": 2
+   "kept": 1
   },
   "fed_monetary": {
    "http": 200,
    "items": 15,
-   "kept": 1
+   "kept": 0
   },
   "fed_speeches": {
    "http": 200,
@@ -52,16 +52,16 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 2
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
-   "items": 47,
+   "items": 48,
    "kept": 1
   },
   "bbc_world": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -86,7 +86,7 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 27,
+   "items": 29,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,17 +96,17 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 42,
+   "items": 41,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "gn_yields": {
    "http": 200,
-   "items": 20,
+   "items": 19,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 7,
+   "kept": 7
   },
   "fed_calendar": {
    "http": 200,
@@ -126,12 +126,76 @@
  },
  "items": [
   {
+   "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
+   "source": "CNBC",
+   "time": "2026-10-30T18:25:41Z",
+   "link": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
    "title": "Fed officials are already saying they’ll need to get back to hiking rates",
    "source": "CNBC",
-   "time": "2026-10-30T17:48:34Z",
+   "time": "2026-10-30T18:18:17Z",
    "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives 3.5% As Traders Focus On Tech Sell-Off",
+   "source": "FXEmpire",
+   "time": "2026-10-30T18:09:07Z",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc21LbHZwQzNLci1RVWctSkRFeW5GTFZwRWZMV1hhdUhqcWdvTHhGNWwxeWFqYTBudm1hOW9Cc0ktdWx1YklRYmxDcURTV3UwdUFrelNMVU5TbjF1NUdhQm1BbkszdVI3N2hLUnB3U2dUeVZGZVVQQTYyaFlWaEItaUwxZk9TZFBXWlZZekdxdHRFbk1RTVg5LXpYa1FubkFFS2QzU2FUbzRzX3l1YzZmTUp5V3h6TXJtV2JpLV9tVHlCOXVBbFlrQ3JsZ0Y1Skx3S3Qw?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
+   "source": "MarketWatch",
+   "time": "2026-10-30T18:09:00Z",
+   "link": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "A resumed Iran war after midterms would put fragile gains in Hormuz to the test",
+   "source": "The Washington Post",
+   "time": "2026-10-30T18:07:32Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlhHVWx5Um1HLXNrSExCVlpjcXFEdGlYSmZsRmVydTRKd3VNcGdVVzA0dGJxMkduZVFNM1IzeTloX0QtRWdLQS1wSzl1QVpXX1ZNQ3dXbFBlUlBVQjRid2M1bmhfZ0VmOER2NEFBODhxVG1qRHJGS29fRFpXa21yVXpVMDh2NEdkZ2RpX183R054UmdUUmlROVJPWWg0c0NBOHZiWGVJT1dRd0M2ejZYbjQ5Q2M2THc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Why Oil Prices Will Continue Rising – And What Can Be Done About It?",
+   "source": "Yahoo Finance",
+   "time": "2026-10-30T18:01:58Z",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT244LW9uRnF4VnhZaXFTb0FBdVVUQk5YeHZPRm13TmFQYTNWWUNXOWJHUlYxazIyekZhMy1BTkFQNjlhRVVESkJRTXQ2VUxKMUE3R2p5bjhtNlZnc0t5V3dXNzJZcDhpZjU2Q2otaTQ2YlJqWjYyNGVVS1hPTk1BdFJpdnlvd3MyTmlobFQ5M1Q?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Gold price forecast: Buy below $4,000 or risk missing the next rally? [Video]",
+   "source": "FXStreet",
+   "time": "2026-10-30T17:46:27Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU3lVRUZVZWRBRTA2SXFra1hVQ1RPR0dlVkdzX1I3aTdCX0RqVEZmTXlrVnBOeThkWVFZY0FUX240VHZVM3JLVkhfNk9jMmYyX1BUYm5tV0xIQTF1aThRTnFZUl8ydUJRd1UtOWhjUGNTcERaRlRSeWtuLXNTa3psQkFDZFp1Qk1FZG5pNHdSSGl4ZVVKeFlnWmQwUUEyYzZKVlRQQlRFZVJvQTB5eVpod3puNHRkbTE4dXRN?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold Risks a Deeper Decline After Breaking Below June 30 Support Levels",
+   "source": "Investing.com",
+   "time": "2026-10-30T17:46:00Z",
+   "link": "https://www.investing.com/analysis/gold-risks-a-deeper-decline-after-breaking-below-june-30-support-levels-200690598",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -150,6 +214,16 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTVRd0hzZzRWclRoY1VnTktoOW5UellUV05wWFBhZU04Y01PT2xWZjN4UWptTWFkaGo0SVFjZmdHTWxuZ3NqdUNneEkxc0tqLVdGM29rR21NSE02M1lrd0VTNWd2RHRpMWZyQk5zdjQ2bUhHU2FXYVdqWWZPelp2QnZsQmd2ZmZIREU0MElxc0IyX1dpdE9ITGNqOUpESnhzZXVZbXo2MWtFUjJJQVl5NktB?oc=5",
    "tags": [
     "FOMC",
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "Fed needs at least two more rate hikes, Logan says",
+   "source": "Investing.com",
+   "time": "2026-10-30T17:36:38Z",
+   "link": "https://www.investing.com/news/economic-indicators/fed-needs-at-least-two-more-rate-hikes-logan-says-4988462",
+   "tags": [
     "FED",
     "RATES"
    ]
@@ -174,13 +248,12 @@
    ]
   },
   {
-   "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
-   "source": "CNBC",
-   "time": "2026-10-30T17:21:47Z",
-   "link": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
+   "title": "Opinion | The Federal Reserve’s Hawkish Hold",
+   "source": "WSJ",
+   "time": "2026-10-30T17:21:02Z",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWJuOWxnMlUxMzlNZDRObEJNMWdVWmFDdmVFWEhlZjZUVWRYZ1F5MHliQk5Vb2IzVW9HcWw5RWh2Sjg2bTRQX0RFTUx0WWxrYXVVQ2FDbEJ2QTRCMlZrRWJGeW80ZUZRZ1pRdW9lamIwSnZpd3QwODh5WUNXbTJ1SmVqMlZieDE2cVE5bw?oc=5",
    "tags": [
-    "GEOPOLITICS",
-    "OIL"
+    "FED"
    ]
   },
   {
@@ -200,6 +273,16 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORGM1WURicWpQc2YxMlFleFM5ODdwemhpTnZjSm5faEg4M0RYa0FtNkM5WjNJWGJwNDc3LV9uREZVRldKUlpxRXgyR1RZWnlYRXZTOEoweFJobGk5M2UwUUI5NDU2YWdhd1ZyN0lucVVWX3FOZzdtZzZFYmN6ZGMxd3dxWUpxd9IBiwFBVV95cUxOWTVVNEhjSVpCVFJOY3MzQTdyd2FuREVzVjZoVUU2NUc1UU40elMyZEFiUG9qb25ZNl9maXNfWmlFYWNXZlJpaEtwRGNFZmFoUDY2Y2V3MmxQRUlzd28zRG9vZWE1MGRpenVDQk9TZFZveENHSVUteXhpY0JoelJNVDkzTzNydmxaSG1N?oc=5",
    "tags": [
     "FED",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Serbia's Russian-owned NIS oil firm secures new US sanctions waiver, state TV reports",
+   "source": "TradingView",
+   "time": "2026-10-30T17:13:12Z",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR1RYMS00SUZmVDZHVUEtZXk3U0pFOV85cnppa3BzQml5R0RmLXpZcVdBLVVLeUhvMVlsSTNqN2VjM3BwclRpOWhHM0NuMlE0bjdiSWUwV1FQTU53Wkh0aHBGUHJobHRXUkNoOEZQd2hyZi1YMEpGYW56VHFDM3Y5aTFNbUdReG1Va2tkNkhPVGNJVndYU3NmVFM0YTcteGZ4cnNIZVFyY25HTnYxOERWN0dzSVNZOE1zbWhRQUhEVi1ZVDBLMlZYOUM5aVM3dTMzRzY1dUtxLXRZdTlWd05YVDE1YU5HSDJNWGc?oc=5",
+   "tags": [
+    "SANCTIONS",
     "OIL"
    ]
   },
@@ -259,6 +342,15 @@
    ]
   },
   {
+   "title": "Trump’s foreign policy, from Ukraine to Iran, raised fears of world war three. Americans are about to have their say",
+   "source": "The Guardian",
+   "time": "2026-10-30T16:47:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXR5bFdUc1ZVTWJ1aXVaLWFjekF4LXRXYXdqLWN6WDhQekxBQXhzV0kyb0VteEpGNnU0N2xkOF9fUURFMU5wMzU4UzQ2M2JkeWJKM1BuTU5oV3pVS0NiUGZXb0JWcGc0NWo0UnJyRmtIdEhhQ3JVbjhSbzB3ZXhlaHhYRDFQdDBYVXpCSm9iYU1hWkZMOFE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
    "source": "CNBC",
    "time": "2026-10-30T16:44:31Z",
@@ -301,15 +393,6 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUmJ5aWllTVpoRWxnZUhVSzgxX3I3eUZYSDlZT0dldjgzVXJRQ3RBZHFEMWtSM0stMjdTaS1SQWtRMTZibU1TNDF2a011clN3LWYzeWtpX2RzNEh6U2Jwa01QLVlwVXlHd2NPSWs2bHdIYkZjdlRRLUVBUEVQdGlZeXVvZzUzMk56azAtbUZlaUs1Si1YQnhPMTFzcXJoWUY5?oc=5",
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "title": "A resumed Iran war after midterms would put fragile gains in Hormuz to the test",
-   "source": "The Washington Post",
-   "time": "2026-10-30T16:37:32Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlhHVWx5Um1HLXNrSExCVlpjcXFEdGlYSmZsRmVydTRKd3VNcGdVVzA0dGJxMkduZVFNM1IzeTloX0QtRWdLQS1wSzl1QVpXX1ZNQ3dXbFBlUlBVQjRid2M1bmhfZ0VmOER2NEFBODhxVG1qRHJGS29fRFpXa21yVXpVMDh2NEdkZ2RpX183R054UmdUUmlROVJPWWg0c0NBOHZiWGVJT1dRd0M2ejZYbjQ5Q2M2THc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -366,6 +449,15 @@
    "source": "BBC",
    "time": "2026-10-30T16:26:11Z",
    "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
+   "source": "BBC",
+   "time": "2026-10-30T16:26:11Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3UkpoZS02YnR1RFJfOG03U3NnUnZaMEF3ZFgxNENoc3JLS0ZGRkYzb1ZrZTVzTEhXOG5aaTEwQ0VvbVY2Y1J5WW4ybGZKcHBveXpBT2owSmZWc0k?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -584,99 +676,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS3FPMjQxSDQ4emRET29tVjR5VXhqVldKY0dqUVZJNjVkS0RYa3hKd3liRkdCVnAtdmRjbUpxUXVEMXlqLTVJUGhwOEdnZzQ3ZmYxYkFIRDdCVWZkc3FFS0dsTENQZHFaR01kckcyMVlXekZQOFhIdWstMEY3NE1NYVdnN2FtOTBIbWxwMDQ3SHZOYW56Vmhtel9LZDlxQUtWYV9rYlRkNDlkUdIBrwFBVV95cUxOaXBPQkEwdmRTcHZpS3pZVG51b25pX1pMdHRjT24wUjFVWjNRNTN2cUtWTlVzaFdod3RraG5qQTBWa1Q3UjJGa2V0bWE1VUtBMTJpS2NaZnFSa1k2RTBHQTlLblZtdmJraUVpU1d6TWpvQWxJc2lKOWVlUDFnNG5vUDdJM1VIbC1Ga3hyM0xrdkYteXV1X0R6Z3BydVNWVkZOOUN2eVo3N3Y2NS1paFRV?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "German inflation cools on fuel tax cut, economy grows more than expected in Q3",
-   "source": "Investing.com",
-   "time": "2026-10-30T14:24:53Z",
-   "link": "https://www.investing.com/news/economic-indicators/german-economy-grows-by-02-in-q3-preliminary-data-shows-4986289",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
-   "source": "Al Jazeera",
-   "time": "2026-10-30T14:18:07Z",
-   "link": "https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Faces Further Losses as Traders Brace for a Possible Iran Escalation",
-   "source": "Investing.com",
-   "time": "2026-10-30T14:16:00Z",
-   "link": "https://www.investing.com/analysis/gold-faces-further-losses-as-traders-brace-for-a-possible-iran-escalation-200690591",
-   "tags": [
-    "GEOPOLITICS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "A Powerful Mosquito-Hunting Laser Uses A.I. to Zap Winged Pests",
-   "source": "The New York Times",
-   "time": "2026-10-30T14:14:36Z",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pOExXYTZ1ZjJaSUlzX2lPaVlieXNmSjFXc2ZPNHlEa3FxbkxVYVZhaUZXdmxnNGt0d2h2VXMwbXB5VlpoRmJQX3hCTTJGMmlKMUJzWWdJVmp2czliOFdJOWYyWVFYb1YycVdXMFU1a3pxYzZL?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed’s Barkin Indicates Backing for ‘Gradual’ Rate Increases",
-   "source": "Bloomberg.com",
-   "time": "2026-10-30T14:07:51Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3JPc1I0V3ktNV9veTdKY2l3SWVkVzA2dkhZM05nUkFKc1JfX2RvWjExbU1DaXlrdnM2Zk5HeHFXVE96aU5DSEhSX3B4anUyVzBKRDNBa2JnVUpMR0xmZmdiMlRrbEt6VXZrYnNiQmZCbUxIZGNwbGdBQ1RjSlU2MGxnTVREU3Nrdm9yR2N1ZWVrWUdwRkFJWV8tcWlEVmFvRlpVRE1ESkhWblpx?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "Treasury Yields Lower On the Month",
-   "source": "TradingView",
-   "time": "2026-10-30T14:05:22Z",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdUN4cmVHRUFnb0VwY3c4ZE1IcS1PYU9TWDJCNUtPTnd0aFh3OUdua0JxYzRxSWt5eVNwUDFGVW5VQXo3aEc2eGgwUEZ1RTVLN2JHLUN4dzZzWnVYX2RySnBtdWNVUWJURmJmUUJnVGVnNzlpQVk4MWNrX1NUSC1pSmhWQlN2ZjBqcXpGOEh3?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Top Swiss court upholds landmark Liberia war crimes ruling",
-   "source": "Reuters",
-   "time": "2026-10-30T14:00:49Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakJKVlJOZTlhZzZxYlBuRDlGQWdKNmZqcUJFTVAtRVdrTXl2YTR0Ml85Vy1DQ21UWjdWTFE0cjFJdHprVEJsUHhjWjBCMUtXQ2ZqM2xHcnVzWi1zN1hjYWppSXZiT3Z3dVlXaWRDN2hoQmthTmdrUHF4UnJocGw1X29kQzJWeXlFQWlVYjhQQVcxVEF2RS1lNHlHZk5TWUROZUpydUJDeWdGR3J6QThqZQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "BC-Gold Futures",
-   "source": "Yahoo Finance UK",
-   "time": "2026-10-30T14:00:30Z",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuWlE3T19xQkxjQXdqZmJna2FkQWpRLUxqZUktbGM2Zk5VZk1yTmFNXzFnVTVkU002YU5PaGI3REdEeThvMjc4VHgxeGtISEZadWlpbWRIWEFJbWs2U19FSXVyUHl5a0xfN2hCUEZkYTlmZw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-   "source": "ECB",
-   "time": "2026-10-30T14:00:00Z",
-   "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
-   "tags": [
-    "RATES",
-    "ECB"
-   ]
-  },
-  {
-   "title": "Trump Considers Lifting Sanctions on Putin's 'Slush Fund'",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "time": "2026-10-30T14:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTdUSkJTZkNoU0pJRWZEdWhucFVLdVBiVlRzOVNZYUhkX2UzZXVFbGZvWlRWTmZnRnRBVzlfWGFkVGpJN2hrV0pHSkhaangxTXdjUnk4ZlpkOUZpaU1pcmxJbHY0bjlaVTBoT0dTRmpEbi1ENktBaHZTRUFHRjhyMFJyeWRLU08zVHFKTG5DWWJKYk82TGxhYmE5c1BaLTRO0gGmAUFVX3lxTE9JZ3B4QkNMU0JJdFpWa0tDTDVPbU1HWmQzTW5RVkxtNzdFdUt4Qk5FLUJtT3I0R1BndjdMMXd2N3pxM0ZHWG5pSTIwUXZhMGRoVWRhOVdtdGtkamtqUVRTM29oaHBBUWhUS01icVhRVWtpcVQ3eUV3alV2NzlXOTBQM09xclFDRHYzN3E4S1JYa0V4V0lMLXdhWDdwYWJRT2hIRlMtR0E?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   }
  ],
