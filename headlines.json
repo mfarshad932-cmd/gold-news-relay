@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T00:29:23Z",
+ "generatedAt": "2026-10-30T00:57:43Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 4
+   "kept": 5
   },
   "marketwatch": {
    "http": 200,
@@ -57,12 +57,12 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 4
   },
   "bbc_business": {
    "http": 200,
-   "items": 47,
-   "kept": 2
+   "items": 42,
+   "kept": 1
   },
   "bbc_world": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 32,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 31,
+   "items": 30,
    "kept": 12
   },
   "gn_tariff": {
@@ -101,23 +101,23 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "gn_yields": {
    "http": 200,
-   "items": 15,
+   "items": 14,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 2,
+   "kept": 2
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 1,
-   "kept": 1
+   "items": 10,
+   "kept": 10
   },
   "fed_calendar": {
    "http": 200,
@@ -126,12 +126,40 @@
  },
  "items": [
   {
+   "title": "Australia Q3 producer prices beat forecasts, keeping RBA inflation focus",
+   "source": "Investing.com",
+   "time": "2026-10-30T00:47:07Z",
+   "link": "https://www.investing.com/news/economic-indicators/australia-q3-producer-prices-beat-forecasts-keeping-rba-inflation-focus-4985664",
+   "tags": [
+    "INFLATION",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
    "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As U.S. GDP Growth Rate Exceeds Estimates",
    "source": "FXEmpire",
-   "time": "2026-10-30T00:17:10Z",
+   "time": "2026-10-30T00:46:00Z",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNTlMcVZxNjlfalhxMi02QWRMTGFrX1JKTEF4ODdDdTA0Y2JSTGE5TzNfWFU5ZUtaUU5CTWZ3M0pkbFZrakdpcDdzOE5XTjNaTFNwRmdzZzlKRWNTTngySDBkWllqcXgyaXRDcDJwQkVXSFo0U2dYUzFOOTkxQ3E0WHc2R2NZVmVFbGpBY1FEMUFrTEVMX0tpNmNXRDVGMEFzeW5mVzdWOHZIcGF5M3hNMld0TDdRczBtQ0h0SHVhVllrdFBwMWl5OFdZcks1T2V0cTNmYmIyNjNPcTA?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Federal debt surpasses size of economy for first time since World War II",
+   "source": "The Washington Post",
+   "time": "2026-10-30T00:32:23Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaG1kckJhMUVERWlLUEF6Y3dWSHRUSDlvbHFMNklfM3dBMGhSMzdBdWd2b24xT2VjbXBnR005WE9QVUtJbDFpTWhJMjdmUWtUVlBCRTlBTnRySjFpcHd2eUJOYjYwRHJQWFRySzNINGRXTG1Qdk50V0xORktRSDR2V1FXOWZ6Z2c5cERRblVEc201ZUJlTVgwSVlDaEdoOXBqZ3YtLS1mUVFoczJlVW1LWm5CTnM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
+   "source": "Al Jazeera",
+   "time": "2026-10-30T00:11:20Z",
+   "link": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
+   "tags": [
+    "OIL"
    ]
   },
   {
@@ -225,15 +253,6 @@
    ]
   },
   {
-   "title": "Federal debt surpasses size of economy for first time since World War II",
-   "source": "The Washington Post",
-   "time": "2026-10-29T23:19:32Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaG1kckJhMUVERWlLUEF6Y3dWSHRUSDlvbHFMNklfM3dBMGhSMzdBdWd2b24xT2VjbXBnR005WE9QVUtJbDFpTWhJMjdmUWtUVlBCRTlBTnRySjFpcHd2eUJOYjYwRHJQWFRySzNINGRXTG1Qdk50V0xORktRSDR2V1FXOWZ6Z2c5cERRblVEc201ZUJlTVgwSVlDaEdoOXBqZ3YtLS1mUVFoczJlVW1LWm5CTnM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Gold falls to near $4,000 as US PCE data reinforces December Fed hike odds",
    "source": "FXStreet",
    "time": "2026-10-29T23:18:51Z",
@@ -274,12 +293,28 @@
    ]
   },
   {
+   "title": "Mortgage rates fall for 2nd straight week but remain elevated",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-29T22:01:31Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRFU4dWRKTUlHU0hRczdJb254eFFvZ1o4SUtJaklvUTZoX29QMVZCZklmLVNXMXdiY0U0bzg3R19fYVl5WU5Ld0ZCTmxGRHlWUm5SSWVPZFBSWGh0LUVHX0JZckhDZFBFU0tiRVU0MzBpbzZnbXdLUnN4UXN5WXJXc1kySkRxaEZRZ2FhanpiTjdTUl9HYi1wS2lvX2RFcjBZSGdrdGgxTnDSAagBQVVfeXFMTURVOHVkSk1JR1NIUXM3SW9ueHhRb2daOElLSWpJb1E2aF9vUDFWQmZJZi1TVzF3YmNFNG84N0dfX2FZeVlOS3dGQk5sRkR5VlJuUkllT2RQUlhodC1FR19CWXJIQ2RQRVNLYkVVNDMwaW82Z213S1JzeFFzeVlyV3NZMkpEcWhGUWdhYWp6Yk43U1JfR2ItcEtpb19kRXIwWUhna3RoMU5w?oc=5",
+   "tags": []
+  },
+  {
    "title": "Why Americans can’t buy these world-class EVs",
    "source": "The Washington Post",
    "time": "2026-10-29T22:00:00Z",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTzN1Vk1hZTFneENZNU5qbzJ3emtQTUIxZFVaZmRQTllUMUNoaHJXa2JxdjhscGR0ZHEtY1l2LTlzVjJRcE9jb0llZnhLel9CRklINk4yVEh2MGpZRXZmRXBrWGVhMEVUTC1Beng4cFNmSV9LZ0hFSjU2X3BpOVZZMzdQbWJyMWFmMkJVU2JLVkl0S1YwM0pYZlBzaWdhcWFCX1hJMjFHem5QdXZIaVRaUl9YNGNWdzZITEU5U0tzb2cyNXhhRFVN?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Trump hammers culture war attacks on Andrews in final rally for Graham",
+   "source": "The Hill",
+   "time": "2026-10-29T21:55:00Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JdV8zbHY3NE1Ed05ZSFMwRGp1YkJXd2lWT1pmM2xjQy10Z1VzbEdEbWNWeF9yXy1GRXBVZkRRX1BoM094ZjNWX1NKWHZYbTg3VnA3QlVxNFZxcVY1OGtVLWs0eEVYVjBOT2tkdGNPUzQxWW51LUtIcm8tZ0VvWGfSAYQBQVVfeXFMTlZ6Y2xyUUMtZ2hWMzVZajd3Q3lTc0ZHMVJ6Tm1mbWRRWmNKVTJWUk5uVktOTnNqUk82YVFWNnB6bHlJeXlCWUNlQ212YUxNTEpSN2ZFOGxvbFAzaGpUZWJJbUVqQWRRYnFrZk5NT1BjZktpZzlvMGRhcDFuQ0ZUZFlEakJi?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -293,13 +328,6 @@
    ]
   },
   {
-   "title": "Mortgage rates fall for 2nd straight week but remain elevated",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-29T21:44:01Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ0xka3FURE5MT2Q1LVo0MkJfeTRFck1Rc0JDRGpqeWd1LWx3TWRYbE52Zmk5MFJCakg1eFB2c3plRGpaTjJIdnpCTDZJSG5KQldaNl9XOUVNZzBUX3Jnc2xpUkl0amtlVFVEQkdYYnVXazFoYVhGNWRWUjB5ZUdXakJYVHF5SE5jdXBVaHVyQXpFU01ucmswRGJ1a0lJNUcyTkdJ0gGoAUFVX3lxTE1EVTh1ZEpNSUdTSFFzN0lvbnh4UW9nWjhJS0lqSW9RNmhfb1AxVkJmSWYtU1cxd2JjRTRvODdHX19hWXlZTkt3RkJObEZEeVZSblJJZU9kUFJYaHQtRUdfQllySENkUEVTS2JFVTQzMGlvNmdtd0tSc3hRc3lZcldzWTJKRHFoRlFnYWFqemJON1NSX0diLXBLaW9fZEVyMFlIZ2t0aDFOcA?oc=5",
-   "tags": []
-  },
-  {
    "title": "Gold (XAU/USD) Price Forecast: Bearish Reversal Threatens Key Support",
    "source": "FXEmpire",
    "time": "2026-10-29T21:31:23Z",
@@ -307,15 +335,6 @@
    "tags": [
     "USD",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Trump hammers culture war attacks on Andrews in final rally for Graham",
-   "source": "The Hill",
-   "time": "2026-10-29T21:29:34Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JdV8zbHY3NE1Ed05ZSFMwRGp1YkJXd2lWT1pmM2xjQy10Z1VzbEdEbWNWeF9yXy1GRXBVZkRRX1BoM094ZjNWX1NKWHZYbTg3VnA3QlVxNFZxcVY1OGtVLWs0eEVYVjBOT2tkdGNPUzQxWW51LUtIcm8tZ0VvWGfSAYQBQVVfeXFMTlZ6Y2xyUUMtZ2hWMzVZajd3Q3lTc0ZHMVJ6Tm1mbWRRWmNKVTJWUk5uVktOTnNqUk82YVFWNnB6bHlJeXlCWUNlQ212YUxNTEpSN2ZFOGxvbFAzaGpUZWJJbUVqQWRRYnFrZk5NT1BjZktpZzlvMGRhcDFuQ0ZUZFlEakJi?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -343,6 +362,15 @@
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump says Canada has treated US 'extremely nicely' after tariff pressure",
+   "source": "Reuters",
+   "time": "2026-10-29T21:08:33Z",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uVUpCcGFqRXZhVkxfNTBhcWpHUmJ6eHVoWE9NeHFxSlVZQUNiaE0yQmROdHBJSzhxcUgwUGo5bGZ1dXVyaWJJb2xsaDJLNzJGYU1BSFZ4ajEyb0E3cm5mdG11LWVrLWs?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -384,19 +412,19 @@
    ]
   },
   {
-   "title": "Trump says Canada has treated US 'extremely nicely' after tariff pressure",
+   "title": "Trump says Canada has been treating the US very nicely",
    "source": "Reuters",
-   "time": "2026-10-29T20:49:28Z",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uVUpCcGFqRXZhVkxfNTBhcWpHUmJ6eHVoWE9NeHFxSlVZQUNiaE0yQmROdHBJSzhxcUgwUGo5bGZ1dXVyaWJJb2xsaDJLNzJGYU1BSFZ4ajEyb0E3cm5mdG11LWVrLWs?oc=5",
+   "time": "2026-10-29T20:45:07Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRXhEblVFMVZhRnB0UFN5Wk5LYkJtT0ZBeDV0R3lNMUF5Z1pjSUpxT3RYRUNROXN4Zk9XREN4SjkyWFdqVXF2WFMyZG45T3pZV2xuM2JveG52S3duUENqUXJTNno5RkdUWjk5Mjl2YWdLZlh4YjRSRkdJa2p3ZUNqQVJhRkVTcTk4U20tNHhUMHVoVlRKNVBVZGZJMjRTOTdScEtJ?oc=5",
    "tags": [
     "TARIFF"
    ]
   },
   {
-   "title": "Trump says Canada has been treating the US very nicely",
-   "source": "Reuters",
-   "time": "2026-10-29T20:45:07Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRXhEblVFMVZhRnB0UFN5Wk5LYkJtT0ZBeDV0R3lNMUF5Z1pjSUpxT3RYRUNROXN4Zk9XREN4SjkyWFdqVXF2WFMyZG45T3pZV2xuM2JveG52S3duUENqUXJTNno5RkdUWjk5Mjl2YWdLZlh4YjRSRkdJa2p3ZUNqQVJhRkVTcTk4U20tNHhUMHVoVlRKNVBVZGZJMjRTOTdScEtJ?oc=5",
+   "title": "HWM: Sales and EPS surged as aerospace demand grew, while capacity needs and tariff recovery remain watchpoints",
+   "source": "TradingView",
+   "time": "2026-10-29T20:41:19Z",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQR2ZnU1UxVTA2ODhoeGNhTndGVzlWdkZqa1R2LXFEcGFRa0c3c3MwUlp3S1gtUUphU1Q1QXVMd0JhY2hvaEZtSTg5N0R2cktsX3Q0bGVXcXZ2am45eDhSdjZHdDgzbU5CcFJ3RDNUZFgyYUw4bEpIMkhDV2lDY1RVanBoTmJQOWRqYTFNMUtkOGtvMThwel80cG03QVA0Q3pMUzlUNlNWejNIcXVKeVdkMGlJVFJrTHNiNkpDeFhGbEt4NC1FY1Nab05rWUhVWGhIWlNqUzlfNWdneU0wX1ExRGpmWnQ1cVJFbVM2dWZmY002YmpsQ2Rad2oxOHc4X0JnX0V2Wm94U3VVNDZnbU91Z0JWWDExN1czWks4OA?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -643,33 +671,6 @@
    "tags": [
     "ECB",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Trump: Iran war will be over very soon. Senator warns of 'insane' US plans",
-   "source": "ForexLive",
-   "time": "2026-10-29T18:29:25Z",
-   "link": "https://investinglive.com/news/trump-iran-war-will-be-over-very-soon/",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Analysis • Not October 7, not the Iran war: Nothing can sway Israeli voters",
-   "source": "Haaretz",
-   "time": "2026-10-29T18:20:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNOWNyejRRbGJ4NmtVRVBGdnBLTEZ1NXlTcFJPdmNvWTdESmFlclA0cTEyWnNZc0EwSDctSGpDQkJsSURmZ0p6ZkFuNk1EenlwX3h1UEhOMmF0RzU3ck1GYlZSU1F2b2ItRVhDRXpXcUNOVW80TzlZUTVCSlVyVy1keUJWSnBJLUgxVnJIVERJX3hYN3B6LXJyVU9hb1lsQWJvc1laRVAybW1qZkJQc3RwS3IxU09HS2VreGJGbmszYjJTNU92enpqaFZWeUlyM1JWU1VOR2RHQWpFR1NQR29iY0RZSDl6aFhhbFZxVVMtc2JWVmxrRm05REpIZmFQWWRkcnh1cTBfVmRkRzBaQ0ZfQ2dWWVc5Zw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Big Oil earnings are set to surge. Why investors may want to be cautious",
-   "source": "CNBC",
-   "time": "2026-10-29T18:13:32Z",
-   "link": "https://www.cnbc.com/2026/10/29/big-oil-earnings-are-set-to-surge-why-investors-may-want-to-be-cautious.html",
-   "tags": [
-    "OIL"
    ]
   }
  ],
