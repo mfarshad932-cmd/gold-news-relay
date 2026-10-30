@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T15:07:36Z",
+ "generatedAt": "2026-10-30T15:35:58Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 3
+   "kept": 4
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 10
   },
   "whitehouse": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 24,
+   "items": 20,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 19,
+   "items": 22,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 45,
+   "items": 44,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 20,
+   "items": 19,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 9,
+   "kept": 9
   },
   "fed_calendar": {
    "http": 200,
@@ -126,14 +126,59 @@
  },
  "items": [
   {
+   "title": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
+   "source": "CNBC",
+   "time": "2026-10-30T15:33:02Z",
+   "link": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Halloween candy, decor prices surge from tariffs",
+   "source": "Fox Business",
+   "time": "2026-10-30T15:25:28Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xV25LenhlSjBqZE8tMmlFcXg3a1E1bTV1UVZFR1dxMjJEYlM4MXNDcXdGYzhUaDdtb0pGX0J6VXc4R01YT3QwblR2U0wtbmZscFluX25Gc1ZSMUk?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "The Iran war is deepening the US energy crisis. A bad winter is ahead | Mark Wolfe",
+   "source": "The Guardian",
+   "time": "2026-10-30T15:24:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMHVnVFZTYkhlSmt4aHFQMTV4RnZzT3pKT2V6RFlMMml4TW9YelJ2Z0VUbnNHXzZ3c2hrS3JFTFctak5meFdRV1ZfMWVvcXFUS1ljSGZuZi1IMFdiemY0QTdWbGhFZDZpUmRZcW1kSFJTM3N4am5wYlpSWnIyV0RLQTItTVVFTEw0NTVZ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Swiss central bank posts bumper $23 billion profit thanks to gold, foreign assets",
    "source": "CNBC",
-   "time": "2026-10-30T15:06:44Z",
+   "time": "2026-10-30T15:07:48Z",
    "link": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
    "tags": [
     "CENTRAL_BANK_GOLD",
     "CENTRAL_BANK",
     "GOLD"
+   ]
+  },
+  {
+   "title": "A resumed Iran war after midterms would put fragile gains in Hormuz to the test",
+   "source": "The Washington Post",
+   "time": "2026-10-30T15:07:32Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlhHVWx5Um1HLXNrSExCVlpjcXFEdGlYSmZsRmVydTRKd3VNcGdVVzA0dGJxMkduZVFNM1IzeTloX0QtRWdLQS1wSzl1QVpXX1ZNQ3dXbFBlUlBVQjRid2M1bmhfZ0VmOER2NEFBODhxVG1qRHJGS29fRFpXa21yVXpVMDh2NEdkZ2RpX183R054UmdUUmlROVJPWWg0c0NBOHZiWGVJT1dRd0M2ejZYbjQ5Q2M2THc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Exxon, Chevron earnings propelled by war-driven refining surge",
+   "source": "Reuters",
+   "time": "2026-10-30T15:01:24Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2JIcGhXLURlX1ZHUDVac0IwV1BuN1puU1ljMVFoMUJPNWtZQ2FFdEVMY1ZoZ3pENFUtZEpXZ0ZRU2ZLTFVobHd2XzRiaUxuRFRESXVYNm9zNUUxLWliR1A0RHpTUlNjSUxOazBFSzFvUS1HVWVJX1VGeU41WkxDSjlLTHlQX0dEd1NqUzNna0dkMEZBYmZEd1JZaHhuVElEZFBLZFR0YVQ4V3BxVkhLbGxOMzlRWjU1RmZzRA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -156,7 +201,7 @@
   },
   {
    "title": "US Aluminum Group Urges North America to Align on Tariffs",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "time": "2026-10-30T14:48:54Z",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ01mV0VSazVYaE15Slh5bDVZMEdJQk52T0NMN0ZYbHVoaUlkZ1FRb2wwRUEwa2RoRjBNMy1HMFZEdmZQM2lQa29FanVsRWZ0VEhLRjJYM2Q1dlhIVm5MN3pTWHA2b0piVC1RLTlaSkhPWmRURDRFQ2FDQlg3ZVFJS3M4V2dSaDhScHZFVlNuOTR0UFpFb3hPWmJnNW0zVTFxOW56YnlZN3J6c3ZN?oc=5",
    "tags": [
@@ -179,6 +224,24 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVnJyeDltaG9lQXRFUHBFRHAxTmZiTkRIZ0Z4OU5iemZTU1JWcjA3RzFUc1o3QzBtb01FZGZLZTN2MnhhTmZJdU5iZkRaT1hkc2I1YTlycFdGUmtNVllWemVNejBvOXFPc3NINGV4VGY4YzdZSGJVemMwWnRQYjMzY1FuenVldmpUbDRmV1kzdlFKM01KOTN4YzNDTHFlTHpzOVczaWVpRHcxZw?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Silver Slumps as Rate Fears and Demand Concerns Mount",
+   "source": "TradingView",
+   "time": "2026-10-30T14:41:57Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWXRaZnpNM3ZzbjhjOU1maUM0ME0xZ1k5YTR6Y2cwUWVqX0xjRUtfaHFLbFhzNFBJeW9OS3kybm9oWkRpdEhoSE14QVJTTjlmemNnTTFpNlRnUlFzcm0yQjBEVC1DaDI5Z05hSUI0Q0JYMUZzZGhYMHN0dHBuWEdnTE0zM2Q5MlJ6UDdEcG1DTDdHLXRvZE5VeU1uWHFFV0pjemxEcEd4WEx3UVVKTmR0YUNTaw?oc=5",
+   "tags": [
+    "CENTRAL_BANK_GOLD"
+   ]
+  },
+  {
+   "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
+   "source": "Al Jazeera",
+   "time": "2026-10-30T14:40:19Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -247,12 +310,12 @@
    ]
   },
   {
-   "title": "The Iran war is deepening the US energy crisis. A bad winter is ahead | Mark Wolfe",
-   "source": "The Guardian",
-   "time": "2026-10-30T14:02:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMHVnVFZTYkhlSmt4aHFQMTV4RnZzT3pKT2V6RFlMMml4TW9YelJ2Z0VUbnNHXzZ3c2hrS3JFTFctak5meFdRV1ZfMWVvcXFUS1ljSGZuZi1IMFdiemY0QTdWbGhFZDZpUmRZcW1kSFJTM3N4am5wYlpSWnIyV0RLQTItTVVFTEw0NTVZ?oc=5",
+   "title": "Treasury Yields Lower On the Month",
+   "source": "TradingView",
+   "time": "2026-10-30T14:05:22Z",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdUN4cmVHRUFnb0VwY3c4ZE1IcS1PYU9TWDJCNUtPTnd0aFh3OUdua0JxYzRxSWt5eVNwUDFGVW5VQXo3aEc2eGgwUEZ1RTVLN2JHLUN4dzZzWnVYX2RySnBtdWNVUWJURmJmUUJnVGVnNzlpQVk4MWNrX1NUSC1pSmhWQlN2ZjBqcXpGOEh3?oc=5",
    "tags": [
-    "GEOPOLITICS"
+    "YIELDS"
    ]
   },
   {
@@ -312,12 +375,15 @@
    ]
   },
   {
-   "title": "A resumed Iran war after midterms would put fragile gains in Hormuz to the test",
-   "source": "The Washington Post",
-   "time": "2026-10-30T13:37:32Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlhHVWx5Um1HLXNrSExCVlpjcXFEdGlYSmZsRmVydTRKd3VNcGdVVzA0dGJxMkduZVFNM1IzeTloX0QtRWdLQS1wSzl1QVpXX1ZNQ3dXbFBlUlBVQjRid2M1bmhfZ0VmOER2NEFBODhxVG1qRHJGS29fRFpXa21yVXpVMDh2NEdkZ2RpX183R054UmdUUmlROVJPWWg0c0NBOHZiWGVJT1dRd0M2ejZYbjQ5Q2M2THc?oc=5",
+   "title": "Gold price crash accelerates as crude oil rises and odds of Fed rate hike jumps",
+   "source": "TradingView",
+   "time": "2026-10-30T13:41:21Z",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS1B3azI3dnVrUFY3RFlnQmRnSHpBVWUzc2RnaWZobzJoazBPb2JIcTlaclNrTEVmUkRiNHBZVV9ELWt1NnplQnNYbVZJVlpHVjhzXzZ3aXM1YmhaTUN6VFNIWTVHdWdLRXlmVUkyYmZDb2VIQ3lEYUVRbUJ6TnJ5TzV4aGloSzU2NEZIS0RNMzRsdVBIamlEV1ZjVkl3VWt0TjRJdnVjdHZJYlkwa21Bc0MyZU5TSDhkTktyR1Q4SDlRQ1VBS1loUDdhY1k1ZVZ1VVE?oc=5",
    "tags": [
-    "GEOPOLITICS"
+    "FED",
+    "RATES",
+    "OIL",
+    "GOLD"
    ]
   },
   {
@@ -367,21 +433,21 @@
    ]
   },
   {
+   "title": "The price of gold today, Oct. 30, 2026 — and the best places to buy",
+   "source": "CNBC",
+   "time": "2026-10-30T13:14:59Z",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JSDdJMnhmWWZaT25NZmxtc2NMelZVeTN0cElzUjhPSnFVSUdETjFCdWpBVzl6anhaOHQ3SVBlTllGemk2RmtCeUliMWpCQUtIRlFETENIWFUzd2RoNzAwYjZfMHFiRkdPT0lEYmVHWU5Vd9IBd0FVX3lxTE1PV1FNQ1pFUHY1Y3R6QzN5ZW9lZTVSUFlDdTBEam9tajlBSmo3UW1SQm1HRy02QlpRYzJMNVhrQ3FYNFcxdVBaYmZRTXFJbnRxejdWaUpJSDFCbktkZ3RLVGlNNGFTcjJNa0EtV1MwdnJ3azFoSEU4?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Germany October inflation slows more than expected to 2.8%",
    "source": "Investing.com",
    "time": "2026-10-30T13:08:56Z",
    "link": "https://www.investing.com/news/economic-indicators/germany-october-inflation-slows-more-than-expected-to-28-4987753",
    "tags": [
     "INFLATION"
-   ]
-  },
-  {
-   "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
-   "source": "Al Jazeera",
-   "time": "2026-10-30T13:01:59Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPekJWWndObXJPMFhyRlJSczctMGhIWndLcWpuZEFNMkw3eUt2WmNvUUQwR0luTGl6anBBTWR5T0Y1aWZSYW9jeVhoaWFucmNCS1UwVkxrX2xEdGJEVm1NWlBjYmN4VlJFbV9VeVBNRlJUbWdNeC1FUmtKUTVYektKNlZNTzhtbU9BdWtHc240dXBjc3VTUDJYcDMxakRmdnY5Q0lqSHJ4WkpPcGVheWRFMl9Td9IBuAFBVV95cUxNQ21hclNVWFJRUGN3eGhrY0xEQ2tlYllNN1JYa0REMmhtanB5Y2p4Q1hSSURIY1RNR3E5S2tBb1ExQ2NFemFlZ0tBaE0tUWFRZG5tdDk5VWdWMXFQbzctaDc1M2xOd05IcXg1dG9jZExEeE0xTVlndTBaOEUxN1MxMjlxZVZWUWJGMktjZFhXeUJlQW01ZlZiMDlwamtqYU5OX2VidGpYeUpDT01WbHZFdHhhN2hsUkhv?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -450,6 +516,15 @@
    ]
   },
   {
+   "title": "ORLY Q3 Earnings Beat Estimates on Strong Sales & Tariff Refunds",
+   "source": "TradingView",
+   "time": "2026-10-30T12:46:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORUlBYlgzeHdWcnY2UkoxUlMxdWxDVFpULW9nRDJ4eS1vWmNneVdpMFFyVDk1T2xfNTJJZDNWMUZLRGV4OTg5Vm1NbW9YMlBSUGVjbGZ2ZXhyZTkzbUgwT1B6VjJRUGl4UzN1djEydFZsU1I4b3FIVVVLOXZabUhJaWlVamJPUTA2QW5wYUVOYWFCOFdQSWtEd292d0QwUnZoaFV4SDcwZDJsYnQ4QmpWelNQX3UzRzdRTUE?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "US Dollar Index falls despite hawkish Fed outlook: Why is the Greenback struggling?",
    "source": "FXStreet",
    "time": "2026-10-30T12:44:26Z",
@@ -510,15 +585,6 @@
    "source": "Al Jazeera",
    "time": "2026-10-30T12:30:04Z",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDdnbjUwcjA0SXkzWlVXOFZsREJjcjR1dV80T25uVTVHeEExZkRwSjlIWHoxXy1xWnk5MnRkblhvcHpDTDEtWDF1VGRoTVVrWmZIUWRkSEdyd0VTLWFSSkRtTkdLZlBVdHFfWWlXd3FjWDJDTjFyTWxuYkdyVGdnZFVibWRhczJ3WmhhUmJWUTdsNTdXUWxqalpiSloyQTI3OWpzSHNESkdzUdIBrwFBVV95cUxNVXZ2X0l5M0gzLXExaUNPZ0RHem0zVzBMX3ExbURWZU9CZVVmRnM1dUExY2ljY1Q3VDYwSm5pNExMWDZ3Vmo2cy1kUk9WTWlmWjhLYmZRcXlPY2JHSHlkSzFEUlVtODlpcktaUk9MejdGek9jWGhyS1V5QkdTUDMwaVg0UnVYdE1UMVVyNEZINUZiMllkQTNia01ZVHhPUmxtS2F4RVZvVkcxOGdoYjU4?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Exxon, Chevron earnings propelled by war-driven refining surge",
-   "source": "Reuters",
-   "time": "2026-10-30T12:22:46Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2JIcGhXLURlX1ZHUDVac0IwV1BuN1puU1ljMVFoMUJPNWtZQ2FFdEVMY1ZoZ3pENFUtZEpXZ0ZRU2ZLTFVobHd2XzRiaUxuRFRESXVYNm9zNUUxLWliR1A0RHpTUlNjSUxOazBFSzFvUS1HVWVJX1VGeU41WkxDSjlLTHlQX0dEd1NqUzNna0dkMEZBYmZEd1JZaHhuVElEZFBLZFR0YVQ4V3BxVkhLbGxOMzlRWjU1RmZzRA?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -615,68 +681,6 @@
    "tags": [
     "USD",
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump: Iran War Will End Soon; Need Guarantee Tehran Won't Obtain Nuclear Weapon",
-   "source": "Haaretz",
-   "time": "2026-10-30T12:08:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNOVhWRTR1Z2x6TDlENDNMYlk0MG9oMF9GZ3M1REJYcUNFWXptb2VUN1EtZEFYTzFzU1dQUnBpTjg2YXJxemhTd3MyYXQ2azVYU3JpY29OdmY4R2ZIcUtjTVppM1lxcTk2YTFVME92cU1MOGYxYko4UVZ1SjdNalBtWG5nZlc1cVRpT0QwN2k5eHJ2VU1VTC14WXlfVFROeFdqenRMdFIxMW15RnBZWTRUNkp4NVN2MV93V1R1al9IWGF2Y2FPYTQwUTZRd1lzd1RLZXBuUzVsdWYxUUEtUi1vRDdTMWNKWVAteG12NVp2TU1DQ0ZjcURhaVJnM2w?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Evacuations begin in occupied Ukrainian town as Melania Trump-brokered ceasefire holds",
-   "source": "CNN",
-   "time": "2026-10-30T12:05:01Z",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGF1MDFIYUhFUU5FM2RxQ05CSWJ5LWpWb2lTQk51ckI3bERLcVdDU21Zdnc1Q25BV1BiSzd4bHNUSWtnZllvam1zQ0tWZ3pqU0djazFyZmZEMlRlV1JsWWd2aEZycXNUbFRzYjdEUDJOM0NzWWFuck82MTJTdVZhRHh5eU9QWTZWZzhNTS13?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Why is the Cheesecake Factory at the center of the latest culture war?",
-   "source": "NPR",
-   "time": "2026-10-30T12:00:31Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVTdrcmtOS0JRTkRmQUdOSjhwbEdlS0NHY242MEY0bmtDb3JpNktlM2I1bVF1M2VLT0dmVklHU2o0dTc3SDlDdlY1WEtGRUlLblMxMnJNN2ZERmQ0X2x3bmtoTkVaakR4RGVXQVNPcnZHTkViY1lSWEhTSThsZUNKcUNNajFneDF0QUI5Q1NRQTJnZzJjaHRHVmhFWWFVQlZydEZr?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Peter Schiff Slams Trump’s Tariffs as ‘Complete Failure’ After September Trade Deficit Hits $134.9 Billion: ‘Worst Economy in History’",
-   "source": "Yahoo Finance",
-   "time": "2026-10-30T12:00:13Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWG5UVlRiWmozdDhXbUNHcWUtc1VYMXR6Q3lBTk5yYW1sVVQ5MFFjTVB2MnFPSDRBQlBBaEJQMHB5a0NOdk1mUmRNQWE4TG9oWUdJbURUdmhKTmlYUlc1MkFvYnl2ODEzTDNZbndGT2VBS3dGaTlCOG5lVU5ERmF2b3ljZHd4cWhLazY2Uk5oX2NPdU5JSnlRbll1b0t0UQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Don't Be Spooked by Rate Risks & Tech Volatility: 3 ETF Tricks for You",
-   "source": "TradingView",
-   "time": "2026-10-30T12:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZllXR1pJUm90MEJCY0F6T2l2R09xX3VEbEY4SWQ0S1cyTlpjSFFUXy1udThab09TYUhVbVZFb0paOE5ULWNTWDhFYkdoaWZhRFB3THpnaUItVGZRM1RMS2JyMFhlSUNBdWEyRkpyUlU2ejZsNFdBaG8yVlg1MlJPWlhTYkJ6TGVWVVpmT2YwenBJa3Uxdm52VXlqWUtkTHBhUXZTX3cyR2VDQnNFUVd4QmZVWlp1WG4wYTZuSDdWNjg?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Trump on Iran war: It's going to get wrapped up soon",
-   "source": "Reuters",
-   "time": "2026-10-30T11:58:26Z",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV29DcEtjV3gtcWtydlBDWXZPblY0Szg5NmZZNFZ2WGxmTHFsX096SlJoem40ZFpBRkFvcW41UGtrMVZBeEVPS2dxN205OG5rM2VNSE5CcGJfMGlLNUgxZWRTeXFENTU0ajlIaUZoWUhZblk0LTQtZzZHSlZaSG9JQy0wazJLQU1vakZXdDd5aw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "investingLive European session wrap: AI spending fears spook tech stocks; dollar falls alongside yields, gold",
-   "source": "ForexLive",
-   "time": "2026-10-30T11:46:54Z",
-   "link": "https://investinglive.com/news/investinglive-european-session-wrap-ai-spending-fears-spook-tech-stocks-dollar-falls-alongside-yields-gold/",
-   "tags": [
-    "USD",
-    "GOLD"
    ]
   }
  ],
