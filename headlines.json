@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T13:42:34Z",
+ "generatedAt": "2026-10-30T14:10:54Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 6
+   "kept": 5
   },
   "marketwatch": {
    "http": 200,
@@ -61,7 +61,7 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 45,
+   "items": 46,
    "kept": 1
   },
   "bbc_world": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 28,
+   "items": 26,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 25,
+   "items": 32,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 21,
+   "items": 20,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 55,
+   "items": 53,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 21,
+   "items": 20,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 9,
+   "kept": 9
   },
   "fed_calendar": {
    "http": 200,
@@ -126,10 +126,46 @@
  },
  "items": [
   {
+   "title": "Top Swiss court upholds landmark Liberia war crimes ruling",
+   "source": "Reuters",
+   "time": "2026-10-30T14:00:49Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakJKVlJOZTlhZzZxYlBuRDlGQWdKNmZqcUJFTVAtRVdrTXl2YTR0Ml85Vy1DQ21UWjdWTFE0cjFJdHprVEJsUHhjWjBCMUtXQ2ZqM2xHcnVzWi1zN1hjYWppSXZiT3Z3dVlXaWRDN2hoQmthTmdrUHF4UnJocGw1X29kQzJWeXlFQWlVYjhQQVcxVEF2RS1lNHlHZk5TWUROZUpydUJDeWdGR3J6QThqZQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "The Iran war is deepening the US energy crisis. A bad winter is ahead",
+   "source": "The Guardian",
+   "time": "2026-10-30T14:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMHVnVFZTYkhlSmt4aHFQMTV4RnZzT3pKT2V6RFlMMml4TW9YelJ2Z0VUbnNHXzZ3c2hrS3JFTFctak5meFdRV1ZfMWVvcXFUS1ljSGZuZi1IMFdiemY0QTdWbGhFZDZpUmRZcW1kSFJTM3N4am5wYlpSWnIyV0RLQTItTVVFTEw0NTVZ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump Considers Lifting Sanctions on Putin's 'Slush Fund'",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "time": "2026-10-30T14:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTdUSkJTZkNoU0pJRWZEdWhucFVLdVBiVlRzOVNZYUhkX2UzZXVFbGZvWlRWTmZnRnRBVzlfWGFkVGpJN2hrV0pHSkhaangxTXdjUnk4ZlpkOUZpaU1pcmxJbHY0bjlaVTBoT0dTRmpEbi1ENktBaHZTRUFHRjhyMFJyeWRLU08zVHFKTG5DWWJKYk82TGxhYmE5c1BaLTRO0gGmAUFVX3lxTE9JZ3B4QkNMU0JJdFpWa0tDTDVPbU1HWmQzTW5RVkxtNzdFdUt4Qk5FLUJtT3I0R1BndjdMMXd2N3pxM0ZHWG5pSTIwUXZhMGRoVWRhOVdtdGtkamtqUVRTM29oaHBBUWhUS01icVhRVWtpcVQ3eUV3alV2NzlXOTBQM09xclFDRHYzN3E4S1JYa0V4V0lMLXdhWDdwYWJRT2hIRlMtR0E?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "A resumed Iran war after midterms would put fragile gains in Hormuz to the test",
    "source": "The Washington Post",
    "time": "2026-10-30T13:37:32Z",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlhHVWx5Um1HLXNrSExCVlpjcXFEdGlYSmZsRmVydTRKd3VNcGdVVzA0dGJxMkduZVFNM1IzeTloX0QtRWdLQS1wSzl1QVpXX1ZNQ3dXbFBlUlBVQjRid2M1bmhfZ0VmOER2NEFBODhxVG1qRHJGS29fRFpXa21yVXpVMDh2NEdkZ2RpX183R054UmdUUmlROVJPWWg0c0NBOHZiWGVJT1dRd0M2ejZYbjQ5Q2M2THc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ukraine invests in firepower as it inflicts a new Russian casualty record",
+   "source": "Al Jazeera",
+   "time": "2026-10-30T13:32:56Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUHBEMmxTeGtyU0ZCYk05WXFQTE5YVjY2Q2w4VFRIOTI0UTRtR0c3emNIZEthQzRuSGdEQ1NXb1FGYVRVZ3JWV0VwMHRlcGRxeDlpTXB6ZkdLWXNMSWY5SS1ZZW1lNHBRUDNDem1hSVZxMlJ5RkZVZmVHWXlYanQ5aXRfMUlyUjlncWhwbVZ0Wk1qWTlpeG5MMTBGTnloS0NLWVh1MDNlaUkzb2pJMktDMkdLVjBWZ9IBuwFBVV95cUxPYzJJZElWMC1xLVVMS2dhY0ptOVQtT1dhVDFGaEtjMGZBVWpJQmZoTmNNeXNiTndNSlB3UmduR0lkQ05Bb2NRQUtRTGhaWm9CUERQTERwcmVyaGh0WndybHNyZE5EdDdLV2xRcWUtNTlya1piYXNnaUpGOW5UdzVfdnlnOTM5MEtRbU1XbUVJdmQ5MFk2R0kzYnN2cTNXNGtPTU9rLUZUdUZKdG1SdHRiSVowcVU3S0t3LVF3?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -141,15 +177,6 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLW5pd2k2TmpFR0loeVBYcGt2Z0RsbnI1cEJIanhLYlo2OFdJNUlmeUlkMGI1aDRZeDZoLVBiczlKSVdoc1JjRnFLQmFuY1dZbWNFSWxpTzdRX1BiMEdoem4xX3NOdTJhREtmSnBGRl9fSzliLV9zMTNoZWdhUDBrMWlRdWJOakZXSEtjZEJOeElvT3BMaU5j?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Ukraine invests in firepower as it inflicts a new Russian casualty record",
-   "source": "Al Jazeera",
-   "time": "2026-10-30T13:30:20Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUHBEMmxTeGtyU0ZCYk05WXFQTE5YVjY2Q2w4VFRIOTI0UTRtR0c3emNIZEthQzRuSGdEQ1NXb1FGYVRVZ3JWV0VwMHRlcGRxeDlpTXB6ZkdLWXNMSWY5SS1ZZW1lNHBRUDNDem1hSVZxMlJ5RkZVZmVHWXlYanQ5aXRfMUlyUjlncWhwbVZ0Wk1qWTlpeG5MMTBGTnloS0NLWVh1MDNlaUkzb2pJMktDMkdLVjBWZ9IBuwFBVV95cUxPYzJJZElWMC1xLVVMS2dhY0ptOVQtT1dhVDFGaEtjMGZBVWpJQmZoTmNNeXNiTndNSlB3UmduR0lkQ05Bb2NRQUtRTGhaWm9CUERQTERwcmVyaGh0WndybHNyZE5EdDdLV2xRcWUtNTlya1piYXNnaUpGOW5UdzVfdnlnOTM5MEtRbU1XbUVJdmQ5MFk2R0kzYnN2cTNXNGtPTU9rLUZUdUZKdG1SdHRiSVowcVU3S0t3LVF3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -185,6 +212,33 @@
    "source": "Al Jazeera",
    "time": "2026-10-30T13:01:59Z",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPekJWWndObXJPMFhyRlJSczctMGhIWndLcWpuZEFNMkw3eUt2WmNvUUQwR0luTGl6anBBTWR5T0Y1aWZSYW9jeVhoaWFucmNCS1UwVkxrX2xEdGJEVm1NWlBjYmN4VlJFbV9VeVBNRlJUbWdNeC1FUmtKUTVYektKNlZNTzhtbU9BdWtHc240dXBjc3VTUDJYcDMxakRmdnY5Q0lqSHJ4WkpPcGVheWRFMl9Td9IBuAFBVV95cUxNQ21hclNVWFJRUGN3eGhrY0xEQ2tlYllNN1JYa0REMmhtanB5Y2p4Q1hSSURIY1RNR3E5S2tBb1ExQ2NFemFlZ0tBaE0tUWFRZG5tdDk5VWdWMXFQbzctaDc1M2xOd05IcXg1dG9jZExEeE0xTVlndTBaOEUxN1MxMjlxZVZWUWJGMktjZFhXeUJlQW01ZlZiMDlwamtqYU5OX2VidGpYeUpDT01WbHZFdHhhN2hsUkhv?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S. plays down North Korean missile test",
+   "source": "Reuters",
+   "time": "2026-10-30T13:01:25Z",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FV2g2R0hXWmhWbWdCbENPdmp3eXFEQVAyVGRfVXJEN3JGNFRFX0JBcWtVTHdvdnVtOEhwY09UX0xLcy02ZFZqeUtsTlJvUkNReTV5OHE4aDZUN1Zw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "EU sanctions Myanmar, Germany condemns 'murders'",
+   "source": "Reuters",
+   "time": "2026-10-30T13:01:25Z",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3TWNvWk5zQnZDOWZfVW90d2M4LU1qNlRSS3hrZHI0YzJpTlF5ZW9QckgzR2lvNG9FTHNaY1FfX1hKdE52Rm96VFRrNHBXMURRQlQ1WmcyWE1Ic3Rt?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Trump’s foreign policy, from Ukraine to Iran, raised fears of world war three. Americans are about to have their say",
+   "source": "The Guardian",
+   "time": "2026-10-30T12:57:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXR5bFdUc1ZVTWJ1aXVaLWFjekF4LXRXYXdqLWN6WDhQekxBQXhzV0kyb0VteEpGNnU0N2xkOF9fUURFMU5wMzU4UzQ2M2JkeWJKM1BuTU5oV3pVS0NiUGZXb0JWcGc0NWo0UnJyRmtIdEhhQ3JVbjhSbzB3ZXhlaHhYRDFQdDBYVXpCSm9iYU1hWkZMOFE?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -269,7 +323,7 @@
    "title": "Opinion | A Xi-Trump-Putin summit in Shenzhen could kick-start peace in Ukraine",
    "source": "South China Morning Post",
    "time": "2026-10-30T12:30:06Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUZnWjdPaG1vMnpHN0FSV2Z1aEJ1dkxVakhDWEQ2cjBLME4zR1hkV0gxUGpNbnNHejlVd1RFa0I2bFF2djRraWxtYmlSamI0V2ZCNWhpZ0xuenhRRHdrT2xVc1hObkp1T3ZQNmo0Rk56WkxNZjdEdHBYcW9wN2FhOWhlUThyYjcxRUpCakJSbWk1UmZhUU0yQ1hFZTVicjRIdW16UDI5SmdHWGI3TFBtV2dnTnkwU3lsS2FFbA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUZnWjdPaG1vMnpHN0FSV2Z1aEJ1dkxVakhDWEQ2cjBLME4zR1hkV0gxUGpNbnNHejlVd1RFa0I2bFF2djRraWxtYmlSamI0V2ZCNWhpZ0xuenhRRHdrT2xVc1hObkp1T3ZQNmo0Rk56WkxNZjdEdHBYcW9wN2FhOWhlUThyYjcxRUpCakJSbWk1UmZhUU0yQ1hFZTVicjRIdW16UDI5SmdHWGI3TFBtV2dnTnkwU3lsS2FFbNIBvAFBVV95cUxQcm5Cdld6ckRtb0ZSaHZNWUtnT05RTnBxelpFOGxTcUhaT0RZLUZzd1pqZjZPRkFwdVlPQk1IWVMyekhYZFZQQVRTY0JHalFXZHBrSTlWa0I2dUdJSVd5LVR3N2w4dGtJamtUMm9TVFVaNU5pTlUtaHNtZ1V3TFlobnkxNlY2eDhvdFM0YmVWUmd2SDdESGpiMXZyY2hiMXpOaDRCZmIzNmh0M2EtMUw1TkRoYUtPaTB0cVMxTg?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -508,6 +562,15 @@
    ]
   },
   {
+   "title": "The Federal Reserve holds rates at 4% as divisions emerge among policymakers",
+   "source": "FXStreet",
+   "time": "2026-10-30T11:29:33Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlNSEJOdEhUbWV4a2dhSXhaQUZ2bk9FTk1xN1NSOGpIejRRMDg0OE9QUUhUY1ZhZmZSaFJsVDdjT280T0dQaWlPWTY3cWZDbThfVUdaNHo2ZGNOZGJJM252UmdvSWJqTDJPT2JUSUlxYjFwVDBFTF9TOUVoODFJd0lCUDRSRHNWUFU2X1QtMFdOTFFGNjlZMUhFU3l1VFdOUTVxeDFlOWxlSDRGclVSNWNlVThTV3JVT0JjU19raw?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "UBS reiterates First Solar stock rating on tariff pricing upside By Investing.com",
    "source": "Investing.com Canada",
    "time": "2026-10-30T11:22:33Z",
@@ -619,71 +682,6 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT0ZDNlRPTjdlM1JYRkNQblBzWVNPSnhkR0V0VUFyalIySzRSRGpzMnBudnk3d1V2dWhZR1VKSHR1Nks2cjB1V3NfMy1LODhBUjM3Y1lTODJhamxWVHl2ckY0U2lXLVVJTE1zM1d0WXBmN0ZlcDdocE1SN3NIVEo4OG1UN0s0Q0lYNFkyM1doZHU5eDY4ZXfSAZsBQVVfeXFMUFBudWpheVpPLWJDU25aZ3FCQmFIcS1icURldFJaeTZDaHhPZ1ZscVEzZTd1WVZsa242cUxjSW5iTGNYNEVuU1d4X0hzcFF1dTFPOUdkcGxGcFNFd3JhTTRScU5Kekd6Q0dXdTJoTkIyTlBGeUY3aS1JYTFPWW1NNUNOTnRfRDN2ajVhYUhmQnhiTnNTYmFtZm5MSlk?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Somali piracy back as the US-Iran war rattles shipping | CNN Business",
-   "source": "CNN",
-   "time": "2026-10-30T10:51:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWduMVZUQjJNMFZGTXBQbUcxaDJXZkpzcmFZX2xkeUQ5MkpDdzNFandYWHFqZnZCbUc5d1NRS01zSXUwNlAzWl9yalJhNFFnZGpZdU1MT2tvVEpEXzB3OERTTUFsRUZTeWhJbkVjeHMyUFZfcWRRR0tXOXZ3aTVfYjN0SndjcGxDNThxRUtXWklXaml4QzRMQ1FUbUVQRU41MXZZQ0dxQnpPU09EbHBFSkR3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "How can Israel break its election deadlock?",
-   "source": "Al Jazeera",
-   "time": "2026-10-30T10:50:21Z",
-   "link": "https://www.aljazeera.com/news/2026/10/30/how-can-israel-break-its-election-deadlock?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "BP net profit quadruples as Mideast war lifts oil prices",
-   "source": "Yahoo Finance",
-   "time": "2026-10-30T10:42:38Z",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNzhfN1pkYzlvT3dsNmItWndNVWpRTndhSkhjZmpmM1picFV6WHl3REYyMjFHVzBUU2hDdGdsNW9fc2c0WU9Yank0VjZQZU94MXQ4aUYwSDd4bHpLcU1aUy0tSGc3ZUczMmUxZEZNTXhPaGFRby1WRlJvUjVwX1Z1OU5CU1dBQlpobmNRd3lLdTRKNmc?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Polish inflation falls to 3.5% in October, below forecasts",
-   "source": "Investing.com",
-   "time": "2026-10-30T10:40:54Z",
-   "link": "https://www.investing.com/news/economic-indicators/polish-inflation-falls-to-35-in-october-below-forecasts-93CH-4986780",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "U.S. Treasury Yields Fall; Eurozone Bond Yields Mixed After GDP Data -- Update",
-   "source": "marketscreener.com",
-   "time": "2026-10-30T10:40:28Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSFc1VjB6cnphWmlvdUs1M0IyNUpzeFRkOTFmOHJURUo0TnRJc2Iwcm9ycTN5MnI3ZDNsUGZfZ21iT2ZuNEdvSmdYSUFZZzM5ejltREFyVTUtU19UNkdRakQyNHZHUEtlNjliUWdRdTZ2d1plcXRRa05pUUlfMWs5Z25EZTJKX0RxT3dDVVowYUhYN051YkR6MTRYaVg1ZS05X0VKTTVISVdlOTJZNDFXcUxsNXpSMmZBak9XSEdhSjVZZVpn?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War",
-   "source": "The New York Times",
-   "time": "2026-10-30T10:35:32Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFNiUjUzdFh6a1pRNzRJazBScGR1cVkxRDRqMnYwUFRleGRlWTZZYWdTRGRsVkZ6Y1NldWRNeHV5REJLc3VvR0h3UlRUcVY2Rl9jS3VxTXgxcnZ2Zjcta0tqSUtLRERVZ25xZ3pTN2V0Y0JDZDdOZVNDazBubGQtR2gwbDMwZ0QxeEYteGdXbEY1WlhubnFiWXZXQThWUFhXdkRxVQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Here’s the math on Amazon CEO’s claim to be on path to two trillion-dollar-revenue businesses",
-   "source": "MarketWatch",
-   "time": "2026-10-30T10:34:00Z",
-   "link": "https://www.marketwatch.com/story/heres-the-math-on-amazon-ceos-claim-to-be-on-path-to-two-trillion-dollar-revenue-businesses-34d648e8?mod=mw_rss_topstories",
-   "tags": [
-    "USD"
    ]
   }
  ],
