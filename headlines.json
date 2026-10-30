@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T14:39:13Z",
+ "generatedAt": "2026-10-30T15:07:36Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -21,7 +21,7 @@
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 5
+   "kept": 6
   },
   "bea": {
    "http": 200,
@@ -42,17 +42,17 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 8
+   "kept": 9
   },
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 6
+   "kept": 5
   },
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 0
   },
   "cnbc": {
    "http": 200,
@@ -61,7 +61,7 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 46,
+   "items": 47,
    "kept": 1
   },
   "bbc_world": {
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 26,
+   "items": 29,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 33,
+   "items": 24,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 18,
+   "items": 19,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 54,
+   "items": 45,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,18 +106,18 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 21,
+   "items": 20,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 4,
+   "kept": 4
   },
   "fed_calendar": {
    "http": 200,
@@ -126,9 +126,65 @@
  },
  "items": [
   {
+   "title": "Swiss central bank posts bumper $23 billion profit thanks to gold, foreign assets",
+   "source": "CNBC",
+   "time": "2026-10-30T15:06:44Z",
+   "link": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
+   "tags": [
+    "CENTRAL_BANK_GOLD",
+    "CENTRAL_BANK",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Canada Railways’ Strong Earnings Show Resilience Amid US Tariffs",
+   "source": "Bloomberg",
+   "time": "2026-10-30T14:56:48Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSi12QnVHT2x6M1JRWm50ME5WanZST1RGTXd0b1loSFVOcU14VDJhaFNqY0kta1p1TDRKdzhaeUNheGJMNUJQekI5Rml0ZzlsZk9oY0l6alBrUHkwTk44SHJVQmp3bGFGSzB5dEJobFF5V1l2Zk9IdTZFTE9FdldiS1FIYjJUX2tya251Ui1oNDcxd3RaTFZ1QzFUcDFGNmFQTEhicDZDemhNdVBmSmQ4M3B1WTA?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold Price Forecast: Mass Liquidation Puts $3,886–$3,708 in Play",
+   "source": "FXEmpire",
+   "time": "2026-10-30T14:56:20Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjlsMXo5a2hlQzBrUk5XclZPR1otSk16ZDJNLVhTeFlGazd6TVRuZEgxaTNEdFNZNVk1MW9heF9IRDZzb2toRUpwZGZqOXJGb2puVS10Z1dyUk5lWGt0eFNQNURFX21yZ2xKN3o2TVZaUlVIMzFPRjRtMXdTXzlIMHg0VmQ3cG1iUzF2c25IcXBTZVBheXFXdFRlNkI3bHR4RHZTMG5SdW1vS0xCSVpR?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "US Aluminum Group Urges North America to Align on Tariffs",
+   "source": "Bloomberg",
+   "time": "2026-10-30T14:48:54Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ01mV0VSazVYaE15Slh5bDVZMEdJQk52T0NMN0ZYbHVoaUlkZ1FRb2wwRUEwa2RoRjBNMy1HMFZEdmZQM2lQa29FanVsRWZ0VEhLRjJYM2Q1dlhIVm5MN3pTWHA2b0piVC1RLTlaSkhPWmRURDRFQ2FDQlg3ZVFJS3M4V2dSaDhScHZFVlNuOTR0UFpFb3hPWmJnNW0zVTFxOW56YnlZN3J6c3ZN?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold Weekly Forecast: Bears dominate even as US yields push lower ahead of midterm election",
+   "source": "FXStreet",
+   "time": "2026-10-30T14:45:26Z",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS3hwUDdwRFJKRkRXRUF1Y0E4Ym1xNU1tOXNJQUZ6X3BFNTFwc05ya1VBWml0anZYR0llZ1pLaWgyRF8xUVJFUWF6eGhNenNsdEVmQ3NIWnZnYXpYQkVzYV9qWjl4OEFaR1FpNU1PM1N6VFBGQWVjNVY2cW1fN2ZqWi1qLVZtWTlqM2hoY0UteWZmdE13aDdCLURmX2hsNngxc05aRnk0cE1odUZVZ0c1ajQ3dWpmMlptWjJTT2pvTE5NTm9LWm40MTFDVDFmeU1admRB?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold Price Forecast – The Final Shakeout Is Happening Now",
+   "source": "FXEmpire",
+   "time": "2026-10-30T14:41:59Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVnJyeDltaG9lQXRFUHBFRHAxTmZiTkRIZ0Z4OU5iemZTU1JWcjA3RzFUc1o3QzBtb01FZGZLZTN2MnhhTmZJdU5iZkRaT1hkc2I1YTlycFdGUmtNVllWemVNejBvOXFPc3NINGV4VGY4YzdZSGJVemMwWnRQYjMzY1FuenVldmpUbDRmV1kzdlFKM01KOTN4YzNDTHFlTHpzOVczaWVpRHcxZw?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Russian, Ukrainian humanitarian officials enter Oleshky",
    "source": "Al Jazeera",
-   "time": "2026-10-30T14:26:52Z",
+   "time": "2026-10-30T14:33:51Z",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS3FPMjQxSDQ4emRET29tVjR5VXhqVldKY0dqUVZJNjVkS0RYa3hKd3liRkdCVnAtdmRjbUpxUXVEMXlqLTVJUGhwOEdnZzQ3ZmYxYkFIRDdCVWZkc3FFS0dsTENQZHFaR01kckcyMVlXekZQOFhIdWstMEY3NE1NYVdnN2FtOTBIbWxwMDQ3SHZOYW56Vmhtel9LZDlxQUtWYV9rYlRkNDlkUdIBrwFBVV95cUxOaXBPQkEwdmRTcHZpS3pZVG51b25pX1pMdHRjT24wUjFVWjNRNTN2cUtWTlVzaFdod3RraG5qQTBWa1Q3UjJGa2V0bWE1VUtBMTJpS2NaZnFSa1k2RTBHQTlLblZtdmJraUVpU1d6TWpvQWxJc2lKOWVlUDFnNG5vUDdJM1VIbC1Ga3hyM0xrdkYteXV1X0R6Z3BydVNWVkZOOUN2eVo3N3Y2NS1paFRV?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -159,6 +215,16 @@
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN3NLLUpOZmk5ZjdPZmJWYnYyVnlBcnpzdGlsQmRqTHVweGladWdBZTQ3WFNPblI2ZzlTcFJVeEJXSmpIaEt5UU96QW5uOG9yeGN4cjg5c0hDUFozM0xaZGlISkpKbzU3ZXNnQThFNjBjT3pIMjZvSy1Nc3JONUpWeUhDQW9rX2FxbWktNm5OSk9VdURZbWE5ZWdCQjczWFJyYjlRZ3JvSE1nRVJ1ZWwxMUhDZU1nRVNpa0JTcjRmbGZkYkZ5RzJv?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Faces Further Losses as Traders Brace for a Possible Iran Escalation",
+   "source": "Investing.com",
+   "time": "2026-10-30T14:16:00Z",
+   "link": "https://www.investing.com/analysis/gold-faces-further-losses-as-traders-brace-for-a-possible-iran-escalation-200690591",
+   "tags": [
+    "GEOPOLITICS",
+    "GOLD"
    ]
   },
   {
@@ -205,6 +271,16 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuWlE3T19xQkxjQXdqZmJna2FkQWpRLUxqZUktbGM2Zk5VZk1yTmFNXzFnVTVkU002YU5PaGI3REdEeThvMjc4VHgxeGtISEZadWlpbWRIWEFJbWs2U19FSXVyUHl5a0xfN2hCUEZkYTlmZw?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+   "source": "ECB",
+   "time": "2026-10-30T14:00:00Z",
+   "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
+   "tags": [
+    "RATES",
+    "ECB"
    ]
   },
   {
@@ -309,21 +385,21 @@
    ]
   },
   {
-   "title": "U.S. plays down North Korean missile test",
-   "source": "Reuters",
-   "time": "2026-10-30T13:01:25Z",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FV2g2R0hXWmhWbWdCbENPdmp3eXFEQVAyVGRfVXJEN3JGNFRFX0JBcWtVTHdvdnVtOEhwY09UX0xLcy02ZFZqeUtsTlJvUkNReTV5OHE4aDZUN1Zw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "EU sanctions Myanmar, Germany condemns 'murders'",
    "source": "Reuters",
    "time": "2026-10-30T13:01:25Z",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3TWNvWk5zQnZDOWZfVW90d2M4LU1qNlRSS3hrZHI0YzJpTlF5ZW9QckgzR2lvNG9FTHNaY1FfX1hKdE52Rm96VFRrNHBXMURRQlQ1WmcyWE1Ic3Rt?oc=5",
    "tags": [
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "U.S. plays down North Korean missile test",
+   "source": "Reuters",
+   "time": "2026-10-30T13:01:25Z",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FV2g2R0hXWmhWbWdCbENPdmp3eXFEQVAyVGRfVXJEN3JGNFRFX0JBcWtVTHdvdnVtOEhwY09UX0xLcy02ZFZqeUtsTlJvUkNReTV5OHE4aDZUN1Zw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -354,13 +430,13 @@
    ]
   },
   {
-   "title": "Swiss central bank posts bumper $23bn profit thanks to gold, foreign assets",
-   "source": "CNBC",
-   "time": "2026-10-30T12:52:36Z",
-   "link": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
+   "title": "Gold drops below $4,000, silver tumbles as Hormuz attack lifts oil prices - Kitco AM Report",
+   "source": "Kitco",
+   "time": "2026-10-30T12:52:14Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSmQ5alhCeHRlYUgzRWhfSmRhX3BUMGktZWtmMUxXaENCd0ZJRUFPdk55THVoWjNfUVByYzdRTHlsYVBQZm1za3dDQ19oMFJSM3o3VFl4Tlh6VS11MXpEdTFSdGZzU1hQMF9MY2pRbkJwQkJBNnpTdU9rZjh4eWh6bGRUX29Yb2l0QmY5Tkh4QnhBYmpQTVZBT01DWUJobFhKdTdVQ0pXSDVSeFFEQlJ5R1ZQc0luWXVpM2Zn?oc=5",
    "tags": [
-    "CENTRAL_BANK_GOLD",
-    "CENTRAL_BANK",
+    "GEOPOLITICS",
+    "OIL",
     "GOLD"
    ]
   },
@@ -601,78 +677,6 @@
    "tags": [
     "USD",
     "GOLD"
-   ]
-  },
-  {
-   "title": "UBS reiterates First Solar stock rating on tariff pricing upside",
-   "source": "Investing.com",
-   "time": "2026-10-30T11:45:03Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUXJWU2ZFV3lMZm12YWVoOFlac3hsUW9ocE93VVVzN3lZWDZnNjVWR0ozR0ZWYU0xRDNsbXd6S2FncUVvZFM1MHZXQ094TG1wX3JBZDVObFVETmZIUlRYcl9jLS0zSVNZa3RsNk1lZkQtVnZqbmt0MHRfMnVKNGtfZ0l2X0IzWVpnX0czSTJkYUx3eml3aHVPZjNmZmRtY1lMcXFkMlhabzZDS3B5SnRhbnNnVlFGNGs1Zm9kR1k1VWhoUQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Italy’s Inflation Jump Is Dramatic Result of War, Giorgetti Says",
-   "source": "Bloomberg.com",
-   "time": "2026-10-30T11:44:22Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQVJWUjNhWHluWU90eDh2VUdlNFZpWm40MWxabmpvX0xmQmRteU9kb3E5Yll2V3VaQUZpdGNaWUFReWFiZjlmNlU3V1cwemY3d2l0ZXYtQy03bTNRZXQ3azBaRHdVd1hXR0NrS2lncXhFS0liM0pOa2VfY3ltSS1maHZQSXVOYndGcTRJV2ZvSFBnM290ZFNhd2hUQnVJeUZLb2xTRVE4bFFvajA0MHI1Y0ExSWw?oc=5",
-   "tags": [
-    "INFLATION",
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Palestinian voter turnout exposes Israel’s attitude towards Arab citizens",
-   "source": "Al Jazeera",
-   "time": "2026-10-30T11:43:17Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-turnout-exposes-israels-treatment-of-arab-citizens?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Buy These 4 Stocks That Declared Dividend Hikes Amid Market Volatility",
-   "source": "TradingView",
-   "time": "2026-10-30T11:39:00Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZFk1emZJSE9XSnlLbWo5NlF1RzUzQk5aZDYtaE9yaXdLV1VPZU1YWERvREpaUXJXU3V4eU42VUlpXzNxZzQtRzNpR3dzZnNIYmhnS3g3ZXM0TDIyZUdlZ2VyQThRZGFqaWMxQTBqRGFpaDk0UkhGTTl5cmp1eFk4b0p6cDVWN0VMRzhKWDJrLTFwVW5lVExJQ3FtVDdDN3Uyb2hnTjYtX2N0VXVQREJISGtuZTV0T2FpdTZGOHlQcUZMdzFQ?oc=5",
-   "tags": []
-  },
-  {
-   "title": "BP Quadruples Profit to Record as War Boosts Refining and Trading",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "time": "2026-10-30T11:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRzEtZzV6MWhCN2tVNTJhb25kS0M5SC1tWUotWGdmTnVCQzl5Z2lVVUQzSkUzbUw1Z3FFWV81dGRrVDJLUnp6YWt5dmxRTm8xWXA0ZGJEdFFMWE1SdFZJSVBqZWxHUEY2TTRkSW9nVENHa0JlcllaZmNjUVc0elNsaFFlYlp3T0JBMV9FVjRMTkd2ZHdrbzFUenFxUlZlRmIzYTdBZmVwTldrQV9qdHFRUUpuaFBfY0Y3ZE5YeXR30gHDAUFVX3lxTE1oRnpyZXk0ZVRSNzdacVRhWmpvU1hQNHJPdTEtTDBJZFZockYxMm5yZ0xFUWMtYTNaNndhcVNJSy1rTEM4QVVqUU1iOUEtNW0tZUJMbFA4MXYzYXZSQW9KQmF3WWdBMWhJa0lPVUlvTE9UN3R0THNFLTM5YnNNWmlFYl9MNWxLWmdtbWRxekxFRXZ4cWJyTUJ0bzNaaUFNUk1iYXQ2bzFJQmZaY0VkR1R2Vy1Dbkhna2VCWGI2bWRXeGFPYw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil Markets Caught Between Iran War Risks and Emergency SPR Releases",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "time": "2026-10-30T11:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNE52a2l6QkhxSG9XR2VjaG9wVFNDMFozQ0tGSnhQRnFQcHRTaFpHTUpMbmJrNUJKTUtUUW1CaUxxb20yOWZENXkyWmtYV3lYWmxCNS1la0hTYXBkNEFBQS04OEczWUpKcjJ4MUhHTjFBQUdlZVM5X3dLcENEUVRTTG9ha1R0aTVBZW01M2lGdTlXMi1BLWF0ZGJtbGRmUmViMWpDWWt1bVpuYnp0cFZJQUxfZ2prYUHSAbwBQVVfeXFMUGxibGxNWTk3NlBqMEk2bUpsQVRiRzNDYVNxdF9ocVhzaXhQXzNzZm1kZmd5VUJIaGF3UncybkRydUJCZ2s1Zkx3eFQzcmE0Sk9PZWZFWi1wVkRjVmFtdXJkSEg0ZkhlWGttRUE1c183V2piUFpYZXppTDdsbTIyc3hoUHR5b0NxQkdPUkQ3bFhubi1DZk9rY0oxTnNpSVF1SGtYTWRRQ3JwUkxoTV91aEQ2UDRzdGJPY0Y1XzQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks",
-   "source": "CNBC",
-   "time": "2026-10-30T11:29:59Z",
-   "link": "https://www.cnbc.com/2026/10/30/russia-ukraine-putin-zelenskyy-energy-strikes.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The Federal Reserve holds rates at 4% as divisions emerge among policymakers",
-   "source": "FXStreet",
-   "time": "2026-10-30T11:29:33Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlNSEJOdEhUbWV4a2dhSXhaQUZ2bk9FTk1xN1NSOGpIejRRMDg0OE9QUUhUY1ZhZmZSaFJsVDdjT280T0dQaWlPWTY3cWZDbThfVUdaNHo2ZGNOZGJJM252UmdvSWJqTDJPT2JUSUlxYjFwVDBFTF9TOUVoODFJd0lCUDRSRHNWUFU2X1QtMFdOTFFGNjlZMUhFU3l1VFdOUTVxeDFlOWxlSDRGclVSNWNlVThTV3JVT0JjU19raw?oc=5",
-   "tags": [
-    "FED"
    ]
   }
  ],
