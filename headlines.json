@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T12:45:54Z",
+ "generatedAt": "2026-10-30T13:14:14Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 35,
+   "items": 36,
    "kept": 2
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 25,
+   "items": 28,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 28,
+   "items": 30,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 49,
+   "items": 52,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 19,
+   "items": 22,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 9,
+   "kept": 9
   },
   "fed_calendar": {
    "http": 200,
@@ -126,14 +126,60 @@
  },
  "items": [
   {
-   "title": "Swiss central bank posts bumper $23bn profit as gold, foreign assets soar",
+   "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
+   "source": "Al Jazeera",
+   "time": "2026-10-30T13:01:59Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPekJWWndObXJPMFhyRlJSczctMGhIWndLcWpuZEFNMkw3eUt2WmNvUUQwR0luTGl6anBBTWR5T0Y1aWZSYW9jeVhoaWFucmNCS1UwVkxrX2xEdGJEVm1NWlBjYmN4VlJFbV9VeVBNRlJUbWdNeC1FUmtKUTVYektKNlZNTzhtbU9BdWtHc240dXBjc3VTUDJYcDMxakRmdnY5Q0lqSHJ4WkpPcGVheWRFMl9Td9IBuAFBVV95cUxNQ21hclNVWFJRUGN3eGhrY0xEQ2tlYllNN1JYa0REMmhtanB5Y2p4Q1hSSURIY1RNR3E5S2tBb1ExQ2NFemFlZ0tBaE0tUWFRZG5tdDk5VWdWMXFQbzctaDc1M2xOd05IcXg1dG9jZExEeE0xTVlndTBaOEUxN1MxMjlxZVZWUWJGMktjZFhXeUJlQW01ZlZiMDlwamtqYU5OX2VidGpYeUpDT01WbHZFdHhhN2hsUkhv?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Treasury Secretary Bessent to make \"War on Fraud\" announcement in St. Cloud after VP Vance cancels",
+   "source": "CBS News",
+   "time": "2026-10-30T12:54:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUzZKQ0hTOVNlemdxcUZiaUszM29kQzF5NkJlYURSaEFzbW45UnFQM0FPOGQ2WHI4LUdJbm52dVQ3ZWZlbDlEVEYxeGhKSElDbjYtVWFoQUhIT3pncnpmNm14SXpwSWFMSVNzUVV1a2V2SWN0b3Q1ZlU3ejZDUUNnOUt5QUFqZVpmMHhCbzhfRkxXQ29CanUtdnZ4aEhMM3B5c0JQd3FJMlU3LVp1MlZQbjlQUG0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Swiss central bank posts bumper $23bn profit thanks to gold, foreign assets",
    "source": "CNBC",
-   "time": "2026-10-30T12:31:40Z",
+   "time": "2026-10-30T12:52:36Z",
    "link": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
    "tags": [
     "CENTRAL_BANK_GOLD",
     "CENTRAL_BANK",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Wall Street Banks Raise Oil Price Forecasts as Supply Fears Deepen",
+   "source": "Investing.com",
+   "time": "2026-10-30T12:47:00Z",
+   "link": "https://www.investing.com/analysis/wall-street-banks-raise-oil-price-forecasts-as-supply-fears-deepen-200690575",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "US Dollar Index falls despite hawkish Fed outlook: Why is the Greenback struggling?",
+   "source": "FXStreet",
+   "time": "2026-10-30T12:44:26Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXd2Q1BPQWFRWlhiQmN2TVVOcTZsekFnVFFzT01PMW92bk1reDhDSHJQdFBOWUJjZFhMZzVTSEFXRDNrTFlLUHl4VW1odVJsOVFTUmtFdGthVzdlQkZaV29Ic2hTZU1SV3dzanRDWnJObjkxUGU3d2pwbVBQWW40Ny11cnYwdENXeXBYUWRBVjQySV9wU0RQN3J0UWxGeHpkaHpnbVpkWnh3T2xUdUE?oc=5",
+   "tags": [
+    "FED",
+    "USD"
+   ]
+  },
+  {
+   "title": "Russia back in ice hockey world championships after sport court ruling",
+   "source": "Al Jazeera",
+   "time": "2026-10-30T12:43:28Z",
+   "link": "https://www.aljazeera.com/sports/2026/10/30/russia-back-in-ice-hockey-world-championships-after-sport-court-ruling?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -156,10 +202,19 @@
    ]
   },
   {
+   "title": "US employment cost index for Q3 +0.8% vs +0.8% expected",
+   "source": "ForexLive",
+   "time": "2026-10-30T12:30:08Z",
+   "link": "https://investinglive.com/news/us-employment-cost-index-for-q3-0-8-vs-0-8-expected/",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
    "title": "Opinion | A Xi-Trump-Putin summit in Shenzhen could kick-start peace in Ukraine",
    "source": "South China Morning Post",
    "time": "2026-10-30T12:30:06Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUZnWjdPaG1vMnpHN0FSV2Z1aEJ1dkxVakhDWEQ2cjBLME4zR1hkV0gxUGpNbnNHejlVd1RFa0I2bFF2djRraWxtYmlSamI0V2ZCNWhpZ0xuenhRRHdrT2xVc1hObkp1T3ZQNmo0Rk56WkxNZjdEdHBYcW9wN2FhOWhlUThyYjcxRUpCakJSbWk1UmZhUU0yQ1hFZTVicjRIdW16UDI5SmdHWGI3TFBtV2dnTnkwU3lsS2FFbNIBvAFBVV95cUxQcm5Cdld6ckRtb0ZSaHZNWUtnT05RTnBxelpFOGxTcUhaT0RZLUZzd1pqZjZPRkFwdVlPQk1IWVMyekhYZFZQQVRTY0JHalFXZHBrSTlWa0I2dUdJSVd5LVR3N2w4dGtJamtUMm9TVFVaNU5pTlUtaHNtZ1V3TFlobnkxNlY2eDhvdFM0YmVWUmd2SDdESGpiMXZyY2hiMXpOaDRCZmIzNmh0M2EtMUw1TkRoYUtPaTB0cVMxTg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUZnWjdPaG1vMnpHN0FSV2Z1aEJ1dkxVakhDWEQ2cjBLME4zR1hkV0gxUGpNbnNHejlVd1RFa0I2bFF2djRraWxtYmlSamI0V2ZCNWhpZ0xuenhRRHdrT2xVc1hObkp1T3ZQNmo0Rk56WkxNZjdEdHBYcW9wN2FhOWhlUThyYjcxRUpCakJSbWk1UmZhUU0yQ1hFZTVicjRIdW16UDI5SmdHWGI3TFBtV2dnTnkwU3lsS2FFbA?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -190,6 +245,16 @@
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORnR4d0Via0hlVXNQazZ3WEx5eWpyTFhNaWRlejNLaG9fOEtLb2J1bmVEVmxRWmE2Q0hCcnl0dUFvOTktbXBkaENudVd4Y1lZQlVnaTR5OWV6V3JSdEJjRjBrckhyaDRHTmNZdVZSYmh3UDg5bTJWQUowVWw5Y2hnbFVVVXV5TVNsRkFJaHc1QXhNNGJpc2VnY0ZQdW9aZjjSAaQBQVVfeXFMT1JqWjd4V2RFa1VUNVZJMDVIZFctSkVXUDNpcnJjMlhGZmVrMF93WUNTc0hhSm9kdzJJbFhTOTdhX1JacXN5cXJWVXBHSFFfV1hNYVBLcWl1VFZTa29TMXF1OFF0LWUyMURrV3ZGT0NPQ1JDaTB1b1hjd0lSR043eVpjT29sX0lWNEl6WjRKblZ2MXdTU25zd2hfbkhnZ1hsbG82Y0I?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US oil giants report profit surge again on Iran war",
+   "source": "Yahoo Finance",
+   "time": "2026-10-30T12:18:42Z",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV1ljcHFEYWlmQWZod1NScE1vaDdxWGhvdmhncUlUNnJuSzZlbHd6Zm1EUXRyMHhvRE01SnBla1cxbDdnWkEzOWZhUHdpclFLVnZzZkEwaGdJUWNOcE92bFVscjY0c1lDWjcwQ0lRb2ktalZCTFBXTGRDTjdqWjRNal9yYzdwbElCSjVBMA?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -282,6 +347,15 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVTdrcmtOS0JRTkRmQUdOSjhwbEdlS0NHY242MEY0bmtDb3JpNktlM2I1bVF1M2VLT0dmVklHU2o0dTc3SDlDdlY1WEtGRUlLblMxMnJNN2ZERmQ0X2x3bmtoTkVaakR4RGVXQVNPcnZHTkViY1lSWEhTSThsZUNKcUNNajFneDF0QUI5Q1NRQTJnZzJjaHRHVmhFWWFVQlZydEZr?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Peter Schiff Slams Trump’s Tariffs as ‘Complete Failure’ After September Trade Deficit Hits $134.9 Billion: ‘Worst Economy in History’",
+   "source": "Yahoo Finance",
+   "time": "2026-10-30T12:00:13Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWG5UVlRiWmozdDhXbUNHcWUtc1VYMXR6Q3lBTk5yYW1sVVQ5MFFjTVB2MnFPSDRBQlBBaEJQMHB5a0NOdk1mUmRNQWE4TG9oWUdJbURUdmhKTmlYUlc1MkFvYnl2ODEzTDNZbndGT2VBS3dGaTlCOG5lVU5ERmF2b3ljZHd4cWhLazY2Uk5oX2NPdU5JSnlRbll1b0t0UQ?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -465,15 +539,6 @@
    ]
   },
   {
-   "title": "Wall Street Banks Raise Oil Price Forecasts as Supply Fears Deepen",
-   "source": "Investing.com",
-   "time": "2026-10-30T10:54:00Z",
-   "link": "https://www.investing.com/analysis/wall-street-banks-raise-oil-price-forecasts-as-supply-fears-deepen-200690575",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
    "title": "Aid convoy enters besieged Ukrainian town Oleshky",
    "source": "Al Jazeera",
    "time": "2026-10-30T10:52:27Z",
@@ -621,71 +686,6 @@
     "RATES",
     "INFLATION",
     "GOLD"
-   ]
-  },
-  {
-   "title": "What can a global strike of dockworkers achieve for Gaza?",
-   "source": "Al Jazeera",
-   "time": "2026-10-30T10:06:56Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNG1BYzB1Q0VNUWQwNUpMRjJhYzNPMzZvck41c0ZYRXpKZldYUVZJZVJKNjk4NGlFY19fdGlsOTdXcUY5dHhHTjhBRHFmT2o2SFYzdVAzMi1hblZHTjh5Q0Q1RzdYTTczMTh2a0FLcjYzeHhGbVVuNXVhS09URzNmSGVNV0Ixak5UVXlGTkZRaWMxUUd3Zm42Vk9TWDBKRWlZUk9UadIBqgFBVV95cUxPd2Mydm1jUXJyUFFTQkpVWnNDWl82QTJzV1FVUDRqX2dyaWhTeWtwZ1BsdXhGRFVJSXZ5RzhEY2hXSUdKalFHbU9lakowbG9kRFZPQ212QzN5d3hHaHQ2eFBYT0pNanVKckFmOVluLW5VRVhtd2hxNmk2YThjenB3UWpLVHJoaFZxT0ZLc0stVUdtRnJkcTYzYTRKMmkxVGFhZk5OdkdMRlY4Zw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Drops Below $4,000 as US Inflation and Interest Rate Concerns Weigh on Precious Metals",
-   "source": "Yahoo Finance",
-   "time": "2026-10-30T10:04:43Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaFM1eFNJRjBhakpQWnEwY2U1Z1B3UzBFMVVlM0xGZWpaUFZpR2FneTVOR0NXM04taUx3TWFTR3JPcE1CRkM0N0lFTk5nNFkxdWNFTFA2Zjh5aEpIS05YeWFXV1BxalpvaGY0cHVzVHQ0YmVXYzktYXhCcHU1OFJfbk5DUlNaUURKcnBOZGRuOFdYZUk5WHgw?oc=5",
-   "tags": [
-    "RATES",
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "German economy grows 0.2% despite summer drought, Iran war",
-   "source": "Yahoo Finance",
-   "time": "2026-10-30T10:03:34Z",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd21aY2tmcjJ4Q2xkbG8xaDZZMHBtY0UtbnFvVmFUYVNIZUdQc3dHbFhIX05CeGs5UnZLR2pxcnJlTHQ5MUdkRzNjOEQxTE9wUU9yanZvU0ZyUXppMTdleWJEaU5CNnNHeHNwRmxnWDZaMldDMkdheXNTeW03S3pfUjZNY2R4bGtYQ3c?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Italy October preliminary CPI +5.4% vs +4.6% y/y expected",
-   "source": "ForexLive",
-   "time": "2026-10-30T10:01:45Z",
-   "link": "https://investinglive.com/news/italy-october-preliminary-cpi-5-4-vs-4-6-y-y-expected/",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "French output shrinks and inflation accelerates, leaving economy at standstill, minister says",
-   "source": "Investing.com",
-   "time": "2026-10-30T10:00:22Z",
-   "link": "https://www.investing.com/news/economic-indicators/french-economy-unexpectedly-contracts-as-exports-slump-in-third-quarter-4985938",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.",
-   "source": "The New York Times",
-   "time": "2026-10-30T09:51:10Z",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGdZT1FXdzFJcnlLSHFTMWdTTm5BTk10S0I2WEpYWmdRYU84SDBCTmdONjc0cWtJNURtN1JYZHJJQXdPME14TmJFU0w2R01LRXUzUVJ1dDF4N2xneEpfdE5BWGdKMzIySDAySzVpZFJpSkxmcS1qcWlISkZjdG9LZ1dZaW5Dc2NKSklfc3dn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Germany’s October unemployment rises by 4,000, below forecasts",
-   "source": "Investing.com",
-   "time": "2026-10-30T09:46:11Z",
-   "link": "https://www.investing.com/news/economic-indicators/germanys-october-unemployment-rises-by-4000-below-forecasts-93CH-4986392",
-   "tags": [
-    "JOBS"
    ]
   }
  ],
