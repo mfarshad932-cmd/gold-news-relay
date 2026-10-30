@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T09:55:53Z",
+ "generatedAt": "2026-10-30T10:24:13Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 4
+   "kept": 5
   },
   "marketwatch": {
    "http": 200,
@@ -57,17 +57,17 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 4
   },
   "bbc_business": {
    "http": 200,
-   "items": 44,
+   "items": 45,
    "kept": 1
   },
   "bbc_world": {
    "http": 200,
-   "items": 33,
-   "kept": 3
+   "items": 34,
+   "kept": 2
   },
   "aljazeera": {
    "http": 200,
@@ -81,28 +81,28 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 27,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 31,
+   "items": 30,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 26,
+   "items": 27,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 37,
+   "items": 33,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 10,
+   "kept": 10
   },
   "gn_yields": {
    "http": 200,
@@ -126,12 +126,85 @@
  },
  "items": [
   {
+   "title": "New economic data challenges Fed chief's not-too-hot perspective",
+   "source": "Reuters",
+   "time": "2026-10-30T10:12:09Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNV9seWt5MjlGeDJNRkdKLWxjUHQyb2R4QmUtM0ZvOU5hUExsYmpuVkhyZ2RnSGtPajEzZEFFRUluX0xHdTlaQ1NKc0JKcXhQTXB6NGJ4VXJ5NVhNWkZzTTU2WFplQl9zWUFtT3hmWG9FQXhyYVBWN1V4MEhoaGVEd2pfQWRDakQxcExBc3VjQmNNSzhEUDZjMEMwQnpVV1NTMEhZb0Q2LWF1SUZi?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "What can a global strike of dockworkers achieve for Gaza?",
+   "source": "Al Jazeera",
+   "time": "2026-10-30T10:04:35Z",
+   "link": "https://www.aljazeera.com/features/2026/10/30/what-can-a-global-strike-of-dockworkers-achieve-for-gaza?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "French output shrinks and inflation accelerates, leaving economy at standstill, minister says",
+   "source": "Investing.com",
+   "time": "2026-10-30T10:00:22Z",
+   "link": "https://www.investing.com/news/economic-indicators/french-economy-unexpectedly-contracts-as-exports-slump-in-third-quarter-4985938",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.",
    "source": "The New York Times",
    "time": "2026-10-30T09:51:10Z",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGdZT1FXdzFJcnlLSHFTMWdTTm5BTk10S0I2WEpYWmdRYU84SDBCTmdONjc0cWtJNURtN1JYZHJJQXdPME14TmJFU0w2R01LRXUzUVJ1dDF4N2xneEpfdE5BWGdKMzIySDAySzVpZFJpSkxmcS1qcWlISkZjdG9LZ1dZaW5Dc2NKSklfc3dn?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Germany’s October unemployment rises by 4,000, below forecasts",
+   "source": "Investing.com",
+   "time": "2026-10-30T09:46:11Z",
+   "link": "https://www.investing.com/news/economic-indicators/germanys-october-unemployment-rises-by-4000-below-forecasts-93CH-4986392",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "SJVN: Q2 earnings rose sharply, aided by tariff-related prior-period revenue",
+   "source": "TradingView",
+   "time": "2026-10-30T09:45:53Z",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQU3Q4NVdKQlRVYzZkN0NtU3B4VHoyNWc5VlFsY2ZhdU1VeGtSeGdsajZwUS1ZU25DRzVhSUVHWElsVHNDcnhxYlUwUlItQW9oNlhpWjhiZlZuODFJZmZud1V3Z19OMU9NcWZXV3ItM1B4UkxBajh5Vm1KelZNRWFvb05QWFRvbTFNV3VFRTdKOXJOMndiOTltMWlYRVNJNUU1V2xxTS03bm9GWWl3S2NPdF8yYjBZZUtBNnplZ1JyQUpFWTBVZTZ0TUszR0NtMURBSkxkMGFWSk9EU21ldlRKMjVOVHF2U3dHVkR1V293?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "ECB survey shows inflation expectations rise for 2026 and 2027",
+   "source": "Investing.com",
+   "time": "2026-10-30T09:37:32Z",
+   "link": "https://www.investing.com/news/economic-indicators/ecb-survey-shows-inflation-expectations-rise-for-2026-and-2027-4986363",
+   "tags": [
+    "INFLATION",
+    "ECB"
+   ]
+  },
+  {
+   "title": "German economy grows 0.2% despite summer drought, Iran war",
+   "source": "Yahoo Finance",
+   "time": "2026-10-30T09:33:38Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUHp2UHBveUNxVEFVTlRnZ0dEMFdITjhJbDliXzJRbnBvOTl2M3d6ZHBsZExuLW9YUjh6NzI1RF96MnZhYzhzaXRldzNXYTdIbVc1WG5LQkw5eF9CR2p0QTJVVWhXSy1GTVh6a3Q2Q2hEbXZqR1huaG5UbUZVMzcwdk5tbG1HalFmQWc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold gets hit again by forced liquidations as equity losses mount; fundamental outlook increasingly positive",
+   "source": "investingLive",
+   "time": "2026-10-30T09:27:06Z",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMW1xUXZFVVhkeW03S1V6RzNJVzVTTC0yeDZVNXdKYzFYYUhmQjZmdllKZzJXUV8xcXJtN2NWU01aLXdodHpvdEZhbVNtSXQwV1Bkb18zOTNNZnFVYUtPc2VucE5GaF91a2xuc3VVQ1V4QXM1TWZPb2E1THVOMDJaWDM0SHNMVzhiYTJqMWZESEw5aElEVVdRZEs2cGtJMktaVGRJbnhQMUQwa0t1eWRVc2U5X3hYWnlHMUU3TEdHa0tuTmw0aHpReW00RzJLRTRfaGsyLXY3aEJOVWZ3VFJR?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -142,6 +215,26 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
+   ]
+  },
+  {
+   "title": "Audi profits plunge as US tariffs and China slump take heavy toll",
+   "source": "Yahoo Finance",
+   "time": "2026-10-30T09:18:31Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3hXRkRmckdFdTF6MzFzNDdDYjlnQ0NNY0tyTVZoWUluVjFBLUMxSEg2dnVobzlfbG5od3pEa2lqLUZYRXBOTUY0LVVqNVNwa3N1ZWNLT3NuM214R1ZEVzdJYUpIUHVtcGNBX3l0cVNjRmZiS1lkbnhLRFoyOFNnQ21ZanJVQ2pCeHFxak9LMDd4bjVRelNwbzU3dw?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "German state inflation cools in October, but will that ease the ECB's headache?",
+   "source": "ForexLive",
+   "time": "2026-10-30T09:11:17Z",
+   "link": "https://investinglive.com/news/german-state-inflation-cools-in-october-but-will-that-ease-the-ecb-s-headache/",
+   "tags": [
+    "INFLATION",
+    "ECB"
    ]
   },
   {
@@ -273,6 +366,15 @@
    ]
   },
   {
+   "title": "New Jersey Governor Mikie Sherrill Threatens To Block Trump's Russian Diesel Shipments, Calls Deal With Putin ‘Corrupt and Illegal:’ Report",
+   "source": "TradingView",
+   "time": "2026-10-30T08:20:27Z",
+   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxORFo1OVZNR3pMQmZ0akxDN0Y1cU1YWmJldVYyN1lRbDNWZzVlTDdyMWg0OG9nT2JYNVpGZDl1alJLSzdEVnBNQXhsU0hYdEdXZ2tLMk45bGMtaXNQZnBiQ1RmSThHZV9pYkFhZFJIZVFEd2xBdzBVa1lXTDZjd1F3MFNQN0F0NW1GdS1mRUlfY0Z6bVRJek9IZ0h0SVl3NkstSXc1Z0lzUl9LbnR6Ql9UNGdGWHRRLTJ0czlnTlJxQjJsdW8zZGtBV1JYYmItY1hTV05mTVd3WG5oOEwtVEgtWThNeGd5TWFEajB3TnF2V2ZIdFBXOE5TTGFDV041WEg4OThySGxpY3F5eXF3dmNsaTBuU1BvVy1IdTVLWWdBcw?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "Kia Shares Plunge as Cost Surge Linked to Iran War Hits Profit",
    "source": "Bloomberg.com",
    "time": "2026-10-30T08:19:58Z",
@@ -365,6 +467,16 @@
    "tags": [
     "USD",
     "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Gold bears retain control below $4,000 as hawkish Fed bets back further losses",
+   "source": "FXStreet",
+   "time": "2026-10-30T07:37:02Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbDg0NHE2Q1BxY2xiMXZZUGh3MTBoUkNoY0Y1SWM1WW9TZVpBWmZhbGdmT002UXE2dUV4eUQzc1V5andNYXFBUEljaVJyQnFTR1VuaGZOUzBwV0pmRDJaZUpKTFhrZnV4ZzRuQTlQUTdvZWFtTUpvTnI2N2ZNYjdyb1hGS0sxVy02SmtZdkJ5SWVVWGxVdUNMdWRvMDZmNWthelhYRDlyWXdWTDdSSlFTUzBUTXZ6STdzdVVFVVlnZVJRRktZTEY4?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
    ]
   },
   {
@@ -533,16 +645,6 @@
    ]
   },
   {
-   "title": "Gold Signals Inflation Risks as Energy Costs Threaten a Regime Shift",
-   "source": "Investing.com",
-   "time": "2026-10-30T06:44:00Z",
-   "link": "https://www.investing.com/analysis/gold-signals-inflation-risks-as-energy-costs-threaten-a-regime-shift-200690557",
-   "tags": [
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
    "title": "Gold and Silver Price Forecast: Silver Lags as Fed Hike Fears Grow",
    "source": "FXEmpire",
    "time": "2026-10-30T06:36:44Z",
@@ -576,109 +678,6 @@
    "source": "Reuters",
    "time": "2026-10-30T06:22:30Z",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EV0ZhYjVMY3MzcU96ZEtBaU15QTc0dWxSLVVLXzlQTHJFZzktcjZsU3d2UkMtajVBM3BzN3dUeERnVnV4MkE5MXNpQTJTTFE3bGREbjNaUHRieUF3NHhnb3Y5VlU0MVU?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Outlook To Q3 2027: A Firmer Foundation, Renewed Potential",
-   "source": "Seeking Alpha",
-   "time": "2026-10-30T06:05:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM3VGN3BIcGU4eC1FcXlsdjVtb3FETjhrcmZTV2FhR054dGQtSkVTdE1uYjdBTndiUDRJeFJGODBQb3VIdjZiWFMxc083UU9nNnpGbnZoOFBnLXo0czNJVHU4Y2JuXzdDZmFGcjhGMzctQXJUUGlXVGFMRF9mek52Ty0yaTRSM19VajdJNDZEVThyc3A1S3JPVk15bVNldXZTWUE?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Philippine Bonds Are Most Exposed in Emerging Asia to Fed Hikes",
-   "source": "Bloomberg.com",
-   "time": "2026-10-30T06:04:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTC1uTlUtLU5oREJPN2VmX0otV21oN1lQU3ZYX2p0R1J6enBwZkNLUVRnOEtkUnBKOEZEaXc2amRWNVU3cmlad3hobFdsc3E0eWtTQU1DaVhNeHBROE9ENUFEdS1DRVBvM2wxSTFwYVVOVmhySkRhbGk3MUxqQkJhdkZFdEZWVGVDMGRMZ0ZHT0hMR3hJdEhSdmlMRVczUXY2VXg3cF9Wa0g4X1htMWdGWGhzTXU?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Iran’s Long Game Is Colliding With America’s Political Clock",
-   "source": "Bloomberg.com",
-   "time": "2026-10-30T06:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUUJmQlo0Vmp3ZzZwcVEzdmk1aGhpTFNoc29xMzR6UVlSUkJya0lEWVNBQXRCNXo3X1dESXpnQm5sRmhDVTAxdkRiVFN2SjdjdWxlOEM0VXJ4MWFRYk9tVlEtQzJkWEJXeVRITjBQNlFkZ0xuamE0THQ2UUR5dEFlZ1N1cjNjN2tCdnhQNEV0NWttanhwWFJ4WWpCSU5OSTBVeW9ERmtUc3lvNUFCd2F4ZFBTY2dWZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Falls Even as US Dollar and Yields Drop",
-   "source": "Investing.com",
-   "time": "2026-10-30T05:53:00Z",
-   "link": "https://www.investing.com/analysis/gold-falls-even-as-us-dollar-and-yields-drop-200690551",
-   "tags": [
-    "USD",
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Futures Near $4000 and Silver Futures at $51: Is a Short-Term Rebound?",
-   "source": "Investing.com",
-   "time": "2026-10-30T05:38:00Z",
-   "link": "https://www.investing.com/analysis/gold-futures-near-4000-and-silver-futures-at-51-is-a-shortterm-rebound-200690549",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "What is spooking markets as stocks, Treasury yields and gold all fall ahead of European trading?",
-   "source": "investingLive",
-   "time": "2026-10-30T05:27:44Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSEJTZDRlREZrTmV5Y3I1bmthbk5DanZFeGJoZ1dkRnZzN2NkdnZmUWtENVJySkdNMVE3T3QyM3p1ZlFoMURLRG5Yb2tpWl9pa3JZVXZaYUEyZzJndWJXOVhxWklrYXBiYUNyeGpScHdEdDNoRTRkSHlOU2dndjQxRmN1aFZ1Y2hiM3oybUxXbEk3VEttQ3JpbXplQ2hfM0RQNWZPVElJWTFmYndiSVE3cVhtOW1SNkVmTDVmb1FCNXl4U05N?oc=5",
-   "tags": [
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Russian businessman blames sanctions in £30mn divorce battle",
-   "source": "Financial Times",
-   "time": "2026-10-30T05:05:38Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU1lKOU5hSjhSZkI4R2RPbVhVdWU4OVkwTEJfaldDeTg0MUtyaWVNSllOR01ranlsLUdTbGxLTzFmbGdORElDMXNtTXlLNkoxaHQ1LTlzS3NBWVR3Y0d3YW8wWUUxWFgzQVRiUExSdU5mVjlURWZFU3haeXRoYXA2QnV0LUo?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Sovereign Gold Bond premature redemption today: Investors can gain over 270%",
-   "source": "CNBC TV18",
-   "time": "2026-10-30T05:04:10Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa2xFYXlWQTR3YXpyQTZRakNjMEJFSmxTWXhIdVlVVl9FRUVfdmRPLWJaSWNzclBEVDVfeGRQWmpWdVlBdk90ekw5Q09MSWdxRmlQV3B4aWF6VGxEb19tNVg3N2tmUFYtZU4wajd2SzF3TEhuTlhoSE5LX0xSMHI5TER6TGd2bEFDamFkWV9BNVI1dXo0MXB4N085eFQtTUc0RUNRWC1vSk1md0MzWXVqa3ZNSm55b3Qxc0xsRFViaXJ5T0ln0gHKAUFVX3lxTE9PY0ZfLTFmQWR3OHNPZ2xVVzR4S0s3YUcyajUzTlIzT2lYQXhpcUxwVG14UDJDQ1Uwc1Q0N3VNaEtWaWFpOFQ4QXdqUWt2cllCWG41SVBFTlNfM0N1VDFXcm51SkgtRWo4dExoUENkSjM2Rkk0cTdTTHpGVzVBbEM1UmlPWGdIRDVVZDE2V0pIMTBRQVI2TzRzUVQ0ZlRQTmp6VFNPUTQ4WDFZbXRoekJxMDA4UG5NMjNWVUdxTWJEU2RydGFxcHliMnc?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "WTI Price Forecast: Pulls back from multi-month top near 104.00 as bullish bias holds",
-   "source": "FXStreet",
-   "time": "2026-10-30T05:03:15Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR3UzeTNhdEZKWkV0V05Fd1Brek42MzhIMWJNSTNPa0wtbG9QNk1UMlE2YTdFY3VVZGxnRlVYYnpzbGcyN1dDb2NDYXBJaXFiQm5hQXpiSEpKMC1aTjlsVFhPamYwcm1oTDJzdnBOZUpONGtTaExNR3VreXVwTGd5RFBxOWduaFVXM0o4R3VUU0I2RDBjdmZvTUNWTzA3bW5xS0I2WEdtamduQ3lCQXluOHlZeGNqUHNxN0NFOGNzTk04cEhp?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Two U.S. service members die amid Iran war, Pentagon tally shows",
-   "source": "The Washington Post",
-   "time": "2026-10-30T05:02:05Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVRPSzRlRVc4Q2VvaVJkcU5wM1UzcktoQXhBdnNlTGJkRFB1QnBiM0M0c0FmQVpNX3dBczR6QmE1aUFLY0U3LWprcFdXUGVSQVpIbkRIRmI5QmlKYTZGeXJaUmlDWWdONVFEbENzck42a0h5bXp1Q0ZHejVzanRuTFBpSjhFQzhkNFN3S25FbzdqMFdrV3BVV2k0RG5sRGt5NUFHZV80QTRNSmJiSEh5a19Bdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "See How Flight Routes Are Changing to Avoid War Zones Around the World",
-   "source": "WSJ",
-   "time": "2026-10-30T04:57:20Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlB4dVplUTFDQ25acHl6Q240Uk1aWTAzWDB5WUVZeXB6eTJZZVgwZjZCcVUxbmtOdDlsdUxLUVdCRTV3OXJ4eEpQV3RzNmxqNjcxMVd5MTFrb3FNVUFKTjFJUl9rWnJLWW83VUpJRHJPTzVqZFNmV3BodnpOcWRPWV9lN1ozXzNXRU1BckV0RF9LSWxFcktRelpyWktqYklsTTZkbDEzTjNndUozTmNIWVNpR2I3VjZzNlFfQnpIMFlIUQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
