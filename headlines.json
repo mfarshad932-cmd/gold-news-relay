@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T12:17:33Z",
+ "generatedAt": "2026-10-30T12:45:54Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 3
   },
   "bbc_business": {
    "http": 200,
@@ -81,28 +81,28 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 31,
+   "items": 25,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 31,
+   "items": 28,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 24,
+   "items": 22,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 45,
+   "items": 49,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "gn_yields": {
    "http": 200,
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,73 @@
   }
  },
  "items": [
+  {
+   "title": "Swiss central bank posts bumper $23bn profit as gold, foreign assets soar",
+   "source": "CNBC",
+   "time": "2026-10-30T12:31:40Z",
+   "link": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
+   "tags": [
+    "CENTRAL_BANK_GOLD",
+    "CENTRAL_BANK",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold price today: One analyst sees a rebound, one sees further weakness",
+   "source": "FXStreet",
+   "time": "2026-10-30T12:30:58Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS3pTYTlUMjhETkN4SlA3QW1PMTVVSXhkbGc3dGFVTGVsWUZIMkZNc1RXbFRFdDBsTTVPOXFVYU1WVG1GZGN5MVBpMGN6QnVSeXVrMjJSNUFiNXRLWHRUNTUyMmdUemxpdncydWg0UG9LMDJqTkFEc0djSlhWMHlvZHE4U3Jub0pKbVRtQW5wOTNQUkpnaFYzVXloVjlxTk03Z1ZLQ2xscVRuMWdvdEJPSFVUOGwtS3M?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
+   "source": "WSJ",
+   "time": "2026-10-30T12:30:40Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVpkc0tPSDBPVHptQ0w1dG1CTjVvTXpYZTAwbWlJOVpJUHc3UTN5R2pPeTA0QnoyVWpRVGpLS3JFd0xSeDdoWjJtRlJBNHZXVm5kcTBRaUdxQTNNeGdNQmFxYWE0MjBoZG80SVlscnJSaGRDdDBmUFRsT3BtWnd5TjlwZ3dqWDNDRnFVamJ4RlVqZThYTm5tVTJB?oc=5",
+   "tags": [
+    "FED",
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Opinion | A Xi-Trump-Putin summit in Shenzhen could kick-start peace in Ukraine",
+   "source": "South China Morning Post",
+   "time": "2026-10-30T12:30:06Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUZnWjdPaG1vMnpHN0FSV2Z1aEJ1dkxVakhDWEQ2cjBLME4zR1hkV0gxUGpNbnNHejlVd1RFa0I2bFF2djRraWxtYmlSamI0V2ZCNWhpZ0xuenhRRHdrT2xVc1hObkp1T3ZQNmo0Rk56WkxNZjdEdHBYcW9wN2FhOWhlUThyYjcxRUpCakJSbWk1UmZhUU0yQ1hFZTVicjRIdW16UDI5SmdHWGI3TFBtV2dnTnkwU3lsS2FFbNIBvAFBVV95cUxQcm5Cdld6ckRtb0ZSaHZNWUtnT05RTnBxelpFOGxTcUhaT0RZLUZzd1pqZjZPRkFwdVlPQk1IWVMyekhYZFZQQVRTY0JHalFXZHBrSTlWa0I2dUdJSVd5LVR3N2w4dGtJamtUMm9TVFVaNU5pTlUtaHNtZ1V3TFlobnkxNlY2eDhvdFM0YmVWUmd2SDdESGpiMXZyY2hiMXpOaDRCZmIzNmh0M2EtMUw1TkRoYUtPaTB0cVMxTg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Qatari officials in Iran in bid to revive ceasefire deal with US",
+   "source": "Al Jazeera",
+   "time": "2026-10-30T12:30:04Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDdnbjUwcjA0SXkzWlVXOFZsREJjcjR1dV80T25uVTVHeEExZkRwSjlIWHoxXy1xWnk5MnRkblhvcHpDTDEtWDF1VGRoTVVrWmZIUWRkSEdyd0VTLWFSSkRtTkdLZlBVdHFfWWlXd3FjWDJDTjFyTWxuYkdyVGdnZFVibWRhczJ3WmhhUmJWUTdsNTdXUWxqalpiSloyQTI3OWpzSHNESkdzUdIBrwFBVV95cUxNVXZ2X0l5M0gzLXExaUNPZ0RHem0zVzBMX3ExbURWZU9CZVVmRnM1dUExY2ljY1Q3VDYwSm5pNExMWDZ3Vmo2cy1kUk9WTWlmWjhLYmZRcXlPY2JHSHlkSzFEUlVtODlpcktaUk9MejdGek9jWGhyS1V5QkdTUDMwaVg0UnVYdE1UMVVyNEZINUZiMllkQTNia01ZVHhPUmxtS2F4RVZvVkcxOGdoYjU4?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "WTI Oil holds above $103.00, near five-month highs amid new attacks in the Strait of Hormuz",
+   "source": "FXStreet",
+   "time": "2026-10-30T12:19:57Z",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbHBYY3RyYWR4SEt6Rk5zRktJenpYT19ZdDdMdWRaMXM3SjdIVThoSlNSYVR0aVBNVk9BSUJqS3k5VUFnMl9sel9TYUZrVEhFblFndF9wdzY0aGQzUGhtcnhNTHZSc1F1R3VJdUd2WEtlNHpHb3hVN1NJT0lOZmZVZ1BSdTlMd3JRaTk5N0lMTVRPWFlBaElUNGVVc3NBai1mRW90TUkwbjVxeW5IMlVKWHFoODdhOW05VERKaFZrdk9VQ25kZkZwUjFLMA?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Europe's economy brushes off energy shock from Iran war, shows moderate growth in Q3",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-10-30T12:19:37Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORnR4d0Via0hlVXNQazZ3WEx5eWpyTFhNaWRlejNLaG9fOEtLb2J1bmVEVmxRWmE2Q0hCcnl0dUFvOTktbXBkaENudVd4Y1lZQlVnaTR5OWV6V3JSdEJjRjBrckhyaDRHTmNZdVZSYmh3UDg5bTJWQUowVWw5Y2hnbFVVVXV5TVNsRkFJaHc1QXhNNGJpc2VnY0ZQdW9aZjjSAaQBQVVfeXFMT1JqWjd4V2RFa1VUNVZJMDVIZFctSkVXUDNpcnJjMlhGZmVrMF93WUNTc0hhSm9kdzJJbFhTOTdhX1JacXN5cXJWVXBHSFFfV1hNYVBLcWl1VFZTa29TMXF1OFF0LWUyMURrV3ZGT0NPQ1JDaTB1b1hjd0lSR043eVpjT29sX0lWNEl6WjRKblZ2MXdTU25zd2hfbkhnZ1hsbG82Y0I?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Trump on Iran war: It’s going to get wrapped up soon By Reuters",
    "source": "Investing.com",
@@ -144,8 +211,17 @@
    ]
   },
   {
+   "title": "A resumed Iran war after midterms would put fragile gains in Hormuz to the test",
+   "source": "The Washington Post",
+   "time": "2026-10-30T12:11:20Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlhHVWx5Um1HLXNrSExCVlpjcXFEdGlYSmZsRmVydTRKd3VNcGdVVzA0dGJxMkduZVFNM1IzeTloX0QtRWdLQS1wSzl1QVpXX1ZNQ3dXbFBlUlBVQjRid2M1bmhfZ0VmOER2NEFBODhxVG1qRHJGS29fRFpXa21yVXpVMDh2NEdkZ2RpX183R054UmdUUmlROVJPWWg0c0NBOHZiWGVJT1dRd0M2ejZYbjQ5Q2M2THc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Exxon and Chevron Beat Estimates as Oil Refining Profits Soar",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "time": "2026-10-30T12:11:17Z",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSThtNVFEM3B0RE52Ujl2M1B0ajNVOURZS1k4RGNWUnVKamNiZU1hUU5nUXRjc2RoRVZ0eUZidl9aX1RyYkpHck81ZktvbnRKdHYwOUF5ZXFVcFBCUWE3WWpkSWh2RDQtWHdZZ3RFR0c4SVBQYk0tSWlFWWw3ODhyT3pQcXZxUWRGV195OHJPUUh5ZEc1ZTd2ZWtjWTBrM0c0dERfS2RITDVwT2g3dFc2QTFiX3laZTVfaXVhWW1aeGwxM1h0Y3c?oc=5",
    "tags": [
@@ -154,16 +230,35 @@
    ]
   },
   {
-   "title": "A resumed Iran war after midterms would put fragile gains in Hormuz to the test",
-   "source": "The Washington Post",
-   "time": "2026-10-30T12:07:32Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlhHVWx5Um1HLXNrSExCVlpjcXFEdGlYSmZsRmVydTRKd3VNcGdVVzA0dGJxMkduZVFNM1IzeTloX0QtRWdLQS1wSzl1QVpXX1ZNQ3dXbFBlUlBVQjRid2M1bmhfZ0VmOER2NEFBODhxVG1qRHJGS29fRFpXa21yVXpVMDh2NEdkZ2RpX183R054UmdUUmlROVJPWWg0c0NBOHZiWGVJT1dRd0M2ejZYbjQ5Q2M2THc?oc=5",
+   "title": "Asia physical gold demand remains subdued",
+   "source": "Mining.com.au",
+   "time": "2026-10-30T12:11:15Z",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xeG1ScE50R09EcHBsV0RMZW5vblVZTVE3VDduLUdURV9yRElhQUJwc1ZNTVpZTWlxdnh0MjliMzV2Y0NuTGRfbGF6Wk1yVkN2YVNsOHIzRlRYZE45aEw2WlJoODRvaW9QVkxsOU9weE5UUQ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
+   "source": "The Guardian",
+   "time": "2026-10-30T12:08:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSWM0RFFWZnMxcnJPU0Y4M3JjS2FoMzRoZlFkM2stdEVDRXY2NEVvN0RLVW1jMTRpX0l4TnhoZFdHXzFyYUxzcnZMbjhBa0xyZlpEN1ZBLXdTMzZDV3RZcG5KU19IVkNfcWlpOXBIRFVLZDgzcTR5eWtVNkJ0b1VEWFVkanNlczBpUXU1dU5VZ1ZYYjk2Mk5PcWJodk83bV83T3kwSVhxYkFzcHhTRDltOTFnYw?oc=5",
+   "tags": [
+    "USD",
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump: Iran War Will End Soon; Need Guarantee Tehran Won't Obtain Nuclear Weapon",
+   "source": "Haaretz",
+   "time": "2026-10-30T12:08:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNOVhWRTR1Z2x6TDlENDNMYlk0MG9oMF9GZ3M1REJYcUNFWXptb2VUN1EtZEFYTzFzU1dQUnBpTjg2YXJxemhTd3MyYXQ2azVYU3JpY29OdmY4R2ZIcUtjTVppM1lxcTk2YTFVME92cU1MOGYxYko4UVZ1SjdNalBtWG5nZlc1cVRpT0QwN2k5eHJ2VU1VTC14WXlfVFROeFdqenRMdFIxMW15RnBZWTRUNkp4NVN2MV93V1R1al9IWGF2Y2FPYTQwUTZRd1lzd1RLZXBuUzVsdWYxUUEtUi1vRDdTMWNKWVAteG12NVp2TU1DQ0ZjcURhaVJnM2w?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Donald Trump speaking ahead of US midterms: Iran war will get 'wrapped up soon'",
+   "title": "Trump: US-Iran war will 'get wrapped up soon,' speaking ahead of midterm elections",
    "source": "The Jerusalem Post",
    "time": "2026-10-30T12:05:20Z",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nMkRWQl93RHVKdUstWnFhSGR0U3lNVFV3TzJfd1F5TWVocmxIX3Q5Rno1WHN6d3pfbjYxejVZWmZHZmhJZ1I5WVNrZ1FBby1SVW9XUm9CbklOR1ZJbTZVTUprQXZzRjU0Ymc?oc=5",
@@ -453,7 +548,7 @@
    ]
   },
   {
-   "title": "Here’s the math on Amazon CEO’s claim to be on path to two trillion-dollar revenue businesses",
+   "title": "Here’s the math on Amazon CEO’s claim to be on path to two trillion-dollar-revenue businesses",
    "source": "MarketWatch",
    "time": "2026-10-30T10:34:00Z",
    "link": "https://www.marketwatch.com/story/heres-the-math-on-amazon-ceos-claim-to-be-on-path-to-two-trillion-dollar-revenue-businesses-34d648e8?mod=mw_rss_topstories",
@@ -591,99 +686,6 @@
    "link": "https://www.investing.com/news/economic-indicators/germanys-october-unemployment-rises-by-4000-below-forecasts-93CH-4986392",
    "tags": [
     "JOBS"
-   ]
-  },
-  {
-   "title": "SJVN: Q2 earnings rose sharply, aided by tariff-related prior-period revenue",
-   "source": "TradingView",
-   "time": "2026-10-30T09:45:53Z",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQU3Q4NVdKQlRVYzZkN0NtU3B4VHoyNWc5VlFsY2ZhdU1VeGtSeGdsajZwUS1ZU25DRzVhSUVHWElsVHNDcnhxYlUwUlItQW9oNlhpWjhiZlZuODFJZmZud1V3Z19OMU9NcWZXV3ItM1B4UkxBajh5Vm1KelZNRWFvb05QWFRvbTFNV3VFRTdKOXJOMndiOTltMWlYRVNJNUU1V2xxTS03bm9GWWl3S2NPdF8yYjBZZUtBNnplZ1JyQUpFWTBVZTZ0TUszR0NtMURBSkxkMGFWSk9EU21ldlRKMjVOVHF2U3dHVkR1V293?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold gets hit again by forced liquidations as equity losses mount; fundamental outlook increasingly positive",
-   "source": "investingLive",
-   "time": "2026-10-30T09:27:06Z",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMW1xUXZFVVhkeW03S1V6RzNJVzVTTC0yeDZVNXdKYzFYYUhmQjZmdllKZzJXUV8xcXJtN2NWU01aLXdodHpvdEZhbVNtSXQwV1Bkb18zOTNNZnFVYUtPc2VucE5GaF91a2xuc3VVQ1V4QXM1TWZPb2E1THVOMDJaWDM0SHNMVzhiYTJqMWZESEw5aElEVVdRZEs2cGtJMktaVGRJbnhQMUQwa0t1eWRVc2U5X3hYWnlHMUU3TEdHa0tuTmw0aHpReW00RzJLRTRfaGsyLXY3aEJOVWZ3VFJR?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Russian oil refinery struck as Ukraine renews drone attacks",
-   "source": "Al Jazeera",
-   "time": "2026-10-30T09:19:58Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcVQwNDJLZkYzWGpxRVdaQjg5enB4bzRZaUt2Y3c3enFfM2ZEVVNVRi1jLWZ2M3FERzBlT0xPbzJrbm5GTElnajF1dG01YmpRNzJHUTJ0eTNDV0RRbVdzTldseTRIRERpWVpHUFcxTWpHc3hNWDFheTZlY24tTF9NNlIyQ0JxRDJhNVZmSG9ndkR4cGs5dGtTM09QZDYzbGtURmZZSGFfVmw3blJVQkdUdtIBtgFBVV95cUxNQmt4WmF6dUIyRDE1Q3pnWk9xaEZqSlJDU0xSdktQTEdnXzBQRTFzWGliYnhTQjRtaGRHdlowOGY4RXhDSktDRFU5VXFPNVhSTmQ5djVtdWtiOGRrNGNSMklNLXdXbUZlOUFFQ2JyamdZUThmcThfcGl6ek1yaGVpcFFaOXFuSkk4TkM1R1FrZlYyeWxTdnVEXzR6OGVDRHpvcHpLQXh0REc2bHN1NVlwYlNna09xQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Audi profits plunge as US tariffs and China slump take heavy toll",
-   "source": "Yahoo Finance",
-   "time": "2026-10-30T09:18:31Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3hXRkRmckdFdTF6MzFzNDdDYjlnQ0NNY0tyTVZoWUluVjFBLUMxSEg2dnVobzlfbG5od3pEa2lqLUZYRXBOTUY0LVVqNVNwa3N1ZWNLT3NuM214R1ZEVzdJYUpIUHVtcGNBX3l0cVNjRmZiS1lkbnhLRFoyOFNnQ21ZanJVQ2pCeHFxak9LMDd4bjVRelNwbzU3dw?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "German state inflation cools in October, but will that ease the ECB's headache?",
-   "source": "ForexLive",
-   "time": "2026-10-30T09:11:17Z",
-   "link": "https://investinglive.com/news/german-state-inflation-cools-in-october-but-will-that-ease-the-ecb-s-headache/",
-   "tags": [
-    "INFLATION",
-    "ECB"
-   ]
-  },
-  {
-   "title": "How the Seizure of a Russian Vessel Brought the Ukraine War to the Arctic",
-   "source": "WSJ",
-   "time": "2026-10-30T09:02:17Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSW05UHQ5YjRDajJGVFZOdDRXWVM4YWZ0ZVZEakU1R2xFWk02Z1MwWHBic3Q0ZW1BUVk0YXFRLUpwd3d1MTAtdkxsNjVxenAtLVpJakpZTDJXOEVxSHFOYVotNjc3QWE4MEhEbWktZ3cycndLc0dERDJzaU01N1EyRGJwSU1pVXliOG13TmZUZllNU1c1ak00TWVoRDlFSFFEWXBuSlBYd1pnckJKdUJQTWNqa2Y2Zw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Where Is All the Art About War?",
-   "source": "The New York Times",
-   "time": "2026-10-30T09:02:12Z",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Nak1yOU1ISjRJR1pHQm5kUkVucmNfY3VXbktVMUQ0MzU5b1laUEJvUTJSMW0yWUZVTk15UmU1WXd1Y1UwbXFSb3dFbVJtejR6bVRYZ1lrVTNiWFR5Nnp4bDZBd1hyQ3duTUZfSFF2aHZDU01SVFA1d2tiMA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Money woes, war and Trump — what's motivating U.S. voters ahead of the midterms",
-   "source": "thecanadianpressnews.ca",
-   "time": "2026-10-30T09:01:53Z",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOOERwbnY3bmtnSDBqUnJLMGJDNS1ERFdxbzNYdlppR01TVTZNYlZsSDhfejlzcEFndTVYSzNyMHZQeXNNeC1IRnAtRXg4bHg2VmtiOWwwTXByQ0tVdXZNZ3JmWElQRTlVS1J3T1c4bmRrOGg5Q0lnOUJMTzc2NGZXeVV3RXlkUVlFMTJmeXRIZ1JWSG5sWl9iWEdmSWozUnhaZ0F4aWVEcktGOVE5aG9sSk5LMm1TS2QxeTJHc3Z3UTV2Q1VBWGYySUFmYmRBTjBoN1BSbFdQSTFETHdhNGszUk14UmRCVXlod3RPQXd3dWdUclN2M3FXc0lOQzA1QQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
-   "source": "ECB",
-   "time": "2026-10-30T09:00:00Z",
-   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "title": "Democrats Haven’t Thought Far Enough Ahead on Iran",
-   "source": "Politico",
-   "time": "2026-10-30T09:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQkRIaDd6YmxVNG1IZUFjQlY4ZldsVnZkOWhfSFhfeDFELTBfMDBnX2JQY3JJbXhpVVJ4VjMxaWZBM2Vtbm5sZ0VIaGgtbnRiUk1QLWZDb1lYTEUwUHhmZUJrVmh3UUpCUzdDVFRDdzFLbUo3SXVVTW1EUF80Um9xQ29SVXpJQU9KX2RteQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
