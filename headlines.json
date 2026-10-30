@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T17:29:11Z",
+ "generatedAt": "2026-10-30T17:57:37Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 33,
+   "items": 32,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 24,
+   "items": 27,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 21,
+   "items": 18,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 43,
+   "items": 42,
    "kept": 12
   },
   "gn_sanctions": {
@@ -111,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 3,
+   "kept": 3
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,54 @@
   }
  },
  "items": [
+  {
+   "title": "Fed officials are already saying they’ll need to get back to hiking rates",
+   "source": "CNBC",
+   "time": "2026-10-30T17:48:34Z",
+   "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "American workers are finding their take-home pay isn’t keeping up with inflation, with their wallets ‘stretched thinner and thinner’",
+   "source": "MarketWatch",
+   "time": "2026-10-30T17:44:00Z",
+   "link": "https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Skipping a rate hike doesn't change monetary policy destination: FOMC's Logan (US10Y:)",
+   "source": "Seeking Alpha",
+   "time": "2026-10-30T17:42:32Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTVRd0hzZzRWclRoY1VnTktoOW5UellUV05wWFBhZU04Y01PT2xWZjN4UWptTWFkaGo0SVFjZmdHTWxuZ3NqdUNneEkxc0tqLVdGM29rR21NSE02M1lrd0VTNWd2RHRpMWZyQk5zdjQ2bUhHU2FXYVdqWWZPelp2QnZsQmd2ZmZIREU0MElxc0IyX1dpdE9ITGNqOUpESnhzZXVZbXo2MWtFUjJJQVl5NktB?oc=5",
+   "tags": [
+    "FOMC",
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "Fed’s Logan Sees Two More Hikes, But Says Pace Can Be Gradual",
+   "source": "Bloomberg.com",
+   "time": "2026-10-30T17:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGcwWUQzWE1xTW1SekU1Ty1CcldjeGtwbnRPM2hDQWlhVjlYNjFiWkoxbUNNcm5meE9LQTlNdUNPTUU1MEhLeHpKX0tPMEstdzZNbXZFYjJvZnhOSWowRG9CV2hEdGtVVmcwZHRiS1VNa2RGdUU0X2VPREFlZWhNWGtZTmtfcDExdDRQUW1tWE85eFB0RW5VbktKMjdQU2N2blB1NndPS2JFRVdJOWpueg?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Serbia’s NIS oil company gets US sanctions waiver until Dec. 11 - Local TV",
+   "source": "Investing.com Nigeria",
+   "time": "2026-10-30T17:22:03Z",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLURrcHllRzVZTlRwaFc2VFZpckhhOWczdzk5OHp0dENxdWJQZlVNUHpvWTNMWnBlZXZpblJaM3VqYmlWQldOeFlHUEZPU0stWTdpMGhSU3dtc0pMcUpYd2xLZkRRZ0MxdGxYdkFqeHlrRmF5NUZxOVpVRGxmSkVPc0dvYVppbGNIVWlDVXBGOEdkSnYxRXp5ai1KSkNrNll2V1dMdlVWdTE4blc2TFhxOWFKdkxSV0F4d1E5MEViN0xHT1VnYzFBd1kyUTA?oc=5",
+   "tags": [
+    "SANCTIONS",
+    "OIL"
+   ]
+  },
   {
    "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
    "source": "CNBC",
@@ -202,16 +250,6 @@
    ]
   },
   {
-   "title": "St. Louis Fed's Musalem: Another rate hike needed 'soon'",
-   "source": "CNBC",
-   "time": "2026-10-30T16:54:37Z",
-   "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
    "title": "Scotland's Swinney raised Scotch whisky tariff concerns during India trip",
    "source": "Reuters",
    "time": "2026-10-30T16:53:22Z",
@@ -230,12 +268,30 @@
    ]
   },
   {
+   "title": "Treasure hunter strikes gold with $150,000 nugget in Australia",
+   "source": "Mining.com.au",
+   "time": "2026-10-30T16:42:05Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdmtLMURBQU9CbFFPMlpLcFZrbktCajNNTm5xYXdvTVR4Q3IzNXNVMlNSQ1d0cmpfU0ZJYVpCUGlLb0RZMVJscU8yMnlZalg1QzROdWJURHJvOFMzdHd5RXhHYWxMZFJCOEUwTVliTkJMSUpwT0NOQlEwZDcwS290T3ozd3J3bFpKYWZB?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Critical questions: Impact of the midterm elections on Canada-U.S. trade",
    "source": "BNN Bloomberg",
    "time": "2026-10-30T16:41:57Z",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQUo2QjJLOW9rZE5Xck5LNFJsZDdvN3JvM2NLa1Z4d3FaNE9ESGhoMWZaTl9oN3FpQUoxb2RZOW5acUZIWWhSMTFpVk1IU05wZHBwVzlvcnh3S3o0UW9aRWh3Y254MnFKcEs4dUtSTldxYTZTWHVJWlIyNkNTekFPRV94dTFNUThITFZQdWRJUXJqaDF6Q0RpTGJEdVE3bUdZbHZQTUdJLWJ4UWJHeTNNX3htUERFOVplcE1oem4xczNlQS02bFE?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold Price Forecast: Buy Below $4,000 Or Risk Missing The Next Rally?",
+   "source": "FXEmpire",
+   "time": "2026-10-30T16:40:28Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmlCWEg5V0pQQmk0UG05WmJDeEpfc2g4ellFNE1kR2xreGdUNUVuR1V3aktvLXZIZm1JbEV4bUdHUkR4YTJRdG1PdDJfZVI3NWg0UEVjczFaSExHM1U4M1c3OW5IT2pUUnZ5Rjd0ZEE0VnlHR09aczdiWHVrRENGNlFDOXVIdkRDWmNUdFVRUHlFWDlDeWJTaXE1S1UtRU14RmljMFNaSC01TF9CcUE3NE5YaHhLdzQ?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -621,63 +677,6 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTdUSkJTZkNoU0pJRWZEdWhucFVLdVBiVlRzOVNZYUhkX2UzZXVFbGZvWlRWTmZnRnRBVzlfWGFkVGpJN2hrV0pHSkhaangxTXdjUnk4ZlpkOUZpaU1pcmxJbHY0bjlaVTBoT0dTRmpEbi1ENktBaHZTRUFHRjhyMFJyeWRLU08zVHFKTG5DWWJKYk82TGxhYmE5c1BaLTRO0gGmAUFVX3lxTE9JZ3B4QkNMU0JJdFpWa0tDTDVPbU1HWmQzTW5RVkxtNzdFdUt4Qk5FLUJtT3I0R1BndjdMMXd2N3pxM0ZHWG5pSTIwUXZhMGRoVWRhOVdtdGtkamtqUVRTM29oaHBBUWhUS01icVhRVWtpcVQ3eUV3alV2NzlXOTBQM09xclFDRHYzN3E4S1JYa0V4V0lMLXdhWDdwYWJRT2hIRlMtR0E?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "ACCO: Tariff refunds supported Q3 results as soft demand persisted and Trust expanded the growth platform",
-   "source": "TradingView",
-   "time": "2026-10-30T13:59:38Z",
-   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPWjhuUk1ibE1LZWlZYlZKUjUwTVJRdU5jN1ZxbXJGUzlGakVGUmtwS3gtVW44TkJPS0pMZzZtUDkwcjVQVGw5ZU1LVFVxSTFfTkdnQWlUZmNvajF6MTV0MXBzWEtGTm12X0JUVlRuTEVQWlhQeDBiZ1YzSWdaMW43bmtSV01WSWhlT2tvdkNKai1YS1JyNl81QWlmcmNaRTF2MGE0d1E3TF9MMGtCVDZ2N2llYVd2M2pDTVBBQ2lSZXBteFhGTWl6VTBtdmpaUGtYczRnLTdSMThlcmxFa0FIVHVaYkVxdGRaRGg1Nl85T2FHWEVhVTNOdGowMXNfbmJfd3Jja3ZBTXdxY3J4c25zdG90RFRsejFWbFhB?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold price crash accelerates as crude oil rises and odds of Fed rate hike jumps",
-   "source": "TradingView",
-   "time": "2026-10-30T13:41:21Z",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS1B3azI3dnVrUFY3RFlnQmRnSHpBVWUzc2RnaWZobzJoazBPb2JIcTlaclNrTEVmUkRiNHBZVV9ELWt1NnplQnNYbVZJVlpHVjhzXzZ3aXM1YmhaTUN6VFNIWTVHdWdLRXlmVUkyYmZDb2VIQ3lEYUVRbUJ6TnJ5TzV4aGloSzU2NEZIS0RNMzRsdVBIamlEV1ZjVkl3VWt0TjRJdnVjdHZJYlkwa21Bc0MyZU5TSDhkTktyR1Q4SDlRQ1VBS1loUDdhY1k1ZVZ1VVE?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Melania Trump-brokered evacuation begins in Ukraine amid fears over escape route",
-   "source": "NBC News",
-   "time": "2026-10-30T13:34:37Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjVsRnFtZ1BmOG9GZ1J6ZFUtZzFHYVVOX2N6Y0hBNmpwY3hKbzV0OFo1T3htdU14Rm1KTUhPdGpzWUxsc0FwOXhDQ0tieTlIYk5VVXdDS1NLQlZla3JheFYxNUdOZDdQYjFWN1g1UGlvUU1qUnZMaU1PQmtHOWxQNlVoWC1NQXBucDBXenlxREczZGtnWVB0bjhPcUwtVjVQeElaT1JsMA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.",
-   "source": "The New York Times",
-   "time": "2026-10-30T13:33:25Z",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGdZT1FXdzFJcnlLSHFTMWdTTm5BTk10S0I2WEpYWmdRYU84SDBCTmdONjc0cWtJNURtN1JYZHJJQXdPME14TmJFU0w2R01LRXUzUVJ1dDF4N2xneEpfdE5BWGdKMzIySDAySzVpZFJpSkxmcS1qcWlISkZjdG9LZ1dZaW5Dc2NKSklfc3dn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine invests in firepower as it inflicts a new Russian casualty record",
-   "source": "Al Jazeera",
-   "time": "2026-10-30T13:32:56Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUHBEMmxTeGtyU0ZCYk05WXFQTE5YVjY2Q2w4VFRIOTI0UTRtR0c3emNIZEthQzRuSGdEQ1NXb1FGYVRVZ3JWV0VwMHRlcGRxeDlpTXB6ZkdLWXNMSWY5SS1ZZW1lNHBRUDNDem1hSVZxMlJ5RkZVZmVHWXlYanQ5aXRfMUlyUjlncWhwbVZ0Wk1qWTlpeG5MMTBGTnloS0NLWVh1MDNlaUkzb2pJMktDMkdLVjBWZ9IBuwFBVV95cUxPYzJJZElWMC1xLVVMS2dhY0ptOVQtT1dhVDFGaEtjMGZBVWpJQmZoTmNNeXNiTndNSlB3UmduR0lkQ05Bb2NRQUtRTGhaWm9CUERQTERwcmVyaGh0WndybHNyZE5EdDdLV2xRcWUtNTlya1piYXNnaUpGOW5UdzVfdnlnOTM5MEtRbU1XbUVJdmQ5MFk2R0kzYnN2cTNXNGtPTU9rLUZUdUZKdG1SdHRiSVowcVU3S0t3LVF3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Price Forecast – Gold Drops Below $4000",
-   "source": "FXEmpire",
-   "time": "2026-10-30T13:32:02Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLW5pd2k2TmpFR0loeVBYcGt2Z0RsbnI1cEJIanhLYlo2OFdJNUlmeUlkMGI1aDRZeDZoLVBiczlKSVdoc1JjRnFLQmFuY1dZbWNFSWxpTzdRX1BiMEdoem4xX3NOdTJhREtmSnBGRl9fSzliLV9zMTNoZWdhUDBrMWlRdWJOakZXSEtjZEJOeElvT3BMaU5j?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
