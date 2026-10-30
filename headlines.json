@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T02:22:46Z",
+ "generatedAt": "2026-10-30T02:50:53Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 5
+   "kept": 4
   },
   "marketwatch": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 30,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 32,
+   "items": 30,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 30,
+   "items": 31,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 26,
+   "items": 28,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 15,
+   "items": 13,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 2,
+   "kept": 2
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,44 @@
   }
  },
  "items": [
+  {
+   "title": "Netanyahu attacks Israel’s Arab parties as he falls short of majority",
+   "source": "Al Jazeera",
+   "time": "2026-10-30T02:40:26Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Two U.S. service members die amid Iran war, Pentagon tally shows",
+   "source": "The Washington Post",
+   "time": "2026-10-30T02:34:07Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVRPSzRlRVc4Q2VvaVJkcU5wM1UzcktoQXhBdnNlTGJkRFB1QnBiM0M0c0FmQVpNX3dBczR6QmE1aUFLY0U3LWprcFdXUGVSQVpIbkRIRmI5QmlKYTZGeXJaUmlDWWdONVFEbENzck42a0h5bXp1Q0ZHejVzanRuTFBpSjhFQzhkNFN3S25FbzdqMFdrV3BVV2k0RG5sRGt5NUFHZV80QTRNSmJiSEh5a19Bdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Oil rises on supply concerns as Houthis attack Saudi Arabia",
+   "source": "Reuters",
+   "time": "2026-10-30T02:27:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "ANZ Raises Oil Price Forecast as Market Tightens on Iran War",
+   "source": "Bloomberg",
+   "time": "2026-10-30T02:18:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaVo3eEdoNjYtcFBpS1AwZjJRWUN4N3pXN0tOUHBRcUpSRllDeThuc1ctSk5JTm53Y0l1Qm5yLVFXS1QxWVV1emJLa0RSUzBTS0lBRWFybVRSZlFtcXpKY3pTZDNwdzdKeWo5ZlpLN09LSG92YXBKT0llQXo2ZnpxOUU4cmJINV9raVVYZlkxUjlpc0lmMFd5WUQ2VWJWYzRqNE95aG96Zkk4aTAyejdoNg?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
   {
    "title": "Ukraine war briefing: Outrage in Europe after Russian drone kills 14 on rail platform in Dnipro",
    "source": "The Guardian",
@@ -202,20 +240,12 @@
    ]
   },
   {
-   "title": "Two U.S. service members die amid Iran war, Pentagon tally shows",
-   "source": "The Washington Post",
-   "time": "2026-10-30T01:04:07Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVRPSzRlRVc4Q2VvaVJkcU5wM1UzcktoQXhBdnNlTGJkRFB1QnBiM0M0c0FmQVpNX3dBczR6QmE1aUFLY0U3LWprcFdXUGVSQVpIbkRIRmI5QmlKYTZGeXJaUmlDWWdONVFEbENzck42a0h5bXp1Q0ZHejVzanRuTFBpSjhFQzhkNFN3S25FbzdqMFdrV3BVV2k0RG5sRGt5NUFHZV80QTRNSmJiSEh5a19Bdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Australia Q3 producer prices beat forecasts, keeping RBA inflation focus",
+   "title": "Australia Q3 producer inflation beat forecasts, keeping RBA rate hikes in focus",
    "source": "Investing.com",
    "time": "2026-10-30T00:47:07Z",
    "link": "https://www.investing.com/news/economic-indicators/australia-q3-producer-prices-beat-forecasts-keeping-rba-inflation-focus-4985664",
    "tags": [
+    "RATES",
     "INFLATION",
     "CENTRAL_BANK"
    ]
@@ -442,7 +472,7 @@
   {
    "title": "Two workers die after Kinross Gold accidents",
    "source": "Mining.com",
-   "time": "2026-10-29T21:11:34Z",
+   "time": "2026-10-29T21:12:46Z",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Wc2Vrc1FNUnRLTnFwQjBUMmpWQUJOWmhwdEJjU2h5eFJ0SG5tNjVMaGxLd05TYWhkYzRjYnotM0k1V04xNFBxdmZxd2tsaEZRZHdTeHpaX0Y1N3hxeXJudHVydTNTc3NvUnpadjZmblBxUUhISmFR?oc=5",
    "tags": [
     "GOLD"
@@ -601,6 +631,15 @@
    "tags": []
   },
   {
+   "title": "Nasdaq closes 1.38% lower on AI spending and inflation concerns",
+   "source": "TradingView",
+   "time": "2026-10-29T20:17:41Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMWVFRmQzM24tcm1EOWpMLXBBSm5rbWR5Zy1RNUlkQVBxQVo4VURweUl1NFF1aTNJamlqaTNUVzVoNHh0UnBZU2FPOVF2S2MxNThFWEp4bUx2MmI3RS02OGo0YWhSdTZIQ3IxN2Jkemd1VWt0UU01cnhYRUpIOXJDUUhwalpjaEFaQjRXSzJEd21BeUVvNXVPNGVXVmVhUFV6SjV4cVhXSnY1dzEyLUNkQnNvTHhiQmN3elM4?oc=5",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
    "title": "investingLive Americas market news wrap: ECB holds, sources report says December hike",
    "source": "ForexLive",
    "time": "2026-10-29T20:14:14Z",
@@ -633,44 +672,6 @@
    "time": "2026-10-29T20:01:00Z",
    "link": "https://www.marketwatch.com/story/microsoft-to-raise-up-to-25-billion-in-bond-market-as-investors-get-pickier-about-ai-debt-binge-7c6ae777?mod=mw_rss_topstories",
    "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Economy, healthcare, Iran war top voters’ concerns ahead of midterms: Gallup",
-   "source": "The Hill",
-   "time": "2026-10-29T19:35:00Z",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ0dYVno0X05fZE92bkFxdG50eDFRZHhXMEVpenI0Y1JjZXdwc0ZlaG5ZTFdLM05idmJHWUUtLXN5LWtjeEM4Ti1ELUM0VmhtYndFc1hkRXZ2N3VfZmtHdDh6TGlNQkNDRlYydG5DbzhKbjU0bGd0elVSbk9UdHppZ0d4bThNS1hJSTRDQTluY04zd9IBlwFBVV95cUxNcVVsbFdjZmhrWU9uLVF6TF84ZFJ1a1A5REpTLXg3N2JOdkFfSUhTb3VMd1pwYjdwNHhkaEs0RW85N0YxRjNOUmYzeGlUc0lwb09pOXJQU2xFei1RYkZhVUxWaGYzQTM5VjN1cHd0RWJKWXoybnFzU2RfZXVaZFdoVHlYZUwyYTh3Vjc0Rk9jSXBjakpYMDZN?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The Mosquito Bowl review – Netflix mixes football, war and cliches in slick by-the-numbers saga",
-   "source": "The Guardian",
-   "time": "2026-10-29T19:32:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNTAxYW5QTmFxUWRmY1dMYXZIY3dZcEtlQ0VvTmgyZzZyd040ZjNvYWwyQzY4Ui0wdG1DM3Y0alBjRG1TS3RQUnJITUhOcFJKWkxkZFMxTXM4d2w0aUlwbXU5Q1B6MEkxZTlSM0QwVkVmb05XSVR5TXQ0aE5nN2Y0ajBYVGZGZ1VPTk53?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Video Federal Reserve holds interest rates steady as midterm elections loom",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-10-29T19:27:38Z",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EQUg4ZFVVblRNNjI5V0FZQ3I3MHVja3d1anJWTUZ2aU81bWdERlJpRTd4czE4QXdiZTFEcTZuMHZNOUpzQVNnZkNxd1Y?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "Warsh’s ‘Forward Silence’ Risks Bigger Treasury Market Swings",
-   "source": "Bloomberg",
-   "time": "2026-10-29T19:23:34Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzdFbTR0Tm11V3ZMZkxaYTU0d2NuRW5SYmhHOWFqWjdTOVU2cUhoa3kyLUlTT2tvVXRKaHYwbnVLMkNqa2RUdF9QOEVFeHFEUnJwLXVubUh0VzBIWmZfSnZGbkVaOERxYmRfUzgwT2F6VWFMYk80Rlc4eTF4VEZnMVFuM2ktdm5EQldmVG5Sc3I2WWpaQUpjRnlESUFBdDhlM1F6MU5SU3k3TTVYMWZv?oc=5",
-   "tags": [
-    "FED",
     "YIELDS"
    ]
   }
