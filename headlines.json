@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-10-29T23:32:43Z",
+ "generatedAt": "2026-10-30T00:01:05Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 2
   },
   "fed_monetary": {
    "http": 200,
@@ -58,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -81,44 +80,52 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 35,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_fed": {
-   "http": 200,
-   "items": 31,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 31,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 26,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 11,
-   "kept": 11
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 15,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
-   "items": 1,
-   "kept": 1
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 2,
-   "kept": 2
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -126,6 +133,15 @@
   }
  },
  "items": [
+  {
+   "title": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
+   "source": "CNBC",
+   "time": "2026-10-29T23:55:09Z",
+   "link": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Federal debt surpasses size of economy for first time since World War II",
    "source": "The Washington Post",
@@ -657,15 +673,6 @@
    "source": "Yahoo Finance",
    "time": "2026-10-29T17:30:39Z",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRnI3MjRwNmhYbDZBeHJ5alZNcDlpMGpmb2NGWVU1X1ZpeklhRl9hQUEwY0RscmNRTDc1a1NmTHdkSEN5bWNyWTVoZ3FCc2QyRk9LWDJSb2M2d2c5VmR4M1dydDBUZXBBb1FtaS03MXFEODFkbUZKdEd6UnJYZmI3dTNrZzNSLVBDbjVsaTI4MXEweTZMMUpodzVHcw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump and Canada Near a Deal to Ease Steel and Auto Tariffs as Ford Reports",
-   "source": "Yahoo Finance",
-   "time": "2026-10-29T17:28:51Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSnZORDdvSXVjaEZWNi1VbFk2VFZkeF9pM3FRWFo4Y2c5YWhac3E4RFNYMDRGUUdIQkN6V1dKZEd6NmlxSGRURUxwZFdVczM3dzlpZkZmNWdTa2tBS2xlODRHNk1ZVTk5cjJXenRickdTc21UUTd0UHVzTjYyRzJXcnA2dGlFSkJvSE44cmlPcUVCbm5XVWx3?oc=5",
    "tags": [
     "TARIFF"
    ]
