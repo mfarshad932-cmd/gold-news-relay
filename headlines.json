@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T17:05:51Z",
+ "generatedAt": "2026-10-31T17:34:11Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 0
   },
   "cnbc": {
    "http": 200,
@@ -62,7 +62,7 @@
   "bbc_business": {
    "http": 200,
    "items": 50,
-   "kept": 1
+   "kept": 0
   },
   "bbc_world": {
    "http": 200,
@@ -81,38 +81,38 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 18,
+   "items": 14,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 7,
-   "kept": 7
-  },
-  "gn_war": {
-   "http": 200,
-   "items": 45,
-   "kept": 12
-  },
-  "gn_sanctions": {
-   "http": 200,
-   "items": 7,
-   "kept": 7
-  },
-  "gn_yields": {
    "http": 200,
    "items": 8,
    "kept": 8
   },
+  "gn_war": {
+   "http": 200,
+   "items": 42,
+   "kept": 12
+  },
+  "gn_sanctions": {
+   "http": 200,
+   "items": 6,
+   "kept": 6
+  },
+  "gn_yields": {
+   "http": 200,
+   "items": 12,
+   "kept": 12
+  },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,9 +126,27 @@
  },
  "items": [
   {
+   "title": "Evacuees from Russia-controlled Oleshky arrive back in Ukraine amid U.S.-brokered ceasefire",
+   "source": "The Hill",
+   "time": "2026-10-31T17:25:40Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbEZTWWlXYmdWb1l2VmJnODBRUnpXeTZPNmc3Y2lMR0lxVlpna091NHBWWWl6OW5ta2tPZDNCaXMxRUdtRUNCWmNPZTVvOEg4RWhuU0U4Vms0UGIyb3BBNDZYMm9rVVF3d2VzdnlqQWRpWTY5ZzAxU3BzNlQzeWdOYlF5X3F0V3R5YXfSAY8BQVVfeXFMTjZ1dHRRM0wydzQ4Z0ZlOGJ3THJMWHlHTXZWZW02Z2xrTVVIdHNDSG13NHFObzJyblBXQ1JmZEZGQUd5bUs1UDNXRTd1WU1Fa01zZzRwMjcyUTZVY0lreDhqeXU1T0FYNXBqR1ROcWRQTjAxaU1ZOEszd1lhRFNQWnBMMkZZci0xYmZCSEtrOFU?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Kim Jong Un’s new drone war machine",
+   "source": "CNN",
+   "time": "2026-10-31T17:25:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNekZqamdST1ZpN1hjNFM0LTFuSXBFLUFnRlZfcnlrZy1hYk5qc2xGYUM1TGstanV1NU44MldfbTNkLXFmMkZHaHRQVkhobTEyZ3F3NW9KbVpISlRyMGhRSWpHUWNPa3kyX0tiZkl1TlJxR1FQbVN4WU5zTGY0NEYzdDY4YkFpY2xF?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Data centers fuel $173 million midterm ad war",
    "source": "Axios",
-   "time": "2026-10-31T17:01:04Z",
+   "time": "2026-10-31T17:05:09Z",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BYVk3RUVYZWpSM1AwMmNaLWdDNjdGa1Q3ZTBpS3NlUUNrdzJRN3p0dzFpMXg0dmhKTEM2LWJ4cHFXbjBzT1YtTkRmamh3UGlRLTJfeGhkR1l4c2FwSmZoM3E0NTJBRDhlZ0lPd2Y2V3I?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -180,6 +198,15 @@
    ]
   },
   {
+   "title": "Starved residents of Russian-occupied Oleshky return to Ukraine during a rare local ceasefire",
+   "source": "Reuters",
+   "time": "2026-10-31T16:26:58Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFpDMzF1UGlpLV9sdTZxWXRVLW04dWROZEtPTXE2V0JpNDM1c1pjOS1HbVlUNnd0THlRNnkzQTJfa1JxY3ZmR1llTHJTMnFpcll4SjN5TWdKMnY3VWRVWklVTkFxbkFJSEl5X3owR1FoU0RJZE9oUUJpTl9CUXpoV0k2al81eHpfWGNjclVrZU5lOXEyUnA4Y0JSd1dwVnR4LWVscXlza19fbF9nZmMwYlBITndMREZZTUlweF8tcTJSWDg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Refugees From Ukraine’s Besieged Oleshky Are Returned to Safety",
    "source": "Bloomberg.com",
    "time": "2026-10-31T16:21:44Z",
@@ -223,15 +250,6 @@
    "source": "BBC",
    "time": "2026-10-31T15:50:41Z",
    "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Starved residents of Russian-occupied Oleshky return to Ukraine during a rare local ceasefire",
-   "source": "Reuters",
-   "time": "2026-10-31T14:53:44Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFpDMzF1UGlpLV9sdTZxWXRVLW04dWROZEtPTXE2V0JpNDM1c1pjOS1HbVlUNnd0THlRNnkzQTJfa1JxY3ZmR1llTHJTMnFpcll4SjN5TWdKMnY3VWRVWklVTkFxbkFJSEl5X3owR1FoU0RJZE9oUUJpTl9CUXpoV0k2al81eHpfWGNjclVrZU5lOXEyUnA4Y0JSd1dwVnR4LWVscXlza19fbF9nZmMwYlBITndMREZZTUlweF8tcTJSWDg?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -478,7 +496,6 @@
    "time": "2026-10-31T11:05:49Z",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEp0anN5TW1nN3E1TU9nbDJtQXhWNHp5NVM5Q29mSmxJV2RfY0llbEFOdy1acU5mM3dVZ3Y5NkR5U2JiX2ZFWDV2cmlraWdyVWZKM1pHUFc4ZW1UZkhVcC05STlKM3MtSWFyNDhIU2xrMTBjY2JYSUgwcWYyWWlUaHl1NnZsQkN1VzFVaHlSanJMYmhMTGNjX3JJQzFxeVkwRlRoMw?oc=5",
    "tags": [
-    "CENTRAL_BANK_GOLD",
     "GOLD"
    ]
   },
@@ -651,24 +668,6 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQVR3ZW9FVGFJWllyWTFXTzZnaVR1NUdOU05meHJoMEtubERYa2xDVG5rNkhiNE92dTFaM2JPSkhsSlI0c29FSEVLOEFOaXl2SWtteTM2dUFnUHlsQzlpQndfQXVOcENUUGlHZy1uV3FlNmhxTGk4dWl6SEpLRkpGS3FFb0d4MC02bmJqOXM5UV9XQXRQWnhocjJNM2ExcWlpaHFXWjBvelNqX01GSVJRODhUa3VfZlh6UU1aenZfYjhETHFjbXMweEl0WQ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US approves proposed $2.1 billion sale of 500 Patriot interceptors to Ukraine",
-   "source": "The Times of Israel",
-   "time": "2026-10-31T07:43:38Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0dxX1JxLTY3WVpmdzFiWGNfVGlzeEZ2QjZOSWtzT28xTEh0QnBzUTJTekdDZjNZekU1VGJNbFFFVlJSY1c4ampWdXZhSmQ5Wkc2Qld3TUFOaGhCczVyY0xsRDZXcDlLZ09wX3pWYnFGSjRVU0xaWU5tbWtRem9PeHdGMXpNSWdfVmlKUDdBUTZrMkg1Z3g4MmJFWnVzeGVwYm5uTHl3bXdtVFXSAbABQVVfeXFMUGU2ZzZ6Z2M1R2N0bEhxLXVGOHF1aVJzdll0RlNGMUJqZE12eFZoM3RDaGZYenVPY2xoZGJBTy1TcVVUQzg2V1IyU1NnWDdoa2EyMk40SzlLLTRkMDFmRFFBUnpwZ0RqTHhINURXUFlVVjhuNEdxNk1PNGdHbExxUmhDby0zMzd3M3pZbG5IVHdlVkhXeER6SEtTU2R1TklIQzhYTU1kM1JXZlczOXg1dGY?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US midterms may raise shutdown, debt risks; keep tariff uncertainty high: ICICI Bank",
-   "source": "TradingView",
-   "time": "2026-10-31T07:28:43Z",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX0dkZTM4Wk50OXdueDFtQ1A0VnA4azlMWldNN1FqelhDV28tRTlXZ3BhUFJTcjc3U2loWEh1bFVQdDR3R04xb05qcFdtMTYyaGswQTBHNGk1RVpvWUo4YTJfU2tVZXpmdlFhaXQ1V0pmMlpEWWxPcHBQbkJSVkFuZEc1dVQ2WWJ6OVZWR25sTlBsUUg3RWxEYXdFNnUxNlpFZVhsLVdHNTZKVm03UGF3dHUxeG1XWGtlcTl6TjB3SmYySmJ0dGNIb3VjX1RraDE2T21WZQ?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
