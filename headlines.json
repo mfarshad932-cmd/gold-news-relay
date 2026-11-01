@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T12:59:02Z",
+ "generatedAt": "2026-11-01T13:27:21Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 4
+   "kept": 3
   },
   "marketwatch": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -81,13 +81,13 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 4,
+   "kept": 4
   },
   "gn_fed": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 3,
+   "kept": 3
   },
   "gn_tariff": {
    "http": 200,
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 33,
+   "items": 38,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,18 +106,18 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 4,
+   "kept": 4
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 1,
+   "kept": 1
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 5,
+   "kept": 5
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,51 @@
   }
  },
  "items": [
+  {
+   "title": "Iran and US explore diplomacy amid rising threats of war",
+   "source": "Al Jazeera",
+   "time": "2026-11-01T13:07:30Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaDc1ZXlCVTU0M1RYcWo5bG9kdGJhVEg3Njk3THFkQTNoV0lHT0dpdVN0OEU2UzlIUklveEFrV09iWFlXZ2xmNnZvYXdCYWtKYlBNV1NHLUVZa2lCTDFsNHVZWXJkQjk0a25ONTJYNkdUTzhtaFdDVmhkTU9EblZuOVFJOUJWa1JhbnpPMkZzUnNZanBqUkxHUjdMSEJZUdIBowFBVV95cUxQdTY2dC1IM2ZTakowQ3BFVm9XdTN6Z2tIdGV3UW8wdDJyV1BtM3BNS0xHTm9naU5EUGVJRWs5OUZYcjgtUlM4UF8yNWp2OFNSZ05pZ19EclRjNll4bjR5NFRiSGEyZG5CdlhSdDRFOGxGOVR3eDlLUkpoaW12eHd6cVBWblVFeDlzSVJ6U3RBT195SWMzaFdLWVJwTzViaUJQaVVr?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Opinion | Trump’s campaign trail antics can’t obscure economic reality",
+   "source": "The Washington Post",
+   "time": "2026-11-01T13:06:35Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRWViaXBkWGF4UDdlTVFhX3lxQVNsLWVZanBLcW1kWjFseS1lSnRQS01zNzJxZG96dWxIV28tdnRNWkIwZVJhNEFJT1pDeHBtXzhKUUc3RUpLUFk3cHdtSUpHSV9lcUVzRzFyd2dtUzI0aUpjME1lYjZYV3B3UXhwcnh5YkNCOHNyUTRGOVdDV0Vta3VvNkdRNWQ0aE9hSTZ2OGxNdjhfeG1yQkxsTlQ2c0Qza2gyVnVQ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Qatar surges, bucking Gulf market slide on Iran war concerns",
+   "source": "Reuters",
+   "time": "2026-11-01T13:05:44Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU3lNbXVYLVNtdGZwSDFpT0ZvTHVaWmp3bi1abjBPelhQbDQ4bmNST1VyRGktWHRJXy1yTnhMMGREWUVPdjRJS3BxXzJYOGVGSkZvdk5YYTJpbU5JM215MUxWTE12R01nTldxbnpETXliMExhV3g5eHB2dFdEb1dYd3ZnTkNULTdoWXk0Y2dHOWNPTVJ4MldXUU5xMkxNeU8yQnhiVlRma1RBN2NUbElR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Spirit of 1676: remembering the Native American cataclysm of King Philip’s war",
+   "source": "The Guardian",
+   "time": "2026-11-01T13:02:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVlScTJJaUhLWFFOY18tcHd0WExaQlJqdENRWTdVV0FLdVViekE3QUx3N1NZZXlINDNiX1J3MEtfTFIzTkNXQk9LWVN3clFmdVd6N1dHLXlnWnpzZ2VUUGRzRkdhR0VjUTJRbzVqc2cyOF9YVTVBS25idWZjV3l5Yllma2lvR2dpcDBHYUVPdUJHVHRDZFNv?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iranian negotiators in Doha to continue talks to end the US-Iran war, official says",
+   "source": "Reuters",
+   "time": "2026-11-01T12:57:51Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXU0aVh0RXlJYm1BOUtMU2FncFZnaDY5dVo4LXR0OFhsUzl1V2s0ZHpoeU5VX2d4cjg0RWRXRkRLLVhRRFJ6QlVKd3dEQ3ZtNVF0c0laVUtZZU1DTFB2bVVpN01abDA1RDRBWXJLRzFSVzZpQmFaWFBVaVdhNG9GdEVranBrT2M5NzlmWFVKSXo5QjJla0JLZ2x3SG9pOE9mb0xOaUNaZmxxbzQ4RlVVY04tZnRxZWNLNVBoby1WMXQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "OPEC+ keeps December oil output targets steady",
    "source": "CNBC",
@@ -153,30 +198,12 @@
    ]
   },
   {
-   "title": "Iranian negotiators in Doha to continue talks to end the US-Iran war, official says",
-   "source": "Reuters",
-   "time": "2026-11-01T12:35:14Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXU0aVh0RXlJYm1BOUtMU2FncFZnaDY5dVo4LXR0OFhsUzl1V2s0ZHpoeU5VX2d4cjg0RWRXRkRLLVhRRFJ6QlVKd3dEQ3ZtNVF0c0laVUtZZU1DTFB2bVVpN01abDA1RDRBWXJLRzFSVzZpQmFaWFBVaVdhNG9GdEVranBrT2M5NzlmWFVKSXo5QjJla0JLZ2x3SG9pOE9mb0xOaUNaZmxxbzQ4RlVVY04tZnRxZWNLNVBoby1WMXQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "The midterm election could reshape the muni bond market. Here’s what investors need to know",
    "source": "CNBC",
    "time": "2026-11-01T12:30:48Z",
    "link": "https://www.cnbc.com/2026/11/01/election-municipal-bonds.html",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "Opinion | Trump’s campaign trail antics can’t obscure economic reality",
-   "source": "The Washington Post",
-   "time": "2026-11-01T12:24:08Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRWViaXBkWGF4UDdlTVFhX3lxQVNsLWVZanBLcW1kWjFseS1lSnRQS01zNzJxZG96dWxIV28tdnRNWkIwZVJhNEFJT1pDeHBtXzhKUUc3RUpLUFk3cHdtSUpHSV9lcUVzRzFyd2dtUzI0aUpjME1lYjZYV3B3UXhwcnh5YkNCOHNyUTRGOVdDV0Vta3VvNkdRNWQ0aE9hSTZ2OGxNdjhfeG1yQkxsTlQ2c0Qza2gyVnVQ?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -209,6 +236,15 @@
    ]
   },
   {
+   "title": "Qatar LNG carrier struck by ‘unidentified objects’ in Gulf",
+   "source": "Al Jazeera",
+   "time": "2026-11-01T11:57:20Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSU1Fc3JpWUM4REFIanVUZEJBRUZyQmxQbW82TTJ2TlB5bWp2bVNQV25pWlhGcmY5T19mWUV5M0xvekFGODFoLVkzMnR3a25wSVhIUWpHM2xkcS10OGtwVXFTZHY1ZGVqNGl1dTdMa19yWllzUmVqc2ZWOEtINDBJaDJ5d241UE1rTFFuMTFwcEVrUDdBb2tIQmdVc05ld9IBowFBVV95cUxNZEtDQS12eTRKS0NESXZxRVgyLVB4QXhRRmVsR2I4UEJxSG5yUzVjS1gtZUs3Z28yUXlTcHhiUEVvY2JVXy1KYjNveHZvS0ZHZVk2a1d5aXlBSUlNSHgwNWFCUWg3dzBPajF6UkZrVDFHTWJUdU9DYmhyRTlnTjVuV0ZRNVBVTC1XSFVPT3dBbDNfV2xFWXV6WC14LXZQbnM2eTRJ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Iranian negotiators in Doha for third day of talks on war, official says",
    "source": "The Times of Israel",
    "time": "2026-11-01T11:42:39Z",
@@ -227,21 +263,21 @@
    ]
   },
   {
+   "title": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
+   "source": "Al Jazeera",
+   "time": "2026-11-01T11:14:45Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHozTUZYc3N6ajNVWExJNUpDWkFrRUhFQmZzQzVDRWQxaFduS05COVlidUtXMWhEbnJib3BUMXBjekc3NW1lYlNNN1ppa0p4ek5wX1NXSUg2UXNocWNZcGpLZGs0dUszZFk1QUZ5NFhsTXJ4d1FzWWJCdFE3bzVrZ1NYSmFsRjJyYnUwV2lGMjdYVXR5TFdWTGtQendCSzdCT0I2MEY3VmhkOFRvTmVuSlRrNHREd9IBtgFBVV95cUxNUHozTUZYc3N6ajNVWExJNUpDWkFrRUhFQmZzQzVDRWQxaFduS05COVlidUtXMWhEbnJib3BUMXBjekc3NW1lYlNNN1ppa0p4ek5wX1NXSUg2UXNocWNZcGpLZGs0dUszZFk1QUZ5NFhsTXJ4d1FzWWJCdFE3bzVrZ1NYSmFsRjJyYnUwV2lGMjdYVXR5TFdWTGtQendCSzdCT0I2MEY3VmhkOFRvTmVuSlRrNHREdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks",
    "source": "Reuters",
    "time": "2026-11-01T11:14:38Z",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObVJlTmFuVEh3WkZZZS12S0NPTjRoamIzUVJCNURKWHl6QzR5eHpjT0pobGt0b0ZSLWw0TE1seWV0S1ZLRjJOb1ByZWVCVmJEcXRlZ29kbzA0X0ppTmVTZ1M4cHVSRnhWMy1USGxhTmtROFU0V3luU1lsWTlkeVFqU3BwUXlQaTU2NEpPNC1xRTE0TlFyRjJYd1ZCNlhsZHFiaFpFbGNlem9pdm0teVZaUExyY2x6QTFnWUQzamdDYlpVT0hlUXdfY1h0bks0Zw?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
-   "source": "Al Jazeera",
-   "time": "2026-11-01T11:14:27Z",
-   "link": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -288,15 +324,6 @@
    ]
   },
   {
-   "title": "Qatar LNG carrier struck by ‘unidentified objects’ in Gulf",
-   "source": "Al Jazeera",
-   "time": "2026-11-01T10:27:20Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSU1Fc3JpWUM4REFIanVUZEJBRUZyQmxQbW82TTJ2TlB5bWp2bVNQV25pWlhGcmY5T19mWUV5M0xvekFGODFoLVkzMnR3a25wSVhIUWpHM2xkcS10OGtwVXFTZHY1ZGVqNGl1dTdMa19yWllzUmVqc2ZWOEtINDBJaDJ5d241UE1rTFFuMTFwcEVrUDdBb2tIQmdVc05ld9IBowFBVV95cUxNZEtDQS12eTRKS0NESXZxRVgyLVB4QXhRRmVsR2I4UEJxSG5yUzVjS1gtZUs3Z28yUXlTcHhiUEVvY2JVXy1KYjNveHZvS0ZHZVk2a1d5aXlBSUlNSHgwNWFCUWg3dzBPajF6UkZrVDFHTWJUdU9DYmhyRTlnTjVuV0ZRNVBVTC1XSFVPT3dBbDNfV2xFWXV6WC14LXZQbnM2eTRJ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "'Bully': Feud erupts between Trump and Ontario's Doug Ford over US-Canada trade war",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "time": "2026-11-01T10:23:24Z",
@@ -304,6 +331,15 @@
    "tags": [
     "GEOPOLITICS",
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Gas prices top $4 a gallon as Iran war escalates",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-11-01T10:19:04Z",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc3VGQk4yNlhfVlFWeWNlQ0tGSmJ0Zl9FZTNYVXRqNTVjWFdVS3RpNGt3MGw5WEtEUmF3Y0hJNlpkTkFTeGZuZUUxZVZNQkp3djRNWnpsR3d1SDNlS1BKbVU1bDQ0WTVGY1ZGOV9xWk9QZDY3MkJkQ2hYdUg0aF9LaFVvU05GZEE2ZHk5ZtIBkgFBVV95cUxOVHhfbDNEbG9OM3dDTm5ueTVHbUNrOWU4Smp5LThnNWxlNEdvaFF1QWRaMnJab1NLRGtTT2JubHo5SHBRZV9MZC1nRUhtZDAwOTByamgtckN6Qzhqa3JucHJnQUlDT0ZEY2hUU1VjQW43MGIwR3BQd2dHbHVHbE5UM1ZwcTNhX2dvVGl6NC1MeW9BUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -364,6 +400,16 @@
    "time": "2026-11-01T09:35:32Z",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2RVVLTWwwbXljUFZNNGZEZlhya3NDbXp1YmFyaUNrNW42VDV5WjEzcE0weWVGdDZ2NkVfTGFLVTQxR3lERlRmeG9ENnNLU0JRUUowdg?oc=5",
    "tags": []
+  },
+  {
+   "title": "Will the Fed raise interest rates this year? Divided economists weigh in",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-11-01T09:24:39Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
   },
   {
    "title": "OPEC+ Set to Stick With Plan for Steady Quotas, Delegates Say",
@@ -448,15 +494,6 @@
    ]
   },
   {
-   "title": "US sub sinks Iranian ship by torpedo in Indian Ocean, 1st such attack since WWII",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-01T08:14:18Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUU5Sd09CVVNfVzhXd3JzN1QyYWNZYWtkMXo4WUJmaXAwUTBpU2RDV1hFSUszWlNkRWxzVU5WM2RwQXhlSnlUc2xjRWczdzRlNExIOGQ2NnNCZG1WN1FYNWJDMkx1X2wwUWlFMmE3WjROT1ZQSC1BN3ZCTm45TzBjc2pycGVnQWllZWZXMXRqeW5pdGYzMXdYTW1n0gGfAUFVX3lxTFBCZ21ScFBZTk4wUVIzZmNyNWhkRUlTeFZ0Q0toZVR0M3VVUTZOdEh5a2d0NmFMS1RlNFdZV1lZQ3JfaUY5MGdRWTRiT01fVHNCYnhXMjdvT0ltSE5PNG9jZjNYLW41OG5qQkhrQVMwS0cxZVp4Mnc5bmpqVnBTSmQ1aDZrRFBINzZwLUtPWDNDcjBXSnk1bXNXcDRIMEhBOA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Why some EU and Chinese firms are keen to cooperate – even as tensions simmer",
    "source": "South China Morning Post",
    "time": "2026-11-01T08:00:14Z",
@@ -476,28 +513,10 @@
    ]
   },
   {
-   "title": "Israel’s war on homes: From Hebron to Gaza and southern Lebanon",
-   "source": "Al Jazeera",
-   "time": "2026-11-01T07:45:38Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMFdVVExzZ0Y0Z1JSZUZUMmprS21oWXlFcUFIUThETkJHN0dRZjJZV3o4ekkyTk5DM084cHM1R3pTV3JOQThELUxRcHBUS0tZaVBfcFJ2Z3ZHOXpmNjBFOU9mdXZ3MFFMSTQ2TGdpLTJOeWdPRTRoZFBnQmZtcnhJWVctc0ZlTnVGQThFVXh4dElGQ1htR1RQMTR2a3dPdU1mWF84enFUM0U1SVdhVW9nMXgySE9yQdIBuwFBVV95cUxQY2pKbVJZeGJhRjYtSWR0VFgwakJ0aVNEUGpLVk4tU0RYWjRScy1FTVdPZktqWkRCOGM3VTlZV3hRRi0tQWdfYWpibDltekoxajJFRFktOVExdGk0Y1ZVRWVkYXFwVFd6U2doZkdWUVJsZHRndDdpUkpSU0JQV0JSVDRoa1k4OGVZbEpPS2xxUU5OdHE0ZUxQdDJJakpGS0VhOGp3M21ONU56ZnBKcE9aU2xaOEFXM0FVU29z?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Saudi Economy Shrank at Slower Pace Before Houthi War Escalation",
    "source": "Bloomberg.com",
    "time": "2026-11-01T07:44:48Z",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNanJ5UmZiYUY4UVA0SXdvUTFsblpPSVlvU1hHUU1hdDhLS0Y3MUxLblhiNWJ2SHdKTW56cTdYR1FXUXNEMmxTTUZkUUNhRlpqODV1enhJa19aMUZNZ2N3dW4yTEQyd1JrRkZpQTRwM1Job0xCRVZqYjh0d18xOEprUzFFUXQ4WHZWRTF0U3I0M05fVzlWejNHdnNlZkFvdXhqVF9pYjFFV1FBaFM5RUNaN1FfazI5dw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-01T07:39:28Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -639,24 +658,6 @@
    "source": "The Jerusalem Post",
    "time": "2026-11-01T03:00:42Z",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BRi16TVRTR0VteUszamFjTk90M2lWZUh0UWZZUnR3REJZTjFKTGRBTVNqcUxrMzd4VDVicnJWLVBodVFLS05kOWhLRnRtR3hNaVRsZmJ6YkhWMC01QkVHaGI0ZGdGTHRCWHc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold falls toward hourly moving averages. Can sellers keep control?",
-   "source": "investingLive",
-   "time": "2026-11-01T01:15:04Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjh6Q3loU3J0VWdld3M2YU1SUzAtUUs3SnI4WXE4RXU3VzJURUpNUlZrejVGUGE1allXcUlwVC1JRkdYWk10R2tXN29XellnN3JRaHhrQU1PZjVKS1lNLUs3RjVRX1hPdVNmMHJRV3V4YWFaNzkyU2c2Y1kzMkRpMzVxdUxrSWFkQkQxMzU5clpzTUxiN1dHRjN0akQxdFZGT2ZIbA?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Residents evacuated from Russia-occupied Oleshky arrive back in Ukraine amid temporary U.S.-brokered ceasefire",
-   "source": "CBS News",
-   "time": "2026-11-01T01:05:02Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYW1IUHhnNDZjVnZhQkhqek50MmRsczFGZ3RUYjNWM2RmanRVQ001QTNSeUFZSGt2ZE9YYWRlWlQ3NENLLVZtQW9FbnUyR04zUzNNNWhnUlhaSzM3c1BTZ3BoR3daMkpIUUMyNndSR1pDWFZkQWd6RkJCWGlGdDVaRnhhRDRSSkxUV2J1TzdlS3llbE5adWEtSmtXZEhGTHdfNUQxMzREWQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
