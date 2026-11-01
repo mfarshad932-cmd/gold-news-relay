@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T21:28:42Z",
+ "generatedAt": "2026-11-01T21:57:02Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 2
+   "kept": 1
   },
   "investing_commodities": {
    "http": 200,
@@ -67,12 +67,12 @@
   "bbc_world": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 5
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -91,23 +91,23 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "gn_war": {
    "http": 200,
-   "items": 45,
+   "items": 42,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 1,
-   "kept": 1
+   "items": 0,
+   "kept": 0
   },
   "gn_yields": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "gn_oil": {
    "http": 200,
@@ -126,19 +126,38 @@
  },
  "items": [
   {
-   "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+   "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
    "source": "BBC",
-   "time": "2026-11-01T21:16:45Z",
-   "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-11-01T21:55:01Z",
+   "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+   "title": "Ukraine defies Trump to resume attacks on Russian oil refineries",
+   "source": "The Guardian",
+   "time": "2026-11-01T21:46:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ19rWVE2TGotNE9jeVFKZnFoaEpZaDRlTHVjZVhPcks0am5ieVl2ck9MaTYxR25CQXVvcDNfZ1FibEo3QjRIRWRjcno1eXRGVTlkT0FmVmZLYkNYYm12akswdFBHNGRMOXdiTEQyb01rLW5NWFZJMGU5QjRMV3p4MjE0aC01Skx6UXAzWTktVVl3UC1VZXA0SGFn?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Thousands displaced from Hebron as Israel carries on siege",
+   "source": "Al Jazeera",
+   "time": "2026-11-01T21:28:47Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
    "source": "BBC",
-   "time": "2026-11-01T21:01:58Z",
-   "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-11-01T21:16:45Z",
+   "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -370,16 +389,6 @@
    ]
   },
   {
-   "title": "Ukraine defies Trump to resume attacks on Russian oil refineries",
-   "source": "The Guardian",
-   "time": "2026-11-01T17:45:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ19rWVE2TGotNE9jeVFKZnFoaEpZaDRlTHVjZVhPcks0am5ieVl2ck9MaTYxR25CQXVvcDNfZ1FibEo3QjRIRWRjcno1eXRGVTlkT0FmVmZLYkNYYm12akswdFBHNGRMOXdiTEQyb01rLW5NWFZJMGU5QjRMV3p4MjE0aC01Skx6UXAzWTktVVl3UC1VZXA0SGFn?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
    "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
    "source": "Al Jazeera",
    "time": "2026-11-01T17:30:45Z",
@@ -595,15 +604,6 @@
    "source": "Bloomberg.com",
    "time": "2026-11-01T14:27:46Z",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdTdKc0lZRGY0SEdNNGNMVWhrMnhydmxBSzdLLWM3am9lbDlvMnhPVDBOVllXYlg2M2dOdXFvRG1STllKY3pfUUVsemlKTGJvNGt4VXlrUEt3MEVGRVp1R1pMcUo1QmRYdXJzM1pBbjBqNUZscU84aW54clE5ZUdGZHhuR19BSVlUbXlKWjBqWGtNWjFCa3RfV21hanB0ZTg4MGdLZHFHeG9lUy1ZV3VtbUNoZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Israel election: When will government be formed, who will lead it?",
-   "source": "Al Jazeera",
-   "time": "2026-11-01T14:16:14Z",
-   "link": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
    ]
