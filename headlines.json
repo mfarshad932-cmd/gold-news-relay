@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T20:03:40Z",
+ "generatedAt": "2026-11-01T20:32:00Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 0
   },
   "investing_news": {
    "http": 200,
@@ -81,8 +81,8 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 4,
+   "kept": 4
   },
   "gn_fed": {
    "http": 200,
@@ -91,18 +91,18 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "gn_war": {
    "http": 200,
-   "items": 42,
+   "items": 44,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 0,
-   "kept": 0
+   "items": 1,
+   "kept": 1
   },
   "gn_yields": {
    "http": 200,
@@ -111,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 1,
+   "kept": 1
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 5,
-   "kept": 4
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -126,16 +126,35 @@
  },
  "items": [
   {
+   "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
+   "source": "WSJ",
+   "time": "2026-11-01T20:28:35Z",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaF9ya09COUkxYUpqejFnc1JnYThRdVlSMDhJWjJKSU5kU0o1UmlhbmE0Z3F1cXVMT3pSTEtFcDd3VS1kSUY0MTl3NnBvY1dnQ3RQanNnVWItOXZvNTlaZEtET29NR2ppTzlQWWNpcnBZVHJieTFpenpFT0RQTXEwMzRTUjladnYtZm5UZ1g4SHBIZ1lUd2NwbURjZmRSYTU2VzhVeS1FLUVNVUprU05ZQlBhTXBXcXBadzI4WmlHYVVCZzdRVEVEN1hsVQ?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
    "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
    "source": "BBC",
-   "time": "2026-11-01T19:58:26Z",
+   "time": "2026-11-01T20:11:26Z",
    "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours",
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-11-01T19:59:53Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
    "source": "BBC",
    "time": "2026-11-01T19:48:17Z",
    "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
@@ -151,6 +170,13 @@
    "tags": [
     "GEOPOLITICS"
    ]
+  },
+  {
+   "title": "U.S. midterms, jobs, earnings put credit markets to the test: SocGen",
+   "source": "TradingView",
+   "time": "2026-11-01T19:10:17Z",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeldtbkxXakJQS2FubU1RTndfNXpqZ1Z0c3NTeFVWRkhDalo4bDJaX2dNcm9wNVlfNW1ZR3lld0Nid1R6elhuZFMzS3phUzBHcklxbEJqdjFVWUw3VTduazZaMTNNV29XOERFdEdvSzdYeFhxTDZrTzAxT25CbG43dEVPaUVOemFVenEtX3VaOUNWRm5iVEU3d1lsXzF4ZEt2NmtuQzhfblhIYlNEa285ZnlVOVVxNEV3MC1pQmxvNk5JejBiZ0E?oc=5",
+   "tags": []
   },
   {
    "title": "Gold price outlook: Gold sliding along the 0.786 arc. Eyes on 3,720",
@@ -195,15 +221,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRWViaXBkWGF4UDdlTVFhX3lxQVNsLWVZanBLcW1kWjFseS1lSnRQS01zNzJxZG96dWxIV28tdnRNWkIwZVJhNEFJT1pDeHBtXzhKUUc3RUpLUFk3cHdtSUpHSV9lcUVzRzFyd2dtUzI0aUpjME1lYjZYV3B3UXhwcnh5YkNCOHNyUTRGOVdDV0Vta3VvNkdRNWQ0aE9hSTZ2OGxNdjhfeG1yQkxsTlQ2c0Qza2gyVnVQ?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-11-01T18:29:50Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -283,6 +300,15 @@
    "source": "The Times of Israel",
    "time": "2026-11-01T17:52:58Z",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0lMRlVva0JjWlN1Y1JZcFloZHZ0Z1VVX1VYTWhldDVNbldlQlJDbWNfRE8zOEEzdU82R3gyZzZjZUNRVWREZ2FxM1lHemhSbUlQeXVqT1hiUHZMS3RPUHQwejZGQ18zZ294bWJSbEJvR05KSmZhcnRja3VzSC1NTldFNjl5Rm9RRjBhQkJWTVRHUFZtR1A0S3hvb0tRVzRMRG9ScTUxM1FlUVZaaW9ZbThmZ9IBuAFBVV95cUxNel80bFpSYVhEZF9MbUtDSi1vVFlGNVZqMDkzMWJlTTRVOEg3LThxTHljVU5oMjQwTzhxdXVyaWNBQlM2OThVZmw4M2VjbGp4YjQ5RHVwU3JpTzFYejM2eXhwNEFkd2FiNkk2aTNCVUhaNHFQY09rNkhySVdORWlTV0hiWnBBdERwQ3JTcWlVMkh5TTd6QUxBSnFjemxWYTltM2RFNTNwMGZLR2NBMTRPM2FLbFN6aWJS?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends",
+   "source": "AP News",
+   "time": "2026-11-01T17:46:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmJHM1BrS0RMNk5BS0hac0VyQjZTSkdPbmlGdkZ6bGJiUGF2dkJuZVFhNzNTaUNhNU0yOXRyUGVKZU42dE1PZzBMWjNFY3hOVTBfSFRkc0lCclpXZ0xCLVhrRi02REF4b25JVEZFeTFDc2tQSnVsTDNuNVVjeHlEdG5zaXB4ODRDSUYwcWtQZFF2THR6eVNjQUZvUElmd1VwdWNDbVZjVQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -500,15 +526,6 @@
    ]
   },
   {
-   "title": "Civilians in Ukraine's Kherson prepare for the return of war as localized ceasefire ends",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-01T14:32:31Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR1FDOXZQVFRZZ05VUHJNMDNPVWV3UVh3N0swaG0wbi1ORk1PaWpkNTdpdzFqaEF0a3lIS3Axcjk3bXVtWTc0VWNvcEtQQ0YtRm9CaTR3WDJXZjVkVUFkQjlDampIQmszUlRmSHhMM2lqT3Rqd1ktSzVyZTh6MDViUGdERWVneWdkTThxbk1fR1pwUlNYa2ZsZGlJVEREY1AzT043bmY1bnEzVjIyNF9LMzFTVG5nSFFpSGJJ0gHAAUFVX3lxTE9TSVgwWE9jc1BYU182Rmg5cjZwbXdVSkZhbmg5OTZ6cldlSFlNY1hoUTNRclpYX21wVk1haGYtVGNzNnpmOHhlRHNwd2JmWDhlanNHbk5rR29yMVI1Sk9oU2xycHhZTDhjakhyc0RUamJPWVVtSlJSaVo5ZVdnQ2tyaHRtcEpwMndpN1kyOWF4c2lkdXQtYUpUUTlwMS1iT3BjaWxnNThYMnZHX2xQOHVjSF9Eb3RZNVdVcnBOaTBLUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "How the Seizure of a Russian Vessel Brought the Ukraine War to the Arctic",
    "source": "WSJ",
    "time": "2026-11-01T14:29:34Z",
@@ -651,24 +668,6 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnNqUHNCa3N5QzZ4RUZEVVd5RUsxNDM1QU5wZ3dYQ3FYdzdEWnpnczk0NG1JTndRV19CQnpWd0J4eUE4SndBWFpfUkZNeS1QQUtIaWVQRFBYVk1fMXlHNVJjWW1zb3JsV2pvVnc5UU5zby1DNzF1d3dyNFdYWTlTUlJFRk11YW5RU19idkdxZXNSZkJ4azFtQVBjZkVpT2p6cVFlbkpsX2o2NWYtVUJfd1VtblJhQ21COUJYTA?oc=5",
    "tags": [
     "OIL"
-   ]
-  },
-  {
-   "title": "The midterm election could reshape the muni bond market. Here’s what investors need to know",
-   "source": "CNBC",
-   "time": "2026-11-01T12:30:48Z",
-   "link": "https://www.cnbc.com/2026/11/01/election-municipal-bonds.html",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "My Take | Washington’s unending vendetta against Cuba",
-   "source": "South China Morning Post",
-   "time": "2026-11-01T12:30:10Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVFZWWEhxbU5ZdmsyN0ZWbjZfZVA1RlZoR0NoOUZNNmI5b3BIMTI2eXhMTzFpdnQyZU9wamh6SWticHIzYlJNd0hIOHpqazFyX3hONzhiMGtFLVB5Zl95cTA1NFkxaXBiU3JvMk9vZmdRR1M2Mnc4eDNPNWRQTjVILUZ3ODR0WHNCVDhQaUEwRGlMNVVNdUl3MkVkeUV2ZHVkSDE0ZXc3aFdwRHZtSFpxbi13cl9kZnZIeHpheXg2MHNmOVBmbkJhT215Yw?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   }
  ],
