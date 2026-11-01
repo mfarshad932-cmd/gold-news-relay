@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T12:30:41Z",
+ "generatedAt": "2026-11-01T12:59:02Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 5
+   "kept": 4
   },
   "investing_news": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 3
+   "kept": 4
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -81,8 +81,8 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 3,
+   "kept": 3
   },
   "gn_fed": {
    "http": 200,
@@ -106,18 +106,18 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 6,
+   "kept": 6
   },
   "gn_oil": {
    "http": 200,
-   "items": 0,
-   "kept": 0
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "fed_calendar": {
    "http": 200,
@@ -126,12 +126,57 @@
  },
  "items": [
   {
+   "title": "OPEC+ keeps December oil output targets steady",
+   "source": "CNBC",
+   "time": "2026-11-01T12:46:03Z",
+   "link": "https://www.cnbc.com/2026/10/31/opec-oil-output-targets-december.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "OPEC+ Set To Maintain December Oil Output Targets",
+   "source": "Forbes Middle East",
+   "time": "2026-11-01T12:45:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbnRQNWtuMzY5NV8xb2VNSVdQd0d4d3BxSl9MNEJTcml1Q0lKNEJOdUljZHA0M0h5WmpRRWV4SWRtSWozS09QQWhUUFpmWWtCVTUyd1ZaNk9xXzNLaTdaaHhCa1JRN243WTlPRm9zYzhhOHhtUllTYUxVcHlQUTNlQlk0aF9vd0VObWd4R2hMT0lFcFFjRlc3WkR4OVpMSE9vcFVPNUxpQjZ3QlVMZkxtekJJWEliVGpfaTZ0RGVzVHpKN2ZVRlVMQWJwRmdTSUcxS3c?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "OPEC, Allies Keep Output Steady While Gulf Shipping Remains Under Threat",
+   "source": "WSJ",
+   "time": "2026-11-01T12:44:55Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnNqUHNCa3N5QzZ4RUZEVVd5RUsxNDM1QU5wZ3dYQ3FYdzdEWnpnczk0NG1JTndRV19CQnpWd0J4eUE4SndBWFpfUkZNeS1QQUtIaWVQRFBYVk1fMXlHNVJjWW1zb3JsV2pvVnc5UU5zby1DNzF1d3dyNFdYWTlTUlJFRk11YW5RU19idkdxZXNSZkJ4azFtQVBjZkVpT2p6cVFlbkpsX2o2NWYtVUJfd1VtblJhQ21COUJYTA?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
    "title": "Iranian negotiators in Doha to continue talks to end the US-Iran war, official says",
    "source": "Reuters",
-   "time": "2026-11-01T12:24:40Z",
+   "time": "2026-11-01T12:35:14Z",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXU0aVh0RXlJYm1BOUtMU2FncFZnaDY5dVo4LXR0OFhsUzl1V2s0ZHpoeU5VX2d4cjg0RWRXRkRLLVhRRFJ6QlVKd3dEQ3ZtNVF0c0laVUtZZU1DTFB2bVVpN01abDA1RDRBWXJLRzFSVzZpQmFaWFBVaVdhNG9GdEVranBrT2M5NzlmWFVKSXo5QjJla0JLZ2x3SG9pOE9mb0xOaUNaZmxxbzQ4RlVVY04tZnRxZWNLNVBoby1WMXQ?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "The midterm election could reshape the muni bond market. Here’s what investors need to know",
+   "source": "CNBC",
+   "time": "2026-11-01T12:30:48Z",
+   "link": "https://www.cnbc.com/2026/11/01/election-municipal-bonds.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Opinion | Trump’s campaign trail antics can’t obscure economic reality",
+   "source": "The Washington Post",
+   "time": "2026-11-01T12:24:08Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRWViaXBkWGF4UDdlTVFhX3lxQVNsLWVZanBLcW1kWjFseS1lSnRQS01zNzJxZG96dWxIV28tdnRNWkIwZVJhNEFJT1pDeHBtXzhKUUc3RUpLUFk3cHdtSUpHSV9lcUVzRzFyd2dtUzI0aUpjME1lYjZYV3B3UXhwcnh5YkNCOHNyUTRGOVdDV0Vta3VvNkdRNWQ0aE9hSTZ2OGxNdjhfeG1yQkxsTlQ2c0Qza2gyVnVQ?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -161,15 +206,6 @@
     "GEOPOLITICS",
     "TARIFF",
     "CHINA"
-   ]
-  },
-  {
-   "title": "Opinion | Trump’s campaign trail antics can’t obscure economic reality",
-   "source": "The Washington Post",
-   "time": "2026-11-01T11:57:47Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRWViaXBkWGF4UDdlTVFhX3lxQVNsLWVZanBLcW1kWjFseS1lSnRQS01zNzJxZG96dWxIV28tdnRNWkIwZVJhNEFJT1pDeHBtXzhKUUc3RUpLUFk3cHdtSUpHSV9lcUVzRzFyd2dtUzI0aUpjME1lYjZYV3B3UXhwcnh5YkNCOHNyUTRGOVdDV0Vta3VvNkdRNWQ0aE9hSTZ2OGxNdjhfeG1yQkxsTlQ2c0Qza2gyVnVQ?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -207,6 +243,13 @@
    "tags": [
     "GEOPOLITICS"
    ]
+  },
+  {
+   "title": "3 Dividend Stocks With Yields Over 5%",
+   "source": "Yahoo Finance",
+   "time": "2026-11-01T11:14:04Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObmlMNnJLcjV4aHllN3NwMWZlMWtaVVI3MVFxT0ZCQnJqeFVEa2h3Q0JnS0FZdVFBMVBXOUdkZ2hQaDI2bXNHUXEyUng3YlhJQkNmbTM2WjlDSHpZYzBkbEtVT08zTjkxSnA3b0puVFBfdUxtQXdtTVh1am1LYnBTVEtxQndwRjEtQjgxWlpvQTQxZWNnUW1zTDNn?oc=5",
+   "tags": []
   },
   {
    "title": "3 South African Mining Stocks Facing Agoa Tariff Pressure",
@@ -614,52 +657,6 @@
    "source": "CBS News",
    "time": "2026-11-01T01:05:02Z",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYW1IUHhnNDZjVnZhQkhqek50MmRsczFGZ3RUYjNWM2RmanRVQ001QTNSeUFZSGt2ZE9YYWRlWlQ3NENLLVZtQW9FbnUyR04zUzNNNWhnUlhaSzM3c1BTZ3BoR3daMkpIUUMyNndSR1pDWFZkQWd6RkJCWGlGdDVaRnhhRDRSSkxUV2J1TzdlS3llbE5adWEtSmtXZEhGTHdfNUQxMzREWQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Tops $2,100: Here's How to Bet With ETFs",
-   "source": "TradingView",
-   "time": "2026-11-01T00:41:59Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd29QaDY0dFAyelBOSmNDdmo0SFN0S2tRMm1ST3pNeXhteFVnZmVzRUNtU3ctQXV4dG9sUDNDRVZKRmtyNHUzdlZkeXdnWlM0QlR2aUFGREVKNXVBM1BxaU1QM1FlS0IzSC1Ed1ZtUGVIdlpsQTMzMnFwUVBEVHhKUWt3RmlmaDladi1qWndtLVItRzlTdWZjSE5IVi1EdHM?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Chart of the day: Gold price eyes $4,200 breakout, but buyers still face two major hurdles",
-   "source": "investingLive",
-   "time": "2026-11-01T00:13:46Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOER5UkJFZFQ0TFdXaXBaaW40TXNHYWFGeU9HQTlQcnlraURWQTFPZFJfY0pKZUVJdWZwSGpiS0hmMXFLT2xHX2xXX1kxVEtxMTZrR1VCQ21TclRBTFQwQTlvbFJGellfUkd1X0NTeFNHMmQ5dGtQMDZyOEJpX0lRSUM0a1NxYmJVREl3WWQzZDdHbUNMRjdYUF9zYTZDdWs0NXFVTGdlYWo3YjBYVEVoM0R4eFhnYkF5ZGVITlE4ejdBZFpDc1ZwYTlnQW94dw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Persian Gulf scrambling to prevent Iran war from again hitting its doorstep",
-   "source": "The Washington Post",
-   "time": "2026-11-01T00:06:27Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZk9yVldQN0UtWWZ0bUNEV000V2x1VldwVFhSNlRqX0pQNWVVYzUzTGpuQzZILWpFMDhYang0SXR5Rmlic1l2cUNBNWJPcVRxeWxadF9Kaktjc0FGSE9tX2JOM1FyZnBoZWFtdDdPUDhndzFyTUtLYTlPMEZ2QTVqU1RTSTN0a2pjTTR0Sk5ob1lueTFtYlhFQ2FjR0hlMk5DbFN0VE9LV2dodzItWjhoMHQyb3NFNGM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Price Canada Today | Live Gold Price in CAD",
-   "source": "Kitco",
-   "time": "2026-11-01T00:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "US Army Colonel David ‘Mickey’ Marcus’s true contribution to the fledgling IDF",
-   "source": "The Jerusalem Post",
-   "time": "2026-10-31T23:21:38Z",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MZlRoNWJaaElELWdsREpMOTdUNnZMMDQzcUctSFQ0Z21Pa3FaNTJLbGJYV0RtYWhiUlZsRWRCSE44WmdXQkMwYVNWam5qWE05U2NKS3lLTQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
