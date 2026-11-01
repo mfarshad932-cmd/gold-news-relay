@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T19:35:18Z",
+ "generatedAt": "2026-11-01T20:03:40Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 0
   },
   "marketwatch": {
    "http": 200,
@@ -66,8 +66,8 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 29,
-   "kept": 5
+   "items": 30,
+   "kept": 6
   },
   "aljazeera": {
    "http": 200,
@@ -91,12 +91,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 9,
+   "kept": 9
   },
   "gn_war": {
    "http": 200,
-   "items": 43,
+   "items": 42,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,8 +106,8 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 4,
+   "kept": 4
   },
   "gn_oil": {
    "http": 200,
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 6,
-   "kept": 5
+   "items": 5,
+   "kept": 4
   },
   "fed_calendar": {
    "http": 200,
@@ -128,8 +128,17 @@
   {
    "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
    "source": "BBC",
-   "time": "2026-11-01T19:17:34Z",
+   "time": "2026-11-01T19:58:26Z",
    "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours",
+   "source": "BBC",
+   "time": "2026-11-01T19:48:17Z",
+   "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -198,6 +207,15 @@
    ]
   },
   {
+   "title": "Jordan-Syria tensions grow after Karak church attack, airstrike in Syria",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-01T18:28:37Z",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hOWVhbW0yWE5HdDNabnJwU2tnd3FHcnJKR21IUDF2cnVmR25ocEtWRjNFQlVxR0poVHpXLXU3eUw1SG9uR1hsYXBsaGg4a19zeXFJeHZJdFhHMG9p?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Longest truce of Ukraine war, in Kherson region, set to end",
    "source": "South China Morning Post",
    "time": "2026-11-01T18:25:28Z",
@@ -220,15 +238,6 @@
    "source": "Al Jazeera",
    "time": "2026-11-01T18:23:57Z",
    "link": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Jordan-Syria tensions grow after Karak church attack, airstrike in Syria",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-01T18:10:01Z",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hOWVhbW0yWE5HdDNabnJwU2tnd3FHcnJKR21IUDF2cnVmR25ocEtWRjNFQlVxR0poVHpXLXU3eUw1SG9uR1hsYXBsaGg4a19zeXFJeHZJdFhHMG9p?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -660,15 +669,6 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVFZWWEhxbU5ZdmsyN0ZWbjZfZVA1RlZoR0NoOUZNNmI5b3BIMTI2eXhMTzFpdnQyZU9wamh6SWticHIzYlJNd0hIOHpqazFyX3hONzhiMGtFLVB5Zl95cTA1NFkxaXBiU3JvMk9vZmdRR1M2Mnc4eDNPNWRQTjVILUZ3ODR0WHNCVDhQaUEwRGlMNVVNdUl3MkVkeUV2ZHVkSDE0ZXc3aFdwRHZtSFpxbi13cl9kZnZIeHpheXg2MHNmOVBmbkJhT215Yw?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Russian strikes cut power to thousands in Ukraine, despite Trump’s energy ceasefire push",
-   "source": "NBC News",
-   "time": "2026-11-01T12:07:43Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbnFHM2dZUTJhZmduUmVZVXlxWmQ3dzFlWjZDaWJ0Rm9kZlY5Q2dkRmsxR0E0aC1tSTBOcjlXZkRfRWE3VkJ6dDVPa3g4RF80Z1V6UzRWR0ZaQXVIcVNTemI0MVptbWYxbVZiUzRkQUwyWk1Tc2l6U0ZqOWxxMTJOM0hjSzVQTTBjd3NVSllkVmdpUFlCQlJqaUxkTGItdEVJb0Vrd0RVekpxM2ZQYnRhTXVkblhpMkk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
