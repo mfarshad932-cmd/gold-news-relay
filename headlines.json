@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-11-02T15:55:41Z",
+ "generatedAt": "2026-11-02T16:24:03Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 0
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -57,7 +58,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +73,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -81,22 +82,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 19,
+   "items": 20,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
+   "items": 15,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 40,
+   "items": 42,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +107,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_oil": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,13 +127,77 @@
  },
  "items": [
   {
+   "title": "Stocks jump as oil prices tumble before midterms, tech shares rebound: Live updates",
+   "source": "CNBC",
+   "time": "2026-11-02T16:19:08Z",
+   "link": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "October FOMC Meeting: See You In December",
+   "source": "Seeking Alpha",
+   "time": "2026-11-02T16:10:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSFJUQ2JDNm4wVWpyemxWcy1veGc0bmF0YzdxNXRhaGowWDlUMXBCQURqMTYzWHJVZ2F3OXptUjdQOXEwbGNKUzVGVmFubmRqNERlS3FKdV9LYVF5dERyRWxtdFVrRE1oa2g3Yk84Q1ZzTDJlc2ZlMW5QWXdnSVBpXzFpYWFaV0pj?oc=5",
+   "tags": [
+    "FOMC"
+   ]
+  },
+  {
+   "title": "China steps up Middle East diplomacy with Iran and Oman meetings",
+   "source": "Al Jazeera",
+   "time": "2026-11-02T16:03:52Z",
+   "link": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Booming U.S. manufacturers can’t keep up with demand — and high inflation isn’t helping",
+   "source": "MarketWatch",
+   "time": "2026-11-02T15:59:00Z",
+   "link": "https://www.marketwatch.com/story/booming-u-s-manufacturers-cant-keep-up-with-demand-and-high-inflation-isnt-helping-128a3902?mod=mw_rss_topstories",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Crude oil dives to session low on Iran peace talk hopes ahead of midterms",
    "source": "CNBC",
-   "time": "2026-11-02T15:33:47Z",
+   "time": "2026-11-02T15:56:54Z",
    "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
    "tags": [
     "GEOPOLITICS",
     "OIL"
+   ]
+  },
+  {
+   "title": "Freed from OPEC quotas, UAE says oil exports have risen as it hosts industry event",
+   "source": "Reuters",
+   "time": "2026-11-02T15:55:44Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcnd0cjROV01YdUV5VG9tVnV6NVpybjJpa1E1TnFOV3g2V2xhMmpmcGJQdXctakdyMVVmZk9hbTZvYnZ6aDJ2RDhoSU12Z2NoYlBRekRWNmlrSWdlblpJa0tKelN5VjFVVUhDWV85enFsam91QXFRWVdUUzNEYmZSTDhaWVBRUFE2MTBVRFY5XzhvR2NDZXVXeXZROVoxdkJQcm91cnZqQUJEWmJLNkJ6R0UwLWJvYU5MQ21sNXZpeEN3S3c?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Ex-Mossad chief Yossi Cohen believes eventual return to war with Iran is inevitable",
+   "source": "The Times of Israel",
+   "time": "2026-11-02T15:41:33Z",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV2dYRDRHV19RRUsyRDBSQkZ5NVJBZTFnSjdMSEljdngwbU1WQzFySXVnZnl2VXdzeXlWSHNkQVZERi1ZWThWbktOQlVoNWpNeUdhLWN4RnNMaDNjb1RNM0VlM3JZS1VDTnViYTdVWXFYZmFtQW1MLW95bkEyRWpKSWtlaWoyVjlfbzZPRlVJR0huNWJvaGtOQU1rTC1FeXo0V2NpR0otTlhWNXN4N2hqRXVKZTdGQXFwRXoyN3VHSWdzODlON2VkRg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold's close below $3,900: Why some breakdowns don't pause",
+   "source": "FXStreet",
+   "time": "2026-11-02T15:38:22Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNnVGeFU3c2Vxbm9PUTdPekNjcVp2Skp2ZkhhclVnajZyN2FmZHBDd0lQUGZSWlMxNGM3NVVUUzV3OHRNUU9EYlRXRVpVNWVaSkRvOXM1c041b2xVRUJid3JjTG1mSXRoLXJSc1VKYXhVWXhtTlcwQ1BIQldUN0t0QU5jN0JRemNxTjlJSXZLby1ucHh6MVk4SU5tai1IS1ZhTkRV?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -142,6 +207,15 @@
    "link": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Planning to buy gold on Dhanteras? Jewellery vs coins vs gold ETFs vs sovereign gold bonds comparison before you invest",
+   "source": "TradingView",
+   "time": "2026-11-02T15:18:44Z",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQX3IxM2F0Tld2anJ3M2pzb2xHa1lHUGtlU2l6UGt0amlfek9HN0lOd25sb3JBZUgtRHdYSHVtLWlacWhVNVNZb2VpSjlHd3h3MWxEX0hGLWxtYWdGU1FtSU1pYWFER3BBQXhaTXE1a2xEeXprUEtuSl9jeVEyekFoQzl2WnFpT1FhUU9GUk1jUmpzb0RmdTdnbUJXdml0YlpuSi1IUkcwbmx6UW1VbEJNeHF4NHRDbUtGUTV0emhxYzRtNzJKa0NRTW00NW9ZWk5McUQxTXRlajRDOVlYM2pUZEFqaEU3aUh4WE5xREFHVUR0YmhNNlE2ZmxLb3ZzU3NfM3Y5dlR3?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -173,6 +247,15 @@
    ]
   },
   {
+   "title": "Lessons from The Forgotten War: 70 Years Since the Sinai Campaign",
+   "source": "The Times of Israel",
+   "time": "2026-11-02T15:01:00Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY05LRnBiYkEza2NMTGVmaTZnemhTcWFGamUyTW44MWxhblBmVVZucFJTVmVYMmwxd0ZIbkd3NEpwVFZkWkQ4aEo2dzBiOFZ5eml2TE1xWTdXeGNodElMZ3ZueFJLalI5djZLX192MmctdDJDZ0JOZGRad0pKV3IzMmpPamRLTlh2V1ZSMEgyTzVzc2xFc05TZ1lHN01wdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks?",
    "source": "Al Jazeera",
    "time": "2026-11-02T15:00:08Z",
@@ -198,6 +281,15 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
+   ]
+  },
+  {
+   "title": "AEM Q3 Earnings Beat Estimates on Higher Gold Prices",
+   "source": "Yahoo Finance",
+   "time": "2026-11-02T14:46:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaDJyQ3lxYkMwVDZpUWpyeE5ZdUFNVXA2N080UWdULWVPYlNnS0ZwQU13YjJBa01aRU9lc2xQRW9OczVvbmVzVUxKUGIxS1cyQ09paDduYUZ2MXd3V3prR2RsZjIzUFhETG11OXRNS3RlYkNCYjRtdWxHYjRSZVhOZjhGYldZRFFQMEJwLVF5ZGJVdzZSQ2VJMkg2Qm1mWmZQbmc?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -495,6 +587,16 @@
    ]
   },
   {
+   "title": "‘Who picks a fight with Canada?’ Trade war angers Alaskan businesses ahead of U.S. midterms",
+   "source": "BNN Bloomberg",
+   "time": "2026-11-02T12:47:29Z",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMm42MldqckQzN0FWWmZFbHdNT1E2aWpDUmQ2QkVjVDI3Z0pJSEdnekV2M3pnRTNsdHpIalE5dmV0aGoxc1pmZkIwSV9HNHJYRVZzY0F6ZEdtMUxaNm1tSHM0aldyYnNCSmNtc1VXQVVnWGZ2V0tXX1BzbFUwVnJOVEd4ZXpKN0FrdkwzcmdwMWF0NHEydjhTTFlEbU45SFJQUXI1Uy1wXzh5VU5yN20tYkMwdmRjZ2puSEFvVUxhU016cEhjQnlLSEV0NVR1alU?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Rubio Said Trump Wants to End the Iran War 'Peacefully.' Oil Prices Are Plunging.",
    "source": "Yahoo Finance",
    "time": "2026-11-02T12:42:28Z",
@@ -574,106 +676,6 @@
    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNWmw0N1kyZk96NzBTeWlXTENwYWVQTW5QcEpTWlBiOVljejB4SEtpMElJeG9xLThHLTdwLURTSnVTWW13eVM0R1VXSDlhWnk3T2hZbzVvMkxXTWxLcmJBX3BWOVZqQ3dRbjlQSkprcjdZd0d5X091VnptUGE4ZnhjSi1tNzM2ZE1TVDhNa3R5TFVPQVEtc3p3Z21oVWlVQkZEbTNlRUhjWld4by1oaXBNSGJrN0tvZHhnZ0M4aTdIN1cwQWU5RDFxdHdoeHBvUDF2cmlVekRyUVRVeHBwU3ZTNkM5ZFJPZzRmbVJyMVRVbHdBTkdFM1NYSS1leWd3YmRTZk5maWFLLXhRanRn?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Price Outlook: Why I’m Avoiding the Dip as Gold Stays Expensive",
-   "source": "FXEmpire",
-   "time": "2026-11-02T12:06:05Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObi1fSlY1bUVNd0g4YklTX0dsY1R0WmtfTDVDcUNVVlEtbGJvTnhiTWM4MVBIUEdSRkdCdTR0ejQydHNnSFRLdzN1WHk2QzM3dEJzVlMwQWlKX0NMUzMwNWVfdm0wR0h5MWRiZng2ekNxcmhMdUljaFp6TlNWbjRPbVlmM2hzUnVqRGV2WlFDbUlsTnllOVR6ZTNwMGZ5X0V3aDdzalpYc2RTbjlkWkl1OTdHaDFFS29D?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Rebound or Dead Cat Bounce? $4,000 Holds the Key",
-   "source": "Investing.com",
-   "time": "2026-11-02T12:03:00Z",
-   "link": "https://www.investing.com/analysis/gold-rebound-or-dead-cat-bounce-4000-holds-the-key-200690689",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "We answered your US midterm questions on the economy, the Iran war, immigration and more",
-   "source": "The Guardian",
-   "time": "2026-11-02T12:02:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR1FEYnY2cWVUNlFqTFpZc0ZORWdMdTV3S3doT0JyRWR4ekNOM1VuZVdMSjlkZTZVR095aGpvTXdMQUpacGlHTDBNZnpCdXR1ZEZNRHpKSDdLM0w5dWZUSDVCMkxPdWZlb3psdnhYaDJTYXNybEJLWTAycUc1c0VvN0pvS0pLV3ZGTkI4X1g2aE92eERuZUZlY2tGYw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russia’s war in Ukraine creeps into everyday life in Poland",
-   "source": "Financial Times",
-   "time": "2026-11-02T12:00:09Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFJYd0hHTzZpMHhpY1hwMmx1LWtGd0M4LU9FYThHVFNhNkNNSXA4NF9aV2FLdk9oWUNiSUpXSkk2cVhuZF8zZk9nRDY5ejRFLUFDTEZUdkEyWm04Zk00bHV0SVdQS2JPWkJwdWZNWXJDb3lqdFhNbzRoU1pDUVBNVm9kS0M?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Flexport volumes up 40% as headcount grows only 5%",
-   "source": "Yahoo Finance",
-   "time": "2026-11-02T12:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaGNRNHZ0d0FrODlNbFRKSUJTVDZKd0dseW5tZVBHSGtlSjZBcWJtYmdQbDJ0ZEtEX0VxbWFuWlNQSWl1MElCVnF2eTFtdVhReDZjbFc0Y0tNX3hCSm9zTUVPVEtzaGtiV2VKWmR4TVZBOUdkMWR5WnM0ZHRieC1mb09kWU1BcW5hSVY2dE1xTG55SGtwSndTSzdXM2dTZm5j?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Oil prices sink on US-Iran war hope ahead of midterms",
-   "source": "Yahoo Finance",
-   "time": "2026-11-02T11:55:32Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbFlPTmRfa2Njb0JKYmxWbXEzSk9ieF8waWxmOGkxQnZNSDh1czNVTVFiVjJCUHZYazVmWFh2Z28wbWZ5MFAzSDJDWDRqcjVIZkQ0dzlmWWtrNXAybFJRekNtVnR3dTA2RHhQQm5VUjdULU05M3Jqa0U2Zm5jX2dqRTJTWTk3TUE5TEJIZnd2NUVScWQ1TnBjX3ZVRlQ4OC1lS3dpTA?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Map Shows Russia Losing Ground Amid Heaviest Casualties Since Start of War",
-   "source": "Newsweek",
-   "time": "2026-11-02T11:47:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3B3d0ZGUi1ObnY4UWlnSktQRzVpa1BDZkdGdnhUcDlqODZNX0hfbHVKMF9VZ1dxLWFLSjhKUlJuRU1kZ1Rmdm8yZkZzWk51Q2tYTDFSV3JfQzZjRGgtNjY5WTczTXJha3YwNmpZNDNkSHpwbElraXV5eHpLbndzaW9aRkhaYlFOenUwbmxsMzhORkFSQVBHVm5EbGZSRV9pYjRyVEttTERHUTU4?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Saudi Business Model Built on Corporate Commuters Challenged by War",
-   "source": "Bloomberg",
-   "time": "2026-11-02T11:27:14Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb3lXWmtsNXpEdnhXZkVhcE9uNl9yR2pHZDVZM2o2anEyQ2JQZk5KYjdzZW1Ja0dvVlBRMmZQYmdGelNkYkpwc2pvX1d5a0FtX0ZfSlY3STgzSzBHYXNLZ281U0tBMEJRd19yR2F4STdJelp2YzQ0WnVsT053RXFpQ1NIR0Nvc1EzNG9aWUZ5M1R3UWtvUlhMTk9oMnRQWDlhU2lvNUp2alNsRk9yOTB2YUtjRUtqMTA1SHc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "U.S. Treasury, European Bond Yields Fall as Oil Prices Drop",
-   "source": "WSJ",
-   "time": "2026-11-02T11:06:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGUwUW9rQ2ZHNURiZzhMRDEyQXVMUkQ0c3dreUlKakhxR2JRTzV1dUlKWm9KbWFqd3ZRVWF4Qk1rTi1jdDBSZm9aRVNFd1hOVlI5dUJSTTdKbFUtSGw1MGFac1pWUXUtcFRzd282c2RMdXh0bW12WUJnVUlkdDE2RllDTy04NE92aDlvTnBXaHBTSkVHVmJncUV6SkE3emxqbHZSX25FTTZFaGVhWm52QU1HbzdaYjNfRTQ0RnBzWkkxQmtEN0JtWA?oc=5",
-   "tags": [
-    "YIELDS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Apple Earnings, Midterms, Jobs Data Put Markets To The Test: 3 Charts To Watch This Week",
-   "source": "TradingView",
-   "time": "2026-11-02T11:05:31Z",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR3dkeEZhZlBCZ0wtMmh5MWtlTVBKcjdaNk5wUjhLcDNRNVA0TUxqcllhTy02WEVGQzZ5Qjl2MW1ucno2WHdpLWtpd0Y3eVJLVENFb0RkSHFwVVRXWktFbVBaTkwtNDFHY0dnQVlQWUhEUERVMEhOV2RDWkJocEFVNC10dzM0WTBVZFVSNlBEaTFrU0kzUkJOXzNPMk5RX0pzVGVWZjRIYTMzMklUaTE3TXZuaW9zRWtpNko5OGh4dUR4ZV9EeE9lLXM1SWlmWGN5aUM3dkNGVzNIdHBrZ2pj?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Why Fewer Fed Policy Meetings Could Spell Uncertainty for Stocks",
-   "source": "Barron's",
-   "time": "2026-11-02T11:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORDlBeVhENjdmbEt3NFAtVmltQzZVUURZX2x4NzZCeExmSWlRTUkwTmxTb0JmMThVbHJIUXZtdXpNS2lUMFVjWm5scTA5Y1NZVGFMSF9ZVDNDMGZ0Qmw3R3V4Tk9MclFTOEJNS19oRTZEX2VnS3Bma1g1V2hpZEhoTVB4NEVCZGk0UmRCeW4yMA?oc=5",
-   "tags": [
-    "FOMC",
-    "FED"
    ]
   }
  ],
