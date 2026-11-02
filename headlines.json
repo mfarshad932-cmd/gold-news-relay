@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T12:35:33Z",
+ "generatedAt": "2026-11-02T13:03:58Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 4
   },
   "bbc_business": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 20,
+   "items": 22,
    "kept": 12
   },
   "gn_fed": {
@@ -91,12 +91,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
+   "items": 15,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 49,
+   "items": 50,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,25 @@
   }
  },
  "items": [
+  {
+   "title": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
+   "source": "CNBC",
+   "time": "2026-11-02T12:40:46Z",
+   "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "UAE Says It Will Be Better Prepared for Any Energy Disruptions",
+   "source": "Bloomberg",
+   "time": "2026-11-02T12:33:52Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc3pKMGdwN3lkdTFuaFFUbTV5YjFTaVdYbUtiSkVEbDhwOUpQQ1lhOHVwWGVtZ0NGellibEZONkpqbU1JT1J1WjZfaXB2QlhkZVRERXNmQlluZGRhbUg2UGt0M0dueW92clFndl9JQ0s3NjAzQ052MC02YTNMelM3bndrWWxEVU5LYWJIdlFsa1JHMmFTOE5qanJIcnk2RFE1T0FlNm52N1dOUmNHdmo5MWR4QQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Trump's Iran threat renews Gulf fears of a war it didn't choose",
    "source": "Reuters",
@@ -159,6 +178,15 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNkxoNFR1cWtFdFE1NFh0U0R6UU1Nc0wwU0hSX2NPYjNaelJFcXN1UVVOemdsMmxkNDlHNHJVWUlaeFhnYnhrc0Z1QjBaRzYteVd2LV84UlcyTzN0QXdydTl6dmRMdFdoVm16dGFBclJnNHR6X0tUczdlLVBLNnBUMnFwZVlSWktnd180MkxOWDNaa0Faa2hjSFgwOF9VYjA0UGRSWEdRNHhxSmZDOXdqS210bXJMUQ?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Oman and China sign deals to boost trade and investment",
+   "source": "Al Jazeera",
+   "time": "2026-11-02T12:18:07Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/oman-and-china-sign-deals-to-boost-trade-and-investment?traffic_source=rss",
+   "tags": [
+    "CHINA"
    ]
   },
   {
@@ -198,6 +226,15 @@
    ]
   },
   {
+   "title": "Flexport volumes up 40% as headcount grows only 5%",
+   "source": "Yahoo Finance",
+   "time": "2026-11-02T12:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaGNRNHZ0d0FrODlNbFRKSUJTVDZKd0dseW5tZVBHSGtlSjZBcWJtYmdQbDJ0ZEtEX0VxbWFuWlNQSWl1MElCVnF2eTFtdVhReDZjbFc0Y0tNX3hCSm9zTUVPVEtzaGtiV2VKWmR4TVZBOUdkMWR5WnM0ZHRieC1mb09kWU1BcW5hSVY2dE1xTG55SGtwSndTSzdXM2dTZm5j?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Oil prices sink on US-Iran war hope ahead of midterms",
    "source": "Yahoo Finance",
    "time": "2026-11-02T11:55:32Z",
@@ -205,6 +242,15 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
+   ]
+  },
+  {
+   "title": "Ukraine says Russia used Oleshky ceasefire to reinforce positions",
+   "source": "Reuters",
+   "time": "2026-11-02T11:51:16Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlJhblpJUzZ3RGRyak5uVjBUZGEzd3JGWk9NaHZlV3FCd2ExX0NfaWtQaHdFamxBbk12UVRzMTUyRV9uZE1qMGlyNVFER05IRFhuWUZfek9YTEJLQ0Q4X3R1c0Y0UjM1Vk1GcFBYMmczbW85OEY4eVdVY0lpZnBGZ0ExZmN2S1ZVVkRwcTdyVjdxYU53OHBwWEZzV0xBbUoxMXQ3aUdzdzBrUklvdGt6bA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -271,16 +317,6 @@
    "tags": []
   },
   {
-   "title": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
-   "source": "CNBC",
-   "time": "2026-11-02T11:00:55Z",
-   "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
    "title": "Why Fewer Fed Policy Meetings Could Spell Uncertainty for Stocks",
    "source": "Barron's",
    "time": "2026-11-02T11:00:00Z",
@@ -309,6 +345,15 @@
    ]
   },
   {
+   "title": "Iranians have left Doha talks, draft proposal for US deal being circulated, official says",
+   "source": "Reuters",
+   "time": "2026-11-02T10:41:24Z",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Gold Rebounds Above $3,900 After October Slump as Weaker Dollar Supports Prices",
    "source": "Yahoo Finance UK",
    "time": "2026-11-02T10:28:18Z",
@@ -316,15 +361,6 @@
    "tags": [
     "USD",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Ukraine says Russia used Oleshky ceasefire to reinforce positions",
-   "source": "Reuters",
-   "time": "2026-11-02T10:26:08Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlJhblpJUzZ3RGRyak5uVjBUZGEzd3JGWk9NaHZlV3FCd2ExX0NfaWtQaHdFamxBbk12UVRzMTUyRV9uZE1qMGlyNVFER05IRFhuWUZfek9YTEJLQ0Q4X3R1c0Y0UjM1Vk1GcFBYMmczbW85OEY4eVdVY0lpZnBGZ0ExZmN2S1ZVVkRwcTdyVjdxYU53OHBwWEZzV0xBbUoxMXQ3aUdzdzBrUklvdGt6bA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -353,6 +389,13 @@
    "tags": [
     "GEOPOLITICS"
    ]
+  },
+  {
+   "title": "Wall Street Braces for Biggest Treasury Sales Overhaul in Years",
+   "source": "Bloomberg",
+   "time": "2026-11-02T10:02:32Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3N2ZVdrWVZaekU3UUdvbWgzZE4wTUF5X2tsajg4V042UDRJeEpwa2RqY1RxLWlNNk5sWTl4QUFlQk1mQjhsTzh3STlDR0lVN3ByaVQyUFRFUnlpZG95dGpuZjVtN3lMX3lfQkZRWnUyM3FqSnAyeE9sQ25fSHI1Mmo2M1dPT3d4RkwxM1hjSkRYbFBrdlFtUXpnUlNCc05aRkJvOWNFSFZBQjRqaXFHUVVGZzQ?oc=5",
+   "tags": []
   },
   {
    "title": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal",
@@ -546,6 +589,15 @@
    ]
   },
   {
+   "title": "Copper Price Forecast: Rebound at Risk as AI Spending Fears Persist",
+   "source": "FXEmpire",
+   "time": "2026-11-02T08:56:24Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWHRTc2I4ZXVIR2l0dGlueTJlcDhrTjhkZ1JJYkNGWXdmQTFqcE50ZURRVUhnNTBoNXVEYlBqUEhyNFhCSlZBLXVsYzdwclR4QW9FdjRQNlJ3T21tZGF0OVRJM2ZWTHVvRTBPRmc5LVM1UkljRXZkOGdIeXhmRnUxa2ZEODBSN0ZKcmFxVmNOTm5yTGEzSFZDVFduVHh6WTdKOFB5ZG9GUnI5TWNveE5rWFJRUzJiOUNU?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
    "source": "MarketWatch",
    "time": "2026-11-02T08:56:00Z",
@@ -617,61 +669,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUZNbXdwelgtY2FSSFdrYV9iSUhpaWpsVHJjRzJjeThlY3BCT1pTQ0lIMm9NcWRKQ1lGREdYbUNqd0JxR2tYanlPNjFaWXBidXJLTVN2Q0FJak1hRUV5QUFMS1dDQ3hWeW9HbTZncDhHMlA3MGN0amJmVExMTHd4Q0M0ZENqWmZVUFFYUTB2WmRfRGtDdUhDTzlzeXMzWE04QlcyeWNXRlkxaFE?oc=5",
    "tags": [
     "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
-   "source": "WSJ",
-   "time": "2026-11-02T07:33:16Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaF9ya09COUkxYUpqejFnc1JnYThRdVlSMDhJWjJKSU5kU0o1UmlhbmE0Z3F1cXVMT3pSTEtFcDd3VS1kSUY0MTl3NnBvY1dnQ3RQanNnVWItOXZvNTlaZEtET29NR2ppTzlQWWNpcnBZVHJieTFpenpFT0RQTXEwMzRTUjladnYtZm5UZ1g4SHBIZ1lUd2NwbURjZmRSYTU2VzhVeS1FLUVNVUprU05ZQlBhTXBXcXBadzI4WmlHYVVCZzdRVEVEN1hsVQ?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "Hormuz shipping still faces major risks",
-   "source": "Al Jazeera",
-   "time": "2026-11-02T07:30:12Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/hormuz-shipping-still-faces-major-risks?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Historic $1T+ Gold and Silver Crash Shakes Markets",
-   "source": "Investing.com",
-   "time": "2026-11-02T07:23:00Z",
-   "link": "https://www.investing.com/analysis/historic-1t-gold-and-silver-crash-shakes-markets-200690664",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "The future of the Palestinian vote in Israel",
-   "source": "Al Jazeera",
-   "time": "2026-11-02T07:14:44Z",
-   "link": "https://www.aljazeera.com/opinions/2026/11/2/the-future-of-the-palestinian-vote-in-israel?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold (XAUUSD) & Silver Price Forecast: Bargain Hunters Return After Worst October Since 2008, Can Gold Reclaim $3,978?",
-   "source": "FXEmpire",
-   "time": "2026-11-02T07:04:51Z",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeTZkcm9hMWNBZy1xWTl5b1lhTjFVcHhuQUdtRVR0T3QwdU01a0FURUZHT2JVY0hubE43c29aNW9mR2pERm5fanVSYVRMemRaM0d6SkFoRGlvLVFZQ0pqeENYWFoxOFBLSGhqTGNkWXVDMEtFUXk4QWMtZTRPSnFITHlZTldwakdVM1gzUGhKMWhBRTcxVUVPR1FCMVd1ek5HaUs5ZGJHYV9zLUE4NEZQRW5zTmFPRzZtZm9ERFZ3RkpUYmY1d3FRTDhNajF5VFRYZU95bTVtS2RHbV92azJDSFNKU29NcV9FT3RaUzBTU0ZtUQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Sliding Along the 0.786 Arc With Eyes on $3,720",
-   "source": "Investing.com",
-   "time": "2026-11-02T07:03:00Z",
-   "link": "https://www.investing.com/analysis/gold-sliding-along-the-0786-arc-with-eyes-on-3720-200690659",
-   "tags": [
     "GOLD"
    ]
   }
