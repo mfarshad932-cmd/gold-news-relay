@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T08:48:35Z",
+ "generatedAt": "2026-11-02T09:17:06Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -20,7 +20,7 @@
   },
   "ecb_press": {
    "http": 200,
-   "items": 15,
+   "items": 14,
    "kept": 0
   },
   "bea": {
@@ -47,12 +47,12 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 0
   },
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 3
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 16,
+   "items": 15,
    "kept": 12
   },
   "gn_fed": {
@@ -91,12 +91,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 48,
+   "items": 49,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,18 +106,18 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 5,
-   "kept": 5
-  },
-  "gn_oil": {
-   "http": 200,
    "items": 3,
    "kept": 3
   },
-  "gn_cbgold": {
+  "gn_oil": {
    "http": 200,
    "items": 1,
    "kept": 1
+  },
+  "gn_cbgold": {
+   "http": 200,
+   "items": 5,
+   "kept": 5
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,33 @@
   }
  },
  "items": [
+  {
+   "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
+   "source": "MarketWatch",
+   "time": "2026-11-02T08:56:00Z",
+   "link": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Trump said weighing who to scapegoat for Iran war as he clashes with PM over renewed attack",
+   "source": "The Times of Israel",
+   "time": "2026-11-02T08:48:35Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDRueUpBNnN2U1pSVWtjbmN3N2FtRHpPTGo2dWJ2R0VSWThJT3dZMzFWMHFIRU9rOEtQRlhUa3JBS2hhSkJnaDdoWlduZkpEN2EzLXVaampuc2loNnpBQkM1NzVxWjE3aDA0bFZiMm5tX0kwYXlrYWg3OVZQaWdpUWxOQ3ByaVBQVUJpWHlURm14SVY1ZndUMXFGemNJUW9YQ1puU1dLUG1mdDR6bXQxX1VoWHg4dmwwOHBsSjZCZ9IBxAFBVV95cUxQSVhhcVk5Ym1RczJzSnZVbGdGcFVVazBoTVBNLVFFb0NOR3hvcnJxRFdkYVhsd3M5ZnJ3Ym5XVVZMSXVGX0Z6bmZJSGl5eGNwXy1jRTFGejJUN1BZWGN5LWNKdVduUDN4UVpjcWVtSVRZb2JQVGF5dndaczhfTXFDYTdmNlJsR1NsZER1RjBOOGNWME93a3lWV19oT3RKNWNHOFJTMnB4UDk0YVM5R0NOMVEwMWJ5Z2RkNldOUVFEZWp0dXE2?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Jio Platforms' next growth drivers: Broadband, enterprise services and AI take centre stage",
+   "source": "TradingView",
+   "time": "2026-11-02T08:44:38Z",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORG1JeElyVGNWb0ZJZDVTVG1hbUhXaXotLVdpYXVrWm9fa3RsYnVjWUdFcEVaeG00SUxBdjg5ZDUybFBCY3lncVNLRWh6d1VFMkljTFlWWjJLejR5cjVFTUlIN2cxSi16RDB5QnR1T19WN3dGdzM1dWZ5VkZybWpKTG5VdHVRTm5ZOHZtMk1EX0s4UUNzT0FOc0pYNFptTVdkd2MyRTY3Ni1CZUdrQXRkaWhDNHl4cXpTb0tuNEVaRzZlalJWLW9pVlh4WUE0d1lTcUJBZDVhakZsenNFYWg5ZnpvaHB2dw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
   {
    "title": "Donald Trump’s Vietnam war comment raises eyebrows",
    "source": "Newsweek",
@@ -135,12 +162,52 @@
    ]
   },
   {
+   "title": "Gold trims gains; trades below $3,900 despite weaker USD",
+   "source": "FXStreet",
+   "time": "2026-11-02T08:19:56Z",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGFyd3hZNzhJVXNscmtPdC1XVDJXX3Q0YW9TN25yWnNudTRSR1NrM0EzeVF6TEY1TE1GMmxtRjBXMTRZRldUMkJpam5XdWp4UTlqNjExQmdpSTZUNkoyUmpjU0F6MWRnMEN0NWVEbDRhNUtqUW5Fb1NQTUpqcUUzLUlyX3pVQkZnWEUxVDFOcndYaEhZYWtEZEZpbzZkYVJrNFltb3pQamNlOGpWSTZ2bkExUkdhSmFkamF5N1JCUkFfX1FlNzUzMzNuSQ?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Chinese state TV continues Real Madrid blackout after Mbappe-Mao meme row",
    "source": "Al Jazeera",
    "time": "2026-11-02T08:16:45Z",
    "link": "https://www.aljazeera.com/sports/2026/11/2/chinese-state-tv-continues-real-madrid-blackout-after-mbappe-mao-meme-row?traffic_source=rss",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "Why Copper Prices Are Falling Despite China Paying a Record Premium",
+   "source": "Yahoo Finance",
+   "time": "2026-11-02T08:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcnpMYlYwVFAwRVhQNlRPYVg0VEI2aWt3dVRVM2RfcGNsTW5TZFNuSkM2eDY4R0IwVVZYbk9mLUlIUk0zTWtLQjZJbGJ6ZXdmMEV2OHV2QzZzZ1hhcW9VNkVLTUlnT3NNTTRXSUwzYURXa01Tc05VLW5NX3lfZ0c5YjdjUTdCZHRjckE0ZVpXU1hoM1NRMERqYnp4amVMZkZ6c3hTQUVn?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "COMMENTARY: Asia's crude oil imports back to pre-war levels but refined fuels lag",
+   "source": "Reuters",
+   "time": "2026-11-02T07:59:53Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjRWdTdnRzAwR2xkSU04ZHlmbHh0eXg5Wm8xS1k5Q2hLYWRWbWdOVzd4ckZHcjZkYktZVHEyV29yQ25XNE9Ga0Y3TG5Dc3Awd054Y2o3MU5rLTNZNmRRTkZXVjdyZWJNYnM4bVczRU1RRmlqOW5JOVZCVWpJSXFDazBHWm5hUXhGb2FGS2xUN3Q5cFFQelVqazAxYXNDamdDZ0pINE5mQUE3VGhFdDcxZkZ4cUdSOFVQTWRsdXl6LXdMTUpIWnFLQ0VB?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Gold and Silver Forecast: Rebound Faces Fed Hike Pressure",
+   "source": "FXEmpire",
+   "time": "2026-11-02T07:35:05Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUZNbXdwelgtY2FSSFdrYV9iSUhpaWpsVHJjRzJjeThlY3BCT1pTQ0lIMm9NcWRKQ1lGREdYbUNqd0JxR2tYanlPNjFaWXBidXJLTVN2Q0FJak1hRUV5QUFMS1dDQ3hWeW9HbTZncDhHMlA3MGN0amJmVExMTHd4Q0M0ZENqWmZVUFFYUTB2WmRfRGtDdUhDTzlzeXMzWE04QlcyeWNXRlkxaFE?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
    ]
   },
   {
@@ -160,16 +227,6 @@
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/hormuz-shipping-still-faces-major-risks?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "COMMENTARY: Asia's crude oil imports back to pre-war levels but refined fuels lag",
-   "source": "Reuters",
-   "time": "2026-11-02T07:24:40Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjRWdTdnRzAwR2xkSU04ZHlmbHh0eXg5Wm8xS1k5Q2hLYWRWbWdOVzd4ckZHcjZkYktZVHEyV29yQ25XNE9Ga0Y3TG5Dc3Awd054Y2o3MU5rLTNZNmRRTkZXVjdyZWJNYnM4bVczRU1RRmlqOW5JOVZCVWpJSXFDazBHWm5hUXhGb2FGS2xUN3Q5cFFQelVqazAxYXNDamdDZ0pINE5mQUE3VGhFdDcxZkZ4cUdSOFVQTWRsdXl6LXdMTUpIWnFLQ0VB?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
    ]
   },
   {
@@ -236,6 +293,16 @@
    ]
   },
   {
+   "title": "Nine big oil firms on track to share more than $95bn profit two quarters in a row",
+   "source": "The Guardian",
+   "time": "2026-11-02T07:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXBJYWlwMjdwM3djOG81dHVZNHlIX1dUZWM2dEYya2YzOVp1TTR6bmN1dm9hbWxqLU5zMFYzYTVtTzFkOHdVdG9hWGlaWmEtaGM2dmlveGVCODZDY3FiYk5BeTFaLW5QeF9FVGxPQmdBOWwteEc5bjFZMTh2d0I2c2NCVm94VTlHT1M1REhIWU9WeTJReTFRV3ZfWm5rc05EUWFjLTN2dHhETE1pWXRNWS0xOFZ0dw?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
    "title": "Chart of the day: Gold is in trouble and things could get a whole lot uglier",
    "source": "investingLive",
    "time": "2026-11-02T06:58:12Z",
@@ -293,13 +360,12 @@
    ]
   },
   {
-   "title": "Nearly 1 billion oil barrels drained from global inventories since Hormuz disruption, ADNOC CEO says",
+   "title": "World's energy supply buffers have been eroded, ADNOC CEO says",
    "source": "Reuters",
    "time": "2026-11-02T06:38:00Z",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVFJFQUd0MGpUMUdubkFVLWwzTHgwWmc1dlhDMzBWWjVYVnJGbTFiTndMWk9IclpjVWljUWlGTy1xUUN3VVRCLWRNeFluRGxQc3dFek52dVhvMU4zTGwtRDJtZWdDRnJRRFd4eUZiWDQtUnpkeFFOc1FRb1pJQ3BQNmptTDdKa0FWek5zSjdQcC1IcUZMTk1xNzdFQS1mQTd2WW11MmlGMTBIMmhyYURMVjltNmVWNi1Bc0JTLXhnTGg5TXk3YzYtb3Y2VQ?oc=5",
    "tags": [
-    "GEOPOLITICS",
-    "OIL"
+    "GEOPOLITICS"
    ]
   },
   {
@@ -357,21 +423,21 @@
    ]
   },
   {
+   "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
+   "source": "The Guardian",
+   "time": "2026-11-02T06:02:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDhvX2xGYnlvdnVKRUNuWFpjdW1xNWJvc3RsczhNdUd1YmtUX2tsc2cteG4xaDZqTEt3eG5PSjU5UUdNVzlnNXc1MlFGVG5xQUNaNjEwZlBrR2h1SlYwdk5xX0wzVlN5NW5NS3RsU1NsY0ZoaUZ3VnVUdWlHZTE5RzZlQzJhS3RreWYwSzhkbEh5WXlURUR6akdIdWpsMnloNnlN?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "Iran killed her teenage daughter - now she is facing up to the regime",
    "source": "BBC",
    "time": "2026-11-02T06:00:54Z",
    "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
-   "source": "The Guardian",
-   "time": "2026-11-02T06:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDhvX2xGYnlvdnVKRUNuWFpjdW1xNWJvc3RsczhNdUd1YmtUX2tsc2cteG4xaDZqTEt3eG5PSjU5UUdNVzlnNXc1MlFGVG5xQUNaNjEwZlBrR2h1SlYwdk5xX0wzVlN5NW5NS3RsU1NsY0ZoaUZ3VnVUdWlHZTE5RzZlQzJhS3RreWYwSzhkbEh5WXlURUR6akdIdWpsMnloNnlN?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   },
   {
@@ -428,16 +494,6 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUy1qdGRmUlhla244NXh5a3lqZnZCN0QwUi1jWGI4ZUJJMDJ1NzhiMy1YUjlDeExSRUZkbUNVVzBwUHZkbUR1b2R3VWkyMWpnTlY5SnNQZjJSSndkNXk0M1pzVGpCemRyNEVpc2haNXF6c1Zvc3FHWTd5cDZrMWpWeWJxdGw0U0Z4bGg3eHBnOGxLcDVkbTVnRjBSV0lwbVdWVHFJdFNoNFRwUGIx?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold struggles to extend rebound above $3,900 as Fed risks loom",
-   "source": "FXStreet",
-   "time": "2026-11-02T05:14:17Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGFyd3hZNzhJVXNscmtPdC1XVDJXX3Q0YW9TN25yWnNudTRSR1NrM0EzeVF6TEY1TE1GMmxtRjBXMTRZRldUMkJpam5XdWp4UTlqNjExQmdpSTZUNkoyUmpjU0F6MWRnMEN0NWVEbDRhNUtqUW5Fb1NQTUpqcUUzLUlyX3pVQkZnWEUxVDFOcndYaEhZYWtEZEZpbzZkYVJrNFltb3pQamNlOGpWSTZ2bkExUkdhSmFkamF5N1JCUkFfX1FlNzUzMzNuSQ?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
    ]
   },
   {
@@ -622,61 +678,6 @@
    "source": "NBC News",
    "time": "2026-11-02T03:29:54Z",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Barrenjoey Markets Adjusts PDI Gold's Price Target to AU$6.25",
-   "source": "www.marketscreener.com",
-   "time": "2026-11-02T03:16:13Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQamlZUjBNY2pjbzdxQzBlUHNDQURNSy0weWNvb29BUnFQTEEwOUFPZktOTExyZkNadzlscFB2OWJNYV9CUllKYnMzT19SVlJ4a2JBWVVoTnMxaXl1QXZWTlRidTJ0bkRVU0F4ZXFlbkpHdTNuLWd5MEg4d2ZtQjZEdDduc3RnaklfUVpuV3FRZHIwOWx3Uk1PSGp3bXlwYmV4aVp0MC00cDdyUzNBQTZBd0FoMlQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold and Silver Forecast: Rebound Faces Fed Hike Pressure",
-   "source": "FXEmpire",
-   "time": "2026-11-02T03:13:18Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUZNbXdwelgtY2FSSFdrYV9iSUhpaWpsVHJjRzJjeThlY3BCT1pTQ0lIMm9NcWRKQ1lGREdYbUNqd0JxR2tYanlPNjFaWXBidXJLTVN2Q0FJak1hRUV5QUFMS1dDQ3hWeW9HbTZncDhHMlA3MGN0amJmVExMTHd4Q0M0ZENqWmZVUFFYUTB2WmRfRGtDdUhDTzlzeXMzWE04QlcyeWNXRlkxaFE?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends",
-   "source": "AP News",
-   "time": "2026-11-02T03:05:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmJHM1BrS0RMNk5BS0hac0VyQjZTSkdPbmlGdkZ6bGJiUGF2dkJuZVFhNzNTaUNhNU0yOXRyUGVKZU42dE1PZzBMWjNFY3hOVTBfSFRkc0lCclpXZ0xCLVhrRi02REF4b25JVEZFeTFDc2tQSnVsTDNuNVVjeHlEdG5zaXB4ODRDSUYwcWtQZFF2THR6eVNjQUZvUElmd1VwdWNDbVZjVQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "As Kherson’s ceasefire ends, residents prepare for attacks and hold on to hope",
-   "source": "AP News",
-   "time": "2026-11-02T03:04:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMjh4TnB0ajlYYVVJYnhNR1gweEJLOTdZS041dE05MGtNLTV5SmltNmotWEt6YXREdTBpMFlVVU1VSEFxZ2RuZlBDZGR0LVJpZXVTU2hRbDVUOFFjTGxKZnh1aEJPMGNubFJ1VUxoNjdOYVU2bG9nMDNIUTBnNERSRTZQVU45eHcxV1MzX0VWSm9HY0RvUFNwVmV0dmJSTVB6Ym1xUGl2Qkw4LV9OcWNtSWVOMzFfUmRkNS0xMmktVm5hZDc0eTV1dTRobDlLODA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Indian shares rise on Iran war talks, Reliance earnings beat",
-   "source": "Reuters",
-   "time": "2026-11-02T02:42:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRV9nWF8tcV9tRkNYTENXRnRyTDhkcnRoZEJmMFJ1Wm1USDJwbDNxcEFuU0xNbE9JSnRJb2xScTBmWWVpZWJ5SmlhXzdBajNuSDhnOWdULWQ4UUZ2T3RRdjhpNWxZb08tcEQxR01tdks4dkhLTUN1WjJiZVFSa1JCbHBRdGVsZVZqNzFoQ2ZDdF9zbE9MeUlvRHhzZGRRM05SeGxlaFB1MFZjWVB3TVZjbTBfUlprRTZ2eTA3bFBFQVpLdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes",
-   "source": "CNBC",
-   "time": "2026-11-02T02:39:35Z",
-   "link": "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html",
    "tags": [
     "GEOPOLITICS"
    ]
