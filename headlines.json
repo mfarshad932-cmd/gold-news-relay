@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T15:27:09Z",
+ "generatedAt": "2026-11-02T15:55:41Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 9
+   "kept": 8
   },
   "investing_news": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 20,
+   "items": 19,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_tariff": {
    "http": 200,
-   "items": 16,
+   "items": 14,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 42,
+   "items": 40,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 8,
+   "kept": 8
   },
   "gn_oil": {
    "http": 200,
-   "items": 1,
-   "kept": 1
+   "items": 2,
+   "kept": 2
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,12 +126,40 @@
  },
  "items": [
   {
+   "title": "Crude oil dives to session low on Iran peace talk hopes ahead of midterms",
+   "source": "CNBC",
+   "time": "2026-11-02T15:33:47Z",
+   "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
+   "source": "CNBC",
+   "time": "2026-11-02T15:28:46Z",
+   "link": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Canada Manufacturing Sector PMI Slips Into Contraction Territory",
    "source": "WSJ",
    "time": "2026-11-02T15:17:00Z",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSWhaY1VsXzV2dVN1aThNeXpSLV9DNVllNTh4NWhwT2k4ZGlsc2xtV2tLdG1VUkVlczk0YmwxWHBLQjQzWDByWDFpai10cXdfYXo3UlV1NWVNRnRtLTZlQkRUWURmNkYtTEdqVWlpeGJSc0Jhc3JXZVA4NHp6eEpFeW5mekQ1b28yMWRZc01qMmtuMU52TEhBOEdSLUV0TERzTXZj?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Iran says contacts over ending war continue after talks finish with no breakthrough",
+   "source": "Reuters",
+   "time": "2026-11-02T15:15:24Z",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -145,22 +173,21 @@
    ]
   },
   {
-   "title": "Canadian manufacturing contracts for first time in 2026 as tariffs hit demand",
+   "title": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks?",
+   "source": "Al Jazeera",
+   "time": "2026-11-02T15:00:08Z",
+   "link": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Canadian manufacturing contracts for first time in 2026 as tariffs hit demand By Investing.com",
    "source": "Investing.com Canada",
    "time": "2026-11-02T14:52:54Z",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMG1qTXNkcDFKS04tRWVzU0kyWHVCeDlWVXV0MExSTW1LWWJFUXdFLXVPLVlJQU82TWtpdmtGN1c3eGxCY3ptcjJ2b05GNEFwYk1JU2RvR1EtTjhtYXlDam03Mk91Z2JUOUJST0VzSlJOVnNfZldQZjl1N18xOUNuM1ZNWFg4bUw1ZFZCLXZsTWluWkRybVQwM1Utbk5pM0JzV0V4eFZqU0hhOG1CbTYwQVNRNWpPTkJMU3pGUkgzM1RvX0EwU05n?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Crude oil dives to session low on Iran peace talk hopes ahead of midterms",
-   "source": "CNBC",
-   "time": "2026-11-02T14:52:44Z",
-   "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
    ]
   },
   {
@@ -320,24 +347,6 @@
    "tags": [
     "GEOPOLITICS",
     "CHINA"
-   ]
-  },
-  {
-   "title": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
-   "source": "CNBC",
-   "time": "2026-11-02T13:57:39Z",
-   "link": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran says contacts over ending war continue as talks end with no breakthrough",
-   "source": "Reuters",
-   "time": "2026-11-02T13:53:43Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -665,15 +674,6 @@
    "tags": [
     "FOMC",
     "FED"
-   ]
-  },
-  {
-   "title": "A Hard Winter Is Coming in Russia, Too",
-   "source": "Bloomberg",
-   "time": "2026-11-02T10:59:14Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcWxlbjM0Y1h2X3l4SmVMcDFLUjJ0RTUzTWpoMUFSTzlKSXJ5N2J4Wi16SkVJSWZmZUU3RkpKUFBCM3N4ak1mVFpkUThkbUNtSWg3XzhXVkxxaGRudTJ4c0pLbkwtZEMtak02Q19BaWRhOVgzQWlFMXRKN08wSGZiVThoc2NqRHBxNkRZSTNOa2czNGZpMWZUVHV0OTdrOVFkVDl2VGlTT2huSG1jODY4TUpn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
