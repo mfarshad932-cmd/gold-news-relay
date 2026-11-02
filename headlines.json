@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-11-02T09:17:06Z",
+ "generatedAt": "2026-11-02T09:45:27Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 0
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -20,8 +21,8 @@
   },
   "ecb_press": {
    "http": 200,
-   "items": 14,
-   "kept": 0
+   "items": 15,
+   "kept": 1
   },
   "bea": {
    "http": 200,
@@ -66,7 +67,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 33,
+   "items": 31,
    "kept": 4
   },
   "aljazeera": {
@@ -81,7 +82,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 15,
+   "items": 16,
    "kept": 12
   },
   "gn_fed": {
@@ -96,7 +97,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 49,
+   "items": 50,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,18 +107,18 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 4,
+   "kept": 4
   },
   "gn_oil": {
    "http": 200,
-   "items": 1,
-   "kept": 1
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 1,
+   "kept": 1
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +126,61 @@
   }
  },
  "items": [
+  {
+   "title": "How Arab Gulf states view Trump's Iran war plan",
+   "source": "NPR",
+   "time": "2026-11-02T09:40:30Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOanpORjgyTjl2b3VzVmYtbXptVlhQeG55RDBicnd6OTlqVkUwd2REc092WUtwNmpTT0UzQ284ZENyQVc0LTA3aXhjUm5lOUdBUkx1bklTdU81SVIybDBiT2RFaGZzbkQ5TzZJZXdwdzZsQmd0MUdSa1Z2ZnduSjhtZm16NW0zV2RjTVpSR3JCS3I1VWpxWFE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ukraine says Russia used Oleshky ceasefire to reinforce positions",
+   "source": "Reuters",
+   "time": "2026-11-02T09:32:02Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlJhblpJUzZ3RGRyak5uVjBUZGEzd3JGWk9NaHZlV3FCd2ExX0NfaWtQaHdFamxBbk12UVRzMTUyRV9uZE1qMGlyNVFER05IRFhuWUZfek9YTEJLQ0Q4X3R1c0Y0UjM1Vk1GcFBYMmczbW85OEY4eVdVY0lpZnBGZ0ExZmN2S1ZVVkRwcTdyVjdxYU53OHBwWEZzV0xBbUoxMXQ3aUdzdzBrUklvdGt6bA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+   "source": "ECB",
+   "time": "2026-11-02T09:30:00Z",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+   "tags": [
+    "ECB"
+   ]
+  },
+  {
+   "title": "Treasury yields mixed as oil prices tumble ahead of the midterms",
+   "source": "CNBC",
+   "time": "2026-11-02T09:27:17Z",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zeUV1S0FMQzdjaTU2S0djZmVVMjNSZ0hKMGdGdHpjU1p3NEs0ckRaNjJlemVySWtTeWZGMkNraWVmR1F5Y3RjUHhxZkxiRlpRXy1UY1VTYm9fWm5WTzhjRDlWOENzazhrWGhkZW130gFzQVVfeXFMUDNESWlyVGRXTEFHaHJxSFp1YXNkeWlQNkk2cXU4eG9maHROb3lZdzhMRzRJOWptcGF4bjZNZzlkTTE0cERiQ25vMGh1MUpvRGFHd3pMaE94N2dCcENocHJ3QlhVLWVlM1dpemVmV2QtWWhidw?oc=5",
+   "tags": [
+    "YIELDS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "A brief ceasefire opens a perilous escape window from Kherson’s riverside kill zone",
+   "source": "AP News",
+   "time": "2026-11-02T09:19:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUE11WktqcXU3TzJzbEFoUmcyRFpYeXVxQVBYb3o1R1QyYTBpOEw3NEhnekZXMGZGT1E5MjJBVUExOFRFaTBkRjR5bFQ0dUxTVzlOMy1zemY1MDREanNpMzNkV2NXUDhjUGNycUxrNURJUHFUOUhxN09JWWhJeU8xeVBJV01NUW1vaFdSR0hWM2R5ZnlpLTdFZDBzZG1vUUp6clJXSV9oa2ZWUGRTeUh6d0xiWl85X0dqQ3JrRFI5U3F0SmRSVHF5MXJicXNHVWtiQU9OanFXQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "What is all-in sustaining cost?",
+   "source": "Mining.com.au",
+   "time": "2026-11-02T09:17:49Z",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVSFNYNk82VXVZR3FaeV9fay0xY0xqYnphdGRjekVpYk5fcUczYXJVOXpEQkVkb2owdnJwR29QZmpoXzR6REdHU056WmhnaDdCUTZxZ3lza2dKNEhwUnJkc0JJdw?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
   {
    "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
    "source": "MarketWatch",
@@ -137,7 +193,7 @@
   {
    "title": "Trump said weighing who to scapegoat for Iran war as he clashes with PM over renewed attack",
    "source": "The Times of Israel",
-   "time": "2026-11-02T08:48:35Z",
+   "time": "2026-11-02T08:48:45Z",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDRueUpBNnN2U1pSVWtjbmN3N2FtRHpPTGo2dWJ2R0VSWThJT3dZMzFWMHFIRU9rOEtQRlhUa3JBS2hhSkJnaDdoWlduZkpEN2EzLXVaampuc2loNnpBQkM1NzVxWjE3aDA0bFZiMm5tX0kwYXlrYWg3OVZQaWdpUWxOQ3ByaVBQVUJpWHlURm14SVY1ZndUMXFGemNJUW9YQ1puU1dLUG1mdDR6bXQxX1VoWHg4dmwwOHBsSjZCZ9IBxAFBVV95cUxQSVhhcVk5Ym1RczJzSnZVbGdGcFVVazBoTVBNLVFFb0NOR3hvcnJxRFdkYVhsd3M5ZnJ3Ym5XVVZMSXVGX0Z6bmZJSGl5eGNwXy1jRTFGejJUN1BZWGN5LWNKdVduUDN4UVpjcWVtSVRZb2JQVGF5dndaczhfTXFDYTdmNlJsR1NsZER1RjBOOGNWME93a3lWV19oT3RKNWNHOFJTMnB4UDk0YVM5R0NOMVEwMWJ5Z2RkNldOUVFEZWp0dXE2?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -162,11 +218,12 @@
    ]
   },
   {
-   "title": "Gold trims gains; trades below $3,900 despite weaker USD",
+   "title": "Gold trims intraday gains; trades below $3,900 as Fed hike bets counter weak USD",
    "source": "FXStreet",
    "time": "2026-11-02T08:19:56Z",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGFyd3hZNzhJVXNscmtPdC1XVDJXX3Q0YW9TN25yWnNudTRSR1NrM0EzeVF6TEY1TE1GMmxtRjBXMTRZRldUMkJpam5XdWp4UTlqNjExQmdpSTZUNkoyUmpjU0F6MWRnMEN0NWVEbDRhNUtqUW5Fb1NQTUpqcUUzLUlyX3pVQkZnWEUxVDFOcndYaEhZYWtEZEZpbzZkYVJrNFltb3pQamNlOGpWSTZ2bkExUkdhSmFkamF5N1JCUkFfX1FlNzUzMzNuSQ?oc=5",
    "tags": [
+    "FED",
     "USD",
     "GOLD"
    ]
@@ -506,15 +563,6 @@
    ]
   },
   {
-   "title": "A brief ceasefire opens a perilous escape window from Kherson’s riverside kill zone",
-   "source": "AP News",
-   "time": "2026-11-02T05:09:00Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3kzM01FTVZSOElRZGZMbmdPQWNodU1Jc0NGNDV3UDFNYmxQUzNQbFVuMnJ6N3VudWd6RE5LRWpGYVVrX20zeXF0YlZNQ2pCejZTX2hSSkR6emVhMXh6VWN5MldYRUk0T1VTR1dpaW9ubGptM3BoMlN5d3NOOTJVTnJWb2ZhNThrajN0Ykt3eG1ocWN1V0NFdHhCUEM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Hypersonic missile start-up secures funds to boost Europe’s deep-strike capability",
    "source": "Financial Times",
    "time": "2026-11-02T05:08:49Z",
@@ -630,54 +678,6 @@
    "source": "Bloomberg",
    "time": "2026-11-02T04:10:00Z",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM1J2V0k5WHdoUTRDaThzZW0wQ2Y3bERPMkpSZWFRejBvak9KclJpUi00emtrWHpQaTFobkhJWmNTSWctTmZVN1RPd2d4QndEN0YzcTlCZTVFeWtfblhhUmhhb0d2UDdmejlCT2xvdzBhSGhNNWxTdE8ydllBdGtmLVhJTFBkOWdqRzhqSUxHcE5vN1J2TG1VM25DM2w5VUNGcnBtdkR0djE1WnpnaTVySG5wWDE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold’s slide to one-year low: margin calls amplified a fall driven by Fed hike bets",
-   "source": "investingLive",
-   "time": "2026-11-02T04:09:57Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS0syUl9vOVgwY3lBT2tZT1F6bzIxU3V5cDJPX2UxYnNtSWcxb096clo5Rk0yc1lLZW54LUlla19aSkVxSURDTFVEZGlhdmVHSi1HS3BKZlhoTzhrd3huS0l2c3Fmc3Q4RXNkQXpXMlY3cXRKQVk5WVExRTVHSFRueFdXQWRIemhTaGNfelBsZlpNYUFHVW5BTkUzM2ZYMjczbnR5ZTlZVFdOalktN0VPYkI2TjNseEJ6X1NMazVn?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
-   "source": "BBC",
-   "time": "2026-11-02T03:58:38Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Countdown until US midterm elections are over feels like waiting for war with Iran - editorial",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-02T03:58:07Z",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KRGFHVjhuU1FqNTZFb2tVTlV3bGQwUXZtVXQ1OGE5MHlXTlFneGhMV0szd0FJZ05NWVoyX3BMNVRXUkttMDZtbU53TjUxbG5WLVVVdlJwSQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Price Forecast: XAU/USD recovers modestly as oil prices decline, US elections in focus",
-   "source": "FXStreet",
-   "time": "2026-11-02T03:37:47Z",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS1c4Ui10WDBxa3JVdzltc0U1WlZaUWJXOS1hSzBtS1V4RUw5UklUQkVNYWRoa0F3VUtqc1d6TkliRzdWbnV3S0F2STVlYmtKYzM4bjItVUhnQ0lPbUdZbEtjSHlOZVUwaVROczJhb2pVcXNDX3ZQQTRqVVc0YWJIQ1FCWk5mS24tMmxGTU1jbXRnUmhmTWZGYTJDcFdSYXNBM3ZIYkJEdnZwUUExNUxReG8xMUJjWGFjSDVHd1VTQ0lZUlJfRnBrTDR1SlU2UWg3RUE?oc=5",
-   "tags": [
-    "USD",
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-11-02T03:29:54Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
