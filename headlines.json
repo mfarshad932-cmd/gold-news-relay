@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T19:14:39Z",
+ "generatedAt": "2026-11-02T19:43:00Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 8
+   "kept": 7
   },
   "investing_news": {
    "http": 200,
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -91,23 +91,23 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 12,
+   "items": 14,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 43,
+   "items": 44,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "gn_yields": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "gn_oil": {
    "http": 200,
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 5,
+   "kept": 5
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,70 @@
   }
  },
  "items": [
+  {
+   "title": "S&P 500 pulls back as tech stock losses outweigh cooler oil prices ahead of midterms: Live updates",
+   "source": "CNBC",
+   "time": "2026-11-02T19:42:29Z",
+   "link": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+   "source": "BBC",
+   "time": "2026-11-02T19:37:10Z",
+   "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump to Axios: \"No rush\" to decide on restarting war in Iran",
+   "source": "Axios",
+   "time": "2026-11-02T19:35:15Z",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9acUtzOGtfVzNfclh4d0FCZTkxeGxvdkNsalhvWUdZM1RWemZLUVEwZV9BR2oyay1MTEpxUTh3a0ViUHlOa3FxVjdJQ0hVWEt1VmdRYU5GOUVXOUd3VXJ5OFJMNjJaT3ZtYURFUnlQMzcwTTZ3SnRmU3RXOXVpdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US Equity Indexes Rise Amid Sinking Crude Oil, Treasury Yields",
+   "source": "marketscreener.com",
+   "time": "2026-11-02T19:28:27Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMjdCYzE1UVRxbTVUandkcThrX2N5VVVXRHo2eUFZVm5mek1Ba2N0bWdmRjAwRnUzTHJuNVMzMlkzUU9jdHlzWTBqdW02ejJ3MDhPWGsxOFJxT2NkbWtmU1c5alNWR2pRc1lhQlFUSG9nOUl2V0hOS3dxLU54QWdRVlVjZk9NSzFCeFNMNXhZNGJyUFFFSmIydGtUUnpTXzZvMWROdzYxdDZBVUhDODM0Vi1ocnA?oc=5",
+   "tags": [
+    "YIELDS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "How soon gas prices could go down now that oil is tumbling",
+   "source": "MarketWatch",
+   "time": "2026-11-02T19:27:00Z",
+   "link": "https://www.marketwatch.com/story/how-soon-gas-prices-could-go-down-now-that-oil-is-tumbling-a1140dc2?mod=mw_rss_topstories",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Fed will vote on rates less often. What that could mean for borrowers",
+   "source": "CNBC",
+   "time": "2026-11-02T19:21:15Z",
+   "link": "https://www.cnbc.com/2026/11/02/fed-rate-votes-consumer-borrowing-costs.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Immigration, economy, campaign spending: We answered your US midterm questions",
+   "source": "The Guardian",
+   "time": "2026-11-02T19:18:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR1FEYnY2cWVUNlFqTFpZc0ZORWdMdTV3S3doT0JyRWR4ekNOM1VuZVdMSjlkZTZVR095aGpvTXdMQUpacGlHTDBNZnpCdXR1ZEZNRHpKSDdLM0w5dWZUSDVCMkxPdWZlb3psdnhYaDJTYXNybEJLWTAycUc1c0VvN0pvS0pLV3ZGTkI4X1g2aE92eERuZUZlY2tGYw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Gold Rebound or Dead Cat Bounce? $4,000 Holds the Key",
    "source": "Investing.com",
@@ -135,28 +199,28 @@
    ]
   },
   {
-   "title": "Stocks rise as oil prices slide before midterms: Live updates",
-   "source": "CNBC",
-   "time": "2026-11-02T18:56:20Z",
-   "link": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
    "title": "Iran pushing accelerated plan for ceasefire talks with US",
    "source": "Al Jazeera",
-   "time": "2026-11-02T18:56:15Z",
+   "time": "2026-11-02T18:58:56Z",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWXRvLUpqbi1FNFBLbTk4Y0lENWhacExyTXdZOGNvNENlYVd1WWdUWGpLdFBRQzM3S25GNUtNTUI2SEF3QVdrZFh1ZC11eDhUNEZfWVdNemhDazlUa0oxVEY2TXk5NmlGcVRNRFFMSUZwdlZYdVNTM3R0aVdYbFZVNmRCRzRZQ0FNMmFWMVBodFlOZzNhdUg0SEJacUNHTW_SAaQBQVVfeXFMT21lMjVQYV9jeGVYWTg0Rk5nWW5pQzg3MFhSS0NVRXUtQlBuNHcxUk5EQVVNR0FNY0NKalRuaFFrckpaYWhvY2s1NW5SeVZWa2ZVbk1XbVk2QUxhV1J6UmV6OU1JOEg3bV9JNkF6bnFzc0JlZVNBZDlsbTJoOHRnbDVWbUtsREpQQ0J0TW9JUGRfYUhzOHpHd3pLc1R3SF9naVNvZUg?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
-   "source": "BBC",
-   "time": "2026-11-02T18:48:00Z",
-   "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+   "title": "Don’t read too much into these midterms",
+   "source": "The Washington Post",
+   "time": "2026-11-02T18:55:38Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ3NIYldwbk13cjdqRTg5bEM2QVl6ZURuVlJ0djRFbUF2dzM5Mm9lSGxvYWozSWRkdURmOFNUOEdpa0NmUUVhWkJyTG1WLVozV3VndUl6cVc3Mk9DYWhsMHRacGJiSE56c0QySk9ZWU9wdEY1MWVYVnJlbzlXM3BELVA4enU5RWhkU0MwM3h2WjRPQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "How Long Will Europe Stay Silent While Netanyahu Seeks to Wage Another War?",
+   "source": "Haaretz",
+   "time": "2026-11-02T18:54:00Z",
+   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPaFlZeU53UklneWJpeDd2LWRidzZaZTVPbWQ5UkZYZkJXNENYUVJBZnZtVm9CZHBUanlnak53dHpBUllxOVQxZ1JyMkxKbjJoZDBoUmgzZFA2bmx0Mi1CTld4N3k2eTc4TXFMLXBYTTFSOFk5dFF3c2xTTFRIdjIzX0o4SE5tRE9EYkNRV3h3TGZuSjhCd3V3c3RNYS1zUE1Qa3ZVMjc2RmtZcEtWb2Vqc1lsTGRlY2laeWlYSFJseVRlQURBYzFkenktQ2VaNkQ0Y2ZLUkdqOGRxQWNpQ3N2ZlpFT3JFRFBnREZKYXl3Q0NyOS1nS19rZVhSbV9MYVRmYWhzVV9NbDNPbFVDbWxvTDNaU0dQRkN5T1ZSWGtLRQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -416,15 +480,6 @@
    ]
   },
   {
-   "title": "Fed will vote on rates less often. What that could mean for borrowers",
-   "source": "CNBC",
-   "time": "2026-11-02T17:03:07Z",
-   "link": "https://www.cnbc.com/2026/11/02/fed-rate-votes-consumer-borrowing-costs.html",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "title": "Ukraine: Russia used ceasefire in occupied town to strengthen positions",
    "source": "The Hill",
    "time": "2026-11-02T16:59:00Z",
@@ -624,62 +679,6 @@
    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQX3IxM2F0Tld2anJ3M2pzb2xHa1lHUGtlU2l6UGt0amlfek9HN0lOd25sb3JBZUgtRHdYSHVtLWlacWhVNVNZb2VpSjlHd3h3MWxEX0hGLWxtYWdGU1FtSU1pYWFER3BBQXhaTXE1a2xEeXprUEtuSl9jeVEyekFoQzl2WnFpT1FhUU9GUk1jUmpzb0RmdTdnbUJXdml0YlpuSi1IUkcwbmx6UW1VbEJNeHF4NHRDbUtGUTV0emhxYzRtNzJKa0NRTW00NW9ZWk5McUQxTXRlajRDOVlYM2pUZEFqaEU3aUh4WE5xREFHVUR0YmhNNlE2ZmxLb3ZzU3NfM3Y5dlR3?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Iran says contacts over ending war continue after talks finish with no breakthrough",
-   "source": "Reuters",
-   "time": "2026-11-02T15:15:24Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "‘Who picks a fight with Canada?’ Trade war angers Alaskan businesses ahead of U.S. midterms",
-   "source": "BNN Bloomberg",
-   "time": "2026-11-02T15:12:14Z",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMm42MldqckQzN0FWWmZFbHdNT1E2aWpDUmQ2QkVjVDI3Z0pJSEdnekV2M3pnRTNsdHpIalE5dmV0aGoxc1pmZkIwSV9HNHJYRVZzY0F6ZEdtMUxaNm1tSHM0aldyYnNCSmNtc1VXQVVnWGZ2V0tXX1BzbFUwVnJOVEd4ZXpKN0FrdkwzcmdwMWF0NHEydjhTTFlEbU45SFJQUXI1Uy1wXzh5VU5yN20tYkMwdmRjZ2puSEFvVUxhU016cEhjQnlLSEV0NVR1alU?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold's recover hits a wall as US manufacturing heats up",
-   "source": "Kitco",
-   "time": "2026-11-02T15:10:18Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXp3bkRBWUpmdnpob2ZVVGItUVVXRHBXcG53S0JMeDQ3TUdNNlQ5VlN0ZVZxcFBGdzlvRnJIQnN3d0tDTE5UYndJc1V0NFBVUEtxZlJkX1JnSGxzSFhaS2NqMEs5cExDd1otMW5wd2NMUmszbUFDSDJLYXljcXprSC12dGQ0Ml9icndjbDZfYWxIRTFWMC1r?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold: Lower Real Yields Offer Support Before the Employment Test",
-   "source": "FXEmpire",
-   "time": "2026-11-02T15:06:47Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFJfcGg3UHdwRzhMTU5QZzNqUW1tRlVFNzBIX0dNQnpWaUx2MmVCT1JQMmFhZTNGMlB6aDJOQmZnSVpPUUdZN3ZKQTlPMjRJUDh3WWJZU3p0UW9QNlktRVV5cmtHcWxKc1Bqc01aMjZTd24tOEkzaU1EREppMUlzUmI2d2NVSTR4MV9IZDdvdV9CWmRkM2Q1c0dPeEEwSUhraURrWFlTQ3l1MDRscTF0VkNKREU?oc=5",
-   "tags": [
-    "JOBS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Lessons from The Forgotten War: 70 Years Since the Sinai Campaign",
-   "source": "The Times of Israel",
-   "time": "2026-11-02T15:01:00Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY05LRnBiYkEza2NMTGVmaTZnemhTcWFGamUyTW44MWxhblBmVVZucFJTVmVYMmwxd0ZIbkd3NEpwVFZkWkQ4aEo2dzBiOFZ5eml2TE1xWTdXeGNodElMZ3ZueFJLalI5djZLX192MmctdDJDZ0JOZGRad0pKV3IzMmpPamRLTlh2V1ZSMEgyTzVzc2xFc05TZ1lHN01wdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks?",
-   "source": "Al Jazeera",
-   "time": "2026-11-02T15:00:08Z",
-   "link": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
