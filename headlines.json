@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T11:10:20Z",
+ "generatedAt": "2026-11-02T11:38:50Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,12 +52,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 2
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 3
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -86,17 +86,17 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_tariff": {
    "http": 200,
-   "items": 12,
+   "items": 14,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 51,
+   "items": 47,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,18 +106,18 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 1,
+   "kept": 1
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 2,
-   "kept": 1
+   "items": 7,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,24 @@
   }
  },
  "items": [
+  {
+   "title": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
+   "source": "CNBC",
+   "time": "2026-11-02T11:18:37Z",
+   "link": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "How oil prices could average $130 per barrel next year, according to Goldman Sachs",
+   "source": "MarketWatch",
+   "time": "2026-11-02T11:14:00Z",
+   "link": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
+   "tags": [
+    "OIL"
+   ]
+  },
   {
    "title": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
    "source": "CNBC",
@@ -353,6 +371,17 @@
    ]
   },
   {
+   "title": "Gold bulls seem hesitant below $3,900 as Fed hike bets offset weak USD",
+   "source": "FXStreet",
+   "time": "2026-11-02T09:01:44Z",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGFyd3hZNzhJVXNscmtPdC1XVDJXX3Q0YW9TN25yWnNudTRSR1NrM0EzeVF6TEY1TE1GMmxtRjBXMTRZRldUMkJpam5XdWp4UTlqNjExQmdpSTZUNkoyUmpjU0F6MWRnMEN0NWVEbDRhNUtqUW5Fb1NQTUpqcUUzLUlyX3pVQkZnWEUxVDFOcndYaEhZYWtEZEZpbzZkYVJrNFltb3pQamNlOGpWSTZ2bkExUkdhSmFkamF5N1JCUkFfX1FlNzUzMzNuSQ?oc=5",
+   "tags": [
+    "FED",
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Eurozone manufacturing PMI holds up in October but rising price pressures give the ECB another headache",
    "source": "ForexLive",
    "time": "2026-11-02T09:00:30Z",
@@ -380,6 +409,16 @@
    ]
   },
   {
+   "title": "Gold Weekly: When the Safe Haven Becomes the ATM",
+   "source": "Investing.com Nigeria",
+   "time": "2026-11-02T08:30:07Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTEh0LUk4cHhwdzJsZ1dZWUdOUVdkZW9uUkpReHROc1pwVVJ3M2ZtZ0hEdHhZSkxBVThtQl9kbmV3ZGkwRkJqcmdZLVJ0MkZuQS14VnFyeEY0YVY5UXA4MC1Uak1NeDNaVjd5T3doVm1UbGhqRWI1aEVFaFdsMkpqVkFqWDAxN2pPVkV5WnE0RTlxUQ?oc=5",
+   "tags": [
+    "CENTRAL_BANK_GOLD",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Trump Says He Would Have Won Vietnam War in a Week, Mixes Up Cities",
    "source": "Newsweek",
    "time": "2026-11-02T08:26:00Z",
@@ -394,17 +433,6 @@
    "time": "2026-11-02T08:22:00Z",
    "link": "https://www.investing.com/analysis/gold-at-3885-is-the-precious-metals-selloff-nearing-exhaustion-200690668",
    "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold trims intraday gains; trades below $3,900 as Fed hike bets counter weak USD",
-   "source": "FXStreet",
-   "time": "2026-11-02T08:19:56Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGFyd3hZNzhJVXNscmtPdC1XVDJXX3Q0YW9TN25yWnNudTRSR1NrM0EzeVF6TEY1TE1GMmxtRjBXMTRZRldUMkJpam5XdWp4UTlqNjExQmdpSTZUNkoyUmpjU0F6MWRnMEN0NWVEbDRhNUtqUW5Fb1NQTUpqcUUzLUlyX3pVQkZnWEUxVDFOcndYaEhZYWtEZEZpbzZkYVJrNFltb3pQamNlOGpWSTZ2bkExUkdhSmFkamF5N1JCUkFfX1FlNzUzMzNuSQ?oc=5",
-   "tags": [
-    "FED",
-    "USD",
     "GOLD"
    ]
   },
@@ -491,15 +519,6 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGUwUW9rQ2ZHNURiZzhMRDEyQXVMUkQ0c3dreUlKakhxR2JRTzV1dUlKWm9KbWFqd3ZRVWF4Qk1rTi1jdDBSZm9aRVNFd1hOVlI5dUJSTTdKbFUtSGw1MGFac1pWUXUtcFRzd282c2RMdXh0bW12WUJnVUlkdDE2RllDTy04NE92aDlvTnBXaHBTSkVHVmJncUV6SkE3emxqbHZSX25FTTZFaGVhWm52QU1HbzdaYjNfRTQ0RnBzWkkxQmtEN0JtWA?oc=5",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "Gold Weekly: When the Safe Haven Becomes the ATM",
-   "source": "Investing.com",
-   "time": "2026-11-02T07:10:00Z",
-   "link": "https://www.investing.com/analysis/gold-weekly-when-the-safe-haven-becomes-the-atm-200690661",
-   "tags": [
-    "GOLD"
    ]
   },
   {
@@ -615,6 +634,15 @@
    ]
   },
   {
+   "title": "When Support Gives Way: Gold and Silver’s Friday Showdown",
+   "source": "Investing.com",
+   "time": "2026-11-02T06:25:00Z",
+   "link": "https://www.investing.com/analysis/when-support-gives-way-gold-and-silvers-friday-showdown-200690652",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Atlas Elevators Announces Financial Impact From Electricity And Water Tariff Adjustment",
    "source": "TradingView",
    "time": "2026-11-02T06:16:00Z",
@@ -648,33 +676,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran warns new war with US could last longer as Trump threatens ‘the hammer’",
-   "source": "South China Morning Post",
-   "time": "2026-11-02T05:58:52Z",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQWJ6R2RKbHV0dTBfd08xMU9MSE4yVlVCV1huRDZaT09FTXU5cTdtZFpWcGtGcnZJVzNDUFJQb04yaXluQmR4M3BlcVdkSFpodk1oemdhU1Y3ekNYSEFjX0htYTVra0xzRS1BM0gzZlZQcjdEbDJFTXZ4YnRheXlibHpTbEQ0Q2RZZFJkMC1pLVAwS015RHF6ZldOTWszemoyZkRnMWk3NnRYb3VxNDFfdHczcVhVRllocGpzUzA1bGVueEF4Yk1aclhiZ2EyUlRKandDeEthTHRYNlJKUUZRNENDbngxMEU?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
-   "source": "Al Jazeera",
-   "time": "2026-11-02T05:52:56Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmhPRWdMd0h3RkJOUWJLdUdMZk4xN1VvR1RVS1pRaG50MzJUYWFvYnYzS3h2WlBwZGFpYjNid3dMcHVhZWNpbFVSa0VTWTdITEs5T2Y0dWpRckJBOUtGWXFDelRITE5NcUQ4RFZUTksxQ2dqX29lXzJJem0tT1pPV2lxcUloS0Q4RENLZWEyaE5YSEtpR3RyQ0k0eXpPSTNLZXBzNUFWRnRKZWpWcWZielhZakvSAboBQVVfeXFMTVNGdVRNRW8tWlZVOVJrVktvU3BQTjh5aVB3Y005Q3g0RGhSTlFZN2NfWTNINUJqT1B0WVVFWHRVQkJ0THJZaHdfNHNNclBUTVNhdHFJRlZhTVQ0Wk5vOTRncWxJUTBZWkdxb0FISDh4eXRMTTA3bEwtQ1pndzdZVlNFcTZYcmJZR2tLZ2lVaVZ3bURvejgxcFRSZXhYYkktU3Zic0l0ZldkWWV0ZlRoV3JpQzdwbWhOVVZ3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Alamar Foods Announces Expected Financial Impact Of Adjustment To Electricity And Water Service Tariffs",
-   "source": "TradingView",
-   "time": "2026-11-02T05:27:00Z",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSzNnQzlzNFQtXzE2NXFIanZaeVFmY1VNOUFzYzBsbURUTXkzTmVKZzUyUi1KekVpVjBfYXZZX0VkQ016dGFPbFRXalBNc0lIVkh5SktmMWd3WmlqbnphLVJiVzhoTktkaXJOeVBXbmtDOFNfcU5VU0RIX3NrUWhTYjFTMGJDeFBUX05fa1NVMWxzS2FKTjQ4bkFILW80dmtZbGhxN0FMOFAtWW1iS0VVVEZyeTFKX3p4Tm1mTGw4UzQxakZaVlpmdmZWZF9PTWNfUTdpQnU5aV9qSU02dTlPYnBUVmNIdkNCaUVoUWtCNlZyMHBUb1RlN3dscmZrejVoZ3lj?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
