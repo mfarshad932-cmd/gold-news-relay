@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T14:58:31Z",
+ "generatedAt": "2026-11-02T15:27:09Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 4
   },
   "bbc_business": {
    "http": 200,
@@ -67,7 +67,7 @@
   "bbc_world": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 5
   },
   "aljazeera": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 21,
+   "items": 20,
    "kept": 12
   },
   "gn_fed": {
@@ -91,12 +91,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 15,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 52,
+   "items": 42,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,8 +106,8 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 5,
+   "kept": 5
   },
   "gn_oil": {
    "http": 200,
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 1,
-   "kept": 1
+   "items": 2,
+   "kept": 2
   },
   "fed_calendar": {
    "http": 200,
@@ -126,10 +126,48 @@
  },
  "items": [
   {
+   "title": "Canada Manufacturing Sector PMI Slips Into Contraction Territory",
+   "source": "WSJ",
+   "time": "2026-11-02T15:17:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSWhaY1VsXzV2dVN1aThNeXpSLV9DNVllNTh4NWhwT2k4ZGlsc2xtV2tLdG1VUkVlczk0YmwxWHBLQjQzWDByWDFpai10cXdfYXo3UlV1NWVNRnRtLTZlQkRUWURmNkYtTEdqVWlpeGJSc0Jhc3JXZVA4NHp6eEpFeW5mekQ1b28yMWRZc01qMmtuMU52TEhBOEdSLUV0TERzTXZj?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold: Lower Real Yields Offer Support Before the Employment Test",
+   "source": "FXEmpire",
+   "time": "2026-11-02T15:06:47Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFJfcGg3UHdwRzhMTU5QZzNqUW1tRlVFNzBIX0dNQnpWaUx2MmVCT1JQMmFhZTNGMlB6aDJOQmZnSVpPUUdZN3ZKQTlPMjRJUDh3WWJZU3p0UW9QNlktRVV5cmtHcWxKc1Bqc01aMjZTd24tOEkzaU1EREppMUlzUmI2d2NVSTR4MV9IZDdvdV9CWmRkM2Q1c0dPeEEwSUhraURrWFlTQ3l1MDRscTF0VkNKREU?oc=5",
+   "tags": [
+    "JOBS",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Canadian manufacturing contracts for first time in 2026 as tariffs hit demand",
+   "source": "Investing.com Canada",
+   "time": "2026-11-02T14:52:54Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMG1qTXNkcDFKS04tRWVzU0kyWHVCeDlWVXV0MExSTW1LWWJFUXdFLXVPLVlJQU82TWtpdmtGN1c3eGxCY3ptcjJ2b05GNEFwYk1JU2RvR1EtTjhtYXlDam03Mk91Z2JUOUJST0VzSlJOVnNfZldQZjl1N18xOUNuM1ZNWFg4bUw1ZFZCLXZsTWluWkRybVQwM1Utbk5pM0JzV0V4eFZqU0hhOG1CbTYwQVNRNWpPTkJMU3pGUkgzM1RvX0EwU05n?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Crude oil dives to session low on Iran peace talk hopes ahead of midterms",
    "source": "CNBC",
    "time": "2026-11-02T14:52:44Z",
    "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "COMMENTARY: Asia's crude oil imports back to pre-war levels but refined fuels lag",
+   "source": "Reuters",
+   "time": "2026-11-02T14:50:28Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjRWdTdnRzAwR2xkSU04ZHlmbHh0eXg5Wm8xS1k5Q2hLYWRWbWdOVzd4ckZHcjZkYktZVHEyV29yQ25XNE9Ga0Y3TG5Dc3Awd054Y2o3MU5rLTNZNmRRTkZXVjdyZWJNYnM4bVczRU1RRmlqOW5JOVZCVWpJSXFDazBHWm5hUXhGb2FGS2xUN3Q5cFFQelVqazAxYXNDamdDZ0pINE5mQUE3VGhFdDcxZkZ4cUdSOFVQTWRsdXl6LXdMTUpIWnFLQ0VB?oc=5",
    "tags": [
     "GEOPOLITICS",
     "OIL"
@@ -145,6 +183,25 @@
    ]
   },
   {
+   "title": "Gold SWOT: BMO believes lower gold prices are starting to attract physical buyers",
+   "source": "Kitco",
+   "time": "2026-11-02T14:36:23Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSWI2VXhYZXJYRjE1LTVVaHd5bmg2QzA5RFdtTUd0UFF4eURFcmxNSlRkb3ptcEh4RGZXR25jSmwxbGNlOXllQXZHdk1JeVN1cHRCaHA2eHE0SXhDUXBjMXBfcnNLX19VN243RXo5Ti1PLUsxRXMzMGQ3d2d2LXpIY2dTdHdyMXBXX3h0Z1RkN2xMeXg1SVU5SmxXUGdsTWNXOThCb2NxQzFNaTdBcml0QjZ0Z3gyM2dyZEE?oc=5",
+   "tags": [
+    "CENTRAL_BANK_GOLD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Canadian factory PMI shows sector contracting for first time in 2026",
+   "source": "Yahoo Finance",
+   "time": "2026-11-02T14:35:15Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZlJyNFZsSE9XWG04UzFsaUNVQ0k4N0VxbzdvYjZKM2VsOGNHNVhLZzB5NVVoTzl4X05YUUtXSGhHMzFYdUpLMTJNeEdTcnFHZFBtLWFoZENONGhQeEdkbC1GMmhzTDlWZEtlUDZaV2hGeDFNaG9jcnZKd1hhVzF0QnIwa05KTWloWFFJbVlaajNaRGtmVXc?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
    "source": "BBC",
    "time": "2026-11-02T14:35:01Z",
@@ -155,7 +212,7 @@
   },
   {
    "title": "Iran’s Khamenei Gives Government Powers to Hold Talks on War",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "time": "2026-11-02T14:34:44Z",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ19KMnR3VkhXQVpwVGNCTkJWNnVlay0zMTFzMDkwMkRkRDQxc01Rb3dnVXdWWFh4Ri1iTHR6Ul9DWWdyZ21RMnhRRGJKRTN5MHN5N1RsMG41UDA4TDZuQnFhV3J0VHF5Q2JXa1BTYlh2T203RHFiMHFaX3E2cVJsaXVjbS13NjlyekNlNnkwMTNySHpXWTJ3UW9OcGl5VXl4eGZQWFlQQmYtMDNvRnFWRw?oc=5",
    "tags": [
@@ -204,8 +261,17 @@
   {
    "title": "How would Tehran respond if the US and Israel bomb Iran again?",
    "source": "Al Jazeera",
-   "time": "2026-11-02T14:17:31Z",
-   "link": "https://www.aljazeera.com/news/2026/11/2/how-would-tehran-respond-if-the-us-and-israel-bomb-iran?traffic_source=rss",
+   "time": "2026-11-02T14:24:32Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWpHWUZHZ1N3ZHppaFdQSUtWcHVIVGxRVUYzeERWNk1mTG1WRExjeVJQNW9kOENBd3UtNWtWTUdJZW5VZUV1VXUtckg4OXJ4R1BvcnRwdjdHQmpqQ2t3OElBVkNaR3VLakJCN2oyTWNlaXBfSm5ELTZmRnlFSlBOTVZNZlJ6aUlzem5SOFJLY1dTaTQyQU9rU1Z1WV_SAaIBQVVfeXFMTmdGYTllZVRpWXY5MnlmNy03Yk9zcEw1N1J3ekV1bEtMNW5zaGU3T1Y5OFdRR3FUYzJkUi0wZjk3TVZ2NVdocV9LZW5BSktWWGYwYTE3TzI2am9rWklnYWNIbnBhMVV5dVZHVlJHOVhmblB5WXRHcDMzdl9CUlZzSGEyOU5ubldUMWpfVUlPS2Jpc3JSemtCbHlkY3gzajFpVnZB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "What we know about the alert app hack in Ukraine and Russia",
+   "source": "BBC",
+   "time": "2026-11-02T14:24:25Z",
+   "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -220,12 +286,30 @@
    ]
   },
   {
+   "title": "TotalEnergies says Iran war could accelerate energy transition",
+   "source": "Reuters",
+   "time": "2026-11-02T14:06:26Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDNiSHhwUjBpRnJnUW4yZFM5NUp6QWlXOUJldXZ6ODRpZXdRbENpTFp3d2RJWG9tVVRTWXVzTDZQRjBLcXJOaU5EeWRBUTY2ZGJZQzJlaFVKaFJMckcwdkV2QTNSWFoyYkM4WFBlUEhwWThiS25XM2VObEJDalQyMmNLcmVPZXRBZmZNNVU3MWltVjRNNlZNcU1rcGFKLTNNWC05WDdhVGItRVpkTngxMw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "In the Russia-Ukraine War, Nothing Is Sacred—Not Even Air-Raid Alerts",
    "source": "Newsweek",
    "time": "2026-11-02T14:04:00Z",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNXlhcTFyQTZMZ2Zia3Q0dVNSdjNIVGdfanFGX2NRbVNnWXBEaVRYOHdnaFliYjkzLUlvTHF6Y3prQS1nUmdtYlY1ank2UkNrX1F4RUIxRmZGei1qZExRU0NGNE1PbGdEMlVBdE5NWTUwTl9GWGVCYWJyT1BCdXBfRENn?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Lutnick ‘driving force’ behind re-engagement with Canada: sources",
+   "source": "BNN Bloomberg",
+   "time": "2026-11-02T14:02:55Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlUtMWlLTmVGX1owcXRneWhlOXR4UUdHN1JjQlFpRWdhc00tUGVzNTllQm5JR2paVXdRLUxyRk9pakxxdS1YSFo0M2hHLU55SGUtYlRYdW5sekQtVVZtUFRFQ0dfMjVWWmlnX3JtT0ZqbkFnSWlrYmExQWl1eFg1NjdCaERyRVJYazRxZmpqaHZ6ek5YS25vR3p2VmF2RnBsTHh4dno0cFNKdjZ4TmdN?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -294,10 +378,10 @@
    ]
   },
   {
-   "title": "TotalEnergies expects Iran war to accelerate energy transition",
-   "source": "Reuters",
-   "time": "2026-11-02T13:37:43Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDNiSHhwUjBpRnJnUW4yZFM5NUp6QWlXOUJldXZ6ODRpZXdRbENpTFp3d2RJWG9tVVRTWXVzTDZQRjBLcXJOaU5EeWRBUTY2ZGJZQzJlaFVKaFJMckcwdkV2QTNSWFoyYkM4WFBlUEhwWThiS25XM2VObEJDalQyMmNLcmVPZXRBZmZNNVU3MWltVjRNNlZNcU1rcGFKLTNNWC05WDdhVGItRVpkTngxMw?oc=5",
+   "title": "Where things stand on Iran after tense weekend as its delegation leaves Qatar",
+   "source": "The Washington Post",
+   "time": "2026-11-02T13:32:48Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMThvQ0JEYkJsTEprQ2RTMkxsdktLem5EWDhZbEZWT0VGdDdHeTY4alBDQkV3akNIa3kyWDJTeE55Q3dJRUw2U05yTEZOdFhnM2VVVVUxS0s2Ti1ZNll0LVU5YjlZOXN3c3VhT2dEbXl1ejY4aEZGX2tYVlktbGlwZEt2UW1FQkNkVzhBS28weVdfVllFVndGRGVkNlJ0aDFENWZlTE9rWU91VVl4RDdITWY2MVR0aUNSandMdE1qMEoyYjVwMnRBY1VB?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -475,16 +559,6 @@
    ]
   },
   {
-   "title": "COMMENTARY: Asia's crude oil imports back to pre-war levels but refined fuels lag",
-   "source": "Reuters",
-   "time": "2026-11-02T12:17:37Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjRWdTdnRzAwR2xkSU04ZHlmbHh0eXg5Wm8xS1k5Q2hLYWRWbWdOVzd4ckZHcjZkYktZVHEyV29yQ25XNE9Ga0Y3TG5Dc3Awd054Y2o3MU5rLTNZNmRRTkZXVjdyZWJNYnM4bVczRU1RRmlqOW5JOVZCVWpJSXFDazBHWm5hUXhGb2FGS2xUN3Q5cFFQelVqazAxYXNDamdDZ0pINE5mQUE3VGhFdDcxZkZ4cUdSOFVQTWRsdXl6LXdMTUpIWnFLQ0VB?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
    "title": "Gold prices today, Monday, November 2, 2026: Gold opens at its lowest point in over a year ahead of midterms",
    "source": "Yahoo Finance",
    "time": "2026-11-02T12:17:24Z",
@@ -600,77 +674,6 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcWxlbjM0Y1h2X3l4SmVMcDFLUjJ0RTUzTWpoMUFSTzlKSXJ5N2J4Wi16SkVJSWZmZUU3RkpKUFBCM3N4ak1mVFpkUThkbUNtSWg3XzhXVkxxaGRudTJ4c0pLbkwtZEMtak02Q19BaWRhOVgzQWlFMXRKN08wSGZiVThoc2NqRHBxNkRZSTNOa2czNGZpMWZUVHV0OTdrOVFkVDl2VGlTT2huSG1jODY4TUpn?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Exclusive | U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine",
-   "source": "WSJ",
-   "time": "2026-11-02T10:54:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGJ5czJUY0hNMkJORml6Z2ptY3h0SWp1MXNFVDhlNjNJY0RqQVRweDl0eGtJQ0RWZndidWFsM3VhLV82bTQ2TEYxUlRtVV9qdk1wSDd6RWM0QklacEhOWnFjeEQ0S0tZNXRDVlZiTk82cmdxZU1BY2J2dGE4aTlzcDJveW1tUUJtb0hudHI2cmJ0d2JvZDh4XzZ0Z0wtY2FwMG5YVGJn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Rebounds Above $3,900 After October Slump as Weaker Dollar Supports Prices",
-   "source": "Yahoo Finance UK",
-   "time": "2026-11-02T10:28:18Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0M0pIWFB5ZmZzVXhIblkyUFpDU2xIY0dnUnpqajdHREo5dmJFV2JOQjEyRXU5RzdKeXJyZHJmN1Rzckh6TVhPbjNiQ0kxYUswQmczZTBFSUt0NENnRUE2bkdlMXd5UEZRMHpnWXM0bUp5MHJGcndCeUxLeWRyR1E?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "News by CNBC TV18 on TradingView, 2026-11-02 — cnbctv:0b5c860b7094b:0",
-   "source": "TradingView",
-   "time": "2026-11-02T10:19:58Z",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wUVFPenpYaDYxWHp4aFN1dVhoYmdWY3MyVFpiTllkSWJTeE5XMzVialNGN0lQeFhDRnhBdFp5cy1nRDZCRllhWGlnX19fNE1tcGQzMUJQQzliVVpRYWRUdktWQTJnMVU?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Saudi-led coalition intercepts a missile as fighting rages in Yemen’s al-Jawf",
-   "source": "Al Jazeera",
-   "time": "2026-11-02T10:14:08Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDdybGI4VjV5MVJtOTMwR21NUVVYZnNDLUVSVW1va2VBOVpmeTZrR3lBUnVjb1ViN2xoeEFvMXhJanlLel9XWHY4Njl1MHpKX1U3c0h3S1VuTVRMTlhuYWtwZ1JjaTFVWk1Da2lqd09fTVdMNWF5X0kyXzVtZHhmU2ZBMlZlajFjSkZieFhmd092ckw5Ty1WZEtYd0VOa2U0dXVycVlhaFFNckd1RUVmaVV3T1RQMFpL0gG-AUFVX3lxTE1ReEZ6dGplTGlsSGk2V3lNZ3hMTEo1X00yYmwzc0RkUDVTcHByRUtCT3U5LTB0dUVCazY3UVhNaGtkdDRaVXRVaFFFdWt2R3VtM2lzbTJpZTJFMlRiOEo3N3hUY3BCNENxOWI0ZzR1TlhqRGZpQW42SUw0bjZ1amlxNDB1M0w5STVMRFBUaXIyZkp5VF9XaW94eXh1dGtudU1QSHA0R2dMWE0tYnRrZjRoM3BzXzBNNDAzR0V1aFE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Wall Street Braces for Biggest Treasury Sales Overhaul in Years",
-   "source": "Bloomberg",
-   "time": "2026-11-02T10:02:32Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3N2ZVdrWVZaekU3UUdvbWgzZE4wTUF5X2tsajg4V042UDRJeEpwa2RqY1RxLWlNNk5sWTl4QUFlQk1mQjhsTzh3STlDR0lVN3ByaVQyUFRFUnlpZG95dGpuZjVtN3lMX3lfQkZRWnUyM3FqSnAyeE9sQ25fSHI1Mmo2M1dPT3d4RkwxM1hjSkRYbFBrdlFtUXpnUlNCc05aRkJvOWNFSFZBQjRqaXFHUVVGZzQ?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal",
-   "source": "The New York Times",
-   "time": "2026-11-02T10:02:16Z",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PcFdpUFRyRTdQaWZ3Y200c3pzcURYQjBOekRLZ1o0YUphWERKa05ZSVZhd3lfLVpYZllxQ0g5bEtnNVdydC03YTNHN0RQZkVQdHN5c3llaWdfbkhPcUxKQ3JYSkpNSms2WVdtT1VDQWh0cTNBVENwQTh4VTA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Kremlin says it assumes that the Ukrainian army used the Oleshky ceasefire to regroup in line with 'normal practice'",
-   "source": "Reuters",
-   "time": "2026-11-02T10:01:44Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWEdXTlRXaW9wTHl3dnpsWnA2c19KSTVvRlJOeGFCVm94NEFpZkY0QjlTaWYyY2NUV1RjMmdFc2ZjT3VTMklBTXozSF9CNzZPMmppZ0I1Q0pFa0Y3eFU1S1ZaVHVIQ1lieTVKdTNndW41cW1BbmVKMl9NWFV6Wi1MVXp0blAxMml3U2Mza0ZfWE42RWlzUWh1ZGNhWll3Yk9jMVowc1ZMYjlEbEpHV1NnVDliSkVQRDJjdjZEdl9uQTJ3TExzQTA4?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iraq's Oil Exports via Turkey Surge to 500,000 Bpd",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "time": "2026-11-02T10:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb0JzMlUtbUlxSXZCU0E2VWJ1c1BHMWtEdnl3dGl2TERwLVpfNUY0S1BJVUt0VFZRQ2x4V1ZMRFlaV0taUlBscFlkZzI4bEI4bXBGQ1ZhMGRuMURFUnRUNDFuOGU5anQ3S1dpb0NsNnpXWDdtbVJDWlZ0d2FmQnZJdGFuTUFYZkZJdkIyQWVZbnpTbVlfOGN5SWFrakJoTnEtYWtTai1HUdIBrAFBVV95cUxNeUxHcWpsLVZSa1lQWkdUM09RanZlTVZpNDlKdjZUMXpZWkZZLW0yeDdYQnJ3eWtyM1hZZlZ4Z0prSWZDeTVKa29RSVZWUERpOENYR29mVHRkVzFFbWVVRndndnhxY0xuSnNQX3ZLYnhHcU1id3dET0pjRUM5ckZNQjl1dV8tNVZWQmczcUNMS2dkdWlkT29yWUU1cmFfRVM3aFpmSHZtTFhhal82?oc=5",
-   "tags": [
-    "OIL"
    ]
   }
  ],
