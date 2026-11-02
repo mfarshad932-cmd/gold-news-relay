@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-11-02T09:45:27Z",
+ "generatedAt": "2026-11-02T10:13:36Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 0
   },
   "fed_monetary": {
    "http": 200,
@@ -38,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 6
   },
   "investing_commodities": {
    "http": 200,
@@ -58,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 2
+   "kept": 4
   },
   "bbc_business": {
    "http": 200,
@@ -73,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 3
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -87,12 +86,12 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "gn_tariff": {
    "http": 200,
-   "items": 16,
+   "items": 15,
    "kept": 12
   },
   "gn_war": {
@@ -117,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 1,
-   "kept": 1
+   "items": 5,
+   "kept": 5
   },
   "fed_calendar": {
    "http": 200,
@@ -127,10 +126,80 @@
  },
  "items": [
   {
+   "title": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal",
+   "source": "The New York Times",
+   "time": "2026-11-02T10:02:16Z",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PcFdpUFRyRTdQaWZ3Y200c3pzcURYQjBOekRLZ1o0YUphWERKa05ZSVZhd3lfLVpYZllxQ0g5bEtnNVdydC03YTNHN0RQZkVQdHN5c3llaWdfbkhPcUxKQ3JYSkpNSms2WVdtT1VDQWh0cTNBVENwQTh4VTA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Kremlin says it assumes that the Ukrainian army used the Oleshky ceasefire to regroup in line with 'normal practice'",
+   "source": "Reuters",
+   "time": "2026-11-02T10:01:44Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWEdXTlRXaW9wTHl3dnpsWnA2c19KSTVvRlJOeGFCVm94NEFpZkY0QjlTaWYyY2NUV1RjMmdFc2ZjT3VTMklBTXozSF9CNzZPMmppZ0I1Q0pFa0Y3eFU1S1ZaVHVIQ1lieTVKdTNndW41cW1BbmVKMl9NWFV6Wi1MVXp0blAxMml3U2Mza0ZfWE42RWlzUWh1ZGNhWll3Yk9jMVowc1ZMYjlEbEpHV1NnVDliSkVQRDJjdjZEdl9uQTJ3TExzQTA4?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Technical Analysis – Gold: No treat, just a brutal trick",
+   "source": "Investing.com",
+   "time": "2026-11-02T09:47:00Z",
+   "link": "https://www.investing.com/analysis/technical-analysis--gold-no-treat-just-a-brutal-trick-200690678",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Nuclear radiation in Russia, Ukraine? No, just hacked warning alerts",
+   "source": "Al Jazeera",
+   "time": "2026-11-02T09:46:11Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZTN5bktCQ0lvY3ZfalRyZW52YnAxU2M0Z0Q5WkE2dTBKa2JtYUcxbnlCWXVtRGRxYjIxYURwYU1YVjZYaHljdFp1VnpxalV2eVFscHU2RFVYRXlnZ2xTZDdNVEhHR29UenlkZHlsWTNsX1lyc2NvNFV3UENwTWU2VzV5ZzJEQ2JtRjM5dW5CRkd5RUlrUFg3c0FFS2hUaEY3R1JfTDJnTWZmd9IBrwFBVV95cUxQRGFFdjNwOFRkcnBsMnhWbW1qV055TXJmblVzcnFuRXpiNkRMS085V1FaejFFVG5WVThpTzI2TnI5cTIwSFFXUC1tWkVXRDlFOHA0NjlGRGd0cWZqNVpFaGZCZVN6akVqS1NPcGN6MEg4QUxKRUdDWDRLNGVqNmpMY2N1a05lOXN2X1V3eDZrMXF3WHBURWFEZzV3cDN4TkFJc2ZQYW0yV2toRmY5dTI4?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Saudi-led coalition intercepts a missile as fighting rages in Yemen’s al-Jawf",
+   "source": "Al Jazeera",
+   "time": "2026-11-02T09:44:20Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDdybGI4VjV5MVJtOTMwR21NUVVYZnNDLUVSVW1va2VBOVpmeTZrR3lBUnVjb1ViN2xoeEFvMXhJanlLel9XWHY4Njl1MHpKX1U3c0h3S1VuTVRMTlhuYWtwZ1JjaTFVWk1Da2lqd09fTVdMNWF5X0kyXzVtZHhmU2ZBMlZlajFjSkZieFhmd092ckw5Ty1WZEtYd0VOa2U0dXVycVlhaFFNckd1RUVmaVV3T1RQMFpL0gG-AUFVX3lxTE1ReEZ6dGplTGlsSGk2V3lNZ3hMTEo1X00yYmwzc0RkUDVTcHByRUtCT3U5LTB0dUVCazY3UVhNaGtkdDRaVXRVaFFFdWt2R3VtM2lzbTJpZTJFMlRiOEo3N3hUY3BCNENxOWI0ZzR1TlhqRGZpQW42SUw0bjZ1amlxNDB1M0w5STVMRFBUaXIyZkp5VF9XaW94eXh1dGtudU1QSHA0R2dMWE0tYnRrZjRoM3BzXzBNNDAzR0V1aFE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Hundreds evacuate city during temporary ceasefire between Russia and Ukraine",
+   "source": "NPR",
+   "time": "2026-11-02T09:42:11Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcjZDY29NSDVDQnNKX3RYX29JWnZ2ODZuQ2hxdUUwbktSdkJvakdqVXUzVFZLRmVPSXZFem5PR0VzdVBBQm8zRHBmbzAybkxONzBNc3FNVnlXU2RRVEpWczFHOXo4cG50c0ZnZVBoUUJqU202Y3FZSGw0TXR0bGw1Nk56VWw3UFBPUThNMHEybjRMdlAwMmNSaHlHM0lQVVU4UlFEZ21QM2RURUxrc2p4d0FmMHZYcVpJZEpuZU1n?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
+   "source": "TradingView",
+   "time": "2026-11-02T09:41:36Z",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQREkyY0hhOGV1Rl9ZVHlSdHdWZG9RRk1nb2hVSWlFaWMycm5MRGJWX1BRNG1XS0p0R0xlLUJpYmpZVmRfY0p5V2VCOUtDTEN0Y2h4UFdmbHJHQnVUWVlSWUxZTzg2aWZxZzBYZG5yVVF1Uk1rMnBoSmd1VDR2Y3pTLWVHXzEzbGNobVlRVnVfYWFaTnR2VEJoQ3ZrUnhpTHBrVk1VaXVjbEZBYjQ3N3YxSUxDS1Z5cjZhVzEyanRHSkE3bWpndWltWTR3bTROd04tRzdqcFQ4OA?oc=5",
+   "tags": []
+  },
+  {
    "title": "How Arab Gulf states view Trump's Iran war plan",
    "source": "NPR",
    "time": "2026-11-02T09:40:30Z",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOanpORjgyTjl2b3VzVmYtbXptVlhQeG55RDBicnd6OTlqVkUwd2REc092WUtwNmpTT0UzQ284ZENyQVc0LTA3aXhjUm5lOUdBUkx1bklTdU81SVIybDBiT2RFaGZzbkQ5TzZJZXdwdzZsQmd0MUdSa1Z2ZnduSjhtZm16NW0zV2RjTVpSR3JCS3I1VWpxWFE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Boy's parents under rubble after Russian missile strike",
+   "source": "Reuters",
+   "time": "2026-11-02T09:32:23Z",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxNXp0UG1jZHpBeEF2Y3Y2QzFJUmdSU01IeTFiTFRabXh6QVdQLWFpeTg4dko2aXpFaGFvQktnSjY5bEhXRGR2TGpRUU5EZjN6RkFndFVQaHUwbEs2YWdiMHFVWG9xS2s?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -166,8 +235,8 @@
   {
    "title": "A brief ceasefire opens a perilous escape window from Kherson’s riverside kill zone",
    "source": "AP News",
-   "time": "2026-11-02T09:19:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUE11WktqcXU3TzJzbEFoUmcyRFpYeXVxQVBYb3o1R1QyYTBpOEw3NEhnekZXMGZGT1E5MjJBVUExOFRFaTBkRjR5bFQ0dUxTVzlOMy1zemY1MDREanNpMzNkV2NXUDhjUGNycUxrNURJUHFUOUhxN09JWWhJeU8xeVBJV01NUW1vaFdSR0hWM2R5ZnlpLTdFZDBzZG1vUUp6clJXSV9oa2ZWUGRTeUh6d0xiWl85X0dqQ3JrRFI5U3F0SmRSVHF5MXJicXNHVWtiQU9OanFXQQ?oc=5",
+   "time": "2026-11-02T09:26:00Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3kzM01FTVZSOElRZGZMbmdPQWNodU1Jc0NGNDV3UDFNYmxQUzNQbFVuMnJ6N3VudWd6RE5LRWpGYVVrX20zeXF0YlZNQ2pCejZTX2hSSkR6emVhMXh6VWN5MldYRUk0T1VTR1dpaW9ubGptM3BoMlN5d3NOOTJVTnJWb2ZhNThrajN0Ykt3eG1ocWN1V0NFdHhCUEM?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -179,6 +248,24 @@
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVSFNYNk82VXVZR3FaeV9fay0xY0xqYnphdGRjekVpYk5fcUczYXJVOXpEQkVkb2owdnJwR29QZmpoXzR6REdHU056WmhnaDdCUTZxZ3lza2dKNEhwUnJkc0JJdw?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Nine killed in fiery Florida Learjet crash in West Palm Beach County",
+   "source": "BBC",
+   "time": "2026-11-02T09:10:19Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vUlJzX2dBUVVoZDFRak1IOFF4aW12bTZoSi1HeTdOY0FyTWp2M0pHTmtMRVh3SlIzUXFsNWhrWlR5dG1vUUJmaWRNYW43aTVGbC1BWG8xdF9hY1k?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Eurozone manufacturing PMI holds up in October but rising price pressures give the ECB another headache",
+   "source": "ForexLive",
+   "time": "2026-11-02T09:00:30Z",
+   "link": "https://investinglive.com/news/eurozone-manufacturing-pmi-holds-up-in-october-but-rising-price-pressures-give-the-ecb-another-headache/",
+   "tags": [
+    "ECB"
    ]
   },
   {
@@ -209,7 +296,7 @@
    ]
   },
   {
-   "title": "Donald Trump’s Vietnam war comment raises eyebrows",
+   "title": "Trump Says He Would Have Won Vietnam War in a Week, Mixes Up Cities",
    "source": "Newsweek",
    "time": "2026-11-02T08:26:00Z",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGVzMm16bE9jcmlHUGg0WTJLNmpXUGZEX0RMS24ySmxQVTZ1SWtFSW5kczlhbkhVMC1QbXFqYWNJOHJ2andvSUkzZkZBZW9ST1B5WFdMd1VXdFNSLXpRUU56dlkxalZwZmlZem9mb3pET0dWMEpqaGtWM2xiRk5pdVpSaXhxTDRRZ1Boc09UNTlybDJsRnpmbDRmWmZKd1U?oc=5",
@@ -507,15 +594,6 @@
    ]
   },
   {
-   "title": "Gold and Silver Dec Futures Below $3895 and $49.200: Key Buying Zones to Watch",
-   "source": "Investing.com",
-   "time": "2026-11-02T05:57:00Z",
-   "link": "https://www.investing.com/analysis/gold-and-silver-dec-futures-below-3895-and-49200-key-buying-zones-to-watch-200690648",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
    "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
    "source": "Al Jazeera",
    "time": "2026-11-02T05:52:56Z",
@@ -595,89 +673,6 @@
    "source": "Bloomberg",
    "time": "2026-11-02T05:00:00Z",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVG5ja0ZiLURDZnZwLUVyQlhzVjlkR1hCUVpvRHJrTjBtejdmemREelI3QVBUS05BQmFlVVlZeV9SaHZ0S2lwVFN3LUxJd3ZWQ2xvNlpXbGRSdUp0ZFN2U1hUSHVNUDFPRmdWUXZhZlpuQjM2cjFYdC11cU9EMmJYZWc0emppeEQ4UTZsZlM1UnRILVZkdlBmT0Zac21ncnh1Sng0Wm4wRi1GNUZwOU5xQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Surging costs and China trade war test US farmers' loyalty to Trump",
-   "source": "Nikkei Asia",
-   "time": "2026-11-02T05:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZXJqTFdEbnRiRnVtRTc2dmN0VmNUNzRHYnNNSnlFQ3FJRkVsX05fVE1UX21QMUlaWnNfc3E2Wl9LU2V0Zzd6OEtfdXJITklxZ1ZXcEZxMENrMVRiQTdjbnVEbmc4bzRLWUp5SHFBV3JJeHpGYTVMaFV2N1FrRWpzYWo4dHUwUGNJMnpNeEpVbjVuSnpEWVEtMlFkV3VzUWo4RERkbDg2VVNmaHdKUU42T3FrS0Nidzg5OUF6eVROaw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Live Civil War-era artillery shell found in Pennsylvania home",
-   "source": "CBS News",
-   "time": "2026-11-02T04:59:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNDUtNmtRMjlWNXo1Tko4WjlucnFDYnFLYmhudWJEeEFyUU9MVkIzeHQ5Yml4UzI2Y1hNckRxVS1uSFU5VzhDZWVyVmtOdVlkYnB4dmJFSnUya0xyS0NJOTJfN0dJQzR1ZUVSdHExRlNUS0JSS1JFRTV5cTFDU2JMS3djVlhHcjVVSGk3V2FqOGJGNUI4M29vZUZlTDFsTllyU1d6cTR3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump weighing who to scapegoat for failure to end Iran war so far — report",
-   "source": "The Times of Israel",
-   "time": "2026-11-02T04:52:59Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLXhfWktRRWYyQmg1U2JrMF9aa3BLdUpjT2tqcTEwRFV6ZldVXy1VM0p4QzNLcDlWME9NREZVekVuV0tZLVlUMExySjVTVjRaNng1dVlLV0RBc1ZqWkU1dnVPbVFlVGVpQ0NNcUFxYlZJSEt3am5EbVFKRTdXQVVsX05VbVNLTzF6VU9lUnRPRFcxSkxWWmQ3Z0IxTGh4cjNOaEhJbGRVTEtiWFpFNnQwd2RVTDhSVmxtakg0?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Diageo, Pernod Ricard to Discuss Bulk Scotch Imports Tariff Cut with Indian Government",
-   "source": "marketscreener.com",
-   "time": "2026-11-02T04:51:14Z",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMk1UMUFRcW5fQjNiTlJJcENwM2ExdE5nNnVTeDh1SEdpdVRzb3FkUDZwMnZfZUJ6eEdQR2tqT1BtdVBJTWZpWG5kOFRRNU4xYzdwVDNhTFBkMUZnbGdKM1dJWnFwX3pmcTJiZlFwcDBCTzhPTDBqX0RQMGxlUldFX0t6TG5IdC1fbHRSNXM1OTBjVzRZUl84XzFoMGlFWEdvM0tJOGM0cVNfYzZ2RDE4R19TUC04ZzdUOC1OUTBLUFVzUmVWaXZ4UjZkZU9abzlYV3RkeA?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
-   "source": "Al Jazeera",
-   "time": "2026-11-02T04:48:50Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZU1vWGMtSG45R1lkVVhDY2FydFpzYnlRRDRYV1RWdnQwMFlmbGxlc25TYzcwOEhWa2I3MUtHU2JGSXVEVTJKSWxMRW1rMFJIQjBGZXZhTXhIYzZQbmotOTR2LU5xdWhmbWNxNG1kQTYwWGUwOEpjRnJPR2k2Z2FXdFdBNTZKakNUTm40SXJCcTJzSENMMFNHZ0dDLVBfX2NxZGdFNnpQWXBIYVnSAbABQVVfeXFMUDJJdUpjTzFFV1E2dWZrVlFpRWZYbWxqeVE3VWhJWkVOcF9PQTlsRnBleC0zUEZLWHFuUXgzeFQzN2o3dXJKSFhWRVdJWmsxMTBIOWVpeTNjUUlKV0ZoemNwV25DSG8wd0ZDcjBUNlJKaHJ3UlhZSVRtWnk2czU1UVpna1pvaThNdDB0SGVoZXFZOG9TZ3dUZWRPcl9TclAzR3JBTGFBRy1QVnJjb3hXRU0?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "investingLive Asia-Pacific market news: Oil eases on Doha talks",
-   "source": "ForexLive",
-   "time": "2026-11-02T04:32:13Z",
-   "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-eases-on-doha-talks/",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Ukraine war briefing: Kyiv says air raid warning app likely hacked after users receive false alerts",
-   "source": "The Guardian",
-   "time": "2026-11-02T04:19:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcFY4bG1oZTVCclJhUDVCMVFyVkdBcHN6YVB3dk9QT1JKM1N0VlI1V2pXU1J2WFRSQU1pTTNjNi0xUWpyZThRbnFSQVBFd1VtekY3bjQ3TWpvSV9kdEUxbUY5ZUo1LXhKWUNlT1k4MElLd2pMak9FTGR3N3JnbDhyNGpBQWQ3QXZPaGZmUlRudkxfRWh3T1llQjNxU1VqRmdLdmd0RFV6T2dmSk1mMkxfQUYyc2o4eVYwUUNTTjNkYzQ4MjQwOFNKeDhBdXd2MFNacXNBSnNfdThFMWsy?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Should you buy gold now?",
-   "source": "TradingView",
-   "time": "2026-11-02T04:17:23Z",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWXp3Q3dKdHNLcldzWVpQZmNILXdzV21kTDBIbHdVRXN1dnhmVWhscGNEajhvWTV6VnlSNUl1WlJZVU1qSDNVcUxfZEhmLWNZcm1WSDBvajZfU1hZaC11ZlFHV1VTaDl1cmtpZTR6eHMtcVN3OU1SOGc2cnJkbXFyRWV4R3BWOTA?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Reliance Industries Surges Most in Nine Months on Earnings Beat",
-   "source": "Bloomberg",
-   "time": "2026-11-02T04:10:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM1J2V0k5WHdoUTRDaThzZW0wQ2Y3bERPMkpSZWFRejBvak9KclJpUi00emtrWHpQaTFobkhJWmNTSWctTmZVN1RPd2d4QndEN0YzcTlCZTVFeWtfblhhUmhhb0d2UDdmejlCT2xvdzBhSGhNNWxTdE8ydllBdGtmLVhJTFBkOWdqRzhqSUxHcE5vN1J2TG1VM25DM2w5VUNGcnBtdkR0djE1WnpnaTVySG5wWDE?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
