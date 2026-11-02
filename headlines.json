@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T10:13:36Z",
+ "generatedAt": "2026-11-02T10:41:57Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 9
+   "kept": 10
   },
   "investing_news": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 3
   },
   "bbc_business": {
    "http": 200,
@@ -66,8 +66,8 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 31,
-   "kept": 4
+   "items": 28,
+   "kept": 3
   },
   "aljazeera": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 16,
+   "items": 17,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "gn_tariff": {
    "http": 200,
-   "items": 15,
+   "items": 14,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 50,
+   "items": 52,
    "kept": 12
   },
   "gn_sanctions": {
@@ -111,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 2,
+   "kept": 2
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,24 @@
   }
  },
  "items": [
+  {
+   "title": "Fake alerts warn of nuclear danger as Ukraine and Russia report emergency app hacks",
+   "source": "NBC News",
+   "time": "2026-11-02T10:14:52Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ1QzbGU5dXREb2Y1VkpSSmU5TEhnNm5TSmFOdWRkMkh4Qk1uVDZtZUp6SUs4RTVDUndVemptd2hWRXNZdGc0ZDdDaFp5ajVvWEw3dzVsb3RXbWhFa2tBSUZ4YXNvWmpFT1hLeGxKaHIwc1NyemhaeTlvWjdfVGxPRmFDaUJPQ0NBUFNiWS1kUkN2bjZUdUt6amlPbkQ1VkdjNDJsWDVkNkJkcGJWVnpfUmlWb0FzN1k?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Saudi-led coalition intercepts a missile as fighting rages in Yemen’s al-Jawf",
+   "source": "Al Jazeera",
+   "time": "2026-11-02T10:07:30Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDdybGI4VjV5MVJtOTMwR21NUVVYZnNDLUVSVW1va2VBOVpmeTZrR3lBUnVjb1ViN2xoeEFvMXhJanlLel9XWHY4Njl1MHpKX1U3c0h3S1VuTVRMTlhuYWtwZ1JjaTFVWk1Da2lqd09fTVdMNWF5X0kyXzVtZHhmU2ZBMlZlajFjSkZieFhmd092ckw5Ty1WZEtYd0VOa2U0dXVycVlhaFFNckd1RUVmaVV3T1RQMFpL0gG-AUFVX3lxTE1ReEZ6dGplTGlsSGk2V3lNZ3hMTEo1X00yYmwzc0RkUDVTcHByRUtCT3U5LTB0dUVCazY3UVhNaGtkdDRaVXRVaFFFdWt2R3VtM2lzbTJpZTJFMlRiOEo3N3hUY3BCNENxOWI0ZzR1TlhqRGZpQW42SUw0bjZ1amlxNDB1M0w5STVMRFBUaXIyZkp5VF9XaW94eXh1dGtudU1QSHA0R2dMWE0tYnRrZjRoM3BzXzBNNDAzR0V1aFE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal",
    "source": "The New York Times",
@@ -144,7 +162,7 @@
    ]
   },
   {
-   "title": "Technical Analysis – Gold: No treat, just a brutal trick",
+   "title": "Technical Analysis – Gold: No Treat, Just a Brutal Trick",
    "source": "Investing.com",
    "time": "2026-11-02T09:47:00Z",
    "link": "https://www.investing.com/analysis/technical-analysis--gold-no-treat-just-a-brutal-trick-200690678",
@@ -157,15 +175,6 @@
    "source": "Al Jazeera",
    "time": "2026-11-02T09:46:11Z",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZTN5bktCQ0lvY3ZfalRyZW52YnAxU2M0Z0Q5WkE2dTBKa2JtYUcxbnlCWXVtRGRxYjIxYURwYU1YVjZYaHljdFp1VnpxalV2eVFscHU2RFVYRXlnZ2xTZDdNVEhHR29UenlkZHlsWTNsX1lyc2NvNFV3UENwTWU2VzV5ZzJEQ2JtRjM5dW5CRkd5RUlrUFg3c0FFS2hUaEY3R1JfTDJnTWZmd9IBrwFBVV95cUxQRGFFdjNwOFRkcnBsMnhWbW1qV055TXJmblVzcnFuRXpiNkRMS085V1FaejFFVG5WVThpTzI2TnI5cTIwSFFXUC1tWkVXRDlFOHA0NjlGRGd0cWZqNVpFaGZCZVN6akVqS1NPcGN6MEg4QUxKRUdDWDRLNGVqNmpMY2N1a05lOXN2X1V3eDZrMXF3WHBURWFEZzV3cDN4TkFJc2ZQYW0yV2toRmY5dTI4?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Saudi-led coalition intercepts a missile as fighting rages in Yemen’s al-Jawf",
-   "source": "Al Jazeera",
-   "time": "2026-11-02T09:44:20Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDdybGI4VjV5MVJtOTMwR21NUVVYZnNDLUVSVW1va2VBOVpmeTZrR3lBUnVjb1ViN2xoeEFvMXhJanlLel9XWHY4Njl1MHpKX1U3c0h3S1VuTVRMTlhuYWtwZ1JjaTFVWk1Da2lqd09fTVdMNWF5X0kyXzVtZHhmU2ZBMlZlajFjSkZieFhmd092ckw5Ty1WZEtYd0VOa2U0dXVycVlhaFFNckd1RUVmaVV3T1RQMFpL0gG-AUFVX3lxTE1ReEZ6dGplTGlsSGk2V3lNZ3hMTEo1X00yYmwzc0RkUDVTcHByRUtCT3U5LTB0dUVCazY3UVhNaGtkdDRaVXRVaFFFdWt2R3VtM2lzbTJpZTJFMlRiOEo3N3hUY3BCNENxOWI0ZzR1TlhqRGZpQW42SUw0bjZ1amlxNDB1M0w5STVMRFBUaXIyZkp5VF9XaW94eXh1dGtudU1QSHA0R2dMWE0tYnRrZjRoM3BzXzBNNDAzR0V1aFE?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -242,6 +251,35 @@
    ]
   },
   {
+   "title": "Goldman Sachs Raises December Brent Oil Price Forecast to $105",
+   "source": "Investing.com",
+   "time": "2026-11-02T09:23:00Z",
+   "link": "https://www.investing.com/analysis/goldman-sachs-raises-december-brent-oil-price-forecast-to-105-200690672",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Oil Prices Slide 3% as Hopes for Iran Peace Deal Grow",
+   "source": "Investing.com",
+   "time": "2026-11-02T09:21:00Z",
+   "link": "https://www.investing.com/analysis/oil-prices-slide-3-as-hopes-for-iran-peace-deal-grow-200690671",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
+   "source": "CNBC",
+   "time": "2026-11-02T09:17:54Z",
+   "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
    "title": "What is all-in sustaining cost?",
    "source": "Mining.com.au",
    "time": "2026-11-02T09:17:49Z",
@@ -255,6 +293,15 @@
    "source": "BBC",
    "time": "2026-11-02T09:10:19Z",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vUlJzX2dBUVVoZDFRak1IOFF4aW12bTZoSi1HeTdOY0FyTWp2M0pHTmtMRVh3SlIzUXFsNWhrWlR5dG1vUUJmaWRNYW43aTVGbC1BWG8xdF9hY1k?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump said weighing who to scapegoat for Iran war as he clashes with PM over renewed attack",
+   "source": "The Times of Israel",
+   "time": "2026-11-02T09:09:50Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDRueUpBNnN2U1pSVWtjbmN3N2FtRHpPTGo2dWJ2R0VSWThJT3dZMzFWMHFIRU9rOEtQRlhUa3JBS2hhSkJnaDdoWlduZkpEN2EzLXVaampuc2loNnpBQkM1NzVxWjE3aDA0bFZiMm5tX0kwYXlrYWg3OVZQaWdpUWxOQ3ByaVBQVUJpWHlURm14SVY1ZndUMXFGemNJUW9YQ1puU1dLUG1mdDR6bXQxX1VoWHg4dmwwOHBsSjZCZ9IBxAFBVV95cUxQSVhhcVk5Ym1RczJzSnZVbGdGcFVVazBoTVBNLVFFb0NOR3hvcnJxRFdkYVhsd3M5ZnJ3Ym5XVVZMSXVGX0Z6bmZJSGl5eGNwXy1jRTFGejJUN1BZWGN5LWNKdVduUDN4UVpjcWVtSVRZb2JQVGF5dndaczhfTXFDYTdmNlJsR1NsZER1RjBOOGNWME93a3lWV19oT3RKNWNHOFJTMnB4UDk0YVM5R0NOMVEwMWJ5Z2RkNldOUVFEZWp0dXE2?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -278,15 +325,6 @@
    ]
   },
   {
-   "title": "Trump said weighing who to scapegoat for Iran war as he clashes with PM over renewed attack",
-   "source": "The Times of Israel",
-   "time": "2026-11-02T08:48:45Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDRueUpBNnN2U1pSVWtjbmN3N2FtRHpPTGo2dWJ2R0VSWThJT3dZMzFWMHFIRU9rOEtQRlhUa3JBS2hhSkJnaDdoWlduZkpEN2EzLXVaampuc2loNnpBQkM1NzVxWjE3aDA0bFZiMm5tX0kwYXlrYWg3OVZQaWdpUWxOQ3ByaVBQVUJpWHlURm14SVY1ZndUMXFGemNJUW9YQ1puU1dLUG1mdDR6bXQxX1VoWHg4dmwwOHBsSjZCZ9IBxAFBVV95cUxQSVhhcVk5Ym1RczJzSnZVbGdGcFVVazBoTVBNLVFFb0NOR3hvcnJxRFdkYVhsd3M5ZnJ3Ym5XVVZMSXVGX0Z6bmZJSGl5eGNwXy1jRTFGejJUN1BZWGN5LWNKdVduUDN4UVpjcWVtSVRZb2JQVGF5dndaczhfTXFDYTdmNlJsR1NsZER1RjBOOGNWME93a3lWV19oT3RKNWNHOFJTMnB4UDk0YVM5R0NOMVEwMWJ5Z2RkNldOUVFEZWp0dXE2?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Jio Platforms' next growth drivers: Broadband, enterprise services and AI take centre stage",
    "source": "TradingView",
    "time": "2026-11-02T08:44:38Z",
@@ -302,6 +340,15 @@
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGVzMm16bE9jcmlHUGg0WTJLNmpXUGZEX0RMS24ySmxQVTZ1SWtFSW5kczlhbkhVMC1QbXFqYWNJOHJ2andvSUkzZkZBZW9ST1B5WFdMd1VXdFNSLXpRUU56dlkxalZwZmlZem9mb3pET0dWMEpqaGtWM2xiRk5pdVpSaXhxTDRRZ1Boc09UNTlybDJsRnpmbDRmWmZKd1U?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold at $3,885: Is the Precious Metals Sell-Off Nearing Exhaustion?",
+   "source": "Investing.com",
+   "time": "2026-11-02T08:22:00Z",
+   "link": "https://www.investing.com/analysis/gold-at-3885-is-the-precious-metals-selloff-nearing-exhaustion-200690668",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -513,39 +560,12 @@
    ]
   },
   {
-   "title": "Why the Gold and Silver Correction May Be a Historic Opportunity",
-   "source": "Investing.com",
-   "time": "2026-11-02T06:37:00Z",
-   "link": "https://www.investing.com/analysis/why-the-gold-and-silver-correction-may-be-a-historic-opportunity-200690645",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
    "title": "Gulf States Fear Fiercer Iran Retaliation If US Strikes",
    "source": "Bloomberg",
    "time": "2026-11-02T06:35:00Z",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLUJ2eUx2ekxlenJCallsY0ZFQi1OeW51dERMMWxCODlpREdmTWk5MzllOTVUSE5KYzI2bW9Jd3FhMG9wMnVWTmZycmZGdEd5TEtWamdmMF9wbEZHWDljdTJkX3I5dk5xQU91bVBNZHhRSE4tQ0pYdXJ6MmZQazlIQ0dBejlXbnMyd0tKbWNabmlTZk9hRVhpWEkwTUxLWkJoSnRvWDEwQkxteE81bVF2QXJn?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russia manufacturing sector remains stable in October",
-   "source": "Investing.com",
-   "time": "2026-11-02T06:27:59Z",
-   "link": "https://www.investing.com/news/economic-indicators/russia-manufacturing-sector-remains-stable-in-october-93CH-4989945",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "When Support Gives Way: Gold and Silver’s Friday Showdown",
-   "source": "Investing.com",
-   "time": "2026-11-02T06:25:00Z",
-   "link": "https://www.investing.com/analysis/when-support-gives-way-gold-and-silvers-friday-showdown-200690652",
-   "tags": [
-    "GOLD"
    ]
   },
   {
@@ -656,25 +676,6 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc1VMQlF3OWRsamI3RF84QmNzTmNBa1FLbkQ1ckttMWxpRlFPeGZOdFotSnBDR0tTcnFEbHRkSW0walJKUHlfMEpfUFVrdjFVeXJpWHFuOWprYnlhUjhDVGR3bjZqSjJ0eDI3XzFWSm9UbmNrM0ZHaUZHR1NhM2FPUnplYUY?oc=5",
    "tags": [
     "RATES"
-   ]
-  },
-  {
-   "title": "Life in Tehran under Trump’s blockade",
-   "source": "Financial Times",
-   "time": "2026-11-02T05:00:52Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUnplVFFadldqNjdoWGRMWjhseVdYVkNOaTJRcVltcnVIN3lSaXlINUd4QXJkNnAxRG1FdE1RYnZRQ3BqU28zNnpHYXFQcWFtMDV4N3U0dENCZGViZEZYS3I1Z0VPenJCSDhPOFNHWmc0WmxhM0t4UEYwTVBqTGJoS25ZS1A?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "America Is Making a ‘Freaking Fortune’ In an Energy Crisis",
-   "source": "Bloomberg",
-   "time": "2026-11-02T05:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVG5ja0ZiLURDZnZwLUVyQlhzVjlkR1hCUVpvRHJrTjBtejdmemREelI3QVBUS05BQmFlVVlZeV9SaHZ0S2lwVFN3LUxJd3ZWQ2xvNlpXbGRSdUp0ZFN2U1hUSHVNUDFPRmdWUXZhZlpuQjM2cjFYdC11cU9EMmJYZWc0emppeEQ4UTZsZlM1UnRILVZkdlBmT0Zac21ncnh1Sng0Wm4wRi1GNUZwOU5xQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
