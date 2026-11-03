@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T21:43:16Z",
+ "generatedAt": "2026-11-03T22:11:37Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,12 +52,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 3
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -81,17 +81,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 32,
+   "items": 34,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "gn_tariff": {
    "http": 200,
-   "items": 16,
+   "items": 19,
    "kept": 12
   },
   "gn_war": {
@@ -101,12 +101,12 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_yields": {
    "http": 200,
-   "items": 18,
+   "items": 19,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,52 @@
   }
  },
  "items": [
+  {
+   "title": "AI’s control over the bond market is growing — even rivaling war and elections",
+   "source": "MarketWatch",
+   "time": "2026-11-03T22:06:00Z",
+   "link": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories",
+   "tags": [
+    "YIELDS",
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "JELD: Adjusted EBITDA rose 23% as productivity and tariff refunds offset revenue and cost pressures",
+   "source": "TradingView",
+   "time": "2026-11-03T21:49:10Z",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOR1lrMzN1eVY1aDJwVlZZMzhRamN0SXNULVZYWEt5akxGcE5HV0FIcGxPeEZNd0VKN0ZNREFOa2pIcWdIMHgtbDlmQWdyNlpDMk94TXZjbVRmU2NQRkZDMlV1TGFCX2dXSXBrTVlGakVmd01yc2NiakttbUpKOGNtZy03RGItdHlMSFFRMlhKbDZwZnB0U0YzaG1ETXhxYzY2UDdWUW5lNUdlbTJpWnRZcjdPbVlfVGN5dExRb0VVbkVDUENXY0hNbXJMaVdlOUU3cUItXzFHMVBGc3F3dW1oT1U4aGg2X1V4RmNQWVFSbEItVlk2Q1R2V2dQN295dmgzY29kem1SRjliU19D?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "On Cusp of Renewed War, More Iranians are Calling for Nuclear Weapons",
+   "source": "The New York Times",
+   "time": "2026-11-03T21:46:32Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS01GdlcwQXNlbzFsNHlMZXpyWDlvVUhhREwwdVIwaml1cGRfOWNKZUJrRDFPcWJod0VtNVdGMlI2UlU2WnN2a291UmlPNUk1bXBqcXhtSDFDNmtOaVI3TmlfRVVKc0ZXWkdMamhZT1hDdS0tcDZWdGdBdmZ3VkQ2aHA4YUxmbmJOOGNmd2RuMURpTFRiNnNqSVR4OVd5YjdGTVBBUFU2elAwNnJueDNxRmd5ZkNFZG1IZmVOZlBR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "NZ Q3 Unemployment rate 5.7% (expected 5.5%, prior 5.6%)",
+   "source": "ForexLive",
+   "time": "2026-11-03T21:45:23Z",
+   "link": "https://investinglive.com/news/nz-q3-unemployment-rate-5-7-expected-5-5-prior-5-6/",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "President Zelenskyy says US elections will impact war in Ukraine",
+   "source": "Al Jazeera",
+   "time": "2026-11-03T21:43:58Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2FuU0FkanU5ZnlhWFBjQ1RsaGlUaTVvWTBsV1dfdUg5WUQ5b2pHWEJsTk5lUlhBZnRjeFJfRG5NMDRCdFNpVHA2Z1hvcGNDbXEwczJ2VUFVaG1hd1JaMWVaUmFDX01aN3VXU3pqcF94WWpSVnJhbjlKMnJKb1FnbVRRcmpmcmlxQ3llMVV3aU9CckpGZ0VoeTU2NjhreDhrSm05dEdPQWNDU1hZNnQ4M1M4dzZpZ9IBuwFBVV95cUxNa0x4NDdSRGRZSFI2RERIbFV6Yms0alNiUnZIaWlxY1lfUl9Sa3AxTWl4NnkyczFycXpQeUJVemZ1THI4VGVobWdVVThSUGh1VHBWeFZ6SjlBejN1dW5ZaldXZU40RmFFNGN5VDlOSU9WYXdLZDNEc3JwOFdPOWdMQ1BJbVN1cU1FVzNuYjhuQkIxX2JLT1IzSUJtN0hUekkxeHhFMmVVVVhFSlVWWkk1WlppWUFPaUV5OXk4?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Midterm elections 2026 live updates: Economy, inflation and other voter concerns",
    "source": "CNBC",
@@ -135,6 +181,15 @@
    ]
   },
   {
+   "title": "investingLive Americas market news wrap: Job openings jump as the US votes",
+   "source": "ForexLive",
+   "time": "2026-11-03T21:42:05Z",
+   "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-job-openings-jump-as-the-us-votes/",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
    "title": "China's Temu, JD.com revamp business models amid tariff headwinds",
    "source": "Nikkei Asia",
    "time": "2026-11-03T21:38:00Z",
@@ -142,6 +197,33 @@
    "tags": [
     "TARIFF",
     "CHINA"
+   ]
+  },
+  {
+   "title": "RYAM: Adjusted EBITDA rose 30% sequentially as tariff-hit Temiscaming operations remained idled",
+   "source": "TradingView",
+   "time": "2026-11-03T21:35:27Z",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPODVfcndsYmUzSWYzcGJkTjNKQVJoRWtFcHBLbl9ySlh2b21LbUtVdjhOU0dTMkFOUDQxN1k1TDJpTzlrTklkTEtDWkFkbVlUd3g5dXhvaXlJVlI4ejhlV3hMb2xLSVEyN2JtWFpJUm53bXIza0o3emZxM0JZVnhMYWFKNk9abG9CeGJyUUZPRHBoWm1kUUFaS2s1c294LTVLVlRoT3c4YmVRMWVyeHhSMVVaNGRIUl9TS0lLNFl4dkVJbXAxTkYtZ2tVaUdLTXAtYmJpUWhNMUZEZ2NQcEpaMXJDcDd6cnZiSHlNN004Q0FtOXBhUHpoWFJ5MnBqZUhpM3BjWWZOQQ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "GIC: Q3 sales and EPS advanced, supported by customer momentum and tariff refunds; special dividend declared",
+   "source": "TradingView",
+   "time": "2026-11-03T21:35:12Z",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOWDVndWo0bUhqRkhER0Jadlp1MTRqTzlYUEp6YXpvRkNJOTNHcDdkeXd0ejRiNmZYVUZFdFl3OG1HUEtNVHk2SUotRm41QUZ1RG93ZEJrMmhLYm9IeTFFZkNrQ1NUNWJIZEJHRF9qazF5WVdMN3I4ZkhTSldXSUpFNmNQWWlGQm0wS1hHYm9yWlhYdWhEcVhyRlhYNUpvR2V0MS04N0lQalI1eEE2R3hnc0pDU3hmc2x5eXdaN082TTBLTWlvZGFRUnJ5d3h1bGp1MzV0MWx4ZXpKMDhGVFpKcl9tLWVTRE5IRE4tWEJnLU9DMjg2dTQ3WVQ3MzBSOTJxNGIxTGRLOVRMUXlqdEpQbDE2TUJqcDA?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Two reasons why the US could attack Iran as soon as tomorrow",
+   "source": "ForexLive",
+   "time": "2026-11-03T21:20:25Z",
+   "link": "https://investinglive.com/news/two-reasons-why-the-us-could-attack-iran-as-soon-as-tomorrow/",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -297,6 +379,16 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFRMYUpjaUpDclBITFpucm43dU1kUE1HS1JCRjI1Y2h6TW1RbHE4Qms0YUs2eXcyU0FZVGI3VE5OWUl6UVFFZjRMZ0luMktham16c28xN3lGTVZnU1BqeGN5Zk1URzhsZjNuNm5lanlsWkN4bTFGOWo2VVhSY0ZXWHNNaEpZVWYtdkxNRldlSXhyb2V1U0hpam5Bc0w?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Evening digest: Oil falls, Apple and Palantir stocks retreat after results.",
+   "source": "TradingView",
+   "time": "2026-11-03T19:35:34Z",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb2xUNVN6SE9DLUxfMnB5NUpvWHJvTTUtLWJjaXRBWEFNVXNscTdCYXpJRHZmdkVmR2RiVndCcFlaMzJwaVYxNUs0Vld6dHV1dW9MOFNZbFc0Rms0d010d0N4YldFc3hlSHZ5WTZTaUF4SlFIZWJncWdEdkQ0ZUs1SnZidDE0dnRVVy0zTHU0MUVCUmJod3AzNFJ5Wjl2MlluUFRTWG5ubzVrUm5YMW5BREJBTExFeWtJRmpjNnRmaGZ5ZG5ZRlZaTg?oc=5",
+   "tags": [
+    "OIL",
+    "GOLD"
    ]
   },
   {
@@ -581,97 +673,6 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN0djQXVzNzExRmlSZUtNeV9zY0NTT3RvLUNVTk9SX1ROa3RfbDBBcTBiVlV5LU8zOS0tU0pNeUNoakRvRE02NUtHM3h3NWxaV2NvNHdNZDR0eFJsUVhVZzdSNGhwSnJjcEd2ZVBiUU92cmsxYTBFX2EzMlpmNXRERE5FMWVNSnZTcGlZU3ZzdUFRaUxHeExvbDdtdzNDYlA0Nnlfejdsdw?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "What the midterms mean for Trump’s drug-price war",
-   "source": "Politico",
-   "time": "2026-11-03T17:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNnE3YzQwdXFtRUtGM1ZzdWs0NTRIb0hYdzJwN0lBWjlUSXd5dDY2NjlmNDNtcnFqLWpoTTg1YzRLUzhkSWNVN3pWTS16U1dELTRKSjhEbmFPZzh6TkhMVDdEclZuaHMyb3BaQ3hFUVFYQ3Bjd2pCSVJzbEJQNnp1LWp1R3Q4WDJ2RDEtV0ZhcjBFdHFMMzhrTmp1R05DOXNEa3A2Y19LcThaWXM5U2p3X3R2c3k5OVh4UEpHcTB5UWtaUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-   "source": "BBC",
-   "time": "2026-11-03T16:57:41Z",
-   "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Five Metals Producers Trade Higher as Gold, Silver and Copper Futures Pull Back",
-   "source": "TradingView",
-   "time": "2026-11-03T16:52:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUkJVWWg1WUdXdkxxUjRRam41T1NFSFpwRXh2bk9KNmRtTk1zZVhnZ1luOTJlbGhwdy0yTERfc3pSWW02VEdkZnZZYUtRbTJ5WjBRVkFVZ09VNmNiOVU3NzU5eTU0NTJsZlY5UmJSTzc0M244eWVNZlA2d3h5SjBIMWQza3JFS3lRd3d3SUNSUDlvTGFNanJXZmh3UUV4ZHVLSDZLY1ExX0tRT1BITTBjMElrQUtQRENRenU0MDVQWHcxTkh4aEVhanhyT3ktR3BRUm5JWkd3?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
-   "source": "Al Jazeera",
-   "time": "2026-11-03T16:49:10Z",
-   "link": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Faces Further Downside Risks as US-Israel Tensions With Iran Persist",
-   "source": "Investing.com",
-   "time": "2026-11-03T16:49:00Z",
-   "link": "https://www.investing.com/analysis/gold-faces-further-downside-risks-as-usisrael-tensions-with-iran-persist-200690792",
-   "tags": [
-    "GEOPOLITICS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "There’s Always Hope’: Fighting Fear, Lies and a War We Can Still Win",
-   "source": "The Times of Israel",
-   "time": "2026-11-03T16:43:00Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYy1fUThibkI5VmdCbjdJMDkxYjVXNFVSTFpBZml3MGRTb3dnSENWTWltOUQwR25fbGJlYkNCMWxMYk5RQnhOQ2ZwR2JHSWFsVmJwd0dpcWNpZFZJemRtTnhsU19nN25oeEpIRUd1bE5vUnlLOElLNERtZElMRVAzS3FuSHVSQ1F3ZHlmZ1NOeDFrWWJzRmhwaF8wY2hMUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Tuesday, November 3. Russia’s War On Ukraine: News And Information From Ukraine",
-   "source": "Forbes",
-   "time": "2026-11-03T16:32:14Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPekx5bi16d2lRc0FpSzY1UEwzWW9xX0lmU2ZjRVpuOHE5ZnpvWS1uSHlFUlZDUzNYN2tiWHB2VTRDblJjQkVVd3N5TW5sWENVdlpPd21rVHVCVlM4N2dFRVZSMGptT290SWNsVlh5dWFqeWRiVTV2aGlFcVU2X1NQejFxYnoyQkdpeE1hWHUwUEFONGFJb1hzdllLWTVwWnhZa2NlYVRaS0NFMjFLbnJjTmlNOWRWdXdhNno4Q1VlQk85S096eVRn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
-   "source": "The New York Times",
-   "time": "2026-11-03T16:32:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGZTblZsbjZNdDJDekcwZEpYeXN6V0k5dnl2RnRzNzJuQkNsb2UwYzlyRUFzbXpTX01VREdNRnVGcG5UNDBzeE1VRWdTUkhJTFF3dWlzZjBFZVNHLThzQ08zRmVGVnB5Qkt0V084UzUtbzc0SC1QbmNuV09UaTgwQmVMUlJGTlFka2Yw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russia is maneuvering for the first shots of a space war",
-   "source": "The Hill",
-   "time": "2026-11-03T16:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWJWUEZaZGpHT01MMkE1UzJlNXVSRVlsM0dmaXhPNjlKWnFndDNxX3o5XzU0R3RVSzVhQklSc3J4OEtsMHZGMnpsQURzTzVDcG45RmJLVUp0bk53dHV5S0pxdk9jY3Z6cEJxSVBWb1JkVEhxb2JZRVBMbXYwRVRDak1HV0hZdUxXSUV4dk50UE40U2xibmfSAZsBQVVfeXFMUHgyck52Yk1ESEp3NC1QWXpzeHJweHZGRkZHZU1rNVFPNWVsWjdITGthVDN2bE5ZYXJERmhvQkpWREpIWk1BUzJMQlpjVGczNzVlbkkzZjFVTk9pYVRnOW1qRGc5V0syalpBLTJjQnMtTm1vZ3V0OXVFMXdTalJhbVNTWXN6TVFicVhNX0dfT1l3M2VhSzN3eDVBU00?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
-   "source": "Al Jazeera",
-   "time": "2026-11-03T16:22:15Z",
-   "link": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
