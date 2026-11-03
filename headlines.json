@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T07:59:53Z",
+ "generatedAt": "2026-11-03T08:28:15Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 11
+   "kept": 12
   },
   "investing_commodities": {
    "http": 200,
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 3
   },
   "marketwatch": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 28,
+   "items": 27,
    "kept": 12
   },
   "gn_fed": {
@@ -91,18 +91,18 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 12,
+   "items": 13,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 39,
+   "items": 40,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_yields": {
    "http": 200,
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 4,
+   "kept": 4
   },
   "fed_calendar": {
    "http": 200,
@@ -126,12 +126,39 @@
  },
  "items": [
   {
+   "title": "U.S. strikes Iran’s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
+   "source": "CNBC",
+   "time": "2026-11-03T08:27:23Z",
+   "link": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Swiss inflation hits 1.5% in October, above forecasts, on fuel costs",
+   "source": "Investing.com",
+   "time": "2026-11-03T08:08:35Z",
+   "link": "https://www.investing.com/news/economic-indicators/swiss-inflation-hits-15-in-october-above-forecasts-on-fuel-costs-93CH-4993743",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
    "title": "U.S. Treasury Yields Rise as Markets Await Midterm Election Results",
    "source": "WSJ",
    "time": "2026-11-03T07:44:00Z",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaUFIeDZYYmVzNlpvem1wamJOSFE3dlhxdnYzandzUUhNVXd4TnBoZ3RTekUxY1NOUDEzQmt4cnZCUTVsSTNhSHhjbkZGWmUtTU1yY3Z3cnVxdWR2a2NnaXdEOVlIeEEzeUZ6VTJPTzdRRGtFSW5GUklpLW5zRHZqS0pVdnYxRGktV0ZLM2tPQ2o2STgxcGtqZzQ0Zm9wdFZCZWdrV081b3l6SHNzN0hkTWNSVQ?oc=5",
    "tags": [
     "YIELDS"
+   ]
+  },
+  {
+   "title": "Swiss inflation surprises higher in October but core prices offer some relief",
+   "source": "ForexLive",
+   "time": "2026-11-03T07:30:07Z",
+   "link": "https://investinglive.com/news/swiss-inflation-surprises-higher-in-october-but-core-prices-offer-some-relief/",
+   "tags": [
+    "INFLATION"
    ]
   },
   {
@@ -157,6 +184,15 @@
    "source": "BBC",
    "time": "2026-11-03T07:24:12Z",
    "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russia says it struck Ukrainian electricity grid facilities in massive overnight attack",
+   "source": "Reuters",
+   "time": "2026-11-03T07:06:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYm9uS1k1WU51blRLaEdJU2ttZUxELXRwLUV6UXJta3pWMHEydFVZLUlGQjYwNm9CZEdTUE5BaTY1ZVBnWGxnQkFaU2dFVWV4bFJaZTZueV93U1hIeWhVNmR6TWJPOGY5bWJLdnREQVY0dDB3bkI2NkZkYXZqUnpmT29DTzl2S0w4b2JrZzNTeTVrOXQzcWZ5NVlVYkp4RGpoaE9DaHI5cXltaWdHeWpyZExJYlJUeTg5dkNz?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -329,6 +365,24 @@
    ]
   },
   {
+   "title": "Trump Says ‘There Hasn’t Been Shooting For Months’—As U.S. Strikes Iran",
+   "source": "Forbes",
+   "time": "2026-11-03T05:44:54Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRlB2cXd3TTR2UHpMWWRYRTRYWjBwTC1icmlYNWVabC1XTFQwRjBOeEd5aldjbU5RNEI2N1JCaTEycGNMS0RreE05cGI4VUVTWUhoY3NwVDFkTHNBb0RFYzF3OWwxRVNJbXRza1MyM3ljN3ZJQnFRa0dEMWxZUGNSMW4wYjlkS01ZdDhsbGwwZUhlVG0xeFV0bFF4VVljWkhROU5YTG1XZld6THUwS2Z0TkRpNFR4enpvWFJoZg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ukraine war briefing: US to mediate talks with Kyiv and Moscow in Abu Dhabi next week, says Witkoff",
+   "source": "The Guardian",
+   "time": "2026-11-03T05:44:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPXzVEeFJxc0VZdlI2WG5FRWVweTBJOHlVVU9WNjdLc3NMb1pnd2ZjdmFzOW1TS2NGZUh0WHQtQkw3WDh6SU9COHJfRUZrOVRCMzNuV2FqRTZBakVjWWZEN1llYm9nc1loNUZabktaa1ZmS1BMVFdxODNlWFgwRl9xa0F5U1VGVml1V2l6ckR5anV5TGlFUHFKVE5VTVVrQThwTndRVEZkMzdRMUg3cHpBVjNEQzZqX1RuVmwwaW1Xc0FmaExhNXJoU3Z2QS1TUGRVcTgzS3RBSVFPTW8?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Aramco Profit Rises 9% as Refining, Oil Price Drive Earnings",
    "source": "Bloomberg.com",
    "time": "2026-11-03T05:42:00Z",
@@ -457,15 +511,6 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbmczQTNqYlpxMmhIY3h2clhNRzJrYXNucFRGendfUDJaTjNacy0wMDlCNGlTQXNsdlJlZzlRZW9PenoyTDhUSUlPeGhsQTJaRklsV2F5OVlINHB6N0EyS1FxV3g1Nk1Pd2xJS3ZmSFZLR1ZrTVVjcXNOT2hPYkVMbWYzWU9mZzhaWDRyZTg5T3E?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
-   "source": "CNBC",
-   "time": "2026-11-03T04:27:41Z",
-   "link": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -632,52 +677,6 @@
    "source": "CBS News",
    "time": "2026-11-03T02:52:00Z",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TeXlqY01ONURoNE53TFo3aGpqX3lyTE5yeTUxcUpoUGoyMEVPa0dvZ2wwVkFaNy16R1kxRTFWUXltOEVPUjJBR2pNS2dFQmNjZ3c3UXJ5RUhHRGsyTEMxb1FJOGM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Indian bond rally seen extending on weaker oil, Treasury yields",
-   "source": "TradingView",
-   "time": "2026-11-03T02:47:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQzdKWFpuZnQzWnJoOXlZaFBZVmJYeHh4ekM2MFZZQ2NXWk9VUDFseFRtcWotcm9iNVIzQkRNZi1iY0hHX1FUY0RXeXJhMUVDc1VPNWljRW0tc3hUTUhvdkU5RThpTEZyVXJkXzZtMW41dF9UbTNGWFhCRXE3RHo3aHNSd1AzR2k4dW5PdGtTcjNDRDdDUmQwdEl5UVdEX0J0VUNsM1dOZHliQXJmRkFxV2xldzBUQk9UclREcFd0aW1sSmxSc0Y2SnAwT0M?oc=5",
-   "tags": [
-    "YIELDS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
-   "source": "WSJ",
-   "time": "2026-11-03T02:38:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmVhWVpoUFY5Q2J4OGY3SlRPdnpxbFhHaWlOT2V6NUdXaXl0SjVQWnNMVXdIQV9KaFdfY3dOMFpqRFF5VzF6WWh4dnNERlJidUVhbEliWmt6ZVhuUThYN1pac2NHWTR4MnE2Q2JPLWVJVkFzckZucFNMRWFHQ3RkU1JwdTBGM1B0X0dEckpoRHFzSG5Mb0V1MkF1M2hHSW1obXZuSGhGQ0dodEk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US has conducted defensive strikes on Iranian targets in the Strait of Hormuz, US official says",
-   "source": "AP News",
-   "time": "2026-11-03T02:38:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZQOGFnNWxyTG91ZkxGMkdDdlNhd1RuRUZzblYtZGxfOGpReXI2cE5oazAzZkFQRW96Y3VrUkdfenVFWWtPS1BfaFBYYWQ1WVBMVmpuaTZuU3llOGZNMF85QnVGRHAwZlphVWVoaDFiZWhoMWVjalhyTE5na3BVWjVHcmIyWDFoU0FnU2ZBaFZyOE5GRGJqQzdR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US to mediate new round of negotiations to end Russia-Ukraine war",
-   "source": "Politico",
-   "time": "2026-11-03T02:38:00Z",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmd4MGlCNkFaMVd1YWxXRXBsYmZOMXZ0YW5jdE5wUXBWX3RaVjZDOEFvaWhqLUMtQ0tZN1hReWxvZkFEUjQwUVBLcTNFUHRZRW1QQzFMU2dSdUY3NldPUlJfbER0cFJyaTBsZ0hGY1daWTV3RUkzaDRSdHlyMWRmVjFuQWJuZmx0WGtMR3RmTG80QQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Don’t read too much into these midterms",
-   "source": "The Washington Post",
-   "time": "2026-11-03T02:37:45Z",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ3NIYldwbk13cjdqRTg5bEM2QVl6ZURuVlJ0djRFbUF2dzM5Mm9lSGxvYWozSWRkdURmOFNUOEdpa0NmUUVhWkJyTG1WLVozV3VndUl6cVc3Mk9DYWhsMHRacGJiSE56c0QySk9ZWU9wdEY1MWVYVnJlbzlXM3BELVA4enU5RWhkU0MwM3h2WjRPQQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
