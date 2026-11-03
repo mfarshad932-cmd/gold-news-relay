@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T14:36:42Z",
+ "generatedAt": "2026-11-03T15:05:03Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 3
   },
   "bbc_business": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 25,
+   "items": 26,
    "kept": 6
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -86,8 +86,8 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 11,
+   "kept": 11
   },
   "gn_tariff": {
    "http": 200,
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,13 +126,41 @@
  },
  "items": [
   {
-   "title": "U.S. crude oil falls below $95 per barrel as market hopes for diplomatic resolution to Iran war",
+   "title": "Global food security is under threat",
+   "source": "Al Jazeera",
+   "time": "2026-11-03T14:58:35Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDVnUURKRVVDTUhKbG5kbENIdjh3VzY0TnhpRi1tNS1pX0QwWHJuZVkwNFpXTW1XOTlnSEQ2NDhTZHZIYkpNLUVCalZIa2NlZHBaWEFQZ2NieEtWa3d4a2NyZ1Vwb0xuU0ZKMnZ1MTI0cEVmMmFtSFNRQ0xZZWpVQ0tBNnFGQTJ2Z0JWbGFHRdIBlAFBVV95cUxPRE92UE1HSGtQRGFFUFFRcm5IWG5laGlkY1pRRFhrVFYzR2diNWowbFRWdDBpbmI3cEJSN3NUam5FM192NzlHWDFNNVljV3hSLXJoNTh5MnZnRVhuckNxQjlvWHhSUlI0ZWxXV0ZUeGdmbl9TUUwtVUVDQno0N1dXcHhyOGp5eXd5UmJabGs0aTdzbEZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
    "source": "CNBC",
-   "time": "2026-11-03T14:23:53Z",
+   "time": "2026-11-03T14:57:03Z",
    "link": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
    "tags": [
     "GEOPOLITICS",
     "OIL"
+   ]
+  },
+  {
+   "title": "Opinion | She was shunned after her rape. She went on to help 33,000 others.",
+   "source": "The Washington Post",
+   "time": "2026-11-03T14:41:53Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3RvUTJrb1Bydy1MS0ZWSE00dUdPNWhGNDFJQlFwa0owbF9GaWVZMl9jSDVsZmd6YVdiZjRaS0lUSWdtRHZTWnpiczRoRW9hdFcwdUhXWDg1RjY2QnBfNWtyVlA3U2Z1R0hBR2VySDN2NU1uOC1FNmdGY3lJbjNXdTgya0tLdzJkVTFudWtmeFpCLXJWSXRNSlZfWlJmdkV0VUd5Q0xEaFc2RU5JY0xhLUl3?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Beijing launches diplomatic flurry amid threat of renewed U.S. war with Iran",
+   "source": "The Washington Post",
+   "time": "2026-11-03T14:32:43Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaHFDbXl2ZjRFNEF3bXNkWGo5QlNhOVI1Mkg5aG9MOUlONXBidFY2X2FXZjZVckJ6ZTA4VnBBdnFXLXpQellzdFdXVm9jUGktak5MLXhOb1Jwc09jRTg4LUpfU3B5TXA0U3M5ckNBandUWXhWMTJBb09nOENTZmdzdkZVSlJxYnN5VXltcVo0UnBMQW5NaEpaV2RqMVlwTUV3MmQ4UTMzLVJGRDllZWNrZWVxX1d5YkFFNVpfdA?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "CHINA"
    ]
   },
   {
@@ -147,10 +175,21 @@
   {
    "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
    "source": "Al Jazeera",
-   "time": "2026-11-03T14:17:41Z",
+   "time": "2026-11-03T14:20:05Z",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGFNck1TVk81WWVjbFV5Qi1qWlZhLUk0Q3AyQVpMQUhsNmxaN2g3VmpUdHE3dXVjV1lZSzN3Vkp3NmV0a2hrWVExeTRwTGdzNVh4My1CTnlvNW5SNXk3NFJERnpiNDViMm9WWEhDTC1qa1cxZjlYc09xeU9rU25rN18xY05TazVjTFVhRjZHVVVtOVlsXzQtaHU3X2RWeTDSAaQBQVVfeXFMT3hFU180UGM3V285SjlfbURRVlVib1M5RVd4OXNGeTNuVmlJZlNobzBzMEVhOUxhV3hmYXFpT2lwdFZMaTFlcFNpcEtmQ3VUSDJMeEltSWhQQklHYVM0V01QbFBzeFRwVFNndktaNGhIYVN4bWhiOHVLMkdSdjkzbXRVc3ZKd0JacHVoRE1oc0xjMXRvdnhLTjJoUlY5WmFrdGd3YjE?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold recovers as Oil prices slip, traders track US-Iran developments",
+   "source": "FXStreet",
+   "time": "2026-11-03T14:07:22Z",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcy1hX2IwSlYtRkVIdDMtTDJPLXdHckRBYklaR0piRjI2eWhfd3pNaWpKNFFzLTZsckRzdjRRYmc4elFVVVJXZ3ZUYk9KbzFGTjROU2l3NFlZbFNjRVNkaEdocmVXOUVYX0F6WXQtNjVWWENHRnJNQlF3bmVtX0oyT0FlUEZTUVU4NzRWVG8tbjVMY1IyR2NKdzhCbGNSU1QwdFFoNDcwd1FQRFFjbzRZa0o4VzBWWXJDYURVTktUUjNXdVRFSFZrcQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL",
+    "GOLD"
    ]
   },
   {
@@ -181,10 +220,10 @@
    ]
   },
   {
-   "title": "Opinion | She was shunned after her rape. She went on to help 33,000 others.",
-   "source": "The Washington Post",
-   "time": "2026-11-03T14:02:03Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3RvUTJrb1Bydy1MS0ZWSE00dUdPNWhGNDFJQlFwa0owbF9GaWVZMl9jSDVsZmd6YVdiZjRaS0lUSWdtRHZTWnpiczRoRW9hdFcwdUhXWDg1RjY2QnBfNWtyVlA3U2Z1R0hBR2VySDN2NU1uOC1FNmdGY3lJbjNXdTgya0tLdzJkVTFudWtmeFpCLXJWSXRNSlZfWlJmdkV0VUd5Q0xEaFc2RU5JY0xhLUl3?oc=5",
+   "title": "High costs and Iran war shape Iowa's election",
+   "source": "BBC",
+   "time": "2026-11-03T14:02:31Z",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xZ3QyZ0RreUVLQS1jdmJqdVZqcnRfWDBFdldQVjdqTWlpRUtZTnhIQzJzRnVJMVRLT1dwRkJRbTItNDBtTU0tbV9ReHE0MHB0bDJrbzJEY1g?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -217,10 +256,29 @@
    ]
   },
   {
-   "title": "Trump to Unveil More Tariffs After Midterms as $40 Trillion Debt and War Costs Raise Revenue Pressure, Sa",
-   "source": "Benzinga",
+   "title": "Gold gains, silver slips as U.S. midterms and Iran strikes unsettle markets - Kitco AM Report",
+   "source": "Kitco",
+   "time": "2026-11-03T13:55:31Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnA5S0hlcXVfc0h5V0dlanBjU2hJdm80cUE1eGEyQXhmb1R0WnNoOGF5LW1ySlFtMi1aaXEwQnZWbGxTV1RSSDQ0c19TN3AxN2VMV0l3SFBMRHN5S29Yc0pvOTFxSjNSUzhYWVh0ei10b0hxQk82azVIV21oWFVGSTgzUGxhVUU5aHhoWHZ3S2ZjbC1QWHNQd05IU0g4cE1xeDdSaFNvWG1kQkx1MXBQQVZ0MVFPU0JOS3RSR1Vn?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "India ‘nears agreement on bulk Scotch tariffs’",
+   "source": "Yahoo Finance",
+   "time": "2026-11-03T13:50:57Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVVp5NmxFLTAyTkRGeWVXdF9QVUNPcTZxQzM4SEpkZFdHOEFiZW0xcXpPRWpucm1SRHNQQjNiQXNTU2NWaU9vVGlzdDYwZXcxbVIxZlFNVC1PSXJ2QlZyTjhNLXVLN21JMndmNW5sYlZDSDcwSTRTSXRoLUcxU0t3eHNPNVhvUEJ4Um5qd0o2VS0wQTBQYlhHSDl5MWlfZ1E?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Trump to Unveil More Tariffs After Midterms as $40 Trillion Debt and War Costs Raise Revenue Pressure, Say Top Economists",
+   "source": "TradingView",
    "time": "2026-11-03T13:47:51Z",
-   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQYlhsYnp4My1VbFR3TXBiSDZOdE41UFJkMHZZWWtwaDRuSDJyQ0kzcllZdktzX2I5WWptTzAyd0hQVEZoalZWUC1EYzItUWlGaVMwMVFFMG5NaTM1cjFXelg3QW9wQzQ3U2VEd1lldkxySlY2WHpXbVJOV1N1WnNMeTZnSE82eDktREpDSTVPQ0xOeGloOHFJeFA1X0huTkx6UWJ2TlZTWFg2T01VTzctR1Vhak9oSGEybFQ3SDI3dnVOMWE3Xzk1dlZjVHRDMUxNOUl0b3U2SEI0WTgwWlNJajN5TVF6czZwYmtyZEFWMzhXWVRCR3VoNXVDMDVxZWhrTllJT1RuRUJVU1ZqNG5aTzhGZ3pMaU1o?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQck02RUdYV0NFaWdxd1dtXzFKd1dabk5veEwtNDVpWkdhUG5xejNLRUhKVTJ6RWpDTjZjNGpPSS1WRDdHZENsV0VfUjBsWmc0NnFmTFBXUWlJVmhKY1BDWTFOa19wR3JEU0Y4b09rR2JKckt2NzhOYkYtdDU3c285OFllMzA1UUJhUG5Ra2RtdkhiT0xvMHBSbGQyU0xsRHd2dkIyelZrOTNIYTBMZlluOFlxWmd0T2dPdUpYaHJTX0lob0I5R2V4N0MtZG1EX21lM3FwcGdoZlVUdHoyanNmM2NiTm5FZFhrYUZ5OVN3amgwQjg3eEdzZzJtOUZzaDJJZ2l5MDFMQ1FsUQ?oc=5",
    "tags": [
     "GEOPOLITICS",
     "TARIFF"
@@ -236,7 +294,7 @@
    ]
   },
   {
-   "title": "Trump says that US will stop paying Israel aid after year-end",
+   "title": "Trump says US will stop paying Israel aid after year-end",
    "source": "Al Jazeera",
    "time": "2026-11-03T13:42:05Z",
    "link": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
@@ -298,16 +356,6 @@
    ]
   },
   {
-   "title": "Beijing launches diplomatic flurry amid threat of renewed U.S. war with Iran",
-   "source": "The Washington Post",
-   "time": "2026-11-03T13:27:48Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaHFDbXl2ZjRFNEF3bXNkWGo5QlNhOVI1Mkg5aG9MOUlONXBidFY2X2FXZjZVckJ6ZTA4VnBBdnFXLXpQellzdFdXVm9jUGktak5MLXhOb1Jwc09jRTg4LUpfU3B5TXA0U3M5ckNBandUWXhWMTJBb09nOENTZmdzdkZVSlJxYnN5VXltcVo0UnBMQW5NaEpaV2RqMVlwTUV3MmQ4UTMzLVJGRDllZWNrZWVxX1d5YkFFNVpfdA?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
-   ]
-  },
-  {
    "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
    "source": "BBC",
    "time": "2026-11-03T13:26:19Z",
@@ -337,7 +385,7 @@
   },
   {
    "title": "Saudi Budget Deficit More Than Doubles as War Strains Finances",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "time": "2026-11-03T13:19:41Z",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjRUOGlRYlNrUHVudVVKTnBFa295eTJ1bzJLOTA1cE1MTjZoR051dEV6aTVYd0p3dG5mcjVOa3hCQXRqN1RZMFh2VjYwaVhpRkM0amd3VnpKSFlyUEZqR1hDeFVsbzhFMFpKNkVnbmhxWldhZGJiM25UREt1Tl9SWkVPYmx1MzBJY0MyN2xsOVNHeEdWT0dTU1dFcFp4dXQ3XzVTWXZBTDBLeTRsdm5qUzJnQQ?oc=5",
    "tags": [
@@ -590,15 +638,6 @@
    ]
   },
   {
-   "title": "Gold struggles near $3,900 as traders assess Middle East developments,US election risks",
-   "source": "FXStreet",
-   "time": "2026-11-03T11:12:38Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcy1hX2IwSlYtRkVIdDMtTDJPLXdHckRBYklaR0piRjI2eWhfd3pNaWpKNFFzLTZsckRzdjRRYmc4elFVVVJXZ3ZUYk9KbzFGTjROU2l3NFlZbFNjRVNkaEdocmVXOUVYX0F6WXQtNjVWWENHRnJNQlF3bmVtX0oyT0FlUEZTUVU4NzRWVG8tbjVMY1IyR2NKdzhCbGNSU1QwdFFoNDcwd1FQRFFjbzRZa0o4VzBWWXJDYURVTktUUjNXdVRFSFZrcQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
    "title": "Election Day, Trump's Closing Message, Iran War And The Midterms",
    "source": "NPR",
    "time": "2026-11-03T11:03:34Z",
@@ -632,43 +671,6 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTDI4N2dhUWF5M3B5MWJBMUhKeTlGenR6X2ZQaDBnNTFhMldYMXpWajRWd3lfWUM0cDZfYzhkcVN4MGpZcmEycVQ3bDkxajE1NnlWX3BQMGVPaEJ3NWNCaDZIS1RSLXduMVd0czhwSWNPeGFNbG55V0M4d3dQWFhwVWtvNG4?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed’s Rate Hold Sends Bond Yields in Different Directions",
-   "source": "WSJ",
-   "time": "2026-11-03T10:59:27Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzhGN0RDSl9wZ0hDWi1fcGFTRnJHUTAzeEhUY1BZeVFJU1ZyaVFPdDkzNm9sVTVmcm9pSkxRWjlTOHRpSjlPNmxUb0pPaHBN?oc=5",
-   "tags": [
-    "FED",
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
-   "source": "Al Jazeera",
-   "time": "2026-11-03T10:55:38Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3VQMEhEWThtQUQ1MnNyMzlyTTNkVE5YQTljdkRXOHFsNjc4WVRMSVE1UDhxb0V2MnpVd3otLVJSempBQnRwVEdIbFN3emJKRGdWMGZOZ2ZuYm9zODY1V0RmZFFWV3ZLYkxZZ1ZySmY4WWU1bWwtcUwyT011eENIMlUxLWdCV294SXZxcHZ4ZjJPT2VGODFjN2xkRjNLX1RzSHVNQ0cwTldvaDdlbzFfMg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Global gold demand down 1% in Q3 at 1,360 tonne amid uncertainty over price: Report",
-   "source": "TradingView",
-   "time": "2026-11-03T10:54:13Z",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUjZCY04zME4yUEo3NGNhSXRKNERPLUVrYlQ4Y1RPSFV4Rmtyc1c5a3dJTjUyaS1PVnBwMXFVYjNZVnA0b0E0aWJQbDB6OHlCNFN2Njhzc0dHSmo5ZmZBWWlyYUtCeXhwazlxYWNTdW1Sc09LM1Z4OWU4dXUwTS1Bc2ZRQlkyNW4zcEllb0FtalYtbDhQcjRJenU0U1YzU01vS2k0dWRCbGJuWFd6bEpGWWpVaHIwVDlMWjlfckYxSF9sbmJ2Z0tHMGxBYXpFXzY2aTZobGhNOTVzNExF?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Oil has had a massive run, but a prominent bull sees a turning point on midterm eve",
-   "source": "MarketWatch",
-   "time": "2026-11-03T10:54:00Z",
-   "link": "https://www.marketwatch.com/story/oil-has-had-a-massive-run-but-a-prominent-bull-sees-a-turning-point-on-midterm-eve-be2c5fa7?mod=mw_rss_topstories",
-   "tags": [
-    "OIL"
    ]
   }
  ],
