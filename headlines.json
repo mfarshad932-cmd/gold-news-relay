@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T22:11:37Z",
+ "generatedAt": "2026-11-03T22:39:57Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 6
+   "kept": 7
   },
   "marketwatch": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 3
+   "kept": 2
   },
   "bbc_business": {
    "http": 200,
@@ -81,13 +81,13 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 38,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "gn_tariff": {
    "http": 200,
@@ -101,12 +101,12 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 5,
+   "kept": 5
   },
   "gn_yields": {
    "http": 200,
-   "items": 19,
+   "items": 16,
    "kept": 12
   },
   "gn_oil": {
@@ -126,12 +126,50 @@
  },
  "items": [
   {
+   "title": "Gold (XAU/USD) Price Forecast: Critical Support Holds Amid Growing Downside Risk",
+   "source": "FXEmpire",
+   "time": "2026-11-03T22:39:20Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc1h4eWZvaXpzM0hRRXJnRTVwczNIQ1NMSjZmVzk1dEJndlA5bmJYZXpHdWVIUHVzRVJkb05KN2VRMkgwakhsMlVFdlZXenZwbW1IYWtGb3ZadmVtQ1pXQVFqZ1RMX09ucTNiQzFzTWU1WEZyQ05qRjNtdHF0UFZWZjVyNS13NTNHa3pPbzNKak9Xdmluc283dUQxVUhfcXVBd3lsN2o1ekNnWDlMU2xvZXBxY1l6UXItbndtWHRhOW9kSjBabi1j?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
    "title": "AI’s control over the bond market is growing — even rivaling war and elections",
    "source": "MarketWatch",
    "time": "2026-11-03T22:06:00Z",
    "link": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories",
    "tags": [
     "YIELDS",
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Breakingviews - COMMENTARY: COP31 will show up the folly of cleantech tariffs",
+   "source": "Reuters",
+   "time": "2026-11-03T22:00:52Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOGduQXZiWG9HYXlTSVRybEdMWlJZOUdfMlZOSlBaOVk0Y2hWNlVrUS1WWHlTUGJ1TDVDTmFzRGZrcFlkd3l4NUt5M2xJaXh2X0J5NDhid1FJc2ZfNnh3OEhiQ19xel9xTFVja0laamtGemFhY2hVV084ckxDU0xZdWdJZGR0Z3daRVE2V0V6YWVNYzM4bE1lS3pqU242ZzFEcTZjYU93?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "U.S. Crude Stockpiles Fall Sharply, Surpassing Expectations",
+   "source": "Investing.com",
+   "time": "2026-11-03T21:56:09Z",
+   "link": "https://www.investing.com/news/economic-indicators/us-crude-stockpiles-fall-sharply-surpassing-expectations-93CH-4996649",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Dollar Rises With US Yields as Focus on Iran Outweighs Election",
+   "source": "Bloomberg.com",
+   "time": "2026-11-03T21:54:19Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFQ3WWNUdmpsME9pTGJxOEVCZGZoNkZ0RDV2dFZMcDVRUTAycFRwNUFRNWdwbHBmTHV6SlRhOW96SkFIVlc0cDRpdXRUM3R5MVphNmJDZlpKdGgxV1BHVzRDU0FRRnNFVmMtU1VKM1dXN1I0V19HdHAwcTFPU3JDUHZkRGNQUV9yaHNvTldzVmM5Qi1ZNUhTU0ppb0VINnF1Vm9wTC05WjZlMTU1MnY1czEyRmI?oc=5",
+   "tags": [
+    "USD",
     "GEOPOLITICS"
    ]
   },
@@ -260,6 +298,15 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSTJXZjVRQmtlMmNMVmFsblY2QkxEWm0yNjFWcmhxMXNTdzNYemo5Wklpam0wZFNxTjM2c1JFa00wMF91Tlg3QTNBNG9rakJtSEdXZDd1c1lUbC1ZRW85ZUJqR05PdHB5RXNodTFPUnBNak9ocjlfMWxvYnB1Y0NFVHJrTlljVUd5UFRDMlJxT1J4QXZaam5uNFNNUXVDVlctejFaTmZZYklWclhtNUV6bU9sN1k?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Treasury Yields Edge Higher Ahead of Quarterly Refunding Plan",
+   "source": "WSJ",
+   "time": "2026-11-03T20:43:00Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY3hBRUhPN1FNaGdOWnFkQ2d0QkZ5eVV0RDFMRXBVcHdxNDI5b3IyQVF4bjlWb19CNTFOU2FRTUJaVTBrYTUxR0h5WEF5M2F2V2dTUlJkZDA4NnNQUHV4dF9TdFpMVVJ5RFZaa09VYXhPcjhEV3VNZF92aWJ4MExLYzhDcTRmdXU1Qy1LYkRiaDNTVlhTN09qLU1mbV9Ddw?oc=5",
+   "tags": [
+    "YIELDS"
    ]
   },
   {
@@ -568,16 +615,6 @@
    ]
   },
   {
-   "title": "Dollar Rises With US Yields as Focus on Iran Outweighs Election",
-   "source": "Bloomberg.com",
-   "time": "2026-11-03T17:49:16Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFQ3WWNUdmpsME9pTGJxOEVCZGZoNkZ0RDV2dFZMcDVRUTAycFRwNUFRNWdwbHBmTHV6SlRhOW96SkFIVlc0cDRpdXRUM3R5MVphNmJDZlpKdGgxV1BHVzRDU0FRRnNFVmMtU1VKM1dXN1I0V19HdHAwcTFPU3JDUHZkRGNQUV9yaHNvTldzVmM5Qi1ZNUhTU0ppb0VINnF1Vm9wTC05WjZlMTU1MnY1czEyRmI?oc=5",
-   "tags": [
-    "USD",
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials",
    "source": "The New York Times",
    "time": "2026-11-03T17:48:04Z",
@@ -637,43 +674,6 @@
    "time": "2026-11-03T17:26:02Z",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZUdSQ0ZWVU5mS2s4eTFXcE9rdGxqaFIwTEhHb0YtN3YxckpNOXR2UTd6d2JtcVVkLUNhY29yeGVmLURLam9QSmU4dlphcmt2Q3ZNa2xUOE5TTU5QZWJZNFBRNUtacXc1U1YtUk5jVDlKal9QUGRBQXpMcGR0WElEbl92QjVqSHU3blg0?oc=5",
    "tags": []
-  },
-  {
-   "title": "Iran’s chief negotiator says the US must act to prevent renewed war, and other Mideast news",
-   "source": "AP News",
-   "time": "2026-11-03T17:24:00Z",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2pBMjlPX0dlMUxUN1BQVExSMVRwRTBnQkx6TkFaRW4zT1NsTE9jNzhHbnZSMVFXd1lHQ3gwWFJEbW85aGdhbTJVY0VWN1FyTVZLTUdSblVHYzAtTHVoN2ZvZkNyWWtPR3pVVWRBSUxaTWZldUR0QktaZWlMSm42cEdiWFNhcUIwNFdpUUN4a0JjQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iraq boosts Turkey oil exports, signs West Qurna-2 deal with Chevron amid war",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-03T17:19:17Z",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92d2I1U0dQWjAydkVQRWNfZ2Q5SUNtQnJuSHZwUTk5cWQxV191bXdpaEJYRUZ3NU8zaWFIYm5NbzdZOHZjTGhqYldndXJXbFJlbzdnN3V4LXZjVTN6?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "US, Iran Weigh Mediators’ Proposals Amid Limited Airstrikes",
-   "source": "Bloomberg.com",
-   "time": "2026-11-03T17:15:40Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOby1TUTRsc2lsVkxydkY0QnEwSU5XUW13Wnd4cG9GMzJZWFUzOFlaRWp6cjJjMnBZdUtzdmJ6d3BUMVl5bXBtQmx6ZXJTY004b2YyRXdOdDBzdGxsSGdDbTY4eWxvd1FsRW9IdDhld2plN2dMZmEzdFJEa2hIbUhMTnFJRF83V29xOTlOWXd0aU1LZ3BhaGYycUxNZWoybjBRVXQ3QjR2TEd5UzBj?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Silver Hits 1-Year Low Price On Tuesday As Gold Also Falls",
-   "source": "Forbes Middle East",
-   "time": "2026-11-03T17:06:59Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN0djQXVzNzExRmlSZUtNeV9zY0NTT3RvLUNVTk9SX1ROa3RfbDBBcTBiVlV5LU8zOS0tU0pNeUNoakRvRE02NUtHM3h3NWxaV2NvNHdNZDR0eFJsUVhVZzdSNGhwSnJjcEd2ZVBiUU92cmsxYTBFX2EzMlpmNXRERE5FMWVNSnZTcGlZU3ZzdUFRaUxHeExvbDdtdzNDYlA0Nnlfejdsdw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
   }
  ],
  "fedCalendar": [
