@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T07:09:52Z",
+ "generatedAt": "2026-11-04T07:38:13Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 5
+   "kept": 6
   },
   "investing_news": {
    "http": 200,
@@ -67,7 +67,7 @@
   "bbc_world": {
    "http": 200,
    "items": 25,
-   "kept": 3
+   "kept": 4
   },
   "aljazeera": {
    "http": 200,
@@ -86,23 +86,23 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "gn_tariff": {
    "http": 200,
-   "items": 24,
+   "items": 28,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 39,
+   "items": 33,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 6,
+   "kept": 6
   },
   "gn_yields": {
    "http": 200,
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 1,
-   "kept": 1
+   "items": 0,
+   "kept": 0
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,21 +126,57 @@
  },
  "items": [
   {
+   "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+   "source": "CNBC",
+   "time": "2026-11-04T07:27:48Z",
+   "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Midterm results would have looked 'very different' without Trump's Iran war: Fmr U.S. policy adviser",
+   "source": "CNBC",
+   "time": "2026-11-04T07:18:08Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHpvNVo0bEJjMU92dGE0MjVTMVQzME1KMVVpczFIREZaZU5vU3U5RGNQSk1EMTRVZEZjcXZuQkpiV0pCZklOVmE5QVhMeVhXa1k1VE1xZjd5LTl3RXRXSVhVcXJhcThaY2llRUdmS24tRVFXOUMzdkowOXgxZ1hzeFYtYUJFeFVjMk5JaE5Pd1BUQzlpVndjS09TclliMWl4R0I0TA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says",
+   "source": "BBC",
+   "time": "2026-11-04T07:17:08Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Saudi Budget Deficit More Than Doubles on War, Aramco Fees",
+   "source": "Bloomberg.com",
+   "time": "2026-11-04T07:17:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjRUOGlRYlNrUHVudVVKTnBFa295eTJ1bzJLOTA1cE1MTjZoR051dEV6aTVYd0p3dG5mcjVOa3hCQXRqN1RZMFh2VjYwaVhpRkM0amd3VnpKSFlyUEZqR1hDeFVsbzhFMFpKNkVnbmhxWldhZGJiM25UREt1Tl9SWkVPYmx1MzBJY0MyN2xsOVNHeEdWT0dTU1dFcFp4dXQ3XzVTWXZBTDBLeTRsdm5qUzJnQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Why Did Silver and Platinum Fall Harder Than Gold?",
+   "source": "Investing.com",
+   "time": "2026-11-04T07:10:00Z",
+   "link": "https://www.investing.com/analysis/why-did-silver-and-platinum--fall-harder-than-gold-200690826",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Gold vs Bitcoin: Gold Reclaims $4,000 After US Election",
    "source": "FXEmpire",
    "time": "2026-11-04T06:54:41Z",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRENsU2xVblJKMGxZbkdSMzU0Z2U4SWFJbVNfMnZGQm1EeDRfZ1RsNXhEdE93WW05ckNyWVZaRk9JUmlYc2kxVnEtNVpNRERmbmxoT0pzenVUcElPOGxUdDdFb1lLa0ZVZ1Y3YmlmMmVZQlZ4b2tKZmlpRnNvc25zVzJBYWxuaHdzWVowcXZTdWQ2UVRzYjV0ZVZNV3FMNjVuRFppTEZn?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
-   "source": "CNBC",
-   "time": "2026-11-04T06:50:22Z",
-   "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-   "tags": [
-    "YIELDS"
    ]
   },
   {
@@ -190,10 +226,28 @@
    ]
   },
   {
+   "title": "US Crude Oil Inventories Still in Freefall",
+   "source": "Investing.com",
+   "time": "2026-11-04T05:56:00Z",
+   "link": "https://www.investing.com/analysis/us-crude-oil-inventories-still-in-freefall-200690822",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Brent Flash Crashes $6 Before Rebounding Towards $104",
+   "source": "Investing.com",
+   "time": "2026-11-04T05:54:00Z",
+   "link": "https://www.investing.com/analysis/brent-flash-crashes-6-before-rebounding-towards-104-200690821",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
    "title": "US midterms 2026: Who would've thought that a war would be a bad idea?",
-   "source": "ForexLive",
-   "time": "2026-11-04T05:44:22Z",
-   "link": "https://investinglive.com/news/us-midterms-2026-who-would-ve-thought-that-a-war-would-be-a-bad-idea/",
+   "source": "investingLive",
+   "time": "2026-11-04T05:45:13Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNW1NWU9Vc3h3VWZtZXVxWjJKSXBwcGIzYkdoWXR6dGJYREZweFZTdTRFNzRIcTVBOGptN0VFUE16YlNYdjBPMktCMklrMHRrclVscGlPTHNiUU9yN3FtaUxMbVlFTXlvSURqaVFUaDN4dkh3NFhoQnpDXy1DQjlqZjI0WTVyQkdxUU9mQnY0QjhVa3lqdjZSbjZLa3ZVMkdtcXc?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -208,7 +262,7 @@
    ]
   },
   {
-   "title": "Trump Says Iran War Contributed to Republican Midterm Losses",
+   "title": "Trump: Iran War 'Part' of Republican Midterm Defeat",
    "source": "Haaretz",
    "time": "2026-11-04T05:36:00Z",
    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTU00bWFYZmh4YjRjZ3NtdzdYMzFMdEhDeUNfdUJnOHRiX25nSWlrX3dqX3piMWlFUUgydFl3WDJNUlJkeS05aUV3TkFuUUtDYnFLNGV1bGRwSFBhNDBEZHN3OUJJb1BhRzZNdFlnM3hSTl96SWk0SzdMMG1VR2wwVy1YWkR3aGFkSlE0NERFbFBWcDNYdHoxYm1lejdDU2xvUnRkUVBubUVRenBaR0dUemlTanFTcVg4RHlSUGkwZVVuWTdEcnMxa2lFanZoSjJFTG1yeVpuUTVadTZPakc5amtnZ0hhYTlKZWVUVUJkSVZ1SWZYQTRBdlVxQTZ6QQ?oc=5",
@@ -613,61 +667,6 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDZTVjFHZXBWcUoteUpOakQ0T016RDVlQWxGR19KYnhEeEdfQzV3UmVLNkdEbWVCckxFbHZsNjhpcW9HQktmWGd5RmtobE1fWTJ4TnpqQlRZZDJRTUs2QzU4eW9zNl9ZeEpfRFk0OVRRTzRBVUJYS1F0dTFWRlNqNUFNV0taQU81MnBWbHd1MG5rendjb1g1X290RdIBoAFBVV95cUxPX09ka2RKeVgzdHdOWERZWHFGNWhmeWk0bHE5b0V3T3B0X19JQzZfcVQ0SHFkNXRBLWp3Sk1QMWduVU5sdy1DektIa19VeWtwTGNuNy1lbnU0OW0wazRjN1ZQdWJZdlp1N2kwSjc3RVhBaG40eFZTN0xTbE5xTHMyenZZazdlOXdqSHhrbkZrcTlzOGZiX3BnTy1tSThqTm1G?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
-   "source": "The Guardian",
-   "time": "2026-11-04T01:35:18Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHlUZFVMYWpEOXAzb1dVNVhKOFJ3Wjh5MVZtVGNpV0M1X1U3UjlkbHNQRmFQcVZ1TG5Zc2NSQkJWbURydGpXeTJtMHgtWGV0bW9SWEdIbmM5V2lDSmhMTUNEbWJqYkdTbnBYRzdJU0wxS3NpdlRSVnVfSEw1ZmNYMGxDSlJzaUMzTGhZZmktcDhNd3p1YkZMTGgxTVFnMkpMbVlNWjB3ODMzV0UyN3dBSVQwZ3BJUWxx?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "DNC chair says Democrats should repeal Trump tariffs, end Iran war if they win power",
-   "source": "The Hill",
-   "time": "2026-11-04T01:29:00Z",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeVpDbDdHMTBSUzNqaVV6STRLZVhyZUJBQjBpNTdQQ3lUaElvaVN5eEJqVUxvR3ZOY29ROTVxMWl5WkpsZm5CV3h3S2J2cWhrcG10N0hoMEo2YlhZNEFSd1B6b3QxbmlSLTM5UENJY2xTbE9LdVVDa1lxOXVVOGZIcdIBhgFBVV95cUxQcGljNXRSc3NKREhoeVpMbVQ4b0NkVllLR0RNLURmak1oYVREYnVYaEFWcTdaRXZ4UnpjQjdmRFBGNFpKUENobWR4V1J1aE5nTUxFa1ljT1owVC1va0tLTGRud2E4ZVlsRlI0dUMweDRYN3lCa1pUN2pjSnlBd2dZMDlwWlU2QQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
-   "source": "Al Jazeera",
-   "time": "2026-11-04T01:13:49Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Nomura Adjusts Laopu Gold's Price Target to HK$450",
-   "source": "www.marketscreener.com",
-   "time": "2026-11-04T01:13:37Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmN3V2MzVFlIZkJkVjY0WUR6T19kUGdGTUdQX21RVG1JVkRjQVNnNEU3dS15ZzVLNC1jaDlRUzRFSnlwTnRNeTFxbEJSODBNMHJVSVZleTRTV01UYnZicS10Z05yRzdXYTdPcndWUVZCUFJJYUpwTUxGRlgzM1c1SkQ3cWNsdnlJX1EyV3Bsb0ExWmZkeFd5Y2gwNTU2TFdZR2RpRmZn?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Ukraine war briefing: race to free dozens trapped under rubble of Russian strikes on aid hub",
-   "source": "The Guardian",
-   "time": "2026-11-04T01:12:47Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzduNVhmUVVuYXh2YUp2MFFMSE15WHpVQ3ZJanJQTFhvdzEyU1E3cEI2QUdrdWhQWEFwbUVkaUM4MldGanJMNHlBQmZDNmVqRTBEZTlVMlk2dWpFVUN0WEk2Nko1OVJjZ2VMODVVN1JnUFJDMFd6UUFQc0drcHBHN3BTV3Q3UnNleVQ5X2h5U052bGZHNlpWZ01qNXo1SFRtMlZDVG9JaFI1TlBfSXFV?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Recap: New Zealand jobless rate hits 11-year high, kiwi slips as RBNZ hike bets fade",
-   "source": "ForexLive",
-   "time": "2026-11-04T01:11:18Z",
-   "link": "https://investinglive.com/news/recap-new-zealand-jobless-rate-hits-11-year-high-kiwi-slips-as-rbnz-hike-bets-fade/",
-   "tags": [
-    "JOBS"
    ]
   }
  ],
