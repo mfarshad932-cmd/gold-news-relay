@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T00:04:58Z",
+ "generatedAt": "2026-11-04T00:33:19Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 7
+   "kept": 6
   },
   "marketwatch": {
    "http": 200,
@@ -61,7 +61,7 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 47,
+   "items": 51,
    "kept": 1
   },
   "bbc_world": {
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 37,
+   "items": 32,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 3,
+   "kept": 3
   },
   "gn_tariff": {
    "http": 200,
-   "items": 22,
+   "items": 18,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 40,
+   "items": 39,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,18 +106,18 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 17,
+   "items": 18,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 2,
+   "kept": 2
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 10,
+   "kept": 10
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,26 @@
   }
  },
  "items": [
+  {
+   "title": "Gold demand steady in Q3 supported by ETFs and central banks",
+   "source": "FXStreet",
+   "time": "2026-11-04T00:07:18Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeUhlVktHa3hRVTdKdzdGMV92d3FfbXhvOC1XRXA0RWNSTzFKNk9YdEJ5UExOb2ZMSWE1TVZiSHRUR3g1ZkJEU2FsemRLbmlQU3d5bkJVSEt5NF9mTmFKVmZjRk50Z3hNLXREU2ppbVdnTDlHVU5BR1lYTER2VzF0RjJETHh3RnhERW85UEw4SU9CS09YeXRJX0t2c3J6WGRXV19WZm9OTVhKSG8?oc=5",
+   "tags": [
+    "CENTRAL_BANK_GOLD",
+    "CENTRAL_BANK",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
+   "source": "Al Jazeera",
+   "time": "2026-11-04T00:00:00Z",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Trump’s trade chief pushing him to step up negotiations with Canada",
    "source": "Politico",
@@ -146,11 +166,20 @@
   {
    "title": "AI, Oil, Tariffs on Asia Markets' Minds as America Votes",
    "source": "marketscreener.com",
-   "time": "2026-11-03T23:44:39Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZERhbFU1bWJxX21fc1BMOXJUbTFSV3FPZXVoYy1fTHMyc0ZmUUFHcHpkc1FMZXlKZ1BCSWs2OVVDbElqbFBhWDh5TWNlblVLalpjYzQzUmUtd25tdmwxYzN0UEtrMldDVFFSc1pKTl9UM0NfV2VkSTNyZ3pibGkyZ0Ixak4tSngxcnJQbVBLUlV1emhYU1NxSWhYU016ZVB5T3h6RFYyc3FDdw?oc=5",
+   "time": "2026-11-03T23:49:35Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRDR3dThUNDREOHhjcnVjQWkybHEzeDZDYW9PWXN4cTU1Z21RUHhLUGRfVUk2aFhkZ3dkLWU2cng0U1BQZ054aWlJenEwcWowbVFUa2pLMDdDMHpQQnAxRUNSaUswX3VLM1NKUkk5eW5vTmZISkhuVktXUHdkNF9obEVONFlpVmxDNzRpdlBkYy1yZmlTRlVnTjUwYmVwNWx2eGN5NFFXZGhZZw?oc=5",
    "tags": [
     "TARIFF",
     "OIL"
+   ]
+  },
+  {
+   "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
+   "source": "The New York Times",
+   "time": "2026-11-03T23:39:55Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEZ5UW1FNFkxcXk5Y2pzN1hqR3dPZWdRRm9PT0phR3Y1cVg1N1E2RDk1ZWFCM2tCUnhvbVBHRVI0X2tfNEh6aFVmd3lxSGVvQ2s4SzRqQUFPMXJuUG5Sb19VMkpud1dBVVQ2VVBSMnM2WnhPLWVBTXFUZTlKcEJXRC1CcHdoUFZNWU5j?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -169,6 +198,15 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaE5NX2Q4QzNJNHlPdHNWOWNnT0VxdFE4dTdQLUg5UGQ5elNCbHVkb2ZpQXZjNGlDYnVUMHRsVFRkYk1fQW1hVWYwWlAtTmpHQUVsdVFmNGZuUHRtbTRmZUV1dDdDUE04OVlMMGFkdl82QzFrLXNKV3U5eGxwZEozMjBwZFJWVkdQamcyNXVwNGVPLUoyZEdvV05KVC1ySXRFS2gwTExHcEdxZkF5Qk1EbGJ0aDgyZXMwN1Z0Rw?oc=5",
    "tags": [
     "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "COMMENTARY: As markets sway, safe havens shine. Except gold",
+   "source": "Reuters",
+   "time": "2026-11-03T23:31:36Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWTYtYlZIOWhlYnp0UzZJdmV1bHRDU2Q2azAtQl93U24xakgta2NTQjhCMlVtWEhGQzFmT2RhWE1Zal91bnp2WTVOTWRqcHlVSTRVMmRId2FtVXF2aUhuaTZxS1hqek55MWRpUXlEb2g5ZHJDSDBzNWp4VmE4MHBiRDV0V2thZTUxNUkxYmhBcUVySnRNbDhrRGhEZkhxa2pNTzFCRTBrXzBoalRMenlIVA?oc=5",
+   "tags": [
     "GOLD"
    ]
   },
@@ -221,10 +259,10 @@
    ]
   },
   {
-   "title": "Central banks stepped up gold buying in Q3 at fastest pace since late 2024, WGC says",
-   "source": "TradingView",
+   "title": "Central banks stepped up gold buying in Q3 at fastest pace since late 2024, WGC says (GLD:NYSEARCA)",
+   "source": "Seeking Alpha",
    "time": "2026-11-03T22:43:05Z",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc0tMR2E1ek82S0paSlFQeHJnb2h4QnlPTkRmckxzRTR2S3NwUXYzcnZOeF95NmFwU0VxTEFMS1FuY1JUWFBlZmt3ZHdlcm4yWW5QeDY2X2FpVXVPNWR2eUEzelZaM0UyeVV1elk4WWNld3hIZlE4T1NiY3VqekR4ZlhJQmUyajF0bEJyMHpaQVZyYWdRdFZpZkdyc0U1SFkwOWVRRkJvUmxFbkRsVm4xcHJPZ3RtWjhIYWFHaVgzcEJzUERGLVIxNHFsemhENUtSdV9lUmdJUW9nSmZpR1Uw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRzV0YmNWODdLNDV2VzI5c0xtRUZYSnA5S09VajktQlBUc1NHWHBzUVZ4NmNkcllNOFVIZHlvdlZNZDZ3M1lGMzFhLXhiMGlsWGVMZUw3LWgxVWhFZ3VjY2M1cFNSNkoyNmpSTTFlczBhMWd0THYxQU9VdHpmRGZuMHZzTFZJQ1p0Si1XbDJfX09pY2tNM1RmalJYbVY5N2U5dUMteVd6TVpyVmJDd1J5X3pUeVkzZi15YmtCQ0Nn?oc=5",
    "tags": [
     "CENTRAL_BANK_GOLD",
     "CENTRAL_BANK",
@@ -232,10 +270,10 @@
    ]
   },
   {
-   "title": "Central banks stepped up gold buying in Q3 at fastest pace since late 2024, WGC says (GLD:NYSEARCA)",
-   "source": "Seeking Alpha",
+   "title": "Central banks stepped up gold buying in Q3 at fastest pace since late 2024, WGC says",
+   "source": "TradingView",
    "time": "2026-11-03T22:43:05Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRzV0YmNWODdLNDV2VzI5c0xtRUZYSnA5S09VajktQlBUc1NHWHBzUVZ4NmNkcllNOFVIZHlvdlZNZDZ3M1lGMzFhLXhiMGlsWGVMZUw3LWgxVWhFZ3VjY2M1cFNSNkoyNmpSTTFlczBhMWd0THYxQU9VdHpmRGZuMHZzTFZJQ1p0Si1XbDJfX09pY2tNM1RmalJYbVY5N2U5dUMteVd6TVpyVmJDd1J5X3pUeVkzZi15YmtCQ0Nn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc0tMR2E1ek82S0paSlFQeHJnb2h4QnlPTkRmckxzRTR2S3NwUXYzcnZOeF95NmFwU0VxTEFMS1FuY1JUWFBlZmt3ZHdlcm4yWW5QeDY2X2FpVXVPNWR2eUEzelZaM0UyeVV1elk4WWNld3hIZlE4T1NiY3VqekR4ZlhJQmUyajF0bEJyMHpaQVZyYWdRdFZpZkdyc0U1SFkwOWVRRkJvUmxFbkRsVm4xcHJPZ3RtWjhIYWFHaVgzcEJzUERGLVIxNHFsemhENUtSdV9lUmdJUW9nSmZpR1Uw?oc=5",
    "tags": [
     "CENTRAL_BANK_GOLD",
     "CENTRAL_BANK",
@@ -643,43 +681,6 @@
    "link": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
    "tags": [
     "JOBS"
-   ]
-  },
-  {
-   "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
-   "source": "Al Jazeera",
-   "time": "2026-11-03T19:09:49Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWNDTFhFZWVPVGVYQ2xTYktjbENkZEtaUGl4WjF1T2kwRGMwb19QM0V0NmJEYkVMRGhPa2lfMDI2V2daYTl0eWpkYzhGZGs1Rk9OdTZOaGxQYkVaUHE0akg2Q054ZHRvelVFYlJlRjZFcGVHUkNxeVNrZHVJSnlMT1Bxd3E2dHJRMWxyamVtcXcxWGJBc01Oc3J6RTBWSGhkWWV6LTNzTUR3YXF5bHhlWmxB0gG3AUFVX3lxTE1oLWVzenJDeExkbmtRc1NDWFl3QlJnY0tiNDNLZmtHT0g5RHd1b1JSbHBRakt4bnhNc2F4UGFkVVAzdXowMEdsa05ZcmE2QzhPYTVWMjlrTnBHTzN2UzRPczhFcmRzLUlmQlgxWGsxMUw5OTMyVlhPbWFTTUpyMmhseFJZd2diOEdXeXR5RHNZT0xnQVc0UjFxdWdOZTBFbWplSmJtX0RVX1hzU3hrWlh2TEVybzVVOA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold falls near $3,900 amid rising US yields and Fed hawkish bets",
-   "source": "FXStreet",
-   "time": "2026-11-03T19:09:32Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFZPdHRrT2xwVTk5SW41ZUFGY2lELW4yNTk5aXg2amIxUkhOdmNhUThNZndWX0pLTk9yUmNEcmFJRC0wVFpnOFpweDQ2UzZmZGpWdl9GX1ZCdmxvc0FOZmlVWG1MMThrOHhOQnJvaGg4SHlwSmw5S05WeEtrUWhYb2R4ZDN0T09QRFlaUVJQYlRTc1JsTWdNV0NRTlBobXpyWXJvZzJuTUlCYnc?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Opinion | She was shunned after her rape. She went on to help 33,000 others.",
-   "source": "The Washington Post",
-   "time": "2026-11-03T19:00:01Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3RvUTJrb1Bydy1MS0ZWSE00dUdPNWhGNDFJQlFwa0owbF9GaWVZMl9jSDVsZmd6YVdiZjRaS0lUSWdtRHZTWnpiczRoRW9hdFcwdUhXWDg1RjY2QnBfNWtyVlA3U2Z1R0hBR2VySDN2NU1uOC1FNmdGY3lJbjNXdTgya0tLdzJkVTFudWtmeFpCLXJWSXRNSlZfWlJmdkV0VUd5Q0xEaFc2RU5JY0xhLUl3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold’s October correction was overdone - Commerzbank",
-   "source": "Kitco",
-   "time": "2026-11-03T18:54:54Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcGhPUDBqWU54d0ZrTmFmREFLN0lXb19zNjRZVVpENFJUQUViX3Q0azBpOWNBZEVRc04yZDVEbnFKTzdjeW1ZUGRMU0s4cEVZN3ZTMXh3ZnF2cDZUSVZtRU5VWm1iTnNiMHpXSy1KNzlDR2Fud3lCRHFBdjBxVmVDd2NvbTdMOEpfekJCTGk0NHRtQlBfSjRmSEVpYw?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
