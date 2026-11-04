@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T13:47:38Z",
+ "generatedAt": "2026-11-04T14:16:00Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -41,8 +41,9 @@
   },
   "investing_commodities": {
    "http": 200,
-   "items": 10,
-   "kept": 7
+   "items": 0,
+   "kept": 0,
+   "err": "parse: unclosed token: line 66, column 2"
   },
   "investing_news": {
    "http": 200,
@@ -61,7 +62,7 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 44,
+   "items": 45,
    "kept": 2
   },
   "bbc_world": {
@@ -72,7 +73,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +82,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 30,
    "kept": 12
   },
   "gn_fed": {
@@ -96,23 +97,23 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 40,
+   "items": 34,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_yields": {
    "http": 200,
-   "items": 32,
+   "items": 27,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,12 +127,57 @@
  },
  "items": [
   {
+   "title": "Iran’s government says U.S. voters have rejected war, rebuked Trump",
+   "source": "Investing.com",
+   "time": "2026-11-04T14:06:25Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTmNoenAwS3M3cmZQRHdvRG5GYnZMcVh4SERybVhEWDI5REg5SWlvTzJTdDVBaG0zMUYwdF9vQVBNNmZmTlJnaU00THF6aXNxeU5YT2l2bS16Z2dYTTFONFBEakMtNUs3Z1JUNzBBSXlkZkl4UzJaOHAtUFN0d1oxcWM4YW91aEl3R3ZiMzRLQTlKMGp2alN1NHJnV1ZCT25oMzZOMGp4WlRkeEZDcWpfUUNsM093QQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "NHPC: Q2 profit rose YoY as tariff-pending sales and project uncertainty remained in focus",
+   "source": "TradingView",
+   "time": "2026-11-04T14:01:55Z",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMkMxbHJpTk1PbWhmYUI0dkhLSDZtVDc3dXZYSHBDTU01Qy1WZmhmSm5qSUNxby1lTDNrUmJqbDFLczFtN1p0b0tQN0pyZmw3UDN4amlFeElLSTltVjUyaDhJYnFhcERKTldNM2dtNWI4NHhfNnl1TmpzTVBWUkZtX3lwTmdmV01BX3M2WFlVS2hFTmlvcEw3UlR4blBJZUdpcEE2UlF0RVRleTN2Q3RmRG5lSnRwNUVwcjlPM3RWTHdYakJoRU5TVXhqU1ZWMEMyb2lfWEx1OUlsN184aUljUzJXZ0Z6Z21wS2lxTXBVVkRWZnVvVkhDUHY2QTgxT3hSNEE?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Global reaction: How Democratic congressional wins impact Iran war and tech",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-04T13:59:04Z",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zMzlSVEthZE9qeFc1Z1V3elpoU1g3a082T2dtYTROYXZial9PcTkxZVRHS3VsWEwzbklkUXVuTkE5RC0wRmpnWGVYeXF6cUFfZlFqbTNYY0kxUmkyS1o2MjdtNGc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Joy in Iran over ‘Trump’s defeat’ in US midterm elections – but war is not over",
    "source": "The Guardian",
-   "time": "2026-11-04T13:44:00Z",
+   "time": "2026-11-04T13:56:00Z",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZDlQRHRUMGc3SmZqTUpwcEY0UWRDQ2k4aTRYd1R4bWRySVlXWjRSTjREUno3bzdlWDNqanhyeHQ5cjc2dHdDR0JfWmNSYXZxeGV6YUZrQzVfNHNmemZkZHFoUWxDbnE2N1BCWUlMMnVlMm91R2FXTHIzbmlvNHR1dVp5cExuYjNDZEdRNWhkME9QbEJxaGEybUxn?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "ADP says businesses added 86,000 jobs in October. The labor market shows small signs of improvement.",
+   "source": "MarketWatch",
+   "time": "2026-11-04T13:55:00Z",
+   "link": "https://www.marketwatch.com/story/adp-says-businesses-add-86-000-jobs-in-october-labor-market-shows-small-signs-of-improvement-64c89fd3?mod=mw_rss_topstories",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
+   "source": "CNBC",
+   "time": "2026-11-04T13:49:48Z",
+   "link": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
+   "tags": [
+    "JOBS"
    ]
   },
   {
@@ -144,12 +190,48 @@
    ]
   },
   {
-   "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
-   "source": "CNBC",
-   "time": "2026-11-04T13:40:48Z",
-   "link": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
+   "title": "Gold price correction to lift Dhanteras sentiment, but sales volumes likely to remain flat: Jewellers",
+   "source": "TradingView",
+   "time": "2026-11-04T13:43:10Z",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUFFLTm1lcFZJTktPb2t2MFVrTXA1c2V5N3NndVVFNF9HVnNudnE4amkzbHlvLW5XVEpLeTI4UlRVeWxpc3B3eVp1NVVzaTRwYUhmX1U5S3lURFVaOXYwN19QejU1SU9aazdDSEo5VWQ0YWp2dWlzaURFMXNQWFdRZkF0eXd2V1g4TU45QmlJQ09XWWVxMmg2eVhxSzdvTTlmVUhlMWNfZFpvcjZqU0FzTmRzS0k4blRSZVpRUUF0VmEwSVVrZkVzaDctQ0c2V21BUklJWDBEYXc1Z2RLTEJ3b05xdmU4YmRMN2RzaWRPNWJWNTZm?oc=5",
    "tags": [
-    "JOBS"
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Iran hails US voters rejecting war while Khamenei warns hostility won’t end",
+   "source": "Al Jazeera",
+   "time": "2026-11-04T13:39:27Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWDFEXzdGZXdFVFZjVENub3Z2ZC1YaVpJcjVoVjlVbjFwYWFQd0tEVC1yNEtKN0REUG5LcUZKTjV1amFCYVMwSjU4S0xNLUFGaWdsRzZpakQzQ2xmYy1ERzVmSnF5QTg0WnBBcHYyR3RoVVBLdTJKZ1RCN2FsWGNDdTVLeVVUeWt2VVE4WnpWNXdwU2pPckVsNnpoekJTdlNSYkdjWUhkZ3NscjkzSHRoRnFEZkkxd9IBuwFBVV95cUxQTjhXQ1dyT3JQQjRHaXdWMnpvNFNqNURSQWgyT0lzRWRJb3lmdEI4a29qLVVBOVpkZU1sRlBEMVI2ODN4R2NTeUhLRUFPcUUyckpCVEZLRkxLU2cyVjk3WjIwVmJENEhmM1E1V0tzSk5WN2pnam14QU8zLVNqcG12TVFNOXQ3Zk5KRG1hSzFSaG94OWd1RjY0T196MWdmVk1Od2tzZGVPZjFDbmsteWU4b3dINGQtYkpReEhV?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+   "source": "The Guardian",
+   "time": "2026-11-04T13:35:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHlUZFVMYWpEOXAzb1dVNVhKOFJ3Wjh5MVZtVGNpV0M1X1U3UjlkbHNQRmFQcVZ1TG5Zc2NSQkJWbURydGpXeTJtMHgtWGV0bW9SWEdIbmM5V2lDSmhMTUNEbWJqYkdTbnBYRzdJU0wxS3NpdlRSVnVfSEw1ZmNYMGxDSlJzaUMzTGhZZmktcDhNd3p1YkZMTGgxTVFnMkpMbVlNWjB3ODMzV0UyN3dBSVQwZ3BJUWxx?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gaza volunteer Adam Hamawy wins historic US Congress seat",
+   "source": "Al Jazeera",
+   "time": "2026-11-04T13:33:05Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/gaza-volunteer-adam-hamawy-wins-historic-us-congress-seat?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S. election results, a sharp setback for Trump, draw reaction from around the world",
+   "source": "CBS News",
+   "time": "2026-11-04T13:31:00Z",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZFFqdDd2NUlXZF90QXBnYUtYUE1mSjFRQlFnNDExcWZyNnI5NHhlUkQtczNINjRCU2ppaXpJN01iSTdvYVpGbTkzUmVzWm15a1AyVGhhR0U2c1kwQVBFalJiOFh3bkVsNk1YaHlLV29JSk5ESmxpOXpoRTFZVktmQUV2bE1KUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -199,19 +281,10 @@
    ]
   },
   {
-   "title": "ADP says businesses add 86,000 jobs in October. Labor market shows small signs of improvement.",
-   "source": "MarketWatch",
-   "time": "2026-11-04T13:29:00Z",
-   "link": "https://www.marketwatch.com/story/adp-says-businesses-add-86-000-jobs-in-october-labor-market-shows-small-signs-of-improvement-64c89fd3?mod=mw_rss_topstories",
-   "tags": [
-    "JOBS"
-   ]
-  },
-  {
-   "title": "Iran hails US voters rejecting war while Khamenei warns hostility won’t end",
-   "source": "Al Jazeera",
-   "time": "2026-11-04T13:29:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWDFEXzdGZXdFVFZjVENub3Z2ZC1YaVpJcjVoVjlVbjFwYWFQd0tEVC1yNEtKN0REUG5LcUZKTjV1amFCYVMwSjU4S0xNLUFGaWdsRzZpakQzQ2xmYy1ERzVmSnF5QTg0WnBBcHYyR3RoVVBLdTJKZ1RCN2FsWGNDdTVLeVVUeWt2VVE4WnpWNXdwU2pPckVsNnpoekJTdlNSYkdjWUhkZ3NscjkzSHRoRnFEZkkxd9IBuwFBVV95cUxQTjhXQ1dyT3JQQjRHaXdWMnpvNFNqNURSQWgyT0lzRWRJb3lmdEI4a29qLVVBOVpkZU1sRlBEMVI2ODN4R2NTeUhLRUFPcUUyckpCVEZLRkxLU2cyVjk3WjIwVmJENEhmM1E1V0tzSk5WN2pnam14QU8zLVNqcG12TVFNOXQ3Zk5KRG1hSzFSaG94OWd1RjY0T196MWdmVk1Od2tzZGVPZjFDbmsteWU4b3dINGQtYkpReEhV?oc=5",
+   "title": "More Iranians Call for Nuclear Weapons After War With U.S.",
+   "source": "The New York Times",
+   "time": "2026-11-04T13:17:00Z",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNk05aEdxMGZPY2dSX3NGVHRlenk0ejJTTW9ZUUMtU2U2ZXBZNlFHUGhMMmtBUldqRnc4UnFCMjBDV0dRRGZpQnR4VlJsRkpfbDFHVk9EWTBJRzY0aERoRzV0bmhwbVF5dVdEcGlrVUVfN2V6d0tkYUdlMDIteVZxNmNLRQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -245,6 +318,15 @@
    ]
   },
   {
+   "title": "US October ADP employment +86K vs +65K expected",
+   "source": "ForexLive",
+   "time": "2026-11-04T13:15:12Z",
+   "link": "https://investinglive.com/news/us-october-adp-employment-86k-vs-65k-expected/",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
    "title": "Trump: Iran war partially to blame for GOP midterm losses",
    "source": "The Hill",
    "time": "2026-11-04T13:12:00Z",
@@ -260,6 +342,25 @@
    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPMjdDb2Y5c3c5Y0FuLU8tcnZCSnBCX3U3b25mOWdha3g5LWN2UjZEZmJXQUhPbkNRUHBDTXRzUVl6YV94VFZVQ3l1RzN0c1VDSUo2MUtLeWpOVUtmQ0luU2xmZC0xNHNPTTdNNkhPUk9pRG5Fa1ZUSG0zZjBGM284LXB4cHV2QjFDODVXQk5FUjNXakVNdm9Tc3FCMTJlaTNVLUFiN3FFUjJYWk9FVGl2d2lYYTRQOG1ZNWU4T0JZZUdNbUJLMy1LVVpyd1FaUkNvT01tRk95V3FxXzZVLWRJclZySTJ4N01RSFVnc1J1eHRPVVZra2VRYWE3SUl5T193UGY4a3RucXpaZw?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Sherritt Furloughs 47% of Canada Workforce Amid Cuba Sanctions",
+   "source": "Bloomberg.com",
+   "time": "2026-11-04T13:01:43Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN3BwQURpNFkzLXl0QTBzY25lSU0ta2VlREE3WDBNS3h5RG9jSHM2cWdxOXRERGxvLUlMdnVJSnNwRzRhVDRWcS1QLUMzejF3YXVwSUZCY3VzS0haZC1YWWlBMEVQejQ1YUk3Ukt3THJITFJReXpoQzJpdDlJakRBUFk5X1lxUXA5Ni1BUTJOb1QzeEhWOUdPel9CbWRObGsyblRSajhwTU9YRHJLU19xUVhn?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "COMMENTARY: Asia hopes Democrats can provide relief from Trump's Iran war, tariffs",
+   "source": "Reuters",
+   "time": "2026-11-04T13:00:41Z",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUk1naVB2YlNzNHNsUVA1ZVp4ZU5QaUNocUZjdkt0VVdHZVVmZXdRZzhSdUt5RFROWXlBclNEM0p0NnJTc3dqaWlBWVhoUWRVczliT2JGR3l3RXU0R1N0aGZicXFZSkdiNjd6dmZJWVVoRWp4X21wNUJNd2EzOG5CMnJoR1ExaW1lX1Q4R0o0cHhBM1lZX0lnd0NLMkFVaTJZZ0FvUVNfejFaaFViQU9tX3REV2ZBNjdCOHU3ak1EcUdJX2xsbFdCWE9pVzk?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "TARIFF"
    ]
   },
   {
@@ -280,6 +381,16 @@
     "FED",
     "RATES",
     "JOBS"
+   ]
+  },
+  {
+   "title": "Asia hopes Democrats can provide relief from Trump's Iran war, tariffs: Russell",
+   "source": "TradingView",
+   "time": "2026-11-04T13:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLURScFZ0WEk3NEFvajVEVDZhZkwwMHB6M3hzUzlwWkE2a2lSYURSc1IwNXItM3FmTkVocld3SjNjYUpwaUo2b0QtaFcyeHNYZF91bDA2eUJ1Z2g0QzNfbDVDZ0NsLXVyWXc4aG5nMUNWQUpCVUNHVEgtNTc3ajlqakZQOHFnRnpGSmxMbW9kSmNpT1JZNE9aQk1HbDVaVEpZODhJZGdIQWZZb0J0X2JpNXktN0YyUnhQMUhCR2hPNlFsTWlvNnRDU3BUVl9FT3lKcFZacnJ6Z19CRTYxcVllcA?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "TARIFF"
    ]
   },
   {
@@ -484,15 +595,6 @@
    ]
   },
   {
-   "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
-   "source": "The Guardian",
-   "time": "2026-11-04T11:47:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHlUZFVMYWpEOXAzb1dVNVhKOFJ3Wjh5MVZtVGNpV0M1X1U3UjlkbHNQRmFQcVZ1TG5Zc2NSQkJWbURydGpXeTJtMHgtWGV0bW9SWEdIbmM5V2lDSmhMTUNEbWJqYkdTbnBYRzdJU0wxS3NpdlRSVnVfSEw1ZmNYMGxDSlJzaUMzTGhZZmktcDhNd3p1YkZMTGgxTVFnMkpMbVlNWjB3ODMzV0UyN3dBSVQwZ3BJUWxx?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
    "source": "BBC",
    "time": "2026-11-04T11:46:09Z",
@@ -573,112 +675,6 @@
    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSmZjWmd5ZlVtb1ZWcWgxeEF4Z0gxYkRjdHliVk1yeWxwWGdwTzczWV9fU2lWWFpkM2h2OW1wUV9Fb180QnMta0wwRkVTSzBRSDBSNDdCMHNRbHNjN1RQbU45b29rSWVnMVFXdjh5YVpUWG8tYjhrVGFlVm9XejdCVUVERjUzaUNadkNxRXU3S3I3dWVjaUFGNlBObWtOWklOUEIzS0d5bUQ5WXllcVc4RjV6aHhOcTFnN2hkOVhtU3NMSWJZVVhaYVVXVGtaYjFud3FUN2d4QXJGZl95bjgyUHM0U1dJM2liWFlWOGFCRWl3cjFTbldfNDM4NVZiZ3pfWmM0QWVjVQ?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-11-04T11:08:27Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Energy Transfer sanctions $1.6bn South Mississippi pipeline project",
-   "source": "Yahoo Finance",
-   "time": "2026-11-04T11:07:14Z",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORkFhaXRXNFEzRENBQnFweTcwaEVwUGRLUlp3dlVHU2thWGJtNjZoOTEybGFvdnl3WmJHSFBISDBOb3lXZzZLVGlmTTNJRTNQN2RfNUJaZnlXQmxxY3NDUl9Hb2E5N0VDamJZVW91TjRTQmc1VmJPQS1UdmRLbmZfeUprbw?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Can Russia compete with the US, China and the EU in Africa?",
-   "source": "Al Jazeera",
-   "time": "2026-11-04T11:03:33Z",
-   "link": "https://www.aljazeera.com/video/counting-the-cost/2026/11/4/can-russia-compete-with-the-us-china-and-the-eu-in-africa?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses",
-   "source": "WSJ",
-   "time": "2026-11-04T11:03:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTdDcl95ZWRjVHlORVdINFFmUnpoa1hEVVAyd09haUZvOEpLdGNJNV9aZlh0ejR1MEFYWkFla2lFcnlmWjVRUnBQc0piRGtvRjBhb1h3TlhPZmlZaVBiT0hDRjY1akEyOTNqalZ3SlBqLWZQZUZ0b0FsVm10TkZLZ01mSEVDRW1kNG02d0hiQ0otOFJYTi1vUXBaSld5NXVickpfZ2xNbmhJUFdPdHU0dW9WUXdmQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil slips as markets weigh U.S. election outcome, Iran war uncertainty",
-   "source": "Investing.com",
-   "time": "2026-11-04T10:52:30Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSzhJa0pDNGtrejlYaUZwQ3NzMG9KSGNPMERjb28zQmpOREFINXBLS1h0Yk84TV9aQTVKd3BQNGwzeExVMm94SnFrMldrQXJacDk1cng1d1dCdmZibncwS2M3VFNVV2RxcFVvSVlBbnluTnRyQzNFa3dWbW9WQ0ZCZG5laVJEMkZqWmVOZHJWUUw1cDVLZGpOMlNoNWNxQ2RFSWh2Wkptd0NMYzFaWi1BemQxek5SUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Crude oil consolidates amid conflicting reports on US-Iran negotiations as escalation risk rises",
-   "source": "ForexLive",
-   "time": "2026-11-04T10:49:42Z",
-   "link": "https://investinglive.com/news/crude-oil-consolidates-amid-conflicting-reports-on-us-iran-negotiations-as-escalation-risk-rises/",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "What's happening to UK interest rates and what does it mean for mortgages?",
-   "source": "BBC",
-   "time": "2026-11-04T10:47:31Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "RATES"
-   ]
-  },
-  {
-   "title": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
-   "source": "CNBC",
-   "time": "2026-11-04T10:47:30Z",
-   "link": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
-   "tags": [
-    "RATES",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Gold rises as Dollar weakens ahead of US jobs data",
-   "source": "FXStreet",
-   "time": "2026-11-04T10:44:51Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeTlBZDFqd1MzQWt3SjNMSUFFQklGY0w3ZXA5dFlNZnhYSkhBOTFFdzRlN3ZERkZEQTZGaG40Y1BvMDdiRi1GYWphN04xRHdsRkdlQVVFcGNtTVNDUDdWcnRHRzFONTBzb0J6eHBnRkZDWHVDTUcwRWRURFNIa1ROZU9NaW9QWEpyekhrWmJKNmlBZmw1c3FsSEozU3NYQQ?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Climbs on Softer Dollar, Falling Treasury Yields After U.S. Midterms -- Update",
-   "source": "marketscreener.com",
-   "time": "2026-11-04T10:44:46Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd0VQdnEtZ2xWeDFmTDF6QnlJQXA0NXBNUWZEY3V6V0F3akw3Ukd6UlpYeDhOQXBXekxXRmY0WjlCWWkyZGxFS3pLeEpPa0NELVpPTWU4dTNnWXFWN0tIakxZQ3l2RUQtdmxndUFGemplSFVGNFJKcF9SVGctMW9jQ0ozZ1ZQRllJZVBXSHF5SjRMdGtVM1JNd0lfZk5qUHpwVVNIRkFPTFpabENKczRSV3BCR3Y4OUpEZkE4LVd2OVl2ckt0dXZoemdjUQ?oc=5",
-   "tags": [
-    "USD",
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "El Niño could push U.S. inflation one percentage point higher in 2027",
-   "source": "TradingView",
-   "time": "2026-11-04T10:42:25Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdWtWbE1TbVViUXJOSXA2SEFFSmFjaGhMMlhORVVoaTFBN3JqN1ZHWlUyTmxFLWVueVF1MkNXQXhnV3NLYml6eVVCN2E2NWlHSFhrSnlVandnVm94VktBQ0pKd3lZYmNOXzhaNm0tR2owZGNHbXcwT2RkWDhnQ3Itb1FPZE5qNkRUZ2twdER5ZXNGNHN4RDlSUXhHaW04OGJPcVFwMC1nZHpOQnF1cTg4cFVxUG8xQUF0M3Q5ZGdoOU1lNVdBWGVWbUZ1QQ?oc=5",
-   "tags": [
-    "INFLATION"
    ]
   }
  ],
