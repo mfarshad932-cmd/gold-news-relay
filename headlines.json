@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T17:06:14Z",
+ "generatedAt": "2026-11-04T17:34:37Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -67,12 +67,12 @@
   "bbc_world": {
    "http": 200,
    "items": 23,
-   "kept": 4
+   "kept": 5
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 27,
+   "items": 26,
    "kept": 12
   },
   "gn_fed": {
@@ -91,33 +91,33 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 32,
+   "items": 31,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 36,
+   "items": 42,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 9,
+   "kept": 9
   },
   "gn_yields": {
    "http": 200,
-   "items": 26,
+   "items": 25,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 2,
+   "kept": 2
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 10,
+   "kept": 10
   },
   "fed_calendar": {
    "http": 200,
@@ -126,39 +126,112 @@
  },
  "items": [
   {
-   "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-   "source": "BBC",
-   "time": "2026-11-04T17:02:44Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xbVZEZnp6WGZLRnNHMUdHNTQxNzB3dUUweTBqcEZJV2tIaUYxNTBseHRnZjU0QmdmZFl6M0lwQVhUSVAxUHY3WkpxQUhGZ25LUjFOeWVzb05RLW8?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Vance: GOP lost midterms due to Iran war, voters want to ‘change our relationship to Israel’",
-   "source": "The Times of Israel",
-   "time": "2026-11-04T17:02:05Z",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZkF1MktLQzFFZkxFdTJxUU9GenM1d25MNDNBcWQwdDRwXzhaZXRxWHZtZDFNNWs1bFJrcmNPTmdWZ09mVTJhRDNjNDVJempfNmxGMFJwY1Rjc1RscW1mU2pPd2NXNHFMNE4xU2ktRWVwakdVN3JqNmRGdzRvSzZYS2dRYkExMEIzUlZoeWJIRHZJVzY3Z1NNZVdobVB4V0dLS2M2REVxc2ozTGlkMUhpenVqZklGUWVOcnpDYnkyY1RlV291Um9lZklyaTR6MEk?oc=5",
+   "title": "Vance repudiates Iran war after US electoral defeat",
+   "source": "Reuters",
+   "time": "2026-11-04T17:27:47Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa013TjNzRzN3VjI3QVg1bEtHRjdHNjFyeVpZTURvOWw1M1cwX2dpZXhKUXVTVEZRUjJTS20tNjBHSUlSS3NnOU4zZENjTmRoTHZmN1lEZE9lS0dRU1ROWWxnaFlhRXNtZUkzTGlHVnZ6YmpfTERySXRfV3FzOEd0bmgzOW5oVlJqa1FONmI3NjVleWVZR2d6LTY1dlZqUURPMnU3ZkpDQQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
+   "title": "Presidential hopeful Vance appears to question Iran war after polls debacle",
+   "source": "Al Jazeera",
+   "time": "2026-11-04T17:22:18Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNFdoTi1INVRLRUdkTG9SY3pPQ1dQcTgwTzVjMWQySGdBWUJLczFfMWV1anNEbElxY29VSy1ieGh5dzlCTUhFdEtIMUViLWNURVFEWUw2X3lsbXJVM2dCWW9jQnV2Slg3bm5NMW1iU3JzeHlja2xOSFN6U0ZUR3hwVVRuaU1zV1FmR2p3bTQtczVmMU5VS3NWR2d5d0pzdEpVcFAzNzB6VXc1MUdfVExXX0RwOXRyVEXSAbwBQVVfeXFMTUlnRGFpN3h6WmRvdWJNS1pDdkV3WGJKSC1xNFZtSjNLMWIxRjBweTZYcDZRRzVmdDYxXzNaenQxMzQwUVRqNlpuRW9MaGxHakxsV011NkVTUXZ6LXVjWGItOFZUVzRkTklkOTFYa25oRnNvZTItTWdFLTZpUkwzR3E5ZGpQMzlZdXJNdXRwc2NNRXlYQnQ4LTI0YnExc2RscHhKWEw2ZzdHOHVyWEZaZDFNelVkOGlLOGI4eDM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Alcohol Stocks Jump as Blue Wave Lifts Tariff, Immigration Hopes",
+   "source": "Bloomberg.com",
+   "time": "2026-11-04T17:19:47Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMWJVOThEWVlwX3ZZRFFNLW5TZ2lGUHZCRkNVUmJtY21BTWJnWUl2bzNQOUw1dWRWWkRxN0hNYmdiWWJsYkZuMXBRYUhDSlQwYXFJdVZsMkxRSWlMZlFCNDcxbk5HX1pFR2MzOG1zNkRUVHNVc1ZveC13ZEg0Qk9kLVFhc3hWV2FwNVR3R0FHNURIRTVwNmZnYm1LZlFtaFFPcmpCdDMtdHF1MWszLW11bkZwWl8?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Housing stocks rally following midterm elections, Treasury yields dip lower",
+   "source": "Yahoo Finance",
+   "time": "2026-11-04T17:19:37Z",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNVhteHRoQ3ZOaDRCOWJpYTdZS3lBUmVUMllQU1JlUW04YlBMa0VpV3ZNUEEyTGpFM181RHBwMUtOZ1Q0eDltc0Y1dGRWSlB4UU9kdDJmU2xzcWtQU3Z4RFA2RGMyRFY5ZHl6dDF5X0RvZlQxMXJsa0Nod3J6RXFOUUpKanowSG1nX3h0YXhjOFVkNFZlY3dlcmpPTkxqT1BDMUJuTEVESXdiRXpUZEcxX0twc1lCSk40T0xPTkZVSHptRXROdUFiWkt1WQ?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Midterm elections 2026 live updates: Vance blames Iran war for Republican losses",
    "source": "CNBC",
-   "time": "2026-11-04T17:02:02Z",
+   "time": "2026-11-04T17:18:20Z",
    "link": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories",
+   "title": "Trump can't pack the Fed board with allies now",
+   "source": "Axios",
+   "time": "2026-11-04T17:17:45Z",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwV0dBTktfZXpJdWZQaVY1U29HZEx0TWptMFlwdEpvTTRGdWxRTGd5by0yM3JDdVNONC1EVTNLbTJjN2xCc29lOTFkRVRVWDg0aTZJcGZQX0toV2NFZHp4czQ4NjFBQ2hndHN0aE1KS0Q?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "European far right distances itself from Trump, blaming Iran war for Republicans' defeat",
+   "source": "Reuters",
+   "time": "2026-11-04T17:16:41Z",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY1ZyNWRabEpTdG9UeDUzc3BpN1RRZ1FXZm1OZGdFSDVoNms1S0JHWU00bnhZeGxHaHlFclFTX0ZVUzU5ZEx3ZXIzTmVRUE5KMlBETUpXWEZiVC1zckhRaDk3ejNpMnVqZVh1WmllVk9jUVJoRHE4R3pnN3ZRSUI4TVJGcjN5UjhPWEVhYTJvWGFLUkRKbE1kcUFLTS0wU09KbFllV2ZXYXFHcHVhemFUNWVmQUlPaTNIVnd5V2FyZGZxRzlo?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "JD Vance says US war on Iran is ‘real reason’ Republicans lost midterm elections",
+   "source": "The Guardian",
+   "time": "2026-11-04T17:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNekVkV0ZSQzFFVWNVeWw3VkNDb3puOUtuSnBnMDM4QllXbXpHNG9kWEJJa29EcF9mS1NEVUxFQTJ1M2lwQW1Bc2RzWWhkbGc4V3VvbVV0dlBHaWk3aENpWHVpQUkzVFdMYkF1QjJ0ZTZ6dk5fdFFldkkzTy02NmdVd19ac1U1X2pybTc4?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Palestinian citizens of Israel face intimidation after election success",
+   "source": "Al Jazeera",
+   "time": "2026-11-04T17:14:21Z",
+   "link": "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
    "source": "CNBC",
-   "time": "2026-11-04T17:00:57Z",
+   "time": "2026-11-04T17:11:00Z",
    "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
    "tags": [
-    "YIELDS"
+    "YIELDS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Vance: GOP lost midterms due to Iran war, voters want to ‘change our relationship to Israel’",
+   "source": "The Times of Israel",
+   "time": "2026-11-04T17:03:45Z",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZkF1MktLQzFFZkxFdTJxUU9GenM1d25MNDNBcWQwdDRwXzhaZXRxWHZtZDFNNWs1bFJrcmNPTmdWZ09mVTJhRDNjNDVJempfNmxGMFJwY1Rjc1RscW1mU2pPd2NXNHFMNE4xU2ktRWVwakdVN3JqNmRGdzRvSzZYS2dRYkExMEIzUlZoeWJIRHZJVzY3Z1NNZVdobVB4V0dLS2M2REVxc2ozTGlkMUhpenVqZklGUWVOcnpDYnkyY1RlV291Um9lZklyaTR6MEk?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+   "source": "BBC",
+   "time": "2026-11-04T17:02:44Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -219,7 +292,7 @@
   {
    "title": "Vance says the ‘real reason’ for GOP rout was anger over Iran war",
    "source": "NBC News",
-   "time": "2026-11-04T16:42:00Z",
+   "time": "2026-11-04T16:42:23Z",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTQyRUxiZlFaS0w1cVRjbGhkcldaSmVxTGZWSnM1OUxKbGN4TjhORFphODVPeHJyOWxENWRmUUtEZkRVb1B0cWFjQXRLNkp1R0duenMwc0xhQi12S1Mtc0xYcXBfMUt0WEdSX1RkXzRyQzEwNHkyNnphUGdqYjJMTjhrdUx5eE1oRUluZXZzanZONzVMb2Y3eWsyMWNGUThuN0R0UC1tTmRjaUNZaWc0?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -230,6 +303,24 @@
    "source": "CBS News",
    "time": "2026-11-04T16:41:41Z",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hMzlSOGJvdDg2ZkdEUTY0OXRxMlQxdnhEX2g2ckpwdEs0MXVoNkdtTGpOdkplQUk0TzM3SnBRbk9zNTFBSWNDal9rc050UjF5R3ZSZ2lfYzU4SGJOa3RjTmFUS3N6c1Ra?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Photos: Iran marks US embassy takeover with rallies against US, Israel",
+   "source": "Al Jazeera",
+   "time": "2026-11-04T16:37:49Z",
+   "link": "https://www.aljazeera.com/gallery/2026/11/4/photos-iran-marks-us-embassy-takeover-with-rallies-against-america-israel?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "What Trump’s midterms setback could mean for Iran, Israel and Ukraine",
+   "source": "CNN",
+   "time": "2026-11-04T16:37:19Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZDlUSVFnMHlyWHRRZjdjdEVDM3c5WkZoRmtjVjNLTmdONmpBZmtxTUlhblV0ZUNERDBzU0hIeWhaeWdDV3JfRkVwZHhKSk5YbFlKdnFJaHN5STY2OUZTeGFzTU0tZEdLYWYwWWN4cTg0ZHR5cDQzdXlWZEJ2RklnODBsWHh6QlM0UndyM2hScVZxeGRFRWc?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -577,94 +668,6 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGh1bE9OcW9Db0prLTY1Ykpsb1plR3Z5WVZlakFSUEZKZGV2THJURUJWQWdxLVZ5MWtRV2tmVFc5ekpaNk5DQWlLODRjdEs5dTVrVWR5M1d5dFUxX2l2QUU1SjY4eU52ZDVkLVZHWlNwcVo0SWhkNDFaRU00UlJoalprZXlYV1JIOGpqSk5vOHdRVHgtYWt0NEE5RXV6d1RnQ3VEbHF0UEdhLTdBbjJNOXhvZw?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "OPEC, Allies Keep Output Steady While Gulf Shipping Remains Under Threat",
-   "source": "WSJ",
-   "time": "2026-11-04T14:16:02Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnNqUHNCa3N5QzZ4RUZEVVd5RUsxNDM1QU5wZ3dYQ3FYdzdEWnpnczk0NG1JTndRV19CQnpWd0J4eUE4SndBWFpfUkZNeS1QQUtIaWVQRFBYVk1fMXlHNVJjWW1zb3JsV2pvVnc5UU5zby1DNzF1d3dyNFdYWTlTUlJFRk11YW5RU19idkdxZXNSZkJ4azFtQVBjZkVpT2p6cVFlbkpsX2o2NWYtVUJfd1VtblJhQ21COUJYTA?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Fed Wins Protection With Democrats Taking Control of the Senate",
-   "source": "Bloomberg.com",
-   "time": "2026-11-04T14:11:24Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDcxTEtxUkRBRDdnOHA4d09seWthb0dBYzNuYjctTmRWZ2ZhRHd6dTdrdmREbS1BV1NuWXU5LTNLcklFUEdQMTRBeHpEU3J5U29tODFPbXVsY0laT0VxUTZJS2s4bC1WcS1odDlyYXBvYTF5TGNvWExlVXJ5enFmbzF0NUlVNXdUdlRKbkVHczYxcF9ZVVpyNllRZXhGYkxEQ291dzl3ZmNzeENqdHNnSVZVblY?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Treasuries Advance as Traders Eye US Votes, Refinancing Plans",
-   "source": "Bloomberg.com",
-   "time": "2026-11-04T14:10:02Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzN0NVZRRWVGTGRucWE0c2lMNmdFU3BGaS1kVlhzMDAyZUNRZjA1SWlORHJIWlotVXdWLVNqN3NMX3h3U2tISkRod0l5YXpDdzZLOWNhYmhPd2hPU3UzUE9wZmdEQ0VBWjRfZi15SmJsclVuS1lwZHcwakdPdk5pbW5ha1NhMm5SdUpBUmdDUzMxT3YxNWg3dlRHeUxjeGFPOV83bjUyNlY0ZktBSFF0Uw?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-11-04T14:08:27Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran’s government says U.S. voters have rejected war, rebuked Trump",
-   "source": "Investing.com",
-   "time": "2026-11-04T14:07:47Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTmNoenAwS3M3cmZQRHdvRG5GYnZMcVh4SERybVhEWDI5REg5SWlvTzJTdDVBaG0zMUYwdF9vQVBNNmZmTlJnaU00THF6aXNxeU5YT2l2bS16Z2dYTTFONFBEakMtNUs3Z1JUNzBBSXlkZkl4UzJaOHAtUFN0d1oxcWM4YW91aEl3R3ZiMzRLQTlKMGp2alN1NHJnV1ZCT25oMzZOMGp4WlRkeEZDcWpfUUNsM093QQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold’s Latest Rebound May Be a False Recovery as Global Economic Risks Persist",
-   "source": "Investing.com",
-   "time": "2026-11-04T14:05:00Z",
-   "link": "https://www.investing.com/analysis/golds-latest-rebound-may-be-a-false-recovery-as-global-economic-risks-persist-200690855",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "NHPC: Q2 profit rose YoY as tariff-pending sales and project uncertainty remained in focus",
-   "source": "TradingView",
-   "time": "2026-11-04T14:01:55Z",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMkMxbHJpTk1PbWhmYUI0dkhLSDZtVDc3dXZYSHBDTU01Qy1WZmhmSm5qSUNxby1lTDNrUmJqbDFLczFtN1p0b0tQN0pyZmw3UDN4amlFeElLSTltVjUyaDhJYnFhcERKTldNM2dtNWI4NHhfNnl1TmpzTVBWUkZtX3lwTmdmV01BX3M2WFlVS2hFTmlvcEw3UlR4blBJZUdpcEE2UlF0RVRleTN2Q3RmRG5lSnRwNUVwcjlPM3RWTHdYakJoRU5TVXhqU1ZWMEMyb2lfWEx1OUlsN184aUljUzJXZ0Z6Z21wS2lxTXBVVkRWZnVvVkhDUHY2QTgxT3hSNEE?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Republicans face prospect of ‘civil war’ as Trump’s aura starts to fade",
-   "source": "South China Morning Post",
-   "time": "2026-11-04T14:00:14Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZW5SbnRxbHlBR3NjMXdiUVU5SE1XdGJlZ3A0S3JzSGtYMjdHaE5WSGpwTTgzUk5zOG5CQ19YQ2dnZ1ZZVHNCSFJ0aS04ekdIM3l0emE0ems2VVZOU0VKdi1iWXQ4bnN1RmhlSmVHQUZKV0UtZ3N3ZUhPOXlMYVRXelJpNVJxRGxVR0NadE9Cemo5X1ZPaVpJblptTTQyMHZjb1dPVnBNSGpHMVJfLTEyV1FoX2NuQU9CemxTZnNKbmN3WXJrajM2RXN3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Global reaction: How Democratic congressional wins impact Iran war and tech",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-04T13:59:04Z",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zMzlSVEthZE9qeFc1Z1V3elpoU1g3a082T2dtYTROYXZial9PcTkxZVRHS3VsWEwzbklkUXVuTkE5RC0wRmpnWGVYeXF6cUFfZlFqbTNYY0kxUmkyS1o2MjdtNGc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Joy in Iran over ‘Trump’s defeat’ in US midterm elections – but war is not over",
-   "source": "The Guardian",
-   "time": "2026-11-04T13:56:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZDlQRHRUMGc3SmZqTUpwcEY0UWRDQ2k4aTRYd1R4bWRySVlXWjRSTjREUno3bzdlWDNqanhyeHQ5cjc2dHdDR0JfWmNSYXZxeGV6YUZrQzVfNHNmemZkZHFoUWxDbnE2N1BCWUlMMnVlMm91R2FXTHIzbmlvNHR1dVp5cExuYjNDZEdRNWhkME9QbEJxaGEybUxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
