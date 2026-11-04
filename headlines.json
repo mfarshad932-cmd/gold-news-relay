@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T14:16:00Z",
+ "generatedAt": "2026-11-04T14:44:27Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -41,9 +41,8 @@
   },
   "investing_commodities": {
    "http": 200,
-   "items": 0,
-   "kept": 0,
-   "err": "parse: unclosed token: line 66, column 2"
+   "items": 10,
+   "kept": 8
   },
   "investing_news": {
    "http": 200,
@@ -58,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -68,7 +67,7 @@
   "bbc_world": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 4
   },
   "aljazeera": {
    "http": 200,
@@ -82,28 +81,28 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 30,
+   "items": 33,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 11,
+   "kept": 11
   },
   "gn_tariff": {
    "http": 200,
-   "items": 33,
+   "items": 35,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 34,
+   "items": 38,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "gn_yields": {
    "http": 200,
@@ -112,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
    "http": 200,
@@ -127,6 +126,69 @@
  },
  "items": [
   {
+   "title": "Midterm Elections: Voters Rejected Tariffs. Congress Should Too.",
+   "source": "Bloomberg.com",
+   "time": "2026-11-04T14:40:09Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeGNEQW5zVlZEWkZKSllwcVFoWGVlajdDWHVOVUQ2dkd1RnVxQmRqVU90R2h5RmNFN0Y4N0liaUpEM2FFeEtJN0ZkSWhYdW1IdmlKUDNaNGRzdVhlcTlaT2hJRFFReWNmV3NqRmpvZ1JkbmV1eDZickFXX1JuUFhuVWlaSnNvV012OGpLSG9nS3Npc0trR2JwcVV0Y3NKMDd6ZjBDTHdleVZuVm9ZaDZyYXhWb0Jydw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
+   "source": "WSJ",
+   "time": "2026-11-04T14:37:04Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmVhWVpoUFY5Q2J4OGY3SlRPdnpxbFhHaWlOT2V6NUdXaXl0SjVQWnNMVXdIQV9KaFdfY3dOMFpqRFF5VzF6WWh4dnNERlJidUVhbEliWmt6ZVhuUThYN1pac2NHWTR4MnE2Q2JPLWVJVkFzckZucFNMRWFHQ3RkU1JwdTBGM1B0X0dEckpoRHFzSG5Mb0V1MkF1M2hHSW1obXZuSGhGQ0dodEk?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Stanley Black & Decker Q3 2026 slides: margins surge on tariff refunds By Investing.com",
+   "source": "Investing.com India",
+   "time": "2026-11-04T14:30:22Z",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRUhSdl9pdllENVltdk5Ja010R3MwbTlKaVFVXzVpbnRPNGQyczhUcnJTM0x3akk3Zk94T1NZZ29BRW04X3FxdzZUZG9vS1hQa1JVX0l6WVFrdGprdGU1VndoZFMtX1RnR1AwRmZwZE9nblVQODVzTUpzUllQUVVxQU9lM2w3TlphLUh5TGRBcUZYMFRuLUEtNnNsSmlOd3JGMVlBVzEydTF1REtBZzNUQ0xYcjVCX20wek96Y0lKLXg0ZEdGcUVYRg?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Debt Limit, Tariffs Top List of Likely Deals in Trump’s New Era",
+   "source": "Bloomberg.com",
+   "time": "2026-11-04T14:16:25Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGh1bE9OcW9Db0prLTY1Ykpsb1plR3Z5WVZlakFSUEZKZGV2THJURUJWQWdxLVZ5MWtRV2tmVFc5ekpaNk5DQWlLODRjdEs5dTVrVWR5M1d5dFUxX2l2QUU1SjY4eU52ZDVkLVZHWlNwcVo0SWhkNDFaRU00UlJoalprZXlYV1JIOGpqSk5vOHdRVHgtYWt0NEE5RXV6d1RnQ3VEbHF0UEdhLTdBbjJNOXhvZw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "OPEC, Allies Keep Output Steady While Gulf Shipping Remains Under Threat",
+   "source": "WSJ",
+   "time": "2026-11-04T14:16:02Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnNqUHNCa3N5QzZ4RUZEVVd5RUsxNDM1QU5wZ3dYQ3FYdzdEWnpnczk0NG1JTndRV19CQnpWd0J4eUE4SndBWFpfUkZNeS1QQUtIaWVQRFBYVk1fMXlHNVJjWW1zb3JsV2pvVnc5UU5zby1DNzF1d3dyNFdYWTlTUlJFRk11YW5RU19idkdxZXNSZkJ4azFtQVBjZkVpT2p6cVFlbkpsX2o2NWYtVUJfd1VtblJhQ21COUJYTA?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Fed Wins Protection With Democrats Taking Control of the Senate",
+   "source": "Bloomberg.com",
+   "time": "2026-11-04T14:11:24Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDcxTEtxUkRBRDdnOHA4d09seWthb0dBYzNuYjctTmRWZ2ZhRHd6dTdrdmREbS1BV1NuWXU5LTNLcklFUEdQMTRBeHpEU3J5U29tODFPbXVsY0laT0VxUTZJS2s4bC1WcS1odDlyYXBvYTF5TGNvWExlVXJ5enFmbzF0NUlVNXdUdlRKbkVHczYxcF9ZVVpyNllRZXhGYkxEQ291dzl3ZmNzeENqdHNnSVZVblY?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-11-04T14:08:27Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Iran’s government says U.S. voters have rejected war, rebuked Trump",
    "source": "Investing.com",
    "time": "2026-11-04T14:06:25Z",
@@ -136,12 +198,30 @@
    ]
   },
   {
+   "title": "Gold’s Latest Rebound May Be a False Recovery as Global Economic Risks Persist",
+   "source": "Investing.com",
+   "time": "2026-11-04T14:05:00Z",
+   "link": "https://www.investing.com/analysis/golds-latest-rebound-may-be-a-false-recovery-as-global-economic-risks-persist-200690855",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "NHPC: Q2 profit rose YoY as tariff-pending sales and project uncertainty remained in focus",
    "source": "TradingView",
    "time": "2026-11-04T14:01:55Z",
    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMkMxbHJpTk1PbWhmYUI0dkhLSDZtVDc3dXZYSHBDTU01Qy1WZmhmSm5qSUNxby1lTDNrUmJqbDFLczFtN1p0b0tQN0pyZmw3UDN4amlFeElLSTltVjUyaDhJYnFhcERKTldNM2dtNWI4NHhfNnl1TmpzTVBWUkZtX3lwTmdmV01BX3M2WFlVS2hFTmlvcEw3UlR4blBJZUdpcEE2UlF0RVRleTN2Q3RmRG5lSnRwNUVwcjlPM3RWTHdYakJoRU5TVXhqU1ZWMEMyb2lfWEx1OUlsN184aUljUzJXZ0Z6Z21wS2lxTXBVVkRWZnVvVkhDUHY2QTgxT3hSNEE?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Republicans face prospect of ‘civil war’ as Trump’s aura starts to fade",
+   "source": "South China Morning Post",
+   "time": "2026-11-04T14:00:14Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZW5SbnRxbHlBR3NjMXdiUVU5SE1XdGJlZ3A0S3JzSGtYMjdHaE5WSGpwTTgzUk5zOG5CQ19YQ2dnZ1ZZVHNCSFJ0aS04ekdIM3l0emE0ems2VVZOU0VKdi1iWXQ4bnN1RmhlSmVHQUZKV0UtZ3N3ZUhPOXlMYVRXelJpNVJxRGxVR0NadE9Cemo5X1ZPaVpJblptTTQyMHZjb1dPVnBNSGpHMVJfLTEyV1FoX2NuQU9CemxTZnNKbmN3WXJrajM2RXN30gHKAUFVX3lxTE5CS1pmR21MRFFMTWFmbG05T0JPQlFkZ3ZMUllrM0ZEWVNwNmJDWWF5a2tIZGJKNm5uY1lnTjF1ZUFRTUNrWTk4bGc4MWJwZUpaNmRuakd5aFI5RVd0YkxTYjNBSzcyOEE5RzZ1SFBMZVdrRFkyNVpETEhRUzZoQjh4WTdtM3ZRNFVsVzhBMFJ3MlpsQVBPZldHWWp4SmJiRC00WkY2ekVPaDg5NmFiTXU2ZWdXZkZSaGN3Ui1BazFnTjdocHFKOWVMN1E?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -160,6 +240,16 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZDlQRHRUMGc3SmZqTUpwcEY0UWRDQ2k4aTRYd1R4bWRySVlXWjRSTjREUno3bzdlWDNqanhyeHQ5cjc2dHdDR0JfWmNSYXZxeGV6YUZrQzVfNHNmemZkZHFoUWxDbnE2N1BCWUlMMnVlMm91R2FXTHIzbmlvNHR1dVp5cExuYjNDZEdRNWhkME9QbEJxaGEybUxn?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold and silver surge as Democratic midterm sweep drives dollar, yields lower - Kitco AM Report",
+   "source": "Kitco",
+   "time": "2026-11-04T13:55:41Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTIzc1F2ZWpzTG5Va1ZsY0RIMEVabFJBSlY0ZFBDb2RDYW5mNW5iTXZRb0owR2xINi1uNTUxakhDeHdvYjBLSWc2U281RlE4eXlTZVVGLUtTWHAyX2NXMUVEVXhzUzdMdXppUTF4dkRCZzBhREx6YVhtcUd5M1d0Z3M3VzZTRkFOWTRGU0RxWUZpZ3EzaUpwcXZ3UG82NmN4bk5lRzZObDZta2dMS1hfMDRxWUZXWGFFUl9F?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
    ]
   },
   {
@@ -203,6 +293,15 @@
    "source": "Al Jazeera",
    "time": "2026-11-04T13:39:27Z",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWDFEXzdGZXdFVFZjVENub3Z2ZC1YaVpJcjVoVjlVbjFwYWFQd0tEVC1yNEtKN0REUG5LcUZKTjV1amFCYVMwSjU4S0xNLUFGaWdsRzZpakQzQ2xmYy1ERzVmSnF5QTg0WnBBcHYyR3RoVVBLdTJKZ1RCN2FsWGNDdTVLeVVUeWt2VVE4WnpWNXdwU2pPckVsNnpoekJTdlNSYkdjWUhkZ3NscjkzSHRoRnFEZkkxd9IBuwFBVV95cUxQTjhXQ1dyT3JQQjRHaXdWMnpvNFNqNURSQWgyT0lzRWRJb3lmdEI4a29qLVVBOVpkZU1sRlBEMVI2ODN4R2NTeUhLRUFPcUUyckpCVEZLRkxLU2cyVjk3WjIwVmJENEhmM1E1V0tzSk5WN2pnam14QU8zLVNqcG12TVFNOXQ3Zk5KRG1hSzFSaG94OWd1RjY0T196MWdmVk1Od2tzZGVPZjFDbmsteWU4b3dINGQtYkpReEhV?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran says Americans rejected Trump’s war as the world reacts to the midterms rout",
+   "source": "NBC News",
+   "time": "2026-11-04T13:38:58Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRXNTWEFrYUgxWTVNYUxORkM0NXM5MVd6bk85SGZNUlI3OGVyYU45UEpXNW5mS212ZkxKdG5HaUxhTjAzcVUyQ3czeWd3eTd6V09fckJBVDJfRVNUcUFIU0ZBb2pOVUluVHRCaXVfTGlIc0paU1JtbUVwTFZMNDYyODNKY01qZE9ES3kySEhIUm9mUXdsOTZ6U2NTcHdFdEtrZk5YRmpvc0hnNGs?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -290,15 +389,6 @@
    ]
   },
   {
-   "title": "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
-   "source": "WSJ",
-   "time": "2026-11-04T13:16:14Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmVhWVpoUFY5Q2J4OGY3SlRPdnpxbFhHaWlOT2V6NUdXaXl0SjVQWnNMVXdIQV9KaFdfY3dOMFpqRFF5VzF6WWh4dnNERlJidUVhbEliWmt6ZVhuUThYN1pac2NHWTR4MnE2Q2JPLWVJVkFzckZucFNMRWFHQ3RkU1JwdTBGM1B0X0dEckpoRHFzSG5Mb0V1MkF1M2hHSW1obXZuSGhGQ0dodEk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "ADP Nonfarm Employment Change Matches Previous Figure, Defies Forecast",
    "source": "Investing.com",
    "time": "2026-11-04T13:16:08Z",
@@ -324,6 +414,15 @@
    "link": "https://investinglive.com/news/us-october-adp-employment-86k-vs-65k-expected/",
    "tags": [
     "JOBS"
+   ]
+  },
+  {
+   "title": "Trump's midterm drubbing could give trade partners room to resist",
+   "source": "Reuters",
+   "time": "2026-11-04T13:14:13Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1l2eFV1eVp6bE01NW40RDUtcmU2REdDOUZDRU5JSmdDN0MtNElwaUZXQ3VVUUVqV0tuSFZNb3RaeTBNd2JXanAyRlJ6UUU0S1pPMVdzYjV6OUpyRW1yc1hST1o4SFozN0JZYzU4dldLSXNkc05VeUwyV0E5TXotUC1lYXhEN2FtaTBXN3hOdHR2T1FaSE1Kc2ZHdnExcFZuWUpxVWwxQQ?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -391,15 +490,6 @@
    "tags": [
     "GEOPOLITICS",
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Iran says Americans rejected Trump’s war as the world reacts to the midterms rout",
-   "source": "NBC News",
-   "time": "2026-11-04T12:57:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRXNTWEFrYUgxWTVNYUxORkM0NXM5MVd6bk85SGZNUlI3OGVyYU45UEpXNW5mS212ZkxKdG5HaUxhTjAzcVUyQ3czeWd3eTd6V09fckJBVDJfRVNUcUFIU0ZBb2pOVUluVHRCaXVfTGlIc0paU1JtbUVwTFZMNDYyODNKY01qZE9ES3kySEhIUm9mUXdsOTZ6U2NTcHdFdEtrZk5YRmpvc0hnNGs?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -570,13 +660,6 @@
    ]
   },
   {
-   "title": "Treasuries Advance as Traders Eye US Votes, Refinancing Plans",
-   "source": "Bloomberg.com",
-   "time": "2026-11-04T11:49:23Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzN0NVZRRWVGTGRucWE0c2lMNmdFU3BGaS1kVlhzMDAyZUNRZjA1SWlORHJIWlotVXdWLVNqN3NMX3h3U2tISkRod0l5YXpDdzZLOWNhYmhPd2hPU3UzUE9wZmdEQ0VBWjRfZi15SmJsclVuS1lwZHcwakdPdk5pbW5ha1NhMm5SdUpBUmdDUzMxT3YxNWg3dlRHeUxjeGFPOV83bjUyNlY0ZktBSFF0Uw?oc=5",
-   "tags": []
-  },
-  {
    "title": "HVT: Q3 growth lifted EPS as tariff refunds boosted reported margin and store expansion advanced",
    "source": "TradingView",
    "time": "2026-11-04T11:48:43Z",
@@ -592,89 +675,6 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa3ZpaFZyeTU4OFM3RXhFQWdXcXhPODFkSHZJdnRkcm9EeFMwb0tRY2hZdDVVaEY3R0RVdGs2RjVKYWh5UHlKSVY0d0xEaENYVDBvamxBU3RzTm1NbmhnYWVBV0VNLUhNUG91blBuOFVKUzVtdE9Dc3hnVXoxdlFJcVFXTVVhVjNfQzVaVFpiT0tIckxjVXRQOGN3RE81SWZJOUhkU0MzTmRaMlUtbHd3cW9n?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-   "source": "BBC",
-   "time": "2026-11-04T11:46:09Z",
-   "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Artemis Gold Reports Financial and Operating Results for Q3 2026",
-   "source": "TradingView",
-   "time": "2026-11-04T11:45:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM1c4MURZNGJENUNvXzR0ZElTc1JXeE45UnBsSHhKZXFZSmdhaGs1Qk9za2NjeFd1cUN2QlJSSC1NSW5CbUZtQjMyZmE5NWRMeFdtSF9Lb0Y5V3BfLXNDMXpBRUxIQ1dYZmZabmJuMlJLRkJldnZhSkVSRFozcUg2d3M0dnNuUEE3elVJTnJUd2kxRzdPaXd5NU11bWlYcmZIaEQzZFFvaWRNSWFXVTFjYXZBWnNzSUcxOG11N0doYlNBZHM?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold gains 3% as dollar slides after Democratic midterm gains",
-   "source": "Reuters",
-   "time": "2026-11-04T11:32:26Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0lHOUFsbExIR3lscDNTRy14T012UWd6UlBSLUtySlpjSTdFaEtYLW1hbnpOTHdrSm1fM1RGU2V0WmxNSWJGU3AxeV9PUDVRVm1BRjBBNXQxZVVacElvaE5IbGJFU2FZbnN1Tmg4dlVTZ3prY0U0SEh5X1VzWmxUYnQ3VWhtZGpGOXloc1R6X3BvNlprVmw0UGppaFE2VFcyYkl3SzJ3?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Zcash catches a bid as Democratic sweep pressures US dollar and Treasury yields. What's next?",
-   "source": "investingLive",
-   "time": "2026-11-04T11:24:49Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMnE5ZEhTRlBCM3JwUFhCQ0swcXRVVk5uOVYtaF9qQTFTeUcwUjdrMEZoNHJYM1RNLXJrcHlFUUNDY21yLW8tTVdjNlY0cWRzMzBaMmhiV1VZcFlyTHdHeGFFanY2dGxVX0dhSlRTZjlEcVZYakJWdktaWlVFWWlvTjJOTS1BeFBUT245Wmo0aG9pQXdudFYxTVViM19TbnBQQ1MzQ1pZU0s2UnQwSnRGM0xra2k5a1hDUjZFbGpxQnV6dFREU3JXeWs5T1RVZw?oc=5",
-   "tags": [
-    "USD",
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
-   "source": "CNBC",
-   "time": "2026-11-04T11:20:46Z",
-   "link": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russian strikes disrupt water and power in Kyiv as rescuers still search for survivors in the south",
-   "source": "The Washington Post",
-   "time": "2026-11-04T11:20:08Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb0lycG1jb1hMWE82dndQOWNSZkUyOEpucG5WTEdfZ3VJTDQyVGlsTE4tS0Q5bU55YVE2T2c3bUM4OWs3ZGd6TThSa2U5Vk5EMmlheDkwTDRGYmxzZUxoOEFON1l4REIzYTNxMkZWQmYyY3lMTVJIVDVZVTNqdHlLVEpnWTZkTUhyR04xOVNQMmN3SUdyMDJsWDM4VVBPQWtCWXJDLWlORzZHOVZKaE9TTE1IeTJSWS10ZUZnQ0JhSDZCSjFhZ3RWclA2dmpIdTZ4?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ireland’s unemployment rate rises to 4.8% in October",
-   "source": "Investing.com",
-   "time": "2026-11-04T11:16:57Z",
-   "link": "https://www.investing.com/news/economic-indicators/irelands-unemployment-rate-rises-to-48-in-october-93CH-4998403",
-   "tags": [
-    "JOBS"
-   ]
-  },
-  {
-   "title": "ATS: Bookings advanced, but tariff delays and lower volumes pressured results and FY2027 expectations",
-   "source": "TradingView",
-   "time": "2026-11-04T11:14:42Z",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOQlFqVDdfaUYtaXZ6S3MzbWlXd25mU083V2p5OU8xZmMwcTdpQWdWeV9jdDlfNnNpajg1NDlvelVvaDhyS3RyZGNYSzJBVWtrSk5acUhkVkp3T2hiYjNwWmtuMkY0OWlqQXV3Wk1adFlZVUFYdkItWDEtTzctVm1oZmh3VkZpYUtRa01tZEwtSnRfMXNCSW5zQ1U4U0NWQkdBSTd2NDhnMWlxM08tek1OZHRaVkVmTWJGMlgzb2xtVUNoSmI3VjhlNHZ5NjhoRmNsVWdJeVY0THpCM1BJUE5rOFYtV2VLOGtNU3VaZWdET0RkcVNrbUdnMEQ2SWtEbUEyc2RNZUFvX0toV1pKQU04?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "SWK: Organic growth and margin expansion lifted Q3; tariff refunds boosted results and guidance",
-   "source": "TradingView",
-   "time": "2026-11-04T11:10:30Z",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSmZjWmd5ZlVtb1ZWcWgxeEF4Z0gxYkRjdHliVk1yeWxwWGdwTzczWV9fU2lWWFpkM2h2OW1wUV9Fb180QnMta0wwRkVTSzBRSDBSNDdCMHNRbHNjN1RQbU45b29rSWVnMVFXdjh5YVpUWG8tYjhrVGFlVm9XejdCVUVERjUzaUNadkNxRXU3S3I3dWVjaUFGNlBObWtOWklOUEIzS0d5bUQ5WXllcVc4RjV6aHhOcTFnN2hkOVhtU3NMSWJZVVhaYVVXVGtaYjFud3FUN2d4QXJGZl95bjgyUHM0U1dJM2liWFlWOGFCRWl3cjFTbldfNDM4NVZiZ3pfWmM0QWVjVQ?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
