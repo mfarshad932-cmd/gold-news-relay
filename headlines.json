@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-11-04T01:58:18Z",
+ "generatedAt": "2026-11-04T02:26:38Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 0
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -47,7 +48,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 4
+   "kept": 5
   },
   "marketwatch": {
    "http": 200,
@@ -81,22 +82,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 31,
+   "items": 30,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 2,
+   "kept": 2
   },
   "gn_tariff": {
    "http": 200,
-   "items": 23,
+   "items": 20,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 42,
+   "items": 45,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +107,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 17,
+   "items": 18,
    "kept": 12
   },
   "gn_oil": {
@@ -125,6 +126,53 @@
   }
  },
  "items": [
+  {
+   "title": "Gold (XAU/USD) Price Forecast: Critical Support Holds Amid Growing Downside Risk",
+   "source": "FXEmpire",
+   "time": "2026-11-04T02:24:20Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc1h4eWZvaXpzM0hRRXJnRTVwczNIQ1NMSjZmVzk1dEJndlA5bmJYZXpHdWVIUHVzRVJkb05KN2VRMkgwakhsMlVFdlZXenZwbW1IYWtGb3ZadmVtQ1pXQVFqZ1RMX09ucTNiQzFzTWU1WEZyQ05qRjNtdHF0UFZWZjVyNS13NTNHa3pPbzNKak9Xdmluc283dUQxVUhfcXVBd3lsN2o1ekNnWDlMU2xvZXBxY1l6UXItbndtWHRhOW9kSjBabi1j?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "China’s services activity growth slows to 3-mth low in October",
+   "source": "Investing.com",
+   "time": "2026-11-04T02:13:20Z",
+   "link": "https://www.investing.com/news/economic-indicators/chinas-services-activity-growth-slows-to-3mth-low-in-october-4997129",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Oil edges down as investors await US midterm election results",
+   "source": "Reuters",
+   "time": "2026-11-04T02:10:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUEyU0pEVG8xTHJtT2xCU0ltcXVTalphM0RNTEZ0UVlCTW5Qbjg4cS1RQnh5QXZnVEZvdnBacmZRM2FhMWJLWXVjU08yNkpvOHZiLTUtSGN0Mk55NGFBNWdxTmR4b3ZBeGNlX3ptUGNaRVFzRzhyNDZodklncGFZaV96cUxHY1Q1ODZWdmpTVWlWRVp4bVdJb0Zrb1pLaXVsUFFySUd4cm40cFphNGZB?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "China services PMI slows to 50.8 in October as price cuts meet rising costs",
+   "source": "ForexLive",
+   "time": "2026-11-04T01:59:46Z",
+   "link": "https://investinglive.com/news/china-services-pmi-slows-to-50-8-in-october-as-price-cuts-meet-rising-costs/",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "North Korea fires unidentified projectile toward sea off its east coast, Seoul says",
+   "source": "Reuters",
+   "time": "2026-11-04T01:57:00Z",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGd2b2RVUmtvZUZCMHFtelFwQUV1Umdta1FkSTloenlXeGUxbUhuNVNqaDdHd0IzaU1wcWtUdnNDSVJ0YVJGREIwMTBqZElfcjlNbXp3YWpyNzlodHhXbWp4c0FaSE1iSkh3UUl3SFJsN2lDcHJsdUhzZVVQZE1QTzc5QkswcS1TR3hFMkNrM0RIUWFwekZ3Y1hNS0tIMUpfSjZFQ1E4cFAxVF9HMzRNNXFXbl9VUGlROTJlNkFOR2xaYWdoNGZ5V2FnOU4?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
    "source": "The Guardian",
@@ -163,6 +211,15 @@
    ]
   },
   {
+   "title": "Recap: New Zealand jobless rate hits 11-year high, kiwi slips as RBNZ hike bets fade",
+   "source": "ForexLive",
+   "time": "2026-11-04T01:11:18Z",
+   "link": "https://investinglive.com/news/recap-new-zealand-jobless-rate-hits-11-year-high-kiwi-slips-as-rbnz-hike-bets-fade/",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
    "title": "Opinion | Can China tame its war machine?",
    "source": "South China Morning Post",
    "time": "2026-11-04T01:00:08Z",
@@ -170,6 +227,15 @@
    "tags": [
     "GEOPOLITICS",
     "CHINA"
+   ]
+  },
+  {
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-11-04T00:38:25Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -305,15 +371,6 @@
    ]
   },
   {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-11-03T23:08:25Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Central bank gold buying jumps 42% in Q3 as high prices hit jewellery demand, WGC says",
    "source": "investingLive",
    "time": "2026-11-03T23:06:01Z",
@@ -371,16 +428,6 @@
    "tags": [
     "CENTRAL_BANK_GOLD",
     "CENTRAL_BANK",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold (XAU/USD) Price Forecast: Critical Support Holds Amid Growing Downside Risk",
-   "source": "FXEmpire",
-   "time": "2026-11-03T22:39:20Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc1h4eWZvaXpzM0hRRXJnRTVwczNIQ1NMSjZmVzk1dEJndlA5bmJYZXpHdWVIUHVzRVJkb05KN2VRMkgwakhsMlVFdlZXenZwbW1IYWtGb3ZadmVtQ1pXQVFqZ1RMX09ucTNiQzFzTWU1WEZyQ05qRjNtdHF0UFZWZjVyNS13NTNHa3pPbzNKak9Xdmluc283dUQxVUhfcXVBd3lsN2o1ekNnWDlMU2xvZXBxY1l6UXItbndtWHRhOW9kSjBabi1j?oc=5",
-   "tags": [
-    "USD",
     "GOLD"
    ]
   },
@@ -634,52 +681,6 @@
    "source": "The Economist",
    "time": "2026-11-03T20:36:19Z",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS0RxYURrempZYmJJLXlkSnJwS2F4Vk42X2hBYVVTbHhYQV91OFdiWDZZbE5uTU9VOGtWYW9sT0Y3dkFYdkx4eGVWVkRhMF9wdXI0ZWk4aXlib0dvRWNiMzRMVFFhOElfYkFESTlGamZuc0RTdWFZaE1pTGQ0RFBrcGEwZUFSbFBEZlREZTBENUhrM2hXRjQ3TlNYOGw1c2RKM1E?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US carries out 'defensive' strikes on Qeshm Island after Iran downs drone, officials tell 'Post'",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-03T20:14:56Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zREl5Nkt3VXYwcXU1ZGhSZnZLZEN1dGhqWW83eFo2X05HTlFZYXhraUxoaEdwekw1M29MTWlsT1JxdS1SN2FDR1d4Yy1EdHctTFprX294ekcxVTdwMTIyYWE3QTNkdk5lRkE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Child marriage cases surge in Gaza as war deepens poverty and displacement",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-03T20:11:54Z",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VZXROaTFaY3FJd3JITmtleENRSkJRdHV5RVFaYnV6V3JPUi11TzJIQUtQaXBZcmxTRjhZdjZKMGd3YnhSQ3VxTjQ2cG9wMzQ0SG8xZDdqNG5zamxnUTk4YU43dw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Saudi Budget Deficit More Than Doubles as War Strains Finances",
-   "source": "Bloomberg.com",
-   "time": "2026-11-03T20:04:01Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjRUOGlRYlNrUHVudVVKTnBFa295eTJ1bzJLOTA1cE1MTjZoR051dEV6aTVYd0p3dG5mcjVOa3hCQXRqN1RZMFh2VjYwaVhpRkM0amd3VnpKSFlyUEZqR1hDeFVsbzhFMFpKNkVnbmhxWldhZGJiM25UREt1Tl9SWkVPYmx1MzBJY0MyN2xsOVNHeEdWT0dTU1dFcFp4dXQ3XzVTWXZBTDBLeTRsdm5qUzJnQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
-   "source": "CNBC",
-   "time": "2026-11-03T20:02:10Z",
-   "link": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "What comes next in Trump’s war with Iran : Here & Now Anytime",
-   "source": "NPR",
-   "time": "2026-11-03T20:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN2R6VUtZbFBoSTRVZ1BEYzBsZ282NURLMmdUYTBjWExYYlFuajg1Mmt1MzBxM3lhX3Uzc3l1MmhSY0pjNmdneU9RVHVYLWxQUDZaMkk1cnFtRW90SDNYcENlTC1ickZCR3RmNW1vWEF5SW01UFp0WUdseWlkaXNXbmJ2bXVVaUI0bWowYQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
