@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-11-04T03:23:07Z",
+ "generatedAt": "2026-11-04T03:51:28Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 0
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -81,17 +82,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 35,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 2,
+   "kept": 2
   },
   "gn_tariff": {
    "http": 200,
-   "items": 21,
+   "items": 20,
    "kept": 12
   },
   "gn_war": {
@@ -101,18 +102,18 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "gn_yields": {
    "http": 200,
-   "items": 15,
+   "items": 17,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +126,25 @@
   }
  },
  "items": [
+  {
+   "title": "Gold Price Forecast: XAU/USD ticks lower while early trend points to Democrats victory in House",
+   "source": "FXStreet",
+   "time": "2026-11-04T03:31:12Z",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTUVoZzlVSmd6a1oxRXc4ajVuUDBUeU9KUEtBaXltMWhhVFFneTg4TUR3Sm82TlRPV1hPRnVBNDBDS3VTbV9WLVJPNGgwVlJ4cm04TmU2OHRvX3ctVWpHbjZKb2ZLWjFtUzBTX1RKamhDQ0ZrU004YkwwM1dvckUxY0xIbFYwakQtcXU0UlBDOEpDeVdQcjF3VGhXRDM0Ym5lWG1WUV9kd0ZNc2gxRWtqYTlBLThfU0QxMVZSd05ySzZMR1o1U0dJTWNkN2VYZWplUE0yNTIzZWo?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+   "source": "CNBC",
+   "time": "2026-11-04T03:24:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2FPb0VDa1pUYWotYjQwXzBBYm1nN0dhMUw1X0hLZ3B1MTRPeTh3ZnhkT1BPVDVMYS1tZDVRYjIzS19SNkh5dlFMZzZEZktrdTk2dmR4ZXYyZVA1VWxEMEJadkZXcXFLelM2VEp6c19sSjdybnZzMFgweU5lNndHemoyY29qVXgyaFh5TlBOYnQ0ZHpJS1VwbVZqanhpcDVZQXFVVdIBqgFBVV95cUxPaE54YmlQLU1IZ2hRWnFkOGZHRzg1VFJTQVlkaGxkVUVzZTlvSFdXOUplRmhUUURkMnJybkpxMkNERjFQbkFlb0xTbS1KUmJIbHBKSmw4aG9fOXF6c3pQSHl3bmE3N1lyR1VNTEhiblRKX3VMYm5qWXRsc05aYkxNaHJ3SERJT1NESjg1QTcxSnBXcVJhbVpramJSUDFydnF0dnp4bU15cmlMUQ?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
   {
    "title": "Michigan senate contenders from both parties take anti-tariff stance",
    "source": "BNN Bloomberg",
@@ -209,7 +229,7 @@
    ]
   },
   {
-   "title": "North Korea fires unidentified projectile toward sea off its east coast, Seoul says",
+   "title": "North Korea fires multiple missiles in fourth weapons launch in a month, Seoul says",
    "source": "Reuters",
    "time": "2026-11-04T01:57:00Z",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGd2b2RVUmtvZUZCMHFtelFwQUV1Umdta1FkSTloenlXeGUxbUhuNVNqaDdHd0IzaU1wcWtUdnNDSVJ0YVJGREIwMTBqZElfcjlNbXp3YWpyNzlodHhXbWp4c0FaSE1iSkh3UUl3SFJsN2lDcHJsdUhzZVVQZE1QTzc5QkswcS1TR3hFMkNrM0RIUWFwekZ3Y1hNS0tIMUpfSjZFQ1E4cFAxVF9HMzRNNXFXbl9VUGlROTJlNkFOR2xaYWdoNGZ5V2FnOU4?oc=5",
@@ -292,6 +312,15 @@
    ]
   },
   {
+   "title": "US, Iran Pursue Diplomacy Despite Limited American Strikes",
+   "source": "Bloomberg.com",
+   "time": "2026-11-04T00:40:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOby1TUTRsc2lsVkxydkY0QnEwSU5XUW13Wnd4cG9GMzJZWFUzOFlaRWp6cjJjMnBZdUtzdmJ6d3BUMVl5bXBtQmx6ZXJTY004b2YyRXdOdDBzdGxsSGdDbTY4eWxvd1FsRW9IdDhld2plN2dMZmEzdFJEa2hIbUhMTnFJRF83V29xOTlOWXd0aU1LZ3BhaGYycUxNZWoybjBRVXQ3QjR2TEd5UzBj?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
    "source": "NBC News",
    "time": "2026-11-04T00:38:25Z",
@@ -303,7 +332,7 @@
   {
    "title": "Gold Steadies as Traders Track Iran Talk Prospects, US Midterms",
    "source": "Bloomberg.com",
-   "time": "2026-11-04T00:24:00Z",
+   "time": "2026-11-04T00:24:37Z",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVB3Y2J3bG9Ed1BDRjVvY1dIZUFhd0JzRWJ6VTRtRWdLNm13R294UVNEejBhTVVuNkdvWXNQRzZzYTV5ZV9nRWwydHRjQ3BfaTJkMFFVSGNmcTNlQVlfNUtld2xjaDVHNHpKQkdXS19jQnZ0ZzNWTUxuejUzemVBOHNGOGktaExwaExwaXJ6bGd4eUZUWkw0a29OWkZMc1E1QVFVWFJVR1NaU1dLaC1NeUZsYw?oc=5",
    "tags": [
     "GEOPOLITICS",
@@ -512,6 +541,15 @@
    ]
   },
   {
+   "title": "Supreme Court invalidates most of Trump's tariffs",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-11-03T22:40:59Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTZyamI3Uks3N20wbnpWemxhQTh5NG9UODJyVHFXUE5KTGFmMWlYSVZpUW9Eb2JnUmFjU1RJMWYzOW5pX0l3UXlPdWpaaEJqOUNmU1pQa2dNQUtvUjhwQVdweno2bU9kbTVNams1SmhqY1FrZklQU3BTTnF1S0VJd2RMNTZ1VmJVamt0SUdYem9JZ9IBlwFBVV95cUxNa0dWUktjN181VDcyUThKWGIzLTU1VnBsdlhOb3p6NmJMWHpodDh0c2M1WHA2SHZKdTRSQmhNbUxXZW13RllnbS01cktCOWhYY19MZXJtR2w2WnVfZjBYVGRDQ2pnM2NLTGwtZnZOZGlpc3FNM3ZQSWdETHNMQzg3a3hWMTdnV25FQzkyMDlOVkoyR3l6SkZF?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Gold, silver decline as strong U.S. jobs data lifts yields on election day - Kitco PM Report",
    "source": "Kitco",
    "time": "2026-11-03T22:22:58Z",
@@ -645,43 +683,6 @@
    "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-job-openings-jump-as-the-us-votes/",
    "tags": [
     "JOBS"
-   ]
-  },
-  {
-   "title": "China's Temu, JD.com revamp business models amid tariff headwinds",
-   "source": "Nikkei Asia",
-   "time": "2026-11-03T21:38:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcXFvUWRfaHp5NU8zSVZHU3doQnl1aXRKUC1hcEZwaHlVS1NRbEZoVllOWmVGaDJNTFdET3gtVFhLb2JMYkh4LWJfTVVlS0EtakVYWElEZkloWnZBZE1XZy1tN29QV1FobTJUT2NTQzVSb2FRV2dNVVVKQVBaOU1RRWtTblNkaGlReTBDMHhEV3cyQ2RfSjQyMTJXZEhPRklrOFlkRUJ2Zw?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "RYAM: Adjusted EBITDA rose 30% sequentially as tariff-hit Temiscaming operations remained idled",
-   "source": "TradingView",
-   "time": "2026-11-03T21:35:27Z",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPODVfcndsYmUzSWYzcGJkTjNKQVJoRWtFcHBLbl9ySlh2b21LbUtVdjhOU0dTMkFOUDQxN1k1TDJpTzlrTklkTEtDWkFkbVlUd3g5dXhvaXlJVlI4ejhlV3hMb2xLSVEyN2JtWFpJUm53bXIza0o3emZxM0JZVnhMYWFKNk9abG9CeGJyUUZPRHBoWm1kUUFaS2s1c294LTVLVlRoT3c4YmVRMWVyeHhSMVVaNGRIUl9TS0lLNFl4dkVJbXAxTkYtZ2tVaUdLTXAtYmJpUWhNMUZEZ2NQcEpaMXJDcDd6cnZiSHlNN004Q0FtOXBhUHpoWFJ5MnBqZUhpM3BjWWZOQQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "GIC: Q3 sales and EPS advanced, supported by customer momentum and tariff refunds; special dividend declared",
-   "source": "TradingView",
-   "time": "2026-11-03T21:35:12Z",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOWDVndWo0bUhqRkhER0Jadlp1MTRqTzlYUEp6YXpvRkNJOTNHcDdkeXd0ejRiNmZYVUZFdFl3OG1HUEtNVHk2SUotRm41QUZ1RG93ZEJrMmhLYm9IeTFFZkNrQ1NUNWJIZEJHRF9qazF5WVdMN3I4ZkhTSldXSUpFNmNQWWlGQm0wS1hHYm9yWlhYdWhEcVhyRlhYNUpvR2V0MS04N0lQalI1eEE2R3hnc0pDU3hmc2x5eXdaN082TTBLTWlvZGFRUnJ5d3h1bGp1MzV0MWx4ZXpKMDhGVFpKcl9tLWVTRE5IRE4tWEJnLU9DMjg2dTQ3WVQ3MzBSOTJxNGIxTGRLOVRMUXlqdEpQbDE2TUJqcDA?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Why Trump Often Mentioned Iran in the Midterm Campaign",
-   "source": "The New York Times",
-   "time": "2026-11-03T21:30:27Z",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHVzNkEtR21PRVNoSGFwTlk2VjVoRWhKNDRhRlRwd2FtVzlEMHNkelFia0NRaWtEQjdpMEV2U2FsU2RuSkFSUzdQUWg0RkhOVzVYeDRJZm0zYjNCemV5TTFoV3JWOWtMOE10LVYxYkJQeDNrRFFyVEhLT1o4R3Q2UnAyZEZoYnpIR3lJSnZsbWhQWHM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
