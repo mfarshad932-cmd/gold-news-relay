@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T07:38:13Z",
+ "generatedAt": "2026-11-04T08:06:36Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 1
+   "kept": 2
   },
   "bbc_business": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 32,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 6,
+   "kept": 6
   },
   "gn_tariff": {
    "http": 200,
-   "items": 28,
+   "items": 29,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 33,
+   "items": 35,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 22,
+   "items": 17,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 0,
-   "kept": 0
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,54 @@
   }
  },
  "items": [
+  {
+   "title": "Maine elects Democratic senator after race that featured Canada-U.S. trade war",
+   "source": "thecanadianpressnews.ca",
+   "time": "2026-11-04T08:00:37Z",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSW1SbHhEUnJXWjFSdnZoRHJnckpLcnpkZHJGZzhTLVZIVUcxNkJjb3BBVklpbVlnYld4ZmthV3lDQ3B0WDRDYWZsUjVXeFlEcHhCU181N2NzTFB3REM0NjBNUEpvUXRsOHF1bHNPX2NvUk1Ud0ZVUXYwRG5MLWZBVzI0VldoV3VTdW5XY2tfZ2dEdFhJNXdheTlvVUhhcUJ2bl9qOUsyZ3RxbW53NkktZ0hoTzVRNEE2clVkQ1ozU3YwLTI3eHdyX0FwTG1kNnFkVUNPbklNVUVIelRJRXBSSTg3S2NxbXA2V3hlVVRXangtdmZyREdRLUZzWTV6Z3VaV3c?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold Steadies as Traders Track Iran Talk Prospects, US Midterms",
+   "source": "Bloomberg.com",
+   "time": "2026-11-04T07:54:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVB3Y2J3bG9Ed1BDRjVvY1dIZUFhd0JzRWJ6VTRtRWdLNm13R294UVNEejBhTVVuNkdvWXNQRzZzYTV5ZV9nRWwydHRjQ3BfaTJkMFFVSGNmcTNlQVlfNUtld2xjaDVHNHpKQkdXS19jQnZ0ZzNWTUxuejUzemVBOHNGOGktaExwaExwaXJ6bGd4eUZUWkw0a29OWkZMc1E1QVFVWFJVR1NaU1dLaC1NeUZsYw?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Pandora Q3 like-for-like sales beat forecasts; tariff refund boosts profit",
+   "source": "Investing.com Canada",
+   "time": "2026-11-04T07:47:58Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEJXZVk4aTRMVVMxX1dTUkZMd2hjNmwzZHJsWUlNNl9KYXpSc3pxZ3F6MGIxb25lZmNSNU5HZ1RUbGN4c1ZKLUNBNmpGWHZ4U3loMHVMX1lGWUNoUjI1NVpkZnFRUGZ2Q1FhVjREal9kZ2Qtbzk0clgwRkVVb2U4Ty1PbTNTUnA3LVVEaUZHVVAtUHBxN2laOHJuN1I2bGE4MXV2WHRhQXNIbUFqX0VWWG0zWVBUdHJpUlE?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress",
+   "source": "CNBC",
+   "time": "2026-11-04T07:43:43Z",
+   "link": "https://www.cnbc.com/2026/11/04/gold-silver-platinum-dollar-midterms.html",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
+   "source": "Al Jazeera",
+   "time": "2026-11-04T07:35:38Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON1ZqTGJfa3lWVVdvUzRRRUc3TlVVYUNFMHhkWlREdDZsYUFzSmdJVjBhcU9PaEptVWRxRm9QMnRGcmpkYkNHVXgydHhJYTd6X0d5dF9JMG1vc1dVOWtBWWxBUTB3VjhkZlAyUEt4cGhPUlJIRzR2cFhkdFVoOEc4SkRkM1FRQ0FpblBPZHh5S3JKMl9zbUhjeUlVazhmdkJ5QjRaUXJ6eV8taGNpV3lv0gG0AUFVX3lxTE1qMndoTmRKR0xGNDZnMVJYWmdselZrTXdiXzFKVjgwQW9OZ242eHJDWFlMa2x5MU1mbGVGdFIwV2V5Q2V2OVpfYmtfd0RLUnhmN01vTjZMdHgzVnVaMlZfelBSajJHOWVJOXZ0UTlQZEMwR0RsalU2bThPekFSRDExWG9KUUVMdFlVSFRPNTgteTdyNGxZMmhCMU9aUjU1SnNaTWJETmdSTlFyeHUwQmRUOGpRMw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
    "source": "CNBC",
@@ -162,10 +210,37 @@
    ]
   },
   {
+   "title": "Tehran gloats as Republicans take a beating",
+   "source": "Politico",
+   "time": "2026-11-04T07:17:00Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNnpYeFhzU2toX0Q0RUVzaEVrVHRPX1lLT3BqWm9kdWFxUmR6a2ttQ2M5RFcySUEzVWFMbXg1TGFuZUZKMTZvY3lSR3Q4c0otMUJYZ2VkdXZKNVBaQlpoaTB6U1hXa3lWNUE4T2dMRi1DSzNlQm93NWY2SmgtczdGUkZRSUVPTGFFNHZnNG83MXdIQWJ4RDk2TjRhTEVXa1dJ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Why Did Silver and Platinum Fall Harder Than Gold?",
    "source": "Investing.com",
    "time": "2026-11-04T07:10:00Z",
    "link": "https://www.investing.com/analysis/why-did-silver-and-platinum--fall-harder-than-gold-200690826",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Demant Says It Recognises US Tariff Refund Of About DKK 25 Mln In Q3",
+   "source": "TradingView",
+   "time": "2026-11-04T07:09:18Z",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdFRiZXpBaVBtbWZmd01MV2diVUJEZDBsMWZfdVdHMGlnem9oRFNEOExCaXdjRHVpQmVoaFlXaDFSRVkyMWdtSXl5aDFjdjFRWnoxZm51Y2l5cml4bGNXZFB1WkRRandzenNPajdwUXZ2YjFzQTBvYmI2QmZTTldFRWdGekxwUFRUbHRfUkF1cmNVYWhKVm94MUNWVkE3SmFhTUZPanJmTHhudEVNd2M2SE5EYVJSVUY0NE93U3RLcERzMmh5V1JaVUVPa0p4WVlPaUppdg?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold and Silver Forecast: Pressure Continues Ahead of Jobs Data",
+   "source": "FXEmpire",
+   "time": "2026-11-04T06:55:43Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVV9BSVpZLTZaY0UwdG4wRng1aGliOFRYM2h5RWNqbnZucjlKODBfSXFWU1ZKcnZGU1ZTSUJQcXBxY2NrYlFVMFpXM1gyc0g0aVJVVzZOTFd5bVktVTVJZkRxa1NFQXI5aW5QcHpHQV92Ul8yVXRfeVFaOUdsMnU4dGJHRlVzdUFYWkJvYnF5X1poZDhrUHpuQUVfdDdkX2NIaE1tTVNQcElwYzdRQ1dleW1NQQ?oc=5",
    "tags": [
     "GOLD"
    ]
@@ -427,15 +502,6 @@
    ]
   },
   {
-   "title": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
-   "source": "Al Jazeera",
-   "time": "2026-11-04T04:43:08Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON1ZqTGJfa3lWVVdvUzRRRUc3TlVVYUNFMHhkWlREdDZsYUFzSmdJVjBhcU9PaEptVWRxRm9QMnRGcmpkYkNHVXgydHhJYTd6X0d5dF9JMG1vc1dVOWtBWWxBUTB3VjhkZlAyUEt4cGhPUlJIRzR2cFhkdFVoOEc4SkRkM1FRQ0FpblBPZHh5S3JKMl9zbUhjeUlVazhmdkJ5QjRaUXJ6eV8taGNpV3lv0gG0AUFVX3lxTE1qMndoTmRKR0xGNDZnMVJYWmdselZrTXdiXzFKVjgwQW9OZ242eHJDWFlMa2x5MU1mbGVGdFIwV2V5Q2V2OVpfYmtfd0RLUnhmN01vTjZMdHgzVnVaMlZfelBSajJHOWVJOXZ0UTlQZEMwR0RsalU2bThPekFSRDExWG9KUUVMdFlVSFRPNTgteTdyNGxZMmhCMU9aUjU1SnNaTWJETmdSTlFyeHUwQmRUOGpRMw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Gold price steadies ahead of US elections",
    "source": "Mining.com.au",
    "time": "2026-11-04T04:30:00Z",
@@ -470,15 +536,6 @@
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaS1Qb2pFckZSMFV3Q2RiX3U5U3p2RkdvUF9LQ0E1ZUExd0dwNEV3WU5BTzI3UTE1UG8tV1J0ZFRuX0FiUlJ6ZTVqRldDcjJqbnBtOEk4djRzVUdQTTdEOVlsYkFiR1Vld2N2YmtDLUdHWWhXem1oT3ZtMl9MSks0V1JiYVMtaE1FckI1YXNZUmQxaTRqMG1UY0FYTE9KUGNyaFFyZnNjU1lzeURtbzNqX2llR0dnZC14Vk55VTVIcHVmalJScWV3?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Gold and Silver Forecast: Pressure Continues Ahead of Jobs Data",
-   "source": "FXEmpire",
-   "time": "2026-11-04T04:15:43Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVV9BSVpZLTZaY0UwdG4wRng1aGliOFRYM2h5RWNqbnZucjlKODBfSXFWU1ZKcnZGU1ZTSUJQcXBxY2NrYlFVMFpXM1gyc0g0aVJVVzZOTFd5bVktVTVJZkRxa1NFQXI5aW5QcHpHQV92Ul8yVXRfeVFaOUdsMnU4dGJHRlVzdUFYWkJvYnF5X1poZDhrUHpuQUVfdDdkX2NIaE1tTVNQcElwYzdRQ1dleW1NQQ?oc=5",
-   "tags": [
-    "GOLD"
    ]
   },
   {
@@ -578,16 +635,6 @@
    ]
   },
   {
-   "title": "Gold Steadies as Traders Track Iran Talk Prospects, US Midterms",
-   "source": "Bloomberg.com",
-   "time": "2026-11-04T02:43:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVB3Y2J3bG9Ed1BDRjVvY1dIZUFhd0JzRWJ6VTRtRWdLNm13R294UVNEejBhTVVuNkdvWXNQRzZzYTV5ZV9nRWwydHRjQ3BfaTJkMFFVSGNmcTNlQVlfNUtld2xjaDVHNHpKQkdXS19jQnZ0ZzNWTUxuejUzemVBOHNGOGktaExwaExwaXJ6bGd4eUZUWkw0a29OWkZMc1E1QVFVWFJVR1NaU1dLaC1NeUZsYw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "GOLD"
-   ]
-  },
-  {
    "title": "Trump says he'll consider giving Turkey F-35 jets, adds that US will lift sanctions",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "time": "2026-11-04T02:30:34Z",
@@ -621,52 +668,6 @@
    "link": "https://www.investing.com/news/economic-indicators/chinas-services-activity-growth-slows-to-3mth-low-in-october-4997129",
    "tags": [
     "CHINA"
-   ]
-  },
-  {
-   "title": "Oil rises on Iran war uncertainty after Trump's Republicans face election rout",
-   "source": "Reuters",
-   "time": "2026-11-04T02:10:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUEyU0pEVG8xTHJtT2xCU0ltcXVTalphM0RNTEZ0UVlCTW5Qbjg4cS1RQnh5QXZnVEZvdnBacmZRM2FhMWJLWXVjU08yNkpvOHZiLTUtSGN0Mk55NGFBNWdxTmR4b3ZBeGNlX3ptUGNaRVFzRzhyNDZodklncGFZaV96cUxHY1Q1ODZWdmpTVWlWRVp4bVdJb0Zrb1pLaXVsUFFySUd4cm40cFphNGZB?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "‘Why bother?’: Maine voters question U.S. attacks on Canada at midterm polls",
-   "source": "BNN Bloomberg",
-   "time": "2026-11-04T02:01:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2VYbGJPeDNaTmZnc3FlZTBCcEZzU1Zud19GQjAyOTVibDN2a3hRS0JwdEVEbXNHd1lkOXF4ekp3T2t3YnZqV1BIWmlORkp0TzB3aXFZTGpjRWVLZ2lQNm9YUjdWcTBjMGdCdGd1TGVsUnhNczR3UEhSeFVmcE43YVhIZFlxMXQwZmd1Z29wa1I3TklMSFpSVXhKRG5aWEZDY3dTR3c2RTlwRzZJeF92amhTRmgxMGEtM3c?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "China services PMI slows to 50.8 in October as price cuts meet rising costs",
-   "source": "ForexLive",
-   "time": "2026-11-04T01:59:46Z",
-   "link": "https://investinglive.com/news/china-services-pmi-slows-to-50-8-in-october-as-price-cuts-meet-rising-costs/",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Natural Gas Price Forecast: Bearish Momentum Builds Below Key Averages",
-   "source": "FXEmpire",
-   "time": "2026-11-04T01:58:12Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVVCT1JUeUgzSHhONnV3SXJ3TFduaVZNYVZuX09rRzdTS3NJOWJ6VkVGRlFkNzJ0Ui00LU1sV0sxREs1b1Zja1VDWUVxZnlEV1VRSDVlZnNGejJ4aGx4N3REZ1lXY0VWZVFYNFp6cGJsWXl6TzBacm92Q2E1aXdXZDhsLUZIN3VLZ0MxRkdmZS0tU3M2TE5nZXc1MTh6akswYW9SR0lFcHlnQ2MxdFVEc1hJWVQ3aVdNQ3NVUQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Trump slaps additional 50% tariff on certain Canadian goods",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-04T01:36:48Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDZTVjFHZXBWcUoteUpOakQ0T016RDVlQWxGR19KYnhEeEdfQzV3UmVLNkdEbWVCckxFbHZsNjhpcW9HQktmWGd5RmtobE1fWTJ4TnpqQlRZZDJRTUs2QzU4eW9zNl9ZeEpfRFk0OVRRTzRBVUJYS1F0dTFWRlNqNUFNV0taQU81MnBWbHd1MG5rendjb1g1X290RdIBoAFBVV95cUxPX09ka2RKeVgzdHdOWERZWHFGNWhmeWk0bHE5b0V3T3B0X19JQzZfcVQ0SHFkNXRBLWp3Sk1QMWduVU5sdy1DektIa19VeWtwTGNuNy1lbnU0OW0wazRjN1ZQdWJZdlp1N2kwSjc3RVhBaG40eFZTN0xTbE5xTHMyenZZazdlOXdqSHhrbkZrcTlzOGZiX3BnTy1tSThqTm1G?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
