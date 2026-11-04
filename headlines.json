@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T06:13:12Z",
+ "generatedAt": "2026-11-04T06:41:33Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 7
+   "kept": 6
   },
   "investing_news": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 0
+   "kept": 1
   },
   "bbc_business": {
    "http": 200,
@@ -66,8 +66,8 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 32,
-   "kept": 7
+   "items": 23,
+   "kept": 3
   },
   "aljazeera": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 32,
+   "items": 34,
    "kept": 12
   },
   "gn_fed": {
@@ -91,28 +91,28 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 24,
+   "items": 27,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 37,
+   "items": 38,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 6,
+   "kept": 6
   },
   "gn_yields": {
    "http": 200,
-   "items": 21,
+   "items": 22,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 1,
-   "kept": 1
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,12 +126,40 @@
  },
  "items": [
   {
+   "title": "Gold: Geometric Price Levels, Institutional Demand and Road to Recovery",
+   "source": "Investing.com",
+   "time": "2026-11-04T06:34:00Z",
+   "link": "https://www.investing.com/analysis/gold-correction-geometric-price-levels-institutional-demand-and-road-to-recovery-200690812",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold surges past $4,000 as US midterm election results and softer yields weigh on USD",
+   "source": "FXStreet",
+   "time": "2026-11-04T06:21:15Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTjNUTTR4aUpBdHhDODREZ1pfVUNDREVhb1BpZ25nN1RrTS1va2c2Y3BvdE1QZF9xb2VZb28tblg4akQxRGVRUVBEMm9qVGRENUNRMTVVdFVqWXVsX2ZBblpRSG10Zmp2b3VleEViNW9ubzBuMXp5V1RFZHlGM2tDMzdWTnZwVDZ5WWRmRVRoQ21lQmpiOXFFTHNnOGJ3U09OelppUXV6dzhZVGthNllNdEstTVozdw?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Iran’s top negotiator says Americans voted ‘NO TO WAR’",
    "source": "The Times of Israel",
-   "time": "2026-11-04T06:07:30Z",
+   "time": "2026-11-04T06:08:06Z",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSC0wdmRwRU5FN2dhdmxkVC1zRVhLV0h2akUzRlpnbWxFNzZtRjU4aHNoVWNwb1JQb1BBY09nZm4taGZXd2xLSU5iMUk3ZmJkOGtHd2hoUno5enU1ODJGTW8wby0xSXh5bjhyVVZGOS1WZUNSZnd4cnpsaWJCQ2ROT24tX2tDOVhmQlExVkZfa2I2RlFsUnRZdl85THF4Zw?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold prices hit $4,000 as Democrats see electoral Sweep to gain control of Congress",
+   "source": "Kitco",
+   "time": "2026-11-04T06:06:41Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmUweUdscDYxeG1QNXplb0NOLVktMUNwYkFyN2ZIQzhEbzRKRmdtR1E3S1BoQjlWemRVakJFaENDVmVIZmd2UUh1LVBTTlRvZV9PRTFpM2F1M3V5eW55Z1Z4VnpXUWFyWEpadGFnbDVnaHJyNHJhdU1OMUtUTXJpTjNkR25yUnM2LWNXT1lfOEFuLWZFSlJqcnplMl9KajN4Q0JSZnRGLU5qcnI5akdoS2xzWnBKQWowVmc?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -153,7 +181,7 @@
    ]
   },
   {
-   "title": "Trump Admits Iran War Contributed to Republican Midterm Losses",
+   "title": "Trump Says Iran War Contributed to Republican Midterm Losses",
    "source": "Haaretz",
    "time": "2026-11-04T05:36:00Z",
    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTU00bWFYZmh4YjRjZ3NtdzdYMzFMdEhDeUNfdUJnOHRiX25nSWlrX3dqX3piMWlFUUgydFl3WDJNUlJkeS05aUV3TkFuUUtDYnFLNGV1bGRwSFBhNDBEZHN3OUJJb1BhRzZNdFlnM3hSTl96SWk0SzdMMG1VR2wwVy1YWkR3aGFkSlE0NERFbFBWcDNYdHoxYm1lejdDU2xvUnRkUVBubUVRenBaR0dUemlTanFTcVg4RHlSUGkwZVVuWTdEcnMxa2lFanZoSjJFTG1yeVpuUTVadTZPakc5amtnZ0hhYTlKZWVUVUJkSVZ1SWZYQTRBdlVxQTZ6QQ?oc=5",
@@ -253,6 +281,15 @@
    ]
   },
   {
+   "title": "Emaar Offers to Buy Out Construction Arm at $16.3 Billion Value",
+   "source": "Bloomberg.com",
+   "time": "2026-11-04T05:07:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSjdHTkQ4TmljLTd2OGNUWUxzNWtTSTNvX1RXU0I5dDdEU1p0SldOd1YtOXZvRFRiTHhkUHd5LUJkdzlUSDdZNHhUT3FBeG9CdjVQTFdXTUphLUNPTVg1TUZsa1ZhX2pPWG51YjhnT2xEdWQ4aWxocVdLQmlOVWFmSjRmanRIeUl3ZVNkUWlxWnVnRlZueWctZmk0Mml2QVNzQl9lcEZkRXpFejVZckdQbENzRQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Gold rises as dollar weakens ahead of U.S. midterm election results",
    "source": "CNBC",
    "time": "2026-11-04T05:04:15Z",
@@ -269,16 +306,6 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQel9yc0s2ZE5meDNfVjFMVlpuNG4tdFNZeGM1eXM3a0ZDWHZZMmlvcVhMSDJqVkladWlYSVI5cnVoaGUwOXNhZDN1V2JYXzlSRUtsZVphN3BnQU91SHpNcHctdkNGVF9SMldUcDIzREp1R0E3R2dTU0VIelpnVVZmX2pueDg?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Gold edges higher as US midterm election results trigger sudden USD fall",
-   "source": "FXStreet",
-   "time": "2026-11-04T04:58:57Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTjNUTTR4aUpBdHhDODREZ1pfVUNDREVhb1BpZ25nN1RrTS1va2c2Y3BvdE1QZF9xb2VZb28tblg4akQxRGVRUVBEMm9qVGRENUNRMTVVdFVqWXVsX2ZBblpRSG10Zmp2b3VleEViNW9ubzBuMXp5V1RFZHlGM2tDMzdWTnZwVDZ5WWRmRVRoQ21lQmpiOXFFTHNnOGJ3U09OelppUXV6dzhZVGthNllNdEstTVozdw?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
    ]
   },
   {
@@ -307,6 +334,15 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORWJxcndVQjFHVkNyNksxRVBmLVVmTEFSZU1RaVJ4dWhPaE43VnZiT1JMODdsOGlUZHZMcnpmSk1PX090TXBZNW9xc1lJdlFxcjlxQjVqWXM1VHRzRGZSVnVWTFYxODNPNy1fa21IeU8wSUpNRlR4bkZ0bm91MENsNEViU01iczJQUVpUd28yd0E?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-11-04T04:46:37Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -391,6 +427,15 @@
    ]
   },
   {
+   "title": "North Korea fires multiple missiles in fourth weapons launch in a month, Seoul says",
+   "source": "Reuters",
+   "time": "2026-11-04T03:34:35Z",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGd2b2RVUmtvZUZCMHFtelFwQUV1Umdta1FkSTloenlXeGUxbUhuNVNqaDdHd0IzaU1wcWtUdnNDSVJ0YVJGREIwMTBqZElfcjlNbXp3YWpyNzlodHhXbWp4c0FaSE1iSkh3UUl3SFJsN2lDcHJsdUhzZVVQZE1QTzc5QkswcS1TR3hFMkNrM0RIUWFwekZ3Y1hNS0tIMUpfSjZFQ1E4cFAxVF9HMzRNNXFXbl9VUGlROTJlNkFOR2xaYWdoNGZ5V2FnOU4?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Gold Price Forecast: XAU/USD ticks lower while early trend points to Democrats victory in House",
    "source": "FXStreet",
    "time": "2026-11-04T03:31:12Z",
@@ -403,8 +448,8 @@
   {
    "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
    "source": "CNBC",
-   "time": "2026-11-04T03:24:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2FPb0VDa1pUYWotYjQwXzBBYm1nN0dhMUw1X0hLZ3B1MTRPeTh3ZnhkT1BPVDVMYS1tZDVRYjIzS19SNkh5dlFMZzZEZktrdTk2dmR4ZXYyZVA1VWxEMEJadkZXcXFLelM2VEp6c19sSjdybnZzMFgweU5lNndHemoyY29qVXgyaFh5TlBOYnQ0ZHpJS1VwbVZqanhpcDVZQXFVVdIBqgFBVV95cUxPaE54YmlQLU1IZ2hRWnFkOGZHRzg1VFJTQVlkaGxkVUVzZTlvSFdXOUplRmhUUURkMnJybkpxMkNERjFQbkFlb0xTbS1KUmJIbHBKSmw4aG9fOXF6c3pQSHl3bmE3N1lyR1VNTEhiblRKX3VMYm5qWXRsc05aYkxNaHJ3SERJT1NESjg1QTcxSnBXcVJhbVpramJSUDFydnF0dnp4bU15cmlMUQ?oc=5",
+   "time": "2026-11-04T03:24:03Z",
+   "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
    "tags": [
     "YIELDS"
    ]
@@ -498,15 +543,6 @@
    ]
   },
   {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-11-04T02:08:25Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "‘Why bother?’: Maine voters question U.S. attacks on Canada at midterm polls",
    "source": "BNN Bloomberg",
    "time": "2026-11-04T02:01:00Z",
@@ -531,15 +567,6 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVVCT1JUeUgzSHhONnV3SXJ3TFduaVZNYVZuX09rRzdTS3NJOWJ6VkVGRlFkNzJ0Ui00LU1sV0sxREs1b1Zja1VDWUVxZnlEV1VRSDVlZnNGejJ4aGx4N3REZ1lXY0VWZVFYNFp6cGJsWXl6TzBacm92Q2E1aXdXZDhsLUZIN3VLZ0MxRkdmZS0tU3M2TE5nZXc1MTh6akswYW9SR0lFcHlnQ2MxdFVEc1hJWVQ3aVdNQ3NVUQ?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "North Korea fires multiple missiles in fourth weapons launch in a month, Seoul says",
-   "source": "Reuters",
-   "time": "2026-11-04T01:57:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGd2b2RVUmtvZUZCMHFtelFwQUV1Umdta1FkSTloenlXeGUxbUhuNVNqaDdHd0IzaU1wcWtUdnNDSVJ0YVJGREIwMTBqZElfcjlNbXp3YWpyNzlodHhXbWp4c0FaSE1iSkh3UUl3SFJsN2lDcHJsdUhzZVVQZE1QTzc5QkswcS1TR3hFMkNrM0RIUWFwekZ3Y1hNS0tIMUpfSjZFQ1E4cFAxVF9HMzRNNXFXbl9VUGlROTJlNkFOR2xaYWdoNGZ5V2FnOU4?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -642,34 +669,6 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN1dPbGl2b1NRbkRNQkU5ZjE2dXlUSGRZVDliMDVlVDJQQ2hGWW1RWVF6NnFkRTlud2NaRHVfR2xJNWZlRW1hNmo5aWhFcVctNm4ySHI3emx1aXJqVFVUZWx5RjF0dldOQXpfRkx4LUVtZmwydGNLVTh1U21wNERmUDBHNGdFOTFJWF9iaTY5TXhnODlBZVRJUE9n0gGfAUFVX3lxTE5hU2R6RDdYZ3VQa3RSajdnQmpXeFRld3FYc2FpN0xxVzdsd1h1ZDB6bEREVGJrdTk5UDJNMG9YLXV5SURBMzE4SEJObnQ4N1prNDNoYk84anBYbEVmbXNCU2J3ZTlxcU44RmtZLWVBUzV5N0EyVUlPWHg1Q04wZTF2aTZzemYtNlBNeUJaS3lkZkRoazh0NnRxM2k1QTQ3SQ?oc=5",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "US, Iran Pursue Diplomacy Despite Limited American Strikes",
-   "source": "Bloomberg.com",
-   "time": "2026-11-04T00:40:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOby1TUTRsc2lsVkxydkY0QnEwSU5XUW13Wnd4cG9GMzJZWFUzOFlaRWp6cjJjMnBZdUtzdmJ6d3BUMVl5bXBtQmx6ZXJTY004b2YyRXdOdDBzdGxsSGdDbTY4eWxvd1FsRW9IdDhld2plN2dMZmEzdFJEa2hIbUhMTnFJRF83V29xOTlOWXd0aU1LZ3BhaGYycUxNZWoybjBRVXQ3QjR2TEd5UzBj?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "India gold demand seen at six-year low in 2026 as high prices and weak monsoon bite",
-   "source": "investingLive",
-   "time": "2026-11-04T00:17:43Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZEFjT3RFczNfYWF6ajNsRlpkSmJtU2ZDUjNtZzM5WkJRR21zTzNZVFBkalJfMkhHX3cxRjVfYy1LdkNGMU1ndDFzVWY4X09PaDN2QkhyVHpXdXB3TG1hMmNYMU02dW9lVzY3Mnp2VU9iNGpjM0oyY3JRN1FGdmlPQ3k1R3dvSlpUdDNpRDV2d2xCUmwwdDM2U2V0NDdSN3VWQXZWQm9GUG40WFA1VnVob2xCYkVsRUZ6SXUtRmc3cw?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "More intense U.S. trade negotiations have started, Carney says",
-   "source": "BNN Bloomberg",
-   "time": "2026-11-04T00:16:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMndBMmhoYVZHdzRFRGpGTUoxSUxkNkNnTDhFN0ZrbVV5VU15cjFacnB1WjQ2MTBOUXJQZlN2V3RDZXF4OUg5b19NQm9ENHhZZURKaWgyNlZVSU0zLW5ZMWpjVzlCMHVGZ3lwV0xpV1lNcXBMRzN3VjdzdTJOZDd6bG5jOXgwUnNRWEE0Q1d5bTNmVnp3NmVMdVFiVjJjeFZ2OFdBYXFBY1ZZY1k?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
