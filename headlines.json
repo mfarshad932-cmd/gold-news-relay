@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T14:50:31Z",
+ "generatedAt": "2026-11-05T15:18:55Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,12 +37,12 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 12
+   "kept": 11
   },
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 10
+   "kept": 9
   },
   "investing_news": {
    "http": 200,
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 0
   },
   "cnbc": {
    "http": 200,
@@ -80,52 +80,44 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 20,
+   "kept": 12
   },
   "gn_fed": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 18,
+   "kept": 12
   },
   "gn_tariff": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 23,
+   "kept": 12
   },
   "gn_war": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 48,
+   "kept": 12
   },
   "gn_sanctions": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 9,
+   "kept": 9
   },
   "gn_yields": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 22,
+   "kept": 12
   },
   "gn_oil": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 5,
+   "kept": 5
   },
   "fed_calendar": {
    "http": 200,
@@ -136,11 +128,84 @@
   {
    "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
    "source": "CNBC",
-   "time": "2026-11-05T14:38:28Z",
+   "time": "2026-11-05T15:16:05Z",
    "link": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
    "tags": [
     "FED",
     "RATES"
+   ]
+  },
+  {
+   "title": "Russia agreed to supply Iran with 90 helicopter missile launchers",
+   "source": "The Guardian",
+   "time": "2026-11-05T15:10:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON2ZlQ3hWVDdwTXMtUlc4VlNWZEN4bnVDbndJVHVNbjVva1QtMnVSdGlKckJRV1RlVXdyRnFRenlENFZnTmoyZzE3ZGhBQ2xYcVhZSGgyUmNnZFY2eFFBSkhDWk1JSUIzRmF6eGpxbkRKTkFZOXc0RUloZEhabkxySl9iLWNUWlpaUGR3ZldtcC1zQjk4WFhzTlhwanRvSzBFRWpZMGFVOFU4QQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Faces $4,200 Barrier as Real Yields Challenge the Rally",
+   "source": "FXEmpire",
+   "time": "2026-11-05T15:02:29Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOTNUc2pBZWNSX2tCSUtkRUd0MHFLNmVzNVAwclZyWHJPZkxieEJRcjFqeE9oYy1Sc2lzVlN4NEVXLTZpdXFUbVl0VmJVQ2dEV0NfUFQ2cmtLR0o1RThXZHdJVzE2V2J3bElQZzdvNG9CN2xHM2drSzFjOEhoNl9fQUdQRHA3NVpWd1lNRkJzaDlUOXUzRFdxS3Z5cjJoU2Y5bzVubEp2VXlBNGdRRHc?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Federal Reserve: Further tightening expected despite political shift – TD Securities",
+   "source": "FXStreet",
+   "time": "2026-11-05T15:00:01Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc2pJcGJoYkJlaGo1NW8wMHhpZ1JfRWItcmZOanljdHNXdnZMbWJtb0RUeHdMaEZxOEFGNEZDUmN4QnQ5R0FTaXg1TWRuQVlYU21ZQkx5bTEtMUlPbFlXY1pZSEhFdDhpZklUZ1hJMUJWTUhlUnFQV1pTSDJ1d3VNbEJmSy05YlBxYkY5MjBJcm8yNkw3U0JTVndaU0NKX3lnWTNXYVFFOTJqXzNsX2lDRDMtWm1xR2xZemNfdnJXMTM2Zw?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "House Democrat: ‘We’re going to have one hell of a donnybrook over ending these tariffs’",
+   "source": "The Hill",
+   "time": "2026-11-05T14:51:00Z",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BX0JIb0NjWDhoYW9yMXFmWTFqWVp5VUF6cWYzYmdWNUg0TTJxX2xST0h3bG1SVzJBd1lGUE15enozSm05YVFqUGZZRVhhcXRtcHkxR3lYcUYzS0RFc0NXdTZwYVNZcWw3QnBBdmtna0J1MjjSAXhBVV95cUxQYUhic05SQklxSXRaSHZNQ2JEcHlrY0pnWGloTEtGdXdJY3lOMVFGUkFHWGUxNTc5TGY3SVloOHRSeWI2NjBGWUU4MUF3enJZUGZlaHRHeUZVZ0ljTFh5UVlqSkdyNGZYbnhGcWM4bHlSSTQza1NSeU8?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "U.S. identifies remains of World War II soldier from iconic \"Merrill's Marauders\" unit",
+   "source": "CBS News",
+   "time": "2026-11-05T14:51:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYVZXRGhpeUdDamU1RDkwSTRwT3pkZ3ZrYi12YXppcGIxNEE1NWE3aVFyZnFQYVF4TlNxMzl2Wnlwa2NWVWJlckZKd29ZcUNZbGpmRllqNU1yM0VJbF9rV2dyRHlyclJCbGlwWENsTTlrTnQ0ZFVJMWVOdkxHSnBYYWxja2xvMU1adUJn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Can Iran’s new supreme leader make peace from behind the scenes?",
+   "source": "Al Jazeera",
+   "time": "2026-11-05T14:45:46Z",
+   "link": "https://www.aljazeera.com/opinions/2026/11/5/can-irans-new-supreme-leader-make-peace-from-behind-the-scenes?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed’s Hammack Says Restrictive Rates Needed to Cool Inflation",
+   "source": "Bloomberg.com",
+   "time": "2026-11-05T14:43:40Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU2c2UERBM24tYnJsM3UxR3pvTG9mYmZNZ0dDN3k4OHp6SUl3aUxKRXZkNlJVeFU4dTFoS1NtSHBZN0xIVG1GRnBNNmxxWU9MWUNWNmhkZXZPT1A5ZHN2RHZRWS1tMmtZV1BzSDJLLWpERnFoZTVLNDFsdWVlaENTdE5UZVZDanpTbTFtNDQ5WHJJYWt1Y0hGNnd5eEhXaVplZWJNcXFXVHpIMXVqa0c5Z2tn?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Analysis | Trump’s favorite economic policy was among Tuesday’s biggest losers",
+   "source": "The Washington Post",
+   "time": "2026-11-05T14:42:54Z",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW1ybXNFaVdKR3V2UVVoOENIVkNscGpuVHhqZjEtR19zNVVwdFRzOFdBM1Vhc3dKcTVkZTRRUWJ2RUpUYnk4eUctZndfbzh2cDhLZlJIel92b3dTeFF4Wi0xOVZRSnVjNndUWk51XzZ1cWVJVlJfRml4NGVIV1FpTA?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -153,6 +218,33 @@
    ]
   },
   {
+   "title": "Bassvictim: Peace + War review – like a thrillingly chaotic house party that goes on too long",
+   "source": "The Guardian",
+   "time": "2026-11-05T14:33:00Z",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ1ZKQWJHNW10UTlBT2o0djI0X0dDSnMwVlJhVWw4anNSWUppbURmckNVRnR1Nmc2ajgxLTJRN1NJUG5OWHRvNl9VZmNsOFozLThDOVJyVzRvc1dKOEs0RVluMVE2bGhrWndvTll5NGFoSGJyNjRKOEJIWTdpUTQwOEVOTQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress",
+   "source": "Al Jazeera",
+   "time": "2026-11-05T14:30:37Z",
+   "link": "https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Economist analyzes federal deficit, rising Treasury yields",
+   "source": "Fox Business",
+   "time": "2026-11-05T14:29:30Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4R2ZKclhGczljMXpVVTJsbGhsZmFHRHlJS2xORWxCbTdFV1plQjViUFJ0RWZDV0w2RGlxdlMwdXNVbjFPX3FTN3pHMVpDYnF5anlReFc5U1N6eEE?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "World's largest olive oil company plummets 20% after rivals agree to takeover deal",
    "source": "CNBC",
    "time": "2026-11-05T14:25:23Z",
@@ -162,12 +254,41 @@
    ]
   },
   {
+   "title": "Gold prices today, Thursday, November 5, 2026: Did one of 2026's worst assets just get a boost?",
+   "source": "Yahoo Finance",
+   "time": "2026-11-05T14:24:02Z",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTGVHTnl0Y3ZuczE2NDMtZUVNNDVFMUZEWjlJYkp3Tk4yQzRLdlVYQmlTUGFqRVVuLTU3U01mXzlDNWV1VlhZQVN0bFNlcUw1SkpsTGVlVkJ1Mzk2ZkthOXZ1VkxpNHBWZ1RYYmliWmFvbnRPQzVPeFlDNmNXVF85TzdYaTJZY2F1Vy1idzlxakRWcmpqWWpKdmhaMjR1Qi12ZWJkUXhUVUtFUnY3NWMxelZJZDBxTS1ESWFzc3NyTTVmUlRZSEpWX2lldXcybkVXRGRncFVUUW51OC1PMEFHMF8waDhwNnNBa2UtYmU3RVJyREJBY1hfNQ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Could the US midterms further isolate Israel in Washington?",
+   "source": "Al Jazeera",
+   "time": "2026-11-05T14:19:25Z",
+   "link": "https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Joint List says it will back Eisenkot to form Israel’s next government",
    "source": "Al Jazeera",
    "time": "2026-11-05T14:15:52Z",
    "link": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold stalls below $4,150 as US Dollar regains ground, NFP looms",
+   "source": "FXStreet",
+   "time": "2026-11-05T14:12:29Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMVE0VHd0eUdFbFJ5SzlEV2xKajVxQ296YlR3dm1HOGNoTktqSkl3WGJYd01CT1BjRGhaT3Y4V3hEOUtiXzk1WUxnUFN1emFQaHMya1NyWlZLRVVickVNd1BWaTA5cHpTMmNlZERGUTdOZHlmRDRON2hvUUdiTXQ0eEZlYmxUTnZSRFhrTUdzcDVHZEttQnhWY0g5Y3FTMnNwZ3FudUYyTlotbHJMeEJTblRZZGVHeWs?oc=5",
+   "tags": [
+    "USD",
+    "JOBS",
+    "GOLD"
    ]
   },
   {
@@ -246,25 +367,6 @@
    ]
   },
   {
-   "title": "Fed’s Hammack Says Restrictive Rates Needed to Cool Inflation",
-   "source": "Bloomberg.com",
-   "time": "2026-11-05T13:50:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU2c2UERBM24tYnJsM3UxR3pvTG9mYmZNZ0dDN3k4OHp6SUl3aUxKRXZkNlJVeFU4dTFoS1NtSHBZN0xIVG1GRnBNNmxxWU9MWUNWNmhkZXZPT1A5ZHN2RHZRWS1tMmtZV1BzSDJLLWpERnFoZTVLNDFsdWVlaENTdE5UZVZDanpTbTFtNDQ5WHJJYWt1Y0hGNnd5eEhXaVplZWJNcXFXVHpIMXVqa0c5Z2tn?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Analysis | Trump’s favorite economic policy was among Tuesday’s biggest losers",
-   "source": "The Washington Post",
-   "time": "2026-11-05T13:49:03Z",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW1ybXNFaVdKR3V2UVVoOENIVkNscGpuVHhqZjEtR19zNVVwdFRzOFdBM1Vhc3dKcTVkZTRRUWJ2RUpUYnk4eUctZndfbzh2cDhLZlJIel92b3dTeFF4Wi0xOVZRSnVjNndUWk51XzZ1cWVJVlJfRml4NGVIV1FpTA?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
    "title": "Gold (XAUUSD) Price Forecast: Gold Rally Targets 50-Day Moving Average",
    "source": "FXEmpire",
    "time": "2026-11-05T13:43:19Z",
@@ -303,6 +405,16 @@
    ]
   },
   {
+   "title": "gold prices holding above $4,100 as weekly jobless claims rise by 189k",
+   "source": "Kitco",
+   "time": "2026-11-05T13:32:26Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTnNibWhHTUdLNHZrNmlZdVpjOTJrTkpvRExZVjduWGF3MGJQcEhIVUxWZld1U1NpZ0VnaWxJR0VJWUJCNWl6a1BhanNMYjlITmIyYWtlcWU4amJlbzVrVld4allreXhzN0E5Ui1FSmwyU0ZMREU4TjNZMndLb1gtUjBYVlJFUEFDYXdTM01tZVFwbjQtUGx2NTZtMmpSakRYM0hCSzlsODhkc2ZF?oc=5",
+   "tags": [
+    "JOBS",
+    "GOLD"
+   ]
+  },
+  {
    "title": "U.S. Initial Jobless Claims Fall, Signaling Strength in Labor Market",
    "source": "Investing.com",
    "time": "2026-11-05T13:32:09Z",
@@ -332,7 +444,7 @@
   {
    "title": "Bank of England Raises Rates for First Time Since Start of Iran War",
    "source": "WSJ",
-   "time": "2026-11-05T13:24:42Z",
+   "time": "2026-11-05T13:26:00Z",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTWxNSDBnNUpaa2lla2pMTld5RWlaTG1JWFZQaGFZeV9BWnA4LWFXV0NIUFVhUkFZemNGTUVfLXVFUUtOaVNFSXpZU19NVEFvbjU0djdzdXg4cDEzQ2IyWkQxZ1o0YjZzOFNkaUlvc095aTVYYWhnWUtXYWt0YktTcm4yZ1ZDUXJ4N2F2N0w3QjBwSmVYdDRISzhyZE1ldkRRdDh4U2p1QzhtQ3E1X0RHZmVySDRVNWVlXzl3SA?oc=5",
    "tags": [
     "GEOPOLITICS",
@@ -356,6 +468,15 @@
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Melania Trump to host Russian and Ukrainian delegations at the White House",
+   "source": "BBC",
+   "time": "2026-11-05T13:09:12Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RdDFXcUVUVTJpb3dobHl0TTJTY3ZhTnh0d0p1RkRkSlhiVjNaMHZpWEtaRWVqRms0eWFqS3ZwaUo5N3BmVEpIdlo0Y09udzhaNWt3NU1vNkxiYUU?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -412,16 +533,6 @@
    "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
    "tags": [
     "CHINA"
-   ]
-  },
-  {
-   "title": "Gold stalls below $4,150 as US Dollar regains ground, US jobs data in focus",
-   "source": "FXStreet",
-   "time": "2026-11-05T12:54:19Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMVE0VHd0eUdFbFJ5SzlEV2xKajVxQ296YlR3dm1HOGNoTktqSkl3WGJYd01CT1BjRGhaT3Y4V3hEOUtiXzk1WUxnUFN1emFQaHMya1NyWlZLRVVickVNd1BWaTA5cHpTMmNlZERGUTdOZHlmRDRON2hvUUdiTXQ0eEZlYmxUTnZSRFhrTUdzcDVHZEttQnhWY0g5Y3FTMnNwZ3FudUYyTlotbHJMeEJTblRZZGVHeWs?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
    ]
   },
   {
@@ -579,128 +690,6 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMUtrOVVPQ3ZXM2pJdnYtT1RQa2pFZzFMcVFJQXB1ZnZoV2FISUltZnRHSUdtMXZZTTNaTVUzUGl2cjNYQzJNYm14bHhsdmtNak40RmFPOEc4a3UyR0I1TWRER0dHMVBNOW5pYTl5YzdIUHpDcUgxX25qQlNYRUNpMk9vR3VrR1J4NWw3VXdqazhOdnp0VTJQZDdJeU1vMDdJTTdTWW1rOA?oc=5",
    "tags": [
     "OIL"
-   ]
-  },
-  {
-   "title": "US Midterm Elections Pressure Trump to End Iran War",
-   "source": "Barron's",
-   "time": "2026-11-05T11:55:00Z",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLUtOOVZ3VE9LMFlpRUNhdkxBVWFfcEpTSG1CelhFc3BBbE5aTTNWZTAyS3N2X1Y0eUNydnpfekRkRkN1LV83QUFld0djZHFhbHBUVUJ4Q3I2Y3I0R3NrQ3U4MTc4MHlxRmtsc0dOdk5IVGVvZGxBU0VQVV8xQWtHeWRnWGhYblNXNE95VUVkNk0?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Herzog warns Israeli leadership of escalating violence in West Bank, says it may lead to civil war",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-05T11:51:50Z",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sVjVzVldfeXFzd3hOMDN6cGh2SGtnV1ViNjJUVXJnQkQxYkp6Q1ppRTFOSFVOeXhnVWJHcXNBcG02UGlBVmtDWVUxRGlELUxrRW42RU8yV25IdV9P?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold gains amid softer dollar, Treasury yields after U.S. midterms By Investing.com",
-   "source": "Investing.com India",
-   "time": "2026-11-05T11:50:40Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbXhiRC1Uc29OY3RVQU5HQmI5Y3FGMU1KQW45TWVkdWlHVlRtMnZrZVhDdFFMRGhGMm1XeTY3eFVPc195WDdCM1EzaHhmMm9PWndRb2NtZ3dpelhRQWhqRENlUUdFbWxfaEFla1EzRWdrYWJ4NlNkMjcxeFJGOVhOVFo1LWtqZDdFSEE5UWw1ZVB2a2tFMk41UHNhT3c1azgxOEhfellORUpVQmFaaUQxaU5NMEQ5c2x4SmQ4Mk4yM09IUU5lVEJIbg?oc=5",
-   "tags": [
-    "USD",
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold hits 2-week high as dollar, yields, oil fall after US midterms",
-   "source": "Reuters",
-   "time": "2026-11-05T11:49:30Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGw2bTVBSnBUN1BZcDhwQ0dVSmFIUVhDdGZLazVPNnV2NG5iYkVxXzg5QmRyY21IOWZOcFVRVXJBSU5PT1pXQWh3UHVmVWxhSm15bVh2NTVQZzJGVHpPT2dSSHc2NXlaLUYyQmVGX24xdW84cVN2NXpGcUhGZ0xrNDZSODR1NDNtNW9vc2JJSUVRcGZIMkprZHNONm4wN2VxUzdBX3B1NWxxcDBsWjNnZ05tUzdMRHJNaEJja2oxNC1QLWQt?oc=5",
-   "tags": [
-    "USD",
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Congress defeat: How Trump’s allies are distancing themselves from Iran war",
-   "source": "Al Jazeera",
-   "time": "2026-11-05T11:45:35Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObGJ5X3dxaVJBdXhrVE93dU51d3NtVklVU2U1aGVTTERHQS03enZjZGtvRlNPeldGcnh4SnBrejFsRWcta0poZjl3LVpJMUFSaHRyX0tzX1JpTExvUG9wSVZoWTlYT0FSQXU1M2VFa0VYeDlsRVVVNXpxNm5PbGppWDRJYTBHaktfeXRUeHllLXdlVkZwek43QVc3cjEwNUFvRVZsb1dveU93SXlkelJwSFM5RjPSAboBQVVfeXFMUEstdnE1V2M2V2ZuWjUweGdMeE1EY0Q0VS1kbVpWLVlqU2lzWTlUcEpzU1lRQkFDTkNVUDY1MEZfVHN0cG03NnJOdVl1WjlDenpUcDlaYjJzME5rSm9zLWh2WmhTaHBGeTRHVjM4T0M5bUxHdVZwOWkwdHFyRzdWMGNnSG9oUTFuY3BCTmVHRlBTMmFSOHAzakJGTkpwUUhpVndhd2VlYklJS3pacWp2Z0tIVER2LUs3ckNn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "China calls on US and EU to reconsider tariffs",
-   "source": "Yahoo Finance",
-   "time": "2026-11-05T11:44:02Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmU4TWlWamFGd2ZGYXgycGlhcldITUFkT2E5bjhVQmtmQU1zODRHUC1GcFZ3ckNEWTJxczBhMEpiM0w0T0xWRmtkOE10aW0xN1RiNEo2ZnJaNVhmSnlrTHN4ZlBTcm8zQktpcllNakdqVnZFR2tPTFQ4eEZGQVVfdlB6N3UyYklfTDJnZ2dkMHJKMHlxNzNORg?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Treasuries Gain as US Vote Fuels Hopes for Curbing Bond Supply",
-   "source": "Bloomberg.com",
-   "time": "2026-11-05T11:39:47Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNklNSm52T3VRLUJPMElGSVN3QWswWkFqSjIxcHJTM1U5eFhqX3pTZElBRVc1bHRibnY5UE9BdG5vcDJ0eDJjZ0V0angwZ3VNdXo2N1V0WlJSUGdtVUJFeFZ0SnkwWnJtNHplZy1rWnZ0Q1poMUl3cEthOHJLeUZxdVJaVDRxOHFFSThtWG5WVlptVDF0T2xkNjZMR0lvUG9xcGYtakpwNUluUnZ0ZmJnelF5cw?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Treasury, European Bond Yields Tumble as Markets Lifted By U.S. Democrats’ Victory",
-   "source": "WSJ",
-   "time": "2026-11-05T11:39:37Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdld4SERJUnFrU2lIQ2NMNTJkZy1mVGZUbUFRaEtBQllGTHdQODM2WkhrV1lwd0tCaEd0UUJWclh4M2t6Y0RxMEZWTTBGRHRvNkpMaUV6YkZweVR5MlFwVThma29VWEI4dzdPMTNaSGR1Y28wRnBDWGZQWk02SnhXbnNQbWkycmo0QU50Wm9MNnFGa2lLR2czVU5Vd0thSTNkUEZyTGZDVHR6dWd2RkhoQ18zdnl3b1k0U3QxdWs1Qk5kQQ?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Oil rises as investors weigh uncertainties around Iran war By Reuters",
-   "source": "Investing.com",
-   "time": "2026-11-05T11:36:56Z",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN3Fvc2VHR3VaN053bDIyNEdzRUN3anJ2ejJnQjZFWXJ1eE4tNnRzdTQwR1RXTXN3Z3U5RTZhSzNVVG81QWRyVm94ajhhbGpjcDFsSk4xd3ZjR3hVOUpoYl9WYWJEcVpvZ3REVUVuQlhWZHczdEtRV0VxSnduaGpqaHZYcXgtYm5KZGkxQzlhaWJZTTRxaTIyODhaWXlzM1haY0R6Ujh5WXplbUhQaU5NellaVVdkU0lqR2ZMQ29vRjdpcWczcm9KVlVEdlFYbEZBelE?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Palantir harvests battlefield data that Ukraine pays for ‘with blood’",
-   "source": "Al Jazeera",
-   "time": "2026-11-05T11:34:29Z",
-   "link": "https://www.aljazeera.com/news/2026/11/5/palantir-mines-battlefield-intelligence-but-is-ukraine-paying-with-blood?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War",
-   "source": "The New York Times",
-   "time": "2026-11-05T11:33:20Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFNiUjUzdFh6a1pRNzRJazBScGR1cVkxRDRqMnYwUFRleGRlWTZZYWdTRGRsVkZ6Y1NldWRNeHV5REJLc3VvR0h3UlRUcVY2Rl9jS3VxTXgxcnZ2Zjcta0tqSUtLRERVZ25xZ3pTN2V0Y0JDZDdOZVNDazBubGQtR2gwbDMwZ0QxeEYteGdXbEY1WlhubnFiWXZXQThWUFhXdkRxVQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
-   "source": "Al Jazeera",
-   "time": "2026-11-05T11:32:40Z",
-   "link": "https://www.aljazeera.com/news/2026/11/5/iran-gaza-ukraine-what-will-us-midterm-results-mean-for-these-conflicts?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Big 12's Holy War is 1st time Utah and BYU meet with both in AP top 10",
-   "source": "The Washington Post",
-   "time": "2026-11-05T11:25:27Z",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWW9fMkFvUFRUNG94X0ktaFJhN3VacnVHek5FUENKOVZkc1E3WEh2aTJFajFBTDRqQ3hieWF5TnJITkZ6ZnlNcVB1dmpGSkNuMU9JeUxiYThCNV8zRVRWaV9YanVLVUx2OXloWFM0NTlVb0FVaU9IMmIzT0NkdVU4Y0JIVUp5X2dWZVkzQXFraDRRUVNTS1hYVjJsTnJoeGlfTl9aOTRoT2lqbFRzMExySXNOX29Ec01xTFNfLXVzbGNCOW1JTnY3SFVhMjh2SGlEbFd5QQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
