@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T00:39:42Z",
+ "generatedAt": "2026-11-05T01:08:06Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,12 +47,12 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 1
   },
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -91,12 +91,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 32,
+   "items": 33,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 59,
+   "items": 58,
    "kept": 12
   },
   "gn_sanctions": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 10,
+   "kept": 10
   },
   "fed_calendar": {
    "http": 200,
@@ -126,21 +126,48 @@
  },
  "items": [
   {
+   "title": "White House panel delays hearing on Fed's Lisa Cook to Dec. 14",
+   "source": "CNBC",
+   "time": "2026-11-05T01:04:19Z",
+   "link": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "McDonald’s tests new value menu as fast-food discount wars heat up",
+   "source": "MarketWatch",
+   "time": "2026-11-05T01:01:00Z",
+   "link": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "After midterm defeat, Trump faces mostly bad options in Iran",
+   "source": "Axios",
+   "time": "2026-11-05T00:58:10Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xLW5GUVNsM0M5N3czNGNCaUxWQVNfamtLbFFBdEVzZlEydFJEY3E2TkhJQTN6c3g0LWtaZmJ4bXlOY2FtV0d1c0ROd1JFc045OENVWnpLSGxrbm9sTHJVTzlwQnNUeEJKdE9RT21ValNvUkZRRldSVGVDNHVwTDg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Africa’s richest man launches mega oil tank farm in Namibia",
+   "source": "Al Jazeera",
+   "time": "2026-11-05T00:39:18Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
    "title": "‘Knives out’ at Pentagon after unpopular Iran war dooms GOP in midterms",
    "source": "The Washington Post",
    "time": "2026-11-05T00:31:17Z",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZm1ZY2VpaEM0QzJDeEwxbkt6ZjkyWUdjb3A4bEN0MWZjcDhJeVp0cDJnNlFBMVRuUlY0NXZPSXRqVXQwM0VwWHkyMlNGaW40bjZfZXY1V1U1aHhLZkdHU1ZjYW9JelpkcmpNXzRzaXBKU21McldHSkdUbDVQNUlxUE5Eel9yUDBSMmdueUNyMDFGNEpvamVsUW5velF2SGpmTm13RFZneG5hR3EzLUNZeEJQZUU0bTRfZ3kzYm50TllEdw?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump committee hearing on Fed Governor Lisa Cook rescheduled to Dec. 14",
-   "source": "CNBC",
-   "time": "2026-11-05T00:28:21Z",
-   "link": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
-   "tags": [
-    "FED"
    ]
   },
   {
@@ -225,6 +252,15 @@
    ]
   },
   {
+   "title": "Trump committee hearing on Fed Governor Lisa Cook rescheduled to Dec. 14",
+   "source": "CNBC",
+   "time": "2026-11-04T23:59:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2ppN1JvQmVtMlVjaFBCUWlmWnQ4NUNfOTdUTDgySWppZHQwamRoamU4NGtQc21JczdpeFVLUU9QcFhIdVoyYXdqUGN6R0ZQbVczVVZVN2JlWFJaYVFKR1FHRjJZY3JoWllnWDUzUXBRRDNFem9RR2RyYUQ4TmJUUkdR0gGHAUFVX3lxTE00UjVIUndLZUhjN2VfU3BwTDZiNGU0TnBJOVhiQjFpVXpQUHRydUlZOVdXcTI0R01PcnJ5RmhYRDBUdWRCVFlyQ2JDMlRCdWxpcEF1SHd6YXdWaEVSNDhFX0JGUDFYZzZPWWNaaTI0R0poNkRBRzU4Y3BVVXl2TzJPeEdFeElROA?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "The BOE Hasn’t Hiked Rates Since the Iran War Started. Why That’s About to Change.",
    "source": "Barron's",
    "time": "2026-11-04T23:59:00Z",
@@ -270,6 +306,15 @@
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcUwxekY2RHRIcXlsNkNwOFBheWVZeFlhV3dYVjRPWS1rN1hoUXI1VVd6bEwyUy1WV2NyU1JBWTZMalVCWVo5ZVZ1c1ZZV3FDbFVleXBEN2ZEOTFlMnBfQllEVmJ4NkQzdnpOR00yNXRjU3Fld3Z1OVVJeHRCXy1DVFNfRWxRc0hKTHZDcjNXRUR2bktHNlBtZGFkY2VDMnNJX3ItY2JxVkFBWmstN2xzRlE3N1RGLWdLS3gybG41dzNHTkFQMmNIZ29tV0hSZW9DY3RDd2psdm5RSHoxZF9iNm1n?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Beaten at home, Trump faces stark choice on Iran: deal or escalation",
+   "source": "Reuters",
+   "time": "2026-11-04T23:39:14Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3dTRDFGYS1HSWtZcGh3ZTh2MjRleFhNUkwtR0wwSUd3TWlsQU1tcjI2ZG1fa1RxNHEyRDJsSUpjTzNGb0xTRE90Umh1RVdncGxtN29NNVhXel9PMlZ3UEQ1bDJzTkh4V052MEh5UFFteDRHakRVTzVQLS1rdjEzM2xjZDlYdjhCWkxwMkZOMjVSUlhOV2NCVl9ETFROeEN3ZENWQmZiejJhLXctcHFDUkc5d3k?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -399,6 +444,15 @@
     "FED",
     "GEOPOLITICS",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Treasury Yields Little Changed, French Bonds Outperform",
+   "source": "WSJ",
+   "time": "2026-11-04T22:34:16Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWk45NGlORUMtZ2RfUVBDZ2lTODZTT3lyaGpqZTJXd3hzb1NBNTdPVnlNc0p2QlI5cFZSUjNRYzhoY2E2cFlvNWNBNldoaE82X0N2bkpNZlctVnY0M1NCVnVoc2tBYThRYzlYMDVERTJiQ0JKX1dYMVU2RDdzTUVycUNCTUpEMkpCSHIzbGJvNkVKNzZYS0JYN3MwVmtRQjRFTmNFLXQzVlVTS3ZqQVI0d3ZGbw?oc=5",
+   "tags": [
+    "YIELDS"
    ]
   },
   {
@@ -554,15 +608,6 @@
    "tags": []
   },
   {
-   "title": "Beaten at home, Trump faces stark choice on Iran: deal or escalation",
-   "source": "Reuters",
-   "time": "2026-11-04T21:22:42Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3dTRDFGYS1HSWtZcGh3ZTh2MjRleFhNUkwtR0wwSUd3TWlsQU1tcjI2ZG1fa1RxNHEyRDJsSUpjTzNGb0xTRE90Umh1RVdncGxtN29NNVhXel9PMlZ3UEQ1bDJzTkh4V052MEh5UFFteDRHakRVTzVQLS1rdjEzM2xjZDlYdjhCWkxwMkZOMjVSUlhOV2NCVl9ETFROeEN3ZENWQmZiejJhLXctcHFDUkc5d3k?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Dow soars 1,500 points for best day since April 2025 on clear-cut Democratic win, falling oil: Live updates",
    "source": "CNBC",
    "time": "2026-11-04T21:16:05Z",
@@ -622,53 +667,6 @@
    "time": "2026-11-04T20:52:02Z",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzN0NVZRRWVGTGRucWE0c2lMNmdFU3BGaS1kVlhzMDAyZUNRZjA1SWlORHJIWlotVXdWLVNqN3NMX3h3U2tISkRod0l5YXpDdzZLOWNhYmhPd2hPU3UzUE9wZmdEQ0VBWjRfZi15SmJsclVuS1lwZHcwakdPdk5pbW5ha1NhMm5SdUpBUmdDUzMxT3YxNWg3dlRHeUxjeGFPOV83bjUyNlY0ZktBSFF0Uw?oc=5",
    "tags": []
-  },
-  {
-   "title": "Gold Steadies as Traders Track Iran Talk Prospects, US Midterms",
-   "source": "Bloomberg.com",
-   "time": "2026-11-04T20:49:10Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVB3Y2J3bG9Ed1BDRjVvY1dIZUFhd0JzRWJ6VTRtRWdLNm13R294UVNEejBhTVVuNkdvWXNQRzZzYTV5ZV9nRWwydHRjQ3BfaTJkMFFVSGNmcTNlQVlfNUtld2xjaDVHNHpKQkdXS19jQnZ0ZzNWTUxuejUzemVBOHNGOGktaExwaExwaXJ6bGd4eUZUWkw0a29OWkZMc1E1QVFVWFJVR1NaU1dLaC1NeUZsYw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Democratic sweep of Congress ushers in a new era as Trump acknowledges impact of the Iran war",
-   "source": "AP News",
-   "time": "2026-11-04T20:49:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQemZtNHA3MndVd0YwZEZjYVZSdXA5NVpnXzhpUnY5Mkp5U2lBTnBtNEV6dVB0LUJZVXBDV2lUNnNHbTczNWFVVEtXUVhFdlUxdm5sOWl6U0JFMjhGXzgzQ19GNXdrNUVJMlB4czlkenlNOUctMGllMmFLRTJrVXl0T1hoQ1ZUcmI4N0xxU18wTEhuQUNHYm5mNFhNc0pVRjJqY0s0clotUW42czd0TTRCNw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil prices fall on Vance's post-midterms Iran war repudiation",
-   "source": "Politico",
-   "time": "2026-11-04T20:46:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa0Q5aFRYMzZ5OEhGUU54cXg2VzMwSVozdjNrNjRQWGx4cGxvZHM5Ry11RHh5RlZDUzNicUtpMFVVQ0I4SGkyVzU3WEdOQlRDcTZlbEVvazEtdGtfUGlvWjJGcER6RDJqejBQclVKWFZyWlBUUVAyS0ttTUJTYkdWdmN5elVjN2lBWW00?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "McDonald’s tests new value menu as fast-food discount wars heat up",
-   "source": "MarketWatch",
-   "time": "2026-11-04T20:41:00Z",
-   "link": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Election stiffens the Fed's guardrails, but independence risks remain",
-   "source": "Reuters",
-   "time": "2026-11-04T20:32:57Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkp0QllhLXhJSURNNS1INjdNbjZfRFpWdjFrWHRuc09GeTRFOWlEV0JrQ2tRaExoYTB0R2NFVUtNQVl4bmtuZ0FaUFU5cUtMc2FwWWN1amVNR2xFcjZBTGZwdi0xUGsyRFJOOFhpYUo1OWNrLXJZUkdyeE5QZ3dpcmtpV09faUpwejZHdm9NRGN3dTZxR1NhMkdFdHRtMVZqNUZ5ZTkwRDdiQVlMcGxMUy1B?oc=5",
-   "tags": [
-    "FED"
-   ]
   }
  ],
  "fedCalendar": [
