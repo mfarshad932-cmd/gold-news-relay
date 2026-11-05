@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T06:48:45Z",
+ "generatedAt": "2026-11-05T07:16:57Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 30,
+   "items": 29,
    "kept": 12
   },
   "gn_fed": {
@@ -91,33 +91,33 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 32,
+   "items": 31,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 58,
+   "items": 56,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 7,
+   "kept": 7
   },
   "gn_yields": {
    "http": 200,
-   "items": 25,
+   "items": 28,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,53 @@
   }
  },
  "items": [
+  {
+   "title": "U.S. Treasury Yields Fall to Eight-Week Lows as Markets Digest Midterm Results",
+   "source": "WSJ",
+   "time": "2026-11-05T07:11:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdld4SERJUnFrU2lIQ2NMNTJkZy1mVGZUbUFRaEtBQllGTHdQODM2WkhrV1lwd0tCaEd0UUJWclh4M2t6Y0RxMEZWTTBGRHRvNkpMaUV6YkZweVR5MlFwVThma29VWEI4dzdPMTNaSGR1Y28wRnBDWGZQWk02SnhXbnNQbWkycmo0QU50Wm9MNnFGa2lLR2czVU5Vd0thSTNkUEZyTGZDVHR6dWd2RkhoQ18zdnl3b1k0U3QxdWs1Qk5kQQ?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "What the Democratic midterms sweep changes for U.S.-China relations",
+   "source": "CNBC",
+   "time": "2026-11-05T06:54:52Z",
+   "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Hong Kong activist Joshua Wong jailed for 10 years in foreign collusion case",
+   "source": "South China Morning Post",
+   "time": "2026-11-05T06:42:19Z",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQjhRUU1IOTcwdHRsa1lyVTNJRVhPcHdybTFLZng5UGE3UzRBNlBESWdOV2RsengyMHRwb0xISmlBVEZlalE2aXRRNXdybHUzekNLbURpb3hSaTJWNE8wYmdIOFBjNnV0aW9vOFdrck5LdDhfNmNQODhURDRyaE1SNmY5VVdoSE40NWVIVWE3RVk1SEtIS2hVZlFDMFdJV1RDOXd5NUJ2aVZOTk1xTmdsQ0JENDVqRU1VOUxxeXNLTW5jQ0FuTTZ4TjBzRmpDVVVvaXBXTlZ3c9IB1wFBVV95cUxPUlJ3YzdLam1hU1pSb2Q5QmYwdHNaUXJNQnpFckFyTXVxS0RZUW00OG5ReTFyY2hlRzJXemd3Vkk0TlhQLVI5OVpUZVplUGVTaklCTWVrRE1TandWU0ZmT2RkLUZkb3MteGZaaDJUSkhJaGo3U1lkUTNyYmtsN3RFS0pLVDZZUkE0RHNNWm9PYU91OHZKakhkT2pIdlBtUFpoejNKVngwMzJoM2Fwc25ySm1ZN3RISE9KZTliNEhMd1NVUzlXZHlqeVBuXy1iQmdWUzdmR01kRQ?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Iran War and AI Boom Drive Global Gas Supply Crunch",
+   "source": "Investing.com",
+   "time": "2026-11-05T06:41:00Z",
+   "link": "https://www.investing.com/analysis/iran-war-and-ai-boom-drive-global-gas-supply-crunch-200690894",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Dollar slides as US election drives oil and Treasury yields lower; sterling gains",
+   "source": "TradingView",
+   "time": "2026-11-05T06:41:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQXhCSkxhemZvZjlSTWdQZUJVWXlYVnBRRUprVzBWd3AxMDlMRWtHaU9HX2lXempldnlGemQ2eXl1cmZLdG41amVWUGg5WVVMNUE4WUtHOFV4ZGx1MVJXNGxqYUtYRG9iUzR0Tk1jQmZ0NmFsVXViWUJTX3RYOGd5Y1VFRDJRLXpLa2J2UWFwSUxnMnFFSGJINXVNNk9iTmJnZGJ4SnhFMTNvWFJfcS0xc191MXcxOWdKMXUxOTFMbHJ4cXJHY05nOHhod0U0MThWOFRMSE5Uc09RaE5WUDdCVl8wbkw?oc=5",
+   "tags": [
+    "USD",
+    "YIELDS",
+    "OIL"
+   ]
+  },
   {
    "title": "WTI slumps below $86.50 as midterm elections fuel hope for an end to Iran war",
    "source": "FXStreet",
@@ -138,10 +185,28 @@
   {
    "title": "ArcelorMittal Says Europe’s Higher Steel Tariffs Are Boosting Profits",
    "source": "WSJ",
-   "time": "2026-11-05T06:36:00Z",
+   "time": "2026-11-05T06:38:18Z",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0xfNmtoVDFyN3lxWTAzZ3hRSWV0aVRENWJTWFdCWG9XcUd0V1BlelpOMTZFMG9zbEdEQVpPaTlNQ1BWYUZuWXZxVHVLRE91bVRjdkpIY0VNX2xkZFQ5R29RNUFhRUc5b3o2dlFZTFo1OEpoSjN5cWZ5Qk5NQ2ZKYUNiSE5ramJtYzliaTAwejB4a3RMa21sdV9WWTJEVEZpazFnTVVlVUd1VGVtbzQ0Q1I4OXBWZw?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Oil prices drop sharply as Democrats secure Congress majority",
+   "source": "TradingView",
+   "time": "2026-11-05T06:35:08Z",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdHY0V0xHWkRDQXJ2ZnhvdmlkLWVXUVRveGlCbUVKdmpkS1pfbG52aVpyUmoyNS1qbHZNbGFrM0gwQ1NuQjB3djV6QkM2bFRFUlNld215UzcySDBtbTBmVHRTWVZpVDItd1VVUW5hellSSXhYVVZHOTdtX0V5S0lnTHV3amlZUGRCTThOUkRWVk5WM0J6cTFISXFyRlJ0NnpoWHdWTXhkYV8xRkFhYkhtWnZrMXVBU0pXUTY0YnZhX2ttbC1a?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Silver’s Bullish Breakout Case Builds as Bond Yields Retreat",
+   "source": "Investing.com",
+   "time": "2026-11-05T06:34:00Z",
+   "link": "https://www.investing.com/analysis/silvers-bullish-breakout-case-builds-as-bond-yields-retreat-200690891",
+   "tags": [
+    "YIELDS"
    ]
   },
   {
@@ -240,6 +305,15 @@
    ]
   },
   {
+   "title": "US Oil Inventories Fall Further as Demand Holds",
+   "source": "Investing.com",
+   "time": "2026-11-05T05:24:00Z",
+   "link": "https://www.investing.com/analysis/us-oil-inventories-fall-further-as-demand-holds-200690895",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
    "title": "Gold (XAU/USD) Price Forecast: Post-Election Rally Tests Critical Resistance",
    "source": "FXEmpire",
    "time": "2026-11-05T05:06:22Z",
@@ -256,6 +330,17 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVWd3M1lsTG1iVzJSX1U3N2hCR3hWZHVYRkt5UThvNkZRd0pOUTI5dzJvcEhQemlaU3o2RTJVaVlmdl95VHh6TU1HMFpWLWxYV1dDWG0wV0hOQWpFQlg1TkZxd1F6a0JYajJHZ08teXlhVzR6Nk93d01PMThaRGZFbU9lNnZGMmFwcElQRV80LUxKRWFvY2xYbzBhNjVyVWlHYnR2c2c4VnI2WnB0cFhj?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold hits a two-week high as dollar, Treasury yields ease after U.S. midterm elections",
+   "source": "CNBC",
+   "time": "2026-11-05T05:03:03Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT0lNbWJsNm9BQkZObjdwTWNBbTQwd093S1c1dV9PTjZmNEQxVmtwNTZwQUROOXJTRFJndXVzVUJJMGloUGdsTjhfN3ctWTdrWFFvME1RbU10OU9MRjFsVElxd0djQTh6YzVKRVhURjA2U1haNEE3ZlVsSXo0VUxNS2F6cnNvQ2RVc0psX3dLck1iNklSLTdRLVE1ZWNSZ2x3MVHSAacBQVVfeXFMTUQta0lIa2tjODZlMzc5Y1hWN3Jpb2YzUVByM3dTNWFsNkdSVmVMT0tVck96cER4VW1jckVUX3VKTG9kVllod0VnTy1Vcy13MVoydnU3NWp1aVBEZjVSY3BVQTNOMUw0V0JmX3p0ZWFSVUNGZ3FZWC1ydW9uakQ4S3dUYTVCUkRPZ2pmWWJISzRZbmxRWEI1UXR1LVZtWVVTNVd2R0U5ZjQ?oc=5",
+   "tags": [
+    "USD",
+    "YIELDS",
+    "GOLD"
    ]
   },
   {
@@ -284,15 +369,6 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdzYwTVBiX1RrS3pXOXhJMWFXdl9GRWJHYUdncGpYZ2lKaTZKUHZ4d2llX0VVSHBvWkJ0S1BXWk1DNThvZGJmMWVDMUZnWnJaZ0lDVGpoa2g3eU1HTWFSZEhRNWpCYURDLUxUN2trZ0FHTVBWNnhIVUVWSU1vZDlPaDJaNGppMXdfN0g5OHY2ZngyREd6bUxwUDlrMld1VmZoLTBWLQ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Silver’s Bullish Breakout Case Builds as Bond Yields Retreat",
-   "source": "Investing.com",
-   "time": "2026-11-05T04:55:00Z",
-   "link": "https://www.investing.com/analysis/silvers-bullish-breakout-case-builds-as-bond-yields-retreat-200690891",
-   "tags": [
-    "YIELDS"
    ]
   },
   {
@@ -400,13 +476,12 @@
    ]
   },
   {
-   "title": "Gold hits a two-week high as dollar, Treasury yields ease after US midterm elections",
+   "title": "Gold rallies on softer dollar, easing yields after US midterm results",
    "source": "Reuters",
    "time": "2026-11-05T03:46:00Z",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGw2bTVBSnBUN1BZcDhwQ0dVSmFIUVhDdGZLazVPNnV2NG5iYkVxXzg5QmRyY21IOWZOcFVRVXJBSU5PT1pXQWh3UHVmVWxhSm15bVh2NTVQZzJGVHpPT2dSSHc2NXlaLUYyQmVGX24xdW84cVN2NXpGcUhGZ0xrNDZSODR1NDNtNW9vc2JJSUVRcGZIMkprZHNONm4wN2VxUzdBX3B1NWxxcDBsWjNnZ05tUzdMRHJNaEJja2oxNC1QLWQt?oc=5",
    "tags": [
     "USD",
-    "YIELDS",
     "GOLD"
    ]
   },
@@ -426,15 +501,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZm1ZY2VpaEM0QzJDeEwxbkt6ZjkyWUdjb3A4bEN0MWZjcDhJeVp0cDJnNlFBMVRuUlY0NXZPSXRqVXQwM0VwWHkyMlNGaW40bjZfZXY1V1U1aHhLZkdHU1ZjYW9JelpkcmpNXzRzaXBKU21McldHSkdUbDVQNUlxUE5Eel9yUDBSMmdueUNyMDFGNEpvamVsUW5velF2SGpmTm13RFZneG5hR3EzLUNZeEJQZUU0bTRfZ3kzYm50TllEdw?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Breaking | Hong Kong activist Joshua Wong jailed for 10 years in foreign collusion case",
-   "source": "South China Morning Post",
-   "time": "2026-11-05T03:13:58Z",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQjhRUU1IOTcwdHRsa1lyVTNJRVhPcHdybTFLZng5UGE3UzRBNlBESWdOV2RsengyMHRwb0xISmlBVEZlalE2aXRRNXdybHUzekNLbURpb3hSaTJWNE8wYmdIOFBjNnV0aW9vOFdrck5LdDhfNmNQODhURDRyaE1SNmY5VVdoSE40NWVIVWE3RVk1SEtIS2hVZlFDMFdJV1RDOXd5NUJ2aVZOTk1xTmdsQ0JENDVqRU1VOUxxeXNLTW5jQ0FuTTZ4TjBzRmpDVVVvaXBXTlZ3c9IB1wFBVV95cUxPUlJ3YzdLam1hU1pSb2Q5QmYwdHNaUXJNQnpFckFyTXVxS0RZUW00OG5ReTFyY2hlRzJXemd3Vkk0TlhQLVI5OVpUZVplUGVTaklCTWVrRE1TandWU0ZmT2RkLUZkb3MteGZaaDJUSkhJaGo3U1lkUTNyYmtsN3RFS0pLVDZZUkE0RHNNWm9PYU91OHZKakhkT2pIdlBtUFpoejNKVngwMzJoM2Fwc25ySm1ZN3RISE9KZTliNEhMd1NVUzlXZHlqeVBuXy1iQmdWUzdmR01kRQ?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   },
   {
@@ -622,70 +688,6 @@
    "tags": [
     "TARIFF",
     "CHINA"
-   ]
-  },
-  {
-   "title": "The tariffs regime will likely be repealed, says Jim Cramer",
-   "source": "CNBC",
-   "time": "2026-11-05T00:26:55Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOFliMVN1VmRzVzZ4QjJEMFZleDJOSmdkY21EU3F2dU1scDIwejZNSmVNVkpFc3FiQVUtSjg1UzJ0d2VrN2ZuVC1VSkllWmVSVWJ0cm55cEI2bDZPdHBKS1dvYy1tYVV0VUJXdjdrRDZuaXMxa2xCZzMwMG4yTXBkRXhYTVdPYy1IY2pTdEk2YlRHeWJqVE5EY0Znd3c5YlJyQVBv?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "GOLD ROYALTY REPORTS RECORD THREE AND NINE-MONTH RESULTS WITH CONTINUED STRONG CASH FLOW AND EARNINGS GROWTH",
-   "source": "TradingView",
-   "time": "2026-11-05T00:12:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVUtVcHdZZ0dkMGg3YjlZQzJCUE9qeUJaVGh6MFhBV0lWUFlJNmgxRDAxTlJncFYwdDNRMXR5MGVEbHNKcE1WWWlLWEFTZHdsRUR5SHZvaldaTEk5VXkySGZDQVIxQWFMdDZVLWRXRFdYaXRlalE1X2Q4SGdZU01uSzMtdWY2QkVwV0kzZGpmdGpHY09TQ0hNeHl5bXQ1TFVUT0xReEtSTkVJczF4eldCcEpKRVFpVDBXY3JVZ09aeFdlcHVCMXVxczVfaUhZR21yRFhlNTJTY1JEWktLaEVrNFJxRmlBNnc1SjhwLWx1U1F2UVN0b1dmdUF4LThlZw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "North Korea, on Busiest Missile-Testing Spree in Years, Rebuffs Trump Diplomacy",
-   "source": "WSJ",
-   "time": "2026-11-05T00:09:45Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaERXOEtSUVd1MlZvcmMwSDRxYzR3QWptVW0tTWpxNHNrLWpFb2Z5NkZxbWpBM3FVRVBvOGxSd3htRjByRC1MdWFGaURRYjl0Y29jWVF2QXZfWFZKSkxUNkh4YXhuZWtFOEZsc1VGWW5YdWthSmF0aHJObVR0c1lrZDJrbTVBWE5WakJsUml4anE2QzdRT0c1WlE3eFkyaEJwRUpnc1dRN1dsR2N3MGtlOHdrbURFbnlZ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Alberta Premier Smith says U.S. midterms 'vindication' of her approach to tariffs",
-   "source": "thecanadianpressnews.ca",
-   "time": "2026-11-05T00:01:53Z",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQU0dhai1QLVYtdkQ5dHdRQnY1X2dvczBrbkxCelVzaWRpQ1MtRXpGMkVlVXJhSTYwZ2RzLVVmNjFXMWhJZXhNa2ZMS01RTW9sT2daaFBBYmM0eXF6X3pqOEpBMklpQ1FZX0RPdm50ZkZNcVM4XzhPVUgzWjlGT2RXX0JrN2Nzdl9haWRnVzVjMzBNY1hBbUh4MzhUa2pKbHlCOS1XN29FYjIxTDJfWUIwWWVOaXBjY2NJX2pLdlJ5WE0zckpQX1NFcEtPVV81eWNoX0ZEMHlSblRKb3JqbXVqR0d6di04b21NcEhuS1l4ZzIxSzRQMDZyN3NkZm5uSlFDZ2w0ZkY3SHo3d2Z0UFVGMWJ3?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Interest rates expected to rise for first time in over three years",
-   "source": "BBC",
-   "time": "2026-11-05T00:00:09Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "RATES"
-   ]
-  },
-  {
-   "title": "Iran war live: IRGC says two oil tankers and tugboat caught fire in Hormuz",
-   "source": "Al Jazeera",
-   "time": "2026-11-05T00:00:00Z",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Lundin Gold Reports Third Quarter 2026 Results",
-   "source": "TradingView",
-   "time": "2026-11-05T00:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMWRQSGZuUEM5TVo5MHdVckRvS3c2SWZ1SnI0ZEs4bUtyS0ctQktTOHNsQmkxZjVpVTVTelh6amhlaE9nRllobkZaS0pNYi1kOWZ0bUJUT2piQmNPYnQzYVVSVkVrVzVXSXNwNEFlUXBnQXZ5NXRiNEw3ejJNSWhFTW4wNlI3MHdpbXlKbFpmNnNDS0hEZ1pnRVlHcEhsbTNESDhoWlI5MlFhU3M?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
