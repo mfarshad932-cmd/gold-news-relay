@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T12:28:49Z",
+ "generatedAt": "2026-11-05T12:57:08Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 2
   },
   "cnbc": {
    "http": 200,
@@ -61,8 +61,8 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 47,
-   "kept": 6
+   "items": 48,
+   "kept": 7
   },
   "bbc_world": {
    "http": 200,
@@ -81,43 +81,43 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 25,
+   "items": 22,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 12,
+   "items": 13,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 30,
+   "items": 27,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 56,
+   "items": 55,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 10,
+   "kept": 10
   },
   "gn_yields": {
    "http": 200,
-   "items": 27,
+   "items": 28,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "fed_calendar": {
    "http": 200,
@@ -126,15 +126,93 @@
  },
  "items": [
   {
+   "title": "Faisal Islam: How high will interest rates go?",
+   "source": "BBC",
+   "time": "2026-11-05T12:53:57Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "RATES"
+   ]
+  },
+  {
+   "title": "Central Banks Accelerated Gold Buying in Third Quarter",
+   "source": "WSJ",
+   "time": "2026-11-05T12:49:18Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNE5ITWFudmVrYUgyekVzeUp1YkVlYTBkY0pZbTJSUFhraGRFRXdpczRWODFrOUpRRHQwU3VlbmJnNGk1ekV3MUpfOFJoa2liOEEtNEZDSEZQZDlUWENqa1NlaHJjZ25VYTNtMGVDQ2kxa3hJV25pZkxjTUJKandqeUgyUmJCaGpJWU8yaHBMQ2l4M19qRnFPYS1SSEZTMlF6ZFBubmRPMDgxUDFzbmtiaA?oc=5",
+   "tags": [
+    "CENTRAL_BANK_GOLD",
+    "CENTRAL_BANK",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Democrats’ sweep triggers countdown to end Iran war, and dooms US-Israel ties under Netanyahu",
+   "source": "The Times of Israel",
+   "time": "2026-11-05T12:45:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObGJkYVlRd2VGbU9DWERpcmtzN014SzZsQzdTSVVkR3lPUXZQLXRzU2l4eUNsTlRickJLTHpkM3l4MVlYQkRpWGNfRDhHMmVxZ0xEc2QtZjdVUVYxMUZpMnhfQVJRS2lWUTYtcDd1Ym5MNElvbEFrdExvSnJ6S2stMHdPbmVxaHFlY3pvaDlHTm9PVi1pckFsWXNDQXJrbERueDVBOVB6NXF4ZjI1cEp4eHd0ekJQazBodThWTjVzd9IBxAFBVV95cUxQNm52OG93WktmaGhGUEtsMDExYWY2QVp5N2tUOUtGUFVlWC1BZzRVTzJLNmlPS1NOR245Tzlvc0E4UjdlLUlSTDFKWTFmS3hSLVRhMGJ3YVdjZmFRX19MSDRTQWI1SW96VnhoU3FDUDNTX083cHU2dnNkN1JsTnVBRDRWeVpLdmFEb1RDSl9LWXFiV0lqNTkxTl9NX0pTcUlxVEtBWVVXVll0Y2tWZ2x0TF8zeDNHaFI4VzM4ZXVJMnFvUWV1?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Amazon and Uber Want to Bring You Your Next Meal. The Delivery Turf War Is Escalating.",
+   "source": "Barron's",
+   "time": "2026-11-05T12:43:00Z",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FSVJGZXdHWWtpekdZUWxfeW5jSTJoYzJNS3NsUnJxWENSRExxcmRES1NNVmJ4VDVEMlNmZGZoU3lFQ2ZuLUVFQ3JHX3RKbmlKS0RobkhaZ0xRd2prbkFHRndnQkZEaGdsSTI0MFpNLTN1eGRvQXdwSTJGUnk?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
    "source": "CNBC",
-   "time": "2026-11-05T12:27:01Z",
+   "time": "2026-11-05T12:37:57Z",
    "link": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
    "tags": [
     "RATES",
     "INFLATION",
     "GEOPOLITICS",
     "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Bank of England Raises Rates for First Time Since Start of Iran War",
+   "source": "WSJ",
+   "time": "2026-11-05T12:33:42Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTWxNSDBnNUpaa2lla2pMTld5RWlaTG1JWFZQaGFZeV9BWnA4LWFXV0NIUFVhUkFZemNGTUVfLXVFUUtOaVNFSXpZU19NVEFvbjU0djdzdXg4cDEzQ2IyWkQxZ1o0YjZzOFNkaUlvc095aTVYYWhnWUtXYWt0YktTcm4yZ1ZDUXJ4N2F2N0w3QjBwSmVYdDRISzhyZE1ldkRRdDh4U2p1QzhtQ3E1X0RHZmVySDRVNWVlXzl3SA?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Interest rates could go ‘significantly higher’ if oil prices keep climbing — even if the Iran war ends soon",
+   "source": "MarketWatch",
+   "time": "2026-11-05T12:33:00Z",
+   "link": "https://www.marketwatch.com/story/interest-rates-could-go-significantly-higher-if-oil-prices-keep-climbing-even-if-the-iran-war-ends-soon-e3493498?mod=mw_rss_topstories",
+   "tags": [
+    "RATES",
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "‘Taps’ finally plays at Arlington for teenage soldier killed in Civil War",
+   "source": "The Washington Post",
+   "time": "2026-11-05T12:32:39Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFZtRkQ4UlUwd0JFWmg4RlBGeDdGZUYzOXVoZTZ1M0FxSUUxRHhfX21weVJqbnpXTEJ5ZGt0b0JYXzlGUjZGTDNhcGJFeTBqMFcyMVJ5YWtkMHQxZ182a1FDZ3kzSjQtNm5ZMTNYSENNMUNRTXFjMGV0X0hLUmx2TXFhQ1RuVWxJZUhMQXBkWDRndjFmTXVYZkVDUFJGdnBjeDM4WE9WWUJoaDRGcUlpbnZsZzJ0UjFSbnEwMVctT2ZCVm8?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Heritage Foundation's Derek Morgan: Iran strategy weighs military, diplomacy and sanctions",
+   "source": "CNBC",
+   "time": "2026-11-05T12:32:35Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ0Q2TGxHZVViTkdUNTlwT2VHVFBQRTJBZGRCOC1RVEZ2dzIyeUNrZ1NPNmZ6Q0hwUUhvb3Q3Vm04dmpXbENXUjZ5RVd4M01XRjF0S2sxaUhDZ043YU5pbDlXNEJVTDFfREh3MFBxd0p6cEJBU3hOekFJU2NDaFNwSDNJamhYZmNkUi02dTBpQ1RWcnlyUkgyeTVCMGRPVHhiRXV3M3VEenZEc2wyWngtcEY4YjJhNVIyd1Nad0FxSmgwZmdWMzhVRjlR?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -186,16 +264,6 @@
    ]
   },
   {
-   "title": "Bank of England Raises Rates for First Time Since Start of Iran War",
-   "source": "WSJ",
-   "time": "2026-11-05T12:02:51Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTWxNSDBnNUpaa2lla2pMTld5RWlaTG1JWFZQaGFZeV9BWnA4LWFXV0NIUFVhUkFZemNGTUVfLXVFUUtOaVNFSXpZU19NVEFvbjU0djdzdXg4cDEzQ2IyWkQxZ1o0YjZzOFNkaUlvc095aTVYYWhnWUtXYWt0YktTcm4yZ1ZDUXJ4N2F2N0w3QjBwSmVYdDRISzhyZE1ldkRRdDh4U2p1QzhtQ3E1X0RHZmVySDRVNWVlXzl3SA?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CENTRAL_BANK"
-   ]
-  },
-  {
    "title": "Houthi attacks prompt Saudi Yanbu warnings as missile intercepted near Medina",
    "source": "The Jerusalem Post",
    "time": "2026-11-05T12:01:44Z",
@@ -224,7 +292,7 @@
    ]
   },
   {
-   "title": "Rising violence in West Bank could lead to civil war, Isaac Herzog warns",
+   "title": "Herzog warns Israeli leadership of escalating violence in West Bank, says it may lead to civil war",
    "source": "The Jerusalem Post",
    "time": "2026-11-05T11:51:50Z",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sVjVzVldfeXFzd3hOMDN6cGh2SGtnV1ViNjJUVXJnQkQxYkp6Q1ppRTFOSFVOeXhnVWJHcXNBcG02UGlBVmtDWVUxRGlELUxrRW42RU8yV25IdV9P?oc=5",
@@ -241,6 +309,15 @@
     "USD",
     "YIELDS",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Congress defeat: How Trump’s allies are distancing themselves from Iran war",
+   "source": "Al Jazeera",
+   "time": "2026-11-05T11:45:35Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObGJ5X3dxaVJBdXhrVE93dU51d3NtVklVU2U1aGVTTERHQS03enZjZGtvRlNPeldGcnh4SnBrejFsRWcta0poZjl3LVpJMUFSaHRyX0tzX1JpTExvUG9wSVZoWTlYT0FSQXU1M2VFa0VYeDlsRVVVNXpxNm5PbGppWDRJYTBHaktfeXRUeHllLXdlVkZwek43QVc3cjEwNUFvRVZsb1dveU93SXlkelJwSFM5RjPSAboBQVVfeXFMUEstdnE1V2M2V2ZuWjUweGdMeE1EY0Q0VS1kbVpWLVlqU2lzWTlUcEpzU1lRQkFDTkNVUDY1MEZfVHN0cG03NnJOdVl1WjlDenpUcDlaYjJzME5rSm9zLWh2WmhTaHBGeTRHVjM4T0M5bUxHdVZwOWkwdHFyRzdWMGNnSG9oUTFuY3BCTmVHRlBTMmFSOHAzakJGTkpwUUhpVndhd2VlYklJS3pacWp2Z0tIVER2LUs3ckNn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -272,6 +349,13 @@
    ]
   },
   {
+   "title": "Treasuries Gain as US Vote Fuels Hopes for Curbing Bond Supply",
+   "source": "Bloomberg.com",
+   "time": "2026-11-05T11:39:47Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNklNSm52T3VRLUJPMElGSVN3QWswWkFqSjIxcHJTM1U5eFhqX3pTZElBRVc1bHRibnY5UE9BdG5vcDJ0eDJjZ0V0angwZ3VNdXo2N1V0WlJSUGdtVUJFeFZ0SnkwWnJtNHplZy1rWnZ0Q1poMUl3cEthOHJLeUZxdVJaVDRxOHFFSThtWG5WVlptVDF0T2xkNjZMR0lvUG9xcGYtakpwNUluUnZ0ZmJnelF5cw?oc=5",
+   "tags": []
+  },
+  {
    "title": "Oil rises as investors weigh uncertainties around Iran war By Reuters",
    "source": "Investing.com",
    "time": "2026-11-05T11:36:56Z",
@@ -288,6 +372,16 @@
    "link": "https://www.aljazeera.com/news/2026/11/5/palantir-mines-battlefield-intelligence-but-is-ukraine-paying-with-blood?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War",
+   "source": "The New York Times",
+   "time": "2026-11-05T11:33:20Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFNiUjUzdFh6a1pRNzRJazBScGR1cVkxRDRqMnYwUFRleGRlWTZZYWdTRGRsVkZ6Y1NldWRNeHV5REJLc3VvR0h3UlRUcVY2Rl9jS3VxTXgxcnZ2Zjcta0tqSUtLRERVZ25xZ3pTN2V0Y0JDZDdOZVNDazBubGQtR2gwbDMwZ0QxeEYteGdXbEY1WlhubnFiWXZXQThWUFhXdkRxVQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -315,6 +409,16 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaERXOEtSUVd1MlZvcmMwSDRxYzR3QWptVW0tTWpxNHNrLWpFb2Z5NkZxbWpBM3FVRVBvOGxSd3htRjByRC1MdWFGaURRYjl0Y29jWVF2QXZfWFZKSkxUNkh4YXhuZWtFOEZsc1VGWW5YdWthSmF0aHJObVR0c1lrZDJrbTVBWE5WakJsUml4anE2QzdRT0c1WlE3eFkyaEJwRUpnc1dRN1dsR2N3MGtlOHdrbURFbnlZ?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed’s Rate Hold Sends Bond Yields in Different Directions",
+   "source": "WSJ",
+   "time": "2026-11-05T11:17:11Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzhGN0RDSl9wZ0hDWi1fcGFTRnJHUTAzeEhUY1BZeVFJU1ZyaVFPdDkzNm9sVTVmcm9pSkxRWjlTOHRpSjlPNmxUb0pPaHBN?oc=5",
+   "tags": [
+    "FED",
+    "YIELDS"
    ]
   },
   {
@@ -363,15 +467,6 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjlPMUpES1VnMXdkYzNSTFpxRkd1UTVVX05NVG05bjdGZkpyU2FITlNlby1pV2pUU1JzbktfZzBoVW84Qmk4d2FZYUZ6S3VGSmp2a0JWQlBsVVdJcHpMYm9vQ2Z4R0VqSDc3LWFUVzBGMEdod2RxWHZaUElIM1ZkSE9YU3BlRmZ2NzVGb0V6VGt6NE5ZVmw3T0FJemhhTFZkX0I4SENZVkVYTlFHSXp5cWoyakVDU043YkNlVGFuTQ?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "‘Taps’ finally plays at Arlington for teenage soldier killed in Civil War",
-   "source": "The Washington Post",
-   "time": "2026-11-05T11:11:15Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFZtRkQ4UlUwd0JFWmg4RlBGeDdGZUYzOXVoZTZ1M0FxSUUxRHhfX21weVJqbnpXTEJ5ZGt0b0JYXzlGUjZGTDNhcGJFeTBqMFcyMVJ5YWtkMHQxZ182a1FDZ3kzSjQtNm5ZMTNYSENNMUNRTXFjMGV0X0hLUmx2TXFhQ1RuVWxJZUhMQXBkWDRndjFmTXVYZkVDUFJGdnBjeDM4WE9WWUJoaDRGcUlpbnZsZzJ0UjFSbnEwMVctT2ZCVm8?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -477,6 +572,17 @@
    ]
   },
   {
+   "title": "Gold Advances Above $4,125 as US Election Outcome Sends Dollar and Bond Yields Lower",
+   "source": "Yahoo Finance UK",
+   "time": "2026-11-05T10:39:00Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvS25vcUxqajAxcExwRUJEM1pRSTA1cnpwVmF2T2ZhUkdfMVdZS2V6Z3VtVXNoN0FhdTJ6anN1SUJ4VDdhTHFuYy1PSXZTVmZBcG82TUxlREtOZF92UWY4djBhTVZtWjVYYnNIZTBIZWxYcm5KU1FjVHNFSDdfZDQ?oc=5",
+   "tags": [
+    "USD",
+    "YIELDS",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Jewellery sales volumes to fall 4-6% in FY27, but revenue may rise up to 23% on higher gold prices: Crisil",
    "source": "TradingView",
    "time": "2026-11-05T10:37:11Z",
@@ -508,15 +614,6 @@
    "source": "ABC News - Breaking News, Latest News and Videos",
    "time": "2026-11-05T10:30:37Z",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YTnhHRWIxTWJldE56c2M2MjQxcDFwZlJuSkVxQktCOUhkUDRTNEdzS1ZtcGJjN3pJdUUzU2FfUkZVYVFBME5VV1F5OHk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Congress defeat: How Trump’s allies are distancing themselves from Iran war",
-   "source": "Al Jazeera",
-   "time": "2026-11-05T10:26:37Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObGJ5X3dxaVJBdXhrVE93dU51d3NtVklVU2U1aGVTTERHQS03enZjZGtvRlNPeldGcnh4SnBrejFsRWcta0poZjl3LVpJMUFSaHRyX0tzX1JpTExvUG9wSVZoWTlYT0FSQXU1M2VFa0VYeDlsRVVVNXpxNm5PbGppWDRJYTBHaktfeXRUeHllLXdlVkZwek43QVc3cjEwNUFvRVZsb1dveU93SXlkelJwSFM5RjPSAboBQVVfeXFMUEstdnE1V2M2V2ZuWjUweGdMeE1EY0Q0VS1kbVpWLVlqU2lzWTlUcEpzU1lRQkFDTkNVUDY1MEZfVHN0cG03NnJOdVl1WjlDenpUcDlaYjJzME5rSm9zLWh2WmhTaHBGeTRHVjM4T0M5bUxHdVZwOWkwdHFyRzdWMGNnSG9oUTFuY3BCTmVHRlBTMmFSOHAzakJGTkpwUUhpVndhd2VlYklJS3pacWp2Z0tIVER2LUs3ckNn?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -592,98 +689,6 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSm5NWkJvNzRNaXdLRm1UVHFvYWQ2OEE1Xy1nVmhGS0Z5MVNSeVFPSjVpclZrM2U1Q1JjbXVQUFFWcW9jN3U1S0h6TWNlaEdmVDlTUnJDLThtWW9ob29OWU81ZmJNaGExd2RVby1vZlFWSFJXVHM4RGVDZTZaMEJ4NEtJbWczVS14d3F2SFYxN1lDWlFac3ZPcUVEdHRWSWdqVjY4OXQ2eUN4RG9Relk1cHZYb0FNT2pLRUh1RERLWUN5T04xQkZwVDhWY0pOZw?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Political Losses Deepen the Stakes as Trump Contemplates Renewed Iran Attack",
-   "source": "The New York Times",
-   "time": "2026-11-05T10:04:43Z",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVBBOE1vYThfaERwMm5SalVMTXQzR3NWZm9qMVlPWWJUY0JWeWRqRjBLa3NCZlBaNU9YQzM4SEh4aDNhdUtCcTBMZzdnVDhlMGx0R2FkLV9MbnZsUDRRQm9Zc1NfbVQ0V0ZRNHpTZjB1UlpGcld6S3FCeVBjVEhOczhiNUJhRWFmSlJ1cg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "A month after Yemen government offensive began, war of attrition takes hold",
-   "source": "Al Jazeera",
-   "time": "2026-11-05T10:04:27Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSGZ5eTA1aEhkZlJxM1NGOXB1b2k2TWZPd3lCcV81Rm9WS0dlUTJ6UHRrLWkwYmloTWg0YlFtc2hqLUJDRHF1aXNPNVdFVllvZ1Myc3h0c3pfM2FWMnB6a2NPdEgxbnZ0TzFVNHBmcDhYb3BWOEZNY2R5MFFTNlotU3AtTUl3MTJqMVBDTmhVZEhNWmVaWTg1Z1VXRzJXellLMEZTSmhfTmpyN0dYTjVNTV9XWmV2UdIBuwFBVV95cUxOdm9XdnVudF9QVGZRclFwMkhRd0NTdzFZSHV3aTItY3ZYLWhmdU4zOXFnUDVNdXdUMnpnYmZ3NkZFUElmeTlEcTlhY3owN3l2YVBYcC1vMnp3V1VLNktVS09xaHY5MVNwS0xoTzU3dS1FZ0R2cUtoVTVXVWkwcnJQU2JiQ3BYQ1pkX2V2eTFsZ25idHFNWWlmck1KbmdGc1JkSDh6cTN2RHFlWGlkcTMyajl6dkxEQnFUM0FR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US sanctions Indian and Turkish firms accused of helping Iran",
-   "source": "Al Jazeera",
-   "time": "2026-11-05T10:03:02Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc2VIc2Q5WHBYNE9lazFZbklucXZiWUFsWndGOHFxNWdYZTNWX2x2SVhnMGgyc21OeERuaDVyNjBYS1Q3Uk5KUHRlMkpJY0N2c1Zob3BGMFdIU0pLR1R6NnFpczQ4WEJPbTI2b0p3T1pORmJ6T2JEckhDcDg5MUJoNkZsZHlQZHdHV3FfTW90YjJ0MjNJOWpScC1qTnVzeXhjLWpCaNIBqgFBVV95cUxNbWtRbGN5RU1XcHJ4a3BHXzRRVmxXY1pQd3hPeVdCaFRyMHRwNlprZmhSQk92SFB0U2stQUUtYUFuakhrWGxSWEdNZlI0bkc4NkRhVXJyOWNKZEtmS21fODF4LTJQeTMzTXNzaUZ3WDdJbU1ka1FoMkpFaHhTSEtGemE4Mnp0VVNWNGtnTDVQZjAzRVpPUG83cURENzBfUkwwUktMRmxfMUZ1Zw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Ukraine's Soldiers Are Getting New Jobs in the Robot War",
-   "source": "Business Insider",
-   "time": "2026-11-05T10:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR2hPTEFpb3ZmYUdrWURjY0JaanQzUGVrWFlOWmZYU3VaZ0xZWkZtSDNOaVJ4X2FybWlWODk2a3RJWk5sNm1RYzZxSDRDSzJ1MjEtb1dSOXJHRXd5eU8tNmpsYjI3Rnk4U0RRbUcxYWJNTVJBSkRxQTlaWEhSblRtcw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Israel extends detention of Palestinian journalist Abed Abou Shhadeh",
-   "source": "Al Jazeera",
-   "time": "2026-11-05T09:52:02Z",
-   "link": "https://www.aljazeera.com/news/2026/11/5/israel-extends-detention-of-palestinian-journalist-abed-abou-shhadeh?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran wary of new U.S. attacks despite Trump noting war's role in election losses",
-   "source": "NPR",
-   "time": "2026-11-05T09:46:24Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSmVWZUdheTJFaDZpMFEwU2p6M1pLeTZfTHBsRlBSVlBQSTRGVVVhZTJCWS1la2R0N0YtdjQyRjhNTEdTTGZ0ak9qSkRrWXZvMHhNRmtKekd2RkVhSmlQX041cmtxWmh2b0RTekFlVWJRZVc0a0gwR3QtVUxGRVBIZzQzc3pPVFJaVE1ISDRPeVdocWFsV2lHYXVYbjRhd1N1VTJDQURnajJBTXZpTWxoN1ZKZFB6NTVVNjZNdzYtV2Q?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "China to keep anti-dumping, anti-subsidy tariffs on US n-Propanol imports for five more years By Reuters",
-   "source": "Investing.com",
-   "time": "2026-11-05T09:46:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOanVoRTlzVTRoUjJLY0hjeTZqMEFLdy0wVmhZbkJ4Q056TFBrV2tMTDRwSzRaZUFMT09xTzVlRWcwLXJDRGx4QVhqMjQ1TUVELU1uNFhNYWVhcHFNSHN1Q1RjQzY4Y3M4MlB4YnpvVHVKMllCMHhGUElkX3Jtd0xLSDVKamxWaUpkTUM1WkNSbTBsb0Z2Rk9NWEpBakZIemo1UlRveDd1cmJuXzl2dXdQNXhsZUdKN09hbTZMbzRWQWRMSGF3Szd3ejBjSkpFOEFmeXRITWFubGM?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Hong Kong activist Joshua Wong jailed for 10 years in foreign collusion case",
-   "source": "South China Morning Post",
-   "time": "2026-11-05T09:45:54Z",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQjhRUU1IOTcwdHRsa1lyVTNJRVhPcHdybTFLZng5UGE3UzRBNlBESWdOV2RsengyMHRwb0xISmlBVEZlalE2aXRRNXdybHUzekNLbURpb3hSaTJWNE8wYmdIOFBjNnV0aW9vOFdrck5LdDhfNmNQODhURDRyaE1SNmY5VVdoSE40NWVIVWE3RVk1SEtIS2hVZlFDMFdJV1RDOXd5NUJ2aVZOTk1xTmdsQ0JENDVqRU1VOUxxeXNLTW5jQ0FuTTZ4TjBzRmpDVVVvaXBXTlZ3c9IB1wFBVV95cUxPUlJ3YzdLam1hU1pSb2Q5QmYwdHNaUXJNQnpFckFyTXVxS0RZUW00OG5ReTFyY2hlRzJXemd3Vkk0TlhQLVI5OVpUZVplUGVTaklCTWVrRE1TandWU0ZmT2RkLUZkb3MteGZaaDJUSkhJaGo3U1lkUTNyYmtsN3RFS0pLVDZZUkE0RHNNWm9PYU91OHZKakhkT2pIdlBtUFpoejNKVngwMzJoM2Fwc25ySm1ZN3RISE9KZTliNEhMd1NVUzlXZHlqeVBuXy1iQmdWUzdmR01kRQ?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "It’s Gaza, stupid",
-   "source": "Al Jazeera",
-   "time": "2026-11-05T09:44:33Z",
-   "link": "https://www.aljazeera.com/opinions/2026/11/5/its-gaza-stupid?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Treasury yields continue to fall after midterms, traders look ahead to jobs data",
-   "source": "CNBC",
-   "time": "2026-11-05T09:38:43Z",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwRFU3SzVLNDJOd1p3SDRNMkE0QjBMRms2d1RJaDZEMlZaSGQzUUN1Qjc4eW90Z2NDTmZITmh0QnZIbU1uc3hlUFRZV2NvYTRkQ2I1eHZ3dGpJSVFQRUpWZ1YycWJZYy1iZnZzdTNiQ0x2Wi1WQ2RkNmpuUm1vd9IBgwFBVV95cUxNNHdYYnNDYV9CX1JxUEl4bGJBSmtGSXNGTWN0NURsdkpHRHZqcVBmUGhHWUxlZ19ab0VfdjFiTjIwZkpCX3ZZaWVSNXdLUWY3eU43ekw1N0Z2WC1qWVYxUHFKZ3Z1Y01ON1B6N1Y5RlVoNUJWbmZ6YjZQN1B0ZTk1RjNhQQ?oc=5",
-   "tags": [
-    "YIELDS"
    ]
   }
  ],
