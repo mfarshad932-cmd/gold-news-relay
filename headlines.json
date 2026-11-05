@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T07:45:16Z",
+ "generatedAt": "2026-11-05T08:13:36Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -21,7 +21,7 @@
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 2
+   "kept": 3
   },
   "bea": {
    "http": 200,
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 8
+   "kept": 9
   },
   "investing_news": {
    "http": 200,
@@ -66,8 +66,8 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 23,
-   "kept": 4
+   "items": 21,
+   "kept": 3
   },
   "aljazeera": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 27,
+   "items": 26,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_tariff": {
    "http": 200,
-   "items": 30,
+   "items": 31,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 57,
+   "items": 55,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 27,
+   "items": 29,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,12 +126,59 @@
  },
  "items": [
   {
+   "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
+   "source": "ECB",
+   "time": "2026-11-05T08:00:00Z",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
+   "tags": [
+    "RATES",
+    "ECB"
+   ]
+  },
+  {
+   "title": "China ties more US farm imports to reciprocal tariff cuts By Reuters",
+   "source": "Investing.com",
+   "time": "2026-11-05T07:50:47Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2xKMTQteDNJSmJKeHBaYXlRTGxNcjNhdHE2UlRwYlZPY2Iwd2t1eGZ5QWQwRFZrcEM4b2xUOC1PTHR3ejFVanJUY2NqeTFSRS1sOFNOZ2VjdHBGdVdvTUxsYk41a09heG9NZ05HNFVBZy05NDNyX3V1ZldVOGsxQk95VjlqaFBpWVEwRWFnQV9lckhTTHM1X3BxRHR1aHVtd0xabWs5VjVOWVJlX2d2TzQwNA?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
+   "source": "Al Jazeera",
+   "time": "2026-11-05T07:44:47Z",
+   "link": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Under $4,000, Silver Under $50: Why Classic U.S. Coins Are Worth a Look Now",
+   "source": "Investing.com",
+   "time": "2026-11-05T07:44:00Z",
+   "link": "https://www.investing.com/analysis/gold-under-4000-silver-under-50-why-classic-us-coins-are-worth-a-look-now-200690621",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Emirates Airline Profit Falls After Iran War Disrupts Air Traffic",
    "source": "WSJ",
    "time": "2026-11-05T07:41:20Z",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2hfQWJDNnFHaDIya3JhZmdid090dlZMZHNZVk45UmYwTlRyWTFjM3F3LTZKSjRNV0ZSTTA0eXlOSGtvbU54cklqSnZiTmJHYmJtWHJWUzBBTHBnNDJMM05vRURrZHVsNlBXaWdTRElzX3ROY3VnYnZpak13b3VyU0tJd2RLNXpNU0hZNDlSQUFmaUg2cjdCY1BmSDUxVWs4RlVOMlhVUnM3V084VVNyLWNn?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold price recovery gathers pace after US midterms but $4,200 remains a major hurdle",
+   "source": "investingLive",
+   "time": "2026-11-05T07:37:56Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN1lNd2xsWDJaVnZRRWMtYlk0VWpLYmJJUG5uVzJVRlRiUWE3M2hZTUJoSXl1X2RLZUI1Y3RBLXh5VjhBenhzOXpFR05HZjYzUWZyMXBnS1FwUVZKQjI4N3E0YWZadDVFcl9Ecnc4cjZmOFhPcEZ3YUxfSU1LbVFGbG9mRHpnQWNidTBvcjRvcjdFSHZUdUhJbGRKZzJycUtvQzBUVmJBa2NxVWF3M2RONjE5Vk4tV3htd1kwZEpDSQ?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -161,6 +208,15 @@
    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
    "tags": [
     "ECB"
+   ]
+  },
+  {
+   "title": "Gold and Silver Surge 7% & 10% in 3 Sessions: All Targets Achieved - What’s Next?",
+   "source": "Investing.com",
+   "time": "2026-11-05T07:25:00Z",
+   "link": "https://www.investing.com/analysis/gold-and-silver-surge-7--10-in-3-sessions-all-targets-achieved--whats-next-200690904",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -200,6 +256,34 @@
    ]
   },
   {
+   "title": "Caledonia Mining Corporation Plc: Caledonia Group Signs US$150 Million Interim Financing Facilities Agreement to Support Construction of the Bilboes Gold Project",
+   "source": "TradingView",
+   "time": "2026-11-05T07:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOM3VMTmlzVDBBMERFT2Z6dnhubGFsd21iZnBQOFJqT0w1Z2xJeEtQb3RqSkxBb0k3ZFlPNDZROWIyVTRCamtyWXJPajluY252V3R0UTQ4czEyZzQyaWRqaDg2RERkck5aaWM1MnVLT2tUSF9kRjlZOEJId0l3Z0V5NFgzTFdKWWJYQ2g5VjlYVzdNOUJFYzhOLWs2RE1IRE5jdXp5RkdfTzVkaGJqdWxtUklsQUdsd3VGLWJTWi1HTmRQSFdPUUh0cTRkQ2xXWlhRNnhITkplRUJEeDRna0Nra0N4UHFpekw2MU5TRHZwZlEySi16Tms5bDd5UVJDUm02djNTdXVFVVlmTklKZllreUQ0WTIzdThkWHVpSUZIQjdhSXlJZlY3NDd3bFRuc1hsOWQ1RDcyeDJuUU5iU0xvRm13?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "COMMENTARY: Asia hopes Democrats can provide relief from Trump's Iran war, tariffs",
+   "source": "Reuters",
+   "time": "2026-11-05T07:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUk1naVB2YlNzNHNsUVA1ZVp4ZU5QaUNocUZjdkt0VVdHZVVmZXdRZzhSdUt5RFROWXlBclNEM0p0NnJTc3dqaWlBWVhoUWRVczliT2JGR3l3RXU0R1N0aGZicXFZSkdiNjd6dmZJWVVoRWp4X21wNUJNd2EzOG5CMnJoR1ExaW1lX1Q4R0o0cHhBM1lZX0lnd0NLMkFVaTJZZ0FvUVNfejFaaFViQU9tX3REV2ZBNjdCOHU3ak1EcUdJX2xsbFdCWE9pVzk?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "A Democratic-controlled Congress will likely try to constrain Trump’s foreign adventures",
+   "source": "The Guardian",
+   "time": "2026-11-05T07:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTlSOUZKdktqS1BuaTA5RlFXeTJyTXdERmtyWk5tWElVa2N0QmxCUDhTLWtMT2szVjBJS0oyczJxQlRFbWtwRVN4TkQ3aVkyaDdwMXo2S19HYzEwbFRlREZBOFp3M3p3ejlIUGxQSklLRFQzQ09HWlVKcXdfbm1oeXlQbXZLWkRFbjdicnV3bXc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "THOR EXPLORATIONS ANNOUNCES THIRD QUARTER 2026 FINANCIAL AND OPERATING RESULTS, FOR THE THREE MONTHS ENDING SEPTEMBER 30, 2026",
    "source": "TradingView",
    "time": "2026-11-05T07:00:00Z",
@@ -215,6 +299,15 @@
    "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "ArcelorMittal Says Europe’s Higher Steel Tariffs Are Boosting Profits",
+   "source": "WSJ",
+   "time": "2026-11-05T06:49:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0xfNmtoVDFyN3lxWTAzZ3hRSWV0aVRENWJTWFdCWG9XcUd0V1BlelpOMTZFMG9zbEdEQVpPaTlNQ1BWYUZuWXZxVHVLRE91bVRjdkpIY0VNX2xkZFQ5R29RNUFhRUc5b3o2dlFZTFo1OEpoSjN5cWZ5Qk5NQ2ZKYUNiSE5ramJtYzliaTAwejB4a3RMa21sdV9WWTJEVEZpazFnTVVlVUd1VGVtbzQ0Q1I4OXBWZw?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -266,15 +359,6 @@
    ]
   },
   {
-   "title": "ArcelorMittal Says Europe’s Higher Steel Tariffs Are Boosting Profits",
-   "source": "WSJ",
-   "time": "2026-11-05T06:38:18Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0xfNmtoVDFyN3lxWTAzZ3hRSWV0aVRENWJTWFdCWG9XcUd0V1BlelpOMTZFMG9zbEdEQVpPaTlNQ1BWYUZuWXZxVHVLRE91bVRjdkpIY0VNX2xkZFQ5R29RNUFhRUc5b3o2dlFZTFo1OEpoSjN5cWZ5Qk5NQ2ZKYUNiSE5ramJtYzliaTAwejB4a3RMa21sdV9WWTJEVEZpazFnTVVlVUd1VGVtbzQ0Q1I4OXBWZw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
    "title": "Oil prices drop sharply as Democrats secure Congress majority",
    "source": "TradingView",
    "time": "2026-11-05T06:35:08Z",
@@ -302,12 +386,13 @@
    ]
   },
   {
-   "title": "Japan exporter stocks rally as Democrats’ sweep fuels hopes of U.S. tariff relief",
-   "source": "Investing.com",
-   "time": "2026-11-05T06:22:09Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMG1MSURMMzk2am9tY3lBRVZIZzRzcFdsNnE0ZjVsR2thRUdYR1JKbkdIaGpNMlJhcUJkMW5scnYzNlJxRi02eG96T3U0V1cxd01Cc0JVbXBTcG9DRWw1eDJ6bGpUTjNhWXF6S3B1YUZIeTg5ZEg0ZjgxY0RWM2JMc0Q2Q3lncjJqRUt3Q2FkSWdtOWZwdVVkVGVRc0xLeE5YQkl5OHRLZkZvbzZiR3RJM3lEUXUtcWdTeUpGcDZZZnkzTWc2NEZjNFp5YlNFT3NN?oc=5",
+   "title": "Gold (XAU/USD) Price Forecast: Post-Election Rally Tests Critical Resistance",
+   "source": "FXEmpire",
+   "time": "2026-11-05T06:13:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU3A1ZmVmS0FoNWo2cFFEX3Y4TzgwSGdkV3lRUnNsM3BTaDM3ZDZHbFhoNDFCLThFVjdxVV9NdGFfaUktdG9CdmstSUtqcDdlcXl6WEgtbm5tLThrZ0RPZzBWZ1RCcFgzbXlFcUM2NjN5WVZSY0lWV1lOOVdERHEwa2NwaFphYlRKVVpMdUFzdkY4NWdhQk5NYk1waWU2SlBuV0stRzBGSHNBME5Xc0hSSnZTN0lZZnhucE9qLV96bE42QQ?oc=5",
    "tags": [
-    "TARIFF"
+    "USD",
+    "GOLD"
    ]
   },
   {
@@ -358,6 +443,15 @@
    ]
   },
   {
+   "title": "Zelensky awards Melania Trump Ukraine's highest honor for women after brokering Oleshky ceasefire",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-05T05:26:45Z",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jdFotNkNza2pjeEJZQVU0M01GempGbzZEYTF0QTk0NXFoUm1KMHdOdXVEXzh3Sk9ZR3dDbGhSVUNqbGxnb2xUZG1iMjhjenh4alktSndnVmM1ZndBN2Fz?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Silver Rises As A Weaker US Dollar And Falling Treasury Yields Support Sentiment By Kedia Advisory",
    "source": "Investing.com India",
    "time": "2026-11-05T05:25:46Z",
@@ -368,42 +462,12 @@
    ]
   },
   {
-   "title": "Gold surges past $4,130 as US election sends dollar, Treasury yields tumbling",
-   "source": "Investing.com",
-   "time": "2026-11-05T05:24:48Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1MxRGVnd2pXLXhLV1VsSDhRV3JNUlQycWZBa1BjOUZDRElvcUVTX1VidjFFRXBZMUdGZ2MxdGMwWTd3ZlNfeS13ZXBDTFVjU1FvQnB2QUVCeU03WU1aWnFoZHNxejRUWlhQN1FfYkFfbU1TZ0Q2VU9mOHJRVktsazNjMl9mc3JYUHpuLUJqYk9udUtzRlpPOExtZHRXQVl4Q3g4WkZFQUJnQ1F4VmgyNHJTMmJwYlFvc1p4a0tYcHhKQkItVGdiMmNn?oc=5",
-   "tags": [
-    "USD",
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
    "title": "‘You Are Either With Us or Against Us’: Scott Bessent Echoes Bush-Era Rhetoric as Treasury Sanctions Indi",
    "source": "Benzinga",
    "time": "2026-11-05T05:24:39Z",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcWF2eUlYWndPTWpHeEZjT211R0dxMTlRNGQ1OXdSZzhlbkZkR3VMNEpGZUdxaDJQeVJTQ21iUlZ5a2ZZS2pkZlNBV0l6YWF1U19LNE85MTRJXzgxS3FBc2lrZUlMdlRJY3dPcWhPZWZyclRYTFM3eGdnUmhPYTJ2Qko0SDNkQjRZeHJMbzU0VDA?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "US Oil Inventories Fall Further as Demand Holds",
-   "source": "Investing.com",
-   "time": "2026-11-05T05:24:00Z",
-   "link": "https://www.investing.com/analysis/us-oil-inventories-fall-further-as-demand-holds-200690895",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Gold (XAU/USD) Price Forecast: Post-Election Rally Tests Critical Resistance",
-   "source": "FXEmpire",
-   "time": "2026-11-05T05:06:22Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU3A1ZmVmS0FoNWo2cFFEX3Y4TzgwSGdkV3lRUnNsM3BTaDM3ZDZHbFhoNDFCLThFVjdxVV9NdGFfaUktdG9CdmstSUtqcDdlcXl6WEgtbm5tLThrZ0RPZzBWZ1RCcFgzbXlFcUM2NjN5WVZSY0lWV1lOOVdERHEwa2NwaFphYlRKVVpMdUFzdkY4NWdhQk5NYk1waWU2SlBuV0stRzBGSHNBME5Xc0hSSnZTN0lZZnhucE9qLV96bE42QQ?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
    ]
   },
   {
@@ -427,6 +491,15 @@
    ]
   },
   {
+   "title": "Russia deepened Iran support with missile launcher deal",
+   "source": "Financial Times",
+   "time": "2026-11-05T05:01:12Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzNsRFA0MVVkdHQzNzVtZXFtdEFYczhFaXo0SVdncGV5WHprY0FLcTAtaklOWUNCb09Ic3BBSWdycW5rMWFKWFJMbHhaejlmMmdwN2RIbElKcE5QMndxdnozdVlVd0R3TFVMOWVaXzFiZU5RaDFUZTk5Q0o2STZDb3dmREM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Oil falls for a fourth day on expectations for lower risk of Iran war escalation",
    "source": "Reuters",
    "time": "2026-11-05T05:00:22Z",
@@ -434,15 +507,6 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
-   ]
-  },
-  {
-   "title": "Russia deepened Iran support with missile launcher deal",
-   "source": "Financial Times",
-   "time": "2026-11-05T05:00:16Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzNsRFA0MVVkdHQzNzVtZXFtdEFYczhFaXo0SVdncGV5WHprY0FLcTAtaklOWUNCb09Ic3BBSWdycW5rMWFKWFJMbHhaejlmMmdwN2RIbElKcE5QMndxdnozdVlVd0R3TFVMOWVaXzFiZU5RaDFUZTk5Q0o2STZDb3dmREM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -625,70 +689,6 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
-   ]
-  },
-  {
-   "title": "Iran says Americans voted against the war after midterm results",
-   "source": "NBC News",
-   "time": "2026-11-05T02:14:05Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRjBOa1VlaFZBMTZDUFJjRHBRZXVvZ2s1emFNVFJwOEprQVNob1p0aWlYVUJralFEdkwzZGJKeEhwM3ZxREUzUkZ3emI0aUNEREduYXVuczZXcWhLZFJUX1VIZjVLSC1DbVV1MDlQYkJYYS0xSzFiZmRlZDBUOGVMeFlUdWx0UzBFTDQ2Q20xY25LeFBiRk01UUJaWEEwcF9jWWhQTVpIQTk2Zw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil Continues to Fall Amid Rising Hopes to End Iran War",
-   "source": "WSJ",
-   "time": "2026-11-05T02:13:40Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOXRkbWxNQkNEV1BlS21IOThqcHB3Y2VLRVVRYTM3VDN4VllrcmVRdmIxSHUydlAwQWxra0RBZGpzVktjeDVSTGdYb2xld3Z0b0dsd1VGQ29BT1FjNy1rTWJXeXg5ME5TRTZhSHE4emRodVNKdHBObWFjTmdiaWdvVE04SzJfTmFZZkZHc1dlS2kzVUlHWmVRb0JMa09IZFREaEw1VlRma1ptWWNCLTVUZXNB?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Ukraine war briefing: Zelenskyy awards Melania Trump national honour for role in brokering Oleshky truce",
-   "source": "The Guardian",
-   "time": "2026-11-05T02:11:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNjlfVnhHcllnQzBsS3Z4eVRjZWJuZ3lEdnRvYWZ4Nk5TWHo0dUJKRGlpWGM1ZHotT2ZGaVhROVBaTG5mdVg5ZDhuYzZ6TTVfV1piZDJPSktSb1Z6YWVFemYxdTFWeHFPZVJiOWljV0djOWhrNWdGVXgtaEUxVzAwU21JSEhJVFVmRjlVbVFremdRaVg1Rkl1Z2MxVHpsUVpGdFI0Z3dVRGtBT09vTWdUNDR1VmpiWG1sNWdoN1NybTRmS1loaloxV2tLOGhfOGRBSnV4czU4Q0tmUGxsMml4TjlvTQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Israel’s Herzog accepts vote results, opens talks on forming a government",
-   "source": "Al Jazeera",
-   "time": "2026-11-05T01:53:30Z",
-   "link": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall",
-   "source": "Reuters",
-   "time": "2026-11-05T01:51:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzNLUjBwZFJZSVE0U0NxbTVYbVotU0R1ak1zb2g1LTR2a0MtYkxVcGZFOFhZNkcza1hhTlpobGN4bU1hVmZhUGs5UFk5TC1kYWdXS181NHdZZlJGdEJMc0NNcHl5dndpaHo2SXpJcUxjeHkwVkZQTkhBX2xVVlg0eWNkZXRkcGx6NEpRQlFiLWtXdElVcllTWHhGZWxvUEREWXEzM2RocjFjbXBIbm1wOVhUSkEzOGFCb3ZMZ21WdElEU3l3em15cGZtZkdUQQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Soars 3.5% After Democrats’ Victory In Midterm Elections",
-   "source": "FXEmpire",
-   "time": "2026-11-05T01:42:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcUwxekY2RHRIcXlsNkNwOFBheWVZeFlhV3dYVjRPWS1rN1hoUXI1VVd6bEwyUy1WV2NyU1JBWTZMalVCWVo5ZVZ1c1ZZV3FDbFVleXBEN2ZEOTFlMnBfQllEVmJ4NkQzdnpOR00yNXRjU3Fld3Z1OVVJeHRCXy1DVFNfRWxRc0hKTHZDcjNXRUR2bktHNlBtZGFkY2VDMnNJX3ItY2JxVkFBWmstN2xzRlE3N1RGLWdLS3gybG41dzNHTkFQMmNIZ29tV0hSZW9DY3RDd2psdm5RSHoxZF9iNm1n?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold price soars after Democrats sweep US midterm elections",
-   "source": "Mining.com.au",
-   "time": "2026-11-05T01:37:17Z",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTmRyel9vZVU2TXQ2TmZwYldfWEk0UjFCMzFYTVlTTWR5Z1NuUWhqMEdFYkRabmZCZDRMSzBlVFItVFNZLWJFSURnZl9KNWRBRlE3dDZ5blVBX3ZqakI5cE1ZN1d1ZXlObWxlVU5LZDRBRFlRakdNdEM2bWpmU3M4cDZNRmRTUC1fSWc?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
