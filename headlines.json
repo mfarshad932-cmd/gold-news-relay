@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-05T15:47:06Z",
+ "generatedAt": "2026-11-05T16:15:29Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
    "http": 200,
    "items": 20,
-   "kept": 0
+   "kept": 1
   },
   "fed_monetary": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -66,7 +66,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 19,
+   "items": 20,
    "kept": 1
   },
   "aljazeera": {
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 21,
+   "items": 24,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 18,
+   "items": 19,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,17 +96,17 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 51,
+   "items": 54,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 10,
+   "kept": 10
   },
   "gn_yields": {
    "http": 200,
-   "items": 25,
+   "items": 24,
    "kept": 12
   },
   "gn_oil": {
@@ -126,6 +126,107 @@
  },
  "items": [
   {
+   "title": "Analysis | Trump’s favorite economic policy was among Tuesday’s biggest losers",
+   "source": "The Washington Post",
+   "time": "2026-11-05T16:12:54Z",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW1ybXNFaVdKR3V2UVVoOENIVkNscGpuVHhqZjEtR19zNVVwdFRzOFdBM1Vhc3dKcTVkZTRRUWJ2RUpUYnk4eUctZndfbzh2cDhLZlJIel92b3dTeFF4Wi0xOVZRSnVjNndUWk51XzZ1cWVJVlJfRml4NGVIV1FpTA?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Interest rates hiked to 4% in first increase in over three years",
+   "source": "BBC",
+   "time": "2026-11-05T16:08:54Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "RATES"
+   ]
+  },
+  {
+   "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+   "source": "Federal Reserve",
+   "time": "2026-11-05T16:00:00Z",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "US weekly jobless claims at 57-year lows amid low layoffs",
+   "source": "Investing.com",
+   "time": "2026-11-05T15:54:38Z",
+   "link": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-at-57year-lows-amid-low-layoffs-5004323",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "Jeffries: Democrats won’t let Vance ‘run away’ from record of Iran war support",
+   "source": "The Hill",
+   "time": "2026-11-05T15:53:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZUhsRVgxYnNRYUxyRzBQbEFwT3A1b2U4ZXU5TEMxMTdVdTcyb0FPa3FiZjBTM1ZUajdUQVphaGxCMW9IeV94QndBZVBodC1qLXUxa2VzVjV5UmJEOVlkVDNkZjY2andlRFdEMGc3QTVuR1BFeXpqMFRldWc5N0QydjgyNUp4YUFId01GSm5Pd00wQVhJYjFkWE9lTdIBoAFBVV95cUxPNTBvbjhIR044WGRhX1BNM2w4SFM3X01YaXEtdFpBTHAwUVNWUXFPdXYtM2hZV0xtek00dzZDblZfeHZNVk9nRW8xWnczbE1TQXY3aXVKRGpEMnJndTZ0Tklqa29NYnI2d19XUE05bHNrOXVtTk5tLV9kc2VlYUJTQ3JPTWVEblFsbmVwVE5FV1FLdHJYWEJ3MDIxVlNNU0tV?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "‘Knives out’ at Pentagon after unpopular Iran war dooms GOP in midterms",
+   "source": "The Washington Post",
+   "time": "2026-11-05T15:46:17Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZm1ZY2VpaEM0QzJDeEwxbkt6ZjkyWUdjb3A4bEN0MWZjcDhJeVp0cDJnNlFBMVRuUlY0NXZPSXRqVXQwM0VwWHkyMlNGaW40bjZfZXY1V1U1aHhLZkdHU1ZjYW9JelpkcmpNXzRzaXBKU21McldHSkdUbDVQNUlxUE5Eel9yUDBSMmdueUNyMDFGNEpvamVsUW5velF2SGpmTm13RFZneG5hR3EzLUNZeEJQZUU0bTRfZ3kzYm50TllEdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Rates could rise again if Iran war continues, BoE governor says",
+   "source": "Reuters",
+   "time": "2026-11-05T15:44:33Z",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QdDJzWGNSQnpPWVpPRnVjYk9yQ0lhaFFDYzQwUm9WY3dMUXVORUF4YTFGYXBCV1BZTXYyX2ZnckZWRXJhdElVMS1JTlB6SHNJRHdvUktGX3hyakFteDZJcy1EN05HTjA?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Fed’s Hammack Says Restrictive Rates Needed to Cool Inflation",
+   "source": "Bloomberg.com",
+   "time": "2026-11-05T15:41:26Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU2c2UERBM24tYnJsM3UxR3pvTG9mYmZNZ0dDN3k4OHp6SUl3aUxKRXZkNlJVeFU4dTFoS1NtSHBZN0xIVG1GRnBNNmxxWU9MWUNWNmhkZXZPT1A5ZHN2RHZRWS1tMmtZV1BzSDJLLWpERnFoZTVLNDFsdWVlaENTdE5UZVZDanpTbTFtNDQ5WHJJYWt1Y0hGNnd5eEhXaVplZWJNcXFXVHpIMXVqa0c5Z2tn?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Iran threatens missile strikes on Europe if US uses bases there for attack",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-05T15:40:30Z",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TYmk2OFVtUUxPS243WUlUeXlFMnpMdWx1ZXVkQWdoaEl1cTl0NTk4R1VybWszZEFUU1dibDQ3TndjajZKS3dTczl3YnpBazVHRi1pS0RfNFBoWndvMllj?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "A Democratic-controlled Congress will seek to constrain Trump’s foreign adventures",
+   "source": "The Guardian",
+   "time": "2026-11-05T15:39:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTlSOUZKdktqS1BuaTA5RlFXeTJyTXdERmtyWk5tWElVa2N0QmxCUDhTLWtMT2szVjBJS0oyczJxQlRFbWtwRVN4TkQ3aVkyaDdwMXo2S19HYzEwbFRlREZBOFp3M3p3ejlIUGxQSklLRFQzQ09HWlVKcXdfbm1oeXlQbXZLWkRFbjdicnV3bXc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Bomb threats disrupt at least 15 flights across Europe, raising hybrid war fears",
+   "source": "The Guardian",
+   "time": "2026-11-05T15:39:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTjAzb2V4dm1WX1ZyenZxX2hoUWlFX05jMkh5OHA0R2VKQUp1SFVyb1dYbF8ydGlKUW8xRld3bzRxZlByZHNqYXprMTExOFd0RzhYVHluOUU5NWMwcEE2b3RiNmk0UDN4M2ExYThsMjZDMGFHeDhyNVJxelU1YnhtdFlTSXNtWE14ZXZ1ak9RcE5lYWhaRDZoWXR2aWhqdmFzMlo1UWFQT3ZyeUdIcWs1QTMtMzY4MU55YzFz?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
    "source": "CNBC",
    "time": "2026-11-05T15:27:57Z",
@@ -133,15 +234,6 @@
    "tags": [
     "FED",
     "RATES"
-   ]
-  },
-  {
-   "title": "‘Knives out’ at Pentagon after unpopular Iran war dooms GOP in midterms",
-   "source": "The Washington Post",
-   "time": "2026-11-05T15:26:13Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZm1ZY2VpaEM0QzJDeEwxbkt6ZjkyWUdjb3A4bEN0MWZjcDhJeVp0cDJnNlFBMVRuUlY0NXZPSXRqVXQwM0VwWHkyMlNGaW40bjZfZXY1V1U1aHhLZkdHU1ZjYW9JelpkcmpNXzRzaXBKU21McldHSkdUbDVQNUlxUE5Eel9yUDBSMmdueUNyMDFGNEpvamVsUW5velF2SGpmTm13RFZneG5hR3EzLUNZeEJQZUU0bTRfZ3kzYm50TllEdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -160,6 +252,15 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOFllRUluSzVxNmRoUXRxZEZZcWJOSlkyalRpazU5SlNCV1NNbEE5V3g1VUhrNXp1NHpRenlkc08zSDhtdDlfWDIwNFRfQkZITjU1c1Y3a19McHR6RnJqQ1dZNE5MY2M5WExrU2NQWTFQcG9NZU8ydjZQTHNsSFh5ODdFUzJsQTQzWU9neTR0MlNLSW9aWEJWeUU5Wi1kbU05eVNr0gGoAUFVX3lxTFBFZ0tOLW1EeGw4WnVSczNHdXhXbGV5WnZVM3lCVUlXbGdFb3VIZGMtcGtqRThGN1dZTVFNejFBeWhpOEVHSWVxd1JpQ21ISnhNamo5bG5jY1VnUUY0NTZ6aFhPMEVMdEFjaTZvX2piQnlXSDkxcnloWlJya2hXbzVEbXdtN2FrOXhmTDBQV0hWcVZhYTNBSVVhT1EtMGJQRWNyMi1hS1A3Wg?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Robert Kiyosaki Issues Serious $40.5 Trillion Warning—Predicts Gold, Silver And Bitcoin Price Crash",
+   "source": "Forbes",
+   "time": "2026-11-05T15:10:09Z",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS1l2TjJPVkdrdXNBeG5fQi1vd2tqVmhfNFYxakFFcUxpVDU5X0Q5bTh2THh3ZkhUbHZnQk5rRGx4aFRTRm9iMUI4RFBMVHhrQlVnOTZ1YVpIOHJRbmJKUnVWSVdreTN0LU05anZrS0xJdkNHVkZUS2RtZ0ZrSWlLcVgzWWtxUEduLWk0emVEMkIxSDRiUUJiWGJmRHhBTlJwS2diTFhpdnVWcXh2a01LZld4VE9MeGc3bE9QVEVmV0hLdnJjWkg0U0ZoSmlwenJLbWdiWjd3enl4cmJ4QU00c2lCVTdzZnM?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -247,22 +348,12 @@
    ]
   },
   {
-   "title": "Fed’s Hammack Says Restrictive Rates Needed to Cool Inflation",
-   "source": "Bloomberg.com",
-   "time": "2026-11-05T14:43:40Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU2c2UERBM24tYnJsM3UxR3pvTG9mYmZNZ0dDN3k4OHp6SUl3aUxKRXZkNlJVeFU4dTFoS1NtSHBZN0xIVG1GRnBNNmxxWU9MWUNWNmhkZXZPT1A5ZHN2RHZRWS1tMmtZV1BzSDJLLWpERnFoZTVLNDFsdWVlaENTdE5UZVZDanpTbTFtNDQ5WHJJYWt1Y0hGNnd5eEhXaVplZWJNcXFXVHpIMXVqa0c5Z2tn?oc=5",
+   "title": "‘I was shocked’: JD Vance says Iran War to blame for midterm shellacking | RISING",
+   "source": "The Hill",
+   "time": "2026-11-05T14:45:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORDdabjJXSjRZZWh1U0JPT3pERW0waWVUNmRBSzRRRE9STFNRUGRZQU5hRVNhYW5mWTU1TklXSzhsWUJmd3AtTjBtV2tuLWVGQmlvY1RMcFFZMS03aGxXQ3dhak5mNmZFRW9PNWpoN0JrNUdyVEdKZWNndnBWNGV5TzMwTDBGaUVyeU1XbWNLREQzSzR6endDaTFVajJPRWdEUkNqZk5FU0J6MmdlODVQbzRn?oc=5",
    "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Analysis | Trump’s favorite economic policy was among Tuesday’s biggest losers",
-   "source": "The Washington Post",
-   "time": "2026-11-05T14:42:54Z",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW1ybXNFaVdKR3V2UVVoOENIVkNscGpuVHhqZjEtR19zNVVwdFRzOFdBM1Vhc3dKcTVkZTRRUWJ2RUpUYnk4eUctZndfbzh2cDhLZlJIel92b3dTeFF4Wi0xOVZRSnVjNndUWk51XzZ1cWVJVlJfRml4NGVIV1FpTA?oc=5",
-   "tags": [
-    "TARIFF"
+    "GEOPOLITICS"
    ]
   },
   {
@@ -272,15 +363,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OenZHQmswbHhBSGFlaXFMNV9xejFnMThfRXBoZ1ZiY1JRR2JXUkNZWmYyc0tiYTBfNGVCeE5iTmJLOHJsdExnaGZIMi1FRE1ESVJlN0NSTmxVWlRJMzJB?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Interest rates hiked to 4% in first increase in over three years",
-   "source": "BBC",
-   "time": "2026-11-05T14:36:26Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "RATES"
    ]
   },
   {
@@ -308,6 +390,15 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4R2ZKclhGczljMXpVVTJsbGhsZmFHRHlJS2xORWxCbTdFV1plQjViUFJ0RWZDV0w2RGlxdlMwdXNVbjFPX3FTN3pHMVpDYnF5anlReFc5U1N6eEE?oc=5",
    "tags": [
     "YIELDS"
+   ]
+  },
+  {
+   "title": "AngloGold to invest $900 million in mine expansions",
+   "source": "Reuters",
+   "time": "2026-11-05T14:27:45Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMnJyRzlhdHZMTlQyOEhyNUZRajg1Rkg4anhpZmM1UGhMNEkyTDlUZDgwNjhZdnhSaEdTWVNYS1d3LUw5bHVHVTBpVk5QWHZyMkJtZjFIejdqc0dtMGhMRi0wUjN6aUxWcW1OSTdWcmppOFEyOUdZT1I0Qmg4RTVGOHJ4bGw2Y1lmX0lHYjRpeml2c3VQUnBqMg?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -347,7 +438,7 @@
    ]
   },
   {
-   "title": "US sanctions three over Iran air defenses amid reports of Russian arms deal",
+   "title": "US sanctions three for aiding Iran's air defenses amid reports of Moscow-Tehran arms deal",
    "source": "The Jerusalem Post",
    "time": "2026-11-05T14:15:35Z",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41T2ZSWk9NNml4T3M0cVVZYUdmYUtlZDlzcFhTS3lfSEVPeVkzY1loMllqZUFYTF85bExUR0x2bHpYSDh5NXpqOFBQUk5lUGxMbU9tSV9Rc05zQ1dGajZxczVZLWwwa1dCelE?oc=5",
@@ -375,6 +466,17 @@
    "tags": [
     "GEOPOLITICS",
     "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Gold hits 2-week high as dollar, yields, oil fall after US midterms",
+   "source": "Kitco",
+   "time": "2026-11-05T14:04:21Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTmJWU0stNzd5S1VxemhoU0E2cW1EUk1HZzlFUGhYRnk5TXJTUjVQR1FOMzFiTEwxYy1qT0VLd0ZYYm1QaXpxLXRyVENUeGM1OHVINlFZdng1RFhzVDFHR1VxX0dZZUZIQnZzeU5fWEFHYTJqQ1lpOGdCQnNObVN5dWMxRGwtY0diY1VfaWdoSFFwUTVXNlN3aHlCdklVSmpoaUlqa2Y5MGYtWlRIN1AwYmVKOA?oc=5",
+   "tags": [
+    "USD",
+    "OIL",
+    "GOLD"
    ]
   },
   {
@@ -469,15 +571,6 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSnhQa0N3X3VZeENwS2p5X1FLRWd0d29wQWxyVV8zUlNGZTNRMUEzZ0RSa2dZUm5Pb3B3YkpMU19aU3Q0ZkVSMnZxV0hLaWpjdW5Xd3puY0dDTDNXS19pRlRUMGZFNmU2MWFqbnUzTXFCd3VzMG1SeDlwelB1TF9aUU1RWThMU05mUUVheGJxejJZMUQ4MXFqczdXcTM2U0FiYWVTeG9hYlhrc0RoWmJkSzIwZmpTcUtrYnc?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "US weekly jobless claims at 57-year lows amid low layoffs",
-   "source": "Investing.com",
-   "time": "2026-11-05T13:42:23Z",
-   "link": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-at-57year-lows-amid-low-layoffs-5004323",
-   "tags": [
-    "JOBS"
    ]
   },
   {
@@ -591,105 +684,6 @@
    "link": "https://www.marketwatch.com/story/a-prolonged-war-in-iran-is-the-markets-real-black-swan-says-this-strategist-65d105c7?mod=mw_rss_topstories",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Four people, including a child, killed in Israeli attacks on Gaza",
-   "source": "Al Jazeera",
-   "time": "2026-11-05T13:04:52Z",
-   "link": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "What midterm election results change, and what they do not, for US bond market",
-   "source": "South China Morning Post",
-   "time": "2026-11-05T13:00:07Z",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeG1XdzQzUV9KUEo2dWRfaFpvYi1ZbkRHaGF1bTJxdV9kQU9kY2EwUzZXX3pwQjY5OEtjNnk4TTczemQyX0k1MDJMeGdvODRkRXNsSGFjR2JiWWs4NE9SdTNGbFJBVDNzbF9GSXdMeGcwYXo1bm1PWGMxSmNuaTZDZzFmNUJ6ZmhuaW5JeFlRbDJaeVNVbUZWUmdXLW1YTzRfV3QzdE9MMS01dXpWcXZjalJUNXBuSV9iZ3g4VTJEeFdQdXctaDVlM1J3MHFOcjhfZ0pYbVBoRDR3ZjB4?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Gold Holds Above $4,000 as Dollar, Yields Fall on Midterm Result",
-   "source": "Bloomberg.com",
-   "time": "2026-11-05T12:59:48Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVVJrRWVPZ19DM1pLb3UzNEtBc0hseHNtMUY4RTRTRDdMb3Fnb19MM200Q05YNG8yN1VFYURtNjdqTE1EQUgxZG41R3ZQa0t3Z2JpQjFYUEY4VVlhLVk2dzR0dmhaaWdlUmdINE9Cb1cwRVdpbHJNTGZsejlmYkluVmdOSEZEVEpudmFZNENkZzFWSnFELUViV2NNTGUzUHBuMU9Wa3dpclhyZ2hPVUJTVGV4cw?oc=5",
-   "tags": [
-    "USD",
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "What the Democratic midterms sweep changes for U.S.-China relations",
-   "source": "CNBC",
-   "time": "2026-11-05T12:57:10Z",
-   "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "investingLive European news wrap: BoE raises bank rate to 4.00% as expected",
-   "source": "ForexLive",
-   "time": "2026-11-05T12:53:43Z",
-   "link": "https://investinglive.com/news/investinglive-european-news-wrap-boe-raises-bank-rate-to-4-00-as-expected/",
-   "tags": [
-    "CENTRAL_BANK"
-   ]
-  },
-  {
-   "title": "Central Banks Accelerated Gold Buying in Third Quarter",
-   "source": "WSJ",
-   "time": "2026-11-05T12:49:18Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNE5ITWFudmVrYUgyekVzeUp1YkVlYTBkY0pZbTJSUFhraGRFRXdpczRWODFrOUpRRHQwU3VlbmJnNGk1ekV3MUpfOFJoa2liOEEtNEZDSEZQZDlUWENqa1NlaHJjZ25VYTNtMGVDQ2kxa3hJV25pZkxjTUJKandqeUgyUmJCaGpJWU8yaHBMQ2l4M19qRnFPYS1SSEZTMlF6ZFBubmRPMDgxUDFzbmtiaA?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "CENTRAL_BANK",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Democrats’ sweep triggers countdown to end Iran war, and dooms US-Israel ties under Netanyahu",
-   "source": "The Times of Israel",
-   "time": "2026-11-05T12:45:00Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObGJkYVlRd2VGbU9DWERpcmtzN014SzZsQzdTSVVkR3lPUXZQLXRzU2l4eUNsTlRickJLTHpkM3l4MVlYQkRpWGNfRDhHMmVxZ0xEc2QtZjdVUVYxMUZpMnhfQVJRS2lWUTYtcDd1Ym5MNElvbEFrdExvSnJ6S2stMHdPbmVxaHFlY3pvaDlHTm9PVi1pckFsWXNDQXJrbERueDVBOVB6NXF4ZjI1cEp4eHd0ekJQazBodThWTjVzd9IBxAFBVV95cUxQNm52OG93WktmaGhGUEtsMDExYWY2QVp5N2tUOUtGUFVlWC1BZzRVTzJLNmlPS1NOR245Tzlvc0E4UjdlLUlSTDFKWTFmS3hSLVRhMGJ3YVdjZmFRX19MSDRTQWI1SW96VnhoU3FDUDNTX083cHU2dnNkN1JsTnVBRDRWeVpLdmFEb1RDSl9LWXFiV0lqNTkxTl9NX0pTcUlxVEtBWVVXVll0Y2tWZ2x0TF8zeDNHaFI4VzM4ZXVJMnFvUWV1?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Amazon and Uber Want to Bring You Your Next Meal. The Delivery Turf War Is Escalating.",
-   "source": "Barron's",
-   "time": "2026-11-05T12:43:00Z",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FSVJGZXdHWWtpekdZUWxfeW5jSTJoYzJNS3NsUnJxWENSRExxcmRES1NNVmJ4VDVEMlNmZGZoU3lFQ2ZuLUVFQ3JHX3RKbmlKS0RobkhaZ0xRd2prbkFHRndnQkZEaGdsSTI0MFpNLTN1eGRvQXdwSTJGUnk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
-   "source": "CNBC",
-   "time": "2026-11-05T12:37:57Z",
-   "link": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
-   "tags": [
-    "RATES",
-    "INFLATION",
-    "GEOPOLITICS",
-    "CENTRAL_BANK"
-   ]
-  },
-  {
-   "title": "Interest rates could go ‘significantly higher’ if oil prices keep climbing — even if the Iran war ends soon",
-   "source": "MarketWatch",
-   "time": "2026-11-05T12:33:00Z",
-   "link": "https://www.marketwatch.com/story/interest-rates-could-go-significantly-higher-if-oil-prices-keep-climbing-even-if-the-iran-war-ends-soon-e3493498?mod=mw_rss_topstories",
-   "tags": [
-    "RATES",
-    "GEOPOLITICS",
-    "OIL"
    ]
   }
  ],
