@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T12:00:28Z",
+ "generatedAt": "2026-11-05T12:28:49Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,12 +57,12 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
-   "items": 46,
-   "kept": 4
+   "items": 47,
+   "kept": 6
   },
   "bbc_world": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 11
+   "kept": 10
   },
   "whitehouse": {
    "http": 200,
@@ -81,32 +81,32 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 26,
+   "items": 25,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 12,
+   "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 27,
+   "items": 30,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 55,
+   "items": 56,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 9,
+   "kept": 9
   },
   "gn_yields": {
    "http": 200,
-   "items": 25,
+   "items": 27,
    "kept": 12
   },
   "gn_oil": {
@@ -126,6 +126,95 @@
  },
  "items": [
   {
+   "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+   "source": "CNBC",
+   "time": "2026-11-05T12:27:01Z",
+   "link": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+   "tags": [
+    "RATES",
+    "INFLATION",
+    "GEOPOLITICS",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Interest rates hiked to 4% in first increase in over three years",
+   "source": "BBC",
+   "time": "2026-11-05T12:17:47Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "RATES"
+   ]
+  },
+  {
+   "title": "Midterms force a reckoning on Iran war",
+   "source": "The Hill",
+   "time": "2026-11-05T12:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdWZXTElaT1FMNFBVeEd0WWl4YmZqYTBWcm5BMW9qeDJTWUFKTFQxT3NsVlhrZTk3cGxSZW1YZS1JSnoyNk5zUXJ5TjVXeXRhZnpQZ2drLTlrSFNVanh0cmpuc2lqa0NYd2kyNGRRZFR1b1N4b0pja1NfcFVjUVlxN3ZWN21najRLZ2xWdGRBdlBLbEZGSG8yWGEwTUxmVlhDb1dVeUJvc2ZlRTJ2bmc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold market holding solid gains even as BoE raises interest rates due to rising inflation",
+   "source": "Kitco",
+   "time": "2026-11-05T12:12:03Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNXFiWE5sMHpSWTZBdVpnb0F4X3IyQTlKS2V2bzl5anpxTTJxYjFCeEFlM3hFeldYd3RHNFVfaHJ6WXpUeFFraVdYaklEYVlMajlHWF92WGEtMUpkYWpnYzRqdUJEOWRGRUotdlpkVmhUdGl0eS11MmMwcENSWVN5WTU4U1J5Z3g4WDkydmpuYjBqc2F2eGx1eFlXcHV6WTBWOVdpVGxkQk53a0c1SE13N1EwMUQ3WnRPc20w?oc=5",
+   "tags": [
+    "RATES",
+    "INFLATION",
+    "CENTRAL_BANK",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Three ways the interest rate rise could affect you",
+   "source": "BBC",
+   "time": "2026-11-05T12:11:04Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "RATES"
+   ]
+  },
+  {
+   "title": "How the Federal Reserve Emerged as a Winner From the US Election",
+   "source": "Bloomberg.com",
+   "time": "2026-11-05T12:09:40Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZEloOTdwdE5iVEI5RXl3LXNHRmlteHJzaUF1cjJOMGhwOVpUMU1Ua1pqTF9kaFdFUW00UlhKS2pud3NWdHRNdzBxbjdLTG9IUG5STV9Od3p1RDZna1locmNyQ0VtNlBTTmYtd0NyaFl0U3k5RG9temUtdzhIUVdzUTZ1SmhpdkJadFA3QW9jNVA4OWVyUGdzMmRTRVVjcTVDWktBeTNMTm9TblkxckRDZkdLUlFjYmFkd1E?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Bank of England Raises Rates for First Time Since Start of Iran War",
+   "source": "WSJ",
+   "time": "2026-11-05T12:02:51Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTWxNSDBnNUpaa2lla2pMTld5RWlaTG1JWFZQaGFZeV9BWnA4LWFXV0NIUFVhUkFZemNGTUVfLXVFUUtOaVNFSXpZU19NVEFvbjU0djdzdXg4cDEzQ2IyWkQxZ1o0YjZzOFNkaUlvc095aTVYYWhnWUtXYWt0YktTcm4yZ1ZDUXJ4N2F2N0w3QjBwSmVYdDRISzhyZE1ldkRRdDh4U2p1QzhtQ3E1X0RHZmVySDRVNWVlXzl3SA?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Houthi attacks prompt Saudi Yanbu warnings as missile intercepted near Medina",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-05T12:01:44Z",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nbnBCMFl6RVVHRERiTVZ3bG51UzVRazRFSjI1MmY2N1VrdzNrcEg2ZmpMTFFSb0tSWFRieEFaeXhiNUJuV2p6Sl9nOG1fTVZuUW9WdXY2WkFRU2d3?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "China ready to expand US farm imports – on 1 condition",
+   "source": "South China Morning Post",
+   "time": "2026-11-05T12:00:21Z",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOU5wSHZoRmtZT3ZwREIwYWVBQzZYQmR6UDd1Z0hpSUdPM3lCWURJU19ITG54dkQzbW54TjlmaW8tenFxbjQ3Vnc0UkpqRmlvQ295YjBmYnhLSk1NR3VvNkdfSkxJc3ZtZWxmZ1ZzcDcza1ZBVER6eGdhdnJNQnltc1lmWU02MzdlWHZjTXNja0FMdERFYUlkeXR1WHN4dWRqeHI2c1NGX3phX0JKZFRTNkVoSmtsRUQydGVQdzR5VnN5VmFBYjBSVVpTOTBxR1lrLXhLclBVY0fSAdgBQVVfeXFMT2VuYl9iTGJ5Um9ZcXFmczdEUHdkWENMRDY5RlhKVDZTbmJkWlB0UXRWemdKQU1Eb09vbDc0MWx6YmtLUUFlLUpYOUc5QnBtaWpDY3hWdTJ5aEN2Tm5LRXVkSkFZS0ZkVGN3TnhrWVlFREZ6VWVjcWxKV25vVkNUOHMxOEp1Ul9DdG5hRm1vR0dSNDBYck1JNGl5Q01ZdEZuYl9EN0NDeGpQMHRNel9NRzZvSHBrVDY1cUVKNEh3MW85eG1NVHh5b1JGdEc5QWo4b2piRTJPZU9X?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
    "title": "US Midterm Elections Pressure Trump to End Iran War",
    "source": "Barron's",
    "time": "2026-11-05T11:55:00Z",
@@ -141,6 +230,17 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sVjVzVldfeXFzd3hOMDN6cGh2SGtnV1ViNjJUVXJnQkQxYkp6Q1ppRTFOSFVOeXhnVWJHcXNBcG02UGlBVmtDWVUxRGlELUxrRW42RU8yV25IdV9P?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold gains amid softer dollar, Treasury yields after U.S. midterms By Investing.com",
+   "source": "Investing.com India",
+   "time": "2026-11-05T11:50:40Z",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbXhiRC1Uc29OY3RVQU5HQmI5Y3FGMU1KQW45TWVkdWlHVlRtMnZrZVhDdFFMRGhGMm1XeTY3eFVPc195WDdCM1EzaHhmMm9PWndRb2NtZ3dpelhRQWhqRENlUUdFbWxfaEFla1EzRWdrYWJ4NlNkMjcxeFJGOVhOVFo1LWtqZDdFSEE5UWw1ZVB2a2tFMk41UHNhT3c1azgxOEhfellORUpVQmFaaUQxaU5NMEQ5c2x4SmQ4Mk4yM09IUU5lVEJIbg?oc=5",
+   "tags": [
+    "USD",
+    "YIELDS",
+    "GOLD"
    ]
   },
   {
@@ -169,6 +269,25 @@
    "link": "https://www.cnbc.com/2026/11/05/deoleo-olive-oil-takeover-dcoop-acesur.html",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "Oil rises as investors weigh uncertainties around Iran war By Reuters",
+   "source": "Investing.com",
+   "time": "2026-11-05T11:36:56Z",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN3Fvc2VHR3VaN053bDIyNEdzRUN3anJ2ejJnQjZFWXJ1eE4tNnRzdTQwR1RXTXN3Z3U5RTZhSzNVVG81QWRyVm94ajhhbGpjcDFsSk4xd3ZjR3hVOUpoYl9WYWJEcVpvZ3REVUVuQlhWZHczdEtRV0VxSnduaGpqaHZYcXgtYm5KZGkxQzlhaWJZTTRxaTIyODhaWXlzM1haY0R6Ujh5WXplbUhQaU5NellaVVdkU0lqR2ZMQ29vRjdpcWczcm9KVlVEdlFYbEZBelE?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Palantir harvests battlefield data that Ukraine pays for ‘with blood’",
+   "source": "Al Jazeera",
+   "time": "2026-11-05T11:34:29Z",
+   "link": "https://www.aljazeera.com/news/2026/11/5/palantir-mines-battlefield-intelligence-but-is-ukraine-paying-with-blood?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -293,6 +412,15 @@
    ]
   },
   {
+   "title": "Iran strikes kept quiet during midterm homestretch set off worries on transparency",
+   "source": "The Hill",
+   "time": "2026-11-05T11:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX1hZVUVqQzk0Vl9MZlR6djBNNkM4aFF4TXYyOFkzVkQtZlFWWHBjMzhfWmZiVkFGc1dNY2lpTWZValdKc3BkdDdOUlFQMUpBRlBmcW5pWDk5TDNjeDVxcVUyQmNFNURWUGpqcllqekZRbmU0SmFNdGE4a0lOdU1ZN3V4RFRkZF85anNz0gGQAUFVX3lxTFBsLWZrLWxEcXEzSF9rZnNzWG40MzhGNFV2QzE2Ym95Sy1TMV9PUVhoME03RTRLTi10WWN5YnNfeDluQWtMNDZKRG42YUJoVWlhNGp1WEFIYjFhMnliVW02b3ZPa2o4WHB3bmlhR1BaZHBXbzhobjFocC1XUmFWN1Y3cG12b04zYl9oOWI0cUdyVA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Vietnam seeks Russia’s help for its nuclear ambition. Will sanctions stall it?",
    "source": "South China Morning Post",
    "time": "2026-11-05T10:59:48Z",
@@ -346,6 +474,15 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2hfQWJDNnFHaDIya3JhZmdid090dlZMZHNZVk45UmYwTlRyWTFjM3F3LTZKSjRNV0ZSTTA0eXlOSGtvbU54cklqSnZiTmJHYmJtWHJWUzBBTHBnNDJMM05vRURrZHVsNlBXaWdTRElzX3ROY3VnYnZpak13b3VyU0tJd2RLNXpNU0hZNDlSQUFmaUg2cjdCY1BmSDUxVWs4RlVOMlhVUnM3V084VVNyLWNn?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Jewellery sales volumes to fall 4-6% in FY27, but revenue may rise up to 23% on higher gold prices: Crisil",
+   "source": "TradingView",
+   "time": "2026-11-05T10:37:11Z",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcWI5NDJ3cHF4U29ta2xlLW5PRXdWWkJZUzRNY1draUowOE52a0NTSEpuYTNucGZfQ0FHMHZDNnZDNmgzY3VrWm5rOThiVkdBZ0RpcXMtbUU0cEZqYTFrVEtvcUlSNUlJcldyaXFNbF9uUnBjTGZXTklpMHRoQjZkNmFlbTFNaWJxM0lJV2xrZGxqdFZteXZXaGtLT1RwLS1Gdm1lYzYybTFIY3VzUllSWlR2QTlUZHlWaWp6V3pRVDdUWC1iZVdUVWRfa1U5RUJzanNBTk9KRnRrWF93NWxIREwyUGNHUXZ2UV90SVZhVTcxc1FZLWp6UQ?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -547,142 +684,6 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwRFU3SzVLNDJOd1p3SDRNMkE0QjBMRms2d1RJaDZEMlZaSGQzUUN1Qjc4eW90Z2NDTmZITmh0QnZIbU1uc3hlUFRZV2NvYTRkQ2I1eHZ3dGpJSVFQRUpWZ1YycWJZYy1iZnZzdTNiQ0x2Wi1WQ2RkNmpuUm1vd9IBgwFBVV95cUxNNHdYYnNDYV9CX1JxUEl4bGJBSmtGSXNGTWN0NURsdkpHRHZqcVBmUGhHWUxlZ19ab0VfdjFiTjIwZkpCX3ZZaWVSNXdLUWY3eU43ekw1N0Z2WC1qWVYxUHFKZ3Z1Y01ON1B6N1Y5RlVoNUJWbmZ6YjZQN1B0ZTk1RjNhQQ?oc=5",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "Gold hits 2-week high as dollar, oil, yields fall after US midterms",
-   "source": "Reuters",
-   "time": "2026-11-05T09:37:34Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGw2bTVBSnBUN1BZcDhwQ0dVSmFIUVhDdGZLazVPNnV2NG5iYkVxXzg5QmRyY21IOWZOcFVRVXJBSU5PT1pXQWh3UHVmVWxhSm15bVh2NTVQZzJGVHpPT2dSSHc2NXlaLUYyQmVGX24xdW84cVN2NXpGcUhGZ0xrNDZSODR1NDNtNW9vc2JJSUVRcGZIMkprZHNONm4wN2VxUzdBX3B1NWxxcDBsWjNnZ05tUzdMRHJNaEJja2oxNC1QLWQt?oc=5",
-   "tags": [
-    "USD",
-    "YIELDS",
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Joshua Wong jailed for 10 years over bid to instigate sanctions on Beijing, Hong Kong",
-   "source": "South China Morning Post",
-   "time": "2026-11-05T09:35:14Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORDl1ZWdhbGxtOUplcG11TEs0NXdQUGxNdEY5Y2lvdEF2ajlRTklNUUFhUjNXcW9CVjdUOFdlemZULTRjR2FuY1ZmREpOb3lIZXRDdWdDTktuVk9JTk5xSzJNelQ2a0FUd19RWDYxOHc1TDRPaUJ2enNxLVgtaXRfcG1BSHkwMDVkRDB3RUlLWEY2eEhNbnJUTTZVaFFUdVY2TU5tc1JkTzNZYnR3ci1IZ0x1Ml92dVpIY2Rz?oc=5",
-   "tags": [
-    "SANCTIONS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "WTI Price Forecast: Clinging to a key support at the 200-day SMA near $86.00",
-   "source": "FXStreet",
-   "time": "2026-11-05T09:32:33Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2xlM2hpMEhuNkJLajNmWGs4anZuLXh3YTJGRUpWUHBUWHY4c09ZR1ZuVXJPYjVqS0hZVHMwaEUwN0ctNnRZQVBna3N3T0g1M1pELVBScGJYdHBnalFkeHZRd0NyR2lXYmVxRUVNMUxoME5xUUpSNzFEUVFfQkdfNk5Ba1BHTXAyWjBYMGNNU3NHVW5BRERJQnA0Mi1oRFBOZVhSeXFxTFFrelM1RVdmcWdjdW9hQ3M?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "The Federal Reserve's Initial November Inflation Forecast Has Arrived, and Things Are Getting Downright Ugly for Wall Street",
-   "source": "Yahoo Finance",
-   "time": "2026-11-05T09:26:01Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVFVfQVktUmNubUdnTm5YYWNwa2s4ZzRLSWxpYnZDRDJIaklIQmdFUnNnX2tOQ2plOXlXeG9BcTVpQkw5dXJrdEQ5VEJWMy0wT0h1dF9HTkdmcUdOY1RsbEd5b19waDdacG13RnRWTmtNYk9pdWFOOGZTWGhmUzJ0Y1RVWUlucE5od2xRcDB0dWFBeVN0dV9ucHlrMmh4Y1ZwV3RwUy04RHBpdmda?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall",
-   "source": "Reuters",
-   "time": "2026-11-05T09:24:59Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzNLUjBwZFJZSVE0U0NxbTVYbVotU0R1ak1zb2g1LTR2a0MtYkxVcGZFOFhZNkcza1hhTlpobGN4bU1hVmZhUGs5UFk5TC1kYWdXS181NHdZZlJGdEJMc0NNcHl5dndpaHo2SXpJcUxjeHkwVkZQTkhBX2xVVlg0eWNkZXRkcGx6NEpRQlFiLWtXdElVcllTWHhGZWxvUEREWXEzM2RocjFjbXBIbm1wOVhUSkEzOGFCb3ZMZ21WdElEU3l3em15cGZtZkdUQQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "The 19 People in the Room When the Fed Sets Interest Rates",
-   "source": "WSJ",
-   "time": "2026-11-05T09:14:07Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zQTh2T0ZUUndUVjdhNGpfVm55LW9ZajNTYXM4bWpiTjVSSXlKckJEekdyOWtjM1d0NG5XWEJBTUZWWnE2aTNqNWpCaUt6blVOMDVvbnNuMmNTSDRiMFczRTRITG9qV2NGS3pON1VwX3VhQmVjLTVZZzJVSDZKdzQ?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
-   "source": "Al Jazeera",
-   "time": "2026-11-05T09:13:35Z",
-   "link": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "India in final-stage talks to expand missile sale to Philippines, sources say",
-   "source": "Reuters",
-   "time": "2026-11-05T09:01:59Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV000QWU5a0lPSXVaZDVhb0pJOXkzUjN0MWVXMVNZemNfS2E3SFhXMEdwNzVyLWw5UGU4dlFaYzVlUzkwQ0RGUlgxZUg1ZEJQTWd0aDdLWlpza2hZR1NMZzRJTEV5U1U2cjZ3bnVpZUtjc3lKdzZKd3dDY2VscFk1ejhiTHNJYWIxdm01SV85YzBxU0dnWHB6c1ROd01wZURpSE5MQnVLVThUbnlRSXNHR0dDZWIzSmRjRXRjZWFuTQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil rises as investors weigh risk of Iran war escalation By Reuters",
-   "source": "Investing.com",
-   "time": "2026-11-05T08:59:57Z",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN3Fvc2VHR3VaN053bDIyNEdzRUN3anJ2ejJnQjZFWXJ1eE4tNnRzdTQwR1RXTXN3Z3U5RTZhSzNVVG81QWRyVm94ajhhbGpjcDFsSk4xd3ZjR3hVOUpoYl9WYWJEcVpvZ3REVUVuQlhWZHczdEtRV0VxSnduaGpqaHZYcXgtYm5KZGkxQzlhaWJZTTRxaTIyODhaWXlzM1haY0R6Ujh5WXplbUhQaU5NellaVVdkU0lqR2ZMQ29vRjdpcWczcm9KVlVEdlFYbEZBelE?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "ArcelorMittal Says Europe’s Steel Tariffs Are Boosting Profits",
-   "source": "WSJ",
-   "time": "2026-11-05T08:58:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0xfNmtoVDFyN3lxWTAzZ3hRSWV0aVRENWJTWFdCWG9XcUd0V1BlelpOMTZFMG9zbEdEQVpPaTlNQ1BWYUZuWXZxVHVLRE91bVRjdkpIY0VNX2xkZFQ5R29RNUFhRUc5b3o2dlFZTFo1OEpoSjN5cWZ5Qk5NQ2ZKYUNiSE5ramJtYzliaTAwejB4a3RMa21sdV9WWTJEVEZpazFnTVVlVUd1VGVtbzQ0Q1I4OXBWZw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Carney’s US Trade Minister Warns Blue Wave Didn’t Wipe Out Tariff War",
-   "source": "Bloomberg.com",
-   "time": "2026-11-05T08:49:21Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOclhLOHZZd1dNZG1nY3Npd0RRN0QxS3dvOWxYX1V0SXd2Y1dNVEY0MTYtMjlYRTVJUTBveVRWNVZfbjlxNDlILV95Wi1OdTFDdlJxZ1VHVno5T01fWUZDanNRT29sX0ZaOGlOZGxzX2UwS1otZUkwVnZtQy1vd3hSemh2NTJPdkxIVUJ4cml2ZFpJX3FoNVdpTGd0RVZvdzRzU3dTUFlWZXVKMVBOWk85UEJHMGtrWlpLdktkNzUtSFRuRnFJc28xd09LYlFUQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Oil Prices Continue to Fall as Democratic Sweep Shakes Energy Markets",
-   "source": "Investing.com",
-   "time": "2026-11-05T08:39:00Z",
-   "link": "https://www.investing.com/analysis/oil-prices-continue-to-fall-as-democratic-sweep-shakes-energy-markets-200690911",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Gold Price Forecast: US-Iran Peace Hopes Fuel Rally as Oil Plunges",
-   "source": "FXEmpire",
-   "time": "2026-11-05T08:34:02Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRDRNYU9KTzgyaVNWS2lKcE1HNkdNT1RwbkxxbmZvZ1FCSzhoZ1E5SDBsUVFYR21UQlFHYjBNcWJYZGRJcnFTQTNCN1RHM05nNnNsV0NwSFBIb2Zkb3BGYUF6eVJSNWZiWTd1T3J0RG1MSUc2aU5IU0dFTzlaRmsyLUVJcGJlZGJrcW5pMUxpZXRwaGhySTR4Vk1MY29lc2dlaXZUbjUxTTNOSzVKQUtFcnB2bEhFVVk?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold vs silver this Dhanteras: Price outlook, buying trends and key risks",
-   "source": "CNBC TV18",
-   "time": "2026-11-05T08:32:17Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaGx1Si1TaUtJRkVDc2loNVlBMW9SUkFKTFVoT2pqc0JQbnpJbkpaMHdSWEJOZ2ozaklEWXpuemJDanhFeC1PVmdWYU9UNHV5eUR3dkUwb2dGY0EzVjdIdHdjUkpWNnNZdWJqUGhJTjRLWkRoamtvenJySVNvREpyUUFzOXpJUFRQRlhiOXZQZExQeUEtSGFCWTdSbEVybGM1LTc1SUZnNUNTeHlGV245OE8wdzI4WkM3eEcyWdIBwgFBVV95cUxPUGVIQVpZMDNyRGZLRFNtMFl6dnlCM0Vhc2FQcEthODRrOW9oM1hVX0JEN0FoRDRrcmZwVzRTcVlqb3pXMmRpZjNZSjFsODl5dHNrUzNJUnBYaENBbTBPUUxpQjRZZDJWT0R5RkJIVU0zVHp3bkhhVnJfdkt6WWw2NkFZc0tMY1VwcWtmM2VaNVZNSEk3RURrZ0RMeFRudmxUN3VYMlQzaGpuQkdkZ3hCVDgzbWR0bUZJcVM3T3R2b2M1Zw?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
