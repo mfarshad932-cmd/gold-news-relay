@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T14:22:07Z",
+ "generatedAt": "2026-11-05T14:50:31Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -80,44 +80,52 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 18,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_fed": {
-   "http": 200,
-   "items": 16,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 25,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 53,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 9,
-   "kept": 9
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 23,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
-   "items": 4,
-   "kept": 4
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 5,
-   "kept": 5
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +133,43 @@
   }
  },
  "items": [
+  {
+   "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
+   "source": "CNBC",
+   "time": "2026-11-05T14:38:28Z",
+   "link": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "Interest rates hiked to 4% in first increase in over three years",
+   "source": "BBC",
+   "time": "2026-11-05T14:36:26Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "RATES"
+   ]
+  },
+  {
+   "title": "World's largest olive oil company plummets 20% after rivals agree to takeover deal",
+   "source": "CNBC",
+   "time": "2026-11-05T14:25:23Z",
+   "link": "https://www.cnbc.com/2026/11/05/deoleo-olive-oil-takeover-dcoop-acesur.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Joint List says it will back Eisenkot to form Israel’s next government",
+   "source": "Al Jazeera",
+   "time": "2026-11-05T14:15:52Z",
+   "link": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "What does the raise in interest rates mean?",
    "source": "BBC",
@@ -217,15 +262,6 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW1ybXNFaVdKR3V2UVVoOENIVkNscGpuVHhqZjEtR19zNVVwdFRzOFdBM1Vhc3dKcTVkZTRRUWJ2RUpUYnk4eUctZndfbzh2cDhLZlJIel92b3dTeFF4Wi0xOVZRSnVjNndUWk51XzZ1cWVJVlJfRml4NGVIV1FpTA?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "World's largest olive oil company plummets 20% after rivals agree to takeover deal",
-   "source": "CNBC",
-   "time": "2026-11-05T13:45:49Z",
-   "link": "https://www.cnbc.com/2026/11/05/deoleo-olive-oil-takeover-dcoop-acesur.html",
-   "tags": [
-    "OIL"
    ]
   },
   {
@@ -347,15 +383,6 @@
    "link": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Interest rates hiked to 4% in first increase in over three years",
-   "source": "BBC",
-   "time": "2026-11-05T13:04:36Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "RATES"
    ]
   },
   {
@@ -674,25 +701,6 @@
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWW9fMkFvUFRUNG94X0ktaFJhN3VacnVHek5FUENKOVZkc1E3WEh2aTJFajFBTDRqQ3hieWF5TnJITkZ6ZnlNcVB1dmpGSkNuMU9JeUxiYThCNV8zRVRWaV9YanVLVUx2OXloWFM0NTlVb0FVaU9IMmIzT0NkdVU4Y0JIVUp5X2dWZVkzQXFraDRRUVNTS1hYVjJsTnJoeGlfTl9aOTRoT2lqbFRzMExySXNOX29Ec01xTFNfLXVzbGNCOW1JTnY3SFVhMjh2SGlEbFd5QQ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "North Korea, on Busiest Missile-Testing Spree in Years, Rebuffs Trump Diplomacy",
-   "source": "WSJ",
-   "time": "2026-11-05T11:18:49Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaERXOEtSUVd1MlZvcmMwSDRxYzR3QWptVW0tTWpxNHNrLWpFb2Z5NkZxbWpBM3FVRVBvOGxSd3htRjByRC1MdWFGaURRYjl0Y29jWVF2QXZfWFZKSkxUNkh4YXhuZWtFOEZsc1VGWW5YdWthSmF0aHJObVR0c1lrZDJrbTVBWE5WakJsUml4anE2QzdRT0c1WlE3eFkyaEJwRUpnc1dRN1dsR2N3MGtlOHdrbURFbnlZ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed’s Rate Hold Sends Bond Yields in Different Directions",
-   "source": "WSJ",
-   "time": "2026-11-05T11:17:11Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzhGN0RDSl9wZ0hDWi1fcGFTRnJHUTAzeEhUY1BZeVFJU1ZyaVFPdDkzNm9sVTVmcm9pSkxRWjlTOHRpSjlPNmxUb0pPaHBN?oc=5",
-   "tags": [
-    "FED",
-    "YIELDS"
    ]
   }
  ],
