@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T08:46:16Z",
+ "generatedAt": "2026-11-06T09:14:37Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -21,7 +21,7 @@
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 2
+   "kept": 3
   },
   "bea": {
    "http": 200,
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 8
   },
   "investing_commodities": {
    "http": 200,
@@ -66,7 +66,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 24,
+   "items": 22,
    "kept": 3
   },
   "aljazeera": {
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 43,
+   "items": 44,
    "kept": 12
   },
   "gn_sanctions": {
@@ -111,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "fed_calendar": {
    "http": 200,
@@ -126,13 +126,41 @@
  },
  "items": [
   {
+   "title": "ECB publishes consolidated banking data for end-June 2026",
+   "source": "ECB",
+   "time": "2026-11-06T09:00:00Z",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
+   "tags": [
+    "ECB"
+   ]
+  },
+  {
    "title": "UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’",
    "source": "Al Jazeera",
-   "time": "2026-11-06T08:32:57Z",
-   "link": "https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm?traffic_source=rss",
+   "time": "2026-11-06T08:41:30Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlhSSm1fRk1ncTdNLVlWRzltV0pWeGd3VFU3V3RvWUdjWnVRQTNGdzlkX2FfNTN0TVMxV1hqOFVFelFTVkYyMERVX0E2ZzZtNmh3S3hmUXhkSmFIZXI2RzNVbF9MZXRaZV9WY3ZlQnRYVlZPbnFpUi1aYWNMZnktNnlGbDFPT0ZQcHZ5SHdsVHI1TkJQQ05XckFKM0RKd0ozWFRiTHNsNkRUR0RBeHBZRms1aUhlLXJK0gG-AUFVX3lxTE9laUh2ODA2a3F6OWo0MDZiVVlUYmNZREpqLUhlRV92SHZJVi1DWG80NnR4N1VXeGdQdF9XeGIwU19kcDlJU0x5MU93RkwzWDFnRnVkQ3ZqUFJ3MVYwTnp4QnNtRTU4RFFkbG1TOWNGUkV2eUxlTE13RGJodmd6Q1ZHY1RCZWFHZlMwS0x5OG5nZ0VINHJuU1FlUHJVUzFTSGpIa19PTDEtaDBDZU53TlAtekZxTGo1THZEY2pIN0E?oc=5",
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "WTI holds gains around $90.50 on Middle East supply risks despite steep weekly loss",
+   "source": "FXStreet",
+   "time": "2026-11-06T08:06:18Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVBOZzhrRmZ0S1lIUjN1UjJrTHpsSnVLWUNYQ3d3Y2YwMEVIT3NROFdGR2tHbGdQR3lScGFxaVlseVNfT0JjWDBQbF9IckJDN1FoamUwTlM4ZFd1T05GWTdDQkN0UUVYQ1ItYzVlcE9KdE82dVVpY0ZzUnBJZ1hmTmE5N3ptWENjekU3OEpteUxGSWV5M29FcWVyaGRMQ3V3Mm01V1JXc2lMZ3R0SDJ6SVROMVR5ckV5Y1NtaVhFcEdWdw?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Goldman lowers year-end gold price forecast on hawkish Fed shift",
+   "source": "Investing.com",
+   "time": "2026-11-06T07:57:02Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzl2eThFLVlBWHhOSl9FVk51Z0h2NXhZNXNRTVNlMi0takFQNThCYmY2ekl0dzRXdkU3MkVmcTdPdDBlRWE5N2Y3bG01SFE0dG43LW1CMGlmYmJDSkphX21EZ0M2SlBBUU9PNU81LWk0MXdlR013dGdZakVrUERvWi1SekhhbE10dGhrVW50OTk5d2pCWmRBcFpxMWZaM3Z3OG5KYmhVWV80YzJpSzBkZ2tEbVhKTjEwR3Zv?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
    ]
   },
   {
@@ -142,16 +170,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Goldman lowers year-end gold price forecast on hawkish Fed shift",
-   "source": "Investing.com UK",
-   "time": "2026-11-06T07:54:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWWxFMzc5T3RqX0JLUWtXM2VuczVvWW5xN0xudTFzRjlIMWdLcDhPVExmYmhLbXpaNXdtZHJndEdiZUZQNmI0cnpMTzVGRlhQa25RajRsOUlYeUdYa0Vhd2djeHgwcGhiZlQwSG1QanVZN0NhUnAxSk4xVktmd1lIazNrNU0wR1F2Nnh6MkNBM2tPdEo2UEV3MVJNYktkMkZqQTY4bU94MEZpZ1IxV1dXQjFxY1pqVUNmamc?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
    ]
   },
   {
@@ -311,6 +329,15 @@
    ]
   },
   {
+   "title": "Trump blames Iran war for GOP losses in midterms",
+   "source": "NBC News",
+   "time": "2026-11-06T05:40:19Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0hLR3YzZmF4VmhSV2F5NUI1aUhFVVQza3E1cGFDRnJaZjIwOVFGdnVBM3RjMEZTaEV1T0M3NFNpSmNqWnp1ZHNTeExWa2dGMVVZakpnMzdKR05vLW5tUkM0S0x5LUh6VXZVVHJpX1Jwa3UzS0tIdWxFYTAzYkNTZEM3N0lNUFJuN2VaNzZSekliSDUySVdCR2lEU01ycXM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "The Gulf Faces Three Choices It Can No Longer Avoid",
    "source": "Bloomberg.com",
    "time": "2026-11-06T05:30:00Z",
@@ -373,15 +400,6 @@
    "link": "https://www.investing.com/analysis/european-gas-prices-drop-on-iran-deal-hopes-after-us-midterms-200690972",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil Prices Rebound Sharply After Brutal Midweek Rout",
-   "source": "Investing.com",
-   "time": "2026-11-06T05:11:00Z",
-   "link": "https://www.investing.com/analysis/oil-prices-rebound-sharply-after-brutal-midweek-rout-200690971",
-   "tags": [
-    "OIL"
    ]
   },
   {
@@ -529,7 +547,7 @@
    ]
   },
   {
-   "title": "Gold drops over 1% on higher oil prices; US payrolls data in focus",
+   "title": "Gold drops 1% on higher oil prices; US payrolls data in focus",
    "source": "Reuters",
    "time": "2026-11-06T03:46:00Z",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVNBUlY0RkQ3Vm5qcDFmbS12Nlo0Wjd4RWNEWkROOFRSX0hha1VobWJkTW82YTM1QzNMUXlzX1V5bktiSHJDYklFR2ZDUnN4aEhGM3U0UmlRT3pDcjVFRkR5ak9IZ1NVbG4wempaX1Y0R2JXb0U2THRLcE80d0l1NFppQ3l5b2M4c3RQZU1sS1RNRHdiYmFsYmw0czRoUnVJRVJLNTl0VmVNODg3NWVR?oc=5",
@@ -578,21 +596,21 @@
    ]
   },
   {
+   "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
+   "source": "Kitco",
+   "time": "2026-11-06T03:00:52Z",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Live Q&A: How Trump’s Midterms Defeat Affects Asia, From Markets Rout to Tariffs",
    "source": "Bloomberg.com",
    "time": "2026-11-06T02:30:00Z",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOTlNZzdPcThZUFFkRDE4NkZTMUEzTTd6SEI2N0I5LUZpTEFDU1pqS3NuYUpsa1lBdVNZenp0bmVjQ3VnTWp4Ymsxb2ZWTS1lYmpldW9LaXZWMElReVA3ZGNBYXR5LXRjTWlEOUhxMnlPTURyQi03ZjJXTjFka01sMHptZGRhSTYwVU01V2lsbVNBQ0dsYUo3a2laNUVEMUFzWDlCUnN0SEF6d2dSTVhYaG5GdFBZVmF3M1EyZVU5MUx2UVBsWHdJ?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
-   "source": "Kitco",
-   "time": "2026-11-06T02:28:16Z",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
-   "tags": [
-    "GOLD"
    ]
   },
   {
@@ -667,24 +685,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZEd3bkNrZXU1VFduVWNIZlI1REFocVZTR2trZEFncE4yN003OVc3dW91UjMzNUdwejZSLXBNTlpZcFd0TVFtamY2RGVFT1BRcy1HMjlQbDRVbEVkcGN6MjFCTHNrTVd6d3owNnAyWmcyUHQ4M3dpcXpnd2l1UVpHbE9URlF0UHFxWDA3LTFYcEdFVnNiVFBRNmNnTjRVeUMtMjRRQ0ktNGFFZw?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Rubio places additional sanctions on Cuba, targeting ‘illicit’ shipping network",
-   "source": "The Hill",
-   "time": "2026-11-06T01:53:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM1FZMGpxdDZUT2Z4WEQ1RjEzREJDOUlrS1drSmlSLWxtX1JVWHgtOURNMmZqYUZRTEhXS2F4dWxoTzZrYjZDY1pndXlPTFZSc1RuOFcyamZyWENEb0QxSmYtZUxrV2JRaXZWdGh6RGFXeGF4WmpUN3ZxeFZycnA4UGx3YTJZR2tnaUVR0gGQAUFVX3lxTE5oeDlWUFlxZFdXc2duMDJKNDBCbUs0Ti1KY0FvY3R4SEJHdVQyT0QzWV82SU1kRDI5b0lJWk5rMTFvaHo2bEN5Q0pzTmRhbXpmMDNGTnIwd3lZM3ppWVoxSGhhZmxzcFVyM1lId0JrT2hLS2l4cXptQW15UUMtWW1oSHZfRnhvRjVZdHQxaGdTbw?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Hong Kong activist Joshua Wong jailed for 10 years in foreign collusion case",
-   "source": "South China Morning Post",
-   "time": "2026-11-06T01:03:32Z",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQjhRUU1IOTcwdHRsa1lyVTNJRVhPcHdybTFLZng5UGE3UzRBNlBESWdOV2RsengyMHRwb0xISmlBVEZlalE2aXRRNXdybHUzekNLbURpb3hSaTJWNE8wYmdIOFBjNnV0aW9vOFdrck5LdDhfNmNQODhURDRyaE1SNmY5VVdoSE40NWVIVWE3RVk1SEtIS2hVZlFDMFdJV1RDOXd5NUJ2aVZOTk1xTmdsQ0JENDVqRU1VOUxxeXNLTW5jQ0FuTTZ4TjBzRmpDVVVvaXBXTlZ3c9IB1wFBVV95cUxPUlJ3YzdLam1hU1pSb2Q5QmYwdHNaUXJNQnpFckFyTXVxS0RZUW00OG5ReTFyY2hlRzJXemd3Vkk0TlhQLVI5OVpUZVplUGVTaklCTWVrRE1TandWU0ZmT2RkLUZkb3MteGZaaDJUSkhJaGo3U1lkUTNyYmtsN3RFS0pLVDZZUkE0RHNNWm9PYU91OHZKakhkT2pIdlBtUFpoejNKVngwMzJoM2Fwc25ySm1ZN3RISE9KZTliNEhMd1NVUzlXZHlqeVBuXy1iQmdWUzdmR01kRQ?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   }
  ],
