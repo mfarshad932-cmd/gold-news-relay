@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T13:29:32Z",
+ "generatedAt": "2026-11-06T13:57:50Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -26,7 +26,7 @@
   "bea": {
    "http": 200,
    "items": 49,
-   "kept": 1
+   "kept": 0
   },
   "fxstreet": {
    "http": 403,
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 3
+   "kept": 4
   },
   "marketwatch": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 26,
+   "items": 23,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 14,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_tariff": {
    "http": 200,
-   "items": 28,
+   "items": 30,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 34,
+   "items": 39,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 18,
+   "items": 17,
    "kept": 12
   },
   "gn_oil": {
@@ -126,6 +126,133 @@
  },
  "items": [
   {
+   "title": "How Trump’s War in Iran and Missteps Flipped Washington Overnight",
+   "source": "WSJ",
+   "time": "2026-11-06T13:50:25Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzhmcEwxWnJ6eXlYcm5qb2lmOXVadVNibW1kYm1PbG5EaGVhQ0lnWDVQVk8tWU84Y3ptYWtJdjFjY29xZnUxOE9LbU9RVzI5WlhDbXBEbDlNRnBDRmJZVHk1Z2h5VTBCQmxweGxOUWhlZlJKWF9zaGNkSS1abVctSktKSHZFTFV3c24tNE4tdDdNQ3lEVFhmWFNobDR0OVFK?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate at 4.1%",
+   "source": "CNBC",
+   "time": "2026-11-06T13:47:54Z",
+   "link": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "Dan Ives says tech rout is 'golden buying opportunity' just like during Covid, tariff sell-off",
+   "source": "CNBC",
+   "time": "2026-11-06T13:46:09Z",
+   "link": "https://www.cnbc.com/2026/11/06/dan-ives-says-tech-rout-is-golden-buying-opportunity-.html",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "ArcelorMittal Says Europe’s Steel Tariffs Are Boosting Profits",
+   "source": "WSJ",
+   "time": "2026-11-06T13:42:59Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0xfNmtoVDFyN3lxWTAzZ3hRSWV0aVRENWJTWFdCWG9XcUd0V1BlelpOMTZFMG9zbEdEQVpPaTlNQ1BWYUZuWXZxVHVLRE91bVRjdkpIY0VNX2xkZFQ5R29RNUFhRUc5b3o2dlFZTFo1OEpoSjN5cWZ5Qk5NQ2ZKYUNiSE5ramJtYzliaTAwejB4a3RMa21sdV9WWTJEVEZpazFnTVVlVUd1VGVtbzQ0Q1I4OXBWZw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "One seafarer killed in missile attack on tanker in Gulf",
+   "source": "Reuters",
+   "time": "2026-11-06T13:42:42Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQlB2Sm9vTXA4Rlp1QWxROTNzaUJ5TG0teEFKRWs1cmY3VFZkZXd6RlVzQmxNTGcxcmwyMG9SOUZlRVdKS0o2V08xbzdaRW5sbGNBTDdpRUduU0xsQUV3czAybnlIU0FPQUs1ZFR1RE41U3BpZXhIeHFYeEI1b2RRamRWQnhpOUVESHM2TENjNS1XUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S. Nonfarm Payrolls Surge, Surpassing Expectations",
+   "source": "Investing.com",
+   "time": "2026-11-06T13:32:10Z",
+   "link": "https://www.investing.com/news/economic-indicators/us-nonfarm-payrolls-surge-surpassing-expectations-93CH-5008141",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "How the Iran war is changing the renewables landscape",
+   "source": "Axios",
+   "time": "2026-11-06T13:31:52Z",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Iem9JYmdZTmJNdzczTC16d2lZb0xjalZ2elM4Z0FTOG8wdlZpWm9QYVYxTFNNRkVSMXdQS2NjM1VvTWFqUm10MG4ySkllbjZRRmZFUnM0QWk4c0FYTlV2ZFRaUFgtR1JtTUoxTWRESGY?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump Dials Qatar to Discuss Iran War De-Escalation as Tehran Sets 7 Demands for U.S. Talks, Tells JD Van",
+   "source": "Benzinga",
+   "time": "2026-11-06T13:30:33Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUkRLYUtrSWgxeWlrT19ja0dFZjYyYXc5YUxxRUJIYWJ6MDBya1VKb1V3b3d2SldfeUp2X1dvWmJLYUE5RHJfYU9oQUwtY2Z1eUtRVV9mVGQxNUl2ZlFOeEg3Wm1wOEVRN0VOemlFd1I2SjFhWDdJVHBNWUh6dUpMbHJ6aWRZajFMUjFMUUdoMUhDeHhqS1k4TlF1ZlFfVTlKcWF3XzVNTTVaZnc3Tm1YRFBLNGxqdDdIRFhiWWwyMVBYZUFSd3otNGhhQUpLUXFSdGhna0ZJbHowRWhYNEJRanRhYXpvaGVfWEZwb1FxS21UZGZhb001clZiVFNlQzgzMXFnQm1Wc1RwNlZLdFBzSk13dWhBbVlaeGJ1OUpvVjFfWDdCeUc3MmwwOA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
+   "source": "Al Jazeera",
+   "time": "2026-11-06T13:30:18Z",
+   "link": "https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Why Democrats should use their new power to embrace Trump’s tariffs",
+   "source": "MarketWatch",
+   "time": "2026-11-06T13:30:00Z",
+   "link": "https://www.marketwatch.com/story/why-democrats-should-use-their-new-power-to-embrace-trumps-tariffs-7c467541?mod=mw_rss_topstories",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Opinion: Why Democrats should use their new power to embrace Trump’s tariffs",
+   "source": "MarketWatch",
+   "time": "2026-11-06T13:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGFEbGRmRDB0Y0xNRE0taVBaRlM3Sy1HSE1FN0FjekZhSUY5aFJ4N2oySXM4TW1IaVp0NGNBUTNqdEwxOFExOXZNVG9LdGRIdll0aXhsYllGM1ZVR1Rka3BsTW5EU2ZDR2wtX1EyWFNHck0xeV96NEh2UW01aGY0SndJdXBNZkFFZzR2UGxxXzZIdkpPZDIwclF4Mm5GNzhOQWViRDJEMjNkTUlaVXc?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Asia’s Fuel Oil Market Signals Hopes of US-Iran De-Escalation",
+   "source": "Investing.com",
+   "time": "2026-11-06T13:24:00Z",
+   "link": "https://www.investing.com/analysis/asias-fuel-oil-market-signals-hopes-of-usiran-deescalation-200691007",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "The Global Oil Glut Returns as High Prices Crush Demand",
+   "source": "Investing.com",
+   "time": "2026-11-06T13:23:00Z",
+   "link": "https://www.investing.com/analysis/the-global-oil-glut-returns-as-high-prices-crush-demand-200691006",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "‘We’ve been preparing for the worst all year’: uncertainty grips Iran after Trump midterms defeat",
+   "source": "The Guardian",
+   "time": "2026-11-06T13:20:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSFlvY3JQTnZCQWFyYkdUbFpHS2pXUGRrcGhabjgzbmlEWldlTVBVeUJiRG1lQXR2eXNkZlAtWWtzZUtDQ2dkZ0VMNW1WeWc3NFJCbUExUENmOFF1YUJCQUtzTUpndnZUeExBS2JzeDdLNEVqQlVPMFZXUjVNcjJTdTFQVjJvNEdrejh6VVdjRXVMQVMyR0ZjZkYta1VzOVZRclFaX2QtQm1ZUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Opinion | How to de-escalate the gerrymandering war",
    "source": "The Washington Post",
    "time": "2026-11-06T13:17:59Z",
@@ -141,6 +268,15 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmltNTZnMlo1OGRFV0F5WVlnUDgtN2xkZ1huZjc3NUlEaGVmbDExMHdVenpGUVBKRTUzWW5BTDlEZG9YcDh0clR5SkNHakxYaFVwQ0RGaW5OM3lIM0NTbEtONnZ1V1dKZlVZT01ycUlIMW9GdkFkajVQU3p5TXhsQUhGU2JhY09FVlpoSnROUS1acUZfR3dHUFc2WnRha3FmN200Y2tXNU9FMmZhQXpfN2o1NVpSbXg5cEwybDQyT1o5SzNGaWtaeTBrY3pMTFg00gHQAUFVX3lxTE5HZ3pDNFRhaDl4R29tVUhPQUVIZVVLNE5tR0VkeFpfN0xzc3dDWTg0MUJVT3FpMnVsZFFRU2FYSUtlaGtHdW9DcDc0MVpFV2tYSVdoZWRDMkM2a3o3WG45Sy1QU1VMVTk3eWl1M0dlZnJGYWhLNks3N2ZOMFhuMTQzV280Z2VoZVYwLUZYUmR6T2lvUVRuLTMxb0twdGRTRERfMXgzTjFHYklHN2s2SFhfWHoyeGpwQzd1Z3libEJZaURHT3FDZ1RmRHRnT1BOMHg?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Amar Dedic set to escape Newcastle sanction over carrying bow and arrow",
+   "source": "The Guardian",
+   "time": "2026-11-06T13:05:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSXdLaXFqTm0tN3BFUXBVUVVkYmp2R2h3SXlFbUdrbmk2Q0xhWE9jb2VpWDliY0g0WEgzTmo3dmZwM1BmZVZXOUhXLTBuNFlNNi1zWEloN1lQaG5CTlVaTUU4dkxxbVJqWklPVlpVT3VtakRjMFgtNjJTX2UzU29kQmlpczhyY1lQVmxQU21ydEZfWEVoTnRDMXJHZVgyZGl0aWNoamRoTmpmUTctTW1mcFNESVFEc09ybGRzeQ?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -309,6 +445,15 @@
    ]
   },
   {
+   "title": "Asian FX: Elections and oil shifts drive divergence – OCBC",
+   "source": "FXStreet",
+   "time": "2026-11-06T11:56:18Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3BPekMxV0lYaDdLYkxLdmdCTnplaDFaZmZ5WjE5LUQ4V0ZKSG1DY2xfVnZQUnBWdHNiUzBnQUUxMjRqWVM1TmtnMDN3RVZxVElfOFB1ZC1vWVZTdFM3X1FSZW9wSmNkVnBsRTgtalRnY0E1cDNBR3BvbzJCdnd1QjZNelVVVDlZUjdiOTI3TGwxOGFZLXRjRzNBUEtWSUk?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
    "title": "EU backs one-year delay to methane rules over Iran war disruption",
    "source": "Reuters",
    "time": "2026-11-06T11:53:44Z",
@@ -465,15 +610,6 @@
    ]
   },
   {
-   "title": "Amar Dedic set to escape Newcastle sanction over carrying bow and arrow",
-   "source": "The Guardian",
-   "time": "2026-11-06T10:40:00Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSXdLaXFqTm0tN3BFUXBVUVVkYmp2R2h3SXlFbUdrbmk2Q0xhWE9jb2VpWDliY0g0WEgzTmo3dmZwM1BmZVZXOUhXLTBuNFlNNi1zWEloN1lQaG5CTlVaTUU4dkxxbVJqWklPVlpVT3VtakRjMFgtNjJTX2UzU29kQmlpczhyY1lQVmxQU21ydEZfWEVoTnRDMXJHZVgyZGl0aWNoamRoTmpmUTctTW1mcFNESVFEc09ybGRzeQ?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
    "title": "Gold Near $4,050: Can US Jobs Data Spark a Rebound or Deepen the Decline?",
    "source": "Investing.com",
    "time": "2026-11-06T10:35:00Z",
@@ -537,144 +673,6 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbmVlVlplYUFXS3hybEFadUxCTTFNaHlLdGg0d1l3dlprTHdGNi1sa2I4MWxHaUpsdVM0NmxzVWNUTkxrZXBnbVhjZmEyVXlGcW1QeTBobG9JNG1SUjZMa25QenhtRVB1Tm9fSVJRQ3FCYlRPRWZsc2JBUTFWSWJManBPV2Nobnhob2V2ME1n?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Opinion | Trump’s Tariffs Have Failed. Bring Back Reaganomics.",
-   "source": "The New York Times",
-   "time": "2026-11-06T10:02:11Z",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GNXpOaE1ibmZOenc2aHdzZFNSM1hvYUUwTnJtdlRzZlJ0ZGx3LUhjTG1fcDRDRWZHWHF6M0tuVm1MbkFybFpCVnRHNGlxT3dNX09WSGZHbXlybm9hQU1rWlJERi1RZ0NoMFdiTHR5cnRXVXdjOE1XNg?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk",
-   "source": "CNBC",
-   "time": "2026-11-06T10:00:54Z",
-   "link": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Gold investors are buying into declining prices: Brooke Thackray",
-   "source": "BNN Bloomberg",
-   "time": "2026-11-06T10:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeWpVX2ZCYUNsNjJRVWI1WHNYSmdmemlmenhyQjIwQ3dJNVBROE9JNEdCVlNhNDdHaTBIWExLcWUwX0F2SG9LX1ZkUDViUDduUHhzMkJIRm1yWlE2bUU1QUZ0eC1jQkdpa3B6b3pIU0lyUlotd19COXpZZ050NHdiSVVwMEZhU3FRT1VMY1lJV0NIUlNWQU9HZUxnWi1XdVJoOWttRmRwTDlQY2FuNllBWFJZd05zVWVObkUyMEdB?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Some Democrats don’t want to wait for January to block Trump’s war in Iran",
-   "source": "Politico",
-   "time": "2026-11-06T09:45:00Z",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcUplVHdkRmVaZDVmNGJaRDh3MTI1QUU3ckJCN25wVXRxOTM1a2FoejJadkpwUnd6THVzUnlLaGlQR0pUXzUtd3ptQnZucFBFUlhOUUw1SHpJWU9ITWFaOUM2MnRYQmZXSWxhMThmMFFRbU5lQ1NNeFI1WnFlSlRRakxUZ1k1Rm1YaUZvX3pKbDE5UQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Treasury yields inch lower as investors look ahead to key jobs data",
-   "source": "CNBC",
-   "time": "2026-11-06T09:34:51Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWEd4MDlaNjAwRjlYdFp0aDhKVDFsVHZNUnBCWXU1aHhPWGMtQ2hmTVJnZmpoMWo3cnJNbEZwRWJHRVp0UjI1SU9ELURwYjctRnRUS19MUVhrdVlvTWswem9xR0dRT2V0ZHJxUm5pZFE5cnpxTmR5Wm1lR1pYRk9xYXh4dGtiVWQtNWJfcVBzQmVSS1VRR1F6UDRpWnhjVlJsSF9iazlCRUrSAa4BQVVfeXFMTXFRWnBSVk1BYjJrMzR4N0VZOXZIa2U2MXZnWFZVS0t3amRvOTdSVC1PaEpLQ3NMS08wamNTeFlmRk5PUWNRZWp6VTZnUHozNVNvWXpLTko3UHNOOUhCQWhpS2xqQmdEd08zVkRDTHBCUU9Gc1drd2NwWWlNMlc1SHVUeUVSZUVwNEhNRDU2d0xCMERmWkdXbWI4QW1UaWhRR3U3MHhQSWlFR1ptT0Fn?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "France to order long-range naval cruise missile from MBDA",
-   "source": "Reuters",
-   "time": "2026-11-06T09:24:09Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOakdmTjA2R1hPSm5DNVNxUThPTWhKQ0VTY2E5dzcyRXpJcWNWa3R3a2puOG9EaGRTNDQwTVN5Nkx5WEN5Zm5pQ0Fhek1xZnRrd1NyQ0cybWlWUDR4eFFaQ3gyWlg1VzlLUEpGalRlMVdmOERnZHpLLUhJaUJxYWZsZmtDSVVqWnljWXdzQUNxNlpHOWQ4Mlg1M0xYMGg3d0hMdjFvbWM3aS1XMTFndXNDLTJ3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Democrats weigh measure to roll back Trump's Canada tariffs - report",
-   "source": "Seeking Alpha",
-   "time": "2026-11-06T09:17:53Z",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjk3bmdPYW9GUXdiOWVnbU9Oci0tRkNGYU1jQndsWDZJbGJZMWNDZnlNaG9penVoZkk1NmZWajhNcV9MdjlUbjJpTjB2a2Jod2JzMmFsaFVaN1dQVklLUS1LVUlmdmhuTTRmTUJfTXgwZzZ4UnpKNDB4ZGo2RFN3YmhkVWkzQ0xtaFNUOW9vRjc1RDg?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "How the Federal Reserve Emerged as a Winner From the US Election",
-   "source": "Bloomberg.com",
-   "time": "2026-11-06T09:14:49Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZEloOTdwdE5iVEI5RXl3LXNHRmlteHJzaUF1cjJOMGhwOVpUMU1Ua1pqTF9kaFdFUW00UlhKS2pud3NWdHRNdzBxbjdLTG9IUG5STV9Od3p1RDZna1locmNyQ0VtNlBTTmYtd0NyaFl0U3k5RG9temUtdzhIUVdzUTZ1SmhpdkJadFA3QW9jNVA4OWVyUGdzMmRTRVVjcTVDWktBeTNMTm9TblkxckRDZkdLUlFjYmFkd1E?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Why Malaysia may still face trade uncertainty after US midterms",
-   "source": "South China Morning Post",
-   "time": "2026-11-06T09:00:26Z",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaEZYTUpPbTFvUFB2MTdKczBxMWU3QXhxU0UxXzZQTmRYY2V6QWgtalB3ZG5xZ2k3RHV1bzhieEpmeEZfQ254NUVkVUdvckE0QUJnbTM3ZmJkejRCTVJNZVRUMzkwVHM4dG5Vb3ZyYmFSMjlaZ0NKTVc5UlZhblNvRHJWU3U4YklBZ2tpU3lIbzdnVWJFUHZjejVBcDVmNXBWTDktRndnYk9UR3BzZ1ByT2tSc3JvX28tZ1FFcUhIX3d3WU5yZGRWbXcxRVlhLURpVWRqY3FBa1p4TkhGeFNTck5JNUtmMTQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "ECB publishes consolidated banking data for end-June 2026",
-   "source": "ECB",
-   "time": "2026-11-06T09:00:00Z",
-   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "title": "UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’",
-   "source": "Al Jazeera",
-   "time": "2026-11-06T08:45:38Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlhSSm1fRk1ncTdNLVlWRzltV0pWeGd3VFU3V3RvWUdjWnVRQTNGdzlkX2FfNTN0TVMxV1hqOFVFelFTVkYyMERVX0E2ZzZtNmh3S3hmUXhkSmFIZXI2RzNVbF9MZXRaZV9WY3ZlQnRYVlZPbnFpUi1aYWNMZnktNnlGbDFPT0ZQcHZ5SHdsVHI1TkJQQ05XckFKM0RKd0ozWFRiTHNsNkRUR0RBeHBZRms1aUhlLXJK0gG-AUFVX3lxTE9laUh2ODA2a3F6OWo0MDZiVVlUYmNZREpqLUhlRV92SHZJVi1DWG80NnR4N1VXeGdQdF9XeGIwU19kcDlJU0x5MU93RkwzWDFnRnVkQ3ZqUFJ3MVYwTnp4QnNtRTU4RFFkbG1TOWNGUkV2eUxlTE13RGJodmd6Q1ZHY1RCZWFHZlMwS0x5OG5nZ0VINHJuU1FlUHJVUzFTSGpIa19PTDEtaDBDZU53TlAtekZxTGo1THZEY2pIN0E?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "US Treasury Traders Make Bullish Bets Ahead of Jobs Report",
-   "source": "Bloomberg.com",
-   "time": "2026-11-06T08:43:24Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWdhbUJ5Ui1rc0tMbmNPTERJVDR2Wm1LX2pCeV9iQTlYMU1GZWVCNmRuMWJGS2dnZnppWEtpazQ1S1k3M0NQNXdoOEhVY2JXRjBzamFuaE9tWHZyV0Z5VXEtVVZLbFZWSkJSLVVEX0hrb0o1WHFlc1FYbDU5OTlvTnZjTU83bVpiM05RVjA4WXFNaWVodUJxRkxsOWp1M3FpcnppMUpoZ1ZIazBZb3c?oc=5",
-   "tags": [
-    "JOBS"
-   ]
-  },
-  {
-   "title": "IAG Says It Will Keep Rewarding Investors Even as Fuel Surges",
-   "source": "Bloomberg.com",
-   "time": "2026-11-06T08:38:27Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGluREF0VnBfUDRYc0pmMnlJaV95ZnpReDdTQ19zYUo3N0pYOVVaNVZHTXhtdHlBdXdYYjh0M2FkNzlxai1OM2ltbUlocGtvOS1RR3JUMUc1WGgxZEhmbUttWFpFVklnaG1BNnR5dUJUeHNwVE4zRktUaklOMk54d1BVQ0Z1YTNOQlFlWmpOZF9MenhyZl9JWlNqNk94TjY0dTZ0Z0thTHF6UTM3LWtRYm5B?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "GDS: Revenue and EBITDA grew as volume gains and cost control offset tariff pressure",
-   "source": "TradingView",
-   "time": "2026-11-06T08:10:11Z",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQOU1pcFFqd0RrRXZMVXlrbURrZ2J4OE15YlRjNTcxX29icXF3S0EzM2Y5dTNaQzZrQzduSkpWR1NyUHhJRTVhdk5yWDFZS24zVExBaDNTUVlKNWwxZ3pkYmdSQVJ0UlVwWEVHdV92ZDdJS2d0M1U4eW80Rno1WXVYS2NGNkktcERDR1FrQ1VLb0R3Yl9YLXR0OWdJM0JCMXpDblRrV2NLUDZMYl9yUGNucUtNc0VCeGx5bVBZNVBiY1lWLXdlVTFTdGZIWlVDWlhGRDBUbW95UnczaUZMZmFFbGl3S196ZmZxSWRjSV8zb1V0RDNQZWhScjU3RFZKbjQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold falls below $4,050 as dollar rebounds after post-election rally",
-   "source": "Investing.com",
-   "time": "2026-11-06T08:06:34Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY2pnMGJ5djA5NEYzbXA2TmE0dGlCQXQ3cC1fQ1hWZVVpb2xoUWVlSTJ1QmhZR09pcEJJQjdGT3JwWGZUOGtqb2NRR0x5aTBCVHJYSGJkOXIwOHdDejdJaGE0eURqejFKUmRsNjMxMHhwOU96WUNPTGx0c3Y5VEdvMFdVRHJqUUJadnN6QV9CSXp5bkRrZUlObGNpbkxmTy11dkdFSkh5eTFtWjR2SVRrVGtndDRuNTR2ek5YMHhUekl5VDFnVmc?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
    ]
   }
  ],
