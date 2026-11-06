@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-11-06T15:22:55Z",
+ "generatedAt": "2026-11-06T15:51:20Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 1
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -47,12 +48,12 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 4
+   "kept": 5
   },
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
@@ -61,12 +62,12 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 54,
+   "items": 55,
    "kept": 7
   },
   "bbc_world": {
    "http": 200,
-   "items": 27,
+   "items": 28,
    "kept": 2
   },
   "aljazeera": {
@@ -86,23 +87,23 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 11,
+   "kept": 11
   },
   "gn_tariff": {
    "http": 200,
-   "items": 30,
+   "items": 31,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 43,
+   "items": 46,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 9,
+   "kept": 9
   },
   "gn_yields": {
    "http": 200,
@@ -126,6 +127,54 @@
  },
  "items": [
   {
+   "title": "Gold Faces Risk to $4,000 Support After Strong US Payrolls Report",
+   "source": "FXEmpire",
+   "time": "2026-11-06T15:32:07Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLTJnVExtUVZYaXVoSWhEYWo0SjFOSXIxQWM1cjBJLXZLbEVlZERoaVNiRXcxNUNWVkFFSFdid1g0Wk9rOWpzelJTbHpEUlJQNkYxcmdnanF3NjF5Z00tTnVuMndHekliaWdDNzctR21QbmNtMGVVT1RjTzAyS0dyLW41cEpCWUpqU2ZMNnBYUVp0NW9jdGFZZUhRa0dzMEltbFB5RlZ1OG9mOFgycWQ3eURldjk?oc=5",
+   "tags": [
+    "JOBS",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "The Iran War Isn't Over, but Oil Traders Are Already Pricing In Peace",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "time": "2026-11-06T15:28:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWjM5UnZ3RUNOMTM0U0EtQmhaZXBFTW5qbnpyRzRodmJQc0RXTkxOdVdBY3htOVNRXzZTLV9MbTBpcEhGWWZ0cldTV015MFdPZG1GbTBGbVBkT29KZ08wZzVoVDlkOFNzNDczY1VaendWMmdNR1YwUjFPVVY1TXBXRXM1VG8xVVI3QkhCVUJFTGk2SW05VTQ1dDY0UHNHS25FdFFaNUF0bVE5aklGbk9EdjI1TXRsZ9IBuwFBVV95cUxNdDg4QThZb250RGVGYjFIeUpNVXlRWnRiMjFzeDYxS2lOcVFVdE1QV0UzQW1fNy1kYnBkR0d6R3ViUGp6ZE91S2sxR1J3cDBpVnM3LVowQTloQkV6cW5PRTQxZWVlblZxWm4xODlSckRkU2cxSGhZQmdZQVlpTVpldFZqX3VFU3duSWRwRlIxS1lPQm96eVVOSUkwYmxWay1tSEZKaEk4NXdUSVJzLWIwYjhpSUxKSXdpcGFn?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "What’s Next for Iran Peace Talks After the Midterms",
+   "source": "WSJ",
+   "time": "2026-11-06T15:26:00Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYW1zY1FmUmVFY3g2Mm9kNDdJSFZyTkV3OVMtYUNTRmRTdXI4Wm5yMHZ4eHI3LUlJWFBMS19IWG5BTS1XdEZsVlNpSTJDQUlZMjk3SWdwRzJZb2ZnVS1vMDktckppUG5tVmJwWk9UWHVKNHVxNWJMTDhvc2NzNGpNVEZZXzBhWXRPakFRRXBvYTBtU2dOay1zcEd3SjVwQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Canada’s Ivey PMI edges higher in October as employment rises",
+   "source": "Investing.com",
+   "time": "2026-11-06T15:19:08Z",
+   "link": "https://www.investing.com/news/economic-indicators/canadas-ivey-pmi-edges-higherin-october-as-employment-rises-5008743",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "Fed’s Williams says inflation too high, targets 2 percent",
+   "source": "The Hill",
+   "time": "2026-11-06T15:18:00Z",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xeVNpR3NDODlWakp1RmVYYmRtT0xic0NXdnc4RU1YTFRfdW9uZlhNNnZVN0wzamN6ZXpfelo3OVhYUHBHbXJIZUg5VDdoTFNaR0FEZDhpTFo3TDhsbW1jUmNDc0pDd281c08xZkxyUktQc09MMmhxd9IBfkFVX3lxTE1IeWFOYlN3MGpkMG5PZGtkQ1VMZ2lyZmZRTkEwT3BaRnJ0c3p2OU9hVWZNNGYwcXIwNHl1a1lxNWtHc1FrMHNaZUE5Z2dHRWFfU25ZeDk4Z09BR2NteWVpTDd1N2ZET29mYU9OZHNRYjVOVm5VRmt0SEdJZlZDZw?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Israel Is Losing America and Its Politicians Still Don’t Get It",
    "source": "Bloomberg.com",
    "time": "2026-11-06T15:10:15Z",
@@ -144,12 +193,30 @@
    ]
   },
   {
+   "title": "One seafarer killed in missile attack on tanker in Gulf",
+   "source": "The Times of Israel",
+   "time": "2026-11-06T15:02:26Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcDNjWWFrVlZUdjdBMEdiblB4OXlGRDBkTHNJS0Y2Y2VKZ25XbWVxbUxzanF6LXRmWWdUaE1oUHFtZi1yVHVhZ1BWQlZSazE5X0xlV1dBWnJlQW1FVVE0SjdEWnY0X2Fma2xuWTJMT3lseHlveDZ4dVFfZFFNMlRVd3FVSjlqMVBOdDBadHJSVVBOSVdkbXFlSWQ3eWRCU2ZROTdR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Iran war spurs crackdown on clerics in tiny Gulf state Bahrain",
    "source": "The Times of Israel",
    "time": "2026-11-06T15:01:34Z",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbm1JbVY4Nm1felc3akRIS2V1cWRrNmUyM2F3VzU4M1J0TVZwamxqMzlIUUNOZVhRN2dDRHA4a05iejZ6c2tUeHVoejJ3SEl3U1lrSWRqUUhhZEdRdWhHa3JVVGg3U0hlU3o2cm9TWmNHQWtoaTV0WGtsWlNIb211Z3dpWWFXRzNnUGY1RXhKZWQtczRkbHN0akxmSUxZLXlLdnBPSDN5NVlfZEpa?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "MTD: Q3 growth and higher EPS benefited from a one-time tariff refund amid continued uncertainty",
+   "source": "TradingView",
+   "time": "2026-11-06T15:01:02Z",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPU1pIUHlBM0VpUnJocWtCNW9SVGNqWlJQUUREdlhYZXhVT0o3VmdweVFGeTlWN3JaNENnT3hiemtOdEdySTZubXpKQ0g1WHMtZjQ1SU5WNlFsdW5ZbGg2T1lSLU9HQmI0bVlDM2RscS16b01ScDJ3UjN6a1hYcnZRbENjQ09zaS1yUkQ3ODFuOVR0QXFjOENUalZ1VV80WVMzSVZ3SEw1b2dYa0xzTGd1OW5tSkRHTXlTR2pkTUNEcW5VeHBwRXJHMWRJMmJxT3ZPVDNidzFTNVYyRFRKM1Z5X1RNcWlwMnpmaFJselB0OEtrVE9tZHJ6OHR4TFE4MkpSREFQa1o1bzN2Zw?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -253,6 +320,25 @@
    ]
   },
   {
+   "title": "US Treasuries Stumble as Strong Labor Market Lifts Fed-Hike Bets",
+   "source": "Bloomberg.com",
+   "time": "2026-11-06T14:26:20Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3NNcGNRYkZlWG9POWd3eC1hYThVTjhmVEVfb1NEZy1qZlJhc3dBMGQyLTlmR0ZwN0hEUmdyclN0c0RiVjZwaGlPdGxuWDlHbW56WVhwcER1V2pxLWJ5YjZWSXE3bDZkc0pUWWlyZnEweER3TWJob2Rjb0pRSWd1c3lUZHBoeTFoZmNnc25feUszUWVMYy1uR014ekZkNGZLX1IxWnh2dkdSRTRDTFRsTUNVM204QQ?oc=5",
+   "tags": [
+    "FED",
+    "JOBS"
+   ]
+  },
+  {
+   "title": "Emirates Airline Profit Falls After Iran War Disrupts Air Traffic",
+   "source": "WSJ",
+   "time": "2026-11-06T14:25:10Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2hfQWJDNnFHaDIya3JhZmdid090dlZMZHNZVk45UmYwTlRyWTFjM3F3LTZKSjRNV0ZSTTA0eXlOSGtvbU54cklqSnZiTmJHYmJtWHJWUzBBTHBnNDJMM05vRURrZHVsNlBXaWdTRElzX3ROY3VnYnZpak13b3VyU0tJd2RLNXpNU0hZNDlSQUFmaUg2cjdCY1BmSDUxVWs4RlVOMlhVUnM3V084VVNyLWNn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Gold’s 2026 Pullback Raises a Bigger Question: Buy the Metal or the Miners?",
    "source": "Investing.com",
    "time": "2026-11-06T14:24:00Z",
@@ -269,6 +355,15 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
+   ]
+  },
+  {
+   "title": "TKR Q3 Earnings Beat, Increase Y/Y on Pricing and Tariff Refunds",
+   "source": "Yahoo Finance",
+   "time": "2026-11-06T14:03:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQkxjcC1BVkgzNEFoTlQyRlRLTGl2alE2X2FDVDlNUDMzdHZfR0VEU19OWUZSWUF3RGQ3WFQ0VDJTZUhyUzBMRHpCNVVZUWZWZjdBYlpfanZWT3p1WXMzODhja0hqZVUwVjZBckd5cWI0M1hzZVZ3U0E3VjhHdGdIZzAwUkIzZFhwSTNsSWZqN1JYY2Y0eWN0LTRR?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -319,25 +414,6 @@
    "tags": [
     "GEOPOLITICS",
     "GOLD"
-   ]
-  },
-  {
-   "title": "US Treasuries Stumble as Strong Labor Market Lifts Fed-Hike Bets",
-   "source": "Bloomberg.com",
-   "time": "2026-11-06T13:47:33Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3NNcGNRYkZlWG9POWd3eC1hYThVTjhmVEVfb1NEZy1qZlJhc3dBMGQyLTlmR0ZwN0hEUmdyclN0c0RiVjZwaGlPdGxuWDlHbW56WVhwcER1V2pxLWJ5YjZWSXE3bDZkc0pUWWlyZnEweER3TWJob2Rjb0pRSWd1c3lUZHBoeTFoZmNnc25feUszUWVMYy1uR014ekZkNGZLX1IxWnh2dkdSRTRDTFRsTUNVM204QQ?oc=5",
-   "tags": [
-    "FED",
-    "JOBS"
-   ]
-  },
-  {
-   "title": "One seafarer killed in missile attack on tanker in Gulf",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-06T13:46:35Z",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtcUZ3S3pkcE1reUNNYjdIaTB3TjVlRGtTQUVmdGhUX2MyRjBOTVVMTGJWMHU2SmNISWVrRFVyVlVsdnpMenVUenphRHBMS2lWX1RNb0hMckpVMUI2?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -468,19 +544,19 @@
    ]
   },
   {
-   "title": "Why Democrats should use their new power to embrace Trump’s tariffs",
+   "title": "Opinion: Why Democrats should use their new power to embrace Trump’s tariffs",
    "source": "MarketWatch",
    "time": "2026-11-06T13:30:00Z",
-   "link": "https://www.marketwatch.com/story/why-democrats-should-use-their-new-power-to-embrace-trumps-tariffs-7c467541?mod=mw_rss_topstories",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGFEbGRmRDB0Y0xNRE0taVBaRlM3Sy1HSE1FN0FjekZhSUY5aFJ4N2oySXM4TW1IaVp0NGNBUTNqdEwxOFExOXZNVG9LdGRIdll0aXhsYllGM1ZVR1Rka3BsTW5EU2ZDR2wtX1EyWFNHck0xeV96NEh2UW01aGY0SndJdXBNZkFFZzR2UGxxXzZIdkpPZDIwclF4Mm5GNzhOQWViRDJEMjNkTUlaVXc?oc=5",
    "tags": [
     "TARIFF"
    ]
   },
   {
-   "title": "Opinion: Why Democrats should use their new power to embrace Trump’s tariffs",
+   "title": "Why Democrats should use their new power to embrace Trump’s tariffs",
    "source": "MarketWatch",
    "time": "2026-11-06T13:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGFEbGRmRDB0Y0xNRE0taVBaRlM3Sy1HSE1FN0FjekZhSUY5aFJ4N2oySXM4TW1IaVp0NGNBUTNqdEwxOFExOXZNVG9LdGRIdll0aXhsYllGM1ZVR1Rka3BsTW5EU2ZDR2wtX1EyWFNHck0xeV96NEh2UW01aGY0SndJdXBNZkFFZzR2UGxxXzZIdkpPZDIwclF4Mm5GNzhOQWViRDJEMjNkTUlaVXc?oc=5",
+   "link": "https://www.marketwatch.com/story/why-democrats-should-use-their-new-power-to-embrace-trumps-tariffs-7c467541?mod=mw_rss_topstories",
    "tags": [
     "TARIFF"
    ]
@@ -501,15 +577,6 @@
    "link": "https://www.investing.com/analysis/asias-fuel-oil-market-signals-hopes-of-usiran-deescalation-200691007",
    "tags": [
     "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "The Global Oil Glut Returns as High Prices Crush Demand",
-   "source": "Investing.com",
-   "time": "2026-11-06T13:23:00Z",
-   "link": "https://www.investing.com/analysis/the-global-oil-glut-returns-as-high-prices-crush-demand-200691006",
-   "tags": [
     "OIL"
    ]
   },
@@ -611,70 +678,6 @@
    "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-consolidate-ahead-of-the-us-nfp-report/",
    "tags": [
     "JOBS"
-   ]
-  },
-  {
-   "title": "Gold Price Today: One analyst sees 20% more upside, two warn the post-election bounce may not last",
-   "source": "FXStreet",
-   "time": "2026-11-06T12:33:12Z",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcXBKcjVPQi1QMWw3R0FpVDZpa0YxWUdUaDFqWS1WeTg3UEU4ODhkMDZxSGZ0UG0tNkJUamhndmNHZ2I3SUtVaVg5SjdEb00wNW1tTzREb1NVVGlROUNvaWFXTm5TQURxd09xVUFvTk9ISEdZemZvblI1X2EtUzRacW84LUVxSWFMMDBMeERYdEd0emVKZ2hhT1JVaDRkbmFKRi1La0dPZGFmdnBwaG9YTDZZc2R6bHgyU25NeExkbnIxVjN2RWlZaDAtaTB4T0pFd1Fudlk0WDFHdw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Democratic sweep gives markets a reason to rethink path of interest rates",
-   "source": "CNBC",
-   "time": "2026-11-06T12:30:40Z",
-   "link": "https://www.cnbc.com/2026/11/06/oil-prices-interest-rates-midterms.html",
-   "tags": [
-    "RATES"
-   ]
-  },
-  {
-   "title": "Gold price today, Friday, November 6, 2026: Gold hovers above $4,000 ahead of jobs report",
-   "source": "Yahoo Finance",
-   "time": "2026-11-06T12:24:50Z",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZVdYenA1bFg5NlRGRWlVSG90cWRjeG54aXJXSWstYkZwbEN5X3FLT2ZTQ2VTNVlMZzVvOVpQYUZFYzg3NWZRYVY5dHNqeFJpa1dPT2ZmbnVaemswUWxPNlFwZTl1QnNpbWlPM1NJWUJkYllJdDRpN0RPUzVvN0dpZ0s2TF9uUWxtR051eVduTkhaaE1nbjZ0N3haWWFoT25Cb3FLWWE4d1MtYWp2TjdjZEZsMC1vTENvVW5RZXcwTVBNS2dQZDJSOUF3Z3MxQW95WDg1aWw5WDZTUmpDUDVJcFJGOVFHSkNqUGxLNVJlcjA?oc=5",
-   "tags": [
-    "JOBS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "US and Iran Edge Closer to Deal With Nuclear Issue Back in Play",
-   "source": "Bloomberg.com",
-   "time": "2026-11-06T12:21:02Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTdReHN4a0FQUGZtRlE0NzM5bFR5R0RoRENITFlBN2VGdlFOY2psYzUtTjhZTGtMLUd2TF9WOGZNaDMtVWgzcHdaVnJzZ21HQVBUYnNfanBIVVJzMnhzVkdUd3ZqLUduSTdwWlFZaXR5dGlUbUtPWnhhM1pmQ1lWWUM4V2hnTk9iTGpWdFh2QWdzVWJaZTNOeURPMUlQR2xSaXlIcTc2aUtPeldNbFU3Mm5PeGo?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Marquez on brink of eighth title as MotoGP heads to Qatar under shadow of war",
-   "source": "Reuters",
-   "time": "2026-11-06T12:19:44Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS1lTbHNfc0RNWHJ2MkNCWkR0X2VUUTdKaG9LSVFDX1dUWmI2YlE1a3k4cEpqTWh3N05KeFRFa2VqUVFyVk5zQ3kxWmk5QnNCeUZnUHVFcDFlMkhnc1ZZN3kwTUEzc1FMZ0FCbms0aWpQRkZSWERwQWNYOE9SbTJqZ0kxUm40bXotZXh5UmFuNUpjZ3kzaVBwOE0tNXpIbFRLdWw2azREUEc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "After Wall Street’s worst selloff since the 2025 tariff shock, here’s what investors need to watch next",
-   "source": "MarketWatch",
-   "time": "2026-11-06T12:14:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcTF5S2huRmxYQ2pYUXBkN1dQa09MWHVQRFNzdUtqMHotblRHNkMxbGZsMmVOdF9ZdV84eDhzTUVZWW10MHdaUVpVSFBZNTVYVWZaV0dtMXM3Nm1VQm5mNUFlanFtTERvVWJQQ1ozT085ckFQNUNEVFFQUUhhXzhuVGtuMzFDVWh0WTdhS2laS0tvQndmRFJ2QlpEYzgzUTB2akZfQ0ZnTm9uVkNVZ3pHNEF4NktYN203NjlnQnQ5a1UxZW4zaGlXTlVLdUlxSTZXVlRSWDVKclpEMFU?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Top 5 African countries that produced the most crude oil in September 2026",
-   "source": "Business Insider Africa",
-   "time": "2026-11-06T12:10:35Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSEZrYWRBcXpHQ2RxUklrUUgzOFp4TnVIdE5BMXctcDF2NzVCVURUZFI3VHQ3XzkyZjVvOUFWUDAwRzU3a1lvUnlwZHdXelJQREczUmFYcEZSazNSUGt2SUdnUnhTRGw3bkdLSXdLc2plZF90ckh2R1VSN1RUTkliTnFiNDZOa3hUeGlMRjZ2dmJUQXUwYnFTNWREYWRheGdmemNhTnVrb2xkSVVZSXhXZzI4aDdpa3pVQWhjajVIOXVjU2NjNV9NbGkyQQ?oc=5",
-   "tags": [
-    "OIL"
    ]
   }
  ],
