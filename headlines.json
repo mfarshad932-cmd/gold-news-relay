@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T19:09:41Z",
+ "generatedAt": "2026-11-06T19:38:01Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 4
+   "kept": 5
   },
   "marketwatch": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 39,
+   "items": 38,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 18,
+   "items": 17,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 30,
+   "items": 27,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 37,
+   "items": 38,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 16,
+   "items": 18,
    "kept": 12
   },
   "gn_oil": {
@@ -126,6 +126,52 @@
  },
  "items": [
   {
+   "title": "A disturbing employment trend is hiding beneath the latest strong job numbers",
+   "source": "CNBC",
+   "time": "2026-11-06T19:25:16Z",
+   "link": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "Four things to note from Friday’s US jobs report",
+   "source": "Investing.com",
+   "time": "2026-11-06T19:24:26Z",
+   "link": "https://www.investing.com/news/economic-indicators/four-things-to-note-from-fridays-us-jobs-report-5009055",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "US Equity Indexes Mixed Following Blowout Jobs Report, Gains in Treasury Yields",
+   "source": "marketscreener.com",
+   "time": "2026-11-06T19:16:26Z",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWkZuWmc4cTIyd09yMmxLaGc1N1RZRHR0em1LVkVUXzl0R2pDTUtiWFJrbjRCNmFkeEI0R0s4cTdubG42b3VtSE9YU3gzYWJDTFlhMk1VRHJsRFBRLVhrZkZBdzh2UF9xd0V0RXB5ZE9BenBfY29mUE9jX1FKdWdodGk2al9Rd2dHY0FZSGw1VkNlcTAxaER4T0VsTXFYMnJ1aGRoc1lCNFhhZmdzVjgxc1Foc0lhTllZdnZIWnRGczYweUJWYjZfOFY3VQ?oc=5",
+   "tags": [
+    "YIELDS",
+    "JOBS"
+   ]
+  },
+  {
+   "title": "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
+   "source": "Al Jazeera",
+   "time": "2026-11-06T19:16:07Z",
+   "link": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "ArcelorMittal Says Europe’s Steel Tariffs Are Boosting Profits",
+   "source": "WSJ",
+   "time": "2026-11-06T19:09:16Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0xfNmtoVDFyN3lxWTAzZ3hRSWV0aVRENWJTWFdCWG9XcUd0V1BlelpOMTZFMG9zbEdEQVpPaTlNQ1BWYUZuWXZxVHVLRE91bVRjdkpIY0VNX2xkZFQ5R29RNUFhRUc5b3o2dlFZTFo1OEpoSjN5cWZ5Qk5NQ2ZKYUNiSE5ramJtYzliaTAwejB4a3RMa21sdV9WWTJEVEZpazFnTVVlVUd1VGVtbzQ0Q1I4OXBWZw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
    "source": "CNBC",
    "time": "2026-11-06T19:05:00Z",
@@ -143,6 +189,15 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTDlBeXBranoybmVTbFRNa2J3UWNSYl9zWVBDYUJTUjN1QllnMENnWGFmaU9RRDlndUNHVFlXaWFOMDlkdjlzYVNvNUpZbVc4RGZSRHVsdDByYUE1YVh3QWhzbmR2Q3RHSEFRakc5VEVKTlM0M2FzSEdocVdudUtGMk9wZWxpMVJQZ0lxUjlwR09WM3c4UmVBclhhRUFjRTRLNDYtb2xOR3daaXlGVllz?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
+   "source": "Al Jazeera",
+   "time": "2026-11-06T18:47:20Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHlBMHZFa3Q1eHBGSGRLRm1KZlY3RTIzRGlYUEdMVGdVd0NDS1M3Njl6N1A5NFBlenRxOWNXUW1fajgwNjZoRUNiZHJHSjlmcDM4RDNvRnYwbkVfMHdPV0lJRmF4NUMwZzZ1RFlIZWpTaHotS281eDdpaUdKaEludk03ZFJuTXFSTl9KcFpFNFV2STRJdlUtQTliS2JSVWxYTVNxb2VvXzE2ZzE4ekVqTNIBtgFBVV95cUxNdTd6bkY3ZG5QQVFlNXZkT19JM0pyVERmQXNaaFdfNGgwTUlSc2t6enllcFpHWGR4a3lXTXV6cVhPbUtqVTd2aVB1RzdzeXRva3huVjZEejRORXlvSGRGMktPWHBOaW54dG9NYnk4WS1YbzJMZGRJSHk1NTRVRmdJbUNtVGdrQ3lxa2dNcWNSeGxOR091X28zRnlPZ1VLZEhmdFNoRlYxa0M4YXJHeWxUZTJXQ1dTZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -192,15 +247,6 @@
    "tags": [
     "FED",
     "RATES"
-   ]
-  },
-  {
-   "title": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
-   "source": "Al Jazeera",
-   "time": "2026-11-06T18:32:42Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHlBMHZFa3Q1eHBGSGRLRm1KZlY3RTIzRGlYUEdMVGdVd0NDS1M3Njl6N1A5NFBlenRxOWNXUW1fajgwNjZoRUNiZHJHSjlmcDM4RDNvRnYwbkVfMHdPV0lJRmF4NUMwZzZ1RFlIZWpTaHotS281eDdpaUdKaEludk03ZFJuTXFSTl9KcFpFNFV2STRJdlUtQTliS2JSVWxYTVNxb2VvXzE2ZzE4ekVqTNIBtgFBVV95cUxNdTd6bkY3ZG5QQVFlNXZkT19JM0pyVERmQXNaaFdfNGgwTUlSc2t6enllcFpHWGR4a3lXTXV6cVhPbUtqVTd2aVB1RzdzeXRva3huVjZEejRORXlvSGRGMktPWHBOaW54dG9NYnk4WS1YbzJMZGRJSHk1NTRVRmdJbUNtVGdrQ3lxa2dNcWNSeGxOR091X28zRnlPZ1VLZEhmdFNoRlYxa0M4YXJHeWxUZTJXQ1dTZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -275,15 +321,6 @@
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "ArcelorMittal Says Europe’s Steel Tariffs Are Boosting Profits",
-   "source": "WSJ",
-   "time": "2026-11-06T17:39:16Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0xfNmtoVDFyN3lxWTAzZ3hRSWV0aVRENWJTWFdCWG9XcUd0V1BlelpOMTZFMG9zbEdEQVpPaTlNQ1BWYUZuWXZxVHVLRE91bVRjdkpIY0VNX2xkZFQ5R29RNUFhRUc5b3o2dlFZTFo1OEpoSjN5cWZ5Qk5NQ2ZKYUNiSE5ramJtYzliaTAwejB4a3RMa21sdV9WWTJEVEZpazFnTVVlVUd1VGVtbzQ0Q1I4OXBWZw?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -387,6 +424,24 @@
    "tags": [
     "YIELDS",
     "JOBS"
+   ]
+  },
+  {
+   "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
+   "source": "The New York Times",
+   "time": "2026-11-06T16:59:43Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTUltTW8zc3dCR2ZIbnN5NVZsU3BUTFh4TGFBRnJvbU5iMGI3M2t3Q3RudnZZTEpqR2RJTXpaYzhmUk5pX3JXbFV2cFBPNWI3b2x0OTlubE80MWMtZ1dEbWNBZ3VqT3VJdTR4Vmt2ckt6RnNxekpOdjdNYngyb3JvZnJEemdIcUNUZXlkRWxqRUlrWGJ1MEZ4ZHdPeGdOaWlDdUxRZHl0OA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Major construction near Iran missile sites, satellite images show",
+   "source": "BBC",
+   "time": "2026-11-06T16:56:49Z",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yTXhfcDNyakNob2tnWjBzWGJHZkdSemlOTzZvS3ZfNmRUQWF4UWM0NEdVbU8zdXlDV0ZQZDljTWVUV29YZ013NDh3M2Y2aFJPZTlXTWR4dTk?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -629,61 +684,6 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWFNQZW1lQ1Q4Y1pVdzh2ZVQ5WEwycTFfa3czS0toQjFnWmtwZTczWGV4d3B1enBWVmFNcEVkdGp5Zlo0WlJ5TnFmWkxsQWRMWGJlaE1GUy1nUkdiZlR5UlQydWFmYUEtRTNVX2lMekdNMzNJR3l2bDVDY3RxVF9XdHRqb3VGR0hiOHVRbExBT19QODBfX1RB?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Israel Risks Missing How Quickly US Support Is Evaporating",
-   "source": "Bloomberg.com",
-   "time": "2026-11-06T15:10:15Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVlJKcEVCZV9CSFVKMVlkeTN1SFVxYm10cHZxb2JxamZiLTc1LTg2WVBqN3otelFmZFRzSEdsR0s4RGE1T25kUFpjOWNpejdEaHlQMGt4VDFqSmFpSDJXRzY5NHNzZVhRY2pqTFM2ZWVaZFhsd0k1ODM5cURnOWJSbUFKYlo5RzVycjktR2NvMHZldE54V1NPSF9ObGViSFdZdUlKOXhZZVptR3BpTVdkY3dUclg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil, Uranium, or Renewables? 3 Energy Plays for a Changing Market",
-   "source": "Investing.com",
-   "time": "2026-11-06T15:09:00Z",
-   "link": "https://www.investing.com/analysis/oil-uranium-or-renewables-3-energy-plays-for-a-changing-market-200691013",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Iran war spurs crackdown on clerics in tiny Gulf state Bahrain",
-   "source": "The Times of Israel",
-   "time": "2026-11-06T15:01:34Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbm1JbVY4Nm1felc3akRIS2V1cWRrNmUyM2F3VzU4M1J0TVZwamxqMzlIUUNOZVhRN2dDRHA4a05iejZ6c2tUeHVoejJ3SEl3U1lrSWRqUUhhZEdRdWhHa3JVVGg3U0hlU3o2cm9TWmNHQWtoaTV0WGtsWlNIb211Z3dpWWFXRzNnUGY1RXhKZWQtczRkbHN0akxmSUxZLXlLdnBPSDN5NVlfZEpa?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "MTD: Q3 growth and higher EPS benefited from a one-time tariff refund amid continued uncertainty",
-   "source": "TradingView",
-   "time": "2026-11-06T15:01:02Z",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPU1pIUHlBM0VpUnJocWtCNW9SVGNqWlJQUUREdlhYZXhVT0o3VmdweVFGeTlWN3JaNENnT3hiemtOdEdySTZubXpKQ0g1WHMtZjQ1SU5WNlFsdW5ZbGg2T1lSLU9HQmI0bVlDM2RscS16b01ScDJ3UjN6a1hYcnZRbENjQ09zaS1yUkQ3ODFuOVR0QXFjOENUalZ1VV80WVMzSVZ3SEw1b2dYa0xzTGd1OW5tSkRHTXlTR2pkTUNEcW5VeHBwRXJHMWRJMmJxT3ZPVDNidzFTNVYyRFRKM1Z5X1RNcWlwMnpmaFJselB0OEtrVE9tZHJ6OHR4TFE4MkpSREFQa1o1bzN2Zw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold price trades near $4,050/oz after preliminary Consumer Sentiment rises to 51, inflation expectations ease",
-   "source": "Kitco",
-   "time": "2026-11-06T15:00:16Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYjhxOEY3ZkZleHZYYWktQVBVVVlnb2N3UFNibGhvVnlIXzBYdHN6MjJreFdKOWNYU3NrWGRDMENLQUk4LVV2OEM4SDFPcWJyMzBUd1RMNFVmMWpJclBWV01Rai1hME9pNi1SVW9jSmRURV9ha3VYQ0VKemVfVWdicXU5N2cyM19wNWlueVNzZ2JYNGZMSDA4NWJtdTZlSTY2WEFGemxMbEwwcl9jWU5QX0Y4YmZHOXNqZ3ZqTnd3?oc=5",
-   "tags": [
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Price Forecast – The Bottom Is In, But Danger Remains",
-   "source": "FXEmpire",
-   "time": "2026-11-06T15:00:05Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHlrUjhaSjdUdUNvNEdJQ0xQaFBVcVNlYTlpeFZ3eVhGdW9sdEtBV2ZZY3lTWlA5R0pQVWRmZTVaMVlNQW0zay1SaFVVQzJ5bzF4enhaWmlsTGswemNWbjlZUHJObGRQbHUzaUxCRVVKRHRjMFlSNHp1TlN4SWQ5ODFnVnRkdDhrUkpmM0UwSXA5bld2QnJXVS1RcGNSSU80T3FmeEIxSWVpdw?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
