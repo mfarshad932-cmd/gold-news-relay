@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T16:48:03Z",
+ "generatedAt": "2026-11-06T17:16:25Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,16 +52,16 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 0
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 3
   },
   "bbc_business": {
    "http": 200,
-   "items": 55,
+   "items": 54,
    "kept": 6
   },
   "bbc_world": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -81,32 +81,32 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 32,
+   "items": 35,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 15,
+   "items": 14,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 32,
+   "items": 31,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 42,
+   "items": 40,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 9,
+   "kept": 9
   },
   "gn_yields": {
    "http": 200,
-   "items": 15,
+   "items": 17,
    "kept": 12
   },
   "gn_oil": {
@@ -126,12 +126,71 @@
  },
  "items": [
   {
+   "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+   "source": "CNBC",
+   "time": "2026-11-06T17:09:53Z",
+   "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Dollar Rallies After NFP Report",
+   "source": "FXEmpire",
+   "time": "2026-11-06T17:09:14Z",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcDZzeW1jY0RrT3JtOF9sbnItR1dBSEhycmxKaVIzbDZLTnVTWWRKZUR5N2w1QWEwYWJIRkZTODhxRHRqb2k4RDNCd0RpTWVValU1QU5QWTJxb2RPWHRaNDNzSXlMMmNhWTZZQjZZLXJLS3Zwcm9ETVdndG44d1BqMllYd1ZKaDh2OWhxNU1OY091cmJ3R1Y2UFAzMmNidHR5dEZxcVY2NVVVcWlkd0RRdF9QTld5WjRDbVdMX3VxWVNhNk1faXA0N0ZQbFYxcEs2Vmo4?oc=5",
+   "tags": [
+    "USD",
+    "JOBS",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "US Equity Indexes Rebound, Treasury Yields Rise Following Blowout Jobs Report",
+   "source": "marketscreener.com",
+   "time": "2026-11-06T17:04:26Z",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc3l1RFhkLW9OSGtaT3hwT1JWSXJYVTYzcnEtTlFwamRaVWFLY19RUjVFLXBpSzhOZDhDWHkwek8wXy1WV3U1dnJ5akozcHZCbE9MbXg1LUJPaHBNVnZINUtTZjhrMkFlaDd2SDM2MTVtMmhqWDNLTTF6ZURBbm93dEMyUTZfVEtrc1NlS09yc3EyUm5CdjVCNnc4ZmFLQ18tXzUzSnVLNG52OFpielpENGJOUEN5SXQzYmFGUHhJWHotLXByOTJTaQ?oc=5",
+   "tags": [
+    "YIELDS",
+    "JOBS"
+   ]
+  },
+  {
    "title": "Breakingviews - COMMENTARY: Kevin Warsh wins the midterm elections, for now",
    "source": "Reuters",
    "time": "2026-11-06T16:43:26Z",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbUVsRDZQZTJlQ0R5ZWpTbk9FQjJIaTBvQXp5QnlrTEVsc0hLQzJBYUpUbndDMExneFhXc0RQd2ZsWHZxTGJHRDJYMDdQMDFBMlk1RndNMTlZY3NTa2o5cmxLVzlsNFUzUmZ4dGNja3Y5cl9rSlh4TFYxSFV1NTM4UDNIdUVhU29td1NqMm5lYXNrSnBpUllRR0lXNWpKc1l0?oc=5",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "Taiwan to close representative office in Papua New Guinea, blames China",
+   "source": "Al Jazeera",
+   "time": "2026-11-06T16:40:39Z",
+   "link": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Trump meets with national security team, says Iran war decision coming \"soon\"",
+   "source": "Axios",
+   "time": "2026-11-06T16:33:26Z",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbW9jcGlzTlNQdWswMmp6NFFqVi1CRE9RSEtaOHp1U3FIUWp6Z0xYLW4tb2dld0tyQ3I0ODVILXBmZGNuSGxSNXo3TXJ4VWloN2tPeXZYcUZ5R195eno1U2lYUzloME1PN094Q2llQkZtWHpiNEtKOGU0d0k2SFRoSjFUTHpvUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US Treasuries Stumble as Strong Labor Market Lifts Fed-Hike Bets",
+   "source": "Bloomberg.com",
+   "time": "2026-11-06T16:27:58Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3NNcGNRYkZlWG9POWd3eC1hYThVTjhmVEVfb1NEZy1qZlJhc3dBMGQyLTlmR0ZwN0hEUmdyclN0c0RiVjZwaGlPdGxuWDlHbW56WVhwcER1V2pxLWJ5YjZWSXE3bDZkc0pUWWlyZnEweER3TWJob2Rjb0pRSWd1c3lUZHBoeTFoZmNnc25feUszUWVMYy1uR014ekZkNGZLX1IxWnh2dkdSRTRDTFRsTUNVM204QQ?oc=5",
+   "tags": [
+    "FED",
+    "JOBS"
    ]
   },
   {
@@ -168,6 +227,15 @@
    "link": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
    "tags": [
     "JOBS"
+   ]
+  },
+  {
+   "title": "Iran reviewing proposals to curb nuclear program - report",
+   "source": "ForexLive",
+   "time": "2026-11-06T16:06:34Z",
+   "link": "https://investinglive.com/news/iran-reviewing-proposals-to-curb-nuclear-program-report/",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -226,6 +294,15 @@
    ]
   },
   {
+   "title": "Ukrainian President Zelenskyy presses Western allies for clear postwar security guarantees",
+   "source": "AP News",
+   "time": "2026-11-06T15:42:00Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjlsUE11bnBIRE0wTDBnNFRLanhnZjhJeDA0RWc4Q2ktSHVBS3oyVDVudThQRHEzSHpXcUpKcm53c2twdGFUVHRzdFN2eWhBaUFWUmNMQU9lMjczcm52bnBTNmxmd0NkV1RId2FXY2NTS3RxdHpJSFR0cFdzcWpWSGw3RTZhVVByaXNDdURVU1FYX2pSWDBPc3RMcjU3NEU?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "How Trump’s War in Iran and Missteps Flipped Washington Overnight",
    "source": "WSJ",
    "time": "2026-11-06T15:33:26Z",
@@ -245,6 +322,15 @@
    ]
   },
   {
+   "title": "What’s Next for Iran Peace Talks After the Midterms",
+   "source": "WSJ",
+   "time": "2026-11-06T15:28:27Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYW1zY1FmUmVFY3g2Mm9kNDdJSFZyTkV3OVMtYUNTRmRTdXI4Wm5yMHZ4eHI3LUlJWFBMS19IWG5BTS1XdEZsVlNpSTJDQUlZMjk3SWdwRzJZb2ZnVS1vMDktckppUG5tVmJwWk9UWHVKNHVxNWJMTDhvc2NzNGpNVEZZXzBhWXRPakFRRXBvYTBtU2dOay1zcEd3SjVwQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "The Iran War Isn't Over, but Oil Traders Are Already Pricing In Peace",
    "source": "Crude Oil Prices Today | OilPrice.com",
    "time": "2026-11-06T15:28:00Z",
@@ -252,15 +338,6 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
-   ]
-  },
-  {
-   "title": "What’s Next for Iran Peace Talks After the Midterms",
-   "source": "WSJ",
-   "time": "2026-11-06T15:26:00Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYW1zY1FmUmVFY3g2Mm9kNDdJSFZyTkV3OVMtYUNTRmRTdXI4Wm5yMHZ4eHI3LUlJWFBMS19IWG5BTS1XdEZsVlNpSTJDQUlZMjk3SWdwRzJZb2ZnVS1vMDktckppUG5tVmJwWk9UWHVKNHVxNWJMTDhvc2NzNGpNVEZZXzBhWXRPakFRRXBvYTBtU2dOay1zcEd3SjVwQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -438,22 +515,21 @@
    ]
   },
   {
+   "title": "The price of gold today, Nov. 6, 2026 — and the best places to buy",
+   "source": "CNBC",
+   "time": "2026-11-06T14:31:40Z",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RVEpOeVhlS24zdU9Md2xWdGt2WVN6ZFhrdDZ3VmpHb1gzUjhHRE9LT2g2aFFXWmFOWEozYm5OVUxGRHRrYkxrN092Sld1WDM1QXhabVBPYUNMVXhLbVZ6ekp3Rng0LUZuS0lqeTVjTGLSAXZBVV95cUxONUZMS0JSNE9RNDZCM1BvU3BETkV3bjZ5V0Y3YzVfM2doQ3hFdlY5dC1EQjUzUnAtN3FBSmxoNkliZzFMZXlnUUg2dzlaeG1JVjNqV1hwaUFhSlltSTliazhEZWk2SDhEblFlV1YybEJDcXEyd0F3?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "B2Gold Q3 Earnings Beat Estimates on Strong Gold Prices",
    "source": "Yahoo Finance",
    "time": "2026-11-06T14:29:00Z",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1pRTnRZclc1UndpQnlkLUtJbGNGalZkVlFxWEMxdjRnaXhnSlZYNGFlQ2xzTnNIemhrczJBWVFzcGRPWmc1Nk9jSktFVDE3OTNzYVo5Rk44U19YNzdaQldDQXRYTERua1BkNDNDM2dWbjJxSENRaW5Ba3BVOUNMa3BQNENFZTFLZlZFLXJzVzI4Nko4a3RoRk9rV1ZDcHoyLTZUbEFB?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "US Treasuries Stumble as Strong Labor Market Lifts Fed-Hike Bets",
-   "source": "Bloomberg.com",
-   "time": "2026-11-06T14:26:20Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3NNcGNRYkZlWG9POWd3eC1hYThVTjhmVEVfb1NEZy1qZlJhc3dBMGQyLTlmR0ZwN0hEUmdyclN0c0RiVjZwaGlPdGxuWDlHbW56WVhwcER1V2pxLWJ5YjZWSXE3bDZkc0pUWWlyZnEweER3TWJob2Rjb0pRSWd1c3lUZHBoeTFoZmNnc25feUszUWVMYy1uR014ekZkNGZLX1IxWnh2dkdSRTRDTFRsTUNVM204QQ?oc=5",
-   "tags": [
-    "FED",
-    "JOBS"
    ]
   },
   {
@@ -564,7 +640,7 @@
    "title": "Dan Ives says tech rout is 'golden buying opportunity' just like during Covid, tariff sell-off",
    "source": "CNBC",
    "time": "2026-11-06T13:46:09Z",
-   "link": "https://www.cnbc.com/2026/11/06/dan-ives-says-tech-rout-is-golden-buying-opportunity-.html",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbUVzcVRlQmxnbVdWVHBrSFF6c25YRklVclYwN3hOYUZRV3ZDclFFTVUwS3cyeVZ3S1ZZQzgyYXZWWVJkZ1pLc25UUXJPcmhPYV9IUU1UcVJ5QmhDZTFldUJFNVdCSlFIUkRvZEJ6SDNScXpGR3J5NlFSVGhCMnZ4MGpQV1I1N2szM3VEX0Z3VzVrcFdI?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -591,15 +667,6 @@
    ]
   },
   {
-   "title": "Copper drops to lowest since July on AI slowdown fears, tariff doubts (CPER:NYSEARCA)",
-   "source": "Seeking Alpha",
-   "time": "2026-11-06T13:44:06Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSW51ZWd0UHlVRmZ1OEpsaGhiU1JEWXp4eXhFMVE5Sy04VjNPVENndFFNTGVFMExoalhqLTktSjY5TnAwalJTMU1OeEg0UkJYcHFZZ2ZlZ1lsXzdlLVNKTWxreFYxSkpWRjZmVWRUd0hRTWpnZ2NzbFJsRk5xdi05VDZYTkltSllRSC1RcXNLUF96SXJxQm1lVFZWbmlzdVhVWW1iemlBSDBpUQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
    "title": "Copper drops to lowest since July on AI slowdown fears, tariff doubts",
    "source": "TradingView",
    "time": "2026-11-06T13:44:06Z",
@@ -609,75 +676,12 @@
    ]
   },
   {
-   "title": "ArcelorMittal Says Europe’s Steel Tariffs Are Boosting Profits",
-   "source": "WSJ",
-   "time": "2026-11-06T13:42:59Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0xfNmtoVDFyN3lxWTAzZ3hRSWV0aVRENWJTWFdCWG9XcUd0V1BlelpOMTZFMG9zbEdEQVpPaTlNQ1BWYUZuWXZxVHVLRE91bVRjdkpIY0VNX2xkZFQ5R29RNUFhRUc5b3o2dlFZTFo1OEpoSjN5cWZ5Qk5NQ2ZKYUNiSE5ramJtYzliaTAwejB4a3RMa21sdV9WWTJEVEZpazFnTVVlVUd1VGVtbzQ0Q1I4OXBWZw?oc=5",
+   "title": "Copper drops to lowest since July on AI slowdown fears, tariff doubts (CPER:NYSEARCA)",
+   "source": "Seeking Alpha",
+   "time": "2026-11-06T13:44:06Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSW51ZWd0UHlVRmZ1OEpsaGhiU1JEWXp4eXhFMVE5Sy04VjNPVENndFFNTGVFMExoalhqLTktSjY5TnAwalJTMU1OeEg0UkJYcHFZZ2ZlZ1lsXzdlLVNKTWxreFYxSkpWRjZmVWRUd0hRTWpnZ2NzbFJsRk5xdi05VDZYTkltSllRSC1RcXNLUF96SXJxQm1lVFZWbmlzdVhVWW1iemlBSDBpUQ?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "US job growth beats expectations in October; unemployment rate falls to 4.1%",
-   "source": "Investing.com",
-   "time": "2026-11-06T13:42:34Z",
-   "link": "https://www.investing.com/news/economic-indicators/us-job-growth-beats-expectations-in-october-unemployment-rate-falls-to-41-5008194",
-   "tags": [
-    "JOBS"
-   ]
-  },
-  {
-   "title": "Trump, Congress Set to Clash on Politically Toxic Tariff Blitz",
-   "source": "Bloomberg.com",
-   "time": "2026-11-06T13:40:04Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGNzcGItR1hEcEVGTTl2MTBubWZUWnpOVTdKdUNEQUFDbjdiV0ZtbU1xRXhHM3NpRGl0Q1diOWM1a3dUNVJsQ2NXeFZoM2lsZnVjZ0hDWUs2SmJBaEQxWGlTZmUtV1d0N0tPUWRIcU1HRjRKNTVKdFNLZGtsWHJfODY1V2pkdXZIYzZhT2ZWVTVxSEp4dGk1RnpqV3hzWUpfVVZQSVlKR2FFWkY2SzVCSG93?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "US October non-farm payrolls +165K vs +65K expected",
-   "source": "ForexLive",
-   "time": "2026-11-06T13:32:15Z",
-   "link": "https://investinglive.com/news/us-october-non-farm-payrolls-165k-vs-65k-expected/",
-   "tags": [
-    "JOBS"
-   ]
-  },
-  {
-   "title": "U.S. Nonfarm Payrolls Surge, Surpassing Expectations",
-   "source": "Investing.com",
-   "time": "2026-11-06T13:32:10Z",
-   "link": "https://www.investing.com/news/economic-indicators/us-nonfarm-payrolls-surge-surpassing-expectations-93CH-5008141",
-   "tags": [
-    "JOBS"
-   ]
-  },
-  {
-   "title": "How the Iran war is changing the renewables landscape",
-   "source": "Axios",
-   "time": "2026-11-06T13:31:52Z",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Iem9JYmdZTmJNdzczTC16d2lZb0xjalZ2elM4Z0FTOG8wdlZpWm9QYVYxTFNNRkVSMXdQS2NjM1VvTWFqUm10MG4ySkllbjZRRmZFUnM0QWk4c0FYTlV2ZFRaUFgtR1JtTUoxTWRESGY?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump Dials Qatar to Discuss Iran War De-Escalation as Tehran Sets 7 Demands for U.S. Talks, Tells JD Van",
-   "source": "Benzinga",
-   "time": "2026-11-06T13:30:33Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUkRLYUtrSWgxeWlrT19ja0dFZjYyYXc5YUxxRUJIYWJ6MDBya1VKb1V3b3d2SldfeUp2X1dvWmJLYUE5RHJfYU9oQUwtY2Z1eUtRVV9mVGQxNUl2ZlFOeEg3Wm1wOEVRN0VOemlFd1I2SjFhWDdJVHBNWUh6dUpMbHJ6aWRZajFMUjFMUUdoMUhDeHhqS1k4TlF1ZlFfVTlKcWF3XzVNTTVaZnc3Tm1YRFBLNGxqdDdIRFhiWWwyMVBYZUFSd3otNGhhQUpLUXFSdGhna0ZJbHowRWhYNEJRanRhYXpvaGVfWEZwb1FxS21UZGZhb001clZiVFNlQzgzMXFnQm1Wc1RwNlZLdFBzSk13dWhBbVlaeGJ1OUpvVjFfWDdCeUc3MmwwOA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
-   "source": "Al Jazeera",
-   "time": "2026-11-06T13:30:18Z",
-   "link": "https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
