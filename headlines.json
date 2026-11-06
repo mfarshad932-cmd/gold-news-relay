@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-11-06T15:51:20Z",
+ "generatedAt": "2026-11-06T16:19:42Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 1
   },
   "fed_monetary": {
    "http": 200,
@@ -48,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 5
+   "kept": 4
   },
   "marketwatch": {
    "http": 200,
@@ -58,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 4
   },
   "bbc_business": {
    "http": 200,
@@ -73,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 3
   },
   "whitehouse": {
    "http": 200,
@@ -82,13 +81,13 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 13,
+   "kept": 12
   },
   "gn_tariff": {
    "http": 200,
@@ -97,13 +96,13 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 46,
+   "items": 44,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 10,
+   "kept": 10
   },
   "gn_yields": {
    "http": 200,
@@ -112,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,6 +125,61 @@
   }
  },
  "items": [
+  {
+   "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+   "source": "CNBC",
+   "time": "2026-11-06T16:06:59Z",
+   "link": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "Fed seen sticking to December rate hike after jobs data",
+   "source": "Reuters",
+   "time": "2026-11-06T16:04:55Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "US slaps more sanctions on alleged scam group’s affiliates",
+   "source": "The Manila Times",
+   "time": "2026-11-06T16:03:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcW1CYUhNU0MwRFNzenVoVlE2UE9RZWdkUUFIVXZzd1ZtLXkwVkczV2VFUGVvRURIZkpVSDdaRExMdmVESm02b2J3eV9xZzJFX2JFdXRLZDJjLWZKeWNpVFdyYTBFQlo5VVRqX1o2aWd5WU1fOW9DMGo0TEIzWjUzTm1zTlFPZF9uUDlJb1VUZGxnX0JuQjJCWnpOZkRsUVhzOG80SzROa3BtUEI2RUhrSGVpUkpOR3pxSzVpM095dG_SAcYBQVVfeXFMTmFzS05rdDZDZHBfMEw5Q25xSmxoMmVyS0x4aG4zYm84bENKUW96alVKam42NW1GM21BamU3eDRkTExPRnRWMFpMQTh3NjlrRWVoeUJkTmtIalVnSGFSQ0JtbnBUTzVXOURTRGFXNGZ6dDlSSHhoRlJPTmpvTkpKeGllemhwbEVZdkFmNDFqd3RiLW93MnNXZlNoSG9SY093X3FhRnlubnR0MEl3eDd1Q05ud0pVNDgyVlNudnFzWmtjc1d2UkV3?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "High gold prices, lighter jewellery: How Dubai jewellers are preparing for Dhanteras",
+   "source": "CNBC TV18",
+   "time": "2026-11-06T16:01:32Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVkpoc2h5dHBHMzFVLXAxQjEwWTRLNGdWMXl0eXQybGZEV0NjTUxiSHZxWGp5NWxUdC11M2xYSXQxUlpxZnNDNzFzN0JoS3BnQ0xTbnVIdkUtMnpmQ2cxQ3NkRmRGNElfSUUxUXltQUZMemJYY2Z3SVhmdHpneWoyd25Wck5zblZvOWo1bTIxbW9ubk5Db2xHbFpFa0xDZ0JmZTlQSzBTdWhVNS0ybUHSAbMBQVVfeXFMTkRtWmVIU0pYa1Z5cHVRNXVOY2tEeUpXbGdKcFZNRTdIZUt3Ry04WDBxUktlUTFQVmd2Z3Rkc1F1MFBPQ2NETThEdlBkMHF5S0tWbV9aY25pMHZkZlRIVGJIZ3BMcm1WS1Qxck1RaTVPTS1IbzdVMUVFVjM4U0ZMY2o0cGY5WS1lRlBpanBpZkxsSEhYWGtnSEVlQnBYR0x5Nkk1RnVpR2ZMTHFOdHdHMDFmWkE?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold Weekly Forecast: Post-midterm elections relief rally loses momentum",
+   "source": "FXStreet",
+   "time": "2026-11-06T15:44:11Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWW1uUmR2cWlyLXZLT2lSR1dyNmVLQ2k3NHBsSkw1MGpoaUJFRC1vM0M2TVh4emFpRUxXVmQyWDhXVkVqdnZodGEzQTBwdVk3bDlhN0ZBRHZzVFNENi1xaWgyWDMxTDhLWldlNEtoTGpiWDA5enRMZ194UWZELW5LTFdDNzRhUlJTVE02VkJGME9zZnVzM0xNOFdMVkt5bGw4NWViM2Q5OF9LX3dSX1FsakFPZEN3Uk9CaGc?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "How Trump’s War in Iran and Missteps Flipped Washington Overnight",
+   "source": "WSJ",
+   "time": "2026-11-06T15:33:26Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzhmcEwxWnJ6eXlYcm5qb2lmOXVadVNibW1kYm1PbG5EaGVhQ0lnWDVQVk8tWU84Y3ptYWtJdjFjY29xZnUxOE9LbU9RVzI5WlhDbXBEbDlNRnBDRmJZVHk1Z2h5VTBCQmxweGxOUWhlZlJKWF9zaGNkSS1abVctSktKSHZFTFV3c24tNE4tdDdNQ3lEVFhmWFNobDR0OVFK?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Gold Faces Risk to $4,000 Support After Strong US Payrolls Report",
    "source": "FXEmpire",
@@ -248,15 +302,6 @@
    ]
   },
   {
-   "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
-   "source": "CNBC",
-   "time": "2026-11-06T14:57:35Z",
-   "link": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
-   "tags": [
-    "JOBS"
-   ]
-  },
-  {
    "title": "Trump’s Iran war has changed the future of Social Security",
    "source": "MarketWatch",
    "time": "2026-11-06T14:55:00Z",
@@ -320,6 +365,15 @@
    ]
   },
   {
+   "title": "B2Gold Q3 Earnings Beat Estimates on Strong Gold Prices",
+   "source": "Yahoo Finance",
+   "time": "2026-11-06T14:29:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1pRTnRZclc1UndpQnlkLUtJbGNGalZkVlFxWEMxdjRnaXhnSlZYNGFlQ2xzTnNIemhrczJBWVFzcGRPWmc1Nk9jSktFVDE3OTNzYVo5Rk44U19YNzdaQldDQXRYTERua1BkNDNDM2dWbjJxSENRaW5Ba3BVOUNMa3BQNENFZTFLZlZFLXJzVzI4Nko4a3RoRk9rV1ZDcHoyLTZUbEFB?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "US Treasuries Stumble as Strong Labor Market Lifts Fed-Hike Bets",
    "source": "Bloomberg.com",
    "time": "2026-11-06T14:26:20Z",
@@ -345,6 +399,34 @@
    "link": "https://www.investing.com/analysis/golds-2026-pullback-raises-a-bigger-question-buy-the-metal-or-the-miners-200691010",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "‘Biggest Bloodbaths In History’—Bitcoin Suddenly Braced For Fed Price Shock After Serious Gold And Silver Crash Warning",
+   "source": "Forbes",
+   "time": "2026-11-06T14:11:39Z",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORkkwMWwtNEdmaldLRkZ6NzBXSUtjeGNXVXVQc2dCdlItakZtSF9BOV9DcV8zUTR5dkEwcnpfcnBJN3hYQVFxUUo2eEFNaFJIbUVINy1QRElIQzZHX0pQclZXUHM4dFpjZ0dCVVZSQkt0WHpiQ003bmtEVkJSNUxYM0gtWVdJbWRhMWZHd2RCMk8tZXFiMTFvUktzeFg3VEtDUVFiQVZGSFdOZ1l5VUNQSkxpSVUzcWFBV1VxWXNSSVVyamQwbmtuSG9aRWxfcm9HWDJQZDNyZkd6TFBYM294RndwMndVRXM?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Jobs report shows hiring accelerated in October",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-11-06T14:11:29Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmQ5Q1NmVjFvcUhnc1ZWa1ZYWE5fRjR1UjN0TGJmaFhLSjBiQ3hOYmhLNk1sRzJHcFNFcjZneS13NWlWdTIycmZwalRRSXpzLTktR0Q0NUhqdmU2Qkh4MnhHa1RkZjc0bks5a1d6eDJQbmtnbVh1QlVEU2hrRlFtcFZFZ2dGRG01aERMakNyNWFyRnY1d2dMeXQxVmVIM1dGZGZF0gGoAUFVX3lxTE5jZF9CMjZjVEZEdm5JZjh2dFlmUHIwWGVlZW9vdDdMQUt6S3hlUE5qaW5iRkNxTWhSM2cyYTRlbjBrWFZFZGFXbG1sbnVSZmRPaGRMMzZOaWtnUVVOeWF4blhUUGs5VVo4RWpiVGR1YjRvY1N6eVRjNDNqLVJ3ekVVcHcwNE0xcjEyb21OcjRTLTRzRnFIajZ3YmVGS3BBLTBPSklic1QxQg?oc=5",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "Why BYU-Utah’s Holy War runs deeper than football: Bananas, banned words and fistfights",
+   "source": "The New York Times",
+   "time": "2026-11-06T14:05:32Z",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHROWEJET0hNQU9hTWZRYnhHR3lyaUZOVWdhUDJhMlBhVGZycER1dllZdnVuZ0hkc3dKVGRyMFM1OVVLUDgzQTk5bUZxcUxiemNmRVVlNXotczJ5OGN3SkJSbmlXOHJWcHlUMUxQVGVic2I1UkpPX29neGVsSjNzRE1pOXg4d2h4Yno1UDVmdE0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -384,26 +466,6 @@
     "FED",
     "JOBS",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Traders raise bets of Fed rate hike after jobs report",
-   "source": "Reuters",
-   "time": "2026-11-06T13:51:45Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "JOBS"
-   ]
-  },
-  {
-   "title": "How Trump’s War in Iran and Missteps Flipped Washington Overnight",
-   "source": "WSJ",
-   "time": "2026-11-06T13:50:25Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzhmcEwxWnJ6eXlYcm5qb2lmOXVadVNibW1kYm1PbG5EaGVhQ0lnWDVQVk8tWU84Y3ptYWtJdjFjY29xZnUxOE9LbU9RVzI5WlhDbXBEbDlNRnBDRmJZVHk1Z2h5VTBCQmxweGxOUWhlZlJKWF9zaGNkSS1abVctSktKSHZFTFV3c24tNE4tdDdNQ3lEVFhmWFNobDR0OVFK?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -614,70 +676,6 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSXdLaXFqTm0tN3BFUXBVUVVkYmp2R2h3SXlFbUdrbmk2Q0xhWE9jb2VpWDliY0g0WEgzTmo3dmZwM1BmZVZXOUhXLTBuNFlNNi1zWEloN1lQaG5CTlVaTUU4dkxxbVJqWklPVlpVT3VtakRjMFgtNjJTX2UzU29kQmlpczhyY1lQVmxQU21ydEZfWEVoTnRDMXJHZVgyZGl0aWNoamRoTmpmUTctTW1mcFNESVFEc09ybGRzeQ?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
-   "source": "Al Jazeera",
-   "time": "2026-11-06T12:57:33Z",
-   "link": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Non-farm payrolls preview: October numbers show a skew",
-   "source": "ForexLive",
-   "time": "2026-11-06T12:53:21Z",
-   "link": "https://investinglive.com/news/non-farm-payrolls-preview-october-numbers-show-a-skew/",
-   "tags": [
-    "JOBS"
-   ]
-  },
-  {
-   "title": "Goldman’s new gold target: Why the Wall Street bank is saying it’s early to buy the yellow metal",
-   "source": "MarketWatch",
-   "time": "2026-11-06T12:47:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd2taR1VMNUZnTGpxektzejFJNXVrUXNLeFgzWnFMSkgwdU1TeG1yTEVvYWplWjBIc0JFSlNKM1VYcmFBTV90aENzMlBjak5oUUxMLW12T194MlloVHg4c3E5bEhNZnBHV2ZYTkZvY0F6Y1pqdUd5TlB2UHI4QTdBRlNYdVRXWnhHZHdmbjVyc0NXcm85VmVqeGtRNU9MYUZuc2Jwa0labzl5ZUdOQWltTjl5QWNUQ0FSMlJsU01Ra01ydlNiTVNFZHNMMV9CbU52T2c?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "What is the distribution of forecasts for the US NFP?",
-   "source": "ForexLive",
-   "time": "2026-11-06T12:44:44Z",
-   "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-nfp-2/",
-   "tags": [
-    "JOBS"
-   ]
-  },
-  {
-   "title": "Jobs report to provide latest snapshot of hiring days after midterms",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-06T12:42:18Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmQ5Q1NmVjFvcUhnc1ZWa1ZYWE5fRjR1UjN0TGJmaFhLSjBiQ3hOYmhLNk1sRzJHcFNFcjZneS13NWlWdTIycmZwalRRSXpzLTktR0Q0NUhqdmU2Qkh4MnhHa1RkZjc0bks5a1d6eDJQbmtnbVh1QlVEU2hrRlFtcFZFZ2dGRG01aERMakNyNWFyRnY1d2dMeXQxVmVIM1dGZGZF0gGoAUFVX3lxTE5jZF9CMjZjVEZEdm5JZjh2dFlmUHIwWGVlZW9vdDdMQUt6S3hlUE5qaW5iRkNxTWhSM2cyYTRlbjBrWFZFZGFXbG1sbnVSZmRPaGRMMzZOaWtnUVVOeWF4blhUUGs5VVo4RWpiVGR1YjRvY1N6eVRjNDNqLVJ3ekVVcHcwNE0xcjEyb21OcjRTLTRzRnFIajZ3YmVGS3BBLTBPSklic1QxQg?oc=5",
-   "tags": [
-    "JOBS"
-   ]
-  },
-  {
-   "title": "Australia joins US and Canada in sanctioning Sudan's rival military leaders after three and a half years of war and $6.23 billion in humanitarian aid",
-   "source": "Business Insider Africa",
-   "time": "2026-11-06T12:38:24Z",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPenVMYUt0MHJCNmRSNHpJMDRtLU9oQUl5N05ZWEo0SDBtRUV0aVFiaWlTdHNlS2NGLURPSzlkRlNHZTlzLUtvMzZ1VWRPMEhteWJsS3F1WDVIQnJEdngwdEtFWGZHRHFSR1hMWVRodlNLQnJWQXYtVXpHZHF2cExjeXA5TjE4cDY2UTJ4NVM1eGVSNE94YVgtWG4wVGNRZ21Ma1hnZ1IyNkhrUG5pdVktVkdqUFU2emNMVTVWNzVvdmtvNDhWQlNJa2dwcFhCTGxPN3Qw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "investingLive European news wrap: Markets consolidate ahead of the US NFP report",
-   "source": "ForexLive",
-   "time": "2026-11-06T12:34:28Z",
-   "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-consolidate-ahead-of-the-us-nfp-report/",
-   "tags": [
-    "JOBS"
    ]
   }
  ],
