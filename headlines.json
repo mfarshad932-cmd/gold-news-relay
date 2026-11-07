@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T14:59:25Z",
+ "generatedAt": "2026-11-07T15:27:45Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,12 +52,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 1
+   "kept": 3
   },
   "bbc_business": {
    "http": 200,
@@ -66,7 +66,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 23,
+   "items": 25,
    "kept": 2
   },
   "aljazeera": {
@@ -81,28 +81,28 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 23,
+   "items": 21,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 10,
+   "kept": 10
   },
   "gn_tariff": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 5,
+   "kept": 5
   },
   "gn_war": {
    "http": 200,
-   "items": 39,
+   "items": 41,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 11,
+   "kept": 11
   },
   "gn_yields": {
    "http": 200,
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,33 @@
   }
  },
  "items": [
+  {
+   "title": "Trump’s Iran war has changed the future of Social Security",
+   "source": "MarketWatch",
+   "time": "2026-11-07T15:18:00Z",
+   "link": "https://www.marketwatch.com/story/trumps-iran-war-has-changed-the-future-of-social-security-7a500f9f?mod=mw_rss_topstories",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Watch How the Iran War Is Making Alaskans Both Richer and Poorer",
+   "source": "Bloomberg.com",
+   "time": "2026-11-07T15:08:53Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcU0tVXVXZjhGeVdld2psM2xYb2xlTkljRzVjZUtDX0s1anRtRzBkSXJ1Z0psaHZON3Z6UG1RaWdJSXVMUlZPRUhTTFFaSVA4R3A4bFU0NkhGSjl1dll3cVZtVzlvdE4tTk4xUXR0dW1OTzBwNzJtT2hmLU9UMEFmeE9TZlljRHU4QlE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russia pounds power facilities around Kyiv, damages major bridge",
+   "source": "CNBC",
+   "time": "2026-11-07T15:03:14Z",
+   "link": "https://www.cnbc.com/2026/11/07/russia-pounds-power-facilities-around-kyiv-damages-major-bridge.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
    "source": "ECB",
@@ -139,6 +166,15 @@
    "source": "Axios",
    "time": "2026-11-07T13:46:20Z",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhVkcxeWJJQ3U3M2lLU2xNdkxkc0JRNVVkYzVCMGU5Sm9oUkMzM0k1anJBS3RZTUVEd3EyTkhoYTZJaVFYTkt4VV9VbFFuRG1ja0xMMU5nOFBSeHlTVUxicW84TnRRRDBITTFhX3QxQS1qWTBJV1cxMHc3S0s0amM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "An airstrike has killed 25 people near Yemen’s capital, Houthi official says",
+   "source": "AP News",
+   "time": "2026-11-07T13:43:00Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2phS1lmT1dSeWRnSGpVanhOVE5iNGVSbldWSTFDMjdLVFAxSW9FcWNTUkVYX1ppMXJ1aFRLYlF2NDY3STIwZGdTaE9lOEtOOEU3ZFZKd1RXbXhhWDVsZ1ZiRGRZU0pEdkx2LXZHUXBKeGVWOEFrT3RMaUx6UUZnZk1tSG13Tzh6VWlOT01tVQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -643,44 +679,6 @@
     "CENTRAL_BANK_GOLD",
     "CHINA",
     "GOLD"
-   ]
-  },
-  {
-   "title": "China Extends Gold-Buying Streak to Two Years as Prices Drop",
-   "source": "Bloomberg.com",
-   "time": "2026-11-07T03:32:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVdJdkgwZnBIUEhYS0ZGcUpvYVFmWW5tVlZqVFlRSkJuOWUyU3Z2Zi1sZ3F1S3BuMmFrSUtuSDhDbWkzWS1lM2Q0OE14WTVkaEk0SnZMOExTRDFUV3h1dUNvejhVTkRmdjVLb1VKUU40ZlliTTVXenVaN3M5ZEpoZVFqMW9WemRDWGV2YmNCeGpVci0zU2p4a0xhRUhYaDB4ZC13bHNISUdOc3J2RUNKUg?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "CHINA",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
-   "source": "The Guardian",
-   "time": "2026-11-07T03:26:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNlhQNEhVWUJ5ODk5MkxWbFlVZVZVUnU4dGxYVWJzdTh2R2x1aHdSd1pkVHlERGNod3JCOEVSWVIxdC1SbHlRX0RPVGM5UkVCTk5KR3RWb0lWczUza01JWkNwNU93ZnpKV1pGRHk2ZW1ZZExxeGEzYW5qekxFM2dRZDhFUWZ0MzVka3RYajRBVU96cWlDTWhvM2NpVm85YTlZZm5JdkxUQ3o3VVVFUzFR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Price Canada Today | Live Gold Price in CAD",
-   "source": "Kitco",
-   "time": "2026-11-07T03:10:30Z",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Iranian military claims it’s now ‘stronger’ than at start of war with Israel and US",
-   "source": "The Times of Israel",
-   "time": "2026-11-07T02:31:36Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdllJTVJkMGptM0tnZWZ6cVA5MThfelFrS3dtUUx1NkhWVmFiNElGNnRYUVJtRFJ6TG9KcDVTdHZoYTRBY0JJWGI0SGthcjNmU0o2ODFEREFPUHRsNTRpZjFJNEFWd0xIdjN0N284aElXVzlfdW5QNGl5bk15NDVfLVkzNUpJOEF0eHNJVUJWRHR1YlJCOW5hMGNUSmRHMEVLM0dQQ3ZQb0dKVms4TWx2bXBlamUtWlpJdGV3SUF4eU9taW5T?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
