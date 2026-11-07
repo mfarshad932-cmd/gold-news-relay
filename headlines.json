@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-11-07T17:20:54Z",
+ "generatedAt": "2026-11-07T17:49:12Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 0
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -72,7 +73,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -96,18 +97,18 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 41,
+   "items": 40,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 11,
+   "kept": 11
   },
   "gn_yields": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_oil": {
    "http": 200,
@@ -125,6 +126,15 @@
   }
  },
  "items": [
+  {
+   "title": "3 Financial Stocks Retail Investors Are Watching As Treasury Yields Stay Higher",
+   "source": "Yahoo Finance Singapore",
+   "time": "2026-11-07T17:12:13Z",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObFc4eWF0dDRIaFZYRERiT3RrTGZUYjAzd1BvSXhhWi1yUkNRdnRFbVN0VGRFOVJQY0lFQk9MTWJ3cndxTldSbGJMQzhzYzF0NDIyLTZhdFBUWXNwXy00MHEwb1UyekRXXzhWY0xGZmI4S0JjSGJPRl9vdjZNcGZmMnhaTGJPWHRZcnpYaQ?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
   {
    "title": "Jerusalem Daily: Heavy rains flood Gaza",
    "source": "Al Jazeera",
@@ -529,6 +539,16 @@
    ]
   },
   {
+   "title": "Conflicting numbers complicate Fed's monetary policy decisions",
+   "source": "Axios",
+   "time": "2026-11-07T09:41:50Z",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PY0dMbS11QXpwYTlhSXhzdFFtMXdXcnJUTm0yWFBXcDFNZzh4ZmxyeER1MXAxTHVzWW1FVS1vYzFuV1lYZmdrSnlwY2U5QlRRekl1dlFZTHZSeDN6MFNyQVFLRk1ZUHZ1eHZSbHlxV3dMa3gx?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
    "title": "Galiano Gold Inc (GAU) (Q3 2026) Earnings Call Highlights: Record Production, Lower Costs, and ... By GuruFocus",
    "source": "Investing.com Canada",
    "time": "2026-11-07T09:39:24Z",
@@ -657,26 +677,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Oa3FkWGhCVkIwTVRqWW9oUTd4OGVaOGxjWHFCRGRTcWU0YTNNZW43Z1M2dDFCd1ZiZXZ2U2pRdTVfTnA4UHBpX1VSVTBJZjl2ZWJPWEVpVm9EOVk?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine war briefing: Beijing confirms historic Xi-Trump-Putin meeting under discussion",
-   "source": "The Guardian",
-   "time": "2026-11-07T06:42:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObHRCcDhuX0lWbVJuNHA2TFVfMzd0dTFhd21WZWR6Zlc1bm5YaTR1enFmQnJGSWtRVnAxdHN0eWhjY0I2bDVfcHFmMFRYV3pILVBQeTFPVDdCVm41dG15ZkZjS29oUzRpSFY5WWpLLXZZREVkOV9RbTJsbVZhMC1UMTNPQ3k3LXN2MThOZG5MRTdpVUFRRUZWbWZ4SEhrbmF1UjFhT1dGU3NWUkhvT2k2c2dKZF9TckV0d2JCVUhTaDBkaEFsWlhfeDhyRFY?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Gold (XAU/USD) Price Forecast: Breakout Signals Potential End to Correction",
-   "source": "FXEmpire",
-   "time": "2026-11-07T06:26:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcU1ZMFpnVFpmTFRyMnBBdWo4cFZOY25kaGFiODEyR21JYUdEeElhVjd1MFBBUlV5UGlSRHVmSGk3d1ZrYm5WenNtQzlfRlBPRmhuNEhsaWFRODBOa3lwOFNwb0VuTXFaVEluRVg3eHBYRjBMdTNOcFhqT3lfcUcxZEROTnAtMW9VMlZOVE9fNlhMN1k2cGdxM0diM0J4Y2FaX1lHdGRqQVZPaGpFck5zZW9zUWtWMTJJbERpSmVqX2g?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
    ]
   }
  ],
