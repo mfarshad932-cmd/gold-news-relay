@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-11-07T08:22:50Z",
+ "generatedAt": "2026-11-07T08:51:10Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 1
   },
   "fed_monetary": {
    "http": 200,
@@ -58,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 3
+   "kept": 4
   },
   "bbc_business": {
    "http": 200,
@@ -87,12 +86,12 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 22,
+   "items": 20,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 23,
+   "items": 22,
    "kept": 12
   },
   "gn_war": {
@@ -102,18 +101,18 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_yields": {
    "http": 200,
-   "items": 17,
+   "items": 15,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 2,
+   "kept": 2
   },
   "gn_cbgold": {
    "http": 200,
@@ -127,6 +126,24 @@
  },
  "items": [
   {
+   "title": "Emirates Airline Profit Falls After Iran War Disrupts Air Traffic",
+   "source": "WSJ",
+   "time": "2026-11-07T08:33:11Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2hfQWJDNnFHaDIya3JhZmdid090dlZMZHNZVk45UmYwTlRyWTFjM3F3LTZKSjRNV0ZSTTA0eXlOSGtvbU54cklqSnZiTmJHYmJtWHJWUzBBTHBnNDJMM05vRURrZHVsNlBXaWdTRElzX3ROY3VnYnZpak13b3VyU0tJd2RLNXpNU0hZNDlSQUFmaUg2cjdCY1BmSDUxVWs4RlVOMlhVUnM3V084VVNyLWNn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "What i-80 Gold Holders Bought Into",
+   "source": "Yahoo Finance Singapore",
+   "time": "2026-11-07T08:12:35Z",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91S3JEWVBiTUpxc3hxdWJOeXl3d0RobVVlSkh3bExiQ0FIQTJpRXNGeENra1JnWmk3MHFaQ0ZhMmxRTmlQQldzejZyc1o1cTY3U2NNYVBKdUlmZlplazlISnpObzRMcmlRbnJ6Sm5XakFCR1JkTnEwZGFfUQ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "The Argument for Buying Treasury Bonds Is Still Strong",
    "source": "WSJ",
    "time": "2026-11-07T08:12:26Z",
@@ -139,7 +156,7 @@
    "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
    "source": "CNBC",
    "time": "2026-11-07T07:37:36Z",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSHBsQVgybGQ0aDhTUFc2WDBBZzBEa2lJM3d3a24wWHcyRnVFdzdYQ1pwWXdrd2VSSWllZzhoYWhlWEowSy02VE5BYTRRak1faFh5Mm1FUVkzUW9HM2x4VzBublNzdHZkNUozWG1DbS1Xck80bzNPYUh2d3RRcmQwZU9haw?oc=5",
+   "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -210,6 +227,15 @@
    ]
   },
   {
+   "title": "'People have been knitting and crocheting for the past year' - cascading poppies for Remembrance",
+   "source": "BBC",
+   "time": "2026-11-07T07:05:39Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Hcml1Z0xiWEJBOWUxUUEwZXhBejhYVG1TSXBWd0dzd2prcF9jblJKeUw3QnhhUk56UFRQNUh3ajJpRThzeXlDY2tjS2dzZHBUMHQ2MldWU2tQNTA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "ArcelorMittal Says Europe’s Steel Tariffs Are Boosting Profits",
    "source": "WSJ",
    "time": "2026-11-07T06:37:58Z",
@@ -228,18 +254,9 @@
    ]
   },
   {
-   "title": "Emirates Airline Profit Falls After Iran War Disrupts Air Traffic",
-   "source": "WSJ",
-   "time": "2026-11-07T06:12:09Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2hfQWJDNnFHaDIya3JhZmdid090dlZMZHNZVk45UmYwTlRyWTFjM3F3LTZKSjRNV0ZSTTA0eXlOSGtvbU54cklqSnZiTmJHYmJtWHJWUzBBTHBnNDJMM05vRURrZHVsNlBXaWdTRElzX3ROY3VnYnZpak13b3VyU0tJd2RLNXpNU0hZNDlSQUFmaUg2cjdCY1BmSDUxVWs4RlVOMlhVUnM3V084VVNyLWNn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Gold (XAU/USD) Price Forecast: Breakout Signals Potential End to Correction",
    "source": "FXEmpire",
-   "time": "2026-11-07T05:32:23Z",
+   "time": "2026-11-07T06:26:00Z",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcU1ZMFpnVFpmTFRyMnBBdWo4cFZOY25kaGFiODEyR21JYUdEeElhVjd1MFBBUlV5UGlSRHVmSGk3d1ZrYm5WenNtQzlfRlBPRmhuNEhsaWFRODBOa3lwOFNwb0VuTXFaVEluRVg3eHBYRjBMdTNOcFhqT3lfcUcxZEROTnAtMW9VMlZOVE9fNlhMN1k2cGdxM0diM0J4Y2FaX1lHdGRqQVZPaGpFck5zZW9zUWtWMTJJbERpSmVqX2g?oc=5",
    "tags": [
     "USD",
@@ -256,19 +273,19 @@
    ]
   },
   {
-   "title": "President Herzog faces key choice as Israel struggles to form government",
+   "title": "Russia launches missile attack on Kyiv, injuring residents",
    "source": "Al Jazeera",
-   "time": "2026-11-07T05:16:18Z",
-   "link": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss",
+   "time": "2026-11-07T05:18:07Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2dldG1kWEpfakpLWGh5STYyWUZzRUd6bk04Nnctay1rbDRDRXE3cmV1ek5fTmpzZjdob0djTWk3T2ZfU1BrbDBEZnVla1VVTnJYblpzWjJsSEZjS0lCVkpqeDZkemtuUm5YZENxZ2hLdjQxWmVZTU9xMkVpTUtmN3NGS2dyVFptdkNxd0l6N0xXWURUTjUyOWRtQW1xSXPSAaQBQVVfeXFMUFJYbXBPWTFBYjgxT1dKcnNZV0JrUnJNSTg3RFBzcW5ySEJObUk3QmI2b2FERjlhWlRxVm92TWUtWkEzd0YzU2RzN0laZXVTNlZGYkN3TlpTV1VjaGo4dlBtbjJuNldFZGVHLXdFaHJRZEVqUG04Tl9XOU51ZVZXUnV1Ny1lcHFEVG1jUmU3NGM3R0xTVGZRZnh5UlU5ekl1MlRkS0c?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Russia launches missile attack on Kyiv, injuring residents",
+   "title": "President Herzog faces key choice as Israel struggles to form government",
    "source": "Al Jazeera",
-   "time": "2026-11-07T05:15:00Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2dldG1kWEpfakpLWGh5STYyWUZzRUd6bk04Nnctay1rbDRDRXE3cmV1ek5fTmpzZjdob0djTWk3T2ZfU1BrbDBEZnVla1VVTnJYblpzWjJsSEZjS0lCVkpqeDZkemtuUm5YZENxZ2hLdjQxWmVZTU9xMkVpTUtmN3NGS2dyVFptdkNxd0l6N0xXWURUTjUyOWRtQW1xSXPSAaQBQVVfeXFMUFJYbXBPWTFBYjgxT1dKcnNZV0JrUnJNSTg3RFBzcW5ySEJObUk3QmI2b2FERjlhWlRxVm92TWUtWkEzd0YzU2RzN0laZXVTNlZGYkN3TlpTV1VjaGo4dlBtbjJuNldFZGVHLXdFaHJRZEVqUG04Tl9XOU51ZVZXUnV1Ny1lcHFEVG1jUmU3NGM3R0xTVGZRZnh5UlU5ekl1MlRkS0c?oc=5",
+   "time": "2026-11-07T05:16:18Z",
+   "link": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -673,25 +690,6 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbmVlVlplYUFXS3hybEFadUxCTTFNaHlLdGg0d1l3dlprTHdGNi1sa2I4MWxHaUpsdVM0NmxzVWNUTkxrZXBnbVhjZmEyVXlGcW1QeTBobG9JNG1SUjZMa25QenhtRVB1Tm9fSVJRQ3FCYlRPRWZsc2JBUTFWSWJManBPV2Nobnhob2V2ME1n?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "investingLive Americas market news wrap: Non-farm payrolls beat estimates",
-   "source": "ForexLive",
-   "time": "2026-11-06T21:52:39Z",
-   "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-non-farm-payrolls-beat-estimates/",
-   "tags": [
-    "JOBS"
-   ]
-  },
-  {
-   "title": "US Equity Indexes Mixed After Blowout Jobs Report Pushes Treasury Yields Higher",
-   "source": "marketscreener.com",
-   "time": "2026-11-06T21:49:41Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd29ZNW9MNFctZFhxNEhOc3dFTTMzTXFJNHU4UnhTNGxjYUtmR21iTTZDdnNPMzRzdHowX2o1QUM5RGMwNU95WUhsRng1bzNJcE0wd0FtRF9XM2NKOUNsUDQxUWJWZEUyMGxNTHR5eDlZY0hJcmliNmpuZDlSb1ctbmVjTGI4dkVPUFZKUU42M0FQdG5MOXdwTk1rcEY5ajh5QnZ3elJhcDVmeWZqZ08xWTN1cHcwNVVCakE0cDBZR0c3UTljTmxIa2NWdlY?oc=5",
-   "tags": [
-    "YIELDS",
-    "JOBS"
    ]
   }
  ],
