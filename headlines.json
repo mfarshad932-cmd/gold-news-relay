@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-11-07T17:49:12Z",
+ "generatedAt": "2026-11-07T18:17:33Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 0
   },
   "fed_monetary": {
    "http": 200,
@@ -67,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 21,
-   "kept": 2
+   "items": 23,
+   "kept": 3
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -87,13 +86,13 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 9,
+   "kept": 9
   },
   "gn_tariff": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "gn_war": {
    "http": 200,
@@ -107,8 +106,8 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 6,
+   "kept": 6
   },
   "gn_oil": {
    "http": 200,
@@ -117,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 9,
+   "kept": 9
   },
   "fed_calendar": {
    "http": 200,
@@ -126,6 +125,34 @@
   }
  },
  "items": [
+  {
+   "title": "IRGC claims a self-imposed limit on ballistic missile range ‘has been lifted’",
+   "source": "The Times of Israel",
+   "time": "2026-11-07T18:07:33Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2FpM1prWWlfTEtQdVR2Qk5GQWRLRHpqTjNyVTRCMVFfU05pVlI3Mk5IaThDd3RuMjhzdmUtSFh1TzRhb2FQRHEwcFFnZmNpV0tqbWplQUs5UGlfelU5OWp6UlIxUmhCVV9ORVZNOTVnMmNpckZpTTMtaFJJWW1Vd0RkczdLTUtoQTJkNjh4WGVtVDFOZmxzdEZ2bE1JWF9xTS1UOGVGNzM5QdIBrwFBVV95cUxNNjZOY0NUaW1TWlFORmdoWFdHdmU3cU9Ud2NKNnFfSWNmbGFWUVZyWWhOS3hZN3BKMWNMMHQxbFg5RVhZNDNLTllwSXNwOUpITzBFMTBZSW5RVmJXeFItblVwOWJtYVMyc1NoWktDMkpERkVYOHlSWWZLZ1U0UlJ4VFFvb09Kc0xwbXdpWU9QOWRHYVdQUjFjYWxzeldkUUctemRFbXdSSmVZcU9WNE1R?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gaza wedding festival sees 250 couples married at the same time",
+   "source": "BBC",
+   "time": "2026-11-07T17:58:41Z",
+   "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "World's largest economy faces double hit from Africa's largest economy and Canada as South Africa boosts China exports 25% and Ottawa unveils C$142bn plan",
+   "source": "Business Insider Africa",
+   "time": "2026-11-07T17:54:05Z",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR1Q3b1htaEFMU013RXl6ZXIyZUZvUjBUSkJuMWNQbjdMRnNXdWp6QWRfYzUxZjNZWjhjeU9vZVN0Q21pUWRabzJpSFNhMVNJcWFTRTNLcklwT2tlX08ySlRESXdrcElsWXdnQTVJVDNMbEYyd0c1ZWxCUXRmMEdnSG0yZGVuUURKenZfWXVFTzI5UFpINk9rekJlbklOWnhEQUlkc0FuQ0dQajRqUFpTTm5meXpZLVRkY1ExckE0SVFSMzRTOUNBRVZuNDZJb054WktCVWpB?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
   {
    "title": "3 Financial Stocks Retail Investors Are Watching As Treasury Yields Stay Higher",
    "source": "Yahoo Finance Singapore",
@@ -172,6 +199,15 @@
    ]
   },
   {
+   "title": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news",
+   "source": "AP News",
+   "time": "2026-11-07T16:41:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWlBaG5BYjY0T3dxT1Z6aFlidmJqREpvYzlzdXFOQW8wZFpLaWZSUktyc0dhZXJQdUd3UlJHLVVITURzd2VnWEFtR2w4cVcydHVIVXFCci1yOUJXVnpQWXAteGNWQUZNcWZjcERDZ01KeXFpd1hNN1Z1QmdIY0c5N2ZsOWxKQ1RHdnk4LW1QNVpyZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
    "source": "The New York Times",
    "time": "2026-11-07T16:39:31Z",
@@ -190,7 +226,7 @@
    ]
   },
   {
-   "title": "Former CENTCOM deputy cmdr. discusses significant US-Israeli Iran war failures",
+   "title": "Not destroying Iran's missiles, drones 'most significant failure,' former CENTCOM deputy cmdr. says",
    "source": "The Jerusalem Post",
    "time": "2026-11-07T15:58:50Z",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPNUVuclllbTJmZVJnQzltbVNxNXFveXJVeGVER3NndGl2TTJrZDdsMDBtSnBNRkdvbnZwRXBsZTRmYnhVYmxadVB1SEM3SUZnbjkzdnUyMDRfQmVRUjc5eUxtam54UU1qTEE?oc=5",
@@ -230,15 +266,6 @@
    "source": "Bloomberg.com",
    "time": "2026-11-07T15:08:53Z",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcU0tVXVXZjhGeVdld2psM2xYb2xlTkljRzVjZUtDX0s1anRtRzBkSXJ1Z0psaHZON3Z6UG1RaWdJSXVMUlZPRUhTTFFaSVA4R3A4bFU0NkhGSjl1dll3cVZtVzlvdE4tTk4xUXR0dW1OTzBwNzJtT2hmLU9UMEFmeE9TZlljRHU4QlE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news",
-   "source": "AP News",
-   "time": "2026-11-07T15:05:00Z",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWlBaG5BYjY0T3dxT1Z6aFlidmJqREpvYzlzdXFOQW8wZFpLaWZSUktyc0dhZXJQdUd3UlJHLVVITURzd2VnWEFtR2w4cVcydHVIVXFCci1yOUJXVnpQWXAteGNWQUZNcWZjcERDZ01KeXFpd1hNN1Z1QmdIY0c5N2ZsOWxKQ1RHdnk4LW1QNVpyZw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -646,35 +673,6 @@
    "source": "Reuters",
    "time": "2026-11-07T07:31:00Z",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkpxUWQ1cUFXSEJhbTI5OFNqVGZNOUFIb3ZoY3lZWmdEUHNYMHYwWXowdnNQZ1dlcWJ3dDF5engyV0VaaG1XUEVia2oyTjNJTEgwYUI3VHhCaml6RTdZMEQwbm9YZ1BTcUZjekdhOHhwQ2gwcFI5YkpJcTV2YUQ3WjVWampRdS1SZk5JQXA0WW04OV9ZMzNQcklSTDhIS2IxT3I4OE14VkRBN0huQzhmdktR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Central Banks Accelerated Gold Buying in Third Quarter",
-   "source": "WSJ",
-   "time": "2026-11-07T07:29:41Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNE5ITWFudmVrYUgyekVzeUp1YkVlYTBkY0pZbTJSUFhraGRFRXdpczRWODFrOUpRRHQwU3VlbmJnNGk1ekV3MUpfOFJoa2liOEEtNEZDSEZQZDlUWENqa1NlaHJjZ25VYTNtMGVDQ2kxa3hJV25pZkxjTUJKandqeUgyUmJCaGpJWU8yaHBMQ2l4M19qRnFPYS1SSEZTMlF6ZFBubmRPMDgxUDFzbmtiaA?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "CENTRAL_BANK",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Donald Trump keeps Iran guessing",
-   "source": "The Economist",
-   "time": "2026-11-07T07:16:59Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNGtGbnQ2Y2JSU0FodThtN3czUmlrZ0NEMzM5Y2lmaWFYeGtkR0pTcERua1N5V3E0d3NzNE9KdzhRNTUxZHJOQllNUzl6ZFNncVJLSDlRM09LQjJQSXJQNDVnYU40OFRoOGdqbFBWeXd4WVM5T2QweTNDOE1kMmpkQ3lETklwWHRLTXFYejRTcVI1RVdSQ1g4?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Newark Peace Match commemorates World War One Christmas truce",
-   "source": "BBC",
-   "time": "2026-11-07T07:09:36Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Oa3FkWGhCVkIwTVRqWW9oUTd4OGVaOGxjWHFCRGRTcWU0YTNNZW43Z1M2dDFCd1ZiZXZ2U2pRdTVfTnA4UHBpX1VSVTBJZjl2ZWJPWEVpVm9EOVk?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
