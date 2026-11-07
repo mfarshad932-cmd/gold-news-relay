@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-11-07T07:54:29Z",
+ "generatedAt": "2026-11-07T08:22:50Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 1
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -21,7 +22,7 @@
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 2
+   "kept": 1
   },
   "bea": {
    "http": 200,
@@ -72,7 +73,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -81,17 +82,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 31,
+   "items": 32,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 21,
+   "items": 22,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 24,
+   "items": 23,
    "kept": 12
   },
   "gn_war": {
@@ -101,23 +102,23 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 12,
+   "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 16,
+   "items": 17,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +126,24 @@
   }
  },
  "items": [
+  {
+   "title": "The Argument for Buying Treasury Bonds Is Still Strong",
+   "source": "WSJ",
+   "time": "2026-11-07T08:12:26Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObUhYVjNQODJTZ1VjYmVpYTQwdTNSWVBSVEZvdXpWS3JwN3JjV084TnZqVk41MTFUcWliTTlGTEJ2TU1oSDNoeUtfMjBwT2pFRGstQjROUHJualZBbW1keWs2UHZWalJDYjF2Sm5PN2ZRbjVKb2h5b3dXZWtWVmpWTUM2U05BanF4WFZteWVwVFJia2pQTldXYWcxaU4yNmlZTHZ3?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
+   "source": "CNBC",
+   "time": "2026-11-07T07:37:36Z",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSHBsQVgybGQ0aDhTUFc2WDBBZzBEa2lJM3d3a24wWHcyRnVFdzdYQ1pwWXdrd2VSSWllZzhoYWhlWEowSy02VE5BYTRRak1faFh5Mm1FUVkzUW9HM2x4VzBublNzdHZkNUozWG1DbS1Xck80bzNPYUh2d3RRcmQwZU9haw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Russia says it hit targets in and around Kyiv in massive overnight strike",
    "source": "Reuters",
@@ -144,6 +163,26 @@
    ]
   },
   {
+   "title": "Central Banks Accelerated Gold Buying in Third Quarter",
+   "source": "WSJ",
+   "time": "2026-11-07T07:29:41Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNE5ITWFudmVrYUgyekVzeUp1YkVlYTBkY0pZbTJSUFhraGRFRXdpczRWODFrOUpRRHQwU3VlbmJnNGk1ekV3MUpfOFJoa2liOEEtNEZDSEZQZDlUWENqa1NlaHJjZ25VYTNtMGVDQ2kxa3hJV25pZkxjTUJKandqeUgyUmJCaGpJWU8yaHBMQ2l4M19qRnFPYS1SSEZTMlF6ZFBubmRPMDgxUDFzbmtiaA?oc=5",
+   "tags": [
+    "CENTRAL_BANK_GOLD",
+    "CENTRAL_BANK",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Missiles target Kyiv and injure 5 as Ukraine prepares for talks with Russia and the US",
+   "source": "AP News",
+   "time": "2026-11-07T07:21:00Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Donald Trump keeps Iran guessing",
    "source": "The Economist",
    "time": "2026-11-07T07:16:59Z",
@@ -155,7 +194,7 @@
   {
    "title": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
    "source": "Al Jazeera",
-   "time": "2026-11-07T07:09:00Z",
+   "time": "2026-11-07T07:16:48Z",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMFVzN1dmN0xGMGpGLVNmc3ZkaF9zRUJ6cVg3MkloZGtZeER0RWw0MkZEY0Y1MnJyai1SU0ZyOFc0MnBYQUdCTm1KVm04VXRITGQ4R2xRWkJ2RktESnRVZDFlSncwUEhVS1hhZ1JadTgxYUd2VDJXdFBCZHppU0RQTkk2ODBzNFJnanZvcmw2dUgxQjExamdkb1lxQm55QVhQbTV3ONIBqgFBVV95cUxQbDhXVGdyNkg4RFljS2l2S2U1bDFyYU83NnNsUm45OU8wbnYtWTdPMzJWVUljUWpmQ000dk9PUVY2YURYdWxrQi1USWg3MDVpM3dtanN1SEZTNnFzQnlMM3RoSVZiZWdQNFZnMEVPbjhMUVRCSnZEVndFYVp1MjRSNkxEbkVYMDdJUU04YXh2Y1NqbVJIZGVnLVRFajFhMjh5a0ZLX0NfQ3NWUQ?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -195,15 +234,6 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2hfQWJDNnFHaDIya3JhZmdid090dlZMZHNZVk45UmYwTlRyWTFjM3F3LTZKSjRNV0ZSTTA0eXlOSGtvbU54cklqSnZiTmJHYmJtWHJWUzBBTHBnNDJMM05vRURrZHVsNlBXaWdTRElzX3ROY3VnYnZpak13b3VyU0tJd2RLNXpNU0hZNDlSQUFmaUg2cjdCY1BmSDUxVWs4RlVOMlhVUnM3V084VVNyLWNn?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The Argument for Buying Treasury Bonds Is Still Strong",
-   "source": "WSJ",
-   "time": "2026-11-07T06:01:05Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObUhYVjNQODJTZ1VjYmVpYTQwdTNSWVBSVEZvdXpWS3JwN3JjV084TnZqVk41MTFUcWliTTlGTEJ2TU1oSDNoeUtfMjBwT2pFRGstQjROUHJualZBbW1keWs2UHZWalJDYjF2Sm5PN2ZRbjVKb2h5b3dXZWtWVmpWTUM2U05BanF4WFZteWVwVFJia2pQTldXYWcxaU4yNmlZTHZ3?oc=5",
-   "tags": [
-    "YIELDS"
    ]
   },
   {
@@ -663,32 +693,6 @@
     "YIELDS",
     "JOBS"
    ]
-  },
-  {
-   "title": "Four things to note from Friday’s US jobs report",
-   "source": "Investing.com",
-   "time": "2026-11-06T21:42:45Z",
-   "link": "https://www.investing.com/news/economic-indicators/four-things-to-note-from-fridays-us-jobs-report-5009055",
-   "tags": [
-    "JOBS"
-   ]
-  },
-  {
-   "title": "Gold price slips following strong US nonfarm payroll print",
-   "source": "Mining.com.au",
-   "time": "2026-11-06T21:40:37Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSDRmMVk3WjRVMUxJN3lOVlphdWVibjg5TXYxU3pwdDN3azUtZ0hsaDdkUmFYY2laMUZjVjJ2LUJabkpTZC01MWFUUldNWDJZTkRvaHJ6d0hiVUV2SUxBX2dEZXB0Vm5GcVZfc2d2NlI5MW9CUHEtemNYNGlDc3Jua0dOQTBPck4z?oc=5",
-   "tags": [
-    "JOBS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Treasury Rates Today: November 6, 2026",
-   "source": "Forbes",
-   "time": "2026-11-06T21:37:59Z",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yck9yOUFWR0FpdE9oMU00NGZWMVVrb25MOWxBWmRuU3Ztc1FvdGJZZlBMXzZwUnpPQVp5Mlg4UzFwX2VZTG00SUFUa3p0VVoxRFZOY2M3V2N3R1ZlLXhCdVVpWHNKd2s?oc=5",
-   "tags": []
   }
  ],
  "fedCalendar": [
