@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-11-08T20:15:08Z",
+ "generatedAt": "2026-11-08T20:43:28Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 0
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -72,7 +73,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 3
+   "kept": 4
   },
   "whitehouse": {
    "http": 200,
@@ -86,8 +87,8 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_tariff": {
    "http": 200,
@@ -96,7 +97,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 36,
+   "items": 39,
    "kept": 12
   },
   "gn_sanctions": {
@@ -116,8 +117,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "fed_calendar": {
    "http": 200,
@@ -126,10 +127,46 @@
  },
  "items": [
   {
+   "title": "Top House Democrat says he’s a ‘hard yes’ on Pete Hegseth impeachment",
+   "source": "The Washington Post",
+   "time": "2026-11-08T20:25:57Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSzZRYWpCNTlaNXhydFFiT0tRbFlOVEhfRE0tRF9GRU01b1B3M2lqckxteGl6QXlQaHJRR0ZaSWoybUR0UUt5V1FadEJtSm1zYmI1Qzk2U243ZkJqbDVoUGFuVFFiT0lPbTZ2ZzlPekNsay1TX21KUXlKYTdjYnBLZHJnNzZxU25ZbFZJajhScVZiRUY1ejIzNGRaOHZlSnRJaTM3MHNYVjRiYXBaaW5R?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran threatens to ‘rain down hell’ if US escalates war",
+   "source": "Al Jazeera",
+   "time": "2026-11-08T20:16:12Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGY4UThBZ2p5aG5CeVd1RWktVFhWbjVMUGJmaEZmdWdkLXpFa3dfcW1PRkZlcUJvLWFBbU1lc05NbmVTT2I1bDB3M1M4Rzg5VkxleDJJNkRZNlJPRHFrOFQxYkxZdzVRY29lR1hZY09oUko3Y2pUZGlqdG42Y2lIZ1lEWDQ1dlRSMXFoTnFTczZvclUzclMxNtIBngFBVV95cUxNNnV4cG5GTnQ4SmJXeWxmV1pXY0pQRDQyZWwtcWVFYnhPRHNsQ2VIRnhVZlhybWdObWVreUNJSGU1UzIzdHcxU2RkU3B5WFVHVHFrUFprNkthQ2JQaWNPMm1ET3ZKNTd2eW5wTkFDOC1GSDJpemZWelk4ZlhCaWdVUWdBRWx3TkFiWUd1OVlCTWktODJlNkVya1BmZDVTdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "King Charles and Prince Harry mark Remembrance Day separately",
+   "source": "South China Morning Post",
+   "time": "2026-11-08T20:05:03Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUdRdFZySE01WnYyZERNS29yemI4WDlrZXVZQWhrUTlvZ2pkT3J5ZlU4RDRjb0VkX0hld2xfMkxkTVJfbjRKMm1tTVlfd3VCbWpfUXZGbGVSeUhkUWpfS3FIbjJjSi1ZOG1YSWlicnFVaE5BUTVnd0JLN3V2VXY5c3c1NjFHWEdaVUEyUUVRcWFKVjVyWDR6OHR4UGVRREZJd3pJWFBoZzM2YlV2MHBLSE9hOUZZTTTSAbcBQVVfeXFMT2hoNkVVYUtYZHhJdGRKZkVtOVdLNWRaX2VIWjJzVWdSejVIZk9BNU1jYWg5LVNMV1ctRkM0NTRCMUZ3Skw2RUZ2dHpoY09sSXJrWkdySTdfaHFsd0hQN1Fydm5LTkhzRGJiV1dnSWlUbzZpd2hvZi1wbEdOc0hPQzZnYXZpYVpZM2ZfQkNpWnNCeVJ0VW9CMTBaT0hEdUp5S09ScFhqUTAxVlZOa2FuNTBmLW0xX1Rn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "A Popular New Bet Hailing From Cryptoland Sets Off a Wall Street Turf War",
    "source": "WSJ",
    "time": "2026-11-08T20:00:00Z",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnd3TzZDN1pPNVZHQzNVa044OG9iaHVuSWRwRTZhWTlYSG9qVXVCU09jYkFOXzVWcFhyOHVKOXBjTUNlM1JzTGhqT2J2QzZtNTczSjU2QlFiVkJYYV8tOXBOUFdQanRhQnhJX3BuXy0wU0llcXM5ZHJlOUktUXZ6MXdhZU8yenlDdzdtNWl3ZWZTOV9DM1F3Z0RZOEFTTWlnZnNwWFpRVWh3ekZDSWU5Rmx6OV9NMC00WWExbW1R?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "‘De Gaulle: Résistance’ Review: Uniting a Country at War",
+   "source": "The New York Times",
+   "time": "2026-11-08T19:57:28Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtbWhxMnJhdlZDNDk4clp5eEFMaGNVZkJOU2ptMGEycXpyNEtuNmNzamNVTU8wQ0FDWGUtMHJubUwwemV4VUpsbGVnMzNvZ2ZqVVNyNkRHTkVySkVFb0hIOWtabXV2ZGZqbGxhS2NOdXpOWGdSU1BYQTJuNmU1Z0E?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -144,7 +181,7 @@
    ]
   },
   {
-   "title": "Iraq FM: Iran war cost $60b in lost oil exports, reaches understanding with US",
+   "title": "Iraq says it lost $60b from Iran war, reaches understandings with US on Hormuz oil route",
    "source": "The Jerusalem Post",
    "time": "2026-11-08T19:43:43Z",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aV1ZuSE4wYy1aUzhoOW83VW1CVVhYNHBBX2pBR0FLeW5vZzlYTmI5SmllMEFUT18waEtyR2FzZWJvSzRka3lnNHRCOTZ0bjdET1VENVp6RnVrUkRn?oc=5",
@@ -173,15 +210,6 @@
    ]
   },
   {
-   "title": "Top House Democrat says he’s a ‘hard yes’ on Pete Hegseth impeachment",
-   "source": "The Washington Post",
-   "time": "2026-11-08T19:13:18Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSzZRYWpCNTlaNXhydFFiT0tRbFlOVEhfRE0tRF9GRU01b1B3M2lqckxteGl6QXlQaHJRR0ZaSWoybUR0UUt5V1FadEJtSm1zYmI1Qzk2U243ZkJqbDVoUGFuVFFiT0lPbTZ2ZzlPekNsay1TX21KUXlKYTdjYnBLZHJnNzZxU25ZbFZJajhScVZiRUY1ejIzNGRaOHZlSnRJaTM3MHNYVjRiYXBaaW5R?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "How the Iran war has made it harder to buy a home",
    "source": "The Washington Post",
    "time": "2026-11-08T19:00:00Z",
@@ -191,7 +219,7 @@
    ]
   },
   {
-   "title": "Saudis destroy Houthi missile launch platform",
+   "title": "Saudi-led coalition says it destroyed Houthi ballistic missile launch platform in Sanaa",
    "source": "The Jerusalem Post",
    "time": "2026-11-08T18:53:35Z",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhTm1xOGdRVlFkT3d2aW9fUXNDN1FfSERBX210VjVaRVJjVV94bTB6cU52SnI3MGZxbmN1UFpvRHNYUzV1cUdHZkltaEJQd0RBbTBSRUlGSUU5ei1X?oc=5",
@@ -645,34 +673,6 @@
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OOFFQcU9IODVFVWRYanlEdmVXcDlvQldxa0luSFJjeHdxMVp3V3ctUzU5LXhnalpXWDdsMVAyYUxKUUVjaml4VEk0dXJ6MU56MFlTbENTWFlXbE1VVXJNTXc1azVaQ1ZpMlJDb3ZJZkNqZ3FhbjRR?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-08T10:38:58Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNm1fbzlGVGlZVWdFV3h4NUYyT3prSEZjY2kyZW5sdXB3c0ktVGkyNWN2ZDd3UkxXWFJRTV9ScHVFLUNzMFBZVWNiTldyZ0cwcERNVHhNcDFWSENtWkVTSEF5M3Vwb1N1U1dvZEVDZ2NVQ01IX0FOQ1dNejlWbmtuZm5LUFhRUkM4SnROaUdsdENtQjNtTWRmcU5GT0JuTDMwNk9rVXRQQXV3b1dpd1owbdIBtgFBVV95cUxQaVVWa2JhcWM2NUpRSDBkSlRJMFB0OWxEZVpTSVZVNlFGNUpnUnZYbUdjSmNnWC1FdzNpb2x5NGltdl9VazZrcTNFdmRsdVJNaGtGeHlfUXhBSEFQXzFkYnNtUmJOcklUMFdVdEFxdTNDdG5JY2Jkd0JTdm85N2RlZXBhTEgyX0N5eDNYd2hRV19OUmNqZVotT2tzTEtCVWNEM0thWGlpdG0wSkllbkpBN2hlNC16QQ?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "OPEC, Allies Keep Output Steady While Gulf Shipping Remains Under Threat",
-   "source": "WSJ",
-   "time": "2026-11-08T10:38:56Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnNqUHNCa3N5QzZ4RUZEVVd5RUsxNDM1QU5wZ3dYQ3FYdzdEWnpnczk0NG1JTndRV19CQnpWd0J4eUE4SndBWFpfUkZNeS1QQUtIaWVQRFBYVk1fMXlHNVJjWW1zb3JsV2pvVnc5UU5zby1DNzF1d3dyNFdYWTlTUlJFRk11YW5RU19idkdxZXNSZkJ4azFtQVBjZkVpT2p6cVFlbkpsX2o2NWYtVUJfd1VtblJhQ21COUJYTA?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "For Trump’s Fed Ambitions, a Democratic Senate Poses the Biggest Hurdle Yet",
-   "source": "WSJ",
-   "time": "2026-11-08T10:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEN2SVIzQmppcXREV0sxNE0tejFxYkt4VGpxemtVbVV4R0ZPTVFyVWV0azNTLUxCSkxUQWxxN1plZEpfZ1ZCRHUwNGhJV0k3c2owTWVRaEpfb3JMN09jV01jTkNJcmNidl9FTFhid1JsUmw4ZnVXSjVDRXZzWlM0NnRmRnEybjc5MG1Hb09KQXRsM1lFR0FVUThGVUZjdTZLd2lUZDl2WTB0UQ?oc=5",
-   "tags": [
-    "FED"
    ]
   }
  ],
