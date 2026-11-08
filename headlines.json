@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T21:11:48Z",
+ "generatedAt": "2026-11-08T21:40:08Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -86,8 +86,8 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_tariff": {
    "http": 200,
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,9 +126,18 @@
  },
  "items": [
   {
+   "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
+   "source": "CNBC",
+   "time": "2026-11-08T21:28:12Z",
+   "link": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
    "source": "CNBC",
-   "time": "2026-11-08T21:09:07Z",
+   "time": "2026-11-08T21:13:38Z",
    "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
    "tags": [
     "CHINA"
@@ -139,6 +148,22 @@
    "source": "Al Jazeera",
    "time": "2026-11-08T21:05:07Z",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "FinCEN Withdraws Proposed Crypto Travel Rule Expansion in Separate November Move",
+   "source": "TradingView",
+   "time": "2026-11-08T21:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPalFTV3FsR1lhRFY1V29qbXBLMmtnUF80V0lmQVhLd2VfOGdTcGUyNmEzWkZ2T05FREpmMDJfWWtNWlcwOXpjcGdaOC1QMW5MbC1Ea280RkFkQWlITC1CWUs2VW9NZ3Q1MkpsbkhHNEloOFdEY2plM2lUX25vQ0xYdF9BVTVQamkwM3JyUlpsQndpMENMWFhvN1VhLVFGQzVHMG9abmVReDBrUFlza2FVc0lxRld3QzJES0hfLWw0NXcyTWFGbGpkenBFVmpzTEN3bkhnbg?oc=5",
+   "tags": []
+  },
+  {
+   "title": "Iran sees victory in Trump’s midterm losses, likely to harden in US talks",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-08T20:59:11Z",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iRVZVcXY2VXlJeUhUUnJiTDA4ZHlxWkVpcFJINDRvMWdCOEc5ZjdIci1aU0tsbi1KTUMwME1IcWVlZTM5TEJVU0xrZ3VwTWpLcnE1bXlqanpocVd4bnQ0?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -254,7 +279,7 @@
    ]
   },
   {
-   "title": "Saudi-led coalition says it destroyed Houthi ballistic missile launch platform in Sanaa",
+   "title": "Saudis destroy Houthi missile launch platform",
    "source": "The Jerusalem Post",
    "time": "2026-11-08T18:53:35Z",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhTm1xOGdRVlFkT3d2aW9fUXNDN1FfSERBX210VjVaRVJjVV94bTB6cU52SnI3MGZxbmN1UFpvRHNYUzV1cUdHZkltaEJQd0RBbTBSRUlGSUU5ei1X?oc=5",
@@ -286,15 +311,6 @@
    "source": "The New York Times",
    "time": "2026-11-08T18:31:28Z",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQNzhsUk9VMGxqSXoxRUJqbURmWjdsbmlPYjZWOTV2Y05hdnlaYTBiMjJoS2tZT1VDUER0TUVSYUtaN3J6bng1UkQ5c1Z0QmM0WGpsaUdzT1RoTDVxdmVsT2g3UEthYW5ueDRFRzhFZFY3UWVQaWt3d2FZUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran sees victory in Trump’s midterm losses, likely to harden in US talks",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-08T18:30:03Z",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iRVZVcXY2VXlJeUhUUnJiTDA4ZHlxWkVpcFJINDRvMWdCOEc5ZjdIci1aU0tsbi1KTUMwME1IcWVlZTM5TEJVU0xrZ3VwTWpLcnE1bXlqanpocVd4bnQ0?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -653,24 +669,6 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3k2UlNRSWl0LVdfSFFVR2NNOFlpSGVsWWRiS05JelN6M09NYy1GRFp1V2R6RjZaaWRfV2g0R0xkS2JrSlJCMF9LNHJ3aW5XdGdYWm9kVno5NUFKQS15VnJVRUVKdzU3MEtlQ3NZOHd0T01NR0tXalNUd0ZUVDVZRmJBNmpSWDllSWJsVk1TMUdZc3VtS2RtVkNBTERyeDVZUjk4ODhGM0hlWnlMQzRXbzBZS2dQQdIBuwFBVV95cUxQQkNrd3QxaE9kSV9USXh5bkNjNDdHUTZHZmhUYnU0NXVlY3gwTWxwVEppU2tFSWpidURIQ1MtVFdPYlhhd2lub1FSUUR6bVNJWVB4VmQxNUJQODRzU2dURk5XejU1N2FRaXlJSVRGOENKMHdpZFE0SWo4T2RjTU9IVzNvZUJ6OXRkSzJtVmJOczhRNk1NUElLcHJKR3hBZ1JobWl2OFNXcC1PbE5tU3VlQmxZSFcwZ0h2b0s0?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "How Canada Inflicted Maximum Midterms Pain on Trump",
-   "source": "Politico",
-   "time": "2026-11-08T12:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeXJXbDVQZnhtc1Vva2NDUTB3VHotRDFjUzk4QzZIX3pqYU1hdDhKYklUZDJDM2xYU3hqMXZMRlphQXo1dXYyTGZIaGYtNWpYMFg1a25PQTA0UzhES2ZQRERLRFNId1RhRE5lVXJYSFA3V1pKaEJvSXFXYmMwaUFuRENBRjd3NFBKWG9CTmxxd3JqbkNHUkhOUVNmb0hqcFVURUE?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles",
-   "source": "Yahoo Finance",
-   "time": "2026-11-08T12:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEtVb3o3SlpvMXdLYkpTeUVrSEZ3eU1nU2N4X3o5OU5oT0k4Ym42MUxUcmtkX3VxVFNSTWV6NXJ3SHAwV182V3JvNDRPYUxBM2poaWQzbm41RW0zZUxzVlBQVXhBQWZCeFNFV2twTEszZW9FU19kUWdOZHpfaHFxR2lhR1FoQXg3aXpzanFtdjlFWUtOSXM0TE4zSi1PWE0ySUE?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
