@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-11-08T20:43:28Z",
+ "generatedAt": "2026-11-08T21:11:48Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 0
   },
   "fed_monetary": {
    "http": 200,
@@ -43,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 0
   },
   "investing_news": {
    "http": 200,
@@ -73,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -87,13 +86,13 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_tariff": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "gn_war": {
    "http": 200,
@@ -112,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 2,
+   "kept": 2
   },
   "gn_cbgold": {
    "http": 200,
@@ -127,12 +126,48 @@
  },
  "items": [
   {
+   "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+   "source": "CNBC",
+   "time": "2026-11-08T21:09:07Z",
+   "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Deadly sand cliff collapses on displaced families in Gaza",
+   "source": "Al Jazeera",
+   "time": "2026-11-08T21:05:07Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
+   "source": "Al Jazeera",
+   "time": "2026-11-08T20:51:22Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Top House Democrat says he’s a ‘hard yes’ on Pete Hegseth impeachment",
    "source": "The Washington Post",
    "time": "2026-11-08T20:25:57Z",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSzZRYWpCNTlaNXhydFFiT0tRbFlOVEhfRE0tRF9GRU01b1B3M2lqckxteGl6QXlQaHJRR0ZaSWoybUR0UUt5V1FadEJtSm1zYmI1Qzk2U243ZkJqbDVoUGFuVFFiT0lPbTZ2ZzlPekNsay1TX21KUXlKYTdjYnBLZHJnNzZxU25ZbFZJajhScVZiRUY1ejIzNGRaOHZlSnRJaTM3MHNYVjRiYXBaaW5R?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Treasury Yields Down Following Democrats Midterm Win",
+   "source": "WSJ",
+   "time": "2026-11-08T20:20:17Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdkVMZXBIOElzYmpRaVNwbmNZOWxvT1ZsUWgwamhobmRBNklNOGZGSGNWNG5jZjZPTUtPT2c2V0ZTNmM0SU1MNGdhV2plaVZNbDVOclUzSXMxa3NGM3ZQMl9feDdEQWhramMzMnVycHpCTm1haEFhRFZnYnpNb0hJcjVOR3pTazJ5b1FXeHFkQWRNRUszNEZFVkpmYVNoOWJKclNnM3JYTnY4bWVrdEhkalNxMGIxR2ttRFI3czliVjVXaVh4SHpNSEVR?oc=5",
+   "tags": [
+    "YIELDS"
    ]
   },
   {
@@ -156,7 +191,7 @@
   {
    "title": "A Popular New Bet Hailing From Cryptoland Sets Off a Wall Street Turf War",
    "source": "WSJ",
-   "time": "2026-11-08T20:00:00Z",
+   "time": "2026-11-08T20:00:20Z",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnd3TzZDN1pPNVZHQzNVa044OG9iaHVuSWRwRTZhWTlYSG9qVXVCU09jYkFOXzVWcFhyOHVKOXBjTUNlM1JzTGhqT2J2QzZtNTczSjU2QlFiVkJYYV8tOXBOUFdQanRhQnhJX3BuXy0wU0llcXM5ZHJlOUktUXZ6MXdhZU8yenlDdzdtNWl3ZWZTOV9DM1F3Z0RZOEFTTWlnZnNwWFpRVWh3ekZDSWU5Rmx6OV9NMC00WWExbW1R?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -634,43 +669,6 @@
    "source": "Yahoo Finance",
    "time": "2026-11-08T12:00:00Z",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEtVb3o3SlpvMXdLYkpTeUVrSEZ3eU1nU2N4X3o5OU5oT0k4Ym42MUxUcmtkX3VxVFNSTWV6NXJ3SHAwV182V3JvNDRPYUxBM2poaWQzbm41RW0zZUxzVlBQVXhBQWZCeFNFV2twTEszZW9FU19kUWdOZHpfaHFxR2lhR1FoQXg3aXpzanFtdjlFWUtOSXM0TE4zSi1PWE0ySUE?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Titan eyes record festive sales as gold exchange gains traction: Arun Narayan",
-   "source": "CNBC TV18",
-   "time": "2026-11-08T11:35:02Z",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMk1VelBoUnp6cm1vbVhmV2ZJUVB4ODM3bFFoWEtvb09hRjZldmN1NUV1eXpSYVFQdjNMb0tRRjdaNXJ5eVdwTDAyMUpKV08tTU1kLWdZSUltRWJOdnNSLXZPSHZGV2xpOExCN0hNWjZIUnpQZXhpUUJhODFNTU5vUEl0cVhTUE9NUjdYT0xTUmRFSkl0bmFMZm91ejNJbXBBRWdQS0FxZmNWd2xwMWlOWGZmU0pEbUtvQU9taVU0UzNiVDZyU1M1MW9rMk91VWR2TTdYNUVvVmhVOGNWY1pfZ9IB5gFBVV95cUxPT2IzN0l3Tm0ySXowR2hfZ2N1ZHd0SDdrNU15U0dQWTYtZXl1b0c4eHVFdFhXc0lSZTJvUUM3UU5NM3FDOFVyb0JRd0pHdWRmMG03LW1xeHM0dl9iMnU3Y3BxVkZGcEZ5VXFKRDBndlhZY1FnR0l3cWFUOGxiSGUtb0F4OXpELWpVZG9uMHFVeUdnQ19KdG5zNHVWNlk0TDBuV0tPRXBxUENOc0F0TmJTX3VKaEl5NTIxV1F2X1NDNjFDSjFVTGhGNzlWMXk3amVmYVlhMUhPS2lwbWFhX3dfU0w0Ykh1dw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
-   "source": "Al Jazeera",
-   "time": "2026-11-08T11:34:58Z",
-   "link": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Like Canada, Africa’s largest car producer braces for job and export losses as world’s $32 trillion economy moves to end duty-free access, but China cannot save either country",
-   "source": "Business Insider Africa",
-   "time": "2026-11-08T11:03:23Z",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVmlSNFRQVkk4VHVoRFhfNUdSUzRhZlc5a1BzdUZ5aDA5RFN4dVY3Si1UYjhkWDBmeFpzXzBZNjRWZDJKNllFM1dIbGJQM0ZtSDhPNXdOeHBHeXpyazhiZW9pMUJMMzY0SDFENXUyRkp5N3JIX3ZOOGU4TGRteVVnV3NTNjE2TGtOQmRqbTJIeG15cXBFTzFkb0hMV2x1SEk5UVpzN296OFBpS1lTUmlJQXVla0FZT3VWRmVWWEVJNHd1dW5PQkNaYWh5ek5oWXUtcWQ1S1RmZw?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Democrats won Congress. Can they actually stop Trump’s tariffs?",
-   "source": "The Hill",
-   "time": "2026-11-08T11:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OOFFQcU9IODVFVWRYanlEdmVXcDlvQldxa0luSFJjeHdxMVp3V3ctUzU5LXhnalpXWDdsMVAyYUxKUUVjaml4VEk0dXJ6MU56MFlTbENTWFlXbE1VVXJNTXc1azVaQ1ZpMlJDb3ZJZkNqZ3FhbjRR?oc=5",
    "tags": [
     "TARIFF"
    ]
