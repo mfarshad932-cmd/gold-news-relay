@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T17:53:43Z",
+ "generatedAt": "2026-11-08T18:22:03Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 26,
+   "items": 27,
    "kept": 4
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 3
+   "kept": 4
   },
   "whitehouse": {
    "http": 200,
@@ -96,13 +96,13 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 33,
+   "items": 34,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 3,
+   "kept": 3
   },
   "gn_yields": {
    "http": 200,
@@ -126,9 +126,54 @@
  },
  "items": [
   {
-   "title": "The Sudden Demise of the Cybertruck, a Culture War on Wheels",
+   "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+   "source": "CNBC",
+   "time": "2026-11-08T18:18:30Z",
+   "link": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Attempts to find resolution for Israel’s new government and Ukraine’s war",
+   "source": "Financial Times",
+   "time": "2026-11-08T18:15:02Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmRmNzF1aWN3WHY1Y3g2SVZUc1lLYmhteFNUUkhiQjVydHVGNGZEME9MZVFzNE50MWRTWmNHT1VzU3IyamFGR3dVWU4xbnZlcUs1cWZiNjZyODBuZE1fOE9ieDc2SmpTQXlnVGdZeGVNVDlrb2ZQM1RPUDBmSDduZ1h5aTE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "How Big Oil Became the AI Industry's Favorite Customer",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "time": "2026-11-08T18:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZFhFcUpwb3dwR2RCd3VydnVHUnVpSDM2WFhVa0NpWXEzaWJMY0FILVEyeF9vUldRMmdQT2JLbC05NFVjRElxcUVmRU9ZWjFnaS1qaXppbVB2TmU3bkVQUm5TYjJia3BDREs2YVZoSi02Z3VLTV9ncHpDcjdPQlUxb21Kb1RpR1BqWDJ0Um0wMi1OVm1QY29iWFVxMHAzNWZKRlhR0gGoAUFVX3lxTE9GeG1zcG5FMEJYcWZfNkRCZWRxQWpQVzVtbE9wSUlxY0tScHBqS09tQmpDbHdFeFNqSTVpdk9SbVZhMW9DQkNEVVp4OFY0N2RHVllVSWVNWXdKdl8zVnVjWVlILTlpMFBtV2w1a2pfOGQ0cWF2OVlldXRBZ0Joa3pSdU13WWZuOFhXeVMxNDdoSmlIYU8zSFhOVEp6cm1hLTh4dU5pb0RaRQ?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Donald Trump tells CNN renew strikes on Iran ‘highly unlikely’",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-08T17:47:04Z",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pTmU4Uk5qUWJKZGpMd2U1djVkMk0yaEh6QmhjbENKblBNYm55dDRHNVVmOEVYMlFhWjhsOF9HeDJObEZXQ1hzd0RwWHF4UHNrMkZsSlZyeThaYnRlZDc4Z3dveXhmNzBCX2c?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+   "source": "Al Jazeera",
+   "time": "2026-11-08T17:44:51Z",
+   "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Tesla Announces It Will Discontinue the Cybertruck, a Culture War on Wheels",
    "source": "The New York Times",
-   "time": "2026-11-08T17:40:37Z",
+   "time": "2026-11-08T17:40:38Z",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQNzhsUk9VMGxqSXoxRUJqbURmWjdsbmlPYjZWOTV2Y05hdnlaYTBiMjJoS2tZT1VDUER0TUVSYUtaN3J6bng1UkQ5c1Z0QmM0WGpsaUdzT1RoTDVxdmVsT2g3UEthYW5ueDRFRzhFZFY3UWVQaWt3d2FZUQ?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -139,6 +184,24 @@
    "source": "The Washington Post",
    "time": "2026-11-08T17:40:10Z",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHVoTGdnOFNMV0VBclNuWW5EX3lZb19lWG9HcXFtaHBNdzZTYzBCNk9sMXJndTVabVk5b0VZSXItblJlWHo3Sl9VcnQtU0VocEI2cW4zejJ0eHljbDY0cm4yNFlILThPRnUyUmtlWlJNYzBTdkJKcWhhSF9VM3ozbHJrSndyME54eDBBaVprOTNKUFF0NUxyY1R6TlRJcHpkNmNrN2xR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "'They sent missiles, we sent a bill': Bat Yam mayor serves Iranian diplomat with NIS 250m. lawsuit",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-08T17:29:45Z",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NUWR1T0xMTkNJdXZWU1ViN2hjSTlYTEE1R1pVSVluQ0NBUV9HMFlqem9oclhDNVdTV2xLZVJ2MkliNTJVUlZyYjVrSHluYTdRMHY3VEQ0dFh4YTBLaHc3cEVBZVZQLVh0bkE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump says renewed attacks on Iran “highly unlikely” if talks show progress",
+   "source": "CNN",
+   "time": "2026-11-08T17:28:27Z",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRcFFDS2FTak9Bd3ZyWUJkVUh4NDdfamp4bDNDd1A1NXpleGxxeFFTRmhsV3IyZE56R19qLVVRYmhNSFZISXpjaEhwYmJHeE1YTzlJVFRDdmJYbHczRnozVjUyYWttNkxyMThCMGJrNW0?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -480,15 +543,6 @@
    ]
   },
   {
-   "title": "'They sent missiles, we sent a bill': Bat Yam mayor serves Iranian diplomat with NIS 250m. lawsuit",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-08T10:40:34Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NUWR1T0xMTkNJdXZWU1ViN2hjSTlYTEE1R1pVSVluQ0NBUV9HMFlqem9oclhDNVdTV2xLZVJ2MkliNTJVUlZyYjVrSHluYTdRMHY3VEQ0dFh4YTBLaHc3cEVBZVZQLVh0bkE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "time": "2026-11-08T10:38:58Z",
@@ -614,61 +668,6 @@
    "source": "WSJ",
    "time": "2026-11-08T09:12:15Z",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2hfQWJDNnFHaDIya3JhZmdid090dlZMZHNZVk45UmYwTlRyWTFjM3F3LTZKSjRNV0ZSTTA0eXlOSGtvbU54cklqSnZiTmJHYmJtWHJWUzBBTHBnNDJMM05vRURrZHVsNlBXaWdTRElzX3ROY3VnYnZpak13b3VyU0tJd2RLNXpNU0hZNDlSQUFmaUg2cjdCY1BmSDUxVWs4RlVOMlhVUnM3V084VVNyLWNn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Aramco: Building owned by Saudi oil giant damaged in missile attack on Riyadh’s financial district",
-   "source": "CNN",
-   "time": "2026-11-08T09:10:29Z",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQnlLRVByNzg2LTdwYlg5YVNWZ3daRUw1YXZ2RTYzWWdRYTZCbjdWN1RRMlRsdWl2MDhPVkxPbE1kZElFS3N5MnpiMjQ3VTlsOGp4bjliUWNSQ0FXQXhGWFZGYlZ4T3dJYUZ3NnI5TU9lcGs4TDgyY2NHYVljb0F5YkRwZV9LWFVwcTZHLQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Former Palestinian detainees at mercy of Israel amid perpetual detention",
-   "source": "Al Jazeera",
-   "time": "2026-11-08T09:09:59Z",
-   "link": "https://www.aljazeera.com/features/2026/11/8/former-palestinian-detainees-at-mercy-of-israel-amid-perpetual-detention?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?",
-   "source": "Al Jazeera",
-   "time": "2026-11-08T08:47:36Z",
-   "link": "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil Shock, Currency Shift: Inside Iraq’s Economic Crunch",
-   "source": "Forbes Middle East",
-   "time": "2026-11-08T08:25:25Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdEpmTjBuUjlObzRWRmhKUWo5Q19Ycy1DLWpBSmVLeWVaa3lISGZIS3FzSzVDT3U0OER2RHJSc2p0YVJMSUFJR1p4Nnd1dDJzNHFxODhXUVp6aVVGMWkyejBtSGpzTXNwRmdoTlNZalJIOVB3ZjB4MHctbmNsbFBnOFhwWXBYUlJBbExmcFFaRXd1SlBBY1FCRElySlZKWlU?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Russia strikes power plant in Ukraine after Trump announces energy ceasefire",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-08T08:18:30Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSTVKVU8tajFBRnZmQ2NNNldFMDZ0S1F5c2hKYjB1cEo3bkkwdjZodFFRU3c2V1ZPN3J5NzI1UzZRV2s3dndKSFF2UUxMQ3BTQnV0WkNUVGdQeGdnU25oM1lNUGRTREFsTUF6YUJFTU1lVlI3Q3U2bjQ0RG1vOHJCMC05eTJTNE9hdzNwMkNvMHBjNFAyb0ZUOExhaVFCN05EdWUwM3dlOXNkVTZyMWfSAbMBQVVfeXFMT0p1Wm5MMXNsSDQ4SUVzTjBlajdXUFBWM1EtNzF1MHJJYkJzTzhsSFZTMEx3eExROHhHQ2xBQmRUQU11OXFjMFFmR1RqZDl0NkxLdV81UHZqeExiQ3JSM3QyQkVST3dXeXU4OEM2ZU5tYWhJLWhKSTZtbXJFNURJRXNZTzRkclkxZ3ZZRzgzQjd3V2RIeEFXXzdXblNYVFNWaVJGZXhxcHp0VHlhZVZWeTJRNzA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "We face paying £9,000 because our second home is in a war zone",
-   "source": "BBC",
-   "time": "2026-11-08T08:04:59Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tVkltSm1UNzhTNC10c3hRaVV3S1UtdW16Z0xQc1JXWS1aMDVGTHFOSnltdEVrTzljbGxxM1BFQXVqd1Z5bXNTT0RWXzU5V05LNEFPMm95SU5hY1k?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
