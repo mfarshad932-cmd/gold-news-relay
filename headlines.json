@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-09T20:56:26Z",
+ "generatedAt": "2026-11-09T21:24:47Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
    "http": 200,
    "items": 20,
-   "kept": 0
+   "kept": 1
   },
   "fed_monetary": {
    "http": 200,
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 3
+   "kept": 2
   },
   "cnbc": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 24,
+   "items": 26,
    "kept": 8
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 35,
+   "items": 36,
    "kept": 12
   },
   "gn_fed": {
@@ -91,12 +91,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 23,
+   "items": 21,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 29,
+   "items": 32,
    "kept": 12
   },
   "gn_sanctions": {
@@ -126,12 +126,113 @@
  },
  "items": [
   {
+   "title": "Republican lawmaker moves to impeach US Defense Secretary Hegseth",
+   "source": "Al Jazeera",
+   "time": "2026-11-09T21:15:49Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU0doeG1pRnE0LUpVX1hEUmRKZFg1alV3QjhkNThoM0NPam9fQTUwMTlsODE1YkFfSkVvekFYOHBvNXVpWmMxblpkUEhLQjUzNE9RSUlrRUFkMVFIdEtaajNVWjJKcl80QXBsbGh3MFI0SjJlZnlOZDdlX05kclFNNUlkX2p3ODB6b3FXSmk1eGpGalgyV01MV25UYVRlN2J0QXJCeEJsVjdrSkJ1eEFLQ2diQ05vdjjSAbwBQVVfeXFMTkpiWlJNakNldmFDYncwMjE5YU5GS2ZoTm1lMUtaV3c2ZlZ0UHY2bWQtY1NES3U0cXFveGhSSE9jSWZKdGptenluZm9TbmhXam1Ocmx1M1JxSDVtTy1vcUo2WUhJbTNteXljU1R2eFU4VFNpQmItLWhRX0hGd3R2OGs3Q0JMcTQzeWNaNFJieU1EVm5JZThoRTBpQ1RuSzVWMGxwc2JtVlFSalR5M20tVWlKUWM1YUF6U0VJWUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+   "source": "CNBC",
+   "time": "2026-11-09T21:03:55Z",
+   "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Trump and Vance Confront the Iran War After Midterm Rout",
+   "source": "Bloomberg.com",
+   "time": "2026-11-09T21:03:40Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzZXYkQzNDJ4MkVDRHVPbTZhVzh5T1RDYjF6UnpyT3k4dTZQeFFka1IzbHg5b3F5V2EweXI4Ri00NXZMVlNfUnAyemtPSmlrbHdWUGhWTGtHS1pXYmRxRGFIM0JoSWpKQnhQX1k2aXI4VkZVci0xMzJpcm5wSW1PTjFwTjBiMFN3SVFJc3JOWkY0N3hrMnJBYVYyRXVJWW11V2p0RGZFUHR4WlBDM3A0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Hot U.S. inflation hasn’t cooled off. Rising consumer prices to keep Fed rate hike on track.",
+   "source": "MarketWatch",
+   "time": "2026-11-09T21:01:00Z",
+   "link": "https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories",
+   "tags": [
+    "FED",
+    "RATES",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+   "source": "Federal Reserve",
+   "time": "2026-11-09T21:00:00Z",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Why Iran war funding is “a total nonstarter” for Democrats | THE HILL EDITOR’S CALL",
+   "source": "The Hill",
+   "time": "2026-11-09T20:58:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcmZEcnlhejFSa0RpdTFOZVpDVzFIcU1IYjFRal93SVY4a2hwNlplYmZETUdITTNMcFlLaVcxamIwT2FlemtPa2drLXpPXzZhb1BSUk01Qi1TbXZaT0t0RmxsYWFtbkpEOHU4TFYzNDJvNl81cmMzdE1zMG1zY3hhd1JnV2ktM3B2czdDNzV3WFg1ZGFDXzRqTjVHT3Z4NWZ3SGRUaUhFZzdqYU53VXpfeWZwYW8?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Arab and Muslim leaders in push to stop Trump from reigniting Iran war",
+   "source": "Financial Times",
+   "time": "2026-11-09T20:56:08Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWtPWmlRWllyd3RZZ1VmUkt3QWtSVjUyQzFaaWNabTM5a3JMZS15QUFlZEZaNVdPTFlNeGhDVk1zS1RGdlV1cVQ0eHNHYmltWjQteGhmVlpISmNOSlJYa0JLWU9MTkc2RE1weGtoZFNZdHRuaVJhNnRqcGl0bndYS05DVWw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Hegseth impeachment effort begins in House, focused on Iran war",
+   "source": "The Washington Post",
+   "time": "2026-11-09T20:56:03Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlZ2Z0szYjlfTTBaZndNSUJHY0lLNlVGVDVpb2N2a3BTX09WR2U1cjVpWHZvNEdfQm4xLVFRM3cycmdrazk3Q25Gc05YSkgtOGF5eDROb2NfcTVZRG5yRE5hZVRKQ19XQk1INzdrTTVGZDBCbmpDOXU5NEJESHE5NHNCNGkwMUJSZVBPamlZc0M2MU9Ibng4dVJ5YjdZaE93MUd0SWtGZEt2ZHZndmpvRDZIbFROZjFJ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Nvidia's China revenue exposure: What New Street estimates",
    "source": "CNBC",
    "time": "2026-11-09T20:54:54Z",
    "link": "https://www.cnbc.com/2026/11/09/nvidias-china-revenue-exposure-what-new-street-estimates-.html",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine",
+   "source": "AP News",
+   "time": "2026-11-09T20:53:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzJmdDczN2hxRVpiY0V5UzZWZlFBR3oxaUlhWW96SzNvUEcxd3Q5clI3M1FXUTZqMkF5dmpZV29xdjFZV1hBNDZpeXVwalQ4X1lISlZGY1lIWVZ2UXpYUUExQXl0aVlZazNycEFHQ25xclZiNHQyOW5nWlFoYlFPU3VyeTZwa0hPUkNMeTJ5ck9UVk95?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Most Treasuries Fall as Investors Regain Risk Appetite",
+   "source": "Bloomberg.com",
+   "time": "2026-11-09T20:50:41Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZzN1VjZIT2ZXUWhseEJDdHFSLS0xUDIyc1ItaW1KRHFpdDJMYVJDWFNib05FTWN5VnlvRzNqbXd4cWpYY2xpcFVYN1J3Smh4WWFJOHY0NEdmRzJWcGxXVnRIbFl2Y3NkTGN1WGpPU29IbU9JVGRVTXNrVDM4ZHRYTDJ4NXpTS21vSVVXZGxra24zeG9EZTlielJ4MnFVZzk5SWpDRFhvZXdrN1FURTBvblp1TVVuZw?oc=5",
+   "tags": []
+  },
+  {
+   "title": "Gold price rebounds as oil and dollar retreat",
+   "source": "Mining.com.au",
+   "time": "2026-11-09T20:48:45Z",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EUkFOWVo0Tmk1aVRNNlVHTW5iQW9OblZ6d2J6aGpWVW9ya2l2MXpFWFNvQ1BIRFJ4Qjlhd0ZScU10bTAtb0ZiWGtzbTJKZ2xzT1Q4N3FQR3VLcUlEMEZaeWRWeDZnaVA3TFl6RWhvdG1fMVVmR2lB?oc=5",
+   "tags": [
+    "USD",
+    "OIL",
+    "GOLD"
    ]
   },
   {
@@ -183,6 +284,15 @@
    ]
   },
   {
+   "title": "GOP Rep. Thomas Massie unveils impeachment articles against Defense Secretary Pete Hegseth",
+   "source": "NBC News",
+   "time": "2026-11-09T20:24:48Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVZLUS10dU5IVjRzQlpKeG9pZnJqLTZsNjRzTHk0RTZBN3hRckluYUFNbDJyZVZ5QmU4RUxSdmdvYU9oRExSRDhmTktQa016cXpISi1YY0NtSjJDNy1zRGhDNXB6dGNkT3pEUnE2U0hLR3lDZHA3REVIdTVfNXNydS00YVlQX0QyZEhWbmJQR3RQemk0MHRGWDA1YjZWZ09zM2hoTmIzZzJwbFVmSUJzbVg0X0NJdTI4?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Massie introduces impeachment articles against Hegseth, teeing up vote this week",
    "source": "CBS News",
    "time": "2026-11-09T20:23:46Z",
@@ -207,6 +317,16 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsckdNM0c5MHh6STBpZTlMN21MRnVGMXoxMlRuZ3Z3UE1ySm9tbkxDckFqanlWQUFFTFJYSDgxTWRoWGp2bmpORlRMay1HcHltSVFlbXRIR24xZDZzU3lnRjlFWHBWX2hBdE0xa20xX2J6Z29K?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Oil Falls on Unconfirmed Report That Iran Eased Hormuz Demands",
+   "source": "Bloomberg.com",
+   "time": "2026-11-09T20:16:01Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcW93cEFyUFVLaWRELUxWYWlfVEF4MVgwT1JBZ1lSMmF0N3dFSjdJWGJ3aUVkTEhHN3VZSVFqVER5QkRSTHFWM1pGZUJJazUwTmJjaEJtbTB6TVNjdjg3d0FhaG05QnhLeU9rWGVieU0yV2Z5aXlPVXNIeFFpckt3b1dIU19wRHFOTVdDaEhoNjVYYWx6QkVQMDgxUmEzWFBHYkdUdjBONlB2dFQ3elhyYUkwUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -255,15 +375,6 @@
    ]
   },
   {
-   "title": "Hegseth impeachment effort begins in House, focused on Iran war",
-   "source": "The Washington Post",
-   "time": "2026-11-09T19:51:29Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlZ2Z0szYjlfTTBaZndNSUJHY0lLNlVGVDVpb2N2a3BTX09WR2U1cjVpWHZvNEdfQm4xLVFRM3cycmdrazk3Q25Gc05YSkgtOGF5eDROb2NfcTVZRG5yRE5hZVRKQ19XQk1INzdrTTVGZDBCbmpDOXU5NEJESHE5NHNCNGkwMUJSZVBPamlZc0M2MU9Ibng4dVJ5YjdZaE93MUd0SWtGZEt2ZHZndmpvRDZIbFROZjFJ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "How is Gaza coping with another severe winter?",
    "source": "Al Jazeera",
    "time": "2026-11-09T19:47:46Z",
@@ -300,31 +411,6 @@
     "GEOPOLITICS",
     "SANCTIONS"
    ]
-  },
-  {
-   "title": "GOP Rep. Thomas Massie unveils impeachment articles against Defense Secretary Pete Hegseth",
-   "source": "NBC News",
-   "time": "2026-11-09T19:29:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVZLUS10dU5IVjRzQlpKeG9pZnJqLTZsNjRzTHk0RTZBN3hRckluYUFNbDJyZVZ5QmU4RUxSdmdvYU9oRExSRDhmTktQa016cXpISi1YY0NtSjJDNy1zRGhDNXB6dGNkT3pEUnE2U0hLR3lDZHA3REVIdTVfNXNydS00YVlQX0QyZEhWbmJQR3RQemk0MHRGWDA1YjZWZ09zM2hoTmIzZzJwbFVmSUJzbVg0X0NJdTI4?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine",
-   "source": "AP News",
-   "time": "2026-11-09T19:26:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzJmdDczN2hxRVpiY0V5UzZWZlFBR3oxaUlhWW96SzNvUEcxd3Q5clI3M1FXUTZqMkF5dmpZV29xdjFZV1hBNDZpeXVwalQ4X1lISlZGY1lIWVZ2UXpYUUExQXl0aVlZazNycEFHQ25xclZiNHQyOW5nWlFoYlFPU3VyeTZwa0hPUkNMeTJ5ck9UVk95?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Most Treasuries Fall as Investors Regain Risk Appetite",
-   "source": "Bloomberg.com",
-   "time": "2026-11-09T19:04:17Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZzN1VjZIT2ZXUWhseEJDdHFSLS0xUDIyc1ItaW1KRHFpdDJMYVJDWFNib05FTWN5VnlvRzNqbXd4cWpYY2xpcFVYN1J3Smh4WWFJOHY0NEdmRzJWcGxXVnRIbFl2Y3NkTGN1WGpPU29IbU9JVGRVTXNrVDM4ZHRYTDJ4NXpTS21vSVVXZGxra24zeG9EZTlielJ4MnFVZzk5SWpDRFhvZXdrN1FURTBvblp1TVVuZw?oc=5",
-   "tags": []
   },
   {
    "title": "54 officials face sanctions as INEC removes 1.6m invalid voter records",
@@ -454,17 +540,6 @@
    "tags": [
     "OIL",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Hot U.S. inflation hasn’t cooled off. Rising consumer prices to keep Fed rate hike on track.",
-   "source": "MarketWatch",
-   "time": "2026-11-09T18:16:00Z",
-   "link": "https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
    ]
   },
   {
@@ -600,81 +675,6 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaUhsVEtzTWFpNXg0VGhKdGgzUnhLY1JHbVhVd2NNLVpnaFozXzVERVlRRlV5dnZ6b1dDOXZfcWJQUFhIQzBPSUxielMwSWtfNzFUVlVoNklrTDJrMGRNTVg4NnZnb3VXZWdjMTdLTDVsVldldFd4dFlEczhOWnltaWFPLXJfREhNWm1SSlZRYks?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Oil Extends Slump as Diplomatic Efforts to End the War with Iran Continue",
-   "source": "Bloomberg.com",
-   "time": "2026-11-09T17:00:01Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbUlyWVBkN2dvcG9mSlhHSlF5YkI3Mi1NTUZ5U1c0elJRVU41QlF6ZnZxbW5VY2hlQ21faGc4Z0EwREQweGtQSnI1bVJmMUpUeWxyd0FRM1ZnY1AwZlhoZmRBajNPc0IyZVFoRDBNX2gxZVRja0NWaGV4bTB4ZWE0SUEtbUFZNVpDMzZ5dU44YU04Vm1TbHdJYURMX2RYcnJ4N19pWmk4NUhFenR0bXY5UFhNOElueHFJWmdaTUdaUnNMUkFHenc?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "US Sanctions Eight Canadian Money Services Firms Over Iranian Crypto Transfer Allegations",
-   "source": "TradingView",
-   "time": "2026-11-09T17:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR3oydWJIODZLMk92a1lXVWN0RVVfdVdCbnZfRFVDUnRyVzU0SDhjT0Jad0habWk1dVAzTXhIMGV1V0ROZ3UtM2htaExGQ2VFakNOdG9kY2FFWnBOQ183dEk2dWNfTTFRcUJVRUZZdW81akFvVXJJVXVWdU1HdWpfMVpXWmNhNjNxajJub0lNNmF3Z1pQVG1uOWpMNGNLeEZVV1BsUnA1YmhvbG14eS1RSldOU29pX2hkd1BqbVgzZnlVczhxNzFxcnV0OERkUTF0YTJTc1gwbklDOUtlU1NvQw?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Why Gold Miners Rose on Gold’s Down Day",
-   "source": "FXEmpire",
-   "time": "2026-11-09T16:59:51Z",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUFBxa0JaQkRlV0RfaUFTU0tGVXU4V3JyTjVER2h6XzZFbkFWT2xCTkpINXZ1SW1KaEtJdWhZQXB0ZlZtbXpnTjEzWGpGQVRNX1JDUGtkZTg3eEgxX09CQ3lSODNCMVRFWjgzZXBHYjUwZmVMZkFRVDhUQUJ1aldlVnlodnhqOXZJUlNyZ2ZoSWdMOW8?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "World in brief: the Huang affair dents Nvidia’s share price; China extends tariff truce with America",
-   "source": "The Economist",
-   "time": "2026-11-09T16:59:20Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUW5NZTIwUDQwbWhVMjdfMWxYM2pFenEzMEZWdmplbHhqaThLYzdIUW9scjNOUFA3R3dqUVR6TnhzN3N5TzY3TmVxLUxrRWQ5Yko0N2o4RTJpYzVhb1M2bWdOV01WV1d5dkpVa2N4ZzZVOWlURGt6YUQtZVBYM2VJXzUyTk5NNHdHWXJjbkFyNFFWbGlxQkVr?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Former Sec. of State Blinken: Going to war with Iran will not be viewed kindly by history",
-   "source": "CNBC",
-   "time": "2026-11-09T16:45:29Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUhfLWowRkxYTGV5MmJMblNPbFV3VWRQakxlX3RHWW9FcXBLZWtpVzJNeUlTLThBNHNlXzBoWEctSE9JdE9Qb1NUaGxQTzZGSnd4dkRBZlFkdHZfc0praVNSd1VYbGNBTUs3Znd3d0J6X2NpSWZqT3NnT0hGVlMtOUFfQURZd0hFOTlYMmk4aTJLSTUzVmxCcG04UFZ2LTB3djhiS0owRmNqOXRwZ1I4R3JZcVA2Q1VpVXdwenRBMUJyYkpKWHVHc2t3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold And Rates: The Decoupling And The Recoupling",
-   "source": "Seeking Alpha",
-   "time": "2026-11-09T16:45:00Z",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNnB1NUFGTzVHOHVoTlItaFNvaFBUTGF5NXhxb0dBc1BrQWVGZUpRbDVmSk1xVmRINl90SlpFMXhnWm1fMGJrV0lNZXNYQ2Rqa3ZkV2ZOOUxvbmVOWTN1Zjhzam5VYndfVVRPaS1pZ0padlBDdGE1aU5GdlNZVlVUS2VBTQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "The War Room newsletter: How long will Pete Hegseth last?",
-   "source": "The Economist",
-   "time": "2026-11-09T16:36:40Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdFRwRHRhOWNEUVlOM1IwQzNvbWFsRy1SN3ZrcXJQc3FTVjdyUUZaRzg3QmpfQW9zbkhBTXlsdEIza3ljc0xhdWE2WVdOeDdhTVJMT0d0c1lBQ0tLRVFuX0ctVnFmVW85NHRSSWpTazVBem4tMV9BbnBGZW5LakNfMlEyYTlLOHp4dnI2Wnc4REtvc0FoelF4Y1RvNy1iLXI2X0JQX1JqVC02QQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil Falls on Unconfirmed Report That Iran Eased Hormuz Demands",
-   "source": "Bloomberg.com",
-   "time": "2026-11-09T16:33:56Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcW93cEFyUFVLaWRELUxWYWlfVEF4MVgwT1JBZ1lSMmF0N3dFSjdJWGJ3aUVkTEhHN3VZSVFqVER5QkRSTHFWM1pGZUJJazUwTmJjaEJtbTB6TVNjdjg3d0FhaG05QnhLeU9rWGVieU0yV2Z5aXlPVXNIeFFpckt3b1dIU19wRHFOTVdDaEhoNjVYYWx6QkVQMDgxUmEzWFBHYkdUdjBONlB2dFQ3elhyYUkwUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
    ]
   }
  ],
