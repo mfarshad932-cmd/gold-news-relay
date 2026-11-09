@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T01:54:50Z",
+ "generatedAt": "2026-11-09T02:23:11Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 2
+   "kept": 3
   },
   "investing_commodities": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -81,8 +81,8 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_fed": {
    "http": 200,
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 38,
+   "items": 40,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,8 +106,8 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 4,
+   "kept": 4
   },
   "gn_oil": {
    "http": 200,
@@ -154,6 +154,26 @@
    ]
   },
   {
+   "title": "China wholesale inflation hits over four-year high as consumer measure slows",
+   "source": "CNBC",
+   "time": "2026-11-09T01:40:11Z",
+   "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+   "tags": [
+    "INFLATION",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "China October 2026 CPI +0.7% y/y (expected +0.8%, prior +0.9%)",
+   "source": "ForexLive",
+   "time": "2026-11-09T01:32:17Z",
+   "link": "https://investinglive.com/news/china-october-2026-cpi-0-7-y-y-expected-0-8-prior-0-9/",
+   "tags": [
+    "INFLATION",
+    "CHINA"
+   ]
+  },
+  {
    "title": "Democrats will take aim at Medicaid cuts, Iran war and tariffs, Jeffries says",
    "source": "The Washington Post",
    "time": "2026-11-09T01:21:54Z",
@@ -180,6 +200,15 @@
    "tags": [
     "JOBS",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Rubio says Trump's war against Iran not 'necessarily popular' but needed to stop a nuclear threat",
+   "source": "AP News",
+   "time": "2026-11-09T01:06:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMERvcmZhZjQ1LXNKMjVUZG42cmxpMUJ5ci1xOEdYVzZ6QjdiRVdiNVpnSGVmdnRZQ3ZKNFNNV3ZnMENHeFY4TnZsLUZmNVozMlRyb25BcEN0YUI0NnFkcjNLMzVaSVpEMHZIMEtLMklNXzZkRDNRNVBKeVR3R2NTamdja09VeG1TZXNFYndua1p1Wk5Hb3RzVkFXeGV1VDd1SURKSURB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -242,15 +271,6 @@
    "source": "The Times of Israel",
    "time": "2026-11-09T00:36:21Z",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY1NPVUlaXzBzeXoyMXZrNWJPMENxSnZvaFZJTmlGNmdoVTdKdTVKTGM1b2pyN3M1cUw2NUg0RkhqWVI0d0VQSE16bmFtNnNWSnd6ZFl3TDJXS2FLLU1hQUhQbGg0T1NLS282RnJjbTNvclZMdFVwSWpUNDdCdl9NcGRTZ0Y0cE9vQlk5Vm9FR1R0bjlwUV9DM3QwaWM1czNnSmw3dlVqV0RVb0J2XzN4b0tyX19yZWdjN09Id2lpNUVLcXI5ckI3LQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Rubio says Trump's war against Iran not 'necessarily popular' but needed to stop a nuclear threat",
-   "source": "AP News",
-   "time": "2026-11-09T00:06:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMERvcmZhZjQ1LXNKMjVUZG42cmxpMUJ5ci1xOEdYVzZ6QjdiRVdiNVpnSGVmdnRZQ3ZKNFNNV3ZnMENHeFY4TnZsLUZmNVozMlRyb25BcEN0YUI0NnFkcjNLMzVaSVpEMHZIMEtLMklNXzZkRDNRNVBKeVR3R2NTamdja09VeG1TZXNFYndua1p1Wk5Hb3RzVkFXeGV1VDd1SURKSURB?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -653,24 +673,6 @@
    "source": "Financial Times",
    "time": "2026-11-08T18:15:02Z",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmRmNzF1aWN3WHY1Y3g2SVZUc1lLYmhteFNUUkhiQjVydHVGNGZEME9MZVFzNE50MWRTWmNHT1VzU3IyamFGR3dVWU4xbnZlcUs1cWZiNjZyODBuZE1fOE9ieDc2SmpTQXlnVGdZeGVNVDlrb2ZQM1RPUDBmSDduZ1h5aTE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Leaked records point to nearly 400,000 Russian war deaths in Ukraine (XAR:NYSEARCA)",
-   "source": "Seeking Alpha",
-   "time": "2026-11-08T18:13:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNFR5b0RCWnFVS0RVZkxZbmRaYi1rUF9sR0NseDRoWjBsMy1XNEpheWNDRDRpLWRMUGtJMXk0ekNERWJzeWhISE5RRmYzNTVwTjVzTFZ4MzFXSGJjUG43MzdjS1QtT3lCb2NIM2RkRjJ1RkxJNzhXSURSTWpQN1dJZTdmNkU4TjFUTjhoNGVMUnBsaGJhZDZMemFvMW9ZWjNpUHFQczg3Vko?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Eisenkot open to Netanyahu joining Israel’s next government",
-   "source": "Al Jazeera",
-   "time": "2026-11-08T18:12:27Z",
-   "link": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
    ]
