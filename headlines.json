@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T13:14:49Z",
+ "generatedAt": "2026-11-09T13:43:12Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 5
+   "kept": 6
   },
   "investing_news": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 4
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -81,28 +81,28 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 24,
+   "items": 27,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_tariff": {
    "http": 200,
-   "items": 13,
+   "items": 14,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 39,
+   "items": 38,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 9,
+   "kept": 9
   },
   "gn_yields": {
    "http": 200,
@@ -126,12 +126,75 @@
  },
  "items": [
   {
-   "title": "Dow futures rally 500 points as oil prices drop; traders brace for more data and earnings: Live updates",
+   "title": "Dow futures rally 600 points as oil prices drop; traders brace for more data and earnings: Live updates",
    "source": "CNBC",
-   "time": "2026-11-09T13:13:13Z",
+   "time": "2026-11-09T13:34:48Z",
    "link": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "Trump talked with Fed chief, but there’s no record of it on Warsh’s calendar",
+   "source": "The Washington Post",
+   "time": "2026-11-09T13:34:37Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdEdjM2lrNjdwYmtMLTBtaFp3aW1ONGNIaHRwZnRadGt2VjZ2OGtMeEVzT1kzcW9BRWJoRmhNblB6dXBxR2NldmRXeG9ET2dZVDE5aWNPaDdmSFV0OEdRN0xGU1dYekdxZmZ5VEY1MHV3T2l4Unk1cWlaT200WVhObUp0elNyc0V1TVprN1l4MXN1MHEwb3JUNF9DOURQOFVScFoyMjBxNXFKaWlrWnZaN2hsUDRFQkZsWVBRYg?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Barrick Misses Q3 Estimates but Holds Gold Output Guidance; Shares Rise",
+   "source": "Benzinga",
+   "time": "2026-11-09T13:34:10Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWJFREl6VFE3QjBfNXZ5OHhNQ2V0bGF0anY1OXVRdVRuRlJKdEphNTdJOFV3c3QtV0xRazZsdkNja1o0WEFqa1hFc1ZoNFhJZmhKelFpMlM1QmV6Z1hzVTN4cDhlY3ROdWZqU2VjUkhoMi1Lb3NxbG5zaUpoNElUVGswRm8wdHNKaWJGZFFTYjF3VV9BakIwS0F2QnJrb3liSU5CSXMwaktDZ0EwVFpzZXZieFpmV2dTWFdsYzV2M1dMdVhmbk5v?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Dan Hoffman on Iran war: Trump administration is going to have some work to do with Congress",
+   "source": "Fox Business",
+   "time": "2026-11-09T13:33:54Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zQnlUQ0p4VE9SNDJOOWs0b3htRE5WYmVzZVNLdWpyZTdrSkk3dFAwNUhMVS16RHFJb2k5RnJhUDlBcE1PQVJpV3BVMUctRi0xZEVDUkZZMFBaMG8?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+   "source": "CNBC",
+   "time": "2026-11-09T13:32:42Z",
+   "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "For Trump’s Fed Ambitions, a Democratic Senate Poses the Biggest Hurdle Yet",
+   "source": "WSJ",
+   "time": "2026-11-09T13:31:21Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEN2SVIzQmppcXREV0sxNE0tejFxYkt4VGpxemtVbVV4R0ZPTVFyVWV0azNTLUxCSkxUQWxxN1plZEpfZ1ZCRHUwNGhJV0k3c2owTWVRaEpfb3JMN09jV01jTkNJcmNidl9FTFhid1JsUmw4ZnVXSjVDRXZzWlM0NnRmRnEybjc5MG1Hb09KQXRsM1lFR0FVUThGVUZjdTZLd2lUZDl2WTB0UQ?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
+   "source": "Al Jazeera",
+   "time": "2026-11-09T13:23:12Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRDdTSjlMcUdhQVRNTVB2ZVlSQlNLZ3dLSGJWdXRmNjh0OFlobzNFMFZHUDhZVDc4OENTLUpNZkkzWnpHeEk1eEwtN1lCanlGZDRKX0o5eWVvVGxaWUhxaDhxTnZicU5kLUtJMWhOMWZCTUlENVF3RjBWNDZhMEM4cy1nVXNWUlpzenNMUnNzWW9oTG8ydFNLVDNCckdEeFpOUkZMYWd5aGhTRnljdThPVVVzTkZLNTRLcmfSAb8BQVVfeXFMTnRwWWpRM0YybjRoT3RhZS1CUFhEanRzWlF2cFdtWHJrQktGSWFDOHhWUGI3OEk2NWlQVU9TRDExMGhlbGlNUkc2U2tEelBhdkRCVHFSdWJJVGNjbHZNNHRHM2pjNVFfMmR3cUc0emdDSFZnTk15RWJzeHRkRW5Gd0xZaWFlT3ZfWFg4WlQ1aDh2bk9CR2FSVWcwbExVM1pBS2g5OGdDa3JIMUlvZnFhYXNkRVBPbWk2VWZ5eHJCRk0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Emirates’ Clark Says Retirement Plans Derailed by Iran War",
+   "source": "Bloomberg.com",
+   "time": "2026-11-09T13:21:51Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdWE1N0gyb1c0dmQzWVBtb0drRmZCb2ZkOFptSVNWT2poTTNmME9yM2pmRXZDWVl4WDRWVnByaGltZkpBY3lnYlhSZjZJMHhqUWpCUlA5Q0xfZ25ySzYxcXZLQS1tODdhM0pLLVJ3eXpIYllfSVJTUkk4X1gwaUVycTdaSS1ZWEl2ZFp2bURXZGV1UTFWazJ4UzJxTlh4TEhsVFlET3dYYXJKdE05?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -144,21 +207,21 @@
    ]
   },
   {
-   "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
-   "source": "CNBC",
-   "time": "2026-11-09T13:10:25Z",
-   "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+   "title": "EU Launches New Sanctions Office and Crypto Task Force",
+   "source": "WSJ",
+   "time": "2026-11-09T13:03:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVFI1UTlMSnE2UDZRWEl2NXNMYWZFcXRnTWhuTEtNTDJ1YlU0aVE5VFhIdlB5ODROeHZBbUZRM253MFFVREQ1LXp2VThoX3BzRWtDS3gyLXRQSFdrV2dfNUlseUx5ZE9wQVduV2ptNlVIRVZxejJOLUN5RDNLQ3hiSzhMZVlmQ2hQaUhWUjVOYlowUHhSTWc?oc=5",
    "tags": [
-    "CHINA"
+    "SANCTIONS"
    ]
   },
   {
-   "title": "Trump talked with Fed chief, but there’s no record of it on Warsh’s calendar",
-   "source": "The Washington Post",
-   "time": "2026-11-09T13:02:00Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdEdjM2lrNjdwYmtMLTBtaFp3aW1ONGNIaHRwZnRadGt2VjZ2OGtMeEVzT1kzcW9BRWJoRmhNblB6dXBxR2NldmRXeG9ET2dZVDE5aWNPaDdmSFV0OEdRN0xGU1dYekdxZmZ5VEY1MHV3T2l4Unk1cWlaT200WVhObUp0elNyc0V1TVprN1l4MXN1MHEwb3JUNF9DOURQOFVScFoyMjBxNXFKaWlrWnZaN2hsUDRFQkZsWVBRYg?oc=5",
+   "title": "China rejects ‘baseless’ claims it spied on Nvidia boss",
+   "source": "Al Jazeera",
+   "time": "2026-11-09T13:02:46Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/china-rejects-baseless-claims-it-spied-on-nvidia-boss?traffic_source=rss",
    "tags": [
-    "FED"
+    "CHINA"
    ]
   },
   {
@@ -177,6 +240,15 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWlJ5X3RoOVh0bW5xVFVmNXdrXy1QSS1WNWJjbkUzY19jODQtaDU0WHFrU1lVRlZVWEotdVBXX1NKcWJ3WXMyR1lPVE5tSzltT2JVaDB2M2FvajAwREppYlFCd05aSFBDRmVxNVBnV3ZKNEtqazhSU3NTTnM1MEhmT3RnM1ItMHU0NGcwdE51SnFtYV9Bc25tZlByY2pCUlFvTWZtUdIBqgFBVV95cUxNSjNZQWxBTVY3M1dUMmRVVDhJdnZITk00Zm5RSm83U3h5ZWo4NFNfT0lSak1odHhOMGIzRVZoZWV1d214eGhtcWRJTldoMy12NVpHaXF0ZVFuWlFubnJKTFNwNzU1YVdjdVhESUluZ1Z1ZGtaMXNJWVpfUHpEZjVSb2R1OWZfcGZRVVRYRlNxRXlUSjYwY0NhZ2VGQ2lveC1kckFWVTJlc25xZw?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold and Rates: The Decoupling and the Recoupling",
+   "source": "Investing.com",
+   "time": "2026-11-09T12:41:00Z",
+   "link": "https://www.investing.com/analysis/gold-and-rates-the-decoupling-and-the-recoupling-200691227",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -226,6 +298,15 @@
    ]
   },
   {
+   "title": "[Video Enhanced] West Red Lake Gold CEO Discusses Integrated Madsen Mine and Rowan Project PFS",
+   "source": "TradingView",
+   "time": "2026-11-09T12:30:04Z",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMVFadEFEMTNkYVVOZklZeVR1ektzTzBUaTlyN0YtUTVGLVlnM0pRYVNDSUttR3ZHYk9hN0NRQkx1eWRUWFYwSzItUUNvb3VEUkpGMmx3VGhpLUdNZjZqSFBoMzJfSmpDQXlTQ0dqVG9nWmstYWVuV09lVW5EZjVHRldUcmlRSjRWcl9mVzU3ajlQdmRoUDRnM3pxRG53SnZ4RHVld244clU4bGF4MDJtZV9QT1NGbmh5X3JiRnN1UThYekFLM01FUmF3cE10c1RnbHhWQzBPR1dCU2lrcjRMTUJYdFdqcl83ZUxKUndBcm5FVVBBVUk3Q0F6MA?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Gold prices today, Monday, November 9, 2026: Gold prices steady following Oct. jobs report",
    "source": "Yahoo Finance",
    "time": "2026-11-09T12:26:30Z",
@@ -250,6 +331,16 @@
    "time": "2026-11-09T12:24:29Z",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNT3BxT0dwRTBJLTh6d0VKbTRyQW52TXJGSDB1QlR2YTNkSllxX18tM2VxaGRxTWNpSUc4bzNoNGFZdWtFTU41WlZncHo4ZDdHODE3LVpTTUlSdk41MlkyeWxUdVBFc01MbVRLX01tVGhYcXlpTXMxdHdJeVdEU0NiYjQxMXVnZGhIMnNfbF9XR0JPd1c2a2otbHk3bTBhVUNxRW5vQmxSanlfV0VKQ2hTTXExVm5mMHk3bXBOdHJsbkN6YWxRdk84eW14ZFlhNUNTcllPSEMtZ0FhaE5FeS1SMFpZQ0ExbmFGVmlCRmxpWjFLZw?oc=5",
    "tags": []
+  },
+  {
+   "title": "China extends US trade truce by two months",
+   "source": "Reuters",
+   "time": "2026-11-09T12:23:09Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
   },
   {
    "title": "Canada announces fresh Russia-related sanctions",
@@ -280,15 +371,6 @@
     "GEOPOLITICS",
     "SANCTIONS",
     "CHINA"
-   ]
-  },
-  {
-   "title": "For Trump’s Fed Ambitions, a Democratic Senate Poses the Biggest Hurdle Yet",
-   "source": "WSJ",
-   "time": "2026-11-09T12:01:21Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEN2SVIzQmppcXREV0sxNE0tejFxYkt4VGpxemtVbVV4R0ZPTVFyVWV0azNTLUxCSkxUQWxxN1plZEpfZ1ZCRHUwNGhJV0k3c2owTWVRaEpfb3JMN09jV01jTkNJcmNidl9FTFhid1JsUmw4ZnVXSjVDRXZzWlM0NnRmRnEybjc5MG1Hb09KQXRsM1lFR0FVUThGVUZjdTZLd2lUZDl2WTB0UQ?oc=5",
-   "tags": [
-    "FED"
    ]
   },
   {
@@ -440,6 +522,15 @@
    ]
   },
   {
+   "title": "Weekly Recap: Mine expansions and project returns above 35%",
+   "source": "TradingView",
+   "time": "2026-11-09T11:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMk1SLXUyaXByRlFEYlp6aXhKcFJ4djdWN1d5cU0zNHdqbG45MzB2QkRWYkxMTTNROFhsWkhDSzE5dWJDSjBzekppU1Voek5PcWtQTEV2X2JGQUZLX3VjdjdnbGdSZFJtaWtpbkZ2OWNmQzhrTXNvSUh1VGNqQ21LaERpRTZYQzhUWHY0NlVIRTNuem1XWmtmNDc1UXFhdWVmNzRlR0N0NEs2bmRocmdvb1QyR1diWHFEWldZ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Gaza authorities slam global ‘inaction’ after mudslide kills five people",
    "source": "Al Jazeera",
    "time": "2026-11-09T10:50:49Z",
@@ -580,103 +671,6 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOE9NUS1DRlJBNF9FaU1BcU5LNjFfX2I2eHRaRkYwOXdLWmdyLU5aUjdLeVJ1WV9nTUQtYVhXNkFfTjQ5dk5hdzJneTJxS0FmNHZKODR0cHpiUTVBanU5S0JGbk5ZTXBjaWNXWGFXN2hRRy13UGZEUWZkUGR4SEl6ODduQXNjQQ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Price Forecast: XAU/USD holds gains near $4,100 as risk appetite hits the USD",
-   "source": "FXStreet",
-   "time": "2026-11-09T09:52:47Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZmhsaUFaTE9EYmFXU081RGVPWER3N1Fsb1BEVC1aOWVRWEZGc2Y3SHNjMkRkdHNQaVVLVi1uWTdycEM3UndUT2dfdlU0TnF4Q003NFdfU0NBWmdtaTI4Qms3MmoxLXZiMmt6ejlXTVFCRl83SVZCU29GN2pmYTNSRzNUampibjZVdmJJZkVGcVVPMDRud3lIQlBDcFl4d2U5SVR2a2JJc3JqaEF1TVZLZzVGaEhYWkpHbTFLcXM2MFk?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "U.S., Eurozone Bond Yields Turn Higher as Investors Shift Focus Back to Data",
-   "source": "WSJ",
-   "time": "2026-11-09T09:52:00Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0N5Skk5WEFjeFZaU2hkdnczUWd0Y2QzNEFJNFF0Mk9UdTd0LUhCRGI4aVBldGpNaDRoWFdJT0xDcldjX0p0OG5yS1lBQktuSVo3alNaTkVSNmI3WWZ2M25WSnJ4Y1BkTGEzM05NamtJYlBQSk1pdVdMNHg2MTJVd0Yxc29Xc3ZOUkFPYkJxdWQtU3BINU42NjVlSl85Z0ZG?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Mazda holds full-year profit forecast despite tariff impact By Investing.com",
-   "source": "Investing.com UK",
-   "time": "2026-11-09T09:44:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaFNQTmhscjhPVFIzQ0NZYkwxLXEyeWZJMjBKZkFfZG5NeG5WOHlxRUVJYkVsU2lZUnFTeWltVzRYRm03aWVSQnhaR0c0OXBWV25CMFZzbHRpZnB3NWw5anpaNFR2c3lVV3JrSnA1VzNDeGZyU1BYMG1PaVV0NVZsTHlEcWsxUWd3ZU5SbThTb1lkZF9CU2Z3Qy1IR3ZSdnctQnJzUHV5ZE40aWF0bkJ4QUFybG5IVHBqaUF3?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Treasury yields are steady as investors await more economic data",
-   "source": "CNBC",
-   "time": "2026-11-09T09:42:37Z",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JVE44LUJheWlkSEJZWlBaUVRGUXR2aGVMbm9yZnNDUnR1alJLSDdlU3Y3RktFcmplWmViVjV1ME1UYU9qSDA1YTN2NUdJbTJvWmZGUU5FZ3VTMU1lV3ppbk10SXBWLWxTcHVWYjRFbw?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Qatar PM to meet Trump: What’s the latest on US-Iran negotiations?",
-   "source": "Al Jazeera",
-   "time": "2026-11-09T09:31:52Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTG54ck5HeEc1SFBfeF83WGR0SGxuS0FUcFhzQUtBa1pLOXphcDdvNk9QYS0xUkpBd1JnNkVybHoyOUlUeHVfYUF4eUpzWnd1Z2RWTW85VTdYdGVZb3NaekZOSUVsSmlWTXVqN1luWXV2ZjhtWWlpdElSY251Vkl4cTFWS3kxak9GZnBxS3JPckFmUlF6Nk9fOUl1R1gyckxIa19aX29mRdIBrAFBVV95cUxNYjNzN21zZTFQOFlUOUNqZndVM0IyMUgtZ2lZZlRtLWxRZm1ILV8yZ1pWc1NLWnJvd0p1QW13OS1mZERoLUkySDhFZDB6WmFmZEdHaDlCREdxeHd5N3ozVkJpeE5ndkl0YnJ3ekhYT1JaUGUtdXFSbWJDaUM0OU1VZWh5SU5ERGZWOVNPZEFWNTQ5dnVjMWxVd1Z2Z3I4ZDFmQ2laWC1MMnVaVE1O?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Why is China’s demand for gold continuing to grow despite falling prices?",
-   "source": "South China Morning Post",
-   "time": "2026-11-09T09:27:46Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTR2dXpHZ3prSWhCV2JvNzlCQjBLLXhBWFpyYXFsSFgzTjBOTE1jb2tFQVJvejNGejZuZlp4bDhVSnQyWTFmejFGRmpGc1hZekdFNnRfeHlfU1FmdElpV19OcnViQXlMY0R2czI0YTZGU2RmX1NEbUtyZy05S0F2VmNBU1V5ZVBac0I1ZU1yTlJzWm5QZmZBVWpieHI1Vk15Qi1FQlBPVHV4d9IBqgFBVV95cUxOWTR2dXpHZ3prSWhCV2JvNzlCQjBLLXhBWFpyYXFsSFgzTjBOTE1jb2tFQVJvejNGejZuZlp4bDhVSnQyWTFmejFGRmpGc1hZekdFNnRfeHlfU1FmdElpV19OcnViQXlMY0R2czI0YTZGU2RmX1NEbUtyZy05S0F2VmNBU1V5ZVBac0I1ZU1yTlJzWm5QZmZBVWpieHI1Vk15Qi1FQlBPVHV4dw?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "CHINA",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Iraq Strikes U.S. Deal to Boost Oil Exports Through Hormuz",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "time": "2026-11-09T09:10:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDFLMnliZE9CVEhBemh3Nlk2WjBXYXhQbXh6SC1ZRDl0MnV1ZWg0R2lRTk1KWnBKQk9mYjZzcjRmNDlnRG9KV29DNjR5TTFveDdOWkoxenVESnJQVmU3Z0VsODNremhBU0JVZU8tXzZNckkxTlhBdVYyVzZCUHZSOG5nZDlWTXYtMmgyUzFHRHRhUjZQbGVpNDBTTml3Zmxud0UwMFZaWldmdVhQQk02a3JR0gG3AUFVX3lxTE5Pck94RDZHSTlGUThxMnlvdEViSGNLYncxRlVUM1FOb3ZDTHdXeWE0QWNUeVgtR2F6MWN4YTd3Vkp3WTlPUFpnQ293VzJfb3E1OGg5UC05VldXUE9PM1M3ZlladFAwcTRKeDV3d1dvQjVMVGtlcmdXUVZBUlQxOEJjbXl6QUg3UzU2QzlDdmRWZ0w3Tjd0Vk5pRzBRdXNKa1VhR0p3V0xGLUlXVlZYbEFFUzQxcFBLOA?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Oil Futures Decline Amid Market Downplaying of Escalation Return Risks",
-   "source": "Investing.com",
-   "time": "2026-11-09T09:02:00Z",
-   "link": "https://www.investing.com/analysis/oil-futures-decline-amid-market-downplaying-of-escalation-return-risks-200691205",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "China Extends Pause on US Tariffs and Trade Curbs for Two Months",
-   "source": "Bloomberg.com",
-   "time": "2026-11-09T08:52:55Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkVXSkNKNzRBdXBNUlFmNVlEZ3gtUVhRbVVZcENiS3B6RXBlMDNvQ2lrU19fMXoyYkdSQWc5amg5OXlhcmtKX0JHZHR2amtKY2hzZllpQUhWS3lTNndnT2NDZFdYUHNCeG1MVHZmMWV5RjEwTXJqVmlLQTJDU0d3SHN2aHVOZ291bTNqNnprR3U2TndhUEs0ZHdDTVM2NlRsZW5VQUxKd25JLXV0MlJ6aXRR?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "China Extends US Tariff Truce by Two Months, Keeps 10% Duties in Place Ahead of Trump-Xi Meeting",
-   "source": "Benzinga",
-   "time": "2026-11-09T08:46:29Z",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaExQcVpSc1VYMGtIa2tZNkxtMzlRVm12UFRVeURvZmhWd1lMWVNkblZzZ0d0VGkwWUdIUkxRbzhCdDhVRU9pVjlBZjBHbjduc3llMW10X1loUUxoV0w5Um5BMm5Gc3B4ZXRHbVdPZ2stNWFsN0pjdFFDY3NlOWV2TW9Qb3BVTVJPUFVoQlpzUWZYQTJSaXNNdGlEU1hDN1NEM3pXY20wM0dCaW4wcll5bndfb0k0MnFVYXd6VHNSdUNycXVfT2NrSHRLMmJmdHNPNUMyallPYTBONFFJdW9USEVDM2NzRmVVNnB6SC1uOHBCSDlXR3BB?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
    ]
   }
  ],
