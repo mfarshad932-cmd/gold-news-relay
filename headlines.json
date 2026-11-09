@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T23:33:16Z",
+ "generatedAt": "2026-11-09T00:01:37Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 0
+   "kept": 2
   },
   "investing_commodities": {
    "http": 200,
@@ -80,44 +80,52 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 5,
-   "kept": 5
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_fed": {
-   "http": 200,
-   "items": 6,
-   "kept": 6
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 5,
-   "kept": 5
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 38,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 3,
-   "kept": 3
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 7,
-   "kept": 7
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
-   "items": 3,
-   "kept": 3
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 3,
-   "kept": 3
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +133,25 @@
   }
  },
  "items": [
+  {
+   "title": "Trump eyes Xi, Putin meeting at APEC on Iran war, says he’d ‘certainly take’ Huang",
+   "source": "ForexLive",
+   "time": "2026-11-08T23:56:26Z",
+   "link": "https://investinglive.com/news/trump-eyes-xi-putin-meeting-at-apec-on-iran-war-says-he-d-certainly-take-huang/",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "China October inflation preview: CPI seen near 0.8%, PPI above 5%",
+   "source": "ForexLive",
+   "time": "2026-11-08T23:07:15Z",
+   "link": "https://investinglive.com/news/china-october-inflation-preview-cpi-seen-near-0-8-ppi-above-5/",
+   "tags": [
+    "INFLATION",
+    "CHINA"
+   ]
+  },
   {
    "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
    "source": "CNBC",
@@ -651,24 +678,6 @@
    "time": "2026-11-08T14:48:27Z",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcXFDd2VUakZBTnUwV0NRTTZQZy1GazYwd2ZGaDhDQjBQMHpiWXNhR0tlYjcwMVV0bzdHMTJyTDJ0VVdBcTFwQ1RSdHUtNlpQamVfdVFIQW95VlBfOWhmT3NzdVk3Q0JQcDY4N0FBTFdITDY4cVVZQ0V1WWlmc2FpY3paTlJ4Q0EtaXlkRkRMRVI?oc=5",
    "tags": []
-  },
-  {
-   "title": "Iran suggests blasts are not U.S. attacks as both sides report ships hit",
-   "source": "CNBC",
-   "time": "2026-11-08T14:30:30Z",
-   "link": "https://www.cnbc.com/2026/11/08/saudi-aramco-riyadh-building-attack.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
-   "source": "Al Jazeera",
-   "time": "2026-11-08T14:11:51Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjhhZzlJeHBXWDRBRzY4SjB3eF8wUlRWS25YOGF4S0ZfemxqMm5nQmJhemhQXzNJcVdCVF9mcDQwX21xSnRmZHpVcWRJMmlLX1lvN2xLaFNFeXVSbHctbHVyQnZNZVE1ZkZLVElWeGVacmdmV3ZicDEwUzYxRHZENFVFenMyMU1NbVJmOVRGX0R0MTU5bkVnV3p2cjBUWjJkbjRLLWpaNXhUanFMS25uVjBleU_SAboBQVVfeXFMTkd1ZjRpcThWQ0ROQXdTSGoyOFVpZlplY25TbWhOOW55a2lablJVVE1rWGF0QVNndzBZanVzY3VfTEdpYlo2bktMWEV3MzFhN21qRjNTUF9oUjRSZHFLb2hJWTBvRWZFTmlfQ29Gc256cFJpUkhDOVhmd0dScVJ4TUhwVjN4UTB0MF9VWXprNGlvQkMxa0NJWThuakMyUjZ4R0RvSnZnLV9wTnJzYkdfeFhLVjNSZ1J5Mzln?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
   }
  ],
  "fedCalendar": [
