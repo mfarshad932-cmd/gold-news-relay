@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T00:01:37Z",
+ "generatedAt": "2026-11-09T00:30:00Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -61,8 +61,8 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 45,
-   "kept": 2
+   "items": 47,
+   "kept": 3
   },
   "bbc_world": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -80,52 +80,44 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 6,
+   "kept": 6
   },
   "gn_fed": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 6,
+   "kept": 6
   },
   "gn_tariff": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 3,
+   "kept": 3
   },
   "gn_war": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 39,
+   "kept": 12
   },
   "gn_sanctions": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 3,
+   "kept": 3
   },
   "gn_yields": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 7,
+   "kept": 7
   },
   "gn_oil": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 3,
+   "kept": 3
   },
   "fed_calendar": {
    "http": 200,
@@ -133,6 +125,60 @@
   }
  },
  "items": [
+  {
+   "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+   "source": "BBC",
+   "time": "2026-11-09T00:16:49Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Rubio says Trump's war against Iran not 'necessarily popular' but needed to stop a nuclear threat",
+   "source": "AP News",
+   "time": "2026-11-09T00:06:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMERvcmZhZjQ1LXNKMjVUZG42cmxpMUJ5ci1xOEdYVzZ6QjdiRVdiNVpnSGVmdnRZQ3ZKNFNNV3ZnMENHeFY4TnZsLUZmNVozMlRyb25BcEN0YUI0NnFkcjNLMzVaSVpEMHZIMEtLMklNXzZkRDNRNVBKeVR3R2NTamdja09VeG1TZXNFYndua1p1Wk5Hb3RzVkFXeGV1VDd1SURKSURB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran war live: Trump says land blockade in effect; drone cuts power in Iraq",
+   "source": "Al Jazeera",
+   "time": "2026-11-09T00:00:34Z",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iraq's 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "time": "2026-11-09T00:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNFprSG5xNk41d0hBYm1zMUJzWVcyMVRMWHpoNU1hV2cwVWl1a0h3RkxZa05SSGdnb3hfSnBlVTJCWU9KaS1mNEFUYmVTZklxVDRZSUFHVktudzN3Z3RTbnV2RlQ1Z19DbHk0a3ZyUFF5dGN1bkFTWk13bnB4em9uRVZwRjVxUlRkMUp1YWtnSFdVZ2tReTFMdXNwLXY3ZHAwZ0xBZTRmSdIBrAFBVV95cUxNM0k3X2kybEUyc0RXdFZiUTM4YXpLRzd5UHJlUUF3QUlMQzdKckRQVWNnQTVFeDJxb3hWWEFJQ2NOMlUwTkhxZ2tnSmdNSUtYaW9rc2FJdmEwYXVUMTBkS1ZQRHM0NTZjSU80eENYdFdZMDdhVWhzZHNCc1Nra0w0T3YyN1dyakpUUDRyZm1Jdm5CTFRlcFFSX1pCUWxaLWY2R0k2YmpjXzVFYTAt?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "COMMENTARY: Gold's short-term volatility contrasts with long-term bullishness",
+   "source": "Reuters",
+   "time": "2026-11-08T23:59:50Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPckFmSmFBN0lNeTlPeWtKck51aVVZVW5qeXEwVXRxT1Z1MHV1NjYxa0F1ekZPeWxWUHNydG1JU2ZKZzQyazFidjlrc25wVHY0TVZkWFk2eFJDSDNaOTNiQkNlVXdmUEF1QzNSeHliUm1pcmstRW9vZXNqNVAweGpMWnBaTlZWSFBmX2pxTVdwdzlJbmczZFpIeko4RWVNVlE0QUVOUHZYTVgyOWdBdUFxR3BiWko2cEtpOEowZDhkWlo3Q1RaUGFFend2bHdHUQ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Nvidia CEO’s affair sparks Chinese espionage probe",
+   "source": "Al Jazeera",
+   "time": "2026-11-08T23:58:53Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
   {
    "title": "Trump eyes Xi, Putin meeting at APEC on Iran war, says he’d ‘certainly take’ Huang",
    "source": "ForexLive",
@@ -143,6 +189,33 @@
    ]
   },
   {
+   "title": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran",
+   "source": "The New York Times",
+   "time": "2026-11-08T23:49:53Z",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IMC1KVG9Ya3lRLXhObVBSYWJLeFNxY0ZRMUpUUnZKQ0FOSlNyNGFyeWNmU0c2elJoOXlGWDhuOExCVzdhWnFGRlp5UjdFN2M5d1d6Mlh3WVZKUXZXaWdfZW5PdjNkLURJa21TTk1iaFZnQW5nY0p1M0hB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Top House Democrat says he’s a ‘hard yes’ on Pete Hegseth impeachment",
+   "source": "The Washington Post",
+   "time": "2026-11-08T23:25:57Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSzZRYWpCNTlaNXhydFFiT0tRbFlOVEhfRE0tRF9GRU01b1B3M2lqckxteGl6QXlQaHJRR0ZaSWoybUR0UUt5V1FadEJtSm1zYmI1Qzk2U243ZkJqbDVoUGFuVFFiT0lPbTZ2ZzlPekNsay1TX21KUXlKYTdjYnBLZHJnNzZxU25ZbFZJajhScVZiRUY1ejIzNGRaOHZlSnRJaTM3MHNYVjRiYXBaaW5R?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "3 Rate Sensitive Financial Stocks As Treasury Yields Reshape Retirement Investing",
+   "source": "Yahoo Finance",
+   "time": "2026-11-08T23:15:43Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOEVGTVNEUDUwd0p2R3JNQl9QemxmeUJ5MllEakoyN1kySkw3Mm5MOFZzXzlNOEtBcXVLOTRhQ0pwVjJHclVyNVY2Q2ZzSml0eGczZzBEQXAwZFMyYTM1QkhjVG9lUkk5dGxyRmVPQjVTSEVzb1lYbUV3S2pxVkdSRE1zNVJGNjN1clpfRC1adTVFNmtFV05VWWJHSUlsVWs?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "China October inflation preview: CPI seen near 0.8%, PPI above 5%",
    "source": "ForexLive",
    "time": "2026-11-08T23:07:15Z",
@@ -150,6 +223,15 @@
    "tags": [
     "INFLATION",
     "CHINA"
+   ]
+  },
+  {
+   "title": "‘De Gaulle: Résistance’ Review: Uniting a Country at War",
+   "source": "The New York Times",
+   "time": "2026-11-08T22:55:00Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtbWhxMnJhdlZDNDk4clp5eEFMaGNVZkJOU2ptMGEycXpyNEtuNmNzamNVTU8wQ0FDWGUtMHJubUwwemV4VUpsbGVnMzNvZ2ZqVVNyNkRHTkVySkVFb0hIOWtabXV2ZGZqbGxhS2NOdXpOWGdSU1BYQTJuNmU1Z0E?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -170,6 +252,15 @@
     "FED",
     "RATES",
     "USD"
+   ]
+  },
+  {
+   "title": "Tesla Announces It Will Discontinue the Cybertruck, a Culture War on Wheels",
+   "source": "The New York Times",
+   "time": "2026-11-08T22:45:34Z",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQNzhsUk9VMGxqSXoxRUJqbURmWjdsbmlPYjZWOTV2Y05hdnlaYTBiMjJoS2tZT1VDUER0TUVSYUtaN3J6bng1UkQ5c1Z0QmM0WGpsaUdzT1RoTDVxdmVsT2g3UEthYW5ueDRFRzhFZFY3UWVQaWt3d2FZUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -301,19 +392,10 @@
    ]
   },
   {
-   "title": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
+   "title": "Iran waiting to resume talks after US midterms ‘shock’",
    "source": "Al Jazeera",
    "time": "2026-11-08T20:51:22Z",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Top House Democrat says he’s a ‘hard yes’ on Pete Hegseth impeachment",
-   "source": "The Washington Post",
-   "time": "2026-11-08T20:25:57Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSzZRYWpCNTlaNXhydFFiT0tRbFlOVEhfRE0tRF9GRU01b1B3M2lqckxteGl6QXlQaHJRR0ZaSWoybUR0UUt5V1FadEJtSm1zYmI1Qzk2U243ZkJqbDVoUGFuVFFiT0lPbTZ2ZzlPekNsay1TX21KUXlKYTdjYnBLZHJnNzZxU25ZbFZJajhScVZiRUY1ejIzNGRaOHZlSnRJaTM3MHNYVjRiYXBaaW5R?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -356,19 +438,10 @@
   },
   {
    "title": "Treasury Rally Gets New Boost as Election Hammers the AI Trade",
-   "source": "Yahoo Finance UK",
+   "source": "Bloomberg",
    "time": "2026-11-08T20:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcEVLZXQ3S2FaMzhaSVRmVi05RjUzSHNHMTRIRy1PaDMyTDR0aVVRZktxU192S0tYU28tZkcwekI3cnBmQk40Y00yc3RlMVZHT2xRWDNyRWVmSHdDWmtjbTNJNEdqR0dEbEVwT1ZUeENGS0ozUUl3amJlMDNuRnktcGgtX05ZWEl6cDVr?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPelZPY0tQazFGWWxNRjFac00xRWFpVE1vdVpHenVSMDNVS3c0WFpZMXk4Rkk5d2xFYU9wUVdtcGZIYWlvVU41eFZaV1RGdDU4bGE3Z1ppeVlMdTZleU13RVRRbDNVS0pDQzdQbjB5TkFjOWF0NDRxNXA3azY0UGRtM2M5SFU2cDFkUHhZMVVpSVpRM2JjeldzMzU1QnMxZDNCd1ZVcnV1eE5ROWtwZjF2Y1E1UQ?oc=5",
    "tags": []
-  },
-  {
-   "title": "‘De Gaulle: Résistance’ Review: Uniting a Country at War",
-   "source": "The New York Times",
-   "time": "2026-11-08T19:57:28Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtbWhxMnJhdlZDNDk4clp5eEFMaGNVZkJOU2ptMGEycXpyNEtuNmNzamNVTU8wQ0FDWGUtMHJubUwwemV4VUpsbGVnMzNvZ2ZqVVNyNkRHTkVySkVFb0hIOWtabXV2ZGZqbGxhS2NOdXpOWGdSU1BYQTJuNmU1Z0E?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
   },
   {
    "title": "GOP Rep. French Hill says he'll weigh whether Hegseth's actions merit \"impeachment versus some other disciplinary action\"",
@@ -444,15 +517,6 @@
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Tesla Announces It Will Discontinue the Cybertruck, a Culture War on Wheels",
-   "source": "The New York Times",
-   "time": "2026-11-08T18:31:28Z",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQNzhsUk9VMGxqSXoxRUJqbURmWjdsbmlPYjZWOTV2Y05hdnlaYTBiMjJoS2tZT1VDUER0TUVSYUtaN3J6bng1UkQ5c1Z0QmM0WGpsaUdzT1RoTDVxdmVsT2g3UEthYW5ueDRFRzhFZFY3UWVQaWt3d2FZUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -607,77 +671,6 @@
    "tags": [
     "GEOPOLITICS"
    ]
-  },
-  {
-   "title": "Russia targets emergency crews at the site of a deadly strike in southern Ukraine",
-   "source": "AP News",
-   "time": "2026-11-08T16:40:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlFnYVBkWHBXdnhJcHBhOTM4U0t0WnZHVkYwY3FQc3lUd3hpallTaHFGN1BuaVFWUEtITnVDSWFaWUdTZktXdjg5MUk0bWtsSkFsYk9xS21Lc2N0cnpPeHBEeVZDdW5RZ1h0NUs3Sk8wbGhiTmtTQjVjSjRrcEVsdTNjMk8wTDRuaDUxSlFrT0FvS2VsVkZVVVNYUmpXaW9jbUZZZGVzVzBDWE0?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Pete Hegseth faces impeachment threat as GOP blames Iran war for midterm losses",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-08T16:17:58Z",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JNi1KWDhOZGhPLUQ1Um9IU2o2MGtpSUZYTzVLNGdPdTVQbGV6RFN3X2RaZHhyM0w0MGduOFFiR21BdFdEajJ2MWRWRDA2a1RmMkN3dDdMQUY2dXgwRTc2alh6QjM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield",
-   "source": "WSJ",
-   "time": "2026-11-08T15:44:58Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN3d1Wkh2MmJfNHQ0MUFKQi1DQVV4U3dQc1gxOFZqU1hvS19EZDc0aGU4YkVkUmpDYTQyVUl1Sjh3TzJIZ3ZVa0hmWjh0QmthZnhvaHBXWTAzTTVEeE96MnlIazlnQkNhaGlVYzZ5RVFKeEdCQXpMT2Q5LVBfd0NWOXlBQmFLUm1UUlVudnBxWXZ6V1FjYW9UbFRGdVVRcEQ4TnAtdDl5WWpKSUhYbzV5MnNHWGU3QkNTd1JfdjlUUmc2QQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Can the Transition to Clean Energy Survive the War in Iran?",
-   "source": "The New York Times",
-   "time": "2026-11-08T15:39:12Z",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LTWpLTkZ0UWxqZ2NwbFhhMDlnRG0ycHlxdmdzYWNMOTJDUndtM0lQUFIyTWR1OTBleXVlQTlpcTBvVlpvM0dZNlZ2UVhkaEJJQlZuMmt3TUdPcHRjVElsNXVBVVNFaHhUQ2NVWGZXM1hJbGtsYm5F?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "How Democrats will try to end Trump's tariffs",
-   "source": "CNBC",
-   "time": "2026-11-08T15:36:39Z",
-   "link": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Security, not sanctions: Building Israel's security together with the haredim",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-08T15:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rQnNEaTByOW1zZjlfckVCcWJDdWpOUGZUMkpXRWVlWDlsZkI1S0NNeFZaS1h1VkFPc25URzQyWGZvMG53QndXQ2JuLXRTVU9RanNmREpCbw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "In Latin America Outreach, Settler Leader Yisrael Ganz Seeks Allies Against European Sanctions",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-08T14:49:37Z",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HSXRyLThCeXZhTlA3NWNBTmR4dy1qaGZHYmoyZTFDRVRBT1lSeGRpWURrWXJFbHdueFJueEd5UHdNejRaR0ZRdXFxU0FraHRIOFdadmNSOUgzZ2pD?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "WILL BITCOIN PUMP OR DUMP THIS WEEK? for BINANCE:BTCUSDT by forexcitypro_leemeenal",
-   "source": "TradingView",
-   "time": "2026-11-08T14:48:27Z",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcXFDd2VUakZBTnUwV0NRTTZQZy1GazYwd2ZGaDhDQjBQMHpiWXNhR0tlYjcwMVV0bzdHMTJyTDJ0VVdBcTFwQ1RSdHUtNlpQamVfdVFIQW95VlBfOWhmT3NzdVk3Q0JQcDY4N0FBTFdITDY4cVVZQ0V1WWlmc2FpY3paTlJ4Q0EtaXlkRkRMRVI?oc=5",
-   "tags": []
   }
  ],
  "fedCalendar": [
