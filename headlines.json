@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T15:08:15Z",
+ "generatedAt": "2026-11-09T15:36:38Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,11 +57,11 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 3
+   "kept": 2
   },
   "bbc_business": {
    "http": 200,
-   "items": 50,
+   "items": 51,
    "kept": 3
   },
   "bbc_world": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 10
   },
   "whitehouse": {
    "http": 200,
@@ -81,13 +81,13 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 30,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_tariff": {
    "http": 200,
@@ -106,18 +106,18 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 10,
+   "kept": 10
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 4,
+   "kept": 4
   },
   "fed_calendar": {
    "http": 200,
@@ -126,21 +126,58 @@
  },
  "items": [
   {
+   "title": "Opinion | Why is your cocktail so expensive? Ask the White House.",
+   "source": "The Washington Post",
+   "time": "2026-11-09T15:33:23Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU8teW9XcGs5Ymd1Um94bVI0VWNGc3F2Qm5CUEttUWhDVTBmaXlZWEZDSGZIVGg3a01HTkM1aTZlb2ZyYU5nQk9HNHE1Ym94UlBTYmRzRGZiby1LRUE3aXlES2Q0Q0pQZlJSR3owUjROT1ppUEI0T2NUb2FvR0F1N21UdF9wUmVuVVJxT1Bqc1MtbzdBZC02OTBIUVZYLWdYNmc?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Dow rallies 800 points as oil slides, tech stocks outside of Nvidia gain: Live updates",
    "source": "CNBC",
-   "time": "2026-11-09T15:06:26Z",
+   "time": "2026-11-09T15:31:53Z",
    "link": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
    "tags": [
     "OIL"
    ]
   },
   {
-   "title": "Opinion | Why is your cocktail so expensive? Ask the White House.",
-   "source": "The Washington Post",
-   "time": "2026-11-09T15:04:18Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU8teW9XcGs5Ymd1Um94bVI0VWNGc3F2Qm5CUEttUWhDVTBmaXlZWEZDSGZIVGg3a01HTkM1aTZlb2ZyYU5nQk9HNHE1Ym94UlBTYmRzRGZiby1LRUE3aXlES2Q0Q0pQZlJSR3owUjROT1ppUEI0T2NUb2FvR0F1N21UdF9wUmVuVVJxT1Bqc1MtbzdBZC02OTBIUVZYLWdYNmc?oc=5",
+   "title": "IRGC strikes three tankers near Hormuz over ‘US links’",
+   "source": "Al Jazeera",
+   "time": "2026-11-09T15:21:57Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNem9kRXY3QksycTNtTXVCb2ZRTGtMSUwwYnBpU3M1bG5wUHFQZmNsZUtQT0c2alFWNWI2ZzVqdVh3eERYQW90cnZhRjhpdzllbDlpanVKVHR5VC14dTlKV1R4NlpyeGpLdzM4MnVvam9kS3lDMU5tZ2U0VnNXTy0yR1ZCdUgtWWZQaUMtY0NfM1RSMWJ6U2lfd2VyYTNOQdIBowFBVV95cUxNVGVYMHhUanFDYXNJWHVBQjhhOXFFYVNrOUsyV0oyY3hPMXhpQWkyUnF3ZGFWRDJCVlNsTC1mS1BCcDVzU3BaNm82TTFvR2FWYVcxRnBPdXNNZlJndDRrekJQZVZBREZwTGh4VV9mZEpWS3RCaHBBYVhOVmRhWHcyRTVsdTRDWTcwNU4zbW9NdTFaRl9VMmlNQU1XeUo1cV9Da21v?oc=5",
    "tags": [
-    "TARIFF"
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Price Outlook: High Real Yields Pose a Risk Ahead of US CPI",
+   "source": "FXEmpire",
+   "time": "2026-11-09T15:18:01Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2c1c09DdjlOOXNWRkdWZjVfWWNpVDh6MFBoOWJ6RjR1WVhvQlZZZnlMN082RmdRN2lDT3BsMFlaZ2hKLUJiRDhZb0RxV3BrZHhCek9PTHNxRlY3bm9vYjdEY0x5ODBaYjM0b1B4bEx0bV9UV01tdmVPdVdPYjA1aUhsM2h1bHNWQ3pvYUg0Q0JYRFRQTmgyWVQ3RDFCYXhfY0hsQ2pyM3hIU1EyaThLX19UczQ?oc=5",
+   "tags": [
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Tamil Nadu sanctions ₹17.99 crore for GPS tracking devices, panic buttons in state-run buses",
+   "source": "CNBC TV18",
+   "time": "2026-11-09T15:11:25Z",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ011eFBTSHZ1Z05OMUstMzRZY2RldXRYUDVjbU9hOG5CZTBCTEhBcTNPMGU0VHJNdGJfTm80eFlTTWZyTzlyc3JPRkVtTFJkd05aZnR5ODRyaDRDekd5SXd4cDN2U3ppVkR4T1NpR3JWa2tIeDltWFBQbTluWU0xSU5yRVRqYldZTkdjaEMyY2pDMkZQRUZvdGhXaXdBOE1qdkNXR0tYMnNyTFpsOVZoQ2xiZnZvTGpyWWZjeTVnWVJWTDRGYUlieHYzMng0VzlrbDkxaXFobERMTk3SAeABQVVfeXFMTnZ0S1Q0STRzMXRYNHVoWWt4bThXTTlMY1NTdzBtUVFmd2tKYk53RmxvM0d0aVRfSHh4TXJfdVlMbi1SVnUzOXFiQTNvSklYelBPa1dPOGZlbGlUdmdIZEhPVnd1T1RlYWxJc3VZRHlmaHBCN3Zacm1jX0lFZW9wWlUwV05SMFhhaWViTURIUUNacTZqVkgwaGlsRTdIQUlyOXcxN2VQSnJsTzNMSVREMV8xdXpneTZ6OXllZ1pwaGQyM1N1bk5ObTM0MWFxWENBOS1qWEhtQ1hlbDA0MXZOcEY?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Watch live: Hegseth addresses Naval War College as impeachment push looms",
+   "source": "The Hill",
+   "time": "2026-11-09T15:04:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaTJNR1hyM1NLWTNTMmVVbWxnVzE4dTZYV2RhYi1ienQyMEM1bFE0cHpxX0NPVWI4c0tySVRtRW5jZmE5elN6NnBUc295LUdXSnk4eDJ2Z09aTkQyd1VKVUdrUWR5aEFGaEJIVHhhdnZLSkV6ckhhQlpNWmZERUU3OUZ6NExVY0VqY2JHSEFMR3pYTHc3QndnY0lyVU1jbmk0RW1NaU5wdVhjSHPSAbABQVVfeXFMTnBPVTkyMGpyUGt4cF91dWJOX2M0QlJ2SFBXVjdDcWk4aFVyR0VnVzVxSHpZel8wSTNTalVGaUJCektZOWItSnIzQTVSaTYyWXNKNi04NkNZYWJKdU1Cc3VDRWw1NmU2eDBNbHBzS2p4ZUVVNTVURHd3bWszSUMycGdDVFNyQ1VhZnpzWGxPSlBxU3ZxaWNwY3h4VTZfN2NTSGVIQnFOZmxwRmZaRlFvUTk?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -150,6 +187,17 @@
    "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "Gold and silver prices extend post-election rebound, central banks on pace to beat 2025 purchases – Heraeus",
+   "source": "Kitco",
+   "time": "2026-11-09T15:02:11Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbjlfT0RwLTdkTFh2ZFY2TklJYUFHZ2JFYjZtR1JaQldGOFJrSXVFUS1hUXFyMVEwaUhSRm1mdzEyMm1NeUhVQjUtTEZobWFtQ0FoUkxWMHE1WDFFOVVLQlM2c1FXMHhCSU83QWxVUkM2UU1XdnZ6THMtNmtudGlNajBEb1VNczdZUmdZRERfWWROUkJYaTNoeDhheFd6cHBnX0toOUVuS2pDNXZxVXJPdnBFMkNCUG5SMG1iX0NR?oc=5",
+   "tags": [
+    "CENTRAL_BANK_GOLD",
+    "CENTRAL_BANK",
+    "GOLD"
    ]
   },
   {
@@ -295,6 +343,16 @@
    "time": "2026-11-09T13:52:46Z",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRTBycVVSZ2F0NjlEWHhjR0x0Ylp6cFduYlVjUEhUUFRwRUVESmdwOFZycWJoRTNxOVA0Y0hJZzBpcHhLRUkyUkVXYjVleFZZRzMzTXpwUG1DQW9Va3Q4eXF4MjlRZkVDcWJpaWJZM1RNbjZvVUVmRlpJZXpRTE1sVTVMN2twVjE2R09vZWRVQW9BMzI3eFNmUGpNcjY3VHJaT3JuRTA1QmpOZlJ1anZVWWIwejgwTW10Z2U1Qw?oc=5",
    "tags": []
+  },
+  {
+   "title": "Oil Falls on Unconfirmed Report That Iran Eased Hormuz Demands",
+   "source": "Bloomberg.com",
+   "time": "2026-11-09T13:51:24Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcW93cEFyUFVLaWRELUxWYWlfVEF4MVgwT1JBZ1lSMmF0N3dFSjdJWGJ3aUVkTEhHN3VZSVFqVER5QkRSTHFWM1pGZUJJazUwTmJjaEJtbTB6TVNjdjg3d0FhaG05QnhLeU9rWGVieU0yV2Z5aXlPVXNIeFFpckt3b1dIU19wRHFOTVdDaEhoNjVYYWx6QkVQMDgxUmEzWFBHYkdUdjBONlB2dFQ3elhyYUkwUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
   },
   {
    "title": "Sanctioned Russian military aircraft lands at Ben-Gurion Airport in Israel",
@@ -604,16 +662,6 @@
    ]
   },
   {
-   "title": "Oil Falls on Unconfirmed Report That Iran Eased Hormuz Demands",
-   "source": "Bloomberg.com",
-   "time": "2026-11-09T11:34:07Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcW93cEFyUFVLaWRELUxWYWlfVEF4MVgwT1JBZ1lSMmF0N3dFSjdJWGJ3aUVkTEhHN3VZSVFqVER5QkRSTHFWM1pGZUJJazUwTmJjaEJtbTB6TVNjdjg3d0FhaG05QnhLeU9rWGVieU0yV2Z5aXlPVXNIeFFpckt3b1dIU19wRHFOTVdDaEhoNjVYYWx6QkVQMDgxUmEzWFBHYkdUdjBONlB2dFQ3elhyYUkwUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
    "title": "Iraq's Oil Sales to America Fall to Lowest Since the 2003 War",
    "source": "Crude Oil Prices Today | OilPrice.com",
    "time": "2026-11-09T11:30:00Z",
@@ -630,51 +678,6 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdlR0VXVrS0gwVEtoVFRwcWdBa05sVkk1S181WTVkZTM3N3lfSms2R0kxTk1IT25YWUFjYUlKMXFzNVFQZWlPV2JxQk5XTXB1U2RyMFdUZFpjSnJidVBzZHZid2hya3BzcVQxZ1dOODdfcmphZm14VXJpSXlhczJRQ1FWZDhoa2pWclY2Z3gyb3U3bHVFdmpRZTVucFEyRWpPUmdTcVF0aDljTXlhQU9OTjRoOTlueHc?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump Says Nations Should Pay US For Iran War—How Much Would They Owe?",
-   "source": "Newsweek",
-   "time": "2026-11-09T11:22:00Z",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aT0FqYXhaMG8ydE9RdTRPVGtNT3lBd3NNdWw0T1Z6WGJ5amRIV0JtOVFOSEd2M21LSFVQWjdKQ0Y4OEhKdVl1YlRQdUJTN05NTFFkY0U4SmIxeXIweEFnTHRXRkswUXZydVFOdVhrei1iY0ZaUV9hMw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Cubs plan to sit out Tarik Skubal bidding war, but pitching needs are clear",
-   "source": "The New York Times",
-   "time": "2026-11-09T11:20:33Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWHoxMWJwdzVxOElnSXZmeG5EMFhTazVDb3pBcDhwMENzNk5DNWFyWE5qanBMc09NdWJxNzJyY05BMEJ0cURkMmw0U20wQWI2N2M5TFpoZFl2V3ZGdTlmSTkxMlFUZVNhOVZPb2VJeGRrS0I4UW1jLWRjejF0dlBKc1Rra0VjY1J1SXhHMDZzR0FOVmxsREZpY290NA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Can Gold Turn Recovery Into a Sustainable Rebound?",
-   "source": "Investing.com",
-   "time": "2026-11-09T11:20:00Z",
-   "link": "https://www.investing.com/analysis/can-gold-turn-recovery-into-a-sustainable-rebound-200691220",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Abandoned and traumatised: child refugees at ‘violent’ breaking point in Egypt after fleeing Sudan war",
-   "source": "The Guardian",
-   "time": "2026-11-09T11:19:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR3FTQzU3OW0wRUJwQl9sdVozRDNra1NfeEthVjhMUE16OW1GSGM4Mk94VlhXaHZEZnB6dWl2NTBhc25MbmpDcE1Hc2FXbjhmVnd3bDZSazhpbXlhOU8tS3U4UkdTR3lKd3NMaUhyLVFtbU5xcUNrZ0dWRExEckRKdnFfejBWTmhiSFg4WUFCZF9nX1JBWHdJdUo5NDFJa09NakhwQjFGcEFQWnRRZVI1UGg4WQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Barrick profit rises on higher gold prices",
-   "source": "Reuters",
-   "time": "2026-11-09T11:17:51Z",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQXJORDRuZ3VfcF8yOGNRaTlUSXkyR3gxWVM1VUpKLUxSaWhHeGJMSWhiaE1hQmpfdVdhR0ZHSHhSMURKa01WbjVSOVJZeHctYW9QZk5xeDRsMkNub21SMUF4Zm50YU5UNldoNnV2TnpUSnpHbkgta2t0clBrZzdZYW42c3Z2UUJEQzlhWg?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
