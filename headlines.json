@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T08:59:54Z",
+ "generatedAt": "2026-11-09T09:28:14Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 3
+   "kept": 4
   },
   "investing_news": {
    "http": 200,
@@ -81,28 +81,28 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 15,
+   "items": 16,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_tariff": {
    "http": 200,
-   "items": 13,
+   "items": 12,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 36,
+   "items": 37,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "gn_yields": {
    "http": 200,
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,6 +126,45 @@
  },
  "items": [
   {
+   "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+   "source": "CNBC",
+   "time": "2026-11-09T09:14:40Z",
+   "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Iraq Strikes U.S. Deal to Boost Oil Exports Through Hormuz",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "time": "2026-11-09T09:10:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDFLMnliZE9CVEhBemh3Nlk2WjBXYXhQbXh6SC1ZRDl0MnV1ZWg0R2lRTk1KWnBKQk9mYjZzcjRmNDlnRG9KV29DNjR5TTFveDdOWkoxenVESnJQVmU3Z0VsODNremhBU0JVZU8tXzZNckkxTlhBdVYyVzZCUHZSOG5nZDlWTXYtMmgyUzFHRHRhUjZQbGVpNDBTTml3Zmxud0UwMFZaWldmdVhQQk02a3JR0gG3AUFVX3lxTE5Pck94RDZHSTlGUThxMnlvdEViSGNLYncxRlVUM1FOb3ZDTHdXeWE0QWNUeVgtR2F6MWN4YTd3Vkp3WTlPUFpnQ293VzJfb3E1OGg5UC05VldXUE9PM1M3ZlladFAwcTRKeDV3d1dvQjVMVGtlcmdXUVZBUlQxOEJjbXl6QUg3UzU2QzlDdmRWZ0w3Tjd0Vk5pRzBRdXNKa1VhR0p3V0xGLUlXVlZYbEFFUzQxcFBLOA?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Oil Futures Decline Amid Market Downplaying of Escalation Return Risks",
+   "source": "Investing.com",
+   "time": "2026-11-09T09:02:00Z",
+   "link": "https://www.investing.com/analysis/oil-futures-decline-amid-market-downplaying-of-escalation-return-risks-200691205",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "China Extends Pause on US Tariffs and Trade Curbs for Two Months",
+   "source": "Bloomberg.com",
+   "time": "2026-11-09T08:52:55Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkVXSkNKNzRBdXBNUlFmNVlEZ3gtUVhRbVVZcENiS3B6RXBlMDNvQ2lrU19fMXoyYkdSQWc5amg5OXlhcmtKX0JHZHR2amtKY2hzZllpQUhWS3lTNndnT2NDZFdYUHNCeG1MVHZmMWV5RjEwTXJqVmlLQTJDU0d3SHN2aHVOZ291bTNqNnprR3U2TndhUEs0ZHdDTVM2NlRsZW5VQUxKd25JLXV0MlJ6aXRR?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
    "title": "China Extends US Tariff Truce by Two Months, Keeps 10% Duties in Place Ahead of Trump-Xi Meeting",
    "source": "Benzinga",
    "time": "2026-11-09T08:46:29Z",
@@ -136,12 +175,31 @@
    ]
   },
   {
+   "title": "Premier says tougher laws 'will be considered' after war memorials damaged",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "time": "2026-11-09T08:46:05Z",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmc2TVBueHlwekE3LS1QUGt3aWNBcl82ZDJ3a0MyWmwtbEZDRWIyenJEX3FGbjAtU1pQS25FMnJmWm0xeC1BbUNmNmh5emFrODZBTDNTeDU0QUxqQUhRbFgxMnQ1UkJ0SERrUU1JbjdXdER3RTJ1ZnN0MDNCcERmcDNZZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Goldman says 'the pieces are in place' for a shift in Treasury yields, global 10-years",
    "source": "CNBC",
    "time": "2026-11-09T08:19:07Z",
    "link": "https://www.cnbc.com/2026/11/09/goldman-treasury-yields-bonds.html",
    "tags": [
     "YIELDS"
+   ]
+  },
+  {
+   "title": "Sanctioned Russian military aircraft lands at Ben Gurion Airport in Israel",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-09T08:18:13Z",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yTC1QRGNqcmxwNnplb3Y0TURKQVlKVHNyVk9tQTFlQ01ZU3ZtdGFvaWxMd1JCVmQ0ZFpRREZZYWRkanFhT2Y5LWFXSnBPV0hUX3YzcWNyS2twcHNa?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -180,15 +238,6 @@
    "tags": [
     "YIELDS",
     "OIL"
-   ]
-  },
-  {
-   "title": "Premier says tougher laws 'will be considered' after war memorials damaged",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "time": "2026-11-09T07:28:25Z",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmc2TVBueHlwekE3LS1QUGt3aWNBcl82ZDJ3a0MyWmwtbEZDRWIyenJEX3FGbjAtU1pQS25FMnJmWm0xeC1BbUNmNmh5emFrODZBTDNTeDU0QUxqQUhRbFgxMnQ1UkJ0SERrUU1JbjdXdER3RTJ1ZnN0MDNCcERmcDNZZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -246,6 +295,16 @@
    "tags": [
     "GEOPOLITICS",
     "TARIFF"
+   ]
+  },
+  {
+   "title": "COMMENTARY: Middle East oil price war heralds post-conflict glut",
+   "source": "Reuters",
+   "time": "2026-11-09T07:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWWdUbTZOMkxOdnRzOHBPdHRWSFBmNG1jZnFISWQ0MVFaWEc1MUlkTjRuNlhSQzdMQWQxaXQzYTBOTGtBd0NkYnRNTFNHaDlNZ0xwVU1JODVSMFdLZnREeGttWWlEdmE3ZnJwODdnMG5iQnJwRlZBbDZvOEU5UjczRC1UcGo5S0p4U01KZWMzcVBjNEdnWW42clRaR1U5QXpoMHh1bnE0T2phU1I1OEpUVFJJUHN2LThoMFd3WGJR?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -477,16 +536,6 @@
    ]
   },
   {
-   "title": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate",
-   "source": "Bloomberg.com",
-   "time": "2026-11-09T04:36:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkVXSkNKNzRBdXBNUlFmNVlEZ3gtUVhRbVVZcENiS3B6RXBlMDNvQ2lrU19fMXoyYkdSQWc5amg5OXlhcmtKX0JHZHR2amtKY2hzZllpQUhWS3lTNndnT2NDZFdYUHNCeG1MVHZmMWV5RjEwTXJqVmlLQTJDU0d3SHN2aHVOZ291bTNqNnprR3U2TndhUEs0ZHdDTVM2NlRsZW5VQUxKd25JLXV0MlJ6aXRR?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
    "title": "Vista Energy Stock: Cheap Enough Without The War Premium (NYSE:VIST)",
    "source": "Seeking Alpha",
    "time": "2026-11-09T04:36:00Z",
@@ -520,6 +569,17 @@
    "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asia-shrugs-off-nvidia-scandal-oil-steadies/",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "Silver Price Forecast: Rally Faces US CPI Test After Dollar Jump",
+   "source": "FXEmpire",
+   "time": "2026-11-09T04:13:42Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmJEbTZkTzFqMndWbXN3ZTRUX1RFZGpBNks1RC1WaUhTRjZYVHZBY0FEdnQ0UWMxVlE4cV9ZdXB3NnZhV3hNRGdVOFdrTFhITEhrWmI1OFp3dzlTRngyWjAxNVpnbjVWU3M4WjZGTW56NGNyLWlmcEhiNHBFb0ktdUttZ2w3WVhlRWluRWozaGVTb3hwU0s5RXl0RktKQnktZlVIcUhKeTZnWlNwN1Y0MUJQd1M?oc=5",
+   "tags": [
+    "USD",
+    "INFLATION",
+    "GOLD"
    ]
   },
   {
@@ -621,65 +681,6 @@
    "source": "Reuters",
    "time": "2026-11-09T03:01:00Z",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdIVXlJc2RaUEw2RmFrR2FZcXYzYlBKUG9Cdl9WUVFfalVxT0hGcGFCdW1DS3JMT2daanhDYktBeXVGNGt5TGlsOGZJVWVSMFpnT3ZVa2RBUjZYakRlVlQ3SXd1ZkpTQVNXVkpoNUZoemdycWY0MG02dVk0cWRuWG4taG5VMm9kbEluSHctTVZVMXJwWXNWSWdVcmxQeWtRSW1EWDQ2dTJ6QVV2TzhoeQ?oc=5",
-   "tags": [
-    "INFLATION",
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "China, Africa seek stronger ties, gains from zero tariffs",
-   "source": "The Guardian Nigeria News",
-   "time": "2026-11-09T03:00:10Z",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUhVUWM5N2txSGVJVjFLTGhKTjIzcXJsbDEweERJY1A5bEJjYU5oUnNOOFh3d3ltNHZjcnEwaFBCMngtWnBKbGJ4UFZCbVIxb2dNOC1sbUNSWk1GYjFiZVplaFkyZDA1bWZVV1RDZThSOXlabW5renRZc2xyZzhhbjFDNHAxLW5HQmtiWXlXQWQ?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "China extends suspension of 24% tariff on US imports for two months",
-   "source": "Yahoo Finance",
-   "time": "2026-11-09T03:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb1FET0VQaXVrV3dMNktxNjRXOW52dDB5Nm1FWFBGenVzLXlLYks2UFZJMVF6cjdtWDQ5Ql8yb3ZEY0ZTREtuRXZfUkRLaTZIdDNpV0hkclZLNWFkblJmSzB6V1VKUXMzODRBWlc2ZXB6Uk9DQW9Iek5hUUc5bmR3WmppTmVpWmd2RnBQYllNT2NxVFpsWkxDUGEzcklxLUlx?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Trump tells CNN: ‘Highly unlikely’ US goes to war with Iran",
-   "source": "CNN",
-   "time": "2026-11-09T02:56:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWtPRkt6VUQtNTNQU2Z2OUlxVERHSzk2V2VNQXkwNmNuWUItaTZTNEVIcjFWaXFzaXJOOEQ0ZzB5QWdmMTBrZWxLVEJoT2I2aU84eTlKZHVNV2JIMlFsZEF3Q0ZBXzNRQ0JiQnRUMHBqZmJlbkhDSnRJT2ZaR3JuTWxJUnNkSDBPdGpTa1RMRnctRUlHbXNKTUZVMHpSSDJQbnBMSGRSZW5iTXBmaXdiTlBnZ0g?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump to meet Qatari prime minister about mediation efforts with Iran",
-   "source": "Axios",
-   "time": "2026-11-09T02:52:27Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWlDY3R3QlVMOE8ydE15X3lId2x2aFNSMnhWd2w2UXI0MmxHVUk4M1lTV3JGSDc2aTZpcTZlTm9nOVlUOXRpOHlRSDBEc0VUQnZLS2xaeWlxREJGVWhuMHViblprZVNXYWRVVzVDYXd0UUVXZ3pXWTJINXFsTXNRTHZFa3c?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
-   "source": "CNBC",
-   "time": "2026-11-09T02:50:22Z",
-   "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
-   "tags": [
-    "INFLATION",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Gold gains more than 1% as softer oil prices ease inflation worries",
-   "source": "marketscreener.com",
-   "time": "2026-11-09T02:48:23Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT0tER2dVak5SQjNzNkVXYndxbDZjU3Z6bEhmMnBMQjZ0V2p1Vm5xeGRINkZfNzVXZ2ZEc2lwQXM0bWxJZWw5aWdLUDdhN3JhMDNYSnpGd0gyUFpDU0JaTE5LTGVPRGVKQ3hLcDdCOUN3VDlrSGVUZk9Eb1NpX1RLTlZJUDFoNF94Vk5vWm9WbmtVMmVfb3VpT2twdHo3QlNaeU9kZTllRjc3VjJSOTUyN3JNTDZyZmVYN1pB?oc=5",
    "tags": [
     "INFLATION",
     "OIL",
