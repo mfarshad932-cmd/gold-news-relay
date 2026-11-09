@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T08:31:35Z",
+ "generatedAt": "2026-11-09T08:59:54Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -24,10 +24,9 @@
    "kept": 1
   },
   "bea": {
-   "http": 403,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 403"
+   "http": 200,
+   "items": 49,
+   "kept": 0
   },
   "fxstreet": {
    "http": 403,
@@ -58,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -67,7 +66,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 29,
+   "items": 31,
    "kept": 5
   },
   "aljazeera": {
@@ -82,13 +81,13 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 14,
+   "items": 15,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 6,
+   "kept": 6
   },
   "gn_tariff": {
    "http": 200,
@@ -107,8 +106,8 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_oil": {
    "http": 200,
@@ -126,6 +125,16 @@
   }
  },
  "items": [
+  {
+   "title": "China Extends US Tariff Truce by Two Months, Keeps 10% Duties in Place Ahead of Trump-Xi Meeting",
+   "source": "Benzinga",
+   "time": "2026-11-09T08:46:29Z",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaExQcVpSc1VYMGtIa2tZNkxtMzlRVm12UFRVeURvZmhWd1lMWVNkblZzZ0d0VGkwWUdIUkxRbzhCdDhVRU9pVjlBZjBHbjduc3llMW10X1loUUxoV0w5Um5BMm5Gc3B4ZXRHbVdPZ2stNWFsN0pjdFFDY3NlOWV2TW9Qb3BVTVJPUFVoQlpzUWZYQTJSaXNNdGlEU1hDN1NEM3pXY20wM0dCaW4wcll5bndfb0k0MnFVYXd6VHNSdUNycXVfT2NrSHRLMmJmdHNPNUMyallPYTBONFFJdW9USEVDM2NzRmVVNnB6SC1uOHBCSDlXR3BB?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
   {
    "title": "Goldman says 'the pieces are in place' for a shift in Treasury yields, global 10-years",
    "source": "CNBC",
@@ -171,6 +180,15 @@
    "tags": [
     "YIELDS",
     "OIL"
+   ]
+  },
+  {
+   "title": "Premier says tougher laws 'will be considered' after war memorials damaged",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "time": "2026-11-09T07:28:25Z",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmc2TVBueHlwekE3LS1QUGt3aWNBcl82ZDJ3a0MyWmwtbEZDRWIyenJEX3FGbjAtU1pQS25FMnJmWm0xeC1BbUNmNmh5emFrODZBTDNTeDU0QUxqQUhRbFgxMnQ1UkJ0SERrUU1JbjdXdER3RTJ1ZnN0MDNCcERmcDNZZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -658,32 +676,14 @@
    ]
   },
   {
-   "title": "China extends suspensions of 24% tariff on US goods, port fees on US ships for two months",
-   "source": "Reuters",
-   "time": "2026-11-09T02:48:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
+   "title": "Gold gains more than 1% as softer oil prices ease inflation worries",
+   "source": "marketscreener.com",
+   "time": "2026-11-09T02:48:23Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT0tER2dVak5SQjNzNkVXYndxbDZjU3Z6bEhmMnBMQjZ0V2p1Vm5xeGRINkZfNzVXZ2ZEc2lwQXM0bWxJZWw5aWdLUDdhN3JhMDNYSnpGd0gyUFpDU0JaTE5LTGVPRGVKQ3hLcDdCOUN3VDlrSGVUZk9Eb1NpX1RLTlZJUDFoNF94Vk5vWm9WbmtVMmVfb3VpT2twdHo3QlNaeU9kZTllRjc3VjJSOTUyN3JNTDZyZmVYN1pB?oc=5",
    "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "CNN’s Oren Liebermann on missile attack on Riyadh’s financial district",
-   "source": "CNN",
-   "time": "2026-11-09T02:45:17Z",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZS3plZlVES014bmotWmdFdWxxZjNFS21aRGV4XzNUdVFjNWYxZHd1S3JhVUlmbHk2VXBtMWZRMTdSaDdzRzRqc3ItZ010ZDV1bElDMktVXzJvZThKc0ZrQ19yMkp4Um1oaC1mV2d1eEhvZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "China extends suspension of 24% tariffs on US goods, keeps 10% levy ahead of APEC",
-   "source": "investingLive",
-   "time": "2026-11-09T02:42:34Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTZ4MlpTSUVFUGhKMnFta2NVVzJlYlUyTFBPM0Y3T0VlNGsxX0dRWk1uc1RSZVRFbGRSc282WDNya2NPM204NFc2UHNqNmdOX3JVbl9QRVNzLVd4OXdvNzVRbWtFQXlmWExWYVpib2lfNFo4Ul94UlY2LWJkOEJnU0VRcEN1cUFsRmwzR1dtVFpZZWNrLU14c2V1T0d3Tjl6NWR1N2p2RGJINXQzRndnSGJB?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
+    "INFLATION",
+    "OIL",
+    "GOLD"
    ]
   }
  ],
