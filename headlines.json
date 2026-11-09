@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T08:03:15Z",
+ "generatedAt": "2026-11-09T08:31:35Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -24,9 +24,10 @@
    "kept": 1
   },
   "bea": {
-   "http": 200,
-   "items": 49,
-   "kept": 0
+   "http": 403,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 403"
   },
   "fxstreet": {
    "http": 403,
@@ -66,13 +67,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 28,
+   "items": 29,
    "kept": 5
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -86,8 +87,8 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "gn_tariff": {
    "http": 200,
@@ -96,7 +97,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 39,
+   "items": 36,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +107,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 8,
+   "kept": 8
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +126,34 @@
   }
  },
  "items": [
+  {
+   "title": "Goldman says 'the pieces are in place' for a shift in Treasury yields, global 10-years",
+   "source": "CNBC",
+   "time": "2026-11-09T08:19:07Z",
+   "link": "https://www.cnbc.com/2026/11/09/goldman-treasury-yields-bonds.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+   "source": "BBC",
+   "time": "2026-11-09T08:10:25Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Federal Reserve: December rate hike view reinforced – Commerzbank",
+   "source": "FXStreet",
+   "time": "2026-11-09T08:05:09Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUk02ckhHbWJueXMzVjJqcFU1VjRLSEc1djRMTVg3N1hwTHlwcXVGWm5scHZ5Ym1GeFhsYzJUNXVfeS1TaUFuOGNHd3U5cVc1aXhEUGdwaV9mUmxJb3d2VzlUeThKemswZjl3VWhQR0xpWnhaYUU0aUQtSU51akZQamc1LVFPdkdobDZ5cU1qS3lKZ29NZlBOYUs5NGFsMmpwNmpHQ0dPVVc?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
   {
    "title": "Gold Chuffed, Stocks Stuffed",
    "source": "Investing.com",
@@ -174,7 +203,7 @@
    ]
   },
   {
-   "title": "Will Nvidia CEO’s rockstar reputation survive an affair with a suspected Chinese spy?",
+   "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
    "source": "BBC",
    "time": "2026-11-09T07:10:11Z",
    "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
@@ -244,6 +273,15 @@
    "link": "https://www.aljazeera.com/news/2026/11/9/how-israels-separation-wall-compares-with-the-berlin-wall?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "S&P 500: Treasury Yield Breakout Signals the Potential for More Upside",
+   "source": "Investing.com",
+   "time": "2026-11-09T06:24:20Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2hiZGZocWRuaUlWb2Z4NC1iSzZkUkpTM2VjZXJEWUJIcE5fNm9RRkYzSVZYOXJVM05oaGFRejBvcXN6dDRmdU96VzZZc1NvbWt5ZHVkdDFyTUI3cWphSzktYlk3ZWJQaElQUkNWRDVMMGJyZXRfbV9LZ1VWZ1l0SGRvaGZQQU1pOFZoVkNzcjN3aVpZNXFVLVVXSDRSeEh4X0d1aVktdEtsOE1kUnVEQ1NBWQ?oc=5",
+   "tags": [
+    "YIELDS"
    ]
   },
   {
@@ -645,43 +683,6 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTZ4MlpTSUVFUGhKMnFta2NVVzJlYlUyTFBPM0Y3T0VlNGsxX0dRWk1uc1RSZVRFbGRSc282WDNya2NPM204NFc2UHNqNmdOX3JVbl9QRVNzLVd4OXdvNzVRbWtFQXlmWExWYVpib2lfNFo4Ul94UlY2LWJkOEJnU0VRcEN1cUFsRmwzR1dtVFpZZWNrLU14c2V1T0d3Tjl6NWR1N2p2RGJINXQzRndnSGJB?oc=5",
    "tags": [
     "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Trump says ‘hatred’ between Zelensky, Putin is main obstacle to ending war",
-   "source": "The Hill",
-   "time": "2026-11-09T02:41:00Z",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TV1BwZHBUa0o5bWFvV3QxR1JFME1PcDhGRmthZ3hKbnN1bjhuTTN2Qmhseko5elJ6REdQX0IxamhwdDZyRUtmdUJIaW1JMjV3d09JNS1pWkFKU1JCYUdyc2ZURHVHU2dVUHRJM2JlYUZWSEhZMVd2a1lfaDDSAYIBQVVfeXFMUGlnZkRPcU9hcENRbHNKYmVaUlNCVVc2Vmg3cWpIU09mcTk2XzRzaEhBWjRFWUZlVkhJWGxXd3Noak9UUVk3cEhUSUx3LTJoV3FMZFNtN0pMME5BXzRLaEJjYzZBOE14X21fdnJjMWMyb0VmVF81RlREOHRmNG52ZDNGQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Moldova launches new power line to Romania to cut reliance on Russia",
-   "source": "Al Jazeera",
-   "time": "2026-11-09T02:35:15Z",
-   "link": "https://www.aljazeera.com/news/2026/11/9/moldova-launches-new-power-line-to-romania-to-cut-reliance-on-russia?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Is Up 4% Since Midterms: Here’s Where Markets Think The Precious Metal Prices Are Headed",
-   "source": "TradingView",
-   "time": "2026-11-09T02:32:02Z",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSmtkeFJRQ1M2QkFjT1YzZUdmMjV0eXp4ajVBb3dkU1JtNWRTS0NyS3pkTDFsOTBzalRRRk1LRGpGMk5KbkNkMTlCQm1zS0otaEJVUWM3TFlDcnFqWGVsYTJXdjg3dnpHTVVCSUJuSmJ0Q2s5eUZhcXNUd3Uzd1hmQjB0bVp6cUd6NWZRXzlTdnhIeGhha0xkOGRadUZlV1hFT0l6TnFnWU5JMGhKbW9pTmZ6OU9YQ0JabV9YVzBFOEkwdWFLeXJFSUtCT3lFWkV6LThxZC1vcTRreDA1Ujh1dlRWNDFzVWM?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "China CPI inflation misses forecasts in Oct; factory-gate prices accelerate",
-   "source": "Investing.com",
-   "time": "2026-11-09T02:28:31Z",
-   "link": "https://www.investing.com/news/economic-indicators/china-cpi-inflation-misses-forecasts-in-oct-factorygate-prices-accelerate-5010405",
-   "tags": [
-    "INFLATION",
     "CHINA"
    ]
   }
