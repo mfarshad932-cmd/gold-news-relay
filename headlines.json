@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T17:58:28Z",
+ "generatedAt": "2026-11-09T19:59:43Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 2
   },
   "cnbc": {
    "http": 200,
@@ -61,18 +61,18 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 51,
-   "kept": 2
+   "items": 53,
+   "kept": 3
   },
   "bbc_world": {
    "http": 200,
-   "items": 21,
-   "kept": 6
+   "items": 24,
+   "kept": 8
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 30,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
@@ -91,28 +91,28 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 21,
+   "items": 23,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 39,
+   "items": 29,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "gn_yields": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 12,
+   "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "gn_cbgold": {
    "http": 200,
@@ -121,15 +121,265 @@
   },
   "fed_calendar": {
    "http": 200,
-   "items": 11
+   "items": 10
   }
  },
  "items": [
   {
-   "title": "Private Credit’s Rapid Growth Draws Regional Fed Banks’ Scrutiny",
+   "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+   "source": "BBC",
+   "time": "2026-11-09T19:58:01Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Hegseth impeachment effort begins in House, focused on Iran war",
+   "source": "The Washington Post",
+   "time": "2026-11-09T19:51:29Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlZ2Z0szYjlfTTBaZndNSUJHY0lLNlVGVDVpb2N2a3BTX09WR2U1cjVpWHZvNEdfQm4xLVFRM3cycmdrazk3Q25Gc05YSkgtOGF5eDROb2NfcTVZRG5yRE5hZVRKQ19XQk1INzdrTTVGZDBCbmpDOXU5NEJESHE5NHNCNGkwMUJSZVBPamlZc0M2MU9Ibng4dVJ5YjdZaE93MUd0SWtGZEt2ZHZndmpvRDZIbFROZjFJ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Massie introduces impeachment articles against Hegseth, teeing up vote this week",
+   "source": "CBS News",
+   "time": "2026-11-09T19:38:34Z",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcWNaVDRfQTIyTjZodDVodWNyTUJzOU1VMm9OM2tLLTdndTZCN3lzclhyUUdaTWVnOHk2c1ZWQldvZG9RNVRkV1oyR1E2SVR6THFFcDJ3enAwUldSTzRmOU9nOUJkbURmcGtxdzM2Zm5GWFg1Q1o5M1ZRSFNrTHJYMmNKN18tdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Houthi rebels say at least 44 killed in airstrike near Yemeni capital, and other Mideast news",
+   "source": "AP News",
+   "time": "2026-11-09T19:35:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHdNMXBlSXh2MmpQaXRNb3dfV3RuQWJGeGo1eU9hVWxEX1lTa1dHQ2VidThUOGl3NC1MYjM2NmdkeWR3ZWUxaWpHbmx1LWFTUTRQU0dGaERzX2x0a2dNZ3VpMjlORXZmWkd1RmxDcHhEYTNGUEdGcTc5a2Y1V1BwR3otcG5SeXZfVmNyVGFzRzdfOWJxNU9n?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Hegseth calls Iran war necessary, waves off ‘noise’ of expected impeachment push",
+   "source": "South China Morning Post",
+   "time": "2026-11-09T19:34:12Z",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQXBOc2gzd0hjd1paWk9veHpSeHlVWldPMVJCOFdrb2JrWHJNc3dNTE1BOEJWeGRRZUZ1elRuZmREaDhyMHllY2x1UlZjZnhyb3k4aVd6cDRCZWU2RFltNkZBbENCYXM0aV9UMzBuMmFHa1JKNEhtRkZKV0wzNDh1VmFYX2VHeU9DYk1qR3RRbHd4TUhzSFJkem83Uk1LdlBzV0tyeUMzZjZfSWgwSnlxZjdGd01jZHpTZ2lrNkFYMHAwblVUVk50cmpOVVQ0SUhSUC1OT2N2d0xYcnPSAdsBQVVfeXFMTVpkendkb1dpSVA3X3hPODRoVUdVX1dWS1dtMUd6YUs5YjRoajVJVXp0STVteF9halU2aTRNbllJVGpyZlpZNWVDeFQtYUtscnBjNmhKM2xqN2pLTWtKUTRPZnExWUhXTjZvSTBLOURrRDlMXzhKRGZETlFWZkx1X01zYjRocGRiOUhydFgyVVhnaDJGMWZhdEZ5VV9yRTk5Wm9Ka3Bna2JveHZockphY2hIUnhoN1FyT1JPYlZxMndsWWFFQVZLOExFWlA4OWlsbGNIQXpRN2s2cmUw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S., Eurozone Bond Yields Rise Ahead of Inflation, Rates Outlook",
+   "source": "WSJ",
+   "time": "2026-11-09T19:33:00Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0N5Skk5WEFjeFZaU2hkdnczUWd0Y2QzNEFJNFF0Mk9UdTd0LUhCRGI4aVBldGpNaDRoWFdJT0xDcldjX0p0OG5yS1lBQktuSVo3alNaTkVSNmI3WWZ2M25WSnJ4Y1BkTGEzM05NamtJYlBQSk1pdVdMNHg2MTJVd0Yxc29Xc3ZOUkFPYkJxdWQtU3BINU42NjVlSl85Z0ZG?oc=5",
+   "tags": [
+    "YIELDS",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Opinion | The U.K. Aims Sanctions at Israel, Hits the Cayman Islands",
+   "source": "WSJ",
+   "time": "2026-11-09T19:29:25Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjJBc1lHV0NRN1FURjg3eWRsalpKalB6QldheHRZLUg0SmM3SGpMRFFXWDc2Vm9qbGFQdGluQ1c0dkY4WE5DdmswdzdDazQwTkdDaENiQmhDYlZJd2FjcDFoVmhyQzVPa3hLZ2dQZUFRb2RuZGpTTkVJYUpEOElma055REV1ZlBPTEkwY2owTjh0SVNwNncySA?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "GOP Rep. Thomas Massie unveils impeachment articles against Defense Secretary Pete Hegseth",
+   "source": "NBC News",
+   "time": "2026-11-09T19:29:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVZLUS10dU5IVjRzQlpKeG9pZnJqLTZsNjRzTHk0RTZBN3hRckluYUFNbDJyZVZ5QmU4RUxSdmdvYU9oRExSRDhmTktQa016cXpISi1YY0NtSjJDNy1zRGhDNXB6dGNkT3pEUnE2U0hLR3lDZHA3REVIdTVfNXNydS00YVlQX0QyZEhWbmJQR3RQemk0MHRGWDA1YjZWZ09zM2hoTmIzZzJwbFVmSUJzbVg0X0NJdTI4?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine",
+   "source": "AP News",
+   "time": "2026-11-09T19:26:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzJmdDczN2hxRVpiY0V5UzZWZlFBR3oxaUlhWW96SzNvUEcxd3Q5clI3M1FXUTZqMkF5dmpZV29xdjFZV1hBNDZpeXVwalQ4X1lISlZGY1lIWVZ2UXpYUUExQXl0aVlZazNycEFHQ25xclZiNHQyOW5nWlFoYlFPU3VyeTZwa0hPUkNMeTJ5ck9UVk95?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump administration proposes stricter work-search rules for unemployment benefits",
+   "source": "CNBC",
+   "time": "2026-11-09T19:19:28Z",
+   "link": "https://www.cnbc.com/2026/11/09/trump-unemployment-work-search-rule.html",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "54 officials face sanctions as INEC removes 1.6m invalid voter records",
+   "source": "The Guardian Nigeria News",
+   "time": "2026-11-09T19:00:18Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGRkWXZfaTVWb2JyaVZSanh1cDE0WHR5T2czcUtDZ2M0amdGQUktOFg5VVFSREJYVGVrb2NOd0lUYTlpV0NTbTEteUdoVmJWcEttT2JfamRaVVhiRDV1NExsdm1zOWxMU2Y1cTlPMERaUGp0MElNUXBsdzlnTTYteExXMXoxWk9YY3Nqek1rZlRkbnpabEt5ZHUwd2ExeXYwQklrN3JvZw?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Qatar PM meets with Trump for talks on ending war on Iran",
+   "source": "Al Jazeera",
+   "time": "2026-11-09T18:54:35Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWV4Z1BVUDIzY25WUXNCbkZ5Zl9QUXJnaElLV1Y2eXBMUGFaaEs4NC1XR19ZZnFrTFFySHVXZ1hDdUxCUkZQcXpHMVFyQTZka3d0c1RrdEhRZjVYT25MTTREYW4tekpCTkItMThha0FNMXNSX2VvcmhKRUlWdUhiSDlIeXJTR2JQYW1GRDFrQ1hlTWhOYmR2R0tKZ09lVUlxblhJZFJGdEhvM3ZL0gGyAUFVX3lxTFBzaHl2bmYyUnpMUXBZS216b1hOWm4xSmloMDFyNDJqOE5sUDZPOWxVanNReGNUQ3pRV1plY014aW93emI4T0hKTFBNRUM1T3J2YTNwbVlVRXM2WmtHdFNROGNtdkg0NUc0OWZpN25XNmtrWjZvakFhSmFwZzg5OUNubEtZYUJuY2NObjMza0dORU5XbV81cXdBcmZfM050akdqQi1aR2FVanBKdnhCWkcxaGc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russia, Ukraine Envoys to Talk Ceasefire Monitoring, Territory",
    "source": "Bloomberg.com",
-   "time": "2026-11-09T17:36:30Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRUtNWVlPVy1UcEpxQzlVbVNEYlcxZ2tiZmFQbnY4RkdsS1lJQVFQdW9MTEtqSnJ2Yl9tWjItLWlMX1JXVVJGVmxTeEtoZVR2LVozM2NqY1ZHUkJsV0dzZGVXV1JOUHhLSi1meUVyU2w1eWFZVHItNHpjR1V0M3c5OXlkMUpnMFY3dFp3ZTA4XzBIb1Y1MWtTdW05Vmx2M09FM3ZZeldBQ0dYZlMzbkFHWGw2WDM?oc=5",
+   "time": "2026-11-09T18:51:56Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMjNsamhEb1lVal9ZNHE2MEdHR2FtdnhCcG1jUUxiUnJwUFpIUGNTQlFxbWx1cUxsZHRld29DWmNZNFplZFd1cjY3TTFNc2c3WDdPeTI0VFM5c0poc05rRmUydzdxZkJuREtVYWVWb29sMlM0aVBIazlKaFphUTFNcTRpQ2l5YUFYZnR6SFQtYmpjdnRGWTNfYkU1cXo3eUJ0V2N6d1RWcEtOSVZqa3QtNw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Barrick Mining Stocks Rise 3.72% as Q3 Adjusted Earnings Jump 41%",
+   "source": "TradingView",
+   "time": "2026-11-09T18:50:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZEhPYWtWQ2JnVXduNkpFMHhubjFwOEdDaDdtWkRyMkR4RTBKN25GQ2tsLUMwQTY0QWRBQlcxc28wc1J0bWhFY252Vy1SdkpuYVhLbVJPV2kxMjNrZW5BVC1TdDJMTkVVWFZSRzlhM2I1TWtrdHFPOERMcC1SUnJJeWRSLXN3RXlJeTRnQjluOVZfQTBLeXFTRTVmWTctdzh6Z1E4TTRHUXdIalV3S0pFaHR6T1VqQlZHdi1lU0ZfYnY?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Fed’s Goolsbee Says Officials Must Address Inflation Failure",
+   "source": "Bloomberg.com",
+   "time": "2026-11-09T18:46:01Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0Q1dF91TjRsdE8tTy0wZ3hOSEtjYUxwVHJzd2N5YmUxcmFMbG9YMEp2UHZJbUZERUh3cGFrcEthM25rNHF6U0pJTnNuUXJYeGdWRWNvbEJ4TC1yNTNPUGZfT3NRM3JNRjlVOXBhaHRCNDAydEQxQW5hTXFTcXo1NjQ2aXdkRjFhdHNmZDBxUnhjZi11azgwLWJxV2wxTUZPY3dwWmROaE9aX2NJVGlwbw?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran",
+   "source": "The New York Times",
+   "time": "2026-11-09T18:36:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IMC1KVG9Ya3lRLXhObVBSYWJLeFNxY0ZRMUpUUnZKQ0FOSlNyNGFyeWNmU0c2elJoOXlGWDhuOExCVzdhWnFGRlp5UjdFN2M5d1d6Mlh3WVZKUXZXaWdfZW5PdjNkLURJa21TTk1iaFZnQW5nY0p1M0hB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Opinion | Why is your cocktail so expensive? Ask the White House.",
+   "source": "The Washington Post",
+   "time": "2026-11-09T18:33:23Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU8teW9XcGs5Ymd1Um94bVI0VWNGc3F2Qm5CUEttUWhDVTBmaXlZWEZDSGZIVGg3a01HTkM1aTZlb2ZyYU5nQk9HNHE1Ym94UlBTYmRzRGZiby1LRUE3aXlES2Q0Q0pQZlJSR3owUjROT1ppUEI0T2NUb2FvR0F1N21UdF9wUmVuVVJxT1Bqc1MtbzdBZC02OTBIUVZYLWdYNmc?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Iran says IAEA inspected nuclear site, US should heed public sentiment and end war",
+   "source": "The Times of Israel",
+   "time": "2026-11-09T18:32:51Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZHJFVEtCSTJxZW83SzRidUdDODRqcFVFQi1GdHdycHVwWFZEUk1TNmVrUkxPRDZPSkV4bTFObVpYNC1LUHFvaFo3WUJHaEhEMW1tX2ZhSlhRU2N6YmViUlhxVXg5Q2NtYlhTYUt1WnFfM1BUYUQzWlJYS3A2VEQ5d2hPYmZyR0tmUDhOemRZZFFURFphX2Jkakk3VG5ScTVic3BjclEzOEZncjh3SzNlakpn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed’s Barkin Says Policy Direction Clear, Needs Careful Pace",
+   "source": "Bloomberg.com",
+   "time": "2026-11-09T18:30:20Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUZwUzlMT0N3OEFwczhQUXNoa3N6cFRqTUVLaVhlQUxiUjVwemYzd3R1VVJOMVV6V2g5NjZqdEJ0QTg0dUtpQU5mWThEdXMzcGJHZGwwdEdjSFlEUEVUZ2FCc3BURkcwQ0ZRNzBGc3E0VXozTEZINFFsNUZQR0E3RXRSZnBHakRGcktPems4cTNvR29EYlBDWjRPSDBLODZ0NTZWZl9oTUJHSDdCZEpZOERsZEk?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "OPEC oil output rises in October to 90% of pre-war rate, Reuters survey shows",
+   "source": "Reuters",
+   "time": "2026-11-09T18:28:46Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGJ3LUpzaXpKMGVQTkVDUmxmck5BRE9ycmRsR2ljV2x5ZmpoOW5UbW1WSE9XUnd5XzJsano5X0hPMU1DZW5Za2lsQ05Sa2NzWWNnTkpHdVc4ZmFvRnZ1WDRGVnVLaFNJVVdNSGhhYmRBaXZSSVNjc29qT2dUbnEtZ3JBNXdyQ01IaWxJRDJsZThnT29yUmxnSTh2dHFidnZBd2R6QU5nS182LUFjV1U0RXJqSVR2VXpicTBjalNR?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Think the bond market is broken? History says a massive turnaround could be coming.",
+   "source": "MarketWatch",
+   "time": "2026-11-09T18:26:00Z",
+   "link": "https://www.marketwatch.com/story/think-the-bond-market-is-broken-history-says-a-massive-turnaround-could-be-coming-dfaae450?mod=mw_rss_topstories",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Gains Ground As Oil Tests New Lows",
+   "source": "FXEmpire",
+   "time": "2026-11-09T18:20:12Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEFWXy1YUmhXdFVsT21Rc3JWUmJTTXJacG1ycU1PVUkyRUFlSFUyTHUtZm1fSmt6Uk1SdTY2dzYyYWg2TkVRYWJBM25RakxUdkNIVXl6VkszaHQ4SDV4eVNqNVdGZ2tqamttbWJOeG5zbE1MRmtJc2VmYTNQU1hDMmEwZEpOcmRwYnVKdjFBTFNsVzg3ckYxMlVUUFVzcHNnSm16WHZLZk0xaUNTMlpfVzBpU2dZWEFvTmxxYXEzUi11aURONU5j?oc=5",
+   "tags": [
+    "OIL",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Hot U.S. inflation hasn’t cooled off. Rising consumer prices to keep Fed rate hike on track.",
+   "source": "MarketWatch",
+   "time": "2026-11-09T18:16:00Z",
+   "link": "https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories",
+   "tags": [
+    "FED",
+    "RATES",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Treasury Yields Could Be Heading Lower. What the Charts Show.",
+   "source": "Barron's",
+   "time": "2026-11-09T18:10:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaWswR2JmNnFQcGxoNl92Tkw4emxzcXNZWUlxdmd0aG9OUC1JOXJuVjVOQkhiXy0tSG5MM1FKY0JlS01TMk1nOUh6SHZ1ZERqSnctZnZmMWtGUmFlNERmQnhfOUthQ25RWTFhelpYVGQ5VEthcUROazFwSDF5b09yU1M2TWh4M1NMWGx1c0Y4NEp6UQ?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Russia's leading independent newspaper closes after eviction",
+   "source": "BBC",
+   "time": "2026-11-09T18:08:07Z",
+   "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Nvidia Stock Trades at Widest Gap Versus 200-Day Average Since Trump's Tariffs Rout",
+   "source": "TradingView",
+   "time": "2026-11-09T18:05:08Z",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSTdEcENtb0dyY1JWQURQcEhXdWFISlV2c2VQZnAyV0M5MHpCZDhJR2plMlJRMXk0VzNWWkNoX2dONXl4ZzRJRTZIQ3BQOGlpR2tpdGNZTi1QOWxKbDNTQ3JLUEFJTm1DazR5bmxBdTVwODBLX0RBSFhzbkh0WlZvMU1Relo4Y0xEMGhEUVJ6bWN3VVVqYVU5OWVTY2hBM0swQTBaTEwyRkxkOEZLLU1YRUVnZU9zYUVTTU9YeUZMVzZQeGJRWGNNZ3NLS2xJeUtoR0hadGlRSzRMdw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Analysis • Despite Haredi hopes, the anti-Netanyahu bloc won't help them dodge the draft",
+   "source": "Haaretz",
+   "time": "2026-11-09T18:02:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOMndjbi1fUzBzVnNrelpWR1UxU0tuajdtRm5yclprRWJxTUxfdW9uQkNlZk1QbFY1c3V3TkRSREVXRlJVRDJreE1Kdzc4X3BnN09fWkRUYTBISW93eWpKcnJVbGsyc1ZQeDlVSThDU3JnOE1PaHJZckJGSC1BOGJSdEZpUkFsQVNIMUowVmdmSzlqOVVyekp0VmxSRU5UQ2hGbm9weGhaY25zeVBiazlnYWxfbmFqSVNqLW83NkpUU0RaMUFWaGRlNkkwNWZ4OWt2VkNoMnRnOUdLTEJTdmhDZ0dSWnRxRnhOYzVQX2RhU1VSMElXSkdGQkJJMVAwNUhXSFljQnpYbnJJUEZDcXk2R2hFZ25xd1R1?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "For Trump’s Fed Ambitions, a Democratic Senate Poses the Biggest Hurdle Yet",
+   "source": "WSJ",
+   "time": "2026-11-09T18:01:23Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEN2SVIzQmppcXREV0sxNE0tejFxYkt4VGpxemtVbVV4R0ZPTVFyVWV0azNTLUxCSkxUQWxxN1plZEpfZ1ZCRHUwNGhJV0k3c2owTWVRaEpfb3JMN09jV01jTkNJcmNidl9FTFhid1JsUmw4ZnVXSjVDRXZzWlM0NnRmRnEybjc5MG1Hb09KQXRsM1lFR0FVUThGVUZjdTZLd2lUZDl2WTB0UQ?oc=5",
    "tags": [
     "FED"
    ]
@@ -137,8 +387,53 @@
   {
    "title": "Trump talked with Fed chief, but there’s no record of it on Warsh’s calendar",
    "source": "The Washington Post",
-   "time": "2026-11-09T17:32:01Z",
+   "time": "2026-11-09T18:00:00Z",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdEdjM2lrNjdwYmtMLTBtaFp3aW1ONGNIaHRwZnRadGt2VjZ2OGtMeEVzT1kzcW9BRWJoRmhNblB6dXBxR2NldmRXeG9ET2dZVDE5aWNPaDdmSFV0OEdRN0xGU1dYekdxZmZ5VEY1MHV3T2l4Unk1cWlaT200WVhObUp0elNyc0V1TVprN1l4MXN1MHEwb3JUNF9DOURQOFVScFoyMjBxNXFKaWlrWnZaN2hsUDRFQkZsWVBRYg?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Even this blue wave probably won’t wash tariffs away",
+   "source": "The Hill",
+   "time": "2026-11-09T18:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12Zi02OTQzOHlXQ0kxRVFMbk1rREp0RlhKRFNrNFluMEY4empWb0VTZktsNVU5U3VES2JfdmJPemJ5ek4waGVQR2RSVFBfdUxYV1pjZVVPeVJkOHhWbGZ1Y3RkZHZ5M3BDTFp4LTA4VnlsUjlQM2ljT3VJcGw5dTTSAYQBQVVfeXFMT1lQQXNXZ0J2RW9yZzZJX25vZ1R2U0FqRnlad1ljandlbXl5QnJsbnRzR0hhczZZSEJIQXlrTGdZLWp2aTNOVUtLWm5XRXRXb1ZkMEVnOUcyR2FtUm9BOTd5WjhRY2E4b0poOFVXMFBmdGFabTRGaDJqem9OTnZvRXU1eUxH?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Jerusalem Daily: Deadly aftermath of Gaza rainstorm continues",
+   "source": "Al Jazeera",
+   "time": "2026-11-09T17:55:47Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/jerusalem-daily-deadly-aftermath-of-gaza-rainstorm-continues?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "New York Fed and Dallas Fed start pilot survey of direct lending market",
+   "source": "TradingView",
+   "time": "2026-11-09T17:52:33Z",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUzFKVHliYS05ZnhlUVRfWXBHZmVsVWN3cUhYNlFQeGV1VFZPS3hZSGtpQ3pHYnZWODVkUXBnMDNabjdrVmdRbEVrTnZUZnhZZG96cEpWUG04dThZY3lOa0VodFVVbFpjQzJBdkRZaE1CUlU4TENlMmU0WG5nUGJZLWpMS1U2cU13ZE5QMV9rNWp6dVpYWHF5Z3QzSkR6eHp0UHNqVkpHWWE2WGhndjJ1TDN0ZHNmVVJ0VGxlX3BrUVhUX2taMnNlQml6bU1MT1U?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Buying gold or silver in November? 3 key dates to watch before making a purchase",
+   "source": "CNBC TV18",
+   "time": "2026-11-09T17:52:03Z",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb3JrQURHNVZMRGRsZFhQY2VfaWJkWjBjX0V0ekhoRDFYMkZPWVFvNGV1STRZbFBzNjJ0ZndqYmx5NmdaaFZsX01iSkNsQWl3ajNJWlZ4T2RROGhmaHVkZDF6VFJzUzlrSExlTElLVkFfODRzOWRLR0F2OHg4WmxJVE9abjVjQ3lnekNDTG5zMFNwQS1nai1WNVlSOTNRcTA4c3hhenlxOWhFanBQMzNLS1JfZUJJaWJGUkhSb3lwYjJVcE94QnhIYTBXN1V4TEk?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Private Credit’s Rapid Growth Draws Regional Fed Banks’ Scrutiny",
+   "source": "Bloomberg.com",
+   "time": "2026-11-09T17:36:30Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRUtNWVlPVy1UcEpxQzlVbVNEYlcxZ2tiZmFQbnY4RkdsS1lJQVFQdW9MTEtqSnJ2Yl9tWjItLWlMX1JXVVJGVmxTeEtoZVR2LVozM2NqY1ZHUkJsV0dzZGVXV1JOUHhLSi1meUVyU2w1eWFZVHItNHpjR1V0M3c5OXlkMUpnMFY3dFp3ZTA4XzBIb1Y1MWtTdW05Vmx2M09FM3ZZeldBQ0dYZlMzbkFHWGw2WDM?oc=5",
    "tags": [
     "FED"
    ]
@@ -173,29 +468,11 @@
    ]
   },
   {
-   "title": "Fed’s Barkin Says Policy Direction Clear, But Needs Careful Pace",
-   "source": "Bloomberg.com",
-   "time": "2026-11-09T17:06:06Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUZwUzlMT0N3OEFwczhQUXNoa3N6cFRqTUVLaVhlQUxiUjVwemYzd3R1VVJOMVV6V2g5NjZqdEJ0QTg0dUtpQU5mWThEdXMzcGJHZGwwdEdjSFlEUEVUZ2FCc3BURkcwQ0ZRNzBGc3E0VXozTEZINFFsNUZQR0E3RXRSZnBHakRGcktPems4cTNvR29EYlBDWjRPSDBLODZ0NTZWZl9oTUJHSDdCZEpZOERsZEk?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "title": "Treasuries Fall Before Auction as Investors Regain Risk Appetite",
    "source": "Bloomberg.com",
    "time": "2026-11-09T17:03:34Z",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZzN1VjZIT2ZXUWhseEJDdHFSLS0xUDIyc1ItaW1KRHFpdDJMYVJDWFNib05FTWN5VnlvRzNqbXd4cWpYY2xpcFVYN1J3Smh4WWFJOHY0NEdmRzJWcGxXVnRIbFl2Y3NkTGN1WGpPU29IbU9JVGRVTXNrVDM4ZHRYTDJ4NXpTS21vSVVXZGxra24zeG9EZTlielJ4MnFVZzk5SWpDRFhvZXdrN1FURTBvblp1TVVuZw?oc=5",
    "tags": []
-  },
-  {
-   "title": "Opinion | Why is your cocktail so expensive? Ask the White House.",
-   "source": "The Washington Post",
-   "time": "2026-11-09T17:03:23Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU8teW9XcGs5Ymd1Um94bVI0VWNGc3F2Qm5CUEttUWhDVTBmaXlZWEZDSGZIVGg3a01HTkM1aTZlb2ZyYU5nQk9HNHE1Ym94UlBTYmRzRGZiby1LRUE3aXlES2Q0Q0pQZlJSR3owUjROT1ppUEI0T2NUb2FvR0F1N21UdF9wUmVuVVJxT1Bqc1MtbzdBZC02OTBIUVZYLWdYNmc?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
   },
   {
    "title": "Watch SharkNinja CEO on Tariffs and AI",
@@ -242,15 +519,6 @@
    "tags": [
     "TARIFF",
     "CHINA"
-   ]
-  },
-  {
-   "title": "Houthi rebels say at least 44 killed in airstrike near Yemeni capital, and other Mideast news",
-   "source": "AP News",
-   "time": "2026-11-09T16:58:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHdNMXBlSXh2MmpQaXRNb3dfV3RuQWJGeGo1eU9hVWxEX1lTa1dHQ2VidThUOGl3NC1MYjM2NmdkeWR3ZWUxaWpHbmx1LWFTUTRQU0dGaERzX2x0a2dNZ3VpMjlORXZmWkd1RmxDcHhEYTNGUEdGcTc5a2Y1V1BwR3otcG5SeXZfVmNyVGFzRzdfOWJxNU9n?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -309,15 +577,6 @@
    ]
   },
   {
-   "title": "For Trump’s Fed Ambitions, a Democratic Senate Poses the Biggest Hurdle Yet",
-   "source": "WSJ",
-   "time": "2026-11-09T16:31:23Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEN2SVIzQmppcXREV0sxNE0tejFxYkt4VGpxemtVbVV4R0ZPTVFyVWV0azNTLUxCSkxUQWxxN1plZEpfZ1ZCRHUwNGhJV0k3c2owTWVRaEpfb3JMN09jV01jTkNJcmNidl9FTFhid1JsUmw4ZnVXSjVDRXZzWlM0NnRmRnEybjc5MG1Hb09KQXRsM1lFR0FVUThGVUZjdTZLd2lUZDl2WTB0UQ?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "title": "Thomas Massie to Introduce Hegseth Impeachment Today",
    "source": "Newsweek",
    "time": "2026-11-09T16:23:00Z",
@@ -361,26 +620,6 @@
    "tags": [
     "FED",
     "INFLATION"
-   ]
-  },
-  {
-   "title": "Fed’s Goolsbee Says Officials Must Address Inflation Failure",
-   "source": "Bloomberg.com",
-   "time": "2026-11-09T16:06:43Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0Q1dF91TjRsdE8tTy0wZ3hOSEtjYUxwVHJzd2N5YmUxcmFMbG9YMEp2UHZJbUZERUh3cGFrcEthM25rNHF6U0pJTnNuUXJYeGdWRWNvbEJ4TC1yNTNPUGZfT3NRM3JNRjlVOXBhaHRCNDAydEQxQW5hTXFTcXo1NjQ2aXdkRjFhdHNmZDBxUnhjZi11azgwLWJxV2wxTUZPY3dwWmROaE9aX2NJVGlwbw?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "OPEC oil output rises in October to 90% of pre-war rate, Reuters survey shows",
-   "source": "Reuters",
-   "time": "2026-11-09T16:03:44Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGJ3LUpzaXpKMGVQTkVDUmxmck5BRE9ycmRsR2ljV2x5ZmpoOW5UbW1WSE9XUnd5XzJsano5X0hPMU1DZW5Za2lsQ05Sa2NzWWNnTkpHdVc4ZmFvRnZ1WDRGVnVLaFNJVVdNSGhhYmRBaXZSSVNjc29qT2dUbnEtZ3JBNXdyQ01IaWxJRDJsZThnT29yUmxnSTh2dHFidnZBd2R6QU5nS182LUFjV1U0RXJqSVR2VXpicTBjalNR?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
    ]
   },
   {
@@ -439,255 +678,9 @@
     "INFLATION",
     "TARIFF"
    ]
-  },
-  {
-   "title": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
-   "source": "Al Jazeera",
-   "time": "2026-11-09T15:35:06Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObG1jOWt3clR6VGlXVUI2YVV4T2ZGLTVEVjR4Q29tTjFXRC0yYkZMNTA2b240Qk1ITGlqNUhYMi1wOWNZMFBNU0MtVk9lUS1VZlI5eTZwODVjUnZ4SS1KVkNiRERrWkZsa0k0SHE2U1RIb3dpTkdNNmM0N0s5cmN6VEh3V1BBUk1TZ0JEalp3cHpDN1JQekFLQmdoWUlCbEJzdVNsSjdRRTJuVERISGh3dnlaenZlblVvRXlIdXA1b2PSAcYBQVVfeXFMTkNXTUJPYkx5bGtFVVJJOFBtSlJoRGJOWEFPNlQ2dUMwdXJ1MVExNkkxMjd2aDI0d1hLTnJlRnNsZTlucVVhZW1jc0dtNi10c0o3LWw0SmJkTFhVTElaVmVhZGhCakoxQmhlMlBtZks2dmd2V2FpZjNUcE5GdHRob0xablpZQ2dEbXBKa1h4ZTFkSUpXS25uTGd2WENVMTBycGxZajBmMkxjNFRBalpHSHRRYVc4NnlCUlBuNVptY0JYSTB4UFdB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Is Rising, but Rates Aren’t Falling. What’s the Catch? for ERRANTE:XAUUSD by Errante",
-   "source": "TradingView",
-   "time": "2026-11-09T15:32:54Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbTdvY1ZKX2dwcElheVBna0JCOF9JT1FiVzRKMGZKVGx6cWVpcjEyZkRXZ0FrZ1JwZS1sWnF4YnBISkljR1VuZFVrZ0l1Y3pxdW4tX3FPeFh5bXladThzVXhlTFNMZGNfTmdQaUdaZ2pvcW9JZmxaNmdBTDYwS0QyTnQwNkVjbE15YkhvOFBQck96RGd2U05yMGpXMmYtNmRNVGZqaXZ0V05ubVk?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Dow rallies 800 points as oil slides, tech stocks outside of Nvidia gain: Live updates",
-   "source": "CNBC",
-   "time": "2026-11-09T15:31:53Z",
-   "link": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Teledyne wins Lockheed Martin subcontract for next-generation missile defense (TDY:NYSE)",
-   "source": "Seeking Alpha",
-   "time": "2026-11-09T15:24:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlVRZ1VqMWpNTk9DVFRzN2pjQV9UQjl2dGswX3dnM0dZM2V2VXNTN0QyY2JRNDJmRE85dW1GOEN2MVlrbGZWOVZicWVVaTJUcmJKMWhyY2I2ZDF4MEJJYi1lYkhYeG1zY3l4ZVZyeUJlWkU1RGQ3ZHlXWHRPOW9fN0FHRGFHbVdvdTJQUkpJYWJ6bnNpY0UzSnJRbjdwb01zZ1NPSzNOdkZOMmw2M3JOTWRtRU5iQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "IRGC strikes three tankers near Hormuz over ‘US links’",
-   "source": "Al Jazeera",
-   "time": "2026-11-09T15:22:37Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNem9kRXY3QksycTNtTXVCb2ZRTGtMSUwwYnBpU3M1bG5wUHFQZmNsZUtQT0c2alFWNWI2ZzVqdVh3eERYQW90cnZhRjhpdzllbDlpanVKVHR5VC14dTlKV1R4NlpyeGpLdzM4MnVvam9kS3lDMU5tZ2U0VnNXTy0yR1ZCdUgtWWZQaUMtY0NfM1RSMWJ6U2lfd2VyYTNOQdIBowFBVV95cUxNVGVYMHhUanFDYXNJWHVBQjhhOXFFYVNrOUsyV0oyY3hPMXhpQWkyUnF3ZGFWRDJCVlNsTC1mS1BCcDVzU3BaNm82TTFvR2FWYVcxRnBPdXNNZlJndDRrekJQZVZBREZwTGh4VV9mZEpWS3RCaHBBYVhOVmRhWHcyRTVsdTRDWTcwNU4zbW9NdTFaRl9VMmlNQU1XeUo1cV9Da21v?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Can Gold Turn Recovery Into a Sustainable Rebound?",
-   "source": "Investing.com",
-   "time": "2026-11-09T15:21:00Z",
-   "link": "https://www.investing.com/analysis/can-gold-turn-recovery-into-a-sustainable-rebound-200691220",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Price Outlook: High Real Yields Pose a Risk Ahead of US CPI",
-   "source": "FXEmpire",
-   "time": "2026-11-09T15:18:01Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2c1c09DdjlOOXNWRkdWZjVfWWNpVDh6MFBoOWJ6RjR1WVhvQlZZZnlMN082RmdRN2lDT3BsMFlaZ2hKLUJiRDhZb0RxV3BrZHhCek9PTHNxRlY3bm9vYjdEY0x5ODBaYjM0b1B4bEx0bV9UV01tdmVPdVdPYjA1aUhsM2h1bHNWQ3pvYUg0Q0JYRFRQTmgyWVQ3RDFCYXhfY0hsQ2pyM3hIU1EyaThLX19UczQ?oc=5",
-   "tags": [
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Harmony Gold Gets Boost from Higher Gold Prices",
-   "source": "marketscreener.com",
-   "time": "2026-11-09T15:15:16Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQclVhaUdOVUk1X0ZrX1JJWjliMXZSbzhPSUltbWZRdHdKQ3NIU2R0VndvTEI1VnRINFQydkRudmExdFdVNlM4eXhTMUtfVUQ3eHRGV0JITnQwZXVHaVY5NjEtdmpJcGtrRHRlVXJxMS1rRGw5M3J5NVN3SjdSX0p5SE1xN1VqdGxKOGJqZDZNVzBjcVNWRzJuelFITVJjNGlBSGc?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Tamil Nadu sanctions ₹17.99 crore for GPS tracking devices, panic buttons in state-run buses",
-   "source": "CNBC TV18",
-   "time": "2026-11-09T15:11:25Z",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ011eFBTSHZ1Z05OMUstMzRZY2RldXRYUDVjbU9hOG5CZTBCTEhBcTNPMGU0VHJNdGJfTm80eFlTTWZyTzlyc3JPRkVtTFJkd05aZnR5ODRyaDRDekd5SXd4cDN2U3ppVkR4T1NpR3JWa2tIeDltWFBQbTluWU0xSU5yRVRqYldZTkdjaEMyY2pDMkZQRUZvdGhXaXdBOE1qdkNXR0tYMnNyTFpsOVZoQ2xiZnZvTGpyWWZjeTVnWVJWTDRGYUlieHYzMng0VzlrbDkxaXFobERMTk3SAeABQVVfeXFMTnZ0S1Q0STRzMXRYNHVoWWt4bThXTTlMY1NTdzBtUVFmd2tKYk53RmxvM0d0aVRfSHh4TXJfdVlMbi1SVnUzOXFiQTNvSklYelBPa1dPOGZlbGlUdmdIZEhPVnd1T1RlYWxJc3VZRHlmaHBCN3Zacm1jX0lFZW9wWlUwV05SMFhhaWViTURIUUNacTZqVkgwaGlsRTdIQUlyOXcxN2VQSnJsTzNMSVREMV8xdXpneTZ6OXllZ1pwaGQyM1N1bk5ObTM0MWFxWENBOS1qWEhtQ1hlbDA0MXZOcEY?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "South African police arrest 9 foreigners for trying to join Russia-Ukraine war",
-   "source": "AP News",
-   "time": "2026-11-09T15:10:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2N4a2djZmNTTXYyR2ZhemFQZURkNGFrSE0tcU1pc3dPakRmQ2lVMWs2eTRDZklrUXpsQlRGVGlMVDFRTnFpSWZnd2c3TGU3M2dnY3B3WGFEVHhzcHg1Mm5DUXlCNWdzTk9WNnlKU3RFX3ZRSzVFcEhFMmlocEU4SmphbWphWHptZkNlLWo2cnVweHFoNUZ5cEZyQm1nQlNFcGZCVHlKY0VNRW8?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
-   "source": "The New York Times",
-   "time": "2026-11-09T15:08:54Z",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOE9NUS1DRlJBNF9FaU1BcU5LNjFfX2I2eHRaRkYwOXdLWmdyLU5aUjdLeVJ1WV9nTUQtYVhXNkFfTjQ5dk5hdzJneTJxS0FmNHZKODR0cHpiUTVBanU5S0JGbk5ZTXBjaWNXWGFXN2hRRy13UGZEUWZkUGR4SEl6ODduQXNjQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Watch live: Hegseth addresses Naval War College as impeachment push looms",
-   "source": "The Hill",
-   "time": "2026-11-09T15:04:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaTJNR1hyM1NLWTNTMmVVbWxnVzE4dTZYV2RhYi1ienQyMEM1bFE0cHpxX0NPVWI4c0tySVRtRW5jZmE5elN6NnBUc295LUdXSnk4eDJ2Z09aTkQyd1VKVUdrUWR5aEFGaEJIVHhhdnZLSkV6ckhhQlpNWmZERUU3OUZ6NExVY0VqY2JHSEFMR3pYTHc3QndnY0lyVU1jbmk0RW1NaU5wdVhjSHPSAbABQVVfeXFMTnBPVTkyMGpyUGt4cF91dWJOX2M0QlJ2SFBXVjdDcWk4aFVyR0VnVzVxSHpZel8wSTNTalVGaUJCektZOWItSnIzQTVSaTYyWXNKNi04NkNZYWJKdU1Cc3VDRWw1NmU2eDBNbHBzS2p4ZUVVNTVURHd3bWszSUMycGdDVFNyQ1VhZnpzWGxPSlBxU3ZxaWNwY3h4VTZfN2NTSGVIQnFOZmxwRmZaRlFvUTk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s affair with alleged Chinese spy",
-   "source": "CNBC",
-   "time": "2026-11-09T15:03:03Z",
-   "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Gold and silver prices extend post-election rebound, central banks on pace to beat 2025 purchases – Heraeus",
-   "source": "Kitco",
-   "time": "2026-11-09T15:02:11Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbjlfT0RwLTdkTFh2ZFY2TklJYUFHZ2JFYjZtR1JaQldGOFJrSXVFUS1hUXFyMVEwaUhSRm1mdzEyMm1NeUhVQjUtTEZobWFtQ0FoUkxWMHE1WDFFOVVLQlM2c1FXMHhCSU83QWxVUkM2UU1XdnZ6THMtNmtudGlNajBEb1VNczdZUmdZRERfWWROUkJYaTNoeDhheFd6cHBnX0toOUVuS2pDNXZxVXJPdnBFMkNCUG5SMG1iX0NR?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "CENTRAL_BANK",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Trump on Vance blaming Iran war for midterms loss: \"Historically this will be a very good decision\"",
-   "source": "CBS News",
-   "time": "2026-11-09T15:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUlB6X083d2J2Sl9yc2FKU0FhNTlhTktBQnktdlc5dUJ1MUtjU0dlTGoyWmJIUG9ZTFEtYWpwT3dvUFY0ZHh5RmxJQmpxRVlmeWNoSFc1a0F1MmliMk1hclhPb1lCWFhRYjJCM3kxYU1HTVNtWjZOd2Vvd0RXQk5uWVFNNFBKYXNITV94QjMxcGQ3YWFjcl9HZkd0WUdQdDhBVlNFTEMwbUVtWWVZTFpPUWp5SDQyREZXMktidVFhbjFkTDg3bVE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "More than 400,000 Russians killed fighting in Ukraine war, leaked data suggests",
-   "source": "The Guardian",
-   "time": "2026-11-09T14:58:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTUJJYkRoTG1WamFjYTNoY2wtc0xHZVNhM0doUWZzaTh0ZkRaQkVKZ2xZMVNMbF9lVThtUnYzOWF2LUF4QmlOaFZjSS0wbEQtR1BObi1UWjlVZXBiY2lfb3I1NHVXdUlGemQxd2l5RkM3Z25wdTV6YWVBV1ZhZjZFaGM3WFNlSnZzQTNQM0dn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Shutdown Risks Emerge as Democrats Consider Ways to End Iran War",
-   "source": "Bloomberg.com",
-   "time": "2026-11-09T14:53:29Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTjVMMmt5d2FUS2RXU3A0d2dULVMwdkhzcWdHMWlORWQ3b1I5c09qLW5CNjRUbTAxem5tV2dDaDdiTjEzbXMzVThfaHAtaGpiM0pKQXJ5bjJBR1oycnZoR00ycGpKSGNsUmtmV0dMV2xmYmo1bFFzQko5RHJvM3VRM0d5c1l2MlVJVmFhSDh6bXFycGhndEdfNHhSOEZyQzBNNHRRX1NZdWhjMlA0MXVURk13aDJxUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
-   "source": "BBC",
-   "time": "2026-11-09T14:50:35Z",
-   "link": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Iran stands by demands to end the war as US ramps up military pressure",
-   "source": "Al Jazeera",
-   "time": "2026-11-09T14:45:01Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTkgtZG1NRldabldXcTZyQ2ZCMjRVVERlVW1ralBFRUdDSUJSTm43X0lWRzVTUGZ3akZqVkl2c2ttR3VnQVNlc0lhU24yY01DM25jTWdwY3NBMzl1NkhOTlNZSnBKcFk5X212QjJXc1RSemQ4NVUtSGhxc0JvQWpGU0xhdVJxcGxFaFFkbzZGalpabDNsMzhpOU1jdVhHazh3MmhVOTdSRVlWZW5kYXBuddIBtgFBVV95cUxOWjNoNFZsbXJob0phMTUzYWt1Q1FONkdmeGRDZV8xcUJfNXZxQm9PaExVMFY3U2M4QWFJdEV0dHd3OXpSY0Z6WXcySFp0ZldFaWRDTmxXSTJNRFE3LU13c3VBTk02djRxZUM2Z2pvTUFRbmxmTEpXM1VUUTJPenlqLWFRZ09MTTI1ZUlGS3pPS3Flajhua1poeXMtN01ENmdNQ2FsMDJzVWNfSzBXalJmenpDRzZBQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russia and Ukraine batter each other with long-range strikes a day before US-brokered talks",
-   "source": "AP News",
-   "time": "2026-11-09T14:39:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzJmdDczN2hxRVpiY0V5UzZWZlFBR3oxaUlhWW96SzNvUEcxd3Q5clI3M1FXUTZqMkF5dmpZV29xdjFZV1hBNDZpeXVwalQ4X1lISlZGY1lIWVZ2UXpYUUExQXl0aVlZazNycEFHQ25xclZiNHQyOW5nWlFoYlFPU3VyeTZwa0hPUkNMeTJ5ck9UVk95?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Midterm Voters Disapproved Of Trump’s Tariffs And Immigration Policies",
-   "source": "Forbes",
-   "time": "2026-11-09T14:32:10Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHowVm5MaWdLbnZhbVJmb0o3Rk5MSzNDZXN0bU1BTWpkMGJaTWU5aFpGRGFteEtudmU5YXN1VzNoRGI4MnRzVmRpMUlDRkRzUTk1eHpEckIzWkl0RkVOczhmc1dfc191S1ZDYlZmX2lzenlibF90TEtsQVd1NHNQcW01WjRwYXR0aUNOdjF1bW55allXN2pNRTdQblhrQTR2bTNJNEFYbDdZLUR1NWdSWmdqQTNhWmo3UWZMWjBmVUo0ZjQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "‘No concession’: What to expect from Russia-US-Ukraine talks in Abu Dhabi",
-   "source": "Al Jazeera",
-   "time": "2026-11-09T14:26:59Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMGpMMy0ySU5GNjNUWDlJazZZR0VvcndtSnN2X0pCYUJjNXhxTkp0NVRrUlhITnNUbmZaVE91SGgteF9yd0lVdFgtRXFtdUE5NTlqbnZhY250dHFRbmt3MDhHbjZiVEFkcXFndHVRZk9kMGN0NldtT3NVcjQ4VEY2RGZkRElzNkR0R0hDVUUycW4zUW5IbGZZQ1hJTXdQUnppRXJaNmhRV1VsWERlX3NCVdIBtgFBVV95cUxOeTV3SnkxbDBiQnRKT2Zyd1lwOFpDcE5OdWJuczR1eUsyTjdEU1l6cnFzc3FDUXVkZktUS0FKeXJiU0xFVk8xRUVaUzJWR2xSbWJOeEJFUFphbGh1SVl5SkNhZW0wcjJlVTIwc2MwTU5kdjdJcWlkWTVmRU1GUzc5VkY1UFMya0pkQ0xVbDJGN3U0TkFDQkRjM1h3MWdyZXNkUDR0SFNNcl96Y2VReUJBQkgxYVJTdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "More than 100,000 sign petition for inquiry into UK role in Gaza genocide",
-   "source": "Al Jazeera",
-   "time": "2026-11-09T14:24:51Z",
-   "link": "https://www.aljazeera.com/news/2026/11/9/more-than-100000-sign-petition-for-inquiry-into-uk-role-in-gaza-genocide?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold SWOT: Central bank gold buying remains strong in 2026",
-   "source": "Kitco",
-   "time": "2026-11-09T14:12:27Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUsxVTBXQzNxLTE5V05PMGpBdTU0VmhHQjhXUTdUWjlBcDlwQUxrTWJFVVZNN0F4NTNWOVlvWVJZZXcyeUxFb2xmYml6eHRfaTlGb0dJcFYySUR4QmxRTGM2Y2xFU1lRaENONHNPejUycHVYUEF3YU11LW4taU1QNkwzR3lNNHZjZVM1Y0gxdHdSZl9LeUo2eEJpdw?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "CENTRAL_BANK",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Fractal Gaming : Extended Section 301 Tariff Exemption for Computer Cases in the U.S.",
-   "source": "www.marketscreener.com",
-   "time": "2026-11-09T14:02:06Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc19ZZndvQlZQTWhPdHpJcEE1MzJiaE5hd2NwNWI0ZUNRZEQ1aVhWOEJOM3k2Ylhjb2ZUYjBFNFBPVnRZamwtaEl2bHJLVHdROVZuaVBfd29zTHd5MVM3clk4ZjBMRUpQQjF3SFpEbUp3S2U2d3J2eE1hSjV1WG1TN1M3dlNGamxYdm1VaVRCOHJWQkZMb3A3V1lEYU5HQUEzVWVJbmlaU1lkanJibTlldk5IemdoOGdLc3hGZUZ1RTdIWWxEQi1CVlpwTkRqeGM3?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Can Xi Jinping and Vladimir Putin give Donald Trump the Iran exit he needs?",
-   "source": "South China Morning Post",
-   "time": "2026-11-09T14:00:06Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWTU2Nm5fSXluekdmeHdxZ2xhV3pHaDlkRVJRb1R1SzVxelNhVXNuaThOeWU0bGNwYlp6NERIY2lnQ01xVGo3bG1mdHZzY2N2MHVVcVdzZXhlbkdfQWw1YXZGQmZ2V0pSMGt1eTVYaGZYUEFlcFNWRFVlcl9LeUY4VDJPdV9FWHlrTG9YeTdtU250VEVkY2doSUFocWdKT2tZbHlFYmVjeEVmSkU0dU9hSjNIRjJhb3NNc2lHZS1NS2Y0SFlsamtz0gHHAUFVX3lxTE9kd1lzVUl3VGRXMEJXbTBKOC1MaFZaR2k3TV80RFg1MFA5RjdJa0lNdmtJYVlEV3o5NE40LUVuUWRKb090NWM5d1VVczd6YlpuTEJIMzBSekpCTTdzeV95bU5LcElKbFVsekhQZ0lPNl80VEkySDdabWUwS2dQcE1yQXRTNWNHSGNLVE5tbGJIMHJzdUZnVnBkbjZVQUFyTTdjOWE0RXZnUG5zOHFxTFRrN29ROUsxVFZjUXFBa2VKczh1V2VrbVE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
   }
  ],
  "fedCalendar": [
-  {
-   "title": "Discussion - Vice Chair for Supervision Michelle W. Bowman",
-   "time": "2026-11-09T08:40:00-05:00",
-   "impact": "Medium",
-   "kind": "SPEECH",
-   "src": "fed"
-  },
   {
    "title": "Speech - Governor Christopher J. Waller",
    "time": "2026-11-10T04:00:00-05:00",
