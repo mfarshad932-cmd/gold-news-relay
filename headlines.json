@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T12:59:56Z",
+ "generatedAt": "2026-11-10T13:28:17Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 11
+   "kept": 10
   },
   "bbc_business": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 30,
+   "items": 31,
    "kept": 9
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 25,
+   "items": 22,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 23,
+   "items": 22,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,13 +96,13 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 37,
+   "items": 41,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 9,
+   "kept": 9
   },
   "gn_yields": {
    "http": 200,
@@ -126,12 +126,39 @@
  },
  "items": [
   {
+   "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
+   "source": "CNBC",
+   "time": "2026-11-10T13:24:11Z",
+   "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
+   "source": "CNBC",
+   "time": "2026-11-10T13:24:05Z",
+   "link": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
    "title": "S&P 500 futures are little changed as traders brace for crucial consumer inflation report: Live updates",
    "source": "CNBC",
-   "time": "2026-11-10T12:56:00Z",
+   "time": "2026-11-10T13:16:10Z",
    "link": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
    "tags": [
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Iran lifts 2,000km limit on its ballistic missiles: What that means",
+   "source": "Al Jazeera",
+   "time": "2026-11-10T12:56:41Z",
+   "link": "https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -143,6 +170,35 @@
     "FED",
     "RATES",
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Poll shows most Americans want US-Iran war to end",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-10T12:40:40Z",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jWC1XQnhtdF9kUFdTcFo4a1RPR01fckc3eFpMZ1FKbl82dDJUWlJ4NVRnMkNkZmFqdnUzTnhod1Y3VWNOYVhfV2NySWpYNlAyVUZfVVREWEF6MjNOeU5R?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "investingLive European news wrap: Fed's Waller floats case for 50 bps hike in December",
+   "source": "ForexLive",
+   "time": "2026-11-10T12:39:32Z",
+   "link": "https://investinglive.com/news/investinglive-european-news-wrap-fed-s-waller-floats-case-for-50-bps-hike-in-december/",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "First Thing: Oil price relief as Trump says US war on Iran ‘ending fairly soon’",
+   "source": "The Guardian",
+   "time": "2026-11-10T12:39:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWRuMnJLWDducThsUU1nZTMydzQxamhDZWgzRi1qQ1BGZE9XZW9NVjRiTTJIMzlQRklseXdxbEtNS3NMem90UHVfTlB2aXdRRng2OWF3TTZxbmVJY25pbE1peDZtWVRlY3plSWhTTHRONURPYXhTTWhlckhLZmNNR0dnTnRuTTdoQnU3djhsYUtqQngteWlvcWlMUlZ4RVo4cXU0blZZRDUybVVWc1FRSnFtQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -179,6 +235,16 @@
    "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Oil sinks to $90 a barrel as war talks drive optimism",
+   "source": "Yahoo Finance",
+   "time": "2026-11-10T12:24:57Z",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS1VyWU92MkFPTElLYUxrdEs0NTdfN3hZSkQ5eFNpd0VDM2VZTk9zbmIyZHc4dVBLdXVMQzBza3gxNGRWd19CZGpRRERJNGcwdmNvUkZDVmRnekFZb1NPRkRiTi02YUJhLTVqUjZuUkV0ZFNoLUFCWkJYekw4MGx5Y3kzLVo0VjQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -247,15 +313,6 @@
    ]
   },
   {
-   "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
-   "source": "CNBC",
-   "time": "2026-11-10T12:00:01Z",
-   "link": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
    "title": "War in Iran 'ending fairly soon', says Trump – video",
    "source": "The Guardian",
    "time": "2026-11-10T12:00:00Z",
@@ -319,16 +376,6 @@
    "tags": [
     "FED",
     "RATES"
-   ]
-  },
-  {
-   "title": "First Thing: Oil price relief as Trump says US war on Iran ‘ending fairly soon’",
-   "source": "The Guardian",
-   "time": "2026-11-10T11:37:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWRuMnJLWDducThsUU1nZTMydzQxamhDZWgzRi1qQ1BGZE9XZW9NVjRiTTJIMzlQRklseXdxbEtNS3NMem90UHVfTlB2aXdRRng2OWF3TTZxbmVJY25pbE1peDZtWVRlY3plSWhTTHRONURPYXhTTWhlckhLZmNNR0dnTnRuTTdoQnU3djhsYUtqQngteWlvcWlMUlZ4RVo4cXU0blZZRDUybVVWc1FRSnFtQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
    ]
   },
   {
@@ -646,51 +693,6 @@
    "tags": [
     "FED",
     "RATES"
-   ]
-  },
-  {
-   "title": "Why Gold Miners Rose on Yellow Metal’s Down Day",
-   "source": "Investing.com",
-   "time": "2026-11-10T09:43:39Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaUlORHVDdVZCX1JkU2N1YXZiNE9mNWZIRWFQRGN4OUtJYngtVE5rdm02UkxnY2FhX3ZCYjNUYk0wYXhuU3VpUmhjc0NYU0lHa0RQN3hoWkc3OGE4T2gzTzEzWWtERURULWxQYUQwNllhQ2FGZ1M0Q0tCTDgwSlJsMmZqd0ZIbHJhWTFuemIydkZDLVIwWEE?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Nvidia spy scandal fuels debate over chip exports to China",
-   "source": "Al Jazeera",
-   "time": "2026-11-10T09:42:04Z",
-   "link": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Trump says more US attacks on Iran 'highly unlikely'",
-   "source": "BBC",
-   "time": "2026-11-10T09:40:31Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine",
-   "source": "NPR",
-   "time": "2026-11-10T09:38:34Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMzZ0RHFBeDNtaUhHWXgyeTE5Xzk3VWZPdTV2OVRUQzJrNTJiZXJlcU5hSXpaeER1dExaejkyMnpFODZweEczZWJqOGdkRHVBb1F4TzljSkhTZHFDSjMzSmw1T2swYU5uTGhPSmt1d1p2TUVzWFlPYUthMHlQUV92dkVlZ1JaZUlpWHpUbF9tNVVJZ3pxejBqRkpsa1BrWjJ5bHNId09iWXlkQzRTdTQtMVhmQWRPWUdvVjRmUw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "After midterm losses, Trump sends mixed messaging about next steps in war with Iran",
-   "source": "NPR",
-   "time": "2026-11-10T09:37:35Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV3BRSlZCbXJ6RmsxMFBzd2NjVDZ2b0xsbGFmUmFBV1A1Ym1fZFYwQTJzb0hsWlU3QTBRVzZfYnVCanBMRnB1bGd1TFRDdTFIZDRNeGZuTXl3R1dkODVJOXRoT1B6YVZzRnhMVk9tZWFfUjY1YmdoYkU5ek5ESXZTY0xvTnpWcE4xQmswQWR2M2JNVTVMUmZ2Wk52MUlkY0xlWUFhM3RCWVR3bnQ5c0JBdk9DdGV4ZzVEUVlhM3VBb0RMWV81RWc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
