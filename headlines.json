@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T13:28:17Z",
+ "generatedAt": "2026-11-10T13:56:37Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,26 +47,26 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 4
+   "kept": 6
   },
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 3
+   "kept": 2
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 10
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
    "items": 47,
-   "kept": 5
+   "kept": 6
   },
   "bbc_world": {
    "http": 200,
-   "items": 31,
+   "items": 32,
    "kept": 9
   },
   "aljazeera": {
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 22,
+   "items": 25,
    "kept": 12
   },
   "gn_fed": {
@@ -91,18 +91,18 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 23,
+   "items": 25,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 41,
+   "items": 43,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 11,
+   "kept": 11
   },
   "gn_yields": {
    "http": 200,
@@ -126,10 +126,159 @@
  },
  "items": [
   {
+   "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+   "source": "CNBC",
+   "time": "2026-11-10T13:56:04Z",
+   "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Treasury yields climb across the curve after the latest inflation print",
+   "source": "Seeking Alpha",
+   "time": "2026-11-10T13:51:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1c1bnE4QlNVdnptemVmRXdNeGdzdGNVME1LLUJ5dEREVW52dDJxMmlLQlJoMVM1VXhZUmNLUDdTSDVXT3Z5d2d3NUZOaXFicm5FczhsOW5xVmVqTUZVZW5VVFhpRHdHVzBMNDB1ZEs2X2VpTlpyMmtJODZZRWJmd0xVUXVicnBlS3ltcDhocUE4TEl3MjkzelhUTDBBWVBuamxrOU5TQkQ2clNBY0E?oc=5",
+   "tags": [
+    "YIELDS",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Iran rejects French claims it was behind supermarket fridge hacking",
+   "source": "BBC",
+   "time": "2026-11-10T13:45:13Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
    "source": "CNBC",
-   "time": "2026-11-10T13:24:11Z",
+   "time": "2026-11-10T13:44:10Z",
    "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
+   "source": "CNBC",
+   "time": "2026-11-10T13:43:38Z",
+   "link": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "New regulation for heating oil market, but no price controls",
+   "source": "BBC",
+   "time": "2026-11-10T13:42:29Z",
+   "link": "https://www.bbc.co.uk/news/articles/cv70p0d3d686o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "On Holdings' shares undermined by tariff-inflated margins; unchanged FY sales outlook (ONON:NYSE)",
+   "source": "Seeking Alpha",
+   "time": "2026-11-10T13:42:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdXNsaHFOQzJYLUo2cVp4ZXNlbDZKbzFPMFA4MVI1QWdOVUp2Q0w5M0QtMmRXUUV1UDlucDV6bUpqUnk4ekc1anJCSDhpTDJSMWo3S1FrdFEyV3RfRXR5NGtwWjNMcG5qZW84S0tBX1ZqdlJieDNBOGxxMmZodTJvbjI1VUt6b0VFcjc4cjlnaVBfTnVGZVdMelE2QWMzS25nYUQxX1c0ZGZRa0FXaTVNMF9yNGRYdV9qNFIyMmJB?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "China panel chair Moolenaar demands answers on Nvidia CEO's alleged affair with a Chinese spy",
+   "source": "CNBC",
+   "time": "2026-11-10T13:41:57Z",
+   "link": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Fed’s Waller puts half-point rate hike into the mix for December",
+   "source": "MarketWatch",
+   "time": "2026-11-10T13:41:00Z",
+   "link": "https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "Poland’s lower house backs sanctions bill covering crypto freezes",
+   "source": "TradingView",
+   "time": "2026-11-10T13:40:39Z",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLU5oQ2RNeThVU3BGSE5wZHROeWRQYTZxMDN1NDlJNzJlTUFod21QS1laakZndzFhTWRRQnZGaEh1MWNzbUFWOVcwQVJ0NzFrM2puVGlPN3hQS21Ub2E4T2VCWTJBajNOS1YwZ1hpcVRzeVRtY24zY0lSSV9zTEZOaTQxa1kxelRoU2pkQ0EzT2lGV05mUFMzcGtCc1NRUTQ4YnVxWFowWGx5YmdJTjVmQ3lSMVZzY1Fjand0Xy1IT0ZnRDZDNmIzWQ?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Attacks escalate between Saudi-led forces and Yemen’s Iran-backed Houthis",
+   "source": "Al Jazeera",
+   "time": "2026-11-10T13:39:22Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/attacks-escalate-between-saudi-led-forces-and-yemens-iran-backed-houthis?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S. consumer prices rise 0.4% month-over-month in October",
+   "source": "Investing.com",
+   "time": "2026-11-10T13:34:42Z",
+   "link": "https://www.investing.com/news/economic-indicators/us-consumer-prices-rise-04-monthovermonth-in-october-5015577",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "U.S. CPI Rises Moderately, Exceeding Forecasts but Below Previous Levels",
+   "source": "Investing.com",
+   "time": "2026-11-10T13:32:10Z",
+   "link": "https://www.investing.com/news/economic-indicators/us-cpi-rises-moderately-exceeding-forecasts-but-below-previous-levels-93CH-5015550",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Hegseth defends his record, Iran war as impeachment vote looms",
+   "source": "The Washington Post",
+   "time": "2026-11-10T13:31:55Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdHJadVdURVZBN1VwelMtYTQ2XzFxekpzTFdhTDR2Q3lkNDE2bV9IUmpWZW9KTy1KQ25PWUhGQWszRXN3WmNLdl8zcGUtbEM5Tk10OXlFbUlCMTM1bURjVFdpbzJXNlBXd3NVYy1tanExMXZsREtFZGNob1JTWC00eTJnR3F6MTRHbldFMU12WVNZc1RrclBPQXlrcUNyTkt5U0VZblZ3QUVlMndzT04waG0xN2szS2Uzbms0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold prices down 2% on the day as US CPI rises more than expected",
+   "source": "Kitco",
+   "time": "2026-11-10T13:30:46Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOV9mS1BKa1d2YmFyNkpBcmVzdzQwbF82bFh5RjRZSVcyeDZ0V1QyQ0xiSUY4SW9pQUZfbkpaWW1wbkVfb3pWcEY5bzFiX29VenI1X2hiQk02V00zSElkS015bDVxWkNJX3dFbjlMNWJVdVNMeGNzSWFlRFdlYzVqQ2Z0MHcybG1CUExJR3dOLVQ1Vm44ZExPWFBlYw?oc=5",
+   "tags": [
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Before Xi and Trump’s Apec meeting, what’s on hold – and what’s on the table?",
+   "source": "South China Morning Post",
+   "time": "2026-11-10T13:30:08Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMThHY2d6azhzRlJNUDZWZGVYUmJpbFpma1BzaHdnUDY3d0pZVWZLZEVaUm5NdVlLRUNuQ3N1UmlNaDZoR0huT2oxN0szOGotZE1MUGc2OGt0SjhhZDdnQXpwM2tST0ZiUjE5QWdmOUxoZlA2aGhkcC0tU1dJdDE4Sm9HWHY1YVBZWFVUR2RSVGNRMTB1Y0VLOVdGVmo4TGg0ZWFlNTVXM2xUbzA0aHZQb1N30gGyAUFVX3lxTE04ZFVFY1Z5S0xBWlpnaEVqVXEwbWxnSnphRmRfemNfZ1NpR2xlTDJBZWZPSjdPVmI5ZDNPSjZuV1VtT0txOFFkZnRJaHNyMUQ0XzZLMHR1Vk5LODYxUFM5UTRsOXo1YTRoZkxpcTN6NThkemZIaW1VOG9RQnVCSWZzTnNYTURqT3gyZkRLUFJkb0JvcFFtMFVmTktwY2swRm1GdzdUS0dCTnRFQTRjbmlpTGc?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Scoop: El Salvador blasts U.S. State Dept. over Haiti gang war",
+   "source": "Axios",
+   "time": "2026-11-10T13:27:35Z",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YdUhXT0Npekk4YjIwS2E4cGxSZmpLd0ZuQWxjNzNmb25hVks3QWxLSE5jUWtyZzM1cWxWamFHRHUxVVNzeHlwVFRJRmlxNmVBWWNwVWJ6c3FtemdlNHFvU1ozRldRdjE5UGZ6S0ozTi1sRTBVOGhjSlptZFRxUQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -144,12 +293,51 @@
    ]
   },
   {
+   "title": "Hegseth dismisses impeachment effort as 'political spectacle'",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-11-10T13:17:01Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmt3eGdDMWZDTmxsWDBCLXhBMnZDNUJfLWhRdl9UQ0R1RzdJbW16UlVGRWRyNzBFVnJuMHcwdHdiNEl6RDZRVFRaTE5sdktPalg5a1dEbURoTGlqMm45N3oyUkM3bnZUb2ZsY3FoeXV6Z0xzS1RZTlNwRS1GWlRFSFhySWJnOVZycDVMeGtkbkpZVUVJbXV4d19PS0ZyRDDSAaQBQVVfeXFMUHUzX3ZXYzhYYWpuNFlEMi1MUTVzOXhvaFVqUkVaUmZCaElUcFN6RC1kekU4d3gwdm9nSDdsUGp6Z0gyaHpadjdBUjU5Y2p1WUhjRHNrc0tVNkszZFlGTmwzWVM1Q1JMWTNXamJITk9nY0pFd3p1SzN0cm9FYWNUNU41U3BYcFl3SnFUTXZGVHRUOHBtWG10Xy1TMlBDbUtKQ183YnU?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "S&P 500 futures are little changed as traders brace for crucial consumer inflation report: Live updates",
    "source": "CNBC",
    "time": "2026-11-10T13:16:10Z",
    "link": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
    "tags": [
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll",
+   "source": "Reuters",
+   "time": "2026-11-10T13:14:14Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaGgwYzFvYzY1cndpc3FZRGZjLXRQTFp0WlktcmQwS2d6T1VhVVRBWkdpclUxd3Bvd1A4bWZOendzNXdhdmdtTnJ6S3AxMVNJN0hUbnRDZEF0NHE5QWtOZFUxc2JuZm1qbklMRjBtb2xmWlVSWVdNckxNSFQ3cnZLeC1KU1lrb2lBTFNKN2J1Uy1OYmRSczRoQmZsZlBtaHZPYzdnM1NSZTR5ODdsbEVV?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Canada Signs New Deals With China After Trump Drops Trade Demand",
+   "source": "Newsweek",
+   "time": "2026-11-10T13:03:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS3pQMVV1M2ZfcjF4OExma2lteTJDMkF3ZzdNZXdPY21KMHVpYklwb2RJcFhoTVJBZ0ppd1NTVm5oMHhZd1dMOXZ1bUZRZ2hCRVN4ejRoUmdLYjJkVVJaaVc0TWRmYUg3ekl3WE1lSEY3UmJldXppLVg0YkI3YTVXakVVNDM0WHlPcFp3?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "U.S., Russia and Ukraine begin talks in Abu Dhabi aimed at ending war in Ukraine",
+   "source": "CBS News",
+   "time": "2026-11-10T13:01:14Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0FBdDVsTGpNTFhrMXd4amFHczlHMEdINnhILTZJXzZFcjNqaXJ6emhyZjJaLVJPdkFIcEtxVURnaVd5cnZzQ2FmaG5nazlOYlkwT1pRaGRNSWhpN0NHZVZtU1M0RkIybklHdDRwYlRqZHZmRmtCSm9RbUdFV1BlMnJ1M3U?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -162,14 +350,12 @@
    ]
   },
   {
-   "title": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll",
-   "source": "Reuters",
-   "time": "2026-11-10T12:47:42Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaGgwYzFvYzY1cndpc3FZRGZjLXRQTFp0WlktcmQwS2d6T1VhVVRBWkdpclUxd3Bvd1A4bWZOendzNXdhdmdtTnJ6S3AxMVNJN0hUbnRDZEF0NHE5QWtOZFUxc2JuZm1qbklMRjBtb2xmWlVSWVdNckxNSFQ3cnZLeC1KU1lrb2lBTFNKN2J1Uy1OYmRSczRoQmZsZlBtaHZPYzdnM1NSZTR5ODdsbEVV?oc=5",
+   "title": "Seven days of chaos in the ER: How this country's healthcare system is unraveling",
+   "source": "NPR",
+   "time": "2026-11-10T12:48:48Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMmFoX1h5TUFBaVFMVnJ4VkpKOTA1Mzc2U3dORFdENEJ0WlIwSzdvNE1uTVNLa2REeDM2U05HZ0RNX0pLWFVJMzNzVEhBU2x1Z292TlRHWHB1SGZIWU90bjJuWG5PQ0F2dy04Qkx5SzQxaTFBbVB1emRXRVZiZEYzY3p0YXJxLXM2ekVoYjVCUQ?oc=5",
    "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
+    "GEOPOLITICS"
    ]
   },
   {
@@ -248,6 +434,15 @@
    ]
   },
   {
+   "title": "Hegseth to hold Pentagon briefing amid renewed impeachment bid, Iran conflict",
+   "source": "CBS News",
+   "time": "2026-11-10T12:23:13Z",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQjUxVmdLNThwXzRad1lva0JJTHIydWkyWkVxeVFWZV9aa1A4Nnh2ejJEZVQ0elc3U1NXQzJmUGRvYWUyY09HLW5sYnZnQ0xFZEtCY1JsbU1sc1lJcVFocHp3dWQzcm50Yk9oSGhNemMzVS1OVGN2V1Nya1RIdVJDek13?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Gold price today, Tuesday, November 10, 2026: Gold opens above $4,100 for the first time in three weeks",
    "source": "Yahoo Finance",
    "time": "2026-11-10T12:17:34Z",
@@ -269,7 +464,7 @@
   {
    "title": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
    "source": "Al Jazeera",
-   "time": "2026-11-10T12:11:15Z",
+   "time": "2026-11-10T12:15:35Z",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXlwbjdrUEdjam1KLW5ZU2lnaTNqdW50aWtBTkVhclZhUWpQYkpmRnlZQkZ3T0pxcUN3cnItTVBoeXNmOFMtVXFaSVBtcjZtTDZVSTZBaWR3MDltUlFpRFJqMTNRMmdQQWotVExsOW9qY01sWk1nYjZfbUlTeHgzb2pxNXV6ZkxYMnlsb1NSUUV5Q0o0Z3NfSXVUWUU3YUNBdHEtRnpvU0x3QnQtMl9QcHdMbzTSAboBQVVfeXFMTVJvNG0zczc4NEIxQndKRHZiRDFhazBsUUFWRWlMM21DR216MXN2SUc4UzhIWDBhbWZRQ1JwYnRWWnlHOGxTS01zckpyNGNzU0J2NV9JYzZ1M2hZalRSd04wX1NyZi1qRWRPdTZXdWh5UmhHU19kOGRibE9idWNsRTBIT2s1a3N4RHVfTlhiSVQ0UnQtMF9DcnMtSGpkQmd3TVE1UFhzTDhjazdUMkRlNlZWbVBIWHVEd2FB?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -486,213 +681,6 @@
    "link": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "CPI Report Today: Fed’s Waller Says 50-Basis-Point Rate Hike ‘Should Be Considered’ If Core Inflation Remains Elevated",
-   "source": "TradingView",
-   "time": "2026-11-10T10:48:30Z",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPX0Y1WmxiTGJ4bzJOYXgzckx1UE93aHltU0pUSG81RW1Yd216azJQdEVQbGh4ZUhvUnluZmRrTmt0bXNjVTNtQW9Yc3dRMFppVWQ2aE9reXRfdWgwUnY5aWZodmk5Zm5wVU4xMmNxWVJaY05sc3prTmdmbC1QVGFQT0xGZDJWNTgxVjIzZmExV3hPLWZmYk9YWURfVDh2RVJhOUZsLU9QUktDN2toajNYcmFldERXYS1tcXotM2NvWW1ZU1ppTHdFVE1Vazl1OE9NVGU1YXFFTmttX3NSTzNHamxya245QnFiekU3TmdBWU9Jd2VvQ2VRbmhpYndmZ0lqc2hZelN3TQ?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Canada reimposes sanctions on 11 Iranian entities for contributing to nuclear activities",
-   "source": "Reuters",
-   "time": "2026-11-10T10:46:57Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUZmREVMbUtQd1F6bVdxUUNDSWx1bThmbXBERGNOSk9JVG9JMVlYNkRvRW5BdVkydEVZQmROcXBVMUptMGUwYmZYQXhtTUpkTmJYQkFUWG41bVBESldpd2ZyWlpJMFNHLTQ5bjIwZEpIWUVVcmhxRVl5Z3QxNEl5SDd2XzJGaGVPRTFIb3ZiN19Kb2hCUEtuenBNbTJMdmhSTXc2a2w2V1FFcktPX1kxR1hreWxKaGFZaUdQZQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Treasury Yields Turn Higher on Fed’s Waller Comments; Eurozone Bond Yields Fall",
-   "source": "WSJ",
-   "time": "2026-11-10T10:40:11Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0tnS0Z3WEZsbnlFMG8xUXBhNlZjNllnVmhQTGRybWdQQThyMnk2b19EZlc0OWZXQjZjUl9XTlAxbmpSc2RCSG1zZzdIc0dIWUJ2TDBsQWZhTXNVd3JpY3BLSnFUdUc4VXBwZlVId0FIYVdIU2lBQ0tTRWtPX2ZpZjZ4U3kzM1FGQVUxV3RkbmM0Rm9mTFlfWVgwM1Jjd25sd0RBa0Npaw?oc=5",
-   "tags": [
-    "FED",
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Brent crude falls below $90 for first time since August on Iran war de-escalation hopes",
-   "source": "CNBC",
-   "time": "2026-11-10T10:38:49Z",
-   "link": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Treasury yields edge higher as traders await CPI inflation data",
-   "source": "CNBC",
-   "time": "2026-11-10T10:25:50Z",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00TGg2Rk5HQzViV3NxTHZvREFib0dkOURuR3VIUHZJbjZHWTRzOERZelY0WVZlcVZSNGhCS094UTJDXzM2b3NLeVFSMG5jckhkMndFeG9pc0VvM0JnTUsxN2pTckFuQ3NTMTNZWnQ2MA?oc=5",
-   "tags": [
-    "YIELDS",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
-   "source": "CNBC",
-   "time": "2026-11-10T10:24:13Z",
-   "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Inflation Data to Test Limits of Treasury Rally After Haven Bid",
-   "source": "Bloomberg.com",
-   "time": "2026-11-10T10:22:55Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObGdKazB3cGVKLUR0VG45X1hQNEpxeVdwaVdUNEdSUl96YnlaQzRuSVgxa2F6NVE2dHU3SmRpOG5xNHdhT2pKS3RSOTdsbGxGYlVWMmxXQm9EUC1YQ1VudlVYeG5pLUJKbnRiczJDRVg2TXlJQlh0OE81dVNDLW1jdU1vT2tMZGRzV1VOeHR6TlVSbEFBTGNBMjh4Z2Zlc3VUei11SFkxcjI3U2EzS0llOEl1SnE?oc=5",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Scoop: El Salvador blasts U.S. State Dept. over Haiti gang war",
-   "source": "Axios",
-   "time": "2026-11-10T10:21:38Z",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YdUhXT0Npekk4YjIwS2E4cGxSZmpLd0ZuQWxjNzNmb25hVks3QWxLSE5jUWtyZzM1cWxWamFHRHUxVVNzeHlwVFRJRmlxNmVBWWNwVWJ6c3FtemdlNHFvU1ozRldRdjE5UGZ6S0ozTi1sRTBVOGhjSlptZFRxUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Retreats From Recent Gains as US Inflation Report and Fed Rate Outlook Take Centre Stage",
-   "source": "Yahoo Finance UK",
-   "time": "2026-11-10T10:17:01Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRkFlUzBtNmFhTWgzWkxnWXNKVWRQVXlvYlVMUDRVaHhYV1NxVVFxOUI4czNzWjVpWUJfd3JJVklLZXBDZTEtYkVFM3NpQjd0YldyUnlZbTVNd0pBaUMyXy1xa18wOHhzakQ1WXI1LTZOS0UzMU1xdVY3Wk16ZEZQMENSS2s?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "TREASURIES-US Treasury yields rise as Fed's Waller presses rate hike case",
-   "source": "marketscreener.com",
-   "time": "2026-11-10T10:12:04Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSlJjQU9VZEVBaGNEcThhV2xIUjZXUGp2MHJEQ2tnT01CSnRhQWEySzYtTTZBYmcxcjl4b0lVVjF6TXZIa3g3LVlGYkR6bVZXUk5COWhTdk11Sk9EN05MQ0VyWTRtMW1MSFY5S2JyLXlXaEpZdE9wWERJQmgzMUM4ZDJ1YXlkMGNTRi02VmQ0NWlFWmhaN0FoM3B4c09mZjVIbVhIWmp2bXBOZUhxVWZ3Yk54c2ZIMG90WDF2NHZPeWdPSmNO?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "US Treasury yields rise as Fed's Waller presses rate hike case",
-   "source": "TradingView",
-   "time": "2026-11-10T10:10:58Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT1MwQ3hsUGdGNEliN1ZJTWpFRUNoZTgwM3RlQUhHU3hTUU92aGN5b3pRZE5RR1RYN1JEOGtNM2hEQkY2N3JMbTYyX3EtZHdKd2JiX2ZiM3pqbE1PSGEwNDQtVEllZFhsc2E5V09FN0o4OU5PZWRHNTdWSGFGOFJFbGM3cE1DYjR5QVNGWEM2OERKd2s4cVVSeHN4cjd6WjEzOGFVQkw2Zkwwc0c4M1RTamhGeG5rR1FycG1jc09UZUo2ZFlubjdIbGIyTUY?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
-   "source": "TradingView",
-   "time": "2026-11-10T10:08:22Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWXVkOWQtaDVKZGFMRFlaREI4OE5zU3F0dnpDUTdTcUFuLUo4WjVWbzdqRlJqWFZLU1JpZ2dGTUFEQjBzaVc5OUJaNnFXdm9hcDFUTFR0M2FUb0dBYkt3QndPVHBxUzhEMUNhdFY1SzNNWjFwa2JKUWNTSlFpMDZHNGlLSDB2dHJMSmJ3dDlCbnBCWm1rTVhnYUdIaGg3bG9GZW9NTzd2UkljZmtNWmNlT2k5MXJnbVVQSHpMWEFfd0tJMVdsRXZkRmNZOGx0RURF?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Majority of Americans disapprove of how Trump is handling tariffs: ABC/Post/Ipsos poll",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-10T10:07:35Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRkMzY1Y1VTFIRFpldFV5RnctWEZDdnNsemQzUGtvWi1sMEFQZThtYzZvNDRBZk84WkFMQThubmx6aUwycWRsTDI2Zk5MbHRCV3JQUXBCSC0xQTBuMXFRTVVXSWVfQUcxZzQ1LWxvUWNNQmFyQ2ZsNmhnT0FZWmQyajNDOTdRT1lGRXRFWlJERVJiZXl2cHhwLWxZdFp3UFB3NnVnaDc5aWZxbGg3QmxMeUJkNGM0TllBSlE?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Could US Marines sustain a war with China? Officers warn of Pacific weaknesses",
-   "source": "South China Morning Post",
-   "time": "2026-11-10T10:00:11Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSllldmlyWGo1NnBXNUxmU3BVOXAwWm04dTBIV1Fzcm1OUFFtQ3JEajgxaGhTR295bHZPNElMSjU3Wl9mZFFVMnBXZlNlVFJqVjJ0Nk03WmM4ekstNjNadWNlZnV4TVpRMnZkamo0WUhraHpkSzJ3Rmc5dzJ4Q2VYR0U4RGIwTnJDYXhWV1U3S0Q0MW9jR2Y5SHhyTTl3NzJhSTFtWWdGZGFUcUFWMTBuRVpDeFVmMmdocFJ5djI2NTNqUdIBwgFBVV95cUxPQmxtSDRqRkVMcTFGa3diTmp3akExSlotUU5fanM0WlNCSUphNTdKUUZoZ2FUNHM3U0ptNnhZaHZLV1hLVDRsdWV1VlZTU015WVU2dkQ0RE1fdkdpMzhwbzJXS0dQMkVwbjJxNWpONkZvVG9tOU5Bc3lIRVZRdFNGRUxtV2xwc19HX1dXWmJ2aHBPSnlwd2hMcWp0NmpiZE5ybkJ4cGhjelJKMUk2VTlXLUtKSnhqQ2FkT0NiTmRKTTB1QQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "On Holding Outlook FY Gross Profit Margin About 67.5%, Or About 66% Excluding US Tariff Refunds",
-   "source": "TradingView",
-   "time": "2026-11-10T10:00:08Z",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSVpOcU5BWGM4cC1VYkRVNUkzRHFvQkgtcEp4ZGJ3WllSWnZmM0ZqSmVrVXFUb2N3aHBGS0hxNjdlM0pCZ1g0S05PaXlMYmVqMjJwQlg4ZHdmZ3djLVFLM2ZISU4xY1VUOWhsdmFvSUgtOXg0SWZhTDUxcnZ3LXVNb2QtQlJVSWphNnRvUG4yWEJUaHBlWjF1ZEU5ZEVfRS1NdUFFWjJlNFM0VTdkdTlGTjZlQ0xHalRlaGdMYU1rRDhIYmRReEEwd3UyaVV4V2R6Sk1fTk96WTNlcEFISkFyWFh6aDNma0hodkZ2ZzYtaWZvcjY4?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump’s Iran Quagmire Helps Set Stage for the Next Great War in Africa",
-   "source": "Newsweek",
-   "time": "2026-11-10T10:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR2NjSDlkQkpqN0FqY0dMcThfOV9hLWd2dllrZ3VyeVVISUh1NjFMUUdNalp4MWVYV3gyTVdEWURnQTdlcG82Y2pjX1c0UzhVSzBZYU5lc3o3WHFXaXlvSnhndjNpRjNPckpLbmZkX3NXX05RUEJjYXBFTFdXMzMwWlNSTi1hZGxzTzQ3enZCaUZRMFpXbXR5SmZVNkIxQnpFb1NBb2Nn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil News: Trump’s Iran Comments Cut War Premium as OPEC Output Rises",
-   "source": "FXEmpire",
-   "time": "2026-11-10T09:54:33Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY1FJa1Z6WUYxcnhqZ1ZSWmZOZ3o1aWlxYjNjbGRQelFEQXdNTGxGWEpUUk5kOGo0d04zeU03QnlSRENwczVyNGEwNDlLeThmNkxRaGdlREVDMmI3VGpCbUVIcEF0Z2FycUlGM2lZOEJ4V1VHanllUmtKQ2dxRUNHR1NkTzN2ckY4d01QWERsNFZZUUJ0RW9sc1FGM2pRSl9UVXpWYl90TFVXWDd2UTFRWjdxb0RURFF0?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Oil prices fall to lowest since August as Trump says Iran war is ‘effectively over’",
-   "source": "The Guardian",
-   "time": "2026-11-10T09:54:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmUxcnRYTG1rQzR0VFZuQW9uSXhBTExLd0stSVNWcFBIZE5aMi0wUnV1eWNFeFpvcFF1SFVvbjF6dDJfZXlQczlkUm92Z0xFYzUyLVlPWTE2d1pHeUhHYlNna0hEaEdBTmhkMU0xclNFRGhvWHZaY3V1WDgxcktaMVNyN3NsaUdTdlpjZ0c5X1pmSmtvd3dyNkdDUXF4ZEt0Slg4bDF3?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "U.S.-mediated talks on ending the war between Russia and Ukraine begin in Abu Dhabi",
-   "source": "NBC News",
-   "time": "2026-11-10T09:50:38Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM2hRQnNDekE1WnJpdHBONHdMLUtfQldVRzVCRXFrMHZxaVhyYVREa1k2bUFudmtNbWhObXB3V1FRWFZsZnpzU3hyM2tMeXJzNS0xTGZkeHNiZFM0ZERTOGhlOVBqTzh0YWZ1cmlFWnZUT25Zc2dicXduUzBLUDhBM3pudDNST0Rjc01JV1h5enVwTi1Ld2JkOS0tWExyS1R2dFl5c1hHWkFlNWpG?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Holds Gain Above $4,100 as Lower Oil Eases Inflation Woes",
-   "source": "Bloomberg.com",
-   "time": "2026-11-10T09:47:22Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWZxX1NKb3NlaFNCOHJlcE1kN2NRZjh0OEVaM3hQS1dQX0t4VkFadURVZzJhVE45Mlk0a2RWajItRjdDdWxBSU1mcWZBYng4cnBFUTNSSWE3VnQyOUE0WnRVWGtpcFNZejlNWlJLelgwNk9hWjRsZ3ZyYU1ERnQ1cS1VRWk5dG1PcUJoU01SeURPQUZoN3RnVEFTM1FkVzRORU9PWUpHN20wYXZpOU9jNGd3?oc=5",
-   "tags": [
-    "INFLATION",
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Fed’s Waller puts half-point rate hike into the mix for December",
-   "source": "MarketWatch",
-   "time": "2026-11-10T09:45:00Z",
-   "link": "https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories",
-   "tags": [
-    "FED",
-    "RATES"
    ]
   }
  ],
