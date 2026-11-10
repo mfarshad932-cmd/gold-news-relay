@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T21:30:22Z",
+ "generatedAt": "2026-11-10T21:58:42Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,12 +52,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 3
+   "kept": 4
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 8
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 33,
+   "items": 34,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 44,
+   "items": 41,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 21,
+   "items": 18,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 48,
+   "items": 47,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 32,
+   "items": 31,
    "kept": 12
   },
   "gn_oil": {
@@ -126,11 +126,104 @@
  },
  "items": [
   {
+   "title": "Gold Price Forecast: Failed Breakdown Fuels Bullish Reversal",
+   "source": "FXEmpire",
+   "time": "2026-11-10T21:47:09Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFpPc0J4eEtWejVveWwzX29EeTdvdU9jZjhqTmJKSFRHR1JsSDlvZHVTWnpBQUVJd3JSSTFZWktTazg1WDZqY3BnYWFMMlNIV0FOTU9UVGdyS1l6bVpPUUw0bWY3YlJMQmVmNU1OV1hrbUFseDZHTUtDSWxzd0ZUUG5fYzVmaDl6RC04bGprY2xtS2prN0VEYXMzMTNXcm5lTV9DYTZPb2RRWGl1Z3ZV?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
+   "source": "CNBC",
+   "time": "2026-11-10T21:45:46Z",
+   "link": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Stocks fall as the 10-year Treasury yield nears 5% mark",
+   "source": "MarketWatch",
+   "time": "2026-11-10T21:42:00Z",
+   "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Fed Falling Behind on Inflation, BofA Eyes Half-Point Hike - iShares 20+ Year Treasury Bond ETF (NASDAQ:T",
+   "source": "Benzinga",
+   "time": "2026-11-10T21:39:59Z",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHVsdjBiSjdtd0RYTDFjQUQtSng0aTE4el9DRW5NSmF6eHA3dkV1a0VVcV91NmdLSGJyX2R0TkFWa3FPRmdCUWJnRnZEQ0hEZjlMem95U0N3NzFRdjRIY0UtSTZZVGNWYk13NjQ0ZldxbjhrVjlxM2piVmJISnVGTjF2c1M1bmlVc0RUTGRUb3lBMHc1Tk1XTGlDTnFhbzJjb1lldXJxS0NreXozbF9Fdm42YnR4aU4zbGNZakdoZGVleFZlcmR1LWtvN2kxeDZQWkhBRm1n?oc=5",
+   "tags": [
+    "FED",
+    "YIELDS",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York Fed report",
+   "source": "CNBC",
+   "time": "2026-11-10T21:37:43Z",
+   "link": "https://www.cnbc.com/2026/11/10/heloc-balances-new-york-fed.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "GE Vernova sellers have it all wrong — plus, why Fed rate hike odds are soaring",
+   "source": "CNBC",
+   "time": "2026-11-10T21:36:13Z",
+   "link": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "Will Democrats make gold shine again?",
+   "source": "Kitco",
+   "time": "2026-11-10T21:34:58Z",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaHZJZmRrNjBtN2NqWU02R09fNU1hSUlJdVRVT2M1OEdYaDl2bEZ4M3pDU0tUUE83TXl1V0o1TG1qdjcyeGxlOGw3U01vY0k5SDJtd2ZpeGxueDdXbEg0YTY3amRtRGNjd0NzVzJlZWtVYkxPTzRhdGtEQnVLTjRMSXBhYw?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Opinion | If You Think War Is Unpopular, Wait Till You See Defeat",
+   "source": "WSJ",
+   "time": "2026-11-10T21:33:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeUdxOWs4bjI0NFNxVTBFZTFUYzdOWjlHalBKNWlQd3A1aDI1Rl9OaF8tUkt2RGpXcHNyTXhTbV80SllLcUktUm5KbWYxRDlYSzZMNy1lTFd1YkZoaTdpaExYT0lFRTItZ21YWVI3Z2QydDFxaUlqSU9yeDlsVC1oU2VobGN3Wl9TZ08tbWhMay1aNGJLUXc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "WATCH LIVE: House votes on effort to impeach War Secretary Pete Hegseth",
+   "source": "Fox Business",
+   "time": "2026-11-10T21:28:27Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JMGt5bXhHdVh1U0t1ajktblI4NjU2Q3pSUVNGc1ZjSWFQQnBuWUdSUktLcFQ0MWhLcEE2cXRFVnlOaGNhcEdaV0gxS3V1Rk9QODVFRDF0elJSdDQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Hegseth’s security threatens journalists with removal from news conference",
    "source": "The Washington Post",
    "time": "2026-11-10T21:26:55Z",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONU5YV2wyVHQtM3Z6bFpRdG1faFp1d0pJSEFPcDVlMHpsYnNZckhFTXJscVFlMkVJeWhRTzR0MHFEZDBoNzhMejJCd3BwYUQ0b3o3ZXhDNVpzR2YtanR4eWVhUUN1czltY3hsNEg3NTdvLXJ1MDhianJuZm5EZXNhNEVfSnlPcVlDamxaVkdrN1JGYWR6UmpLeWd1aGpkckJTakp1U01XQkdmZFVGT0dQOHdkNmc0ci1uRHl4Y3kxNnJEQTRFQ0xKcw?oc=5",
    "tags": []
+  },
+  {
+   "title": "You’ll hear the usual cliches about war this Remembrance Day – why does Australia refuse to learn the true lessons of history? | Paul Daley",
+   "source": "The Guardian",
+   "time": "2026-11-10T21:24:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN21Ccldfdm5ocVNLMU9ydGh3bVd2VlMtRTFZTUhtZV9pY0QxaHVuMUUzWGdiYnFSWk4zWjZvVzFvblNiR1J6MFBDNG5BdFV0YzZCTjRBVVZOSktDS01oaE1PZk4tczlpZlBFTEtCalctdzVqRUdRd1NhRFo2M1ZobTJkbUwzaUNlYnZYc2dEcTVzdmFSbW1PYlM3ek80XzY4cmswajc5OW50UUE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
   },
   {
    "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
@@ -157,6 +250,16 @@
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhTlJVTXc2T1ZwQ2ZJYXR1SEhZZXNVSTBkR2JFMTRRMjd3LWJaVktFekxtQ1NVVER6VTNyRmMwMzVjUnNFN3pLckcwVjEyUFg0UG96MjR2U1JqWnVjYk1Nc08wand2M3NtWVRJcE1xUUIwX3hFNlg0NzJR?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Iraq bars plane carrying Iran's soccer team from landing in Basra over US sanctions, officials say",
+   "source": "Reuters",
+   "time": "2026-11-10T21:11:43Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNXZLZlE1TldPUHRna1pNTU91YTJWVHJ5NmxEZERoWGFudjU4WFI1SHlqVXl1TzFmeHBFcjNjZHhOTkNSVTIzcmFsbnktdzR3MDFaY2FYQzVlaHhBc3V5Nm52R3pvZU5vdHJhZndaV3R2LXh1cVZxUkhvcDQ0Z3lMNXA2THdaM05kZVpNOWliNGQ0cHBNOFhYYU44U3hWaVRkYldWNS11ZUtwNUs5YjBJbVdLYjhidklfMnZwYWVwRHpyMGYyMS1Z?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -289,6 +392,16 @@
    ]
   },
   {
+   "title": "World in Brief: Anthropic aims for a $1trn valuation; Treasury yields rise on inflation report",
+   "source": "The Economist",
+   "time": "2026-11-10T20:39:10Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdUtxMzBEMVJjRjJFRERiYWt3Rzc0UFJCQndWc0F2UzRBMHFRQ0pGcUJJZnFjR1NTX2NsZDdYT0FaT25OYzRVSjB3NG9mQTVoWnh3Tnd3ZmNzR1dpTWxSQVhZZXlWcUd0QnBsbU8wWDZIVzRxclVRQzF2bjIwdWNNWmhVc01XeW00d0MyNTlReVo1aUQ2cVM0?oc=5",
+   "tags": [
+    "YIELDS",
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Ernst asks if Hegseth ‘being truthful in the way the war is going’",
    "source": "The Hill",
    "time": "2026-11-10T20:38:00Z",
@@ -316,16 +429,6 @@
    ]
   },
   {
-   "title": "GE Vernova sellers have it all wrong — plus, why Fed rate hike odds are soaring",
-   "source": "CNBC",
-   "time": "2026-11-10T20:33:58Z",
-   "link": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
    "title": "Fed's Bowman says 'still work to do' on inflation",
    "source": "Reuters",
    "time": "2026-11-10T20:31:25Z",
@@ -333,6 +436,15 @@
    "tags": [
     "FED",
     "INFLATION"
+   ]
+  },
+  {
+   "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
+   "source": "Al Jazeera",
+   "time": "2026-11-10T20:31:11Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ3NWVUx0bUZWN1Y5MUxkRG5ZWGF2VFVzOHhFa0NsQzJ3Z2ZoWGlmNUEtRGFfaVVvYXVCUHFaak41LXVBaDJRdkhMSThVTlc3c0JMQTVYTnVLTFpxR0RrSjA0WlVhNnVxc1lOU1ViWW1XLU9XSFotTFc2eUdvUzhWeTB4X0RLWUt1MmR3SGNzNzE2S1lQUUxTNmNPN2oyQkxDaEtpRFZnQ0pYSDdlSkpHaXl2WdIBuAFBVV95cUxQanlGTU44bUg3MEo0UmlQTFpGUFBhWDZ2VERBZThVNEZ2dnFQeWs5TTBpeVo5OGRNTUZhbkhYdTZDdEVibUxLenBpelZOb2g5aEVvQWpITTAxQ3pvMEh5WGwxWkVyYzA3N0RBMnNNd2tYNVFmY1JsSHk1TDU4MTRVcHVaUzBSNGo4eXEzd3pfc3V2SmhzRTRmXzlhMjFSRkxPeFVZR3N4LTBWTnowRzFLbndQUTBuZm55?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -352,15 +464,6 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZnFNTUx0RzRjMFpzM1FBRlh5TVFiT1dBSm0ybWx1cngzVW9UVllIOHl5OFNKckRDdGZybDRMYjh5dWZiQ3JTYlFsaGZsaFdYTURmdUZ5MldUa2ZDMmlBbEZWMk9KV2ZoSU1sOUx1UnV4d0JZMjJpa2ZybHJmSzlYT3hXenhYelM0ZmNrV2NEMjM3T055UF9iSUJsa2xKQ0Q5S2M2SWlSeW5ZMUpfN1BoekJvbGI?oc=5",
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
-   "source": "CNBC",
-   "time": "2026-11-10T20:28:02Z",
-   "link": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -430,15 +533,6 @@
    ]
   },
   {
-   "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
-   "source": "Al Jazeera",
-   "time": "2026-11-10T20:13:16Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ3NWVUx0bUZWN1Y5MUxkRG5ZWGF2VFVzOHhFa0NsQzJ3Z2ZoWGlmNUEtRGFfaVVvYXVCUHFaak41LXVBaDJRdkhMSThVTlc3c0JMQTVYTnVLTFpxR0RrSjA0WlVhNnVxc1lOU1ViWW1XLU9XSFotTFc2eUdvUzhWeTB4X0RLWUt1MmR3SGNzNzE2S1lQUUxTNmNPN2oyQkxDaEtpRFZnQ0pYSDdlSkpHaXl2WdIBuAFBVV95cUxQanlGTU44bUg3MEo0UmlQTFpGUFBhWDZ2VERBZThVNEZ2dnFQeWs5TTBpeVo5OGRNTUZhbkhYdTZDdEVibUxLenBpelZOb2g5aEVvQWpITTAxQ3pvMEh5WGwxWkVyYzA3N0RBMnNNd2tYNVFmY1JsSHk1TDU4MTRVcHVaUzBSNGo4eXEzd3pfc3V2SmhzRTRmXzlhMjFSRkxPeFVZR3N4LTBWTnowRzFLbndQUTBuZm55?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "War has upended Russian-Nordic friendships forged on Arctic ice hockey rinks. Can they ever recover?",
    "source": "The Guardian",
    "time": "2026-11-10T20:11:00Z",
@@ -472,16 +566,6 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2Z5UW1qRW05dlpaLTlsUm9xN1czUTBuLU1wanQ1ZElXRkJWMXFKN09sTm00dTVtTHBGUW1ncXVGT1d0THc2SnJDWE5zUFRZNWtEeGFVQmJzMnd4UmRtQWxnUkkyaGFsUVUtcGQ0WmxlUlpkRHBKTUZXWThwZ2JBMzVIVlp2X1dkTi1wck5R?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iraq bars plane carrying Iran's soccer team from landing in Basra over US sanctions, officials say",
-   "source": "Reuters",
-   "time": "2026-11-10T19:53:34Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNXZLZlE1TldPUHRna1pNTU91YTJWVHJ5NmxEZERoWGFudjU4WFI1SHlqVXl1TzFmeHBFcjNjZHhOTkNSVTIzcmFsbnktdzR3MDFaY2FYQzVlaHhBc3V5Nm52R3pvZU5vdHJhZndaV3R2LXh1cVZxUkhvcDQ0Z3lMNXA2THdaM05kZVpNOWliNGQ0cHBNOFhYYU44U3hWaVRkYldWNS11ZUtwNUs5YjBJbVdLYjhidklfMnZwYWVwRHpyMGYyMS1Z?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
    ]
   },
   {
@@ -539,15 +623,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrQUZIQWJmVUlLaWdNbHdtam9DM0o4SnNjNEhDYXdDcEJJTXBwbVQybkZhTEttb1hUYVczU0dvMHdSNnhEUFl5RDIzQ2kzM3RkSG5GQk9ZNkJ1Q0RiQ1NDNVlNN3YzODBzYS1GMGZLOUZVdWg0?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York Fed report",
-   "source": "CNBC",
-   "time": "2026-11-10T19:30:12Z",
-   "link": "https://www.cnbc.com/2026/11/10/heloc-balances-new-york-fed.html",
-   "tags": [
-    "FED"
    ]
   },
   {
@@ -612,80 +687,6 @@
    "source": "The Washington Post",
    "time": "2026-11-10T19:00:00Z",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2pGYVlxWnlJSTkzSEw5MUYteURMX0Z1dWhXVXFnd2dOWExGeFo3N0g2ZHlZck9pNnhJazVRUGdaMnFtQUNEQlZPd2pQTXVmZmZjWjZTaGRWM1dFaXo3V2xyUkpqczhiU2p4cUhXeDRIdDFnVnpSX1ptd0l1TkUwaVVNWE5wTHJVcnJOUzdUOGY4b2dzNTQtZUtnV0hrWTJZY0J5YUstOUJFeVpNOC1N?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran Producing 50 Missiles Per Month Despite Crippled Industry",
-   "source": "Bloomberg.com",
-   "time": "2026-11-10T18:57:20Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeG16Ti1xelBVR2gzWUYzYV9qQzVoVWZ3NGxOV05NSXN6blZBQWEzdXV3bjlWeXJXeVdwRHdTejJ0WmF3UFdCMDVaNl9UYjhobFB3Znl1a1RGV1JZdWhaQ2Iyc1l3YURwRDhiSmpLcWhNeVBBUDVrN3J6M0Z1Wkw1aUEtMWp3RURSdm80aDd3TFgtaHRTM2E2QzVJVlhDQUdqNXVIZVVYUnM5X0E5S3dNOU5TWQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Democrat Murray Seeks Short Stopgap in Order to Defund Iran War",
-   "source": "Bloomberg Government News",
-   "time": "2026-11-10T18:57:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNE5QNFVQYXZUWTZJUjVzRk5saWkwZjVHY3FIUXE4eGNxa3hFbTJjZGNnVTM4Yk51cnB6eVdsci1GWWdhTXF5MXRzSGx4SDlHT0JaZmZzcURBdkhYemJwU3p3aU02OUpEZ19MMjJ4NXc4UG0tZUYwTzd0NWFQRi1JVlYwN1AwSS1ydmdNZGRPYURURkNGaTVuWl8teXl2bGRhemM3cTFmSU5JYmtBTEhoVg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US, Iran more likely to reach deal to end war than two months ago, ex-Mossad official tells 'Post'",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-10T18:49:34Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DUUNWTkJZTkJxQllwamZaSGhZZjlXa1BaVzhVWDQyU2hCSklLSUVJNEVIREVxWVlzcFJfVVI4enQtQVdqRmZlQklNTWJJeFU2aU1SY18zVmlsajhLY3kzZjA5SDVOdzBodFE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Call it tough love, with the love removed: it’s Kemi’s war on benefits claimants",
-   "source": "The Guardian",
-   "time": "2026-11-10T18:45:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWJVNEg1anJGcUdPWkR3UE83MmE4ZkpvNzZRaUQ0d0VSbUdaZkxqS0pubGhQa3FNbGdTU2djc1Rpcy1zeU12YmJIWHVRYWxpLV90WHNHTE1sczNxa3FzdzYyeU1ZelpXcVgyYmdSN1ZjQ2RlTUNZOC1iVnpDSmE2Y28yQ0NMQi1ic3ptbTZCY0daRkJNY1F5VVdqZEQteHMtSGc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Bonds Tumble as Hot Inflation Fuels Bets on More Fed Rate Hikes",
-   "source": "Bloomberg.com",
-   "time": "2026-11-10T18:39:43Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakFPZlVwd2pvZDUwU0IzS3I3bHNNTlJOV3JRUXpyTEstS0FRN2JHeDE1R2J6cWxBU3o4SWI2SWhLNTdmdDZzTl9Na3lSLVdqcDd1c0RtSHllU3dSRk04aGNqWmZnbVQxdVVDRmhzcmlJU2tHUnJWQ1JNNzhmNXZITHJmdFpOZWdrWWdvam95YWpvd1ZxWDlROG5Za185MW1fWjFqb05QYmhzRDhpY0NHT3dMeWQ?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
-   "source": "BBC",
-   "time": "2026-11-10T18:35:35Z",
-   "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Whitmer asks Trump administration to end food tariffs and reimburse Michigan residents",
-   "source": "CBS News",
-   "time": "2026-11-10T18:29:44Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWnZUNk1wMXlGekVRZzdvQVo4YkhZWlNDMGxJVXRSaDF1SDNUTWhqZmQzTEtvY090bEdZUDhyd2luM0RFS002NXJmRzdSZ0NxazN4bWFsVnFVQ3NPNDlVYkd6bnRDVkpHTTVQZ0NCT0ZXTDhsVjRvT0Q1YzVLNnVzcE5HeDhra01kY2h0SUNpLWhFLUxuNjk1SnczbHQyTFQtUVg0V3VtU1A?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Global CO2 Emissions to Fall as Iran War Cuts Fossil-Fuel Use",
-   "source": "WSJ",
-   "time": "2026-11-10T18:29:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdjhhMUM1cElaaFRUR3htVjdCdjQ5aXo4N3hSdXJQMlVseXEyNkdVLUN6U3o3VEFTaG5obTE5N2RUUnlXWVpBZlpmNEI2T0ZPYm5XMXJMX3pFamc2MnVHVVNHZ0lOQ1ZZa0FvSGJRMmdISG5jbzFsQmFmSTZXYzRvTFNmMWtKbklFMmVNZFQ0bzVkOGJqTVFKbzFiOWhUTlBGcUtuajRRVEE3bHVGdXc?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
