@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T08:44:59Z",
+ "generatedAt": "2026-11-10T09:13:22Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -16,7 +16,7 @@
   "fed_speeches": {
    "http": 200,
    "items": 15,
-   "kept": 0
+   "kept": 1
   },
   "ecb_press": {
    "http": 200,
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 8
+   "kept": 9
   },
   "investing_news": {
    "http": 200,
@@ -86,17 +86,17 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 15,
+   "items": 17,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 19,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 40,
+   "items": 46,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 13,
+   "items": 14,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 1,
+   "kept": 1
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,97 @@
   }
  },
  "items": [
+  {
+   "title": "Gas prices fall below $4 per gallon for the first time since July",
+   "source": "NBC News",
+   "time": "2026-11-10T09:09:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZzdkeU9QZlJtYy1iYVRUWW9hbVhDU3V2bkJfWUctN2FDS0NrRVZoZWY5ZUtRQWhNX2xZOFZmN0EwcXpxTE1kUXIxTUtCSC1MMWlLOGtBZFR4U1dfRkhnQmZVSlB6QXhGdmVnblhZbFk0QXYtel9IRmI1dEx6eElJZDBoY2JKa1FybHBUeEVsS0MtdjNIN3Y3ZEJfOUd5TmpnUDZjVnFiQlQ5REd3T2FYLUpYMWdjRlZF?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+   "source": "BBC",
+   "time": "2026-11-10T09:07:00Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ukraine peace talks resume in Abu Dhabi after months-long pause",
+   "source": "BBC",
+   "time": "2026-11-10T09:07:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOTZJMmkxOUs1TDloQTA0bGctdEpXVmotNVFaZ3dIYjFmbnJ1MmFVY3AxM3QzeE9lRUM0WXZPZnpnVzNCWU1EbzZkeDBqOTlQQTV2d3E2ckNvWG8?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Top Federal Reserve official considers largest rate rise since 2022",
+   "source": "Financial Times",
+   "time": "2026-11-10T09:00:09Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0lSR0FINzZ0S3ZhdnRQcDh4ZkRBVnZUY05NMHFhZ0JsdmNQaE02NEY2M2l0WXM4RHVBbXBCRWdXM21ndjlRLW9jWVFXQWxoVzMtcjhwMU80dE56dlVERFVwZ0NiblNPM0Q3cGx3SDFBc0NFcGNvNHlsR1lGQVFoQzJVUWs?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+   "source": "CNBC",
+   "time": "2026-11-10T09:00:01Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVzhITTE0cHpMYlk2X2F6bEJ4YWttUk5pcnltYVZmUzZlSDRVMUxQdmEzYncyZlA3MTVaLUxaZTlHTmNHcHJqM05IYVB4a3p1U29tMDNFclhQellnS0VRaGRWRkpBdWIzU0ROYXVyQU1sd0hLc2JRVFBQVGNaaEJDMFB4VDRtUEY3UXc?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Waller, The Economic Outlook and Some Thoughts on Labor Market Dynamism",
+   "source": "Federal Reserve",
+   "time": "2026-11-10T09:00:00Z",
+   "link": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+   "tags": [
+    "FED",
+    "JOBS"
+   ]
+  },
+  {
+   "title": "Russia, Ukraine and US officials hold talks in Abu Dhabi",
+   "source": "Al Jazeera",
+   "time": "2026-11-10T09:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S., Russia and Ukraine begin talks in Abu Dhabi aimed at ending war in Ukraine",
+   "source": "CBS News",
+   "time": "2026-11-10T08:56:57Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0FBdDVsTGpNTFhrMXd4amFHczlHMEdINnhILTZJXzZFcjNqaXJ6emhyZjJaLVJPdkFIcEtxVURnaVd5cnZzQ2FmaG5nazlOYlkwT1pRaGRNSWhpN0NHZVZtU1M0RkIybklHdDRwYlRqZHZmRmtCSm9RbUdFV1BlMnJ1M3U?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "S&P 500 futures rise as traders brace for crucial consumer inflation report: Live updates",
+   "source": "CNBC",
+   "time": "2026-11-10T08:55:38Z",
+   "link": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "What powers does Netanyahu have as Israel’s interim PM?",
+   "source": "Al Jazeera",
+   "time": "2026-11-10T08:38:11Z",
+   "link": "https://www.aljazeera.com/news/2026/11/10/what-powers-does-netanyahu-have-as-israels-interim-pm?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Gold Price Forecast: Can Gold Clear $4,150 After the Nasdaq Rally?",
    "source": "FXEmpire",
@@ -174,12 +265,12 @@
    ]
   },
   {
-   "title": "S&P 500 futures rise as traders brace for crucial consumer inflation report: Live updates",
-   "source": "CNBC",
-   "time": "2026-11-10T08:13:41Z",
-   "link": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
+   "title": "US moves aircraft from second UK base over ‘threat from Iran’",
+   "source": "Al Jazeera",
+   "time": "2026-11-10T08:08:24Z",
+   "link": "https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss",
    "tags": [
-    "INFLATION"
+    "GEOPOLITICS"
    ]
   },
   {
@@ -192,6 +283,15 @@
    ]
   },
   {
+   "title": "Trump Signals New Iran Strikes Unnecessary After Qatar Meeting",
+   "source": "Bloomberg.com",
+   "time": "2026-11-10T08:03:39Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLTNJaWJFc2NkclNIRXg3Z2lyVjRVYjh1aTFrRWozeFlGVWtfcEl3a291Y0MtSUh0bllRNTU3OEIwVnYyS2Q1by0tSEZYNzNUS1JHbUhDdUdOTjdETnkxdngybENWcmxzeUFJQmFhREZDUmdrSHhpWDhqakx3RlNtdXR0YnJBbjRHX0VIMnFoZWlnT2NwUDY3NUZ1aGdMamZUOWMtZjYtQUc0cTlWSjlNMVFtNA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "China’s EV exports surge 145% as Iran war drives up overseas demand",
    "source": "South China Morning Post",
    "time": "2026-11-10T08:00:20Z",
@@ -199,24 +299,6 @@
    "tags": [
     "GEOPOLITICS",
     "CHINA"
-   ]
-  },
-  {
-   "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-   "source": "BBC",
-   "time": "2026-11-10T07:58:07Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine peace talks resume in Abu Dhabi after months-long pause",
-   "source": "BBC",
-   "time": "2026-11-10T07:58:07Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOTZJMmkxOUs1TDloQTA0bGctdEpXVmotNVFaZ3dIYjFmbnJ1MmFVY3AxM3QzeE9lRUM0WXZPZnpnVzNCWU1EbzZkeDBqOTlQQTV2d3E2ckNvWG8?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -245,6 +327,16 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlZ2Z0szYjlfTTBaZndNSUJHY0lLNlVGVDVpb2N2a3BTX09WR2U1cjVpWHZvNEdfQm4xLVFRM3cycmdrazk3Q25Gc05YSkgtOGF5eDROb2NfcTVZRG5yRE5hZVRKQ19XQk1INzdrTTVGZDBCbmpDOXU5NEJESHE5NHNCNGkwMUJSZVBPamlZc0M2MU9Ibng4dVJ5YjdZaE93MUd0SWtGZEt2ZHZndmpvRDZIbFROZjFJ?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Consolidates Below $4,150 Ahead of US CPI Data",
+   "source": "Investing.com",
+   "time": "2026-11-10T07:36:00Z",
+   "link": "https://www.investing.com/analysis/gold-consolidates-below-4150-ahead-of-us-cpi-data-200691258",
+   "tags": [
+    "INFLATION",
+    "GOLD"
    ]
   },
   {
@@ -338,6 +430,15 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMkJhd2dHVW84ZmUzdjdCek8zOHA5TTA5cTlfbFVOTWdpMDBTa1hLZVU1ejFiNzBFVFRGTUp0Q1JyRk1PeDJCM0JkWDJQZ3A1UkNNTm5IOWl1YUdTSmhLWEczNU1sLVlEME4yVWZHeEU5enBuY1A4RkprX0t0U2dvbUFUVnJSTW5LeGFoZFY4WFBhU2pHZFVNejRoaHQ?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Treasury, European Government Bond Yields Rise as Markets Await U.S. Midterm Election Results",
+   "source": "WSJ",
+   "time": "2026-11-10T06:45:02Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaUFIeDZYYmVzNlpvem1wamJOSFE3dlhxdnYzandzUUhNVXd4TnBoZ3RTekUxY1NOUDEzQmt4cnZCUTVsSTNhSHhjbkZGWmUtTU1yY3Z3cnVxdWR2a2NnaXdEOVlIeEEzeUZ6VTJPTzdRRGtFSW5GUklpLW5zRHZqS0pVdnYxRGktV0ZLM2tPQ2o2STgxcGtqZzQ0Zm9wdFZCZWdrV081b3l6SHNzN0hkTWNSVQ?oc=5",
+   "tags": [
+    "YIELDS"
    ]
   },
   {
@@ -575,111 +676,6 @@
    "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-ai-rebound-rolls-on-oil-slips/",
    "tags": [
     "OIL"
-   ]
-  },
-  {
-   "title": "$4,150 remains a tough nut to crack for Gold as US CPI report looms",
-   "source": "FXStreet",
-   "time": "2026-11-10T04:28:37Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa1FQY3ZLdGgyeG9uRmhBelBZV1AxcGo4VXVVYjdmYjZLR2VVWGhfSG80TW1xdWM1RUM5LVc2X0h5dnZveGQybTlCTlNpQ0lSZHVBMUhsbl8zOW91bXlOZFlOZ3RBYUstbjVPeklLM0o1QXdrVlZJVGtKNk43Y3U5bF93RVpWOWR5R25NdFZQRzM3d3pFT0IyekFkMEcyVENhWDY5ejZibXZPdmo3bGJhbVpGUQ?oc=5",
-   "tags": [
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Hormuz LNG traffic hits highest in October since Iran war began",
-   "source": "Reuters",
-   "time": "2026-11-10T04:26:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXRIOWVQTmcwYVdhbURkcUR6RGNkUHA1QVZhb0Jvc2xVa0RIQnVSdlRXQTZ5RFFhemxFYkY4bndDWHUyM0NUSTRVbzN6Z3NnOWIyRTBQazhYLXRmZUlMcnhUMDgydGJCdlp6cUc4ZUNUb3o3YWVXT1hxOFY5VFFIcUhrU3RlZFlSMnJGYWRfdGhXU2RVWlg2ZUl3TXg4VktPQWl2SThTcTZmTlc3MENKWWxB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Holds Gain Above $4,100 as Lower Oil Eases Inflation Woes",
-   "source": "Bloomberg.com",
-   "time": "2026-11-10T04:24:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWZxX1NKb3NlaFNCOHJlcE1kN2NRZjh0OEVaM3hQS1dQX0t4VkFadURVZzJhVE45Mlk0a2RWajItRjdDdWxBSU1mcWZBYng4cnBFUTNSSWE3VnQyOUE0WnRVWGtpcFNZejlNWlJLelgwNk9hWjRsZ3ZyYU1ERnQ1cS1VRWk5dG1PcUJoU01SeURPQUZoN3RnVEFTM1FkVzRORU9PWUpHN20wYXZpOU9jNGd3?oc=5",
-   "tags": [
-    "INFLATION",
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "China trade recap: surplus tops $1 trillion as AI boom powers exports, tensions loom",
-   "source": "ForexLive",
-   "time": "2026-11-10T04:02:58Z",
-   "link": "https://investinglive.com/news/china-trade-recap-surplus-tops-1-trillion-as-ai-boom-powers-exports-tensions-loom/",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
-   "source": "The New York Times",
-   "time": "2026-11-10T03:39:35Z",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOE9NUS1DRlJBNF9FaU1BcU5LNjFfX2I2eHRaRkYwOXdLWmdyLU5aUjdLeVJ1WV9nTUQtYVhXNkFfTjQ5dk5hdzJneTJxS0FmNHZKODR0cHpiUTVBanU5S0JGbk5ZTXBjaWNXWGFXN2hRRy13UGZEUWZkUGR4SEl6ODduQXNjQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "China's October crude oil imports rise to highest level since March amid Middle East war",
-   "source": "Reuters",
-   "time": "2026-11-10T03:37:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQzh4VnBTdUVqdmI5cnpOUTJlY1hZSHFTV29RYVpZZXVfRnRFclBrSG9xSjJReDRkS1hEUDhvNGtOMk81YmZ3blZYT0wwZGthaHhMdi1Hc3JDZFVEQXhuSGxmRDhFb0syQnhkNm9Vc1N5Wmw2dTk4RXE3LVNjaDRvRjVvNkZzZWVWNjBDN0pCWEg1SVdqQ1JqQUJYd1Fjc2FSUFJ4SEFWMFA0SkZYOXNKQU5BbUZ0VGlhVS1Pc1ZjMmY2MDh6dHN5RGRreXc?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Gold prices ease as focus shifts to US inflation data",
-   "source": "Reuters",
-   "time": "2026-11-10T03:31:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUt5d0NsOEFXZzVGWU5qOFFwbGtuT0pyM3RMcTR3ZDRXYzFqV1NkM1VadUV0VzdNUFpZREVYLU1mdWFpSDE5V0w3Qlo5X1luTXVXRkZKNHQ1bXY1X0VCNHRienZVbnhQdE93UWFYRk41T0Fhd2tiQ2dpZzF2WEZmM0hVTFpjMVFzR2JhNlpWN0R5ZkFCY0JkRUVuYw?oc=5",
-   "tags": [
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "US extends Vietnam trade probe on intellectual property to end of February",
-   "source": "Reuters",
-   "time": "2026-11-10T03:21:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRG9LTnZNRkhUOGlFdG00dFlFMzdkTXU1TXp3ODBtb3dJQllpd0h1aTdpbjZLNFZNSm8tSGpTTWs0aXVKOWZzN3dYNXdmTFozeUxSRnVFdGkzbnZnOUYxVFhHc3YzWW1EcEhwcnRyLUN5Xzk5eVNtZTNYcTVVaHhGT21PS1kzREdNc1RZampNV0lGUWR4M01pSm5INmRQZUhuZlF4M1MwWEs0VzdJenpka01SbTFzZmR6OUlXbjN6cmM?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "INEC faults ‘rig and die’, vows sanctions for electoral offenders",
-   "source": "The Guardian Nigeria News",
-   "time": "2026-11-10T03:12:29Z",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ0ozZEN5VTVuWnR1ZWJmR0sxM19VX3ltZXNNb2w4bldWS3RuUFFhR2RoR0M4eEgyaXp3RE4tUVZ0TnFLSzA1QVJBQ1RBQWc4a1NjU0xobmVDUm5OVTlRbm1UZW8xZDN5cDBXc2E5ZzNvYXU5UnRKakhObzhmTThKUzdZQzdxaUQ1RmZocVpXZ1hadw?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "China trade balance shrinks more than expected in Oct; imports surge",
-   "source": "Investing.com",
-   "time": "2026-11-10T02:59:52Z",
-   "link": "https://www.investing.com/news/economic-indicators/china-trade-balance-shrinks-more-than-expected-in-oct-imports-surge-5013983",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "China October exports beat forecasts, imports surge 41.6% as trade surplus narrows",
-   "source": "ForexLive",
-   "time": "2026-11-10T02:55:31Z",
-   "link": "https://investinglive.com/news/china-october-exports-beat-forecasts-imports-surge-41-6-as-trade-surplus-narrows/",
-   "tags": [
-    "CHINA"
    ]
   }
  ],
