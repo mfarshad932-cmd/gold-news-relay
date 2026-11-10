@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T23:46:26Z",
+ "generatedAt": "2026-11-10T00:14:47Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 9
   },
   "investing_commodities": {
    "http": 200,
@@ -66,8 +66,8 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 26,
-   "kept": 8
+   "items": 28,
+   "kept": 9
   },
   "aljazeera": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 33,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
@@ -91,7 +91,7 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 21,
+   "items": 22,
    "kept": 12
   },
   "gn_war": {
@@ -106,8 +106,8 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 12,
+   "kept": 12
   },
   "gn_oil": {
    "http": 200,
@@ -128,8 +128,72 @@
   {
    "title": "S&P 500 futures are little changed as traders brace for crucial consumer inflation report: Live updates",
    "source": "CNBC",
-   "time": "2026-11-09T23:34:46Z",
+   "time": "2026-11-10T00:12:51Z",
    "link": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+   "source": "BBC",
+   "time": "2026-11-10T00:09:49Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Gains Ground As Oil Tests New Lows",
+   "source": "FXEmpire",
+   "time": "2026-11-10T00:07:44Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEFWXy1YUmhXdFVsT21Rc3JWUmJTTXJacG1ycU1PVUkyRUFlSFUyTHUtZm1fSmt6Uk1SdTY2dzYyYWg2TkVRYWJBM25RakxUdkNIVXl6VkszaHQ4SDV4eVNqNVdGZ2tqamttbWJOeG5zbE1MRmtJc2VmYTNQU1hDMmEwZEpOcmRwYnVKdjFBTFNsVzg3ckYxMlVUUFVzcHNnSm16WHZLZk0xaUNTMlpfVzBpU2dZWEFvTmxxYXEzUi11aURONU5j?oc=5",
+   "tags": [
+    "OIL",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "source": "BBC",
+   "time": "2026-11-09T23:59:50Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
+   "source": "CNBC",
+   "time": "2026-11-09T23:54:21Z",
+   "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Japan household spending plunges 6.8%, 10th straight drop, as BoJ weighs December hike",
+   "source": "ForexLive",
+   "time": "2026-11-09T23:53:00Z",
+   "link": "https://investinglive.com/news/japan-household-spending-plunges-6-8-10th-straight-drop-as-boj-weighs-december-hike/",
+   "tags": [
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+   "source": "BBC",
+   "time": "2026-11-09T23:51:22Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "US CPI preview: 43-day shutdown leaves no official annual rate as monthly pace seen easing",
+   "source": "ForexLive",
+   "time": "2026-11-09T23:39:18Z",
+   "link": "https://investinglive.com/news/us-cpi-preview-43-day-shutdown-leaves-no-official-annual-rate-as-monthly-pace-seen-easing/",
    "tags": [
     "INFLATION"
    ]
@@ -151,15 +215,6 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
-   ]
-  },
-  {
-   "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-   "source": "BBC",
-   "time": "2026-11-09T23:20:29Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "CHINA"
    ]
   },
   {
@@ -218,11 +273,30 @@
    ]
   },
   {
+   "title": "Trump says war with Iran is ‘effectively over,’ but US remains ‘locked and loaded’",
+   "source": "AP News",
+   "time": "2026-11-09T23:03:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNlozNFZyT1BlYnQ0MnNfNU5TaDN4cDRpb0ZWMmJsQ2U1Yjdnb2ZnSlhMMk5ySlNfRWVjSlFBS0pyWk5sX3V2eXJYZnYtSjY4Qlc2U1dNX1ZWTWk4ZFZmSG05SEFzeWFfQ1VuVDdOWWhWeXVTRlF2ckdOUWx1bXhKcXpLSVpYUzhYbmQtSmJHWm5OQnlqdTFFeXp2QnVtQXh4TS1JZXhpN2d3d2dyTHN1bXBwRnpCRWl5QUlZbW1FNlEtM0M4aHpFLUdvUTByTDVv?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
    "source": "CNBC",
    "time": "2026-11-09T23:00:02Z",
    "link": "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
    "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Fund sellers, China buyers squeeze copper's tariff trade: Andy Home",
+   "source": "TradingView",
+   "time": "2026-11-09T23:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV3VjeDNyT0N3aHFzbzVxVlI1RUZxYWNFTzk5Q1ZvdE1tamFlZ3Zqb1VLUG5wRWRTR2VWQ3ZkcE4tb25IM2dFeFhvOGpaZXNMVmlNN2RGQlQ5UmIzZER4LTFFVlB1Mm5td2dWd3locjVXV2FkYlFjbkx0ak5YZVZRaEppTXhpYWhKbXltMko5czBydW5JLVpBY1B0LVB5NVJNek9KOGYwczk4eXNSSFkyLUhtV05JTkJCdVY2ODhCbUxqb1ZhN0lBOXV4R1JTQkFF?oc=5",
+   "tags": [
+    "TARIFF",
     "CHINA"
    ]
   },
@@ -260,15 +334,6 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ybGpScGNGcTJvWnkwajNVMEpKWGJmYkNWMlVQZk5KQUM0c0czM0E2X2RQZUdRM0hWV0hrQWVGd3hWeDBWaUxVQXJ0RGpfdXpQSVZkcVU1eDM2cmNoVEx2bTdnYUV4RVVwZmRfOXE2NkZ4VlU?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
-   "source": "CNBC",
-   "time": "2026-11-09T22:40:04Z",
-   "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
-   "tags": [
-    "CHINA"
    ]
   },
   {
@@ -317,6 +382,15 @@
    ]
   },
   {
+   "title": "Trump says Iran war at \"status quo,\" tells 60 Minutes there's no reason to escalate conflict",
+   "source": "CBS News",
+   "time": "2026-11-09T22:22:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSWNJUHozOHFMeU1MS1lub3BHWWt4cUs3a2hqcDhIa05Sa3RpNHhFWkFVOEM0MEg0NmpDV29VV2dVU3pJdTlNRF92a1F5V29ZTjlZUzJwYW11a2pYamNFUS0xaFVOOFRNZXQzamtaUXZ5ZzgyNDh5NWN0OFVVRkE5aW9FM3llUFhWNTdiVmo4b0F2STFnc3JkRl81c005Y0NzejY1YURJQkt6Wjd6c3h5MnozNFNmV282U2Zn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Opinion | The War and the Fog of Trump",
    "source": "WSJ",
    "time": "2026-11-09T22:11:00Z",
@@ -344,16 +418,6 @@
    ]
   },
   {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Gains Ground As Oil Tests New Lows",
-   "source": "FXEmpire",
-   "time": "2026-11-09T21:47:28Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEFWXy1YUmhXdFVsT21Rc3JWUmJTTXJacG1ycU1PVUkyRUFlSFUyTHUtZm1fSmt6Uk1SdTY2dzYyYWg2TkVRYWJBM25RakxUdkNIVXl6VkszaHQ4SDV4eVNqNVdGZ2tqamttbWJOeG5zbE1MRmtJc2VmYTNQU1hDMmEwZEpOcmRwYnVKdjFBTFNsVzg3ckYxMlVUUFVzcHNnSm16WHZLZk0xaUNTMlpfVzBpU2dZWEFvTmxxYXEzUi11aURONU5j?oc=5",
-   "tags": [
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
    "title": "Canada says it is extending tariff relief on some US imports",
    "source": "Reuters",
    "time": "2026-11-09T21:35:34Z",
@@ -369,6 +433,15 @@
    "link": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
    "tags": [
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Treasury Yields Down Following Democrats Midterm Win",
+   "source": "WSJ",
+   "time": "2026-11-09T21:21:17Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdkVMZXBIOElzYmpRaVNwbmNZOWxvT1ZsUWgwamhobmRBNklNOGZGSGNWNG5jZjZPTUtPT2c2V0ZTNmM0SU1MNGdhV2plaVZNbDVOclUzSXMxa3NGM3ZQMl9feDdEQWhramMzMnVycHpCTm1haEFhRFZnYnpNb0hJcjVOR3pTazJ5b1FXeHFkQWRNRUszNEZFVkpmYVNoOWJKclNnM3JYTnY4bWVrdEhkalNxMGIxR2ttRFI3czliVjVXaVh4SHpNSEVR?oc=5",
+   "tags": [
+    "YIELDS"
    ]
   },
   {
@@ -600,80 +673,6 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY29oaGJnZVpKWmZMYVVFV3NDVTZ5TmE1ZmZBS2pqUmptY05vU1hYXzdsMVBhd2kyUTJtQnM0V1BEMFdEaXdYRWVXVlEzdFgtZlJPYTNFWXh4MGZUTU1rMVUwT1NrTWVRR0xzaUV1UmRiWGlTTVlDVzVySzBjTzk2a0UwLWEzWW_SAYwBQVVfeXFMUHNWbVZ0dWpZSjlSMld6YWJzOURVYUtwMFpIY3JKdVhJUkdBLW5CbGtjRGdKQmt6WktMZnFVQ19JX2NieW5ycXJ3UDV1eC0wdjQ1Vi1DMFJiWnV3R21EOHUyVEQxRGxFMDRGcTlQUURHbFRoN0R4eWZ0WXpldXA3V0Iwbm4ybGh4SG5OU2c?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "U.S. 3-year Treasury auction draws weak demand amid yield decline",
-   "source": "Yahoo Finance Singapore",
-   "time": "2026-11-09T20:04:55Z",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRENGN1dYb3ZjenB4dWxkUURmMW9ucl9Fckl6M3BLcDBvYmhtSFM5SWsxM0M3dm1la2JOSTBTUWhScHJGcmZoVk9vdGQ2ZWt0b1hDbmpJT3FXZnJMaGxGUG1SNFhkLWFxYkhNMUVaekV5MkhtNEVENzJCSGZacTJIWQ?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "BC-Gold-Silver",
-   "source": "Yahoo Finance UK",
-   "time": "2026-11-09T20:00:14Z",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mc2IyUldPT0xVYmpoZ1o4LTR3c0FwNGhuVi14TUNlZDJTcFVPQ2pSckdyUmxrd25CaGhvYXJrRU85cHhPS0ROd3VOcHBXcnVJb0IyMlpoRkJ6OFdtV2NlWC1BcXBwVVlzR1B2OHJJdk4?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Trump administration proposes stricter work-search rules for unemployment benefits",
-   "source": "CNBC",
-   "time": "2026-11-09T19:59:55Z",
-   "link": "https://www.cnbc.com/2026/11/09/trump-unemployment-work-search-rule.html",
-   "tags": [
-    "JOBS"
-   ]
-  },
-  {
-   "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-   "source": "BBC",
-   "time": "2026-11-09T19:58:01Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "How is Gaza coping with another severe winter?",
-   "source": "Al Jazeera",
-   "time": "2026-11-09T19:47:46Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/how-is-gaza-coping-with-another-severe-winter?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Hegseth calls Iran war necessary, waves off ‘noise’ of expected impeachment push",
-   "source": "South China Morning Post",
-   "time": "2026-11-09T19:34:12Z",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQXBOc2gzd0hjd1paWk9veHpSeHlVWldPMVJCOFdrb2JrWHJNc3dNTE1BOEJWeGRRZUZ1elRuZmREaDhyMHllY2x1UlZjZnhyb3k4aVd6cDRCZWU2RFltNkZBbENCYXM0aV9UMzBuMmFHa1JKNEhtRkZKV0wzNDh1VmFYX2VHeU9DYk1qR3RRbHd4TUhzSFJkem83Uk1LdlBzV0tyeUMzZjZfSWgwSnlxZjdGd01jZHpTZ2lrNkFYMHAwblVUVk50cmpOVVQ0SUhSUC1OT2N2d0xYcnPSAdsBQVVfeXFMTVpkendkb1dpSVA3X3hPODRoVUdVX1dWS1dtMUd6YUs5YjRoajVJVXp0STVteF9halU2aTRNbllJVGpyZlpZNWVDeFQtYUtscnBjNmhKM2xqN2pLTWtKUTRPZnExWUhXTjZvSTBLOURrRDlMXzhKRGZETlFWZkx1X01zYjRocGRiOUhydFgyVVhnaDJGMWZhdEZ5VV9yRTk5Wm9Ka3Bna2JveHZockphY2hIUnhoN1FyT1JPYlZxMndsWWFFQVZLOExFWlA4OWlsbGNIQXpRN2s2cmUw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "U.S., Eurozone Bond Yields Rise Ahead of Inflation, Rates Outlook",
-   "source": "WSJ",
-   "time": "2026-11-09T19:33:00Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0N5Skk5WEFjeFZaU2hkdnczUWd0Y2QzNEFJNFF0Mk9UdTd0LUhCRGI4aVBldGpNaDRoWFdJT0xDcldjX0p0OG5yS1lBQktuSVo3alNaTkVSNmI3WWZ2M25WSnJ4Y1BkTGEzM05NamtJYlBQSk1pdVdMNHg2MTJVd0Yxc29Xc3ZOUkFPYkJxdWQtU3BINU42NjVlSl85Z0ZG?oc=5",
-   "tags": [
-    "YIELDS",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Opinion | The U.K. Aims Sanctions at Israel, Hits the Cayman Islands",
-   "source": "WSJ",
-   "time": "2026-11-09T19:29:25Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjJBc1lHV0NRN1FURjg3eWRsalpKalB6QldheHRZLUg0SmM3SGpMRFFXWDc2Vm9qbGFQdGluQ1c0dkY4WE5DdmswdzdDazQwTkdDaENiQmhDYlZJd2FjcDFoVmhyQzVPa3hLZ2dQZUFRb2RuZGpTTkVJYUpEOElma055REV1ZlBPTEkwY2owTjh0SVNwNncySA?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
    ]
   }
  ],
