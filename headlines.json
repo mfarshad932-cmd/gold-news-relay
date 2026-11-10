@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-11-10T05:26:25Z",
+ "generatedAt": "2026-11-10T05:54:44Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 1
   },
   "fed_monetary": {
    "http": 200,
@@ -67,7 +66,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 31,
+   "items": 33,
    "kept": 10
   },
   "aljazeera": {
@@ -82,17 +81,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 25,
+   "items": 24,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 12,
+   "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 22,
+   "items": 20,
    "kept": 12
   },
   "gn_war": {
@@ -102,8 +101,8 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 11,
+   "kept": 11
   },
   "gn_yields": {
    "http": 200,
@@ -112,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,6 +125,43 @@
   }
  },
  "items": [
+  {
+   "title": "Firms tied to West Bank settlements win $15m UK deals despite sanctions",
+   "source": "Al Jazeera",
+   "time": "2026-11-10T05:48:24Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXppMWZCamVGLXhoZU5BV09DSTA5X0dZLTV0VEtsTlhWSWd4UlZqWmJNUkFFc2VLcWZvcGlVYUFKX1FRU2gtN2FSMnJXeXF2Z0ZrWThkdW9XZGdyWEZrbFlwYkxsdzBGMlQ4bWlCVGtUTGZtX0hpX1poSjJLZS1pZGEzUF9mdGM2ZVo4SXFPUVFUbVRBRjVfbWVjTlVNQ3lYUWx3M295eXJwY3VBMWZrRDhR0gG3AUFVX3lxTE0temI2WWtMVGgwN3VTUUd3OXEzSXNaNUdSNmZ2VFRVdkJlbkhJVVpaZWJ4SF93MnZtdnI1M01UMmxQd3ZwVTI5M0pZSUFSSklySVFab0FXamh6RFFxNTJibzVmc1VNcEJhSVF4UzlwZWpUczFINXFiN2s3YmU1bzg2YmdnOGpadXh1bkNmNFhUb2NRMGpIUDRBOGxqbjdyOGVQcWc2em41TndSeVVteFFoVVJreC1zOA?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Gold edges lower as focus shifts to U.S. inflation data",
+   "source": "CNBC",
+   "time": "2026-11-10T05:46:59Z",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGItVzRMT1dpY19zRm5oSlJwTXRwQTZpMFNYaUJEVFZfbmZmUjVfZWluWEZRVUt5Q0ZDa21tcHJObUdCLXNkTmVRajh6SDRkYS1Zc24zZ3pWNFFEdGZBM0Y0MHV5TWZPcnZhZkYxdVpuYTQ0amp4aUZtR052SHRlVjZoampxbDgwYlZabkxtTDl4dk1z?oc=5",
+   "tags": [
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "S&P 500 futures rise as traders brace for crucial consumer inflation report: Live updates",
+   "source": "CNBC",
+   "time": "2026-11-10T05:36:48Z",
+   "link": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Trump says more US attacks on Iran 'highly unlikely'",
+   "source": "BBC",
+   "time": "2026-11-10T05:33:25Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Gold drifts lower as traders eye US CPI and dip-buying support",
    "source": "FXStreet",
@@ -165,7 +201,7 @@
    ]
   },
   {
-   "title": "‘Europe belongs at this table,’ Germany tells US before Ukraine talks",
+   "title": "European diplomats press Rubio for a role in Russia-Ukraine talks",
    "source": "Al Jazeera",
    "time": "2026-11-10T05:02:33Z",
    "link": "https://www.aljazeera.com/news/2026/11/10/europe-belongs-at-this-table-germany-tells-us-before-ukraine-talks?traffic_source=rss",
@@ -185,7 +221,7 @@
   {
    "title": "The War Putin Wanted to Keep Away Is Coming Home to Russia",
    "source": "Bloomberg.com",
-   "time": "2026-11-10T05:00:00Z",
+   "time": "2026-11-10T05:00:05Z",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPejVOS3ZkMHdJYkh0ZHpjMjRPbTJqbFRrU2g1YlpDelRsbndKbDdGWGdOeDRVdTZYT05pcTR5TlFYQWh6VWRzd3U2U3lrZkhSa19OS1dWU3JTZ205NUNWcjFnSUVsNl9ncnJocm85SDBVcmhBZjRCSkI2V3ZDdGRaWThNZGx5RkdiRDg5RldnM0tmTFZXeUs2ZnBTSEpabC04MVZjLWNwME9aekRRT1VxdGtaV0NlUQ?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -267,15 +303,6 @@
    ]
   },
   {
-   "title": "Trump says more US attacks on Iran 'highly unlikely'",
-   "source": "BBC",
-   "time": "2026-11-10T04:09:16Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "China trade recap: surplus tops $1 trillion as AI boom powers exports, tensions loom",
    "source": "ForexLive",
    "time": "2026-11-10T04:02:58Z",
@@ -314,22 +341,12 @@
    ]
   },
   {
-   "title": "S&P 500 futures are little changed as traders brace for crucial consumer inflation report: Live updates",
-   "source": "CNBC",
-   "time": "2026-11-10T03:33:27Z",
-   "link": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
+   "title": "Hegseth faces impeachment resolution from a GOP member with little to lose",
+   "source": "Axios",
+   "time": "2026-11-10T03:23:36Z",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsckdNM0c5MHh6STBpZTlMN21MRnVGMXoxMlRuZ3Z3UE1ySm9tbkxDckFqanlWQUFFTFJYSDgxTWRoWGp2bmpORlRMay1HcHltSVFlbXRIR24xZDZzU3lnRjlFWHBWX2hBdE0xa20xX2J6Z29K?oc=5",
    "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Gold edges lower as focus shifts to US inflation data",
-   "source": "Reuters",
-   "time": "2026-11-10T03:32:09Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUt5d0NsOEFXZzVGWU5qOFFwbGtuT0pyM3RMcTR3ZDRXYzFqV1NkM1VadUV0VzdNUFpZREVYLU1mdWFpSDE5V0w3Qlo5X1luTXVXRkZKNHQ1bXY1X0VCNHRienZVbnhQdE93UWFYRk41T0Fhd2tiQ2dpZzF2WEZmM0hVTFpjMVFzR2JhNlpWN0R5ZkFCY0JkRUVuYw?oc=5",
-   "tags": [
-    "INFLATION",
-    "GOLD"
+    "GEOPOLITICS"
    ]
   },
   {
@@ -506,15 +523,6 @@
    ]
   },
   {
-   "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
-   "source": "Al Jazeera",
-   "time": "2026-11-10T01:00:00Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "War in Iran led global emissions to fall this year, research finds",
    "source": "NBC News",
    "time": "2026-11-10T01:00:00Z",
@@ -664,15 +672,6 @@
    "source": "AP News",
    "time": "2026-11-09T23:37:00Z",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelU0dnZ5Y2ROMkdrZXlYYURIcnJocXdKbWx1eTlPcENLMk1vX3ctTC1ycGlfQ0dlemFiX2pHRzRvSkd4NTZ3aEdxU3h5OW5ZeUo3cU50YTVPODlxb2lZMVBwRFU4bXlmYlJiTmdHSHcxUUdQMFptNG43Y1hsanUzbTJHMHc5eTlVeVlz?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Donald Trump says Iran war could end soon, defends Pete Hegseth, Nvidia CEO",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-09T23:28:14Z",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82MXVqU1JPX3RQaHdweWxrSTJkeVpUNDBEc0JlNUVLODlUXzZsUVNqSTNyUzFEMU1YUDYzNGdhcWpuNWVsQnBySVdDM2tENzlTVVZzWjhFNEptR0RHS2xn?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
