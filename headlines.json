@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-11-10T04:58:03Z",
+ "generatedAt": "2026-11-10T05:26:25Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 1
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -37,7 +38,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 12
   },
   "investing_commodities": {
    "http": 200,
@@ -72,7 +73,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -81,13 +82,13 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 24,
+   "items": 25,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_tariff": {
    "http": 200,
@@ -96,7 +97,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 40,
+   "items": 42,
    "kept": 12
   },
   "gn_sanctions": {
@@ -126,12 +127,86 @@
  },
  "items": [
   {
+   "title": "Gold drifts lower as traders eye US CPI and dip-buying support",
+   "source": "FXStreet",
+   "time": "2026-11-10T05:22:32Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV0puSlB2QU9SbnZZMzZxOEltSVB1QVI5dm55d0hkLWxZZXh5VGFiaDNyNVZxaWVCVlJNV1hTWnR0MkFOZFVvWWZnNFdHeFZUeUZIX3VQa1lybExnMzdnTzI0Qm5qTkc4dE95clJrSmV3UDBGZlBmZko3SXV0LWdvY3A1bEx4NEtmWm1TMm1NVWlWbHNBWFprWURlTTNDLXg2Sjc1Z0RxMDYxV1lKaC1wZ0ZqVVQ5ei1fMng4emRxMHhJT1BGUGM3TFFhSjRGQQ?oc=5",
+   "tags": [
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "WTI trades weakly below $85 on US-Iran deal hopes",
+   "source": "FXStreet",
+   "time": "2026-11-10T05:06:18Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNmZ0a2NYNnl3WGxBRkxsVEZRNDZsUHd4bzgzSVp0VV9ZVERvNWxUYzF3cXpxeEgwRHY1d2d1SmRmX2NuUjRmeUFMNXNJQmM0ZVN2c1I2Y2VBckpRdXJUeWNIcGRWSWdYbDdScHZYX0dKNEFLVG9XclJBdXItMURKVFhFMjk2Q3FzdkFId0NmQ1RsckxwSUE?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "US-brokered talks are set to start in Abu Dhabi to discuss Ukraine-Russia peace deal",
+   "source": "AP News",
+   "time": "2026-11-10T05:06:00Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "China’s monthly imports grow at fastest pace in five years as surplus crosses $1 trillion in 2026",
    "source": "CNBC",
-   "time": "2026-11-10T04:49:22Z",
+   "time": "2026-11-10T05:03:55Z",
    "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "‘Europe belongs at this table,’ Germany tells US before Ukraine talks",
+   "source": "Al Jazeera",
+   "time": "2026-11-10T05:02:33Z",
+   "link": "https://www.aljazeera.com/news/2026/11/10/europe-belongs-at-this-table-germany-tells-us-before-ukraine-talks?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Talks aimed at ending Russia’s war in Ukraine to resume",
+   "source": "Financial Times",
+   "time": "2026-11-10T05:01:14Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9Ta2V2WUVRcTAtajFsdmZ2VjhXVi1vTGFveEFSOFBxY3QtbmNBbWpETWZidmF0TGJiRE40eXdFdU90ODFsSVhMS1V4UEVUT1dvRlFxeEZsRF94Qm83WklvZ1FqaldKbF92OVEtWUFzeHJyekluZEZpcVk4cXRaeElkdHM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "The War Putin Wanted to Keep Away Is Coming Home to Russia",
+   "source": "Bloomberg.com",
+   "time": "2026-11-10T05:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPejVOS3ZkMHdJYkh0ZHpjMjRPbTJqbFRrU2g1YlpDelRsbndKbDdGWGdOeDRVdTZYT05pcTR5TlFYQWh6VWRzd3U2U3lrZkhSa19OS1dWU3JTZ205NUNWcjFnSUVsNl9ncnJocm85SDBVcmhBZjRCSkI2V3ZDdGRaWThNZGx5RkdiRDg5RldnM0tmTFZXeUs2ZnBTSEpabC04MVZjLWNwME9aekRRT1VxdGtaV0NlUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+   "source": "The Guardian",
+   "time": "2026-11-10T05:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3pqanZMNlVOWHB0OGxZWFRSZERjUHhvV3VYc1drZUx4bUk0aDRadGdYUDd6Zy1uOHRlbTZ2MWFSWFpXdzJmakhydFo0STBMSjRESEU2X1Y0Y19jbldtNVFFdEZvajU0c3ZlOXljYjhuVFl5VUlZVlk3UmdqNDljeHNQYUJnUFl0MGlTTTZiMDRwNjVNYkc4ZA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Hegseth impeachment effort begins in House, focused on Iran war",
+   "source": "The Washington Post",
+   "time": "2026-11-10T04:58:50Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlZ2Z0szYjlfTTBaZndNSUJHY0lLNlVGVDVpb2N2a3BTX09WR2U1cjVpWHZvNEdfQm4xLVFRM3cycmdrazk3Q25Gc05YSkgtOGF5eDROb2NfcTVZRG5yRE5hZVRKQ19XQk1INzdrTTVGZDBCbmpDOXU5NEJESHE5NHNCNGkwMUJSZVBPamlZc0M2MU9Ibng4dVJ5YjdZaE93MUd0SWtGZEt2ZHZndmpvRDZIbFROZjFJ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -141,6 +216,34 @@
    "link": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US CPI takes centre stage as markets look to steady the ship after the midterm selloff",
+   "source": "ForexLive",
+   "time": "2026-11-10T04:29:41Z",
+   "link": "https://investinglive.com/news/us-cpi-takes-centre-stage-as-markets-look-to-steady-the-ship-after-the-midterm-selloff/",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "investingLive Asia-Pacific market news: AI rebound rolls on, oil slips",
+   "source": "ForexLive",
+   "time": "2026-11-10T04:29:35Z",
+   "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-ai-rebound-rolls-on-oil-slips/",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "$4,150 remains a tough nut to crack for Gold as US CPI report looms",
+   "source": "FXStreet",
+   "time": "2026-11-10T04:28:37Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa1FQY3ZLdGgyeG9uRmhBelBZV1AxcGo4VXVVYjdmYjZLR2VVWGhfSG80TW1xdWM1RUM5LVc2X0h5dnZveGQybTlCTlNpQ0lSZHVBMUhsbl8zOW91bXlOZFlOZ3RBYUstbjVPeklLM0o1QXdrVlZJVGtKNk43Y3U5bF93RVpWOWR5R25NdFZQRzM3d3pFT0IyekFkMEcyVENhWDY5ejZibXZPdmo3bGJhbVpGUQ?oc=5",
+   "tags": [
+    "INFLATION",
+    "GOLD"
    ]
   },
   {
@@ -170,6 +273,15 @@
    "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "China trade recap: surplus tops $1 trillion as AI boom powers exports, tensions loom",
+   "source": "ForexLive",
+   "time": "2026-11-10T04:02:58Z",
+   "link": "https://investinglive.com/news/china-trade-recap-surplus-tops-1-trillion-as-ai-boom-powers-exports-tensions-loom/",
+   "tags": [
+    "CHINA"
    ]
   },
   {
@@ -223,17 +335,8 @@
   {
    "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
    "source": "Al Jazeera",
-   "time": "2026-11-10T03:17:51Z",
-   "link": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Hegseth impeachment effort begins in House, focused on Iran war",
-   "source": "The Washington Post",
-   "time": "2026-11-10T03:16:44Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlZ2Z0szYjlfTTBaZndNSUJHY0lLNlVGVDVpb2N2a3BTX09WR2U1cjVpWHZvNEdfQm4xLVFRM3cycmdrazk3Q25Gc05YSkgtOGF5eDROb2NfcTVZRG5yRE5hZVRKQ19XQk1INzdrTTVGZDBCbmpDOXU5NEJESHE5NHNCNGkwMUJSZVBPamlZc0M2MU9Ibng4dVJ5YjdZaE93MUd0SWtGZEt2ZHZndmpvRDZIbFROZjFJ?oc=5",
+   "time": "2026-11-10T03:20:35Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGxFOUdxQ2o5dlYtdVRVY242bW5XLW4wQlhsWk92c3QxM1RneTJqTENuYkFza01ORTRrMTNaT0tqZTFIcHVkc2ZkVGxnWXJXX01lSkpXWkNvbFExSFo4cjZwQ21CQXU2bGU1YWRzOF9uRjBkc1I3TFZxU2lGSk4zeThZZVdtRWpKNU5PRzJUTFdPXzFscExmSDBiYlRLLUFBZkh2RkxPMWJoWEljcnZNY1JYUUxMUGFF0gG-AUFVX3lxTE91Tml0Z0VtT3U5OXlDQzBWTGp2WHdKb0dZVzBoU05aOEh1eXhYQXZZYVVNNUQyUlhicy14dm1KR3JkUWh0aHZNa3hOdENYZTdOd2JmbHluRmM0M2NJSHllNzF0Um1qUElNc0h2Rm83Q2RHaXhpMW1WdWhRYWxCZDRWVlRhOUVvZ1pUNlFPend1Mk5DMUZQX0dNOVhmWnUxeEhEblVqOG0ySFNCV0hxeTcxblMyeWtaQTBHSTBSUHc?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -305,8 +408,8 @@
   {
    "title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
    "source": "Al Jazeera",
-   "time": "2026-11-10T02:03:45Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNktFRzlRXzJwc2pBRUJTSmRrSjN5VkJIWjh0dy1XQkhMLWdLalpfRmthc2dzSzVMN0NVekhLSWRubFRkdG5ZR1ZpT1pUMzNta3d2YkotVkVIVkNya240aGJsU3ZnRTdUMFF4S0lSZ0xEZ2VaM1RPcTIxRm1iQUpDdUYwRk1SMkpsLVhLaVJNWFRjOXdHMzRram5YaVhJc3k4V1B6UmdrTUhUbDExMlhWU0VsTWdpQQ?oc=5",
+   "time": "2026-11-10T02:04:13Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNktFRzlRXzJwc2pBRUJTSmRrSjN5VkJIWjh0dy1XQkhMLWdLalpfRmthc2dzSzVMN0NVekhLSWRubFRkdG5ZR1ZpT1pUMzNta3d2YkotVkVIVkNya240aGJsU3ZnRTdUMFF4S0lSZ0xEZ2VaM1RPcTIxRm1iQUpDdUYwRk1SMkpsLVhLaVJNWFRjOXdHMzRram5YaVhJc3k4V1B6UmdrTUhUbDExMlhWU0VsTWdpQdIBuwFBVV95cUxNRG5EZEhmMFRMWkc0VW9qTzRaaTNzYlpkTkhqcU84eVo5dnVNbkExYmRRdFZuTUpDSTdQVWdGd2lYMVJSOFp3MEgtaWpEcjZnLWhxV2pJV2FyRTFoSVpaOUEyZTV6VkI2Q00zMzA2NFdPUl9NOHhkSGlCeTQ5b1BvZC1lems2RWpsOWRRWktSaXNHU3MxaEEzTExWaFdrbVZudXJfNHJUVS1sUXYzMGJUbF94M2RDVkxrck8w?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -521,15 +624,6 @@
    ]
   },
   {
-   "title": "Iran war live: Iran demands US ‘surrender’ to its conditions",
-   "source": "Al Jazeera",
-   "time": "2026-11-09T23:55:23Z",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
    "source": "CNBC",
    "time": "2026-11-09T23:54:21Z",
@@ -581,98 +675,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82MXVqU1JPX3RQaHdweWxrSTJkeVpUNDBEc0JlNUVLODlUXzZsUVNqSTNyUzFEMU1YUDYzNGdhcWpuNWVsQnBySVdDM2tENzlTVVZzWjhFNEptR0RHS2xn?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "WTI falls below $85.50 as US-Iran diplomacy hopes rise",
-   "source": "FXStreet",
-   "time": "2026-11-09T23:27:31Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOWcxVkJISHQyX1dkVmlWSVpvOS1PU29Xak9NNVlmRkM3MWZQZ1lxVnQ0MURHLWFGeG5wLXdGaUdnV0dBOWVqXzh1QVZkbHJfNjdLZElYZ1pldFc2QjNYWFJOaVdadlYtaFN1dXZIUjdsQ2hoYVA0TVJ1LVhnN0FvaU0wMUZiSXdFU1lZaW5lV016dDhMZ0lmemFtaw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Pete Hegseth speaks at Rhode Island's Naval War College amid calls for his impeachment",
-   "source": "CBS News",
-   "time": "2026-11-09T23:16:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOczN6aXQ1Q0d2NEVBQjZSVjhCQ0R6cG13b0pPX2h6TlpQYm0takdSdlJxRkpxakdYdGxLNXZtc1I0MV9JTElWRVNjUm9SX2JxYngzUTFJRkNrY2ltVHZuYlhEMm5XWmxNS1YyNEdLOXhCX1pVUk45NDVZcnRHMUpHUFUzcjZOZy1RZk5fOGpObTdBcGlsWkpKa0V2c252eGp2UW9ucHVNUHNIU3FqN2dzYlltQS0zWmN1SFRXZHN4cFo?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump says US seeing 'strong inclination' to end Russia's war in Ukraine",
-   "source": "Reuters",
-   "time": "2026-11-09T23:15:43Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc21fOTJsSUt2S1FtclRIdUVUUnBmcVAyWjd2WkdvcWt4bEw4MUtmaFFoZF9EYlNCZUwzRVJtekFhMy1rWElPTUxwekhLQXRXT25pTWdLa2NGdkFteWtibmxSdUNOLWZEcUpjeVJtcTZ3S0ZWUWx4T3p1a2hwTTV5ZEp0amVHdHRsZ2hiM2E5QUQ2U2owd09vcDdKMmlZWEIyNEl3U1Fic2puR2hhendj?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns",
-   "source": "The Guardian",
-   "time": "2026-11-09T23:12:00Z",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82aVVBM1M2V2JiUGZLeXU4Xzd6YmV3RVNpVnhPM3U1bFdPYmRUcjNtc3d6YldOczdHNmN4Umx5MmU4eldmbGxSTUdBSW5DaU9xUVRqQ2E4UWZ3bzhjaXE2MFg1TEVkUGtENzllWU5XOA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump says Qatar, Saudi prefer peace in Iran conflict",
-   "source": "Reuters",
-   "time": "2026-11-09T23:07:09Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0pwQmJtMVdmZDY2NVhWalgxSHZ0d0NvUzJ4cldzTHFQUmdHSERzZENUOXljYldMbFpRa3J5d0VhbkNtZGJVM1paVkFWZ1ZHZTFOQlNkNm5xZ2tkc0FYQkxvQkU3RHc5cm9lcjFXSzdCNlE5QjNXNnRoZktjUHhGRTRGOXZYbWZtUXlTaFBXN096VFZrTDBQQll5ZDJaZDlPdUlueEtHaGMyQ1ZnWHdxQll3UWI3WHdYZmc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump Sees ‘Momentum’ Toward War’s End After Meeting Qatari PM",
-   "source": "Bloomberg.com",
-   "time": "2026-11-09T23:06:02Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVduRDc4eWZyV3N1OXZIUnAzOG0yNGNTVDVBd3FaU0t2ZmJua2RXQ2xHSE9WTkdRbW53bTlrTVpkOXNPdzNFVWxzeTh6LVE1X1BNZ3VjVmtybEh4Wmhyd1pPQkFnMTE2Smh2R3FjMl9vaVBLcWFRa19OMkJnWHNQSlM5SmZMYVc1ZjZhRFJnMFBmU2h0bEx4cXE3S3J4Sk8xQXJJdUNPc3paNUx5MlRKUw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Will Secretary Pete Hegseth pay the price for the Iran war?",
-   "source": "NPR",
-   "time": "2026-11-09T23:05:36Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUdpUGs3ODZfS0VreXNtNVFYSVVLT0ZaSzM0eDRhUjVkNGF5X3RmYTkxTkdLVDdIRkJNV2hUMWcwd3BUc3paREFMUTNuS1piSlc3NWE0YWhONk5ueVkzblNKRWFkX084clg3eFlRTlN1S0IwaTFHTmlMWDUyLWFoX0dHNXJ3Y1NheUdncVVibWhIM2NJOFpiSzkzU05XY01lVGNiMmhn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "COMMENTARY: Fund sellers, China buyers squeeze copper's tariff trade",
-   "source": "Reuters",
-   "time": "2026-11-09T23:05:11Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWlpXV0JiLWp6alEyWjJXejVxdE95VFBrMzVVcDJiOGtWc2NFcUtNN0R1cXl2cmlQdmhlMjI1ZDA3U2pzcko1UjYtc013SDNfNlZ2TUJlbUlIQnhDMXNxZmtDVHE5VUdwQWxER19oSjNLN052bnVrYlQ0QVNzallzOVU1bXdxNFlHSy1idC0zTGlNTnBscUNDdTNjdDBpb3BtUjJqMnpIRE1MQzVIVVRPeUMxUnE0LU1mb2h4T3hJVno?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Trump says war with Iran is ‘effectively over,’ but US remains ‘locked and loaded’",
-   "source": "AP News",
-   "time": "2026-11-09T23:03:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNlozNFZyT1BlYnQ0MnNfNU5TaDN4cDRpb0ZWMmJsQ2U1Yjdnb2ZnSlhMMk5ySlNfRWVjSlFBS0pyWk5sX3V2eXJYZnYtSjY4Qlc2U1dNX1ZWTWk4ZFZmSG05SEFzeWFfQ1VuVDdOWWhWeXVTRlF2ckdOUWx1bXhKcXpLSVpYUzhYbmQtSmJHWm5OQnlqdTFFeXp2QnVtQXh4TS1JZXhpN2d3d2dyTHN1bXBwRnpCRWl5QUlZbW1FNlEtM0M4aHpFLUdvUTByTDVv?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
-   "source": "CNBC",
-   "time": "2026-11-09T23:00:02Z",
-   "link": "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
-   "tags": [
-    "CHINA"
    ]
   }
  ],
