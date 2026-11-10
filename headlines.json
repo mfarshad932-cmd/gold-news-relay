@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T02:36:32Z",
+ "generatedAt": "2026-11-10T03:04:40Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 10
   },
   "investing_commodities": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
@@ -91,12 +91,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 24,
+   "items": 23,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 37,
+   "items": 40,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 14,
+   "items": 15,
    "kept": 12
   },
   "gn_oil": {
@@ -125,6 +125,61 @@
   }
  },
  "items": [
+  {
+   "title": "China exports, imports soar past expectations in October — surplus narrows sharply",
+   "source": "CNBC",
+   "time": "2026-11-10T02:55:48Z",
+   "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "China October exports beat forecasts, imports surge 41.6% as trade surplus narrows",
+   "source": "ForexLive",
+   "time": "2026-11-10T02:55:31Z",
+   "link": "https://investinglive.com/news/china-october-exports-beat-forecasts-imports-surge-41-6-as-trade-surplus-narrows/",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
+   "source": "Al Jazeera",
+   "time": "2026-11-10T02:48:45Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely",
+   "source": "BBC",
+   "time": "2026-11-10T02:38:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVGlrZGdkVXQyRXBjbUdDMVliNVZPR2l1eFFud2tLMnRGSlRmbmYtbnBpVGFfX1FqRkh0WGpMbHlfT1U3WjVkR21hNnJmRFdTcndqS2F1OE5EYXM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "3 Bank Stocks Tied To Treasury Yields Investors May Want To Watch",
+   "source": "Yahoo Finance Singapore",
+   "time": "2026-11-10T02:14:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORVgzZndnYVBGMElfd1Z0dTZpRUlIb1ZaTTVxQUN1aDV4azh3YWhyMGlwSXhBYl93Rnl2ZnpoWlh2MUpmN0hXWFhTX0o4c0dudWJJU0JYajhyakpxQU5rOXpoam1ESmpEUDRJSGZTTmZ5RXpEYjJqd0RncjFQMjNJRHpB?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Gains Ground As Oil Tests New Lows",
+   "source": "FXEmpire",
+   "time": "2026-11-10T02:05:00Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEFWXy1YUmhXdFVsT21Rc3JWUmJTTXJacG1ycU1PVUkyRUFlSFUyTHUtZm1fSmt6Uk1SdTY2dzYyYWg2TkVRYWJBM25RakxUdkNIVXl6VkszaHQ4SDV4eVNqNVdGZ2tqamttbWJOeG5zbE1MRmtJc2VmYTNQU1hDMmEwZEpOcmRwYnVKdjFBTFNsVzg3ckYxMlVUUFVzcHNnSm16WHZLZk0xaUNTMlpfVzBpU2dZWEFvTmxxYXEzUi11aURONU5j?oc=5",
+   "tags": [
+    "OIL",
+    "GOLD"
+   ]
+  },
   {
    "title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
    "source": "Al Jazeera",
@@ -285,16 +340,6 @@
    "time": "2026-11-10T00:55:00Z",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUFBxa0JaQkRlV0RfaUFTU0tGVXU4V3JyTjVER2h6XzZFbkFWT2xCTkpINXZ1SW1KaEtJdWhZQXB0ZlZtbXpnTjEzWGpGQVRNX1JDUGtkZTg3eEgxX09CQ3lSODNCMVRFWjgzZXBHYjUwZmVMZkFRVDhUQUJ1aldlVnlodnhqOXZJUlNyZ2ZoSWdMOW8?oc=5",
    "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Gains Ground As Oil Tests New Lows",
-   "source": "FXEmpire",
-   "time": "2026-11-10T00:49:53Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEFWXy1YUmhXdFVsT21Rc3JWUmJTTXJacG1ycU1PVUkyRUFlSFUyTHUtZm1fSmt6Uk1SdTY2dzYyYWg2TkVRYWJBM25RakxUdkNIVXl6VkszaHQ4SDV4eVNqNVdGZ2tqamttbWJOeG5zbE1MRmtJc2VmYTNQU1hDMmEwZEpOcmRwYnVKdjFBTFNsVzg3ckYxMlVUUFVzcHNnSm16WHZLZk0xaUNTMlpfVzBpU2dZWEFvTmxxYXEzUi11aURONU5j?oc=5",
-   "tags": [
-    "OIL",
     "GOLD"
    ]
   },
@@ -627,52 +672,6 @@
    "tags": [
     "FED",
     "RATES"
-   ]
-  },
-  {
-   "title": "World in brief: Huang affair dents Nvidia’s share price; China extends tariff truce with America",
-   "source": "The Economist",
-   "time": "2026-11-09T21:36:59Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNclRrVGFtUDM1VEhvSHpNaFF3WmRmRm5BRllkTEFMa05iSFhPR2F4YVFnNGxZeExxeVo1bUxFQjdvUTRnTXpBTVJBaFpudGxTVEVZZXNhQ0lyZGtyU1F0eXJlcWtjeDY1SC1lUkJBWGxLaWNIMWhzNG1wYmMyVGNjS21RUGNuUlVBM2ZldEl5RnE3WWEzSVNz?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Canada says it is extending tariff relief on some US imports",
-   "source": "Reuters",
-   "time": "2026-11-09T21:35:34Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTTNFR2s2cS00RWNNUlZMWU9kY1hXajNGazNhdFZjeEFabGF0bFJlY0dMaUhOM1hLYmNtcWI3dFNuNzd3Um9OSTFINUVkUl9sajNUSUNfUW83LWdtamJBUUItLXhWQkYxb21NRkptVUVJT3U3dE1ibTJ3X0lHTk1NOEdsLXhRVkNIb0RZTGlGRjY4X2F0RUFVTXJDZWxRbUFVN18yTA?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
-   "source": "MarketWatch",
-   "time": "2026-11-09T21:24:00Z",
-   "link": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Treasury Yields Down Following Democrats Midterm Win",
-   "source": "WSJ",
-   "time": "2026-11-09T21:21:17Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdkVMZXBIOElzYmpRaVNwbmNZOWxvT1ZsUWgwamhobmRBNklNOGZGSGNWNG5jZjZPTUtPT2c2V0ZTNmM0SU1MNGdhV2plaVZNbDVOclUzSXMxa3NGM3ZQMl9feDdEQWhramMzMnVycHpCTm1haEFhRFZnYnpNb0hJcjVOR3pTazJ5b1FXeHFkQWRNRUszNEZFVkpmYVNoOWJKclNnM3JYTnY4bWVrdEhkalNxMGIxR2ttRFI3czliVjVXaVh4SHpNSEVR?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Republican lawmaker moves to impeach US Defense Secretary Hegseth",
-   "source": "Al Jazeera",
-   "time": "2026-11-09T21:15:56Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU0doeG1pRnE0LUpVX1hEUmRKZFg1alV3QjhkNThoM0NPam9fQTUwMTlsODE1YkFfSkVvekFYOHBvNXVpWmMxblpkUEhLQjUzNE9RSUlrRUFkMVFIdEtaajNVWjJKcl80QXBsbGh3MFI0SjJlZnlOZDdlX05kclFNNUlkX2p3ODB6b3FXSmk1eGpGalgyV01MV25UYVRlN2J0QXJCeEJsVjdrSkJ1eEFLQ2diQ05vdjjSAbwBQVVfeXFMTkpiWlJNakNldmFDYncwMjE5YU5GS2ZoTm1lMUtaV3c2ZlZ0UHY2bWQtY1NES3U0cXFveGhSSE9jSWZKdGptenluZm9TbmhXam1Ocmx1M1JxSDVtTy1vcUo2WUhJbTNteXljU1R2eFU4VFNpQmItLWhRX0hGd3R2OGs3Q0JMcTQzeWNaNFJieU1EVm5JZThoRTBpQ1RuSzVWMGxwc2JtVlFSalR5M20tVWlKUWM1YUF6U0VJWUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
