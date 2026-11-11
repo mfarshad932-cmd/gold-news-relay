@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T08:21:46Z",
+ "generatedAt": "2026-11-11T08:50:07Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 10
+   "kept": 11
   },
   "bbc_business": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 36,
-   "kept": 11
+   "items": 23,
+   "kept": 6
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -81,32 +81,32 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 33,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 48,
+   "items": 49,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 25,
+   "items": 24,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 40,
+   "items": 43,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 10,
+   "kept": 10
   },
   "gn_yields": {
    "http": 200,
-   "items": 32,
+   "items": 33,
    "kept": 12
   },
   "gn_oil": {
@@ -125,6 +125,70 @@
   }
  },
  "items": [
+  {
+   "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
+   "source": "Al Jazeera",
+   "time": "2026-11-11T08:37:30Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjE0dVFENk1CX2NnRnVSUEtzYzVDWlpBVlFvMnlNMnV5SjBncHJNcFI4WmRjNmdJWGtwXzJ6aUtYOUs4Ynl1bVUzVm5TWXFxNGxfSzRtaEY0czhyRTFSVU1mN3NqNW1BWm1WT1dCS2dZbEVTQ0hBcGRsM05RUWVQRGNUVHF1ZGhHOUZNVGVqR19keHFTUzJ3V0JwMnpFWF9uWDBYV2l3M01SN01ROFc2bzJHZUt1TjjSAbwBQVVfeXFMUDJtWTM5WXEtX3NDM0RkOG1ZVjE3RXVRYnRQNm5feHhKb0VJaXlLMjdPcjBCa1NzMkIySmk2a1hRMmwybS1SWG13RzNxLUtVZF9mQV9QYlB4cGxWcDVUbUFjVXdvcHo4THhtN2NIU01lUEYtUzVPdzRNcXIyWlBYM09QR0FsNzJUMUpBRGxaYUpQbl84bjNseUp6bWU1cFM2aUpvaUU5UnVJYXY0b1QybnBaX21OdWM2M3AtZ0w?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Federal Reserve: December rate hike expectations reinforced – Commerzbank",
+   "source": "FXStreet",
+   "time": "2026-11-11T08:30:46Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMkZlb2dWSTdGcmNBeEdCX195UTFJdktHRld5bDJjaUtPaG1sU0lMYWhZZF9nT09BSFVYWXJFQWhxSzVDRGJBM3hCRGh6T2lYUUl5RTluVUFJUjJ1LXpJSTJHVGdBQ05pRUpLVzU2NldZTU81d3daLWdvWnhCTWllMnhTZEM2czUwOGRwMmpRbVB5Z0VtNjVFOF9TOE5TekFrM013YVFzRVd4UGM5R0xvT1Fxcw?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "American soldier arrested on suspicion of spying for Russia",
+   "source": "CNBC",
+   "time": "2026-11-11T08:30:43Z",
+   "link": "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Why China’s $1 trillion trade surplus isn’t all good news for its economy",
+   "source": "Al Jazeera",
+   "time": "2026-11-11T08:29:10Z",
+   "link": "https://www.aljazeera.com/economy/2026/11/11/why-chinas-1-trillion-trade-surplus-isnt-all-good-news-for-its-economy?traffic_source=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Barrick moves ahead with North American gold IPO",
+   "source": "Mining.com.au",
+   "time": "2026-11-11T08:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEZmVZWEt0UXZOa2JiRXU1NzJ6bDR0cUd0ZlBKMDF1eDQ0UmhqWFBoSEdDdUpmbFI3WGwyWDNscnF0WjE1cGYxZkItc3lfbkZNZFhyT045OUVOZjBXdEJRQ0UzTnVod05iZ2hQS0FUSGFuUzFlR1o3YmJSTQ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "API Shows Sharp Build in US Crude Oil, Distillate Inventories",
+   "source": "Investing.com",
+   "time": "2026-11-11T08:11:00Z",
+   "link": "https://www.investing.com/analysis/api-shows-sharp-build-in-us-crude-oil-distillate-inventories-200691337",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Middle East Oil Flows Far from Normal Despite Signs of Oversupply",
+   "source": "Investing.com",
+   "time": "2026-11-11T08:11:00Z",
+   "link": "https://www.investing.com/analysis/middle-east-oil-flows-far-from-normal-despite-signs-of-oversupply-200691336",
+   "tags": [
+    "OIL"
+   ]
+  },
   {
    "title": "German October inflation eases to 2.8% as expected; core slows to 2.1%",
    "source": "Investing.com",
@@ -197,6 +261,17 @@
    "link": "https://www.aljazeera.com/opinions/2026/11/11/is-washington-rethinking-its-relationship-with-israel?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Holds Loss Near $4,000 on Hot US Inflation, Fed Remarks",
+   "source": "Bloomberg.com",
+   "time": "2026-11-11T07:17:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2tORWxkdHRBenRxSW9hSW4wekZsa3Y5VTA0d3A3NTNzTVhMazhTWnNEWlJvMlMzUFIyenNRVl8xWWJaOTdMN2NQVmNsWjhRYUJKWmplRU8zbGthZGQ0R0NlRzFSWmZObzBRSnVNSHFGM3owd2JpTmZHVEkyaEVIS2dLclc3cGZkWXBUSlFoRnpCUTRKdTFrNzNCb2xwUVJic0RoaGgwZzF0ZktCMWc?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION",
+    "GOLD"
    ]
   },
   {
@@ -275,7 +350,7 @@
    ]
   },
   {
-   "title": "Asian Stocks, Bonds to Drop as Fed Hike Bets Mount: Markets Wrap",
+   "title": "Tech Gains Boost Stocks as Bonds Slide on Fed Bets: Markets Wrap",
    "source": "Bloomberg.com",
    "time": "2026-11-11T07:00:00Z",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFpBLVFiSmhuZGxNdjZ4WUE1eEZZVzlpcElqQ3FpX2hfRVVkaVdncm5Ic3J4TFdMVTVPODFqV1dYWTJORmx5c3lTMHg1ZUtiZml2ZUVOZm1WQnlCa2lKcUt3M0tjQUsyVVNxQlVySk5TbHRqZHczYVFDTnU0OGZjMjBBWUFqZ2JpNFNhb05nX01EU3dX?oc=5",
@@ -378,6 +453,25 @@
    ]
   },
   {
+   "title": "Gold: Contradictory Statements, Elevated Rate Hike Expectations Prompt Selling",
+   "source": "Investing.com",
+   "time": "2026-11-11T06:10:00Z",
+   "link": "https://www.investing.com/analysis/gold-contradictory-statements-elevated-rate-hike-expectations-prompt-selling-200691339",
+   "tags": [
+    "RATES",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "War veteran returns Falklands helmet to Argentina",
+   "source": "BBC",
+   "time": "2026-11-11T06:09:30Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84MEJOWjNTejVGWU1halQ3YWZHTmdHNkJMUDJkSFJCcml2STJ5Rm1vdmwwNU9zS2ZOMnh2VmRGTkd4Z3dtWS05QWppQ2RCU0FXM0lmLTc2d0tMbGM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Cornish pupils behind AI war film to lay wreath at Cenotaph",
    "source": "BBC",
    "time": "2026-11-11T06:08:49Z",
@@ -427,7 +521,7 @@
    "title": "Midweek Oil Wrap: Brent Tops $90 A Barrel After Pulling Back Briefly, OPEC October Oil Output, Strategic Petroleum Reserve And More",
    "source": "TradingView",
    "time": "2026-11-11T05:51:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNcG1la0ZwSURjblZDZlFpSVVIZ1I5aHFROFZWaHNLLW5zdDQxMlJJQWJDbzJJckRnUTlUTlJ0LTdseUUtYXEzM1AzbW1jNE9zX1IzMWxpUkYxYlg3UEpSR3BVdkFJZjRQQ3Y1V2ZDa25HMl9CQ05Kc3hmZjV4WV9JbGdqdkRhTktYRVZvR3UwNG5mRXlBcVI1X0o0RjZGSDBmRFF0b2xrRkFyenpNUm9xeDdUOV9zOHpqeFNXcE5NY1ZDUnBFb2kxU05TU2xNQ1RnRktyQmc4U2JBamdOTnZ3UnExcjdVam5YRW5VcjVlNG1LOU5OTWlXcVBidnlQRkhtMnNBMUh4TEdyR00taXVGbXF5ZFFNalU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOVTVDWElGT1c0dlRGYzZpZnhYeXNGOWxubEdpZnplaHVhY1hLWE1XcWVOTGtJQVoybVE1N0QzaFpvd21zaVNjd1JMRnlXVUlDT1hxY0JYdjJHZFNiN1lhTWNtMm85aVZuMXc0TF9mZFBvSVhoREV6QkJFM2lCQ0N3MHBscVhCYjdRUHE0VDJVNDVjQUFGUVFfME1TSmU0NTdOcXIyVTJhcTNBNXRqb3pFSnpMck9JUVBhbjBsblEtZmkzTW1zYmdkZGpIcXN2dWJXSWtQOTF3dV91clRCSVNNWkFWdGM1azd2elJKOHU4dFp3T29qeG5RQ3prZFhOQUxrWExMbG9aQlp5aWVPbTFfUEhTQkloUlUySDIwNzlkNkE5dXI3OUdNNm9hQ2ZXaEZO?oc=5",
    "tags": [
     "OIL"
    ]
@@ -454,7 +548,7 @@
   {
    "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
    "source": "The Guardian",
-   "time": "2026-11-11T05:33:00Z",
+   "time": "2026-11-11T05:35:00Z",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWjZYdEdGclo5TVdOVXhmMWc5c2ZlWmZwN1VsVFlQS1FCQ1ZsZVVhSC1NYWFvQ2cwUEVOWHVFREUzYUJUbFhSUG83U0tYRXlaTzFpOXhsekhwNHJBbHh0WVR5MERnbzRkUnlZWmFUM2hyWWZvZktCLWZpUUs4MnVObmNVdVFlV2gwQ29PV1RibElJdklnM1E?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -468,6 +562,15 @@
    "tags": [
     "INFLATION",
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold Futures at Equilibrium: VC PMI Levels and Square of 9 Harmonics Near $4,055",
+   "source": "Investing.com",
+   "time": "2026-11-11T05:31:00Z",
+   "link": "https://www.investing.com/analysis/gold-futures-at-equilibrium-vc-pmi-levels-and-square-of-9-harmonics-near-4055-200691335",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -538,6 +641,15 @@
    ]
   },
   {
+   "title": "France pressures Germany over nuclear risks of long-range missiles",
+   "source": "Financial Times",
+   "time": "2026-11-11T05:00:12Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQalJ0Y0VNR1NBVnlPSjJKYWwyNFg0SVZaQUVvblBtTm16WEtCS2kxdVVlTEZQUEFZQkdYUjFja1ZLQ2tXQldlUkRxdjd5WHZQeU1qeVB2MlBJbFMzZEVQRG9WWU5VMGJwN1d1bmNHNEhCOGxqYnZtdHNnbUhCQkE1TjBBSy0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "From the Front Page: Fighting in World War I Ends on Nov. 11, 1918",
    "source": "The New York Times",
    "time": "2026-11-11T05:00:02Z",
@@ -574,117 +686,6 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTXA3Nk9faTNocjNUSHpUZWpLRjdmV096U1lkeXZLcE5SRkw2ajl3S056Qm9zcDBYeWlHeTM2aGtEckphdElPS3FEYUltR0dsMmtnWUVtNWtSNzNVcWM2Ujd2UGZmREgxQ0dic2RxM1U4RU9DV3pHRE1NZGVtTW9BQkd2Ull3SFpjWlZKSjVzaERxQTg3WEtFbmtQOFJUdU9IWWg3NlBzWEo4Tl9GcWQ0T0RtcUdoWmlaTlFoM0ZtdjBLWWdYSE43Qg?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Falls After Hawkish Federal Reserve Remarks Reinforce Rate Hike Expectations By Kedia Advisory",
-   "source": "Investing.com India",
-   "time": "2026-11-11T04:49:58Z",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb2oxWjVLXzAzWFpFM0NKcXpfYnJiTmctbGg4a3ZLS2szUTVUVzgxWk5UYmhFWXVqODFkZmotU25VaTBlVGpoWHZMRlZVV1FLeC04X1FsbGE4UWI0QnEyZ2RWSFEwWENvSW5rRnFlWVN2QjJUTGhaQ3RzcDR2UnVGVlFKOUxTSnFvd3BkdUZyV3FZQVQtamJmMGFVaWVhNHU4OFhwakEwWUQzM3JwbnFKelZfU09xeUFtTjJSaVVad2o3ZUhjR1F3MUkwbWVRamQxREE?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Russia claims interception of 146 drones in Leningrad region",
-   "source": "Al Jazeera",
-   "time": "2026-11-11T04:39:14Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY19vcnl1bmFEN1RSdHhxYmJlT043aTVRT2YxWEFobXh1UXBtUU91RnhhRF9DM1NDd0lvRmJ5b1RkdVl4SHcwdnFadnNjN2pFMG4tMU92Ml9FVGRpTWZFYmJqZXN6bENyY0JJLVNQcW5GM2ctMWQyMkN5TTdPYXhwQ3lHd2pCMzExWnQ2T1otVmF5ME9JS01naDBfRkxid3h6eWNDb9IBqgFBVV95cUxPem03d3NxUDB4NUdQNi1qYkVidE9LOHRFbUstWGpMaDkzVFlEVWpCNDE2RmhJYno2X21tUkkzcTE2V3oydXRwbGdBVmRrY2x0LUxERTIwbnBtc1BRN1lvZi0tZ0FVTkJaQVNFa2hKZHB3VHN3V285RmNodGhfLS1PMkJBcmpScEF2RFYzU0stOEVVdmctaGtNR3pFSGFkUThhYXVOUHlkM3Z2QQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold price in India: Rates on November 11",
-   "source": "FXStreet",
-   "time": "2026-11-11T04:35:11Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUU9yNE9pZ0tyY0hJaTMwMXNVd29wbE1sZjNORTFlQXRqYVVwaDZ6Y0phZ2Z0MENPc1dsdWM1dGwxMVFyaEVkUGFiN05LWml1eW54NDdlalNkQUs2Qk9mZUFvdGJWNHRDU2NTLWtzR05vQ1o0VTFpQ1VRY2RjRTY0Q3loZHFmbm5yTlRrMjBPVXBlSk9uemhmTWdJS2lyZUlZbEg2YzBR?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Russia, Ukraine exchange strikes as Baltic nations issue drone alerts",
-   "source": "Al Jazeera",
-   "time": "2026-11-11T04:34:47Z",
-   "link": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "investingLive Asia-Pacific market news: KOSDAQ jumps nearly 5% as AI rebounds, oil firms",
-   "source": "ForexLive",
-   "time": "2026-11-11T04:31:11Z",
-   "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-kosdaq-jumps-nearly-5-as-ai-rebounds-oil-firms/",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Gold Price Forecast: XAU/USD defends $4,000, but for how long?",
-   "source": "FXStreet",
-   "time": "2026-11-11T04:26:19Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR21CU0pxSlpuRktsdXV0a3daSndwV2lDel9GaFdQVGFWaGo3MjVtbndBVjc4SEtvVVBWWG1rdkdsVzhTYWhmTUhzekpIVC1jMHN5VjFKZkVaMnFaZENGa2hTckQ0UkhjbU41Wi0wZlRFZExIS1l4QzZETUZ6cTVmS0pLZDdac21KREh5M2E0Nk1qNm1RZDlRU0EzSktQNTNfaDZHZTVGQkE?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold and Silver Price Forecast: Higher Yields Put Rebound at Risk",
-   "source": "FXEmpire",
-   "time": "2026-11-11T04:11:26Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUHZVNWZSckQzWXduYy1yT18zc0pZOUhldDZTZGFwNVJCVVk0X2RWMk1jM2kwelVCUnN6NDN1dXR5SjE0cnEtVFBMSmdrcDFOOEY1ajlDQnNSTTBpYmk3MDdrRWlTMFNMRzNCczJveFNRdmJwV3gyLWhEYXpXMjNQVmZ0MXhNYk85TXZMYWwyVVA0UzRYX05RLUFZWXZmdUJsZ1ByT1BCMjIyUFFMd3JlSHRIUm1Kdw?oc=5",
-   "tags": [
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Section 219: the future of US-Israeli defence partnership",
-   "source": "Al Jazeera",
-   "time": "2026-11-11T04:08:43Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTVUyUE11T3B1aTJMUVB6cHU4WWxZN0VYeGZsbnZ6NGFvU0JtNmNxd3VnV21UalYwOUdPTnZUU1Z6aElDSzNjYTVlMDVQUlZPYnMtVU1rN3k4UzZMTzhYbU1ZQl9WX3E4OVpGZGdFMHZUWGs1OTVLeG1yRzMzTnRtZzJjWDc1TGpNeHQyUlNNaEwzd25RRFYyZGhqQmRZdDc2VHB3d0ppbmhwMUx0UGJjdDRrVnHSAboBQVVfeXFMTkhhWEU2Q1k3dTNZelVIZkFRcW1JWHpFcW5zV1ZLQ3dyRlNlSTltTWZRX1VjRDRybWVhRXR1S0FFUzdMVEQ4TnBCYnZ6bnFHSGwxT1lnLU9DZHhrSDVrRHdYQTRrdk1henNPYVdBajhCWUNLNDhqN3ZubFJDaC1obDN5SVJRdVpOTVJRWjY1Z19TUkktZHdQZkVFMVlRYmc5TnIyV0dBYWNXdDZ1TVZfcUJTU2l6Sm5fbkJ3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Bessent reportedly moved to military base over Iranian threats on his life",
-   "source": "CNBC",
-   "time": "2026-11-11T04:06:00Z",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOajV5Qnhma05Zd0llOVU2c3JoTkpLcjJOLThqUjhoYWhob25vUHV6WEhzQW9ISTRlU3IxaTc2cUlDbFhwNHVZbTd3NVpxNjg0UEUzTENnVHd5ODI5QmpUWmUwTkQ2dzJVRmw2U21vUmdfRHJ5WW9Vdml2cERNWExrYnliQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "News by CNBC TV18 on TradingView, 2026-11-11 — cnbctv:ce0361d78094b:0",
-   "source": "TradingView",
-   "time": "2026-11-11T04:03:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iYjIwdFl3aXhUdE1KY3RTQVJ1Y2c1TmR3V0lIVTh3SzVhcEJnazZmUEt0eTg5aE5kME9FTHRaaUFZd2NTR2N2NlIybDllcjZuMjJ2MHNpZTRhWlpXM2RxMk9admY4d0k?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Analysis • Trump's post-midterm retreat on Iran leaves Netanyahu increasingly isolated",
-   "source": "Haaretz",
-   "time": "2026-11-11T04:01:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPU204VnJXelQwaU43eDliZFAyeWcyMUJNNC1BbVZvR0g1QzdBOWtGdy03R1BnZGxHNXd4eHZWYXBjZlM0UnpwUjhfU3JfaVBtcnhRYXNpN3d1LW5zVTlNcHhWTThUZVpsWlo1Wm94Vy1ZT1FzR09iWDhKRXhzUzhuUnRYclVYMjRVR1Y0UEhlRFlLTzlqeHpHMHpTQjRQVmRkamFTQXFPOU1rVVN6X3d6cnZXVm83emxIcms4RUFweXZjdkl1Y19rTWYwR2hVUzNZWTdUVDgwMjlKVlMyanJSMnBwNHFpR2pSNmlmUThHcTdRejloeElzNVU0bFdBSDZZVkxrWkJTMThVUHgtdjI4cWs5TWZER0l5X3BnVzRfOW5pbW9y?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil Is Stuck in Limbo, With No More Iran War But No Peace",
-   "source": "Bloomberg.com",
-   "time": "2026-11-11T04:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2F5dklIUm9LbGw1WUJ6c2NKMEpZMkVGdnkzekZJUkVHWTFCWXdwdHpJbnVLQU5hRXY5V3dycEltY1p5VVpCWHBJM0JaUlktcVh6c3FKZWpHdXdqN0RLanVDc2VXVUc1dmN1aThRZjI4OUdEZ19KUm93Vm1wMklHRVFuMkhvemFGNnhrVTk4MkRraUhvT0hqVGRSRDhJdl9UYk9pTGxDc2hkVEg3cWRz?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
    ]
   }
  ],
