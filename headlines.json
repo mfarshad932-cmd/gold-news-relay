@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T09:18:29Z",
+ "generatedAt": "2026-11-11T09:46:56Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 6
+   "kept": 5
   },
   "marketwatch": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 11
   },
   "whitehouse": {
    "http": 200,
@@ -80,52 +80,44 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 31,
+   "kept": 12
   },
   "gn_fed": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 50,
+   "kept": 12
   },
   "gn_tariff": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 24,
+   "kept": 12
   },
   "gn_war": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 39,
+   "kept": 12
   },
   "gn_sanctions": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 9,
+   "kept": 9
   },
   "gn_yields": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 33,
+   "kept": 12
   },
   "gn_oil": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 5,
+   "kept": 5
   },
   "fed_calendar": {
    "http": 200,
@@ -133,6 +125,43 @@
   }
  },
  "items": [
+  {
+   "title": "Gaza Grad: A Palestinian-Russian family’s longing for home",
+   "source": "Al Jazeera",
+   "time": "2026-11-11T09:39:19Z",
+   "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/11/gaza-grad-a-palestinian-russian-familys-longing-for-home?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement",
+   "source": "The New York Times",
+   "time": "2026-11-11T09:18:47Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHJfTXVYZlRMcmFrTlhwc3AxeU9uOGFXUUZoSkZQVVhRTGRJUkZTcEEwM1lMMVhpWUdZM1hSekpyRG9oYUhoM3ZEcFlqMDdfZGcyMUE4NHlSSUpuMXR0VEtfRkhIYTlHRExaM0l4M3JLREZ2QWJVbWEzNkczdGRiS3ZYRXRhWnRPaU92cUJhQnplMjdHc0ZjdGpB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed Speak: Goolsbee calls CPI 'borderline disturbing,' Paulson backs gradual tightening",
+   "source": "TradingView",
+   "time": "2026-11-11T09:14:46Z",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdUgyYm1zNGJFWDFacUN5aE9NaGt5ZkNuMER2QUNHam42YjBrbXBaZFlKR3pyRnExZ1FyOG9JYkR2SjdadmEydXllNUZNV2NnR05KRkQwRmg2V2dxRDFvdE40NS1hMXZhRUI5d2dPd1p1VF82YjBqMFVYM0lEY3UwTTYzRVFUSkFfdUlJQWt5MmgxMWtMdFRKdHo5V3p0WWJRVm01eWdzN1NYeVpuVXg3V2xpR1dCZWVBMmh6MFl0dFBQLXZSZEFGdDJpc2pMYlJQVkRxRG5NZ3V2RkdvcjVz?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Diageo's Scotch Shipments Held in India Amid 150% Tariff Dispute",
+   "source": "www.marketscreener.com",
+   "time": "2026-11-11T09:13:16Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmZSWkdRVEV3ZXNjUm92QXh3ZnZHT0R5YkRucF9nRUJFbWxvRVI0cUt5OW5WcUxaVU9vRU1TN2h4SXhZdEtBYnEyZ2pIMDVqMWo1anRBaUpSMUREN3prWUxzYl85LVB1ZDhxeURmWGpWc2VCeUlnUmJvUTJyVFFMRklQN29CYldRNDZyMXBiTnBMNEtjLW5KQWtWRGY1UU53RWptTEZ4Vk5RWmc1T29Fbm10WUVPcGc?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
   {
    "title": "What do Kyiv residents think about giving up territory to Russia?",
    "source": "Al Jazeera",
@@ -143,10 +172,37 @@
    ]
   },
   {
+   "title": "Stories of life, death – and crows – from ‘The Forgotten War’",
+   "source": "CNN",
+   "time": "2026-11-11T09:00:15Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYzBNb0VvanlabkM1WlFHU2ZtVVBhSUFVenZnMzZ5cHRxckw5ZlJxQUlrTUN4SlRlZ2tfb09uUVNVa2tlbWdEdkpxYTVJUEFibWpUQ3JrVmR6X3ZWTGVucmlNa0xRQ1J3SmpFd25wMzR2NXhldGxUREVndVRWd1l2RUNZNGZCWlVCbF9yVDk1TQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Tech Gains Boost Stocks as Bonds Slide on Fed Bets: Markets Wrap",
+   "source": "Bloomberg.com",
+   "time": "2026-11-11T09:00:05Z",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFpBLVFiSmhuZGxNdjZ4WUE1eEZZVzlpcElqQ3FpX2hfRVVkaVdncm5Ic3J4TFdMVTVPODFqV1dYWTJORmx5c3lTMHg1ZUtiZml2ZUVOZm1WQnlCa2lKcUt3M0tjQUsyVVNxQlVySk5TbHRqZHczYVFDTnU0OGZjMjBBWUFqZ2JpNFNhb05nX01EU3dX?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "US embassy refutes Houthis’ Yemen blockade claims, highlights siege on Taiz",
    "source": "Al Jazeera",
    "time": "2026-11-11T08:58:59Z",
    "link": "https://www.aljazeera.com/news/2026/11/11/us-embassy-refutes-houthis-yemen-blockade-claims-highlights-siege-on-taiz?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Putin is not ready to make peace in Abu Dhabi",
+   "source": "Al Jazeera",
+   "time": "2026-11-11T08:45:12Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa3dnRjJSVlg2Z2JWaU9FbE9EV3hzSkxDR0FTUHppcHhQUnZCMVNfVXAtelBnVW9DM2hxY091UnhSU1VNVDZkNE5tRGNQZ0Q3NjIzc3daR0hGR2s3amIwN2Z6VnhINjItbG5aYVF1ZXkza1NJR1ViMWlQeFZCTGpEbWV2akY4eHp0X3NsdloxZjN4RWJYb0HSAZsBQVVfeXFMTndiRzVIRjF6QkhkNFBLUXVDSnRtVnlmRkl5bUtVaXNuRGthbTVYUHdVd3FreU4zbUpBY3VzSE1NLS1lVm5RN0hpd3lRUkNnNXctX3NMT1pUWUlEQndHdDlObDR3Ukl1cllTSmgyZUxaS0lPc0tUbllIMXlQTXFJeE5hdWRHQkc1cGE4a19XTDRUVlYyQkZVcHg0M2M?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -196,6 +252,13 @@
    "tags": [
     "CHINA"
    ]
+  },
+  {
+   "title": "Why Bitcoin, Nasdaq, AI Stocks, and Chips Move Together? The Liquidity Machine Explained",
+   "source": "TradingView",
+   "time": "2026-11-11T08:25:45Z",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkJnVURtQWRreU9hbGZ4eFNhMWF2MHBDS0JhTkVHQU15UGdOeVJlSnBTV0lraW5TMGxPdkFuY184Um9VVFZwakRFcHVNa2piQklRQ0ZsczIwZGQwcEdYc0lmM3l0M0pvWklSUEpzWXp1SW5LaHJuNkpLWi1fZDJpanZYX3hsWnJBUkRsSjFQNGRDZDRnUkQ4NkppTG50ZzN5Zkg3R2JQS2MxZExOXzJGQ2VDdHVjSkZ5VGlvOGJkRzctZ2FOOEdBWW5STlRERENtZGotdl84bFA2WDdWNUE?oc=5",
+   "tags": []
   },
   {
    "title": "Barrick moves ahead with North American gold IPO",
@@ -282,12 +345,40 @@
    ]
   },
   {
+   "title": "World in Brief: Treasury yields jump on inflation data; American soldier arrested on Russian spying allegations",
+   "source": "The Economist",
+   "time": "2026-11-11T07:41:12Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOHZ4UmtqSkJLYUtrdDRETi1pbVA2UC1XUEcyekFpaDNqQi1VVmpoYnV0VkVmbFZkcnpVX2VvSW5BOHpIU2lHUjh3MGJZZTVMZUNydE92ei1hcHg0bi01Q0FjZ3ZsUmVaRnZKRDItRlozWWRaZWpwTHNrVUxoa0MwTDV6Tl9EVy1Wa3NNdmh3eXpoeXBNaXBB?oc=5",
+   "tags": [
+    "YIELDS",
+    "INFLATION"
+   ]
+  },
+  {
    "title": "ONEOK: Inside The $4.4B Brazos Acquisition, Apollo Deal, And Barnett Upside (NYSE:OKE)",
    "source": "Seeking Alpha",
    "time": "2026-11-11T07:39:00Z",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa3VlOGlTdzRpSG9UQUZjcUE2dGNTS0hMeTFuNE1kTDViMzE5eEVsYmp4MDlMYXBrVzZqdG9hN1ZrNy13TTl5WlVWUFZVQS1udkhQVWJEdldEVXFKWVo3c2J2Q2w2MUloZE5BdlRLaU5GWUIyQ19tc3lJMEpkRTZfWjEwSGpGenNxRVQwQS10SVZUZDl2ejRwZEFMYVZ1Qmh6UVJtMjQyc0hPWDdBaHNyM01xTnI5S3c?oc=5",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "Hegseth Impeachment Effort Is Derailed by House Republicans",
+   "source": "The New York Times",
+   "time": "2026-11-11T07:32:00Z",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3aFh0N1I3eXV5VHBNTkx3MEhtTnRKSmNtZXFNaVI3a0V5SUF2T2VfaC1SRnp0Uk5xOWt4Y0hZajRjTHp0bGhKS3RVbFd0b2pPaTJzT0JtbDhGVUc0V2FDTGFiZS1HaFFOdG5IejdJTUlMTGZlUExfZDEyc2c0dw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US warns Madagascar over growing military ties with Russia",
+   "source": "BBC",
+   "time": "2026-11-11T07:30:15Z",
+   "link": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -332,7 +423,7 @@
   {
    "title": "LIVE – Bitcoin Price Cooked? Gensler 2.0 Fears as Fed Blocks Crypto Bank",
    "source": "TradingView",
-   "time": "2026-11-11T07:12:00Z",
+   "time": "2026-11-11T07:12:16Z",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMnh4bXRSX2JaOXo3MnMxZHdhVER3TTRFN0xvWDI2WVg1NVJRV2pBb3NIUXkzb2F1dlBBWWtyUE9zWTNyckVyRGZtM0hGOEZwVlJQTnVNNGVTUEhvVExzSnhvWmkxWHViQ1RLdDMyS29acGZGTGk2Umk1bzFWdXdrZjZFSzVsNHBMNDBNUmRJLTd0UGd0dkd0eGJpNm8zNi0xMlQwYXdHRFUxTFpsbXQyVTZvczZBTlBiWjdGZmRJcmFrZzRObXBvR0ZB?oc=5",
    "tags": [
     "FED"
@@ -390,15 +481,6 @@
    "source": "Reuters",
    "time": "2026-11-11T07:00:00Z",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV0x0ak5pTlFSejJaTk96eW5PRW9paVN2d3NTaWRtdlJvZWZtTFJtbzVNR0hOR3ZZX1NkcnVRZExPYjhuMW52WTVlaUUtNkdtVWRvdEF3NXNoOXVrZF82RV9uN3NnenVTREpVQXBVSU1uSEZ4OHpOR2p4ZGpQUklBVVM3VFZMQmc5T2xUMS1rYkFnTG8wYTJreUZPU2d3YXpkaUpEajJnYVNYVkhiOV9UaFRSeU1udUE?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Tech Gains Boost Stocks as Bonds Slide on Fed Bets: Markets Wrap",
-   "source": "Bloomberg.com",
-   "time": "2026-11-11T07:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFpBLVFiSmhuZGxNdjZ4WUE1eEZZVzlpcElqQ3FpX2hfRVVkaVdncm5Ic3J4TFdMVTVPODFqV1dYWTJORmx5c3lTMHg1ZUtiZml2ZUVOZm1WQnlCa2lKcUt3M0tjQUsyVVNxQlVySk5TbHRqZHczYVFDTnU0OGZjMjBBWUFqZ2JpNFNhb05nX01EU3dX?oc=5",
    "tags": [
     "FED"
    ]
@@ -466,15 +548,6 @@
    "tags": [
     "INFLATION",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Netanyahu fights to stay relevant as Israel’s opposition closes in",
-   "source": "Al Jazeera",
-   "time": "2026-11-11T06:23:04Z",
-   "link": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -607,91 +680,6 @@
    "tags": [
     "INFLATION",
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold Futures at Equilibrium: VC PMI Levels and Square of 9 Harmonics Near $4,055",
-   "source": "Investing.com",
-   "time": "2026-11-11T05:31:00Z",
-   "link": "https://www.investing.com/analysis/gold-futures-at-equilibrium-vc-pmi-levels-and-square-of-9-harmonics-near-4055-200691335",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "No Good Choices on Iran",
-   "source": "The New York Times",
-   "time": "2026-11-11T05:27:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFVWdTR1NV9jUHc1LTR5cUNwYjFTSTRXMlNxU1RGZk82WUE4a3d2OG1XODc4a1hkYWxZOWRYd2NGaWF1V2Q4cy01dmZYX2dTZDlNdzhqdXdQVjQyRWI5Y3ZINGRyenRDc05fMVE5ZHlMQjdjZmhwOVF2VjNZQnJmdzB3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil Gains After Two-Day Drop With Focus on US-Iran War Outlook",
-   "source": "Bloomberg.com",
-   "time": "2026-11-11T05:24:00Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUG52OHo5cm9HSnBEZjAxWWFudlYyS09oQk1vTnFTenZ3QVdVTkVHeDZzRXE3TFV6Q2xQY1NmclNvWjk2ZjJxZGdyLUxkck1hSUVWMU1XcHA1RkVWVGxPZF9jT0RuQ2haZWttcnAyTEJtbmlqYkh0eGhHVzUxQjVuRFN1eG9uUGdUb0JnZ2VoUnY1dFg4UWN2U2VRUnZuZw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
-   "source": "CNBC",
-   "time": "2026-11-11T05:15:50Z",
-   "link": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Gold steadies near $4,040 after inflation-driven selloff as Fed hike bets rise",
-   "source": "Investing.com Nigeria",
-   "time": "2026-11-11T05:09:29Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLUNZb0JfblFYcGlCYkJ5R202TmhqZUZjWkRMdlcxQ2ZsMno0a0RlMHRUamo5NnZPZ3I5b0hRODZ3eTVHclNxQlFwV19xRDVSMkZkUUJFTkFDaDdLckt3aHBWcWRtZ2RrQlRXd3pEeS1MV0tabkx3TU1XS2Z4SnAtUFdLcEJIQU9xOFR5S3lRUHpLT2liQ1VoRFlBLVRyUV9uRHQwdjU0Wm5KSUFMZXFreU41bHRDZlBqZ1lzRVdubDdZSFBTUF9iWkNn?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Hegseth impeachment effort is blocked by House Republicans",
-   "source": "The Washington Post",
-   "time": "2026-11-11T05:06:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdHJadVdURVZBN1VwelMtYTQ2XzFxekpzTFdhTDR2Q3lkNDE2bV9IUmpWZW9KTy1KQ25PWUhGQWszRXN3WmNLdl8zcGUtbEM5Tk10OXlFbUlCMTM1bURjVFdpbzJXNlBXd3NVYy1tanExMXZsREtFZGNob1JTWC00eTJnR3F6MTRHbldFMU12WVNZc1RrclBPQXlrcUNyTkt5U0VZblZ3QUVlMndzT04waG0xN2szS2Uzbms0?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gulf shoppers cut down on luxuries as war inflation bites",
-   "source": "Financial Times",
-   "time": "2026-11-11T05:03:31Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVNLSGZkSU45SjFqdmtrYTVsVzl0aEs5Qk9zLVNXUy1WMzQ3U3hxRTByZHhIOXc0M2llRUtDUWQ3MV9nMFVtcE9ORmxFQkVxVUZzQmxpM1NYUlFPdThreVpQOU15WmQzT0FsQjJzQlBLZUk0MkdxaHJyN284eTctQXlQS2s?oc=5",
-   "tags": [
-    "INFLATION",
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine’s ordeals in war — blistering accounts, stark and timely",
-   "source": "Financial Times",
-   "time": "2026-11-11T05:02:51Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWEtmLVdsa1BCWGx2U3c2Q3dQci14c1o1eFFncVFhcVFhSnNyN0tBWUptT2c3Z2w0cTdhMmszV0J2OVpyd0J6M2FkMmc0b29keFQtZHM2OGV0dG5ZSEJ5Y3BpTUF4TXlSX2RNajZmMks3emNDTldsX0dZRWNJQThvdVdXeTE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "France pressures Germany over nuclear risks of long-range missiles",
-   "source": "Financial Times",
-   "time": "2026-11-11T05:00:12Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQalJ0Y0VNR1NBVnlPSjJKYWwyNFg0SVZaQUVvblBtTm16WEtCS2kxdVVlTEZQUEFZQkdYUjFja1ZLQ2tXQldlUkRxdjd5WHZQeU1qeVB2MlBJbFMzZEVQRG9WWU5VMGJwN1d1bmNHNEhCOGxqYnZtdHNnbUhCQkE1TjBBSy0?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
