@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T08:50:07Z",
+ "generatedAt": "2026-11-11T09:18:29Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 11
+   "kept": 10
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 10
   },
   "whitehouse": {
    "http": 200,
@@ -80,44 +80,52 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 33,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_fed": {
-   "http": 200,
-   "items": 49,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 24,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 43,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 10,
-   "kept": 10
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 33,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
-   "items": 5,
-   "kept": 5
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 6,
-   "kept": 6
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +133,33 @@
   }
  },
  "items": [
+  {
+   "title": "What do Kyiv residents think about giving up territory to Russia?",
+   "source": "Al Jazeera",
+   "time": "2026-11-11T09:07:59Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/what-do-kyiv-residents-think-about-giving-up-territory-to-russia?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US embassy refutes Houthis’ Yemen blockade claims, highlights siege on Taiz",
+   "source": "Al Jazeera",
+   "time": "2026-11-11T08:58:59Z",
+   "link": "https://www.aljazeera.com/news/2026/11/11/us-embassy-refutes-houthis-yemen-blockade-claims-highlights-siege-on-taiz?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Oil Rebounds as Geopolitical Risks Linger",
+   "source": "Investing.com",
+   "time": "2026-11-11T08:40:00Z",
+   "link": "https://www.investing.com/analysis/oil-rebounds-as-geopolitical-risks-linger-200691353",
+   "tags": [
+    "OIL"
+   ]
+  },
   {
    "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
    "source": "Al Jazeera",
@@ -205,6 +240,16 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUpOQTZVMUc3R01JeFBWa1VXa0RkVFBLWTljbFg5WkM4aWU4UjYxZGhzWHNvV3hGYUJodFZtYUR3eHJTMUdmX2RQRGY5WjZTNG03REFwdnhlaW9PSGxSdjhwX1dUT3JpUzZlRlJMYkZHaGIwcUt6bEVTaW1ObnFFZkpSNjl5d3NrT2RYd29FZlJ1SE4tQVBLVEY2eU45bUw4eU43QVJGMjhjZjJZY1RjTw?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold and Silver: Sharp Decline After US Inflation Data",
+   "source": "Investing.com",
+   "time": "2026-11-11T08:03:00Z",
+   "link": "https://www.investing.com/analysis/gold-and-silver-sharp-decline-after-us-inflation-data-200691351",
+   "tags": [
+    "INFLATION",
+    "GOLD"
    ]
   },
   {
@@ -645,45 +690,6 @@
    "source": "Financial Times",
    "time": "2026-11-11T05:00:12Z",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQalJ0Y0VNR1NBVnlPSjJKYWwyNFg0SVZaQUVvblBtTm16WEtCS2kxdVVlTEZQUEFZQkdYUjFja1ZLQ2tXQldlUkRxdjd5WHZQeU1qeVB2MlBJbFMzZEVQRG9WWU5VMGJwN1d1bmNHNEhCOGxqYnZtdHNnbUhCQkE1TjBBSy0?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "From the Front Page: Fighting in World War I Ends on Nov. 11, 1918",
-   "source": "The New York Times",
-   "time": "2026-11-11T05:00:02Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTjJiM19oTExmLXkyYXdYVC1BNUhsYmlRc2lmUmFOaE16LUFxMHFUWmV2aXBvZDBQdWtzNFVVR3RBTkpRdV9xX2x0Q3lmSUtQXzBORjU3b3BKbEVQNUEwNm5ycWxqQzZtcDZIazBxSUJiQ0JPS1Y2eGhqVi1XbzJBTm9UcjA3Rmp0bk9XaVVILW1aRi1NRWJTQ1VzME1sTDQydVp5R0dSY1FoNHdka3IzVHh3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump could be about to sell out Ukraine. Europe must get its act together, fast | Paul Taylor",
-   "source": "The Guardian",
-   "time": "2026-11-11T05:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOTBZTEpaYVRPYjJaNjJlc3BENFJLWm9vRVdrZXlZUVpNOFlqSXE1bEFXYjFDdFQzV3ZwbWdaN0VmcVItZ0JNVDlMajFZV19VYV9vakxZNlNNTGtkaDEzMUV5WE0xNFVsX3hOYVhKeThTLXRMWDUxY2J2aDE4MWducUJBUklnTy1RcnJzRHcyWHNuYi14WDBBSWFTQ0hEOEE?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Goldman adds another rate hike to Fed outlook after hot inflation data",
-   "source": "Reuters",
-   "time": "2026-11-11T04:58:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaGZrcC11RmpmMVp3a09iZl9aR2N6TDVFV2d1eE50MzBMT0hkZFMtbXFteWFvcDBnSEM0MXdhWFJmM0d4eXZNVFMtNDA2VHozS0UyeEdWcGtQanctN3pxdVVVeWRacnFxS2d3N1I1MktUbUVISWhwZ0VibFgtTWVUX0ZtelYwSmJMQXdUbDJqZmxPMklpS2c?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Rafael unveils new long-range cruise missile with larger warhead and extended range",
-   "source": "The Times of Israel",
-   "time": "2026-11-11T04:54:56Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTXA3Nk9faTNocjNUSHpUZWpLRjdmV096U1lkeXZLcE5SRkw2ajl3S056Qm9zcDBYeWlHeTM2aGtEckphdElPS3FEYUltR0dsMmtnWUVtNWtSNzNVcWM2Ujd2UGZmREgxQ0dic2RxM1U4RU9DV3pHRE1NZGVtTW9BQkd2Ull3SFpjWlZKSjVzaERxQTg3WEtFbmtQOFJUdU9IWWg3NlBzWEo4Tl9GcWQ0T0RtcUdoWmlaTlFoM0ZtdjBLWWdYSE43Qg?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
