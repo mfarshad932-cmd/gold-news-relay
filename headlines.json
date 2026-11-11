@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T11:40:21Z",
+ "generatedAt": "2026-11-11T12:08:41Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 8
+   "kept": 9
   },
   "investing_news": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 10
+   "kept": 9
   },
   "bbc_business": {
    "http": 200,
@@ -91,12 +91,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 24,
+   "items": 25,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 28,
+   "items": 23,
    "kept": 12
   },
   "gn_sanctions": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,10 +126,83 @@
  },
  "items": [
   {
+   "title": "WTI Oil steadies above $85 as hopes of a Middle East peace agreement start to fade",
+   "source": "FXStreet",
+   "time": "2026-11-11T12:06:37Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUUFuQWp3QjJ5U2ZWYTZTRDZWY1FDSTRNN3Vpb1N1ZmR5OEhwUlVGNkRUblNoYlZFNFE1SENkZXFndU1BeWRvdlNLWVY4ZWZnRHAzZjZkMG0wZ1A3a0xsN2JYOUg4eTlZM1g4VXlzOGFtVl9IMXNyUC1SUksxZnAxR1o3aW5SQkFYZkdxTVRvRU84Z0FaZk5MVXBwNGxpNVZqeG1JQlRKNTNPd2hPdlF1b3IwNUhGQ3ZfUzlWRVpVU05sUQ?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Trump’s Iran War Draws ‘Disaster’ Warning From American Veterans",
+   "source": "Newsweek",
+   "time": "2026-11-11T12:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVE5uVUwycDd1RmRoT2Rsb0xtb1lpck44bGRtclI4QVlnaDI5UzZxbGV6U0RNQ0JIX3dzMl9BSU9LZGRmT3VNbWR5UXA3b0hiMEhsbU9xYTRyODdhSE9iNzRSNW9panBDV05nUHNyVlc1cEJYYlNYQl9Eb1plRjNwTWhQUDdlVzhMYWsxNA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "The Fed Has to Raise Rates. How Fast To Go Has Officials Divided.",
+   "source": "The New York Times",
+   "time": "2026-11-11T11:59:41Z",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOWNqWFdDMHlSeUN3RHluTERFZlVwaVpqZ0ZEUzlURUkyeng1SjRQaG84V3ZnVURxdy1LdEp5RlpJeG5zQ25qQ1BXV05wU0lFRks2XzIyX1ZiS2tPVlZXbFVsTVFfUnpEUDVDeU9UczQ0aVZRYU85WkI0N0tGd1d6QTY1cw?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "Trump's White House Refuses to Retreat on Tariffs Despite Republican Midterm Defeat, Declares ‘We Are Jus",
+   "source": "Benzinga",
+   "time": "2026-11-11T11:42:41Z",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRnFYeG5QZUJIOXhrS01uSE9ZZGdiMl95UW00V1cyZGdlR3hKYTlsQUpqZFVteVoxbFIxS0tlZEVjRUdOeFMtMTA3Skc3aXQ5SjNfR21GSXF1UjNtMjhhbVRiVGNsZ01EZHJ5RG5nc2hyQTFKWGtxamViSXFBc3pNblRkQThqVkYyWHc0akFuUkZLQnRpNjQ1VkNmaTZTQ05LV0NIMzh2T3g1RUN3ODlpcDFvcThWRkplZHUyV3M0MWowUWRobmRCR1h3S3ZNMS1rbE11cGlueC1FeDdIX2FDTVFRT0dRNlBHbFc4ZG5HNTNMb1V1NzBzc1NObHFsT0U2OExJ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "COMMENTARY: Morning Bid: Jumbo Fed hike hits radar",
+   "source": "Reuters",
+   "time": "2026-11-11T11:42:18Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTlFNjVidGtEa2NTMGcyZ0VaUnhIQ003dnFtaHFKZG80bVlpdk91dlZwN0I1VU84ZWF4RXNjY1YyMmE3cHhweUhsNmxkeVluOF9nR3BMcy1Ec2dHckN4aEJlT3kweGd3WEdFZmlhRzJqODlTY28xb1VtUVE1LXhlM0lzcU1RQUtZX3RWS0dVVVlFTEpmZ3hn?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "How President Trump’s Iran war comments, Qatar meeting impact the FIBA World Cup",
+   "source": "The New York Times",
+   "time": "2026-11-11T11:33:35Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnBWc3RkbW4tZXBaejhYRHh4eFozQnpqWkduX2dYeGQ5OEtURW9PcXdQZjZPSkYwV2QzU25naUxseEJWRkRqQ0IxYnE3SzBhWHZxWUdablM5emw3bnFUaU5zRVVQT2FJOWhhOTJqbHNuUGtUcjFkYVZWWlJnY0xjYW1FVEtwbjcxN2FhSlhBN3JfeTl1MmlldHhHbk45a2NsdTgyR0dTMA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "‘In Flanders Fields’: How a patriotic poem became an anti-war anthem",
    "source": "The Washington Post",
    "time": "2026-11-11T11:32:46Z",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ1FGTWt4cjdPb3AzQzlzQUx5bDk2OEJtUGdEWU5mR2VpSFFRVGNydkg0RWxaX1VlWkVmOTV4cjBPZ1NBSllyaVdjVTFRMVgzZ21DZTQtUHpITXpxWVoyY1FVT2dobVd6X2IyZzl4d3MxX2JodEx3aGFxWjZyNDNVNUZNblpKZVM0OXd0LVlNdUtNNTRNTXpMVXhmenFwdHhlQzkxaU80SW1jbjRueUQw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Tech Gains Boost Stocks as Bonds Slide on Fed Bets: Markets Wrap",
+   "source": "Bloomberg.com",
+   "time": "2026-11-11T11:30:10Z",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFpBLVFiSmhuZGxNdjZ4WUE1eEZZVzlpcElqQ3FpX2hfRVVkaVdncm5Ic3J4TFdMVTVPODFqV1dYWTJORmx5c3lTMHg1ZUtiZml2ZUVOZm1WQnlCa2lKcUt3M0tjQUsyVVNxQlVySk5TbHRqZHczYVFDTnU0OGZjMjBBWUFqZ2JpNFNhb05nX01EU3dX?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Trump swung between war and diplomacy — then chose a third way",
+   "source": "Axios",
+   "time": "2026-11-11T11:29:33Z",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVAwSVNaUUFvdkZTVGc0dC1SMndYbUlSM3ZFMlpBb05lVXk5TkpwaVdPczc5ZGdJMmNrT0FCWElJR1k0Qk5BQ0xzSTR6NS1fM052MmY0WlJsdHhKNWRnT2FTS2JYS2VoaE1iMGhVWWE2MnM4VnloZXFyaHBQVnAyc29B?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -141,6 +214,16 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNczIzRDdScW1kcHo5UXV2ZHgtdnBCOGZNZUN4VU8zXzZ3NVh4OTNJUVU5aHB2dWtIVm45TlFrWUhIV3I5MzJpcVpkYUpmZDM0aXZvakdndUFmY1pjbHR3RkgtVXBISjdOTE1HdHpVdW9YNDg4NFFMM19xTTlwSlJsOHRXTGZXUDUzbTJ4ekZ2X0taeUgzX3N2OWp5eGZtdTFhOXRWTmxtaE5xbTJBc3dUT3ZKaw?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Oil Prices Rise as Iran Peace Optimism Fades",
+   "source": "Investing.com",
+   "time": "2026-11-11T11:22:00Z",
+   "link": "https://www.investing.com/analysis/oil-prices-rise-as-iran-peace-optimism-fades-200691373",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -268,15 +351,6 @@
    ]
   },
   {
-   "title": "Tech Gains Boost Stocks as Bonds Slide on Fed Bets: Markets Wrap",
-   "source": "Bloomberg.com",
-   "time": "2026-11-11T10:20:34Z",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFpBLVFiSmhuZGxNdjZ4WUE1eEZZVzlpcElqQ3FpX2hfRVVkaVdncm5Ic3J4TFdMVTVPODFqV1dYWTJORmx5c3lTMHg1ZUtiZml2ZUVOZm1WQnlCa2lKcUt3M0tjQUsyVVNxQlVySk5TbHRqZHczYVFDTnU0OGZjMjBBWUFqZ2JpNFNhb05nX01EU3dX?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "title": "Nissan CEO breaks down how it plans to fight back against Chinese companies, after second outlook cut in months",
    "source": "CNBC",
    "time": "2026-11-11T10:16:34Z",
@@ -303,6 +377,26 @@
    "link": "https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Holds Loss Near $4,000 on Hot US Inflation, Fed Remarks",
+   "source": "Bloomberg.com",
+   "time": "2026-11-11T10:12:26Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2tORWxkdHRBenRxSW9hSW4wekZsa3Y5VTA0d3A3NTNzTVhMazhTWnNEWlJvMlMzUFIyenNRVl8xWWJaOTdMN2NQVmNsWjhRYUJKWmplRU8zbGthZGQ0R0NlRzFSWmZObzBRSnVNSHFGM3owd2JpTmZHVEkyaEVIS2dLclc3cGZkWXBUSlFoRnpCUTRKdTFrNzNCb2xwUVJic0RoaGgwZzF0ZktCMWc?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold Holds Above $4,000 Amid Fragile and Unsustainable Upside Prospects",
+   "source": "Investing.com",
+   "time": "2026-11-11T10:11:00Z",
+   "link": "https://www.investing.com/analysis/gold-holds-above-4000-amid-fragile-and-unsustainable-upside-prospects-200691366",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -463,15 +557,6 @@
    ]
   },
   {
-   "title": "Trump swung between war and diplomacy — then chose a third way",
-   "source": "Axios",
-   "time": "2026-11-11T08:29:28Z",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVAwSVNaUUFvdkZTVGc0dC1SMndYbUlSM3ZFMlpBb05lVXk5TkpwaVdPczc5ZGdJMmNrT0FCWElJR1k0Qk5BQ0xzSTR6NS1fM052MmY0WlJsdHhKNWRnT2FTS2JYS2VoaE1iMGhVWWE2MnM4VnloZXFyaHBQVnAyc29B?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Why Bitcoin, Nasdaq, AI Stocks, and Chips Move Together? The Liquidity Machine Explained",
    "source": "TradingView",
    "time": "2026-11-11T08:25:45Z",
@@ -597,93 +682,6 @@
    "link": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Holds Loss Near $4,000 on Hot US Inflation, Fed Remarks",
-   "source": "Bloomberg.com",
-   "time": "2026-11-11T07:17:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2tORWxkdHRBenRxSW9hSW4wekZsa3Y5VTA0d3A3NTNzTVhMazhTWnNEWlJvMlMzUFIyenNRVl8xWWJaOTdMN2NQVmNsWjhRYUJKWmplRU8zbGthZGQ0R0NlRzFSWmZObzBRSnVNSHFGM3owd2JpTmZHVEkyaEVIS2dLclc3cGZkWXBUSlFoRnpCUTRKdTFrNzNCb2xwUVJic0RoaGgwZzF0ZktCMWc?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Inflation jitters throw wrench into US Treasury auction amid jumbo hike fears",
-   "source": "South China Morning Post",
-   "time": "2026-11-11T07:13:56Z",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYlJ2cXpmdkEtM0g5WXRmVFZVWTloWFRaNHQ0NG1pX05Oa0dUSkRSM2h1eVhfcjF3OXppNGEydVNoSFE1WDdSazFvS3dXV0pVbzVtb2FNYklkb3JQU2tndV9nOUhaNnJHR3BhcThmLVJsZzlYQjluSHFvTjFwZEJuUTZLcTFTN0UzTE9pR1BPU1BXSkthV3haVGdad0pWdzQyMzlHRDRkME5sSFJaSXliaEx3RUR0MDZyLVZNanBjdV9CdXRnNDNPcDZkcUVkTWhadXBrWUtQMXc?oc=5",
-   "tags": [
-    "YIELDS",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "LIVE – Bitcoin Price Cooked? Gensler 2.0 Fears as Fed Blocks Crypto Bank",
-   "source": "TradingView",
-   "time": "2026-11-11T07:12:16Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMnh4bXRSX2JaOXo3MnMxZHdhVER3TTRFN0xvWDI2WVg1NVJRV2pBb3NIUXkzb2F1dlBBWWtyUE9zWTNyckVyRGZtM0hGOEZwVlJQTnVNNGVTUEhvVExzSnhvWmkxWHViQ1RLdDMyS29acGZGTGk2Umk1bzFWdXdrZjZFSzVsNHBMNDBNUmRJLTd0UGd0dkd0eGJpNm8zNi0xMlQwYXdHRFUxTFpsbXQyVTZvczZBTlBiWjdGZmRJcmFrZzRObXBvR0ZB?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Gold’s $4,000 Moment: The Bulls Are Running Out of Friends",
-   "source": "Investing.com",
-   "time": "2026-11-11T07:11:00Z",
-   "link": "https://www.investing.com/analysis/golds-4000-moment-the-bulls-are-running-out-of-friends-200691342",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold and Silver Price Forecast: Higher Yields Put Rebound at Risk",
-   "source": "FXEmpire",
-   "time": "2026-11-11T07:09:35Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUHZVNWZSckQzWXduYy1yT18zc0pZOUhldDZTZGFwNVJCVVk0X2RWMk1jM2kwelVCUnN6NDN1dXR5SjE0cnEtVFBMSmdrcDFOOEY1ajlDQnNSTTBpYmk3MDdrRWlTMFNMRzNCczJveFNRdmJwV3gyLWhEYXpXMjNQVmZ0MXhNYk85TXZMYWwyVVA0UzRYX05RLUFZWXZmdUJsZ1ByT1BCMjIyUFFMd3JlSHRIUm1Kdw?oc=5",
-   "tags": [
-    "YIELDS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "WTI Price Forecast: Clings to gains above mid-$85.00s; bearish potential seems intact",
-   "source": "FXStreet",
-   "time": "2026-11-11T07:07:52Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeHlqNnAwbEVwZkcxYVdvWm1aY0wwYXlobzkzRTR4QkVsa3lNNE5CaWZ1ZnpjRVhja0t6Uzkza3Z5LS1wa3RfX2h1Nk5rMlEwMTFmbVM3aVF4THZ6SzFrQ2gzdERlU29RZ1VEdC0wWnBMRXFqNG5IUjgxVXBZV2ZsZGU4dEkxMXVRclVXc3J1Q2FsZERQUXBPMEUzWEFwZjBOZTQ1LVNkSF9aemE0bUg1SFpPeWdhSWZNZUoxYkxrVEItQQ?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Ukraine's path to EU accession narrows as war drags on",
-   "source": "Reuters",
-   "time": "2026-11-11T07:04:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORGQ3Vnl3Q3JxLUxKMjE3OUdLSG5lYi1LRXZLTjR4U1hhSE1sMFdZWlB2ZHRrMEJnd2pRbGdlUWxkcHN3aHhNUmEyd2s3LUtRaHhtYVE1cWZ3cEE1aUpJRFB1TUJINXUxWE9VMVJKcnc3YnZVaDd3VE5vRTNUd2ZGT3BDZ2xaNWtBcDI2RWFtOS1VVjBlMHNvcg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Singapore wants a bigger slice of the global gold market. Is it too late to the party?",
-   "source": "CNBC",
-   "time": "2026-11-11T07:02:45Z",
-   "link": "https://www.cnbc.com/2026/11/11/singapore-gold-market-vault-storage.html",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Germany October inflation slows, but winter energy risks keep ECB rate hike bets alive",
-   "source": "ForexLive",
-   "time": "2026-11-11T07:00:55Z",
-   "link": "https://investinglive.com/news/germany-october-inflation-slows-but-winter-energy-risks-keep-ecb-rate-hike-bets-alive/",
-   "tags": [
-    "RATES",
-    "INFLATION",
-    "ECB"
    ]
   }
  ],
