@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T07:25:04Z",
+ "generatedAt": "2026-11-11T07:53:25Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -67,12 +67,12 @@
   "bbc_world": {
    "http": 200,
    "items": 38,
-   "kept": 12
+   "kept": 11
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -86,12 +86,12 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 45,
+   "items": 46,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 25,
+   "items": 23,
    "kept": 12
   },
   "gn_war": {
@@ -101,12 +101,12 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 12,
+   "items": 13,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 31,
+   "items": 32,
    "kept": 12
   },
   "gn_oil": {
@@ -126,6 +126,44 @@
  },
  "items": [
   {
+   "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+   "source": "BBC",
+   "time": "2026-11-11T07:44:24Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "China backs Cuba in opposing sanctions, blockades; pledges 'firm support', Xinhua reports",
+   "source": "Reuters",
+   "time": "2026-11-11T07:43:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3N1ckV1MFROQXNwREZwam1zUERleFYzWmRERXdxOXZEanNBb05KQ25HSGJoZ3FaVjZqSkw4N2RySndEdk1DajRobFlVRTJKSUdDWVpsUWVia0hUclVTc0ZIV1dvSUFNRWFEdGQzUVRHdkFqeG44ZkNzOGxUWlgwTzNzNjQwTHgzZzR6SEh6OWFzd2diV1QwVVp5aHBWR3dPYXNYc1lIZ2FaazdOdjkzWGJHUGdjRU9haXRKY3VR?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+   "source": "Al Jazeera",
+   "time": "2026-11-11T07:26:28Z",
+   "link": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Is Washington rethinking its relationship with Israel?",
+   "source": "Al Jazeera",
+   "time": "2026-11-11T07:26:17Z",
+   "link": "https://www.aljazeera.com/opinions/2026/11/11/is-washington-rethinking-its-relationship-with-israel?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Inflation jitters throw wrench into US Treasury auction amid jumbo hike fears",
    "source": "South China Morning Post",
    "time": "2026-11-11T07:13:56Z",
@@ -133,6 +171,15 @@
    "tags": [
     "YIELDS",
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Gold’s $4,000 Moment: The Bulls Are Running Out of Friends",
+   "source": "Investing.com",
+   "time": "2026-11-11T07:11:00Z",
+   "link": "https://www.investing.com/analysis/golds-4000-moment-the-bulls-are-running-out-of-friends-200691342",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -163,10 +210,28 @@
    ]
   },
   {
+   "title": "Asian Stocks, Bonds to Drop as Fed Hike Bets Mount: Markets Wrap",
+   "source": "Bloomberg.com",
+   "time": "2026-11-11T07:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFpBLVFiSmhuZGxNdjZ4WUE1eEZZVzlpcElqQ3FpX2hfRVVkaVdncm5Ic3J4TFdMVTVPODFqV1dYWTJORmx5c3lTMHg1ZUtiZml2ZUVOZm1WQnlCa2lKcUt3M0tjQUsyVVNxQlVySk5TbHRqZHczYVFDTnU0OGZjMjBBWUFqZ2JpNFNhb05nX01EU3dX?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "COMMENTARY: Trump’s Iran war pause is as costly as new strikes",
    "source": "Reuters",
    "time": "2026-11-11T07:00:00Z",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXNuaEJXU0pFb0oxRlkzenJYREJId21QY2pxclZ3bnBDWEFwZXFhZkJCLTJEUWJELTRKeExPZDdYWmZUY25UZnNJYXZ5NGNUYXpUSHkwZUJyYU9wWmp0aWVHTUQ1ZFVlQ3dOZnE3azBSNm9KZVRMWnJEWXExR3VrektGaXU2RlNySG5GX01LbHR2M2xxMF92RzcwZWV0REJ6T3ZIV0dvQkM0c1pQU1hzQlVB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Global fossil fuel emissions to fall 0.4% in 2026 amid US-Iran war",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-11T06:42:02Z",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DbF90TDRkMU5lQWpfd3dmeUxqMVo5akQzS21qX3pWelBYalNmYWF6Z1NyZVl1eWxyOHlkbXVuMU80Qm9NWHdUSzRiRTZrRzZMVWNQajVEQjNtUUxHU015am41dDFFRTBaZUh4bXRjLXNfNlhhVUE?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -313,6 +378,15 @@
    ]
   },
   {
+   "title": "Gold Price Forecast: Failed Breakdown Fuels Bullish Reversal",
+   "source": "FXEmpire",
+   "time": "2026-11-11T05:46:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFpPc0J4eEtWejVveWwzX29EeTdvdU9jZjhqTmJKSFRHR1JsSDlvZHVTWnpBQUVJd3JSSTFZWktTazg1WDZqY3BnYWFMMlNIV0FOTU9UVGdyS1l6bVpPUUw0bWY3YlJMQmVmNU1OV1hrbUFseDZHTUtDSWxzd0ZUUG5fYzVmaDl6RC04bGprY2xtS2prN0VEYXMzMTNXcm5lTV9DYTZPb2RRWGl1Z3ZV?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
    "source": "The Guardian",
    "time": "2026-11-11T05:33:00Z",
@@ -377,15 +451,6 @@
    "tags": [
     "INFLATION",
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Asian Stocks, Bonds to Drop as Fed Hike Bets Mount: Markets Wrap",
-   "source": "Bloomberg.com",
-   "time": "2026-11-11T05:03:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFpBLVFiSmhuZGxNdjZ4WUE1eEZZVzlpcElqQ3FpX2hfRVVkaVdncm5Ic3J4TFdMVTVPODFqV1dYWTJORmx5c3lTMHg1ZUtiZml2ZUVOZm1WQnlCa2lKcUt3M0tjQUsyVVNxQlVySk5TbHRqZHczYVFDTnU0OGZjMjBBWUFqZ2JpNFNhb05nX01EU3dX?oc=5",
-   "tags": [
-    "FED"
    ]
   },
   {
@@ -456,15 +521,6 @@
    ]
   },
   {
-   "title": "Gold Price Forecast: Failed Breakdown Fuels Bullish Reversal",
-   "source": "FXEmpire",
-   "time": "2026-11-11T04:38:56Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFpPc0J4eEtWejVveWwzX29EeTdvdU9jZjhqTmJKSFRHR1JsSDlvZHVTWnpBQUVJd3JSSTFZWktTazg1WDZqY3BnYWFMMlNIV0FOTU9UVGdyS1l6bVpPUUw0bWY3YlJMQmVmNU1OV1hrbUFseDZHTUtDSWxzd0ZUUG5fYzVmaDl6RC04bGprY2xtS2prN0VEYXMzMTNXcm5lTV9DYTZPb2RRWGl1Z3ZV?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
    "title": "Gold price in India: Rates on November 11",
    "source": "FXStreet",
    "time": "2026-11-11T04:35:11Z",
@@ -505,7 +561,7 @@
   {
    "title": "Section 219: the future of US-Israeli defence partnership",
    "source": "Al Jazeera",
-   "time": "2026-11-11T04:08:16Z",
+   "time": "2026-11-11T04:08:43Z",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTVUyUE11T3B1aTJMUVB6cHU4WWxZN0VYeGZsbnZ6NGFvU0JtNmNxd3VnV21UalYwOUdPTnZUU1Z6aElDSzNjYTVlMDVQUlZPYnMtVU1rN3k4UzZMTzhYbU1ZQl9WX3E4OVpGZGdFMHZUWGs1OTVLeG1yRzMzTnRtZzJjWDc1TGpNeHQyUlNNaEwzd25RRFYyZGhqQmRZdDc2VHB3d0ppbmhwMUx0UGJjdDRrVnHSAboBQVVfeXFMTkhhWEU2Q1k3dTNZelVIZkFRcW1JWHpFcW5zV1ZLQ3dyRlNlSTltTWZRX1VjRDRybWVhRXR1S0FFUzdMVEQ4TnBCYnZ6bnFHSGwxT1lnLU9DZHhrSDVrRHdYQTRrdk1henNPYVdBajhCWUNLNDhqN3ZubFJDaC1obDN5SVJRdVpOTVJRWjY1Z19TUkktZHdQZkVFMVlRYmc5TnIyV0dBYWNXdDZ1TVZfcUJTU2l6Sm5fbkJ3?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -528,7 +584,7 @@
    "tags": []
   },
   {
-   "title": "Analysis • After Trump's midterm blowout, Israel remains alone in pushing for war with Iran",
+   "title": "Analysis • Trump's post-midterm retreat on Iran leaves Netanyahu increasingly isolated",
    "source": "Haaretz",
    "time": "2026-11-11T04:01:00Z",
    "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPU204VnJXelQwaU43eDliZFAyeWcyMUJNNC1BbVZvR0g1QzdBOWtGdy03R1BnZGxHNXd4eHZWYXBjZlM0UnpwUjhfU3JfaVBtcnhRYXNpN3d1LW5zVTlNcHhWTThUZVpsWlo1Wm94Vy1ZT1FzR09iWDhKRXhzUzhuUnRYclVYMjRVR1Y0UEhlRFlLTzlqeHpHMHpTQjRQVmRkamFTQXFPOU1rVVN6X3d6cnZXVm83emxIcms4RUFweXZjdkl1Y19rTWYwR2hVUzNZWTdUVDgwMjlKVlMyanJSMnBwNHFpR2pSNmlmUThHcTdRejloeElzNVU0bFdBSDZZVkxrWkJTMThVUHgtdjI4cWs5TWZER0l5X3BnVzRfOW5pbW9y?oc=5",
@@ -603,6 +659,13 @@
    ]
   },
   {
+   "title": "Credit card debt hits record high as Americans struggle with cost-of-living",
+   "source": "Axios",
+   "time": "2026-11-11T03:37:24Z",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcm5UZExLSlhOUGpRc1BHVWhRYlhrSmJjMkhObEN5Mnlpc2pHcld1Y0ptNnhaRzUyb25EcGdkVmFWYVJBSV9RYVM5VDVrMTY0OXVDeDFBSFZ1MFF6UEtKV1pFajRHYnBLUW5iY1hkeEdFZzk5X3FyZmkwSDJJME9ZRVljOHlURkZHM3lUQQ?oc=5",
+   "tags": []
+  },
+  {
    "title": "Dollar gains traction as Fed speakers warn of risks from inflation",
    "source": "CNBC",
    "time": "2026-11-11T03:12:00Z",
@@ -620,73 +683,6 @@
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/el-salvador-fires-missiles-on-haitian-gang-hideout?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Rupee outpaces most Asian peers as equity inflows offset hawkish Fed bets",
-   "source": "Reuters",
-   "time": "2026-11-11T03:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdV94TDRKYUF6WkRBYmxaOXFEbWVEMGNqOFdZZVdDcUJpb3RGbjBkbldMZmtaVXJxUzB5RTgyMUpPWlUtQXhWUnNZRnBrNW1HQXZZNy1PZFhfSUpsSWV1Nm5VcUdrbUtRaUI1WFZzaC1NSUNqN19KYnp2VkR3dmdYT2oyOWFONGNzcUhMcENrNFVCVHpYem1pTVdZSEdBS05mbWhrSkhYMjlNRVJsN1E?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Republican AGs from 13 US states threaten retaliation against UK, Netherlands over settlement sanctions",
-   "source": "The Times of Israel",
-   "time": "2026-11-11T02:44:56Z",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNEJGNHF5b0hfRlJYem1XckZYWmtnZDNnV0ptTEZYSGRQNWw1bXVpZFhlV2pyZ0l4cC1LVEFFSWNnd3I1YzdVWUVzb3FYNFRsd2xZMEFVWk01NEJHMUx4MTJvRndBY3NaNmh6cHJrZE9nUEwwUVFNa0ZsZVFETzJsVEtzd2YyMmhoTnN6U1M3MVhfYlY5YlRueVM3aVhrNGNEQXJPejdyMElmYWNHdkM3MkUzOXh1VXl0UE9rX1I1TzlxbG9mN1RZRDQzMlRDR21IRm5TLVhXMmlaZ2Q5X2xpcDdn?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "CICC Adjusts Laopu Gold's Price Target to HK$412.35",
-   "source": "www.marketscreener.com",
-   "time": "2026-11-11T02:41:08Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObi1BZWRSdEVjcHluVWVvSkJIWGlfNHZtSHR4aEdMNEZiU1lXUExqZUhZdW00NFVMUDN1a3pBYkN6TTFMaUJvNnlYTnN0eUtDZmgtTkh1TEpRZi1fRW9jU1R2X2NjOHRMRlYxMkFkQWNfVTNQbnBVb1E5cWdXNTBnd0hZRkZKM0V6ODExcDdOSmZsb1VhSlc5bDlaenNTby1oR296Znk0dw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Deal vs deal? US, China trade calls to honour commitments before Xi-Trump summit",
-   "source": "South China Morning Post",
-   "time": "2026-11-11T02:34:23Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUE9IeC1zRXNEQ2QwSDA1b3NZR0Z1OXB3RW96SzNaZGRmOXNOMjdMYmpFTzAwYTFsUU1pN05GYXIzWlZqX1VYV3ZJbW4xNFdxU2dsenZHbTM1QmU0cEh4cUlNdG5ULXRCSXNsbEhCQTljbzdENEpKYnUxVWJqdjRHT2tHSUlKMDFCUXJ0OGEzTlVIR1hrUUJVSjRVQmFud3JSMG9ma0tjUVp3NTd4T0c0S2lBUlZFNGRObHJqekVTRS3SAcABQVVfeXFMTWlaT3FKN2dWcVMxb1ZMcm1OTkg0aC1FeHY4SFNibU1fRnh1X01fckZMLUtvNDNMa1ZKZ3NzUm8tVFZCWlZQa2xNYTd4R0Q0b213RE9MMXVDUlBkZnFGcEZaMktYQXpnaXVGd0paV0FhNTdMS1YtNWQzclM2WkJldWZPOFRiR3B6dUJJVEx0VVJlRzBUWkhLT2gzZFE5NFNpOFlVcHk3T25ZNUk5cTY1Qi1NVEJEbS0taUNtOW5CMWpJ?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Poland’s Orlen Terminates LNG Supply Deal with Qatar Amid War",
-   "source": "Bloomberg.com",
-   "time": "2026-11-11T02:32:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRDZlLU1sVU5HbmVvd3dCTWRUalRBWW1PbDNBYUFlUWtaRGxhWUktYl9ZWm8wZC1KajR1ZnFycUlXZl9mVk8xcllfSmtNN1ZGY29IbHpvSHNNU25DOG9SUHNmUUVJNjV4RVVremRELXNVRFB0RmdXZkZRUmVGLWkxUFJIaXZyQy1xanN5a2oydnR5clZYM0xScDJscDF2QXJyRGlqOWlDS0ZqWVJseVJGbERB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump swung between war and diplomacy — then chose a third way",
-   "source": "Axios",
-   "time": "2026-11-11T02:27:44Z",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVAwSVNaUUFvdkZTVGc0dC1SMndYbUlSM3ZFMlpBb05lVXk5TkpwaVdPczc5ZGdJMmNrT0FCWElJR1k0Qk5BQ0xzSTR6NS1fM052MmY0WlJsdHhKNWRnT2FTS2JYS2VoaE1iMGhVWWE2MnM4VnloZXFyaHBQVnAyc29B?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russia retreats from China's yuan as U.S. sanctions bolster dollar (CNY:USD:)",
-   "source": "Seeking Alpha",
-   "time": "2026-11-11T02:22:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWHdIbk5Zdkx1YXhHdTZySEdldWVMY01BQi1ibDdDMUNPODZaS3hoNHZhTnp3dk9FNjN4bHFWaXVGY0tremY2NUhBUW5jZUM3OHlZWXJJd2NrWXVobEpCbVAyWTdtQkxBcENwU3RnQ2IxTENEcFdHeFF4a1gySlEzcVN0RmoyZVMyWWdBNmVJZWJTejlFcWU2NnczWk9FWVppY2w4?oc=5",
-   "tags": [
-    "USD",
-    "GEOPOLITICS",
-    "SANCTIONS",
-    "CHINA"
    ]
   }
  ],
