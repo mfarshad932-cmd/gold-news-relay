@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T01:16:56Z",
+ "generatedAt": "2026-11-11T01:45:15Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -81,23 +81,25 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 36,
+   "items": 37,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 41,
+   "items": 40,
    "kept": 12
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 20,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 44,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
    "http": 200,
@@ -105,19 +107,22 @@
    "kept": 12
   },
   "gn_yields": {
-   "http": 200,
-   "items": 31,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
-   "items": 1,
-   "kept": 1
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 6,
-   "kept": 6
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +130,33 @@
   }
  },
  "items": [
+  {
+   "title": "Gold Price Forecast: Failed Breakdown Fuels Bullish Reversal",
+   "source": "FXEmpire",
+   "time": "2026-11-11T01:37:23Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFpPc0J4eEtWejVveWwzX29EeTdvdU9jZjhqTmJKSFRHR1JsSDlvZHVTWnpBQUVJd3JSSTFZWktTazg1WDZqY3BnYWFMMlNIV0FOTU9UVGdyS1l6bVpPUUw0bWY3YlJMQmVmNU1OV1hrbUFseDZHTUtDSWxzd0ZUUG5fYzVmaDl6RC04bGprY2xtS2prN0VEYXMzMTNXcm5lTV9DYTZPb2RRWGl1Z3ZV?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says",
+   "source": "Investing.com",
+   "time": "2026-11-11T01:30:21Z",
+   "link": "https://www.investing.com/news/economic-indicators/us-and-china-should-stay-cleareyed-on-ai-cooperation-and-competition-bessent-says-5017469",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
+   "source": "Al Jazeera",
+   "time": "2026-11-11T01:11:04Z",
+   "link": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Ukraine war briefing: Zelenskyy says Putin ‘lives in a different reality’ as Abu Dhabi talks get under way",
    "source": "The Guardian",
@@ -362,15 +394,6 @@
    ]
   },
   {
-   "title": "Gold Price Forecast: Failed Breakdown Fuels Bullish Reversal",
-   "source": "FXEmpire",
-   "time": "2026-11-10T23:22:10Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFpPc0J4eEtWejVveWwzX29EeTdvdU9jZjhqTmJKSFRHR1JsSDlvZHVTWnpBQUVJd3JSSTFZWktTazg1WDZqY3BnYWFMMlNIV0FOTU9UVGdyS1l6bVpPUUw0bWY3YlJMQmVmNU1OV1hrbUFseDZHTUtDSWxzd0ZUUG5fYzVmaDl6RC04bGprY2xtS2prN0VEYXMzMTNXcm5lTV9DYTZPb2RRWGl1Z3ZV?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
    "title": "Hegseth decries impeachment effort as \"political spectacle\" as Massie says vote expected later today",
    "source": "CBS News",
    "time": "2026-11-10T23:14:26Z",
@@ -516,6 +539,16 @@
    "tags": []
   },
   {
+   "title": "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap",
+   "source": "Bloomberg.com",
+   "time": "2026-11-10T21:45:49Z",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXVKNll2bkFUUU5EVDg4eTF6a3YwZ0pIS0d4bGFTdkItMkl3SkFCbGRiZFdzSmlidHZZN3I1YzF1VkVXYlM0dDJrRlRPeDRGYXp6cVBuRGVjbl9vNWxrdlRYLTl4NTRxMnRFcGtuOUROekFvUUsxdTE1R3IwWmRKRVlUVFpFTlY0WXNlWTZTa1hIdmV1?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
    "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
    "source": "CNBC",
    "time": "2026-11-10T21:45:46Z",
@@ -646,13 +679,6 @@
    ]
   },
   {
-   "title": "Traders Who Rushed to Safety of Bonds Get Rattled in Reversal",
-   "source": "Bloomberg.com",
-   "time": "2026-11-10T21:30:31Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUnlwUmR4R1lSbTI5NHBoQ2pIOXp5VjFsbTJSYjBQWE92Z0F3QzhnVEo1dkVuM3NOWHZubDRoNDRGNnFCeWhLOTFmSkZabFB0YWQ0YU5JeF9WZGVrT2JYUHkxR2IxNGNOMF91bHo2RzVZYjFuNDlaM1Nkb25PeEZ4ZWt4TFZrWG9BYTBaR0liSHZzRkxvcHQwa2kzMnZnRVNXbS1zc2xqY2c1eUZEX29FZXdR?oc=5",
-   "tags": []
-  },
-  {
    "title": "WATCH LIVE: House votes on effort to impeach War Secretary Pete Hegseth",
    "source": "Fox Business",
    "time": "2026-11-10T21:28:27Z",
@@ -660,23 +686,6 @@
    "tags": [
     "GEOPOLITICS"
    ]
-  },
-  {
-   "title": "Wall St ends lower as hot inflation data, Fed comments heighten rate worries",
-   "source": "Reuters",
-   "time": "2026-11-10T21:27:01Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEE5eGJXT1lYRVFJMUpWb2VCTENjZ2hBNWk0QWl5QVZBNmJ4TFBodVUtRVRzV0JubVE0NFJYRFlmYkpuc0tlbTBValFhV0ppcGdYNEZERXV4ZnhLZUJKTF9fUzZEeHM3cDRwdmlMdUVIUWlERHprb3lKakQ1S1gzSmI5LVZYWWx2cTBjVC1sVEc1OG8tOS0ta0k5VQ?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Hegseth’s security threatens journalists with removal from news conference",
-   "source": "The Washington Post",
-   "time": "2026-11-10T21:26:55Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONU5YV2wyVHQtM3Z6bFpRdG1faFp1d0pJSEFPcDVlMHpsYnNZckhFTXJscVFlMkVJeWhRTzR0MHFEZDBoNzhMejJCd3BwYUQ0b3o3ZXhDNVpzR2YtanR4eWVhUUN1czltY3hsNEg3NTdvLXJ1MDhianJuZm5EZXNhNEVfSnlPcVlDamxaVkdrN1JGYWR6UmpLeWd1aGpkckJTakp1U01XQkdmZFVGT0dQOHdkNmc0ci1uRHl4Y3kxNnJEQTRFQ0xKcw?oc=5",
-   "tags": []
   }
  ],
  "fedCalendar": [
