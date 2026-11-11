@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T22:10:18Z",
+ "generatedAt": "2026-11-11T22:38:36Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 33,
+   "items": 35,
    "kept": 12
   },
   "gn_fed": {
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 35,
+   "items": 39,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 18,
+   "items": 15,
    "kept": 12
   },
   "gn_oil": {
@@ -126,6 +126,43 @@
  },
  "items": [
   {
+   "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
+   "source": "CNBC",
+   "time": "2026-11-11T22:30:57Z",
+   "link": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+   "source": "CNBC",
+   "time": "2026-11-11T22:14:02Z",
+   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Gold (XAU/USD) Price Forecast: Bullish Reversal Faces Critical Support Test",
+   "source": "FXEmpire",
+   "time": "2026-11-11T22:10:59Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXEwT1JWbHRBcGJoeHFoUGdldG8yNFFzOWRwMTFJdHp2YndEbmpfNUhFa1Rrci1lVElKSS0zdE1hMi1BZE1qMjU4Y2c2QnFfUm5YbjkzalVpeG5BNmJoX0lPRjJEanBFT0dKYlhGZXpfWmptRWNGQXBNVVctZXd0ZWJTWHctc3lWb0RMQWlxekVrc216U1dneTdrMThZRjcwc2xBWFdHUWY4TG1OMGpKX1FMNU1yMDhTVy1SNFo4QnY?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Trump defends his war policies in speech at Arlington National Cemetery",
+   "source": "The Washington Post",
+   "time": "2026-11-11T22:09:30Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQek5TR25SaDZ3eDVOVkUwdWZhUURfZTJ0NzFDTXpyc3RISkJXNXlKMkRSZ05uWUdRRFlELXJLcFRJZFppSFBxcVpfV2RkOGNOQ3NxQnVGLUx1dHlqRGdZMDBsaXVObm5HZGRITWxuQnpoTVZNelJzdVZRaFNxVjlHUU9lX2N0Sm9VTW9VOU80d2R1ODNmVnQ1eTlJbFNaY3pmbVVHQkZtTUlOakdfTjAtdTk3SW5WZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Opinion | It Matters How the Iran War Ends",
    "source": "WSJ",
    "time": "2026-11-11T22:06:00Z",
@@ -135,11 +172,12 @@
    ]
   },
   {
-   "title": "Gold (XAU/USD) Price Forecast: Bullish Reversal Faces Critical Support Test",
-   "source": "FXEmpire",
-   "time": "2026-11-11T21:57:21Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXEwT1JWbHRBcGJoeHFoUGdldG8yNFFzOWRwMTFJdHp2YndEbmpfNUhFa1Rrci1lVElKSS0zdE1hMi1BZE1qMjU4Y2c2QnFfUm5YbjkzalVpeG5BNmJoX0lPRjJEanBFT0dKYlhGZXpfWmptRWNGQXBNVVctZXd0ZWJTWHctc3lWb0RMQWlxekVrc216U1dneTdrMThZRjcwc2xBWFdHUWY4TG1OMGpKX1FMNU1yMDhTVy1SNFo4QnY?oc=5",
+   "title": "Gold falls below $4,000 as dollar surges, Fed hike bets rise - Kitco PM Report",
+   "source": "Kitco",
+   "time": "2026-11-11T22:00:14Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQkRUZVFwS0pNb3NBQjg1aUNMcjQ5Y0pVU0NLUjU4M3pJLXh5WFYtd3ZFMXhzM2I2Y3RDd25WeXhvaWY4ZHh1TzhrRVJIRzRFT2JJRWE3Tkc2MkVTOFNSZnUzQTVTMFltZXl1cVZRSXdmR0h4ekJUdEhHYjNGTmpnbU5ZTnhyZzlJVGxlc3F2NUhCa3pxd1UtRnd1Yk1UblE2Y05TdmNOR0xMbjhyQkhLZ0hCUFJwYUE?oc=5",
    "tags": [
+    "FED",
     "USD",
     "GOLD"
    ]
@@ -151,15 +189,6 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLXhFSnNuR3lYOWJfZVZNZVlodWJlZmdzcU1fYVdNY3FDMHFFVmx1NE00eHVCNmVzbVQ4X0dIV1dtM1lkaVdSamJjZG8xeXdDV1VBVHZMTkZwX0tmTFVNa091c2xsSVkzTEg5VkFGVFJHM2pOaWhOQURYYkxyeWJyN0pSXzhiLXB4b3UwUko1eGNkaUd6MEhUZFpEQi1xd1JBSkhmWV9DSGFqVk9nQlpiTUYtUG8zeE9iNEE?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Trump defends his war policies in speech at Arlington National Cemetery",
-   "source": "The Washington Post",
-   "time": "2026-11-11T21:47:09Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQek5TR25SaDZ3eDVOVkUwdWZhUURfZTJ0NzFDTXpyc3RISkJXNXlKMkRSZ05uWUdRRFlELXJLcFRJZFppSFBxcVpfV2RkOGNOQ3NxQnVGLUx1dHlqRGdZMDBsaXVObm5HZGRITWxuQnpoTVZNelJzdVZRaFNxVjlHUU9lX2N0Sm9VTW9VOU80d2R1ODNmVnQ1eTlJbFNaY3pmbVVHQkZtTUlOakdfTjAtdTk3SW5WZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -255,6 +284,7 @@
    "time": "2026-11-11T21:03:00Z",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR3RWMGNrSXRNMkl5SzdlV0ZwQXhRZlBQMzM2bFpiWVQzSDRvbHNRSVZSSk9LNEhGWVRnS29iYUlKRHdxVXRKZUJZQlB2YUVraHlUeTRIQnNCZGhGTHRxZm04cmVmTGFBT0RtQk9tbERBU1BmTzhPcjF6a1N5MERVLXdqaDlCRzNuaFhMNW9mUUw3eVhxSGFRdFJNSFRBbTU4cEh0UHYtX3dxd2RkMk1qcHJib3VnSEU?oc=5",
    "tags": [
+    "GEOPOLITICS",
     "SANCTIONS"
    ]
   },
@@ -351,12 +381,12 @@
    ]
   },
   {
-   "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
-   "source": "CNBC",
-   "time": "2026-11-11T20:30:23Z",
-   "link": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
+   "title": "Trump defends Iran war in Veterans Day speech",
+   "source": "South China Morning Post",
+   "time": "2026-11-11T20:30:57Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQllYbjAzc051eW9pTzQtM3F1NzRMeDFBTDhIRXJFNDF2dGhZYkxmbHpoT3VKS1daWVdtYUdhVFBOTlV5Z0I1eHZqSlgyMmRGb2FDRmwtWmFsZWxtb0l0cFU4eUxoSmFtYVBPSlVzZnJGZmNPSjNvNm9JOU9FRHBsYXlySXBlYzh2V2xSa0QwdFlQNkVXT3FFS1NFZlQ4WGdrSUdEZjgtN18tU3J5SENhUdIBsAFBVV95cUxNY0lrazh5QTNmcmtKWC1EbnhWU2hSNWoxTXgwZUlLRXNjbmctcDY4YXhXeTFoTU9ZYkQzWTRqd0piSUhleDNhY3dsNlZjNmptMWFUcktjcVBYT3hDS3VxNUQwamFxc1JFempMc2MyYno5NGsyZFJnVmtFdFRMdm03bWFGZDV5Q0hxR2JBZ0FGNl9xRHJlT3NRZ0JKOWFFVl9GVG9UbHBCd3cwTzB0WDVjRA?oc=5",
    "tags": [
-    "TARIFF"
+    "GEOPOLITICS"
    ]
   },
   {
@@ -646,33 +676,6 @@
    "time": "2026-11-11T17:55:39Z",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbU9Ecmt4dE4wWFdWMDYzWTJGM2ZRY0dfQ05KcmlwZ1hVU3h1cEx1Y2VLUi1wT2V5WHRTR0ljVFI0LTEwalFJSS1QNGJ5cDliVFVlem80bmxUZVdPMFhhRU8welRQSnd1czBFVUR1SnpoSmZ2MmdxUm9xWTlGanlTZmp5Y242NlV1TnRsOUJaZEhvZw?oc=5",
    "tags": []
-  },
-  {
-   "title": "Trump claims US has already won the Iran war, now wants ‘total victory’",
-   "source": "The Times of Israel",
-   "time": "2026-11-11T17:48:30Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeFFLSzZaNWZBMUZuWjM0YUxBUUxQbE9UU0JyZENTekJJSGd2N2RKWXVvTk4xQWhZWWtueTdYMFFrTGNnMGc5YmhZVWpISGM1emtDR3J5YXZkOTVLRmhJOFdXUkdDUUpOQUhFcnNNS2piTF83S244TVh0WU1adENlU2xnTHRKRnpZMDVNQTgwS3BjZnFmenRlX2tjS0RfOW9vSU40YXRhMGRzRVV5SXc0R1pfcHo?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Over 11,000 Foreign Military Deaths Recorded by Russia in War on Ukraine",
-   "source": "Bloomberg.com",
-   "time": "2026-11-11T17:38:04Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTjI5bS1maWM3ZVIzRWZtM1VKMVZQYTFWdkl2UDV5SXBFYy0wMVlOUDNwRnpEZERReV83QWNZTU1wMmdMeU5XS2RCRXZZcEFjemFCaGJEOW9iWDE3TGZRdUdoT1g1RVpRRlViT2RYbTRJQ19VVnYwbThUbHlxRXpBaVFhMFM2VFBVSjl2SV8wQUpiS3AxT2s5YTFiaWRVQ3REUnhTa1pLaUZjVmxBVDNQazBNb0EyVGEzOXJkbmNlVEU?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Strait of Hormuz will not return to pre-war status, Iran’s Ghalibaf says",
-   "source": "The Times of Israel",
-   "time": "2026-11-11T17:35:27Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYk52Tm1ZSFVJWVk2ak45bW10cVo2U2U2Vkg5Sm5WcW9Mc2s1dUpzTjhuS09pelE0d25LZDk0Z0JOZVM1dm5sRmF4R21qLW1yOWFUdWVlQXM1YXFxRFlRTFZJcUd2c3lpUlFrX2lVUjJKOVo5ZXBFbGNBWXJzd2xIaUc3dFN2MmFydkdLZmVneWR0TWRwbFVGcl9kd1F2Z1Y0RENRWFZhNGp1aGFXeDZidjhVUEtzWVU?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
   }
  ],
  "fedCalendar": [
