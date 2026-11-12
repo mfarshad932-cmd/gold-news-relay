@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T04:18:33Z",
+ "generatedAt": "2026-11-12T04:46:55Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -66,8 +66,8 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 29,
-   "kept": 3
+   "items": 30,
+   "kept": 4
   },
   "aljazeera": {
    "http": 200,
@@ -80,52 +80,44 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 36,
+   "kept": 12
   },
   "gn_fed": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 25,
+   "kept": 12
   },
   "gn_tariff": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 19,
+   "kept": 12
   },
   "gn_war": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 29,
+   "kept": 12
   },
   "gn_sanctions": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 8,
+   "kept": 8
   },
   "gn_yields": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 9,
+   "kept": 9
   },
   "gn_oil": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 7,
+   "kept": 7
   },
   "gn_cbgold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 2,
+   "kept": 2
   },
   "fed_calendar": {
    "http": 200,
@@ -134,10 +126,47 @@
  },
  "items": [
   {
+   "title": "Gold (XAU/USD) Price Forecast: Bullish Reversal Faces Critical Support Test",
+   "source": "FXEmpire",
+   "time": "2026-11-12T04:44:44Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXEwT1JWbHRBcGJoeHFoUGdldG8yNFFzOWRwMTFJdHp2YndEbmpfNUhFa1Rrci1lVElKSS0zdE1hMi1BZE1qMjU4Y2c2QnFfUm5YbjkzalVpeG5BNmJoX0lPRjJEanBFT0dKYlhGZXpfWmptRWNGQXBNVVctZXd0ZWJTWHctc3lWb0RMQWlxekVrc216U1dneTdrMThZRjcwc2xBWFdHUWY4TG1OMGpKX1FMNU1yMDhTVy1SNFo4QnY?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold price in India: Rates on November 12",
+   "source": "FXStreet",
+   "time": "2026-11-12T04:38:11Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV1ZpZlY5bnV5bTg2dTFLZVYxSWVRRWtmbUZ4TFl3eHE2RktaWk0zaHlIeGdwaWlCckl0TlluMFFPQ0xpUURnRjk3LXpwNmxIMnV1MS0xMnljREtqVUdseHVYMVFsYmxGZEdZcHZBakZ5WlN4QTF0dUo4S0dMbFdiSFBZTHFONnNGTTRoTXB2ek1RR2ZRVklhcWZGS0NFNGdXM3R1b1Fn?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Iran’s chief negotiator tells Al Jazeera ‘ball in US court’",
+   "source": "Al Jazeera",
+   "time": "2026-11-12T04:19:55Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/irans-chief-negotiator-tells-al-jazeera-ball-in-us?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
    "source": "Al Jazeera",
-   "time": "2026-11-12T03:50:42Z",
-   "link": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss",
+   "time": "2026-11-12T04:05:13Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGV6WFJxeUNSa0ZVZFFWdC1mUGJUbEtIZldwSjJDWGQxUnFodTZ5akhnY010WTRLMXYtNjh5akpyczZkNjg1LXlUUnlQakJ5WmxORm9xQ0M4ck81WU9WWlhHU0x5WU1neXJrbTU0ZDRtd0JWa01TUTdRNjN1SDZfUkRObDg1dmJySkR3THpuaWh1TU94NVVMSHBJbEZ6VHNWUTlCNC1tTklKWFZlLXBvTHJWVkRtZ9IBuwFBVV95cUxPNmpBLWlIVTN1aUhtZ3R0amt5bWlCWGliV19MV2x5WExRRndaY2o0Nmc3cjVnZnFhX0Y3ZzVRMzBoQV9lZnctRWNiSlZ4LUtMV0JYVEVqaWpwSHo0STQ5Qzc0V0ZmMGlEZDBDNlduRVp2TUx1TjhURlRKYXdzS1N3Z1FKZ3ZJQjBTbGxyOW9tVHJaWXpDZkFqY0pEbVNEaDVkOUNmVmdoUFpQQTJTQnktZU94d3JMVm1iNFVR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump’s fossil fuel drive comes as war prompts energy security worries",
+   "source": "Financial Times",
+   "time": "2026-11-12T03:51:48Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRDVSQ1Q2WWY5Uk81UjV3ZHBVUXA3VXNnUzM1TUxrRmFlMUFWeVltODRsR0JSelRLQUhCSWFHcnVyVmNlNEZYbUxFSW5SclJIV2paQXhadjg0ZGczRTcxRnRCRXZzc1p1RGEyVXRLREpoWnltY0RCRmlRWVdEYlRYSWxuV3U?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -163,6 +192,24 @@
     "FED",
     "USD",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+   "source": "BBC",
+   "time": "2026-11-12T03:32:54Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
+   "source": "The New York Times",
+   "time": "2026-11-12T03:22:36Z",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUWlBQbTI3NE1qbVR5d2g0V1NTQ1Jva1NlSFZ4ejRESy1qNFY3eFBFZUdnR1hOVm5FS0liOFo5SVk5NGhlLUk4clp2aGNOSmQ5bHNfM3ItdWpycGNza1FEQ0pPUFhfNzZUbWZ1aUpJTEs1cFRB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -247,16 +294,6 @@
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaUloTmRZUVdRTnN4czkwSHA4cDF5aFdfcVgxNlg2N3djQjRNMEN1VDA2ejJXZDlFdUZremp3ZG5WS3FWWmN6QURJSVItdzUtYzFySFdPcEZVVWNvX3Fva3JLYzdpWUFWd0V4UF9sVG5YdjRmYW9mUW53MUxBc2E5eklpeTBKX05ZdXcyM1ZPRENCeGgxUTZ2bTBkWGh1VU12VDVFSlR5cUtYSTFYd2FOZGtSenpaV2JNa3IzN3NFbUhrSFVZaEpxdzdYcnFpNVdDRzFNTjJEbw?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold (XAU/USD) Price Forecast: Bullish Reversal Faces Critical Support Test",
-   "source": "FXEmpire",
-   "time": "2026-11-12T01:50:05Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXEwT1JWbHRBcGJoeHFoUGdldG8yNFFzOWRwMTFJdHp2YndEbmpfNUhFa1Rrci1lVElKSS0zdE1hMi1BZE1qMjU4Y2c2QnFfUm5YbjkzalVpeG5BNmJoX0lPRjJEanBFT0dKYlhGZXpfWmptRWNGQXBNVVctZXd0ZWJTWHctc3lWb0RMQWlxekVrc216U1dneTdrMThZRjcwc2xBWFdHUWY4TG1OMGpKX1FMNU1yMDhTVy1SNFo4QnY?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
    ]
   },
   {
@@ -346,15 +383,6 @@
    ]
   },
   {
-   "title": "Trump’s fossil fuel drive comes as war prompts energy security worries",
-   "source": "Financial Times",
-   "time": "2026-11-12T01:02:56Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRDVSQ1Q2WWY5Uk81UjV3ZHBVUXA3VXNnUzM1TUxrRmFlMUFWeVltODRsR0JSelRLQUhCSWFHcnVyVmNlNEZYbUxFSW5SclJIV2paQXhadjg0ZGczRTcxRnRCRXZzc1p1RGEyVXRLREpoWnltY0RCRmlRWVdEYlRYSWxuV3U?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Fed chair discloses wife’s transactions in pet-care investments",
    "source": "Investing.com",
    "time": "2026-11-12T01:00:24Z",
@@ -384,12 +412,13 @@
    ]
   },
   {
-   "title": "Iran war live: Iran warns of Europe retaliation, Israel attacks Gaza",
+   "title": "Iran war live: IRGC chief says sanctions won’t stop missile programme",
    "source": "Al Jazeera",
    "time": "2026-11-12T00:00:44Z",
    "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
    "tags": [
-    "GEOPOLITICS"
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -439,6 +468,15 @@
     "FED",
     "RATES",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Canada's Tantalus Systems Q3 revenue misses estimates, partly on tariff refunds",
+   "source": "TradingView",
+   "time": "2026-11-11T23:19:22Z",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRXBCMVZ6b184aFk2X3JEY0N5eG5xdGgteG00dmtmajh4WENpdHlvOERDWHhfQldpcm9CTFJYUXgwMVhRempCQzJqX1phQ3dvN01EWmVZOXdmTGNxc0lPazE3aHZORnV1VS1CUGlJby1WbUhVOHhyYmZuOElyNTd2LU9vSGQzSjBJZUszd0VkTzVXck9haUNzNmUwaGFZM3VQN21sTmFtSC1yWW9NeEdhcjhJQnh2TDE2M0hXZ25tbTdHZnBzVFZMS1c3TXZHWE1UWHRlZ3JBNktKMjF4RzFWTmFR?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -539,6 +577,15 @@
    ]
   },
   {
+   "title": "Minerals 260 lines up A$410M for gold project",
+   "source": "Mining.com",
+   "time": "2026-11-11T22:05:22Z",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mQ0RiZDh0WW15WWJXb2tQQ1BCX2s2dmpFNzdiN2wwWVV3RXJNbEg3Sy1Kb0g1RkJwT1Z2VzRBcy1TeFh1SExlTHhmejluZzltTnNzLWJMOVBhWTdpMXdsd19yMVM0Nzl2N3lwZ2VSclduM0xMVjZz?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "High Liner Foods Incorporated (HLF) Q3 Adjusted EBITDA Rose to $41.5M, Including $21.8M in Tariff Recoveries",
    "source": "TradingView",
    "time": "2026-11-11T22:05:00Z",
@@ -617,15 +664,6 @@
    ]
   },
   {
-   "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
-   "source": "The New York Times",
-   "time": "2026-11-11T21:24:12Z",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUWlBQbTI3NE1qbVR5d2g0V1NTQ1Jva1NlSFZ4ejRESy1qNFY3eFBFZUdnR1hOVm5FS0liOFo5SVk5NGhlLUk4clp2aGNOSmQ5bHNfM3ItdWpycGNza1FEQ0pPUFhfNzZUbWZ1aUpJTEs1cFRB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "The legacy of the 1991 Gulf War and the Americans who carried out the mission",
    "source": "NPR",
    "time": "2026-11-11T21:24:04Z",
@@ -650,54 +688,6 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWVl4QjNFcFhZd1N4V2ZIQlM0ejAwcEVmbUxqXzdmamFJeUE0QXBNU3FoQW9ldGNYdF95QnU2MVZxTGlMX1NiYWZrUVY0S2hKTFlVSGJBZTExY0xfWGl1Q2RobDlQa0M5a1ozU1VYSlBNd2lDYzQwS2FKV0pNNnpJUnNUNDV1RmJYZENBNWVXcVM0R0MyVWfSAZsBQVVfeXFMTVdoNlkwaFM0R0ZuOExoUHowckk2eFNRejVwY1NUM1pnZEp1RDdMdVdGLXM3ZFFCeEJIOE5zdWJZeXJwcTlHLVk5azdLUTV2R0EtaGJ1VHMyb0tiTmp3MHhJVzBZSjBJRURLcF8yWkJvcXhHY2UwTS1wd1JFbkZGMkY1eXcwNk9LTlBkNDh6clNWSUlRRXppdG5QelE?oc=5",
    "tags": [
     "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Gold price extends decline as Fed rate hike bets grow",
-   "source": "Mining.com.au",
-   "time": "2026-11-11T21:07:08Z",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWmNPRml2TUc0WEotd1ZHemgtYUQ3dlJ5SDNPMU1rWDgtTHJmNU5GUTc5bmNHem13U0ktVkNibHZaSFVPRk5xY18xbXB0bk1YUVZvOUxGOG9rNnVvdXVWRER6UjJQZEEtZUFMbTdhZEl4ZTQzMGdtVEpMU0hJRlRHdjB3?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
-   "source": "Al Jazeera",
-   "time": "2026-11-11T21:06:03Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGxvd2hwTGtyaGlUa3hIS3BUSkdPYXJVNUd2Wnl1V0M1enhlSVdnUU9UN091S0JPLThfTTk3QVkwUmhPR212enhUWDUxRGdqZ0RtVXVJY3Ruc0podzdET0QtX0VCbGMwRzY5ZHMtTEQtMHNSaGtVQmVueGdCWTJ1SXFTVUlZRzVzZXdDUTZwcXo3cHdyTzlfS3gyTzMySDBmNlctcHNR0gGrAUFVX3lxTE9ETk94YXFQVXpLTFZnMUFLWDJEYWlLR2pDSkkyUTdtSFNKcXdfQUtHUkNTcnBNc05LYk4xR09nZ0ctUDVvakxYejhwT18xVURRUHA3TUdWLWpIOUVpTnFkQmRFWXhaaWpadTNOLVpxdTMzUUl6OVhuQ25sSmRUMXJfMmJiTEtHbFpMSzVaNXpTU1lRTlkwWmFyUHZQb2Q5TENUMUh1ejZVZS1jVQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump planning new military assault or tighter sanctions, say Iranian officials",
-   "source": "The Guardian",
-   "time": "2026-11-11T21:03:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR3RWMGNrSXRNMkl5SzdlV0ZwQXhRZlBQMzM2bFpiWVQzSDRvbHNRSVZSSk9LNEhGWVRnS29iYUlKRHdxVXRKZUJZQlB2YUVraHlUeTRIQnNCZGhGTHRxZm04cmVmTGFBT0RtQk9tbERBU1BmTzhPcjF6a1N5MERVLXdqaDlCRzNuaFhMNW9mUUw3eVhxSGFRdFJNSFRBbTU4cEh0UHYtX3dxd2RkMk1qcHJib3VnSEU?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Democrats’ strategy for ending the war in Iran",
-   "source": "The Economist",
-   "time": "2026-11-11T21:01:49Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkxkdDluUkkyVTV2aTB3UzU4RmRndFlPU3lKSGU5bTRWRUxRVnR3U3RjMVBFakpqd0JOdHgyOVJQRVFkcEpUM3otTWIzNkZoVVdkZzhvWVZYRWNhLXpMU2dUZGRSVnIxeEczaUhUTjFXa0wxR1JYc2tqSDJGQTVLWVZOUjFMN0FPMDBwa0NJRkZYeWQyb0RUMW11c2U?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "investingLive Americas FX news wrap 11 Nov. It’s a Wrap: Dollar climbs as stocks rise and oil fades",
-   "source": "ForexLive",
-   "time": "2026-11-11T20:59:52Z",
-   "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-11-nov-it-s-a-wrap-dollar-climbs-as-stocks-rise-and-oil-fades/",
-   "tags": [
-    "USD",
     "OIL"
    ]
   }
