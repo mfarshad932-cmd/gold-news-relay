@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T03:50:11Z",
+ "generatedAt": "2026-11-12T04:18:33Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -62,7 +62,7 @@
   "bbc_business": {
    "http": 200,
    "items": 56,
-   "kept": 5
+   "kept": 4
   },
   "bbc_world": {
    "http": 200,
@@ -80,44 +80,52 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 37,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_fed": {
-   "http": 200,
-   "items": 25,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 19,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 33,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 8,
-   "kept": 8
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 10,
-   "kept": 10
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
-   "items": 7,
-   "kept": 7
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 3,
-   "kept": 3
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +133,15 @@
   }
  },
  "items": [
+  {
+   "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
+   "source": "Al Jazeera",
+   "time": "2026-11-12T03:50:42Z",
+   "link": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Gold falls to over one-week low on firm dollar, Fed rate hike bets",
    "source": "Reuters",
@@ -682,15 +699,6 @@
    "tags": [
     "USD",
     "OIL"
-   ]
-  },
-  {
-   "title": "Surviving Being a Prisoner Of War: His Perspective Pt. 2",
-   "source": "CBS News",
-   "time": "2026-11-11T20:55:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQm9MZTRsYWM1NnNXLUtYc3ZmVXplXzBhZ3MzOWpRNzktX2toTkV0cmd3R3ZRWGg3ZVZwMXo5SnljTXZTRGRrMlBoa2NGM0FvT1lXX01odVllSXZtZXkzQTE5QTliempUcVB5NTNjQnAtdDNvaGtrYmRfbDN6bTdpcjBsMnhOQW9fV1YzWl9PUU9UbDVFc2xmenpfbTcta1JLbTV1MVpR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
