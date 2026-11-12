@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T20:22:09Z",
+ "generatedAt": "2026-11-12T20:50:35Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -16,7 +16,7 @@
   "fed_speeches": {
    "http": 200,
    "items": 15,
-   "kept": 2
+   "kept": 1
   },
   "ecb_press": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 31,
-   "kept": 4
+   "items": 29,
+   "kept": 3
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 27,
+   "items": 28,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 23,
+   "items": 22,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 29,
+   "items": 28,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 28,
+   "items": 30,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 18,
+   "items": 17,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,6 +126,69 @@
  },
  "items": [
   {
+   "title": "Nasdaq falters as Nvidia shares fall on CEO exit, oil prices rise: Live updates",
+   "source": "CNBC",
+   "time": "2026-11-12T20:45:15Z",
+   "link": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "The bond market now has an even bigger fear than AI fallout",
+   "source": "MarketWatch",
+   "time": "2026-11-12T20:44:00Z",
+   "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Yemen’s Houthis hold mass funeral after deadly Saudi airstrike",
+   "source": "CNN",
+   "time": "2026-11-12T20:43:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbEJWM1M3NnZtXzBYZ2NzOHhGcDQxUi02Sm1pc1FXbUVvZHdudUtFM1Y0Ql9zeGhfaGNZcUFfdWVEcHF6V2ZFbngzOTFlNGpZVUJwM2hndkZTV0VYeWE4clBXQkdiWkdFTlA5dE12Qms1Vy1ILV81Nk1PdEZPRWwwODZpeGRtODRvalNsdnhBZWw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold’s Final Rebound Ends, as It Did in 2013",
+   "source": "FXEmpire",
+   "time": "2026-11-12T20:37:06Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT2FOdjg3WmhzWUtWVVB2ckRVN05ESkRLWk4tUF9XRFVXVEJQbEw3cDlTeGVZU05uVGJzOUJSaS0wd1RmYTkxWDNuRENGbGxPRmpRWlNoeXJJdDd0RmZtYklrUFpPTWMzQVM4TmlBelB5V2VlVE9fOXJQaEcxVll6UFJaSnhMS0J2TUFlTEZSazJ6ekE5U0xoSA?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
+   "source": "CNBC",
+   "time": "2026-11-12T20:34:54Z",
+   "link": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Trump says ‘we don’t need a deal with Iran’",
+   "source": "CNBC",
+   "time": "2026-11-12T20:34:31Z",
+   "link": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "3 U.S. Manufacturing Stocks Built To Handle Canada Tariff Pressure",
+   "source": "Yahoo Finance Singapore",
+   "time": "2026-11-12T20:15:32Z",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdDhVeU4yZVZXaW1xcF9pX1p1aUJteVd6cEJuUjhpbXdMbHB6ZVFuSDJxaXZHLXV5ajZhUjdBLVl3bFdfVjF0M0M0b202azFja2pBRkZHLWJUQmIxUUVPTThtTF9PMnJ0MUtFRk50bmpnS1QtODZiRzFFSWtmbXhmMzhXZUlWdw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Gold plunges to one-year low near $3,850 as Fed hawks take charge",
    "source": "FXStreet",
    "time": "2026-11-12T20:13:37Z",
@@ -136,12 +199,12 @@
    ]
   },
   {
-   "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
-   "source": "CNBC",
-   "time": "2026-11-12T20:10:49Z",
-   "link": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+   "title": "Trump bluntly tells JD Vance to shift focus from Iran to targeting 'corruption and crime' at home",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-11-12T20:09:27Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0xhQmRCdF9LYzduNnpoa2Rzc3pWd1ktMU5JTjVjUEdVa3ZmYmFFZWlCaG1ZcnRUQXl4c1QzQkRWZjAtc3hVTmJCTGV0ak10TUJtWlFrSmZDa0tHenJWUzI0Q01jNHVLMmt1U19TMlRrS0xydWg2blo1TDdDbklUcGpNNTFGdFk3aDFPZ2Ftbkx3Zw?oc=5",
    "tags": [
-    "CHINA"
+    "GEOPOLITICS"
    ]
   },
   {
@@ -191,21 +254,32 @@
    ]
   },
   {
+   "title": "‘We believe gold and silver are not simply defensive assets’ – BlackRock’s Akullian",
+   "source": "Kitco",
+   "time": "2026-11-12T19:45:37Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2lPdXhYZUxpMXE1eUd1S01pNVVpZWMzdGxiRnhrWnZOS2xyWTUwcTZDSjB2WmJrM3IxNVpPZGRGNVhqcmY4TXIxNVVJWWd5RlpyNTNxQkxpa0NrYWlqcnRQZE4tWWhtM05rSl91amhsOEhYdDhYTU1FQjdpMks2UGNlbTJ0VHp0RlU2V0s1Sm9UOWlka29kMUxLT2lCUFlYV1NHaWJKV0Zia2t1VmhIU08wbzNBQQ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Fed’s Daly Says More Rate Hikes Needed to Cool Inflation",
+   "source": "Bloomberg.com",
+   "time": "2026-11-12T19:36:07Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVjJpUnJYdWk0dzZkcGp0cG54WTc3Sk84VWtmdmpCNGl1Z1pXZm1rYmowRnU4d2NSWmNXUFgtUFdQZDZ6SWswZDFsanZrODFEb1hfSWM3YTA3OC1qa09ZaTZkQXVGUW8xTmRKRnRURW04dWpPR0xxMXZURUNJVXdXdmRCNi1VeTBTRG0tZmN5cVVsVGZ3Mml2am8weXMxLWthNXVKY2Q2UDZhd2lZaXFlaURuaFU?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Senegal’s wrestlers turn tradition into gold at Dakar Youth Olympics",
    "source": "Al Jazeera",
    "time": "2026-11-12T19:32:25Z",
    "link": "https://www.aljazeera.com/sports/2026/11/12/senegals-wrestlers-turn-tradition-into-gold-at-dakar-youth-olympics?traffic_source=rss",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "The bond market now has an even bigger fear than AI fallout",
-   "source": "MarketWatch",
-   "time": "2026-11-12T19:29:00Z",
-   "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
-   "tags": [
-    "YIELDS"
    ]
   },
   {
@@ -292,23 +366,21 @@
    ]
   },
   {
-   "title": "Fed’s Daly Says More Rate Hikes Likely Needed to Cool Inflation",
-   "source": "Bloomberg.com",
-   "time": "2026-11-12T18:54:22Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVjJpUnJYdWk0dzZkcGp0cG54WTc3Sk84VWtmdmpCNGl1Z1pXZm1rYmowRnU4d2NSWmNXUFgtUFdQZDZ6SWswZDFsanZrODFEb1hfSWM3YTA3OC1qa09ZaTZkQXVGUW8xTmRKRnRURW04dWpPR0xxMXZURUNJVXdXdmRCNi1VeTBTRG0tZmN5cVVsVGZ3Mml2am8weXMxLWthNXVKY2Q2UDZhd2lZaXFlaURuaFU?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
-   ]
-  },
-  {
    "title": "US Equity Indexes Mixed After Nvidia CEO Resigns, Treasury Yields Soar",
    "source": "marketscreener.com",
    "time": "2026-11-12T18:51:13Z",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWhDN195LTJvTlN1aS1wcVpMY25KbXZzVEFWS0pza0dzbHBUcjVqMDkxcHpLVUJNY1owREsyd0NoV3hycUx2Zmt6dnM4MUJzNmxFdlNjX3RYTDVLUmZla3lzeEE0d0VUNlZmWFc4UzByM1VpTEVrYU1xSHgxVWpfakNibWo2Vl9aRmZyc1ZkVm5RS2V3dkFMcnl2MkdOVHlrWmp3SklCMHlLdkpFM2ctYW85ak5nODZfTGpIUWFsWQ?oc=5",
    "tags": [
     "YIELDS"
+   ]
+  },
+  {
+   "title": "Fed Will Not Hold Policy Vote at October 2027 Meeting",
+   "source": "The New York Times",
+   "time": "2026-11-12T18:51:05Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iLW13Sl9rX0hEQTV1blpqUXpZU0NXNGo3b2k1M1FDeUQtOUhjaDE5M0laeVJXTEVabUg2RFllcWFnWXlqLVhWNjljTGtkY0FHaVJUUVZ1YjMzZWs4dXFlRWNzbWVDenBKTTJWeTVvM0hSbzZ1bklyY3JEV01QSWM?oc=5",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -336,6 +408,15 @@
    "link": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
    "tags": [
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Trump renews calls for $350B military funding package as GOP faces ticking clock",
+   "source": "Politico",
+   "time": "2026-11-12T18:39:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWjh0RE9tY1BpX2IzMFdIYWIxQnpkNUxrbFZpTnpHMFRHajk4MDE2bXYyUFFuNHJLbGtHQ3VQQ3RCaTdYb21tcDZEQ0EwcTVuTGNjSjJRR3E4M0NyeklBSlh0NTBsc2ctRXhQVmlXVy1FMFFMTFpqY2VWODRUckU4Y2N4ei1JbElQUmN6VjRIVkI?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -429,15 +510,6 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQkVXdlE3ZGVXREFySFlVNEs3U01jNXFoTUswUGdCazVpeFhRWjdPcWFmMWY5cWc4M3pEeWFDUHhiR2RlOHlVZEFuZzdMWE42WW1ySjg5NHVJa0c5b3hULURybkUzdDJsVzM2WEJlczFmQmlfZHUxWU1CUG5SRmNHSGtoY2JUSmY3UzdmTTJHekNKQlRtb2c?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold’s Final Rebound Ends, as It Did in 2013",
-   "source": "FXEmpire",
-   "time": "2026-11-12T18:07:52Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT2FOdjg3WmhzWUtWVVB2ckRVN05ESkRLWk4tUF9XRFVXVEJQbEw3cDlTeGVZU05uVGJzOUJSaS0wd1RmYTkxWDNuRENGbGxPRmpRWlNoeXJJdDd0RmZtYklrUFpPTWMzQVM4TmlBelB5V2VlVE9fOXJQaEcxVll6UFJaSnhMS0J2TUFlTEZSazJ6ekE5U0xoSA?oc=5",
-   "tags": [
-    "GOLD"
    ]
   },
   {
@@ -599,80 +671,6 @@
    "source": "The Guardian",
    "time": "2026-11-12T17:19:00Z",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMkp3M2Vsc1lacjEzbVJOOVhnRXIybVgxZktUOUNZQU5LQkJ2elYzZWlmRXdIN2pmVlBPekZPZ1M1ZFNrY1BSYi1mQ3JTam9aSVZibG5Ienh5RHNydmQyXzJSRXRxZUhDVS1NUjZfdjFJY2ZJejRKY094eU4tb2wza2dBMzR2QjlVOEZMSw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
-   "source": "Al Jazeera",
-   "time": "2026-11-12T17:18:13Z",
-   "link": "https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Treasury Yields Rise on Strong Jobs Data",
-   "source": "WSJ",
-   "time": "2026-11-12T17:14:45Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTjNsSlBvQ2VnWnZFM1RMRHEyUjM0RnlaRnByUDlZajM3VWFvSjMzeU1QYXktM0llSmtNRTQ4aGNkWFdYVnR1S2w5TXhiM1dlbWxaZk5UVy1tcFd0TnVUOXh6N1FfdlcxTDZxaWN1TWVYNE9GOTcydWJ2RmpkUnpkdmNxcGF5ZUVnR0RiT09lYklIUU1DbklyQzM5cUZHZFNJSVEzVTNKZkE?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Fed faces tougher inflation fight as pressure builds for more rate hikes",
-   "source": "Axios",
-   "time": "2026-11-12T17:14:35Z",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDR2FBVnZjdTZUR1ZQSjRQLXBkamFfVVZiQjFxb016UE1oWS1qTl9Ha0ZPeEpaMGs3TXJMbV9sRGtickN1YkxzSTc0QVR2X2NnWGRMSXNrVG0wSWEyMktzVWRkWmhidzZMNXZzZkZNN3dXTms?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "3 US Retail Importer Stocks That Could Gain From Tariff Refunds",
-   "source": "Yahoo Finance",
-   "time": "2026-11-12T17:12:04Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUptdEF3b2FGWVdHUDNvZ2M5TlRuT0o1aUs4bGtNLXdKRHFnWHhJZUduZFU0YVg3R0d1SHpUaWplZzhNcGpsLUY2bEZvYUhpTU8wclJ1UXh4N0dPc3kyUFlxUUVCaU5ZdFJFX2tsMU45Mnc5MFFsUG52VUo3aDczNExNYmlyRW1GMzhQcDlMOGRfZkpWN1kw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Crude oil inventories rise unexpectedly, pressuring prices",
-   "source": "Investing.com",
-   "time": "2026-11-12T17:02:09Z",
-   "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-rise-unexpectedly-pressuring-prices-93CH-5022805",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "The bond market now has an even bigger fear than the AI fallout",
-   "source": "MarketWatch",
-   "time": "2026-11-12T17:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWTI3RVVkdlJNR2tVVTNfRnJsd2JqUTd2Z3hIeWNNSEhRZ0NpQU4xekZKeTVVN2tJenp3MVh4RU9oTW5EcU9mNVNzTHlnY0pSVmFvT29NaEtETUFmakVPU1o3bUNVYlc3OUFBTVNDS05LYVFmeXdobF81V2paa1cycF96N1l5QW12dzNXMExYcG41c2U4VnRXa09YLXdKcnJVcEprZXNLOTBYQQ?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
-   "source": "Al Jazeera",
-   "time": "2026-11-12T16:55:10Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-   "source": "BBC",
-   "time": "2026-11-12T16:54:12Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
    ]
