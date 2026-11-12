@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-12T15:38:45Z",
+ "generatedAt": "2026-11-12T16:07:08Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
    "http": 200,
    "items": 20,
-   "kept": 0
+   "kept": 1
   },
   "fed_monetary": {
    "http": 200,
@@ -52,12 +52,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 8
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -86,7 +86,7 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 18,
+   "items": 17,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 26,
+   "items": 24,
    "kept": 12
   },
   "gn_sanctions": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,6 +126,60 @@
  },
  "items": [
   {
+   "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+   "source": "Federal Reserve",
+   "time": "2026-11-12T16:00:00Z",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Trump threatens to double tariffs on Mexico if it does not halt migrants",
+   "source": "Reuters",
+   "time": "2026-11-12T15:59:53Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzJwLS0tdmxjdGp1T3RFY29PR2JyaXRQVkVUREtlUkYzSWVfZ3ZwYlV0anNiTGc2VDlvQ2Y2UC1WZ1ZiTC1zOHJqYjRRcE9rVG0wSXpEUTZlN1E2Q0F3WmZsX1dDdG82NmtHYVpCNXJTTklFd05kMldLRGg0YktvX200bmZxSjJWZWVlUURielBYU0wtTTBRVjBKNEx4dWhrUjRndEQ2eHB0R2xvTmdZZQ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Donald Trump rails against Mexico migrant caravan, threatens to double tariffs",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-12T15:57:14Z",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5US1VNQ2wxUGY0X0FEOVo4YnkxMjNTcWstZlpjejJvU1BFNTFOVkFJR296MjZ2SGZiN3FfbjNBSGtEeTVtSlZDQW9mYzd2UF9nRmpIT05YekVidG56N1Rn?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Nvidia is spending more than ever on Washington lobbying. It may not stop Congress from limiting China chip sales now.",
+   "source": "MarketWatch",
+   "time": "2026-11-12T15:55:00Z",
+   "link": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Trump Tells Mexico He’ll Double Tariffs If It Doesn’t Crack Down On Migrant Caravans",
+   "source": "Forbes",
+   "time": "2026-11-12T15:53:11Z",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOVVFOURORF9IM2VKSVNlYTFKZVZLWk5QMHJmQTJBM0l6UjRESElVQ0E3NndyYV90a2RydDRlYWdGd2RKLVJGNUx6c0c0eVJGWGY1UVBXQ0owU3Q4XzJ2RDhram1DSTJnVGRhX0dBQnVfdDltRXhXZlF3NlpGUEt5eWpveG1NczNvUmUxZVVFc25TSEdpc2dCSE9vZ3BHeXkzaFhQVVRhMmhIbExIN2VlaW1LZ19BS2MyOGZCOVBfMW9Tak1adXA0bU9uZkJKODNlTTVrX1FTNVpMQTQ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "COMMENTARY: Just like the US, Iran has squandered its good options to end the war",
+   "source": "Reuters",
+   "time": "2026-11-12T15:46:47Z",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjNkU1dtRi1ZR0lyQmplWGZON1QwakF5Wk82UzhRSzR6ZlJfVFlpTkJLWEVBdGFsc21GbEVNMURkRDhaWm9tRHhwZGhUclFxXzdzUlZUU0VUYi10U1MtVzF5djhHNFVCSEhUa1dMN0pvWjktV2JQVGJTa01lSl9lM1RkY1RGdmJmOWVGUkd6MUw2WjBDZ0NPQ3pfYzh2ZXkwNDF3YXppNlBIcEhIUWlQcVhoZXpEOUZpNXYzZHVrdlVybVYz?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
    "source": "CNBC",
    "time": "2026-11-12T15:36:02Z",
@@ -135,18 +189,18 @@
    ]
   },
   {
-   "title": "US envoys meet Putin in Moscow to discuss Russia-Ukraine war",
-   "source": "Al Jazeera",
-   "time": "2026-11-12T15:22:30Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRG45T2R4UmFjWjFib21RZmdqMFNSNmc4VlM5SDhnSFNkOWU3WElJTHczOEhnSG5hc05KQ3BHdUV3R1RYeXRMVkQ0SlJmbkMxRWhkTVFDOEQ1N013VnhGdW1ENzlIR21VREJYUmk1SklrWEYyWUg1NTMtMDU3VFVaeTA0dkMtWFM1c0ZwUkNMNlE4VUd6Mm5CY1pESVZVdkw0SzZXNkVMMNIBrAFBVV95cUxPYThFUTlZR1BIaUZKVFdOcFlqbi1DR0FEUlV1d1UyMGNvRG5oa0ZtRnJsN0FoRW9GeUFyTGlsVkZtcS1HTmdoRGt1bmlvYmR0aEtuQ0pWT0NjdXBwRG1NSXY5RnRtQkx3MHR2WjRaQmkxMmxmRHBORnI1aXBrSnNvSGN6SHE4ODRsWlFLWGxraURmajBZc2daN20ycFY3SFRpOVVmQ3JEVVZvNmFz?oc=5",
+   "title": "Fed's Hammack signals support for gradual rate-hike path",
+   "source": "Reuters",
+   "time": "2026-11-12T15:28:30Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWi1FbTBFZzFKNzU2S1UweWQ3Vk56U2NXRlRhbHgwSVdYN3NiOEhvOXgxOFh6ckNVbXZabEtCeVNDZzZIYkNud0N0OXd0dV9UY2dCdlpDQkZhX0VER2xpZ2xISmFIUUZIdEQzMDYxQ2s1Mkg5cW9LVWVwQ3d2QXl1dktYMHlpcDZoNHYwYmh1WHZWSDFneWgzeHZlbVc3cG8?oc=5",
    "tags": [
-    "GEOPOLITICS"
+    "FED"
    ]
   },
   {
    "title": "Gold Faces Pressure as Real Yields Climb After October CPI Report",
    "source": "FXEmpire",
-   "time": "2026-11-12T15:22:05Z",
+   "time": "2026-11-12T15:23:52Z",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmtQb1hKVlpJeEV2ZHB1Z0x2V08yaTNmM25PWlNiOEhJOTdkbVB1Sk9FVTlEeGF0MkltZ05uVWk5SDZEXzJOVEJwR0xnNjF6aTBrUHd6ckdmU29tQVBSdUxpWkVhRTdlTERVR1ZZZXh0WGJEZ0xndmdlblduNHRwVE1Nc3dVYnU1T1lmWTh4bTB3LUtXWG93cDdaM0RGc0JVSkZGbDBsaGRuVmJpQkVsX2R4T0VsVlE?oc=5",
    "tags": [
     "YIELDS",
@@ -155,10 +209,28 @@
    ]
   },
   {
+   "title": "US envoys meet Putin in Moscow to discuss Russia-Ukraine war",
+   "source": "Al Jazeera",
+   "time": "2026-11-12T15:22:44Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRG45T2R4UmFjWjFib21RZmdqMFNSNmc4VlM5SDhnSFNkOWU3WElJTHczOEhnSG5hc05KQ3BHdUV3R1RYeXRMVkQ0SlJmbkMxRWhkTVFDOEQ1N013VnhGdW1ENzlIR21VREJYUmk1SklrWEYyWUg1NTMtMDU3VFVaeTA0dkMtWFM1c0ZwUkNMNlE4VUd6Mm5CY1pESVZVdkw0SzZXNkVMMNIBrAFBVV95cUxPYThFUTlZR1BIaUZKVFdOcFlqbi1DR0FEUlV1d1UyMGNvRG5oa0ZtRnJsN0FoRW9GeUFyTGlsVkZtcS1HTmdoRGt1bmlvYmR0aEtuQ0pWT0NjdXBwRG1NSXY5RnRtQkx3MHR2WjRaQmkxMmxmRHBORnI1aXBrSnNvSGN6SHE4ODRsWlFLWGxraURmajBZc2daN20ycFY3SFRpOVVmQ3JEVVZvNmFz?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
    "source": "BBC",
    "time": "2026-11-12T15:16:39Z",
    "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "UK court finds two Iranian men guilty of spying for Iran",
+   "source": "Al Jazeera",
+   "time": "2026-11-12T15:15:48Z",
+   "link": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -247,7 +319,7 @@
    ]
   },
   {
-   "title": "Trump Threatens to Double Tariffs on Mexican Goods Over Migrants",
+   "title": "Trump Threatens to Double Tariffs on Mexico Over Migrants",
    "source": "Bloomberg.com",
    "time": "2026-11-12T14:53:14Z",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMnJ4S0x3TmVXb1NReEMzUU1uNU1NNmdmaXpQN0RKdFY3cUR0TmxEUFRMdk4tenRfY1Y2VDBTN1ZUSWFMandoSU9KcFhrcnF0QnZ2WVktRzZiRlZnTEVMY2xpUUU2d3lab1dILTR0alIzdDZvaThKMlcxMHQ0c3ljTDNhSG9mbTluT1NDUDhheHZnTGlXQzF3S1lBNk4yUThVQm11cE95TnEtZTFwU0VKeXVLTy1iZw?oc=5",
@@ -271,6 +343,15 @@
    "link": "https://www.aljazeera.com/news/2026/11/12/trump-heads-to-china-amid-nvidia-scandal-will-he-get-tougher-on-beijing?traffic_source=rss",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
+   "source": "Al Jazeera",
+   "time": "2026-11-12T14:37:30Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZTdJeW8yVy1DNTdyMDVPOVRDelNLUE5jTXJoMHp6czRJNEJwbzRfbkhEME1Dam5RRVVTU3BKZTJDMWV4VmlvSnNIMEJVTjJWM1VlNDZadVFGeUtlM2R6VVE5OGhSVm96ZGw0NzdzOTBWM0lfd3RpcFhWR1dBUGZzOE1GOEJiWHU3OUoxWTBES1BMN2FaZlJrb3lJLUgxWmtienFoVVp5RmJkMExvOTFLZ9IBtgFBVV95cUxQZVFhZDlOUnVqVXdSaG1GN2luS0dEczNhX3BtSDF3UzYwbEx1RV9CM1o5a3FueEdyZUozTWlKblpqRU5KbFI3cTlGVENNck9KY0ZLMlNjS1hwZU80WUJDWmhKVXlsaEl0dHZmZ2phd1A4dERuTWczSndqU2M4MXMzTTlOVWFFblFGaVNIODQ3SXgwU3BIWFJjOER3c1lRUEJDMnBkMHFkOUVsVEFsMEtPSThuWGhFdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -362,15 +443,6 @@
    "source": "BBC",
    "time": "2026-11-12T14:27:30Z",
    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
-   "source": "Al Jazeera",
-   "time": "2026-11-12T14:23:54Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZTdJeW8yVy1DNTdyMDVPOVRDelNLUE5jTXJoMHp6czRJNEJwbzRfbkhEME1Dam5RRVVTU3BKZTJDMWV4VmlvSnNIMEJVTjJWM1VlNDZadVFGeUtlM2R6VVE5OGhSVm96ZGw0NzdzOTBWM0lfd3RpcFhWR1dBUGZzOE1GOEJiWHU3OUoxWTBES1BMN2FaZlJrb3lJLUgxWmtienFoVVp5RmJkMExvOTFLZ9IBtgFBVV95cUxQZVFhZDlOUnVqVXdSaG1GN2luS0dEczNhX3BtSDF3UzYwbEx1RV9CM1o5a3FueEdyZUozTWlKblpqRU5KbFI3cTlGVENNck9KY0ZLMlNjS1hwZU80WUJDWmhKVXlsaEl0dHZmZ2phd1A4dERuTWczSndqU2M4MXMzTTlOVWFFblFGaVNIODQ3SXgwU3BIWFJjOER3c1lRUEJDMnBkMHFkOUVsVEFsMEtPSThuWGhFdw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -521,15 +593,6 @@
    ]
   },
   {
-   "title": "Trump threatens to double tariffs on Mexico if it does not halt migrants",
-   "source": "Reuters",
-   "time": "2026-11-12T13:33:44Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzJwLS0tdmxjdGp1T3RFY29PR2JyaXRQVkVUREtlUkYzSWVfZ3ZwYlV0anNiTGc2VDlvQ2Y2UC1WZ1ZiTC1zOHJqYjRRcE9rVG0wSXpEUTZlN1E2Q0F3WmZsX1dDdG82NmtHYVpCNXJTTklFd05kMldLRGg0YktvX200bmZxSjJWZWVlUURielBYU0wtTTBRVjBKNEx4dWhrUjRndEQ2eHB0R2xvTmdZZQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
    "title": "Trump ran on a platform of peace. His war may have cost Republicans the midterms | Mohamad Bazzi",
    "source": "The Guardian",
    "time": "2026-11-12T13:33:00Z",
@@ -619,70 +682,6 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOWRhbk9zaTNtM2dqV0V2dzBHMmY2T2pPVHhyY0F5UXA5cW9GaFRzX0pKajdFM3UtSnlwZnBfQjhuemswZkw3S0NhcjZRQ0dOMnE0Q1FQQzVia0MwaE9IckJBdU50Q1RlanUyV3NYTUNSUzFUT1lzSWhWRlJDLU5yUnFiNFNTV2pMdWtiZVM4dGtEUzlpT1B4T0d4YTQ4ZzVqYmpQUENNOA?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump threatens to double tariffs on Mexico if it does not halt migrants By Reuters",
-   "source": "Investing.com",
-   "time": "2026-11-12T13:11:57Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSE9JSDRhdWlrVkVLQXg2WVNpVEY5VGxPYmZhdEIwbF95TmZGZVl2TEtMSjNVSWlGMy1rMXFpRmVRMXM2Qmo5b0xhSVlHamhTblFkQnh6aERlckstN2hpVFdvOTBQX1g2LWtkcWhVeWdIVTJYXzZMaTBDYUxQMUpTNGVEdm5yNWJvcXFuX3NXdzYtcnp2MG1nTE1OQUZydXdwV2UwQTV2RTZNczhiY3R3U1dtM3JDMU41dFFsdmJhS01qQQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-   "source": "BBC",
-   "time": "2026-11-12T13:02:46Z",
-   "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "EU to present new Russia sanctions package, Ukraine funding measures by year-end",
-   "source": "Reuters",
-   "time": "2026-11-12T12:58:12Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd2hxVXptWFBac1VNdFFUOE8zVi02NklWdlhCenlSNjROVGx3QVJpSERMN0lsbUEtWHpwODVGSVZFeV9CN3ZWb09xcHBCMnVfYkFaZHhiOU1YSWJFb3EtdWJwWW01UGRxTEtOVzlkVUxSTGotaVhfSVhFOVVVVFdfN0hKb3gtNjUtdUprOFFrVmxTa0lrYk5wWnNxVm9OaGFsNk1GRF93NUdrWXB4ZUItTFkzZFA2YjlpNGx5dmZZNjMwTUM5NmVNNg?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Canada won’t let Russian players enter for ice hockey junior championship",
-   "source": "Al Jazeera",
-   "time": "2026-11-12T12:58:08Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2xOdkctVEdJcThReDJ2MGtXN0dCWVlrWEhyQTYtUUZLcHdJWDhPY0RXYnZhbVhqMnUtVV9FZko2Qldac1FIckRZeEI1X0NlTlN4aGdlalFheVFKOVJKbHhPUnZCODNPU0tIZE9hTjk2Mi1VZHhYa2ZCMzVuLVVBZEFsN2FzOE1wNWM1ZlBmODExdGsxcnJkNGpRUjRWQllXYkNZOTdKbGx1czN1UXpLamxqWllrQlHSAbwBQVVfeXFMTV9yNXljY3dHZ2N3WVZtWDl4eGpkOXk3dmZReUdSVC14OFRrZmQzWXBZNnBQMVo3SXNqU2gxb3Z0WU91enhRa2JveE5QSjJ5Zm9JTjJSWFAwb1VJM1ltZjY3SkQ0cG43ZDIyTE9nSzBfYWxaRlRybGZpR1ZBMlZKQnJDOUt5aFR5a1Q2UGQzYWZFczVJZUVUaE91cFhOOGdFSWRKM1lmTmM2LUw3aHJLbTZyLXJ2ZzhvempCN0I?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Wall Street set to dip as Nvidia storm continues, Treasury yields bob at 5%",
-   "source": "TradingView",
-   "time": "2026-11-12T12:57:53Z",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUGw2ODRKVDE0YVVSQ3ZPWFFsQWppZ0tqa2U5R05PZ1Rad3FMQktieUFQelZmVXJvdmRPUVM2a0dHTXdSRlhrWFRNVmVHSmROVUlUNEdZVE9lNzNxeU5NdVo1TENSVFpmUG1jbzNidGRnWW1qOVQ5NXVrR0d2NjJnNzVaa2RCZTVHZFlKblpmWjZUNVBiSVRfU0cyck5QeFdDN3VGN2RLc2tKazVZalpIWlk2QXlUeEVYcGpOcENBU2ZOTFBvLVZtUkYtdlVTeFVWeS02cE9YX1lla3c?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "investingLive European session wrap: Gold stumbles, equities mixed as Nvidia drags US futures down",
-   "source": "ForexLive",
-   "time": "2026-11-12T12:43:23Z",
-   "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-12-nov/",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "War Requiem review – in the cathedral where it premiered, Britten’s masterpiece has lost none of its power",
-   "source": "The Guardian",
-   "time": "2026-11-12T12:42:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ0dMVFdBZFdzdGxNc29qdjhSNjdVOTVVN0JUZTV0YmtmRUNIa0paVDZ4NWlselVPM3FvSkNUNzVqdXJiY1FadEo3XzhxeUJRVXlpcEpiYVdoUGFUX0JwTlBPLTBYSVZzY0FZellPYlBWbXBvSEZsOFVNcUNMM2NncTVKNmVBRE9jZkNZS2NhME5YWVN3UDN1YkxOXzMxOWNVLTVlSVlR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
