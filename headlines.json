@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T18:57:10Z",
+ "generatedAt": "2026-11-12T19:25:29Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 7
+   "kept": 6
   },
   "marketwatch": {
    "http": 200,
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 30,
+   "items": 29,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 19,
+   "items": 21,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,17 +96,17 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 28,
+   "items": 23,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "gn_yields": {
    "http": 200,
-   "items": 19,
+   "items": 18,
    "kept": 12
   },
   "gn_oil": {
@@ -126,6 +126,44 @@
  },
  "items": [
   {
+   "title": "US Fed Sets Aside October 2027 Meeting For Policy Strategy Talks",
+   "source": "Forbes Middle East",
+   "time": "2026-11-12T19:09:48Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemlpcnFNdkdraW1XTTNJR0N5M2lNUXdxaHBCZnpjTlRkRGZqaERjWGlKZjBYakhhUHRQQ3cxSHlkWEJrQWtkMTR1ODYtZjd3cy1XVkU3Q3pFNzF0ZXNoZThNc2V1Y0xMSWdJWGJOeDJrUFlGZ3ZoZ2p0ak9peUNHc21HcXZQNkpsOGJaNXJncHZ3d2xWbjJ0LTY5cVgzZXhKaWJCY2hSaF8xVUcwWFlSVG1sNUoydw?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+   "source": "CNBC",
+   "time": "2026-11-12T19:05:25Z",
+   "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+   "source": "CNBC",
+   "time": "2026-11-12T19:04:21Z",
+   "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Estonia Warns of Russian ‘Mind Games’ Over New Security Demands",
+   "source": "Bloomberg.com",
+   "time": "2026-11-12T18:57:25Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUjZGdUxWNFlHUTJObGZ2QVN2SVp4eHNucl9Sd3NRcTkzcF9sZVhweFNrSTNQSTFxOGROR0NTaU4yZGh1OTFQQldvQWNrS0xySC1VZlpvOTlaUjVwQmdmUl9BcHNFV3FORkpIUlNtVXIxLTdfaDRfMlAtYUlSLUY5SGh6cWZpR2JSdE9IaC1QUUcybGJBX3J2ZG5EQUZsSktFUEV2bmloMFZabmxSUEFhU3Fn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "US Equity Indexes Mixed After Nvidia CEO Resigns, Treasury Yields Soar",
    "source": "marketscreener.com",
    "time": "2026-11-12T18:51:13Z",
@@ -141,16 +179,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-   "source": "CNBC",
-   "time": "2026-11-12T18:44:46Z",
-   "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
    ]
   },
   {
@@ -207,16 +235,6 @@
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-   "source": "CNBC",
-   "time": "2026-11-12T18:26:52Z",
-   "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-   "tags": [
-    "FED",
-    "RATES"
    ]
   },
   {
@@ -281,6 +299,15 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT2FOdjg3WmhzWUtWVVB2ckRVN05ESkRLWk4tUF9XRFVXVEJQbEw3cDlTeGVZU05uVGJzOUJSaS0wd1RmYTkxWDNuRENGbGxPRmpRWlNoeXJJdDd0RmZtYklrUFpPTWMzQVM4TmlBelB5V2VlVE9fOXJQaEcxVll6UFJaSnhMS0J2TUFlTEZSazJ6ekE5U0xoSA?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "FOMC drops October policy decision from 2027 tentative meetings schedule",
+   "source": "TradingView",
+   "time": "2026-11-12T18:06:12Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVkVOMmJLcnBjU1poSGhiLUtGVDNuVU52dHBoS0hNRmJ2VW40bEh0bXdaYzlibFZtcExaVS0xWUpwVTR5ZWp1UXUzblZaWDhUd3hhV1BpaElKdmNYZXZ0Wldvb0lmYlFGaVdlSzFHeFlwc3N3N0NaYWp2SHZNTHIwM2FGdXNVR3NIemJrQjVQeWNnYmNvWXAwNUZVVFEtTlVTUEtjc2xUWF8zeHJKUWtYM3VDNzlCSnZnQlBpSzROdGR0MnlycXN5OEdJazJMM2x3?oc=5",
+   "tags": [
+    "FOMC"
    ]
   },
   {
@@ -646,34 +673,6 @@
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The US dollar moves higher as Treasury yields extend their gains",
-   "source": "investingLive",
-   "time": "2026-11-12T16:03:51Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVZRdFczUjZoVzBlWjdJcngwRUNpM1VNcENKVTNTQlBnVVdiWGZrTzBHZFhvT0VyODNzUFN0dW51c1ZWQmM3SmUzUDc1b1MwWXhKQkRTRUpMNE1tTFYzYWExdW02TTJ0dnpUVnlHV2lrd0Y4bGppSlRzMGJxcGFzUmpoSWkyVl9fX2ZPM0Q2d0ZBd1Y5V2VHdGRObWFyZFh6QW5scDVPRWZTNVdMZWsw?oc=5",
-   "tags": [
-    "USD",
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Donald Trump rails against Mexico migrant caravan, threatens to double tariffs",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-12T16:01:19Z",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5US1VNQ2wxUGY0X0FEOVo4YnkxMjNTcWstZlpjejJvU1BFNTFOVkFJR296MjZ2SGZiN3FfbjNBSGtEeTVtSlZDQW9mYzd2UF9nRmpIT05YekVidG56N1Rn?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-   "source": "Federal Reserve",
-   "time": "2026-11-12T16:00:00Z",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
-   "tags": [
-    "FED"
    ]
   }
  ],
