@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T17:03:50Z",
+ "generatedAt": "2026-11-12T17:32:12Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -81,28 +81,28 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 30,
+   "items": 28,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 19,
+   "items": 16,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 30,
+   "items": 28,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 23,
+   "items": 24,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 8,
+   "kept": 8
   },
   "gn_yields": {
    "http": 200,
@@ -126,23 +126,59 @@
  },
  "items": [
   {
+   "title": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
+   "source": "CNBC",
+   "time": "2026-11-12T17:23:25Z",
+   "link": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Finland bars Russian athletes from entering country over Ukraine war",
+   "source": "The Guardian",
+   "time": "2026-11-12T17:23:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSEFpZk5sZzZ5dEJJNjdNN2hhWll3ODV6QXU1N0RsWnNveUQyVXZfRXJKc3dNTFp0TXZScUQ1X1FiT1VXaG9kZHg1aE10OWQ0Y1dFWHZDWi1PRk5ybFNyamYxajdwVFdHYl9zOXFRZnpLdGNhNnQ3RFdyTGF2MHBGZzZTdlFHSzZpTl9R?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed faces tougher inflation fight as pressure builds for more rate hikes",
+   "source": "Axios",
+   "time": "2026-11-12T17:14:35Z",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDR2FBVnZjdTZUR1ZQSjRQLXBkamFfVVZiQjFxb016UE1oWS1qTl9Ha0ZPeEpaMGs3TXJMbV9sRGtickN1YkxzSTc0QVR2X2NnWGRMSXNrVG0wSWEyMktzVWRkWmhidzZMNXZzZkZNN3dXTms?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "INFLATION"
+   ]
+  },
+  {
    "title": "The bond market now has an even bigger fear than the AI fallout",
    "source": "MarketWatch",
-   "time": "2026-11-12T17:00:00Z",
+   "time": "2026-11-12T17:11:00Z",
    "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
    "tags": [
     "YIELDS"
    ]
   },
   {
-   "title": "Fed faces tougher inflation fight as pressure builds for more rate hikes",
-   "source": "Axios",
-   "time": "2026-11-12T16:56:42Z",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDR2FBVnZjdTZUR1ZQSjRQLXBkamFfVVZiQjFxb016UE1oWS1qTl9Ha0ZPeEpaMGs3TXJMbV9sRGtickN1YkxzSTc0QVR2X2NnWGRMSXNrVG0wSWEyMktzVWRkWmhidzZMNXZzZkZNN3dXTms?oc=5",
+   "title": "Crude oil inventories rise unexpectedly, pressuring prices",
+   "source": "Investing.com",
+   "time": "2026-11-12T17:02:09Z",
+   "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-rise-unexpectedly-pressuring-prices-93CH-5022805",
    "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
+    "OIL"
+   ]
+  },
+  {
+   "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
+   "source": "Al Jazeera",
+   "time": "2026-11-12T16:55:10Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -246,6 +282,15 @@
    ]
   },
   {
+   "title": "Israeli airstrike on Gaza hospital kills 6 people, Hamas-run health ministry says",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-11-12T16:24:07Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVGh2c012X3FlMGJkTzJBNUZYRGtPdC1aQUxzYzdEZlFQNWNKVFp0bzlGWmJlSDlTQzRBQm9Lb05YU3B6bGFnSHZmZE9nczQ1WDFsSlVrcXpid3ZOR3dIOFRESnFIQ3dPRzZJVUplSldCci13R0dQZ0wtQzEybXUxX216b2g5VU5STGwzZTFrb1FwZ0tUWXE5LXZjaFlFa0pQRUFxMEZIRVPSAa4BQVVfeXFMTXJRX19VXzJCMVdmenpxUFlUX0pSM1JWTGpzZ0lSQURWYUFKbGtxd0I1cnEweE5VNWNxaTlkV0d3b3QwMTg4OHM3MEp0R25nRC12bklOLW1WWDBESXRBQmttZ0p3b0gtbVdIeHpoZGRBV1FBYTNlZGtPZTJlZmJOMk5tZXlpQ3kxZmUxdVlHYjJZVTk5QXl1U1hZR1M5cUNWTVZnWW1uLVNQUFMwNG9B?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say",
    "source": "NBC News",
    "time": "2026-11-12T16:23:30Z",
@@ -273,12 +318,12 @@
    ]
   },
   {
-   "title": "Israeli airstrike on Gaza hospital kills 6 people, Hamas-run health ministry says",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-12T16:18:45Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVGh2c012X3FlMGJkTzJBNUZYRGtPdC1aQUxzYzdEZlFQNWNKVFp0bzlGWmJlSDlTQzRBQm9Lb05YU3B6bGFnSHZmZE9nczQ1WDFsSlVrcXpid3ZOR3dIOFRESnFIQ3dPRzZJVUplSldCci13R0dQZ0wtQzEybXUxX216b2g5VU5STGwzZTFrb1FwZ0tUWXE5LXZjaFlFa0pQRUFxMEZIRVPSAa4BQVVfeXFMTXJRX19VXzJCMVdmenpxUFlUX0pSM1JWTGpzZ0lSQURWYUFKbGtxd0I1cnEweE5VNWNxaTlkV0d3b3QwMTg4OHM3MEp0R25nRC12bklOLW1WWDBESXRBQmttZ0p3b0gtbVdIeHpoZGRBV1FBYTNlZGtPZTJlZmJOMk5tZXlpQ3kxZmUxdVlHYjJZVTk5QXl1U1hZR1M5cUNWTVZnWW1uLVNQUFMwNG9B?oc=5",
+   "title": "Trump threatens to double tariffs on Mexico if it does not halt migrants",
+   "source": "Reuters",
+   "time": "2026-11-12T16:18:20Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzJwLS0tdmxjdGp1T3RFY29PR2JyaXRQVkVUREtlUkYzSWVfZ3ZwYlV0anNiTGc2VDlvQ2Y2UC1WZ1ZiTC1zOHJqYjRRcE9rVG0wSXpEUTZlN1E2Q0F3WmZsX1dDdG82NmtHYVpCNXJTTklFd05kMldLRGg0YktvX200bmZxSjJWZWVlUURielBYU0wtTTBRVjBKNEx4dWhrUjRndEQ2eHB0R2xvTmdZZQ?oc=5",
    "tags": [
-    "GEOPOLITICS"
+    "TARIFF"
    ]
   },
   {
@@ -328,12 +373,12 @@
    ]
   },
   {
-   "title": "Trump threatens to double tariffs on Mexico if it does not halt migrants",
-   "source": "Reuters",
-   "time": "2026-11-12T15:59:53Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzJwLS0tdmxjdGp1T3RFY29PR2JyaXRQVkVUREtlUkYzSWVfZ3ZwYlV0anNiTGc2VDlvQ2Y2UC1WZ1ZiTC1zOHJqYjRRcE9rVG0wSXpEUTZlN1E2Q0F3WmZsX1dDdG82NmtHYVpCNXJTTklFd05kMldLRGg0YktvX200bmZxSjJWZWVlUURielBYU0wtTTBRVjBKNEx4dWhrUjRndEQ2eHB0R2xvTmdZZQ?oc=5",
+   "title": "AU Q3 Earnings Rise 17.4% as Gold Prices Offset Weaker Production",
+   "source": "Yahoo Finance UK",
+   "time": "2026-11-12T15:57:00Z",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IZWxFLTFvQ2dtbXoxUEpBQnp1WXE5VFhURU5hbFpvVENsd2oteEZ3SVl6VGc4VlM5akhJX05rU2ZFVERfS25mamZpOGFRSUVSdDdFQ1JLbVlON3FybzdDTXN1bkxBTFJ5LVR4UFhfeXgzWkF4RW5wTVJTbw?oc=5",
    "tags": [
-    "TARIFF"
+    "GOLD"
    ]
   },
   {
@@ -369,15 +414,6 @@
    "source": "Reuters",
    "time": "2026-11-12T15:46:47Z",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjNkU1dtRi1ZR0lyQmplWGZON1QwakF5Wk82UzhRSzR6ZlJfVFlpTkJLWEVBdGFsc21GbEVNMURkRDhaWm9tRHhwZGhUclFxXzdzUlZUU0VUYi10U1MtVzF5djhHNFVCSEhUa1dMN0pvWjktV2JQVGJTa01lSl9lM1RkY1RGdmJmOWVGUkd6MUw2WjBDZ0NPQ3pfYzh2ZXkwNDF3YXppNlBIcEhIUWlQcVhoZXpEOUZpNXYzZHVrdlVybVYz?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
-   "source": "CNBC",
-   "time": "2026-11-12T15:36:02Z",
-   "link": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -449,6 +485,15 @@
    ]
   },
   {
+   "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
+   "source": "AP News",
+   "time": "2026-11-12T15:11:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2lvZUtOMFJMUFh0VlBpdnZObEJBZHNSSmNzOENBaDhrRElabllhNWo2bGV5QTNtbGZsZnpIQWpPSy1helVnWWxjRHB3emtzWm02bHpmS2xyM3JTM1NIc3pHQ0FZek1NQ1dLbWZJZWoteE9YYUp0SndXMFMtWlVKSlZuUWRob0RGbzZYQlpfWV8zbFBwRk1lVEdDTkoxOUxrWVdUVGgzMA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Trump sends tariff warning to Mexico is caravans don't stop",
    "source": "Fox Business",
    "time": "2026-11-12T15:10:37Z",
@@ -502,6 +547,15 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTVBaZ0VPUmFPdE5JSHlRTTE5LVNUTGdhYWZ0MlNlUTVGRjhNbUJjTVZoSmQ3ak9Ea3JEZ1NJUXM2bFJZQVhuRGE1a2pYWk1TSlB2NUU1ZXQ2bm44YkE1RDBNNjc3eGRHclg2UVVRZERaR2VnWjlHWG9Gb3RmbXBCWFdieEdReHlYejRyUjVfSmVhZnZHdHFDR3JCUi1WN2dEcXV1MGNKaUowOEJpUFBpaDZOR2VyQQ?oc=5",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "EU: Martin says Europe's security 'fundamentally reshaped' by war in Ukraine",
+   "source": "BBC",
+   "time": "2026-11-12T14:56:15Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pUW1aQllXNnU1UmxpaUxWTUdRUm5UdHlaeGpOa0xCNV9yRkIwZ1pEM21qamx3ZkpiYUdqcjhrb2FrY1RxeXVlRllIbnpWOW16VzJzZmI0eU5YUXc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -568,15 +622,6 @@
    ]
   },
   {
-   "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
-   "source": "AP News",
-   "time": "2026-11-12T14:37:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2lvZUtOMFJMUFh0VlBpdnZObEJBZHNSSmNzOENBaDhrRElabllhNWo2bGV5QTNtbGZsZnpIQWpPSy1helVnWWxjRHB3emtzWm02bHpmS2xyM3JTM1NIc3pHQ0FZek1NQ1dLbWZJZWoteE9YYUp0SndXMFMtWlVKSlZuUWRob0RGbzZYQlpfWV8zbFBwRk1lVEdDTkoxOUxrWVdUVGgzMA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Fed’s Hammack says inflation is worsening, favors gradual hikes",
    "source": "FXStreet",
    "time": "2026-11-12T14:36:15Z",
@@ -629,54 +674,6 @@
    "source": "marketscreener.com",
    "time": "2026-11-12T14:28:48Z",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDR3MEpVQ3ZSOFh5QlZ2R3FrN3FFOHRUWFh5UTJJYlZpd2p2Ymt0UlNrQ01QNnFkWk9yZFlIUEtfdXh6Y2FfclhqdzdxcE9Rekl4Q2ZrdkJPVjRIX0c5cjZoSG5yRDd3YW56dXB3X1d5WWI4WGJfelpGRmFvSnpPbGxNT3BEb3g4NDV5bEhfai1sXzdfRnBiVC1uZVc?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
-   "source": "CNBC",
-   "time": "2026-11-12T14:22:37Z",
-   "link": "https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "10-year Treasury yield jumps back above 5% as oil gains and more Fed rate hikes expected",
-   "source": "CNBC",
-   "time": "2026-11-12T14:22:19Z",
-   "link": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
-   "tags": [
-    "FED",
-    "RATES",
-    "YIELDS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "At least five injured in Washington, DC, shooting near Logan Circle",
-   "source": "Al Jazeera",
-   "time": "2026-11-12T14:19:37Z",
-   "link": "https://www.aljazeera.com/news/2026/11/12/police-say-at-least-five-people-shot-at-busy-thoroughfare-in-washington-dc?traffic_source=rss",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Trump Says No Need For Iran Deal, Vance Should Focus on US",
-   "source": "Bloomberg.com",
-   "time": "2026-11-12T14:17:51Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGhzZ3A4enhlR1BxcWtOc3h6UEh2aHRWMW1OLXdNeHZFdzZIcUtpaXVLVnBlbHNuZkNQejd6X3ZMRUhmVHZwOHZGUXN6bjVueWVpTkxXS0phQnFZTWxncXR6ZGN3VXJJbGZHamdKUFNKcFBhUTBOTG9ZVmpZWG1UVVlTazhjOVc5bE8wZGE0cjczLUR4TkZpUUdFQi1sSldHRjhUS3o2eUFSbHRh?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump threatens to double tariffs on Mexico over illegal immigration",
-   "source": "Financial Times",
-   "time": "2026-11-12T14:12:20Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ3k2NzNQSnkyWkZxMEdENmMtNnRReHJfakhUWkNUNF9RRUZiTllLSzh5THQ4TzZ4QVZiVVpxTU5iNGIzM2ZMVXFpajM2dUY4NGJVRTJkZGJsc05hVmR4cHExVXN0NWN3Q1dtNlFkejRXZ3MzX3FPTGNqRlJBQzU3OERuQ0Q?oc=5",
    "tags": [
     "TARIFF"
    ]
