@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T18:00:41Z",
+ "generatedAt": "2026-11-12T18:29:02Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 30,
+   "items": 32,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 16,
+   "items": 18,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,17 +96,17 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 26,
+   "items": 27,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_yields": {
    "http": 200,
-   "items": 19,
+   "items": 20,
    "kept": 12
   },
   "gn_oil": {
@@ -126,6 +126,61 @@
  },
  "items": [
   {
+   "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+   "source": "CNBC",
+   "time": "2026-11-12T18:26:52Z",
+   "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "Gold and Copper Break Important Support. What’s Next?",
+   "source": "FXEmpire",
+   "time": "2026-11-12T18:21:45Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbjlLX1VxMTk1YTdLV3ljMkZUVjNPVjlnYUhoTnByYWk2dThveDhYazRWLXdHdF9POHdiajI4dG10M3d5NjVrS1U5M05UZ1Frc3VabTJEaDFRanJkMHV4X0QtUGdROWdBU0J1RDhJcUVqT1hWaDJ1M1l0alNzaV9zTXE5UnVVMGRwLUlpWmdYRmVGMXhzdGR2bGI4NnVqSWI5anpZ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Israeli airstrike hits Gaza hospital during ceasefire",
+   "source": "CNN",
+   "time": "2026-11-12T18:18:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQkVXdlE3ZGVXREFySFlVNEs3U01jNXFoTUswUGdCazVpeFhRWjdPcWFmMWY5cWc4M3pEeWFDUHhiR2RlOHlVZEFuZzdMWE42WW1ySjg5NHVJa0c5b3hULURybkUzdDJsVzM2WEJlczFmQmlfZHUxWU1CUG5SRmNHSGtoY2JUSmY3UzdmTTJHekNKQlRtb2c?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "The bond market now has an even bigger fear than AI fallout",
+   "source": "MarketWatch",
+   "time": "2026-11-12T18:08:00Z",
+   "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Gold’s Final Rebound Ends, as It Did in 2013",
+   "source": "FXEmpire",
+   "time": "2026-11-12T18:07:52Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT2FOdjg3WmhzWUtWVVB2ckRVN05ESkRLWk4tUF9XRFVXVEJQbEw3cDlTeGVZU05uVGJzOUJSaS0wd1RmYTkxWDNuRENGbGxPRmpRWlNoeXJJdDd0RmZtYklrUFpPTWMzQVM4TmlBelB5V2VlVE9fOXJQaEcxVll6UFJaSnhMS0J2TUFlTEZSazJ6ekE5U0xoSA?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
+   "source": "Al Jazeera",
+   "time": "2026-11-12T18:03:02Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
    "source": "CNBC",
    "time": "2026-11-12T17:59:26Z",
@@ -136,13 +191,30 @@
    ]
   },
   {
-   "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-   "source": "CNBC",
-   "time": "2026-11-12T17:58:29Z",
-   "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2028-meeting-will-not-see-a-vote-on-interest-rates.html",
+   "title": "The trillion-dollar mistake corporate America is making about retirement",
+   "source": "MarketWatch",
+   "time": "2026-11-12T17:59:00Z",
+   "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
    "tags": [
-    "FED",
-    "RATES"
+    "USD"
+   ]
+  },
+  {
+   "title": "Federal Reserve reduces rate-setting meetings in 2027",
+   "source": "CNBC",
+   "time": "2026-11-12T17:58:12Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXdsS0JxeG5ib1B5VXJoMXQtYUktZVVTWnUwQTlITkkwTjI5VWFBR0Q1RHhWN2tUZGlDVklTOGRTejA2YVhiWDUwcWYySVdwR0tiakQ0dHBfUENJSnFnZHJvSjBoVTh1ZHN6ZzlHZ0dtamRxcllkODRZMzRTVU5mVlZZVVQ0UnVKbjdWQ0ViRWNHUUFvb1JiRHVNOEI?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
+   "source": "AP News",
+   "time": "2026-11-12T17:57:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2lvZUtOMFJMUFh0VlBpdnZObEJBZHNSSmNzOENBaDhrRElabllhNWo2bGV5QTNtbGZsZnpIQWpPSy1helVnWWxjRHB3emtzWm02bHpmS2xyM3JTM1NIc3pHQ0FZek1NQ1dLbWZJZWoteE9YYUp0SndXMFMtWlVKSlZuUWRob0RGbzZYQlpfWV8zbFBwRk1lVEdDTkoxOUxrWVdUVGgzMA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -161,6 +233,15 @@
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "UK car industry to press EU for two-year delay to Brexit EV tariffs",
+   "source": "The Guardian",
+   "time": "2026-11-12T17:44:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNclBHX2hpMnhLM3lFQzcxRlk0RGJPQTdaY1ZDaFZjMGhyQjJTWUpERUhTQk9rYTZtWDA3TExWRGg0WDE0YWZKZ3RMT05WYURuVWt1ZmJpTUZlR1NzcTluYk5GV0ZKbDZWRUk0cmRhdUt5WHNpbURZT3RxMEM0blpCd2Q4R1B6ZGlTUTZ6NkJSRjRwVG9laDBEVVo3NmxFWEdxdTZJ?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -200,19 +281,19 @@
    ]
   },
   {
-   "title": "Gold and Copper Break Important Support: What’s Next?",
-   "source": "Investing.com",
-   "time": "2026-11-12T17:23:00Z",
-   "link": "https://www.investing.com/analysis/gold-and-copper-break-important-support-whats-next-200691474",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
    "title": "Finland bars Russian athletes from entering country over Ukraine war",
    "source": "The Guardian",
    "time": "2026-11-12T17:23:00Z",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSEFpZk5sZzZ5dEJJNjdNN2hhWll3ODV6QXU1N0RsWnNveUQyVXZfRXJKc3dNTFp0TXZScUQ1X1FiT1VXaG9kZHg1aE10OWQ0Y1dFWHZDWi1PRk5ybFNyamYxajdwVFdHYl9zOXFRZnpLdGNhNnQ3RFdyTGF2MHBGZzZTdlFHSzZpTl9R?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Israeli airstrike on Gaza hospital kills 6 people, Hamas-run health ministry says",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-11-12T17:22:59Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVGh2c012X3FlMGJkTzJBNUZYRGtPdC1aQUxzYzdEZlFQNWNKVFp0bzlGWmJlSDlTQzRBQm9Lb05YU3B6bGFnSHZmZE9nczQ1WDFsSlVrcXpid3ZOR3dIOFRESnFIQ3dPRzZJVUplSldCci13R0dQZ0wtQzEybXUxX216b2g5VU5STGwzZTFrb1FwZ0tUWXE5LXZjaFlFa0pQRUFxMEZIRVPSAa4BQVVfeXFMTXJRX19VXzJCMVdmenpxUFlUX0pSM1JWTGpzZ0lSQURWYUFKbGtxd0I1cnEweE5VNWNxaTlkV0d3b3QwMTg4OHM3MEp0R25nRC12bklOLW1WWDBESXRBQmttZ0p3b0gtbVdIeHpoZGRBV1FBYTNlZGtPZTJlZmJOMk5tZXlpQ3kxZmUxdVlHYjJZVTk5QXl1U1hZR1M5cUNWTVZnWW1uLVNQUFMwNG9B?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -266,21 +347,21 @@
    ]
   },
   {
-   "title": "The bond market now has an even bigger fear than the AI fallout",
-   "source": "MarketWatch",
-   "time": "2026-11-12T17:11:00Z",
-   "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
    "title": "Crude oil inventories rise unexpectedly, pressuring prices",
    "source": "Investing.com",
    "time": "2026-11-12T17:02:09Z",
    "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-rise-unexpectedly-pressuring-prices-93CH-5022805",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "The bond market now has an even bigger fear than the AI fallout",
+   "source": "MarketWatch",
+   "time": "2026-11-12T17:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWTI3RVVkdlJNR2tVVTNfRnJsd2JqUTd2Z3hIeWNNSEhRZ0NpQU4xekZKeTVVN2tJenp3MVh4RU9oTW5EcU9mNVNzTHlnY0pSVmFvT29NaEtETUFmakVPU1o3bUNVYlc3OUFBTVNDS05LYVFmeXdobF81V2paa1cycF96N1l5QW12dzNXMExYcG41c2U4VnRXa09YLXdKcnJVcEprZXNLOTBYQQ?oc=5",
+   "tags": [
+    "YIELDS"
    ]
   },
   {
@@ -339,12 +420,13 @@
    ]
   },
   {
-   "title": "UK car industry to press EU for two-year delay to Brexit EV tariffs",
-   "source": "The Guardian",
-   "time": "2026-11-12T16:32:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNclBHX2hpMnhLM3lFQzcxRlk0RGJPQTdaY1ZDaFZjMGhyQjJTWUpERUhTQk9rYTZtWDA3TExWRGg0WDE0YWZKZ3RMT05WYURuVWt1ZmJpTUZlR1NzcTluYk5GV0ZKbDZWRUk0cmRhdUt5WHNpbURZT3RxMEM0blpCd2Q4R1B6ZGlTUTZ6NkJSRjRwVG9laDBEVVo3NmxFWEdxdTZJ?oc=5",
+   "title": "U.S., Eurozone Bond Yields Rise Ahead of Inflation, Rates Outlook",
+   "source": "WSJ",
+   "time": "2026-11-12T16:36:21Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0N5Skk5WEFjeFZaU2hkdnczUWd0Y2QzNEFJNFF0Mk9UdTd0LUhCRGI4aVBldGpNaDRoWFdJT0xDcldjX0p0OG5yS1lBQktuSVo3alNaTkVSNmI3WWZ2M25WSnJ4Y1BkTGEzM05NamtJYlBQSk1pdVdMNHg2MTJVd0Yxc29Xc3ZOUkFPYkJxdWQtU3BINU42NjVlSl85Z0ZG?oc=5",
    "tags": [
-    "TARIFF"
+    "YIELDS",
+    "INFLATION"
    ]
   },
   {
@@ -393,15 +475,6 @@
    ]
   },
   {
-   "title": "Israeli airstrike on Gaza hospital kills 6 people, Hamas-run health ministry says",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-12T16:24:07Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVGh2c012X3FlMGJkTzJBNUZYRGtPdC1aQUxzYzdEZlFQNWNKVFp0bzlGWmJlSDlTQzRBQm9Lb05YU3B6bGFnSHZmZE9nczQ1WDFsSlVrcXpid3ZOR3dIOFRESnFIQ3dPRzZJVUplSldCci13R0dQZ0wtQzEybXUxX216b2g5VU5STGwzZTFrb1FwZ0tUWXE5LXZjaFlFa0pQRUFxMEZIRVPSAa4BQVVfeXFMTXJRX19VXzJCMVdmenpxUFlUX0pSM1JWTGpzZ0lSQURWYUFKbGtxd0I1cnEweE5VNWNxaTlkV0d3b3QwMTg4OHM3MEp0R25nRC12bklOLW1WWDBESXRBQmttZ0p3b0gtbVdIeHpoZGRBV1FBYTNlZGtPZTJlZmJOMk5tZXlpQ3kxZmUxdVlHYjJZVTk5QXl1U1hZR1M5cUNWTVZnWW1uLVNQUFMwNG9B?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say",
    "source": "NBC News",
    "time": "2026-11-12T16:23:30Z",
@@ -444,6 +517,15 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX1NhSUpoNmdNRU56ZXpFcWk4Mkljek41bnVnMXNTdzAyNVdKend1UEp3QUNvMkktMGZSM0Y0TzlJWTQ0a3NGQ2ZWOEtFY3JJTHRJaXZONHFqWFZxRzVKX01qSFdlM3locENiSVpqMC1uemQ0UzBCd2ZTNTJCbVJ3eURjLVVQTHJrZXRzZ1g2cVd2Ul9XZVZka1lLTVpKTlNvT2xOWXk0X2pyc1FCaWc?oc=5",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "Opinion | If You Think War Is Unpopular, Wait Till You See Defeat",
+   "source": "WSJ",
+   "time": "2026-11-12T16:16:46Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeUdxOWs4bjI0NFNxVTBFZTFUYzdOWjlHalBKNWlQd3A1aDI1Rl9OaF8tUkt2RGpXcHNyTXhTbV80SllLcUktUm5KbWYxRDlYSzZMNy1lTFd1YkZoaTdpaExYT0lFRTItZ21YWVI3Z2QydDFxaUlqSU9yeDlsVC1oU2VobGN3Wl9TZ08tbWhMay1aNGJLUXc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -593,88 +675,6 @@
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR1RKUU45LWc3STBNM1ZuSWRiSUNHU0JRWV9UdGFiSi1PMk1PcDAwM0dDcmFFNU55WkdnMHNTWkxDMEVzUU94ckNobEZYSVB4RENTNlBlWFBvYkpRVlN2d2lpWU1hRHVaME5oSHJMUEIzaHVOVk1nRGZnNVM4REpKQXBzTmlsTWxMLW0yd0ZPNi1UdElfaUY5SGpaWGkwczdVRFpsbkZYckFySC05U2JXR3pjZ3NXSGExLXFqckxyaDB2alZuM0Ryb2dRYW5kUFhuSGNGRHVTN0F3bW4y?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
-   "source": "AP News",
-   "time": "2026-11-12T15:11:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2lvZUtOMFJMUFh0VlBpdnZObEJBZHNSSmNzOENBaDhrRElabllhNWo2bGV5QTNtbGZsZnpIQWpPSy1helVnWWxjRHB3emtzWm02bHpmS2xyM3JTM1NIc3pHQ0FZek1NQ1dLbWZJZWoteE9YYUp0SndXMFMtWlVKSlZuUWRob0RGbzZYQlpfWV8zbFBwRk1lVEdDTkoxOUxrWVdUVGgzMA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump sends tariff warning to Mexico is caravans don't stop",
-   "source": "Fox Business",
-   "time": "2026-11-12T15:10:37Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jRk9SSk9ISV8xZGV5YnVEOFNlSEtCVkRBbXBHVEswQXNHRC1ZYmRwX2szb2pzUVp1UTlweG9pSmhWS1RoN092WUtJaVExQkhuZmdBanlxdHFLTHM?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Earnings call transcript: New Found Gold posts Q3 2026 revenue beat, shares slip",
-   "source": "Investing.com Canada",
-   "time": "2026-11-12T15:00:30Z",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTS1vR1dwZl92WXpDdmlNaE5PNU9uLXBRbVktdWVtTFR4czJHNzBFRVJGdVVuYXRLSVJGcDJ0eF9FUU1hd1d5YXVSbHFvaW1WMzhYdW5VZmJVYkEzeTUyMkh6VmV3QndKaXJmVGJsM1doVmFmcFB2MGZ6dlh0VHR5RmVhMWNPYlNIdmhUTm9EbG9FZFVCZUZDRW9nb3F5NDhDcERSODRYN0I4RUZ4bW5pVXVZcGVxcnY5THZkTmxTdXdhT1NkbGg4bmdtTTVmYkdOR2d2eGNB?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Cold War lessons for the AI age: how a US-China hotline may stop nuclear attacks",
-   "source": "South China Morning Post",
-   "time": "2026-11-12T15:00:10Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSnkxZFJZdkZueE5uQjl1VWRnYlFhdEdMVGFocmdOYjlpcHRBVHpSYnRPNjFMQjhSUDlCYkRkLVRXZE0xTkV1OHBkQnpEalVQV0R3d1d6UVFpcldSM2JEU1V3blhHeFhvSVAtU1JjZDc1RmJBYXR1NDNRZUZkUWhkTUhPNU1ESE5vRzd2OGFUVTg4bF9seDktZnlabXlWem9uTjNXNk1nYnBMS0JUbEdKeVgwOFlVUWkybEJIWGdJSHV1SjF5TGZmOFlmcUdwUdIBzgFBVV95cUxOQnBYenNrYUJvZ0hCbjFjU0dwMUtXRFdaRmFMcEdYZVpqSEJqcVdZd0xrUGlHLTYtUnI3VzFCMGpTRmhUUXIxUEVGeENfSzRFaC1yb3F6YVJiMkpDdHQyVGNMdzVmRVVZRkozM0l3NXM1eTgxdThVaUtyN2RoMEwwejJnODFQY2dwWEs0Ry1Zd3BXcTExUlZPQzhqZjhTZ01PMFRNU29XNjFEeW03T01IMmtQa0xEaFhOd2czZlpiR2hjR01GNXd6WksyQ0Ntdw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Barr, American Inequality and the Future of AI",
-   "source": "Federal Reserve",
-   "time": "2026-11-12T15:00:00Z",
-   "link": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Fed’s Barr Warns AI Without Guardrails Risks Widening Inequality",
-   "source": "Bloomberg.com",
-   "time": "2026-11-12T15:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTVBaZ0VPUmFPdE5JSHlRTTE5LVNUTGdhYWZ0MlNlUTVGRjhNbUJjTVZoSmQ3ak9Ea3JEZ1NJUXM2bFJZQVhuRGE1a2pYWk1TSlB2NUU1ZXQ2bm44YkE1RDBNNjc3eGRHclg2UVVRZERaR2VnWjlHWG9Gb3RmbXBCWFdieEdReHlYejRyUjVfSmVhZnZHdHFDR3JCUi1WN2dEcXV1MGNKaUowOEJpUFBpaDZOR2VyQQ?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
-   "source": "Kitco",
-   "time": "2026-11-12T14:58:36Z",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "EU: Martin says Europe's security 'fundamentally reshaped' by war in Ukraine",
-   "source": "BBC",
-   "time": "2026-11-12T14:56:15Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pUW1aQllXNnU1UmxpaUxWTUdRUm5UdHlaeGpOa0xCNV9yRkIwZ1pEM21qamx3ZkpiYUdqcjhrb2FrY1RxeXVlRllIbnpWOW16VzJzZmI0eU5YUXc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump Threatens to Double Tariffs on Mexico Over Migrants",
-   "source": "Bloomberg.com",
-   "time": "2026-11-12T14:53:14Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMnJ4S0x3TmVXb1NReEMzUU1uNU1NNmdmaXpQN0RKdFY3cUR0TmxEUFRMdk4tenRfY1Y2VDBTN1ZUSWFMandoSU9KcFhrcnF0QnZ2WVktRzZiRlZnTEVMY2xpUUU2d3lab1dILTR0alIzdDZvaThKMlcxMHQ0c3ljTDNhSG9mbTluT1NDUDhheHZnTGlXQzF3S1lBNk4yUThVQm11cE95TnEtZTFwU0VKeXVLTy1iZw?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
