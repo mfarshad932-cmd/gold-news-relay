@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T14:41:57Z",
+ "generatedAt": "2026-11-12T15:10:19Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -16,7 +16,7 @@
   "fed_speeches": {
    "http": 200,
    "items": 15,
-   "kept": 1
+   "kept": 2
   },
   "ecb_press": {
    "http": 200,
@@ -62,7 +62,7 @@
   "bbc_business": {
    "http": 200,
    "items": 57,
-   "kept": 2
+   "kept": 1
   },
   "bbc_world": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 28,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 18,
+   "items": 16,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,23 +96,23 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 36,
+   "items": 26,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_yields": {
    "http": 200,
-   "items": 14,
+   "items": 15,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,12 +126,113 @@
  },
  "items": [
   {
+   "title": "Oil prices mixed after Trump says no Iran deal needed: 'We've got their Strait'",
+   "source": "CNBC",
+   "time": "2026-11-12T15:08:45Z",
+   "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Earnings call transcript: New Found Gold posts Q3 2026 revenue beat, shares slip",
+   "source": "Investing.com Canada",
+   "time": "2026-11-12T15:00:30Z",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTS1vR1dwZl92WXpDdmlNaE5PNU9uLXBRbVktdWVtTFR4czJHNzBFRVJGdVVuYXRLSVJGcDJ0eF9FUU1hd1d5YXVSbHFvaW1WMzhYdW5VZmJVYkEzeTUyMkh6VmV3QndKaXJmVGJsM1doVmFmcFB2MGZ6dlh0VHR5RmVhMWNPYlNIdmhUTm9EbG9FZFVCZUZDRW9nb3F5NDhDcERSODRYN0I4RUZ4bW5pVXVZcGVxcnY5THZkTmxTdXdhT1NkbGg4bmdtTTVmYkdOR2d2eGNB?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Cold War lessons for the AI age: how a US-China hotline may stop nuclear attacks",
+   "source": "South China Morning Post",
+   "time": "2026-11-12T15:00:10Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSnkxZFJZdkZueE5uQjl1VWRnYlFhdEdMVGFocmdOYjlpcHRBVHpSYnRPNjFMQjhSUDlCYkRkLVRXZE0xTkV1OHBkQnpEalVQV0R3d1d6UVFpcldSM2JEU1V3blhHeFhvSVAtU1JjZDc1RmJBYXR1NDNRZUZkUWhkTUhPNU1ESE5vRzd2OGFUVTg4bF9seDktZnlabXlWem9uTjNXNk1nYnBMS0JUbEdKeVgwOFlVUWkybEJIWGdJSHV1SjF5TGZmOFlmcUdwUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Barr, American Inequality and the Future of AI",
+   "source": "Federal Reserve",
+   "time": "2026-11-12T15:00:00Z",
+   "link": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Analysis: Jensen Huang’s exit tests Nvidia’s role as the ‘central bank of AI’",
+   "source": "CNBC",
+   "time": "2026-11-12T14:55:16Z",
+   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+   "tags": [
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+   "source": "BBC",
+   "time": "2026-11-12T14:54:47Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US weekly jobless claims increase, but labor market remains stable",
+   "source": "Investing.com",
+   "time": "2026-11-12T14:54:27Z",
+   "link": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-increase-but-labor-market-firming-5021926",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "Treasury yields hold near 2-week highs as traders await next signal",
+   "source": "Investing.com Australia",
+   "time": "2026-11-12T14:52:22Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVkdMcGVXd3pscTVWTjIyNFp1OTU4R1BZTXdmZ1I3eGNvWmF2UEpzajRSX1lNaWUtY2NFQ2cwTGxFdFM1X28tcGtkSmRBYUFXVUNjU0k5NEVPZExFeW5wZTMxemstVHVSTHVfejM5dzN2STdrMEVXbnV6eE5MYUhUNFpOMDhubzVjVkhuRWZ4QkRfODk2bkI0T21kTm1BVjFwa3U1Vml1OGlkYnZMbUFYclFXeWEybFdIb2xz?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?",
+   "source": "Al Jazeera",
+   "time": "2026-11-12T14:48:10Z",
+   "link": "https://www.aljazeera.com/news/2026/11/12/trump-heads-to-china-amid-nvidia-scandal-will-he-get-tougher-on-beijing?traffic_source=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
    "title": "Trump Tariffs Backfire as Canada Warns of Damage to US Economy",
    "source": "Newsweek",
    "time": "2026-11-12T14:37:00Z",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS09ONzhRcWgxeFF1TTJoSDlHbW9xRVZTZWozVm5EcWdNNTBJcUFnWS04V1V0X2Y2NDEtOFlhVnZSSUlKZ0N6U05GMG1TemRkLTRUNXhXVzhOSm5abVg3ajJlZEtCQ3hWc212Y3BOM3lwZUF6T0U2eGJ2bGNucWVaVjVlSERUNjlq?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
+   "source": "AP News",
+   "time": "2026-11-12T14:37:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2lvZUtOMFJMUFh0VlBpdnZObEJBZHNSSmNzOENBaDhrRElabllhNWo2bGV5QTNtbGZsZnpIQWpPSy1helVnWWxjRHB3emtzWm02bHpmS2xyM3JTM1NIc3pHQ0FZek1NQ1dLbWZJZWoteE9YYUp0SndXMFMtWlVKSlZuUWRob0RGbzZYQlpfWV8zbFBwRk1lVEdDTkoxOUxrWVdUVGgzMA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+   "source": "The New York Times",
+   "time": "2026-11-12T14:36:29Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GVkpKYjhub0lKY3JLamNqdW91aWl4YnAwbVZZV3J5YWR6b1k4SnBXcWRkOWJSOUdFcXlLUHl5WlNuYU1tNlF2TFF4bkxudVVtYUVIWG0wb2RRR0J4YkQ2eWRpMUxOdzFldHRfT0hPMGpSVEhHcFRTT1QwSENIckk?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -145,12 +246,32 @@
    ]
   },
   {
+   "title": "Treasury Selloff Accelerates, European Bonds Follow Suit",
+   "source": "WSJ",
+   "time": "2026-11-12T14:35:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0VSTVFyMVRIR1EtM1J2eWU0MW45b3BmWVMwTWRwbmQzcmhvVlBuTEFQNWowTEI2SUd2cngzbmZ3VXMwYTVxc2NaSTg0WnZ4VndDaHVGNWZGcFcxN1NOUWsyMHd2RTJVNjJqZ2JiQy1XRDNpM2VGRFpiX1RVaTBnM01FSTVLUXJOYkFSRnhKaFBhNzZfUUZsZGJTWlBZbjRxV29UR0k5NVJ5U3ZVdXpYZ2NLeVlKb2ZC?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Fed’s Hammack Says More Restrictive Rates Are Needed",
    "source": "Bloomberg.com",
    "time": "2026-11-12T14:31:52Z",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRGdtTzB4ckhfa3ZvOXRmSjR0aTgtYTNZSnRkN2JtR2JVYUNKYmJsbHFYVDNEVWc1WExzaFZqc3V3NnlEbENJM2pUUUdDUFlodTZycmhyR2tCaWE5SW1JLU1EQWtBaEZLNVdGQUVFV0hNbHNRbzVUclRZOXhtMjFYSzZESThDUHN3T3Q5SkpnQ1o4NGoweUVrTUxRdGMzTnZ6dVQ1UTRn?oc=5",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "UK sanctions Russia's Slavneft in latest move against oil producers",
+   "source": "Reuters",
+   "time": "2026-11-12T14:29:24Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcFM0cE41cGZrNzlMNjVpS25GaTZmNURHUHFDeXVocjd4NFI5OVU5N2dzS3NwdWdiTG54QkFlVGgzVTFBSUlpVGZhLXVqTnlUUllCSnVuN2M3VmJnTXhUTEx3YzYwQVhfb3FGX01leTRpdFM4azV5ZEtEVnpXb1NpT3NEbzROb2FoUjlvZnlPWU1wNnl3WUtYRUtLNnQ5TFd4TmRTV0taRmUyOFV5M2N3VndRSHVOQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS",
+    "OIL"
    ]
   },
   {
@@ -211,13 +332,12 @@
    ]
   },
   {
-   "title": "Oil prices mixed after Trump says no Iran deal needed: 'We've got their Strait'",
-   "source": "CNBC",
-   "time": "2026-11-12T14:21:20Z",
-   "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+   "title": "At least five injured in Washington, DC, shooting near Logan Circle",
+   "source": "Al Jazeera",
+   "time": "2026-11-12T14:19:37Z",
+   "link": "https://www.aljazeera.com/news/2026/11/12/police-say-at-least-five-people-shot-at-busy-thoroughfare-in-washington-dc?traffic_source=rss",
    "tags": [
-    "GEOPOLITICS",
-    "OIL"
+    "FED"
    ]
   },
   {
@@ -254,17 +374,6 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbHJ3T0U1WG9SWVV0MzQyZHdiSE9BXzFfU0ZkRTd2RHNFUmJmOTFDODVDa3N0MU9NcTcxaXB3aHZIWmRWWGpTVURZZ1NXVWM1cnl0aE9zU1RvV19BbU12dE5yc0pJSGlTcnlVbXZTd2h6LVB4ZlZETDg1Y0h3U210WmxJWDV4SXN1dXJPdWItbFN5dXVLM3E1c0JreWlONFlMZ3dTV2FGWFBzcVlpTnJpQlhR?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "UK sanctions Russia's Slavneft in latest move against oil producers",
-   "source": "Reuters",
-   "time": "2026-11-12T14:00:18Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcFM0cE41cGZrNzlMNjVpS25GaTZmNURHUHFDeXVocjd4NFI5OVU5N2dzS3NwdWdiTG54QkFlVGgzVTFBSUlpVGZhLXVqTnlUUllCSnVuN2M3VmJnTXhUTEx3YzYwQVhfb3FGX01leTRpdFM4azV5ZEtEVnpXb1NpT3NEbzROb2FoUjlvZnlPWU1wNnl3WUtYRUtLNnQ5TFd4TmRTV0taRmUyOFV5M2N3VndRSHVOQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS",
-    "OIL"
    ]
   },
   {
@@ -308,6 +417,16 @@
    ]
   },
   {
+   "title": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
+   "source": "The Guardian",
+   "time": "2026-11-12T13:51:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRUZrbGx3VFdKNHM3cE1rX012RTJ5a0JXRFd5NTlpSm9kUV9JQm92QzJ0NFFQdm9RcG1kNUZXaVAzOTBGQXp5R0JFZnpnYXZPMFAyM3pndVVpd2NJZTRYQ0pYQlQ3LWVxUnFVOTNNRnlaMmwxSW9iUHZHSjZKNXBlWmpPQl9YTUpBT092dm4zRml2azV5bDI5dkM5cWtkeE5rcG9EeE0wYlplWkJVZ0tSSnEtRUgxdi1LVi1IMzhreWM2dTY3dDBUcjV5dG5BU05aUmFJVQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
    "title": "Britain sanctions Russia's Slavneft, says it now targets top 10 oil producers",
    "source": "marketscreener.com",
    "time": "2026-11-12T13:47:18Z",
@@ -316,15 +435,6 @@
     "GEOPOLITICS",
     "SANCTIONS",
     "OIL"
-   ]
-  },
-  {
-   "title": "US weekly jobless claims increase, but labor market firming",
-   "source": "Investing.com",
-   "time": "2026-11-12T13:43:07Z",
-   "link": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-increase-but-labor-market-firming-5021926",
-   "tags": [
-    "JOBS"
    ]
   },
   {
@@ -370,15 +480,6 @@
    "link": "https://www.investing.com/news/economic-indicators/jobless-claims-rise-to-200k-exceeding-forecasts-and-prior-levels-93CH-5021857",
    "tags": [
     "JOBS"
-   ]
-  },
-  {
-   "title": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise",
-   "source": "CNBC",
-   "time": "2026-11-12T13:31:40Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREd1Qk8yb2FyRTJnblVuX0lQNkhyZWFfckhCVjZVTVJBR0RwbUtNZEppUHVWZ015aThqZGY1bG9BRExVRVhIM0E5NEhOa05wRENZNmswWWQ1TXlnWTlEZVJzSnhhLThZWDB5QS1QVElqMkFyZzBuZnJXOGNEd19XcnZFQU5YTk9S?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -438,19 +539,19 @@
    ]
   },
   {
-   "title": "Wolverine World Wide's Q3 beat, revised guidance gets a tariff boost (WWW:NYSE)",
-   "source": "Seeking Alpha",
+   "title": "Wolverine World Wide's Q3 beat, revised guidance gets a tariff boost",
+   "source": "TradingView",
    "time": "2026-11-12T13:14:03Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOWRhbk9zaTNtM2dqV0V2dzBHMmY2T2pPVHhyY0F5UXA5cW9GaFRzX0pKajdFM3UtSnlwZnBfQjhuemswZkw3S0NhcjZRQ0dOMnE0Q1FQQzVia0MwaE9IckJBdU50Q1RlanUyV3NYTUNSUzFUT1lzSWhWRlJDLU5yUnFiNFNTV2pMdWtiZVM4dGtEUzlpT1B4T0d4YTQ4ZzVqYmpQUENNOA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXA0V2dZbnNvRFQyTWFsY1RRNG5ocFlvVjg3cGlUYnpYUnJUVEtPcHFZQjRoekc5aUpPVUx5ekhET3JSXzNLdVJhdVNNcnc2Y3RVZUt2STJNYThEREpzYUxNdVhMNVk2NGl6U1BIUjVVWUdkWE51dkxYSXduVk9RbGdkWWFkWDFURnhPeWpxX2hSNkd3Z0hINXhPVnNuQzBta09Kd3RMZ2V5TXNicG5qR0NFZDFtZ3p4cEdDdFVvM252RlBheXBIRXFn?oc=5",
    "tags": [
     "TARIFF"
    ]
   },
   {
-   "title": "Wolverine World Wide's Q3 beat, revised guidance gets a tariff boost",
-   "source": "TradingView",
+   "title": "Wolverine World Wide's Q3 beat, revised guidance gets a tariff boost (WWW:NYSE)",
+   "source": "Seeking Alpha",
    "time": "2026-11-12T13:14:03Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXA0V2dZbnNvRFQyTWFsY1RRNG5ocFlvVjg3cGlUYnpYUnJUVEtPcHFZQjRoekc5aUpPVUx5ekhET3JSXzNLdVJhdVNNcnc2Y3RVZUt2STJNYThEREpzYUxNdVhMNVk2NGl6U1BIUjVVWUdkWE51dkxYSXduVk9RbGdkWWFkWDFURnhPeWpxX2hSNkd3Z0hINXhPVnNuQzBta09Kd3RMZ2V5TXNicG5qR0NFZDFtZ3p4cEdDdFVvM252RlBheXBIRXFn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOWRhbk9zaTNtM2dqV0V2dzBHMmY2T2pPVHhyY0F5UXA5cW9GaFRzX0pKajdFM3UtSnlwZnBfQjhuemswZkw3S0NhcjZRQ0dOMnE0Q1FQQzVia0MwaE9IckJBdU50Q1RlanUyV3NYTUNSUzFUT1lzSWhWRlJDLU5yUnFiNFNTV2pMdWtiZVM4dGtEUzlpT1B4T0d4YTQ4ZzVqYmpQUENNOA?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -529,16 +630,6 @@
    ]
   },
   {
-   "title": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
-   "source": "The Guardian",
-   "time": "2026-11-12T12:40:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRUZrbGx3VFdKNHM3cE1rX012RTJ5a0JXRFd5NTlpSm9kUV9JQm92QzJ0NFFQdm9RcG1kNUZXaVAzOTBGQXp5R0JFZnpnYXZPMFAyM3pndVVpd2NJZTRYQ0pYQlQ3LWVxUnFVOTNNRnlaMmwxSW9iUHZHSjZKNXBlWmpPQl9YTUpBT092dm4zRml2azV5bDI5dkM5cWtkeE5rcG9EeE0wYlplWkJVZ0tSSnEtRUgxdi1LVi1IMzhreWM2dTY3dDBUcjV5dG5BU05aUmFJVQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
    "title": "‘Greater Israel’: How Christian Zionism infiltrated US policy",
    "source": "Al Jazeera",
    "time": "2026-11-12T12:39:21Z",
@@ -590,98 +681,6 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DUUQyZ2VQa1I4ZXVLZkdyV1RLbE1lNWRmNGtGaURPRjFmV2hENlZBa1ZzYjJZcEZCdUMxMENfd0R1TDhPRVJvTmJrdHU2Y1JEcVRDTEVJX1RMdExYcWM1aU1VTGhNcUlrNnMtdjRn?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold prices today, Thursday, November 12, 2026: Prices open back under $4,000 as rate hikes crystallize",
-   "source": "Yahoo Finance",
-   "time": "2026-11-12T12:19:13Z",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaGNsWGVsOHlZMFBseHRvVXJkM3hNNGgzLUItTldRTklrODhxSDRTZ1VWVU5vakc2VDhDdW1mZENabWMtRG5VSWZ1S2RZRDhmeS14WTgtYXZGSWp1aDNESlN6RVlfWmdaVlRycF9XNjlBSkJkVDVEbUlTbGJHM2ZhVE1YVVE4ZDJJaF9DN2RiTi1fTXIybkhNbm15eFBPem45bDBPeFhQWldQUmFZNGoyTmNvSmZodUR1UzJvcUFnRGNYN013R1BzeHJkY19TLTcyVzhkaTU5OG4wZ3FRbVdCZ3R0bE9pNS1LVDZLNUt1NUNZYWNuTWNXRmJQczJudEloY3pv?oc=5",
-   "tags": [
-    "RATES",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Israeli strike on Gaza hospital kills 6 people, including a doctor and a child, Health Ministry says",
-   "source": "AP News",
-   "time": "2026-11-12T12:15:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3ZJQlhjSko5MDVzS25JNzdQaWprR1pORklBMUI1Qlg0T3Zkc2J1eV8yUTE1S2RMdHlLcjdDbXNrNERFdDNtYTFleFlkNHZyeXBfQ25lcS05S29hd3YtT3ZWMXE2eUs2RXpuZXV2Z01OcklJeXdKT2FzR1dqZVRHRE9Ncl9QUzVSTkVod1V6RnFjMWNIcFBkWXBWU0FWWTM3TGJj?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-   "source": "BBC",
-   "time": "2026-11-12T12:14:51Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Israel strikes Gaza hospital despite ceasefire",
-   "source": "Financial Times",
-   "time": "2026-11-12T12:03:33Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU281RnBtdlZTbGUxWmRkWER3eUJmdmlqMTI4OUxySUJRUklvVHFnYmg0a29ScF9jYUhmTTJiWXFxbDN6Qy0xekN5dnVGMlJRZ2Q0dHc4SmF2U2UyamFFdkY4aXFOZ1A0LUNreVF2SWxpbHJwSjRaZGVXZEktNXVrTEtUb0I?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Xi Jinping says Taiwan’s ‘complete reunification’ with China will happen",
-   "source": "Al Jazeera",
-   "time": "2026-11-12T11:59:28Z",
-   "link": "https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
-   "source": "Al Jazeera",
-   "time": "2026-11-12T11:57:56Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRG45T2R4UmFjWjFib21RZmdqMFNSNmc4VlM5SDhnSFNkOWU3WElJTHczOEhnSG5hc05KQ3BHdUV3R1RYeXRMVkQ0SlJmbkMxRWhkTVFDOEQ1N013VnhGdW1ENzlIR21VREJYUmk1SklrWEYyWUg1NTMtMDU3VFVaeTA0dkMtWFM1c0ZwUkNMNlE4VUd6Mm5CY1pESVZVdkw0SzZXNkVMMNIBrAFBVV95cUxPYThFUTlZR1BIaUZKVFdOcFlqbi1DR0FEUlV1d1UyMGNvRG5oa0ZtRnJsN0FoRW9GeUFyTGlsVkZtcS1HTmdoRGt1bmlvYmR0aEtuQ0pWT0NjdXBwRG1NSXY5RnRtQkx3MHR2WjRaQmkxMmxmRHBORnI1aXBrSnNvSGN6SHE4ODRsWlFLWGxraURmajBZc2daN20ycFY3SFRpOVVmQ3JEVVZvNmFz?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
-   "source": "The New York Times",
-   "time": "2026-11-12T11:55:23Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeFRubWk5TVFLRllveGZFOGFTYURKUlpma3NVVFktajFZV3Y2Sm9fSzRqNVFKNFFQc2ZoeUhrREJ4TlZKa1l6WDRqZHVjWElXNVBrNjlDQXc4Yy1OamlGWFM2a0RBajVLZk9JQktwTXB6U1phV0JIaEowM3RpZzdoNEEtR3VLalkycEJ5alRMbFJfdGpqeTFJNTFJdlJocl93?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Romania’s inflation rises to 6.9% in October",
-   "source": "Investing.com",
-   "time": "2026-11-12T11:49:47Z",
-   "link": "https://www.investing.com/news/economic-indicators/romanias-inflation-rises-to-69-in-october-93CH-5021164",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Gwinnett County honors four World War II veterans, all 100 or older",
-   "source": "CBS News",
-   "time": "2026-11-12T11:46:27Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZTRWdGloNVVhbjdKbnlpdnEyUlA1c1Zra3BZSVUtdG5QTUFxT3lnR1lVekVicXVQTjZmUkZiSTcyUkp5Y3NoelhFVUstY2ViT0dvSVU5REVWZ3JDY1lNZDRuOFpJU0g3Z3RxMm5yWHZCdGZqU29ZNkVHTlVyM0YyUXZQWTdsSUkwb1lsN1QzXzFYUkE3bTY3YzROUE16WEtvcFA4WUotNA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "India Boosts Gulf Oil Imports as Russian Crude Loses Its Price Advantage",
-   "source": "Investing.com",
-   "time": "2026-11-12T11:36:00Z",
-   "link": "https://www.investing.com/analysis/india-boosts-gulf-oil-imports-as-russian-crude-loses-its-price-advantage-200691451",
-   "tags": [
-    "OIL"
    ]
   }
  ],
