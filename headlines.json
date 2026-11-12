@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T19:53:49Z",
+ "generatedAt": "2026-11-12T20:22:09Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,12 +52,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 3
+   "kept": 2
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 27,
    "kept": 12
   },
   "gn_fed": {
@@ -91,12 +91,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 30,
+   "items": 29,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 25,
+   "items": 28,
    "kept": 12
   },
   "gn_sanctions": {
@@ -126,12 +126,68 @@
  },
  "items": [
   {
+   "title": "Gold plunges to one-year low near $3,850 as Fed hawks take charge",
+   "source": "FXStreet",
+   "time": "2026-11-12T20:13:37Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDlSRlowSWFReG9obW9kYkR2em1YTzVHc2FnRWZiT2E0RDRWN3g1b0JHTUVmZEFURzdoRzFYaDRrVDNmdk85T3hLYXlCcUZmR1JDd29vZUpRaExaSFVkYnB0MGgyMWl4eU9PYy1LRlVhSmk5S3RIalhyQzVKM2hIdVhMOV9ncVZlLXJwWV90OGllYU1lTDF6OEVaWWtETF8tRHU4UzNXR1JIM3M?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
+   "source": "CNBC",
+   "time": "2026-11-12T20:10:49Z",
+   "link": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "US Marines are training to break up and move their command posts to survive a Pacific war",
+   "source": "Business Insider",
+   "time": "2026-11-12T20:07:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSEwwZUdaSnZXdi1CTFFVWjJDaDdpdTNKb3J0NnpXcTFxcVhveXFrcEdYZGdsOXNnMFJ1LS1rVnRHMF9CWmZTX2tRUmQzaGY5U1VHYWlwdy1ZTnl1QXg5M09UMTNLM3ZJQTVNUWp3aGd5Q1dBMmFNZGE5dGg0QURoVVFRd1ZCTWF0YVBNQ2dWMU5nQ3pkQlNB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
+   "source": "Al Jazeera",
+   "time": "2026-11-12T19:56:26Z",
+   "link": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Oil prices rise after Iran reports strikes",
+   "source": "ForexLive",
+   "time": "2026-11-12T19:51:36Z",
+   "link": "https://investinglive.com/news/oil-prices-rise-after-iran-reports-strikes/",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
    "title": "Fed Forced to Confront Case for Bigger and Faster Rate Rises",
    "source": "WSJ",
    "time": "2026-11-12T19:47:17Z",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPelFYdmxqTmVYeGJuX2VCMUg3MFowTVhFV25kb1NUN1Z0QUZuMnNVUmVabWhfZU1PVjVTakhlRVRzdHpvWENxd3Y4Y3RJLURrVmNYMkZ3UnpNZUx1RjJvc0xIZDFsZ0xqcDcxbDAwVHNOaUpNSkRuSW00cnVlRy1uQ1F1MjBydEtZSnNVTDJtM2xxaWFXcUcybTUzVGpoaEpSTDM5REtFQ2J0a3Z3WVEtQ25xdw?oc=5",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "An Israeli strike on a Gaza hospital kills 6 people, including a doctor and a child",
+   "source": "NPR",
+   "time": "2026-11-12T19:46:53Z",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nSDFOOUIwWUxXSzNTLV9oWHJDTXp5bDFzMS14MHBLM2pjNmZxNzFQMmhfWFBZOUE1aUpiaktXbEpMNDdyQkFyaVFlaWJic0NJYnVyTEg5Z0xPYm5RbUhubFdscFRGNVhaRWNaWEtPS2JKcjloVTZVUTA3X2R2QQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -173,7 +229,7 @@
   {
    "title": "US Fed Sets Aside October 2027 Meeting For Policy Strategy Talks",
    "source": "Forbes Middle East",
-   "time": "2026-11-12T19:09:48Z",
+   "time": "2026-11-12T19:10:36Z",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemlpcnFNdkdraW1XTTNJR0N5M2lNUXdxaHBCZnpjTlRkRGZqaERjWGlKZjBYakhhUHRQQ3cxSHlkWEJrQWtkMTR1ODYtZjd3cy1XVkU3Q3pFNzF0ZXNoZThNc2V1Y0xMSWdJWGJOeDJrUFlGZ3ZoZ2p0ak9peUNHc21HcXZQNkpsOGJaNXJncHZ3d2xWbjJ0LTY5cVgzZXhKaWJCY2hSaF8xVUcwWFlSVG1sNUoydw?oc=5",
    "tags": [
     "FED"
@@ -318,6 +374,15 @@
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+   "source": "BBC",
+   "time": "2026-11-12T18:28:59Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2YUZtTEpkZ1E5YmYwVXlWYXFzTWc4S09mYnBkejB5Y3NHd0xKTjB3MlVGeFZKaHlUdTNJRVRvWkgzQ3hHWWpVZm1neElKcDZ3NWJqbnl4WGdLbDQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -610,71 +675,6 @@
    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "U.S. 10-Year Treasury Tops 5% on Expectations of Higher Interest Rates",
-   "source": "WSJ",
-   "time": "2026-11-12T16:52:39Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0tnS0Z3WEZsbnlFMG8xUXBhNlZjNllnVmhQTGRybWdQQThyMnk2b19EZlc0OWZXQjZjUl9XTlAxbmpSc2RCSG1zZzdIc0dIWUJ2TDBsQWZhTXNVd3JpY3BLSnFUdUc4VXBwZlVId0FIYVdIU2lBQ0tTRWtPX2ZpZjZ4U3kzM1FGQVUxV3RkbmM0Rm9mTFlfWVgwM1Jjd25sd0RBa0Npaw?oc=5",
-   "tags": [
-    "RATES",
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Federal Reserve Bank of Chicago President",
-   "source": "Yahoo Finance",
-   "time": "2026-11-12T16:37:07Z",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPamhYTU1EWWdYdlk1TllnZ0xvZ2VMQ2FjanJLNWhKZ1pveXNSdHY2QWJCRjJoX0JXMEJIOWp2c01McGxGd2xBZ1BsaHUyRlB4V0hsbDQ5VjRLS3VpUW1qVW5VMXlvWHpVeklyc2NRNlBHa2tDMk1QMU5YZ0JaUXo1ckw5T0hDNm5EckpVUFIxSEc5dw?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Trump says ‘we don’t need a deal with Iran’",
-   "source": "CNBC",
-   "time": "2026-11-12T16:36:23Z",
-   "link": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "U.S., Eurozone Bond Yields Rise Ahead of Inflation, Rates Outlook",
-   "source": "WSJ",
-   "time": "2026-11-12T16:36:21Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0N5Skk5WEFjeFZaU2hkdnczUWd0Y2QzNEFJNFF0Mk9UdTd0LUhCRGI4aVBldGpNaDRoWFdJT0xDcldjX0p0OG5yS1lBQktuSVo3alNaTkVSNmI3WWZ2M25WSnJ4Y1BkTGEzM05NamtJYlBQSk1pdVdMNHg2MTJVd0Yxc29Xc3ZOUkFPYkJxdWQtU3BINU42NjVlSl85Z0ZG?oc=5",
-   "tags": [
-    "YIELDS",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "The Gaza War Divided New York Nightlife. An Israeli Scene Grew in Its Wake",
-   "source": "Haaretz",
-   "time": "2026-11-12T16:32:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPeWJRMWhlQmcyUUVjclRIZng2OGIteTZIOEw2dzZQNFU0RVROSmU4QV9hZ0xwdjVwNDBLeWxjUlUyeHhWb3dqWU1aeUo3UUZvMGxqa1BxdUxXY3daTGY3NVdmS1A0MVVMZzNKbmFxVWdfeWp3azBKTTh2Tm55V0FFbm9LWExJUG9zX3lTUFVFZzNBZlo2ZU9GVmd3MzljdUpOUmRWbE5PS0IzYnlZUUJyejIxNVFkWDJOc241MnhMV2NYYTFQNTdHY1FTVHI2dXpCRC1IUEZMS1kwRWtDdGcxU0lfYUNLQzAtSDJtUGxzYkstRVNpTnFDTDFKcC13R3QxRlNvZkJ4NWFnVUVZZDVJ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-   "source": "BBC",
-   "time": "2026-11-12T16:31:12Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Aya Gold Q3 2026 slides: record production, $3.5B Boumadine value By Investing.com",
-   "source": "Investing.com India",
-   "time": "2026-11-12T16:29:50Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlJjSklGOFF5dy1BVWFsYnd4TmJVcEhYbWo1WkJFUG93NFplRldWcUFDbXYtVWxNMnE3LXRSbmhtQkxJRzVmRm1ybElrenExUTJLa1VkUlU5SVE4aVFramxpdl9xVDRFbk05S3RMYk1Wa1cwRVhjdmx4T3oyc2hNMUplb3lieFNZUnRjTGhYQWh3V2lUbzBvTHA4enlENURhV0toMktMajM3MDFQNzhRVnp4V01wNmhsdFFGOUx5QQ?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
