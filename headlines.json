@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T20:50:35Z",
+ "generatedAt": "2026-11-12T21:18:55Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 28,
+   "items": 30,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 22,
+   "items": 20,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 30,
+   "items": 26,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 17,
+   "items": 18,
    "kept": 12
   },
   "gn_oil": {
@@ -121,17 +121,81 @@
   },
   "fed_calendar": {
    "http": 200,
-   "items": 7
+   "items": 6
   }
  },
  "items": [
   {
-   "title": "Nasdaq falters as Nvidia shares fall on CEO exit, oil prices rise: Live updates",
+   "title": "Nasdaq Composite slides as Nvidia shares tumble on Jensen Huang’s exit; oil prices jump: Live updates",
    "source": "CNBC",
-   "time": "2026-11-12T20:45:15Z",
+   "time": "2026-11-12T21:11:11Z",
    "link": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "Fed has time to calibrate rate hikes, Daly says",
+   "source": "Reuters",
+   "time": "2026-11-12T21:03:43Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVUQyM3Nob1JwMmZBS1JHN1FtZ2h5eTZFWlpZWkJ1Tm9XRlByR2lJWEZkdjJKcVVYbklvMW9GekZ5RDZDQU5KRkVaVHZzN2d6cm5NQTEzWlNtQkNGWmw2dXNJN2hvMFBwenUzdFZDLURfM2JsRVBmckhzY2FZRVJPemM5S0ZIX1BqQzFrbW1wN3lxdw?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "Army Officer Accused of Trying to Spy for Russia Is Afghan War Veteran",
+   "source": "The New York Times",
+   "time": "2026-11-12T21:00:52Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY3ZyTXBYVWczdnFLYkNHLTRMYzNJSjJFSm9ZeG5LZXNGSmdmdTI0VmpqcnlMTUQ3SHB6MDE1ekMwdlhrTGx0MnZRVUcwbzVIX1lvM1V4bTRUd0Z5VzZmbnNHcURBMTBUZnBpaXM4N1dETzJleWFwTlBMbHppaGxKcTlkSE5yMDhzQWhR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Stocks could be in for a rude awakening if the Fed hikes rates more than expected",
+   "source": "CNBC",
+   "time": "2026-11-12T21:00:10Z",
+   "link": "https://www.cnbc.com/2026/11/12/stocks-could-be-in-for-a-rude-awakening-if-the-fed-hikes-rates-more-than-expected.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Treasury Selloff Accelerates, European Bonds Follow Suit",
+   "source": "WSJ",
+   "time": "2026-11-12T20:53:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0VSTVFyMVRIR1EtM1J2eWU0MW45b3BmWVMwTWRwbmQzcmhvVlBuTEFQNWowTEI2SUd2cngzbmZ3VXMwYTVxc2NaSTg0WnZ4VndDaHVGNWZGcFcxN1NOUWsyMHd2RTJVNjJqZ2JiQy1XRDNpM2VGRFpiX1RVaTBnM01FSTVLUXJOYkFSRnhKaFBhNzZfUUZsZGJTWlBZbjRxV29UR0k5NVJ5U3ZVdXpYZ2NLeVlKb2ZC?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "US releases report on $12bn from Venezuelan oil, mineral resources",
+   "source": "Al Jazeera",
+   "time": "2026-11-12T20:49:36Z",
+   "link": "https://www.aljazeera.com/news/2026/11/12/us-releases-report-on-12bn-from-venezuelan-oil-mineral-resources?traffic_source=rss",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "India Holds Pernod Ricard and Diageo Scotch Shipments in Dispute Over Import Tariffs",
+   "source": "Yahoo Finance",
+   "time": "2026-11-12T20:46:35Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd3lUTmh6V3k3WTZEZEhaYXhJQ3RYam9RZ3h3MmxGOXFGcFhuSmdNQTJ3cUoyVkstRDZMWWxOYjd0bXNJZTdXNDdhYVdTVFhvbkM0MHNHazhsRzlESDFNd1luYjUwRnQ5eDNxc09nQVQ0RnJPOE5VNllZb0FKS0NqTmdsWUlsdy1sbE1BRlg3NEI0MEdtTDhua3FxdGpHUQ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war",
+   "source": "The Washington Post",
+   "time": "2026-11-12T20:44:49Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWdyUWhPQnRiR210eElwazFOZ2pyWWgxN2FWX09VU0ZSZUpFcVlweFllV2E4aF9CcXpwQkhybkVzMjkwdTBOY3JTRFBXdlZBOXVvU2l5cjBKX1Znel9XR2JJb0gwbVlQOV9TenpJUkY2ZG1YcXEtRWdNWTQ0MDJTM3pQdnRHSkE0WXlWQjA5Y2JXQkpUN2hoSkkyTXhrTE1FdnUyblFjWDdqWHZTMGM1LVU4V2oxZnpqZzBj?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -236,6 +300,15 @@
    ]
   },
   {
+   "title": "Liberman warns Netanyahu against 'dragging Israel into war' as Eisenkot gets security briefing",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-12T19:51:29Z",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DUUQyZ2VQa1I4ZXVLZkdyV1RLbE1lNWRmNGtGaURPRjFmV2hENlZBa1ZzYjJZcEZCdUMxMENfd0R1TDhPRVJvTmJrdHU2Y1JEcVRDTEVJX1RMdExYcWM1aU1VTGhNcUlrNnMtdjRn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Fed Forced to Confront Case for Bigger and Faster Rate Rises",
    "source": "WSJ",
    "time": "2026-11-12T19:47:17Z",
@@ -280,6 +353,16 @@
    "link": "https://www.aljazeera.com/sports/2026/11/12/senegals-wrestlers-turn-tradition-into-gold-at-dakar-youth-olympics?traffic_source=rss",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Fed Drops October 2027 FOMC Rate Meeting",
+   "source": "Bloomberg.com",
+   "time": "2026-11-12T19:27:38Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM3pjbllRaGZoZ1ZQRUpIamFGd3Qwd1hETmRlNWxNd0s0Sm1GNXBPSzdNV2lqTjk1QjVvcmdTSjd4UFpTRXdpVXJsRDV5Nmc0Ymh5b3lXemxTYzBRMEVLeEQzcFkwS1lnelg2NVFueWE3SU1HVnp1NWZnMlhfNkIyc2xZbWxRVnVwblRVZG51MTB1YXo1c19QQ2FRZURYbHZHRmJYT3FaOWE1SmtQSElUQWs1SGJOdWdQ?oc=5",
+   "tags": [
+    "FOMC",
+    "FED"
    ]
   },
   {
@@ -495,21 +578,21 @@
    ]
   },
   {
-   "title": "Liberman warns Netanyahu against 'dragging Israel into war' as Eisenkot gets security briefing",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-12T18:18:54Z",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DUUQyZ2VQa1I4ZXVLZkdyV1RLbE1lNWRmNGtGaURPRjFmV2hENlZBa1ZzYjJZcEZCdUMxMENfd0R1TDhPRVJvTmJrdHU2Y1JEcVRDTEVJX1RMdExYcWM1aU1VTGhNcUlrNnMtdjRn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Israeli airstrike hits Gaza hospital during ceasefire",
    "source": "CNN",
    "time": "2026-11-12T18:18:00Z",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQkVXdlE3ZGVXREFySFlVNEs3U01jNXFoTUswUGdCazVpeFhRWjdPcWFmMWY5cWc4M3pEeWFDUHhiR2RlOHlVZEFuZzdMWE42WW1ySjg5NHVJa0c5b3hULURybkUzdDJsVzM2WEJlczFmQmlfZHUxWU1CUG5SRmNHSGtoY2JUSmY3UzdmTTJHekNKQlRtb2c?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Federal Reserve reduces rate-setting meetings in 2027",
+   "source": "CNBC",
+   "time": "2026-11-12T18:13:12Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXdsS0JxeG5ib1B5VXJoMXQtYUktZVVTWnUwQTlITkkwTjI5VWFBR0Q1RHhWN2tUZGlDVklTOGRTejA2YVhiWDUwcWYySVdwR0tiakQ0dHBfUENJSnFnZHJvSjBoVTh1ZHN6ZzlHZ0dtamRxcllkODRZMzRTVU5mVlZZVVQ0UnVKbjdWQ0ViRWNHUUFvb1JiRHVNOEI?oc=5",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -537,15 +620,6 @@
    "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
    "tags": [
     "USD"
-   ]
-  },
-  {
-   "title": "Federal Reserve reduces rate-setting meetings in 2027",
-   "source": "CNBC",
-   "time": "2026-11-12T17:58:12Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXdsS0JxeG5ib1B5VXJoMXQtYUktZVVTWnUwQTlITkkwTjI5VWFBR0Q1RHhWN2tUZGlDVklTOGRTejA2YVhiWDUwcWYySVdwR0tiakQ0dHBfUENJSnFnZHJvSjBoVTh1ZHN6ZzlHZ0dtamRxcllkODRZMzRTVU5mVlZZVVQ0UnVKbjdWQ0ViRWNHUUFvb1JiRHVNOEI?oc=5",
-   "tags": [
-    "FED"
    ]
   },
   {
@@ -601,89 +675,9 @@
    "tags": [
     "GEOPOLITICS"
    ]
-  },
-  {
-   "title": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
-   "source": "The New York Times",
-   "time": "2026-11-12T17:36:10Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GVkpKYjhub0lKY3JLamNqdW91aWl4YnAwbVZZV3J5YWR6b1k4SnBXcWRkOWJSOUdFcXlLUHl5WlNuYU1tNlF2TFF4bkxudVVtYUVIWG0wb2RRR0J4YkQ2eWRpMUxOdzFldHRfT0hPMGpSVEhHcFRTT1QwSENIckk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Stocks Dip: What's Going On?",
-   "source": "TradingView",
-   "time": "2026-11-12T17:34:10Z",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc1d0SHh5bldVcGJKWmRURVhUNjk1a0d1dVd0UEktNHFXaFVGX3FYVWpGdVBTV3RNYTFiWHl4ZHMtbG9Nd3haajN6OVhCRk92bUhrYVFnZXh4UUJIWGJvZUhCbWN3UzFrakZzR3FZZ1NQLTVjdFJWUlV5dkVRNmZvRjMySWxxMjhHQmNCN2tTOTgxM3hZ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Ukraine says it’s facing new restrictions to the Starshield network, as Trump envoys meet with Putin",
-   "source": "NBC News",
-   "time": "2026-11-12T17:28:50Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeVV3X1BzOWx3UU9VR014QVVGbW5JY0g5amxBWTZ3M1pOM25yT0RONVl4ZlJObzhFT0UwSk9MRzkwMkhVVFl1dm1LZURjaXZCcGxHSEJnWFFUd0J6WXBjX21oNUlEcEQwYWRQWmI3eDE5aUw5VjE5aU0tT1FSZTg5NWVKNUxBWVNGSmh4UWx4Szk3V19SWDQxX296em4?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Democrats Plan Early Action on Tariffs, Health Insurance Costs",
-   "source": "Bloomberg.com",
-   "time": "2026-11-12T17:24:24Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVnlyay1mMlRrSXpZaDR1ckF5Ukhsb1ZJUGZQZUdneENmZFk0SG9pbGx4OW5hWjBOd0JYbWVjYkE5bXZyX1MyUjZqTF84ZGN4YnhCTldJUlpyWEdZVEozZzJmX3pCWm8tWFZkMmtYaTZfN2M1YUN6U2EwM0pkOTVDMlVRYkU1YzRzUlVnYzIzOW9pZERvWU5vYjVmdE13Yk5fS2lqTVBiYXJ5WjhiQ1RmalBR?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
-   "source": "CNBC",
-   "time": "2026-11-12T17:23:25Z",
-   "link": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Israeli airstrike on Gaza hospital kills 6 people, Hamas-run health ministry says",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-12T17:22:59Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVGh2c012X3FlMGJkTzJBNUZYRGtPdC1aQUxzYzdEZlFQNWNKVFp0bzlGWmJlSDlTQzRBQm9Lb05YU3B6bGFnSHZmZE9nczQ1WDFsSlVrcXpid3ZOR3dIOFRESnFIQ3dPRzZJVUplSldCci13R0dQZ0wtQzEybXUxX216b2g5VU5STGwzZTFrb1FwZ0tUWXE5LXZjaFlFa0pQRUFxMEZIRVPSAa4BQVVfeXFMTXJRX19VXzJCMVdmenpxUFlUX0pSM1JWTGpzZ0lSQURWYUFKbGtxd0I1cnEweE5VNWNxaTlkV0d3b3QwMTg4OHM3MEp0R25nRC12bklOLW1WWDBESXRBQmttZ0p3b0gtbVdIeHpoZGRBV1FBYTNlZGtPZTJlZmJOMk5tZXlpQ3kxZmUxdVlHYjJZVTk5QXl1U1hZR1M5cUNWTVZnWW1uLVNQUFMwNG9B?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "EU to Hit Russia With More Banking and Energy Sanctions",
-   "source": "Bloomberg.com",
-   "time": "2026-11-12T17:21:58Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWlE2aXFDZFdxNzlHU0Y5aHVNa3FuT09mRlFJZnY5ZWI3eTM2bHRkY1JVOVNVNi01X3Q4a1VMVlFQMWVKejFiMlVZWXc2TndNaDR0QjczejllWlRoNXM1NDlqTVo1MFRnb1dCRThOMExfTGV3d2VCTHB2ZXFMSWxCVm5hN3JkNFhsOHB0NjlCT0xkSC1mT1hLSE04SThmSzlWZUxnaU1SMm1LZw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Trump ran on a platform of peace. His war may have cost Republicans the midterms | Mohamad Bazzi",
-   "source": "The Guardian",
-   "time": "2026-11-12T17:19:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMkp3M2Vsc1lacjEzbVJOOVhnRXIybVgxZktUOUNZQU5LQkJ2elYzZWlmRXdIN2pmVlBPekZPZ1M1ZFNrY1BSYi1mQ3JTam9aSVZibG5Ienh5RHNydmQyXzJSRXRxZUhDVS1NUjZfdjFJY2ZJejRKY094eU4tb2wza2dBMzR2QjlVOEZMSw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
   }
  ],
  "fedCalendar": [
-  {
-   "title": "Speech - Governor Michael S. Barr",
-   "time": "2026-11-12T10:00:00-05:00",
-   "impact": "Medium",
-   "kind": "SPEECH",
-   "src": "fed"
-  },
   {
    "title": "Discussion - Vice Chair for Supervision Michelle W. Bowman",
    "time": "2026-11-13T10:50:00-05:00",
