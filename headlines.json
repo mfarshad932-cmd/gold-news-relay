@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T06:17:09Z",
+ "generatedAt": "2026-11-13T06:45:18Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -91,28 +91,28 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 22,
+   "items": 20,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 32,
+   "items": 30,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "gn_yields": {
    "http": 200,
-   "items": 29,
+   "items": 26,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 1,
+   "kept": 1
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,34 @@
   }
  },
  "items": [
+  {
+   "title": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
+   "source": "CNBC",
+   "time": "2026-11-13T06:34:07Z",
+   "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Federal Reserve to Forgo Rate Decision at October 2027 Meeting",
+   "source": "WSJ",
+   "time": "2026-11-13T06:27:25Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkZiVk1uU2k5a1RQRGUxdFBJMEcxSVhtWEJfR0s3Q3E3T185OXRrZHRZMDVsQlhTdVpIbVlfQnNPem4zbGlTMDR6elFDRlM3RzhETUhCVzlTTDJvWmtfQzctcUFhRXZsVmxpVjBQUXpXTkRUTThQNVJwQV9YX19qaTZGVGswRGF1N2d0dktsZW5DVHlFWVNENmtQaERZYm5ZTmREdm8tMzVjX3ZCQUdqbTFCbWktdw?oc=5",
+   "tags": [
+    "FOMC",
+    "FED"
+   ]
+  },
+  {
+   "title": "Treasury Yield Surge Shatters Hopes Worst of Bond Rout Is Over",
+   "source": "Bloomberg.com",
+   "time": "2026-11-13T06:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWjhkdkdUYk85b1djY25EQk9aY3VBUmdlZGVpS251di03VTMzaDRvVHIzbEZBcjZSSlNvMDNXdXFNX3A0QTB6TFBXRndSdFFyNXBwMXRtRmZIcVJySzVXaEZDQ25HN0ZDOGZtbkpibUZ3UDZPUWpiVWVLMU1hVzk3X3JwQ2NxVXo3WkVWMnhqandnNUg0UjlnUUNSTkUwYjFLd3ZBeEFBel9yT2h5WVRObU0zYw?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
   {
    "title": "Gold (XAU/USD) Price Forecast: Dollar Strength Extends Downside Targets",
    "source": "FXEmpire",
@@ -147,7 +175,7 @@
   {
    "title": "Man City to be hit with Premier League sanctions next year if appeal fails",
    "source": "Financial Times",
-   "time": "2026-11-13T05:01:18Z",
+   "time": "2026-11-13T05:02:42Z",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2ZjcFNfb1JOeWtiZFloWDhmMlFwQ0xGQUpETU1TSE1wSTI5QW5uYjJoRFNZdkt6MExPX2lYSy0zVy1iOHExRXdkS21BaFM2YUFSSjMyaUF0NHFBQ1pkcWlnN3gya0ZzaXFRTkJrNVJMY3RGcTl5SHlqYXd5dWFQbWczR2Q?oc=5",
    "tags": [
     "SANCTIONS"
@@ -169,16 +197,6 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTNfa200UGRNRGwzWmhHeFBuTGc4QnlYWG9hNTkzU1B3WDI2RVhacndLN29vYV8xN2hFRVpRQjNQNE42TlRSYTd6cUVyYjhkRGFjS2xYdkZrQkJvY3lJTzg3ODFOTkVaaDEwaUU4bmV5UjVua3ZXenBhZk5KbjFPQXlHQkFmaHkyMHRaVC02V093MlJvSG1nNmoxSmtIaDFfSDdXZUdtYw?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Federal Reserve to Forgo Rate Decision at October 2027 Meeting",
-   "source": "WSJ",
-   "time": "2026-11-13T04:57:25Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkZiVk1uU2k5a1RQRGUxdFBJMEcxSVhtWEJfR0s3Q3E3T185OXRrZHRZMDVsQlhTdVpIbVlfQnNPem4zbGlTMDR6elFDRlM3RzhETUhCVzlTTDJvWmtfQzctcUFhRXZsVmxpVjBQUXpXTkRUTThQNVJwQV9YX19qaTZGVGswRGF1N2d0dktsZW5DVHlFWVNENmtQaERZYm5ZTmREdm8tMzVjX3ZCQUdqbTFCbWktdw?oc=5",
-   "tags": [
-    "FOMC",
-    "FED"
    ]
   },
   {
@@ -538,6 +556,15 @@
    ]
   },
   {
+   "title": "Stocks recover from Nvidia whiplash, dollar climbs with US yields",
+   "source": "Reuters",
+   "time": "2026-11-13T01:55:00Z",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ0cyVmdPTTRkWGt3UlMtUFRyOGhvdDNlM1FYVy1MSVN0elpQZHgtWXctVEE1M2RjQm9IcmwzUGU4cEhEQnhsQWlOX2RhUFk1NzBXeFkwM3lMek16ajB1ZmozdGpLR0cwQ2JTcGVlTTJwMEc2ZFZ3bklxeTk4eElFaHZLaw?oc=5",
+   "tags": [
+    "USD"
+   ]
+  },
+  {
    "title": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
    "source": "Al Jazeera",
    "time": "2026-11-13T01:43:17Z",
@@ -658,33 +685,6 @@
    "tags": [
     "FED",
     "INFLATION"
-   ]
-  },
-  {
-   "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-   "source": "BBC",
-   "time": "2026-11-13T00:20:24Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ethiopia's Tigray conflict: Has Abiy Ahmed defeated the TPLF?",
-   "source": "BBC",
-   "time": "2026-11-13T00:20:24Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4NF9nT2JHdExYejRsQWtuS2VrMnF6ZlpRaU9GTnFSSk1KMzdhY1dGZTVzV0xfNktRU3M1U1FhVDlSaGMzS0xpUGp6TWFqdU9oVEFCTW0wU3pwLVU?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "A 5% Treasury Yield Is Rewriting the 2027 Equity Math",
-   "source": "Investing.com",
-   "time": "2026-11-13T00:10:44Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSnZVUzExWGxVQ1hMSTVSUk5ROXMzOEc1VmJ4RXZucXBNN2g4UVdqXzFCVDNFYXhtSnp5UTg1Mk4xeTVia1hNeVRuUTVsZDl3djZ0bGFFVkx0eGlHdkNLTThpM0REd3VzOVlsejREaFltelYyamxGc29XX2NORmRlZG9XTmd0dUZ4bzZFSmV3MEJKZml3SWxWYi01RDNiQQ?oc=5",
-   "tags": [
-    "YIELDS"
    ]
   }
  ],
