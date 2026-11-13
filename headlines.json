@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T10:31:59Z",
+ "generatedAt": "2026-11-13T11:00:25Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 10
+   "kept": 11
   },
   "bbc_business": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 28,
+   "items": 26,
    "kept": 12
   },
   "gn_fed": {
@@ -96,17 +96,17 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 33,
+   "items": 37,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 6,
+   "kept": 6
   },
   "gn_yields": {
    "http": 200,
-   "items": 28,
+   "items": 30,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 1,
+   "kept": 1
   },
   "fed_calendar": {
    "http": 200,
@@ -126,9 +126,65 @@
  },
  "items": [
   {
+   "title": "That Haven Trade in Treasury Bonds Didn’t Last Long",
+   "source": "Bloomberg.com",
+   "time": "2026-11-13T10:55:09Z",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOXh3Z2dMMVdNUmZqRkR1ZnA3YWM4LVU4M2RKS2J2OFE5TXRxYTlpT0RMemZzN01XSVJzOVV3TWJJRmNtbUZ0RWQzRURwNzFwODVpcEh1WVFHWFU2dHhRM3o0eGU4WGFFY0JnMVJacG1oQklDelBBZ2xhaUpzX0g2aWFTRE8yaHhULWpzSEotZUFFSEdUeWVPalBlTlVxXzhMVjB0YlFVZmdUR0NNajlnVzJGUHVpWnJRRHhFSV9hRHNOYmhf?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales",
+   "source": "CNBC",
+   "time": "2026-11-13T10:54:40Z",
+   "link": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Lieberman vows to stop 'politically motivated' war amid Iran tensions",
+   "source": "Haaretz",
+   "time": "2026-11-13T10:51:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNVWl4aWtWOTN3NVZ5VDVTU3N3THdLMlZISFFkQXgtN0NNVF9IbWp1WGUtbHF0Mml4UHhnSjdhM05TTW04c00zd3NITW9QdzdWWWo5azZIMlZNZl9ZOUkwa0k3bVhDYmJKZTRNelFKRG1VSHh3TTk0SXpDU1RXRmRJalNDWmJKaExfVGViMVNZN1FnMzV1ZDlHa0VaV25HVGJlOFhWVkVQTW9aYkZDRGNscmhEUVZhbWJSTWlzRldNOGRTeDFjQW91aWJtU3V2Zmx6M19XOUZ5UEZiVDNCR2NfZGlDVXpFaHlTc2pqZDRkZ1NyWmFVdHRWaHRxZURkYTRuWE1hcGxBLW5FSXpXQTNfeGFYQVdwdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US Treasury Yields Mixed Early Friday Ahead of October's Producer Price Inflation Data, Fed Speeches",
+   "source": "marketscreener.com",
+   "time": "2026-11-13T10:36:35Z",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZHJLRFltcWp0NEhLMTF5ZENpdnVSOHowUy14VnBaY0NEcGtpeTZvWjg0TzRPNTMwTEd2RGVMTXUwT2JxQTk4ZWE5TWEyQjZCYXpjdFpzdVBDbnItdWtrWG8wOGozUTk3N0J6eThXbE51d05LSmZxaUZnUUhjcXpBdW9rNnhlVVNqMEJjYk5WRWl3MHZWbVhTcFR2LTZqZlBNamFxaVdDTDVlcmV5SnRIdm1xMk1GZkEzLS1YdWlxVmdmMDczUXhxM3Z1M1BmSG1qSF9yTWdoTEVuZl9rTVk0OGtSM0VHcmc?oc=5",
+   "tags": [
+    "FED",
+    "YIELDS",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?",
+   "source": "Al Jazeera",
+   "time": "2026-11-13T10:34:03Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNlNPRDhieTNZQXhxWTRNUHg5clA4Q3B2Tm5wakhjZmdmV3poUkV3dXpJeS1oMFZaaXF0S1hYekVEVGFHZ0xMYkNZT1R3MVNPQk95ZlNMQTV0dGl2aUhCUGY1aDQyU0tfTC1fVEx0SGh2TDdoOHVyekpWMjNoS0NTUWZ5ME5hTmhCdlhnRU94SjhkVFFLTmo5VF9fbk9zaEtBT0pGbDhqRVRPRjY2OUh5dGRZYnVDY1V4TkHSAb8BQVVfeXFMTVp0bHhCSWRhZnhCQUNNSkZ6VVJFdUVDOHlPRGRkWmlzbnZ4QXJXOGk0RVlUQnRhWlNDdm1lVmI2X2pLZkRCT3ZtTFE0N0twV2VILTYtNFJhNTl3NWJCWGJXYldyT3phdUMtQUhkbnFFNFZJRjlOaG1waVRXTXlWaXZhSEkwTzJ6dlNJd0EwR0ZQLWJVR1ZIaW16QXRISFo1NTFWOThDUVZzU1liODNNeVNGTHc3RGVKS3JEMElBek0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
+   "source": "Al Jazeera",
+   "time": "2026-11-13T10:17:15Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZlRoNnZkS1Q2N2NZaDhheS1hc0kzUlZncXNtNFlIbERETmFMYTJrV1JHbzJKekJMZnhSdDJ2SkgwN3h0NXp1a1E2RmthcmlKNVY3V19mWVV6OFhTYUw3cVFXakpMSzdrZUpaX1pCU3FUMVI0RFhQc1pKa3doTGh1MHdhWFZJY1lnMTQ2eUgxMzNjS3pTZGxmN1E5TW1uWTdMaXVTUTF2TnBpdmZxMnfSAbMBQVVfeXFMUExDSW5Ec2xDQnJMTFBILUtQM1A5dl81ZGtLVGZlbHljM0tRVGJONEFqSlBMeTBobzR1QkNtQ0M3S3N6d0VfUzkzNXozZHpCR2tfQ1d0X3lFSWdTYXhNWHFuQ1oxWmh2aE9YYUhVMFJiMDVKVHhDMnowZFFPMFlKSDlLYUtCYVJ2V3ZwdVFuSDdNb1h4Z1Q2R1RDY3JhbV9jX3NiTFItTEE2dnR0QmNjTVZXSHM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "World oil market is returning to surplus as Gulf exports recover, IEA says",
    "source": "Reuters",
-   "time": "2026-11-13T10:12:08Z",
+   "time": "2026-11-13T10:12:11Z",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcWtzQXhRVUlUbWQ0VVloOTVjekFCcC1XQlNXNWNRcERHNDFEbnBNTTFhZjV3Qjk5bGxCaDhoRFE1Yi1mdGNoR3JCVXY5MmQ0ODVnUWRabHowUDhYSUNKOXV5X0lLQzRBbWNabUFMTzVlMzBNOUUyWTgyeUg1cW5sRjJtUHo3TldPOEY4S19xOGwwYjlkemFibktTVTltVF94WUg5ekdJczcyUlBHOHZ0V3EtdWdjU0JOVkY4?oc=5",
    "tags": [
     "GEOPOLITICS",
@@ -634,65 +690,6 @@
    "tags": [
     "YIELDS",
     "OIL"
-   ]
-  },
-  {
-   "title": "Gold Slides As Oil Rebound Stirs Inflation Fears And Further Fed Rate Hike Risks By Kedia Advisory",
-   "source": "Investing.com India",
-   "time": "2026-11-13T04:37:34Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMzZhWmtmUWUxbDJIWlFHTF9BeHJuVjRadnVRNkMyOWtmal8tV1FjeVRtMXp3NHRHb3l1U0JMM3cwVVA0U1FBWnUtZDdwZ3lac2N1eW5rd1dBSnNBZnBJa1RNbzJhUlQ0U2JyY0JoNmxxUTVtYkxOQ1Nud2lVR2xNQzBwN09zdUlIMVN2SzBRUFFrcEc5NVhJUl9wYzd6b1lLdDZqblZZRWVqVVM4ZU9FZ1dqRWN4VlpxRlJxbEFLTE04QTVzT19uNTVtMjBMaloz?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION",
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold price in India: Rates on November 13",
-   "source": "FXStreet",
-   "time": "2026-11-13T04:35:43Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVU1QTRSaGxpaHk5RE1UbU9MZHNuTjc4Sm90dVY1dTNxVC1WNWZQczNrUnJScGJHNXlsWWJCeHN2SjZ5dGM2VzVPejFqUjhPUkF4Z3V3SEozSmFiaFkwaWItdTV5WGNrVkpIcFNxZHRqenhfa2xFU2lTeEx6RmNxd3ZVX3Bjd3RJZDJWSERvRjRvQm5xN2lKRUVnenVlUWpySkxTV1ZB?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Iran says it targeted US radar site in Bahrain",
-   "source": "Al Jazeera",
-   "time": "2026-11-13T04:29:22Z",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNay1kUVVvaTJ4b2FManZ4aVVnSDhvQzdZRDFQa3FSZlRsQlJ6cGY5bVhwMkM0TGlWQ0FwYVg3bXNORDM4ZjI3dzR3Qy14a3hBSE9lRXZUaDhydHlzOWozdUtieDl6dl9Gd3JXdHUzUUdKRWV0WXczNm1jd0RaQ21Vam1CMk5CVVF2OGx1ODUzUdIBlAFBVV95cUxQZk1ES2dVRlM4NU1ENWxJalhucE5CY1FKQXdMTXEwdFFuYmVxNkRKbnp1TDdicmh3bDk2TWNiaFhUNXhTMy1nV2JVQnFFMlFUSVViYUV6V3ZrMEJLTW96dnJ3VC1DZ29ld2ctV002aklRSWpvcWR6RFhkdFpZeFFXZ3pObjdSZG02VDZIdVc0VGZMcVBr?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "investingLive Asia-Pacific market news: Fed hike bets ripple through Asia",
-   "source": "ForexLive",
-   "time": "2026-11-13T04:26:00Z",
-   "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-fed-hike-bets-ripple-through-asia/",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Iran's IRGC says it targeted and destroyed a US early-warning radar in Bahrain",
-   "source": "FXStreet",
-   "time": "2026-11-13T04:19:13Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSlV4aFY0Y3Ffc1RPcFlXZm9xUlJfNzJ5d214S2JRbEVrTmRqTzN0NWtoT0pzMHdJUmoxUEtTRE4yWDJqX1p4Rkp0NmpwYVBCNnBXTktValRabXZ2VE1FV0pmREhKNXRtM3Z1cEtfLVBGbm1YTl9yNHlXUWdhM0JsZGNkRUVhbUNvWlBVUmVCTGVrRFJDZnJGLWY4eTBLLVBsaE1YN1I3bm4xMmxsSXRUbUpKTVFDbWVwdm1zbA?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Analysis • Caught between two clocks: Eisenkot races to block Netanyahu's war",
-   "source": "Haaretz",
-   "time": "2026-11-13T04:01:00Z",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORDJHMGY1MjVVQWU5OVdqWjlfS3gwZER3aktOaFh1UER1c2otT1ZnOTUwQkZRNFdJWTVJLWZQRkhPdTNxY0pZRlp6aGVRalJfdnJUQTZYYUJRdXo1dHVkTHdnLXpOYTNPMGs4M3V4OE8wckRlYWF1R3BULUw0MVlBX3dMaUU5ZGg2X090OVhZMC1yOERraHJqZ1VhN0Roa0RXcmxqY2hTVEdpalN0XzVxZmxyRml3SGJGU3QwSlNVZkJvV0Q0dk9KMWk2bmpNZjU2djZhMnpra210SjNHY0JsLXpiODVqQzQtelJsUzBXdGhaOTZIeFA4dTBYRFpEU0dEOW5hMTVNU25MaUMxMGlXSDBB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
