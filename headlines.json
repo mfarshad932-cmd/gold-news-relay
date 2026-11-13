@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T09:35:21Z",
+ "generatedAt": "2026-11-13T10:03:40Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 33,
-   "kept": 6
+   "items": 20,
+   "kept": 5
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 3
+   "kept": 4
   },
   "whitehouse": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 28,
+   "items": 27,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 31,
+   "items": 30,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 18,
+   "items": 19,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 33,
+   "items": 32,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 28,
+   "items": 29,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 2,
+   "kept": 2
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,63 @@
   }
  },
  "items": [
+  {
+   "title": "Trump’s tariffs face a new threat: Republicans",
+   "source": "CNN",
+   "time": "2026-11-13T10:00:15Z",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HVGlvN2EySTE0S0ZVZ1Joc1c5cWhKX2owSVhjVE5XNGxWSVp0bDUyMkZldnpIemdESHhaYWM4cFRTS0x3QmszUWZlYy0yM1ItVVVBSlZvMEhNNDVzYnJUVkVGSG9yT1JJcUM5b3VkUks0ZnBBYTRz?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Australian Dollar extends decline against US Dollar amid surging US bond yields",
+   "source": "FXStreet",
+   "time": "2026-11-13T09:57:48Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR2F5dldwYXhwVjVpY21LSDhsUmxQdTA0Y3d1cWlneHRUSFB3eVZpd2E2VFE5OU1CaV9SeGZsSWtmV0hTcVY2NGs5RHpYUlpadU9TS0xkNVo4dUNlRzBiUjVsMFBoOVNPUnU2ZURSeXRSVlZrdzNtUjJPTFRuSFVSbUxtdlU1WFdRY0FkdGdJelZNbkJhSmoyQno2V185R0xlLU1FUkZnUjB2T056WFlOWXllS2hlZHUxeFR6VVB4OA?oc=5",
+   "tags": [
+    "USD",
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans",
+   "source": "CNBC",
+   "time": "2026-11-13T09:45:04Z",
+   "link": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html",
+   "tags": [
+    "GEOPOLITICS",
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "With every rainfall, Gaza risks losing access to power and healthcare",
+   "source": "Al Jazeera",
+   "time": "2026-11-13T09:43:30Z",
+   "link": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran Extends Blackout of Nuclear Work With US War Deadlocked",
+   "source": "Bloomberg.com",
+   "time": "2026-11-13T09:35:14Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTUd1cm1FVnVVVVRnNlNHVGRZZ21jejV5Umx3S3lZQTd1blRDOG5hSzBYR1J4T01OX0Q5OUZZbnp6aUg4T2VSM1ExVjdJY2dqYnpXOWl1YUxsbEo5dXdFRmp6TlhzLWpHaUx4X1pQVkhodkZBQnN2ZHNRaHZ2Tk1CMHJzQnpqTGtiYXIzMGhIanZiV1hzUUYzdGVJV3M4V0pGZkN1c2wzMElmME1fTUdmOA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Federal Reserve to Forgo Rate Decision at October 2027 Meeting",
+   "source": "WSJ",
+   "time": "2026-11-13T09:27:25Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkZiVk1uU2k5a1RQRGUxdFBJMEcxSVhtWEJfR0s3Q3E3T185OXRrZHRZMDVsQlhTdVpIbVlfQnNPem4zbGlTMDR6elFDRlM3RzhETUhCVzlTTDJvWmtfQzctcUFhRXZsVmxpVjBQUXpXTkRUTThQNVJwQV9YX19qaTZGVGswRGF1N2d0dktsZW5DVHlFWVNENmtQaERZYm5ZTmREdm8tMzVjX3ZCQUdqbTFCbWktdw?oc=5",
+   "tags": [
+    "FOMC",
+    "FED"
+   ]
+  },
   {
    "title": "Headline in space in here",
    "source": "The Economist",
@@ -190,15 +247,6 @@
    "link": "https://www.investing.com/news/economic-indicators/spain-inflation-holds-steady-at-49-in-october-93CH-5024415",
    "tags": [
     "INFLATION"
-   ]
-  },
-  {
-   "title": "Iran Extends Blackout of Nuclear Work With US War Deadlocked",
-   "source": "Bloomberg.com",
-   "time": "2026-11-13T08:17:56Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTUd1cm1FVnVVVVRnNlNHVGRZZ21jejV5Umx3S3lZQTd1blRDOG5hSzBYR1J4T01OX0Q5OUZZbnp6aUg4T2VSM1ExVjdJY2dqYnpXOWl1YUxsbEo5dXdFRmp6TlhzLWpHaUx4X1pQVkhodkZBQnN2ZHNRaHZ2Tk1CMHJzQnpqTGtiYXIzMGhIanZiV1hzUUYzdGVJV3M4V0pGZkN1c2wzMElmME1fTUdmOA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -369,16 +417,6 @@
     "FED",
     "USD",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Federal Reserve to Forgo Rate Decision at October 2027 Meeting",
-   "source": "WSJ",
-   "time": "2026-11-13T06:27:25Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkZiVk1uU2k5a1RQRGUxdFBJMEcxSVhtWEJfR0s3Q3E3T185OXRrZHRZMDVsQlhTdVpIbVlfQnNPem4zbGlTMDR6elFDRlM3RzhETUhCVzlTTDJvWmtfQzctcUFhRXZsVmxpVjBQUXpXTkRUTThQNVJwQV9YX19qaTZGVGswRGF1N2d0dktsZW5DVHlFWVNENmtQaERZYm5ZTmREdm8tMzVjX3ZCQUdqbTFCbWktdw?oc=5",
-   "tags": [
-    "FOMC",
-    "FED"
    ]
   },
   {
@@ -651,42 +689,6 @@
    "tags": [
     "USD",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Iran claims strike on US radar in Bahrain retaliation for Sirik telecom attack",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-13T03:13:37Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qZWhoaVp5V1BxSWw2MC1OU21JR0xpMVhxeHBuaWFCak9tZlFwN2ZXdHItWnQ1Mk5iRExJdWpFLTJEMklfMC15ZXFwNnNpN3hlY1laUkUxdWhKQ0FuMXVTUjZVc2RCaWEzNXc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Bitcoin Slips Below $70,000 as Higher Yields Weigh on Crypto",
-   "source": "Bloomberg.com",
-   "time": "2026-11-13T03:13:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDBSRFdONDlCQWdnQTRaTDVQNUVyLVBaak5HWUMyazNza1NndXVxaDYxdHAwdlVhWXpZSXRjSmJmd2p3MVRJSUhCeWljTV9MSVhkb29tejk1Q2QtQzFsZXZ0QzhZZkFjOXdFTGY5SWpGUmRmWlNreG1NbUJOd3l1X3RSRUF1VFRITG5ybVBiR3FYZXFMSXdzM1NHUkYwQ3FrTkFWTy1EbzlsckxsalI4?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Rupee's faltering rally faces returning oil pressure, surging US yields",
-   "source": "Reuters",
-   "time": "2026-11-13T03:12:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2lRcFhDeEM4YTZPLVVWRHNYTnU2XzJhTFJMTUpjT2lyY0JwZ25WaGxCR01JTVpRZTJBVE5SZ0Y1LXdqSzJFRDBWVW15TnEwRE9idm9zeGVGZlpPVndfdGhoQlhmaHlkSFdDZmdXOGQ2N00xMVlKX3JFbkMtYzN5Y2VULUkzNkZmV1VtMnBCSU81eFRkRGFxUG9XRlVqcGNfelRrSHZQNXZQSExsbDhBaVdlcWlfWDhu?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Gaza surgeon films aftermath of Israeli strike",
-   "source": "Al Jazeera",
-   "time": "2026-11-13T03:11:43Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
