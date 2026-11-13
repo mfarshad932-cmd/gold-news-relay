@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T08:38:40Z",
+ "generatedAt": "2026-11-13T09:07:00Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,17 +47,17 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 5
+   "kept": 6
   },
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -86,23 +86,23 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 29,
+   "items": 30,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 18,
+   "items": 17,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 33,
+   "items": 32,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_yields": {
    "http": 200,
@@ -126,6 +126,26 @@
  },
  "items": [
   {
+   "title": "Treasury yields rise as traders strengthen Fed rate hike bets",
+   "source": "CNBC",
+   "time": "2026-11-13T08:50:43Z",
+   "link": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+   "tags": [
+    "FED",
+    "RATES",
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "French inflation rises to 3.7% in October, highest since December 2023",
+   "source": "Investing.com",
+   "time": "2026-11-13T08:30:58Z",
+   "link": "https://www.investing.com/news/economic-indicators/french-inflation-rises-to-37-in-october-highest-since-december-2023-5024441",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
    "source": "The New York Times",
    "time": "2026-11-13T08:29:55Z",
@@ -135,12 +155,43 @@
    ]
   },
   {
+   "title": "Higher real yields and stronger US dollar weigh on gold as Trump puts Iran deal in jeopardy",
+   "source": "investingLive",
+   "time": "2026-11-13T08:27:07Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeDhVazZuS1VLVkdGX0EyYlB3NXVReEtMaXJINk1oVDdwMzF5Q0pOUkhJRkc1WEowMHRIaU5BVmhkcHNYd3JDblhxTXkwb2g4eGkyalJPVUhxdFNpd0wyX0ZKVTRESEZMemVYV0FwNlNjekU1TXlpNzMtVS1ESEo0SUQ5eDU2SktLdTlfRm1WYTRCOXlOMkpkYWxCeGRtSFR1RnZFeWhja1Q1c2k5T29MZGJ1NmFOampQQmZhMUdzc0w3WE9XaUQzTHl3?oc=5",
+   "tags": [
+    "USD",
+    "GEOPOLITICS",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Spain inflation holds steady at 4.9% in October",
+   "source": "Investing.com",
+   "time": "2026-11-13T08:26:46Z",
+   "link": "https://www.investing.com/news/economic-indicators/spain-inflation-holds-steady-at-49-in-october-93CH-5024415",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Iran Extends Blackout of Nuclear Work With US War Deadlocked",
    "source": "Bloomberg.com",
    "time": "2026-11-13T08:17:56Z",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTUd1cm1FVnVVVVRnNlNHVGRZZ21jejV5Umx3S3lZQTd1blRDOG5hSzBYR1J4T01OX0Q5OUZZbnp6aUg4T2VSM1ExVjdJY2dqYnpXOWl1YUxsbEo5dXdFRmp6TlhzLWpHaUx4X1pQVkhodkZBQnN2ZHNRaHZ2Tk1CMHJzQnpqTGtiYXIzMGhIanZiV1hzUUYzdGVJV3M4V0pGZkN1c2wzMElmME1fTUdmOA?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Spain inflation remains stubborn in October, keeping ECB rate hike expectations firmly alive",
+   "source": "ForexLive",
+   "time": "2026-11-13T08:00:18Z",
+   "link": "https://investinglive.com/news/spain-inflation-remains-stubborn-in-october-keeping-ecb-rate-hike-expectations-firmly-alive/",
+   "tags": [
+    "RATES",
+    "INFLATION",
+    "ECB"
    ]
   },
   {
@@ -274,6 +325,15 @@
    ]
   },
   {
+   "title": "Second world war ‘brain’ bunker in cliffs of Dover opens to public",
+   "source": "The Guardian",
+   "time": "2026-11-13T07:03:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbVNQNXB0LTZ6SGxoT0dDd25TN1Zpdk1adnc2c3g3MDl1c3FpTU9nUWNjTGpOOE1sdWtkcW5wVGpWekR5N3FTd1Z6R3RNVHBtVlhUSkV4aUprRGNNblBZSXpHMHBOTEtmLVFyV2RCREhVZlZ3cm5oaERVRmktTUs3UFBWN0JHVC1ja21Td09QTV8tVVRnQjdyd2NlT0F3SGRuOHZB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Germany October wholesale price index +0.4% vs +1.9% m/m prior",
    "source": "ForexLive",
    "time": "2026-11-13T07:00:35Z",
@@ -283,12 +343,13 @@
    ]
   },
   {
-   "title": "Gold trims recovery gains; up a little below $3,900 as Fed hike bets cap upside",
+   "title": "Gold trims recovery as Fed hike bets and bullish USD cap upside",
    "source": "FXStreet",
    "time": "2026-11-13T06:53:38Z",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRGE3UHNvcXhqdy0zNXRVVFlVVVNja2JBZkFVaVd1YXZ4eXh1Mks3dHROM2RDWkxkY0c4NHMtTEktcnp0RWEwNnd6WXo5M2ZrcXRFLWNRRjZaQkhaUWlLdzRXQkgydEVOa2U1eWpSVWo4UUxLd3FUM090TDFQeENsR0VuSnNfbndTRnlBdWVpSXdtMTFMR3RERGU3MG16cU50MG9BUHFnUjhJNkZqbllPd2pmM1RBVjJ6c0xtaW9VUUxaQzBj?oc=5",
    "tags": [
     "FED",
+    "USD",
     "GOLD"
    ]
   },
@@ -340,6 +401,15 @@
    "tags": [
     "USD",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Opinion | America Will Have Less Influence in the Middle East. Is That So Bad?",
+   "source": "The New York Times",
+   "time": "2026-11-13T06:00:05Z",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON2k2MGtBLTFDU29FeUVzMmw5SUpuNlRzNXBNdmxFZ3dvRnZSYmxscUNpUnJPR0tFVnBsRi1xbU1Mb0tqUWN4b2FydUc0dG5uVzhnM2hlTUJmQk5wTlphaW02NkZaanMydXBpSU1laFBXTG9wa0FPd1c2ZDZzY05JT1R3?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -617,72 +687,6 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUwtNDZmd2xnRmh5QU5UQWs1UWhXZXZsT3Vab2dPU3E4S295N0ZtWW1mQWN3NkdSNkJDeHdPV3FmUDRVVXVGWjlxS1B5dU50a2xMSGF4dEpjajltZEtrVmxWd1Y0Nlo2bGJBN0pWNUVBQlRvRlItSFJRcDROaGhXWk1yeDJDTzFGZm00WDBVSWpNRkx5VTgzcUFYY2xZVFlEa0tZ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Godzilla returns in special-effects glory in the latest movie with an anti-war message",
-   "source": "AP News",
-   "time": "2026-11-13T02:59:00Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ2FGNThpbUZjMzkwSGxXLWxBUDVpNldrRGhfNHhKV29wRHlBN19LRWxDYWdUU29wUy1Wb0d4U1g2WnlZelZoa1ZiTlZQdGgzb2swNlBHVkpGNjFhTTZnWS1VT0xXQk1YamtjZ2ZEVlJjakV6ZjZTMkZxOF9YNC00Y3RmQV92a2l1QlRMcjdqNngySkFXZXdJVEluZ3lfdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Dollar near 19-month high on Fed hike bets, Yen tests 160",
-   "source": "CNBC",
-   "time": "2026-11-13T02:57:00Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVm9LRWJubjlXa0RJQTFwZ0J2Y2gxV1Etd1F2VEdJenNVSGJudkE4SzJqdVYwSDBQR0g4TGJIRzJQX1hnaDRPSVpfbkM3NnB2bjBaRFFpWFhoN1lMNTNQeVBwRGwtb196YS0yR3ZpYW5IaWRDSE1jcHNST1dobzJFR2ZkMzNPUDRCTWx2eG1NU19iMlFSUm9vY19jM2M0d9IBngFBVV95cUxNVm9LRWJubjlXa0RJQTFwZ0J2Y2gxV1Etd1F2VEdJenNVSGJudkE4SzJqdVYwSDBQR0g4TGJIRzJQX1hnaDRPSVpfbkM3NnB2bjBaRFFpWFhoN1lMNTNQeVBwRGwtb196YS0yR3ZpYW5IaWRDSE1jcHNST1dobzJFR2ZkMzNPUDRCTWx2eG1NU19iMlFSUm9vY19jM2M0dw?oc=5",
-   "tags": [
-    "FED",
-    "USD"
-   ]
-  },
-  {
-   "title": "Gold Holds Drop to Near One-Year Low as Rate-Hike Bets Increase",
-   "source": "Bloomberg.com",
-   "time": "2026-11-13T02:50:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT3F2NGZ0c25jVUdYLU1WVFUydUJtUHQwWm9uTHlQbG10SHFHLUpZUndrUzZNR2ZwRFBqMUdKNDQ4NmlnY0dDS2hjR3hkenpsZlo1Q3Q2Q21pV3c4dDRFNmdSTnJPejNNR191a1RxVFd5dDNIYkhrb20wcWRRREFCTHFlOXJ1cXZGRlFLRC0ybWNyS0sxODJoWTBBVlFCZDM3S0tSdm9BREUzSVZnQzRiOXc5OXY?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
-   "source": "Al Jazeera",
-   "time": "2026-11-13T02:38:46Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQk5HZ2otLXgxVjM2Y2t3MVVGZllBYWlRUTBIYjJZb3FGcW15b0g1ZUlfR0FQT2NTZGhUcFpGR1JYczNaT3hucW91SE92U21TMW9lZEtkdUVTQm1hYUx1WmFJYmFzODdaUXFRSjV1aXZ5VzBRYzhrcHhvdTBMNVF2V1ZPTVhoWVN1dmdWRUUydWFFQi1mblE3a2dhN3ItSHhIWkNKSm1uMjVhS09NbW9na0VR0gG3AUFVX3lxTFBZTDVsS0F3WXJrQ1VlTDd1dUgzWC03ZlFSQjdSMzUyNG9JUzhzNW8wbmc2YXBiM1ZXbjlLa2NZc3VTTWtKY09QeHNOWHlFQl9mbVp2aFFId1JtdEFwb1N1WWc2c1VqYTJaX0U4ZTNjV1d4SUJJRW9WckF0Mm1hUVFQWENJS0xiYUNOTnRGdkk3WkRSZVJRUWxrRHlzN0JIX25ybzVCNk5ob2FjWEpobHJBblJabzhjdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "UK car industry to press EU for two-year delay to Brexit EV tariffs",
-   "source": "The Guardian",
-   "time": "2026-11-13T02:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNclBHX2hpMnhLM3lFQzcxRlk0RGJPQTdaY1ZDaFZjMGhyQjJTWUpERUhTQk9rYTZtWDA3TExWRGg0WDE0YWZKZ3RMT05WYURuVWt1ZmJpTUZlR1NzcTluYk5GV0ZKbDZWRUk0cmRhdUt5WHNpbURZT3RxMEM0blpCd2Q4R1B6ZGlTUTZ6NkJSRjRwVG9laDBEVVo3NmxFWEdxdTZJ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Second world war ‘brain’ bunker in cliffs of Dover opens to public",
-   "source": "The Guardian",
-   "time": "2026-11-13T02:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbVNQNXB0LTZ6SGxoT0dDd25TN1Zpdk1adnc2c3g3MDl1c3FpTU9nUWNjTGpOOE1sdWtkcW5wVGpWekR5N3FTd1Z6R3RNVHBtVlhUSkV4aUprRGNNblBZSXpHMHBOTEtmLVFyV2RCREhVZlZ3cm5oaERVRmktTUs3UFBWN0JHVC1ja21Td09QTV8tVVRnQjdyd2NlT0F3SGRuOHZB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Chinese e-commerce sellers brace for Thai duties. Will a 30% tariff hurt sales?",
-   "source": "South China Morning Post",
-   "time": "2026-11-13T02:19:15Z",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV2VYUHhLRUU5Q0F2cEVFbmtGRW1falRSX1dOVkFJMzVLMFFLc1M3bTJPbVRsMkh5Q09kOFpXOTBoMkR6OVRxV1A3Z016QUI2SmlqX0o2a2VBZnA2Y3NYWFFSLWNkaUw4aXRWTklwLS1yM1NhQ0ZqRHRyYUlKTHY5bWlzRzdGcHlLem9PQ2U0UHF0bHpXVDV4VHVUcXJHLXNodmEyQmRVVDlDVDdrRXhSWVRfV0d6Q3kzcnh3X2tlc3NUREptRzFkdXliNko0TlhDQWdoMTUyaDjSAdgBQVVfeXFMTm1TMzgwOFp2dG1HdUYxSnhuT1dmRkpPdjBzcWpsX2V4MllGMjRYTHl3UEZOeE5QQm5idUtOa2RpblJuOWFiMGFmdjRmaWhqcTRqN3hLWHZGOGI5VGtLOGs3S04xa19nYUxneWdUck0yRV8yQnI4RVZhOEZGc0YtMk5PWlY0ZEpPUU1BTlRHeHB3SzUxdl9ud0lGdy1Zck9oZ0pnbm5TWTh4cnIyY1pZdFFGWTJxejBJa0JLS3RWcl9hMnFxbnltc25KZUdMRUd4aEJVU0hrd0lR?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
    ]
   }
  ],
