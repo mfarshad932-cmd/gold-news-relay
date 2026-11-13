@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-11-13T20:55:55Z",
+ "generatedAt": "2026-11-13T21:24:02Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 4
   },
   "fed_monetary": {
    "http": 200,
@@ -43,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 10
+   "kept": 9
   },
   "investing_news": {
    "http": 200,
@@ -53,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 3
   },
   "cnbc": {
    "http": 200,
@@ -67,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 25,
+   "items": 26,
    "kept": 3
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 12
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -82,32 +81,32 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 33,
+   "items": 35,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 28,
+   "items": 30,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 12,
+   "items": 13,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 31,
+   "items": 32,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 4,
+   "kept": 4
   },
   "gn_yields": {
    "http": 200,
-   "items": 35,
+   "items": 36,
    "kept": 12
   },
   "gn_oil": {
@@ -127,12 +126,77 @@
  },
  "items": [
   {
+   "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
+   "source": "CNBC",
+   "time": "2026-11-13T21:18:30Z",
+   "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Agencies extend comment period for proposed third-party risk management guidance",
+   "source": "Federal Reserve",
+   "time": "2026-11-13T21:15:00Z",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "The trillion-dollar mistake corporate America is making about retirement",
+   "source": "MarketWatch",
+   "time": "2026-11-13T21:09:00Z",
+   "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+   "tags": [
+    "USD"
+   ]
+  },
+  {
+   "title": "NPK: Defense growth and tariff refunds drove a sharp Q3 earnings rebound",
+   "source": "TradingView",
+   "time": "2026-11-13T21:04:04Z",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdmwzZGdzM1NyREZzNjFld2hEbl9yemRjN3FjZXU0anhaSGNMOU1tYTlxZ3BxeTRJLTdaZ0lJdGZwanpvYVlYUXlUMjdoMFVxanozek9wNEZmX1M1SjBoN1ZLcXNuTHJnc2ZmSWVGVUdTWjY0WDFHTkUyTklISWZxOVY0dnNOUFYta2JEV0piMjZobW8wclR1aWNYVHdXOGxGQl9JQWo1WjhCS0Nwa2lZRDN6TWxZdnBkQlJmbkFLNnhIWG0zRUVZcHlDNVlWcWFoQnlzMmdwQ3RXNW8zem5UaWJSWjBmS0dYLXc?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Trump falsely claims ‘nobody’s been killed’ in Iran war ‘in the last five months’",
+   "source": "The Washington Post",
+   "time": "2026-11-13T21:01:53Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQS1tR2VKQnFreElVRlU3T2piQUNEQmRZTER3ZV9yZlFNc2VpUlphUDNRdVJGemtZaWwtdlp5WWRLeFNyaVZsSEppQVVvM09hcTBCMXFtOWlmU0VFeUpfc0hBbGpzTmo5dGJwWmZKLXBIaUVMRmo3M0ZDNnhRUENnREVZUXpFRjJMZ09DRUc4dmplU0lUWGd0dUplUTk1YWZpVEZHXzdrMFVSNW1CMmR3X2pCQV9pRGhyNkE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Kevin Warsh’s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
+   "source": "WSJ",
+   "time": "2026-11-13T21:01:00Z",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWREYWtpWllac2NUdW9FOW1tdXZrTS1FclFzZnA4TEhkOEFJQ0liTEZZdElXbU5BUHMtTnNVME1zYUVpWHY5VXZmM0Z4YWRMY0U4YzVFdldTOEhEQUpSSnluaXNNM2VVVlQ0YnNXR0hUNHRhM1gwSWhtZXl3QlB2QXR5aUVXajZBTTlRdDhB?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "Gold Breaks Below $4,000 as Rising Yields Redefine the Macro Trade",
    "source": "Investing.com",
    "time": "2026-11-13T20:46:00Z",
    "link": "https://www.investing.com/analysis/gold-breaks-below-4000-as-rising-yields-redefine-the-macro-trade-200691560",
    "tags": [
     "YIELDS",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Price bounces may be traps as Fed rate hikes could drive gold down to $3,200/oz – StoneX’s Pavilonis",
+   "source": "Kitco",
+   "time": "2026-11-13T20:45:15Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVTRSTldzM0ZRZjRNM2ktRnZjenYwSG5nUkFCdzZQNFlBcDlqcUxJalBxOFJwaGZaX1RldkJrMFl1VUxFdU5iV2RFN2xqMTlqQlk4UGtpVklxVDVYT0VXTHhCTUN0cTFOWXVJcTNqa3ZETnprRXJpQ0lDTXpjUzdBV0t4WUstWDZwRTgtV0NsMGNMRVZWcEJQM2JfVE9oU29OZERJOHR3a3dmVV9nU0ZhUnFKb3ZGRXM?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
     "GOLD"
    ]
   },
@@ -153,6 +217,25 @@
    "tags": [
     "YIELDS",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Gold's $4,000 support breaks as Fed fears grow; analysts eye $3,800",
+   "source": "Kitco",
+   "time": "2026-11-13T20:24:26Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOamVpVk9OcXdFVWlWTFVUTG1xendnVlZLR2NId0llYnVBa3U0UGlnZ3NsV1JMUVhCeEdwT3AwdGgwdF9QYk4wZ3ZFWVpUQjFCblBhYzI0Q1BNc3NONjRiSkpCc1JhQTJfcDVrR2pSOHhya0I1QWhCOEMwdS1UX0hHQTJEY2piYWgzaGRDTWRLV1hJaGJiOHlQdzZiZ2xGQV9fUUtDM2ZESQ?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "US declares three Guatemalan gangs to be terrorist groups, imposes sanctions",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-11-13T20:24:24Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdEdycHpqOWdHeFRQb0ZXTVhRTEMwWk1mdVJmY2xsWUtxem9UQ3pSa0h2c1lzaTlvVFNPaFdLTXBCSXU4SmNMZ2w4ejJWZmIwSUtwVTAzckpwdnl0bGQtYzhVVk5YV0lfR2MwS2Z6ckUzc1ljYVZDcC0yLUxTZGtNeUFUVFRiWjNOazRLdFdRbHFibWU2TF9qNmo4eVJ6ejR5ME5MWGhXZFNXd9IBrwFBVV95cUxOcW94MC01aHVjeThLdW1JV3NBUWZsVy1qT1NXbTR1bF9KSGJkVlRPZDlkeDhVbVVVR2s0dGJLeFYtTU1Zb0Y0eDRhVjFRcXpxVzZ2NFJxdm1xeTlJWng0TWtwV0dKYmdFOHR3eXV6XzA5cUR3ZC13RHZPazhSdzNHTnBzTjdyVEVTOHRqeU9KWTBjVXFrdGZRa18yOVF4SExUNmF5WnVQR1c4dTA0MFVz?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -226,15 +309,6 @@
    "source": "The Jerusalem Post",
    "time": "2026-11-13T19:52:26Z",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxZWZSRzZ2dktlYU1HMXRSWjdDSkNJRnhnbzdhX3ZRemExUUNrVXZmOXBKU0RfV1h1U1QyaHdhbmQ5MkVRbzhxNDBGdHBDNFI1U0ZENXpCX0VzYmE4Q3Rn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump falsely claims ‘nobody’s been killed’ in Iran war ‘in the last five months’",
-   "source": "The Washington Post",
-   "time": "2026-11-13T19:31:53Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQS1tR2VKQnFreElVRlU3T2piQUNEQmRZTER3ZV9yZlFNc2VpUlphUDNRdVJGemtZaWwtdlp5WWRLeFNyaVZsSEppQVVvM09hcTBCMXFtOWlmU0VFeUpfc0hBbGpzTmo5dGJwWmZKLXBIaUVMRmo3M0ZDNnhRUENnREVZUXpFRjJMZ09DRUc4dmplU0lUWGd0dUplUTk1YWZpVEZHXzdrMFVSNW1CMmR3X2pCQV9pRGhyNkE?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -328,19 +402,19 @@
    ]
   },
   {
-   "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
+   "title": "If Gen Z are asked to go to war, it might not be in the way they expect | Brief letters",
    "source": "The Guardian",
    "time": "2026-11-13T18:38:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWnhISG1CdGRualRiNS1jeDA2NTZUeE95VndJWkxHdDZhQVJLc1Q5YnIxSmN0OFF6eDBXZ1ZNNzJnUVdrdE11enA0TkpMQXdadW9HR0dJSGk1TDBzbUpXWUl3emt5bk0teUJndXVxaWNMX1RNR1NhOUl4UUtxZGtnRW9xNExUMkZ2bTRkRnpsV3FEVXpSVF9xQTMtTHYwUUVEUk8tZmJIS2ctb0kzQ05R?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWYtZXR0ZWlzYTc3Qi1PZ3dhNFRMQ1JYTDBpOHN5a3NVVHRieWZuTnVDbEpoTm1pMURvcVFFQTNjN0FEWmlBSEtzNDA1WWFJWENLUXJQck43eEprQlQ3VUlORWZ1cWJPbWVqRy1lNDNtRVRHT1JXbkZ5N2M0ajFBNnJXUW42UW9GNFpVaHlsTjlOR1pMYV9MZ25SZUc1ZERpTGc4OUJ4Q1hGN0VtbFRsY1NRbHZrSlk?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "If Gen Z are asked to go to war, it might not be in the way they expect | Brief letters",
+   "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
    "source": "The Guardian",
    "time": "2026-11-13T18:38:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWYtZXR0ZWlzYTc3Qi1PZ3dhNFRMQ1JYTDBpOHN5a3NVVHRieWZuTnVDbEpoTm1pMURvcVFFQTNjN0FEWmlBSEtzNDA1WWFJWENLUXJQck43eEprQlQ3VUlORWZ1cWJPbWVqRy1lNDNtRVRHT1JXbkZ5N2M0ajFBNnJXUW42UW9GNFpVaHlsTjlOR1pMYV9MZ25SZUc1ZERpTGc4OUJ4Q1hGN0VtbFRsY1NRbHZrSlk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWnhISG1CdGRualRiNS1jeDA2NTZUeE95VndJWkxHdDZhQVJLc1Q5YnIxSmN0OFF6eDBXZ1ZNNzJnUVdrdE11enA0TkpMQXdadW9HR0dJSGk1TDBzbUpXWUl3emt5bk0teUJndXVxaWNMX1RNR1NhOUl4UUtxZGtnRW9xNExUMkZ2bTRkRnpsV3FEVXpSVF9xQTMtTHYwUUVEUk8tZmJIS2ctb0kzQ05R?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -407,6 +481,15 @@
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTDlXZ2k1X1dnTzA4WnZaSWh6NTV3c3lLUmhhcF93V1lSZ2xfTDRHZFVQZzgxajU3U2U3QWhDTnhvWFJBQ0YzQTdHb2hjTDh5VFZ3cFlMNWNmSUZ2MndEa3lFOUxET2Zfdk1yMnY4eGZHX2NCWHBlTzgxR2RjYUpJYTZ6TnIwTGFmUk1ZRUJqNVl0dDBWNEdfVldYclZ4Mlk5Mm5lekJfVkpteWVhVEZPY2QwaXpLOVdMSXRMNmlzMW1VQkFiQXJSQWJyTmUteWFDbXFV?oc=5",
    "tags": [
     "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
+   "source": "Kitco",
+   "time": "2026-11-13T18:02:24Z",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
+   "tags": [
     "GOLD"
    ]
   },
@@ -504,6 +587,15 @@
    ]
   },
   {
+   "title": "Stock Market Midday, Nov. 13: Nasdaq Plunges as Nvidia Turmoil Deepens and Treasury Yields Hit 5%",
+   "source": "Yahoo Finance",
+   "time": "2026-11-13T17:35:01Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeU1MbkhnZll4OHpIdGV2VlI1ZVFhWGhKX1F1bnZvWVRGWnVkYnBfcmRIaG1PRzcyN1pTUFJzY2VWVzRMN2VqNjQ1Tkwyb3E5bGpQN1NOcTFnTVFQVmdPRjdZX2h3LTh2d2F1Y1F6SW5JWTVPWmRwXzBsVlpIbGNEWTBZLUhaRnFIWTVIY1gxSVc0T2J0blE?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Gold’s $3,850 Weekly Support Matters as Real Yields Climb to 2.86%",
    "source": "FXEmpire",
    "time": "2026-11-13T17:34:30Z",
@@ -521,6 +613,15 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
+   ]
+  },
+  {
+   "title": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+   "source": "The New York Times",
+   "time": "2026-11-13T17:22:00Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GVkpKYjhub0lKY3JLamNqdW91aWl4YnAwbVZZV3J5YWR6b1k4SnBXcWRkOWJSOUdFcXlLUHl5WlNuYU1tNlF2TFF4bkxudVVtYUVIWG0wb2RRR0J4YkQ2eWRpMUxOdzFldHRfT0hPMGpSVEhHcFRTT1QwSENIckk?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -582,106 +683,6 @@
    "source": "Al Jazeera",
    "time": "2026-11-13T16:44:56Z",
    "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Dollar Poised for Best Week in Over a Month on Fed Hike Bets",
-   "source": "Bloomberg.com",
-   "time": "2026-11-13T16:44:22Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOHh5SEF6X2tQTUhkaEpDZk9SWTB2Wk9BTEQxVzRsQTRtOTl3YUswQ2VVaGc2TmQtT2cwRE55SmM2S1BtTFlNMlRmLWNrdklpekpnQV83SVdGOG5PQnRMdEF6NG4zUVZ4NDFNd0xWUU0xNDlwTEdCWWoydmg5aFdZNC1zVU5GOEdlMzFZRlVGckI2OFRJRTdhU3hjNG9TQ0NDWFN6MEFDQW1iOVF3cWJSQQ?oc=5",
-   "tags": [
-    "FED",
-    "USD"
-   ]
-  },
-  {
-   "title": "onsemi, Seagate, Amtech, Impinj, and FormFactor stocks trade down, what you need to know",
-   "source": "TradingView",
-   "time": "2026-11-13T16:40:44Z",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdjc2VmRoenVVSXJFRVF2Z3dRRFg5QmhoYzc0bzJtbVM4T1BiaXlBemhaeldjSWFYeTM0aGJ1b2FSbllENllKV19XeHlyYUQtX0ZMUUFnZXdPVTVBbmZIYUVLWE90UUNkUFpqRjBHX3RHNkh2aUZXck5kOUk5TnJ5U05kSXZWb3lTLWprZjVOak1jNzBGTUdsaFBhTERzbTNnTXJKVHh5MXVLNDdCU3BDRVZuRGV5ZERVSUxsMzJoWWdpWTVUdUFERFZFNXh0MThTOWk1NjNPYktocXBt?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-   "source": "BBC",
-   "time": "2026-11-13T16:40:31Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Jerusalem Daily: Baby dies from cold in Gaza",
-   "source": "Al Jazeera",
-   "time": "2026-11-13T16:34:24Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/jerusalem-daily-baby-dies-from-cold-in-gaza?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed's Collins says more rate hikes are coming, Bloomberg Television reports",
-   "source": "Reuters",
-   "time": "2026-11-13T16:33:43Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSldraUpPcktUZ2pFallHdjEzMjVhR1lwamJmOGtUeEp2ZnVnRUFCT0ZzX2daQlJFVWZPbVZVZGpKWmJWZXM0Y0xBamxoUzNzNGRpWlltbjdZdGVDVUNGdGx5QnVhbDhQbGZDVFNXcXMwd2RpektRbmRpRlI2SXdmd1BuSTZrQTN5UF9tZzBsQkl3VWhNLURRQ2dWNDhiLVpad0dUUXBQbk5xbFFYX01SdC1yZlY1N05BT2RqbA?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "Fed's Warsh to take stock of AI revolution as US public grows wary",
-   "source": "Reuters",
-   "time": "2026-11-13T16:30:03Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkQ4OXhSU2NkMHBKdUJoR3UxSHZZdDcwX2lwRldpTVlTdWstUGdDMExnaDVjb1ItV2kyUlNGRnlNbS04ZDVWX1hrczMxOXRnTG9MWUxFRXBMNFc5UkYwMnpFOGZsTG1KcTB5dGdlckdHRmFrdERaT1VZWkJKU0JhMER4czlvUEJXQ0JxalhaWUxyQ0pfaHh6WHZlUW1GYVBpb3RxQXVUMVpzMGc4c0E?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Investors Warn Bond Rout Isn’t Over After Week of Soaring Yields",
-   "source": "Bloomberg.com",
-   "time": "2026-11-13T16:30:02Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWjhkdkdUYk85b1djY25EQk9aY3VBUmdlZGVpS251di03VTMzaDRvVHIzbEZBcjZSSlNvMDNXdXFNX3A0QTB6TFBXRndSdFFyNXBwMXRtRmZIcVJySzVXaEZDQ25HN0ZDOGZtbkpibUZ3UDZPUWpiVWVLMU1hVzk3X3JwQ2NxVXo3WkVWMnhqandnNUg0UjlnUUNSTkUwYjFLd3ZBeEFBel9yT2h5WVRObU0zYw?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
-   "source": "Al Jazeera",
-   "time": "2026-11-13T16:25:38Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0IzNVR6Xzl2Q1NFaVdPY2xCWU11YzN4SWVTc0ZOV2FjRmV4QVZXQVctY2t4S2JJN3hKbWhfbjU5dV9qR2lxTGxZNVpFNTNlNEk3bm1PRGxOVjlrOFdMZE90cHFnU0xCMlFzci1Yc2c1SU9zMUEteUEyUjZ2YnV4M2hici1ZMmRDdzFqNjBuM05kNW1takVSYlg3Tm9NV3l3QllqdHRGRDNMUEVtYzBzbFAxb9IBuAFBVV95cUxQcDBLU1RQR0Etb2lQbm5kOEhlYVpseTJSazRLRWlWb1FIUjFLQ3YzY1p5Y0Jfbk13bU14a0Y2YVYwaW5vdkxEeTdwZ3dHMUdZSGhrNVpuSXAwWjdVTHdOSFg3MVhNMmFyZ2F4YUl3blRWbTN5SjhhcXJodVE0TjF6NlliUXlQV25kMFczalZvYmhINU00aWNNRkZNeGUwOWpLdkNOcHYxenJ5elU2dFpuRG83dW1oaGsx?oc=5",
-   "tags": [
-    "RATES",
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Earnings week ahead: Nvidia without Jensen, Anthropic’s IPO, and the consumer meets a hiking Fed",
-   "source": "ForexLive",
-   "time": "2026-11-13T16:22:17Z",
-   "link": "https://investinglive.com/news/earnings-week-ahead-nvidia-without-jensen-anthropic-s-ipo-and-the-consumer-meets-a-hiking-fed/",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "US denies Iran’s claim it hit two radar sites in Bahrain",
-   "source": "Al Jazeera",
-   "time": "2026-11-13T16:21:45Z",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNay1kUVVvaTJ4b2FManZ4aVVnSDhvQzdZRDFQa3FSZlRsQlJ6cGY5bVhwMkM0TGlWQ0FwYVg3bXNORDM4ZjI3dzR3Qy14a3hBSE9lRXZUaDhydHlzOWozdUtieDl6dl9Gd3JXdHUzUUdKRWV0WXczNm1jd0RaQ21Vam1CMk5CVVF2OGx1ODUzUdIBlAFBVV95cUxQZk1ES2dVRlM4NU1ENWxJalhucE5CY1FKQXdMTXEwdFFuYmVxNkRKbnp1TDdicmh3bDk2TWNiaFhUNXhTMy1nV2JVQnFFMlFUSVViYUV6V3ZrMEJLTW96dnJ3VC1DZ29ld2ctV002aklRSWpvcWR6RFhkdFpZeFFXZ3pObjdSZG02VDZIdVc0VGZMcVBr?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Kushner: Russia has agreed to include Europe in Ukraine war talks",
-   "source": "The Hill",
-   "time": "2026-11-13T16:19:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVkhxaDNwRGpLNUlfN3ZacEZSSEZQcVh0WDhxVjRxY1YydUlFZGpsU1ZiVDdlQ2JaYUF4MEdfZHJXclZIU2dlb3Z1TldUcTJ1dFplaU1yT1JLWktVaEN3MmZUS04xckVnMUFSZ1dpVzhCWHplRWVjbU5VMVROTVVtVV9wM096dFZUOU9lUtIBkgFBVV95cUxPeWVGS3lTVFpxb21FaXRJa0xXak1wX2VKU0tNLTVUM25zZzlDOGhiY1BzOWJURFdEbUhoZG1Zdzg4VzU2N0JScGhqcTA0NW1DYXNQYVFRdU9HZ0Rad3phZTljNGhLa2pnYzRVbVVhaU1vN015YUE4allCNmVjNTZld2hyUEZXbmVRVGVJZXJoX0EyQQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
