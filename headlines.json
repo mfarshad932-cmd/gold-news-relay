@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T13:22:15Z",
+ "generatedAt": "2026-11-13T13:50:44Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 6
+   "kept": 7
   },
   "marketwatch": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -81,17 +81,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 28,
+   "items": 27,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 28,
+   "items": 29,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 18,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 40,
+   "items": 33,
    "kept": 12
   },
   "gn_oil": {
@@ -125,6 +125,80 @@
   }
  },
  "items": [
+  {
+   "title": "Scoop: Israeli spy chief in D.C. as Netanyahu presses Trump to resume war",
+   "source": "Axios",
+   "time": "2026-11-13T13:47:49Z",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0RsNzRSR3JhRUdIYkdjZ0VGRFdfeGJkUDd6NzRmV1FWMVRtSGtHYlFCQTZoRElpN2pBcmF6OXlQblJDaXlIeElKRjRXaXdvSkZNNGJTc21GaTdDTzRnUlJJcXVRZWx3N1pRYkhTSnZTNHVmc3VmQ19PdEttQ1FLV0t3dzd5VG1z?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ten-Year Treasury Yields Again Spike Above 5% (NYSEARCA:SPY)",
+   "source": "Seeking Alpha",
+   "time": "2026-11-13T13:43:14Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZzdSREVCX0xhVVlvb0c5Zkd2ZkktS2o0bk5kWlAycW1hNVpMUXpMX1Y1bTc4cXMxSGJGLWF0Mktza0lMRzE5cmdwZDdYMnBtVDY5N18xWFBzNnRpZzhnbFVxazM5NW9IOWdrVmRtdF8zZ2Zxek52VjAzeVdVS2NnUFFmYzRMdkZjQkpqNW9PTXRrM2VsbHdqeg?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Gold prices testing resistance at $3,900 as producers prices continue to rise",
+   "source": "Kitco",
+   "time": "2026-11-13T13:41:43Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYTJXSmhXUnloUXlYdDVsM2xlZXUzWXRHSDhPSkc4N1JkY2w4QXBpZ0Z1ejNGby1BNzM1dFFYRElScGdZUTN3WU5uaVpTQ2ZSOGxhTjc3ZUREek9NeG9peEVqczh4a090R1FpelpSUU5mZWF1TGhvQl94bDUxbG51VkR2OFdlelVVYlVBOWxoZ2t0NnBMVU5iQ3VmVGdfSFpqRHN3YXpiSzlWMks2NG9jUw?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "U.S. producer prices rise by 6.5% year-over-year in October",
+   "source": "Investing.com",
+   "time": "2026-11-13T13:37:37Z",
+   "link": "https://www.investing.com/news/economic-indicators/us-producer-prices-rise-by-65-yearoveryear-in-october-5025495",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
+   "source": "The Guardian",
+   "time": "2026-11-13T13:37:00Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNndNZUdKRnhDVGRkRE85YjZfUG1pUFd5NlVkbjBhbWZaTjZqZlRCU3RmMlBzR1ZjMmJpZi1jX2FvT01wbVc0ZDNaYm9YZUFTZm4wX29QQ3NLN0VpVS1CUjRBVm1GeWlHRk8yb1R4QkMySE5HUjdMUEM3OGVXdU5XM3lORndmX1RwRFdEbkZhalpnVmdONXhJYkR6bUpDZ2xfTXB1MlNuWDNFOGtPSFh0NzF0OWFYSjFBdU1hdVNqQnNSbUdMMi1JZW9vV1UwUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Oil Imports to Asia Rebound as Gulf Discounts Outweigh Hormuz Risks",
+   "source": "Investing.com",
+   "time": "2026-11-13T13:36:00Z",
+   "link": "https://www.investing.com/analysis/oil-imports-to-asia-rebound-as-gulf-discounts-outweigh-hormuz-risks-200691529",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "PPI data reveals slight dip, indicating moderated inflation pressures",
+   "source": "Investing.com",
+   "time": "2026-11-13T13:32:09Z",
+   "link": "https://www.investing.com/news/economic-indicators/ppi-data-reveals-slight-dip-indicating-moderated-inflation-pressures-93CH-5025470",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Iran says it destroyed US military radar in Bahrain in retaliatory strike",
+   "source": "The Guardian",
+   "time": "2026-11-13T13:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOejhqODA1c1hwY0NTYTVMYzJleE56MnNCSlkyb09lcDRkcUZEXzRRbmtReWJjLWlrUDlNak94OXZIUjYwZ21YMS1OZlJ2ZzFIeUNYRWJLMk93RUVYV3ltMnBGcVFlNzJGRDhOMHZ5cnZ0eTV1VUlFdHlBMnUwN0FwX2FFdkpCVFE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Integra Resources: More Delays Ramping Up Florida Canyon, But A Very Compelling Valuation",
    "source": "Seeking Alpha",
@@ -252,15 +326,6 @@
    "source": "Al Jazeera",
    "time": "2026-11-13T12:10:08Z",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNlEtMW5yVGdQUktZYnZqbnlPM3lmQzVOdUtGV3lhdl9pRWl2VWtHT0pGVFkxcDhTZTVsZDJlVWlpMm1FVTVUTVhNYUhjQVAxUEgyU3hRekhVcldURE5kTThUQVZBbkRqdGFaZTFtczAteGVlT3Z3WXhoTXVReXVOalBwUEJXU09HcW85Y0lWMjgzVDZXWURBRWl5OThDckpDODQ2b0Z6Tl9kZXpFUkRtb0930gG3AUFVX3lxTFA5OVpRZ0NQa0NrV0NsQzdKQlZZTzVPc2htVjFHd19qTUZNRTBRX0RGUlF4cUJUUXNCZGtoY2pXdm1mV2QzQ1ZYVTJ1ZXZkQlFtSm5VYTBJUjVsOTdNeHdhSk9fbHRzVmViSUdDME5NbHJPbUE4WFlLeFdxVUZHN3paUUFuUTNyVVpwcF9nekQ3NDAtazlqVkVha0NoRUg3UGUxd0FiWk5JeUdWQ3ZqX3RkNU95REtvNA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran says it destroyed US military radar in Bahrain in retaliatory strike",
-   "source": "The Guardian",
-   "time": "2026-11-13T12:07:00Z",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOejhqODA1c1hwY0NTYTVMYzJleE56MnNCSlkyb09lcDRkcUZEXzRRbmtReWJjLWlrUDlNak94OXZIUjYwZ21YMS1OZlJ2ZzFIeUNYRWJLMk93RUVYV3ltMnBGcVFlNzJGRDhOMHZ5cnZ0eTV1VUlFdHlBMnUwN0FwX2FFdkpCVFE?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -418,7 +483,7 @@
    ]
   },
   {
-   "title": "Treasury Yield Surge Shatters Hopes Worst of Bond Rout Is Over",
+   "title": "Investors Warn Bond Rout Isn’t Over After Week of Soaring Yields",
    "source": "Bloomberg.com",
    "time": "2026-11-13T11:04:00Z",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWjhkdkdUYk85b1djY25EQk9aY3VBUmdlZGVpS251di03VTMzaDRvVHIzbEZBcjZSSlNvMDNXdXFNX3A0QTB6TFBXRndSdFFyNXBwMXRtRmZIcVJySzVXaEZDQ25HN0ZDOGZtbkpibUZ3UDZPUWpiVWVLMU1hVzk3X3JwQ2NxVXo3WkVWMnhqandnNUg0UjlnUUNSTkUwYjFLd3ZBeEFBel9yT2h5WVRObU0zYw?oc=5",
@@ -556,13 +621,20 @@
    ]
   },
   {
-   "title": "Trump’s tariffs face a new threat: Republicans",
+   "title": "Trump’s tariffs face a new threat: Republicans | CNN Business",
    "source": "CNN",
-   "time": "2026-11-13T10:00:15Z",
+   "time": "2026-11-13T10:01:21Z",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
    "tags": [
     "TARIFF"
    ]
+  },
+  {
+   "title": "Bessent: Treasury has wanted Megaspeed restrictions for months, but Commerce is in charge",
+   "source": "CNBC",
+   "time": "2026-11-13T10:00:26Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaTIzZHZCSGlfZTAwY0VGY1hwZ0stMC1fblpqQ1N1eC1tWHRFazYxeDMxcVIzdEs0NXNUMVRhVWdJTVhOc2ZQcmQwaUFkOVJMZDVJTG5kUlE2aWtNYnljaHlqU05HWjFIUzl0MTJ1UzZGYk11SU5mXzJuTmxwOWFqbHo1TnkwTXZpMFA00gGQAUFVX3lxTE9QZHhGMjFUYWFSaGRxQ2lrQXpWYkdUTzJ6QmRUNFcxV092Q2MzbzZyMm9paGp2eGpEVEVXUzhsdkRZZy1GOFYycFVXYXFTVmlfZmlvM1EzUGh0TkMtU1dlZlVyd0xYemFaeDNYR0RYc2lhdTk4UTNsVjNJM2hXS2hod3dBTzBfYlNnT0dmLUk5dw?oc=5",
+   "tags": []
   },
   {
    "title": "Algeria test-fires apparent Chinese YJ-12 missile in Mediterranean drill",
@@ -610,83 +682,6 @@
    "link": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran Extends Blackout of Nuclear Work With US War Deadlocked",
-   "source": "Bloomberg.com",
-   "time": "2026-11-13T09:35:14Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTUd1cm1FVnVVVVRnNlNHVGRZZ21jejV5Umx3S3lZQTd1blRDOG5hSzBYR1J4T01OX0Q5OUZZbnp6aUg4T2VSM1ExVjdJY2dqYnpXOWl1YUxsbEo5dXdFRmp6TlhzLWpHaUx4X1pQVkhodkZBQnN2ZHNRaHZ2Tk1CMHJzQnpqTGtiYXIzMGhIanZiV1hzUUYzdGVJV3M4V0pGZkN1c2wzMElmME1fTUdmOA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Sand, sea and surface-to-air missiles: life on the Strait of Hormuz",
-   "source": "The Economist",
-   "time": "2026-11-13T09:23:37Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjIzMXU5XzlDRzZwb0F0OExKYnFKcEhwQ3J1QjFCQzBRLUwxb0ZfRy1GYWI2cDUzc3hSelZYbG5yRE5MbGE1QmF6eFFuQ1BZcnJsMXhUdnMwdHJuOHh2SnpKZWhESGRUQVFfblprUjhWNktCemtrRS1ZdFowTEswdlFaWXVpNkJzWG1Td0VGVHlVRlItQXpnUHJoekZlcG4yVG85Zm5UQklPVXgtczA3eXhGRXlreFNJTDFB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump Threatens to 'Immediately Double' Tariffs on Mexico Unless It Stops Migrant Caravans Heading to US",
-   "source": "Benzinga",
-   "time": "2026-11-13T09:08:35Z",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPc25lQlVaNjR6a0RHZ1JCTjJHVEdXSjhoX3hUekF1Tzl0bzd5SnI1eTN6Z0dOQzRzZXZ2OVhmVDNrcDRXZGdiSm1oOWhGWl9VQU1nX2JMa1dBWE1ZZ1ktR0tubVc3cm9CSGptT2tMX3MwRjJZSjFGU3ZUdFRfQ095cjRZcUNOekFFZnBrLWN3a3ZtZnFrem0xNHRTWXlTYmliS1pJc3RlLWxOMVRmams5cXhlYkxDb0dXU2VxUEpWcGI1aXJuTFE5S3FMT3ZtbmR3Wm5rX3RLNndYTV9JaVhKc3RkQkRsWTl2SnFFQzk1LXIwZ2tGaDRpYlg4WjdibUdVTEEwaTQ4dkt0MmtEdHZ3?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Treasury yields rise as traders strengthen Fed rate hike bets",
-   "source": "CNBC",
-   "time": "2026-11-13T08:50:43Z",
-   "link": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
-   "tags": [
-    "FED",
-    "RATES",
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
-   "source": "Kitco",
-   "time": "2026-11-13T08:47:51Z",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Holds Drop to Near One-Year Low as Rate-Hike Bets Increase",
-   "source": "Bloomberg.com",
-   "time": "2026-11-13T08:36:49Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT3F2NGZ0c25jVUdYLU1WVFUydUJtUHQwWm9uTHlQbG10SHFHLUpZUndrUzZNR2ZwRFBqMUdKNDQ4NmlnY0dDS2hjR3hkenpsZlo1Q3Q2Q21pV3c4dDRFNmdSTnJPejNNR191a1RxVFd5dDNIYkhrb20wcWRRREFCTHFlOXJ1cXZGRlFLRC0ybWNyS0sxODJoWTBBVlFCZDM3S0tSdm9BREUzSVZnQzRiOXc5OXY?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "French inflation rises to 3.7% in October, highest since December 2023",
-   "source": "Investing.com",
-   "time": "2026-11-13T08:30:58Z",
-   "link": "https://www.investing.com/news/economic-indicators/french-inflation-rises-to-37-in-october-highest-since-december-2023-5024441",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Higher real yields and stronger US dollar weigh on gold as Trump puts Iran deal in jeopardy",
-   "source": "investingLive",
-   "time": "2026-11-13T08:27:07Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeDhVazZuS1VLVkdGX0EyYlB3NXVReEtMaXJINk1oVDdwMzF5Q0pOUkhJRkc1WEowMHRIaU5BVmhkcHNYd3JDblhxTXkwb2g4eGkyalJPVUhxdFNpd0wyX0ZKVTRESEZMemVYV0FwNlNjekU1TXlpNzMtVS1ESEo0SUQ5eDU2SktLdTlfRm1WYTRCOXlOMkpkYWxCeGRtSFR1RnZFeWhja1Q1c2k5T29MZGJ1NmFOampQQmZhMUdzc0w3WE9XaUQzTHl3?oc=5",
-   "tags": [
-    "USD",
-    "GEOPOLITICS",
-    "GOLD"
    ]
   }
  ],
