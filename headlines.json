@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T11:00:25Z",
+ "generatedAt": "2026-11-13T11:28:45Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 26,
+   "items": 28,
    "kept": 12
   },
   "gn_fed": {
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 37,
+   "items": 34,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 30,
+   "items": 32,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,10 +126,58 @@
  },
  "items": [
   {
+   "title": "US Treasury Yields Rise Above Key Levels as Dollar Index Holds Near 19-Month High, SocGen Says",
+   "source": "marketscreener.com",
+   "time": "2026-11-13T11:17:37Z",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb004MzNzVzV6cld2a1RwTEdrT25BU2RBYVprdVRtOXlCaXNOcDhJZmxIRktuSnh3OVlVelZtRDZJVEdzb1pLc0FPalNHcjRhc01oSDdBRWVyM3pFeGdHN1lOZ2swUTkwbVFUam9DRUc5djA1b0lKaldwMHJVYy1rLU5HRnVXNjdjX1ZEUERDV1kzb1RwZkEyS1lNN2dIQUwxb3VBalp3RkhoamM1Y3EtaTNudGduNE44UEVHWDV4dmtQeEtqODd5QTA3clU0U2JxLUlxNTgydXZ2dUdkbzU0?oc=5",
+   "tags": [
+    "USD",
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Gold struggles below $3,900 ahead of US PPI data",
+   "source": "FXStreet",
+   "time": "2026-11-13T11:11:03Z",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQekpaVjlZbTJwWWQxTWVQLXV4VkZKeDR2dlNfanhvbjVMTUdTWHEyYUxCS2x1Mkt3aWJ2em1Cdm16SWlhNS16c3Z3eG9WRjBtRWRCOGJmcWNSUGhLN09LY2NxbUx6Q1FuaGpoZVdOT3J6ZlA4eUl0LVJWdEVEU0dCZ1dELWhWakFtcm04N0FBS3FWempF?oc=5",
+   "tags": [
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Most top Fed officials blame AI for fueling inflation. Not Trump’s Fed chief.",
+   "source": "The Washington Post",
+   "time": "2026-11-13T11:04:43Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYWx2S1gybU5lYjJCbEl5OXkyekl3YXdnd2RuWnJPQU9VODlSSnpLM1ZDeGVfT19LdEF4OThPMGZQM1NDNXloMzFGcjdmZDE4ZU90dDBuX2xsX2lUZTJjLU5HNEZCNnJJRFJQT0tmR2FwZVBXT1Q3cURtZHFTYTJtUDVOVHZESnNfWlBkZXdoT1pQXzNkYldpWklrdEZiRWxiVjJRaHNxOXpMVXhPOFR1ZERmc09uWXJEcWR1dUdKblUzQjdkTkM0?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Actually, the US Does Still Need an Iran Deal",
+   "source": "Bloomberg.com",
+   "time": "2026-11-13T11:00:05Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmh6T2Z6ZEYyOU9QZ1BHQzgzSXdiUGE0OE0yWm5oZGNLSVd6VDZqNWZOZHNrQ0hsYzhGM2RHSzZYNUh6c2ZpRVV3amRsbkd2cU1qYVl6ODFYSWRZYmJISnNDRDdmUEJwWXh6c2FGcVV6a2h4dHJ3czRRVENPOTVTcEFyN1BKOTRmdFlYOUlONHdTSWlyWEtkSURiaXpmU0R4Znc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "America’s Most Successful Small-Caps: Meet The Winners Of The Iran War",
+   "source": "Forbes",
+   "time": "2026-11-13T11:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMTUtNVQyR202RVpmcDhJMTQydUdJckVKdWhaUjA2ekNRalpGS1J5YjctemNxbzBoSG1pMzVoV0N6aW5SMXpHaVk5ak00RjVqRy1lUGo2aC0zNmVmZkdrOV9uMnBkSkNvOEhydEluYTVyQnBzRVF5RXkwM29tamw3c1RfRXk2TjdiTzlGejVlUG5FN0ZXOUV5R3QwNDZSaUExeXFKdDdWMWo3LVlyWkoxaWtPNnhSTUhyRFIxSWIxenRWRTJ3?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "That Haven Trade in Treasury Bonds Didn’t Last Long",
    "source": "Bloomberg.com",
    "time": "2026-11-13T10:55:09Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOXh3Z2dMMVdNUmZqRkR1ZnA3YWM4LVU4M2RKS2J2OFE5TXRxYTlpT0RMemZzN01XSVJzOVV3TWJJRmNtbUZ0RWQzRURwNzFwODVpcEh1WVFHWFU2dHhRM3o0eGU4WGFFY0JnMVJacG1oQklDelBBZ2xhaUpzX0g2aWFTRE8yaHhULWpzSEotZUFFSEdUeWVPalBlTlVxXzhMVjB0YlFVZmdUR0NNajlnVzJGUHVpWnJRRHhFSV9hRHNOYmhf?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcE43RTdfZ2FKdDFXTk9Vem9FaXBvYnlMT3p1aVUybDVrVTZ5cWE4SnMzT2tqN2kzY3NMdVRCbF9mdTVmMzlaVHJNNU0yMHdQWTAzeTF5d3dZbzFGc3czUFBUUWp6cmpIaUZMVEtSeWtOdGJWdm5Ka3ktN2E0YmNkM0dJM3BFVldEdWFqaHRsajZPclBqcmM2Z2dfQ3Z1bV9vVlczWEVIclU?oc=5",
    "tags": [
     "YIELDS"
    ]
@@ -141,6 +189,15 @@
    "link": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
+   "source": "Al Jazeera",
+   "time": "2026-11-13T10:54:25Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -173,6 +230,15 @@
    ]
   },
   {
+   "title": "At 67, He Sees 10-Year Treasury Yields Near 5% and Considers Living on Savings. Waiting Three Years for Social Security Would Raise His Monthly Check 24% for Life",
+   "source": "Yahoo Finance",
+   "time": "2026-11-13T10:32:03Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMVo3RFY0QjJPUmZZMzcxSEhUX2VIdV9hZ0tCWGpSUWptMGo2ZGhuOGhtMHdDRnpOcnpNX3ZESW5hajJOOUdPOXo1T3BzQTdHSDRLSy1aVlVvX3JwdlZJTWEyQnhWR1lZMEJ2SXA5X0E5QXJQdGVxTGdVVjJJVTBEVlZrRW1jVFJlQ1B6RWxQY2RfVHlDZDRMUXllWQ?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
    "source": "Al Jazeera",
    "time": "2026-11-13T10:17:15Z",
@@ -198,6 +264,18 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUdEakxtMWZpbTJoLTBTOGRoNElEcDFodXFDNzcyUEtVS2dJMU92anJoQWFpdjEwT042d3lRVExOcHpFdDdrZ3lNTWZ2dlp1dzdoVjN3YU5TdUJkb1NWTWZBNHhqOTlBVWNYTkRoS2tpUWRrMTVMVFlLMDN1NHB6blRvV3dkbERhZWJHSFM1enVSaGlsaHUzRVk2cTBSREp3aENrYVBCbTlteEpMMzd2U05n?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Rises Above $3,900 as Higher Treasury Yields and Fed Rate Expectations Weigh on Weekly Performance",
+   "source": "Yahoo Finance UK",
+   "time": "2026-11-13T10:09:45Z",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VY3ZrdHVmdjE0ZGxFSUtfeldueE5DMWVWb2ktV0hSREI0V1ZMV2pyOENkZThYTkl3ZGdFUlNmY2dnWXRHNnpaZmJWOUpUWjNsU0gxd2gydnBLTlRYMi0tZE5UbEZIZ2VSLVRoaEZialJXcHhlaTB3QWZ5dw?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "YIELDS",
+    "GOLD"
    ]
   },
   {
@@ -332,6 +410,15 @@
     "FED",
     "RATES",
     "YIELDS"
+   ]
+  },
+  {
+   "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
+   "source": "Kitco",
+   "time": "2026-11-13T08:47:51Z",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -607,89 +694,6 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY1Q4Q0VGMW4waV9tTTE4S181djVwVWRNNXlkM3JmMzJHQ3k5Y1RZUkhWZHFYbkw1YmdTdE5wQzNpbUhqbGFuVGwyTzlSNGNKR2M4RTJqd1RmRHZBWjA1S0RxVVFjOFFqeXhoZ0N0enRFZlIydlVuMHZaZW9iRUZOTG9wTkpQam9Rd3EwQzRfdlRzWE16TVVubkJDRDY5dDI5Vy1BMk1Ia29zR3preVpFUTBxdEVuZnRXLVh4UnB3?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war",
-   "source": "The Washington Post",
-   "time": "2026-11-13T05:24:36Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWdyUWhPQnRiR210eElwazFOZ2pyWWgxN2FWX09VU0ZSZUpFcVlweFllV2E4aF9CcXpwQkhybkVzMjkwdTBOY3JTRFBXdlZBOXVvU2l5cjBKX1Znel9XR2JJb0gwbVlQOV9TenpJUkY2ZG1YcXEtRWdNWTQ0MDJTM3pQdnRHSkE0WXlWQjA5Y2JXQkpUN2hoSkkyTXhrTE1FdnUyblFjWDdqWHZTMGM1LVU4V2oxZnpqZzBj?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Brent Briefly Hits $96 After Trump Says US Has No Need for Iran Deal",
-   "source": "Investing.com",
-   "time": "2026-11-13T05:20:00Z",
-   "link": "https://www.investing.com/analysis/brent-briefly-hits-96-after-trump-says-us-has-no-need-for-iran-deal-200691497",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Have Bond Yields Reached A Point Of No Return?",
-   "source": "Seeking Alpha",
-   "time": "2026-11-13T05:05:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbVYyUXNQWU9oUU9ERmhQUlpzWWhTUkRjSUZrbVJiNXluSG5XU3UzVGZJMDloRVdkbFM2MGRPc1NhNU1CTWlUOFE3ckN5d2NxNWE0MHlzOGw0TE9jb3NaVWdFSlF4dUtaZnZ2NnZaWDVqdTJvcjRoRVBucTlqWmI2S0VtOExGb2FIb2wtcA?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Man City to be hit with Premier League sanctions next year if appeal fails",
-   "source": "Financial Times",
-   "time": "2026-11-13T05:02:42Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2ZjcFNfb1JOeWtiZFloWDhmMlFwQ0xGQUpETU1TSE1wSTI5QW5uYjJoRFNZdkt6MExPX2lYSy0zVy1iOHExRXdkS21BaFM2YUFSSjMyaUF0NHFBQ1pkcWlnN3gya0ZzaXFRTkJrNVJMY3RGcTl5SHlqYXd5dWFQbWczR2Q?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Russia loses almost half a million lives in war on Ukraine",
-   "source": "Financial Times",
-   "time": "2026-11-13T05:01:10Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLTN0Y0Iwdm1YeWcwUGZZUDVKTXd0NW1XTHBqOVRhNzQzY3RMTWRYenhWcU9HazhCOS1mcWxjc29YOE1vQUdsLUxWNUtNM1kyR2lrV2ZyLUtuZ1A3LW1PLVZJeE5qUERiRGpSa3FqbzJpSmppMGpMY3ptc3BnTEdpSUVWM2o?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Mark Kelly on Trump, the Iran War and his 2028 decision",
-   "source": "Politico",
-   "time": "2026-11-13T05:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTNfa200UGRNRGwzWmhHeFBuTGc4QnlYWG9hNTkzU1B3WDI2RVhacndLN29vYV8xN2hFRVpRQjNQNE42TlRSYTd6cUVyYjhkRGFjS2xYdkZrQkJvY3lJTzg3ODFOTkVaaDEwaUU4bmV5UjVua3ZXenBhZk5KbjFPQXlHQkFmaHkyMHRaVC02V093MlJvSG1nNmoxSmtIaDFfSDdXZUdtYw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
-   "source": "Al Jazeera",
-   "time": "2026-11-13T04:52:55Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWUwQ21ocVdEWHpGUlltWmpJa0Q2ZW5IWFM4bko2SkZiTlhGZEttd3V0bmpHTkZ0WDNLODJleG5RV0JHWDkxN2tvZjFxRy1US2FlUk9vNExqOVFYQVRXd2hLQnVaWWotYnBEa2JreW1pSFplQVk5LWJFekhKeTcxWkd1TjRfM0ZORklJaEliUG1wQzd5MFlabW5hS2VzU2hNVlJjazNRWWNuNEdwUHJr0gG0AUFVX3lxTFBkV29GcTRUVnFTcHE1Vi1pSVFEVllzeGNmdVNwSkJnN2Z0akMwOWFvNEMtTHVzUVlEMGdlR0ZtMkpWeTMtYTJTWTVwTG51U2FZNUZwb2xIRjRpb2RPN1dkQmQtSXU4b09laGxacVNSQ2ljZEM4RGdVVXotTUVZVHZpcklTa0c4UjdyalhtNkpUWEs4VDlFSWJxTHJpZ2VINVNTQmIxZHpVbGtHVGJCMDF3UFc1Qg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US bond market cracks resurface as higher for longer fears return to haunt Wall Street",
-   "source": "ForexLive",
-   "time": "2026-11-13T04:52:25Z",
-   "link": "https://investinglive.com/news/us-bond-market-cracks-resurface-as-higher-for-longer-fears-return-to-haunt-wall-street/",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Morning briefing: The US treasury yields have risen sharply after Oil prices",
-   "source": "FXStreet",
-   "time": "2026-11-13T04:48:08Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLVZ6dk42WGVKaG82YTN3VXZ3UGdkeWtTb2VyeEx3aWs2X3FQd05ZbW0tUTVUWkdqd0RPY0JhcU5tOUZwczFnNHRxZkpOM1E3MEdUaTh3THFmS1NqVU9qeFc1VTFCLVE3alpjSUR2c0RMZTFtM3dHMVVJd050RTRvREFWR0NiXzE1WGFReUFGRXRtUWRJMFFPdmhQckloNjQyaDNiX0ItbTJYbnRpNldwZTdpalZoRmtaNTV1dnlqMA?oc=5",
-   "tags": [
-    "YIELDS",
-    "OIL"
    ]
   }
  ],
