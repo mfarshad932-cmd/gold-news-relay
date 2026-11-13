@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T16:40:49Z",
+ "generatedAt": "2026-11-13T17:09:10Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 11
   },
   "whitehouse": {
    "http": 200,
@@ -81,17 +81,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 33,
+   "items": 32,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 28,
+   "items": 26,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
+   "items": 13,
    "kept": 12
   },
   "gn_war": {
@@ -101,18 +101,18 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_yields": {
    "http": 200,
-   "items": 32,
+   "items": 30,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,43 @@
   }
  },
  "items": [
+  {
+   "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
+   "source": "CNBC",
+   "time": "2026-11-13T17:06:57Z",
+   "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Brent Crude Climbs Back Above $96 as Iran Tensions Escalate",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "time": "2026-11-13T17:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFZQcC11eEtOYjRlZ2RhTFFSZWczTDVvazlUWTRpYXRKcThPWWsxV2NEb2ZFdTVGWEZYeTAxSWRNTTFBSGowaUlDSTFsWnp6dEtfNzNNRk51N1dUZmpKWmhtY3IyX1pmb2hVdWtRMjFyTVgwQ0J3UzVWNjA5V3N2SDdZLWJXQXZaQW40T3IxakhpMDdUc1NjTENtUnN4Y25rN1dIWURIbVJEcWxNZF9B0gGvAUFVX3lxTFBkVlBwLXV4S05iNGVnZGFMUVJlZzNMNW9rOVRZNGlhdEpxOE9ZazFXY0RvZkV1NUZYRlh5MDFJZE1NMUFIajBpSUNJMWxaenp0S183M01GTnU3V1RmakpaaG1jcjJfWmZvaFV1a1EyMXJNWDBDQndTNVY2MDlXc3ZIN1ktYldBdlpBbjRPcjFqSGkwN1RzU2NMQ21Sc3hjbms3V0hZREhtUkRxbE1kX0E?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
+   "source": "Al Jazeera",
+   "time": "2026-11-13T16:44:56Z",
+   "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Jerusalem Daily: Baby dies from cold in Gaza",
+   "source": "Al Jazeera",
+   "time": "2026-11-13T16:34:24Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/jerusalem-daily-baby-dies-from-cold-in-gaza?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Investors Warn Bond Rout Isn’t Over After Week of Soaring Yields",
    "source": "Bloomberg.com",
@@ -142,6 +179,15 @@
    "tags": [
     "RATES",
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Earnings week ahead: Nvidia without Jensen, Anthropic’s IPO, and the consumer meets a hiking Fed",
+   "source": "ForexLive",
+   "time": "2026-11-13T16:22:17Z",
+   "link": "https://investinglive.com/news/earnings-week-ahead-nvidia-without-jensen-anthropic-s-ipo-and-the-consumer-meets-a-hiking-fed/",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -215,15 +261,6 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdE1Kcy0zY2Z4M0djM3NpdmM3bU9VdDR2dTZtbGNOYW5mcmtIWjB6MTF6TkpMMDVfOW8yTDZQaHJkQlMyZnVTTWxkejEteEZwWkdNMVpjRmI1cE40b0VQYUlESHFZNWJXNlRpak5nUzB6Q2RKSGNkSGFzSmZwR1YxUVBWM1QtRXBIT05KV1lsa2h3RWwzQTVOM0tMeXlPS2hFaHNQX2g5RGVSaE5Ddmc?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
-   "source": "CNBC",
-   "time": "2026-11-13T16:03:42Z",
-   "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-   "tags": [
-    "CHINA"
    ]
   },
   {
@@ -652,45 +689,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0RsNzRSR3JhRUdIYkdjZ0VGRFdfeGJkUDd6NzRmV1FWMVRtSGtHYlFCQTZoRElpN2pBcmF6OXlQblJDaXlIeElKRjRXaXdvSkZNNGJTc21GaTdDTzRnUlJJcXVRZWx3N1pRYkhTSnZTNHVmc3VmQ19PdEttQ1FLV0t3dzd5VG1z?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold pares gains as mixed US PPI offers little relief from Fed tightening fears",
-   "source": "FXStreet",
-   "time": "2026-11-13T13:54:23Z",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQekpaVjlZbTJwWWQxTWVQLXV4VkZKeDR2dlNfanhvbjVMTUdTWHEyYUxCS2x1Mkt3aWJ2em1Cdm16SWlhNS16c3Z3eG9WRjBtRWRCOGJmcWNSUGhLN09LY2NxbUx6Q1FuaGpoZVdOT3J6ZlA4eUl0LVJWdEVEU0dCZ1dELWhWakFtcm04N0FBS3FWempF?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
-   "source": "The Guardian",
-   "time": "2026-11-13T13:53:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNndNZUdKRnhDVGRkRE85YjZfUG1pUFd5NlVkbjBhbWZaTjZqZlRCU3RmMlBzR1ZjMmJpZi1jX2FvT01wbVc0ZDNaYm9YZUFTZm4wX29QQ3NLN0VpVS1CUjRBVm1GeWlHRk8yb1R4QkMySE5HUjdMUEM3OGVXdU5XM3lORndmX1RwRFdEbkZhalpnVmdONXhJYkR6bUpDZ2xfTXB1MlNuWDNFOGtPSFh0NzF0OWFYSjFBdU1hdVNqQnNSbUdMMi1JZW9vV1UwUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Wolverine Q3 Earnings Beat on Saucony Growth, 2026 Outlook Raised",
-   "source": "TradingView",
-   "time": "2026-11-13T13:46:44Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONjU3LTUtTjlLcUE5RTYwUjg1eVl5dXZVMGczdmI0SThBTlhJYzdTUWt0el95M204R2R5YlNXSjNpUzR6Z3ZNZUtObXUwdGl5b084QVdibmFvanlETmROcU1IaXpoUnpRcENyQ0J5OTZWWGdUWXZNV1B6Zk10b3hTanA0Q25FLVA0X0JDaFg4RGVEblEtTDFDYmtBUjF5Wk5WMEZ5SURwa3lkV2hWR3JjYlRFMWFGYVRwOGpESw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Ten-Year Treasury Yields Again Spike Above 5% (NYSEARCA:SPY)",
-   "source": "Seeking Alpha",
-   "time": "2026-11-13T13:43:14Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZzdSREVCX0xhVVlvb0c5Zkd2ZkktS2o0bk5kWlAycW1hNVpMUXpMX1Y1bTc4cXMxSGJGLWF0Mktza0lMRzE5cmdwZDdYMnBtVDY5N18xWFBzNnRpZzhnbFVxazM5NW9IOWdrVmRtdF8zZ2Zxek52VjAzeVdVS2NnUFFmYzRMdkZjQkpqNW9PTXRrM2VsbHdqeg?oc=5",
-   "tags": [
-    "YIELDS"
    ]
   }
  ],
