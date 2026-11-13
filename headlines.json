@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-11-13T20:27:34Z",
+ "generatedAt": "2026-11-13T20:55:55Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 3
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -42,7 +43,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 9
+   "kept": 10
   },
   "investing_news": {
    "http": 200,
@@ -61,7 +62,7 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 55,
+   "items": 56,
    "kept": 1
   },
   "bbc_world": {
@@ -81,7 +82,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 32,
+   "items": 33,
    "kept": 12
   },
   "gn_fed": {
@@ -91,22 +92,22 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 13,
+   "items": 12,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 33,
+   "items": 31,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "gn_yields": {
    "http": 200,
-   "items": 38,
+   "items": 35,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +117,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 1,
+   "kept": 1
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +126,35 @@
   }
  },
  "items": [
+  {
+   "title": "Gold Breaks Below $4,000 as Rising Yields Redefine the Macro Trade",
+   "source": "Investing.com",
+   "time": "2026-11-13T20:46:00Z",
+   "link": "https://www.investing.com/analysis/gold-breaks-below-4000-as-rising-yields-redefine-the-macro-trade-200691560",
+   "tags": [
+    "YIELDS",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
+   "source": "The New York Times",
+   "time": "2026-11-13T20:41:18Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeFRubWk5TVFLRllveGZFOGFTYURKUlpma3NVVFktajFZV3Y2Sm9fSzRqNVFKNFFQc2ZoeUhrREJ4TlZKa1l6WDRqZHVjWElXNVBrNjlDQXc4Yy1OamlGWFM2a0RBajVLZk9JQktwTXB6U1phV0JIaEowM3RpZzdoNEEtR3VLalkycEJ5alRMbFJfdGpqeTFJNTFJdlJocl93?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold, Silver Head For Weekly Losses As Treasury Yields Climb",
+   "source": "Forbes Middle East",
+   "time": "2026-11-13T20:40:53Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRVRwRk9lRFp3UEY1S0hVTkdvRXJlWExqZkM2UkxNU3A3cnFHYzNuMnUzM2NVbTN4MjdzQnd4ZW5rX2lIXy10bllCaEtmNW9GZktDdDFvVHd1V3c5YlYzMC1zdTMzLW1qRDJhTjI1MmFrVFo4VmZZWFdwT1czRlp4aW1NTmd2TVdmYXA4QnZBejBZaWRCVk9STXI4SGxWM2t2Qi14N1BiY0ktaGhQVFd1WmEtcw?oc=5",
+   "tags": [
+    "YIELDS",
+    "GOLD"
+   ]
+  },
   {
    "title": "Gold faces weekly rout as high US yields fuel Fed rate hike bets",
    "source": "FXStreet",
@@ -400,6 +430,15 @@
    ]
   },
   {
+   "title": "Guinea illegal gold mining crackdown sparks clashes, kills 10",
+   "source": "Mining.com.au",
+   "time": "2026-11-13T17:59:01Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWxJQzNaVmpFNHk0U2lVMHRhbHV4Q1dXNTl3SmxfNG5zQ2RvelNMYV9HZXZ6TVlmUU1JQWZyeTAwRzFNRmpaSDl2eW51MUR3Vm5wRzlBWWlhZFZ1RXZpay1VNGE3NlhQVjE0alBaM0tnSllxMGplbVlKX2VYMDFtZFZnV3pKQjhKbURv?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Gold smuggled from war zones entered the UAE despite new regulations, report says",
    "source": "The Hill",
    "time": "2026-11-13T17:59:00Z",
@@ -643,40 +682,6 @@
    "source": "The Hill",
    "time": "2026-11-13T16:19:00Z",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVkhxaDNwRGpLNUlfN3ZacEZSSEZQcVh0WDhxVjRxY1YydUlFZGpsU1ZiVDdlQ2JaYUF4MEdfZHJXclZIU2dlb3Z1TldUcTJ1dFplaU1yT1JLWktVaEN3MmZUS04xckVnMUFSZ1dpVzhCWHplRWVjbU5VMVROTVVtVV9wM096dFZUOU9lUtIBkgFBVV95cUxPeWVGS3lTVFpxb21FaXRJa0xXak1wX2VKU0tNLTVUM25zZzlDOGhiY1BzOWJURFdEbUhoZG1Zdzg4VzU2N0JScGhqcTA0NW1DYXNQYVFRdU9HZ0Rad3phZTljNGhLa2pnYzRVbVVhaU1vN015YUE4allCNmVjNTZld2hyUEZXbmVRVGVJZXJoX0EyQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Applied Materials, Diodes, Marvell Technology, Applied Optoelectronics, and SK hynix stocks trade down, what you need to know",
-   "source": "TradingView",
-   "time": "2026-11-13T16:15:48Z",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPbGJrckVTaFdlaVFTRENIWnZ2bjdvRkN4VWVEdndoakU0MmU2NTV5NlZZYmJqTUJpbmpEQXBmSFNlZk5wemQxSENJZFhuZEpiRE5ZT3p4amZ5bjdfR2s2Um9UZDNNYjBNN3RvampHdldQQTM1UzhfNXQ4ZFRadndjTXZVSk9BbVB0eXJUYWZQSGRxSGxmdlR2V3kzTVlVdHZRamt2TFBWMmVwa0c3T2JaN0NTbkJoMHdXblNvZ091Y1J2dTQ2eWJ0dU1jUXNtaTQxUVdvYnZWRks2ZXlCbW9BUTgyQ2Rxel94UUhlemE2SjBOZFI2M3p0eUE2TWtUcDNqUlc5d0NuWGVSVkhKeGc?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Banks Cool on Manchester City Player Finance as Sanctions Loom",
-   "source": "Bloomberg.com",
-   "time": "2026-11-13T16:14:57Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFNCNk9CRFFyS3JDRWNuZ01PVGF0VEppUXhaZkRKX2l2N1VMekpmS0EwdGYwWW9IcHh6RmRDMGItTGxlbDVHeDNtYmN4UzFqRmFjSUd3a2RRSWMyelVKdU80SUlWejlVSnF6NkZIQVZTN3RnZC1qLUQtbVdKaDJWLTk1VlFrZUNkMWVFajVGeGtWV3kybTBOb1dMMHBWVFNaYmVSX20yUmVOaW9lNlR6RWVubw?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Fed’s Collins Says Higher Rates Are Appropriate ‘Soon’",
-   "source": "Bloomberg.com",
-   "time": "2026-11-13T16:10:44Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEwzV3pSLU9vQ2tmOXhVYzdoTzhyaEcxUjdBdzM2NXE2VC0xNlFDaFhUOGlXa0ZqeTBDTFByTE1xVlVEejBIdEdSUlYwZlZhZnE0MXhzTUtQUlcyNFZYNE1rcVZKV1RWVHRmUXYydWNvbC03V0RFd3NjZUtpS2VtVFl1Umh2RWxDbzQ5a0hlR2F1bDhIN0paOW5sNFdTaU1lOEUwNVNZaHI?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Opinion | Is the War Against Iran a Necessary Defense?",
-   "source": "WSJ",
-   "time": "2026-11-13T16:09:43Z",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWXdUT2paNFNEX21zTXVwc3hiUi1Ddl9Mc1dQblNqTUJWc0NQcHVaTlljZTFzVEVqeWV6MU1UNl82U29ad0UzMGNoNjFpWk5BcEFlaEQ0Q2ExOFEtWGVqbHJDNlFfY3pQRDFOcllUZG01cjhrTS1TYmdRcml2Z0pWd25aQl9JOEE?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
