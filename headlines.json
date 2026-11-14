@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-11-14T00:14:07Z",
+ "generatedAt": "2026-11-14T00:42:29Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 4
   },
   "fed_monetary": {
    "http": 200,
@@ -87,7 +86,7 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 28,
+   "items": 27,
    "kept": 12
   },
   "gn_tariff": {
@@ -97,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 32,
+   "items": 31,
    "kept": 12
   },
   "gn_sanctions": {
@@ -107,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 33,
+   "items": 32,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,6 +125,15 @@
   }
  },
  "items": [
+  {
+   "title": "Tracking Trump: Trump’s false Iran war death count; Supreme Court considers asylum policy; Trump praises Colom; and more",
+   "source": "The Washington Post",
+   "time": "2026-11-14T00:15:45Z",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOemF6Y3RWRXRhbE1zSzhkdFpJeFA4SWZVbTBTeFJpdXpkVnVMWHFHY1ZmYlZQR0t6QXgxVElxR093MUgzRENfVm5HbFM2RjFpeGE4V0hKU2gxVF9XSFJRZUZYTWpaS1d5Y2NsWk1pUkRBU2M2RDNjZkxyMTRabWxxM09OdGtPdnFBMTUwQVFzM3Z2UDlVbG1ZOWxNcGM1TlpOeEZYV0IweXhSbGRxVGE3VVVrN3RwYVpqUVp0YlkxWFJ3eTl3ajdtaVlkVy0tbDBoM3FMX3ByVV9JSjQ4Ylh5MXQ5Qm5rSGRtUkE2SFVUOTJlOTQ5dU9hVGtCd0FGSDA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Afghanistan’s new road to China ends at a closed border",
    "source": "Al Jazeera",
@@ -268,6 +276,17 @@
    ]
   },
   {
+   "title": "Wall Street bears abound after inflation sours Fed outlook, Main Street abandons bullish bias as gold drops below $3,900/oz",
+   "source": "Kitco",
+   "time": "2026-11-13T23:00:05Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ09SOU1XMmZSdkZoVU5iQkdoN1duRHpoNUhqWHlJVVRhd3ozYzFLLXkteml0ZXJoODBvUy1iMDB1Yk9qRy1oSFhfQ296RlBITmhSbzFSRVBVeGZLQ1lXb05ZRmRIVl9PclVZdzVJQ0h0M2JTRnZKUzZndkswa1JNNEtwbjdNMW1IQXZuQ1BDdVJlM0Y2TmRRWnhEUDFVb3FROEZyOFA1ZEdjNjlWbzYxak9QSjNKLVk?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Trump falsely claims ‘nobody’s been killed’ in Iran war ‘in the last five months’",
    "source": "The Washington Post",
    "time": "2026-11-13T23:00:00Z",
@@ -292,15 +311,6 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMFJURlgxZVpMaUc0bGZ3ajJSX2dSZzNaT0ZwZXBLWmNoWXktUHFwWFRUZFdWVmRoUHhMMXp4cmNWaDVvc0hxcnpEanZTMlZZOG10X3lIX1RjSlhPWnowbl9lZ1VJZFJvX2xpQmRNaUYwak80M3pBampiLUJHSXNrT2JmZVlrM000eExPdWdSMmNKMDdMQ25iRm9FR01odEc0X2ZWdHNaUWx3b1hBRXNRYW5wS0l2VEJvcDd4anV3?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Tracking Trump: Trump’s false Iran war death count; Supreme Court considers asylum policy; Trump praises Colom; and more",
-   "source": "The Washington Post",
-   "time": "2026-11-13T22:50:59Z",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOemF6Y3RWRXRhbE1zSzhkdFpJeFA4SWZVbTBTeFJpdXpkVnVMWHFHY1ZmYlZQR0t6QXgxVElxR093MUgzRENfVm5HbFM2RjFpeGE4V0hKU2gxVF9XSFJRZUZYTWpaS1d5Y2NsWk1pUkRBU2M2RDNjZkxyMTRabWxxM09OdGtPdnFBMTUwQVFzM3Z2UDlVbG1ZOWxNcGM1TlpOeEZYV0IweXhSbGRxVGE3VVVrN3RwYVpqUVp0YlkxWFJ3eTl3ajdtaVlkVy0tbDBoM3FMX3ByVV9JSjQ4Ylh5MXQ5Qm5rSGRtUkE2SFVUOTJlOTQ5dU9hVGtCd0FGSDA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -348,6 +358,15 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcE1VUVR3V0NoV2prelRBb24ybTlYMHNNUTdTNTQ3aThyamd2OVRGWWg0OVFQTEl6OENBVy1XZ0VBYXg1Qi1sdm5NQW9RNlowTVZNLUwwUlZyVUVjN1JaZDlzX1pnUjdyX3R6QVJFRFRzeTlGcnM4Y3VsMjVTbC1zSkxYYms1c202a1MyWkgxVUNIN1BqeGdoZ1drZGFoWFV5UURmeVljdjQ?oc=5",
    "tags": [
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
+   "source": "The New York Times",
+   "time": "2026-11-13T22:18:02Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejhEQXBBR0FQS3VnT01VYUsxOTVLejRFTm1WMGtzQUc5OER5dW5yZ3ZOQUdCRFFaVXRjNVotNkNNc2hLSTR5Q0V2MGV5REJZQ2RRRE1yaXRXbGxscGhub3F1dVBueTR2dVViNlkxN1hRNC1iczRQSlNpSGdmelhxai1SLUw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -594,15 +613,6 @@
    ]
   },
   {
-   "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
-   "source": "The New York Times",
-   "time": "2026-11-13T20:05:56Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejhEQXBBR0FQS3VnT01VYUsxOTVLejRFTm1WMGtzQUc5OER5dW5yZ3ZOQUdCRFFaVXRjNVotNkNNc2hLSTR5Q0V2MGV5REJZQ2RRRE1yaXRXbGxscGhub3F1dVBueTR2dVViNlkxN1hRNC1iczRQSlNpSGdmelhxai1SLUw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Franklin Responsibly Sourced Gold ETF 3Q 2026 — 10-Q Summary",
    "source": "TradingView",
    "time": "2026-11-13T20:01:00Z",
@@ -676,15 +686,6 @@
     "GEOPOLITICS",
     "TARIFF",
     "CHINA"
-   ]
-  },
-  {
-   "title": "Scoop: Israeli spy chief in D.C. as Netanyahu presses Trump to resume war",
-   "source": "Axios",
-   "time": "2026-11-13T19:10:26Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0RsNzRSR3JhRUdIYkdjZ0VGRFdfeGJkUDd6NzRmV1FWMVRtSGtHYlFCQTZoRElpN2pBcmF6OXlQblJDaXlIeElKRjRXaXdvSkZNNGJTc21GaTdDTzRnUlJJcXVRZWx3N1pRYkhTSnZTNHVmc3VmQ19PdEttQ1FLV0t3dzd5VG1z?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
