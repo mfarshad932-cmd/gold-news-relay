@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T13:27:34Z",
+ "generatedAt": "2026-11-14T13:55:54Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 11
+   "kept": 10
   },
   "investing_commodities": {
    "http": 200,
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 3
   },
   "cnbc": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 23,
+   "items": 21,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 24,
+   "items": 22,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 16,
+   "items": 17,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 35,
+   "items": 36,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 19,
+   "items": 18,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 3,
+   "kept": 3
   },
   "fed_calendar": {
    "http": 200,
@@ -126,10 +126,55 @@
  },
  "items": [
   {
+   "title": "How does Iran view shift in US approach after JD Vance ordered away?",
+   "source": "Al Jazeera",
+   "time": "2026-11-14T13:31:16Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU25YOEt2azhyMVliR1pCWFgyOEFLWW5wTmVwUEpxR2M1MVBNNUc3X2ROUjduSTBIOTVZelBtX0wxM2dnQ0dpb2hPbzlVc2lhV19KVm4wUDlMMk1EODlTb1VpM1ZyZnZzemtaQ2thZV9ZaFBnd3NROUZKS2dSRzNBeWQ3TnVZQmJLM3FERUxGN3dQQWdmckVMblhTYUZHSXNMQWY5c0RQMUJXQdIBrwFBVV95cUxQUlFndzRxWmxLRUxGT041VHg4R0ZfakRCU20wZUs3WXV3NW5obmYxVVFfNk1LZ1lSSE5QeElIVFhYQ3hmbWFJVXB2OG1ERHB4aDV0UzUyQm5PMmctNl9kVW5aMVRNa0xuMWNNdFRIQ0lmV0w4NzRsSEhOVDZ6alRQSkxvNWZNMmRGeHBiYVdLN0cyN2tWQTd0a2tMSHktc0ZJakZ0elNJZUJUaDdxdzhn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Washington can start delivering on affordability by rejecting Trump’s tariffs",
+   "source": "MarketWatch",
+   "time": "2026-11-14T13:30:00Z",
+   "link": "https://www.marketwatch.com/story/washington-can-start-delivering-on-affordability-by-rejecting-trumps-tariffs-8f2c76fd?mod=mw_rss_topstories",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Opinion: Washington can start delivering on affordability by rejecting Trump’s tariffs",
+   "source": "MarketWatch",
+   "time": "2026-11-14T13:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnhtNmRTVGlrSVdlM29OajZSTjk0MGtSSTBla1Q3X1lCYlhEallWdU45a2w0NzFUeUNMRUFzNGhJaGxOWUFoUUQ2V1dUaUNTTEtZMnppZjI1Z0p1S1Jzd1ZMWlFyaGRqVWh2QllydFJEWm9PYUVVOVRacnk1bVQ2RUtBSVM3VkxVdDBXYTJlQVZJTWZlanROUGZDM1psbVRJWnFjQmRMcVZNQXFtZnpmQlFGWjJaUnZMRE5z?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
    "source": "Al Jazeera",
    "time": "2026-11-14T13:03:47Z",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM1ZOQkZOUFlTWklpVXVpbjFKd2RZdTNBbGNZUHN2ZGhILUdDSDlnVmVRQkxaVzBoajJKWEkyTjEyTEFUdENFejMwNnNucEdDRkRSdTZ4eXh2WXo3ckswZWE0ZGVrSnMtYXpOZkhQNDhPQ3NEWmdKc05MeWhaQUpGV25YUTZLR1FQX2xfNWVCdTRvaFpIR0ppTUtGcTBCZXNVZGlVc0VXaG9KTkNxOGfSAbMBQVVfeXFMTnhoendibndFZDA5c1RndEd1dDIzNjVBWngxZnB0T0NDMFNKMldxcHRmb2NMOC1veFB6TnZZTXdXUUg1M2JzWVRGYTlqTGVkcU5uelItYXA2b0VQTGlJR3hkb2FyS19BT0Z5NW92U3pJYmFyWUxaRWV2cEFhUFJZc1ZTSWdnQjFwdlZNNXVWalA4TXhyWkh5eWZ2bU1iWm1yaGlYYWU4REZBck9wcTNIRUIyRHc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump ‘whiplash’ on deportations putting Afghans in turmoil: ‘People already survived a war’",
+   "source": "The Guardian",
+   "time": "2026-11-14T13:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQTE4UXZYZmtCU01zdy05WHJ6Wk9WTGhFVjlVV2t2UGM4QTdBenhGY0k4NWVGVGZUX1g4dDV5TGNwVWpqR2k1dHNJUGpWdlJYV0g2dzhhTGhmQUI1dHRTSkJPVWVtc0VzbXhNZnhZLWJWM2ZuaG4zT2hnMWp5WGhEZmE4dXNEZmZIU0NISXJ4aFBSZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran Takes the War Beyond the Middle East",
+   "source": "WSJ",
+   "time": "2026-11-14T12:55:50Z",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX2xKR0JTVzRwLUtDQTVuMFdYYm9NY3Bqek9iakIzdXBSN3VoQ3VibWZtcm5RbFJqaXRmWHhlei0ycUpkZkJmc05pTGdqWmIwTHNxdUMzZXVpVXM2dGxqUHlBTlNfZ3ZTRi0tWm51RHk5NHIzT2k5cDREYTlseDZPZmNGSmMtQmpzNUs2dkI4VmJ5SHF3b19WVTc0T3BCZW1LWll6d3V3YWh2RmRjVVBpeHQwRVN1TW9kUnJtdnZ5MWp6OVBheXo2Yk9TUTV1Umtqd0psS2RBZlFzbXBNWm5fbFgtQVY?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -472,24 +517,6 @@
    ]
   },
   {
-   "title": "Ukraine is running out of options, and Russia knows it",
-   "source": "Al Jazeera",
-   "time": "2026-11-14T06:42:52Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObXRxQVc5M1hsZTdYOHFsaUxIeUxZODk2NUpDWkRKM2t2Q3J5SmpXSU9YZS1iSFZFYnFoOHcwMmpjQVJqanRnUHp3Z0VqNGk4YVpUSGVOU25IMndFcFViaUhCUl9MMTU5UkxYaFdQeUxXNmVPTG5FZkI4V1Zic3VZMWhzcUxINGVXUEZfN1lBS2RYLUhOZ1k1LTBGMWlHZTNy0gGmAUFVX3lxTFBKUkRFUVVhLVlydWplWENHRGZ5VlV4VGdaT3haVkowUjdiYzJBekgzYXBVbDVmYTBGSnpTRnJnU29Mdl9ZekxkVHBsNGZrRW9xaFdXTkQzLWU0TGJXNk1GN1ktNjMyUXVSQWFMdTUxYUhDblZMUWFXRDkxZ3k4bHU2ZVRpd2kzMW8xRzRTRDVUMVBKZDEtWGRYR0JaenNOVkQ2Mm04N0E?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran Takes the War Beyond the Middle East",
-   "source": "WSJ",
-   "time": "2026-11-14T06:17:05Z",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX2xKR0JTVzRwLUtDQTVuMFdYYm9NY3Bqek9iakIzdXBSN3VoQ3VibWZtcm5RbFJqaXRmWHhlei0ycUpkZkJmc05pTGdqWmIwTHNxdUMzZXVpVXM2dGxqUHlBTlNfZ3ZTRi0tWm51RHk5NHIzT2k5cDREYTlseDZPZmNGSmMtQmpzNUs2dkI4VmJ5SHF3b19WVTc0T3BCZW1LWll6d3V3YWh2RmRjVVBpeHQwRVN1TW9kUnJtdnZ5MWp6OVBheXo2Yk9TUTV1Umtqd0psS2RBZlFzbXBNWm5fbFgtQVY?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "TV tonight: a spicy, funny cold war Killing Eve prequel",
    "source": "The Guardian",
    "time": "2026-11-14T06:17:00Z",
@@ -646,34 +673,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcFBCZjlTWjBPVDE1cUNBWWV3QlI3OUxYRTZwY1VZR216dXA4TGZqWUJCREhYODMxa2RESXAzNmcxYjNRMUpPNFI0TmZYMmh4OWM4LXRWT0ZnN2pqd202b01ZS2Fkb0pDVURyN0lDdG41TjFIVmlZazBLUEdpVWhVVGF3LWRRNURXUnp5UDgyRTV6YkxzSW5SRFVMd2R1ak5sdGlFU19QOVdKZlg5UlhzVUxuNE9tT01EQTc2UWF1N3Q?oc=5",
    "tags": [
     "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold’s Break Below the October Low Mirrors April 2013",
-   "source": "FXEmpire",
-   "time": "2026-11-14T01:35:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRjVfOEhGZzBNb3hvLVFNX3ZkRW5pQW42bHE2UWtLbWlOU0tSTXZuSXh4bE44U3hTTU82V09SMXNKZktXa2JUTS0zTTlBN0lYS19pc2YtOXk1RXNjVkRkME0zTGNmZWVXclo5d3BsRTZWeS1ZeGtyY1I0VktscFZOc3RXbEtrYWE2T1Y3NHJSdlQycjFKU1Z6anlhYUdQdjZkUk1hU2t3?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-   "source": "CNBC",
-   "time": "2026-11-14T01:34:11Z",
-   "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Gold’s $3,850 Weekly Support Matters as Real Yields Climb to 2.86%",
-   "source": "FXEmpire",
-   "time": "2026-11-14T01:27:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXdYdjRhVXF0NmhfdTNrTV9EYWh0N1haNFVCXzVIUlNwVzZiczdQbFhwMUxoN2txdkpmOFQ2SjdYWlI4c1JaZkJRbUZKZ0o1S1VzSGU0VFlUODVibGdxU3RaNkVSOHRHb3JubUtfR2FieFNpQkF5eGN3WE5ULVYwemtsR2JORnh0VTZndVdtMWNtd0lSaGIwMWFsYi1NSjh4dGVCYlFHQmREakZOU2FzelpwTQ?oc=5",
-   "tags": [
-    "YIELDS",
     "GOLD"
    ]
   }
