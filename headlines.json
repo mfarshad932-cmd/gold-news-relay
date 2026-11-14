@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-11-13T23:45:44Z",
+ "generatedAt": "2026-11-14T00:14:07Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 4
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -16,7 +17,7 @@
   "fed_speeches": {
    "http": 200,
    "items": 15,
-   "kept": 1
+   "kept": 2
   },
   "ecb_press": {
    "http": 200,
@@ -67,12 +68,12 @@
   "bbc_world": {
    "http": 200,
    "items": 25,
-   "kept": 3
+   "kept": 2
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -91,12 +92,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 17,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 31,
+   "items": 32,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +107,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 34,
+   "items": 33,
    "kept": 12
   },
   "gn_oil": {
@@ -126,21 +127,106 @@
  },
  "items": [
   {
-   "title": "Gold’s Break Below the October Low Mirrors April 2013",
-   "source": "FXEmpire",
-   "time": "2026-11-13T23:39:15Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRjVfOEhGZzBNb3hvLVFNX3ZkRW5pQW42bHE2UWtLbWlOU0tSTXZuSXh4bE44U3hTTU82V09SMXNKZktXa2JUTS0zTTlBN0lYS19pc2YtOXk1RXNjVkRkME0zTGNmZWVXclo5d3BsRTZWeS1ZeGtyY1I0VktscFZOc3RXbEtrYWE2T1Y3NHJSdlQycjFKU1Z6anlhYUdQdjZkUk1hU2t3?oc=5",
+   "title": "Afghanistan’s new road to China ends at a closed border",
+   "source": "Al Jazeera",
+   "time": "2026-11-14T00:06:43Z",
+   "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
    "tags": [
-    "GOLD"
+    "CHINA"
    ]
   },
   {
    "title": "Gold’s $3,850 Weekly Support Matters as Real Yields Climb to 2.86%",
    "source": "FXEmpire",
-   "time": "2026-11-13T23:33:06Z",
+   "time": "2026-11-14T00:04:24Z",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXdYdjRhVXF0NmhfdTNrTV9EYWh0N1haNFVCXzVIUlNwVzZiczdQbFhwMUxoN2txdkpmOFQ2SjdYWlI4c1JaZkJRbUZKZ0o1S1VzSGU0VFlUODVibGdxU3RaNkVSOHRHb3JubUtfR2FieFNpQkF5eGN3WE5ULVYwemtsR2JORnh0VTZndVdtMWNtd0lSaGIwMWFsYi1NSjh4dGVCYlFHQmREakZOU2FzelpwTQ?oc=5",
    "tags": [
     "YIELDS",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold (XAU/USD) Price Forecast: Dollar Strength Extends Downside Targets",
+   "source": "FXEmpire",
+   "time": "2026-11-14T00:04:24Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdzdCM1hzb2FXaGNBanJoWDJac05XeXpWX3R6WUJKZ1JTbTZyVHM1TmQyRlYzQlRIdmozb2ltem1hdnNvN1FaZi1GdFczYV81YnhxeDBnSGhzSURzOTREcnpPV0xDaEdKWFVSZVdFandqWFB4a09jcE9aTTQ2Und1SFgwdEpEV0NLaVRLeUhMSUJFSnBWN25HSFZ6UnUzY05mZzVrMWpxYXViUlAzcWV1aVM3SXVLZ3RPOWg1aFlB?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound Despite Strong Dollar",
+   "source": "FXEmpire",
+   "time": "2026-11-14T00:04:24Z",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTDlXZ2k1X1dnTzA4WnZaSWh6NTV3c3lLUmhhcF93V1lSZ2xfTDRHZFVQZzgxajU3U2U3QWhDTnhvWFJBQ0YzQTdHb2hjTDh5VFZ3cFlMNWNmSUZ2MndEa3lFOUxET2Zfdk1yMnY4eGZHX2NCWHBlTzgxR2RjYUpJYTZ6TnIwTGFmUk1ZRUJqNVl0dDBWNEdfVldYclZ4Mlk5Mm5lekJfVkpteWVhVEZPY2QwaXpLOVdMSXRMNmlzMW1VQkFiQXJSQWJyTmUteWFDbXFV?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Fed's Jefferson says he is taking his policy cues from inflation",
+   "source": "Reuters",
+   "time": "2026-11-14T00:03:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW1TY0lTUklmN2JmVC0zMm5qMUdfOUFjWk43S1NTS1RpcGx1Ni0tWkJCX1NXWDg1cHdzazZsQUZlREpWRkl2UER3S2t0TjFON1lXeTNNLXA4SXZYYjFjbXh0SnJzcXFGV2FPZkhoc1dNc1ZhUXNTRjdmX3R2SUR0ZlZwcHlnT2F2ZzdLdnNkQ1I5Sy1tRmVGTS1GTEpUTmRTWVlkYXRR?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+   "source": "Al Jazeera",
+   "time": "2026-11-14T00:00:25Z",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
+   "source": "Federal Reserve",
+   "time": "2026-11-14T00:00:00Z",
+   "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Gold, Silver and Oil: The Golden Age of Trading Is Here – Are You Positioned?",
+   "source": "FXEmpire",
+   "time": "2026-11-13T23:48:41Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcFBCZjlTWjBPVDE1cUNBWWV3QlI3OUxYRTZwY1VZR216dXA4TGZqWUJCREhYODMxa2RESXAzNmcxYjNRMUpPNFI0TmZYMmh4OWM4LXRWT0ZnN2pqd202b01ZS2Fkb0pDVURyN0lDdG41TjFIVmlZazBLUEdpVWhVVGF3LWRRNURXUnp5UDgyRTV6YkxzSW5SRFVMd2R1ak5sdGlFU19QOVdKZlg5UlhzVUxuNE9tT01EQTc2UWF1N3Q?oc=5",
+   "tags": [
+    "OIL",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
+   "source": "The New York Times",
+   "time": "2026-11-13T23:43:26Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeFRubWk5TVFLRllveGZFOGFTYURKUlpma3NVVFktajFZV3Y2Sm9fSzRqNVFKNFFQc2ZoeUhrREJ4TlZKa1l6WDRqZHVjWElXNVBrNjlDQXc4Yy1OamlGWFM2a0RBajVLZk9JQktwTXB6U1phV0JIaEowM3RpZzdoNEEtR3VLalkycEJ5alRMbFJfdGpqeTFJNTFJdlJocl93?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran Takes the War Beyond the Middle East",
+   "source": "WSJ",
+   "time": "2026-11-13T23:40:40Z",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX2xKR0JTVzRwLUtDQTVuMFdYYm9NY3Bqek9iakIzdXBSN3VoQ3VibWZtcm5RbFJqaXRmWHhlei0ycUpkZkJmc05pTGdqWmIwTHNxdUMzZXVpVXM2dGxqUHlBTlNfZ3ZTRi0tWm51RHk5NHIzT2k5cDREYTlseDZPZmNGSmMtQmpzNUs2dkI4VmJ5SHF3b19WVTc0T3BCZW1LWll6d3V3YWh2RmRjVVBpeHQwRVN1TW9kUnJtdnZ5MWp6OVBheXo2Yk9TUTV1Umtqd0psS2RBZlFzbXBNWm5fbFgtQVY?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold’s Break Below the October Low Mirrors April 2013",
+   "source": "FXEmpire",
+   "time": "2026-11-13T23:39:15Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRjVfOEhGZzBNb3hvLVFNX3ZkRW5pQW42bHE2UWtLbWlOU0tSTXZuSXh4bE44U3hTTU82V09SMXNKZktXa2JUTS0zTTlBN0lYS19pc2YtOXk1RXNjVkRkME0zTGNmZWVXclo5d3BsRTZWeS1ZeGtyY1I0VktscFZOc3RXbEtrYWE2T1Y3NHJSdlQycjFKU1Z6anlhYUdQdjZkUk1hU2t3?oc=5",
+   "tags": [
     "GOLD"
    ]
   },
@@ -182,7 +268,16 @@
    ]
   },
   {
-   "title": "Former US Trade Officials Challenge Trump's Canada Tariffs",
+   "title": "Trump falsely claims ‘nobody’s been killed’ in Iran war ‘in the last five months’",
+   "source": "The Washington Post",
+   "time": "2026-11-13T23:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQS1tR2VKQnFreElVRlU3T2piQUNEQmRZTER3ZV9yZlFNc2VpUlphUDNRdVJGemtZaWwtdlp5WWRLeFNyaVZsSEppQVVvM09hcTBCMXFtOWlmU0VFeUpfc0hBbGpzTmo5dGJwWmZKLXBIaUVMRmo3M0ZDNnhRUENnREVZUXpFRjJMZ09DRUc4dmplU0lUWGd0dUplUTk1YWZpVEZHXzdrMFVSNW1CMmR3X2pCQV9pRGhyNkE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Architects of US Trade Policy Turn Against Trump Over Canada Tariffs",
    "source": "Newsweek",
    "time": "2026-11-13T22:59:00Z",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdjV2VXkzYm9qT25kRzFoLU9kR3hHREQ3WURkaDNITFNESGhQWGROOUYzUXR4ZHRjdEJxOHVoeUtKc2gtaG5tWU9nOEdrV19pWlRxUUFUQ21fdHc5R0gxVlVycl9ZQ0pqTXN4NDlBMkRuZWJXakE3WU1jWnR0dnlMUmwxdFA5TVg3RXA5OQ?oc=5",
@@ -238,15 +333,6 @@
    ]
   },
   {
-   "title": "Trump falsely claims ‘nobody’s been killed’ in Iran war ‘in the last five months’",
-   "source": "The Washington Post",
-   "time": "2026-11-13T22:31:53Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQS1tR2VKQnFreElVRlU3T2piQUNEQmRZTER3ZV9yZlFNc2VpUlphUDNRdVJGemtZaWwtdlp5WWRLeFNyaVZsSEppQVVvM09hcTBCMXFtOWlmU0VFeUpfc0hBbGpzTmo5dGJwWmZKLXBIaUVMRmo3M0ZDNnhRUENnREVZUXpFRjJMZ09DRUc4dmplU0lUWGd0dUplUTk1YWZpVEZHXzdrMFVSNW1CMmR3X2pCQV9pRGhyNkE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Canada’s Ambassador Warns Trump’s Tariffs Are Raising Business Costs: ‘Uncertainty Increases Your Cost of Capital’",
    "source": "Yahoo Finance",
    "time": "2026-11-13T22:30:21Z",
@@ -265,41 +351,12 @@
    ]
   },
   {
-   "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
-   "source": "The New York Times",
-   "time": "2026-11-13T22:11:18Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeFRubWk5TVFLRllveGZFOGFTYURKUlpma3NVVFktajFZV3Y2Sm9fSzRqNVFKNFFQc2ZoeUhrREJ4TlZKa1l6WDRqZHVjWElXNVBrNjlDQXc4Yy1OamlGWFM2a0RBajVLZk9JQktwTXB6U1phV0JIaEowM3RpZzdoNEEtR3VLalkycEJ5alRMbFJfdGpqeTFJNTFJdlJocl93?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold (XAU/USD) Price Forecast: Dollar Strength Extends Downside Targets",
-   "source": "FXEmpire",
-   "time": "2026-11-13T22:07:11Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdzdCM1hzb2FXaGNBanJoWDJac05XeXpWX3R6WUJKZ1JTbTZyVHM1TmQyRlYzQlRIdmozb2ltem1hdnNvN1FaZi1GdFczYV81YnhxeDBnSGhzSURzOTREcnpPV0xDaEdKWFVSZVdFandqWFB4a09jcE9aTTQ2Und1SFgwdEpEV0NLaVRLeUhMSUJFSnBWN25HSFZ6UnUzY05mZzVrMWpxYXViUlAzcWV1aVM3SXVLZ3RPOWg1aFlB?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
    "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
    "source": "MarketWatch",
    "time": "2026-11-13T22:04:00Z",
    "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
    "tags": [
     "OIL"
-   ]
-  },
-  {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound Despite Strong Dollar",
-   "source": "FXEmpire",
-   "time": "2026-11-13T22:03:14Z",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTDlXZ2k1X1dnTzA4WnZaSWh6NTV3c3lLUmhhcF93V1lSZ2xfTDRHZFVQZzgxajU3U2U3QWhDTnhvWFJBQ0YzQTdHb2hjTDh5VFZ3cFlMNWNmSUZ2MndEa3lFOUxET2Zfdk1yMnY4eGZHX2NCWHBlTzgxR2RjYUpJYTZ6TnIwTGFmUk1ZRUJqNVl0dDBWNEdfVldYclZ4Mlk5Mm5lekJfVkpteWVhVEZPY2QwaXpLOVdMSXRMNmlzMW1VQkFiQXJSQWJyTmUteWFDbXFV?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
    ]
   },
   {
@@ -626,65 +683,6 @@
    "source": "Axios",
    "time": "2026-11-13T19:10:26Z",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0RsNzRSR3JhRUdIYkdjZ0VGRFdfeGJkUDd6NzRmV1FWMVRtSGtHYlFCQTZoRElpN2pBcmF6OXlQblJDaXlIeElKRjRXaXdvSkZNNGJTc21GaTdDTzRnUlJJcXVRZWx3N1pRYkhTSnZTNHVmc3VmQ19PdEttQ1FLV0t3dzd5VG1z?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US Equity Indexes Fall as Nvidia Debacle Hits Chipmakers, Long Treasury Yields Jump on 'Elevated' Producer Prices",
-   "source": "marketscreener.com",
-   "time": "2026-11-13T19:10:13Z",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTXJINGNBZDZNTlFQZVRJZ1ZzZnA0TTBualRCR2NybV80aTNBaDZKazJXQ3pwS21xM3U1TjVYZ3NUN1ByME1VTVNtMW80NnI2R2FGdENhdnhkZ2FUU2tKWTVMU1FCS3MwMVVlZHhxTDdfYU4xanlUcXFta05BNTMyeUZNX2JwdWNXb1paU2lwaUlEQkxDanU1c0xvbFltLTlxcU5MMGhJRG1RSzdtdmxKR3RGXzdjcHoxQlVfaFM0RW5SU3hUQVo3cmxxak9UcFpWSHJObG1vSkY4Vk9Wdi1KZFRBRGU?oc=5",
-   "tags": [
-    "YIELDS",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Fed likely to need to raise rates amid worsening inflation: Daly",
-   "source": "Reuters",
-   "time": "2026-11-13T18:48:40Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHBuM0FNRHlsWlNrX090Q3F6R2VZUTFYRkF3bFZwbDNQMUwxZXpiYmROVUJWWTVKZHRoOExqUkxpcktRYUZodDVncmNVSEdIMDktTDYxMXlWM1hvdXVKRmVfMmtvbTBUd1MyWkxFR3RqTlNJNVk1WFNtc2pnQ0w4QjRTdjlmcFdPUkVUZFVndGdCRWRPMEw3cFZHcjBlc3lhdDY2Vw?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
-   "source": "The Guardian",
-   "time": "2026-11-13T18:46:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNndNZUdKRnhDVGRkRE85YjZfUG1pUFd5NlVkbjBhbWZaTjZqZlRCU3RmMlBzR1ZjMmJpZi1jX2FvT01wbVc0ZDNaYm9YZUFTZm4wX29QQ3NLN0VpVS1CUjRBVm1GeWlHRk8yb1R4QkMySE5HUjdMUEM3OGVXdU5XM3lORndmX1RwRFdEbkZhalpnVmdONXhJYkR6bUpDZ2xfTXB1MlNuWDNFOGtPSFh0NzF0OWFYSjFBdU1hdVNqQnNSbUdMMi1JZW9vV1UwUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "At least 10 killed in Guinea clashes over gold mining ban",
-   "source": "Al Jazeera",
-   "time": "2026-11-13T18:44:45Z",
-   "link": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining?traffic_source=rss",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "US Dollar Edges Higher Against The Loonie; Treasury Yields Top 5%",
-   "source": "marketscreener.com",
-   "time": "2026-11-13T18:38:18Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObTdya0xoVW1CcHZjTFZPeS1nUHpoMFNKRHFnamlSN1dUWWxJaTU5ZmROVmVNcVpncGhnWFlMWlZrQ2dWbGhwaFJTU3BwZkdxcWktOEtZcFBtNjQ0Y0NReVNkQS1HNU9pbFlWbkJvNkllRElJeDAtTGMzV0lkbEZIcXBFWnBSQnE2NEhiYzRrQjdZb0JKbXB0Wk1mY2RZX0huR3JIY1Eza25TMkZqckdXZlRyVUNnWEU?oc=5",
-   "tags": [
-    "USD",
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "If Gen Z are asked to go to war, it might not be in the way they expect | Brief letters",
-   "source": "The Guardian",
-   "time": "2026-11-13T18:38:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWYtZXR0ZWlzYTc3Qi1PZ3dhNFRMQ1JYTDBpOHN5a3NVVHRieWZuTnVDbEpoTm1pMURvcVFFQTNjN0FEWmlBSEtzNDA1WWFJWENLUXJQck43eEprQlQ3VUlORWZ1cWJPbWVqRy1lNDNtRVRHT1JXbkZ5N2M0ajFBNnJXUW42UW9GNFpVaHlsTjlOR1pMYV9MZ25SZUc1ZERpTGc4OUJ4Q1hGN0VtbFRsY1NRbHZrSlk?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
