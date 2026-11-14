@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T14:24:15Z",
+ "generatedAt": "2026-11-14T14:52:36Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -86,17 +86,17 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 21,
+   "items": 22,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 18,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 35,
+   "items": 33,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 17,
+   "items": 15,
    "kept": 12
   },
   "gn_oil": {
@@ -126,12 +126,30 @@
  },
  "items": [
   {
+   "title": "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says",
+   "source": "CNBC",
+   "time": "2026-11-14T14:30:01Z",
+   "link": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
    "title": "How Canadian stocks could be big winners of U.S. midterms",
    "source": "CNBC",
    "time": "2026-11-14T14:11:48Z",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PNW5TV3hXaF9mVF9CeTktVGZDOU04OGx3c1U4TFAwVW5Nd1dmbHBJRFJaWEpWQTJjOE9vZWJhSGd1djEyWFdxNWpPcGVKTG1ocXdFSW44TGo5QWk0OXQ2UXY3a0hYSXd5NTk0dHZ5UEhlOWhlZmtiNGpR?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "In ‘Minotaur,’ Andrey Zvyagintsev Confronts the Costs of Putin’s War",
+   "source": "The New York Times",
+   "time": "2026-11-14T13:52:16Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UOS0xam90WkY4V3hDWnM1dzRwNlY3cGxKWExNOHZKQ3ZnOE4tR1UxR3lUN19IZlJJei1TS2hEVUl5eEdsWThDUUtBckRua3JFOTRvUUJ1Z2lzN3oxN3poRGkwaC1WTlNZZld6cUcwV25ZMGtoT1VIS0RCY0Y2Nk0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -144,7 +162,16 @@
    ]
   },
   {
-   "title": "DARPA Tested Autonomous Ground Robots Finding Enemy Targets, No GPS",
+   "title": "‘I relive that mission every single day of my life’: how Black soldiers handled the Vietnam war",
+   "source": "The Guardian",
+   "time": "2026-11-14T13:38:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUxDdE5Tekh5QU5naVBxVmtmR056S2M1OTZTQmllN2ZJb3dvTlNYOE03MHg0RGswN0l6MTlpTTNUck9Md1NTWUktVzZWXzRybndrbDdvaFF2WldMcEhMaVZzVk1LTHk4Qm1uMUh0NzZCR3NNQnpERUJ0c2ZFbkVTYjdNY0FtSFJSN3MyVUxvMTFMOXNfWmc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "The Pentagon is testing war robots that can hunt in packs without GPS and find battlefield targets on their own. Humans still call the shots.",
    "source": "Business Insider",
    "time": "2026-11-14T13:36:00Z",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaEpTTVNzeEYzdkoyZVFpUFBqNzY3ODl3MGJyb0FkUjl6c1pJSDItNTRaQTAzaFQwRkVScU02UXhsMjM4Q18yamFURFdkTmdBek9IVm5OVGpJcVFDRS1DVWlqNDZTc3lnNDBRRTNibWlQOUxoYTA4SDltUWd6V3pFUGduU3hCZ2lraEdEajJqYjhrMVcxdmhEclpLWXRhWjRPd0hzdUpGeWgzdw?oc=5",
@@ -344,24 +371,6 @@
    "source": "ABC News - Breaking News, Latest News and Videos",
    "time": "2026-11-14T10:40:53Z",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzRBanFEdWdrdmpDNDU3UXMzLWlCZHkxa0o3QkRDYWd3N0pMdnF6NExRaUhGbnhPVzhTQ2p3LWVCVVY1R09FTjRnTGtpZ2dQcjU0STRodW5yOHloVGJPWTlOLVBXOGVLSGg0dWI3aG9qcGFWMHU2XzRFSERGQjNmc3A2aEhSV1JXaFNVQjhPeURmR1Q1cFJiZ0xXWEVka3Yz0gGmAUFVX3lxTE9GLWJmOFBqMEppajNoZXM1QjdsbExOMEc0ODVwZGpvZGpvVzFaRjREV05XS1ZsaXRQQWcxSlpnR3pzOGwzSjlwV016MGtvNENUVHVfWTQ2OGxIdHliZ0dya2FMdFdMeHpuOF9VTUhoOXEweTl0c2RXNW11LU1aTm9UNUtlZkZXbGRBQkpWcnlTTVB1OE9VLXdwRms3WExaanJjaDNoWlE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "‘I relive that mission every single day of my life’: how Black soldiers handled the Vietnam war",
-   "source": "The Guardian",
-   "time": "2026-11-14T10:02:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUxDdE5Tekh5QU5naVBxVmtmR056S2M1OTZTQmllN2ZJb3dvTlNYOE03MHg0RGswN0l6MTlpTTNUck9Md1NTWUktVzZWXzRybndrbDdvaFF2WldMcEhMaVZzVk1LTHk4Qm1uMUh0NzZCR3NNQnpERUJ0c2ZFbkVTYjdNY0FtSFJSN3MyVUxvMTFMOXNfWmc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "In ‘Minotaur,’ Andrey Zvyagintsev Confronts the Costs of Putin’s War",
-   "source": "The New York Times",
-   "time": "2026-11-14T10:00:39Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UOS0xam90WkY4V3hDWnM1dzRwNlY3cGxKWExNOHZKQ3ZnOE4tR1UxR3lUN19IZlJJei1TS2hEVUl5eEdsWThDUUtBckRua3JFOTRvUUJ1Z2lzN3oxN3poRGkwaC1WTlNZZld6cUcwV25ZMGtoT1VIS0RCY0Y2Nk0?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -663,16 +672,6 @@
    "tags": [
     "USD",
     "YIELDS"
-   ]
-  },
-  {
-   "title": "Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda",
-   "source": "The New York Times",
-   "time": "2026-11-14T01:56:54Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWlZUDZrQV9aZ2RzMS04ZERzWXlNWHp4THBtR1pyZ3NBbjZkcm1PMF9PLUhuTzJzZzRZT2Nlb1p5NVJ3Ul9EaWVVTHQtb1Ytb1loSHRvYkU2ajBBZ3hPdW1YdTY1Smd5WDRRdWNFMl85cVBVRGJBbl9fRTAtZ0lBUFctdFZXVWlYdGdPb2paa3piNzRwbHVrQ2RR?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
    ]
   }
  ],
