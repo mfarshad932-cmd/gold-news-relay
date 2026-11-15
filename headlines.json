@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T14:56:59Z",
+ "generatedAt": "2026-11-15T15:25:19Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 2
   },
   "cnbc": {
    "http": 200,
@@ -62,17 +62,17 @@
   "bbc_business": {
    "http": 200,
    "items": 57,
-   "kept": 0
+   "kept": 1
   },
   "bbc_world": {
    "http": 200,
-   "items": 24,
-   "kept": 4
+   "items": 25,
+   "kept": 5
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -91,12 +91,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "gn_war": {
    "http": 200,
-   "items": 32,
+   "items": 34,
    "kept": 12
   },
   "gn_sanctions": {
@@ -126,7 +126,70 @@
  },
  "items": [
   {
-   "title": "What Israel can learn from Russia about thinking ahead in war",
+   "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
+   "source": "MarketWatch",
+   "time": "2026-11-15T15:22:00Z",
+   "link": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+   "source": "Al Jazeera",
+   "time": "2026-11-15T15:21:21Z",
+   "link": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
+   "source": "Al Jazeera",
+   "time": "2026-11-15T15:07:17Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHk0b3FJZHBNT3dkVGtocjVYYXE4elNlcDJYcTVOLTBmSm9CMzBoc2Q4RnhlQl9TeW1kYmplN1FjNExlZ3V3d3Y3RkFiOTFFOXhYbUVlYVFRdVdnNFo0Y1hjeFEzaFRHcXd4Ukk4VlRSWWY5dDh2NjU2S3V0bjVaYVR0a2VRUFNBT1RudkViWjdJZlpRanJQOVJUX0hnVC1JcFZRMGg1d9IBrAFBVV95cUxNMEJlZHpBTmRDVS1wRGptSEVYaGE0VmhfMkJiaHVpc1p6TEFCZ1BiNHc3eExHU1RCYUhDVmNBNjc4bjd2RDI1WGJ4Z3hMcE0yRDRXMjU4WjlselBtTkt2RldzRTlsYTB5b3hPdDJyZWxvMUluYndsYnVIaHg1TU14T19yUUJ2WFdlVnlONjVMc0VjeFp2SDA0Q0NER3cyMk45c3g3cnZNaTkyWGk5?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
+   "source": "Al Jazeera",
+   "time": "2026-11-15T15:01:54Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+   "source": "BBC",
+   "time": "2026-11-15T14:56:21Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "India-US Trade Deal: Piyush Goyal Says Indian Goods Will Get Lower Tariffs Than Rival Nations",
+   "source": "theopenpress.in",
+   "time": "2026-11-15T14:55:03Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUnBYUFZTZlV0cnJocDFtcGtjdUtMclBlaV9GNmNFNk1uVFQ4eVVHT1owdjJRSmZsZ214bzQ0V0tFNGpPeUtCVDJJY0YtY3FhaVhYVWdEN2ZYVVFMaWZTM052cFpIOGdoeDVxUjV6MDB1Sm83bTRPeHNyRkN5WDJlZDgtN3g0UFdXMEZzVTBScXRDNmtjdXZyTlQ0b1BxZ0w1RUdsdzVLVlM?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "India Secures Preferential US Market Access With Lower Duties Than Competitors, Says Piyush Goyal",
+   "source": "theopenpress.in",
+   "time": "2026-11-15T14:51:31Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTEItYWhyZjdZdGtNNk5rd2hxdjRwVndyZ3hFU01HeHNyZDNMbHh2eDMtYW1aUWtMMDdFd1pYRExLNXU1TnpTNjAwUlRfYWY4cDJrYVd0SWdSRnZlcExUZXBxSmtWa3E3bGRfa1Boek9kaE9OMXpzRFZGVV9TWEZKaW1xTVhmY2JBOGI2eU5vbmZSZkkzX00zTmFoTjE3Zw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "What Israel can learn from Russia about thinking ahead in war - opinion",
    "source": "The Jerusalem Post",
    "time": "2026-11-15T14:47:09Z",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zaTVMa1FRWDNPUGZjaG92dVA1Y0FJOTU0Zk10bnFZdlFROVBTdWVMMGY5d2s5ZW9EMVRhZzl1SnVWbWlfV0RvdHZFb241N3lkNm43Y0dNVQ?oc=5",
@@ -162,6 +225,13 @@
     "INFLATION",
     "GOLD"
    ]
+  },
+  {
+   "title": "News by CNBC TV18 on TradingView, 2026-11-15 — cnbctv:426e2c588094b:0",
+   "source": "TradingView",
+   "time": "2026-11-15T14:33:50Z",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mUGhuYUhiaExRRHdiNnF1aEVhLTB3TUo4Rzc3N2ZCd1daMkJYU09nX0RjX2ZpR1o2blpqVzF6TjhBa0pOX2JGamYzUDdweW1PekdwZGVHdmNHZGxMb3ltREJ5SWdKcjQ?oc=5",
+   "tags": []
   },
   {
    "title": "Social Security and the blue wave: What could happen to payroll taxes and senior tax breaks",
@@ -245,30 +315,12 @@
    ]
   },
   {
-   "title": "India-US Trade Deal: Piyush Goyal Says Indian Goods Will Get Lower Tariffs Than Rival Nations",
-   "source": "theopenpress.in",
-   "time": "2026-11-15T13:25:58Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUnBYUFZTZlV0cnJocDFtcGtjdUtMclBlaV9GNmNFNk1uVFQ4eVVHT1owdjJRSmZsZ214bzQ0V0tFNGpPeUtCVDJJY0YtY3FhaVhYVWdEN2ZYVVFMaWZTM052cFpIOGdoeDVxUjV6MDB1Sm83bTRPeHNyRkN5WDJlZDgtN3g0UFdXMEZzVTBScXRDNmtjdXZyTlQ0b1BxZ0w1RUdsdzVLVlM?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
    "title": "Yemeni government force retreats from strait in major setback in war against Houthis",
    "source": "Reuters",
    "time": "2026-11-15T13:24:58Z",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVW9oR0pfVGQ2U3NYTWdTRktiZ1Z4TUFnb0UyUHJ0MTJ0ejVtQU12anZRTDg1ZmQ1cGlaS3VaUWYtM3MzdlBEcVRnVVZ1T2RONmtzMVg2SFRHeWRGQXVHb01WR1NCd1pwNXo3R0c3dWRwTHlaSXFYWlctYjhSWlVWb3BXSGNqdEdlMERpYVNQaEVfRUpmRFhWSURlcVFhNmNMekNlMy1XbDNEZVphNDJEQlA4T0pkYmFQZjlHdlBFaEtfYnpBRTE3X0E1elZXQQ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "India Secures Preferential US Market Access With Lower Duties Than Competitors, Says Piyush Goyal",
-   "source": "theopenpress.in",
-   "time": "2026-11-15T13:21:01Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTEItYWhyZjdZdGtNNk5rd2hxdjRwVndyZ3hFU01HeHNyZDNMbHh2eDMtYW1aUWtMMDdFd1pYRExLNXU1TnpTNjAwUlRfYWY4cDJrYVd0SWdSRnZlcExUZXBxSmtWa3E3bGRfa1Boek9kaE9OMXpzRFZGVV9TWEZKaW1xTVhmY2JBOGI2eU5vbmZSZkkzX00zTmFoTjE3Zw?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -309,15 +361,6 @@
    ]
   },
   {
-   "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
-   "source": "Al Jazeera",
-   "time": "2026-11-15T12:39:53Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQnZfRlIyYV81ak90RjNRX0c0eHFfVElETDhZTmZfb2F5WDhxOFk4TVRQNFhvV0x4cHJvRVlLQVAtWmpUczhfM0NraTJoblE2bHd3cENGTzhGbWlaczNBZmdZUTd5Nko2S003RmJoOVhCRlFlX2JOSXI3NldfMUszLWg4UDlKeXk1Z090Q3Zma2h3WllQTEpreDFlSGtNOXp6WU5UVXI0Tkdnb1EwYjY5SWg0NNIBuAFBVV95cUxPUE1GeWU3b1pQZkRVS3g0YjVkejJUdEhwNU90QVgxVXA5dEVBOVpzQXd6eHIwNVJkSHUySldvVWk3MGF5T25WSFlGemx0QW1xZS11bVpXdnFkYjlGdFRLRVQyczIyVnVTc1JjOFFFUkxYUW5xQWllbUFsYmlDRUljdDhhVk1udXZseDlwU3IzQjZOVVhFZElsem1HNG9OOTE4UVpYeTZYX09zZW5Za0xVUU5BZlZXeW4x?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Opinion | A disastrous Iran war? The US is now a mover and shaker of oil markets",
    "source": "South China Morning Post",
    "time": "2026-11-15T12:30:06Z",
@@ -348,15 +391,6 @@
    ]
   },
   {
-   "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
-   "source": "Al Jazeera",
-   "time": "2026-11-15T12:15:51Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Gaza War Documentary 'NAZA' Nominated for Three European Film Awards",
    "source": "Haaretz",
    "time": "2026-11-15T12:14:00Z",
@@ -379,15 +413,6 @@
    "source": "Newsweek",
    "time": "2026-11-15T12:00:00Z",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTB3ZnlBVEc5TVhGc0Q1V0gtUlR5X3FrVGV5NzJNWlNPd055Y1RKM2t6WUpkYzRFNHU1b09iZFZ6enUyRU5iVVRRbEZhejVJZjVsZHFRcWEwY3VmUjZrWGZLSnc4NVQ2SXgzOXVtRDJVUW1DWmUtdlM2QVlUUzdPY2QxVlRKdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Israel coalition talks put Arab party leader under pressure over Hamas",
-   "source": "Al Jazeera",
-   "time": "2026-11-15T11:56:26Z",
-   "link": "https://www.aljazeera.com/news/2026/11/15/israel-coalition-talks-put-arab-party-leader-under-pressure-over-hamas?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -640,33 +665,6 @@
    "source": "The Guardian",
    "time": "2026-11-15T03:41:00Z",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONDZhdzBhLVdGZk1vZFdVY1E5MmhQMWVMWjAyRFJ4RzB6NUlfLWVBbmdsb1BQMFpLbnNlQ2J4bUdWNVpuUE1jbzNseWhuREhsYkRUWm1oRTNLUVhMLVNWWEE5ejh0OVpZakN3YkNjWDNvYUUybUtMVVhsVmladkljQ2h6ZDNvUWREdUVaNkpBclpHTkY2Uktzd3lYMnltNmZEeUh4MUV2RllDSWZPUWNlZjJsaEJ0T29BeDVfLTJydUV2aVVlbncwVTVKc3pEZEJ4YzY3LQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
-   "source": "Reuters",
-   "time": "2026-11-15T02:58:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOemlqVE1TdmREQ0t3TjczWnBWVGZ3TkxTc0ZPVC1fZFlrUDJCZC1KV0liZGdUTHBXZEZpWG9SNkJJSlBYSjVPbE1aUnNtWHl2eE1FbzlURGRwckdIT3R2NG9rVm1oX1V0VEZoWmYxM1dSbmhNc1BidnFLX19YRVU3Q2tzR1F5Vk1QX3dDNXVCeXZ6bmVES0lZNTBlR3E0Z1hJcXFyYXpMam80TGRWbURod1NsUXBwZldjdHFVejFwaWtmVmo3ZWYzYW5QMzk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Opinion | When the IDF bombs a hospital, every corporal is a colonel",
-   "source": "Haaretz",
-   "time": "2026-11-15T01:21:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ19RYjZmUWNqMGlaQ3VhMGRzS0N6Y29QU0hrV01wQWdzV1RDS1dSRXFGbW5XSEFKZENUNFIzaEQ0LUJOVUt2TklZYlhGQUVYOWM5bTVLZ0gyTHptLVd2aHNWM0R0SVhwWk9mZnY2S2pBRnZLRE9HaWE5VU92ZV9WMXF2Z1V4Y1l5c3AzMTFGd0hWaTZrNWM5LV9ENmFrVXRfeGFWcElWMXBoMzN0em5hdzhsMV9oMERJMDNGWlYtR1N1dV9iTWhGeTYzOFI0Z1hSWXUwcEowWldiZUJoTVJUVXFKdVpKWWlXRWFad09JQVlERHVRbzRSNA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Hamas confirms senior commander killed in Israeli airstrike in Gaza",
-   "source": "Investing.com",
-   "time": "2026-11-15T01:06:59Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU05ONDhKRnQxYW84XzBabEYxWVVCVW01OVBpSWk1cC1IS1JyeGhaRXNCRngtalZtX0VZTks1am8wNklvSGFzOW8wTmwxdGRuMGxuNm0yNHVOZFF2RjdES0JON2IxMzVfam9UbjRFYXFQcjNsWGU1R1hkU2xrT1ZCNkxzWTVTUU9BVDd5SkF6V19NRjNrWWVOQnhoSU02bzNXa0ViYVRZMWpYeU1qZE5VR1RqMUFHZWdCRmZB?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
