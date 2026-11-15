@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T07:52:02Z",
+ "generatedAt": "2026-11-15T08:20:27Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 4
   },
   "investing_commodities": {
    "http": 200,
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 5
+   "kept": 4
   },
   "marketwatch": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 23,
-   "kept": 2
+   "items": 20,
+   "kept": 3
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -91,12 +91,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_war": {
    "http": 200,
-   "items": 26,
+   "items": 23,
    "kept": 12
   },
   "gn_sanctions": {
@@ -125,6 +125,33 @@
   }
  },
  "items": [
+  {
+   "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+   "source": "BBC",
+   "time": "2026-11-15T08:17:41Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
+   "source": "Al Jazeera",
+   "time": "2026-11-15T08:07:08Z",
+   "link": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Iran Attacks Bahrain as Conflict Escalates",
+   "source": "WSJ",
+   "time": "2026-11-15T08:03:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc3lsWFRDVTFjbUZFVHdTWkVtWklneU0tUGk0bmdSQUh1dlg0NTg5MXFMREhEOURUTC0zeEJyUUtPTmh6TGNPem92V3pWeUlLUkVKelRuY0VhaWUzaHgySnMtaG4wZmRUUDBQVmx4T18wd2tkVW1wMUppTmFscWlKT0NiaERXYkpPcElwTnNjZFVWWTg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Trump's Manufacturing Boom Claims Are 'Not True,' Peter Schiff Says as Factory Spending Falls Over 21%",
    "source": "Benzinga",
@@ -220,15 +247,6 @@
    "source": "The New York Times",
    "time": "2026-11-15T05:00:02Z",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSmZfM01WUVNtd25vdzE0YmpjNnBaamlIMlZxQ3JRV0NUZjVNREw1VjVMYW5HVUhiZnlJWXFEM3dCVVNNYjBPd1d3TXdOZDM0SnhXRWlhcnA0NlY5WS1iU010bFdJeUdtcTBnTWN5c05hTUpaMEU0aTNQZzJPV0Q0WXh0dll1WVdnRlB0OUNIZ3NLaFRHaVExS1NaRWV0NFJ2S0FyQmc0eS16TlVESHFtd3hNU3o4RDd2cHlDZ0JBMWEtUWsxYWEwNlRtOFdqMFNtbmFJ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran Attacks Bahrain as Conflict Escalates",
-   "source": "WSJ",
-   "time": "2026-11-15T04:53:00Z",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc3lsWFRDVTFjbUZFVHdTWkVtWklneU0tUGk0bmdSQUh1dlg0NTg5MXFMREhEOURUTC0zeEJyUUtPTmh6TGNPem92V3pWeUlLUkVKelRuY0VhaWUzaHgySnMtaG4wZmRUUDBQVmx4T18wd2tkVW1wMUppTmFscWlKT0NiaERXYkpPcElwTnNjZFVWWTg?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -331,15 +349,6 @@
    "source": "Investing.com",
    "time": "2026-11-15T01:06:59Z",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU05ONDhKRnQxYW84XzBabEYxWVVCVW01OVBpSWk1cC1IS1JyeGhaRXNCRngtalZtX0VZTks1am8wNklvSGFzOW8wTmwxdGRuMGxuNm0yNHVOZFF2RjdES0JON2IxMzVfam9UbjRFYXFQcjNsWGU1R1hkU2xrT1ZCNkxzWTVTUU9BVDd5SkF6V19NRjNrWWVOQnhoSU02bzNXa0ViYVRZMWpYeU1qZE5VR1RqMUFHZWdCRmZB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Israeli air strike kills senior Hamas commander in Gaza",
-   "source": "Al Jazeera",
-   "time": "2026-11-15T01:05:02Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQmdDLWFKempfNHV5cGpqdWU0ampmWS1iVXNKSTFkQnhxZmtlOENuV1Vfbm80VVBpNVNEZ0l4VGZYdGF0NkU1eDFsbUVmVXNEOFZCMF9Bd04xUUZVd0J1bmtvRHhBbmVad1NJMkZybFhpYVQyTGtFOEdPeGJPT1JCaERyR0RiQ2YwSDlvZ2VKQVhqZnF4ekFXRmJ4OGpZQdIBowFBVV95cUxONk9IY0QxMlRKTzVKaXJ0Rk9RMnJrczJSMUtjS3cxeGQ5cDhET0VkRDJ3eEtfWFZaOE96dGVJbllJb0duNVMyODVRcUpfMVRBWnlIQkZOVUc5OVBWalpiR1p3dGNvc0RrWUphbjVnQ29RZ0tHZ1dVRFAtMmsxQm1uN05mektmVGtpS3FMSHZ0QWdFdmppRTVVSzcwaDFBbVdhRkFV?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -665,16 +674,6 @@
    "tags": [
     "FED",
     "RATES"
-   ]
-  },
-  {
-   "title": "Bank of America’s Hartnett Maintains Cautious Market Outlook Until Treasury Yields and Oil Prices Decline",
-   "source": "Yahoo Finance",
-   "time": "2026-11-14T15:08:04Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUtORE10bWFPVTV5Zk1ReTQtVW1TVTV4bTVqblptTzJKQnJDdmVTVHVUX1dOUGM5b2dmYTVGak9uUDJkZGtZUC0wYlJqVG54TTdfak9WUUNveG5aTTIxWjJ4RWpxTVhXWHZDNUEtNWFmOGhCUDdUOGFTVWZSeTNkaXYxNDZaV0tDWUI5VDlmV2RRTkhLMkg1YlZDamYzZ1NrZjIyZ0RXbko?oc=5",
-   "tags": [
-    "YIELDS",
-    "OIL"
    ]
   }
  ],
