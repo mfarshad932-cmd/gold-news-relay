@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T14:00:28Z",
+ "generatedAt": "2026-11-15T14:28:52Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 23,
-   "kept": 3
+   "items": 24,
+   "kept": 4
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -91,8 +91,8 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 8,
+   "kept": 8
   },
   "gn_war": {
    "http": 200,
@@ -106,8 +106,8 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 4,
+   "kept": 4
   },
   "gn_oil": {
    "http": 200,
@@ -126,6 +126,24 @@
  },
  "items": [
   {
+   "title": "The race to build autonomous war robots faces a problem that self-driving cars don't. There are no rules of the road.",
+   "source": "Business Insider",
+   "time": "2026-11-15T14:10:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFpROFBXdVlZN25LMmczNDhZY3pJT05sVUpVdGYtMXZVckFqa1ZpMXZkNVRGNTA5dXJvTXJtX2x4SHBidVlaQkdQTktYQjNZRWdFNG1Fdml4akFrd0haTEtSSG5aRjlmeVZoQTFaQk5QYkVyQ1lyMUd6WFJ2Q216Z2pCZ1pLNXRPUE5KWm9QbmRPUWljcGZYRzVyQmZQV2Jva1lwOUphUFhNQkRKT2Jn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
+   "source": "Al Jazeera",
+   "time": "2026-11-15T14:02:08Z",
+   "link": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Yair Golan rules out unity with Benjamin Netanyahu, warns of Iran war for his survival",
    "source": "The Jerusalem Post",
    "time": "2026-11-15T13:48:31Z",
@@ -139,6 +157,15 @@
    "source": "Al Jazeera",
    "time": "2026-11-15T13:45:02Z",
    "link": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran targets US military base in Bahrain with drone attack",
+   "source": "BBC",
+   "time": "2026-11-15T13:42:58Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -166,6 +193,15 @@
    "source": "theopenpress.in",
    "time": "2026-11-15T13:25:58Z",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUnBYUFZTZlV0cnJocDFtcGtjdUtMclBlaV9GNmNFNk1uVFQ4eVVHT1owdjJRSmZsZ214bzQ0V0tFNGpPeUtCVDJJY0YtY3FhaVhYVWdEN2ZYVVFMaWZTM052cFpIOGdoeDVxUjV6MDB1Sm83bTRPeHNyRkN5WDJlZDgtN3g0UFdXMEZzVTBScXRDNmtjdXZyTlQ0b1BxZ0w1RUdsdzVLVlM?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "India Secures Preferential US Market Access With Lower Duties Than Competitors, Says Piyush Goyal",
+   "source": "theopenpress.in",
+   "time": "2026-11-15T13:21:01Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTEItYWhyZjdZdGtNNk5rd2hxdjRwVndyZ3hFU01HeHNyZDNMbHh2eDMtYW1aUWtMMDdFd1pYRExLNXU1TnpTNjAwUlRfYWY4cDJrYVd0SWdSRnZlcExUZXBxSmtWa3E3bGRfa1Boek9kaE9OMXpzRFZGVV9TWEZKaW1xTVhmY2JBOGI2eU5vbmZSZkkzX00zTmFoTjE3Zw?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -352,15 +388,6 @@
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNHR1RWNMTW9uYzJJS29nSEZpX1ZvLWZhTzJadjl4VGR5bi1YYzM2dTl1dXk3bXIta0ktcjJ2YkFTTEd0MklKSC1LMkdqMVZTNGpFMjhlWWY5UWx6bEl4Y0lQdzNzZ2YtQkEzakE1NEVmNXp2c2ZZVDhXbEJEUENPM1lJa0NwMnVXem5aXzNDSlQ1MGg0dTgxNENlZ1lCQl9zaV9aZUt0NEdhNUJCLUZORHpLMXlUQzFXTUZ4QTQzLTF4YlpYODF5VjBhWV9EdWdyVWNiT2dHVHBOQQ?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Iran says it targets US radar in Bahrain. What do we know?",
-   "source": "Al Jazeera",
-   "time": "2026-11-15T09:52:06Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWFKWVZvcERnSnp2TzhOUm9QdjdkR3NmUjNoWnBlTGNIUHlZeDRGOURlNmtSSlY0SmhLU0VGSDdVcjN4X0xFa05kd21mNXRmSXBNbUY5eGZrUXlUVVhXc3U3V29haHFCY29HX1N3Q3pxaW02RnM5QzdxejBzal9Sb09Tc3ZOZ3FCYkQ5dmZIQlowZENaT1BLcmFFYjc5d2vSAaQBQVVfeXFMT1NTRm83ZVNzd1h0RWhmaE02WTRmZ29sSXdTSkZTZGVSUGJkdkdiaGZqb1JDZk1uSXRpVzFfQ3NqR1duRWdjQVRISWVlazBqeF92VFZjMGc3YW4taXhLUnhwaWhlMDlTa2hJZWRDMHVSaVgxOGVmOXRzc0dVUkwzY25sbzluYmhiT2JnNW5EVHktZmk5aEwtaXRxeTltRUl3N0ZUWkc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -641,32 +668,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says",
-   "source": "CBS News",
-   "time": "2026-11-14T22:07:08Z",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Zcash (ZEC) Price Warning? Long Liquidation Cluster Sits at $860",
-   "source": "TradingView",
-   "time": "2026-11-14T21:23:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOU5CRWItU2RFaGh3VE8tOVl2TFF1UEthSDdhbExJaGs4QmlfMFNQc3E4alFKUWlDSUx4enhfbU5FSWttZkVtYWxZV2NzWWs3SGRnMXVKX3FmWmI4WW1OSkdqcTNwdGhxbnhZT29xY1hCMXAwMkJVQWR5YjFOekRCRUtkODREWlROSEdmRTJMbExObnozc0Iya2Q2SExtSFA1TURHZGdrMTQ4aHZHcklKZmg3UWN1TlhzUWc?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Trump faces Carney's refusal to back down as Canada pushes back against U.S. trade demands and Africa's largest economy turns to China",
-   "source": "Business Insider Africa",
-   "time": "2026-11-14T20:44:32Z",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcGRMYktmZXZYQWxOX3hEa3N6SHVYOTc3aW1hdjB6dnA3d01VRUQtdlRSRGpOc1M2eG93NWs0d1dqbWJaWkhVVXFzMThwQmlReFcwT1JkT0lhOEJsak8waDhEdGhtb1ZZcm10bTNpN0xUckhpY2lvTzNMWUNKcjlXT21zejVRaUk1aEV2a25RbndpejlmeGVFOURJT0stSmhkQVRwa2dkMnp2ZTNmN25naC1KX2ozX1pfVXg4MjZYZVlsZG1ZVFZseG1QakFWMk5kZlFjUVhB?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
    ]
   }
  ],
