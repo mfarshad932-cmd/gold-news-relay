@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T00:18:53Z",
+ "generatedAt": "2026-11-15T00:47:17Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -67,7 +67,7 @@
   "bbc_world": {
    "http": 200,
    "items": 23,
-   "kept": 3
+   "kept": 2
   },
   "aljazeera": {
    "http": 200,
@@ -80,52 +80,44 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 9,
+   "kept": 9
   },
   "gn_fed": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 7,
+   "kept": 7
   },
   "gn_tariff": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 17,
+   "kept": 12
   },
   "gn_war": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 29,
+   "kept": 12
   },
   "gn_sanctions": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 1,
+   "kept": 1
   },
   "gn_yields": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 5,
+   "kept": 5
   },
   "gn_oil": {
-   "http": 503,
+   "http": 200,
    "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "kept": 0
   },
   "gn_cbgold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 3,
+   "kept": 3
   },
   "fed_calendar": {
    "http": 200,
@@ -133,6 +125,15 @@
   }
  },
  "items": [
+  {
+   "title": "Thomas Massie Offers Republicans a 'Life Boat From MAGA' Over Iran War",
+   "source": "Newsweek",
+   "time": "2026-11-15T00:11:00Z",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95UXQwWlY3NDRTMm5tMVFoMHYyelFILWQ1cEhBSlo5bW9qMWt4ajluWE42QjV1Y3FWTnpoQWlQakF1YllQbjNWS05Nd19fUGo5S1g1NlZJeFgweGEzZ3Y0WGt4VW9ZbloyLS1vVzNSWjhVbnBmd3VCTmJGaG1MQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
    "source": "Al Jazeera",
@@ -152,6 +153,15 @@
    ]
   },
   {
+   "title": "Israeli military says it struck senior armed Hamas commander",
+   "source": "Reuters",
+   "time": "2026-11-14T23:29:51Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhZd1pxN2d0N3pmR2RCbjhCQk9teURKLThfYzR0bC1rVWJpVGUwNkpJelBNeVNLY3hxS1B0c0p2bTk5VmhCeFVGUWpHSFVNdHFKZjcydUdYNDEyMThuQ3hTRmFNSTQ0Z05ZSWRSd1A3QnM3eTRjWkNJbkN2Z2E5M1FQaUdrdUtaYzVNcWtVMC1LOU1yUkpoUk82d0ZQejM5cDR3YXVqcE5xMlJkTVU2dGduMDdsUWp2UG5ERFZUZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "What If Israel Lost the War for Hearts and Minds?",
    "source": "The Times of Israel",
    "time": "2026-11-14T23:23:00Z",
@@ -165,15 +175,6 @@
    "source": "Al Jazeera",
    "time": "2026-11-14T23:01:30Z",
    "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Israeli military says it struck senior commander in Hamas' military wing",
-   "source": "Reuters",
-   "time": "2026-11-14T22:50:11Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhZd1pxN2d0N3pmR2RCbjhCQk9teURKLThfYzR0bC1rVWJpVGUwNkpJelBNeVNLY3hxS1B0c0p2bTk5VmhCeFVGUWpHSFVNdHFKZjcydUdYNDEyMThuQ3hTRmFNSTQ0Z05ZSWRSd1A3QnM3eTRjWkNJbkN2Z2E5M1FQaUdrdUtaYzVNcWtVMC1LOU1yUkpoUk82d0ZQejM5cDR3YXVqcE5xMlJkTVU2dGduMDdsUWp2UG5ERFZUZw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -671,13 +672,6 @@
    "tags": [
     "GEOPOLITICS"
    ]
-  },
-  {
-   "title": "Apps like DoorDash or Uber Eats rely on a small group of superusers, new federal data shows",
-   "source": "Business Insider",
-   "time": "2026-11-14T10:51:00Z",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTGo3RG9JMU1fM1dBWWZ1WDJDWW1mVE9GakIwMGJ0VGhkLTdUZ3JwbHN5YkM4Z2xkX08zMG12UjlKTERmeEphMTBTa3Rjd1ZRaEpXQTNCcXlMcjYtLUlDYm85Q2hZQnFSNWszNi1MRU1jdDhMNmMzZEVhZFhfM055M3ZrZ1BnaGZMMTBQcVF1cTI?oc=5",
-   "tags": []
   }
  ],
  "fedCalendar": [
