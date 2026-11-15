@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T23:50:43Z",
+ "generatedAt": "2026-11-15T00:18:53Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -61,7 +61,7 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 56,
+   "items": 57,
    "kept": 1
   },
   "bbc_world": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -80,44 +80,52 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 9,
-   "kept": 9
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_fed": {
-   "http": 200,
-   "items": 9,
-   "kept": 9
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 19,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 29,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 1,
-   "kept": 1
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 5,
-   "kept": 5
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
+   "http": 503,
    "items": 0,
-   "kept": 0
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 5,
-   "kept": 5
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +133,15 @@
   }
  },
  "items": [
+  {
+   "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+   "source": "Al Jazeera",
+   "time": "2026-11-15T00:00:08Z",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
    "source": "Al Jazeera",
@@ -563,15 +580,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnlwbWs0ZS03cXBiOWlZazFtUXpVVWVRNk1DSm9VczVpb2pScVlLdGxKc3RYWWdtOTlNV3hwd2hyYXZBTk5iWXU3cExZQTdGNDZpanRCanNramY2OXEwVzg2WXdvaklzSzduMjFzVGFSVldJU05ac2h4Yk1RbnhENS1oM2hZb3pmU2FRMzJhYngwMEVocERSZVpNTmhVUHBwM010SHRrUzZ3dw?oc=5",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "How does Iran view shift in US approach after JD Vance ordered away?",
-   "source": "Al Jazeera",
-   "time": "2026-11-14T13:31:16Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU25YOEt2azhyMVliR1pCWFgyOEFLWW5wTmVwUEpxR2M1MVBNNUc3X2ROUjduSTBIOTVZelBtX0wxM2dnQ0dpb2hPbzlVc2lhV19KVm4wUDlMMk1EODlTb1VpM1ZyZnZzemtaQ2thZV9ZaFBnd3NROUZKS2dSRzNBeWQ3TnVZQmJLM3FERUxGN3dQQWdmckVMblhTYUZHSXNMQWY5c0RQMUJXQdIBrwFBVV95cUxQUlFndzRxWmxLRUxGT041VHg4R0ZfakRCU20wZUs3WXV3NW5obmYxVVFfNk1LZ1lSSE5QeElIVFhYQ3hmbWFJVXB2OG1ERHB4aDV0UzUyQm5PMmctNl9kVW5aMVRNa0xuMWNNdFRIQ0lmV0w4NzRsSEhOVDZ6alRQSkxvNWZNMmRGeHBiYVdLN0cyN2tWQTd0a2tMSHktc0ZJakZ0elNJZUJUaDdxdzhn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
