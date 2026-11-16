@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T16:00:01Z",
+ "generatedAt": "2026-11-16T16:28:22Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -86,7 +86,7 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 22,
+   "items": 20,
    "kept": 12
   },
   "gn_tariff": {
@@ -101,8 +101,8 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 13,
+   "kept": 12
   },
   "gn_yields": {
    "http": 200,
@@ -126,19 +126,57 @@
  },
  "items": [
   {
-   "title": "Northrop Grumman receives $1.6B order for missile motors",
-   "source": "Investing.com",
-   "time": "2026-11-16T15:52:27Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWE9pS01QSjFUaDFwVDVYWExGcjhXa25MOFFSbkRmcDJpNHVRRHZ0UzBsV29jU2J5SGlzbENnRVU0UWJxU2RwZmo3YU9HNnlrZUdVSnRibGx4cklTYmNDVXAyS0YzbDNZdF9KVXdIOE5mOEtDOFktWUw1dU9BNm9GUjdQLVVjcG5QV3FNZkhKV1FQT2c2LUtfSVNGMTRZVHZuVVFzY0h2S0JrTHBLWmhraw?oc=5",
+   "title": "Russia's Yandex shareholder leaves board after EU sanctions",
+   "source": "marketscreener.com",
+   "time": "2026-11-16T16:21:33Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaU94czBOUzZEMk9qMmxjd3lMeWM2M1dIelhCWkNpSzNES0RkcDEyWGx2STU2OEpMUlRMNWdjcldKMWZ1TjBHekxuV1BGX2RtT3pfYlV3R3Z0X0dPUUtYZWxqZWNSS050clRORzl4R1UtZTNDVkJSSnRiLWFuMEZOM1ZwZzRwSDZ5MWM5WUMwRFlzLXhSc2dERlpZcG5PNWtkeVZPN2hlbnpkenlhYmVMRWhB?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
+   "source": "CNBC",
+   "time": "2026-11-16T16:19:27Z",
+   "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "U.S. crude oil declines to $87 a barrel on recovering Middle East exports",
+   "source": "CNBC",
+   "time": "2026-11-16T16:17:39Z",
+   "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Opinion | The Russian Orthodox Church is waging a war against one word",
+   "source": "The Washington Post",
+   "time": "2026-11-16T16:17:37Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUwzcFZ6YWtJNXdpSm03c2kzeUdJdUZUcDJCOVVrdmVMUmtSSzM0dUNial8zWkFWVTBnUno1bGY5c3pwU2ZHUnpQZHdjMFVReUxYT0NERE5GbWtJbU9MWVhSNGJ6NXhaLVR4NnVfTm9nZno1aGZIX082WVg0dUx1TmJDS1Q5UWlNV2FzOTktTlZIS3pCajJ3Wg?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Opinion | Erasing ‘peace’: How Russia’s church serves its war in Ukraine",
-   "source": "The Washington Post",
-   "time": "2026-11-16T15:43:19Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUwzcFZ6YWtJNXdpSm03c2kzeUdJdUZUcDJCOVVrdmVMUmtSSzM0dUNial8zWkFWVTBnUno1bGY5c3pwU2ZHUnpQZHdjMFVReUxYT0NERE5GbWtJbU9MWVhSNGJ6NXhaLVR4NnVfTm9nZno1aGZIX082WVg0dUx1TmJDS1Q5UWlNV2FzOTktTlZIS3pCajJ3Wg?oc=5",
+   "title": "France accuses Iran of cyberattacks on supermarket fridges, seeks EU sanctions",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-16T16:09:10Z",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51SjZ4N0pOSG5xak1UQUMyaEpIVVdHSTh1MzJpR3JQZldsOHJ4R0lWdmdRdGFSVDJETWk4ZzE0OHhqOHhSc0p6MkVfTmU4SUpJbTNqeDJTeHdzT3BfRGJPMGp1a1BHYlE3LXc?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Northrop Grumman receives $1.6B order for missile motors",
+   "source": "Investing.com",
+   "time": "2026-11-16T15:52:27Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWE9pS01QSjFUaDFwVDVYWExGcjhXa25MOFFSbkRmcDJpNHVRRHZ0UzBsV29jU2J5SGlzbENnRVU0UWJxU2RwZmo3YU9HNnlrZUdVSnRibGx4cklTYmNDVXAyS0YzbDNZdF9KVXdIOE5mOEtDOFktWUw1dU9BNm9GUjdQLVVjcG5QV3FNZkhKV1FQT2c2LUtfSVNGMTRZVHZuVVFzY0h2S0JrTHBLWmhraw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -163,15 +201,6 @@
    ]
   },
   {
-   "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
-   "source": "CNBC",
-   "time": "2026-11-16T15:34:48Z",
-   "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
    "title": "Gold Price Forecast: Hawkish Fed Signals Keep Rallies Vulnerable",
    "source": "FXEmpire",
    "time": "2026-11-16T15:26:07Z",
@@ -179,6 +208,15 @@
    "tags": [
     "FED",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-11-16T15:25:24Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -321,7 +359,7 @@
   },
   {
    "title": "EU expands Russia sanctions list by 145 names and entities",
-   "source": "www.marketscreener.com",
+   "source": "marketscreener.com",
    "time": "2026-11-16T14:31:42Z",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLVVlMGgwcmdwUzl6WU8yOVQ5dlYxTjBtR2Z6YTd4Y1pyMHFlV3N2ai1CTGdQYllxblN0OUtwZ0ducHlpUVVXZU83N3p6WTF6ZC1tQ21heGxhSE5ZZ0d0b01EaWx0ZXg2Q3g1VTNFTEoxWnFMQUdKcFZKQXNnbm5wcG5CUGI0b3hCRkZOMGh1UWZZTWlPZFRsZ3c1djRVNUNraUZndU16dHVLaWdBVVRMcw?oc=5",
    "tags": [
@@ -422,15 +460,6 @@
    "tags": [
     "FOMC",
     "FED"
-   ]
-  },
-  {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-11-16T13:55:24Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -651,34 +680,6 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmhGNVhidkt3TlpMM3l5UmpTaGYyRnEyZ0pDQnhydG0wWm9sS3VGN0pndWVSODhUbFhYTW5EalBIMEljZEVsNndnbVVNd1dmVzNOMVNHYmtpOEZjVXBaOHNfQ0dzQjlva0QyNEU5OS1vMm50TmhuVEFaZDZ0THpwTDUtX3dpeV9HUEYwOEZaVkhBNzBrZXg1dXljcmVFRC1CT0hqclh2cU9uSklvSTRnSUxXVTlmQmNhNlI1Q1E0S2hSdzF3?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "4 Canadian stocks that stand to benefit from US midterm elections",
-   "source": "TradingView",
-   "time": "2026-11-16T12:40:14Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVUUtNzNlOFVUZHA3NW1lUFhHdEE3cFNqZXUtV1VyYkZ5Y0ZfRnBvRDVTVElFdDQzZjRxUFhMXzJSUXNrS2x1QXBRYXpIZ2JkUUtSSWt4NDRYd3h5aG9qcGp3Uno5TnZwYWhNWDZVbWgxMV9pSVZTVDl6VlZ1SWF5bVlSRUhuSlRSanRnbXZIWkp3YkhSUGVmekNrUmttSXhlRUlyOVVRUUw0eU1kREJUcHI5N2hzNmRud2pESFVUTQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "USD and CNH Cash-Settled LNG and Gold Futures Now Live for Trading on Abaxx Exchange",
-   "source": "The Manila Times",
-   "time": "2026-11-16T12:38:29Z",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTzZzQnhEVUJ5VF9lMFVKYldkTkdRczNlYUdQcndWb0Q3WlJEZTBsS0hycjJmWWwtQ3ZpV0pKanRPTzFIZFVOYThaV3NYeXB5X1hjTFRLMlByN1VjTVZ1MXpQMHloblZ5ZUU0NGtHdlR1NWUwdUVGbmxtWXdEM2RzV3Z5RUVObDlsQjkwbW5sMkpzZTI2MmRfTlROWkZSeWpiRE1mTjh0SVo1SVBmSmdIdUN5SDU2Nm5Jb2d6a2d1RVdvT0JxeWVaMkJrNDRraEdCcVEzZE9xcVFiRXYzdUtTTkdwSlhnTEhiTDZGX2gxY9IB9AFBVV95cUxNaElDVnJkeWx3dUVHcEV4WUx1NVNSQTc0cEk2SUFEcFVuNHVJcFJjeGZtQjFWQUdwQnlsdHZQSElFczZPQk54ZVFlV0VzMldVRTBLeGs0MTIwT0dkVFpzaGJSa2cwR0ZZbzRFdmJqdjhRc0ZSSFR4a04zMi1lZS1rS1hGWjNpamxROWV4SDN3WFdmN25GQ1RIaE9GbmpJMllXc0ZERXoyWkk0Nk1JNXBOcEVMMDUtdXZGek81c0Q0WGhZdjJBaUVfdEg4b0FVZXAwd3JGT0VFbWk0UVVveEdCeDd3N2pETTdWOFNQa3RQR2lUVW1j?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold prices today, Monday, November 16, 2026: Gold prices hit lowest levels in over a year. Here's why.",
-   "source": "Yahoo Finance",
-   "time": "2026-11-16T12:35:41Z",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPT3hOZU5BcnBOZlhpenpQMllzc0xzTWRyWFIzXzEtLVVlX0dIMmxTWVJ0NVp5MWN4bWctUGJ0VUxSVFpJZkdfY2pfR1FGRjhiY0dPTjJaLXM0S2xhU0l1MUVKYkRXcHB3VDVlMXFQbzcwc3hyUV9IZkdNcWFqRl9Vby15OHM2emJDM2JSWWRkd2NTUlFZbmlWNWdZc0MydDdVbDBBNEF5NVM1MlJSTW90VURuZEVQZDV4RVZRSDVyT3hiSUtvOEVjcWhfeHRTWC1aZVoySWdKQ0VpUVhWcFBwNlNSWTl3RWtfUG1vNHhLTTJGTnFqanh0MVdHYkxEQzR3ZFE?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
