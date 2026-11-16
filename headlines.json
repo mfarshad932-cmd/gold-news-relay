@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T10:19:02Z",
+ "generatedAt": "2026-11-16T10:47:25Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 9
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 10
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 13,
+   "items": 14,
    "kept": 12
   },
   "gn_fed": {
@@ -91,12 +91,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_war": {
    "http": 200,
-   "items": 34,
+   "items": 33,
    "kept": 12
   },
   "gn_sanctions": {
@@ -111,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 3,
+   "kept": 3
   },
   "fed_calendar": {
    "http": 200,
@@ -126,9 +126,36 @@
  },
  "items": [
   {
+   "title": "NATO member Estonia to close Russia border after attempted 'sabotage' of drone maker",
+   "source": "CNBC",
+   "time": "2026-11-16T10:44:02Z",
+   "link": "https://www.cnbc.com/2026/11/16/nato-estonia-russia-border-ukraine-war.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "From AI to oil, here are Goldman and Morgan Stanley’s outlooks for 2027",
+   "source": "CNBC",
+   "time": "2026-11-16T10:39:38Z",
+   "link": "https://www.cnbc.com/2026/11/16/goldman-sachs-morgan-stanley-2027-outlook-markets.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Ukraine launches biggest drone attack on Russia since war began",
+   "source": "NBC News",
+   "time": "2026-11-16T10:38:51Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0xfMlFhd1lZcGlEb3k1TGJyUlJGdGJHZDZjbU0xeWRRZDVJeE4wVGJHVUNzTnZ5aFJVZEE2bW8tNjZuODZXS1RnMlFQTkQtQVZtQzF2NmhjNWlzZ1BpVGc1dFZ2QU1oMC0wekZFQnhtWlBJX1VTVXlFTlNtM1JrbDFJaFBKRGVaUnRHZG5UbHNwcDdlX2lWN3ozckVYNVNkc2xmYy1B?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
    "source": "Al Jazeera",
-   "time": "2026-11-16T10:15:21Z",
+   "time": "2026-11-16T10:16:59Z",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeV9idVVUaFB2a1hNbHIxci1yVmxNTTQwczhxSFdvZXFxWVIwX2NDVUd1Wjc2UHprbUxsaU44R1JvYWpqMmdVLTVuNy1Cb2lTYkpTQ3BuMW90a1B0TFdEUEYzcndiZVI2WDNHRDd1Qmt0N0ZwSzR3Si1iS09SYXZXMTV3bExYMEZNTGZTU19nbW54QzQ0VVVVc3loY1RQcHg4djY5eVJXVDdLeDFWZC1oUVl4NNIBuAFBVV95cUxNQ0dvV2xFTmFuLWVhbmVycEw3T1VsUVA5bDVsc19Ibkl3ZUtRWm93MEVjTlBKV01pSFNiWXkwbWItdzZaV0JyZ2FuUVJTM0ljV3RaWDVqLThWcDBTdEN5NGk2NTdyRmdBWDhDRkUxRi1CVWQ5M0xVcFZBU3Q1OGE3djBWenFYczdJYjFaVnVrRlp2OW8zX3ZFeW5TZGdhVDItM05WelpTVVdtb0g4eEFoRGg0M1pLNFBl?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -174,7 +201,7 @@
   {
    "title": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
    "source": "Al Jazeera",
-   "time": "2026-11-16T10:07:30Z",
+   "time": "2026-11-16T10:07:33Z",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTdwQ0doWjlyZXNRZEVpOGd6aVVCNmFQTkdNT3lBOU9kY1d1YlZJSWRldWFDTUFoWjQ4TUE1TEpwbTlWTkJ6ckszT1g2RmJENVQzZ01lMVRScG1UQk1ZbHR1OHRaUWJLUWxGdmxYQnlGclFiU1FRLXNSZTF2ZUcwbGM2bk5OdDh2aGctWUhkdjlBU3pFVzhZRW9aSG5ob3cwVVFGc1dIV0pZbGZsQTBHUNIBtgFBVV95cUxPVEJNajdIOXd2dzZfTmxhZ2dZT2RuTXVNY2tRSDNQNlBPVFBFMXJJbmhIMEpnT0VlNl9ET1FpNHB4dDZYVDAwZERCdlNuZ0VmLUI0dmpueDRBM1dQckI1azNtNF81a0JPMlBUd1o0RVJ6Y3h1SldrZkZjd1Y5NldYZnR3SGVSVzZrV1hiZ1Vob1Y1dThRZjI2TmxHTUhNQzdQcUdfM3FDZjFjT18zbGdzc1VQZWNWZw?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -263,6 +290,15 @@
    ]
   },
   {
+   "title": "News by CNBC TV18 on TradingView, 2026-11-16 — cnbctv:3310a45ce094b:0",
+   "source": "TradingView",
+   "time": "2026-11-16T09:32:04Z",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXeDNaNE5JWWMteEtJTXcwOWFvS19PaG4yYVBPTFM1S2c3bkZBSHpZU2RkZUV3Q0o1cndiczFiSU9lM2dpTUhLeWRSX3d1STZEMFpIb1BfRnowRmV2X0d6ODhkSV9UdEU?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
    "title": "Crude oil prices may fall to $75-$85 next year as surplus builds: FGE NexantECA",
    "source": "CNBC TV18",
    "time": "2026-11-16T09:32:04Z",
@@ -281,10 +317,10 @@
    ]
   },
   {
-   "title": "NATO member Estonia to close Russia border after attempted 'sabotage' of drone maker",
-   "source": "CNBC",
-   "time": "2026-11-16T09:30:31Z",
-   "link": "https://www.cnbc.com/2026/11/16/nato-estonia-russia-border-ukraine-war.html",
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-11-16T09:25:24Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -418,15 +454,6 @@
    ]
   },
   {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-11-16T08:01:17Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Gold set to snap blistering run of 3-year gains as Fed rate increase looms",
    "source": "South China Morning Post",
    "time": "2026-11-16T08:00:07Z",
@@ -463,6 +490,24 @@
    "source": "Investing.com",
    "time": "2026-11-16T07:46:00Z",
    "link": "https://www.investing.com/analysis/gold-expected-to-respond-to-weekend-events-may-indicate-next-directional-moves-200691613",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Iran says UN inspectors not allowed to visit damaged nuclear sites until war ends",
+   "source": "The Times of Israel",
+   "time": "2026-11-16T07:40:06Z",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSjRpTWdKQnNYclF4QU1QSlJyNHMzd0JDa2hPVWZnZWNnRUNDRjQ0eFU0YTkwQ3RTWEo4b0RLS1NxcXRPRjYwcWNMX1p2RU5IOVhCR2lROTExY2xXTDVrdThNOWhuSEx6MXBSX0NzeUgzUHkxVzdyZGNyS3BtejhYTkx1NVhTczNuU2xqV2VpbnlRMkRoTTVNemtLTzN2cHk0UW1hYWhKUVlxTkR3VEhuRTdKamZPUFFIeTJpSThkSV84VU5oUXc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "META_TITLE_QUOTE",
+   "source": "Yahoo Finance",
+   "time": "2026-11-16T07:35:18Z",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LRXk3WmZ5Y1MwZVR2TUhJNEJYakk2Z3ZPbHkyWklVNkdJTnB3bjBpb0ctRzhrUzNhUmstaFJfUkJ0SVZ3VmRGTVJGS3F3aG95?oc=5",
    "tags": [
     "GOLD"
    ]
@@ -510,15 +555,6 @@
    "source": "Al Jazeera",
    "time": "2026-11-16T07:13:00Z",
    "link": "https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran says UN inspectors not allowed to visit damaged nuclear sites until war ends",
-   "source": "The Times of Israel",
-   "time": "2026-11-16T07:11:01Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSjRpTWdKQnNYclF4QU1QSlJyNHMzd0JDa2hPVWZnZWNnRUNDRjQ0eFU0YTkwQ3RTWEo4b0RLS1NxcXRPRjYwcWNMX1p2RU5IOVhCR2lROTExY2xXTDVrdThNOWhuSEx6MXBSX0NzeUgzUHkxVzdyZGNyS3BtejhYTkx1NVhTczNuU2xqV2VpbnlRMkRoTTVNemtLTzN2cHk0UW1hYWhKUVlxTkR3VEhuRTdKamZPUFFIeTJpSThkSV84VU5oUXc?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -643,45 +679,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PeXE3N1laT3JLU21rQ1JZb1pVVXNKdVhPSkR2UTM5SThfY0NUUVdSNVpPdjZfVlhXUWdidEtNSUZvU3AtQUJlR2RuTTQ0bTYtUEZEQkltWTlLZFk?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump’s Ex-Counterterrorism Chief Cites FAA Ground Stop, Nearly $50 Billion Bill In Call To Focus On Dome",
-   "source": "Benzinga",
-   "time": "2026-11-16T05:24:23Z",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOZURlYWNnMERlc3JkYTg4cHBaZ2ZLNW1XSFVhZktpMFBaV01UNzdxbGJxd1Viay1leExkVlpSYjdJRFRCQmhKLVVleF8xTzVqVGh3TFhxNTBZbUdybXZfQk8xWXN5NWdKRjdfR214T3psR0tIcG9qamhNSnU4YXlhTXd1OEpLXzBsRXlPUms2Vm1MNTFhZ0h2RHJMTkZZMTZvbXZZVVdvdHZYMDZTZW1Rb0t3QzNXTDJhVjRmUGlVUE1QZjRYcmdIS1FHWjBTUC1DbWI1Q1dXZEQ4LVFyNm01clV3eUJBRmowWThLME82RDFWYWxkSWhaSHAwRE1JUWJRME8wY2tzS3lUT3M3b0YxRW45VWNFeEU?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold holds steady as investors await Warsh remarks for rate signals",
-   "source": "CNBC",
-   "time": "2026-11-16T05:24:13Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTVJaOG1NX2M0MVR0c0tyZFlmaWVHY1F4Uk95QW9DRzQ5VERlR0h5d1FhbUNMVHVIbFRtazA4TGh6ZkxENjA3bWp1R256VHE4RC1NcF9udVpxc1MzMkE0UFhvdmpxT25EbWt5SG80Q3ZGOWdSbFFMQjhfM0V2X1NPcTdnclJrUThpcGtRSF9CdXUzaU1GOEVaRXJ0SC1pVmFwZnhxSVFBNNIBrAFBVV95cUxNRU1aT3ktODNULUM3bEpZMVRRd3prSEc2QnE3UllBSjhjbDRWM3czV0FkY21fbmY1anZaWXdyZlVnUkRLMFhtNFBMZ3U5WjRTbWNqbnVUbFg1SkRnY0o3RTZJWEhwUzEzV0xCVmxlNHZwUFZRa2xYUHB3LVpQbkxyaFhlemtlcW84cHpLV1FmRTc4OEZHRFltTkpmdXM0cG40MzNjR2JCWWJrNGRN?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Silver Falls Below $50: Hawkish Fed Bets, Rising Yields And Dollar Trigger Fresh Selloff",
-   "source": "TradingView",
-   "time": "2026-11-16T05:23:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcWxmT1E4Y1ZaTU8tSHBUeWppMGxGdGxvWlZtcHd2SzRqQUFVaWFhSkVrUm96ejFFNFc1Y2dwLW9xUlVoa0tSbUwxQ0t3bTlYY2I3NExDNDNnQ2xGUmFISWdiUTV6NVBMM1lhQWpjTjlkSzFTRlhMaEpXU3hqOU5WYjM3a0pFLTFNb0Y3U1NjcmpDNVVEZXk3a3ZWYVpicmpFUTZsN0RvYVlRZVM5b01rY1VMSlJPeGlIYlBROS1Hak51Vk1JVGVuRDJLTFZ5cVJsRGNERDJQT1MyWFBTV0ln?oc=5",
-   "tags": [
-    "FED",
-    "USD",
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "WTI Forecast: Eyes $85.00 confluence as Middle East risks loom",
-   "source": "FXStreet",
-   "time": "2026-11-16T05:14:26Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONk1VdkFfM3kzZlZ3eDU5cS1reHU5Tl9ySEdOT2dKZTJsVHBfWF9YQlRHbE4yb3FvaWpQYWNrcEpabWpIT0lQUkpSR2xmZ19zdjZ1ekU2a1FVWWRBRkVkbDdITWIzT3o1TEFiamNCc2dFMGR6QU1DbGktUkdNYThuc3BPdlZ5SDFCbmg3dVAzb083VDZYc3pEbnI0c3ZVODJjSF91eEY0dlBhTDUwYnRKNVFxR21VU3dCQ2x4UW9zcw?oc=5",
-   "tags": [
-    "OIL"
    ]
   }
  ],
