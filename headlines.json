@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T13:37:38Z",
+ "generatedAt": "2026-11-16T14:06:09Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,12 +37,12 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 5
   },
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 9
+   "kept": 8
   },
   "investing_news": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 18,
+   "items": 17,
    "kept": 12
   },
   "gn_fed": {
@@ -91,8 +91,8 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "gn_war": {
    "http": 200,
@@ -101,8 +101,8 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 6,
+   "kept": 6
   },
   "gn_yields": {
    "http": 200,
@@ -126,12 +126,86 @@
  },
  "items": [
   {
+   "title": "Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power",
+   "source": "CNBC",
+   "time": "2026-11-16T14:05:54Z",
+   "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "FOMC Members Miss No Forward Guidance Memo As Fed Cuts Policy Meetings (NYSEARCA:SPY)",
+   "source": "Seeking Alpha",
+   "time": "2026-11-16T14:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSkk4SnZyaUFvQ0N1TkhtZzc4VWJocFlJVUc3eDduSS1rczlnQ2FPT0FqcDY5ZGhtSmJCdzl5WFpIaVA4YkFMaFVic3QwQkxLdy1DRkZrSS1fWjRwYU56cXMxWWd4cFlCZ1Npdlk5OUpEX0pWcmRQZERSRTNxQkVuTm4wMF9IdDBtc2xzNlJkY3dvZEVJV1BRUVMzSGNDZmpvU3NIVkRYOXZsRm5pTUVn?oc=5",
+   "tags": [
+    "FOMC",
+    "FED"
+   ]
+  },
+  {
+   "title": "Ukraine launches biggest drone attack on Russia since war began",
+   "source": "NBC News",
+   "time": "2026-11-16T13:44:43Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0xfMlFhd1lZcGlEb3k1TGJyUlJGdGJHZDZjbU0xeWRRZDVJeE4wVGJHVUNzTnZ5aFJVZEE2bW8tNjZuODZXS1RnMlFQTkQtQVZtQzF2NmhjNWlzZ1BpVGc1dFZ2QU1oMC0wekZFQnhtWlBJX1VTVXlFTlNtM1JrbDFJaFBKRGVaUnRHZG5UbHNwcDdlX2lWN3ozckVYNVNkc2xmYy1B?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
+   "source": "Al Jazeera",
+   "time": "2026-11-16T13:40:30Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUldXRHVxRFh1enZnM0FycFdjbnk0LTc4Y093Wm1Jb0hieDBDSUNGcnM1cVhNMExSWUVLT0dSdjNSMmp0RUVPekpqMml6b2VtbzhfWkJSazJmUXV5bDljakdUUVF5VGlPYUIxVDdNdHI3UVNhT0FqYW5QOWJKMG5fY3NRYTJ6RENEajFlYmdodEZCTEw0LW9ldTFxTTh4S0R3bHc5a2h6N1FRaFBDRkxFbVBSdHFpQdIBuwFBVV95cUxQSTFVVi1PZlRHVDRieWdSYmpwZndlR1huenBHQ3FHcDVBb3pLQVFqWUxNdFNITEtoN2NJbVB5bWhZTng5ZkpuWXZPWmg5LXNyU2hNY05Od0ZCQTVoLVVfeFNWYkNRY1YwX05iZTB0N1NOQmJfMjg0SGpKWFVuVnNzT1Jfa0d3c3gxSXItUWxCSDNNLUljOTVWOGNDNzBlc0ktUk5GcG5Gd1kteUdkaUlVblVpZzVkQzdBMGNV?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Canada inflation holds as surging gasoline prices offset easing price pressures",
+   "source": "Investing.com",
+   "time": "2026-11-16T13:40:09Z",
+   "link": "https://www.investing.com/news/economic-indicators/canada-inflation-holds-as-surging-gasoline-prices-offset-easing-price-pressures-5029922",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Brent Crude Could Fall to $78 as Middle East Supply Recovers Faster Than Demand",
+   "source": "Investing.com",
+   "time": "2026-11-16T13:36:00Z",
+   "link": "https://www.investing.com/analysis/brent-crude-could-fall-to-78-as-middle-east-supply-recovers-faster-than-demand-200691663",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
    "title": "Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash — and $500 oil",
    "source": "MarketWatch",
    "time": "2026-11-16T13:36:00Z",
    "link": "https://www.marketwatch.com/story/why-this-40-year-market-veteran-is-making-a-lonely-bet-on-a-40-stock-market-crash-and-500-oil-c62aefdb?mod=mw_rss_topstories",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "gold price struggles even as New York Fed's Empire State survey weakens",
+   "source": "Kitco",
+   "time": "2026-11-16T13:32:26Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWktDb1dkWG44SXZtY1B0bWo5QzZCVzBxWnFCaFFiSnpJNmplY3VvUVZqUWxlMjR6WWdadlo4cG9HeTNnQS13UTR3X3lXeUJUVGRfMkc0cU9lQVFEZ19pRXRIMGpGYTBub1huTm05cTVjZFF4dl9saHFPamItUjF3WU1qczd1a1h3WE02eFhjeEt2bEFhTVFVUS13RGk3X2c0VUVFVXAxeEtGdnhrUlRRUHktUQ?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Canada October CPI 3.1% vs +3.2% expected",
+   "source": "ForexLive",
+   "time": "2026-11-16T13:30:13Z",
+   "link": "https://investinglive.com/news/canada-october-cpi-3-1-vs-3-2-expected/",
+   "tags": [
+    "INFLATION"
    ]
   },
   {
@@ -151,15 +225,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVYwVDg5MXZXMnJqM2dieklWMm82aEdtZnJjVDFhZEtOMktkUzgydnEzT2lOOU1VX0R5ajd0Z25jQzhPRFJMT1FmZUNwNkJMVWxRcERrQ05SSEVMOUcxV1gxeEo2U295ZjNuMEd0VUpoTGowOWY4TE80RS1KbGNIYjFUYjZMZ19CbXpSYmE5bVo2SmVWWHROa2JxUHFsVnphREhTVEt2MDZhU3IxYl9ueUhGZmQ5T3lZNEpUMERZeFM?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
-   "source": "Al Jazeera",
-   "time": "2026-11-16T13:28:36Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUldXRHVxRFh1enZnM0FycFdjbnk0LTc4Y093Wm1Jb0hieDBDSUNGcnM1cVhNMExSWUVLT0dSdjNSMmp0RUVPekpqMml6b2VtbzhfWkJSazJmUXV5bDljakdUUVF5VGlPYUIxVDdNdHI3UVNhT0FqYW5QOWJKMG5fY3NRYTJ6RENEajFlYmdodEZCTEw0LW9ldTFxTTh4S0R3bHc5a2h6N1FRaFBDRkxFbVBSdHFpQdIBuwFBVV95cUxQSTFVVi1PZlRHVDRieWdSYmpwZndlR1huenBHQ3FHcDVBb3pLQVFqWUxNdFNITEtoN2NJbVB5bWhZTng5ZkpuWXZPWmg5LXNyU2hNY05Od0ZCQTVoLVVfeFNWYkNRY1YwX05iZTB0N1NOQmJfMjg0SGpKWFVuVnNzT1Jfa0d3c3gxSXItUWxCSDNNLUljOTVWOGNDNzBlc0ktUk5GcG5Gd1kteUdkaUlVblVpZzVkQzdBMGNV?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -187,6 +252,16 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeV9idVVUaFB2a1hNbHIxci1yVmxNTTQwczhxSFdvZXFxWVIwX2NDVUd1Wjc2UHprbUxsaU44R1JvYWpqMmdVLTVuNy1Cb2lTYkpTQ3BuMW90a1B0TFdEUEYzcndiZVI2WDNHRDd1Qmt0N0ZwSzR3Si1iS09SYXZXMTV3bExYMEZNTGZTU19nbW54QzQ0VVVVc3loY1RQcHg4djY5eVJXVDdLeDFWZC1oUVl4NNIBuAFBVV95cUxNQ0dvV2xFTmFuLWVhbmVycEw3T1VsUVA5bDVsc19Ibkl3ZUtRWm93MEVjTlBKV01pSFNiWXkwbWItdzZaV0JyZ2FuUVJTM0ljV3RaWDVqLThWcDBTdEN5NGk2NTdyRmdBWDhDRkUxRi1CVWQ5M0xVcFZBU3Q1OGE3djBWenFYczdJYjFaVnVrRlp2OW8zX3ZFeW5TZGdhVDItM05WelpTVVdtb0g4eEFoRGg0M1pLNFBl?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "EU adds Russian online retailer Wildberries' CEO to Russia sanctions list",
+   "source": "TradingView",
+   "time": "2026-11-16T13:08:17Z",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdzR6cV90MGRDc2dfc3JsVVpPVFhURmNVbVp0NFVzMEs2LTJqZFdCMFJUc0FzRjJqeXc2T3FvSFI0UFZ3R284c3FxclpWdER1aTZ6Um9BdVNoaklSLU1lUXc5bXlMb0pMc01kRjh2UE9Ma2lFUUduM0M4aFM5LUkyZHFERk9OUEVRVkdnNTJ4UVpWMjFTcF92SXNnZXRyV05nV3BfOC1uYjF5R2k1cDZybHhGZG1KS3JRX2R6a2lTSVNOWWJxRzlBa0NfdzdncHJUUFhxUTYxZW84Zw?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -250,6 +325,15 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmhGNVhidkt3TlpMM3l5UmpTaGYyRnEyZ0pDQnhydG0wWm9sS3VGN0pndWVSODhUbFhYTW5EalBIMEljZEVsNndnbVVNd1dmVzNOMVNHYmtpOEZjVXBaOHNfQ0dzQjlva0QyNEU5OS1vMm50TmhuVEFaZDZ0THpwTDUtX3dpeV9HUEYwOEZaVkhBNzBrZXg1dXljcmVFRC1CT0hqclh2cU9uSklvSTRnSUxXVTlmQmNhNlI1Q1E0S2hSdzF3?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "4 Canadian stocks that stand to benefit from US midterm elections",
+   "source": "TradingView",
+   "time": "2026-11-16T12:40:14Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVUUtNzNlOFVUZHA3NW1lUFhHdEE3cFNqZXUtV1VyYkZ5Y0ZfRnBvRDVTVElFdDQzZjRxUFhMXzJSUXNrS2x1QXBRYXpIZ2JkUUtSSWt4NDRYd3h5aG9qcGp3Uno5TnZwYWhNWDZVbWgxMV9pSVZTVDl6VlZ1SWF5bVlSRUhuSlRSanRnbXZIWkp3YkhSUGVmekNrUmttSXhlRUlyOVVRUUw0eU1kREJUcHI5N2hzNmRud2pESFVUTQ?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -514,15 +598,6 @@
    ]
   },
   {
-   "title": "Ukraine launches biggest drone attack on Russia since war began",
-   "source": "NBC News",
-   "time": "2026-11-16T10:38:51Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0xfMlFhd1lZcGlEb3k1TGJyUlJGdGJHZDZjbU0xeWRRZDVJeE4wVGJHVUNzTnZ5aFJVZEE2bW8tNjZuODZXS1RnMlFQTkQtQVZtQzF2NmhjNWlzZ1BpVGc1dFZ2QU1oMC0wekZFQnhtWlBJX1VTVXlFTlNtM1JrbDFJaFBKRGVaUnRHZG5UbHNwcDdlX2lWN3ozckVYNVNkc2xmYy1B?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "U.S. Treasury Yields Decline but Fed Rate-Hike Prospects in Focus",
    "source": "WSJ",
    "time": "2026-11-16T10:31:27Z",
@@ -543,16 +618,7 @@
    ]
   },
   {
-   "title": "Fed’s Barr warns on AI risks to financial system",
-   "source": "Investing.com",
-   "time": "2026-11-16T10:12:22Z",
-   "link": "https://www.investing.com/news/economic-indicators/feds-barr-warns-on-ai-risks-to-financial-system-5028804",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "War May Answer Longtime Riddle of Iranian Dams Built for No Clear Reason",
+   "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
    "source": "The New York Times",
    "time": "2026-11-16T10:10:58Z",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWV83T0ZxN25NdHpfajB5Mjg0bDBVUUVCVTI0QWdLUEViTXY3QjRBZXE5a2tfVGxGdEc0WFlQbW1ua2ZCYVB4VmYxcmZsYzNFNDZVT2N0dUhHeEdaZ1VnVjlIS2VWUHU2STd4UkJIdFNBV2NjVTd0QXdNYnlNd2ZpeDZMQzloRjdWdGhEZm5EOHRzWVpGVXgxMjd3?oc=5",
@@ -576,6 +642,15 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTdwQ0doWjlyZXNRZEVpOGd6aVVCNmFQTkdNT3lBOU9kY1d1YlZJSWRldWFDTUFoWjQ4TUE1TEpwbTlWTkJ6ckszT1g2RmJENVQzZ01lMVRScG1UQk1ZbHR1OHRaUWJLUWxGdmxYQnlGclFiU1FRLXNSZTF2ZUcwbGM2bk5OdDh2aGctWUhkdjlBU3pFVzhZRW9aSG5ob3cwVVFGc1dIV0pZbGZsQTBHUNIBtgFBVV95cUxPVEJNajdIOXd2dzZfTmxhZ2dZT2RuTXVNY2tRSDNQNlBPVFBFMXJJbmhIMEpnT0VlNl9ET1FpNHB4dDZYVDAwZERCdlNuZ0VmLUI0dmpueDRBM1dQckI1azNtNF81a0JPMlBUd1o0RVJ6Y3h1SldrZkZjd1Y5NldYZnR3SGVSVzZrV1hiZ1Vob1Y1dThRZjI2TmxHTUhNQzdQcUdfM3FDZjFjT18zbGdzc1VQZWNWZw?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed's Barr warns on AI risks to financial system",
+   "source": "Reuters",
+   "time": "2026-11-16T10:06:31Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMmF2a1AxTXIyN09XQ2FpMmNFYk9UdVdYaFozUTN3UmY2amR1c0g5ZkdMU0NCRG54cy1pWmhadmFNdjNxbmlha1p3SlhnZ1VvZ2dvU3JIT1praWI2eWVIZE1taUNKQ2Nqd1JUakhtQl8tS3B2Y1gwNkJ3ZlFTYkpaSDJuZjZBZjVza2NB?oc=5",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -605,80 +680,6 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFhVQ01GYnlwNHFnR2otMDljZVRSMjFNSGlIODhITlh3OThBZzkyRFRGb3Z0Y21EVGxmY3VlTUtQTjNpUHpnWlhtTHp2ckRwdXVKV3dMOWdJanpnSEhsV2luS19wb1dXREhONGZJZG9aT1hnbGdxNklRMkhSTlhFRTIxRWpibkRQdmZKTjRhVHZSdzA?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Barr, Some Potential Financial Stability Implications of Artificial Intelligence",
-   "source": "Federal Reserve",
-   "time": "2026-11-16T10:00:00Z",
-   "link": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Oil Prices Decline as IEA Forecasts Fourth-Quarter Supply Surplus",
-   "source": "Yahoo Finance",
-   "time": "2026-11-16T09:59:05Z",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTm1CbTVmSmd2WEdWSHQ1alZMTVZmeXdMV1N1eEZJeW1Ic1pMUTZiYl9FUy1PeTFIZFltd1FmX0I0cXp5blE3Z0MzWWUwTU5UeURrSW13SmpBd3dSNlZFQm43amdWRlZTQklFa3FheUwwaUJicjg4dm5IZGNIWFZ3X1RNZ05hY0RzLVZVNm9SbUVyeG8?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "US Stock Futures Decline Ahead of Nvidia Earnings as Investors Await Federal Reserve Signals: Dow Jones, S&P, Nasdaq, Wall Street",
-   "source": "Yahoo Finance",
-   "time": "2026-11-16T09:56:42Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ3loNDRFRS1qcXRkNU4zd2dEbEt0VEpENld4UU9ES3pEOXNhMzkteGVfYXVaaHc1ZUZqRWtwckFiT1NfX3BJTHZzQmtGMUV0MmwzT1p0a1FsNFUxQTZMSmlWWVVqa25FNlNxMXFBM1BRc2E3S2hxYnc3WEdiWThDRzRfNEZfUkg0ZVAxMllvdzJmTlZiNUo3WlRjRQ?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "France to outline to EU evidence of Iran cyberattack and will ask for sanctions within a month",
-   "source": "www.marketscreener.com",
-   "time": "2026-11-16T09:55:37Z",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRTJGb1planktZFlPek9KZnBIdVlQUlNkV0hWM1ptNHlnZk1qbXBIQk1vWlFqLXN6V05hRnR0WUdzSmR0OEVLZS1nTjJjb3U0QmpKRTB6V0hfWHJ5Ny0xbTROZ2hRZnR4YWRFRUloQkJJdmZCeC1XRGtQS2JBSmx1amNuQVV2SC1CQTBpYWFyaGZfR1R4S05sUmJiZGtWRkpjUktnZnFiSGF3RnBsTUpQdU9KN2tNaGZpa1ZTcWV3MmJKTHBUWU5OVEJmZnYxRklScDF0VEhVUTkxVWZ4MTVMTw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Russian online retailer Wildberries' CEO being put on EU sanctions list, says France",
-   "source": "www.marketscreener.com",
-   "time": "2026-11-16T09:52:40Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWTBoenpjb1Q3RnJFNjBJbzBuQXBMaGh4emczU2lxQ3hWcTI0VVBXM0lVNUd6OFZ3QjQ1dmJqMnZfbWJ1MEo0TjFjcVRsNUpMTkJTOVh2d25WZExhLTk2V2Q5cDZzTG9vYXNydTlWV0xKT29welRkTGRpSXR5RmdTellzX25oYktFWFcyWnZSVmJvWFlNNDU0dEk2dDhZUlU2Wi15RklVdFl5WmpDYkRSVmZuQnpwM0k2YXZkMm1DeWxSd09QZkh5dnY2TkxleFNU?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "WTI OIl hesitates above $87 amid rising geopolitical fears and oversupply warnings",
-   "source": "FXStreet",
-   "time": "2026-11-16T09:49:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN2ZfaVFaN2ROcncwQ1dGOEQ1S1lqRzN3cnp5anE3TlQ1aVZQN3pmb19QSTUybUNjNUJzR3NISGZKRVNUTzNzNXJTclhMMWNINHpoQ2FuMFI4LXZWNnFNWENxUVFHMUpZOXA0d2dnVnhQN3dfX2haME1BUzhUZk5Fa1ZTSWJMUkNONWVpU3lBeWJYWjQ1a1QtTnNtdG0xNUY3d3ZtYnduWU9YRFVxQzhmY1VvQVh0MmlydXBkYkJDaUItUQ?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Eurozone Bond Yields Hold Steady as Investors Await Nvidia Earnings and Federal Reserve Signals",
-   "source": "Yahoo Finance UK",
-   "time": "2026-11-16T09:47:54Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUVpUR2MwQVBGLW1ZWE9QR1RncXdBWUhUVWNEdEZnNjEwM1d0YVphWGRzUnhKY054cENXckwyenRxM2xjSVA5cDVSYW1fcHFwOUFtWTRTbGtWN3lqQ01hY0FNMmtPdFlFRUlFeGJldjViNlhuSVRiVTA2cnlxYVhHcXVxM0RtUTZ2?oc=5",
-   "tags": [
-    "FED",
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Chinese premier lauds ’extraordinary’ ties with ASEAN ahead of Trump visit",
-   "source": "Investing.com",
-   "time": "2026-11-16T09:42:17Z",
-   "link": "https://www.investing.com/news/economic-indicators/chinese-premier-lauds-extraordinary-ties-with-asean-ahead-of-trump-visit-5028383",
-   "tags": [
-    "CHINA"
    ]
   }
  ],
