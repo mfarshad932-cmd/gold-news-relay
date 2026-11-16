@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T15:03:11Z",
+ "generatedAt": "2026-11-16T15:31:37Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -67,12 +67,12 @@
   "bbc_world": {
    "http": 200,
    "items": 23,
-   "kept": 3
+   "kept": 4
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 14,
+   "items": 16,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 22,
+   "items": 21,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 27,
+   "items": 26,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,8 +106,8 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 10,
+   "kept": 10
   },
   "gn_oil": {
    "http": 200,
@@ -126,19 +126,65 @@
  },
  "items": [
   {
-   "title": "Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power",
+   "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
    "source": "CNBC",
-   "time": "2026-11-16T15:01:57Z",
+   "time": "2026-11-16T15:27:31Z",
    "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
    "tags": [
     "CHINA"
    ]
   },
   {
+   "title": "Federal Reserve task force weighs AI's promise and risks",
+   "source": "CNBC",
+   "time": "2026-11-16T15:19:59Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkJVMkZGOUdobHQ1NGppekpPc3JXZlB4ZHF5d0g3QXNTakFoZlZBZ0lYQ1JYN3laYjNSOUstMzZTR1cwOVBJTWdLTHJQbk16Z3ZwanJxZlA5dHlqeTRTeFBhOEpQb0g3R0pKdGdxVTFKMmFoVDFaUVJ4MGJtN0Y0bFBHQUhNeGtya3F6RmVnNFRBNFk2NGZWRG5ueXItZmc?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Why Starshield limits are hurting Ukraine against jet-powered drones",
+   "source": "Al Jazeera",
+   "time": "2026-11-16T15:11:13Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnhTZnR1blZIanBScjBSX2t2dnhhcS1BN0hZR1NEUTR2STFXY09YV3RFT2cxTm1Oa2JsWEpzWC0wbjNDQl9BV1JtdFo1NjlXZ29oN3JHT1A5d3BSem01LUk0d05SenpzQ0x0dUdTZkMxT2xwLVcwZlh1MFBPMWJuVUtubnhVSlVIb2xEV1JJZ2lrS2lRY3dnNjBWc0NINEpmaTNjaFM3SURSQ25iYkNF0gG0AUFVX3lxTFBZcEZHTUpEbU5zTmVXeE5pQmhYX0FKN0NZYlhtUjF6SldOdkRKbTlaWFNGYWw5dHVoVVFRRldYWUh3R1VkcEZ2NFR5dGxkVm4zX2cwQ2RsMS1xVGJDekE2b3pLLTMxc0d5cDRXQllvN243NFV2ck1FX2pmVml5VFZ1NkFkYklJSmZ1X3pZRko3ZzlRX3ZrYU5uNU9FWnZWMDdia19BVUxReW12bUFYMmxnWXV6cw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold price slides as Fed hike bets rise, silver bar and coin sales drop despite lower prices – Heraeus",
+   "source": "Kitco",
+   "time": "2026-11-16T15:01:33Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTnBWa0U3NmtKWVR6X1FDSjNiOUFHcHlIR0Q1Q2xIdWJwU253aFQ0ZzRBMjN4LTZkVlNhTDg2SDVjTWV5VXpFNzBDMXRUWjhvS3JqZXE1LUk2RmV0a0RXdnpMSVZ0cXF5emJXTXV1bE5VclR3cTZxeFRDb1c2WkJTd2xONEN4alVjS05DVllHMG1LRU13LW9nWGtMQXF0eFl0WE9YRXBESnN0MjYydVpkd2xoMlRUWWZLWFBmUk5R?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Trump Says The New Bari Weiss-Run ‘60 Minutes’ Is ‘Even Worse’—Disputes Iran War Reporting",
+   "source": "Forbes",
+   "time": "2026-11-16T15:00:23Z",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbmt3eUdSUTNnYkQ4UVlSbkJJQ09oX1BSbC1YREVRTVZOQXNTaVBSVWJ2aUp4QnFBWEVVNlV2dElnbTlFSmpiWTBtUjBnUTQ3djd3clZPTkRxWVB2ZUQzUjN3OEVwbzNvTTQxLVlzSElsbThfTzlBbzU1MUx4STkxVzRYZk5KZXpkYW9YQkZ4SzNKWjBUYS1NbE5EampINDRLNEdxVjZIelcxY1N2THlwVnRhY01vWnZuTldnM3BrRlRpN2NkeGozd2t4Z1VhdUdGb2lhY3FR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
    "source": "BBC",
    "time": "2026-11-16T14:58:12Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hRFlEM2dDX1FwcnczeFZOWXRfdHduMC1ORDJGQ0NZSEFCZi1KSW9HNW9YNzJnQTV2QkRBYUg1aXFpcjFjZEdkVWwycGYxSGdnNkJCc1dlRGJPQ0E?oc=5",
+   "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Did the US fight a time-travel war with the Nazis in Nuremberg in 1561?",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-16T14:56:09Z",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hWXpZbkJKSGJVdVNQRm5GdGpvcTNLUnlCMHdONjdBcVRka2hTU09yelB4SzhLQ055aG4wcENGVHp2QWpTVkV4bDhoQ1ZqTXhMVGtjbkNzWDlLbEIzbUJV?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -189,7 +235,7 @@
    ]
   },
   {
-   "title": "Crypto Bank Rejected by Supreme Court Over Fed Payment Access",
+   "title": "Supreme Court Rejects Crypto Bank Custodia's Bid for Fed Payment Access",
    "source": "Bloomberg",
    "time": "2026-11-16T14:32:01Z",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbDloQ0xXeDdwRzVncEhFbkJUcm8yREpzWExQWWE5UXl6RXJpSkhWb2xnZ1BXR045LU9SVWNRdHhyZ0JMT3QyTm5RbFVoUmhObXFKSTdYTUJXa25DSUxpamh0OGtnMGRlTUd3UkJBek9VMjJvaVVQY0JSczVEd1dBWERZSXJXQmpvRGxlTGg1Z0VLRElHU20tNzRWWHJ5eEJ1UEpPNUtSWkFTLTdwRjd0YzFB?oc=5",
@@ -202,6 +248,16 @@
    "source": "www.marketscreener.com",
    "time": "2026-11-16T14:31:42Z",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLVVlMGgwcmdwUzl6WU8yOVQ5dlYxTjBtR2Z6YTd4Y1pyMHFlV3N2ai1CTGdQYllxblN0OUtwZ0ducHlpUVVXZU83N3p6WTF6ZC1tQ21heGxhSE5ZZ0d0b01EaWx0ZXg2Q3g1VTNFTEoxWnFMQUdKcFZKQXNnbm5wcG5CUGI0b3hCRkZOMGh1UWZZTWlPZFRsZ3c1djRVNUNraUZndU16dHVLaWdBVVRMcw?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Factbox-EU expands Russia sanctions list by 145 names and entities",
+   "source": "Yahoo Finance UK",
+   "time": "2026-11-16T14:30:01Z",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa0tENkVyeG5Oak1CcURFNE9VdFFYSnVMZkVLSzhZSWJHUEJNd2dWNW1TalBpclJ0dDdIb2R2dWk2N2RHQnRBdUNIV0hVWVdFVWFySFFKVzFEX1N1VGhTaE1tVThmQlUwTUxyNndINXBtbzNFZmxEN2xXNC1TS2ROR0dKVEFYYXduTTZIVg?oc=5",
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
@@ -264,6 +320,16 @@
    ]
   },
   {
+   "title": "Treasury yields pause near 1-month highs as traders brace for Fed signals",
+   "source": "Investing.com",
+   "time": "2026-11-16T14:11:36Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLUo0azhGODZJRzZTTjhrODQ4aVlrdHFXX2pGQVFsRFIwRmF4endIVVVFTmlGWTRxTURrblcxMzVDal9BVVJXeHA4TkY2cE4zcTE2V3FCVFRSV2dWM3Vva2gzT0o0UEJucFltakRCdDM5UTQzLTlNZWNJNHV1TjNhZ1ZDQ1otOUdMa1FKZW1aWlNkNTNjM3NkMVZRM01XcnpRT2hEQzFIR1dSbzFYN1JLc05aYmJVMzE3bVVrZ2kwYzR1Nlk?oc=5",
+   "tags": [
+    "FED",
+    "YIELDS"
+   ]
+  },
+  {
    "title": "COMMENTARY: Warsh's honeymoon period is over",
    "source": "Reuters",
    "time": "2026-11-16T14:02:28Z",
@@ -280,6 +346,24 @@
    "tags": [
     "FOMC",
     "FED"
+   ]
+  },
+  {
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-11-16T13:55:24Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Houthis edge closer to Aden as Yemeni forces pull out of Bab al-Mandeb",
+   "source": "Al Jazeera",
+   "time": "2026-11-16T13:49:26Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObU5vbHV5R1U0VG1fWDRwNGxwbXpQSTNZNlk1MUNFWTZKcVZFT0JWWTcybTdKUlZOem5sdDI1WWtHQVl5bXJLUTNTTTNtc2RIMTNtU2NsOFRLNmZPWE9ybG1kbDQ4aDJtWXBTRTBKRTEzWnRHcEE1LXF0RTFSWjZNYUdVLUNZTUhmMUp4Q0hlTUllWHhLS3FydDBxdDQtSnZmcjZkQTFjNFFlRWpBWHhLSG1B0gG3AUFVX3lxTFA0SWVlTXdZU29PRVN1U2VyaEpzMVhHRkpSakVZdTZPUE1rR25hdFBDUTlYZFFKSHhxbHpxVTFlSGx6OU1STFdxeXVXS2JGZURTZ2tZODhjNVgybHNiSnpQLVRPSEhDWjlMZkVUWmxtR18tbHNUdFdwUk5obWdYeEFZN0poWWZ2ZXNPWi01Ni1mdC1SVnd0a2lqbVBfQ1pydHBVS2Q2NExxMmVTY2hyX2ZWOXJMbFdyOA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -371,6 +455,16 @@
    "link": "https://investinglive.com/news/canada-october-cpi-3-1-vs-3-2-expected/",
    "tags": [
     "INFLATION"
+   ]
+  },
+  {
+   "title": "France says it expects EU to impose sanctions on Iran in December over fridge hack",
+   "source": "The Times of Israel",
+   "time": "2026-11-16T13:30:06Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnRmWEVVaUQ5YmJiT3NFWDduek9Ua0F4OXUzS2hRcnZubU4wMHZPck9WWTZnMGVtTjlZbHNPZVBWQWtjaV9SOEoteEVZVTdOOGRkeFdPdnJab3o5YWl6ejVZMTgzQ0dfSzFNTHBIbkw3RXozaHNqTHlmQ3hETlRXMkh6eENfb0x5ZXlQVnRaSEhneTJXRTJCelpvLVBMV25Ncm91THhsM2x5bS1SYjAtZjdB0gG3AUFVX3lxTE9IWDhCbk1QTjkzbXJLYnhTUWlFOEN0U1RGUUQ1d0tPd0w3OU1zR1gxRkxFMjNrVlhEenBYZWR3cmNlQ0h1UkZaaGhPd3QzWC1vcVU1NjFqamU2dFFidzAxdkdBUmUwNjdQVFNXQzZyUEV0YVRfb0s4UFUtbm5GYU1oMWxpLWQ5U0l5eTB5YlJXdTBST1ZaZ3I4dkloUHZtQ19td2VsdUx2MzJPZW12d0MwS0t1LUVuUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -521,15 +615,6 @@
    ]
   },
   {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-11-16T12:25:24Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
    "source": "CNBC",
    "time": "2026-11-16T12:13:47Z",
@@ -591,89 +676,6 @@
    "link": "https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Mining Americas Reports Third Quarter 2026 Results",
-   "source": "TradingView",
-   "time": "2026-11-16T11:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2VELXYwTUNrUkRsTHBJTl9PbGkxSGFZcTEyNml2VHdqdVZMWm16bXFOeFh5X2w2Vy1iOFF1UHludWdpSWJLeGd5U3I2eExBOTZLNV96dUhid282eGFURTJZRkhxNFFkT1BsT1NzSk14SzVIekRMbmJ0MTdRX0dqOXpjc1dQdkRrYVRaTmQ0blotcTQ0SnktMmpMT2c3WW1JVDRDcjZNN2l1cWRwenA5YWc5bw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Nvidia Earnings, Anthropic IPO and Federal Reserve Outlook Among Five Key Market Events This Week",
-   "source": "Yahoo Finance",
-   "time": "2026-11-16T11:27:39Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZWw1cTVJckJKUEE4LTlkZzBHSkVIRnVWaXRsV3FfTmprX3Z1Qk45RE1hS0g0SFkyLXliV0VOUDRtekVjOUdRbGhkU2Zfamg0LXpzTFFnVEVxbldfOXUtVG9DQmY1WnRodWg2QTdvcXd5eVV6OTlzaEptMEY5eDFRODFZWTNBWV91UjJzR1FkeVNfc0Jvcm0yNHZTbXNyOU1iN2Vvdg?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Gold’s hidden volatility: On half of all trading days since 1980, prices were at least 10% below their last record high",
-   "source": "TradingView",
-   "time": "2026-11-16T11:27:38Z",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOU0VPUE1oZExtNWdJdExpTHFXUkdpNXFPM01xcmQ1djhYdFpVWG9aZFRwMUYyTFdaME1LbG1hbi1xN05ENU5jb291eHM2SjZhWEJzWmxsZEsyTURqOUE1aTlkaUVGaG53cldQVDRXdjAwWDdsOHhKY1NLU0Q4WkNrX3BQQWtxelNyVkJCXzhPeDVCLWpBalRMU0hZeHVVcW1NbWR5TWV2Z3QwQXA2bkNMNDVRSnBJb1J0YzhqQzFRSm12RHAyYUVfTV9rbDY3Nll0Mk5wU3Vqc293OGdld2VwWk1DRkdHZ3FSam14R2dZcU14aUxUUjJ0MG0tZTVwOTBMV19ieXFIQk9UTkk?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Dubai Real Estate, Hiring and Stocks Signal a Tentative Recovery",
-   "source": "Bloomberg",
-   "time": "2026-11-16T11:18:03Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYmNraVBLN2VhQTBSWklybDRXamZsNGRhbjFldHRxVDd5ZTh6SzlPQjRERi1jSG9wZ3JMMjJRbDkzZjJrVkwwaERleW0ySngtNDZPUjNzNGd3ZHAxdk5ManpzWjdwQWg3eGROSnR1VENDeU5WV0VlRWw0dml3YXlYaURTSm9yT3RPUHVNOXNpeDFiUzFzandKTzFiYVFkaUJDaXJyWGFSWkowTGh5Ym1HbDMxMDZnV0xhUE5IVXJCZ2dCdHpzLWc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "France, Britain to hold December 4 conference to curb Russia's 'shadow fleet'",
-   "source": "CNBC TV18",
-   "time": "2026-11-16T11:11:30Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjZyeU1jck9oQno3blMzVHBDVm13c0s0QjBGc3N3TkN6WnVHekd1NHlZbW55RC1WZWRqZHgwZDFabHFtbHFOUHpPVUNOQ3JQblFBanlfWHE1RkQ5WWRJV0ZfTjloRXczWXc0VEZWMG1tVXpVSTY2cm12UTZBNUFycDJWcFpqZ1Y5UlhzMXVNQ1NvR3FBTHZrdFo5UDYtVFhsWWFyZ0ZTdVpycFoxckNfcTBTOW5KRW560gG-AUFVX3lxTE1NWjJXQ2RSM1dBSWs2SWVaV0ZzOTdwUDhVbEwwMDAzME5nM0taS1lvaFloRjNUY1JPSzBDcTd1MzR6M1gzbk9DTTBaZmZhNGJYTGlFQzl3aEotajIxSkZvTkRWMW9Fb0xCTkZaSTR0WURGVVpZci14OEJIZ3NNXzVteklFMTN1RWc5LWk0OExzVVJUaG1PRENVQkRBejE4aEduQ1hISk95b0JPUVE5WXM3N0taRVhQQlFyclBmZ2c?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Stocks’ Next Headache? The Fed Could Raise Rates Well Into 2027",
-   "source": "Barron's",
-   "time": "2026-11-16T11:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaVRqdWxHZTVJYU9nTnNEUFFBZWVVaG11UTdUYmdzUHFSMjVWYTY0b2o0NG5OTE9mcTZ5M3dQc2swdXE0aGpsTnk0THVka0poUi1uMTdfMkF3TGtWTGgtYU9KZm5DdjBrOWp3RDd6bmpFejdwVWxyb3pEYWxjZzFKTk5MME10LTdf?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "Bonterra Files Preliminary Economic Assessment for the Barry Project",
-   "source": "TradingView",
-   "time": "2026-11-16T11:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN2NRemdkV2RRcUlneWpETHkyel9faG14VEQ2LTJMNVFIU3NQMW9DWTZGeHc2Q0ZPS3lRZXdjbFotX1JuRXNCeGFLVm5fSG9MVXBNa2NzaGt5VUI1bHdUdkJJMDBxMldYX294Q0VuOXhnM0U4eXRDRVRJQzNVa2p4eWhoblhTRVBqYktjdlR2cU90ZDdRU2JWVWJDWDg2SXlPdjgycl8zTnRpVEdjaERmT3M1Y2N0blRMTUZGdTl4UDFBbEdiMlBFcGtqNA?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "India’s wholesale inflation rises faster than expected at 11.4% in September",
-   "source": "Investing.com",
-   "time": "2026-11-16T10:54:40Z",
-   "link": "https://www.investing.com/news/economic-indicators/indias-wholesale-inflation-rises-faster-than-expected-at-114-in-september-5028916",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "India’s October unemployment rate at 4.9% y/y",
-   "source": "Investing.com",
-   "time": "2026-11-16T10:54:23Z",
-   "link": "https://www.investing.com/news/economic-indicators/indias-october-unemployment-rate-at-49-yy-5028915",
-   "tags": [
-    "JOBS"
    ]
   }
  ],
