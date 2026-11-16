@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T20:06:47Z",
+ "generatedAt": "2026-11-16T20:35:08Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 0
   },
   "cnbc": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 27,
+   "items": 28,
    "kept": 12
   },
   "gn_fed": {
@@ -91,18 +91,19 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 6,
+   "kept": 6
   },
   "gn_war": {
    "http": 200,
-   "items": 22,
+   "items": 28,
    "kept": 12
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 15,
-   "kept": 12
+   "http": 429,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   "gn_yields": {
    "http": 200,
@@ -110,10 +111,9 @@
    "kept": 12
   },
   "gn_oil": {
-   "http": 429,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 429"
+   "http": 200,
+   "items": 8,
+   "kept": 8
   },
   "gn_cbgold": {
    "http": 200,
@@ -127,12 +127,68 @@
  },
  "items": [
   {
+   "title": "Fed's Hammack reiterates case for slow, steady rate hikes -Bloomberg TV",
+   "source": "Reuters",
+   "time": "2026-11-16T20:16:40Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYk9kal9uc0hmSGMySFhuVE1BbTd3dkV1SkdjbEx3U2NuZFdoMFI1TThKSHVnLUNGTVNOOVpRM3VVUnBZdkxISEhKdVloQzBxUGlEcm15ZkQyUGZjWW5IbVhhZVNKWnBleE1PZzAyNUtmQUVrWHZ1R2YwU1FSZWVjczdVWXcwX3Z4VWhsVXZwUE1EaWMtZ3I0d1I2WlVOdm5rdGdZMFl4VVJENHRaSUE?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "Fed Chair Warsh Warns Of Super Intelligence Risks To US Economy",
+   "source": "Forbes Middle East",
+   "time": "2026-11-16T20:13:43Z",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT2ZENVQ1NG4zalM0SVh5YzktN2dtVEttMFE2Q0tXckk3eE5QUkN0YksySWZ5OGxMQkc4Tzl2TVl0YXpNMnpGODNxekR2ektBQmFOUldZQWFCNE5PUmxLRnJ5RmcyRWtqNl9uNUdidlhqU0lmaUlfeG02VGZtU1ZwVW55djhJckpheThWaFp0eUVVeEk1NUJ6N0hPSEpULVNMSDY0Z2pWOS1iVVctVHlVTnV2SXlGRzcxczMyenVnWkNyQWV1Mk8wMjhiZWxmOXRfXzNwTnlYS0tmenpDMTJFVHd5WDg?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "What will Europe do next in Ukraine?",
+   "source": "Al Jazeera",
+   "time": "2026-11-16T20:12:21Z",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold price drops to more than one-year low",
+   "source": "Mining.com.au",
+   "time": "2026-11-16T20:03:45Z",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UTzNFeWU2Q0VYQ2x5V2JxdVJlakRtTEl4NWZaSXF0cG15RDg5X0VHVU1fWmttdzhwVkREOTRiNEpkc2NEeDhhdUU5ektrU3JMeXQ3TTdJaWprYlF6ZEFFeFIxM3BtY3Y5VTlzWXVWX2Q5czQ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Oil Surplus Risk Builds as IEA Sees Supply Outpacing Demand",
+   "source": "Investing.com",
+   "time": "2026-11-16T20:02:00Z",
+   "link": "https://www.investing.com/analysis/oil-surplus-risk-builds-as-iea-sees-supply-outpacing-demand-200691683",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
    "title": "Critics blame U.S.-Iran war for crackdown on clerics in Bahrain",
    "source": "The Washington Post",
    "time": "2026-11-16T20:00:19Z",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGZSVXl2N1RfOW5qeHlqdkNTTkJ4cG95WFE3VHRucTlxQnZfUUlhWDlrMGJFS2NxYmJGLXhtQ09lZ2JPeW1sVmJYdTZRWGJxTVVDbE8yclFESTFmcUZjajUtQ2tFOTRtdEFrN0c3SGk3RE5LaWJScEFtMmFHWlZ0aUdfNU5hdWhWaGZqTFJPSXRnNXZZN3d3anlfTVdiYmNsWnc?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed's Hammack backs slow hikes as inflation broadens",
+   "source": "FXStreet",
+   "time": "2026-11-16T19:48:25Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLW1LRFJYNWp5bGJScXZJVXdpRi1WZ2xHUjFfZEVUOW43Q2xpVnh4dzB4R3U2UzlycVoyemlpQVU5dFlxcVozMjFDZ2lyUHZNSXRCM3djNEx3ZlFZelI5bEZVNGJRSmNBY0ZaendFSElDU3l4UkpYQmhUZUlURlFOWWh5VFhWVnhLVFNnNVgtVEZ6MVBVcVMyMEpR?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
    ]
   },
   {
@@ -146,6 +202,15 @@
    ]
   },
   {
+   "title": "Fed's Warsh says emerging technologies to have 'significant impact,' but there are risks",
+   "source": "Reuters",
+   "time": "2026-11-16T19:41:07Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQjBEWTRZekl4NlZXbUFpUW93VUNEU3JOUkVnZFk5VDAyRFBNRXYyTGNCREVZRFNEd2JEdWY4VmxsUGtxdnAwQnhZSlFiX3p2WWRHVU1iS1dIbXpDel8waEpsT25wdjFhTHlPNG8xMnJWdHdtc09aMnBDa2I5MGN3SkVjendsRWFOTUxvdnZrMmFKdDN6RmV3OXRISEdERjhuSEpDYmQ4dkVldmx2dENTcGRZR0NuVk9xYk85OTJCVmRteEk?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "Tariff Refunds Are Going To Executive Bonuses At These Companies, Report Says",
    "source": "Forbes",
    "time": "2026-11-16T19:37:48Z",
@@ -155,22 +220,12 @@
    ]
   },
   {
-   "title": "Fed’s Hammack Reiterates Preference for Small, Incremental Hikes",
+   "title": "Fed’s Hammack Prefers Small Hikes, Sees Risk of Bigger Moves",
    "source": "Bloomberg.com",
    "time": "2026-11-16T19:37:29Z",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3MwUUp3QjVuS0NGTWhLN0hYZldpQkJHUUZKRDZSRlhvdXJ1d2VXTVk1UkVzZ2swX1N1OWdQM1g1cC10cnMwaTRCRzEtVWNfWHBLdjdYY19wUEpZZERkQl9zVzNsbjVuZ25zQUFsaXFBMnBVX1I1X1pPU01SdEpPZzA1clBJZkx5TjYwV29QUmxHRmxfYW8wdWFLazlLbXVBRk9nUm01aVppdHRtS2RjRHlJeW0?oc=5",
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "title": "Fed's Hammack reiterates case for slow, steady rate hikes -Bloomberg TV",
-   "source": "Reuters",
-   "time": "2026-11-16T19:34:26Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYk9kal9uc0hmSGMySFhuVE1BbTd3dkV1SkdjbEx3U2NuZFdoMFI1TThKSHVnLUNGTVNOOVpRM3VVUnBZdkxISEhKdVloQzBxUGlEcm15ZkQyUGZjWW5IbVhhZVNKWnBleE1PZzAyNUtmQUVrWHZ1R2YwU1FSZWVjczdVWXcwX3Z4VWhsVXZwUE1EaWMtZ3I0d1I2WlVOdm5rdGdZMFl4VVJENHRaSUE?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
    ]
   },
   {
@@ -180,6 +235,24 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQalVtanBZQXdITFlZZU5WeHB3SzhZWHFNZEdubXMxd1VsX2dsVmVmU0lLRXJtekh6cGZXMHpOWFk1XzZfSHFnOUdLSGM2b1ZtbzFhNE5OWkpTREV4cmd1QUMzbVZvbld4Q1hZSEZLc2J2MDFOcmRMejlNcFJLcWpGZUZyX1o3ZEZLQXhOaTlVb1JsUmp2TGM2OExVSy1qeFRkUHln?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Third US aircraft carrier arrives in the Middle East as Trump keeps options open in the Iran war",
+   "source": "AP News",
+   "time": "2026-11-16T19:32:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmZiWEcxLU9Xck9JR2h3VDIwa1VETmRCam5zQm1BWmhNcGhZS0pBdi1BZGRZLXhZT3VmUG5wYld2N1gydV8teDVFc0UtNVljakJ5Q1JNRkRUb0dqRDRfX0p4QVBGdkZRaWd3Y1J6aFdZWlZhVGt5LWxzcG9mRHVPYnBXZFFrSXVqYXkxd081YzdlNTN1T05yVTgwZUIzSUhQQWc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fifth U.S. Carrier Deploys for Iran War: How They Work",
+   "source": "WSJ",
+   "time": "2026-11-16T19:31:39Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORHdNR0J3TWVLeks2NEhhanAtUjdrV3NaSGZQZndHWGhuY2xOSzN4YmM3UVBiX1Z2MGJ6bS1hOFJSNHNhYUFoZEFsQnV0MmYwczJLS1RkbmhkMFZOSzN0TnAyRWF1dG96QUZFNTNpb2ExbEI4eDRZNHl5TjNkOHBxNjY2d0d1TnhNLUVXSGdGeHZHSFFIY3lxeWVxS1ZNU0VJa1UwbGdOMWVYTkRJQVFlQVFHdU56MVZSMldETXc1SHlLbk5yZms1SHRR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -207,6 +280,15 @@
    "time": "2026-11-16T19:25:39Z",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdjhTMmVxcTZXTFdwckR2aHdKR3pNem5EUHZHR0JSQWJvaUo5NzYtaU5wWlB1UGZZLVRHeVFlc0lqcW5KMnRWQWhCMmlmeDZQbFo5cXpkNEJUQzQ5LWo4T0k5d05FU0ZsVHBzWDUxclFjN2ZmdmpYR0dpTHhWaGdSU2dSdS1zNWh4Nk1UOHRNZGgzbU1PZzkxeDNxMDJyVGo3M3NUUnNPdDlRRGFYU2VlY2hZWjdkSDVRcmtXaFBfbWV0a0Q4NnJuU0xHa1NwU2M2bVg4ejNkeFhQUldPaFV1bENGc3VVNmllbWc?oc=5",
    "tags": []
+  },
+  {
+   "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+   "source": "The New York Times",
+   "time": "2026-11-16T19:24:44Z",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBYTdqekVHWUZKSGtDNktJaDFJZTgxX3VmdW9qVUphVVl2SjdUSUtyd2kzUVhoUnhVVm5kOTgxY2h3MmlqdUplcmQ3WDNjVEYxRGN4aUVFUFBUcWdsZWVWTzJNX2ZoNV85MWxxMEJDZ213ZFlZTEpSWkFUR3ZGdw?oc=5",
+   "tags": [
+    "FED"
+   ]
   },
   {
    "title": "Khanna proposes $1,700 Iran war refund checks for Americans",
@@ -313,15 +395,6 @@
    ]
   },
   {
-   "title": "Fifth U.S. Carrier Deploys for Iran War: How They Work",
-   "source": "WSJ",
-   "time": "2026-11-16T19:01:17Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORHdNR0J3TWVLeks2NEhhanAtUjdrV3NaSGZQZndHWGhuY2xOSzN4YmM3UVBiX1Z2MGJ6bS1hOFJSNHNhYUFoZEFsQnV0MmYwczJLS1RkbmhkMFZOSzN0TnAyRWF1dG96QUZFNTNpb2ExbEI4eDRZNHl5TjNkOHBxNjY2d0d1TnhNLUVXSGdGeHZHSFFIY3lxeWVxS1ZNU0VJa1UwbGdOMWVYTkRJQVFlQVFHdU56MVZSMldETXc1SHlLbk5yZms1SHRR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
    "source": "CNBC",
    "time": "2026-11-16T18:46:07Z",
@@ -347,15 +420,6 @@
    "tags": [
     "GEOPOLITICS",
     "CHINA"
-   ]
-  },
-  {
-   "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
-   "source": "The New York Times",
-   "time": "2026-11-16T18:35:05Z",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBYTdqekVHWUZKSGtDNktJaDFJZTgxX3VmdW9qVUphVVl2SjdUSUtyd2kzUVhoUnhVVm5kOTgxY2h3MmlqdUplcmQ3WDNjVEYxRGN4aUVFUFBUcWdsZWVWTzJNX2ZoNV85MWxxMEJDZ213ZFlZTEpSWkFUR3ZGdw?oc=5",
-   "tags": [
-    "FED"
    ]
   },
   {
@@ -427,7 +491,7 @@
    "title": "How will AI shake up the economy? Warsh says the Fed is starting to figure that out.",
    "source": "MarketWatch",
    "time": "2026-11-16T17:53:00Z",
-   "link": "https://www.marketwatch.com/story/how-will-ai-shake-up-the-economy-warsh-says-the-fed-is-starting-to-figure-that-out-a72f80c4?mod=mw_rss_topstories",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPREVNTGtQT01SYjJvVzZsRENIWFpVY1Z6bUc5YWplU0NEbGY2YzBDc0ZfNkhRZ1YtWkRuOURfX0R2TVM3dWR4S2xRVWFNRHdEOVotS20tcHN1VzJReTZQbF93Rl9tTTFnWERXU1BFSjl5ck5kUzZUR05VU2hpUkdHa1N1MlpBQzZoZFRsVk5tSGZob0pDNFhtT2cydnBLWFdkcWdiZlFmY1I4NC1OeXNiX1RTUks4SndseTIyYjdPRk90aXc?oc=5",
    "tags": [
     "FED"
    ]
@@ -461,21 +525,21 @@
    ]
   },
   {
+   "title": "Fed Chair Kevin Warsh Speaks Live Today on AI and Tech",
+   "source": "Barron's",
+   "time": "2026-11-16T17:42:47Z",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUF80Vjl6WXY4cERrTWV1cnpkRFB1dUNNVDNDUEJuZFJVVVFPYzZJcnJDQXYtazZFTndNV0wyVEQ0UHN0ZExjYld1cG9RWDF3T0o5MEpHZ3VvSUYzYzdiRjQ1SEtEZmVyVnM1NnZKdFRVby1mQkxnVk5sdjB1Y0JiUHhyUWpkdzBi?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "The War Room newsletter: Will America or Iran blink first?",
    "source": "The Economist",
    "time": "2026-11-16T17:38:50Z",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRW43aVRvVGVZZ1BYcWpSbEY4UXRLZmRaVUxWNXFuUWM5X2xVQ25kY3ZZYkdCR1BjbFhJQ0tJQlJQVVk2OUNKdHViR3ZDQ0RzcU9DQjlaeGh6ejA5RGs0ZTB2QkNaYnZPaUxBTjhiYkVmVnZfNFRlcWV5cHd4YUNEV09IRlhhejk4aVJuaUNpa01YSWZpcmJzcUxmbGdJN2FsZ1FwX0NPaXlGOTQ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed Chair Kevin Warsh Speaks Live Today on AI and Tech",
-   "source": "Barron's",
-   "time": "2026-11-16T17:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUF80Vjl6WXY4cERrTWV1cnpkRFB1dUNNVDNDUEJuZFJVVVFPYzZJcnJDQXYtazZFTndNV0wyVEQ0UHN0ZExjYld1cG9RWDF3T0o5MEpHZ3VvSUYzYzdiRjQ1SEtEZmVyVnM1NnZKdFRVby1mQkxnVk5sdjB1Y0JiUHhyUWpkdzBi?oc=5",
-   "tags": [
-    "FED"
    ]
   },
   {
@@ -586,15 +650,6 @@
    ]
   },
   {
-   "title": "Fed's Warsh says emerging technologies will have 'significant impact,' but risks need to be watched",
-   "source": "Reuters",
-   "time": "2026-11-16T17:06:57Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQjBEWTRZekl4NlZXbUFpUW93VUNEU3JOUkVnZFk5VDAyRFBNRXYyTGNCREVZRFNEd2JEdWY4VmxsUGtxdnAwQnhZSlFiX3p2WWRHVU1iS1dIbXpDel8waEpsT25wdjFhTHlPNG8xMnJWdHdtc09aMnBDa2I5MGN3SkVjendsRWFOTUxvdnZrMmFKdDN6RmV3OXRISEdERjhuSEpDYmQ4dkVldmx2dENTcGRZR0NuVk9xYk85OTJCVmRteEk?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "title": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin",
    "source": "thecanadianpressnews.ca",
    "time": "2026-11-16T17:01:57Z",
@@ -617,60 +672,6 @@
    "source": "Bloomberg.com",
    "time": "2026-11-16T17:00:00Z",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTUE0U2w2TzBJcDJHS2dWS3k4MEp1MkFQWHVBTi1nNkJvcG9zQlQ4S0JvTU5aLWNScTJVdmdsYnhLaF9DTXczVU1mQ0V2ZGg0WndacERXamttQy1iT0hYUmc1dndPajU3eDRxX2haeVVmaDhrN0dQdFduNHB6eEZyNEItM0lBYkhQcWFWY3JlUFItUGhnZTBqS0tFeS1iWEJUN214bzVPSHB3SjJhVlVRZHdHRGpsQQ?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Iran braces for natural gas shortages during winter energy imbalance",
-   "source": "Al Jazeera",
-   "time": "2026-11-16T16:58:46Z",
-   "link": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Tests Key Support as Bearish Candlestick Pattern Raises Fresh Concerns",
-   "source": "Investing.com",
-   "time": "2026-11-16T16:56:00Z",
-   "link": "https://www.investing.com/analysis/gold-tests-key-support-as-bearish-candlestick-pattern-raises-fresh-concerns-200691672",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-11-16T16:55:25Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "EU sanctions Gazan outlet and its founder for fundraising for Hamas",
-   "source": "The Times of Israel",
-   "time": "2026-11-16T16:55:05Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVllhcE9COUdPWi1VZnZUMDV0V1VVdjVraElIVjdTbFpwUmw0M1YycWM5V24wVFdnQUduWFFVcnlDcVZnRzJlOEFqTXRNcVdabGtpdGVJMXp5dzVBSnVHMDEySDV1TENVQjV3blZtc1hRTzVIdkhHUXhERWhsTl80QV9UWkNmcmxYUk5GUlB6ckZvV1M4WHMwRnJZNEtVTG01VmxWUTN3ZktQYXhUQTVRT0gzOA?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Euro zone yields edge up as traders bet on three ECB hikes by late 2027",
-   "source": "Reuters",
-   "time": "2026-11-16T16:51:03Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGFhVl8yczRkQ2lOQTNKYUhIZVl4ejE3a3hxZGVVLXhZUWY2S3pGek1KVXh0bkVSRF9lcGthdG9WamtpLU5GTDJNNG1DZE5Idzd1c2VJNExuMG55cEJ5U2NBNlItSC14OXprdG1ySXFjS1hPc0tNLXFMcHRwVDNNd0V1djlFU3ZJU010d3R6XzZzNTc3THBDWGs5anIwbkxYWHZLYWo5cXJnYjBGczlGR19uRQ?oc=5",
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "title": "Supreme Court Rejects Crypto Bank Custodia's Bid for Fed Payment Access",
-   "source": "Bloomberg.com",
-   "time": "2026-11-16T16:50:22Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbDloQ0xXeDdwRzVncEhFbkJUcm8yREpzWExQWWE5UXl6RXJpSkhWb2xnZ1BXR045LU9SVWNRdHhyZ0JMT3QyTm5RbFVoUmhObXFKSTdYTUJXa25DSUxpamh0OGtnMGRlTUd3UkJBek9VMjJvaVVQY0JSczVEd1dBWERZSXJXQmpvRGxlTGg1Z0VLRElHU20tNzRWWHJ5eEJ1UEpPNUtSWkFTLTdwRjd0YzFB?oc=5",
    "tags": [
     "FED"
    ]
