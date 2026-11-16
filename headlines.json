@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T20:35:08Z",
+ "generatedAt": "2026-11-16T21:03:27Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -86,7 +86,7 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 30,
+   "items": 29,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,18 +96,17 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 28,
+   "items": 24,
    "kept": 12
   },
   "gn_sanctions": {
-   "http": 429,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 429"
+   "http": 200,
+   "items": 16,
+   "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 13,
+   "items": 14,
    "kept": 12
   },
   "gn_oil": {
@@ -127,6 +126,33 @@
  },
  "items": [
   {
+   "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+   "source": "CNBC",
+   "time": "2026-11-16T20:51:28Z",
+   "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Several companies are using Trump tariff refunds for corporate bonuses",
+   "source": "The Guardian",
+   "time": "2026-11-16T20:49:00Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekN0WkJvZGRfZ29xaklOWk85SmhYM2FmYkRXbVRmYVNzdGwtTGpCMjlCbmkwcFRjeGd6MF9yR1VwLXU0bWlWQ2NKbzNGR05kRk5IcWtobXZkNncwZldTT0pieGkxMFFXNjM1MnpzemNtRk5xYngwcWNyMHFyajYxVEFBdlZoSldWU29OV3ZyeTVER3pHOTJQcXhCVDk?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "EU sanctions four Haitian gangs over serious human rights violations",
+   "source": "Reuters",
+   "time": "2026-11-16T20:37:43Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTkc4T0lUU3JiUFF0dDFhaUt5R01oR01kZmZ2Rkd1S01TdlIwVC0zcG12WWRqd0hyeDZnRFJEclByMVl0UXl2YnJSOG9CY1liZEZJdF9zWmlHY2VmWlhsTnlaQTBtVnVCWnRteXBxUkhTa25ZQllNR01ZSTlYZGNmNjkxVENDNE1ITjF4WW8tOUVWRGdEUXRLbjJWUVlfSktpUXMtSG9HT0l1NHIzUHpta2NUVW05NDNiQUtR?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "Fed's Hammack reiterates case for slow, steady rate hikes -Bloomberg TV",
    "source": "Reuters",
    "time": "2026-11-16T20:16:40Z",
@@ -134,6 +160,15 @@
    "tags": [
     "FED",
     "RATES"
+   ]
+  },
+  {
+   "title": "Treasury Yields Fall, German Bunds’ Tick Higher",
+   "source": "WSJ",
+   "time": "2026-11-16T20:16:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
+   "tags": [
+    "YIELDS"
    ]
   },
   {
@@ -157,7 +192,7 @@
   {
    "title": "Gold price drops to more than one-year low",
    "source": "Mining.com.au",
-   "time": "2026-11-16T20:03:45Z",
+   "time": "2026-11-16T20:07:22Z",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UTzNFeWU2Q0VYQ2x5V2JxdVJlakRtTEl4NWZaSXF0cG15RDg5X0VHVU1fWmttdzhwVkREOTRiNEpkc2NEeDhhdUU5ektrU3JMeXQ3TTdJaWprYlF6ZEFFeFIxM3BtY3Y5VTlzWXVWX2Q5czQ?oc=5",
    "tags": [
     "GOLD"
@@ -199,6 +234,15 @@
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Opinion | The Russian Orthodox Church is waging a war against one word",
+   "source": "The Washington Post",
+   "time": "2026-11-16T19:45:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUwzcFZ6YWtJNXdpSm03c2kzeUdJdUZUcDJCOVVrdmVMUmtSSzM0dUNial8zWkFWVTBnUno1bGY5c3pwU2ZHUnpQZHdjMFVReUxYT0NERE5GbWtJbU9MWVhSNGJ6NXhaLVR4NnVfTm9nZno1aGZIX082WVg0dUx1TmJDS1Q5UWlNV2FzOTktTlZIS3pCajJ3Wg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -321,15 +365,6 @@
    ]
   },
   {
-   "title": "Opinion | The Russian Orthodox Church is waging a war against one word",
-   "source": "The Washington Post",
-   "time": "2026-11-16T19:17:37Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUwzcFZ6YWtJNXdpSm03c2kzeUdJdUZUcDJCOVVrdmVMUmtSSzM0dUNial8zWkFWVTBnUno1bGY5c3pwU2ZHUnpQZHdjMFVReUxYT0NERE5GbWtJbU9MWVhSNGJ6NXhaLVR4NnVfTm9nZno1aGZIX082WVg0dUx1TmJDS1Q5UWlNV2FzOTktTlZIS3pCajJ3Wg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Treasury Yields Fall, German Bunds' Tick Higher -- 2nd Update",
    "source": "marketscreener.com",
    "time": "2026-11-16T19:17:28Z",
@@ -345,15 +380,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsTUVkTl9zazMyUGVMbjctb2lDWV9JRTY2aUZFaFljc1JyZHFOd3VmMmFnbTBsUno1UjFyTG5ROTd2ZHc4bjhJN19SUEMxa3lKRkNhUFo1dXkzNUww?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
-   "source": "CNBC",
-   "time": "2026-11-16T19:13:25Z",
-   "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-   "tags": [
-    "OIL"
    ]
   },
   {
@@ -383,15 +409,6 @@
    "link": "https://www.aljazeera.com/news/2026/11/16/is-israels-opposition-less-right-wing-than-netanyahu?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Several companies are using Trump tariff refunds for corporate bonuses",
-   "source": "The Guardian",
-   "time": "2026-11-16T19:04:00Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekN0WkJvZGRfZ29xaklOWk85SmhYM2FmYkRXbVRmYVNzdGwtTGpCMjlCbmkwcFRjeGd6MF9yR1VwLXU0bWlWQ2NKbzNGR05kRk5IcWtobXZkNncwZldTT0pieGkxMFFXNjM1MnpzemNtRk5xYngwcWNyMHFyajYxVEFBdlZoSldWU29OV3ZyeTVER3pHOTJQcXhCVDk?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -435,7 +452,7 @@
    "title": "Indicted Virginia state senator pushes to sanction Blanche, Patel over public comments",
    "source": "The Hill",
    "time": "2026-11-16T18:34:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeVByc1NGSFB6TUR2UTdPaG4xSXk3Y1BGZ2x0UDZ4bjVmc2ZXQnNOdm9qaVFVTjdfYTJ4RUlMdmZjVFhiX0I2SzhSSEJPc183QjRlekFwUTJkWl9qOVZrZ3dtVWhnMkd6ODJNSEpOM0lXeTlKSUhpdFVIQl9PY29YMTJhOVAwQWpnTGJredIBkgFBVV95cUxPbjlYN29TUEx6ZHg5b3lwUmJiNGxnTF80aUtKb3NEYi1RS3FuSl84MUhNMjVqSzFmbS10VVlCQ2xoenBTNzdxamZ5ak84b0l0TEFqUU53QWx5NzBlcmFFY2lITG9QdlN1dUpOSnFGLWJQaEVmLUxVQjJJb2NPQXp3aGhlclVmdDAwLUxyRzBmWk0zZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeVByc1NGSFB6TUR2UTdPaG4xSXk3Y1BGZ2x0UDZ4bjVmc2ZXQnNOdm9qaVFVTjdfYTJ4RUlMdmZjVFhiX0I2SzhSSEJPc183QjRlekFwUTJkWl9qOVZrZ3dtVWhnMkd6ODJNSEpOM0lXeTlKSUhpdFVIQl9PY29YMTJhOVAwQWpnTGJreQ?oc=5",
    "tags": [
     "SANCTIONS"
    ]
@@ -656,24 +673,6 @@
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcGVvcVlkNkV5VEdxbFIxLWZEbVBYRnkyZTl0dm10YUZtRFRyalN6djRFRGluemNwandHWXdLRElxaXRDWU1nUnFnYjJ4eUxoTVFWc0s1ekpIR0tJc0xVVlVBVGNLSDZhNjhMVjlIWHdUOWhSVU1JRE12RmtzbDI2OUlIeEx1YzFieHY2MWNnSncyZzFRMzd5d0VST0FZQ3dRbTE0R20zMmRTSFFsOXpSajU0LXlIUkd3SzJjdmpmV2dwLS0yamVaRkd1d25Fam1sSF9sYnE5enhERVBSNGttaUN2azdjQWNZMVhWM0pNZlpqZjhEY0o2MVdlYVpkN3RP?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Warsh, Opening Remarks",
-   "source": "Federal Reserve",
-   "time": "2026-11-16T17:00:00Z",
-   "link": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Fed’s Warsh Says Staff Are Gaming Out Contingencies on AI Impact",
-   "source": "Bloomberg.com",
-   "time": "2026-11-16T17:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTUE0U2w2TzBJcDJHS2dWS3k4MEp1MkFQWHVBTi1nNkJvcG9zQlQ4S0JvTU5aLWNScTJVdmdsYnhLaF9DTXczVU1mQ0V2ZGg0WndacERXamttQy1iT0hYUmc1dndPajU3eDRxX2haeVVmaDhrN0dQdFduNHB6eEZyNEItM0lBYkhQcWFWY3JlUFItUGhnZTBqS0tFeS1iWEJUN214bzVPSHB3SjJhVlVRZHdHRGpsQQ?oc=5",
-   "tags": [
-    "FED"
    ]
   }
  ],
