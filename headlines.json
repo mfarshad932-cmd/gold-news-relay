@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T15:31:37Z",
+ "generatedAt": "2026-11-16T16:00:01Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,12 +47,12 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 8
+   "kept": 7
   },
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 0
   },
   "cnbc": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 16,
+   "items": 18,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 21,
+   "items": 22,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "gn_war": {
    "http": 200,
-   "items": 26,
+   "items": 24,
    "kept": 12
   },
   "gn_sanctions": {
@@ -121,17 +121,64 @@
   },
   "fed_calendar": {
    "http": 200,
-   "items": 12
+   "items": 11
   }
  },
  "items": [
   {
+   "title": "Northrop Grumman receives $1.6B order for missile motors",
+   "source": "Investing.com",
+   "time": "2026-11-16T15:52:27Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWE9pS01QSjFUaDFwVDVYWExGcjhXa25MOFFSbkRmcDJpNHVRRHZ0UzBsV29jU2J5SGlzbENnRVU0UWJxU2RwZmo3YU9HNnlrZUdVSnRibGx4cklTYmNDVXAyS0YzbDNZdF9KVXdIOE5mOEtDOFktWUw1dU9BNm9GUjdQLVVjcG5QV3FNZkhKV1FQT2c2LUtfSVNGMTRZVHZuVVFzY0h2S0JrTHBLWmhraw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Opinion | Erasing ‘peace’: How Russia’s church serves its war in Ukraine",
+   "source": "The Washington Post",
+   "time": "2026-11-16T15:43:19Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUwzcFZ6YWtJNXdpSm03c2kzeUdJdUZUcDJCOVVrdmVMUmtSSzM0dUNial8zWkFWVTBnUno1bGY5c3pwU2ZHUnpQZHdjMFVReUxYT0NERE5GbWtJbU9MWVhSNGJ6NXhaLVR4NnVfTm9nZno1aGZIX082WVg0dUx1TmJDS1Q5UWlNV2FzOTktTlZIS3pCajJ3Wg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Oil tankers hit sea mines in the Strait of Hormuz",
+   "source": "Al Jazeera",
+   "time": "2026-11-16T15:37:49Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "EU to impose tariffs on cold-rolled flat steel from five countries",
+   "source": "TradingView",
+   "time": "2026-11-16T15:37:09Z",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY3h2OG1RalNPMjBFQTFFaGVWY1JrbjQxSmlycjJrXzhQRFFKMXVDd3o1T2NWRi1WRE82V2V1LWlzc3ZyVHlIdVR4VWozZGNDdFI1WEV3MkxhbXV0OEtJNUdWR2R2MFkwOGhTV1g1YUU2c0VmSkVmQ1MtdnU2SXVVeVhSUGNBcGNGSjhVRVFPblF0SFgwUTFnVU85MTRtNmZNUERWOTRGeDByTXRwcm5lNDVfWENvZGgwb3c4Yk9ZQ2ZKN1B5bVdvYzRMSEc2WVFGLVE?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
    "source": "CNBC",
-   "time": "2026-11-16T15:27:31Z",
+   "time": "2026-11-16T15:34:48Z",
    "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "Gold Price Forecast: Hawkish Fed Signals Keep Rallies Vulnerable",
+   "source": "FXEmpire",
+   "time": "2026-11-16T15:26:07Z",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM3RLUlo2cThXaURzWGRhdm5aMF8zQ0xtQXVkQzE1RzhpdFR2cFpTdmVDUXZuaU92YUFFeVRBX3ZMYUdaVTVNU0t2a2lScEhYeVUyODlpVldpZWJOQzhnSnlKX0tuVTgtempJeXFBQUZVZHBkVXJWSU9WM1hkOHVGUWFHU3F0RXJWREFCUHRyRHU0NUxNOEZvUHZvTjdaalhXMEV5Z3NnTWx0SjExY1ZWd25oc2RQb1NWVVhhb09MQnFOQldjc2ptR3RPLVhpdDQ?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
    ]
   },
   {
@@ -141,6 +188,24 @@
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkJVMkZGOUdobHQ1NGppekpPc3JXZlB4ZHF5d0g3QXNTakFoZlZBZ0lYQ1JYN3laYjNSOUstMzZTR1cwOVBJTWdLTHJQbk16Z3ZwanJxZlA5dHlqeTRTeFBhOEpQb0g3R0pKdGdxVTFKMmFoVDFaUVJ4MGJtN0Y0bFBHQUhNeGtya3F6RmVnNFRBNFk2NGZWRG5ueXItZmc?oc=5",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "The price of gold today, Nov. 16, 2026 — and the best places to buy",
+   "source": "CNBC",
+   "time": "2026-11-16T15:15:17Z",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51RXJFR0hvanlBak5MOWdLM2x6eExDOVdybUM1QWM3V3pabV9KZUZKQmk1STU1a29wd1FBLURtTFRXRGs5WjN2d19EWFo5dzl3UmMyN2hsN1A0S3VQd3Q1NFgxWExKaFJ1eEpqTEJjeDM2d9IBd0FVX3lxTE9lZmxTVTA4VVpjREwxX3VGdG1WdmQwakxoLVk3M0VsdFE5Ym5XcER2cXZLSllBWEVUVWJmQ1U5RTczLUNHeFVINWpBUFVaa2c2NEQ1dU5uWjVRb3BkTVBGYlY3RUlKTGMzMHd5bjlSYThmZTRYMTRr?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Trump, Xi Jinping, Vladimir Putin meeting to discuss Nukes, Iran war | RISING",
+   "source": "The Hill",
+   "time": "2026-11-16T15:13:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMms2b2Q2VjVTYVl4RnZnbm9mOS1XZUFvTGpRMWdpal91SXd5VC1aUXkwZkNuY0N4X0NieWUxRXlPX2xBUWMwTENxQU5Ga2pVWUhLYWlsU1ZORDNaQVFaSklWMl9sOXFrbmNvWFVJQjhwOWVFUkFDWEhwSUppb3hoeTc5RXF4OU9fNENPTzhqRjZ0R2gyaEQ4MU5zY21ZQU9sR3FkMVhfcGFSZ1ZJ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -172,6 +237,15 @@
    ]
   },
   {
+   "title": "Iranian leaders fret over public mood as gas shortages add to war ills By Reuters",
+   "source": "Investing.com",
+   "time": "2026-11-16T14:59:41Z",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPczNHWTBHOXMyUzR0QnVyZTY4bVhLZG5IMWhSM1FaUm9yMV9FWHlORmxtN1MwQnVaNHM5eDZxUjJwNHZXbk5FQnlhYjVSU1FkYTVFSE50eE1KQTVBRkxGdGNWMC16VVZ6OXJSaGxwSWtGQTBSX0NpbWgzUC13LVhEa0x3Q2J4Yzg0MlNhRFV4TFA5VW81OTlqTXdRX2dMTGhMR3EwYU0zbGl5eE5MWlYtd0FPXzBZaXk1eG9sVXlQUmRiUVh5?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
    "source": "BBC",
    "time": "2026-11-16T14:58:12Z",
@@ -181,7 +255,7 @@
    ]
   },
   {
-   "title": "Did the US fight a time-travel war with the Nazis in Nuremberg in 1561?",
+   "title": "Did the US fight a time-travel war with the Nazis in Nuremberg in 1561? - analysis",
    "source": "The Jerusalem Post",
    "time": "2026-11-16T14:56:09Z",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hWXpZbkJKSGJVdVNQRm5GdGpvcTNLUnlCMHdONjdBcVRka2hTU09yelB4SzhLQ055aG4wcENGVHp2QWpTVkV4bDhoQ1ZqTXhMVGtjbkNzWDlLbEIzbUJV?oc=5",
@@ -208,12 +282,14 @@
    ]
   },
   {
-   "title": "Opinion | Erasing ‘peace’: How Russia’s church serves its war in Ukraine",
-   "source": "The Washington Post",
-   "time": "2026-11-16T14:47:37Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUwzcFZ6YWtJNXdpSm03c2kzeUdJdUZUcDJCOVVrdmVMUmtSSzM0dUNial8zWkFWVTBnUno1bGY5c3pwU2ZHUnpQZHdjMFVReUxYT0NERE5GbWtJbU9MWVhSNGJ6NXhaLVR4NnVfTm9nZno1aGZIX082WVg0dUx1TmJDS1Q5UWlNV2FzOTktTlZIS3pCajJ3Wg?oc=5",
+   "title": "Fed’s Schmid says central bank has ‘work to do’ on inflation",
+   "source": "The Hill",
+   "time": "2026-11-16T14:46:00Z",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SNjBsLTJuWDZ1RHowSDZLTjNtbkkwSGc1T0xwWS1hWlZjZWtjN0NaQjBUTGkwQlNWZ3ltWi1iXzFHYXRyd3JsbmdrNURIRE0ycHpKM092ZWhxeGpleW5tY2wzQnJEY1pfQXZWdkhwQ1dFRVBS0gF6QVVfeXFMTjRTNXBnajRMdlFTa1ZucERwWEY5elNUcThVUXpWLVhneGRKNy00bGdzal9BUXpmaDd3LVNqMUthZFNSUDdoejdlR1ZvMmVaWWVqOW9YY0FEWHc4VGxWcXlQdXFHQzU0cnZLNVpjUjNzNGpNc2hUN0xLM3c?oc=5",
    "tags": [
-    "GEOPOLITICS"
+    "FED",
+    "INFLATION",
+    "CENTRAL_BANK"
    ]
   },
   {
@@ -569,15 +645,6 @@
    ]
   },
   {
-   "title": "India’s wholesale inflation accelerates to 12.29% in October on fuel price surge",
-   "source": "Investing.com",
-   "time": "2026-11-16T12:50:05Z",
-   "link": "https://www.investing.com/news/economic-indicators/indias-wholesale-prices-rise-1229-yearonyear-in-october-5028452",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
    "title": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows",
    "source": "Reuters",
    "time": "2026-11-16T12:42:10Z",
@@ -613,80 +680,9 @@
    "tags": [
     "GOLD"
    ]
-  },
-  {
-   "title": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
-   "source": "CNBC",
-   "time": "2026-11-16T12:13:47Z",
-   "link": "https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "The White House vs. Congress War Is On. And It’s Ugly.",
-   "source": "WSJ",
-   "time": "2026-11-16T12:05:08Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjQyUFMtUGdiWHJBRHY2d1lMUkpHYWlJcGxxNWtYb3phZi1SUU0zd3pTZE9tMkJoUDFGeU02OXNfbWI1aFZGZGhQZDg2ODFKT0d0RTJobTYzX1I4Vm1oRTcxazRJb25lOEFsa1MtRENPTVBNcEt4a3M0YmNnMFltN0M1Z3c3S0FmVkdvdVh2QWVrR0d6WEhqUGVkaFY0c2M?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win",
-   "source": "AP News",
-   "time": "2026-11-16T12:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSlFhSVZELUZUeUhzNmZtN0tSS0V4QVdwZnpjRUZsQXZLc1N2dENaLTdUSXY4YWdFMmJlXzQ4UENJQndKVVBMel91OS01NVNqSHluSG9hMF9wdHNLWWthU0tDRERMc2EtM2s0ZGZ0VEZhQzBXMnVfaGNaQ3lsUnAyQ2haUEl4U0d2djVRR0JnV0w2TS1vNHIwckNNdzVoZmhrM2pBSWgtRU8?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold price falls to lowest level in a year in key signal over interest rates",
-   "source": "Yahoo Finance UK",
-   "time": "2026-11-16T11:53:15Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVmx1Nk5KUjhqaTk3aDdkRmQ1M0l0eE10QWxzTFBGeTEydEstUmt5OThlNjZKYlN2Tm1MN21td0lzWHF0bDk2RHR0aE9YaERqRzR2YXp3cXNjMjViRFhLd1UwbDVJMUU1MlJ3SjhUQmxNWHdkblVYRVBoUENrR0xHM0lULU4?oc=5",
-   "tags": [
-    "RATES",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Ukraine unleashes record drone barrage on Russia, damages Crimea bridge",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-16T11:50:53Z",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQlJ4RTF0RHhJb19pZC1SSS04NkVicW84Vl9hZGl2cXpWbnM1ZHc0RjQxOHNnRXpGeXl6dTk4V01kUThxMTJMMk83RVZ0eWY3Z2wxS1FEb0o1eERfSWZOZ2VIdkV6NUo3QVMzcVlGQmdqMFRNRHlMdzdiZ29uUkViZDlRU3dZZDhnREE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "i-80 Gold: Development Remains On Track, And The Stock Offers Great Value",
-   "source": "Seeking Alpha",
-   "time": "2026-11-16T11:44:48Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcWdUYjFRMng5c01LOXJPMF9RNk84WEEwbGtPV2xPaFR1NlFTdGpHQzZEUVU5MEVscDlYZC1iVmU1ZlZqcW9aSlE2RExOZUNVRXJQcHRKMExiVEpKU3hrd1BCU05kNEZmN21lUFZ5bU1DQXFTWG43a21mWERNRWlOdXo2SkVOa0xpOGFCaUhKTjJJNkpfQVUtOHRJLVZzMVpkVUFqZzhR?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Who is Ahmad Tibi, the Arab MP elected deputy speaker of Israel’s Knesset?",
-   "source": "Al Jazeera",
-   "time": "2026-11-16T11:40:25Z",
-   "link": "https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
   }
  ],
  "fedCalendar": [
-  {
-   "title": "Speech - Governor Michael S. Barr",
-   "time": "2026-11-16T05:00:00-05:00",
-   "impact": "Medium",
-   "kind": "SPEECH",
-   "src": "fed"
-  },
   {
    "title": "Speech - Chairman Kevin Warsh",
    "time": "2026-11-16T12:00:00-05:00",
