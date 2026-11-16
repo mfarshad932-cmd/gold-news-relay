@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T12:40:54Z",
+ "generatedAt": "2026-11-16T13:09:16Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -21,7 +21,7 @@
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 1
+   "kept": 2
   },
   "bea": {
    "http": 200,
@@ -61,18 +61,18 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 57,
+   "items": 56,
    "kept": 1
   },
   "bbc_world": {
    "http": 200,
    "items": 23,
-   "kept": 3
+   "kept": 2
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -80,52 +80,44 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 17,
+   "kept": 12
   },
   "gn_fed": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 18,
+   "kept": 12
   },
   "gn_tariff": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 5,
+   "kept": 5
   },
   "gn_war": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 26,
+   "kept": 12
   },
   "gn_sanctions": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 6,
+   "kept": 6
   },
   "gn_yields": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 9,
+   "kept": 9
   },
   "gn_oil": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 7,
+   "kept": 7
   },
   "gn_cbgold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 3,
+   "kept": 3
   },
   "fed_calendar": {
    "http": 200,
@@ -133,6 +125,52 @@
   }
  },
  "items": [
+  {
+   "title": "U.S. Figures Iran Still Has up to 2,500 Missiles, Countering Trump Assertions",
+   "source": "WSJ",
+   "time": "2026-11-16T13:01:40Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUDVwNnk4SFpaRVhKQVNBZFI3VkdXM1VQaEtPcURJT3FMUUxXaVF5NjNVOUt6U0gyY0NWeV8tQkR5cXQtT2V0OUVncDhrdlh3amRZckptN2Uzbi1yNXhteFN2S1hMbGpIZEdXLTN0YTQ5aXVkVURRWmFHTTdIS2cxUjFKWVlFY19JbmZFN3ZucXVFTkV5OV83a2xrdnFRb0VUT0x2R3N5TVJFbWZFNzF5N0hSQlVhNmpYUDExU1Njbw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Frank Elderson: Smart supervision for small banks",
+   "source": "ECB",
+   "time": "2026-11-16T13:00:00Z",
+   "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
+   "tags": [
+    "ECB"
+   ]
+  },
+  {
+   "title": "India’s wholesale inflation accelerates to 12.29% in October on fuel price surge",
+   "source": "Investing.com",
+   "time": "2026-11-16T12:50:05Z",
+   "link": "https://www.investing.com/news/economic-indicators/indias-wholesale-prices-rise-1229-yearonyear-in-october-5028452",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "USD and CNH Cash-Settled LNG and Gold Futures Now Live for Trading on Abaxx Exchange",
+   "source": "The Manila Times",
+   "time": "2026-11-16T12:38:29Z",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTzZzQnhEVUJ5VF9lMFVKYldkTkdRczNlYUdQcndWb0Q3WlJEZTBsS0hycjJmWWwtQ3ZpV0pKanRPTzFIZFVOYThaV3NYeXB5X1hjTFRLMlByN1VjTVZ1MXpQMHloblZ5ZUU0NGtHdlR1NWUwdUVGbmxtWXdEM2RzV3Z5RUVObDlsQjkwbW5sMkpzZTI2MmRfTlROWkZSeWpiRE1mTjh0SVo1SVBmSmdIdUN5SDU2Nm5Jb2d6a2d1RVdvT0JxeWVaMkJrNDRraEdCcVEzZE9xcVFiRXYzdUtTTkdwSlhnTEhiTDZGX2gxY9IB9AFBVV95cUxNaElDVnJkeWx3dUVHcEV4WUx1NVNSQTc0cEk2SUFEcFVuNHVJcFJjeGZtQjFWQUdwQnlsdHZQSElFczZPQk54ZVFlV0VzMldVRTBLeGs0MTIwT0dkVFpzaGJSa2cwR0ZZbzRFdmJqdjhRc0ZSSFR4a04zMi1lZS1rS1hGWjNpamxROWV4SDN3WFdmN25GQ1RIaE9GbmpJMllXc0ZERXoyWkk0Nk1JNXBOcEVMMDUtdXZGek81c0Q0WGhZdjJBaUVfdEg4b0FVZXAwd3JGT0VFbWk0UVVveEdCeDd3N2pETTdWOFNQa3RQR2lUVW1j?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold prices today, Monday, November 16, 2026: Gold prices hit lowest levels in over a year. Here's why.",
+   "source": "Yahoo Finance",
+   "time": "2026-11-16T12:35:41Z",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPT3hOZU5BcnBOZlhpenpQMllzc0xzTWRyWFIzXzEtLVVlX0dIMmxTWVJ0NVp5MWN4bWctUGJ0VUxSVFpJZkdfY2pfR1FGRjhiY0dPTjJaLXM0S2xhU0l1MUVKYkRXcHB3VDVlMXFQbzcwc3hyUV9IZkdNcWFqRl9Vby15OHM2emJDM2JSWWRkd2NTUlFZbmlWNWdZc0MydDdVbDBBNEF5NVM1MlJSTW90VURuZEVQZDV4RVZRSDVyT3hiSUtvOEVjcWhfeHRTWC1aZVoySWdKQ0VpUVhWcFBwNlNSWTl3RWtfUG1vNHhLTTJGTnFqanh0MVdHYkxEQzR3ZFE?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
   {
    "title": "Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash — and $500 oil",
    "source": "MarketWatch",
@@ -152,12 +190,30 @@
    ]
   },
   {
+   "title": "Opinion | Erasing ‘peace’: How Russia’s church serves its war in Ukraine",
+   "source": "The Washington Post",
+   "time": "2026-11-16T12:11:54Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUwzcFZ6YWtJNXdpSm03c2kzeUdJdUZUcDJCOVVrdmVMUmtSSzM0dUNial8zWkFWVTBnUno1bGY5c3pwU2ZHUnpQZHdjMFVReUxYT0NERE5GbWtJbU9MWVhSNGJ6NXhaLVR4NnVfTm9nZno1aGZIX082WVg0dUx1TmJDS1Q5UWlNV2FzOTktTlZIS3pCajJ3Wg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "The White House vs. Congress War Is On. And It’s Ugly.",
    "source": "WSJ",
    "time": "2026-11-16T12:05:08Z",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjQyUFMtUGdiWHJBRHY2d1lMUkpHYWlJcGxxNWtYb3phZi1SUU0zd3pTZE9tMkJoUDFGeU02OXNfbWI1aFZGZGhQZDg2ODFKT0d0RTJobTYzX1I4Vm1oRTcxazRJb25lOEFsa1MtRENPTVBNcEt4a3M0YmNnMFltN0M1Z3c3S0FmVkdvdVh2QWVrR0d6WEhqUGVkaFY0c2M?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win",
+   "source": "AP News",
+   "time": "2026-11-16T12:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSlFhSVZELUZUeUhzNmZtN0tSS0V4QVdwZnpjRUZsQXZLc1N2dENaLTdUSXY4YWdFMmJlXzQ4UENJQndKVVBMel91OS01NVNqSHluSG9hMF9wdHNLWWthU0tDRERMc2EtM2s0ZGZ0VEZhQzBXMnVfaGNaQ3lsUnAyQ2haUEl4U0d2djVRR0JnV0w2TS1vNHIwckNNdzVoZmhrM2pBSWgtRU8?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -171,10 +227,10 @@
    ]
   },
   {
-   "title": "Opinion | Erasing ‘peace’: How Russia’s church serves its war in Ukraine",
-   "source": "The Washington Post",
-   "time": "2026-11-16T11:47:37Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUwzcFZ6YWtJNXdpSm03c2kzeUdJdUZUcDJCOVVrdmVMUmtSSzM0dUNial8zWkFWVTBnUno1bGY5c3pwU2ZHUnpQZHdjMFVReUxYT0NERE5GbWtJbU9MWVhSNGJ6NXhaLVR4NnVfTm9nZno1aGZIX082WVg0dUx1TmJDS1Q5UWlNV2FzOTktTlZIS3pCajJ3Wg?oc=5",
+   "title": "Ukraine unleashes record drone barrage on Russia, damages Crimea bridge",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-16T11:50:53Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQlJ4RTF0RHhJb19pZC1SSS04NkVicW84Vl9hZGl2cXpWbnM1ZHc0RjQxOHNnRXpGeXl6dTk4V01kUThxMTJMMk83RVZ0eWY3Z2wxS1FEb0o1eERfSWZOZ2VIdkV6NUo3QVMzcVlGQmdqMFRNRHlMdzdiZ29uUkViZDlRU3dZZDhnREE?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -273,15 +329,6 @@
    ]
   },
   {
-   "title": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win",
-   "source": "AP News",
-   "time": "2026-11-16T11:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSlFhSVZELUZUeUhzNmZtN0tSS0V4QVdwZnpjRUZsQXZLc1N2dENaLTdUSXY4YWdFMmJlXzQ4UENJQndKVVBMel91OS01NVNqSHluSG9hMF9wdHNLWWthU0tDRERMc2EtM2s0ZGZ0VEZhQzBXMnVfaGNaQ3lsUnAyQ2haUEl4U0d2djVRR0JnV0w2TS1vNHIwckNNdzVoZmhrM2pBSWgtRU8?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
    "title": "Ukraine fires 1,336 drones into Russia in one of war's largest attacks, Moscow says",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "time": "2026-11-16T10:57:59Z",
@@ -327,10 +374,20 @@
    ]
   },
   {
+   "title": "Euro zone yields rise as traders bet on three ECB hikes by late 2027",
+   "source": "Reuters",
+   "time": "2026-11-16T10:51:44Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGFhVl8yczRkQ2lOQTNKYUhIZVl4ejE3a3hxZGVVLXhZUWY2S3pGek1KVXh0bkVSRF9lcGthdG9WamtpLU5GTDJNNG1DZE5Idzd1c2VJNExuMG55cEJ5U2NBNlItSC14OXprdG1ySXFjS1hPc0tNLXFMcHRwVDNNd0V1djlFU3ZJU010d3R6XzZzNTc3THBDWGs5anIwbkxYWHZLYWo5cXJnYjBGczlGR19uRQ?oc=5",
+   "tags": [
+    "YIELDS",
+    "ECB"
+   ]
+  },
+  {
    "title": "Goldman Sachs Says Wait With Gold Until 2027; China Isn't Listening",
-   "source": "Benzinga",
+   "source": "TradingView",
    "time": "2026-11-16T10:50:41Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlpSUXVPaS16Z0I5U254eEFWWHJwcGJ6R0xmMkt2blc5WmlBcU5Hb1NtcU5ZVWxOa2l0R3p1SXRvYTlsak9BQVU3V0NBVWFFeG9oY21NRUVzMnNQVnZFd1VGS3o2SW1vMnVIQVpUSzdXUzZaNVNCbGNkRGxFT2RPci1iTnBXUTFuTDQ0dU81TE8ta1dKRVVWaTVjM01MeWMwTlA3cERRMy1UQXVjcVc4U01hTDh4Q2dmbjA5LXVQQXR2aUk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWVNPZmtBWHJfaFcxaWNPNnpVOWdTWERKcndDdGNCNEhlRkdHRllaUG4wUXhtQmc1cDNuME9PMjM4eWp2elJ2Wm9lYlRDOWJHa2VMV0FWTnh6ODNpUEZIWnhUZ1ZtT0NSSFNMbFRyMjNUTTcwZWFiZWJnMVdtaGhKS2d3VEpySTUwLThvUURjUW9XX2ZUWE9GU0RfSFBrV0tYMlZDZThib0hSOVFsRE1nUUMzanZnMERjTzB4TUVpVEJ4dWM?oc=5",
    "tags": [
     "CENTRAL_BANK_GOLD",
     "CHINA",
@@ -422,7 +479,7 @@
    ]
   },
   {
-   "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
+   "title": "War May Answer Longtime Riddle of Iranian Dams Built for No Clear Reason",
    "source": "The New York Times",
    "time": "2026-11-16T10:10:58Z",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWV83T0ZxN25NdHpfajB5Mjg0bDBVUUVCVTI0QWdLUEViTXY3QjRBZXE5a2tfVGxGdEc0WFlQbW1ua2ZCYVB4VmYxcmZsYzNFNDZVT2N0dUhHeEdaZ1VnVjlIS2VWUHU2STd4UkJIdFNBV2NjVTd0QXdNYnlNd2ZpeDZMQzloRjdWdGhEZm5EOHRzWVpGVXgxMjd3?oc=5",
@@ -620,70 +677,6 @@
    "source": "TradingView",
    "time": "2026-11-16T09:15:09Z",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWRfQUNMa2ZSRl9mUVBDS09Tekt1dUtvRUpzYjFpWDNjdVRaSE55d1F0OXhaVVJ1VFVycWxPc3dLUUZCX0s3cnFPSzVUaGtodzAwM3pTRnRCZW5MWU5FM1NCSTJLWW9rTEduNnQ0ZXJ2TnpsanMycXozRkxENkI3VnhOYl9OcmoxdTdpdDNCLW5hNVFoNTdkRGoxNUJFWXhV?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "EU to add 113 new Russia sanctions ahead of broader package",
-   "source": "Investing.com",
-   "time": "2026-11-16T09:02:06Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZW15NU1fTGQ0WlVrdmg4ZENSVEpkNmtJYnVqRDRkRjBOQmZGRExNVHNCWGZ5dC1DYjRSNGtuOV9pbm1DakVBcHlEVHNoY2VxYU00SWpSb1dpdXJybmdBc2RjdnpGR19pUnlianFfMGE3c1FmWmJtekRUMXl1bm56LTF5LWE5em40Y1FqMDVEanctYkxQXzNPVENkTjJUdWlwSDdtWkpHd1lsM2hsSkY1SGg5NUJFVEU?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Bahrain says it intercepted Iranian attacks after Tehran claims it targeted U.S. assets",
-   "source": "CBS News",
-   "time": "2026-11-16T09:00:31Z",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
-   "source": "BBC",
-   "time": "2026-11-16T08:56:04Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ahmad Tibi elected deputy speaker of Israel’s Knesset",
-   "source": "Al Jazeera",
-   "time": "2026-11-16T08:45:07Z",
-   "link": "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "It Was Not the Iran War; It Was the Ceasefire",
-   "source": "The Times of Israel",
-   "time": "2026-11-16T08:44:00Z",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFRfSUtNVGxKbW90bm12THlGQnJhTTFKUXJMOHZaVmlBaWRPNy01ZFltZmwzVkx1UXZHZGswZTdZUGd2SUJxT3Nvc0kzQy1kbUVQYklKbHVMMUhsM3ZlQlpfMlhKR2J1NnZFNW5JVm5mMWs1eWhNd2MtQjNOeWxmVktVQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
-   "source": "CNBC",
-   "time": "2026-11-16T08:38:16Z",
-   "link": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Report flags illicit gold flows into UAE despite controls",
-   "source": "Mining.com.au",
-   "time": "2026-11-16T08:31:21Z",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHA2cjdaeEZ1YzgzWmtwRG91a2t3UDhFQ2hDTllSZkhQczBfYjZVbWJ1VFdobjhyVms4U0VKcXNtNnpzTVZoTmVDekpFdWNLOWNueExRRm90MlQtZHNIaFI5THY4UTZyOFdKZXhqbjdobUQ4ZDBGV1lBcUZYbUZRV00wREJkYmM?oc=5",
    "tags": [
     "GOLD"
    ]
