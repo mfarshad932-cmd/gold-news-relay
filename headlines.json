@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T01:48:26Z",
+ "generatedAt": "2026-11-16T02:16:50Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 0
+   "kept": 1
   },
   "investing_commodities": {
    "http": 200,
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 2
   },
   "marketwatch": {
    "http": 200,
@@ -81,18 +81,18 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 5,
+   "kept": 5
   },
   "gn_fed": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 10,
+   "kept": 10
   },
   "gn_tariff": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_war": {
    "http": 200,
@@ -106,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 5,
+   "kept": 5
   },
   "gn_oil": {
    "http": 200,
-   "items": 1,
-   "kept": 1
+   "items": 2,
+   "kept": 2
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,10 +126,93 @@
  },
  "items": [
   {
+   "title": "China factory output, retail sales miss forecasts in Oct",
+   "source": "Investing.com",
+   "time": "2026-11-16T02:14:11Z",
+   "link": "https://www.investing.com/news/economic-indicators/china-factory-output-retail-sales-miss-forecasts-in-oct-5028314",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+   "source": "CNBC",
+   "time": "2026-11-16T02:14:03Z",
+   "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Oil prices fall on expectations of coming supply surplus",
+   "source": "Reuters",
+   "time": "2026-11-16T02:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlabl9ocWtiOEZLcnc2SGNVSEh2bjltWURkWU1RSDVTejZWMEtNYTR4QW9sT19DQy05SVhHVmphTEtIQXdtVzlUS25Vdk1oS0hjdWZ0MHpUb01NQUp4dzlBcE55anIwR0hKVmhCUDRsT3V3ek9jTURVYkcySDNBM1B0RmJ3emdUaHpPVWpENENfZ2JGRHB3MlJuekVfUWlFa2lfUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Vietnam dong, gold rates - November 16",
+   "source": "marketscreener.com",
+   "time": "2026-11-16T01:58:14Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONkN1bldjUlZIQ3FXMTNhaUZLdDAxSWdocUp3dzlHZE84eVZZRnpZTXJza1cxVHFpWnZ3RkhMV0k5RkRDOWRLTEp1QXdVTUw2RTFVNnU5eUxOM0htazVxdjB0aGJYWlJLYUZocmtFT001VWFfTzJkQkVBZi1SeXk4TUE1bFF5d204Q3hLUmZWY2RDUQ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Fed’s Collins: Steady gradual path for rate hikes appropriate amid risks on both sides",
+   "source": "FXStreet",
+   "time": "2026-11-16T01:53:32Z",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY05BVzJmWWhZZGo2NVhlSnV4Y1Q3b09RQlNrdUhQS21xdm1xUmtuSjZCUkNUdTYwaFJrb1phVWZCWEtLNDktYTV4SnFzSE1fWWxEcXd6NHIxQUlGQ1dGeHFDQUM2N1B1bklZanJwdU1Ea3dLdFEtYkNWNkM2OEZHd1d5NlBRN050NXoyMmJ6RUpCY2ZielBESVJrcGsyZVZLYV9CdTBJRlctSGtuckFuM0xWN0JGRV94YXFyZGNXYmtoN25LYXc?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "CCTV Script 16/11/26",
+   "source": "CNBC",
+   "time": "2026-11-16T01:50:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vMXd3YXpSN285ZXVtYWNiV3plZ3BZZ0F3TFdRaC1TTGpiUGxybmRsRkRJczRaS09wLTRYZE5KYXFkem9WbGVaMnU0QlhmcjVzVkxURXNnVDlDWnFPLTBOTmI5N0hNQdIBa0FVX3lxTFBZc3FkZlJGM0plYnRHQkh3YUdyYy1ULTM0S1lhWEFoQXZ5VFZHalpTbnpSQzRMbUtfV1RQOVJXaHlyWHFFS3N2SWNKS05yZ1ZqZzNTdlNORno3S2owQ2hDOGNKRHBBM0hvSXZn?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Drop in China’s new home prices narrows to 11-month low",
+   "source": "Investing.com",
+   "time": "2026-11-16T01:48:24Z",
+   "link": "https://www.investing.com/news/economic-indicators/drop-in-chinas-new-home-prices-narrows-to-11month-low-5028306",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
    "source": "BBC",
    "time": "2026-11-16T01:47:57Z",
    "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Jensen Huang Could Return to Nvidia as Silicon Valley Plans ‘War Room,’ While Anthony Scaramucci Says ‘No",
+   "source": "Benzinga",
+   "time": "2026-11-16T01:45:31Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYld2ZFMzLUt0WHNFcGl3eTlvR0FGTHF3cVlNLVdMZDNpblJ6N3NnTGpIajRwcThJc1pzb3RPRERVSnRnVXlfNDFaOUZoSXBRN2U2UXJXRU4zWko3SUFwai1aRkNMQ25HaVJ2TDNFWUliUTNPeGxhU1pzX2NhM3RLdEt0QUZfcU9KWnRnYXh3ZlloYXFXdnFj?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "China house prices continue their downward spiral",
+   "source": "ForexLive",
+   "time": "2026-11-16T01:35:46Z",
+   "link": "https://investinglive.com/news/china-house-prices-continue-their-downward-spiral/",
    "tags": [
     "CHINA"
    ]
@@ -183,6 +266,15 @@
    ]
   },
   {
+   "title": "Oil prices dip as markets look to recovering supplies, M.East tensions",
+   "source": "Yahoo Finance",
+   "time": "2026-11-16T00:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR3p5LUphbHcxRTJqTWJCN3g3ZjhZMGo1Y2dUSjZ4MWp0eDFxRVRaSjVFamRyVlgzS2N1SzBXYTZuV2s4OHdMOXk0S0RpV1g4eXhRRzdMbDFQRzg0SXQ2bk4wZ1A5dVNpS0hReXAxWGZGTVJLbXk0SzdvRl9rTUhvb0RiNHZsd1dIMFRRUA?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
    "title": "Russia's mega-rich are already imagining a future after Putin",
    "source": "BBC",
    "time": "2026-11-16T00:13:14Z",
@@ -228,7 +320,7 @@
    ]
   },
   {
-   "title": "Iran war live: Tehran warns it may strike first before another US attack",
+   "title": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
    "source": "Al Jazeera",
    "time": "2026-11-16T00:00:00Z",
    "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
@@ -248,7 +340,7 @@
   },
   {
    "title": "Peak Energy Eyes Korea Green Projects as War Upends Fuel Flows",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "time": "2026-11-16T00:00:00Z",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2ZZdGRPUmY2RWlJQzY0RXB2ZktZZDFTT0EwVm9sSFB2ZnJiaGRLWFhIUHIzMVM0ZVlyeFJscmlFT2ZmRk02ckViT291SkY1NVhvaVdIMDZONG1Za29PM2NaN1NkVVJDS3l2ZVE3ZFh0VzNoTUdQLVlJWGZBMGlsd3p5aG1BSUxIR0F1RjgtcnB0elk0MzQwLVh6Y094YnJqQ1lyWmZPbzcwNDlVRW5KdllBTQ?oc=5",
    "tags": [
@@ -362,6 +454,15 @@
    "source": "The Guardian",
    "time": "2026-11-15T22:02:00Z",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYVcyOXpmbUpkdy1hNTlKY1ZHUHQ4Zkk5NkRkSEN2aVBCQThuU0xEOEd5cDZXZktub3dnYm5BM2RyVEctUkJUX1BzX2Y3dTNBc1ZyTVgzeHAwendkZVFFUThCMDV0SXFHM1BCZTYySlY1UFlONTlmOU9aclNSMXdfdXZCTmVEZmZPN1JxMkdhMGRoUXk3OXQ2MUFOTUZkeDE3UGhr?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+   "source": "BBC",
+   "time": "2026-11-15T22:00:13Z",
+   "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -575,109 +676,6 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yNno2Vkt2Z2VUejR0Z1VLdjBodTNOeXFQSjN4Skl0Ym1MNE5IRVZ5dUxESkR3V3pHa0xKd2RWbUF5cFhfNmxGRnZrQllZMW52TFpYOU5HSGswczFYbnlqMTdhSWRzbVVDZG1rdGdR?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain",
-   "source": "Reuters",
-   "time": "2026-11-15T15:56:58Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTFBcWR1YzJhai1UdGgzMHpvdm40VExxeXFqM0NtbU9YVmNSNXpNeDlXTGllRXFtczhIUzVsaFFWdVV5TGxESWdneGlXbER1Qlg2b2VhQ2lqMmxVaEd4U01nZmNXcFY2bmNhSTdIN0VycE84MWJDRXdZOGxMRGo0U1k1UjhiamFNQ1JIQmp1MUdxNlZGRm1UanBvaENxR3V2N25NdFVOaWpXX1E?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Mike Pence says Vance was ‘wrong’ to say Iran war caused GOP midterm losses",
-   "source": "NBC News",
-   "time": "2026-11-15T15:55:59Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcl9fcXo4eTEtZ3pucnhoSk5zR1hpNnJGa2NINjctTE5ybjltaVdIaUdZVUFFMVJzR3lqNjdXTXFwYUpDU0M0c2JUWVhKaHMxRkJqbU9yQ1U2RnlyYXJndlgwaW5IYWlObkxCaV92X1lZX0NyNENfLTA2eFBiN0VKMy11dHI5eEFUS1M1TjJOMDBYbVFDN1VyU3MyMDZlYXFlQ3g3UmROcHZQZ3VfWUx1bndSM0NkRkdES3FVMks3bE9QVWtNanNyV3oxOA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran raises stakes with new drone attacks as Trump signals a waiting game",
-   "source": "CNN",
-   "time": "2026-11-15T15:36:17Z",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wRnhRaVVocE9uVEN6Ml82aHNlaXc4di1fM1NJR29BMHp3SmdBNDRMcUt2UFZ6QnV6LU5WeDFNZjYwOTdXd1FoczdLOUVwb1VHQTRtVUN0VUpBMlM2U0c0cWxjMHRsMkI1S2dwcjZfMFdMQVZoS1oydlBiYUY4Zw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The Liquidity War: How QE & QT Shape the Future of Global Market for TVC:DXY by forexcitypro_leemeenal",
-   "source": "TradingView",
-   "time": "2026-11-15T15:27:41Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMW1mcjNkdXZTR0Mzd2hKSi1sWEFHc3JUczNJbXpCaXpPNDJPWjlIbEY5N08ySFFmakp4ajVSNVFJNXdLZGpWdXhLeHA5cFRfVDRfVzNTWEMwbXZ5S3R3TzctV1BGcWE5VXpCblptMmRkaVpZSDlYSW1BZ3dOcG82X1ZiLTItYVgwVmtPZXB0ZXhkMHVCSXFfSVRndkFMNUFvQ1h6cm0wYWs1QV9aNXc?oc=5",
-   "tags": [
-    "USD",
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
-   "source": "MarketWatch",
-   "time": "2026-11-15T15:22:00Z",
-   "link": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Bessent On Fox Cautions Federal Reserve Against Further Tightening Monetary Policy",
-   "source": "TradingView",
-   "time": "2026-11-15T15:18:59Z",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRklqcmpzeVQ2SmM3SlNaZVcwNVg2cDNSMDJ6UWEweE9QZ0hEQjg3WjNVNGZFOThOUnBiTklOeGl0Nk5kODNhOUJBZlpLQ0p0Y0FBSjhIZHh6SGJfTlZMT001WE5QWVA2TlVKSm14Q1p1bjE3eTBvWFo1NEVsdUxzQndlRHlUNk5NVS1VdU1Db3NZYmVhNFE2eVFnRl83NUFSbHM4QnAtYTlhMXJxQ3MwdWJ3N1hsTjhhS1pFakpvbnlTaFJUSzhydWtNM2g3NHNTVGszd0hwS194aWluSUZoaHlWdlYzV1k?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "Gold rush turns deadly in Guinea",
-   "source": "Financial Times",
-   "time": "2026-11-15T15:13:38Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS1NfNjBjam1VeXctMEFtM2RqTW1vUnhya0JQd01uYVZfLVFRWXRsVE15bXoxVW5Bc2NLakFhUDAwU3hBdldHNGJjRWNieWZFek9SUzhMR01sWE9zMUR3NlNMWXZLZjlNcVBqM0FJbGRDQjRqa09PUUl4b0VRTFVEQU9zMXI?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Israel kills senior Hamas commander in Gaza two months after killing his predecessor as ceasefire stagnates",
-   "source": "CNN",
-   "time": "2026-11-15T15:00:13Z",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdVNVbUlEVkpTZXp4TmIwYlJ2TG9aV2NDSVNNYllDeE92bXFhMDR1aUZNNEh0M1M2NXRaLUl2bV80RHZ2YzJPd0poWjZWRllHU2ZOcGR2TWlSdTVZTFZsaldUZ1FOZ216MXZSN2M0T1lDMkFIN1ZUYmlIN3pXbWJvanlSTkZ2RjQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "What Israel can learn from Russia about thinking ahead in war - opinion",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-15T14:47:09Z",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zaTVMa1FRWDNPUGZjaG92dVA1Y0FJOTU0Zk10bnFZdlFROVBTdWVMMGY5d2s5ZW9EMVRhZzl1SnVWbWlfV0RvdHZFb241N3lkNm43Y0dNVQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Film tracking journalists in Gaza during war wins best documentary at Montreal fest",
-   "source": "The Times of Israel",
-   "time": "2026-11-15T14:34:12Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOTFjSEdSRDk3cHppTjVOakktcXRBX3JreldibTV5QnNnX2M5ekttNXFhdl9TSjVTTjRBMVhfeUpYS0tlYVJwRXM2VHl2cVdjWTJVVW55dVVTSFl0RXNfVjhmMHJiTXFXWUNpQ2JjTThseXItVmwzYVlCRTRFQkNxSzV1ODNhZ3IwOHp2bklsLTA5RHYwd2QzSmNiM21CNEMycW53YVgxeTdDY3h4SHJuM1gxRjLSAboBQVVfeXFMTkJJVWhpc2xWRmJCdUY0S1VCWVNZX21sNjRadDh4OU0wbnVDb3FwY0hVY2dCQ3BkLXZLaDBPQmNJbHRiUUFPZXY0ZUxZT2I1WVlOQmVrVDdWUFp4SVlaWkdwQkRVTFVjT0ctVWZjS0dGX2JuOFhpM3Exczh5S3hUWUFhWVd6Y0xETzE4eDljZFV3TUZHcFdZNU9LRnNvT09ITzVoWWprZm4zNURlZ3ZiOEJ4UWdRanZtclRn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold, silver prices outlook: Inflation data, Fed signals and West Asia tensions to guide bullion this week",
-   "source": "CNBC TV18",
-   "time": "2026-11-15T14:33:50Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPajFqYnNHQVNhaV9qdTRWbHY3eFlnNGRBYXBxeFBqUWxfN0NfaWF0cVdLMFV1V010TGx6alRlTnZIN0dHS2lwZ3pRUlBRYUFyY2dGbnNsZjhBM0lpelBKdjFoV2xGM3Q2eXVYZmJuMlRUZXRDaHVlVGNQeGg1VFB2aDRMdjlWdlk4RnRqOW1XWG43ZUpWd19HTGJiRmNnS1RoU2U4VXo2eDJQSVFBRFJsNEhhWWRWQdIBtgFBVV95cUxPajFqYnNHQVNhaV9qdTRWbHY3eFlnNGRBYXBxeFBqUWxfN0NfaWF0cVdLMFV1V010TGx6alRlTnZIN0dHS2lwZ3pRUlBRYUFyY2dGbnNsZjhBM0lpelBKdjFoV2xGM3Q2eXVYZmJuMlRUZXRDaHVlVGNQeGg1VFB2aDRMdjlWdlk4RnRqOW1XWG43ZUpWd19HTGJiRmNnS1RoU2U4VXo2eDJQSVFBRFJsNEhhWWRWQQ?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION",
-    "GOLD"
    ]
   }
  ],
