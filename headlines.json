@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T05:35:11Z",
+ "generatedAt": "2026-11-16T06:03:46Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 3
   },
   "marketwatch": {
    "http": 200,
@@ -81,13 +81,13 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 11,
+   "kept": 11
   },
   "gn_fed": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_tariff": {
    "http": 200,
@@ -96,13 +96,13 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 36,
+   "items": 37,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 3,
+   "kept": 3
   },
   "gn_yields": {
    "http": 200,
@@ -125,6 +125,15 @@
   }
  },
  "items": [
+  {
+   "title": "Chinese premier lauds ’extraordinary’ ties with ASEAN ahead of Trump visit",
+   "source": "Investing.com",
+   "time": "2026-11-16T05:48:39Z",
+   "link": "https://www.investing.com/news/economic-indicators/chinese-premier-lauds-extraordinary-ties-with-asean-ahead-of-trump-visit-5028383",
+   "tags": [
+    "CHINA"
+   ]
+  },
   {
    "title": "China factory output, retail sales miss forecasts in Oct amid weak domestic demand",
    "source": "Investing.com",
@@ -152,6 +161,17 @@
     "FED",
     "USD",
     "YIELDS"
+   ]
+  },
+  {
+   "title": "Fed rate hike concerns continue to weigh on gold",
+   "source": "Mining.com.au",
+   "time": "2026-11-16T05:18:31Z",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tZW5tZEJmTFhfejdBWUhDNFZlM3BNWnJKUThYdzc1NDN0elRsUEJ6VnJ3UXNJUDZMSjl5X0VuTnd1VGRCTGYxUkhhNm1hRjFSM2VnTWxQYTJBR0pDUHFyX01WVXBxNTV1MXVYX3BLNF9tVGQwTmVlbmFnUQ?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "GOLD"
    ]
   },
   {
@@ -455,12 +475,13 @@
    ]
   },
   {
-   "title": "Gold holds steady as investors await Warsh remarks for rate signals",
+   "title": "Gold dips on firmer dollar ahead of Warsh comments",
    "source": "Reuters",
    "time": "2026-11-16T01:25:00Z",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0w3QnNOYVBGYjdBMGJDeml5RExhSzMzaGVTUEQ2eEdLNHhHQzRoV2thNUo4TkVGYmNfc3NsSGpVVVF2OWxCZ21CNzBMSGs0S3NuZ2Rla1d4WTR0RGJwcllfYnZ6dlR5ZGZXa3dMakUxZmNDWFExYk9HNTkyLTN6aWF0MlRRbzN4aUJUVnVCMk1fdlpVN1B0bE1QM3dkaENDNEwzaHRORFFjVDYw?oc=5",
    "tags": [
     "FED",
+    "USD",
     "GOLD"
    ]
   },
@@ -481,6 +502,15 @@
    "tags": [
     "FED",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Svitolina to return to Ukraine, vows continued support for war-hit homeland",
+   "source": "Reuters",
+   "time": "2026-11-16T00:27:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0MxdjVOYnpOSWNvbkJxdzlDZFNIUExad0JJWjdpeEF1ZF9ZREEzUTd2b09uamJ5MUFiSll0YkFDaEUtaUxKbmxTWlYwWVVCVnFUeW56QmtfNmNnRGNIZ2dVRktQZzNlb0dIRlJ0TkxVN3REMmxsOTBMVkFhN1ptY1ZnXzRsSE5OMFVra1ptR0VUWWtsVjZJc1owUHlnWVNidzRlRnp3UU9USThyLXNPRVdlWVU?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -654,33 +684,6 @@
    "source": "Al Jazeera",
    "time": "2026-11-15T22:06:38Z",
    "link": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Britain's Prince Harry visits war-wounded in Ukraine",
-   "source": "Reuters",
-   "time": "2026-11-15T22:05:44Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYW9nUmdzZ1RDU1hwVmQ3Z0RIWndjWWM1aFBEa0xFTmxtRm1WUHlfNXhZY2wwaWVwbHZOeERYX2NEeU93eVlFTURBLVdRT2hoYkp5QjhuSVl1dVlqQmVTaThMZWpPeGdXdm44bVE5NG51UUZsTXRqYjZZUjZGSWNnWm5aMTlDTDNHTDJEcy1FX2V5NDlJSVdtZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv",
-   "source": "The Guardian",
-   "time": "2026-11-15T22:02:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYVcyOXpmbUpkdy1hNTlKY1ZHUHQ4Zkk5NkRkSEN2aVBCQThuU0xEOEd5cDZXZktub3dnYm5BM2RyVEctUkJUX1BzX2Y3dTNBc1ZyTVgzeHAwendkZVFFUThCMDV0SXFHM1BCZTYySlY1UFlONTlmOU9aclNSMXdfdXZCTmVEZmZPN1JxMkdhMGRoUXk3OXQ2MUFOTUZkeDE3UGhr?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Canada bars Russia from Junior World Championships",
-   "source": "BBC",
-   "time": "2026-11-15T22:01:16Z",
-   "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
    ]
