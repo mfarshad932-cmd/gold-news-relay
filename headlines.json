@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T12:11:33Z",
+ "generatedAt": "2026-11-17T12:39:53Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 8
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 33,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
@@ -91,28 +91,28 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 18,
+   "items": 21,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 40,
+   "items": 39,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 18,
+   "items": 20,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 15,
+   "items": 14,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 7,
+   "kept": 7
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,12 +126,66 @@
  },
  "items": [
   {
+   "title": "UK sanctions firms over Israeli West Bank settlements",
+   "source": "BBC",
+   "time": "2026-11-17T12:37:52Z",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jY015YVhxSmEycHFuQkhQYmVJVnJNM1ZsYnNzZnNBeDZwQzNqa1VyZU1wTDFLYnU1RXFqR0N2UE9WZm9kZHgxMlZLb0pYR3VOOERxQk0wRWNRV3ZzVXc?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank",
    "source": "CNBC",
-   "time": "2026-11-17T12:07:04Z",
+   "time": "2026-11-17T12:35:58Z",
    "link": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ukraine damages Putin’s prized Crimea bridge as Zelenskyy lauds ‘unprecedented operation’",
+   "source": "CNBC",
+   "time": "2026-11-17T12:23:08Z",
+   "link": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Carney, Xi Agree to Expand Tariff Cuts to More Canadian Exports, Deepen Trade Ties",
+   "source": "marketscreener.com",
+   "time": "2026-11-17T12:17:47Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ1Y3d21PdFY2ZnVaTk9TYVhlaGYxOGpvNFByM090LVA3UFVFSlY0bm10RWVGTEFMaXlUUkI0ZW5pOXhobk5HbHpYUDNEdXhWbU5XZm84cVF6OFlkcWNjSTBCM09ubjN3X0VGV0JSbThRTnZvNnVtWTQ2aXF6SzJkY0hFTi1oYWZvOVp3Q2VoSzB5dFJwdndkd3dRWlFyNC1DaC11aFdpVjVGMUc4cDdCRF9tdVJCczJtWE1KRlJEOXQxRERWT09FYXJfN21jdw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold price today, Tuesday, November 17, 2026: Gold opens at lowest price since September 29, 2025",
+   "source": "Yahoo Finance",
+   "time": "2026-11-17T12:14:21Z",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRzRfYWNDVS12TDhBNlhFS2EtWDBGSnlhS1RmaGw5bVRYRXlLOHVkR2JiUnRWS05YOVBKcnBkdWoxSEowb1dPQzZqZmdJLXpicjVGZU10VDFlRk5sbTUyb0lCSDEtNWd4SndPb2IyaTRuUUlVSXdSSXR5OVQyUzdmekNtUk5sUU1TWkNMN1BqdE9oZjBKU1lHS0FYWTYwcF9wMzBraEpqVy0yZnF3LU5KZEU3Mk42SXhCVFdDQXFBcjRNV01tZ2dMcXhUc0RNRF9zb2wxTGJRb0I3SHZlT1ZaSTZ4bmpnSDhFNVZEVnluNzVsZEhaMUVER2JYbnQ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Beyond Tariffs: What’s Driving Steel Stocks?",
+   "source": "Seeking Alpha",
+   "time": "2026-11-17T12:11:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVGRWYXRNRXNmdjl3Vm5IQVB4TkxSNXVDRnRqalZtM05xQS0zbk81NWJpaUhWWm5keGlSY0tRSm1FQllpSndsVUVDdEZCenRSbWpFRmh2anJPTHlQNmdNeE9SOElFbWhJS1JWLVIwTlZJSUJBOWZLbXd3eEFVTDJpVHRzTXpqbzdwYjdBRG9mNGFmQ1M0bHBpVmY0eTBFZnA5VE12Qkt3SGFzQQ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Trump meets regional allies in Manila ahead of China visit",
+   "source": "Investing.com",
+   "time": "2026-11-17T12:06:40Z",
+   "link": "https://www.investing.com/news/economic-indicators/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit-5031428",
+   "tags": [
+    "CHINA"
    ]
   },
   {
@@ -180,15 +234,6 @@
    ]
   },
   {
-   "title": "Ukraine damages Putin’s prized Crimea bridge as Zelenskyy lauds ‘unprecedented operation’",
-   "source": "CNBC",
-   "time": "2026-11-17T11:27:33Z",
-   "link": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
    "source": "CNBC",
    "time": "2026-11-17T11:22:54Z",
@@ -225,12 +270,12 @@
    ]
   },
   {
-   "title": "Trump arrives in Manila for Quad talks ahead of China visit",
-   "source": "Investing.com",
-   "time": "2026-11-17T11:07:02Z",
-   "link": "https://www.investing.com/news/economic-indicators/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit-5031428",
+   "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
+   "source": "The Guardian",
+   "time": "2026-11-17T11:07:00Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN2FkNFlGMDFCbjkyaFNnSlc4OC03TVdLTWY4NzFMN08tRWZpcFRHcS1oZWRRSlhnR3lhRXlKcGxCYWNpQTJvcUJmN2xvczBpRWg1eVQxRGpRYlB6UGpfaUM3UlBzejdQN1FLZWR1anFEZ2Z6YVdPNE1tS0NQRUNkVW90TTBnOWN1RDVmbHpaU2hSeERsbkh4RDUxSGs?oc=5",
    "tags": [
-    "CHINA"
+    "SANCTIONS"
    ]
   },
   {
@@ -331,19 +376,19 @@
    ]
   },
   {
-   "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
-   "source": "The Guardian",
-   "time": "2026-11-17T10:50:00Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN2FkNFlGMDFCbjkyaFNnSlc4OC03TVdLTWY4NzFMN08tRWZpcFRHcS1oZWRRSlhnR3lhRXlKcGxCYWNpQTJvcUJmN2xvczBpRWg1eVQxRGpRYlB6UGpfaUM3UlBzejdQN1FLZWR1anFEZ2Z6YVdPNE1tS0NQRUNkVW90TTBnOWN1RDVmbHpaU2hSeERsbkh4RDUxSGs?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
    "title": "Before AI goes to real war, make it fight a fake one",
    "source": "The Economist",
    "time": "2026-11-17T10:49:23Z",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVhUNkQtZlIzUzhXbmRZVDZDTWRnMEw2THNGMVBIbktsMHBqWE4xcFdtWVMzc3VlLWtuTG9TYkZ0My1QVVZER0o1SDFCZ1l1M2x6OWNkXzNvQnI5X3YxSjZHX0VhQVU5S1Y1VTZVN0NtZU5yQ3NTTTlyT2sxeUgyT2U1OFA3M0hkY1VSM2pPZjRzNzV6YTNXaTNSdzJfWXh5SEtrQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "These Ukrainians Aren’t in Combat. But They Deal With War Every Day.",
+   "source": "The New York Times",
+   "time": "2026-11-17T10:48:38Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85NzRCOHQ5NVZvZWt2QVYtQk0yTnlzeG9iN3RNaUtpRENhRVV1eEhJWG95RzNyNktuSDQ5cXdKOEdaUndfT2dQYkRQZGM1RnlsOUtoTW93dzV3SnVBNnFVcVVOdXlsMUdnLXpvdldkZTlhb29kSkJBcjFJS2xXM0k?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -431,6 +476,15 @@
    ]
   },
   {
+   "title": "Oil Prices Decline as Supply Surplus Forecast Outweighs Middle East Shipping Risks",
+   "source": "Yahoo Finance",
+   "time": "2026-11-17T10:19:29Z",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb2FLZ0NYeW4zZW5KRDBIT0dWa1NyS1dvZEhtZXJXQlRJZUlTZExXenhiQnVhNWU3WDJiTC1PWnJ3d2pxaVE0dEVERDREZHdtV0ZCY1RKRGhDWGdqZEloWGhUVXVLWTdJMm9rNU5COEdsSXNONVZLX2ZodVlmSGl2a3MxWG9KVUpRT0Zwek91ZHVBZzQ4?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
    "title": "Gold Moves Higher After 14-Month Low as Precious Metals Gain Ahead of Fed Minutes",
    "source": "Yahoo Finance UK",
    "time": "2026-11-17T10:17:14Z",
@@ -473,15 +527,6 @@
    "source": "South China Morning Post",
    "time": "2026-11-17T10:00:44Z",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdVI3cnNuT1o4aXg3cTFBa215czZNNi11eTNYUHlLMVlmVnFhbGtrNGNHZVlFbkV2ZlBKV0ZUdUF6ejVjemFza1JfUHBzSWc0REdKejNDT09TeHEtY0VYejYzUGRRTDZJVXE4X1B0MXR5WXRHcEdEbmEwTmFleHItdXFENjFtQUtDeElncktMVjRyUmNwMXZzcHhXbVhYTHlMM2E1OHdXdXBRQV9HVWFaT1ZKSm10RUxxZElj0gG7AUFVX3lxTFBNX09URUtNYy1NQUZYSVNzOXFsdTRSTlgzWXNuSnVqUERMSUpxX1A3ZWVpblFMMVRMakl0bFJJVlpteF9wOFVqQ0hGS294c0RmQW1FSFdDeGpSSUV1M2o2MnZuRFRBbUs2OGlqTkdpbHNHNkFzLWx1TmUzYkhmQzNfQ1FZa2hIVkh1R2pRaGhJQ0hoY19QVHZBNV9lRnM4MzdaTGFhQUFiSnZsOVJqMjEyZ1l4eWVEcGlwX3c?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "These Ukrainians Aren’t in Combat. But They Deal With War Every Day.",
-   "source": "The New York Times",
-   "time": "2026-11-17T10:00:23Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85NzRCOHQ5NVZvZWt2QVYtQk0yTnlzeG9iN3RNaUtpRENhRVV1eEhJWG95RzNyNktuSDQ5cXdKOEdaUndfT2dQYkRQZGM1RnlsOUtoTW93dzV3SnVBNnFVcVVOdXlsMUdnLXpvdldkZTlhb29kSkJBcjFJS2xXM0k?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -631,52 +676,6 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWUF1ZW4zbmtvMzFJYkIyWnBjM3dZbWJ0Yk5uUURJQ3E5UEg2NUUwT3B6dy1vSXBrLTFKbE5BOWt3RldIb0dwNzVqb3hfNEtnOXBiYzc1X2FTTkk0eU5rOXZPWVRxdEROUjRfbVY5WlFVM2FuenJ1QWxJc2lRLXdFc2hQSUxjdjltUDc3X01HS3FTcGhMMnZnWDgtX0J2d21JOVFfRTBR0gGrAUFVX3lxTFB6NGhGWlhYeTlUWGFUd19PR1UxUEpDSGd6VmNFWnk4dUtHWmVEeVF2VGYtYjRhbzdwVVN6MXBwVGIyekhWc1RLVkFjQ2tJTmZMLWZQY3hvalRIYmNVbUFyT3hzR2ZvQWZJalE3eTBVV3phVTY5VEo4RldqVzRhRF9SRnV2UFVBUG9fZVFKMzlpd0RhaGlqa3NBcWlycnRJQUZkU1E3NTU0VVRFOA?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "India gold market update: Gold demand gets festive boost | Post by Kavita Chacko | Insights",
-   "source": "World Gold Council",
-   "time": "2026-11-17T08:54:09Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmJiWm5XZk40M0RveHhSX0hqOW0tclZuTXNjNHZwZExaMmRnYTB0TFFxaWNLY1NQVlRMUGk1OEFFbjFrOUpUS2d0aUtJUWl4SlFuM0ZET01nZDNGX3BYXzA1dkFOaVcwZHJ2SjNLcnlpRU1aakE2QnJpU3ZrWWpxa2NtbWNiTjkyc3h1SDRFMVJ4cDZVUXExeHVidDVLN21VMnRhbU9n?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-   "source": "CNBC",
-   "time": "2026-11-17T08:52:45Z",
-   "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Watch Vance Says US Won’t Stay in Iran War for Years as Oil Drops on Supply Recovery",
-   "source": "Bloomberg.com",
-   "time": "2026-11-17T08:49:10Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY0pRc1I4U2F0T1lWU2NtVTRCZk9YZ0U5SHdRc0xyNWpVUVJuWTlSRXdXQ2lYdkpfeTUya082eHQtRTMwRWVnc1JfMnBibFExTEh0SU4yamZvYklWa3ktSDRfbTZkbnY3ZWtuNzVUUXRWNmttbDZ6UllPRlZzS2RvbGJNbXdHS0ZyZlVBbFl5RFItZVJtQW5iRQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Drones account for nearly three-quarters of Sudan war deaths this year, UN says",
-   "source": "Reuters",
-   "time": "2026-11-17T08:42:18Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUzVVZlh0cUIxWFBYU2NGYnZWdHZmc1RLY3oyNm51NTlQQjJEMFlVclNsN2tWM0FjMmRycVdsMXQ2WW4xeUJZYVR1V3lac2ZBTmJ4RWcxYXVxaFlGV1dNbXM3OG5FOXhheVdiM0dzUVktZnJZZkQxNUU4ZWZuM0lWV2JyZXVKUXZtcDl2RHVaTVRtRGN1ZFdPckdPQ0dZSFI1SDVfVGlPbWhYa0o0alNCNFdsSDgtUkhxakRWZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold News: Spot Gold Tests Long-Term Value Zone After More-Than-Year Low",
-   "source": "FXEmpire",
-   "time": "2026-11-17T08:42:12Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa19ENjlKRWVmZnR1ZVB2YkdpcVRKUTZ6SDREY2FWa1gzUGpCNU13cGRtUVNaSWVPNU1QU3RRMFU0RWdCWUZVTHlHQ1FlTktlWklVN0JmbkItQzBWZW1hZ3phcVowZzlnOUhDMURpS2l6MGlrMXhSb1JNcF9RSkVNdTgyNkxWSDhhbVRBZmRMRHI0NWZrT3VyNXhGRjJGb29CYlQwTGlxTV9ua3FOdzFZSGUyeC1ENW1QNGlXU09GZw?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
