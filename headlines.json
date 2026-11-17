@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T12:39:53Z",
+ "generatedAt": "2026-11-17T13:08:13Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 9
   },
   "investing_commodities": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 31,
+   "items": 30,
    "kept": 12
   },
   "gn_fed": {
@@ -91,7 +91,7 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 21,
+   "items": 19,
    "kept": 12
   },
   "gn_war": {
@@ -101,7 +101,7 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 20,
+   "items": 21,
    "kept": 12
   },
   "gn_yields": {
@@ -126,6 +126,61 @@
  },
  "items": [
   {
+   "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+   "source": "BBC",
+   "time": "2026-11-17T13:01:11Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "investingLive European news wrap: Risk sentiment remains tentative amid hawkish Fed and US-Iran stalemate",
+   "source": "ForexLive",
+   "time": "2026-11-17T12:51:36Z",
+   "link": "https://investinglive.com/news/investinglive-european-news-wrap-risk-sentiment-remains-tentative-amid-hawkish-fed-and-us-iran-stalemate/",
+   "tags": [
+    "FED",
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
+   "source": "Al Jazeera",
+   "time": "2026-11-17T12:50:38Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVktaWnZoTlg5eWNHS2VId0hpUi1wZjNDUGs2SWh2T05Ebk9JeDM4Wk83SG8xOEdITjZHQTd6TWI3bjdBT2VzSVZpUDJxVzR6UEc2UUxFT1ZJbXlobVZvYjNjcGgxZl9XVGRRdEpNWmxZYS1NZ0I3TlYzZW5mT1A0cG9JYkdxeEtrVVUtM0x5c0VQbWw1aGtwYmtVS0JWeW1EaWtCdDdPaFhnSmxfQzBGUl9jR1hNLTjSAbwBQVVfeXFMUE1oazhTZzR2Nmt5QTgxdC1xQ25ycUk2NkdmNWlnNWhtc1NXQTRzWGxaU0piYUlDZXg0ak9ETV93RDkzejFtWE9uYmNUR3k1ZjJUVi1PdG9fYTFadUo3MWhKYmRxcmF5aWpnemdTcWNhUEZBdlZoTmZpZnpyYnE1bG9FeXhoTzFKOUNrdWFxT2k0NDAta0FLOGhtbnZpbnFtSWp3X0RHREN4d24wbmpfZkNIQ0x0UElYUnlGeEc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ukraine damages Putin’s prized Crimea bridge as Zelenskyy lauds ‘unprecedented operation’",
+   "source": "CNBC",
+   "time": "2026-11-17T12:48:14Z",
+   "link": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Here’s when Goldman expects gold prices to reach $5,600/oz By Investing.com",
+   "source": "Investing.com Nigeria",
+   "time": "2026-11-17T12:45:08Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTl9lMDhxU00wS05ETGNUbkVNQkEwRWREZzVFU1RsNW14VTFnRDVtOURtemZ1WDdqczFEbUNYSDJyOGlQc085NlNmV0tYYXhlWEl4NHVFcGtLWUpzVVZFRTlSdTNqWWRlWVlFbjR4T2FVNk93YTM3c0lxWnllQXpaT0dJQ1dlZ1VMSEs1NTZIcmhCU1B0dGQ2VlBnWHZ0dE4xLU82RGpWbmZVWEtabEE?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
+   "source": "Al Jazeera",
+   "time": "2026-11-17T12:42:02Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTC1nTzQwVTdkS1paY05NZFNnd2w3RWFsRWl5Vm9wM1NteWdsVXJSVGpnd3JiZnNjSHFlVlJLVmE4aXdQZ0tXV2tTWm1INzVZYmJQRkR6cGlIVk43bkZ0bmUyR1IwVHQtemdwemI0Mm8yS1BSVXBDeVFiUlFhMmQzV2pmX0w0RU1uVW1ubjBQTW9ZaXJ1OFJnYm1lLXhBTWFsaWtR0gGoAUFVX3lxTE5VYjRLSi01Y2JUZHN3Q0kxNkZUaEROMTVBc3dIUkdzVjVaeDFEZk9EcTZnUDNpb2l0TE1VOVQ2dE02Tno3UXpPNWxlRExpTzZTZTJpWktWZTZkMEVPU24yT1VFYXpVSmxxSVo4VnBfSXRmNUV2eXJxWWlLbmVfWUpCZ0wzWDZoTms0WEpTdmlnQ0NHV3pSRk1GejRqM1lVc1FfbGJUNmJyXw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "UK sanctions firms over Israeli West Bank settlements",
    "source": "BBC",
    "time": "2026-11-17T12:37:52Z",
@@ -144,12 +199,23 @@
    ]
   },
   {
-   "title": "Ukraine damages Putin’s prized Crimea bridge as Zelenskyy lauds ‘unprecedented operation’",
-   "source": "CNBC",
-   "time": "2026-11-17T12:23:08Z",
-   "link": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html",
+   "title": "Fed's Musalem: US likely needs several rate hikes by spring to control inflation",
+   "source": "Reuters",
+   "time": "2026-11-17T12:33:45Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSmh3bk9iaG5YQ2V2dzZUMkQ1aGQ2LWNfdHFCWkVaOUtyWFdHS3lFTzZJTDhsQnItcnN4N2NibjRLNXZIbHVvSllBY0Jyc201azJtbUNnWkRndWlPN05sZUVaWkJBZFlTTGJzYWFFLWRqN2R6X25jRllRT1hHekZ2aFRweE5rbHM3Z3p1SHoxR2UwR1VnMWVnbWZ3ZmRHSTkyR2lhU3p1NzNFZFBjMEtRQ25iZnpwVEhBZTd3bw?oc=5",
    "tags": [
-    "GEOPOLITICS"
+    "FED",
+    "RATES",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Benton Options Its Abernethy Gold Project to New Age Metals",
+   "source": "TradingView",
+   "time": "2026-11-17T12:29:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR2wwMEJneURpMGNtZko3aldsdGVEUmFwRUNiZGJjOWtMMXM3YkV6aTJROVFyR213S09BaWJzdEJHT3VBWG8tZUpPUUFYd1JiVTFrSFZNSE1ZblZRNks5bG03d05vMWJhakt4SGNUSlplRkZjT2NsdXhUVkxSTDd1cFo4Unp0MDBpVHdXLXE1YlFWTWY0Q25hLUktZGRVTUZEUGlrd29qZVZrZzZEUm5EVkhRVUw2Zl9DemdlLUZmSQ?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -186,6 +252,16 @@
    "link": "https://www.investing.com/news/economic-indicators/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit-5031428",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "Hungary receives extension for importing Russian oil supplies without risk of US sanctions",
+   "source": "TradingView",
+   "time": "2026-11-17T11:47:13Z",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZDRScEJMNTVKblphMTFvWmFkWU1BN3BaU3d4bV9NVkpiY09jRDF0a2VaQ0dWcUtKT1RkMFNnQ19jeHFGdFE3U1l5dFd0UjY3dzJXekllcU9TLVpOeXpfUUl6MFA0Nk5ZQ1pnY3FwNHlaV1kxSGRfQXcyZEg0d0xGLTBoaU9wQ181d0pYTmdvd18tcTkxVlAyX3dRbmM3MU5wMl94eDBYdl9tTVdBUllBdk8zUzN5MFFreng1bWcyc3ZhNlZJTFlXdy0wY0U4bjVSaTNLVnNXa09QVXgzZlgzVThPQUJ0S2pRYUxNV1dqSGRqQQ?oc=5",
+   "tags": [
+    "SANCTIONS",
+    "OIL"
    ]
   },
   {
@@ -412,15 +488,6 @@
    ]
   },
   {
-   "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-   "source": "BBC",
-   "time": "2026-11-17T10:45:55Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
    "source": "Al Jazeera",
    "time": "2026-11-17T10:44:59Z",
@@ -613,69 +680,6 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
-   ]
-  },
-  {
-   "title": "Metals Under Pressure While Oil Supply Improves",
-   "source": "Investing.com",
-   "time": "2026-11-17T09:22:00Z",
-   "link": "https://www.investing.com/analysis/metals-under-pressure-while-oil-supply-improves-200691724",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Fed Chair Kevin Warsh Sees Two AI Futures: Productivity Boom or Painful Market Reversal and Job Losses",
-   "source": "Benzinga",
-   "time": "2026-11-17T09:20:29Z",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeERWUlcwa3paYzQ3RWN2bHJYcUlKYkdSNE5FVjZZcE1sR29YbFBOQk4zZ0VfUGU4U204TzJYc2hjVDZwNlhjbUZtaTBGUHFWSlZiakhnRFh4dW96UG1MUFp4eDRCYUFhcGhwNjVYaUZZRWFjRS1Bdk5nRERDN2NSaGs4bUNTdVgzWlZDV2NSS19PTmlpN1RSQkhFREZHdWg1U0I0UDM1aHRaaHIxckxvX19rT2hYMk1DS1NOYlpVcjNFWDlJbklKYzEtckxFRTYtYjQ1UFlfMENZMWV4czJN?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
-   "source": "The Guardian",
-   "time": "2026-11-17T09:11:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZnpDT3A5XzM5SjRRMVJLODg1UkRubkgxUGtUX19XNmVQVUFIek12d1RweGpzUGRScGFhRTFfZzN0SlZQQUZUZUJnQlI5cUI3OTRnWVVvZTg0RHpVNzhJUzRwbGFtX1RHeWs2b1hueUt5OTlfaXNkUUdCM0wyenFCU3dzREhmLVpCdzk5VjViVkF1bEVZZTdGZ3pZeFJFMFhfdmdVeFNzWQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Platinum Price Forecast: Strong Dollar Caps Rebound Before Fed Minutes",
-   "source": "FXEmpire",
-   "time": "2026-11-17T09:10:51Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmQ2RUZSTjhVMi1VNnYtMlRPWjhqSExXdi1UN1dlNFloVU1rRGJ1TjhQQzRnMkctTVNlcWMyUk9sckJqTjdJclpJTFc2MEluaEtIY0tTOW9uWWxBaThGcXJXVVM1S0RXb3hkNkw1ckU3WE83WWI3VXRvb3Z3Mk5GUDVsME53czBWMXhFeVNOaFZPMG9PNi1ITDFDODNTNFF2ZUpWVEliZmtsSHFfZkRBQ2VuUURMenhoS2cxRg?oc=5",
-   "tags": [
-    "FED",
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Euro yields hold near 1-month peaks on relentless U.S. Treasury pull",
-   "source": "Investing.com Australia",
-   "time": "2026-11-17T09:04:20Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjV0N0VveXVnVl9wSWFHSFRSWGt0Mk0tT3FjYTdab01LSHRKOGJKUkg2SEFMdllRRkpfS1VUbUJUVkxWTVhucjRDd1FVdmFhd0Fjc1lBYU1maWI3aW1sVGduRUZZMmxZR1hGRFNxWkV6dDV5SDBTaGtfWE5JNUlpOXFEbzVzc1BCWTBMT1NNSEZNUTVEZE81LWZ5ckY5dXNoYTVNNTJWUUVIYkN6dW9BbjhEY2o?oc=5",
-   "tags": []
-  },
-  {
-   "title": "U.S. Treasury, Eurozone Bond Yields Edge Lower as Fresh Drivers Are Sought",
-   "source": "WSJ",
-   "time": "2026-11-17T09:04:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWhaSXdja0FJbTdibG5fb3BEQWpTMzNmbTVUNkhtN2haanZFaWxtd3EzNVJUa2tkcW12NUhHMVRiUkhydS02b1JEeWphTEdRRHVUVjZZdzJnLVo5RE84d3B1NmJIYTZfWmpwMXVHSUlzSm9ra05ILTg3dUE1bHo3dUNCWU5Fbm1PSHJhek93N0JxMURmdUc5c3JwbUwyTG93TGJNbFJhX0R4UzctRVpiaTcxek16MnFRX09ocjhQWDJqNE0?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Vance blames Iran war for Republicans' midterms defeat. Trump says he would 'do it again'",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-17T08:55:22Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWUF1ZW4zbmtvMzFJYkIyWnBjM3dZbWJ0Yk5uUURJQ3E5UEg2NUUwT3B6dy1vSXBrLTFKbE5BOWt3RldIb0dwNzVqb3hfNEtnOXBiYzc1X2FTTkk0eU5rOXZPWVRxdEROUjRfbVY5WlFVM2FuenJ1QWxJc2lRLXdFc2hQSUxjdjltUDc3X01HS3FTcGhMMnZnWDgtX0J2d21JOVFfRTBR0gGrAUFVX3lxTFB6NGhGWlhYeTlUWGFUd19PR1UxUEpDSGd6VmNFWnk4dUtHWmVEeVF2VGYtYjRhbzdwVVN6MXBwVGIyekhWc1RLVkFjQ2tJTmZMLWZQY3hvalRIYmNVbUFyT3hzR2ZvQWZJalE3eTBVV3phVTY5VEo4RldqVzRhRF9SRnV2UFVBUG9fZVFKMzlpd0RhaGlqa3NBcWlycnRJQUZkU1E3NTU0VVRFOA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
