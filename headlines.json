@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T21:38:29Z",
+ "generatedAt": "2026-11-17T22:06:56Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 8
   },
   "investing_commodities": {
    "http": 200,
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 3
   },
   "marketwatch": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 4
   },
   "bbc_business": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 31,
+   "items": 30,
    "kept": 12
   },
   "gn_fed": {
@@ -91,12 +91,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 27,
+   "items": 24,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 31,
+   "items": 28,
    "kept": 12
   },
   "gn_sanctions": {
@@ -126,6 +126,60 @@
  },
  "items": [
   {
+   "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
+   "source": "Al Jazeera",
+   "time": "2026-11-17T22:01:54Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemxYNFBzUlBNUTE2WDhGZW1LRG43SUJGWmRVWkV6U1REVFVoQi1uLW9zRnkyblE2TFk5bzJYZFJiY19jTl9FQmxsSGw5aTdCanlBdmZ0VHkzY1hhbXlIZFV4RVRGbzZlNXIzV2xlRzhJMlUxcmNrdEk0TUR4Qm5JZDN3dlZGS2tSUGtMajBMN0lua0paR0lrMnFsb1pPTUVJTEHSAacBQVVfeXFMTWN6WDEybnJscWZDS1c0M1FhRV9MemI2TmtmS3FmNXZodkN0Y0txY3lTTVB5VXB1N000TWgzVkQ1WFJtd0lSSmVKVVVrS3FFMGZQRXlNakJXdHpYX1IxTV83UWJYWGpqX2F0RzdNcDd1RlZTQnpMbnVUa09CU08zQlcyeE5tTzNzcFYyX3Q0akZXOGdQSlM4MkZfNVFjcXA5RlRFX3h2RkE?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "API crude stock report shows lower-than-expected inventory build",
+   "source": "Investing.com",
+   "time": "2026-11-17T21:52:06Z",
+   "link": "https://www.investing.com/news/economic-indicators/api-crude-stock-report-shows-lowerthanexpected-inventory-build-93CH-5034153",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Australia sanctions individuals and company involved in illegal West Bank settlements",
+   "source": "The Guardian",
+   "time": "2026-11-17T21:44:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2haN1ZfRHhlNnJROXc1ZXlUWnc0Si00Ui1RdFB2N1NfX0x0NEJ1b2NSSVdGTUlDaVJLWjZFM2NtaTJYVEc3dmZnbzQ1MHBJcm5OSV9FaHZmbkZqMlk0ckRpaHJxalp2WXNvQy1YYkZ0Nnl3aWc0VndzN04tcWh6TmY0NmdWZS1OT0h4TWROQWtFczl6Y3VYN0Utbmhhcko3aHlCMjRMXzh6NGlTMHZTU3ltNV9CdldwQy11enVDZkFHUQ?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Fed official Lisa Cook refuses to attend White House firing hearing, citing bias",
+   "source": "The Washington Post",
+   "time": "2026-11-17T21:39:01Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWnFMSGJVWDllNG5oN1NENTBUazVCSTA4d3h1NHhkejJxekNvYnlJTlV5VlIwS3cyQkJINUpvcFcyM1Q5Z0xOMUJqdTVneDV1UWFRbmQwSWR0dHR0Wkpzd1NsM3R1T2k3YlE4NWVxRjZNQWdZSkJjU01wbVZHY2ZpazVlZ081eUFEVDVjUEk2THlVanVMWEZUN1JBbkxEYnZEREkxcVlZclk4SGxiQnNOb3hxRXZTbWpMejFTcVY0bDRhMlFJcktN?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+   "source": "Al Jazeera",
+   "time": "2026-11-17T21:38:41Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdnBBRms4TXpNMFdJMDdnR0c2OG5EaVpfYnVETkxGUFVISUx4QXY4WkMxRkhOSFdHSVJhd3B0LU9YNEJOSFkwQ2dFbFAzUTlFckFsSWtPQS1seGJEbzIwNl8xZEdEaGRjMVQyNlZ2UWJoLTlfMDZVZktpbFlRdFc0TUpIaUxhNUgydVdid2VaOWJSYi1XZzBWLUNSRTdnZkl5c2pYM0xoUEpSUXBzUHFIUmx0MNIBuAFBVV95cUxPcUVSUmEwcWREbGRnMnhobXEydjQ3dUJpVi1LaUZybGdJazNOVEFGd1dWbV9YcFExd3JsbDZqRFduTGd3TERpNkVVVnlyYk9reGo1bll3Zkp1eFV2RmhUYXVnOTRtXzJnbDdPRHZSWFJhRm9DUFVCOFNoNXZsRFZ6VlhrZUo4ZkotSjdXNUR2MWVpY3NBN1kxdG11LTk0WjhOTm0zLTdZTV90Q2dsRG9SOHhTYXFDOFV6?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+   "source": "Al Jazeera",
+   "time": "2026-11-17T21:35:24Z",
+   "link": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "At hearing, US Navy chief blasted over Iran war and its toll on sailors",
    "source": "Reuters",
    "time": "2026-11-17T21:31:43Z",
@@ -135,12 +189,12 @@
    ]
   },
   {
-   "title": "UK sanctions Israeli settlement firms to protect two-state solution",
-   "source": "Al Jazeera",
-   "time": "2026-11-17T21:28:47Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdnBBRms4TXpNMFdJMDdnR0c2OG5EaVpfYnVETkxGUFVISUx4QXY4WkMxRkhOSFdHSVJhd3B0LU9YNEJOSFkwQ2dFbFAzUTlFckFsSWtPQS1seGJEbzIwNl8xZEdEaGRjMVQyNlZ2UWJoLTlfMDZVZktpbFlRdFc0TUpIaUxhNUgydVdid2VaOWJSYi1XZzBWLUNSRTdnZkl5c2pYM0xoUEpSUXBzUHFIUmx0MNIBuAFBVV95cUxPcUVSUmEwcWREbGRnMnhobXEydjQ3dUJpVi1LaUZybGdJazNOVEFGd1dWbV9YcFExd3JsbDZqRFduTGd3TERpNkVVVnlyYk9reGo1bll3Zkp1eFV2RmhUYXVnOTRtXzJnbDdPRHZSWFJhRm9DUFVCOFNoNXZsRFZ6VlhrZUo4ZkotSjdXNUR2MWVpY3NBN1kxdG11LTk0WjhOTm0zLTdZTV90Q2dsRG9SOHhTYXFDOFV6?oc=5",
+   "title": "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China",
+   "source": "CNBC",
+   "time": "2026-11-17T21:31:21Z",
+   "link": "https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html",
    "tags": [
-    "SANCTIONS"
+    "CHINA"
    ]
   },
   {
@@ -180,15 +234,6 @@
    ]
   },
   {
-   "title": "Fed official Lisa Cook refuses to attend White House firing hearing, citing bias",
-   "source": "The Washington Post",
-   "time": "2026-11-17T21:21:36Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWnFMSGJVWDllNG5oN1NENTBUazVCSTA4d3h1NHhkejJxekNvYnlJTlV5VlIwS3cyQkJINUpvcFcyM1Q5Z0xOMUJqdTVneDV1UWFRbmQwSWR0dHR0Wkpzd1NsM3R1T2k3YlE4NWVxRjZNQWdZSkJjU01wbVZHY2ZpazVlZ081eUFEVDVjUEk2THlVanVMWEZUN1JBbkxEYnZEREkxcVlZclk4SGxiQnNOb3hxRXZTbWpMejFTcVY0bDRhMlFJcktN?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "title": "Australia Imposes New Sanctions Targeting West Bank Settlement Expansion",
    "source": "Haaretz",
    "time": "2026-11-17T21:17:00Z",
@@ -225,15 +270,6 @@
    "tags": [
     "TARIFF",
     "CHINA"
-   ]
-  },
-  {
-   "title": "Australia sanctions individuals and company involved in illegal West Bank settlements",
-   "source": "The Guardian",
-   "time": "2026-11-17T20:39:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2haN1ZfRHhlNnJROXc1ZXlUWnc0Si00Ui1RdFB2N1NfX0x0NEJ1b2NSSVdGTUlDaVJLWjZFM2NtaTJYVEc3dmZnbzQ1MHBJcm5OSV9FaHZmbkZqMlk0ckRpaHJxalp2WXNvQy1YYkZ0Nnl3aWc0VndzN04tcWh6TmY0NmdWZS1OT0h4TWROQWtFczl6Y3VYN0Utbmhhcko3aHlCMjRMXzh6NGlTMHZTU3ltNV9CdldwQy11enVDZkFHUQ?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   },
   {
@@ -526,7 +562,7 @@
    ]
   },
   {
-   "title": "Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+   "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
    "source": "NPR",
    "time": "2026-11-17T18:34:31Z",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3RGxpNDRlLU9XRVNDenV4bWMzQU03QzRvRlc0eEN0aFF5aV9OYkg3VGZtT3M1UUNyRnpWVmFnbDdRbmRKazhsQnNmVjh2MFJUNk45dmVIaUtucWh5bW9haDR0Z2ZIZjBfMU1QVVhFc05BMlVIZnB4RUF0WQ?oc=5",
@@ -602,6 +638,15 @@
    ]
   },
   {
+   "title": "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
+   "source": "Axios",
+   "time": "2026-11-17T17:53:52Z",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zVnN2cmYyU2xHS0dXNTRtcTBTa2k0Skc5a1lBRnFjZklHdXZRZEdCZHVYZnlibndfTHllRFM1V2R3Ri1mZEZOdDV4LThpS0xhWWFxYjlRQnBhZ0dtcG9SeFJVVjVnX3pxZzJUMEl2bl96eGlx?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "Trump on Iran's reported DC dirty bomb plan: 'We take it very seriously'",
    "source": "CNBC",
    "time": "2026-11-17T17:49:45Z",
@@ -636,52 +681,6 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdXZsWXBLLXZGSzRfLWoxVGJlZGdIUzNYdDZSSnRVZXdpZnRQN3Q1a3RETG11bkdqc1BIUnU0a3ZLcDUzZFRmYVVDejF1WW0zMTFQSzdiaXpXcDVYTzVuYVBIRWxweXg4Nmp1aXdmSk41T0w3X0dXZ1hid3owV2ljSGlFRHBPSHU4WW5ua3JXd1ZnOUJtTjNzQlU3YkxrN2RmclpycGpRVE0wMXZfN2FMeQ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russia’s War Has Become an Escape Route for Political Assassins",
-   "source": "Newsweek",
-   "time": "2026-11-17T17:42:00Z",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGV0WFZDZkJ4VXJKNjZnTWVoUF9YLTg0QVdCTGtfT21YNlNSYThVSWNSdVJibk04aENQTTRReUpBYzFCRTNjM3R2NUZZWlJreWRkTzhRTjUxOTJtRkl4cnlZbm9ubG9ucmppRGU0VDNxaTl5eDU3MV84NnhiSE5BMU9Wcw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "U.S. identifies remains of 6 soldiers killed in Korean War, including 2 teens",
-   "source": "CBS News",
-   "time": "2026-11-17T17:41:53Z",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpWDlNbzV0VzRNTlYtNkdWeUdveFFnU29KcWRoUUZFX0VZdG1GT1hyVFd2MmwxcDFzNUtHZDB5YkUxNHExdWo1bW5KWGJBVDdJMkt3NmFCUHBxZnNpVFpPYy1hTEQ2My1Gc242VndscWFUa0hqN0hlYzE2dw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "How Crimea Bridge Attack Hampers Putin’s Ukraine War Effort",
-   "source": "Newsweek",
-   "time": "2026-11-17T17:41:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMEl3UndfaXVSdklaZWlWUERqdngydDFOZUFJeFhmUmtzX09xdVdZUVlrZWVJWmJ4SXhfaWdLaHZ5bE8zTTVYOF9VcWNvUHdWRW0tV25OelhxdTBTWTZHUmlPeVA2aGJBSVNNUjBVS1plR3Z0WHVzV0tYWW1OdFcwS20zNU5ZX3oyT3RfckE4SVBpN2x3NkZB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
-   "source": "TradingView",
-   "time": "2026-11-17T17:39:41Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSWsySUhKVGZIUkZqdENTcm5PVnRydFRrcWRwd205U2NuYzViemhLWnBrOUNnNkJPWVNlbHNWNHdlXy02elNicE1PV1dQY2hfUEw3bDJRdVRvZDFvdDBBLWhCZmhoZkN0S3k3ZlhQcDlCRWY1akJYdTVGQXRKS0FId3JrN1hldWlLdmJpZEdfM0JnOWZrT0JWRUZDUUJHclJZb1ItbWlJVkhTZXZNN3NQLURoVGJFVWRRRlQxcC1GVnpfa2RYaHkwTA?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
-   "source": "Al Jazeera",
-   "time": "2026-11-17T17:34:27Z",
-   "link": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
    ]
   }
  ],
