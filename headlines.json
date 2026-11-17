@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T09:49:47Z",
+ "generatedAt": "2026-11-17T10:18:07Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,12 +42,12 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 8
+   "kept": 9
   },
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 7
+   "kept": 6
   },
   "marketwatch": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -86,7 +86,7 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 36,
+   "items": 34,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,17 +96,17 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 35,
+   "items": 39,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 14,
+   "items": 15,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 15,
+   "items": 14,
    "kept": 12
   },
   "gn_oil": {
@@ -126,6 +126,61 @@
  },
  "items": [
   {
+   "title": "Slovakia says it gets extension for importing Russian oil without risk of US sanctions",
+   "source": "marketscreener.com",
+   "time": "2026-11-17T10:13:43Z",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaEl1N2NscGJyczZpaGtjTzA1MzlkZFZtLU02NTlMVVBDRzJaNmZoUFp4RXE0eXdGRVlDNTVyWEdfWV9URWtTVEVnTy1iNk11WWNINzV5SG5NTXRFNzJ1OHNRekMwbzUtbHRMQTdyRUJDeFJiQWJ4VEJKNDB6ejZMRHlLdWVBZG90aXh3WGZBNHR6MW5QckNKOUV3Sk9yZ1hwbmtlbVdhNjJGd2VmUENDT1lFeTlXLTBLMUpFaFR5dDFTRFN4NlNZUXBHdlJEaU9HUlZ2amhR?oc=5",
+   "tags": [
+    "SANCTIONS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "India says Xiaomi, Flextronics hid royalty deals in tariff fight",
+   "source": "Reuters",
+   "time": "2026-11-17T10:11:43Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3o5aWpWd1B5T1dCekZvVHRxa3BnREVFQ0hpYTVhVE9GOEVQbzNEZWVZM25PN3VJZUNDZ0ppMHZLODl2b29xTmhRT0J1RWswT0NTTXMyTHhfSUhpT05XUjFzRS1MZUlRQWJkMWxGUGZGbkNKR3d3ZUw5dERfdlRJRldzcVYzbEVrRUpGUmZ2NG05ZEpzNkp3ZEEyUVNSR2lSMEJRa09XMUR1dFhtbFdlWUt6T2lRZ3g3eGJ4SU9B?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Trump’s Culture War, Amid Setbacks, Will Soon Face a Hostile Congress",
+   "source": "The New York Times",
+   "time": "2026-11-17T10:02:56Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYmg0dGdxYWxEci1ZRS1hYmZMcjF5UjdHeEZQbDN1YTMzZUh1TXVSMVdJbGtJNml1cEIyNzdPT1g3bmhUUk45cXdZcm1BRF84RUNDbFZHcEN1aVhFNzdubnlmeW8tOEZlQXdrUFhkSDVzM3puZUJJVVZtUF9XVlI1cXFFRnk4QkxfZTlDcThha2RYc0pCNXNHXw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Pope Leo urges ‘less war, less division’ after US midterm elections",
+   "source": "South China Morning Post",
+   "time": "2026-11-17T10:00:44Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdVI3cnNuT1o4aXg3cTFBa215czZNNi11eTNYUHlLMVlmVnFhbGtrNGNHZVlFbkV2ZlBKV0ZUdUF6ejVjemFza1JfUHBzSWc0REdKejNDT09TeHEtY0VYejYzUGRRTDZJVXE4X1B0MXR5WXRHcEdEbmEwTmFleHItdXFENjFtQUtDeElncktMVjRyUmNwMXZzcHhXbVhYTHlMM2E1OHdXdXBRQV9HVWFaT1ZKSm10RUxxZElj0gG7AUFVX3lxTFBNX09URUtNYy1NQUZYSVNzOXFsdTRSTlgzWXNuSnVqUERMSUpxX1A3ZWVpblFMMVRMakl0bFJJVlpteF9wOFVqQ0hGS294c0RmQW1FSFdDeGpSSUV1M2o2MnZuRFRBbUs2OGlqTkdpbHNHNkFzLWx1TmUzYkhmQzNfQ1FZa2hIVkh1R2pRaGhJQ0hoY19QVHZBNV9lRnM4MzdaTGFhQUFiSnZsOVJqMjEyZ1l4eWVEcGlwX3c?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "These Ukrainians Aren’t in Combat. But They Deal With War Every Day.",
+   "source": "The New York Times",
+   "time": "2026-11-17T10:00:23Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85NzRCOHQ5NVZvZWt2QVYtQk0yTnlzeG9iN3RNaUtpRENhRVV1eEhJWG95RzNyNktuSDQ5cXdKOEdaUndfT2dQYkRQZGM1RnlsOUtoTW93dzV3SnVBNnFVcVVOdXlsMUdnLXpvdldkZTlhb29kSkJBcjFJS2xXM0k?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Italy inflation climbs to 5.5% in October on energy costs, beats forecast",
+   "source": "Investing.com",
+   "time": "2026-11-17T09:39:46Z",
+   "link": "https://www.investing.com/news/economic-indicators/italy-inflation-climbs-to-55-in-october-on-energy-costs-beats-forecast-93CH-5032103",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Trump arrives in Manila for Quad talks ahead of China visit",
    "source": "Investing.com",
    "time": "2026-11-17T09:36:23Z",
@@ -144,10 +199,28 @@
    ]
   },
   {
+   "title": "US details ongoing criminal probe into Nvidia customer Megaspeed",
+   "source": "South China Morning Post",
+   "time": "2026-11-17T09:28:16Z",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMGRHR0o5RzZ2cTdUTkI0VE9vRGlxMWJGZkxFR0w2UVd3QzJPbUJRWFNjWm1TWHBvNFpvbjRyM1ZLOU5xQjJ0aXR0Wk1JcWFFYjZRRktfRWRNQlA2WWpVY2hOWUVoZDFBWHFZRGZqUnNMNEU4UzJ1THpOeEMza211REtabFQzTUJDZ1E3ai1ZSEppNE5RZG4tSk1WbTJ0TWZhRS1oYllrR21pWVZZZkxubmVWTHpxVmIwUGpFQnhWWW5vNUNrZXo3dFhvejPSAcwBQVVfeXFMT21aeG1fY3l1blhRdFpsMERkLUJZQWhGbXY0TzFJd0ltaEtSbE9udmtTOUs2U19iUzlkdUVJMG04dEZ3RFRRRW5pZ1BjRXRlZVJsU0p0YXZUeWRWQlFjV3Y4Wkw1eFlFSWtWLTlONlFkLWtHVDJlX0U3VnozdTFJRXZsbllLdUJzUlpaREVMMHVEOHVOY1hkaTczRWNVQThDV1k1WWZYUURPSEY3Q2ZfRnNUOFVmbFhjcUd4X09VZ1kzRlp2VDBOMUM2WFJx?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings",
    "source": "BBC",
    "time": "2026-11-17T09:27:41Z",
    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
+   "source": "BBC",
+   "time": "2026-11-17T09:27:41Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSRU00UVItWVBVOXhnT1ozc2E0NXk5V3VNTlN4eERVeGVRRlJKc3dHLUMxbTRISm5RbEhoeEJUdEhCbldiU0txRExramJVWF9OcVdIV3dBOEo3czA?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -178,6 +251,15 @@
    "link": "https://www.cnbc.com/2026/11/17/deutsche-bank-leak-epstein-trump.html",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Metals Under Pressure While Oil Supply Improves",
+   "source": "Investing.com",
+   "time": "2026-11-17T09:22:00Z",
+   "link": "https://www.investing.com/analysis/metals-under-pressure-while-oil-supply-improves-200691724",
+   "tags": [
+    "OIL"
    ]
   },
   {
@@ -244,6 +326,16 @@
    ]
   },
   {
+   "title": "Watch Vance Says US Won’t Stay in Iran War for Years as Oil Drops on Supply Recovery",
+   "source": "Bloomberg.com",
+   "time": "2026-11-17T08:49:10Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY0pRc1I4U2F0T1lWU2NtVTRCZk9YZ0U5SHdRc0xyNWpVUVJuWTlSRXdXQ2lYdkpfeTUya082eHQtRTMwRWVnc1JfMnBibFExTEh0SU4yamZvYklWa3ktSDRfbTZkbnY3ZWtuNzVUUXRWNmttbDZ6UllPRlZzS2RvbGJNbXdHS0ZyZlVBbFl5RFItZVJtQW5iRQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
    "title": "Drones account for nearly three-quarters of Sudan war deaths this year, UN says",
    "source": "Reuters",
    "time": "2026-11-17T08:42:18Z",
@@ -284,7 +376,7 @@
    "title": "Treasury yields are broadly flat as investors await retail sales data",
    "source": "CNBC",
    "time": "2026-11-17T08:23:51Z",
-   "link": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xcWR1OGh2RVFmcDRsR1JtUDJUVFhqWFVjQ3R2V1ZjSFpqWmNtRXQweHFac0UxYllNRzJ2akQ0R2Q3dTFpTkhGeWFMS3d4MFNIX1pMWW5oUWxyQzh2bV8zcG91MlVCNm5kNlVXN3dmMG1pVWYycHFR0gF8QVVfeXFMTlpoUmZfei1Qbjl3OU9tR3A4MmlvbXNIR3FXa1JaRW5CMm5qQmgwcVBRMlFGa1BFc243bG5vR1hJVjBhYVJvMDVmNmstX2M3ME93cjZUbXc5dE5IWHJ5bndwRlJOLUNBTDBEY08tTUVMdG12c0VpemV3VUQtSw?oc=5",
    "tags": [
     "YIELDS"
    ]
@@ -314,6 +406,25 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QMXJLMk1VZ2h1VE9zZ3JpdWxlSXhNYk8tMDR0RUJ0MVFmUnJYWDR5UzBBLXlhRHM1WVJRLXZoNzhkNGxBeW1vNDB5X2JYc2x6eDZvS3ViZ0dBNlJYUVRKLWJmemRSbU1NalE?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "META_TITLE_QUOTE",
+   "source": "Yahoo Finance",
+   "time": "2026-11-17T08:10:34Z",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LRXk3WmZ5Y1MwZVR2TUhJNEJYakk2Z3ZPbHkyWklVNkdJTnB3bjBpb0ctRzhrUzNhUmstaFJfUkJ0SVZ3VmRGTVJGS3F3aG95?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Netanyahu's crypto proposal: Why blockchain cannot shield Israel from sanctions",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-17T08:06:21Z",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyUXdaQjJ4WVE5TE0yZXcyQnJtc3dURVdrQ2YycUJfazBhd3RibXNoSk5OVmRUcVl1WXlXNlAyZk1FTkppRFZmSU5ZZVRGVi1pV3Bmb184Wmw1dG9uVGYtenI1TQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -493,15 +604,6 @@
    ]
   },
   {
-   "title": "Gold Faces Fresh Selling Pressure as $3,838 Support Comes Into Focus",
-   "source": "Investing.com",
-   "time": "2026-11-17T06:24:00Z",
-   "link": "https://www.investing.com/analysis/gold-faces-fresh-selling-pressure-as-3838-support-comes-into-focus-200691710",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
    "title": "Palestine Weekly: Israel’s political reshuffle as the occupation grinds on",
    "source": "Al Jazeera",
    "time": "2026-11-17T06:06:58Z",
@@ -548,15 +650,6 @@
    ]
   },
   {
-   "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
-   "source": "BBC",
-   "time": "2026-11-17T05:57:38Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSRU00UVItWVBVOXhnT1ozc2E0NXk5V3VNTlN4eERVeGVRRlJKc3dHLUMxbTRISm5RbEhoeEJUdEhCbldiU0txRExramJVWF9OcVdIV3dBOEo3czA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
    "source": "CNBC",
    "time": "2026-11-17T05:51:13Z",
@@ -582,98 +675,6 @@
    "tags": [
     "GEOPOLITICS",
     "CHINA"
-   ]
-  },
-  {
-   "title": "We are prepared for higher tariffs from the U.S. and restriction on chip supply: Thai Vice Minister",
-   "source": "CNBC",
-   "time": "2026-11-17T05:31:32Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0dfQ2hnazMxaVF5YllfZTBDVFVtS0RpWGg5c01FLXZUcFQ1Ul93TTdWWTVzTDhWTFdrRnJSVm5YaVBUMmEwQmZYMGcxS1EzREhyU2huMXBZeFF5cGs5YVF3QmctS1VuZ1VWSTM4QlMzT3FvS0NjQjdQTXh2Q21XVldxMTNtR1l6Y1gtTHduYktIRmg3U243amRFa0ROMUxXNjRKN3FzWnltaVFieTRBazhDNFJNOGpY?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "The Gold Correction: Square of 9, Cycle Dates and the Road Back to $4,000",
-   "source": "Investing.com",
-   "time": "2026-11-17T05:29:00Z",
-   "link": "https://www.investing.com/analysis/the-gold-correction-square-of-9-cycle-dates-and-the-road-back-to-4000-200691704",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Archaeologists uncover sections of medieval church in war-torn Sudan",
-   "source": "Reuters",
-   "time": "2026-11-17T05:23:20Z",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91R3J3VnUtbnNPOGczMFpQbGhwODEwbnZ5bjdtSi1nOE5BYU9BTmhhajh6cFk1eGtfWXhRNk56VXBGbFEtUExnaE5WNjY2S0JuVVNmSUNPQ1JreEdVNmctZ2t3bFFKTzA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "North Korea is 'honing' its ballistic missiles in Ukraine with dozens of attacks a month, Zelenskyy says",
-   "source": "Business Insider",
-   "time": "2026-11-17T05:23:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTThIT2sxWThBMElCMnV0b3gtN25MOVAtdzY0T1FSalVqcUdNSVBJN2ZqWWdiTWVkMVNqZDFCbnFlVjN4aDkzMnVWdl90bVdxbVI0RHNFaVotTDdqMllJUjdibkUxNll1aFotV2ZEbDZjdllGRFFESFByRVN5ZHNvNFd5WTM5aGN0TnJ0U1NPNWEwNUc1R2hjMkhyQnE1SnhCU3RwRGJpMzRLdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "China and Canada Expand Tariff Relief as Xi Meets Carney",
-   "source": "Bloomberg.com",
-   "time": "2026-11-17T05:19:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDF2Y3hmbXN1MWVDZGE5LVJDUE9NeEltNDdEU1hwckVTSmhHcmFNTWczVVhGSGtnaTVSM0hybGh5amRNOHl3a19RUHlHN0ttX1ZGeWNvdTFzTzRBUm84djJ3TG9FS29nQUd2dDlSS09JQWROaWRwZFJhS2ZRaTNCQ0xKbmtoYzgteHg0eGJ6bmlrX2FuWTFuNm1IaDl2cEdCWFhKOTBoU3cwOWc2?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "The secret war between al-Qaeda and Islamic State",
-   "source": "Financial Times",
-   "time": "2026-11-17T05:00:46Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaGdKTmNxbU9uVzZSRDNaSmd0dkMtSDJVNmROUlUxZkxMZi1qQmFGazVUWmdNU252VjNfRmNPUWF4LVZBaGVXQjNocXlrMjlPaEdOdXpDN2RuZ0Zsck9pODJZWU02OVp2VkQ0QU1BWVQ1bk4zSmNhcU5XVFdQek5Wdldvd3Q?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump Is Now 0 for 10 With His Gifts to Putin",
-   "source": "Bloomberg.com",
-   "time": "2026-11-17T05:00:20Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3lWWmZPQjUzX0FjUTJpTWxCamJfYjI3WHQ4QXZSWUZWS2YwaEd3d1dNcFVZYVBiVDZRS1dSellHcjdoYks4dnZBeGJ2eXdTVDdlX1U5bDV2U2w5eTh1dlE1cHdWU1lUeFkyMl9Ecldyd1U0YngtX2FOa0lEZ19pMU9MM3R1a2o5czdSUklFYUNkZUQ2Nm0waDdGdzF5VW1zUnFvRUg4TEtuQXp4aUxMQjh3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs",
-   "source": "The New York Times",
-   "time": "2026-11-17T05:00:09Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcG9GVC1uM0VFSVNrTm1pT1VnY2o5MnJ0Tm5Cb2dtUEVSam1uN0pvcUtxUGYtUm9XZ3UtNkxmUDBsR001VHVDcFlkaWIyNmdHQVBWVHNodzJta3lXRm9iUldWNW13bjJsVEhiMjhNcVJTY2tWRkFKQkpjcThqWExfb1NBZlk?oc=5",
-   "tags": [
-    "INFLATION",
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "investingLive Asia-Pacific market news: RBA minutes lean hawkish",
-   "source": "ForexLive",
-   "time": "2026-11-17T04:51:02Z",
-   "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-minutes-lean-hawkish/",
-   "tags": [
-    "CENTRAL_BANK"
-   ]
-  },
-  {
-   "title": "Gold price in India: Rates on November 17",
-   "source": "FXStreet",
-   "time": "2026-11-17T04:35:14Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYWE1TVdpaHVWQWZUMnFSYVdpdU1jSC1PT2pKQ0FBM2d3d3Jra2dIV0tMWVZjXzlnT1FhZGRVN1JwZjlKYzUzR0cwaUExOGlpVmpGcDhJV3VsWFlJUWlSdWhtVUN5ZTZuLXNwYXNkSHZFRHQzbnRRa1hFcVRFdkJUbkxCMlUtVENYTk40UWVLYm1LQmZzNm51SEluc18xXzhQVU9oYWFn?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
