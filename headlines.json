@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T07:56:32Z",
+ "generatedAt": "2026-11-17T08:24:59Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -80,31 +80,29 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 429,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 429"
+   "http": 200,
+   "items": 35,
+   "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 36,
+   "items": 37,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 17,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 36,
+   "items": 38,
    "kept": 12
   },
   "gn_sanctions": {
-   "http": 429,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 429"
+   "http": 200,
+   "items": 15,
+   "kept": 12
   },
   "gn_yields": {
    "http": 200,
@@ -128,12 +126,49 @@
  },
  "items": [
   {
+   "title": "Iran fears US, Israeli strikes on dams amid missile base debate",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-17T08:16:48Z",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QMXJLMk1VZ2h1VE9zZ3JpdWxlSXhNYk8tMDR0RUJ0MVFmUnJYWDR5UzBBLXlhRHM1WVJRLXZoNzhkNGxBeW1vNDB5X2JYc2x6eDZvS3ViZ0dBNlJYUVRKLWJmemRSbU1NalE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
+   "source": "Al Jazeera",
+   "time": "2026-11-17T08:14:42Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVzBfcTd0dGtoRnJmelJGSUhydE9IdTBfejEwYVhrdFB3OG1qMkV2VEVPXzJXQkdZR3h6LVNfM1JEMWxBTTFPV2JPb01Vc1BFV2lQbThfTmVfUS1ReWNYZ2I2WTF5LWhGRm8zOTYtTXhoUmlrcjVxTkJHbjZ3TXdLQjE0VnhONnUtUnNjdGlESmR5dDgtNHBJa1h6RXFCYjdQMFNCcjJXTkpkZV9HbHNHVXBlWdIBuAFBVV95cUxOYTA4MG44OTJSdkxmODdjLTJ2SnhtQXRoNzZodTdDRC1lRUtXeGFTNzl3dGQ1UFpkTWQxRUxkQVY1d24tNXhMdGUydlpCWkZpdnRpTnpOSXVrbHBjSDRmZ3drUF93Rm0zRzJDRFhpWW5XaG8tNlNwc0FGSHBTVERvVjNyZS1FV016MkRJdW1VSHUyWXlEcHRsMnNabm9nRml1ejJ1czhMb2Rlbm5nQ2cwbHNzSmZHa0xB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
    "source": "BBC",
-   "time": "2026-11-17T07:55:32Z",
+   "time": "2026-11-17T08:06:32Z",
    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "China Stocks Fall Despite Expanded Tariff Relief Deal With Canada",
+   "source": "marketscreener.com",
+   "time": "2026-11-17T07:56:24Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVBabmFFTERVYjFnU29zclJ1Q2JPS2ZFam1tOXBMbWFuRGlSU0wwdTBsZl91czZpNGtfN3RZQXY4aHBvT0RSNHY4MVhtREQ3cjhoRUUxeDlINUJ6Z0gwekdhN0c1ZkVUVENiaEdaU1dHM285bG5IeGhzbUc1RE9CYURyYVZvU3hySXhsNzRUZjBWNWxfS21FLUptNlZMUFN1aXExREdnTmtibVpJb3A5NGhxVGl3STBSY1E?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "UK unemployment falls to 4.6%, beats forecast; payrolls, vacancies drop",
+   "source": "Investing.com",
+   "time": "2026-11-17T07:54:09Z",
+   "link": "https://www.investing.com/news/economic-indicators/uk-unemployment-falls-to-46-beats-forecast-payrolls-vacancies-drop-5031844",
+   "tags": [
+    "JOBS"
    ]
   },
   {
@@ -146,12 +181,39 @@
    ]
   },
   {
+   "title": "Bahrain thwarts drone attack; Iran claims targeting US military radar",
+   "source": "Al Jazeera",
+   "time": "2026-11-17T07:35:54Z",
+   "link": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Pete Hegseth Accused of War Crimes and ‘Murder’ by Incoming Democrat Who Vows Probe: Prediction Markets A",
    "source": "Benzinga",
    "time": "2026-11-17T07:33:49Z",
    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVjZ1TGNPMXA2N0FCOHp2NGVSbG5pNUo1TWxjMkRjOXVFV1VQSTV1QVZid19uUU5Zd25QNUVic0JBMU5wMHktUEQxQ1Zqb0N5RTlUVDdMTHhrV1JRQndVbFRQQlpfV2FNSHA4RnBGUk0wMDE3N3pabVRlR0kycGE3QldoTXEta3Jnc1RvQzJLbnpPMXN0NFExQTU2ZmtIdkw2bG9xYWZKUHJTdUNHQmFJamZDZ25hX045Q28xZlJuZ08tTGRrZkI3TnYwRTMtX1RvOENDMDhZUkRTNXdRaGRHOGVlZWRGTGpXRmJVLV9KTVNKYVllU0ZjR1E4TENybmt6RHZwSzF2c0ZsQQ?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold, silver prices today, 17 Nov Tuesday: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai, Kolkata",
+   "source": "TradingView",
+   "time": "2026-11-17T07:32:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTzlNWW82RFU4aldwSV9ucGZBbnJnVEo0d05TVDRpUWgxS0syd0s0RHladzQ2ZWl4bnEtejBvR29zMm5qODJfclgwc25nZkdjdEVEZlZlRzFvWnlhOFlnVXB2MElxUmozV2dWUWJRLXdwZVUteWdSNy1qdUxvTG9OQVZiVWdyRjMyYWVyamcyYkFKTmQ2M0tLQ1p1c1gzLWl4cHRCNk1vbm85eTJ0WC13UDY2S2ZyRm1WRnNlSDBsSXJBb2g3OUg3REJ5WWZQMEpudGpCMHlnVHVnb0V0U1hOSXhEYmpmSXR4aTliZjJIenNVTDRJWXVEeFh3?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Great Gold Trap of 2026: How Wall Street Sold a $6,000 Dream to Retail Investors",
+   "source": "Investing.com Australia",
+   "time": "2026-11-17T07:31:36Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSFhRcWNZOExGUmowTENNdU1OOG0zLTdkNXM1N3JlTVgzUzBTZ0JOWnd6UUFOUGRfbUlXOWFvTmQ5NnA2dlgwLWFCRjdubmwwSkFQT0dDcGdNTWJWOXIxUW5QSVQyeDNvNnI4MHlpRnpwTG5iOFlQZ0hpbndFZlU2ckpPb0I5RFFfSkV2d3YxNmJ6TF9xaWNzdTdTRDBfLS1UZ2tPQVdkeWpNMUhYZzcyNmwybVVoSEJSM3dSY1Nn?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -162,15 +224,6 @@
    "tags": [
     "FED",
     "YIELDS"
-   ]
-  },
-  {
-   "title": "UK unemployment falls to 4.6%, beats forecast; payrolls, vacancies drop",
-   "source": "Investing.com",
-   "time": "2026-11-17T07:22:09Z",
-   "link": "https://www.investing.com/news/economic-indicators/uk-unemployment-falls-to-46-beats-forecast-payrolls-vacancies-drop-5031844",
-   "tags": [
-    "JOBS"
    ]
   },
   {
@@ -260,10 +313,19 @@
   {
    "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
    "source": "The Guardian",
-   "time": "2026-11-17T06:37:00Z",
+   "time": "2026-11-17T06:47:00Z",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1RSYjZRRl8zR3hSNWZLMVZZYkVpMTQ0VG42QTd6c2lHUHNHYWp1ZVQxaUdZTkVVTTZ0UzlKTWxGcjN3Z3RhZjhVb1QzQ01MM1pYRkxIZEtFNFZIWDRrSTJLU29JeWFSdGgwTG1jb1Fsa0tNMEdRM3ZjX1ZNZkZCLVYyYWhVNUNGa3dHOWdLUjVEUW5yT1ZTMHI4T3pjakllMXZndw?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold and Silver Crash: Is a Major Trend Reversal Approaching?",
+   "source": "Investing.com",
+   "time": "2026-11-17T06:24:00Z",
+   "link": "https://www.investing.com/analysis/gold-and-silver-crash-is-a-major-trend-reversal-approaching-200691711",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -271,15 +333,6 @@
    "source": "Investing.com",
    "time": "2026-11-17T06:24:00Z",
    "link": "https://www.investing.com/analysis/gold-faces-fresh-selling-pressure-as-3838-support-comes-into-focus-200691710",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Great Gold Trap of 2026: How Wall Street Sold a $6,000 Dream to Retail Investors",
-   "source": "Investing.com",
-   "time": "2026-11-17T06:17:00Z",
-   "link": "https://www.investing.com/analysis/great-gold-trap-of-2026-how-wall-street-sold-a-6000-dream-to-retail-investors-200691709",
    "tags": [
     "GOLD"
    ]
@@ -425,7 +478,7 @@
   {
    "title": "Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs",
    "source": "The New York Times",
-   "time": "2026-11-17T05:00:08Z",
+   "time": "2026-11-17T05:00:09Z",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcG9GVC1uM0VFSVNrTm1pT1VnY2o5MnJ0Tm5Cb2dtUEVSam1uN0pvcUtxUGYtUm9XZ3UtNkxmUDBsR001VHVDcFlkaWIyNmdHQVBWVHNodzJta3lXRm9iUldWNW13bjJsVEhiMjhNcVJTY2tWRkFKQkpjcThqWExfb1NBZlk?oc=5",
    "tags": [
     "INFLATION",
@@ -627,63 +680,6 @@
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbHRXcG9tX0N6LWFLR0RwN3lOeGJDQXVabjh2ekFKbEVGYXJuV01WYk93c0dJQlg0S1VKZHkwMUxYY1cwMnN3RnZ6c2RPVnFtUXNWQTc0WVpucURfS0JyRFkzcEV2cHEwM2U3Q1QtenVzOFhKRmxiYW9rUC00NEJ3dmIwQzlpOTVOX2U0SmdCb3YzM09VNFRMVGRiTC1GN28?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump’s Advisers Are at War Over China Ahead of Xi Summit",
-   "source": "WSJ",
-   "time": "2026-11-17T02:46:00Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZFJvYjNhcXVuMWNTSWZCS3M3eDMyOGVmVHVtLUZDckRsSkZobWdBUUxielFrSEVNUVBLM05qLTlWb09ESHVUaXRjQmRPN1VsdmI1LV9uRTFmMTJrNHdQTzNQQWJ2RG9Lc204ODEwSTJGWmJpNTZoZV9nTk9XUGhaVXZULVM0Q1NYYjdENWUwc1ZNb1FoYnJteFB0ZG9LUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Canaccord Genuity Adjusts PDI Gold's Price Target to AU$7.75",
-   "source": "www.marketscreener.com",
-   "time": "2026-11-17T02:28:12Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVWNUUjEwdm9GWWZpdlVURnVlRUl1S01GY2NOcDNOX2kzc0N3NFM5aHVLZmxjMTkxLXRyeWV5VElfT3dSTklPbTdkM21kT3RZdjYtQ1R3bmFfblQ3REhMUG5EUWxLTVFvWTNBYW0wTUlPcUliV0VpTk5DdXZSM1pyU1RKc3ZMTzRKc0tqaUpOWnl4c3lYTDV5SjRJLTh0N0NhZ01YNmFESmVhdUlTOF9LM2llZw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Argonaut Securities Adjusts Price Target on Bellevue Gold to AU$2",
-   "source": "www.marketscreener.com",
-   "time": "2026-11-17T02:23:20Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWXA4aGJkNlJfUlBoX0lxcFk1YnZsUDFnQVp0YnBkdVpYT3VVNXUzeVZNOHplSVhCcExRRXRnSWJkRmtyc3VpU0NyX01kSXBEZkRyOW9USzlDeE15cm1mMGVCaUxtWkNwdXFuanZaejJNblh4bWR3Z0k0NHpPRmFDUS1oVXNQdUE0WTdfOXNMWUl5MzBHQzdvRUxvbUV4LTk2TWR6VmFTZW1qYXpCNDA1NHpXbWFaa2lOaXc?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "JD Vance Slams ‘Neoconservatives’ Over Iran ‘Forever War’",
-   "source": "Newsweek",
-   "time": "2026-11-17T02:19:00Z",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS09YU3BWLXFZWDdkZFlGTmR2TGQxX0diT3J3N0tna0NwU3oyMnptSmpOaV92RWFpY29qb2g3WGJuNnp3S3ZvWGZxR2pVTU9keUU2Y3Q5MWw2a1N4ejFKc3AySnk5d0F1bGI5N3hCUXFoTEI5TXh3blhIeU1xeW5vcUxpeTJVa0xETzRRYzVtd0s?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold prices are falling: China is buying anyway",
-   "source": "FXStreet",
-   "time": "2026-11-17T02:05:05Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQlVRTTNYdTdhR1ZXcHZxT1RxNEp0TnBKNHRIcjN4dWdMV0JiQ05aOFdUUjRGQjFkLVNYYzJMbG80TmRtVEs2blI1MEJpdHJYNThBa19SSnB2WmtIM1AybGNxUjZkeFo1U1hzUTBDbTJwNWVyZTYwZlN5eDJ0dzFCZzRTMGhIRWZRd3ZIaGRfWUtEdnowaFZDOQ?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "CHINA",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "How fears over Western finance could boost the gold push of Hong Kong, Singapore",
-   "source": "South China Morning Post",
-   "time": "2026-11-17T02:00:12Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU2dIZ2ZRa3JsM3Fhcl9rbDlvaTlwMTMzY3ZKWGRwR0tvX28yZ0FZdENjOWctSmNEaGh3d0gxS3plbGk1VHd2MUl2SXFfTFpuZk5NeVhWWnppNmZUYkR3QTdsWXNZWUx0aHFzVmQwYUV0MTdrODZqeW4zNERYTk9idk5MXzVNZUxvTmNNMmF5MUpVQ3VsaFBUWGF1ZjFBUk1PNUt1T19fYm5hVXA4NFhzOWN1LXdBaWlSSHhpZ1N1ZDZpLUlEWmIwQWpPRExzLXF6?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
