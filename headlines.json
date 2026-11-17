@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T18:20:07Z",
+ "generatedAt": "2026-11-17T18:48:19Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -21,7 +21,7 @@
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 2
+   "kept": 3
   },
   "bea": {
    "http": 200,
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 0
   },
   "cnbc": {
    "http": 200,
@@ -81,38 +81,38 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 35,
+   "items": 34,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 32,
+   "items": 33,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 27,
+   "items": 24,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 42,
+   "items": 41,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 16,
+   "items": 14,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 13,
+   "items": 14,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,13 +126,69 @@
  },
  "items": [
   {
+   "title": "The Greenback Weakens Slightly Against Canada's Loonie as Treasury Yields Edge Down",
+   "source": "www.marketscreener.com",
+   "time": "2026-11-17T18:44:16Z",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQm5jS0F5enpJQm5IbkZCVU1tRXlNcHlJX2tkM2VDLTNfR1dHLUN3VEdxanVPTW50cDVZd05nQ2ZRemk0UHNaM3dsRV9mYkkxVVZmRDhjQmQ3WC1yRVhwbndXWlBJLVVTRmxzODZwVzFkNjlubUJuZ2NhTkpwVjRNdmpqSjhYVnBWdk9ZYnZyRVp0WDJrV1lRWDdtbURaQW1tQU5SN2xvaGxMa0gwV3Q4UkdfVnNlejJkQVFxUEQ2SV84Sl8wbS1scXZoVzBaTl92dFE?oc=5",
+   "tags": [
+    "USD",
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+   "source": "NPR",
+   "time": "2026-11-17T18:34:31Z",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3RGxpNDRlLU9XRVNDenV4bWMzQU03QzRvRlc0eEN0aFF5aV9OYkg3VGZtT3M1UUNyRnpWVmFnbDdRbmRKazhsQnNmVjh2MFJUNk45dmVIaUtucWh5bW9haDR0Z2ZIZjBfMU1QVVhFc05BMlVIZnB4RUF0WQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "‘Do not build’: UK sanctions 8 Israeli construction companies for building West Bank settlements",
+   "source": "The Times of Israel",
+   "time": "2026-11-17T18:33:45Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObEVDWHBSU1REbnl0MmstS0F0ejN5em05UkgxbjctNmVoWjZZZU1WbHhGbE02OXRWS3RVandocHQwTnpYQkxhRE1jNzFmUXpndF9uam5iYmRJLWVHZU4tajh6cmZnTV96OFJMWEhVbGVrZERJenJUaGhhMHhBVjZVYVJLTVRhVFJZbTc4NGcyb3k0NGladGxwX0FVd2xTdW41dTVhVU5tZ0lsX2RWdGxYMdIBtgFBVV95cUxOeHYya19iX3BIbGYyMUhUVzFwaXljdmxQNi1mQkxSeGk0bjFGZWlSQkV0NkZpR2ozXzJFZmtDZS02V3RaR1k4SVZYYkR2UUkwWmhTcFZ3VjcyMm5hR3dNb0lLZEFuVDI0ODBnOERQeGY0dE0yU0YwLTBmaTV6UXQ3eTFZbDc3NXN0UVlRVzZLR1pqdVl2czJfbnhoMzRGa2hiaVZrcUNld000NjhBdWQ1R1AyaFBtUQ?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound As Dollar Pulls Back",
    "source": "FXEmpire",
-   "time": "2026-11-17T18:17:42Z",
+   "time": "2026-11-17T18:31:54Z",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZmE4UFNib3YyZ1hJa3Z1VU5EcnZsUThiWGdpV1I0U1VkMFBLdWg4cXRuVlZ1azMyQVV3SGR0NVp5a0dXQXNCT2FWUG5DeUM1X2NsSFMxWW9oQmQzbEFaX0VJR2VKUkl4YXNzUVR1VGFxQmpDNV9ESS1pWGxpOGs2OUc5UXZvcWM5NUo2LWZVdFp2aE11U25wcWwtUkhfU2hRTHJPZXpZNmtQTmhDSjI0bHhQWVNYeEc2MHJWdy1ILUpjR1VYX0NzLU5DNFdacGRYM0E?oc=5",
    "tags": [
     "USD",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
+   "source": "ECB",
+   "time": "2026-11-17T18:30:00Z",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
+   "tags": [
+    "RATES",
+    "ECB"
+   ]
+  },
+  {
+   "title": "UK sanctions firms over Israeli West Bank settlements",
+   "source": "BBC",
+   "time": "2026-11-17T18:27:27Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Fed official Lisa Cook refuses to attend White House firing hearing, citing bias",
+   "source": "The Washington Post",
+   "time": "2026-11-17T18:21:36Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWnFMSGJVWDllNG5oN1NENTBUazVCSTA4d3h1NHhkejJxekNvYnlJTlV5VlIwS3cyQkJINUpvcFcyM1Q5Z0xOMUJqdTVneDV1UWFRbmQwSWR0dHR0Wkpzd1NsM3R1T2k3YlE4NWVxRjZNQWdZSkJjU01wbVZHY2ZpazVlZ081eUFEVDVjUEk2THlVanVMWEZUN1JBbkxEYnZEREkxcVlZclk4SGxiQnNOb3hxRXZTbWpMejFTcVY0bDRhMlFJcktN?oc=5",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -205,15 +261,6 @@
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpWDlNbzV0VzRNTlYtNkdWeUdveFFnU29KcWRoUUZFX0VZdG1GT1hyVFd2MmwxcDFzNUtHZDB5YkUxNHExdWo1bW5KWGJBVDdJMkt3NmFCUHBxZnNpVFpPYy1hTEQ2My1Gc242VndscWFUa0hqN0hlYzE2dw?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "UK sanctions firms over Israeli West Bank settlements",
-   "source": "BBC",
-   "time": "2026-11-17T17:41:49Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "SANCTIONS"
    ]
   },
   {
@@ -310,19 +357,19 @@
    ]
   },
   {
-   "title": "Fed official Lisa Cook refuses to attend White House firing hearing, citing bias",
-   "source": "The Washington Post",
-   "time": "2026-11-17T16:58:20Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWnFMSGJVWDllNG5oN1NENTBUazVCSTA4d3h1NHhkejJxekNvYnlJTlV5VlIwS3cyQkJINUpvcFcyM1Q5Z0xOMUJqdTVneDV1UWFRbmQwSWR0dHR0Wkpzd1NsM3R1T2k3YlE4NWVxRjZNQWdZSkJjU01wbVZHY2ZpazVlZ081eUFEVDVjUEk2THlVanVMWEZUN1JBbkxEYnZEREkxcVlZclk4SGxiQnNOb3hxRXZTbWpMejFTcVY0bDRhMlFJcktN?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
    "source": "BBC",
    "time": "2026-11-17T16:56:38Z",
    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "A Kremlin trap? Europe sees danger in Vladimir Putin’s new demand in U.S. talks",
+   "source": "NBC News",
+   "time": "2026-11-17T16:54:09Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHp0WkU3bGJkRVhwa3VLR1p6T3J3OUFUTkppV2pKczN4b3BuMTZCd1hsSXI1bXZDY25HQ2p3Xzc3WlNFdnVmWVA3QWpIS3pMeFZwMkhvcnEtVzRLZW5EMW5sWlEzOTAweE41VTU4cW5FeFczTFdJMjVLMUdDT3dvcndSNFJBS3RtV0NkeWE2OW1KcGtSS3dpNFFOS1hmRlFRZXNHa1dxQjZ2d2ZtZDZUQ2Y4Q09SQQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -345,6 +392,16 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3RGYkpKVzFsUmhlVXNza1ZvRkNRY1RyX0lRc194aFZuc1I5VGFVUWNNa0FvWGRneHY2ckc3VGV5V3RTVXdUdXdIelpJQmlfWHVjRVc0eVNULUtjSWlhM25pcjI3cjNPdWxRQ08taGRnUU03Q0plcmI3OEI2X0hhVHRkSEdRQ09teDdzVGUwcXZWeW5wVGlPTU9GdXJEbXhqczRCV3cwdFgtbzk4bHc?oc=5",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "Gold Steadies Near 14-Month Low as Inflation Pressure Persists",
+   "source": "Bloomberg.com",
+   "time": "2026-11-17T16:43:08Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMDI4MEt3a3M4XzFhaC01R3pmSzdkOXZ2ZWhUWjhPb1lOZWZPbjdXTWFydWVFcmZNS21rZGZLUmZ6S21OcXFDUUkyN0NLc3BiZnlCWUJ1QmMxbHh0aWtZUjEzZFBuQng0bkRiVFZxN0pOUUJBQXRqQ0NGTUFZcEtLRUx6NkVWZklRTjhxOTNJMzdVUldYX21ieEFQcDlnTks2NFAxMDBrY1ktNmtlVzZYR2FxRQ?oc=5",
+   "tags": [
+    "INFLATION",
+    "GOLD"
    ]
   },
   {
@@ -551,15 +608,6 @@
    ]
   },
   {
-   "title": "‘Do not build’: UK sanctions 8 Israeli construction companies for building West Bank settlements",
-   "source": "The Times of Israel",
-   "time": "2026-11-17T15:33:04Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObEVDWHBSU1REbnl0MmstS0F0ejN5em05UkgxbjctNmVoWjZZZU1WbHhGbE02OXRWS3RVandocHQwTnpYQkxhRE1jNzFmUXpndF9uam5iYmRJLWVHZU4tajh6cmZnTV96OFJMWEhVbGVrZERJenJUaGhhMHhBVjZVYVJLTVRhVFJZbTc4NGcyb3k0NGladGxwX0FVd2xTdW41dTVhVU5tZ0lsX2RWdGxYMdIBtgFBVV95cUxOeHYya19iX3BIbGYyMUhUVzFwaXljdmxQNi1mQkxSeGk0bjFGZWlSQkV0NkZpR2ozXzJFZmtDZS02V3RaR1k4SVZYYkR2UUkwWmhTcFZ3VjcyMm5hR3dNb0lLZEFuVDI0ODBnOERQeGY0dE0yU0YwLTBmaTV6UXQ3eTFZbDc3NXN0UVlRVzZLR1pqdVl2czJfbnhoMzRGa2hiaVZrcUNld000NjhBdWQ1R1AyaFBtUQ?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
    "title": "Hanwha Executes Maritime-based Missile Test from Palletizable Launcher off Mississippi Coast",
    "source": "Yahoo Finance",
    "time": "2026-11-17T15:32:00Z",
@@ -629,52 +677,6 @@
    "source": "Al Jazeera",
    "time": "2026-11-17T15:09:21Z",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSFp4SnYzOXRsMUp6V1hFd2VxdkhrbXQ3MEJKdF9QYVVaMUVsZENOS0t1cjFzMnNROVR6WHdVX3UwOHNmMEVzNnhvLW9TXzBpZ3RtUS1FR3o0R19ueEZfYUw2eTd4Y0ZxZ2tIbVV3eUZiRWFncmYxdWZFWkdHYm9oN29PdTVvREtZUkxzX0dJOHJkNzkwVVp6N3g5VURCRC1vSFdR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The price of gold today, Nov. 17, 2026 — and the best places to buy",
-   "source": "CNBC",
-   "time": "2026-11-17T15:04:19Z",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xa0doRkFmRmdZak9BZDFNN0k1amNIR2tuNl9zQTJISDRBbTlOZTNXNlFEb2xrREl5Rk5NcTNzNEJnY3hIWnBLSlhBaExxTTU0WXM3aXY2SWhHZjgyeERfMUsxX3hLLW1SRHEwX2F2ME42Z9IBd0FVX3lxTE1PZlBvMkkycUY0b0Z5OUNnYmo2RzZDZFRIQU1KV0xlSEpuWEdZYV9mWmZTRVRCWnZYRWFoMDR0ZTg5SlBjR1pPME84SXVzVkwzMGxfdWxESkw4NTJOWVZvb2JleE5VMTR5QmZHOTNiUzNaS3pEZG1B?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Iran fears US, Israeli strikes on dams amid missile base debate",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-17T15:02:30Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QMXJLMk1VZ2h1VE9zZ3JpdWxlSXhNYk8tMDR0RUJ0MVFmUnJYWDR5UzBBLXlhRHM1WVJRLXZoNzhkNGxBeW1vNDB5X2JYc2x6eDZvS3ViZ0dBNlJYUVRKLWJmemRSbU1NalE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Tracking China’s War of Words Against Japan",
-   "source": "The New York Times",
-   "time": "2026-11-17T15:02:05Z",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0FLYnFpRHlhX2Zab2lSTHFfM2pWcEVHUW8wSXIxaXNxZFpOQjdlNEg3OHViMTEyWFdoZW40NzRHWFcwTzJhSWVRMmlBeWtpZGJTU1pDY2R2QTlRWjBjaW9oUU9Bc3FUcGlzeTFiNHlEQ0NNd1Y5djdCTnJFWDJ3Y3hOQWE1U2J0SEJadzh3?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "JD Vance blasts ‘neo-conservatives’ who are criticizing him over Iran War | RISING",
-   "source": "The Hill",
-   "time": "2026-11-17T14:56:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUl9MbF9MZ2tua3NlWWthV2s1TzNCd21EdnNpV1AwX3VVMGRXOGNveDF4enVjZDZXcUlhRmx5WmdtSGZtOGhDdUd4RzZhSG53Q3NQVmVqbkRxWVBiQzliWTJCVndXMV9yLTVwSmt2bFU0MU9aMW5HNHl4SXNvYjZQRzhfRDBFZ3hZMXZwdnh1eVg3YTlwWUsxUjk5RlZSMzVVeWlKemxTNU5IVlRBRGJ2NHQ0ZEo?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russian lawmakers look to boost penalties for war-related offences",
-   "source": "Reuters",
-   "time": "2026-11-17T14:53:59Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM0VOTGxmNFgzN292X2Ytb1l3QXR1dDgxakR4bHFRalk0UDEwNS1uSVRybWFFUnJJQXFXRVJGVkJvcURHQUNmNGl5dWJqQVhwMzhKbEdCTUFIVENOY0RNSkpYa29JNlZodE93UlM3dzVxc2NiV1l5LWZLUzhmMWxURHVnX296THB3WmNCcEh5a25DODAza3dKdW1id0hBQmpUbUV3?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
