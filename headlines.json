@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T07:28:10Z",
+ "generatedAt": "2026-11-17T07:56:32Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -67,7 +67,7 @@
   "bbc_world": {
    "http": 200,
    "items": 21,
-   "kept": 2
+   "kept": 3
   },
   "aljazeera": {
    "http": 200,
@@ -80,18 +80,19 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 34,
-   "kept": 12
+   "http": 429,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   "gn_fed": {
    "http": 200,
-   "items": 37,
+   "items": 36,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 16,
+   "items": 17,
    "kept": 12
   },
   "gn_war": {
@@ -112,14 +113,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "gn_cbgold": {
-   "http": 429,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 429"
+   "http": 200,
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -127,6 +127,52 @@
   }
  },
  "items": [
+  {
+   "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
+   "source": "BBC",
+   "time": "2026-11-17T07:55:32Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "WTI falls to near $84.00 as rising Middle East exports fuel supply surplus expectations",
+   "source": "FXStreet",
+   "time": "2026-11-17T07:48:05Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUxhVk5EMV9BSVdtTzZKUzFFMm1TWXVyamRLMHRMSERVZzh1Ulk1SFBHTzQ5UHhRaUxtZmxpdjU3UXJlVjNaVFluZzBkUG9RX3JTUnF4UmF3dWptQ0VJdU4tbHRfaUNLdkwtVkM4MkYtdlo3XzBqTW1sQ3BDQm9tQjZCSzJuWkJYTnlsZ2ZlSGRIVDVCR2Ffa1c1UzdWMTV6eDdwR2N3RnY2cl9La004bXdOZkt4MTVGUmkyZWdUWkgtY2VYZUJV?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Pete Hegseth Accused of War Crimes and ‘Murder’ by Incoming Democrat Who Vows Probe: Prediction Markets A",
+   "source": "Benzinga",
+   "time": "2026-11-17T07:33:49Z",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVjZ1TGNPMXA2N0FCOHp2NGVSbG5pNUo1TWxjMkRjOXVFV1VQSTV1QVZid19uUU5Zd25QNUVic0JBMU5wMHktUEQxQ1Zqb0N5RTlUVDdMTHhrV1JRQndVbFRQQlpfV2FNSHA4RnBGUk0wMDE3N3pabVRlR0kycGE3QldoTXEta3Jnc1RvQzJLbnpPMXN0NFExQTU2ZmtIdkw2bG9xYWZKUHJTdUNHQmFJamZDZ25hX045Q28xZlJuZ08tTGRrZkI3TnYwRTMtX1RvOENDMDhZUkRTNXdRaGRHOGVlZWRGTGpXRmJVLV9KTVNKYVllU0ZjR1E4TENybmt6RHZwSzF2c0ZsQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Treasury Yields Little Changed as Investors Await U.S. Retail Sales, Fed Speakers",
+   "source": "marketscreener.com",
+   "time": "2026-11-17T07:25:41Z",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeWF3OGREeXZ5U2dDTzhBeWtqUjBzNUVGTnhBb0V0dmlhVXFraGpZQW93U0V1bTZxcEx2UHJqWHgyMzA0WWlPbU84LUVTQS1pRTVHbE9kTkFPQVRRMGVpQ0VHbWZfYWFUSno2TDZaTUhxZUxjeVJ1SmE0Y2lsR3pRU0ZoV05YMnJMVThGek9zZG0tdEdoNlFMNUpnS3VrTVRZUmM2YWdIWlY0MHl3dXE4bHZNb2x0QlFXWXZTRmNUMGFKbkFyY0ZQU0lYN28?oc=5",
+   "tags": [
+    "FED",
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "UK unemployment falls to 4.6%, beats forecast; payrolls, vacancies drop",
+   "source": "Investing.com",
+   "time": "2026-11-17T07:22:09Z",
+   "link": "https://www.investing.com/news/economic-indicators/uk-unemployment-falls-to-46-beats-forecast-payrolls-vacancies-drop-5031844",
+   "tags": [
+    "JOBS"
+   ]
+  },
   {
    "title": "Putin’s War on Ukraine Is Ravaging a Generation of Russian Men",
    "source": "Bloomberg.com",
@@ -221,6 +267,24 @@
    ]
   },
   {
+   "title": "Gold Faces Fresh Selling Pressure as $3,838 Support Comes Into Focus",
+   "source": "Investing.com",
+   "time": "2026-11-17T06:24:00Z",
+   "link": "https://www.investing.com/analysis/gold-faces-fresh-selling-pressure-as-3838-support-comes-into-focus-200691710",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Great Gold Trap of 2026: How Wall Street Sold a $6,000 Dream to Retail Investors",
+   "source": "Investing.com",
+   "time": "2026-11-17T06:17:00Z",
+   "link": "https://www.investing.com/analysis/great-gold-trap-of-2026-how-wall-street-sold-a-6000-dream-to-retail-investors-200691709",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Palestine Weekly: Israel’s political reshuffle as the occupation grinds on",
    "source": "Al Jazeera",
    "time": "2026-11-17T06:06:58Z",
@@ -304,6 +368,15 @@
    ]
   },
   {
+   "title": "The Gold Correction: Square of 9, Cycle Dates and the Road Back to $4,000",
+   "source": "Investing.com",
+   "time": "2026-11-17T05:29:00Z",
+   "link": "https://www.investing.com/analysis/the-gold-correction-square-of-9-cycle-dates-and-the-road-back-to-4000-200691704",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Archaeologists uncover sections of medieval church in war-torn Sudan",
    "source": "Reuters",
    "time": "2026-11-17T05:23:20Z",
@@ -360,6 +433,15 @@
    ]
   },
   {
+   "title": "Gold Struggling for a Bid",
+   "source": "Investing.com",
+   "time": "2026-11-17T04:55:00Z",
+   "link": "https://www.investing.com/analysis/gold-struggling-for-a-bid-200691699",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "investingLive Asia-Pacific market news: RBA minutes lean hawkish",
    "source": "ForexLive",
    "time": "2026-11-17T04:51:02Z",
@@ -411,6 +493,16 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON21FeERFWnp5bDMyMUljcVlaeHlITzJ0ZGxFc3JNbHFvWEY1ZEJvdDhHd0xoZTNBTVFUWnVhZkJfYm0xOEk1eC1HQU9FajVGaUpJei1UcmZsNDB6N01NWGRYV3huUlVWNVdnR21rbzU0Mlo3RFdBMFF3MGFzRUVYZk1XNjBTX1lPTjdFc3pDMG9qcm1kX0xrSTdVN1lCM0tVQlRzdGRkY1NDcFNrT01ldHhLckg?oc=5",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "Canada, China Agree Further Tariff Cuts: PM Carney At APEC",
+   "source": "Barron's",
+   "time": "2026-11-17T04:11:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVlc0RlVmNnRsNUZSTlZLUG04VjZTa1JlTkdabEJTMDBLVGZ5M3R1ZW5ZdUxfV3VyRGNOUUNINDVFSTBnVFljMG9Wc2tnNFQ1UXZjOFpmMnRtS01PV1VhTFF4N3FUbnFoa0VDejBQSGY0a2lqMjFQcjlZejlIU0hIVUdVV3BXbjVkM1NaMnR0RXlfc3ZVV084cmx3?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
    ]
   },
   {
@@ -580,6 +672,7 @@
    "time": "2026-11-17T02:05:05Z",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQlVRTTNYdTdhR1ZXcHZxT1RxNEp0TnBKNHRIcjN4dWdMV0JiQ05aOFdUUjRGQjFkLVNYYzJMbG80TmRtVEs2blI1MEJpdHJYNThBa19SSnB2WmtIM1AybGNxUjZkeFo1U1hzUTBDbTJwNWVyZTYwZlN5eDJ0dzFCZzRTMGhIRWZRd3ZIaGRfWUtEdnowaFZDOQ?oc=5",
    "tags": [
+    "CENTRAL_BANK_GOLD",
     "CHINA",
     "GOLD"
    ]
@@ -591,99 +684,6 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU2dIZ2ZRa3JsM3Fhcl9rbDlvaTlwMTMzY3ZKWGRwR0tvX28yZ0FZdENjOWctSmNEaGh3d0gxS3plbGk1VHd2MUl2SXFfTFpuZk5NeVhWWnppNmZUYkR3QTdsWXNZWUx0aHFzVmQwYUV0MTdrODZqeW4zNERYTk9idk5MXzVNZUxvTmNNMmF5MUpVQ3VsaFBUWGF1ZjFBUk1PNUt1T19fYm5hVXA4NFhzOWN1LXdBaWlSSHhpZ1N1ZDZpLUlEWmIwQWpPRExzLXF6?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Gold ticks up but lingers near more than one-year low on Fed hike bets",
-   "source": "Reuters",
-   "time": "2026-11-17T01:47:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGd6c05RMXpCQzBvWjhLZlZ6cjc4OUZ0cjZaSWxzZk9leV9WbG1EVmhoVlJfTHZZRFkxZml4Rll3TXd6SGc0dmtiSHFsYkVQWThZdkpxb3dGQkhpSkgyVC1HQlV5WkZQaHU4N3B2b2RELWdDaGpZLWtmbHo2cllMNE9tN29pYnJGM1Z4eFJ6bmNQdHJFX0lNTHZtV0x4MlNhT284LThTc1hTY2xlcEEta0wwNjg?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Precious metals break to new 52-week lows as us dollar reaches new 19-month high",
-   "source": "Kitco",
-   "time": "2026-11-17T01:47:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU2Q4Umg3MHpwRlFERzN5SW9RSWRpZTY0VlpQc2RmTnhEN094MVNvclhtZ0lVUmlYXzVDNFFoV3hxM1Jfb2V0c08xYUZJdjMyQzhuWDFXMlQ4NXptRkxTVkRuNW5DSlljbGRzNEk0SlZoU3FMSDFyRU0zU0J3RldKSnc0OXhvZk5pOF9ZS2NISFhjVDNFeDBWMDBoNDJ2ZGRBX29HVFhvQkw3T29IaGVHZ3Q5TjZnUQ?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "‘No daylight’: Vance denies rift with Trump over Iran war, vows no ‘forever war’",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-17T01:25:58Z",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yM3J2bU1Lc0lNc3Z1OXlKck4zYlk5Z1VCNGd5cFJxRm1mX2tCNmtFVGlBRE0tLUE0amlXdVo4YTFDcUMzM1dWXzJNc2R5S3h0YmJMdWdFU3UzdURRWWVOWVFWYlQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "WSJ: US imposes chip export licenses on 5 countries to close China’s data center loophole",
-   "source": "ForexLive",
-   "time": "2026-11-17T01:23:52Z",
-   "link": "https://investinglive.com/news/wsj-us-imposes-chip-export-licenses-on-5-countries-to-close-china-s-data-center-loophole/",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Silver Leads Gold to New 2026 Lows: What the Ratio Says",
-   "source": "FXEmpire",
-   "time": "2026-11-17T01:13:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMW1rNWJLc3pBMGZtYnZoZVlPUXplXzJ5NDk2VU5IZFNheTAwWFNmaVJmX21sRGFOUVBLMmtNTjNBUk5CUndtcmNuV2ZGQWFTTDdNVUJWSWVCS284MlVROU12M3ZNNEtQblNLdEN1MklSbzh6ODcyWkpJWE9rb2ZFZlp1SUN0ajd0YldRaTJhLWFQZXoxLU5PbXJsNnFDS3BUUTcyNDVTbHM?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Critics blame U.S.-Iran war for crackdown on clerics in Bahrain",
-   "source": "The Washington Post",
-   "time": "2026-11-17T00:57:08Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGZSVXl2N1RfOW5qeHlqdkNTTkJ4cG95WFE3VHRucTlxQnZfUUlhWDlrMGJFS2NxYmJGLXhtQ09lZ2JPeW1sVmJYdTZRWGJxTVVDbE8yclFESTFmcUZjajUtQ2tFOTRtdEFrN0c3SGk3RE5LaWJScEFtMmFHWlZ0aUdfNU5hdWhWaGZqTFJPSXRnNXZZN3d3anlfTVdiYmNsWnc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil price tanks, gold still trades lower",
-   "source": "Mining.com.au",
-   "time": "2026-11-17T00:56:15Z",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RMFpTVVlVeTRNMVpBdFJrcnhsN1R1bVRJbGh3SXVhblNocFgxWGtsSHpuRm5Jb053dmdTaVVMaHMyb1UxMzZqc2IyempZeGl2TmstTXUyNmlCbElWX054bVFRWWplM0ZHLUJWVlBXYw?oc=5",
-   "tags": [
-    "OIL",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold hits 1-year low near $3,830, on course for worst year since 2015 as yields bite",
-   "source": "investingLive",
-   "time": "2026-11-17T00:53:07Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTDA0OU50ckJaTUhjZlc2OVRkbGs4a3h2WmpraGtQSklfX2tjaTUwX3hSNHhudXhDQ0RWNWpmRUlEd0RFUTAtRmlWN1Q3NEUxbFBkcG0yM2VoUkRna05KWDJwVzhOYXRLdEczanVyS2JVWFJjTVVOQXFPQWJJZnp3QmFBRnB2ejNXck82YmVmSElVX0JiMEhkQzJyOU5sakdCVTRQS0luVlRqN0NOZUxzSmlIa1lYYjY5bjNhcXZ3?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
-   "source": "Al Jazeera",
-   "time": "2026-11-17T00:52:46Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3dzRnQ3eTJYSU9YS3AxRFl6NzhfNDZ4OXdTcmoyd1NXOFlJT015eHM3bGFjWnhSWWZJckIzRkFkUEJzQi1icEZ2TnpRRlZTM2l6X1k1Q2RFUk5fWmJyNFByRzhlbURlU0dlQURpVEFUODEzYmY2U1hjR0pWSlVKaXBUel8wMXlzUF83alBWRjVVRUNwc0lSSGNGYW1ZUWlQM2RUYk44QdIBrAFBVV95cUxOUU9INmQ3TGVsSWozY2hQNWxuTlluaXREeTR6OHljdUJrOFNHc0hielJqMUFnUXZXeWxsUkRrMFh6eWFOVGJmVGYyMVVGOFNnUnFsdGlMNG1nME40T1AyVjFjcVQ5d2hHUHJhZjIyVHlLck9USHY1c19CU1gtelYyTFNfY05lUEdVWm42MjN2azNPMmJkOHlDdkkzb3pPc05OcS0yb0FndGVpY2Qt?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Singapore non-oil exports jump 79.8% in October",
-   "source": "Investing.com",
-   "time": "2026-11-17T00:52:28Z",
-   "link": "https://www.investing.com/news/economic-indicators/singapore-nonoil-exports-jump-798-in-october-5031377",
-   "tags": [
-    "OIL"
    ]
   }
  ],
