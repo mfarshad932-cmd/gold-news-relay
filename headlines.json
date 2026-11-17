@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T22:06:56Z",
+ "generatedAt": "2026-11-17T22:35:17Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,12 +52,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 0
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 3
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 30,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 29,
+   "items": 31,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,18 +96,18 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 28,
+   "items": 24,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 16,
+   "items": 17,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 11,
+   "kept": 11
   },
   "gn_oil": {
    "http": 200,
@@ -126,6 +126,26 @@
  },
  "items": [
   {
+   "title": "Gold (XAU/USD) Price Forecast: Bearish Pressure Builds Below Key Resistance",
+   "source": "FXEmpire",
+   "time": "2026-11-17T22:26:42Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTjVFclpBTzNDQ2haQl9ENEV2SzRVeHUxM2FCYXJVdnVyTll2WHg4UHpuYnc2U2RJS0NqLUotRTRRZ1F2UUJHNlhXUE9Eai1ZYVU3U2FFM3B6aVJHQVZTcG9iZ0VuNGtUQXFIU3h6aGdrdHNaQkZqZHk5VWpBME9oRGYzdGFWa2NnaVN4Sk52dW9TN1FTU0VpM2pxdUVRUGN3cm5BOXV3WEVEbDQxdnh4WEFSSW1HUENWZklmdXk3NjFLU1E?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound As Dollar Pulls Back",
+   "source": "FXEmpire",
+   "time": "2026-11-17T22:24:38Z",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZmE4UFNib3YyZ1hJa3Z1VU5EcnZsUThiWGdpV1I0U1VkMFBLdWg4cXRuVlZ1azMyQVV3SGR0NVp5a0dXQXNCT2FWUG5DeUM1X2NsSFMxWW9oQmQzbEFaX0VJR2VKUkl4YXNzUVR1VGFxQmpDNV9ESS1pWGxpOGs2OUc5UXZvcWM5NUo2LWZVdFp2aE11U25wcWwtUkhfU2hRTHJPZXpZNmtQTmhDSjI0bHhQWVNYeEc2MHJWdy1ILUpjR1VYX0NzLU5DNFdacGRYM0E?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
    "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
    "source": "Al Jazeera",
    "time": "2026-11-17T22:01:54Z",
@@ -141,6 +161,24 @@
    "link": "https://www.investing.com/news/economic-indicators/api-crude-stock-report-shows-lowerthanexpected-inventory-build-93CH-5034153",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "Fed Issues Possible Bank Run Warning As Outages Fuel Wild Nov. 17 ‘Blackout’ Theories",
+   "source": "Forbes",
+   "time": "2026-11-17T21:48:36Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd0NUeDU1bWpQU29ERzhtS3dzSXBJYkxGekYtaHpUT0ZzQzdpV1VjVFItZV9xM19zUm9pNXRaTHRwT2ZZcU1tTUlFa0hkYmxGNHdBRXpSQ2dLeGFIMTR1QllabEVGQ2NzQ1pEc2lYblVKa1plVjZTeGgyamQyLUVFa0N6WGNnYWo2YVZWbE9KckZkcW1kMWVTdjBmSTE2d3VpMXBJWm5B?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Hung Cao grilled by Senate over suicide attempts, Iran war: 5 takeaways",
+   "source": "The Hill",
+   "time": "2026-11-17T21:44:00Z",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHpqSm9TaDk0aEc1ZXFrdUJsbUN5YjlUVDdkTEdiNy1qSzFjNTFseFRTbHdqbDFsSTZfalJXZDZtaUUyUGJZWEhxbmJ5b05DVFNKNzBiRC1TNjhOTjdWMHdRZE1aNDdnNU5LOTRoVnJhNXNHYVJpTjVIQkhQMkhBWExqa9IBiAFBVV95cUxOMlF0U1RDdnNvcl82aDZVQXBsZktLSjJ4MGFQcUFib1NuOXUySGZLY3B3SDZEZ1RLcVFWWE5KRVpKT0ZlaGFaSGhGM2RKWmNkUzR5bURZOU9oR1FMREZIQlRDMDdOTDRsWjR1M2s4Wm1QdDJxRlNON1dYeXZyVFZWSEFUNUlOQ28z?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -234,6 +272,13 @@
    ]
   },
   {
+   "title": "Treasury Rates Today: November 17, 2026",
+   "source": "Forbes",
+   "time": "2026-11-17T21:18:59Z",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yck9yOUFWR0FpdE9oMU00NGZWMVVrb25MOWxBWmRuU3Ztc1FvdGJZZlBMXzZwUnpPQVp5Mlg4UzFwX2VZTG00SUFUa3p0VVoxRFZOY2M3V2N3R1ZlLXhCdVVpWHNKd2s?oc=5",
+   "tags": []
+  },
+  {
    "title": "Australia Imposes New Sanctions Targeting West Bank Settlement Expansion",
    "source": "Haaretz",
    "time": "2026-11-17T21:17:00Z",
@@ -270,15 +315,6 @@
    "tags": [
     "TARIFF",
     "CHINA"
-   ]
-  },
-  {
-   "title": "‘A Possible Stampede’—Fed Issues Serious Bank Run Warning As Outages Fuel Wild November 17 ‘Blackout’ Theories",
-   "source": "Forbes",
-   "time": "2026-11-17T20:38:24Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd0NUeDU1bWpQU29ERzhtS3dzSXBJYkxGekYtaHpUT0ZzQzdpV1VjVFItZV9xM19zUm9pNXRaTHRwT2ZZcU1tTUlFa0hkYmxGNHdBRXpSQ2dLeGFIMTR1QllabEVGQ2NzQ1pEc2lYblVKa1plVjZTeGgyamQyLUVFa0N6WGNnYWo2YVZWbE9KckZkcW1kMWVTdjBmSTE2d3VpMXBJWm5B?oc=5",
-   "tags": [
-    "FED"
    ]
   },
   {
@@ -338,7 +374,7 @@
    ]
   },
   {
-   "title": "US 10-Year Yield Set for Historic Run Above 5% on Fed Rate Cycle",
+   "title": "US 10-Year Yield Set for Historic Run Above 5% on Fed Cycle",
    "source": "Bloomberg.com",
    "time": "2026-11-17T20:14:31Z",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTJ3VWxtanltWDFIdk5Jc2U5eFdaUFp6aG1PVVkwVVNpNVZxRFRvQllPcjYwVGh1OVlpVG9pQ1QyX283NldTUnBMa0NxRllJd1E3UDVacklIdTh0MmxsQnc2LTRfaGFFR092OHZZNnUwNEFGLVBFaFF5M0paNFo5d0t4YUIyUDNOVnV5UVVyRTlJRmN6azkxTmNjR251eU8yaDVmX2tJdGpFNkdIekVRbndoMEo?oc=5",
@@ -571,16 +607,6 @@
    ]
   },
   {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound As Dollar Pulls Back",
-   "source": "FXEmpire",
-   "time": "2026-11-17T18:31:54Z",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZmE4UFNib3YyZ1hJa3Z1VU5EcnZsUThiWGdpV1I0U1VkMFBLdWg4cXRuVlZ1azMyQVV3SGR0NVp5a0dXQXNCT2FWUG5DeUM1X2NsSFMxWW9oQmQzbEFaX0VJR2VKUkl4YXNzUVR1VGFxQmpDNV9ESS1pWGxpOGs2OUc5UXZvcWM5NUo2LWZVdFp2aE11U25wcWwtUkhfU2hRTHJPZXpZNmtQTmhDSjI0bHhQWVNYeEc2MHJWdy1ILUpjR1VYX0NzLU5DNFdacGRYM0E?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
    "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
    "source": "ECB",
    "time": "2026-11-17T18:30:00Z",
@@ -629,6 +655,15 @@
    ]
   },
   {
+   "title": "Fed governor Lisa Cook will skip White House tribunal on her firing",
+   "source": "Axios",
+   "time": "2026-11-17T17:57:58Z",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNSllCRnJyVnJnNEgyWVM5N1JlcThfSEZpMGprbEh3djBjTV9mS0tKN1pMSkNrUDJRdzlYdENfVXZfeW1mWENuQmJSRlpjY1BlUnJqb19jNGdwRzg5MWdaV0RKekY2c0MxeE01X01kY3BKRFlV?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "U.S. Treasury, Eurozone Bond Yields Edge Lower",
    "source": "WSJ",
    "time": "2026-11-17T17:56:00Z",
@@ -644,43 +679,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zVnN2cmYyU2xHS0dXNTRtcTBTa2k0Skc5a1lBRnFjZklHdXZRZEdCZHVYZnlibndfTHllRFM1V2R3Ri1mZEZOdDV4LThpS0xhWWFxYjlRQnBhZ0dtcG9SeFJVVjVnX3pxZzJUMEl2bl96eGlx?oc=5",
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "title": "Trump on Iran's reported DC dirty bomb plan: 'We take it very seriously'",
-   "source": "CNBC",
-   "time": "2026-11-17T17:49:45Z",
-   "link": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "UK sanctions eight Israeli settlement companies, Tzav 9 over West Bank violence, Gaza aid blockade",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-17T17:49:38Z",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92LWdBX2hoOFVxTVp4WHJFOWFDb1V3UFpiNzktZmVMM2xXZ25DcmlTdEhwRkVSZjh6aHdhaWVkcm5LRjE1RmtEU1k4UnJqTUJ6SXc0RENRcHBtYTJZelhF?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Fed governor Lisa Cook will skip White House tribunal on her firing",
-   "source": "Axios",
-   "time": "2026-11-17T17:48:45Z",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNSllCRnJyVnJnNEgyWVM5N1JlcThfSEZpMGprbEh3djBjTV9mS0tKN1pMSkNrUDJRdzlYdENfVXZfeW1mWENuQmJSRlpjY1BlUnJqb19jNGdwRzg5MWdaV0RKekY2c0MxeE01X01kY3BKRFlV?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Opinion | America can’t build missiles fast enough. Competition can fix that.",
-   "source": "The Washington Post",
-   "time": "2026-11-17T17:47:53Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdXZsWXBLLXZGSzRfLWoxVGJlZGdIUzNYdDZSSnRVZXdpZnRQN3Q1a3RETG11bkdqc1BIUnU0a3ZLcDUzZFRmYVVDejF1WW0zMTFQSzdiaXpXcDVYTzVuYVBIRWxweXg4Nmp1aXdmSk41T0w3X0dXZ1hid3owV2ljSGlFRHBPSHU4WW5ua3JXd1ZnOUJtTjNzQlU3YkxrN2RmclpycGpRVE0wMXZfN2FMeQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
