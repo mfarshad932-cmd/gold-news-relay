@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-11-17T08:24:59Z",
+ "generatedAt": "2026-11-17T08:53:20Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 0
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -72,7 +73,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +82,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 35,
+   "items": 33,
    "kept": 12
   },
   "gn_fed": {
@@ -91,7 +92,7 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 16,
+   "items": 17,
    "kept": 12
   },
   "gn_war": {
@@ -106,7 +107,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 14,
+   "items": 15,
    "kept": 12
   },
   "gn_oil": {
@@ -126,6 +127,60 @@
  },
  "items": [
   {
+   "title": "Gold News: Spot Gold Tests Long-Term Value Zone After More-Than-Year Low",
+   "source": "FXEmpire",
+   "time": "2026-11-17T08:42:12Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa19ENjlKRWVmZnR1ZVB2YkdpcVRKUTZ6SDREY2FWa1gzUGpCNU13cGRtUVNaSWVPNU1QU3RRMFU0RWdCWUZVTHlHQ1FlTktlWklVN0JmbkItQzBWZW1hZ3phcVowZzlnOUhDMURpS2l6MGlrMXhSb1JNcF9RSkVNdTgyNkxWSDhhbVRBZmRMRHI0NWZrT3VyNXhGRjJGb29CYlQwTGlxTV9ua3FOdzFZSGUyeC1ENW1QNGlXU09GZw?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Vance calls out ‘neoconservatives’ over Iran war",
+   "source": "Al Jazeera",
+   "time": "2026-11-17T08:37:30Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWMxODJsaWJrazQtWnpjZ0RvV2RFM1QwZW9iSzliX1VubWFHa2ROd3NxaDk0TEpGaUxkZHAya0V0RXhib0xkVXhSQjBqdzQtRkJKZUZVQmFtMkpzaGMydjFBMEpaU3Y4SGVkR3hmRjR1X1ZudE91eVYtOGpfVUxpS0E4LUJ1NWlLd1FSZVVQbjVpekFMZUtlcDRUeGF5MTTSAaQBQVVfeXFMTjFoRUx0OGpzdzdnYUNDQ1FBV2Z1NmkyNUozeXpBVFFjRkdyVFNJWUV0YkFOS3RSU1ItZFRuT0g0UzgxX2lUb3JzYm9FNGo5emsxaTFYUGVpRC1SOTBPVnlCaG9LS0tiekZ2SjVteTJIRzhQVmxOVXl2XzFrWnRVcXgtRTQyb0JSc3BwZkItOTBLUkdsNmNfTXB0SHpmdDc2QWI1amw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Drones account for nearly three-quarters of Sudan war deaths this year, UN says",
+   "source": "Reuters",
+   "time": "2026-11-17T08:27:44Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUzVVZlh0cUIxWFBYU2NGYnZWdHZmc1RLY3oyNm51NTlQQjJEMFlVclNsN2tWM0FjMmRycVdsMXQ2WW4xeUJZYVR1V3lac2ZBTmJ4RWcxYXVxaFlGV1dNbXM3OG5FOXhheVdiM0dzUVktZnJZZkQxNUU4ZWZuM0lWV2JyZXVKUXZtcDl2RHVaTVRtRGN1ZFdPckdPQ0dZSFI1SDVfVGlPbWhYa0o0alNCNFdsSDgtUkhxakRWZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Treasury yields are broadly flat as investors await retail sales data",
+   "source": "CNBC",
+   "time": "2026-11-17T08:23:51Z",
+   "link": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Adam Schiff Slams Corporate Executives Over Unreturned Trump Tariff Money: ‘Companies Got Tariff Refunds",
+   "source": "Benzinga",
+   "time": "2026-11-17T08:23:48Z",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNd1gxRnktYm1jbS1hMk50RjE3VXJFbXBkZHROaTRfMGNvQmNpZmxpYUJqVGhHTFVIakRYamxCTXl2Yng0ZVFQdnE2S2QxWFY2QmZpSVU5R1pHMlU4dXpmbjNlTzFRM1ZuVW1kYWt1QkRMM09iSURlaU5YZTRZc3BNY0p3V1hMTDFQZVI2aUVSTEQycVFSTEs4N2ZQczJMcXRPd1g1T0tZZXk1MFdZU3Jmd1FoWUJjeUp0aDlHb2xaWHR1WTFHcjROUVNjZDR4ejJKUUhfMjFyZy1hQXFaZUtqM1lYbTRJWGVSWHEzWkJBd0Q3amZmaGdYbzVPcjFDQjQ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
+   "source": "Al Jazeera",
+   "time": "2026-11-17T08:17:38Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVzBfcTd0dGtoRnJmelJGSUhydE9IdTBfejEwYVhrdFB3OG1qMkV2VEVPXzJXQkdZR3h6LVNfM1JEMWxBTTFPV2JPb01Vc1BFV2lQbThfTmVfUS1ReWNYZ2I2WTF5LWhGRm8zOTYtTXhoUmlrcjVxTkJHbjZ3TXdLQjE0VnhONnUtUnNjdGlESmR5dDgtNHBJa1h6RXFCYjdQMFNCcjJXTkpkZV9HbHNHVXBlWdIBuAFBVV95cUxOYTA4MG44OTJSdkxmODdjLTJ2SnhtQXRoNzZodTdDRC1lRUtXeGFTNzl3dGQ1UFpkTWQxRUxkQVY1d24tNXhMdGUydlpCWkZpdnRpTnpOSXVrbHBjSDRmZ3drUF93Rm0zRzJDRFhpWW5XaG8tNlNwc0FGSHBTVERvVjNyZS1FV016MkRJdW1VSHUyWXlEcHRsMnNabm9nRml1ejJ1czhMb2Rlbm5nQ2cwbHNzSmZHa0xB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Iran fears US, Israeli strikes on dams amid missile base debate",
    "source": "The Jerusalem Post",
    "time": "2026-11-17T08:16:48Z",
@@ -135,19 +190,19 @@
    ]
   },
   {
-   "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
-   "source": "Al Jazeera",
-   "time": "2026-11-17T08:14:42Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVzBfcTd0dGtoRnJmelJGSUhydE9IdTBfejEwYVhrdFB3OG1qMkV2VEVPXzJXQkdZR3h6LVNfM1JEMWxBTTFPV2JPb01Vc1BFV2lQbThfTmVfUS1ReWNYZ2I2WTF5LWhGRm8zOTYtTXhoUmlrcjVxTkJHbjZ3TXdLQjE0VnhONnUtUnNjdGlESmR5dDgtNHBJa1h6RXFCYjdQMFNCcjJXTkpkZV9HbHNHVXBlWdIBuAFBVV95cUxOYTA4MG44OTJSdkxmODdjLTJ2SnhtQXRoNzZodTdDRC1lRUtXeGFTNzl3dGQ1UFpkTWQxRUxkQVY1d24tNXhMdGUydlpCWkZpdnRpTnpOSXVrbHBjSDRmZ3drUF93Rm0zRzJDRFhpWW5XaG8tNlNwc0FGSHBTVERvVjNyZS1FV016MkRJdW1VSHUyWXlEcHRsMnNabm9nRml1ejJ1czhMb2Rlbm5nQ2cwbHNzSmZHa0xB?oc=5",
+   "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
+   "source": "BBC",
+   "time": "2026-11-17T08:06:32Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
-   "source": "BBC",
-   "time": "2026-11-17T08:06:32Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+   "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+   "source": "The Guardian",
+   "time": "2026-11-17T08:03:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZnpDT3A5XzM5SjRRMVJLODg1UkRubkgxUGtUX19XNmVQVUFIek12d1RweGpzUGRScGFhRTFfZzN0SlZQQUZUZUJnQlI5cUI3OTRnWVVvZTg0RHpVNzhJUzRwbGFtX1RHeWs2b1hueUt5OTlfaXNkUUdCM0wyenFCU3dzREhmLVpCdzk5VjViVkF1bEVZZTdGZ3pZeFJFMFhfdmdVeFNzWQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -181,7 +236,7 @@
    ]
   },
   {
-   "title": "Bahrain thwarts drone attack; Iran claims targeting US military radar",
+   "title": "Bahrain thwarts drone attack; Iran claims targeting US radar",
    "source": "Al Jazeera",
    "time": "2026-11-17T07:35:54Z",
    "link": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss",
@@ -476,7 +531,7 @@
    ]
   },
   {
-   "title": "Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs",
+   "title": "The Long Arm of Inflation Has Reached Our Feet",
    "source": "The New York Times",
    "time": "2026-11-17T05:00:09Z",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcG9GVC1uM0VFSVNrTm1pT1VnY2o5MnJ0Tm5Cb2dtUEVSam1uN0pvcUtxUGYtUm9XZ3UtNkxmUDBsR001VHVDcFlkaWIyNmdHQVBWVHNodzJta3lXRm9iUldWNW13bjJsVEhiMjhNcVJTY2tWRkFKQkpjcThqWExfb1NBZlk?oc=5",
@@ -623,61 +678,6 @@
    "source": "WSJ",
    "time": "2026-11-17T03:14:06Z",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUDhvemt4SjR6V3JHb2ZjeVdLRzVlTVZvRk5FdDZFeGxFdmZ5TVVrcHRKMlZWbk1kY0Q2aHRlWDNSYU15enQ1enhtaU1rSnVPemZDYVJGcWdPLVJBR0ZuV1hWa0pqVFpHd1FELW5ERmh2RjRuZk9hUjZfajI3d3F2MU5Kbi1OcDBaRnBNQ2JuaXdWeXlvYXRidXYzUkF4Q1Y2QVlFb01JV3hESUJua1VqcGZnYkQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine war briefing: Crimea bridge attacked again after Russia strikes major Kyiv bridges",
-   "source": "The Guardian",
-   "time": "2026-11-17T03:14:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTmg0aDByRUM0SnpqOVZlZmZncVpLOW5zZGl0SG9xemhVbVNhcndfNGNCZHhxdVdRZGZ1U3NiN2JfWTBMcGhHQnlCa2lGRWxpNUxlcmxENzFteHJiZzhzV3ZrZ0tkZ2tUVG1ZOEpDS1M4UnJFQ01PdVYwM3RUTWE5Ykh0WHhua3J6Skx5RWVEcHVzVDlMRmRESksxNlNPSS01RFRyZUNWM0wyQjFoYlVkbjNzM1VUZHJJUGhJSlZLbzczWmFDRXJTV2JfQlZaSnps?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
-   "source": "Al Jazeera",
-   "time": "2026-11-17T03:13:23Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSWFGd3ktYlF2emZzeXI2bTVaemZMNW1WRl9meXBBVHJIWkgxVGh6Vml3RGkxS0lJeWtaNXhfQmQzN21IZnJVZ0FEcUZZb0dkenJOdk9tZjRoNkNUalJQdXpXaVhhZkp4MVF2Mkx5RE5LVlI4TmI2ZWpPM3ozTURQMVQ1ZjhocjZWUTh4YS16N1ItMmR5NmFJZm9ZZkZIOV9TdkdtdzhVRExMc0xkZGhRMnpDNNIBuAFBVV95cUxQNm5ZRWY1TnA3YjlNWkpRemlWX184cFFZdlBwMzROcFVpY2VFaVZIaTAzMERONmF5U1ZRT1hDeHNTWk94dk1qWXk5ZzM0c2dPdjhFRWxKc3pfTlUwcWtzZ3UzcnE0dktxSjBrX0JJSDdMV1h2cXJSc1hEYURDNDNBRVZ1dmtJNGpUVzlGQ0h3RlAya3hVSFVoanhZLWxZRS16eDYydW9uNXVWbWFnSHREZWJyMXlUazdP?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Bitcoin Bears Target $60K As Nvidia Earnings, Anthropic IPO, Bond Yields And Fed Hike Odds Weigh On Crypto Recovery",
-   "source": "TradingView",
-   "time": "2026-11-17T03:06:19Z",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQcjVUU0tRMjFyNWJpLVlhbWd5Z2hjTWZNbEstOE5LTXNzak1sX3JtbGZ2LVVfWnpCRUoxdTdkaFp6TmFFNm1ZRHFiYUw0M0lBME5PMUh2UmY4RS1saFZZOE95V3M3RlN6S2JneEZjYzh2NEMzb1laczA0LTExOUNsMnhGZEZTZ3R2bUR5OXNGNHN3WnZ3SEJtRU44Z2thR3VFS05nd1BFUzJfVldiMmgtTEFibTVBNkZ6M2wxdXVRaXM3NzcyMWdaOGZPc09BVjQ0dDFXLWEzczB1MGdFZDVjbXhybjZuaHVlWE1LVTNGQ3dUX3Y2OEdCRGh2c0c4WnlJZGQ4?oc=5",
-   "tags": [
-    "FED",
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Vance says there’s ‘no daylight’ between him and Trump on the war in Iran",
-   "source": "NBC News",
-   "time": "2026-11-17T02:59:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUDRDNGxfNWRYMTJBNF9hczlPU2hyb3NtZnY3OFE0aWllZDRFdkRMWWtDazN4S3hZMXFqZFpveERPTnVleHFIZm9kN1dqWlpPcEVXdkwzZXJOb2t6SkNmVi03N3B0ei1HTThqNEwteHNiVVhMSTI5bmh6QjROczBiVUtKRFpHRXFsZklGUjNCOHFPeEJY?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
-   "source": "Al Jazeera",
-   "time": "2026-11-17T02:52:56Z",
-   "link": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Manzanar War Relocation Center honors Japanese-Americans",
-   "source": "CBS News",
-   "time": "2026-11-17T02:49:00Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbHRXcG9tX0N6LWFLR0RwN3lOeGJDQXVabjh2ekFKbEVGYXJuV01WYk93c0dJQlg0S1VKZHkwMUxYY1cwMnN3RnZ6c2RPVnFtUXNWQTc0WVpucURfS0JyRFkzcEV2cHEwM2U3Q1QtenVzOFhKRmxiYW9rUC00NEJ3dmIwQzlpOTVOX2U0SmdCb3YzM09VNFRMVGRiTC1GN28?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
