@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T01:47:06Z",
+ "generatedAt": "2026-11-17T02:15:35Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 6
   },
   "investing_commodities": {
    "http": 200,
@@ -80,9 +80,10 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 33,
-   "kept": 12
+   "http": 429,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   "gn_fed": {
    "http": 200,
@@ -101,24 +102,23 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 15,
+   "items": 14,
    "kept": 12
   },
   "gn_yields": {
-   "http": 429,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 429"
+   "http": 200,
+   "items": 15,
+   "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -127,12 +127,69 @@
  },
  "items": [
   {
+   "title": "Gold prices are falling: China is buying anyway",
+   "source": "FXStreet",
+   "time": "2026-11-17T02:05:05Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQlVRTTNYdTdhR1ZXcHZxT1RxNEp0TnBKNHRIcjN4dWdMV0JiQ05aOFdUUjRGQjFkLVNYYzJMbG80TmRtVEs2blI1MEJpdHJYNThBa19SSnB2WmtIM1AybGNxUjZkeFo1U1hzUTBDbTJwNWVyZTYwZlN5eDJ0dzFCZzRTMGhIRWZRd3ZIaGRfWUtEdnowaFZDOQ?oc=5",
+   "tags": [
+    "CENTRAL_BANK_GOLD",
+    "CHINA",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Trump’s Advisers Are at War Over China Ahead of Xi Summit",
+   "source": "WSJ",
+   "time": "2026-11-17T02:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZFJvYjNhcXVuMWNTSWZCS3M3eDMyOGVmVHVtLUZDckRsSkZobWdBUUxielFrSEVNUVBLM05qLTlWb09ESHVUaXRjQmRPN1VsdmI1LV9uRTFmMTJrNHdQTzNQQWJ2RG9Lc204ODEwSTJGWmJpNTZoZV9nTk9XUGhaVXZULVM0Q1NYYjdENWUwc1ZNb1FoYnJteFB0ZG9LUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Trump to kick off Asia trip with Quad talks in Manila ahead of China visit",
+   "source": "Investing.com",
+   "time": "2026-11-17T01:42:33Z",
+   "link": "https://www.investing.com/news/economic-indicators/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit-5031428",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "WSJ: US imposes chip export licenses on 5 countries to close China’s data center loophole",
+   "source": "ForexLive",
+   "time": "2026-11-17T01:23:52Z",
+   "link": "https://investinglive.com/news/wsj-us-imposes-chip-export-licenses-on-5-countries-to-close-china-s-data-center-loophole/",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Critics blame U.S.-Iran war for crackdown on clerics in Bahrain",
+   "source": "The Washington Post",
+   "time": "2026-11-17T00:57:08Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGZSVXl2N1RfOW5qeHlqdkNTTkJ4cG95WFE3VHRucTlxQnZfUUlhWDlrMGJFS2NxYmJGLXhtQ09lZ2JPeW1sVmJYdTZRWGJxTVVDbE8yclFESTFmcUZjajUtQ2tFOTRtdEFrN0c3SGk3RE5LaWJScEFtMmFHWlZ0aUdfNU5hdWhWaGZqTFJPSXRnNXZZN3d3anlfTVdiYmNsWnc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Oil price tanks, gold still trades lower",
    "source": "Mining.com.au",
    "time": "2026-11-17T00:56:15Z",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RMFpTVVlVeTRNMVpBdFJrcnhsN1R1bVRJbGh3SXVhblNocFgxWGtsSHpuRm5Jb053dmdTaVVMaHMyb1UxMzZqc2IyempZeGl2TmstTXUyNmlCbElWX054bVFRWWplM0ZHLUJWVlBXYw?oc=5",
    "tags": [
     "OIL",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold hits 1-year low near $3,830, on course for worst year since 2015 as yields bite",
+   "source": "investingLive",
+   "time": "2026-11-17T00:53:07Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTDA0OU50ckJaTUhjZlc2OVRkbGs4a3h2WmpraGtQSklfX2tjaTUwX3hSNHhudXhDQ0RWNWpmRUlEd0RFUTAtRmlWN1Q3NEUxbFBkcG0yM2VoUkRna05KWDJwVzhOYXRLdEczanVyS2JVWFJjTVVOQXFPQWJJZnp3QmFBRnB2ejNXck82YmVmSElVX0JiMEhkQzJyOU5sakdCVTRQS0luVlRqN0NOZUxzSmlIa1lYYjY5bjNhcXZ3?oc=5",
+   "tags": [
     "GOLD"
    ]
   },
@@ -173,15 +230,6 @@
    ]
   },
   {
-   "title": "Critics blame U.S.-Iran war for crackdown on clerics in Bahrain",
-   "source": "The Washington Post",
-   "time": "2026-11-17T00:30:19Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGZSVXl2N1RfOW5qeHlqdkNTTkJ4cG95WFE3VHRucTlxQnZfUUlhWDlrMGJFS2NxYmJGLXhtQ09lZ2JPeW1sVmJYdTZRWGJxTVVDbE8yclFESTFmcUZjajUtQ2tFOTRtdEFrN0c3SGk3RE5LaWJScEFtMmFHWlZ0aUdfNU5hdWhWaGZqTFJPSXRnNXZZN3d3anlfTVdiYmNsWnc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Fed’s Hammack Reiterates Preference for Small, Incremental Hikes",
    "source": "Bloomberg.com",
    "time": "2026-11-17T00:13:00Z",
@@ -200,7 +248,7 @@
    ]
   },
   {
-   "title": "Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz",
+   "title": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
    "source": "Al Jazeera",
    "time": "2026-11-16T23:57:49Z",
    "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
@@ -629,50 +677,6 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQalVtanBZQXdITFlZZU5WeHB3SzhZWHFNZEdubXMxd1VsX2dsVmVmU0lLRXJtekh6cGZXMHpOWFk1XzZfSHFnOUdLSGM2b1ZtbzFhNE5OWkpTREV4cmd1QUMzbVZvbld4Q1hZSEZLc2J2MDFOcmRMejlNcFJLcWpGZUZyX1o3ZEZLQXhOaTlVb1JsUmp2TGM2OExVSy1qeFRkUHln?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Third US aircraft carrier arrives in the Middle East as Trump keeps options open in the Iran war",
-   "source": "AP News",
-   "time": "2026-11-16T19:32:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmZiWEcxLU9Xck9JR2h3VDIwa1VETmRCam5zQm1BWmhNcGhZS0pBdi1BZGRZLXhZT3VmUG5wYld2N1gydV8teDVFc0UtNVljakJ5Q1JNRkRUb0dqRDRfX0p4QVBGdkZRaWd3Y1J6aFdZWlZhVGt5LWxzcG9mRHVPYnBXZFFrSXVqYXkxd081YzdlNTN1T05yVTgwZUIzSUhQQWc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold price dip presents an opportunity for long-term investors",
-   "source": "FXStreet",
-   "time": "2026-11-16T19:31:33Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUlZNFRxOWVYUHAtc0ozNGlYT1lWM3Zfb2wzWG9PdTVIZExkUTBVV0dWaGFpMTFRYXdLNktWTVBNN255LWZReEduV1h5c0FBR2hxa3dBRTUwdHVibWUyV1hGcHZ1dkRWOXdQMUFZWEpJY1JYeEpLWnJ6bV9JZ3RNTF9JckV5N0JJWEwtZWRiSldNSWRXUzFZNjItSjBUVF84VGZxem1rVjVMUjhFSFE?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Inflation is back - so why is gold falling?",
-   "source": "Kitco",
-   "time": "2026-11-16T19:27:14Z",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ01FckYwQ21PN282MW10eWlUV1Q4aUlPekdkbVRmMHVVSmNKNGx6NDhhMXp5MmRzbEF0WmRQY3BlMzJwbmdST0VXdWN6am1kbUJuaUNtenJvUHBpXzJrX2pFSmsxdVJIZWFtb2Z6M2t1VzVLQjFxdlVrcEhyOGZ2OQ?oc=5",
-   "tags": [
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "DigitalOcean, SoundHound AI, Oracle, MongoDB, and Fastly shares are falling, what you need to know",
-   "source": "TradingView",
-   "time": "2026-11-16T19:25:39Z",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdjhTMmVxcTZXTFdwckR2aHdKR3pNem5EUHZHR0JSQWJvaUo5NzYtaU5wWlB1UGZZLVRHeVFlc0lqcW5KMnRWQWhCMmlmeDZQbFo5cXpkNEJUQzQ5LWo4T0k5d05FU0ZsVHBzWDUxclFjN2ZmdmpYR0dpTHhWaGdSU2dSdS1zNWh4Nk1UOHRNZGgzbU1PZzkxeDNxMDJyVGo3M3NUUnNPdDlRRGFYU2VlY2hZWjdkSDVRcmtXaFBfbWV0a0Q4NnJuU0xHa1NwU2M2bVg4ejNkeFhQUldPaFV1bENGc3VVNmllbWc?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Khanna proposes $1,700 Iran war refund checks for Americans",
-   "source": "The Hill",
-   "time": "2026-11-16T19:22:00Z",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YOFZiSkhYLS1nTXJxdGJsOXhPbzVCMXZjZGZXZm5zZVpweDQwT0dxMlJPblZQblAzcWJJZm9zVlJHNUh4RmNJMzFTWnA5UXk0Q0xIZjlTS08wWEFZS1l6MmdFN0M2dmRjNUswNjVqY3RpMHpieGNEMtIBfkFVX3lxTE5yX1oweW9OWjJlVU9iWWg1SV95WkMxSXFBQmVnTl9TOG1uc05xb1k2YzlReHQ4bWV4dVZ5dldLZzQyc29nbVVkUU9SSzF6UEFKdElsZ2dZUVk4ZDdPaHNKZWtuaWJndWFCMExYR3NJZlV3WDJ0eVNEancxZGRzdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
