@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T05:34:23Z",
+ "generatedAt": "2026-11-17T06:02:44Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -67,7 +67,7 @@
   "bbc_world": {
    "http": 200,
    "items": 21,
-   "kept": 3
+   "kept": 1
   },
   "aljazeera": {
    "http": 200,
@@ -86,19 +86,18 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 34,
+   "items": 35,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 12,
+   "items": 13,
    "kept": 12
   },
   "gn_war": {
-   "http": 429,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 429"
+   "http": 200,
+   "items": 36,
+   "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
@@ -107,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 12,
+   "items": 13,
    "kept": 12
   },
   "gn_oil": {
@@ -127,16 +126,63 @@
  },
  "items": [
   {
-   "title": "Third U.S. carrier arrives in the Gulf, stoking concerns about renewed conflicts with Iran",
+   "title": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
    "source": "CNBC",
-   "time": "2026-11-17T05:29:11Z",
+   "time": "2026-11-17T05:51:13Z",
    "link": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "The Long Arm of Inflation Has Reached Our Feet",
+   "title": "Xi Jinping and Canada’s Mark Carney slash tariffs as China courts middle powers",
+   "source": "Financial Times",
+   "time": "2026-11-17T05:45:28Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV20yaTdxeVd6WmktN2g1TXpaZi1QOTZCY1htajhhbjk1TXdwZmc2cWd4cXNDaFN1bTE2SkZKN3FiSHIyMzU5RmdUTndoc0Zmak9UcXAxeDJkTDNzVlNuYTdjMUQ4YmFTZzFRWHJjRlRUWnRNbUJXMWg5bGFCOG1lM05feVI?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Morning Bid: Markets shaken, not stirred, as US-China tech war heats up",
+   "source": "Reuters",
+   "time": "2026-11-17T05:33:00Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GRG5BVmUxVXppTDIxS2lSYjc2T2FqUzYxLVB5WGFwNnBfNzduYk1waU9NQzFrWmU2c3dvZGYtM183UmUzQk5JOUxYX3luZGRwbkkwbnpPYWdNcmpKWVJlTWF5V21ObkV2UTQ5aTRtRjA3aEwtckxnTWdNYUZpdm8?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Archaeologists uncover sections of medieval church in war-torn Sudan",
+   "source": "Reuters",
+   "time": "2026-11-17T05:23:20Z",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91R3J3VnUtbnNPOGczMFpQbGhwODEwbnZ5bjdtSi1nOE5BYU9BTmhhajh6cFk1eGtfWXhRNk56VXBGbFEtUExnaE5WNjY2S0JuVVNmSUNPQ1JreEdVNmctZ2t3bFFKTzA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "North Korea is 'honing' its ballistic missiles in Ukraine with dozens of attacks a month, Zelenskyy says",
+   "source": "Business Insider",
+   "time": "2026-11-17T05:23:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTThIT2sxWThBMElCMnV0b3gtN25MOVAtdzY0T1FSalVqcUdNSVBJN2ZqWWdiTWVkMVNqZDFCbnFlVjN4aDkzMnVWdl90bVdxbVI0RHNFaVotTDdqMllJUjdibkUxNll1aFotV2ZEbDZjdllGRFFESFByRVN5ZHNvNFd5WTM5aGN0TnJ0U1NPNWEwNUc1R2hjMkhyQnE1SnhCU3RwRGJpMzRLdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "The secret war between al-Qaeda and Islamic State",
+   "source": "Financial Times",
+   "time": "2026-11-17T05:00:46Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaGdKTmNxbU9uVzZSRDNaSmd0dkMtSDJVNmROUlUxZkxMZi1qQmFGazVUWmdNU252VjNfRmNPUWF4LVZBaGVXQjNocXlrMjlPaEdOdXpDN2RuZ0Zsck9pODJZWU02OVp2VkQ0QU1BWVQ1bk4zSmNhcU5XVFdQek5Wdldvd3Q?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs",
    "source": "The New York Times",
    "time": "2026-11-17T05:00:08Z",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcG9GVC1uM0VFSVNrTm1pT1VnY2o5MnJ0Tm5Cb2dtUEVSam1uN0pvcUtxUGYtUm9XZ3UtNkxmUDBsR001VHVDcFlkaWIyNmdHQVBWVHNodzJta3lXRm9iUldWNW13bjJsVEhiMjhNcVJTY2tWRkFKQkpjcThqWExfb1NBZlk?oc=5",
@@ -173,12 +219,39 @@
    ]
   },
   {
+   "title": "Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran",
+   "source": "CNBC",
+   "time": "2026-11-17T04:34:00Z",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QemdsV2FWUHQ2dVJCOXJBN21EUUIyazhEMjFaLVNickZFalVGS0JXNkpnWGZTeUdmd09CSjdUWnR2M0l3Y1FMTEI3ZlgydTRpY1NhUVdTSFNlYW9URWQwb1ZncTNIRm1BZVJRRk5qQVHSAXZBVV95cUxNeExueUJISjdkcldnanBSTUFFUU9MMXY2MzNjZkc1TzFjWGw3dmJnYnRKWUpCT19DRm56UUFLOVRueFoxVXFOWXgzVVJQUm0wUzJGZnFzWWtwZURDbFdPZEFURUlrSENDV1FmWXF2MUhBXzNUQnh3?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "WTI Forecast: Vulnerable as supply surplus and bearish techs hit",
    "source": "FXStreet",
    "time": "2026-11-17T04:32:20Z",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON3F6VmxDb0hlX2ZDRFdxVkFiaDM5Ym5YaUYtTDkzbkw4eVJ4bGdqQXJpdUhYcTFDQVBVZHg5M3ZucExLX1dFTk12VXBpMUxuZWx3T3N5a2dFbDBzU245WDNyR09tWG4wa0RqaFBLX0NUTXR2WlZXZS1ZWEc4V0o1UU1qRHFEVkZuajRCazljTk9WZnlFTUVWR3MyWjZ1T1BxcURRYVNEbU1kVm5hYnVGbFN4VWx4WG5JNGwwQ3BB?oc=5",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "African Economies to End Year With High Rates as Fed Risks Loom",
+   "source": "Bloomberg.com",
+   "time": "2026-11-17T04:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON21FeERFWnp5bDMyMUljcVlaeHlITzJ0ZGxFc3JNbHFvWEY1ZEJvdDhHd0xoZTNBTVFUWnVhZkJfYm0xOEk1eC1HQU9FajVGaUpJei1UcmZsNDB6N01NWGRYV3huUlVWNVdnR21rbzU0Mlo3RFdBMFF3MGFzRUVYZk1XNjBTX1lPTjdFc3pDMG9qcm1kX0xrSTdVN1lCM0tVQlRzdGRkY1NDcFNrT01ldHhLckg?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "‘Give Every American Family a $1700 Check’: Ro Khanna Says Compensate American Families for Iran War",
+   "source": "Benzinga",
+   "time": "2026-11-17T04:08:40Z",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUU5zUHJiZmdNUzQ1cXJCSm9SMTlxWnd2M1hsSnZVUDdFSzRNNjZDci03V0piOExTSGRwVTh3c0h6RTdyajhzV093TXc3UTd6aTVaS3NjWENXM1RPMzlzQTJ2Mm5EanhRLVlVbnItd3ZQRm5KSDk2NWFQeWtnZVI5dU1wWVI3RzFjQnJOV1BWTi1CS25iSk9XRnlOdVN0d081ZEN6WVUtY1RHS3lTTkZzV2pWOEdtTUMzUExkM3h4U2J2OFFJRWxyYWh5b1FiMUFZdnBfeTJZMnhVT19JcmhNWElqOFc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -557,6 +630,15 @@
    ]
   },
   {
+   "title": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
+   "source": "BBC",
+   "time": "2026-11-16T23:07:20Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
    "title": "Central bank buying to support higher gold price in 2027: Goldman",
    "source": "Mining.com.au",
    "time": "2026-11-16T23:04:58Z",
@@ -601,87 +683,6 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXF4YXRLb0todXdxN2NrSUZITVg2U2hRUWVsU2M5bGNTVkxTOTJiZEtLWjIwSE1RdV81azItMzYwbDlSYmtrT0pvMzlISmM0YXY5dUNMNElxeENMZ2tWYmlEUHRkVThJRDdFNTRFa3lxOW5UdDFhMGhYZUlYRXJEYlBxRHZDZDVNQVdUREhwUV9oNlRtR1E3b1JMRG9OOGkzUGhVR1JoY2tBN2o4Y3c4?oc=5",
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "title": "Opinion | Why the Ukraine War Is Working for Putin",
-   "source": "WSJ",
-   "time": "2026-11-16T22:38:00Z",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbXFQZkNUaEZXZlVWY3JuX05XSWpzOHFtQ3hrZE92WFdqYTg3ZVhFejJwT01BbUlmZ25xMmg2MmQtSE53NER1OUluOHR5cllRNTFjZjRQR1BLV3ZmaHMwNUtqRjdtbG5xRXdoMWM4Q3F1TkpZQWRFNl91d0g0OXVPRU9rVQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The Left’s War on Gig",
-   "source": "The Washington Post",
-   "time": "2026-11-16T22:35:43Z",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkOEVfWDI4eldBbS0yaEJIVE9Ld01FclFrbUVJSjRzYlE4QTdKdTgybmlEcnJWSW5sRFpwdUJodm9DT1ZFemFjZkl5bk9UcUc2QWhNVk5wdHpZczNxSkRyeURhLUprX1ZwWVhjSDN4Z18?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed Chair Kevin Warsh Pits AI Benefits Against Economic Disruption",
-   "source": "TradingView",
-   "time": "2026-11-16T22:33:30Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZHNiQ2dhYTdFaWQ1emxKamRQdEoxOG9JVUFXRW8tcVJTY3Ewa1dGV2tSNVotMWVnenowN25wSnVZQlBMUWxmcmNSdVNzRTBVVjRfWG9yWVYtUGZraENOYmoxbmFPbEFJcHVma1ZKMFdfS2FaZGF4TFZCTzk2OUZRSkpubGNWZW45eXpUZ25rU3JMRVR6UWdrTWhPT00tSk1TMXFvaW5fVEVsdEh4bmE4dXdhcTd3QmhHZTRicW5iakdtcDRPN0E?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Fed warns of growing financial risks from AI boom",
-   "source": "Axios",
-   "time": "2026-11-16T22:19:24Z",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qSlctTWtmQ2hMM1dOZTJHRE8yOUQySGtxTnc0X202UVFHYlEtUVE2LXBDMWJmd19JTmpmaHZQNUZIMUFXWEZGOURxVG44TDBLQlFVMWhiTVJNY284Y3dVcVNHbFdaX1g1OWk1SA?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
-   "source": "CNBC",
-   "time": "2026-11-16T22:19:02Z",
-   "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Treasury Selloff Accelerates, European Bonds Follow Suit",
-   "source": "WSJ",
-   "time": "2026-11-16T22:13:13Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0VSTVFyMVRIR1EtM1J2eWU0MW45b3BmWVMwTWRwbmQzcmhvVlBuTEFQNWowTEI2SUd2cngzbmZ3VXMwYTVxc2NaSTg0WnZ4VndDaHVGNWZGcFcxN1NOUWsyMHd2RTJVNjJqZ2JiQy1XRDNpM2VGRFpiX1RVaTBnM01FSTVLUXJOYkFSRnhKaFBhNzZfUUZsZGJTWlBZbjRxV29UR0k5NVJ5U3ZVdXpYZ2NLeVlKb2ZC?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Fed's Warsh sees risk of stock bust if AI boom disappoints",
-   "source": "Axios",
-   "time": "2026-11-16T22:04:04Z",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IWXhxT19LOGhnTFRsRDZXVGRrR0dDWEctMkhndGtmMEpLMEdDTWhVVzFxRkRSX0ZqbnNVSXJnNm1tWmxkdjQ5Z1BXQmZtVlVNamdjWW02dWV4Q1hwX3ZZak8tRjE5N0tM?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "OPEC’s Oil Production Nears Prewar Levels on Saudi Rebound",
-   "source": "WSJ",
-   "time": "2026-11-16T21:55:09Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkZ3Y3c3WE51TWt2RUVhZUdxbk5PM3FCdjNERW94S3NEckxuUVBidkxiRHdHUnl6RGxLZnIwZjh1UTlmak1tOW50MmZWemFEQlY5UUs3Z2pISzVodWhiRjFZSHN0T2xLTkVIV3A0Y0xUbnJOVy1ZRDJYWlNPbGJ6M1VHa2VLN2xMRDlJdkpESnZLZzFoWHc2WFg0eE43dzZsTGlEU1JVQjBkUQ?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
-   "source": "CNBC",
-   "time": "2026-11-16T21:51:43Z",
-   "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
-   "tags": [
-    "CHINA"
    ]
   }
  ],
