@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T14:04:53Z",
+ "generatedAt": "2026-11-17T14:33:15Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -16,7 +16,7 @@
   "fed_speeches": {
    "http": 200,
    "items": 15,
-   "kept": 2
+   "kept": 3
   },
   "ecb_press": {
    "http": 200,
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 10
   },
   "investing_commodities": {
    "http": 200,
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 4
+   "kept": 3
   },
   "marketwatch": {
    "http": 200,
@@ -57,12 +57,12 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 9
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
    "items": 55,
-   "kept": 1
+   "kept": 2
   },
   "bbc_world": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -81,17 +81,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 30,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 34,
+   "items": 35,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 21,
+   "items": 22,
    "kept": 12
   },
   "gn_war": {
@@ -101,7 +101,7 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 17,
+   "items": 18,
    "kept": 12
   },
   "gn_yields": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,21 +126,85 @@
  },
  "items": [
   {
+   "title": "Lisa Cook lawyer signals Fed gov won't attend Trump committee's hearing",
+   "source": "CNBC",
+   "time": "2026-11-17T14:30:38Z",
+   "link": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "How new US chip restrictions on South East Asia will hit China",
+   "source": "BBC",
+   "time": "2026-11-17T14:25:45Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Deutsche Bank shares sink as whistleblowers reveal Epstein payments, Trump tax leak, Russia bets",
+   "source": "CNBC",
+   "time": "2026-11-17T14:24:10Z",
+   "link": "https://www.cnbc.com/2026/11/17/deutsche-bank-leak-epstein-trump.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed's Waller says central bank will work with private sector on digital finance",
+   "source": "Reuters",
+   "time": "2026-11-17T14:16:24Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY0RlX21iSzVMUVlZeGJSTW9tcnU0UDRIZ2RaNVowNWI0NVFLZG0zS2V2eVNuQnZQa0UtX2d5TFRwRkdQbnE2SEs3NzRINFYxb2xIMzBRMjZMc2ItLVFhaGQtQ21tMmtTR1NuYVd1ZjlITWRqOWNGcmVydG1pVmh6NnJDTlNibjU1MHI5RmVWY1owemVHdW5rQlF3MHZ0SzlObG9xNzFtcEtENmNrZGRQclAycjRuc2JmREVqUUc0NldqTjBRMEww?oc=5",
+   "tags": [
+    "FED",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
+   "source": "Al Jazeera",
+   "time": "2026-11-17T14:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ01PYUtvQVNTSXN4TlA0UHQ2dXpseHotOWpBTG5zN0IzMF9iS1dRSEloQkJvRU5NdFNqd0NHYVRJbDlXRVU5RWpfOVRyZDNYakYyOG1FbU8zQjFxUjcxbjcxOUU1ZW5ZMHFIb2c0QjRaUTczd0J5dXdiODJNSnh3NE8xMEFRQVdDUkl6QlR4bGN0NWxxLUF4TTJTVFpDOGpHc3g5UnFUcVhoeTBONl9TOWMwT1hUQdIBuwFBVV95cUxQbEhfbUFIQW84dGhMaDFVVG03d1VqZkx0RGpDRnFEc05sMnhDc1ZNWk56bXBlRlFnUTNDc2FyVnJEalhCY2MteWdoVVpGMVdtOWY0NzNvbTZ3REdCaWVNOUZiMUZrRGUtUnVJV2hMTUtTeTloSG1fUlphTDFqMDN3cFRmQXNMNUJaTG5nMVR6cjEtcFF3RzVVczhTWG5nZVYzWUQ4SU9DelBuakZ0ZC1UemhqRnZObG9SV1hJ?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Waller, Considerations at the Intersection of Payments and Tokenized Markets",
+   "source": "Federal Reserve",
+   "time": "2026-11-17T14:10:00Z",
+   "link": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Settler leaders denounce UK sanctions, call measures ‘antisemitic’",
+   "source": "The Times of Israel",
+   "time": "2026-11-17T14:03:02Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSlhrcmR0OUFES29ERElQZUdiemRYMVEzeTFWb3dJT2hra3FXU1g0RUlMcmhiNlQ4U1dyNmJCSFpMMlVPSG40WUM5Vmd1M3d5MnpTelYwSW1LUE9jLVFZN290Q081ZFNwMXE5b1NOeloyczZxOU5UM1A3QUI0T0tIVUluV21iSkZrXzVEcndsRkdON2NZeUxXczRvaW43ekIxVTljY3FFaU8wZ25TSGc?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Gold Price Forecast: $3,850 Support at Risk as Real Yields Bite",
+   "source": "FXEmpire",
+   "time": "2026-11-17T14:01:18Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZDVOLW9tNTZXVGNVR2tXYUdVaFpHaVJiR3Y5b0Jmejd1NFFkdWZ6bHFNdS1SZzZDejIxNUZ4QzZ4Y2lnNmNGR0cxdVJSdE1Ec0Rta2k5NDRyZkhCTjkwTjJRWmY0YzJxOE51N1pNemRUNG9VTlVFSzl2N3RpYnlBZlFuQ21mUzh4OXVJSmFneXB6U0g0Q0NLNUFTQ0o5aFduN2tmbmRZNTV5TzdsVUhGNw?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Tuesday, November 17. Russia’s War On Ukraine: News And Information From Ukraine",
    "source": "Forbes",
    "time": "2026-11-17T14:01:02Z",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOWFOa2k3bWtheFlTZTZoUGR0cjY4R2h0bU94ZWNYcjV0VTE4Q1BHM2VDSmdpYWpxbGU0S09lQUFSMUFDeUVFMUtseXpQMUdMRWdiWDdISmJnWk1fZndXMVdDOC1uazJYSm9IMVpVSVdfZTdtQkcwNmtqZkhTTlRYb3hUVXJhczlYUzVMWlZmRFQtMHJQMkZJNTZ0V3Z6bzY1WGpBSHl1VFhwSzNjN0JEa3BhZ0F4enkwWDRWc2I5Z2NKUEpkVEk1cw?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Lisa Cook lawyer signals Fed gov won't attend Trump committee's hearing",
-   "source": "CNBC",
-   "time": "2026-11-17T13:54:56Z",
-   "link": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
-   "tags": [
-    "FED"
    ]
   },
   {
@@ -153,6 +217,15 @@
    ]
   },
   {
+   "title": "Trump meets regional allies in Manila ahead of China visit",
+   "source": "Investing.com",
+   "time": "2026-11-17T13:48:50Z",
+   "link": "https://www.investing.com/news/economic-indicators/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit-5031428",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
    "title": "Trump reaches deal with Thailand to remove tariffs on goods imported from the US",
    "source": "Armenpress",
    "time": "2026-11-17T13:47:00Z",
@@ -162,21 +235,21 @@
    ]
   },
   {
+   "title": "Dubai Airport Traffic Falls But Shows Signs of Recovery Amid Iran War",
+   "source": "WSJ",
+   "time": "2026-11-17T13:44:30Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVd5WHpYWkp6em1GSHRQSlBIang3ZmVGckJDNFladmRUa1I0dDlOeEdVakxzcXVFOGx4M2Z2ZXo3Zk9NZ1FhaUYzU1Ffd0NPdTg4aVoxM3Y1WXliUklPMXBPeDBNMHZ6X25pdjd5RkF0RThERVQ1Q0tneU5PdkJEU09KWHZ6TkZwWDR0YmFOVnh1azJ0dXR0Tko1dlhBUDJkZnJ1Xy01eGxBQnhzTDdFQXpEY0Y4OVk?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank",
    "source": "CNBC",
    "time": "2026-11-17T13:44:02Z",
    "link": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump meets regional allies in Manila ahead of China visit",
-   "source": "Investing.com",
-   "time": "2026-11-17T13:42:28Z",
-   "link": "https://www.investing.com/news/economic-indicators/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit-5031428",
-   "tags": [
-    "CHINA"
    ]
   },
   {
@@ -224,6 +297,15 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZkg4SlE3cVZnUFZiQVdMdE9nYTBsbC1mUzFLNzc1LUJPTC1QTHVjSENaRXU4ZDZlQWlfVVFOLUdYbW1RVDRBTlhyVE1FdmpOOUducE02ZV9TazRmYlAyMG41QjdLTW5UTHhKa1ZZYjlxSGZLbFl0ZmIwVkN6WDlKa09xWWVVRC1JdHVSaFBqX2xTTkc4YUl3V1hoWERCVHhxdWx1OUlJSWdNYnlsbUFZa1VHclNIQWtjZnF2Tw?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "US October import price index +1.1% vs +0.7% expected",
+   "source": "ForexLive",
+   "time": "2026-11-17T13:30:05Z",
+   "link": "https://investinglive.com/news/us-october-import-price-index-1-1-vs-0-7-expected/",
+   "tags": [
+    "INFLATION"
    ]
   },
   {
@@ -432,6 +514,15 @@
    ]
   },
   {
+   "title": "OPEC’s Oil Production Nears Prewar Levels on Saudi Rebound",
+   "source": "WSJ",
+   "time": "2026-11-17T12:07:08Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkZ3Y3c3WE51TWt2RUVhZUdxbk5PM3FCdjNERW94S3NEckxuUVBidkxiRHdHUnl6RGxLZnIwZjh1UTlmak1tOW50MmZWemFEQlY5UUs3Z2pISzVodWhiRjFZSHN0T2xLTkVIV3A0Y0xUbnJOVy1ZRDJYWlNPbGJ6M1VHa2VLN2xMRDlJdkpESnZLZzFoWHc2WFg0eE43dzZsTGlEU1JVQjBkUQ?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
    "title": "Hungary receives extension for importing Russian oil supplies without risk of US sanctions",
    "source": "TradingView",
    "time": "2026-11-17T11:47:13Z",
@@ -523,7 +614,7 @@
    ]
   },
   {
-   "title": "The NFL’s Salute to Service honors the military – and leaves out the realities of war | Lee Escobedo",
+   "title": "The NFL’s Salute to Service honors the military – and leaves out the realities of war",
    "source": "The Guardian",
    "time": "2026-11-17T11:05:00Z",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdUJ5bHhpQTdjeXlqcjRFdVRsX3Bpa0p6Y3pJWmNoaHVMbHp4RmRZd0xWT3pNbmNMMnBZVmZJdElhZ3o2eTNKdng2NmwxN1ZzS1E2eVBOcW1XY1M1WTdwTFdOQlpzTkJfYW5KTVFIY3o0aHN0ZzczLWlFMWtPYjR2MW9NTnFXOVpIQzIyYzhLa3Nsa0VlRlVNR0FXN0VUaXBSNV9ZOFlhSFk4NFJ4RlJhdDNqNTdlZGJXQWpjdEpIT24tMlZFYzVr?oc=5",
@@ -587,99 +678,6 @@
    "tags": [
     "TARIFF",
     "CHINA"
-   ]
-  },
-  {
-   "title": "China and Canada agree fresh tariff reliefs as thaw continues with Xi-Carney meeting",
-   "source": "South China Morning Post",
-   "time": "2026-11-17T10:54:25Z",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT3kzUWRmRmdlTWN6WDcycVBfNEdpcVpxcC1Zd210M080RG1WTlB1VzU0VjFnbnRjdlBfazBMdTM4c0ZyWDZRTzZ2dHA4WkVKVHQ2SlE4MlRpTkVsYk5jd1Y3cjRnVC10T2tLRG1uNHRiUF9wX29Vay15aUZ5Y3FPb0Y0UnNEc3RPRTR0YTVLbTRadHRPZmh2emxEZlZKUGY2c2VPSG1vMEZ5VkY3b011WlhnS0U2MmFudHpLR0NoeDhvLU5CcGV1VzJPU3NsR3ltOFR1eUdBeFVpZkF6dzZ2cw?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Who is behind Habibi UK, an X account that targeted critics of Israel?",
-   "source": "Al Jazeera",
-   "time": "2026-11-17T10:53:42Z",
-   "link": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Before AI goes to real war, make it fight a fake one",
-   "source": "The Economist",
-   "time": "2026-11-17T10:49:23Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVhUNkQtZlIzUzhXbmRZVDZDTWRnMEw2THNGMVBIbktsMHBqWE4xcFdtWVMzc3VlLWtuTG9TYkZ0My1QVVZER0o1SDFCZ1l1M2x6OWNkXzNvQnI5X3YxSjZHX0VhQVU5S1Y1VTZVN0NtZU5yQ3NTTTlyT2sxeUgyT2U1OFA3M0hkY1VSM2pPZjRzNzV6YTNXaTNSdzJfWXh5SEtrQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "EU Commission sees euro zone inflation above 3% through 2027 as energy shock bites",
-   "source": "Investing.com",
-   "time": "2026-11-17T10:48:09Z",
-   "link": "https://www.investing.com/news/economic-indicators/eu-commission-sees-euro-zone-inflation-above-3-through-2027-as-energy-shock-bites-5032144",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Goldman Sees Gold Rising Above $4,600 an Ounce by End-2027 on Central-Bank Buying",
-   "source": "marketscreener.com",
-   "time": "2026-11-17T10:46:05Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUU5XVDJuRFpCRkdGYzVMRy1wLWxPZWRDdFM1Q1hLaWxmb0J1cnV5UXlsRml6Y0cyM1J2U2tfNjJ1dmJyUktpMUlhUndzbjhrWUVRWHZ0NHQxRXlLREpobXNZczUtcU5zMERrai1RbF9PSzYxVFRlQ1pHejdZRkVFcEJkeHFqUmdoXzJqSGUxeThNMHRVV3hXSk5UYUhLRFpCUFBPa3h2SWcwdmpXMFRhN0xveE5Ed245b2JSLVUtSXVFWWVZNm1pV2FtNUdpQQ?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "German Investor Confidence Rises to Highest Level Since Start of Iran War",
-   "source": "WSJ",
-   "time": "2026-11-17T10:46:00Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUDQteVB5SGdEbmFJYktZb3I2UWRsY0JES1M5T0NsdmR3NklIVlhXTzVIeHk1ZFE0N3Z2U2tjQmpwM2UtcjhpaGdiaTdBSTVNSi1IOHhxNjdKSk1XVnBUa1V1eHN4YTBNT0h1NXd3bzYxSmJLbEJLcGo1dUpnSFh6Y3FIS1pzUkJGSVJiQk01RE9aV3ByRDFhZmxzdG9mNzJWZk9LX1BFamtnUlJrMlc5MVIyaVUwN3JjamdZcFREQmxWOGQ5?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
-   "source": "Al Jazeera",
-   "time": "2026-11-17T10:44:59Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVzBfcTd0dGtoRnJmelJGSUhydE9IdTBfejEwYVhrdFB3OG1qMkV2VEVPXzJXQkdZR3h6LVNfM1JEMWxBTTFPV2JPb01Vc1BFV2lQbThfTmVfUS1ReWNYZ2I2WTF5LWhGRm8zOTYtTXhoUmlrcjVxTkJHbjZ3TXdLQjE0VnhONnUtUnNjdGlESmR5dDgtNHBJa1h6RXFCYjdQMFNCcjJXTkpkZV9HbHNHVXBlWdIBuAFBVV95cUxOYTA4MG44OTJSdkxmODdjLTJ2SnhtQXRoNzZodTdDRC1lRUtXeGFTNzl3dGQ1UFpkTWQxRUxkQVY1d24tNXhMdGUydlpCWkZpdnRpTnpOSXVrbHBjSDRmZ3drUF93Rm0zRzJDRFhpWW5XaG8tNlNwc0FGSHBTVERvVjNyZS1FV016MkRJdW1VSHUyWXlEcHRsMnNabm9nRml1ejJ1czhMb2Rlbm5nQ2cwbHNzSmZHa0xB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "German Investor Outlook Jumps to Highest Since Iran War Began",
-   "source": "Bloomberg.com",
-   "time": "2026-11-17T10:26:55Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3hDSGVNalBlS19HdnJlS3ZPR0tvYTJfNjltRVlYMG0za1Q1V0EtWW9qSVNLaXNhRjgxQU5YbGtIUTRQQjBmSlBzb3hKdUREMkJVQzc4azZxbVQyUl9KcDdkenU3cWdqQmtYMkowaG9jUE9kNllJZE9jeTNUS2ZUX0ZWSl9hOHZKbWI5QV9PalpiaDc0cmZqVFF5a0xvd1BDa3RNYmNqVHFHRXY3LUd1eFVn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "UK sanctions West Bank settlement construction companies, activist group that blocks Gaza aid",
-   "source": "The Times of Israel",
-   "time": "2026-11-17T10:23:01Z",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTkFuSE5McWcyOVZ1b0lvNi1jNlJXakgyaFI5YnhyUWE1MlVnS0hzYmNNUDllWldpSWhkUWFnUFN6bzVsbVlQSG9qMC1FdHhDWUFfRF9sYjBrY1I5U3dEMHRuMWVtWDBPTW5xNnYzSlVTX05VZWpkRWFFYWNHbnJqaFBydkEyZXJKb0t1bXVUUThIZjlhY1doWl9oZ3Fwd3A4ZVRjVXk3T29PczVKQ3I3aFl1Mjc2WVhjeWhkTTRvbUFjdm14SGxPblRueS1kQWIxd2FNTg?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "U.K. sanctions eight Israeli firms involved in West Bank settlement construction",
-   "source": "Haaretz",
-   "time": "2026-11-17T10:23:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNaUhjTXRZdVc3TDdpODV3VXJfcGZXdmEtX2ktaFJyV2FPWGpGZlFIaTBLUnZ5cUxiUmp2THFTWVJZNmJ0dlkzQlBBM0M4ZThaODNXMjJmenVoaUY1Vk5FMnFNYmxWenQyZ2FrSGdDSGtpc255UXNqMUJ0SDd5WnJDZkVldElpMW0wRHNtQldYeUNrUFBUVGI2d2tST2hYUUE2a19FT1lBTjBLenVOOXp3cER0bTZjeXJlajcydUltNzFqMUxaUUxpOC1WMy1oN3BFVHAzWnVWYmNPM1NfOWRvTlgwYWltZWNnazM2U0hNZS04NEhsYXhONU95QllDdjFfT3BFY0FUZTY5QUVUODk0Uzl6SXlyNTgyS01R?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   }
  ],
