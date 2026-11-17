@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T15:01:38Z",
+ "generatedAt": "2026-11-17T15:30:00Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 3
+   "kept": 2
   },
   "marketwatch": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -67,12 +67,12 @@
   "bbc_world": {
    "http": 200,
    "items": 21,
-   "kept": 4
+   "kept": 5
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -81,27 +81,27 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 31,
+   "items": 29,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 35,
+   "items": 36,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 23,
+   "items": 22,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 43,
+   "items": 39,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 16,
+   "items": 21,
    "kept": 12
   },
   "gn_yields": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,12 +126,40 @@
  },
  "items": [
   {
+   "title": "US 10-Year Yield Set for Historic Run Above 5% on Fed Rate Cycle",
+   "source": "Bloomberg.com",
+   "time": "2026-11-17T15:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTJ3VWxtanltWDFIdk5Jc2U5eFdaUFp6aG1PVVkwVVNpNVZxRFRvQllPcjYwVGh1OVlpVG9pQ1QyX283NldTUnBMa0NxRllJd1E3UDVacklIdTh0MmxsQnc2LTRfaGFFR092OHZZNnUwNEFGLVBFaFF5M0paNFo5d0t4YUIyUDNOVnV5UVVyRTlJRmN6azkxTmNjR251eU8yaDVmX2tJdGpFNkdIekVRbndoMEo?oc=5",
+   "tags": [
+    "FED",
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Lisa Cook lawyer signals Fed gov won't attend Trump committee's hearing",
    "source": "CNBC",
-   "time": "2026-11-17T14:57:38Z",
+   "time": "2026-11-17T15:03:32Z",
    "link": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "Iran's parliament speaker warns US, Israel against targeting dams amid missile base controversy",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-17T15:02:30Z",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QMXJLMk1VZ2h1VE9zZ3JpdWxlSXhNYk8tMDR0RUJ0MVFmUnJYWDR5UzBBLXlhRHM1WVJRLXZoNzhkNGxBeW1vNDB5X2JYc2x6eDZvS3ViZ0dBNlJYUVRKLWJmemRSbU1NalE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
+   "source": "Al Jazeera",
+   "time": "2026-11-17T14:59:39Z",
+   "link": "https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -162,12 +190,32 @@
    ]
   },
   {
+   "title": "EU sanctions Gaza Now social media outlet, group's founder for financially supporting Hamas",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-17T14:47:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmSG9lWHBRdnNoQ1pfWjFMX2lNRURBWlc5R0tiOWdSOFU0bm9EUTdpdE41R3FwSC1zMDVXVjhpWmVlRmxQcm40Mk0wLUUxLXIxSEg4dWJrN0pYU2ozQXNB?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "Bessent vs Lutnick: Who is winning the China chip debate?",
    "source": "Al Jazeera",
    "time": "2026-11-17T14:46:37Z",
    "link": "https://www.aljazeera.com/economy/2026/11/17/bessent-vs-lutnick-who-is-winning-the-china-chip-debate?traffic_source=rss",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "France Seeks EU Sanctions Over Supermarket Cyberattack Blamed on Iran",
+   "source": "WSJ",
+   "time": "2026-11-17T14:46:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPek9JcnNrYTNEbmlUTmNnTXZIcC16R2RiMzdEcW1helE1RUZPWVlMRC1TQ2QzQXpJMTdNTWMzSkxkMjNIQ1Awa2RXQW05RnphS0gtX1RqMkFoejdfTGZGZXNnRTBkYVNLNnZkLXNlOTljRC15cmJ5V2ZyS3RyR2g4eG5HRW45ZlU4OUlxZ09kdFFqY0lyRzZXbTFXb3dXZ2djNzlDUm5tNW9PQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -198,6 +246,15 @@
    ]
   },
   {
+   "title": "‘Do not build’: UK sanctions 8 Israeli construction companies for building West Bank settlements",
+   "source": "The Times of Israel",
+   "time": "2026-11-17T14:35:12Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObEVDWHBSU1REbnl0MmstS0F0ejN5em05UkgxbjctNmVoWjZZZU1WbHhGbE02OXRWS3RVandocHQwTnpYQkxhRE1jNzFmUXpndF9uam5iYmRJLWVHZU4tajh6cmZnTV96OFJMWEhVbGVrZERJenJUaGhhMHhBVjZVYVJLTVRhVFJZbTc4NGcyb3k0NGladGxwX0FVd2xTdW41dTVhVU5tZ0lsX2RWdGxYMdIBtgFBVV95cUxOeHYya19iX3BIbGYyMUhUVzFwaXljdmxQNi1mQkxSeGk0bjFGZWlSQkV0NkZpR2ozXzJFZmtDZS02V3RaR1k4SVZYYkR2UUkwWmhTcFZ3VjcyMm5hR3dNb0lLZEFuVDI0ODBnOERQeGY0dE0yU0YwLTBmaTV6UXQ3eTFZbDc3NXN0UVlRVzZLR1pqdVl2czJfbnhoMzRGa2hiaVZrcUNld000NjhBdWQ1R1AyaFBtUQ?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "Fed’s Hammack Proposes Principles for Market Interventions",
    "source": "Bloomberg.com",
    "time": "2026-11-17T14:35:00Z",
@@ -222,6 +279,15 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVVpQV1RGU3I2WDlERDVnY3hoNV9OM2l1MFQ1X0M2S2JhSjhLaURNSE9QM1hRNm54cGZWQWZ2SmJ3YUNDa2tTeE85a1ItcVROYnVCZjVXZzZiMXBJNl9POXBuMldxeTdvREd2bWt5b1M3Z2N3VVVrNG1rRlBjSzExVDNXTGVGdzVrSzQ4NmJxOXhLckhmWWJKU0FCMkZrLS1zVG4yMlBWS3plWHZ1cXg4cGU2ZUQ0eTNuSUHSAb8BQVVfeXFMT19INWJrWmdDMHlRNFJBenR6YTE3ME5OODRtUFVLT3hMYW1XVEU3alBmQmwtRnFrWFNWZzl5RUJwZWFYTGJPdXM4N3JFVTBCcHFvWTJJZS1mV09oWGhSZElwVExnTENPSXpFTEhKNnN3NWV5NWV3MXByOHd2M1lBRDFuZGd3SzZRYVRlUHpaU19vUE5KY29QRWs4WDh0NmRDd00zbXNVMkR4RG5oRXNJTW5YaVNnOXgtMFFrVGd3a2c?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed’s Cook to Skip ‘Unfair’ White House Hearing, Lawyer Says",
+   "source": "Bloomberg.com",
+   "time": "2026-11-17T14:28:02Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVXZnamFaa0QycDl4aEExMmZXcldyNFdpeVhZTDQ5WThrSmxJMDMzZDB5aEpqQnhuU2dJSFJQWHNFRHlxUm8tSEVYTUZOaWx2RWdiUmlyYWtCVmM2R05rNEh6SzRzU0Y2NUlUYTVGb3R5bGFmNEV5QmJza1RFUkVxWUh0ZE45SXdRMy0tc2czUE11NF9tSXpxb2NnZlJoOS1mR2dYTW5ZdXdYMzB1?oc=5",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -289,6 +355,15 @@
    ]
   },
   {
+   "title": "U.S. Treasury yields catch their breath near one-month highs",
+   "source": "Investing.com",
+   "time": "2026-11-17T14:05:36Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXVjRGNSU2JZWFBGcC12T2ZTdHUzSmxNNURHTE1jV2ZNSDZtMWUzMG1MOU1wcVdOQnRuQWtwQ0FZWXZ4elhIdXJrTTF3TW93UlFETWRPRjRncjV3Y05vUUJkZTc0UGpCU3FxaEFuV0RsUnlLZmtqa25BTVZ1YkozeFlxRjRuZUgyNVA1Nm5GcWgwNDNqTm1pMWdPR0lUWl96bVlYdk02RnczTVhfU1h1U2JvQXgwUQ?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Settler leaders denounce UK sanctions, call measures ‘antisemitic’",
    "source": "The Times of Israel",
    "time": "2026-11-17T14:03:02Z",
@@ -316,12 +391,12 @@
    ]
   },
   {
-   "title": "Fed’s Cook to Skip ‘Unfair’ White House Hearing, Lawyer Says",
-   "source": "Bloomberg.com",
-   "time": "2026-11-17T13:50:04Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVXZnamFaa0QycDl4aEExMmZXcldyNFdpeVhZTDQ5WThrSmxJMDMzZDB5aEpqQnhuU2dJSFJQWHNFRHlxUm8tSEVYTUZOaWx2RWdiUmlyYWtCVmM2R05rNEh6SzRzU0Y2NUlUYTVGb3R5bGFmNEV5QmJza1RFUkVxWUh0ZE45SXdRMy0tc2czUE11NF9tSXpxb2NnZlJoOS1mR2dYTW5ZdXdYMzB1?oc=5",
+   "title": "UK sanctions Israeli companies building West Bank settlements",
+   "source": "AP News",
+   "time": "2026-11-17T14:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHd4bWNHejg1Tm9VOWgxRXJCSUx3OC1SOUxVc1A2QTY0S2RyQ3c3SjZJWFgxZWt3emRtalljSjNOV19IcjA1VVAyalgxTE1fWUhjRVBFTlU0OHBUbUJfYW5iWEc2YjZyMEdqbXJHU0J6S0k3OTZ5d0owdmZVb3dxSy1YVkM0ajduckFZRGltRzJWVEdlUmktRVpuQ0R4SV8zMUZCNVZMU19SMGc?oc=5",
    "tags": [
-    "FED"
+    "SANCTIONS"
    ]
   },
   {
@@ -390,6 +465,15 @@
    ]
   },
   {
+   "title": "Gold price drops to $3,848/oz after October retail sales rise 0.2%, core rises 0.6%",
+   "source": "Kitco",
+   "time": "2026-11-17T13:30:22Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdXNLbU1TNG8wbkdSLXhsV3I1N0ZBUjdzdGc0M2l5RW5qRzFodjRjX0MxX0kxQlVVUVl2YW9UYldCYVZUUHpSRzI2OGN2Rm1TdGV5YnE1RXJFZWpfZ1VveEVMblduTm8xY1dOUXB1VnZ6RWM4S3hTb3VablduVnNJODRBWktHcmhPUFh4Vk92cmxPU0NxNWx6ZHEzOU9laTBFSGJiWHRkRUQ1MkpDZEFEdXBnYm4tUlFZS1E?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Gold price drops to $3,848/oz after September retail sales rise 0.2%, core rises 0.6%",
    "source": "Kitco",
    "time": "2026-11-17T13:30:22Z",
@@ -443,6 +527,15 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVktaWnZoTlg5eWNHS2VId0hpUi1wZjNDUGs2SWh2T05Ebk9JeDM4Wk83SG8xOEdITjZHQTd6TWI3bjdBT2VzSVZpUDJxVzR6UEc2UUxFT1ZJbXlobVZvYjNjcGgxZl9XVGRRdEpNWmxZYS1NZ0I3TlYzZW5mT1A0cG9JYkdxeEtrVVUtM0x5c0VQbWw1aGtwYmtVS0JWeW1EaWtCdDdPaFhnSmxfQzBGUl9jR1hNLTjSAbwBQVVfeXFMUE1oazhTZzR2Nmt5QTgxdC1xQ25ycUk2NkdmNWlnNWhtc1NXQTRzWGxaU0piYUlDZXg0ak9ETV93RDkzejFtWE9uYmNUR3k1ZjJUVi1PdG9fYTFadUo3MWhKYmRxcmF5aWpnemdTcWNhUEZBdlZoTmZpZnpyYnE1bG9FeXhoTzFKOUNrdWFxT2k0NDAta0FLOGhtbnZpbnFtSWp3X0RHREN4d24wbmpfZkNIQ0x0UElYUnlGeEc?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "UK sanctions firms over Israeli West Bank settlements",
+   "source": "BBC",
+   "time": "2026-11-17T13:10:06Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -547,15 +640,6 @@
    ]
   },
   {
-   "title": "UK sanctions firms over Israeli West Bank settlements",
-   "source": "BBC",
-   "time": "2026-11-17T12:37:52Z",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jY015YVhxSmEycHFuQkhQYmVJVnJNM1ZsYnNzZnNBeDZwQzNqa1VyZU1wTDFLYnU1RXFqR0N2UE9WZm9kZHgxMlZLb0pYR3VOOERxQk0wRWNRV3ZzVXc?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
    "title": "Here’s when Goldman expects gold prices to reach $5,600/oz",
    "source": "Investing.com",
    "time": "2026-11-17T12:37:07Z",
@@ -592,88 +676,6 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR2wwMEJneURpMGNtZko3aldsdGVEUmFwRUNiZGJjOWtMMXM3YkV6aTJROVFyR213S09BaWJzdEJHT3VBWG8tZUpPUUFYd1JiVTFrSFZNSE1ZblZRNks5bG03d05vMWJhakt4SGNUSlplRkZjT2NsdXhUVkxSTDd1cFo4Unp0MDBpVHdXLXE1YlFWTWY0Q25hLUktZGRVTUZEUGlrd29qZVZrZzZEUm5EVkhRVUw2Zl9DemdlLUZmSQ?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Carney, Xi Agree to Expand Tariff Cuts to More Canadian Exports, Deepen Trade Ties",
-   "source": "marketscreener.com",
-   "time": "2026-11-17T12:17:47Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ1Y3d21PdFY2ZnVaTk9TYVhlaGYxOGpvNFByM090LVA3UFVFSlY0bm10RWVGTEFMaXlUUkI0ZW5pOXhobk5HbHpYUDNEdXhWbU5XZm84cVF6OFlkcWNjSTBCM09ubjN3X0VGV0JSbThRTnZvNnVtWTQ2aXF6SzJkY0hFTi1oYWZvOVp3Q2VoSzB5dFJwdndkd3dRWlFyNC1DaC11aFdpVjVGMUc4cDdCRF9tdVJCczJtWE1KRlJEOXQxRERWT09FYXJfN21jdw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold price today, Tuesday, November 17, 2026: Gold opens at lowest price since September 29, 2025",
-   "source": "Yahoo Finance",
-   "time": "2026-11-17T12:14:21Z",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRzRfYWNDVS12TDhBNlhFS2EtWDBGSnlhS1RmaGw5bVRYRXlLOHVkR2JiUnRWS05YOVBKcnBkdWoxSEowb1dPQzZqZmdJLXpicjVGZU10VDFlRk5sbTUyb0lCSDEtNWd4SndPb2IyaTRuUUlVSXdSSXR5OVQyUzdmekNtUk5sUU1TWkNMN1BqdE9oZjBKU1lHS0FYWTYwcF9wMzBraEpqVy0yZnF3LU5KZEU3Mk42SXhCVFdDQXFBcjRNV01tZ2dMcXhUc0RNRF9zb2wxTGJRb0I3SHZlT1ZaSTZ4bmpnSDhFNVZEVnluNzVsZEhaMUVER2JYbnQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Beyond Tariffs: What’s Driving Steel Stocks?",
-   "source": "Seeking Alpha",
-   "time": "2026-11-17T12:11:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkZud2VnU0k5TjFQNnI1MDlNaVdhb3RSQ3JQQjRoVmVGWmV4dDExR0duMk84bjNxVzdGUUpZOGFhV3ZSbXp2Qi1rMWNIVjR6T0l5ZnlPVzkzVWNQckFsUVZhWGpiTk9xYXVrbnFsN3BGYkoxMzVwVHFXaE1EVmRGeHV4UGpkSUZ1?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold gains slightly to recover from one-year low: what's next?",
-   "source": "TradingView",
-   "time": "2026-11-17T12:10:56Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRHdrRjh2WkNrMldqUjVEQTJtcGRrRGQxay1mYS1NcWIxRlRfLXNXWThhemdXMmJGTWU2QmJtcEEwVlF1ODJEbzhtTGNFZjdaMWpuLVc3ZkJoTy1IRVVXcVBHelN5SVh2RkpRc1FkSFdfNFlrT284UEdZN0d4TU14Z0t0bjBfV3F0cV9QQmh2M1RLaVg0d2poMF9yaWJsR2QwM1JjdzM0VU10TzZ3X010bDlkWlRQSGlo?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "OPEC’s Oil Production Nears Prewar Levels on Saudi Rebound",
-   "source": "WSJ",
-   "time": "2026-11-17T12:07:08Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkZ3Y3c3WE51TWt2RUVhZUdxbk5PM3FCdjNERW94S3NEckxuUVBidkxiRHdHUnl6RGxLZnIwZjh1UTlmak1tOW50MmZWemFEQlY5UUs3Z2pISzVodWhiRjFZSHN0T2xLTkVIV3A0Y0xUbnJOVy1ZRDJYWlNPbGJ6M1VHa2VLN2xMRDlJdkpESnZLZzFoWHc2WFg0eE43dzZsTGlEU1JVQjBkUQ?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Hungary receives extension for importing Russian oil supplies without risk of US sanctions",
-   "source": "TradingView",
-   "time": "2026-11-17T11:47:13Z",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZDRScEJMNTVKblphMTFvWmFkWU1BN3BaU3d4bV9NVkpiY09jRDF0a2VaQ0dWcUtKT1RkMFNnQ19jeHFGdFE3U1l5dFd0UjY3dzJXekllcU9TLVpOeXpfUUl6MFA0Nk5ZQ1pnY3FwNHlaV1kxSGRfQXcyZEg0d0xGLTBoaU9wQ181d0pYTmdvd18tcTkxVlAyX3dRbmM3MU5wMl94eDBYdl9tTVdBUllBdk8zUzN5MFFreng1bWcyc3ZhNlZJTFlXdy0wY0U4bjVSaTNLVnNXa09QVXgzZlgzVThPQUJ0S2pRYUxNV1dqSGRqQQ?oc=5",
-   "tags": [
-    "SANCTIONS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Vladimir Putin’s prized bridge is partially destroyed in Ukrainian strike",
-   "source": "NBC News",
-   "time": "2026-11-17T11:38:22Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMjlyREctVlhIbFZKYlFsRFBDOEcyZzlnQnJIWVllVFk1SXN4dlBaVkZhajNZV2ZLU0MtS1hMUG5Nd1NGREFaV1pzbHZET2hPQTFIV25aWXhRTzkxX2hsY1lqanpvTmUyQmhKUV9oRGk5ck9ldUFoeVdtX3JZT05QcmlCd09DUXNDa2lPaGdOWnBOOEpjbWU0bF9OVDFtRTV0WE1USnhISGw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "EU-backed court convicts Kosovo ex-President Hashim Thaci of attempting to obstruct justice",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-17T11:36:26Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa0RMdVJRcGpXNGFaenhVcXEtNEdleC1vWXI5ejV5a1AwajV5NE1lUnFkNlpNaXo0RFUyVlpfc3E1czMtUmo5Q2V5S3lSN3ByQ0MyeHpuc29vTm5iVDlIdnotMUlRSTJUSElGQnlvNFVqZUUyelQyMURseHNyZTkzQkIybEp3aGtJWUdFNXdmb0EzcW50SUxIUUg2MWlhSWxST28zVWY4amYtRVBV0gGyAUFVX3lxTE4waEJ5YjgtN1FnQVFWTUdIUDBSc2ZXZTBBS1c4RHNOb283M2EyQ0RiRHpBTnp1N2lTY2NzUWQ1WHRJNWZ4WmhFZ1FkdkJwMkJTQnY5N2tyNjdNZm5HT3NmWGNGZllYeEgwcXhaSVN4eXRIZTI3UGM0emprekxDTG5Jc2JTWWxCMWFRSE9wVUpWam5OMU92aWoxbXpKbTZQM0hWVTJVa2RNMkpEZHZ5ME10SVE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Britain sanctions Israeli settlement firms in push to protect two-state solution",
-   "source": "Reuters",
-   "time": "2026-11-17T11:30:36Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXk4clBMd2ltVDE1T2tJSlJRLUs5dTIzUTVXVVRkVWNMUTRzMEVFR2ZvVHNUelRhZXB5WDZGU2lmV2p3VDIzSWNwdVVRbnl3Y0JCWXQ1VnAtRmQwZWxsdU9GSDJ1ajh3U1pCRDMwRDdTblBYMUs4RE1udnNzSkU1alhwQm1QNHo3aF91M0Zod1JsNVV4RllPcHdkdEoySUxsRkhIZ2x5STF2LWdEbWF4M1czUUNySWJDdGc?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   }
  ],
