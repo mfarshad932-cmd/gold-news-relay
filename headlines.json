@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T06:59:42Z",
+ "generatedAt": "2026-11-17T07:28:10Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,12 +37,12 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 8
   },
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 7
+   "kept": 8
   },
   "investing_news": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 33,
+   "items": 34,
    "kept": 12
   },
   "gn_fed": {
@@ -96,17 +96,18 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 33,
+   "items": 36,
    "kept": 12
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 15,
-   "kept": 12
+   "http": 429,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   "gn_yields": {
    "http": 200,
-   "items": 13,
+   "items": 14,
    "kept": 12
   },
   "gn_oil": {
@@ -115,9 +116,10 @@
    "kept": 6
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 6,
-   "kept": 6
+   "http": 429,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   "fed_calendar": {
    "http": 200,
@@ -126,12 +128,96 @@
  },
  "items": [
   {
+   "title": "Putin’s War on Ukraine Is Ravaging a Generation of Russian Men",
+   "source": "Bloomberg.com",
+   "time": "2026-11-17T07:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWJnYkZKU2FqbW5RNUswTlJVSUZFVl9SYzlSMXprQk9NZmZxNWxGSUxSZ1czb0E1ZHVQRHVoTVFVZ0lfZnUtdDJ0UEtGeVlTbkVMZDJvVWFtOUY3SlhRTnZUOWUyQTdVSUxsQVF1TGZleUJIc3g2YVVoTGRWeHlXM1B2WUQ1TU8zaDhnOFNRYkFvRW43VU82VnhCcU15Y1piZ1RCdFFVSS1WZDhucTNJZXB6Yw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Trump to kick off Asia trip with Quad talks in Manila ahead of China visit",
    "source": "Investing.com",
-   "time": "2026-11-17T06:12:27Z",
+   "time": "2026-11-17T07:12:31Z",
    "link": "https://www.investing.com/news/economic-indicators/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit-5031428",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "JSW Steel CEO flags Chinese exports, trade barriers as key challenges",
+   "source": "Reuters",
+   "time": "2026-11-17T07:09:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUTB2R2ZZVUdNOTJRbDVNeDlzQWdGSHVjMXl0eXFXcE9PSzM3TmVyRnVpWExfSGdlZVRJM1p4dWZqV1VlaGJYRWxUMldpbHBFNFBmbEVyN3hCU3RVR2wtYzZlVW5VZGdFekhVbEJDNTNMZEZYalBIb0xSM2lXX1FoTDFDM0hNdUdXSXgyRHowNVFyY3lnOEl4V016V09EVHJyUlRLZ3pxd0lDWWpXeEx5OTJ6RQ?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Dubai Airport Traffic Falls But Shows Signs of Recovery Amid Iran War",
+   "source": "WSJ",
+   "time": "2026-11-17T07:08:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVd5WHpYWkp6em1GSHRQSlBIang3ZmVGckJDNFladmRUa1I0dDlOeEdVakxzcXVFOGx4M2Z2ZXo3Zk9NZ1FhaUYzU1Ffd0NPdTg4aVoxM3Y1WXliUklPMXBPeDBNMHZ6X25pdjd5RkF0RThERVQ1Q0tneU5PdkJEU09KWHZ6TkZwWDR0YmFOVnh1azJ0dXR0Tko1dlhBUDJkZnJ1Xy01eGxBQnhzTDdFQXpEY0Y4OVk?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+   "source": "CNBC",
+   "time": "2026-11-17T07:07:35Z",
+   "link": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Xi Jinping and Canada’s Mark Carney slash tariffs as China courts middle powers",
+   "source": "Financial Times",
+   "time": "2026-11-17T07:07:30Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV20yaTdxeVd6WmktN2g1TXpaZi1QOTZCY1htajhhbjk1TXdwZmc2cWd4cXNDaFN1bTE2SkZKN3FiSHIyMzU5RmdUTndoc0Zmak9UcXAxeDJkTDNzVlNuYTdjMUQ4YmFTZzFRWHJjRlRUWnRNbUJXMWg5bGFCOG1lM05feVI?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Gold and Silver Alert: Is a Precious Metals Reversal Ahead?",
+   "source": "Investing.com",
+   "time": "2026-11-17T07:07:00Z",
+   "link": "https://www.investing.com/analysis/gold-and-silver-alert-is-a-precious-metals-reversal-ahead-200691702",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "UK September ILO unemployment rate 4.6% vs 4.7% expected",
+   "source": "ForexLive",
+   "time": "2026-11-17T07:00:33Z",
+   "link": "https://investinglive.com/news/uk-september-ilo-unemployment-rate-4-6-vs-4-7-expected/",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "Gold (XAUUSD) & Silver Price Forecast: Gold Hovers Near One-Year Low on Fed Hike Bets, Can $3,832 Hold?",
+   "source": "FXEmpire",
+   "time": "2026-11-17T07:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVk5Lb0pZQWhWYUVzMUs3aC1QMmJOUG5sRmlpYXB2TWU5YlNWVkd0ejZtUUVGM002eGhBUV9NTDJWa0pmRWkyODk0TldtWWdac1M2dGJxTTJMcHpwR1JWSVFoV0VyWDhZc0VobzFRbngxeGRRMGdRQ2NWN1czTFExZ0k5QkVqM0pxT3A4RmlVV0o5THg4MXN4M1h1a2c0MFFVQTNZZ2pheDE2d3FIVjhGaWY1dHdYckFkWnFjU1JmRFV5ZklhVllqYUU3dFVPUUU5V3kwQTZuamhvR0gxdGc?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+   "source": "The Guardian",
+   "time": "2026-11-17T06:37:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1RSYjZRRl8zR3hSNWZLMVZZYkVpMTQ0VG42QTd6c2lHUHNHYWp1ZVQxaUdZTkVVTTZ0UzlKTWxGcjN3Z3RhZjhVb1QzQ01MM1pYRkxIZEtFNFZIWDRrSTJLU29JeWFSdGgwTG1jb1Fsa0tNMEdRM3ZjX1ZNZkZCLVYyYWhVNUNGa3dHOWdLUjVEUW5yT1ZTMHI4T3pjakllMXZndw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -172,6 +258,15 @@
    ]
   },
   {
+   "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+   "source": "BBC",
+   "time": "2026-11-17T05:57:38Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSRU00UVItWVBVOXhnT1ozc2E0NXk5V3VNTlN4eERVeGVRRlJKc3dHLUMxbTRISm5RbEhoeEJUdEhCbldiU0txRExramJVWF9OcVdIV3dBOEo3czA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
    "source": "CNBC",
    "time": "2026-11-17T05:51:13Z",
@@ -187,16 +282,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3NHNHRRVEVtSjFqc3lmMWVtWnZpX0loMlBTY0dQQnh0LUZXamxSNGE5Nzl3Mm82ZGpxN0QtejhGOHhaVFJncTJOeHJYVHN1dExWQ0laUVBqXzFBUnZHZi1zS3Jfa1ZPcm9zSDlMNGFybGItNHlkcDBncDB6YUNjN3lvRVhlcGp1OVF4TkRxRzlvbHVxZ21PV29Ma1ltY05pNlBqcWoyV25HY2xXWHFMS1I4UF9zanFu0gG-AUFVX3lxTE0tNjJLZTRNUXd4ai1xVzgzemFVYUltUDA5X29JVVo2YlVkczNfN0dKOGRNNWMxSFc5WmQ4LVJvRUVmbllmSkNjTmxueENxd3dqVUZlNnRLaVlMeE1oSkFaLWxJTWFGYWFQaHZzWlJiMGlnUVF4MkNkSHBqakhRQ3oyUWlBZHFvWFBHeGdHMjRQU1JwQU8yZ0prZDVvM0JRcVlQZ19LaUhMVk1SRVBfSXN4ZU1sal9QMlE4RnZnaVE?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Xi Jinping and Canada’s Mark Carney slash tariffs as China courts middle powers",
-   "source": "Financial Times",
-   "time": "2026-11-17T05:45:28Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV20yaTdxeVd6WmktN2g1TXpaZi1QOTZCY1htajhhbjk1TXdwZmc2cWd4cXNDaFN1bTE2SkZKN3FiSHIyMzU5RmdUTndoc0Zmak9UcXAxeDJkTDNzVlNuYTdjMUQ4YmFTZzFRWHJjRlRUWnRNbUJXMWg5bGFCOG1lM05feVI?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
    ]
   },
   {
@@ -256,6 +341,15 @@
    ]
   },
   {
+   "title": "Trump Is Now 0 for 10 With His Gifts to Putin",
+   "source": "Bloomberg.com",
+   "time": "2026-11-17T05:00:20Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3lWWmZPQjUzX0FjUTJpTWxCamJfYjI3WHQ4QXZSWUZWS2YwaEd3d1dNcFVZYVBiVDZRS1dSellHcjdoYks4dnZBeGJ2eXdTVDdlX1U5bDV2U2w5eTh1dlE1cHdWU1lUeFkyMl9Ecldyd1U0YngtX2FOa0lEZ19pMU9MM3R1a2o5czdSUklFYUNkZUQ2Nm0waDdGdzF5VW1zUnFvRUg4TEtuQXp4aUxMQjh3?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs",
    "source": "The New York Times",
    "time": "2026-11-17T05:00:08Z",
@@ -263,15 +357,6 @@
    "tags": [
     "INFLATION",
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump Is Now 0 for 10 With His Gifts to Putin",
-   "source": "Bloomberg.com",
-   "time": "2026-11-17T05:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3lWWmZPQjUzX0FjUTJpTWxCamJfYjI3WHQ4QXZSWUZWS2YwaEd3d1dNcFVZYVBiVDZRS1dSellHcjdoYks4dnZBeGJ2eXdTVDdlX1U5bDV2U2w5eTh1dlE1cHdWU1lUeFkyMl9Ecldyd1U0YngtX2FOa0lEZ19pMU9MM3R1a2o5czdSUklFYUNkZUQ2Nm0waDdGdzF5VW1zUnFvRUg4TEtuQXp4aUxMQjh3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -366,15 +451,6 @@
    "tags": [
     "GEOPOLITICS",
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
-   "source": "BBC",
-   "time": "2026-11-17T03:46:56Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSRU00UVItWVBVOXhnT1ozc2E0NXk5V3VNTlN4eERVeGVRRlJKc3dHLUMxbTRISm5RbEhoeEJUdEhCbldiU0txRExramJVWF9OcVdIV3dBOEo3czA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -608,79 +684,6 @@
    "link": "https://www.investing.com/news/economic-indicators/singapore-nonoil-exports-jump-798-in-october-5031377",
    "tags": [
     "OIL"
-   ]
-  },
-  {
-   "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-   "source": "CNBC",
-   "time": "2026-11-17T00:42:33Z",
-   "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "WTI drifts lower to near $84.00 on recovering Middle East exports",
-   "source": "FXStreet",
-   "time": "2026-11-17T00:30:34Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVFYwdFJRSG54RmRkenl1ZmpzN0ZYUjkyYmNkWmEtSWY3Q21sSkdSTWFSUl92YU1VRnloaUZHX01FcDhSMDFPVlpaeGJhQ3pIaXppOWs0Tkp2SWRyN0VmajdRdDNfRnZad1NpSDhoZDJJV1lTbXFsQ25Oem5QVjBJWWNqcEpFSVh5ZTdkMmU5NkNyeDVPUXZBMzhjd1A1MGJnc1JIdWFjRnFTZw?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Fed’s Hammack Reiterates Preference for Small, Incremental Hikes",
-   "source": "Bloomberg.com",
-   "time": "2026-11-17T00:13:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3MwUUp3QjVuS0NGTWhLN0hYZldpQkJHUUZKRDZSRlhvdXJ1d2VXTVk1UkVzZ2swX1N1OWdQM1g1cC10cnMwaTRCRzEtVWNfWHBLdjdYY19wUEpZZERkQl9zVzNsbjVuZ25zQUFsaXFBMnBVX1I1X1pPU01SdEpPZzA1clBJZkx5TjYwV29QUmxHRmxfYW8wdWFLazlLbXVBRk9nUm01aVppdHRtS2RjRHlJeW0?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "There will be less war in the Middle East in 2027—but little real peace",
-   "source": "The Economist",
-   "time": "2026-11-17T00:04:36Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcHVtaU1hOURXZVVlZVQzR09FQjNXZzVlRGxFWmRjUW0xSlEzVmhKd244VU92VV83YzVvMTNaVnZBTFNnb0xBOGw3TC1YNmd5WjhMclpmVUc3WHRPZ2pKNjRRWFVwR2FMTzk4MU9Ub0tvbW1FSlVydl84WEgxNC1CM1RrNjB1WUtURXlkMmU1ZTdHTW5UdDdtYU5fU0N0SFVJaVpSMk1MdDkwb0QzdGoxOGl0cHVRVURsa0tvMTRqdVVsZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
-   "source": "Al Jazeera",
-   "time": "2026-11-16T23:57:49Z",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran says fourth oil tanker catches fire in Hormuz after hitting naval mine",
-   "source": "FXStreet",
-   "time": "2026-11-16T23:44:54Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTUh2VlBCMkVOWU9QT1RNSmdCN1lVYXVsWmU5ZjNDYVNPWDFtalljMXFkS3pxcDEtTVlEWEM4UzN3SEVSTmgyb3BKRlNHYjFwSmtEdjVobmNvQ19PaGZmZXo0S05fVW16akZDa214REFqQnJJeXlkSkNiMWVoZ1pMNFN6Vy04V1FwTjRWVC1nNW4yNU4zckNWUXVRZW5QcklvVm5MQy1QUnlCQzBZVDAwUXpTUEJDQU5SQmc?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
-   "source": "TradingView",
-   "time": "2026-11-16T23:43:46Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTdDM0Z3VHdnc0JydW9pajhoZm9pY3FVcGFyNTV0OHFQYUlvaWxIZGhaVE1SNlRhZVJaeVdmUkhNZ09lUF9iUnhobVRKVkNHR25WNGt5end4V3hsaDlXUWxodW83UlR5aXF4UXQ2QXRqM2ZUQi1kc2FOVF9wTFhfYXJJYzFWVTRoVlZ3cmlJbDZQYlZ6bk5uQnM1T0JPc3JxWG5XUlRrRTZwWTRWRk9iNUhpZEotZFUwbTE3WnJFekN6ZElqelVkYzNTWQ?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Incoming House Democrat accuses Hegseth of ‘war crimes’",
-   "source": "The Hill",
-   "time": "2026-11-16T23:38:00Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yMWhEckI4RjhISW85M2xWMDFpSm04aEl0Qi1QRjIyUmZfeGpVN2ZXUTJURHQ3VWJXODVlcHUzX05Fc0lQNFNBcnd2VUpYOVJCSW1FekhhQ01pbjl5VmhrZ1ZxNUtZTHZ0Y2N5blpNUnZVQW93N1ZUUzJ1YnJyVzDSAYQBQVVfeXFMTVdKalp6NXFaVWhQS0RLSW10N3lBRWgzTGFUZ2x6NmZxN3RFbVJucW9YcjYzUXQybzlsWG84VTJmN21ScE1yaTY5akw5MVVDME5wcU1USDA1aHFHN2EyV3BxM1JxNEV0SWV1c0dfWUJsZjlxdFZ2YXRTZUdlSHVGT0hHNHNi?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
