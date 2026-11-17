@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T00:22:20Z",
+ "generatedAt": "2026-11-17T00:50:39Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 3
+   "kept": 4
   },
   "whitehouse": {
    "http": 200,
@@ -85,10 +85,9 @@
    "kept": 12
   },
   "gn_fed": {
-   "http": 429,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 429"
+   "http": 200,
+   "items": 33,
+   "kept": 12
   },
   "gn_tariff": {
    "http": 200,
@@ -96,14 +95,16 @@
    "kept": 10
   },
   "gn_war": {
-   "http": 200,
-   "items": 25,
-   "kept": 12
+   "http": 429,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 15,
-   "kept": 12
+   "http": 429,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   "gn_yields": {
    "http": 200,
@@ -128,12 +129,48 @@
  },
  "items": [
   {
+   "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
+   "source": "Al Jazeera",
+   "time": "2026-11-17T00:45:11Z",
+   "link": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+   "source": "CNBC",
+   "time": "2026-11-17T00:42:33Z",
+   "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "WTI drifts lower to near $84.00 on recovering Middle East exports",
+   "source": "FXStreet",
+   "time": "2026-11-17T00:30:34Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVFYwdFJRSG54RmRkenl1ZmpzN0ZYUjkyYmNkWmEtSWY3Q21sSkdSTWFSUl92YU1VRnloaUZHX01FcDhSMDFPVlpaeGJhQ3pIaXppOWs0Tkp2SWRyN0VmajdRdDNfRnZad1NpSDhoZDJJV1lTbXFsQ25Oem5QVjBJWWNqcEpFSVh5ZTdkMmU5NkNyeDVPUXZBMzhjd1A1MGJnc1JIdWFjRnFTZw?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
    "title": "Critics blame U.S.-Iran war for crackdown on clerics in Bahrain",
    "source": "The Washington Post",
    "time": "2026-11-17T00:17:11Z",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGZSVXl2N1RfOW5qeHlqdkNTTkJ4cG95WFE3VHRucTlxQnZfUUlhWDlrMGJFS2NxYmJGLXhtQ09lZ2JPeW1sVmJYdTZRWGJxTVVDbE8yclFESTFmcUZjajUtQ2tFOTRtdEFrN0c3SGk3RE5LaWJScEFtMmFHWlZ0aUdfNU5hdWhWaGZqTFJPSXRnNXZZN3d3anlfTVdiYmNsWnc?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed’s Hammack Reiterates Preference for Small, Incremental Hikes",
+   "source": "Bloomberg.com",
+   "time": "2026-11-17T00:13:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3MwUUp3QjVuS0NGTWhLN0hYZldpQkJHUUZKRDZSRlhvdXJ1d2VXTVk1UkVzZ2swX1N1OWdQM1g1cC10cnMwaTRCRzEtVWNfWHBLdjdYY19wUEpZZERkQl9zVzNsbjVuZ25zQUFsaXFBMnBVX1I1X1pPU01SdEpPZzA1clBJZkx5TjYwV29QUmxHRmxfYW8wdWFLazlLbXVBRk9nUm01aVppdHRtS2RjRHlJeW0?oc=5",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -180,6 +217,15 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yMWhEckI4RjhISW85M2xWMDFpSm04aEl0Qi1QRjIyUmZfeGpVN2ZXUTJURHQ3VWJXODVlcHUzX05Fc0lQNFNBcnd2VUpYOVJCSW1FekhhQ01pbjl5VmhrZ1ZxNUtZTHZ0Y2N5blpNUnZVQW93N1ZUUzJ1YnJyVzDSAYQBQVVfeXFMTVdKalp6NXFaVWhQS0RLSW10N3lBRWgzTGFUZ2x6NmZxN3RFbVJucW9YcjYzUXQybzlsWG84VTJmN21ScE1yaTY5akw5MVVDME5wcU1USDA1aHFHN2EyV3BxM1JxNEV0SWV1c0dfWUJsZjlxdFZ2YXRTZUdlSHVGT0hHNHNi?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "COMMENTARY: Warsh's honeymoon period is over",
+   "source": "Reuters",
+   "time": "2026-11-16T23:30:27Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQWxhSndRSHRSdEJXcm1fQ1gtc0wwRGZJM1lobnREeE5zMVM1UC1TXzA3ajI4bXVsVVlNZE1EWng0Y0ppTElHd3Jfd1cwQy1WYk5ZaDM2TVhTWHIxTlVzN2U4a0VIZ1FDTG1UTWJXZTh4RHlNLV9MLXdCQTM0NWl6amhfdHA5bFFDVEpLYXNnb1ktaWxPRGlhamNXbjR1OG5YLUN2N2pjbVNqQQ?oc=5",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -329,15 +375,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanNCYkxYaVNLekhaVjJHVHZOOWVELWd6OTIwdk42bTg2YVVWTjRJb2IyUzhfbnJaYlB1UVljVlNucmlWYkRXX0tYNDdFOUxVRUdRV3BKZFpGcHQtMzJlNHdXY2FOcmlqZWpicDhsWWxsdEVsZkF1RXRlUmtxczNNbTRqVlZFdlFtRFgw?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed’s Hammack Reiterates Preference for Small, Incremental Hikes",
-   "source": "Bloomberg.com",
-   "time": "2026-11-16T21:43:43Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3MwUUp3QjVuS0NGTWhLN0hYZldpQkJHUUZKRDZSRlhvdXJ1d2VXTVk1UkVzZ2swX1N1OWdQM1g1cC10cnMwaTRCRzEtVWNfWHBLdjdYY19wUEpZZERkQl9zVzNsbjVuZ25zQUFsaXFBMnBVX1I1X1pPU01SdEpPZzA1clBJZkx5TjYwV29QUmxHRmxfYW8wdWFLazlLbXVBRk9nUm01aVppdHRtS2RjRHlJeW0?oc=5",
-   "tags": [
-    "FED"
    ]
   },
   {
@@ -622,27 +659,9 @@
    ]
   },
   {
-   "title": "Army airstrike kills at least 13 in West Kordofan, says rights group",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-16T19:19:51Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM1BjLWR1WGZBajVUbFVjSzRHbW9MbDFiTkM5ZXdYNzZxbHIxdmR2OHpKX2tZWVREcVJLZjlERG0ybE5QTFJCYWo2SkVSQzZ1bm1ieFVKNkxSZjhiejVSQVZPT2pORGdqNnVaR0ZVaWJfeExqeE1pQ1JCczZjSFFZQlBaZTZzaFhleDNkeFdrRmFOUmtHd0NlQmRtOGx6ZG1fRms4b0s5RdIBrAFBVV95cUxPUXZzRjVHRGtjYWxHY25YVGk4YlVWY2hCSTlhRmd5N2lHNUFqUUgxc1NkeGxZWmdVa3RhRkQxSUJLOU1jMnBwQ1kwblRJdVdZTHdNaHp0THc0ejc2aHhXU3JVWnpSUjFYV2lvQWVoT0FzRlBYTGREaG03M2JzX25LNFRzcGhVNmZjSEtveEMxWWx2ODZEMWtPYmR5cmJfaVEtekZoSGhKY2hydVlK?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold’s bull market will benefit from tech selloff as capital rotates back into precious metals – Jesse Colombo",
-   "source": "Kitco",
-   "time": "2026-11-16T19:19:27Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOai16a295Z0xBSGRIYkZyRW94bUsyVHFKOU5FVzBWY2k2TkRpUldqTy1pQnlJZjJVZzFPMHFPOTNuVlRsMnZRQ3RISldyVlV5b1BlNzl4eFdzUVpaUWZVTm5TaEpPTEgybnpyWUlVSjk3YTEtX3g2WXJreWNaUVFPaUVITlVWdFBqODB1a3NibVdSd2FpZTRrY1l2RThuYkRmVkNtc1l5NjFfUWNBZWdfNHJhWnI2a1RHck13?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
    "title": "Gold: Central Bank Buying Is Keeping It Afloat as More Fed Hikes Are Expected",
    "source": "Investing.com",
-   "time": "2026-11-16T19:18:45Z",
+   "time": "2026-11-16T19:20:06Z",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOal9nbG1RUnNxVTlESVFPbnI1bzkwejJ3UUVPbTNzSG9RaGtPQ2d3Mkd6elBJNHpVT0NTN0daNkNIeUNKWTBnWl9NRWM5TXpTbVptTVBZUWM0SzRTLVliZnJ4TEd5ejM4Nkh2Ylk4TndsUjZGblBJTkJwQllBNnBURjJodUJudVBjd0RpdEV0STJrLWpySDhCaGNhZGVuVERUS0xjUWRLQ0pyZHVDSHRkeGc1MTVRcXdtY1ZuRFln?oc=5",
    "tags": [
     "FED",
@@ -652,32 +671,12 @@
    ]
   },
   {
-   "title": "Treasury Yields Fall, German Bunds' Tick Higher -- 2nd Update",
-   "source": "marketscreener.com",
-   "time": "2026-11-16T19:17:28Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1pfcTB5RWNmNzlhdHJnODlwVjNpZG5KVThNUnlYUUdVWWhYZ2tNVnNWc1cwQXkyZk41ZWRRS3lIQUVDNzlyeGk5NjNwMFBVT01MV0FkZ2hqeWszZGwxdWFzdXRtc0VDUU96MGpfVm4xcDdwcENWek9BM05yY1FfQm1YZUZjQ0VZdDlPRENSanZ4Y1QxVHJFcFZncjVDYWw1dWwtNk5aTFBoTk02OUE?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Three aircraft carriers, 53,000 troops in Middle East as US, Israel prepare for possible Iran war",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-16T19:15:43Z",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsTUVkTl9zazMyUGVMbjctb2lDWV9JRTY2aUZFaFljc1JyZHFOd3VmMmFnbTBsUno1UjFyTG5ROTd2ZHc4bjhJN19SUEMxa3lKRkNhUFo1dXkzNUww?oc=5",
+   "title": "Army airstrike kills at least 13 in West Kordofan, says rights group",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-11-16T19:19:51Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM1BjLWR1WGZBajVUbFVjSzRHbW9MbDFiTkM5ZXdYNzZxbHIxdmR2OHpKX2tZWVREcVJLZjlERG0ybE5QTFJCYWo2SkVSQzZ1bm1ieFVKNkxSZjhiejVSQVZPT2pORGdqNnVaR0ZVaWJfeExqeE1pQ1JCczZjSFFZQlBaZTZzaFhleDNkeFdrRmFOUmtHd0NlQmRtOGx6ZG1fRms4b0s5RdIBrAFBVV95cUxPUXZzRjVHRGtjYWxHY25YVGk4YlVWY2hCSTlhRmd5N2lHNUFqUUgxc1NkeGxZWmdVa3RhRkQxSUJLOU1jMnBwQ1kwblRJdVdZTHdNaHp0THc0ejc2aHhXU3JVWnpSUjFYV2lvQWVoT0FzRlBYTGREaG03M2JzX25LNFRzcGhVNmZjSEtveEMxWWx2ODZEMWtPYmR5cmJfaVEtekZoSGhKY2hydVlK?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Goldman Sachs sees gold at $4,650/oz by end-2027 on central bank buying",
-   "source": "TradingView",
-   "time": "2026-11-16T19:13:13Z",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWlVkSGE4cXdBeW5mTzFuR2hOWFdhVU44ZVNFVE1lTXdpR1pWZVFqMTFKcHpDZ3lxZ19ZaWJ0RkxuLTB3WUdSWEVrc2JvaVh2RU50ZE4tSXBHa1RVTzBqQlJDeVhYUHJ1ZlJrVXpIZEprZ05LNGNOWGQyMkRXSDg4VnZHbHFjMU1QS2thMWZEb2JBZnhHZHdDRk5aeU9CSmpDSnNubjNMVS1yY0doUHgzZWVLU3lSWUdaVXlrcWhxa2c3aEJVTXM3MnRwZ0JZamhZX3N4cEd1dw?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "CENTRAL_BANK",
-    "GOLD"
    ]
   }
  ],
