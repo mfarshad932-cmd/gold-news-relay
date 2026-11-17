@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T05:06:04Z",
+ "generatedAt": "2026-11-17T05:34:23Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -81,23 +81,24 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 32,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 35,
+   "items": 34,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 13,
+   "items": 12,
    "kept": 12
   },
   "gn_war": {
-   "http": 200,
-   "items": 29,
-   "kept": 12
+   "http": 429,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   "gn_sanctions": {
    "http": 200,
@@ -106,13 +107,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 13,
+   "items": 12,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +126,15 @@
   }
  },
  "items": [
+  {
+   "title": "Third U.S. carrier arrives in the Gulf, stoking concerns about renewed conflicts with Iran",
+   "source": "CNBC",
+   "time": "2026-11-17T05:29:11Z",
+   "link": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "The Long Arm of Inflation Has Reached Our Feet",
    "source": "The New York Times",
@@ -151,15 +161,6 @@
    "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-minutes-lean-hawkish/",
    "tags": [
     "CENTRAL_BANK"
-   ]
-  },
-  {
-   "title": "Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran",
-   "source": "CNBC",
-   "time": "2026-11-17T04:50:19Z",
-   "link": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -630,6 +631,15 @@
    ]
   },
   {
+   "title": "Fed warns of growing financial risks from AI boom",
+   "source": "Axios",
+   "time": "2026-11-16T22:19:24Z",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qSlctTWtmQ2hMM1dOZTJHRE8yOUQySGtxTnc0X202UVFHYlEtUVE2LXBDMWJmd19JTmpmaHZQNUZIMUFXWEZGOURxVG44TDBLQlFVMWhiTVJNY284Y3dVcVNHbFdaX1g1OWk1SA?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
    "source": "CNBC",
    "time": "2026-11-16T22:19:02Z",
@@ -648,6 +658,15 @@
    ]
   },
   {
+   "title": "Fed's Warsh sees risk of stock bust if AI boom disappoints",
+   "source": "Axios",
+   "time": "2026-11-16T22:04:04Z",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IWXhxT19LOGhnTFRsRDZXVGRrR0dDWEctMkhndGtmMEpLMEdDTWhVVzFxRkRSX0ZqbnNVSXJnNm1tWmxkdjQ5Z1BXQmZtVlVNamdjWW02dWV4Q1hwX3ZZak8tRjE5N0tM?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "OPEC’s Oil Production Nears Prewar Levels on Saudi Rebound",
    "source": "WSJ",
    "time": "2026-11-16T21:55:09Z",
@@ -663,24 +682,6 @@
    "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
    "tags": [
     "CHINA"
-   ]
-  },
-  {
-   "title": "Third US aircraft carrier brings thousands more troops to Middle East",
-   "source": "The Guardian",
-   "time": "2026-11-16T21:47:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanNCYkxYaVNLekhaVjJHVHZOOWVELWd6OTIwdk42bTg2YVVWTjRJb2IyUzhfbnJaYlB1UVljVlNucmlWYkRXX0tYNDdFOUxVRUdRV3BKZFpGcHQtMzJlNHdXY2FOcmlqZWpicDhsWWxsdEVsZkF1RXRlUmtxczNNbTRqVlZFdlFtRFgw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-   "source": "BBC",
-   "time": "2026-11-16T21:40:07Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GeDBBRFlLQUp6OXNQVFdENGYzSGFrTUR3d01KTV91VlJVVXJURjl2Y0tfV2ZpcTlnTm55YWNMazI3WnFHZ29kS0pyUEdWbExQZGY3MGdiWUU2SU0?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
