@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T02:44:22Z",
+ "generatedAt": "2026-11-17T03:12:44Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -81,22 +81,23 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 35,
+   "items": 38,
    "kept": 12
   },
   "gn_fed": {
-   "http": 200,
-   "items": 33,
-   "kept": 12
+   "http": 429,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   "gn_tariff": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 10,
+   "kept": 10
   },
   "gn_war": {
    "http": 200,
-   "items": 25,
+   "items": 26,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +107,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 15,
+   "items": 14,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +117,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +126,42 @@
   }
  },
  "items": [
+  {
+   "title": "Vance says there’s ‘no daylight’ between him and Trump on the war in Iran",
+   "source": "NBC News",
+   "time": "2026-11-17T02:59:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUDRDNGxfNWRYMTJBNF9hczlPU2hyb3NtZnY3OFE0aWllZDRFdkRMWWtDazN4S3hZMXFqZFpveERPTnVleHFIZm9kN1dqWlpPcEVXdkwzZXJOb2t6SkNmVi03N3B0ei1HTThqNEwteHNiVVhMSTI5bmh6QjROczBiVUtKRFpHRXFsZklGUjNCOHFPeEJY?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Manzanar War Relocation Center honors Japanese-Americans",
+   "source": "CBS News",
+   "time": "2026-11-17T02:49:00Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbHRXcG9tX0N6LWFLR0RwN3lOeGJDQXVabjh2ekFKbEVGYXJuV01WYk93c0dJQlg0S1VKZHkwMUxYY1cwMnN3RnZ6c2RPVnFtUXNWQTc0WVpucURfS0JyRFkzcEV2cHEwM2U3Q1QtenVzOFhKRmxiYW9rUC00NEJ3dmIwQzlpOTVOX2U0SmdCb3YzM09VNFRMVGRiTC1GN28?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Canaccord Genuity Adjusts PDI Gold's Price Target to AU$7.75",
+   "source": "www.marketscreener.com",
+   "time": "2026-11-17T02:28:12Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVWNUUjEwdm9GWWZpdlVURnVlRUl1S01GY2NOcDNOX2kzc0N3NFM5aHVLZmxjMTkxLXRyeWV5VElfT3dSTklPbTdkM21kT3RZdjYtQ1R3bmFfblQ3REhMUG5EUWxLTVFvWTNBYW0wTUlPcUliV0VpTk5DdXZSM1pyU1RKc3ZMTzRKc0tqaUpOWnl4c3lYTDV5SjRJLTh0N0NhZ01YNmFESmVhdUlTOF9LM2llZw?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Argonaut Securities Adjusts Price Target on Bellevue Gold to AU$2",
+   "source": "www.marketscreener.com",
+   "time": "2026-11-17T02:23:20Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWXA4aGJkNlJfUlBoX0lxcFk1YnZsUDFnQVp0YnBkdVpYT3VVNXUzeVZNOHplSVhCcExRRXRnSWJkRmtyc3VpU0NyX01kSXBEZkRyOW9USzlDeE15cm1mMGVCaUxtWkNwdXFuanZaejJNblh4bWR3Z0k0NHpPRmFDUS1oVXNQdUE0WTdfOXNMWUl5MzBHQzdvRUxvbUV4LTk2TWR6VmFTZW1qYXpCNDA1NHpXbWFaa2lOaXc?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
   {
    "title": "JD Vance Slams ‘Neoconservatives’ Over Iran ‘Forever War’",
    "source": "Newsweek",
@@ -141,6 +178,15 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQlVRTTNYdTdhR1ZXcHZxT1RxNEp0TnBKNHRIcjN4dWdMV0JiQ05aOFdUUjRGQjFkLVNYYzJMbG80TmRtVEs2blI1MEJpdHJYNThBa19SSnB2WmtIM1AybGNxUjZkeFo1U1hzUTBDbTJwNWVyZTYwZlN5eDJ0dzFCZzRTMGhIRWZRd3ZIaGRfWUtEdnowaFZDOQ?oc=5",
    "tags": [
     "CHINA",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "How fears over Western finance could boost the gold push of Hong Kong, Singapore",
+   "source": "South China Morning Post",
+   "time": "2026-11-17T02:00:12Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU2dIZ2ZRa3JsM3Fhcl9rbDlvaTlwMTMzY3ZKWGRwR0tvX28yZ0FZdENjOWctSmNEaGh3d0gxS3plbGk1VHd2MUl2SXFfTFpuZk5NeVhWWnppNmZUYkR3QTdsWXNZWUx0aHFzVmQwYUV0MTdrODZqeW4zNERYTk9idk5MXzVNZUxvTmNNMmF5MUpVQ3VsaFBUWGF1ZjFBUk1PNUt1T19fYm5hVXA4NFhzOWN1LXdBaWlSSHhpZ1N1ZDZpLUlEWmIwQWpPRExzLXF6?oc=5",
+   "tags": [
     "GOLD"
    ]
   },
@@ -627,52 +673,6 @@
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT2ZENVQ1NG4zalM0SVh5YzktN2dtVEttMFE2Q0tXckk3eE5QUkN0YksySWZ5OGxMQkc4Tzl2TVl0YXpNMnpGODNxekR2ektBQmFOUldZQWFCNE5PUmxLRnJ5RmcyRWtqNl9uNUdidlhqU0lmaUlfeG02VGZtU1ZwVW55djhJckpheThWaFp0eUVVeEk1NUJ6N0hPSEpULVNMSDY0Z2pWOS1iVVctVHlVTnV2SXlGRzcxczMyenVnWkNyQWV1Mk8wMjhiZWxmOXRfXzNwTnlYS0tmenpDMTJFVHd5WDg?oc=5",
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "title": "What will Europe do next in Ukraine?",
-   "source": "Al Jazeera",
-   "time": "2026-11-16T20:12:21Z",
-   "link": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold price drops to more than one-year low",
-   "source": "Mining.com.au",
-   "time": "2026-11-16T20:07:22Z",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UTzNFeWU2Q0VYQ2x5V2JxdVJlakRtTEl4NWZaSXF0cG15RDg5X0VHVU1fWmttdzhwVkREOTRiNEpkc2NEeDhhdUU5ektrU3JMeXQ3TTdJaWprYlF6ZEFFeFIxM3BtY3Y5VTlzWXVWX2Q5czQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Oil Surplus Risk Builds as IEA Sees Supply Outpacing Demand",
-   "source": "Investing.com",
-   "time": "2026-11-16T20:02:00Z",
-   "link": "https://www.investing.com/analysis/oil-surplus-risk-builds-as-iea-sees-supply-outpacing-demand-200691683",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Iran faces winter gas crisis after US war damages energy plants",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-16T19:58:46Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1WEFHT3RfRlRkNkFxQi00TjhQRDMzN2VHODdIaUZxaXhkaFJBM0xaU0pFaTZsV2N4b3FjSmduRkdkRUNPSVZKdTZqZGwtZ0cwMkhWNlpjcFZLRHQxRVVTeFRBY3g2cjB3YkE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed's Hammack backs slow hikes as inflation broadens",
-   "source": "FXStreet",
-   "time": "2026-11-16T19:48:25Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLW1LRFJYNWp5bGJScXZJVXdpRi1WZ2xHUjFfZEVUOW43Q2xpVnh4dzB4R3U2UzlycVoyemlpQVU5dFlxcVozMjFDZ2lyUHZNSXRCM3djNEx3ZlFZelI5bEZVNGJRSmNBY0ZaendFSElDU3l4UkpYQmhUZUlURlFOWWh5VFhWVnhLVFNnNVgtVEZ6MVBVcVMyMEpR?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
    ]
   }
  ],
