@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T00:50:39Z",
+ "generatedAt": "2026-11-17T01:18:46Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 7
+   "kept": 8
   },
   "marketwatch": {
    "http": 200,
@@ -86,13 +86,13 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 33,
+   "items": 34,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 12,
+   "kept": 12
   },
   "gn_war": {
    "http": 429,
@@ -107,20 +107,20 @@
    "err": "HTTP 429"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 15,
-   "kept": 12
-  },
-  "gn_oil": {
-   "http": 200,
-   "items": 9,
-   "kept": 9
-  },
-  "gn_cbgold": {
    "http": 429,
    "items": 0,
    "kept": 0,
    "err": "HTTP 429"
+  },
+  "gn_oil": {
+   "http": 200,
+   "items": 7,
+   "kept": 7
+  },
+  "gn_cbgold": {
+   "http": 200,
+   "items": 5,
+   "kept": 5
   },
   "fed_calendar": {
    "http": 200,
@@ -128,6 +128,25 @@
   }
  },
  "items": [
+  {
+   "title": "Oil price tanks, gold still trades lower",
+   "source": "Mining.com.au",
+   "time": "2026-11-17T00:56:15Z",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RMFpTVVlVeTRNMVpBdFJrcnhsN1R1bVRJbGh3SXVhblNocFgxWGtsSHpuRm5Jb053dmdTaVVMaHMyb1UxMzZqc2IyempZeGl2TmstTXUyNmlCbElWX054bVFRWWplM0ZHLUJWVlBXYw?oc=5",
+   "tags": [
+    "OIL",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Singapore non-oil exports jump 79.8% in October",
+   "source": "Investing.com",
+   "time": "2026-11-17T00:52:28Z",
+   "link": "https://www.investing.com/news/economic-indicators/singapore-nonoil-exports-jump-798-in-october-5031377",
+   "tags": [
+    "OIL"
+   ]
+  },
   {
    "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
    "source": "Al Jazeera",
@@ -226,16 +245,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQWxhSndRSHRSdEJXcm1fQ1gtc0wwRGZJM1lobnREeE5zMVM1UC1TXzA3ajI4bXVsVVlNZE1EWng0Y0ppTElHd3Jfd1cwQy1WYk5ZaDM2TVhTWHIxTlVzN2U4a0VIZ1FDTG1UTWJXZTh4RHlNLV9MLXdCQTM0NWl6amhfdHA5bFFDVEpLYXNnb1ktaWxPRGlhamNXbjR1OG5YLUN2N2pjbVNqQQ?oc=5",
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "title": "Oil price tanks, gold still trades lower",
-   "source": "Mining.com.au",
-   "time": "2026-11-16T23:28:28Z",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RMFpTVVlVeTRNMVpBdFJrcnhsN1R1bVRJbGh3SXVhblNocFgxWGtsSHpuRm5Jb053dmdTaVVMaHMyb1UxMzZqc2IyempZeGl2TmstTXUyNmlCbElWX054bVFRWWplM0ZHLUJWVlBXYw?oc=5",
-   "tags": [
-    "OIL",
-    "GOLD"
    ]
   },
   {
@@ -668,15 +677,6 @@
     "CENTRAL_BANK_GOLD",
     "CENTRAL_BANK",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Army airstrike kills at least 13 in West Kordofan, says rights group",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-16T19:19:51Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM1BjLWR1WGZBajVUbFVjSzRHbW9MbDFiTkM5ZXdYNzZxbHIxdmR2OHpKX2tZWVREcVJLZjlERG0ybE5QTFJCYWo2SkVSQzZ1bm1ieFVKNkxSZjhiejVSQVZPT2pORGdqNnVaR0ZVaWJfeExqeE1pQ1JCczZjSFFZQlBaZTZzaFhleDNkeFdrRmFOUmtHd0NlQmRtOGx6ZG1fRms4b0s5RdIBrAFBVV95cUxPUXZzRjVHRGtjYWxHY25YVGk4YlVWY2hCSTlhRmd5N2lHNUFqUUgxc1NkeGxZWmdVa3RhRkQxSUJLOU1jMnBwQ1kwblRJdVdZTHdNaHp0THc0ejc2aHhXU3JVWnpSUjFYV2lvQWVoT0FzRlBYTGREaG03M2JzX25LNFRzcGhVNmZjSEtveEMxWWx2ODZEMWtPYmR5cmJfaVEtekZoSGhKY2hydVlK?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
