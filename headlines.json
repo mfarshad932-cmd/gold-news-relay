@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T04:09:24Z",
+ "generatedAt": "2026-11-17T04:37:43Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -81,18 +81,19 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 37,
+   "items": 35,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 33,
+   "items": 34,
    "kept": 12
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 14,
-   "kept": 12
+   "http": 429,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   "gn_war": {
    "http": 200,
@@ -106,7 +107,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 15,
+   "items": 13,
    "kept": 12
   },
   "gn_oil": {
@@ -125,6 +126,26 @@
   }
  },
  "items": [
+  {
+   "title": "Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran",
+   "source": "CNBC",
+   "time": "2026-11-17T04:34:24Z",
+   "link": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold recovers from YTD low; Fed hike bets and bullish USD to cap further gains",
+   "source": "FXStreet",
+   "time": "2026-11-17T04:01:31Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdkdYRTJnZ0NNNTI2X0wxektWV2FYY2s0TWFxQnNjdFFlSVliQUVFNWd6Q1ZyMmR3bVpJMkF1bFI4TWY4azBkb1pfM2tmY3JOYU8zY3FDcWRack5QV1Z1czVEUjBGNGZYLTZlNkg5aTg2SjdDUlgyX2JPandYS25kbVk0WU5QcHhqUHRpdHpNODBhU2tiYmsyYVFfc3BYTmRnTHVoaEpuREg0QVZYQkU0S0JSVzFmcmJxXzhrMQ?oc=5",
+   "tags": [
+    "FED",
+    "USD",
+    "GOLD"
+   ]
+  },
   {
    "title": "How Trump and Xi went from tariff war to trade truce",
    "source": "marketscreener.com",
@@ -195,7 +216,7 @@
   {
    "title": "Bitcoin Bears Target $60K As Nvidia Earnings, Anthropic IPO, Bond Yields And Fed Hike Odds Weigh On Crypto Recovery",
    "source": "TradingView",
-   "time": "2026-11-17T03:06:00Z",
+   "time": "2026-11-17T03:06:19Z",
    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQcjVUU0tRMjFyNWJpLVlhbWd5Z2hjTWZNbEstOE5LTXNzak1sX3JtbGZ2LVVfWnpCRUoxdTdkaFp6TmFFNm1ZRHFiYUw0M0lBME5PMUh2UmY4RS1saFZZOE95V3M3RlN6S2JneEZjYzh2NEMzb1laczA0LTExOUNsMnhGZEZTZ3R2bUR5OXNGNHN3WnZ3SEJtRU44Z2thR3VFS05nd1BFUzJfVldiMmgtTEFibTVBNkZ6M2wxdXVRaXM3NzcyMWdaOGZPc09BVjQ0dDFXLWEzczB1MGdFZDVjbXhybjZuaHVlWE1LVTNGQ3dUX3Y2OEdCRGh2c0c4WnlJZGQ4?oc=5",
    "tags": [
     "FED",
@@ -342,21 +363,21 @@
    ]
   },
   {
+   "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
+   "source": "Al Jazeera",
+   "time": "2026-11-17T00:52:46Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3dzRnQ3eTJYSU9YS3AxRFl6NzhfNDZ4OXdTcmoyd1NXOFlJT015eHM3bGFjWnhSWWZJckIzRkFkUEJzQi1icEZ2TnpRRlZTM2l6X1k1Q2RFUk5fWmJyNFByRzhlbURlU0dlQURpVEFUODEzYmY2U1hjR0pWSlVKaXBUel8wMXlzUF83alBWRjVVRUNwc0lSSGNGYW1ZUWlQM2RUYk44QdIBrAFBVV95cUxOUU9INmQ3TGVsSWozY2hQNWxuTlluaXREeTR6OHljdUJrOFNHc0hielJqMUFnUXZXeWxsUkRrMFh6eWFOVGJmVGYyMVVGOFNnUnFsdGlMNG1nME40T1AyVjFjcVQ5d2hHUHJhZjIyVHlLck9USHY1c19CU1gtelYyTFNfY05lUEdVWm42MjN2azNPMmJkOHlDdkkzb3pPc05OcS0yb0FndGVpY2Qt?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Singapore non-oil exports jump 79.8% in October",
    "source": "Investing.com",
    "time": "2026-11-17T00:52:28Z",
    "link": "https://www.investing.com/news/economic-indicators/singapore-nonoil-exports-jump-798-in-october-5031377",
    "tags": [
     "OIL"
-   ]
-  },
-  {
-   "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
-   "source": "Al Jazeera",
-   "time": "2026-11-17T00:45:44Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3dzRnQ3eTJYSU9YS3AxRFl6NzhfNDZ4OXdTcmoyd1NXOFlJT015eHM3bGFjWnhSWWZJckIzRkFkUEJzQi1icEZ2TnpRRlZTM2l6X1k1Q2RFUk5fWmJyNFByRzhlbURlU0dlQURpVEFUODEzYmY2U1hjR0pWSlVKaXBUel8wMXlzUF83alBWRjVVRUNwc0lSSGNGYW1ZUWlQM2RUYk44QdIBrAFBVV95cUxOUU9INmQ3TGVsSWozY2hQNWxuTlluaXREeTR6OHljdUJrOFNHc0hielJqMUFnUXZXeWxsUkRrMFh6eWFOVGJmVGYyMVVGOFNnUnFsdGlMNG1nME40T1AyVjFjcVQ5d2hHUHJhZjIyVHlLck9USHY1c19CU1gtelYyTFNfY05lUEdVWm42MjN2azNPMmJkOHlDdkkzb3pPc05OcS0yb0FndGVpY2Qt?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -657,24 +678,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT2JpVEY2eUQ3QXFkRzJxckg1MGx3b0s4THAyNkpFMk1kRGpnXzlzNHh2SG1aQTU4N1hfNkpQcldhTVBPWTFoc2VNM2VYVU02WHBvYzVJV0VERGpXMGVxNEY2WWgyZ0JRVHFKdWlqMTk1RFpMektCbTZ1bHBDX2ZMd0xMNUVBa3I2cy11Sk5EVGFYOFF1cUtyOV90R0VaaEdxeFF4NC0teWHSAa4BQVVfeXFMT3pYY0V1YVg0eHc5OEYwWDR1RXBMdWdEbV8zdy1TUjZGQmV3MWVieWp3NjlEdHVCYzJCaDk3QVJzWXoyOWNKYVp1aU9UNEVpQXpxTUlpSy1MbGYwWkJQSkxITGdBOE5lX1Z4dFFORTUtMUJFeXVfUU41R3lzeTczaERDMi1nT2EwTXZ3Q3JvVG9HUWFvcWdsM1g3RmlVSzhaTWRlVG5POGliMFlxSENR?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed's Warsh says emerging technologies to have 'significant impact,' but there are risks",
-   "source": "Reuters",
-   "time": "2026-11-16T20:57:43Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQjBEWTRZekl4NlZXbUFpUW93VUNEU3JOUkVnZFk5VDAyRFBNRXYyTGNCREVZRFNEd2JEdWY4VmxsUGtxdnAwQnhZSlFiX3p2WWRHVU1iS1dIbXpDel8waEpsT25wdjFhTHlPNG8xMnJWdHdtc09aMnBDa2I5MGN3SkVjendsRWFOTUxvdnZrMmFKdDN6RmV3OXRISEdERjhuSEpDYmQ4dkVldmx2dENTcGRZR0NuVk9xYk85OTJCVmRteEk?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Gold Breaks Long-Term Support as Platinum Approaches Another Bearish Target",
-   "source": "Investing.com",
-   "time": "2026-11-16T20:52:00Z",
-   "link": "https://www.investing.com/analysis/gold-breaks-longterm-support-as-platinum-approaches-another-bearish-target-200691688",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
