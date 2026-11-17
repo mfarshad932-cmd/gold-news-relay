@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T06:31:13Z",
+ "generatedAt": "2026-11-17T06:59:42Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 8
+   "kept": 7
   },
   "marketwatch": {
    "http": 200,
@@ -61,7 +61,7 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 56,
+   "items": 55,
    "kept": 1
   },
   "bbc_world": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -86,12 +86,12 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 36,
+   "items": 37,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 15,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
@@ -101,7 +101,7 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 14,
+   "items": 15,
    "kept": 12
   },
   "gn_yields": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -128,10 +128,19 @@
   {
    "title": "Trump to kick off Asia trip with Quad talks in Manila ahead of China visit",
    "source": "Investing.com",
-   "time": "2026-11-17T06:06:24Z",
+   "time": "2026-11-17T06:12:27Z",
    "link": "https://www.investing.com/news/economic-indicators/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit-5031428",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "Palestine Weekly: Israel’s political reshuffle as the occupation grinds on",
+   "source": "Al Jazeera",
+   "time": "2026-11-17T06:06:58Z",
+   "link": "https://www.aljazeera.com/news/2026/11/17/palestine-weekly-israels-political-reshuffle-as-the-occupation-grinds-on?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -142,6 +151,15 @@
    "tags": [
     "TARIFF",
     "CHINA"
+   ]
+  },
+  {
+   "title": "Leaked Files Show Deutsche Bank Protected Russian Profits Despite Warnings",
+   "source": "The New York Times",
+   "time": "2026-11-17T06:00:12Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORnNyU2FWSTVxZEFydWh0bmk5MEc2aVJpRWJ6ckNNYXZEaXQ3U0pTM2RuWFRIQmJMZllRQ2FWOVJjdVJCZ2tGWkZfU1hFMGN4NW5qUE1KR1dkb3V5TjZFVnNla2cyc0FWOGJlcnJkREpIYThNcEdQZ3kzMHBiUzdKSzFPTjE1LVFYM1FaMHhqWVFReFNpeE5PTU5rSWZrUXhibWc?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -216,6 +234,16 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTThIT2sxWThBMElCMnV0b3gtN25MOVAtdzY0T1FSalVqcUdNSVBJN2ZqWWdiTWVkMVNqZDFCbnFlVjN4aDkzMnVWdl90bVdxbVI0RHNFaVotTDdqMllJUjdibkUxNll1aFotV2ZEbDZjdllGRFFESFByRVN5ZHNvNFd5WTM5aGN0TnJ0U1NPNWEwNUc1R2hjMkhyQnE1SnhCU3RwRGJpMzRLdw?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "China and Canada Expand Tariff Relief as Xi Meets Carney",
+   "source": "Bloomberg.com",
+   "time": "2026-11-17T05:19:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDF2Y3hmbXN1MWVDZGE5LVJDUE9NeEltNDdEU1hwckVTSmhHcmFNTWczVVhGSGtnaTVSM0hybGh5amRNOHl3a19RUHlHN0ttX1ZGeWNvdTFzTzRBUm84djJ3TG9FS29nQUd2dDlSS09JQWROaWRwZFJhS2ZRaTNCQ0xKbmtoYzgteHg0eGJ6bmlrX2FuWTFuNm1IaDl2cEdCWFhKOTBoU3cwOWc2?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
    ]
   },
   {
@@ -367,16 +395,6 @@
     "FED",
     "USD",
     "GOLD"
-   ]
-  },
-  {
-   "title": "China, Canada Expand Tariff Relief in Deepening Trade Thaw",
-   "source": "Bloomberg.com",
-   "time": "2026-11-17T03:37:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDF2Y3hmbXN1MWVDZGE5LVJDUE9NeEltNDdEU1hwckVTSmhHcmFNTWczVVhGSGtnaTVSM0hybGh5amRNOHl3a19RUHlHN0ttX1ZGeWNvdTFzTzRBUm84djJ3TG9FS29nQUd2dDlSS09JQWROaWRwZFJhS2ZRaTNCQ0xKbmtoYzgteHg0eGJ6bmlrX2FuWTFuNm1IaDl2cEdCWFhKOTBoU3cwOWc2?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
    ]
   },
   {
@@ -538,6 +556,15 @@
    ]
   },
   {
+   "title": "Silver Leads Gold to New 2026 Lows: What the Ratio Says",
+   "source": "FXEmpire",
+   "time": "2026-11-17T01:13:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMW1rNWJLc3pBMGZtYnZoZVlPUXplXzJ5NDk2VU5IZFNheTAwWFNmaVJmX21sRGFOUVBLMmtNTjNBUk5CUndtcmNuV2ZGQWFTTDdNVUJWSWVCS284MlVROU12M3ZNNEtQblNLdEN1MklSbzh6ODcyWkpJWE9rb2ZFZlp1SUN0ajd0YldRaTJhLWFQZXoxLU5PbXJsNnFDS3BUUTcyNDVTbHM?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Critics blame U.S.-Iran war for crackdown on clerics in Bahrain",
    "source": "The Washington Post",
    "time": "2026-11-17T00:57:08Z",
@@ -654,35 +681,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yMWhEckI4RjhISW85M2xWMDFpSm04aEl0Qi1QRjIyUmZfeGpVN2ZXUTJURHQ3VWJXODVlcHUzX05Fc0lQNFNBcnd2VUpYOVJCSW1FekhhQ01pbjl5VmhrZ1ZxNUtZTHZ0Y2N5blpNUnZVQW93N1ZUUzJ1YnJyVzDSAYQBQVVfeXFMTVdKalp6NXFaVWhQS0RLSW10N3lBRWgzTGFUZ2x6NmZxN3RFbVJucW9YcjYzUXQybzlsWG84VTJmN21ScE1yaTY5akw5MVVDME5wcU1USDA1aHFHN2EyV3BxM1JxNEV0SWV1c0dfWUJsZjlxdFZ2YXRTZUdlSHVGT0hHNHNi?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "COMMENTARY: Warsh's honeymoon period is over",
-   "source": "Reuters",
-   "time": "2026-11-16T23:30:27Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQWxhSndRSHRSdEJXcm1fQ1gtc0wwRGZJM1lobnREeE5zMVM1UC1TXzA3ajI4bXVsVVlNZE1EWng0Y0ppTElHd3Jfd1cwQy1WYk5ZaDM2TVhTWHIxTlVzN2U4a0VIZ1FDTG1UTWJXZTh4RHlNLV9MLXdCQTM0NWl6amhfdHA5bFFDVEpLYXNnb1ktaWxPRGlhamNXbjR1OG5YLUN2N2pjbVNqQQ?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Gold falls to one-year low near $3,850 on strong US Dollar, rising Fed hike bets",
-   "source": "FXStreet",
-   "time": "2026-11-16T23:27:55Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUHpVZUx2OEFZd3dWdy1WZDNVVWY3dGNveEs3eHVtOHRVX2Y0NjhVZ3Y3UjdDNmlmdTl2LVdiaURMa1U2UzAxdGpUVG9PU09OT2VXQVZWc3VlcXFldnpXWWZaLVBMV1pXcW5HdjVMTlFzQkVpOV9qdFMyYWkzbExKTmZJRUM3OEVrWUMydE41ODNvRTNaTW5mNmhtUWVVTXRsWExTaVFURzJ5ZDJwcGlNZGExS0FNaDFFVkgyUUp3?oc=5",
-   "tags": [
-    "FED",
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Meta faces sanctions bid over withheld evidence in teen mental health cases",
-   "source": "Reuters",
-   "time": "2026-11-16T23:21:44Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY0pncG9WWUpfX0cyRms1cXZETmNjV2tMOGZlTUlmd2MwSkRUeDV4T2gxR2d4MlozZUduNXB5MmJmNk1IVHFOenduakhPWWMzcmR4M2ZReW5MS3Z6OVM3aFNvSjc2Mmd3eUd5RkpCblR3bmw0S0RSWHJ2anJIUG1rQ0xDQjV1dmlDXzVqRk1ORW9jdlpLaXE3MC1fNzU2OHR3NW9JdFRObm9wZUxkNXhmRWpJS0VuM19NSVhrRVVwN0hndEE?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   }
  ],
