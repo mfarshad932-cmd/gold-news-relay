@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T03:12:44Z",
+ "generatedAt": "2026-11-17T03:41:05Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 3
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -81,28 +81,27 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 38,
+   "items": 36,
    "kept": 12
   },
   "gn_fed": {
-   "http": 429,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 429"
+   "http": 200,
+   "items": 33,
+   "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 12,
+   "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 26,
+   "items": 29,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 14,
+   "items": 15,
    "kept": 12
   },
   "gn_yields": {
@@ -127,6 +126,44 @@
  },
  "items": [
   {
+   "title": "Gold Price Forecast: XAU/USD stays vulnerable amid Fed hike bets, geopolitical uncertainty",
+   "source": "FXStreet",
+   "time": "2026-11-17T03:37:03Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYnBqMTVHa2ZYbHBiNkdZZEtVM0sxWEpUS3NTQTJxTEpKQ2c0bEpRV3JzV1RrcXZjYUtReG9VLVJ2TGo3LXBTUlRITGR5dUdhRnNvbEdiSEJEeEM3VFdNckNycThBNW5SVEJXaXJ2RjBOMzkxNUYzZC1hUHlsa0duX2ZfMVZVWDZOeDg2Rl9pTEhyeXhyZDBRbFJ4dGZxOHNDUm80M1gyakp0UEJyTm1nbWl4NzBCcVlWVnloN3NwcjNEM0NOMThCR010ZEh3VW9H?oc=5",
+   "tags": [
+    "FED",
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Trump to kick off Asia trip with Quad talks in Manila ahead of China visit",
+   "source": "Investing.com",
+   "time": "2026-11-17T03:18:27Z",
+   "link": "https://www.investing.com/news/economic-indicators/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit-5031428",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Ukraine war briefing: Crimea bridge attacked again after Russia strikes major Kyiv bridges",
+   "source": "The Guardian",
+   "time": "2026-11-17T03:14:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTmg0aDByRUM0SnpqOVZlZmZncVpLOW5zZGl0SG9xemhVbVNhcndfNGNCZHhxdVdRZGZ1U3NiN2JfWTBMcGhHQnlCa2lGRWxpNUxlcmxENzFteHJiZzhzV3ZrZ0tkZ2tUVG1ZOEpDS1M4UnJFQ01PdVYwM3RUTWE5Ykh0WHhua3J6Skx5RWVEcHVzVDlMRmRESksxNlNPSS01RFRyZUNWM0wyQjFoYlVkbjNzM1VUZHJJUGhJSlZLbzczWmFDRXJTV2JfQlZaSnps?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+   "source": "Al Jazeera",
+   "time": "2026-11-17T03:13:23Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSWFGd3ktYlF2emZzeXI2bTVaemZMNW1WRl9meXBBVHJIWkgxVGh6Vml3RGkxS0lJeWtaNXhfQmQzN21IZnJVZ0FEcUZZb0dkenJOdk9tZjRoNkNUalJQdXpXaVhhZkp4MVF2Mkx5RE5LVlI4TmI2ZWpPM3ozTURQMVQ1ZjhocjZWUTh4YS16N1ItMmR5NmFJZm9ZZkZIOV9TdkdtdzhVRExMc0xkZGhRMnpDNNIBuAFBVV95cUxQNm5ZRWY1TnA3YjlNWkpRemlWX184cFFZdlBwMzROcFVpY2VFaVZIaTAzMERONmF5U1ZRT1hDeHNTWk94dk1qWXk5ZzM0c2dPdjhFRWxKc3pfTlUwcWtzZ3UzcnE0dktxSjBrX0JJSDdMV1h2cXJSc1hEYURDNDNBRVZ1dmtJNGpUVzlGQ0h3RlAya3hVSFVoanhZLWxZRS16eDYydW9uNXVWbWFnSHREZWJyMXlUazdP?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Vance says there’s ‘no daylight’ between him and Trump on the war in Iran",
    "source": "NBC News",
    "time": "2026-11-17T02:59:00Z",
@@ -136,12 +173,31 @@
    ]
   },
   {
+   "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+   "source": "Al Jazeera",
+   "time": "2026-11-17T02:52:56Z",
+   "link": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
    "title": "Manzanar War Relocation Center honors Japanese-Americans",
    "source": "CBS News",
    "time": "2026-11-17T02:49:00Z",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbHRXcG9tX0N6LWFLR0RwN3lOeGJDQXVabjh2ekFKbEVGYXJuV01WYk93c0dJQlg0S1VKZHkwMUxYY1cwMnN3RnZ6c2RPVnFtUXNWQTc0WVpucURfS0JyRFkzcEV2cHEwM2U3Q1QtenVzOFhKRmxiYW9rUC00NEJ3dmIwQzlpOTVOX2U0SmdCb3YzM09VNFRMVGRiTC1GN28?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump’s Advisers Are at War Over China Ahead of Xi Summit",
+   "source": "WSJ",
+   "time": "2026-11-17T02:46:00Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZFJvYjNhcXVuMWNTSWZCS3M3eDMyOGVmVHVtLUZDckRsSkZobWdBUUxielFrSEVNUVBLM05qLTlWb09ESHVUaXRjQmRPN1VsdmI1LV9uRTFmMTJrNHdQTzNQQWJ2RG9Lc204ODEwSTJGWmJpNTZoZV9nTk9XUGhaVXZULVM0Q1NYYjdENWUwc1ZNb1FoYnJteFB0ZG9LUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "CHINA"
    ]
   },
   {
@@ -191,16 +247,6 @@
    ]
   },
   {
-   "title": "Trump’s Advisers Are at War Over China Ahead of Xi Summit",
-   "source": "WSJ",
-   "time": "2026-11-17T02:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZFJvYjNhcXVuMWNTSWZCS3M3eDMyOGVmVHVtLUZDckRsSkZobWdBUUxielFrSEVNUVBLM05qLTlWb09ESHVUaXRjQmRPN1VsdmI1LV9uRTFmMTJrNHdQTzNQQWJ2RG9Lc204ODEwSTJGWmJpNTZoZV9nTk9XUGhaVXZULVM0Q1NYYjdENWUwc1ZNb1FoYnJteFB0ZG9LUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
-   ]
-  },
-  {
    "title": "Precious metals break to new 52-week lows as us dollar reaches new 19-month high",
    "source": "Kitco",
    "time": "2026-11-17T01:47:00Z",
@@ -208,15 +254,6 @@
    "tags": [
     "USD",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Trump to kick off Asia trip with Quad talks in Manila ahead of China visit",
-   "source": "Investing.com",
-   "time": "2026-11-17T01:42:33Z",
-   "link": "https://www.investing.com/news/economic-indicators/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit-5031428",
-   "tags": [
-    "CHINA"
    ]
   },
   {
@@ -636,43 +673,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTkc4T0lUU3JiUFF0dDFhaUt5R01oR01kZmZ2Rkd1S01TdlIwVC0zcG12WWRqd0hyeDZnRFJEclByMVl0UXl2YnJSOG9CY1liZEZJdF9zWmlHY2VmWlhsTnlaQTBtVnVCWnRteXBxUkhTa25ZQllNR01ZSTlYZGNmNjkxVENDNE1ITjF4WW8tOUVWRGdEUXRLbjJWUVlfSktpUXMtSG9HT0l1NHIzUHpta2NUVW05NDNiQUtR?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Fed's Hammack reiterates case for slow, steady rate hikes -Bloomberg TV",
-   "source": "Reuters",
-   "time": "2026-11-16T20:16:40Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYk9kal9uc0hmSGMySFhuVE1BbTd3dkV1SkdjbEx3U2NuZFdoMFI1TThKSHVnLUNGTVNOOVpRM3VVUnBZdkxISEhKdVloQzBxUGlEcm15ZkQyUGZjWW5IbVhhZVNKWnBleE1PZzAyNUtmQUVrWHZ1R2YwU1FSZWVjczdVWXcwX3Z4VWhsVXZwUE1EaWMtZ3I0d1I2WlVOdm5rdGdZMFl4VVJENHRaSUE?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "Fifth U.S. Carrier Deploys for Iran War: How They Work",
-   "source": "WSJ",
-   "time": "2026-11-16T20:16:14Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORHdNR0J3TWVLeks2NEhhanAtUjdrV3NaSGZQZndHWGhuY2xOSzN4YmM3UVBiX1Z2MGJ6bS1hOFJSNHNhYUFoZEFsQnV0MmYwczJLS1RkbmhkMFZOSzN0TnAyRWF1dG96QUZFNTNpb2ExbEI4eDRZNHl5TjNkOHBxNjY2d0d1TnhNLUVXSGdGeHZHSFFIY3lxeWVxS1ZNU0VJa1UwbGdOMWVYTkRJQVFlQVFHdU56MVZSMldETXc1SHlLbk5yZms1SHRR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Goldman Forecasts Gold to Take Two Years to Recapture All-Time Highs",
-   "source": "Bloomberg.com",
-   "time": "2026-11-16T20:15:45Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNczF1RXhsRmNwczFILVk5SGZNMVhVeERCSHJkOS1OdDFNcndMcHk0ZTUxVVc0QXNUd0lCZEVqYmxfOGV5eGpsMEhnMGpRWUhLVEJqdWQ1MExqZUxMcjQ1S1h1LWx5QzBDVzkyY3BYQVk1Y2VkSnIyOWxMOV9tcTdYOU1lSUxCMHVfNFJkTm5vbDFpLUItZnFWMlhfamdvdHZoak9RRG9Xakl6RFBIb29JSkRWRENVM1dlWU1v?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Fed Chair Warsh Warns Of Super Intelligence Risks To US Economy",
-   "source": "Forbes Middle East",
-   "time": "2026-11-16T20:13:43Z",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT2ZENVQ1NG4zalM0SVh5YzktN2dtVEttMFE2Q0tXckk3eE5QUkN0YksySWZ5OGxMQkc4Tzl2TVl0YXpNMnpGODNxekR2ektBQmFOUldZQWFCNE5PUmxLRnJ5RmcyRWtqNl9uNUdidlhqU0lmaUlfeG02VGZtU1ZwVW55djhJckpheThWaFp0eUVVeEk1NUJ6N0hPSEpULVNMSDY0Z2pWOS1iVVctVHlVTnV2SXlGRzcxczMyenVnWkNyQWV1Mk8wMjhiZWxmOXRfXzNwTnlYS0tmenpDMTJFVHd5WDg?oc=5",
-   "tags": [
-    "FED"
    ]
   }
  ],
