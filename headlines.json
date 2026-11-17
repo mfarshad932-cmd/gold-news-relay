@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T04:37:43Z",
+ "generatedAt": "2026-11-17T05:06:04Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "investing_commodities": {
    "http": 200,
@@ -81,28 +81,27 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 35,
+   "items": 34,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 34,
+   "items": 35,
    "kept": 12
   },
   "gn_tariff": {
-   "http": 429,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 429"
+   "http": 200,
+   "items": 13,
+   "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 30,
+   "items": 29,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 15,
+   "items": 14,
    "kept": 12
   },
   "gn_yields": {
@@ -112,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "gn_cbgold": {
    "http": 200,
@@ -127,12 +126,58 @@
  },
  "items": [
   {
+   "title": "The Long Arm of Inflation Has Reached Our Feet",
+   "source": "The New York Times",
+   "time": "2026-11-17T05:00:08Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcG9GVC1uM0VFSVNrTm1pT1VnY2o5MnJ0Tm5Cb2dtUEVSam1uN0pvcUtxUGYtUm9XZ3UtNkxmUDBsR001VHVDcFlkaWIyNmdHQVBWVHNodzJta3lXRm9iUldWNW13bjJsVEhiMjhNcVJTY2tWRkFKQkpjcThqWExfb1NBZlk?oc=5",
+   "tags": [
+    "INFLATION",
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Trump Is Now 0 for 10 With His Gifts to Putin",
+   "source": "Bloomberg.com",
+   "time": "2026-11-17T05:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3lWWmZPQjUzX0FjUTJpTWxCamJfYjI3WHQ4QXZSWUZWS2YwaEd3d1dNcFVZYVBiVDZRS1dSellHcjdoYks4dnZBeGJ2eXdTVDdlX1U5bDV2U2w5eTh1dlE1cHdWU1lUeFkyMl9Ecldyd1U0YngtX2FOa0lEZ19pMU9MM3R1a2o5czdSUklFYUNkZUQ2Nm0waDdGdzF5VW1zUnFvRUg4TEtuQXp4aUxMQjh3?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "investingLive Asia-Pacific market news: RBA minutes lean hawkish",
+   "source": "ForexLive",
+   "time": "2026-11-17T04:51:02Z",
+   "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-minutes-lean-hawkish/",
+   "tags": [
+    "CENTRAL_BANK"
+   ]
+  },
+  {
    "title": "Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran",
    "source": "CNBC",
-   "time": "2026-11-17T04:34:24Z",
+   "time": "2026-11-17T04:50:19Z",
    "link": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold price in India: Rates on November 17",
+   "source": "FXStreet",
+   "time": "2026-11-17T04:35:14Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYWE1TVdpaHVWQWZUMnFSYVdpdU1jSC1PT2pKQ0FBM2d3d3Jra2dIV0tMWVZjXzlnT1FhZGRVN1JwZjlKYzUzR0cwaUExOGlpVmpGcDhJV3VsWFlJUWlSdWhtVUN5ZTZuLXNwYXNkSHZFRHQzbnRRa1hFcVRFdkJUbkxCMlUtVENYTk40UWVLYm1LQmZzNm51SEluc18xXzhQVU9oYWFn?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "WTI Forecast: Vulnerable as supply surplus and bearish techs hit",
+   "source": "FXStreet",
+   "time": "2026-11-17T04:32:20Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON3F6VmxDb0hlX2ZDRFdxVkFiaDM5Ym5YaUYtTDkzbkw4eVJ4bGdqQXJpdUhYcTFDQVBVZHg5M3ZucExLX1dFTk12VXBpMUxuZWx3T3N5a2dFbDBzU245WDNyR09tWG4wa0RqaFBLX0NUTXR2WlZXZS1ZWEc4V0o1UU1qRHFEVkZuajRCazljTk9WZnlFTUVWR3MyWjZ1T1BxcURRYVNEbU1kVm5hYnVGbFN4VWx4WG5JNGwwQ3BB?oc=5",
+   "tags": [
+    "OIL"
    ]
   },
   {
@@ -147,6 +192,16 @@
    ]
   },
   {
+   "title": "How Trump and Xi went from tariff war to trade truce By Reuters",
+   "source": "Investing.com",
+   "time": "2026-11-17T03:57:30Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTE16V2dGNUpYb19Kd0RWVHYyZ0ZRazE3RXg0WG5ZV1QtSzZKamtHSDVZOXVzZnNfaHFCSE5wbm92dUhUcERrckNKVjJyNWRWbnJGU3dWdHF3bFRYRDRxdTJoMHh6RzlkWk00bU1IZ0tMVWZ2X3BqOUNNX3UtTEZtWlhfM3pEZEFNVWdpaDEzMVY1YldWdFdLWGdVeUQwT3dMRm8zNGJRcVhXblpzWVE?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "TARIFF"
+   ]
+  },
+  {
    "title": "How Trump and Xi went from tariff war to trade truce",
    "source": "marketscreener.com",
    "time": "2026-11-17T03:49:01Z",
@@ -154,6 +209,15 @@
    "tags": [
     "GEOPOLITICS",
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+   "source": "BBC",
+   "time": "2026-11-17T03:46:56Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSRU00UVItWVBVOXhnT1ozc2E0NXk5V3VNTlN4eERVeGVRRlJKc3dHLUMxbTRISm5RbEhoeEJUdEhCbldiU0txRExramJVWF9OcVdIV3dBOEo3czA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -193,6 +257,15 @@
    "link": "https://www.investing.com/news/economic-indicators/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit-5031428",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "Fifth U.S. Carrier Deploys for Iran War: How They Work",
+   "source": "WSJ",
+   "time": "2026-11-17T03:14:06Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUDhvemt4SjR6V3JHb2ZjeVdLRzVlTVZvRk5FdDZFeGxFdmZ5TVVrcHRKMlZWbk1kY0Q2aHRlWDNSYU15enQ1enhtaU1rSnVPemZDYVJGcWdPLVJBR0ZuV1hWa0pqVFpHd1FELW5ERmh2RjRuZk9hUjZfajI3d3F2MU5Kbi1OcDBaRnBNQ2JuaXdWeXlvYXRidXYzUkF4Q1Y2QVlFb01JV3hESUJua1VqcGZnYkQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -606,76 +679,6 @@
    "source": "BBC",
    "time": "2026-11-16T21:40:07Z",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GeDBBRFlLQUp6OXNQVFdENGYzSGFrTUR3d01KTV91VlJVVXJURjl2Y0tfV2ZpcTlnTm55YWNMazI3WnFHZ29kS0pyUEdWbExQZGY3MGdiWUU2SU0?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "AI Stocks Resume Their Slide",
-   "source": "WSJ",
-   "time": "2026-11-16T21:38:00Z",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jMVRGNmM2LXVUalRrSEREd3VLUDl4alRBLTZDaEhhWjdCbXZJQlNxZnBhQWdvS2lrLVRESjg3LUZLRkpEQ0wtUFZVLWcwNllRX190Vm5PcHlEcndfODBubE9HZDVHVkMyYWFiMlo0YkpkVWpCdXhLaGhHZG8?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Central bank buying to support gold’s climb to $4,650/oz by end-2027, Goldman Says",
-   "source": "Mining.com",
-   "time": "2026-11-16T21:35:20Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVhvalpmR19JVlVvbTZnV3g0alU0djNoT3FIejZCYXhMSUhYTjJ6TTJ1ZkRzckIxX0Z3eGFyQTlva2RiNXFNMmZZSXpvTHY2ajUxVXpkSmlvUkY2dzhPODI3dmZyYm5pb1pIUC1xS3NiQ1RJM21QdWZHSUtyMzRzTkllSlNRSzczV1ZQRGM0eU42ZlZzeDRiS2lnWVZMTDdqNmY3WXhuaS1oUQ?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "CENTRAL_BANK",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Fake gold jewelry made from industrial metal tricks Japan shops",
-   "source": "Nikkei Asia",
-   "time": "2026-11-16T21:35:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnhhbXU0WGhjLTdsRmlzakVHSXJ4aE1uM20xNFVPaU1yUkxUY0dmRmh1S0drNmxGY1JlMG5XNkNRY1pqTzBwU2MtNW12UmpkNXR3UXo1OFJGWjZuSXBfUDFYb0lUanJTUUNBekVWMm10a1FMWlJpdjFHVVBHMkp6MkhaYmNGNjdTWXlPOU10d1Y4M3c3SXAxbU9GY09LWXdTQjFxeXpkbkxtakpzRVdhdA?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "DTI seeks lower US tariffs on PH exports",
-   "source": "The Manila Times",
-   "time": "2026-11-16T21:33:15Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT1pkVnl6YXJvOEk3RktDNUVla1J3N01KWHNqX3B5VWJYb0RfWE1OVjBrMk5LWnllamtzQXFpWVZkNzNEMUdMa1hxNFdKS0Jua1RGSndrNnV6TUlyVzhQNlVlYmZLS2w3MFF1Z2I4dXYtb1pIUm5tTmlIeWlZRGs5Wm1ZN1RRNDV2MkVnM0xJLVJraVBOSzY0dzVIMjdxWkpzMzJZd1p5b3JwSnVLa2fSAbMBQVVfeXFMTkVhQXJiNHdnU1ZYVkU1QmdOSzhUalZHRjRsa19kU2dDbko0WU5mbmxOaG42LWZkRU8yU0ZZTUI3Q051a0hhZU8wZ25WSGc3RW5TSUxaNThMZDlRYlN4UkNRLS1CN25xaTNoYkxVbURMVmhFOHZnWkx1ekM4eDkzdkxnQ05KMUU4VWtwVWttUV9SUHkzbllpVGVpeWtaX0pIQmxDbHAwTklvM1Z1LXJnX3ZDaEU?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "American Barrick Gold Launches IPO For Separation And Production Growth (ABGC)",
-   "source": "Seeking Alpha",
-   "time": "2026-11-16T21:31:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY092X2JtS3NZckh1WnljX1FuTXU5S1hyYWhDZVg1V0dZTnRCRWdJdFJrdnhhUll2d1owS0JleFhwUi1QOGRhUm0tQ21Ga2xnZHg5eWhxMWlBZGxxcWcxOWw2V1VRUFlWUDJOZkdCLW00X0dfZU5neV9HU2Vic0Z3dXg5OEZUSllOUDZESldFUmZhSFNSc2trNmJQMS1ubnF4NmwwenNnS3BudzEzY0JmWUpn?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "JPMorgan Chase reporting technical issue, delays with transactions",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-16T21:14:50Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTU3RGxVNVJhdkJaVU5YeFViVnNQcHo1dWtRSEktUHhpLXU0bUM5WHFlemZHd3RPYmY5SnpObl9La2RSSUdFejhSaEVuaUNzblVmdndaRTA0S1pkcExZNzZVdGJ4OFh2R3RxM1MzRUlqaE92cU1ySnVMR0lyT1cwTUtaMC01NnFRUGRwLXVabWhwSnlQS0pzRDBrZy05RmZsNlVXeWl30gGrAUFVX3lxTFBxUGtrTGd1MkFYc1NvcXh4dFhqRUNBQ2RNQjVUUDVGaTRHZF9KUklBM1JWSWZaMnVoS1FQbEVpejROOXNBVzRVcjF0STNybG1HaW9jSTJzNDBpZFJlbTN3NTVTbU13ZUt3X0I2Q3ZBS2ptV3NBX2s4d3UwSGxvQjVDYVp5OHktMFNXd0k4c2RaNElrVWR6U25QeVduTVFtYldqY3dWbDBEX0g3cw?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
-   "source": "The New York Times",
-   "time": "2026-11-16T21:08:30Z",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBYTdqekVHWUZKSGtDNktJaDFJZTgxX3VmdW9qVUphVVl2SjdUSUtyd2kzUVhoUnhVVm5kOTgxY2h3MmlqdUplcmQ3WDNjVEYxRGN4aUVFUFBUcWdsZWVWTzJNX2ZoNV85MWxxMEJDZ213ZFlZTEpSWkFUR3ZGdw?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
-   "source": "Al Jazeera",
-   "time": "2026-11-16T21:08:30Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT2JpVEY2eUQ3QXFkRzJxckg1MGx3b0s4THAyNkpFMk1kRGpnXzlzNHh2SG1aQTU4N1hfNkpQcldhTVBPWTFoc2VNM2VYVU02WHBvYzVJV0VERGpXMGVxNEY2WWgyZ0JRVHFKdWlqMTk1RFpMektCbTZ1bHBDX2ZMd0xMNUVBa3I2cy11Sk5EVGFYOFF1cUtyOV90R0VaaEdxeFF4NC0teWHSAa4BQVVfeXFMT3pYY0V1YVg0eHc5OEYwWDR1RXBMdWdEbV8zdy1TUjZGQmV3MWVieWp3NjlEdHVCYzJCaDk3QVJzWXoyOWNKYVp1aU9UNEVpQXpxTUlpSy1MbGYwWkJQSkxITGdBOE5lX1Z4dFFORTUtMUJFeXVfUU41R3lzeTczaERDMi1nT2EwTXZ3Q3JvVG9HUWFvcWdsM1g3RmlVSzhaTWRlVG5POGliMFlxSENR?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
