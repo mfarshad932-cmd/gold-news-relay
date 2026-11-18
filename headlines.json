@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T10:24:00Z",
+ "generatedAt": "2026-11-18T10:52:21Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -66,7 +66,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 26,
+   "items": 27,
    "kept": 6
   },
   "aljazeera": {
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 35,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 40,
+   "items": 38,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,17 +96,17 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 44,
+   "items": 50,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 27,
+   "items": 28,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 14,
+   "items": 15,
    "kept": 12
   },
   "gn_oil": {
@@ -126,12 +126,57 @@
  },
  "items": [
   {
+   "title": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit",
+   "source": "CNBC",
+   "time": "2026-11-18T10:49:37Z",
+   "link": "https://www.cnbc.com/2026/11/18/ukraine-russia-war-trump-putin-deep-strikes.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Traumas of Sudan war lead to wave of drug addiction",
+   "source": "Al Jazeera",
+   "time": "2026-11-18T10:41:15Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVN0N3c3RllOWmdicGN6a2drUUo2bHBfV3BZczZfTXRsWGQzV19oLXZ4WWJQWGZXUjA5REJ1VFRfS2E3SmduMkVzYXNpMnBYNmg1Q0lOVTBNZWJJZUpRQlRlcTNhU0xfWmpqTVQ5a2FpRXV1QXFPc1pybFlkdFJOcGxNRGJXWkVfNFNIbS1LdmItemZxY1lLa3JLVkFncjByMUV3?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S. soldier taken into military custody over suspected spying for Russia",
+   "source": "CNBC",
+   "time": "2026-11-18T10:41:05Z",
+   "link": "https://www.cnbc.com/2026/11/18/us-soldier-military-custody-spy-russia.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Why has an NYT report on Iran’s dams ignited fierce pushback?",
+   "source": "Al Jazeera",
+   "time": "2026-11-18T10:40:28Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0FULTRZZnVwUWJZWXdlcWNkSWxSbmRwZGdRYnRLd3ctZ2dKTzc0X3BUNW9YMDhQWERYSkJaUzdjU0lpWEJtUnJNRFhJUHNQSWExVG5La2QwbTdyd3RQNUJ4TVBScERfVFliWjc3YnpuRDYzSWdabzh4U2p4U1I1ZDY1UXc5OHF6OGxKemhCUmhqdlJ2UTVfNFJEQjdzS1ZHUFAw0gGoAUFVX3lxTE5Tb0FGVHNMYWh0WUUtbkU1Mi1MZ2pqSG9GSkpZTXNHZ2xzZkpoZEMtNGROWkNZYTFDWmtHVEVIb0ZQUWhLd2ttVkhtc1JMVThlWEVVUEVEMWxsNmNzS0ZvcHl4dW9uTW5SQzd5Y3B6b3VocGE5aVdSQW9FLXh3NmlhZnljWU51X3lha3dLN1N3OVR3dDRHR1NGN1NVRnJjUHNLOURkWkRXZg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Trump lands in China for historic meeting with Xi, Putin",
    "source": "CNBC",
-   "time": "2026-11-18T10:20:44Z",
+   "time": "2026-11-18T10:37:38Z",
    "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "Watch Stubb Urges 'Day and Night' Effort to End War in Ukraine",
+   "source": "Bloomberg.com",
+   "time": "2026-11-18T10:34:11Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcHVZMlhuUDNfMWtYYjNhX0JxdXlPdWdwV2VDVy1OZ0ViZ1hBdUlCLVdmak5sNURzbjdoUC03RWNVemx5UmEwdHltVTRTTzhDZUo3WHFXd09mbDJFaGNoVXMzZE40WkdLTl9MYWhXT0tuVFNkRHRtSE9sQjhvUlZzWEpDaEFIdXQxUEE5Mkd0VmM2VDU5TUVOSkhNeU5pdVJPVHZKSzlfUFR5bm1vQnc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -145,12 +190,32 @@
    ]
   },
   {
+   "title": "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
+   "source": "WSJ",
+   "time": "2026-11-18T10:14:49Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdkZKRW1BZDJ1X2RCT1hOVGN4SFN5NzBneU1VZFc2SEdEdnJJZTBlVGJzTDVoc1ltMWp1T2lCZHJtSGNOVEVnMzl4VlFKU0ZSVXp1M2pUejVlVTh6RHJZSGhodFhSQmNYeDRHZjlyLWNpX0xmcVJSaURYU2g4Y2FqbEg0RFJfakRsX3FWWUdwVmQza25vdTA0LTVmME4yVmEwUThRU0dZY1JOc2x6Z0VjbU1GSmF2OGhmc0FBT0lB?oc=5",
+   "tags": [
+    "INFLATION",
+    "GEOPOLITICS",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
    "title": "Energy bills forecast to go up by £443 a year from January as UK inflation rises again",
    "source": "BBC",
    "time": "2026-11-18T10:10:12Z",
    "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Trump slaps additional 50% tariff on certain Canadian goods",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-11-18T10:07:16Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDZTVjFHZXBWcUoteUpOakQ0T016RDVlQWxGR19KYnhEeEdfQzV3UmVLNkdEbWVCckxFbHZsNjhpcW9HQktmWGd5RmtobE1fWTJ4TnpqQlRZZDJRTUs2QzU4eW9zNl9ZeEpfRFk0OVRRTzRBVUJYS1F0dTFWRlNqNUFNV0taQU81MnBWbHd1MG5rendjb1g1X290RdIBoAFBVV95cUxPX09ka2RKeVgzdHdOWERZWHFGNWhmeWk0bHE5b0V3T3B0X19JQzZfcVQ0SHFkNXRBLWp3Sk1QMWduVU5sdy1DektIa19VeWtwTGNuNy1lbnU0OW0wazRjN1ZQdWJZdlp1N2kwSjc3RVhBaG40eFZTN0xTbE5xTHMyenZZazdlOXdqSHhrbkZrcTlzOGZiX3BnTy1tSThqTm1G?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -171,6 +236,16 @@
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVjdEa0ZHc3c4LWo4dUdZelpHMGQtNDlMbmNfam82N1NMbTlyblJuSUpfaXFiYXgyZ3VEZlpSX2E0X3ZGRGNJOVdiQk1HeTcweUl2b0k4RjI5TGI1MzZwMEZ6dEpsX3hXcHBvVkxBeWtmYUtuelN2M2hJYW5HYnVWWkZB?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "The US dollar moves higher as Treasury yields extend their gains",
+   "source": "investingLive",
+   "time": "2026-11-18T10:04:47Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVZRdFczUjZoVzBlWjdJcngwRUNpM1VNcENKVTNTQlBnVVdiWGZrTzBHZFhvT0VyODNzUFN0dW51c1ZWQmM3SmUzUDc1b1MwWXhKQkRTRUpMNE1tTFYzYWExdW02TTJ0dnpUVnlHV2lrd0Y4bGppSlRzMGJxcGFzUmpoSWkyVl9fX2ZPM0Q2d0ZBd1Y5V2VHdGRObWFyZFh6QW5scDVPRWZTNVdMZWsw?oc=5",
+   "tags": [
+    "USD",
+    "YIELDS"
    ]
   },
   {
@@ -346,6 +421,15 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHVMRUNlb19xa2ZqWFEzQnNZdW5JUzBpaW1HTjFaM1NOdFhkTjQwaUJsM2ptWUwwQjVEVENmY3lMY2xmZHk1Uk1iUEh6WTlMMFdOcGpVVHJBZDdkZ1NIV3RyUUlRcFNYcVVwUUJWS1d4R1NiUUVhVHF6cG9UeXBwWUVsTF83dmpYdDRkUDlkLTRFV3AyWWM1RzJIcDdwNDllTmppM3l2bWFRbk5mOW0wSUdn?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Treasury Yields Fall, German Bunds’ Tick Higher",
+   "source": "WSJ",
+   "time": "2026-11-18T09:13:06Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
+   "tags": [
+    "YIELDS"
    ]
   },
   {
@@ -582,15 +666,6 @@
    ]
   },
   {
-   "title": "How the Houthis fund war effort and tighten grip on Yemen",
-   "source": "Al Jazeera",
-   "time": "2026-11-18T07:37:53Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1F1VXdqY3B1eVRRVEZhazRQck1lS0JfeXlIWUFYeWE4QllJWVc5ZXF4VDVFTVRlcnY5S19qOUlJOEZ0emVBejNHVUFDc2ZYLWpKMEkwVjd6aXZ0QjVXbmxWcklvUzhnNWZ6TlpMVXpzM1ZZQU5FMlI1Wl9hUXNlOFplNElUQ0FkeWZWMElJMG1LU0lCOVFSUzFNZU5fRHlZ0gGmAUFVX3lxTFBJajVRVUlIZlhVOUhoYW91LTZHemdjZC1uVWIyaGVBMmFGY1dkRTYzanZIWENTYXhXa2Uxd3BmeElfdmEzYVg3RnJ4RDdRMGlLNHl1UHkwdW4tdkI5WmVfbEtaVHl3dTd3bHRSckJxTjljdlJhZGR0Vi16TE1uelhRUzh0Q3ZDaEx2ckVLRkFjVC1nM093SVh3VmJNQUtyTmFqZ3dPdVE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Trump Secures Thailand Trade Deal As Bangkok Agrees to Scrap Tariffs On US Goods, Buy $2.6 Billion In Far",
    "source": "Benzinga",
    "time": "2026-11-18T07:29:28Z",
@@ -607,80 +682,6 @@
    "tags": [
     "FED",
     "YIELDS"
-   ]
-  },
-  {
-   "title": "Bahrain and Kuwait repel drone attacks after US strikes Iranian island",
-   "source": "South China Morning Post",
-   "time": "2026-11-18T07:27:16Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVTh0TWdIQVlsZEw0U1d5LTR1YnF0WEJ3WU03S3ctV3VzbFk3LXhmelcwVnRKUEp6ZmltcWhSaEFBYVo5eEx6dzU0Tml0aEpydkxJMnA5eEFvUFBySS1UcjZ6VGRKZ2pVQm05c0NrVGFFcUp5OFZWWjF1ek5QcWsyQVlxbVE1ck5Hamp4Rkx5QmRfZF90QjM1ajNsX2FPOTdyRmlGQVVjQXd5bDllQTZOWmJHclVBQW5EME1uMWJLdGo4aFBENUlCTk5R?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
-   "source": "WSJ",
-   "time": "2026-11-18T07:27:00Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdkZKRW1BZDJ1X2RCT1hOVGN4SFN5NzBneU1VZFc2SEdEdnJJZTBlVGJzTDVoc1ltMWp1T2lCZHJtSGNOVEVnMzl4VlFKU0ZSVXp1M2pUejVlVTh6RHJZSGhodFhSQmNYeDRHZjlyLWNpX0xmcVJSaURYU2g4Y2FqbEg0RFJfakRsX3FWWUdwVmQza25vdTA0LTVmME4yVmEwUThRU0dZY1JOc2x6Z0VjbU1GSmF2OGhmc0FBT0lB?oc=5",
-   "tags": [
-    "INFLATION",
-    "GEOPOLITICS",
-    "CENTRAL_BANK"
-   ]
-  },
-  {
-   "title": "Israeli firms struggle to secure foreign financing as U.K. expands sanctions",
-   "source": "Haaretz",
-   "time": "2026-11-18T07:25:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOWFAwd0JlZ1FVT0Z1Y1NXcnR1bC1acWE1OVo0Nm5RNHY5dDg4bkRkcWZxbHpkOGRHLUV0NlZzWmJlUW44bHJzX2M2eHZHYkVSMG5VcjFnS2JkSlFuaDQ3Z3NSSENBSkxpcXZqdmcwTFZETkMxUUFRd0NEZzVpX2VJT0w5Wjl4dngtWVg2VjVGVGo1UGtJVnRjY01kam0wUzBKLTNic0ZoSUNEa3pkeFBaUFpvRW1RaGNmbDBWRGFZTUlXQ2YzekR6X1MyZHJKMnF0SDZuZWNPbTBaZ0NmMHgyZDRkVkU0TXJqenVkaERQQ3BVSjBlS290Z2tVclZMc1p4TFptTGhJTFZXZ24yd3h0QTJ6RE1kaHRXU2hrWG5FNmNfbm9ZakJuN0VxN2c?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Senators press acting U.S. Navy Secretary on Iran war costs, sailor health in confirmation hearing",
-   "source": "CNBC",
-   "time": "2026-11-18T07:24:06Z",
-   "link": "https://www.cnbc.com/2026/11/18/us-iran-navy-hormuz-war-cao.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
-   "source": "CNBC",
-   "time": "2026-11-18T07:16:14Z",
-   "link": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Thailand’s businesses fret over Trump’s zero tariff on US goods, farmers comment",
-   "source": "South China Morning Post",
-   "time": "2026-11-18T07:11:47Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRTU3YUx2WXllSXpFVlNtTWJEbzZ5RkM0dGRtZGhUNzlPVjlEaXU0U2lsTGVYM2d3dEo3bWZJbUlTUVBnSnZjUEZyam5YVlhEOTdZOE1XeUJ1UDlxYUZaLU5mdjYwZWlFaWZwaHdjb1pJY0hxTkV0dk13WTM5aGMzZ09CeWhzMzU0SFZ1NGIzWnczWTZxd01nLXNhT01udUxtODBHN1l1YmxrUDE0OFBFT2t4ampSN0F2aHdMeWRtZmc4Uy0zU2o3cVZ5RdIBywFBVV95cUxOLWxKQ1ZtZlZfUFdKS1RCNWhFa1IwRHdxenZtLTNLYkF5bTJDb1otR1UzRWZhMk03QUhNSTZkaFU2YVhQOFloRTZpeU5pOUw1Y21jcE1iTmc5OUJvNFU2ZkZUSWtoZndJVWlXenBpaHVFek1uMVlWVE9BcFlPb2RZM0Y0eU5HWHl3b0p3OXVWUDhNSEt0WWYwRGgyQTZ1bDNfN1R3NU5DV0RkTEJTb2dBdkNxNXlMM0FoSTV2bTI5MjlzUXlIUEthQkh4WQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Czech Republic eyes Israel's Arrow 3 defense system amid European fears of missile threats",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-18T07:10:09Z",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yWm5MdFBNeUNjbTF5Vi1FWlVVZ1oyVXNQVmlyVUl5TWdMcDFUeW91azhaeUIwM3ZMQXVBWnlHSWhlM1M4WERGTEROcjJHRDYzcThUYW9DWW9iQmJZVllJV29IWQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "UK October inflation hits 3.6% as record diesel prices drive fuel costs higher",
-   "source": "Investing.com",
-   "time": "2026-11-18T07:08:46Z",
-   "link": "https://www.investing.com/news/economic-indicators/uk-october-inflation-hits-36-as-record-diesel-prices-drive-fuel-costs-higher-5034908",
-   "tags": [
-    "INFLATION"
    ]
   }
  ],
