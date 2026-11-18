@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T12:45:43Z",
+ "generatedAt": "2026-11-18T13:14:03Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -21,7 +21,7 @@
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 4
+   "kept": 3
   },
   "bea": {
    "http": 200,
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 6
+   "kept": 7
   },
   "investing_news": {
    "http": 200,
@@ -61,12 +61,12 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 43,
-   "kept": 5
+   "items": 44,
+   "kept": 7
   },
   "bbc_world": {
    "http": 200,
-   "items": 27,
+   "items": 29,
    "kept": 6
   },
   "aljazeera": {
@@ -86,22 +86,22 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 36,
+   "items": 33,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 21,
+   "items": 19,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 46,
+   "items": 47,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 27,
+   "items": 28,
    "kept": 12
   },
   "gn_yields": {
@@ -126,13 +126,89 @@
  },
  "items": [
   {
-   "title": "Fed officials set to raise rates again in December, but the future still looks murky",
+   "title": "Energy bills, chocolate and cat food: What the inflation figures mean for you",
+   "source": "BBC",
+   "time": "2026-11-18T13:10:01Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
    "source": "CNBC",
-   "time": "2026-11-18T12:37:32Z",
+   "time": "2026-11-18T12:58:59Z",
    "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
    "tags": [
     "FED",
-    "RATES"
+    "RATES",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Gold Price Forecast: $3,500 Support in Focus as Selling Deepens",
+   "source": "FXEmpire",
+   "time": "2026-11-18T12:57:29Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSjBRVEE2MzZYOF9WUWpBYkFTdnBpSWhZN2xLaTN2aVhNVWdsdVc3THZ1Y3kxcDMtSmRlZEVPSUFmazJ5Y3JRRVp6aWw0aGl5MEgtaTNnbjh6cGYxbWdYZ2xaSWNyY1JNLTJaMHh6U3c1UDZnb040NXlySWdFNEdzaE5uRjBzemFpbWFBeW5JdkpQNDI0U1dvakw0dlY2TFpqWnpzMGJnSl8wVWxpWXZqaQ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Trump is trying to put the Iran war behind him, but it’s not over",
+   "source": "The Washington Post",
+   "time": "2026-11-18T12:55:56Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWE1ReU9uZ3dGbXlkREpmMlczVmVkb1B1bm9FcEZUdFlYVG00NXFRclhMMmdjRjFmb0R2YTRGSmxzRVJQckJkNGF5Tmg1UTdxRTh4Mkd5RXpjakNkQlpoZFRrZWNQRGdJOUZwaVRiQTNPblhnMG1wQlN2QjhIcGVRemxGamdkbmxBY084MkN6NDJIMGhDS1BucVJXNWhZelA3V1VF?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "China Gold Market Update: Robust Demand In October",
+   "source": "Seeking Alpha",
+   "time": "2026-11-18T12:50:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTzUxa011cm1pQ0RtdHEyWlJhSHRXTGlOclp2LXc3dFNyaUE3SWtmRnphOVN1bTh5clFBUERvYVIzRDBGSGxHWkVCeVg4MC1IWEhnalVIZFowLUE0UF9MTVlHS2c5UENTUnVGb1lPVW93Um9WbXkyMDR3SGZXM0hxczhBUXhwYUdfUUZmaVRocUY?oc=5",
+   "tags": [
+    "CHINA",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+   "source": "BBC",
+   "time": "2026-11-18T12:39:24Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war",
+   "source": "Reuters",
+   "time": "2026-11-18T12:36:03Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUo2UWtYUkdWbUFwMVlzSHJwTVNrZlhyMzVuVnk3YVFXLW9mN1g5ZU44SmpMZG9kUUc1NFhacHEwbFJBN0lTQUdaMzFmNXNyd0RQaHNsaG9vY1lNRHRzV2pqV1dmT0Q0dXdWVDdORjZCVDczU2NueUdWaVZNd01GSXdBa05pQ0E1ZmkwRWFENXdlckFVLUdHVUFSNmhwa29oU1gyS0NJaTU1S2dJa3U5VmtKWQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "EU appoints Danielsson as new sanctions envoy",
+   "source": "www.marketscreener.com",
+   "time": "2026-11-18T12:35:42Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa19YNTRFVGRmdGFfdkE1YkhXLTZXOU40STBCcDBfUU9mR0g0bVgyZnhyVHRUQmJPZ18zY3VXNUZTLW9hVXppa2dzZUd5QWozUWItdVBuZE9RekI1UzdNNXN3eTRpLVQwaEU0ckg4d1QtREVQQTJZbm4tSnduMWMzWWF4enZodGh1N2JOeUtlb2ZBbnFadmFoaXdVUldTN3c?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Gold tumbles to its lowest in over a year as Fed rate hike bets build",
+   "source": "FXStreet",
+   "time": "2026-11-18T12:34:25Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHdPVUR5QjJ5U083QUozRDZ1NUs0c0NaU2pFSDdzSGFVWlpsSGlydFZxV21jWjJlOGQ4NVZ1bkNMT1J4ME5UN3BPTzlOdkhQTnpvNVd4WVBya2RRWlhFX0R2dURaVnR6NnJVT0RJcGxfc2piZ2hiYjVmRkdLOHNDb1VPV3YyRjdsenM1M2t6SHA5ekVOc0duZTFpRWNkUTBXUF81c2JRU2toRHlxZGstYUxB?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "GOLD"
    ]
   },
   {
@@ -145,12 +221,31 @@
    ]
   },
   {
+   "title": "Thunder Gold Announces Upsize of Previously Announced Private Placement to C$6 Million and Closing of the Offering",
+   "source": "TradingView",
+   "time": "2026-11-18T12:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZFRrdDlJMGt6U1hOaW92ZGszblZRb294aU9yWDFRTnhZa2RwUWtCcy1BOGNLSVFVZGtXVy0zczdqS0p5R00xazhlZ2VzZnJkZllZZkllY1lHM3lrNEN6NzN4d2dPZVI5RVhoR1czMTlONUFEREc3b09kcFZCUGFkaThsWV9wQndaRWZvVDl1YWtVV1BBWTA3X1VYOTFraE5QQjhFSzUyc3gxMUtvOVotWi01QnlIZW5Jdl9fRnFtOWtzXzZJTnowSVcyd3FtM0xIbmV2ZWRQSnBCdUJSV0tmT1dZQVI4TzBOc05USXhOcU9zZkZDWEpBSnhmMkN6TmszWTZwZ004c3Q?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Ukraine mourns mother, athlete and drone operator killed in Russian strike",
    "source": "Al Jazeera",
    "time": "2026-11-18T12:27:40Z",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ukraine-mourns-mother-athlete-and-drone-operator-killed-in-russian-strike?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Oil Prices Drop Despite Escalating US-Iran Conflict",
+   "source": "Investing.com",
+   "time": "2026-11-18T12:26:00Z",
+   "link": "https://www.investing.com/analysis/oil-prices-drop-despite-escalating-usiran-conflict-200691833",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -272,15 +367,6 @@
    ]
   },
   {
-   "title": "Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war",
-   "source": "Reuters",
-   "time": "2026-11-18T11:45:08Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUo2UWtYUkdWbUFwMVlzSHJwTVNrZlhyMzVuVnk3YVFXLW9mN1g5ZU44SmpMZG9kUUc1NFhacHEwbFJBN0lTQUdaMzFmNXNyd0RQaHNsaG9vY1lNRHRzV2pqV1dmT0Q0dXdWVDdORjZCVDczU2NueUdWaVZNd01GSXdBa05pQ0E1ZmkwRWFENXdlckFVLUdHVUFSNmhwa29oU1gyS0NJaTU1S2dJa3U5VmtKWQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Developed-market fiscal deficit to hit highest since World War 2 outside recessions, J.P. Morgan says",
    "source": "Reuters",
    "time": "2026-11-18T11:44:23Z",
@@ -326,15 +412,6 @@
    ]
   },
   {
-   "title": "Trump is trying to put the Iran war behind him, but it’s not over",
-   "source": "The Washington Post",
-   "time": "2026-11-18T11:31:49Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWE1ReU9uZ3dGbXlkREpmMlczVmVkb1B1bm9FcEZUdFlYVG00NXFRclhMMmdjRjFmb0R2YTRGSmxzRVJQckJkNGF5Tmg1UTdxRTh4Mkd5RXpjakNkQlpoZFRrZWNQRGdJOUZwaVRiQTNPblhnMG1wQlN2QjhIcGVRemxGamdkbmxBY084MkN6NDJIMGhDS1BucVJXNWhZelA3V1VF?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Vance blames Iran war for Republicans' midterms defeat. Trump says he would 'do it again'",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "time": "2026-11-18T11:25:58Z",
@@ -367,17 +444,6 @@
    "time": "2026-11-18T11:15:00Z",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5c01pVXVBSW1KcU1lTTNCT1JuMm1BTjRVSWp2U3hFSHVURURibFdoVEh5WEdYU2wxY0FHSlk0WGMxQzlOeEhEdHBEX0JDd1QyQlRKeVRXSWNDbl8tNkRTbkZXLXZmckZHczR2MlJSQ2FZZzVKZlJVQUtHSW91Zw?oc=5",
    "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold tumbles to its lowest in over a year as Fed rate hike bets build",
-   "source": "FXStreet",
-   "time": "2026-11-18T11:09:20Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHdPVUR5QjJ5U083QUozRDZ1NUs0c0NaU2pFSDdzSGFVWlpsSGlydFZxV21jWjJlOGQ4NVZ1bkNMT1J4ME5UN3BPTzlOdkhQTnpvNVd4WVBya2RRWlhFX0R2dURaVnR6NnJVT0RJcGxfc2piZ2hiYjVmRkdLOHNDb1VPV3YyRjdsenM1M2t6SHA5ekVOc0duZTFpRWNkUTBXUF81c2JRU2toRHlxZGstYUxB?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
     "GOLD"
    ]
   },
@@ -614,69 +680,6 @@
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yWm5MdFBNeUNjbTF5Vi1FWlVVZ1oyVXNQVmlyVUl5TWdMcDFUeW91azhaeUIwM3ZMQXVBWnlHSWhlM1M4WERGTEROcjJHRDYzcThUYW9DWW9iQmJZVllJV29IWQ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Abdul El-Sayed calls for Benjamin Netanyahu war crimes prosecution",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-18T09:52:13Z",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DdTNHRTBDbEtoLTRaYzBUWnJkRnVBOEd5MWlURnpjc0tuNDdfckZRWWNuQjA4ajR5Q1hQQUJxVmxHV2c1QV9WLTFwWXBGNjJkcGZpUmtLVVZEVmRuZk1icUVxUjg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold analysis shows we may be in an interesting potential bottom zone",
-   "source": "investingLive",
-   "time": "2026-11-18T09:43:49Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObU1Xb3Y5aEU4YWs0ZEFWa1VhYUNCTi1iN2ptb2p5LWlDN2ZDc3lPWmRJR091MVhlT2ZqbzRzYV95V3ZjUWNYc21lSm1XWFVURWdLZEJPQU5EVnkyMnZyMzZJMW5TNExfQWtWX0FFRUltZzdTdEE1STlfc1FONm53OUl2LTRQNmFudWZmUDVtWGNZMkI0R2JPQkxxaWFxVG9zV2NPalEzeFNpejFt?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "What do Deutsche Bank leaks reveal about Trump, Epstein and Russia?",
-   "source": "Al Jazeera",
-   "time": "2026-11-18T09:42:26Z",
-   "link": "https://www.aljazeera.com/news/2026/11/18/what-do-deutsche-bank-leaks-reveal-about-trump-epstein-and-russia?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "To avoid conflict, great powers must be more flexible, argues Odd Arne Westad",
-   "source": "The Economist",
-   "time": "2026-11-18T09:40:31Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWHZsTGl6cEpFQzFFUGh0VWQ5TkllOVZSekctZzdDT0NxYmE3YlVITkVCUHNJZGl2Y2dIY3d6YkJ6WWVQU2RZWlBMSm1TcjJlN0R6NzExdHNlOEd5b2gxSm0yS0wzZGk1WUZTSm91bm81VmlfMWdBR2ZPV2xPTUY0S19uMlhpaWpWOVF3Y0V0WFNGVlhkcl95WnBYSmgtQ2kwcG15U0YyLUNhUUVqNHNWQW5tYWRFd3ZfODFFZTFoYWprOENuMmRv?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russia Expands Missile Arsenal To Sustain Strikes Against Ukraine",
-   "source": "Forbes",
-   "time": "2026-11-18T09:40:13Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRE81enhqd0R4ZjY1MEdBOWVzZ2FaS1RvZmJET0xKaFFFamNCa0dYVEFvYzN5M1ljMzJwdHN4bmo3bzRDNXpWeS1tUkI2Z0tPQWVTbmo0ZmYtV2Q1QU9DM19YeGpXRy1rYW9oTWRqdi1iSV9NNW9oelFUSnVsSUg5cGEyMTVDRnRzNHllaDdXelBmSGJvXzdXUjRIeUd2N2xGSTJINGNHNFJrbmVjT0dPNGQ2QURQQ1plS2dN?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Piecemeal wars: A new kind of world war is already under way",
-   "source": "Al Jazeera",
-   "time": "2026-11-18T09:38:25Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU3NpakNYbGwxSGdzM1lsZ1dyOWh4cTNRcWFRT2U0enNYMzBIbWxidGdWM0N3X1BKay1fcmFpdjhYWFFSYzRtTC1ydmJHaE0xMDZhQ0RlTG11M1p0U3lRWTF6M2JBM01UV0NyYWlLVjNWTy1vMVR0ZVhYdS04eE1xeGZsN2huNk1tWlhfa1d6QnRwZl9MTHEtRmRwbkVwLThEY2QtTG1NRjPSAa4BQVVfeXFMT2d4VGp4LUs1N1dsdkE1NVVILXZ0TzFTbHROakZIMW9jcjVKNGxoSldhempYRlVtMmJtNVpJYXViOVZqd1BLekJxZUtfaURtR2tBYkY5UDE0ZEVYcWN2Q3F1a0hyRnlEeXZxVmNNamJlU1A5TEVqMWZGb0M2bDNOa21JVWJjQmhMSk9xZi1jSU1mOTMwbFNJNHVqeGhzOGFSN2pwdFdqT0ZUYV9GSHBn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Australia sanctions Israeli individuals, orgs. tied to West Bank settlements, settler violence",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-18T09:34:16Z",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52NWlGNWdDTjNuYkxjd210b3ZBdUpOX2w0RWVyVU1fZVViZ3pGS1B3eDdGcVFRcGNvQVM3M3l2QUw2WDlnMFNuakkyUk0wdHo5ZmNWcGlrNE04TmlJZmNn?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   }
  ],
