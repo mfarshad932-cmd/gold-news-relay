@@ -1,17 +1,17 @@
 {
- "generatedAt": "2026-11-18T18:54:15Z",
+ "generatedAt": "2026-11-18T19:22:36Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
    "http": 200,
    "items": 20,
-   "kept": 0
+   "kept": 1
   },
   "fed_monetary": {
    "http": 200,
    "items": 15,
-   "kept": 0
+   "kept": 1
   },
   "fed_speeches": {
    "http": 200,
@@ -52,12 +52,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 35,
+   "items": 37,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 34,
+   "items": 38,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 24,
+   "items": 25,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 47,
+   "items": 45,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 12,
+   "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,6 +126,125 @@
  },
  "items": [
   {
+   "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+   "source": "CNBC",
+   "time": "2026-11-18T19:16:08Z",
+   "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+   "tags": [
+    "FED",
+    "RATES",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Gold And Silver Prices Tumble To 14-Month Low",
+   "source": "Forbes",
+   "time": "2026-11-18T19:15:02Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYV9xeGNDa05pZm01YW5PZkFlN2s2RnRJUmpvOW5vSmpPdkJFeldGc0VzR1oxS21Ea0VwaDJQRmFLcVBzWkwwTGg3VHRGV2NOTEJONVRMUUhWSW1jci1OVzFCbEFQSzA5NGtPQ2pBaGZnbFdnR0lmemoxQTdoaVRiWG9YdHQ2b2lxMHk5bEZMU29LYzE1ZHEwZXYyTS1DeDVEYlZsRVBaLVVnNHpBdjlRV3U5UV96bG1ueHNR?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold price drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric",
+   "source": "Mining.com",
+   "time": "2026-11-18T19:14:14Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTzJ3SW41M0FnMmVhbTNmV0xqR3dfYlZLMV9nM0FDNzMydGI3MFdLVmJWYnZLRFVyd2pWdGZucHl6SGdqdDZTekg4NmE0TVNHVGFIb09Zc1gxdHk3TjBicmdIYWhmQkZnUDVobWJvTk83U0pCSEdLbXBfTWMyUThHb2JwVjU5OFFOWHBxbk5NR01ReVdseDVhalB1cGYtWncyZFV4cVhPOUVIZw?oc=5",
+   "tags": [
+    "FED",
+    "USD",
+    "YIELDS",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Some Fed officials argued for a hike in October: FOMC minutes",
+   "source": "TradingView",
+   "time": "2026-11-18T19:12:26Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdTZmaVJrOFNBaWwtajNQcG1QdE1WdE8taUtmVjd5Zm1kdjctMmNIV1FjTk1UWmZDcWxUbl9vdUVWQ0swdVJEa20zcUpVUFFwTWp2a01DMWlJTHNIRmgwQ204WC1aVkNXc3pFcDFmNF9oc1BuRmpJTURHd0hvbWxiVmVmaDJadGMxbDN3LXdvVmNCNGZqeDRtUnREVEZmMEQ3TmxWNFRERlUzZHM4M2FNSnhtVFJ2eTVHTkc2Vm1wdFA?oc=5",
+   "tags": [
+    "FOMC",
+    "FED"
+   ]
+  },
+  {
+   "title": "Fed minutes show growing unease about the outlook for inflation",
+   "source": "MarketWatch",
+   "time": "2026-11-18T19:12:00Z",
+   "link": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
+   "source": "Reuters",
+   "time": "2026-11-18T19:09:43Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQWp0U1B6TG9KQU5oY25mQTRtbk5hTUZxNnI3azdIZDNNcU9iN1hzSndVckt3eU5ReUZockwxa1JOMVYyNTQ5d281c3NnU1pEU3pKaEZMSUZEdFQ3bG9DaXk4Umx1NG5WQ3ZvMko2VzBYdlgwYUI0Rm9ud1kzU1VMeWdZNXlkd3FJWTBvc25qV1ROWDZubGV4SF9QUk1EcG9BWGprZzRxcU9xa2g5TmRiUDRqR0FoYmNreUNicmFiWQ?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Fed Saw Need to Continue Raising Rates Despite October Skip",
+   "source": "The New York Times",
+   "time": "2026-11-18T19:09:22Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWNVYnFNZV9nd0xLQW9EenZFTEJZS1A0VF9jcXgydHdZMlNUY21sTndVYzZXTThLS19UOThYOF9oZS1hbURtSlBhcUYyTVB1XzB2QUk5dlZva3RlNzlyWmtweDNhUUdyNVJGV290RzNLYTBEU1RXMlpiNEtHZ09HTVFyZ09ldVdKUXNiMHFLSk45Y3RiOWEzWDFB?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Silver Is Falling Faster Than Gold as Rising Rates and Weak Demand Take Their Toll",
+   "source": "Investing.com",
+   "time": "2026-11-18T19:02:00Z",
+   "link": "https://www.investing.com/analysis/silver-is-falling-faster-than-gold-as-rising-rates-and-weak-demand-take-their-toll-200691863",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+   "source": "Federal Reserve",
+   "time": "2026-11-18T19:00:00Z",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Silver and Copper lead Gold lower as the Dollar rises",
+   "source": "FXStreet",
+   "time": "2026-11-18T18:56:14Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTlNQWXNWRmJKRFZmVnRjUko3YUcxcExhY2dRSmpIMEpEUFcxVmZ4YVljOXpYZi1LejN4NVE4MWRjbk41ZjI2dlg2Y0dUM0Rsb2FlaXVlRnFqdWY2Q00xTGY1WVpTZEpJS09xVGl4Y0NfUHg3dmNRRmhoRy1ndElYT1FQNzNoZUVaTFRFaFdKTS1JZjNlaEpudURuTVd3MDdBUHc?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Trump is trying to put the Iran war behind him, but it’s not over",
+   "source": "The Washington Post",
+   "time": "2026-11-18T18:55:56Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWE1ReU9uZ3dGbXlkREpmMlczVmVkb1B1bm9FcEZUdFlYVG00NXFRclhMMmdjRjFmb0R2YTRGSmxzRVJQckJkNGF5Tmg1UTdxRTh4Mkd5RXpjakNkQlpoZFRrZWNQRGdJOUZwaVRiQTNPblhnMG1wQlN2QjhIcGVRemxGamdkbmxBY084MkN6NDJIMGhDS1BucVJXNWhZelA3V1VF?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Central Bank Buying, Middle East Risks And The Outlook For Commodities",
+   "source": "Seeking Alpha",
+   "time": "2026-11-18T18:55:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ1ZucFlDRGptdHRfWXBaUnlsMVRIams1alVsQXJ4VVlnZElSc0VndjZYVW81UVRnQkpQZUtlWkp2Y0xrOEM0dTV2dnZBX0lpNUVYLWE3c1RUYmlRN1FqREFQVjd0V1VkSWlvbkpZdzZESVJ4QlRxNHRtb3ZaSjNfOHZjLXMxUHpFTXNIa0h6ckhtTm9pUTdoN2RCRU9lbHRJa1JSRg?oc=5",
+   "tags": [
+    "CENTRAL_BANK_GOLD",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
    "title": "US sanctions Hezbollah-linked charity in push against Iran’s proxies, Treasury says By Reuters",
    "source": "Investing.com",
    "time": "2026-11-18T18:50:59Z",
@@ -133,6 +252,15 @@
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Trump-Vance tensions grow over Iran war as Marco Rubio emerges as 2028 favorite",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-18T18:46:49Z",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90R2lMaWlCR2NDVTBBS01zNUJHb1dTQl81U2NyMDdsZlBxWnJuTVBYX0FIMXlqTDZzOXhMNkY3ZXlGRWwzT2JsbHVpSUVEN3lVbjRUWW11XzZjd1VmYkl4M0R6d0s?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -160,6 +288,15 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVh2YkJRNVQzdVp1OTI5akpnX0J0NF9IanktaWtjU0VMdnZvcGN5dVpId3NNN25tSWkzd2xDM1VtTXFleEdwbnl0YmhwcVRZbXlfb0M5M25ObGwxMzRUYmJhWmM2Q0ZjcTR2RlA4MUtFUWNHWVRyZ0xzRlh4bERmSHdBSktDTkxDQUx0dmppV2oxTU8yV2M1bXViVmJKQl92MlN1Yl9SZ3dnT3diSmc?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed's Barr says rate rises likely lie ahead for economy",
+   "source": "Reuters",
+   "time": "2026-11-18T18:39:43Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSm12UHZCU3VxTVdaUEZkTFVrcllfdGw3ejc3STVZM3U0cXByUWR5Y1R3ZDRhZmxQVjNiWXI0Qm9hTURNNlE4YTAxU2hYZVNNSm1JNENPd0tPYlE4VWtNNHZTQTZ5Q1JJMVE2SzYyNTE1UFVjSWRHUlpEZVB0dmhYbzlEdkNzc1dFUmJyaFEtNE42djVKTU5sN1RvZw?oc=5",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -236,6 +373,25 @@
    ]
   },
   {
+   "title": "Gold price follows the dollar in the short-term, but real yields over the long haul – Heraeus",
+   "source": "Kitco",
+   "time": "2026-11-18T18:10:14Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNnVBVHhjV2JQWDVXRHB1RE53eU5tU1hOeV85c3pxUWtRNGQxdEtQWXRod0EwcWM5MkhVdU5Td3VZaTJtUEl4ZEpZSDcxek54cWFjelBiaFFsa0lBTWo3WnhFS0dyVTRmSGNkamNnZldrbTN3UmsxRkFPQ1YwNy1wbkc2bnFpNlgtQ0pabkhCUklEdktJd1I1VjVsVEFWSVRGY0xfb1lISTU3U1JBSU1rQzczaDJBLVFt?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "The US Treasury auctions $16B of 20 year bonds at a high year at 5.459%",
+   "source": "ForexLive",
+   "time": "2026-11-18T18:04:41Z",
+   "link": "https://investinglive.com/news/the-us-treasury-auctions-16b-of-20-year-bonds-at-a-high-year-at-5-495/",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Gold Steadies Near 14-Month Low as Rate-Hike Pressure Mounts",
    "source": "Bloomberg.com",
    "time": "2026-11-18T18:03:27Z",
@@ -245,12 +401,12 @@
    ]
   },
   {
-   "title": "Trump is trying to put the Iran war behind him, but it’s not over",
-   "source": "The Washington Post",
-   "time": "2026-11-18T17:56:32Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWE1ReU9uZ3dGbXlkREpmMlczVmVkb1B1bm9FcEZUdFlYVG00NXFRclhMMmdjRjFmb0R2YTRGSmxzRVJQckJkNGF5Tmg1UTdxRTh4Mkd5RXpjakNkQlpoZFRrZWNQRGdJOUZwaVRiQTNPblhnMG1wQlN2QjhIcGVRemxGamdkbmxBY084MkN6NDJIMGhDS1BucVJXNWhZelA3V1VF?oc=5",
+   "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
+   "source": "The Guardian",
+   "time": "2026-11-18T17:59:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQclp0b010ckFVZG5HS1FJZktRcmg2ZmVvbEt1bFUyT0cyN29IdE92bERQN3VQLWlvajByUkJPczNzT2VOZzc2MmFzaGlWVDgweTNFR0RGN1RPdlZobVFjWDFzOGtWSV9SUDhRRVFLX21HZEg3c2s5ZV9jZ2Qtcm1iTjRUUHNIRnRZSFgwTi1oY283M1BpZDFQd0k2TVByMV9CMm1tVWRNWHpkbGhpUGNqWQ?oc=5",
    "tags": [
-    "GEOPOLITICS"
+    "SANCTIONS"
    ]
   },
   {
@@ -272,14 +428,12 @@
    ]
   },
   {
-   "title": "Zelenskyy says sanctions from U.S. and China would force Russia into a ceasefire",
+   "title": "Shut out of meeting, Zelenskyy says what he would say to Trump, Xi and Putin",
    "source": "NBC News",
    "time": "2026-11-18T17:50:14Z",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd3F2bmhwNE5kOWVEOGtZT0QzM3N1c2RnYUJBNW5YcjQyTldRd3FzNjhGZTRNU1Q0dzQzOGlpN2NYelFJZHRzcDVpN3dBSzJiNEg4VzYtOGxHT0dCc2xjU2R3RHVVMGtHc01KMndZeHdQOGZYeFZVYXBpQnpsSi1FaHN6VWNPalVkbGNEdm1jdmF4Y0haenV3c1NMc3JvZUhrQXdpdVVUblB4aGJhd25BOGVQYlFvX3BWZGZDa0NZbw?oc=5",
    "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS",
-    "CHINA"
+    "GEOPOLITICS"
    ]
   },
   {
@@ -292,12 +446,40 @@
    ]
   },
   {
+   "title": "Inside old gas pipeline in Ukraine's underground war",
+   "source": "BBC",
+   "time": "2026-11-18T17:48:42Z",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oSE05RUZBOF9tUUxoZnpBU3MwXy1TUnhHd1dsVkpSU3lJZnVTa0V6RjBITUJoU3dQNmdkM3hORVpWM2dNZG5DVmJwVmRrVTVKMmpoZzh4NEE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
    "source": "Al Jazeera",
    "time": "2026-11-18T17:47:49Z",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN1MxZFFzWkNyVmtGNGFPZG9YV2EtOFhQbXRtUE01UTQ4RG5hSGJSZUhKaTBBWWczeVk3VGQ4U0oyUkFrT3V3UUxmczkzZDR4VU9qWjdhZUp3bWxESnFCX3pDN2h4ME1pb2JIN05PaU9RdFg5NHBwOTVIbUpMWE1sM05FYzcyekNhcTFMQlN6YW5TLThIa0Z4MzZDVVNjZTdpREJvTlAxeHJRYnB4RXlLcm1rb9IBuAFBVV95cUxPMlRERmxhQTdFN1pwZkdpbk9LcnFTSmp3N0U1WGI5OVdmb2YxRjVPWHpUa3lteDhNSEJteG9IVmFHQkxWNGtGU3ZlakZMc2lRX3NaVXVmMlJYdUhKc0dIMGtkUWFLa05IeDZsM3l1ZEs2SzVlWm1HVWtYZHFVX3duT3hRYzZxZkw5MGxtTE1YQnBMaUJHU2RVYlNscnlrTmNwazJva2ZTak1pSTRJVUZkR3lWdm91M2w2?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed's Waller doubles down on a jumbo rate hike in December, sees more hikes to come",
+   "source": "Yahoo Finance",
+   "time": "2026-11-18T17:46:16Z",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUXBONFpBZzU3Q3dNWTJzeEdEQ2U4d2Q5ZlZnaGNGVkpuamNqeVlfSnFNU3Nob1VybkNGcElDV3NwTUNVRkFKQjhrcERBMlJHdTlNSFJBc1NSa0pGVFRfdzRpR1RLTWJBdl9HMHB5Z2Z5QkdwRmFROER5NDVtQ1g3cnMtLWtmNDZCOTA0SzNoOG1pY3FVb0xwQjlWMWRYc0tvSVFSNkRBY21mbmpuMk1ETXRNUGxrTVZXX2hxLXQxbzFBMHVJVVF5b0ktektxSEZtR0JYVS1mVW1WWUZXLXc?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "Freeport-McMoRan Stocks Fall 7.09% as Erste Downgrade Meets Slumping Gold",
+   "source": "TradingView",
+   "time": "2026-11-18T17:33:26Z",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeV9FaG9Kem5uclBEQ2dDaUdWSFRFRkNnV2wyNkpjdjhMZkdtRFh4ZGNoQXFGMkFISlZwbE9iZkxTRnBQYXJWZjZvdHppVHdwZTRiRm9OM0ZoZlZRSDVLWEREcVA1STV1OEFXOVNUelZtS0pMNkRheF8zdjZ0M1VHejdLRGZnVDBWUEowR3Rma29PLVhFN3k3UWVCeU9Pd1VRMWNrSF9lY1M5dktvdk03azlvbEYzNk9ScXJ1Y2pPVEZTZjBKYXNjcXV2eHM?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -347,15 +529,6 @@
     "GEOPOLITICS",
     "TARIFF",
     "CHINA"
-   ]
-  },
-  {
-   "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling | Rohingya",
-   "source": "The Guardian",
-   "time": "2026-11-18T17:15:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQclp0b010ckFVZG5HS1FJZktRcmg2ZmVvbEt1bFUyT0cyN29IdE92bERQN3VQLWlvajByUkJPczNzT2VOZzc2MmFzaGlWVDgweTNFR0RGN1RPdlZobVFjWDFzOGtWSV9SUDhRRVFLX21HZEg3c2s5ZV9jZ2Qtcm1iTjRUUHNIRnRZSFgwTi1oY283M1BpZDFQd0k2TVByMV9CMm1tVWRNWHpkbGhpUGNqWQ?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   },
   {
@@ -513,173 +686,6 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORU1Yd0U2UWxlWHZEdWp0VFRkZU5BZnotcWlXTmp1cTVOYW1RMVNzTzdRMzdOaFNwbV9mREhzbzlqbVpHYnp4NU43aFRibWloeG1XYXdPbVY3UUVhSUdKOFlYcG5ZNzI4SDRidDRLWWNLSUV2cXFUUVIwa2ZQSnpFakUteVVMLS1EaXE3WThyU3J5V0c0ZTdNRS0yWmI4U0Jqck9pU1Z1TmZLU1lQc2dTU0VIVGgtdGY4b2kyZkpJRi1BcFc1?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Is Reliving 2022, but the Selloff Is Already Worse",
-   "source": "Investing.com",
-   "time": "2026-11-18T16:30:00Z",
-   "link": "https://www.investing.com/analysis/gold-is-reliving-2022-but-the-selloff-is-already-worse-200691847",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Iran War Set to Hike 2027 UK Energy Bills to Four-Year High",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "time": "2026-11-18T16:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRzI2SkRPOHFSeE9LSlVrV1RybWZObC1KVVZCc3oyTEUydWQwaHE0Tk4wTmpDbldLWWl2QU9BVzFtZ0NEaUltNGo4RkhyamkzZlgzUl94STU2bXZwYlJGZ003eGxmR2kwTkxzSHpfWm1ySU82Umk4dUJ3MHhTU2lQaHNLVHZlR19EZDVXUGR4RmZVSHVsTXU0a0pLVHJsal9yV3JTckFhN0hsT2J2Y0xpZ1o1UXBEUdIBuwFBVV95cUxQdUxGWXF2dVlYNXo2RWhRQzF4dUxGeFZhRE5TRFZMZnFEQ2s2bUJUcWJGMktIQUFMT2hHNjAtOENDSzZfUGJZMnVaVnE3OVB2S1hCUGpoVVFCVUVvdkpGSEwtV09iZDVVWXdEWG9seHBuVm9Xd3o3Q2NQMlhGZVdlQ3ZfaHdGODkxWVJZX1NiMlZPQ1BMaUtkMVBmVHI2cUNZVTY3NExYczRMYUp3OTdzSndOZFZxTlg5RENj?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iron ore price may need to fall further before floor emerges, analysts say",
-   "source": "Mining.com.au",
-   "time": "2026-11-18T16:28:56Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObW1ldHp0bXNyQkQ5ZXBBbUlFMTFNZDBLU0E5R2wtYmtXOUxOOUlsQjBxZnkwNnJ0QXF3OEMwT2kxTlY1LXk5U3ltd2x4b19Sam9qMkptTDBCR1VDY0s1TzZZRU9iTERsMF8wSFV6emwxY29mXzJ5ZXRoMTJ6eG40V09FZnU3TGpDVUdBMlo3ZFFBN1B4bHhVYkJoYnA?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
-   "source": "Al Jazeera",
-   "time": "2026-11-18T16:27:36Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZjlBdGVDVkU5LU1qX3UzSjlTd2xITXR5dGIyOXlTZVVwNnZTeGg3SkRmaGNyTGRnb3p4RnYwS2Y5WGk1S3VndlBacVlZUjVrLUgyZEN4UVl5TnZFWVVyNzVYVnFaR3lFbHVkNzlVZHI0bVF1cmVYMXlKSUVTNnZRc05ZU0QxWlhYNEhEdWJBeTl0OVp2bEhaTVZTLTBDajdQVF9HeGJxT2ZfUUY1RjBR0gG0AUFVX3lxTE5DRDdBREhvN3BnZS11TnJ4M3AyT3AyNm5laWNIdzZ2QmRRaEZZWC00bi0tajdxeFgwaFd2NnM1dVR6MFVzMF8xZlpqOTRpeUNUS1U2MHVmXzJiUktvNEUzU2ZaUkd0VktNVnViREJSQzB2cWJ6RHY3WC1rdkJmVk96VkhWR2JHQlJEOV9vZDYxV3Faeks5UWNrNVM3RUN3emI2YldfV1pWQ2RYeVA2eHdZUFQ1SQ?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Key Hegseth adviser faces questions over ties to Israeli defense contractor and Saudi Arabia",
-   "source": "The Guardian",
-   "time": "2026-11-18T16:23:00Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOektDcHNLTnJVdGQtUFpFelJJNFZaN1R3dElHdFNKcEdMTHNjME9zMTk0RF9CQzctZHo5bzV0cllaVlVpeGpSaFpKaG0wWGkyMC1OcFlNdDJvaWRHU2dvVzBYSEpfWl94QzY2NjR0MzBfMzdhU1hRMl8xenBCNS1yeE9iTjA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold tumbles over 2% to lowest since September 2025 on hawkish Fed bets",
-   "source": "FXStreet",
-   "time": "2026-11-18T16:18:01Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHdPVUR5QjJ5U083QUozRDZ1NUs0c0NaU2pFSDdzSGFVWlpsSGlydFZxV21jWjJlOGQ4NVZ1bkNMT1J4ME5UN3BPTzlOdkhQTnpvNVd4WVBya2RRWlhFX0R2dURaVnR6NnJVT0RJcGxfc2piZ2hiYjVmRkdLOHNDb1VPV3YyRjdsenM1M2t6SHA5ekVOc0duZTFpRWNkUTBXUF81c2JRU2toRHlxZGstYUxB?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
-   "source": "CNBC",
-   "time": "2026-11-18T16:14:10Z",
-   "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-   "source": "BBC",
-   "time": "2026-11-18T16:10:44Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Fed Minutes Will Give Insight Into the Path—and Size—of Rate Increases Ahead",
-   "source": "Barron's",
-   "time": "2026-11-18T16:05:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnp0Q0Ewb2RJLVdrQ3ducVFvam9tbmJHNE1FbU0wcXBGeVdDajlJTWNIVFFrSXRkM0EyYXRaeW4tdnVydTE0VmlCZng4dk0tZHllUHZzWTZMb3Nzd2hHdFYxRFJhVGhoUzdpcjZYRGJJRFhJb0Q5YlVjal9PQl92NElXRW81YmdFYWJQenRjWQ?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "Copper price craters as AI, tariff trades unwind and Asia Copper Week hears of ‘recessionary-like’ demand",
-   "source": "Mining.com",
-   "time": "2026-11-18T15:58:53Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeTlhOHd6WDd0TUgyVk9JZlZ5RE9oNVVBN21iXzRTR3pnbng1U21uZDFqQ1djS1lfYUZ3aWR5ekN1c1lyWjNZQ0tCeXFoR0FsRXRkSjVFc1RqNEJNZlRONkdabnpvNzlLc2lONTk0WVB2SWs1cWtjZlBuTXFEN3VjNUtaSDVmcDg2bzVVYXpzY2ViMVZxOVR6OGdlTW5ZMk95YUx4cFdZaUNYSDFSTFZHTEpkSF9pR05PZmpKMGhtSE9PZnFV?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "The US dollar moves higher as Treasury yields extend their gains",
-   "source": "investingLive",
-   "time": "2026-11-18T15:54:09Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVZRdFczUjZoVzBlWjdJcngwRUNpM1VNcENKVTNTQlBnVVdiWGZrTzBHZFhvT0VyODNzUFN0dW51c1ZWQmM3SmUzUDc1b1MwWXhKQkRTRUpMNE1tTFYzYWExdW02TTJ0dnpUVnlHV2lrd0Y4bGppSlRzMGJxcGFzUmpoSWkyVl9fX2ZPM0Q2d0ZBd1Y5V2VHdGRObWFyZFh6QW5scDVPRWZTNVdMZWsw?oc=5",
-   "tags": [
-    "USD",
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Video Iran war and 'dirty bomb' threat",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-18T15:47:10Z",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FcHdyVG4xRlFLMXJhWmdmV25HXy13LVdtZTBEZ3pNcHdkamY1WGsyUXpOZXQ5bFRfUUNIMUllZGJZUHJNZ2ZEZnJfczc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil Prices Slide To 2-Month Lows On Market Surplus Expectations",
-   "source": "Forbes",
-   "time": "2026-11-18T15:42:06Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUzB0TDdoQ0RYbFh4MVJmamFCcG56Wl8zV0dPTkpqcTZZSWFyRUdleEhmcUVFYXItMEswWE9vRHdHUkk2ZzdIaTlUZUJMbkloNlhhdEdHMlBNYV9maVhBdG9JRnFucnIydy1mRmdlaGNnTWU2YmVDMVZGMXJpaWJmcmtiUVNZZE8zSHJlQTNud3VjaVc4N2h6ZGlmNGljMWtObFZqX1BncjBGem9Xd3VZWGRnTWFmOS1s?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Gold price sinks to 14-month low on growing Fed hike fears",
-   "source": "Mining.com.au",
-   "time": "2026-11-18T15:41:35Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNek1TUm0xRm9HOWVhRDBjQTlJQklQVTBmeloxWHRTRXAyUzZHWDI0WDdpQkNGTFNSeklTZnVUSUlySkROeGs2a3RMTTh1NDNyRU1fdXVpZlMwQnBWdk5MMldERTVSYXNRc1pYcDlxaDJ1U05DSWZaWnJrXzVwSWdEeWYtTGhFS0hV?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Russian attacks on Ukraine kill at least five people",
-   "source": "Al Jazeera",
-   "time": "2026-11-18T15:39:46Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVjFqR2o5RHdGai01ai14Q3FpTGpLdHd2aklKSlhYcVVCZzVxbVFmVGlRNEc1cDhuc0hQbzNLYjBzUzN4cjlFaTFHbTA2aHVtNGxjV2pWWk9xNE0tRnVQZ1hwMTBHUHhxU3UyOVRFV2hpMmNqcVRHdV95OHpTRGt4SEhNQUxJaF9LR3pLMGVvTllRT2RiTU5GOWJ30gGfAUFVX3lxTFBZZDlyVFcxWlUzLWpYck5BeVI5ZG5nVEwzZVRVWHdUNWxrT3RybHYweFY3V0taU3VIRDkwYmdPM1VaRzRSRnBPN0JabTh2SzhjT0RDYWJNTXpzSTJmOE9BYUh1ckhTNlBJUW9HNFY4NHFYekYxcmJXaGs5TlhEODlZRnU2OUxmTDB5VXkxWlZWUjhzNk41RDh3YnozWkFVbw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Drone attacks nearly halve Russia's November oil refining, despite Trump's 'ceasefire,' sources say",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-18T15:38:30Z",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdzFzUEZnWTltVk9BTXBkN0lVc0JkZTJ0WFRjQmRwdDE3Q0QydHVmZFhfVUtJbE91NUx1bWVyODJxT2E0YUFzZDh4bTN3SndjVWhxdnZHZlduVEZ1Z0lTMlZmU0xrcEpEaGRnbFNNaTNMYTZRTVBiY29DTkg4cnNkal9hT1ZBci1NQkE?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Crude oil inventories rise, falling short of forecasts",
-   "source": "Investing.com",
-   "time": "2026-11-18T15:32:09Z",
-   "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-rise-falling-short-of-forecasts-93CH-5036566",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "The Energy Report: Supply Side Oil Economics",
-   "source": "Investing.com",
-   "time": "2026-11-18T15:32:00Z",
-   "link": "https://www.investing.com/analysis/the-energy-report-supply-side-oil-economics-200691844",
-   "tags": [
-    "OIL"
    ]
   }
  ],
