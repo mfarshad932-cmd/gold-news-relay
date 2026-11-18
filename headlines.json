@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T04:43:45Z",
+ "generatedAt": "2026-11-18T05:12:05Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 9
   },
   "investing_commodities": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 32,
+   "items": 33,
    "kept": 12
   },
   "gn_fed": {
@@ -91,28 +91,28 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 23,
+   "items": 22,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 33,
+   "items": 35,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 20,
+   "items": 23,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 14,
+   "items": 13,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,43 @@
   }
  },
  "items": [
+  {
+   "title": "Cases of children being denied aid in war zones are soaring, analysis finds",
+   "source": "The Guardian",
+   "time": "2026-11-18T05:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVzJnWnVXVF9TLThvYmJiLUM3MkVTVkkteFpSZW0yZkVjaVVsalFFQzFRMFA5VkdxbG1Fd1FsU3MwUy01bGxxcGZ1YloybTUzZFNtWVVkQzVLM01aZW5DRk5HNE1kaHVKcWIxbS1vaXA2WF84OFJQb3BUZFkyZkpvbjM1YVVrTWhkbkZVQ3kzZDNDaFI2aW9udmVBeXJndzBoOW5qUGF3N2tPQWZTd2hka0ZR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "India bonds rise tracking easing crude oil, US Treasury yields",
+   "source": "TradingView",
+   "time": "2026-11-18T04:52:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY2xrMncteE9oUWxDOGJPbmJjNC1PNXNuWXNBdlh1bjAzRGphNFktSlZadmstRTNUWkhZMk8xaVZNUmc0UXU2SHJiQzg4Zi1PTnJOWndpdHpMU2pkckliNXVLa3dNTWp4ZU5ZVThPWkhJZXlYanBzRk43V1NxSXloNzR1VktPUWlsVFN0RnJDaEpIR2pmQ3BxeWVHTEJrUUZ1SEdaWEEwbFRhTWk0b3g5MThhZy1qVUxKc1VCMzNRUzZQdkNCcWlaeXZLMA?oc=5",
+   "tags": [
+    "YIELDS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Australia unveils new sanctions against Israeli activists and entities over 'illegal settlement expansion'",
+   "source": "The Times of Israel",
+   "time": "2026-11-18T04:48:02Z",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcU84WnZ3QUpTQVpMZllqOXJsdkZGb3dCOEJLV3l3ZkwyODFNTzBpZGpzVmlYSmN3MDVla0p5RnNzaDFwejlvdmh2cEtYSXNiWEtIUnZVazl0ajFXTEJWbTZiRnM5c19zcUh6cThtZGV2MHI5OVVJSXpRbzhsTHFkUE53a0tOalU2blhvUGNhMnRlZjhYMnlOWmwtWDBIbjNmX2UxMHExeGJacEl0S2NiSWplZE80b0UyWUFPT21IQUZSNzZBS0IzbHJ2Wll0YnJqb0tNMndiclhSRWpIdHhWalJDa1Y?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "investingLive Asia-Pacific market news: Gold breaks below $3,800",
+   "source": "ForexLive",
+   "time": "2026-11-18T04:35:33Z",
+   "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-breaks-below-3-800/",
+   "tags": [
+    "GOLD"
+   ]
+  },
   {
    "title": "Gold price in India: Rates on November 18",
    "source": "FXStreet",
@@ -179,6 +216,24 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbnN3cEVvY1A5UjVuOUVCTFhxNWFUdVJ1eHJfeS0xRUw4THYtei14aHdZclgzWlFUYklLZnUycEdqNGhTZVduLVZFdERTRUh1d05iZVFqMW8xVUlTcmRtRXNWSzVRWmR0WkZpREZrWjROSUtldUtna2FWSWhMR0haNlp0M3ByX1pSRHhlYmVmNW9nbms3ZUVQVUFMNEo5ZE5YMDItbUJUTmTSAa4BQVVfeXFMTnl2LUU4ZVFQUU1RN2FNQzgyTjJqUUN6VWs0bUtfVDdkd1lmc05BSGNMZU5LN21BUzZNcmR1UklmUnpqZTVLN1U4N1M2WUlEQXA0RDRxVDA0TmVIZHlPSlpFdjRsSENYM2l2WERpcDNVS1hQT281TGxjZzJVOFZXLXFGb1BkdnhzRVc3U2lSWmFHYjFEbnVidUFXeC1uN1owdll0dks0M0ktQldrUWdB?oc=5",
    "tags": [
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Ukraine war briefing: US criticism of Kyiv’s deep strikes in Russia is ‘quite stupid’, says Germany",
+   "source": "The Guardian",
+   "time": "2026-11-18T04:14:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTU1EdklyeEdxbTVJV280d3ZRYWVNamFOSjJiY0Z2SHVaVVlKZW9sa3FMQUVHMU5VSWgyWVZhQmVaUmZmdnNvbUxxUzU0aTVRMFkydGs5V1FLME5YeFNVcXAzVEFjcmVxajJmLW1xZGhGbngzcV8xWnJvWnlCdEFydVE0akFHbk9qd0tjTUNPckdhem5DMi1fellPV1Q3ejY3NWpHLU92LVg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold ETFs Shine Brighter After Steep Price Correction",
+   "source": "TradingView",
+   "time": "2026-11-18T04:11:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWthUjUta3Y2dUNNYUVJNmNjSFNWWTBPeHBPLWYzZVJwMGtjWlg3ZTRTQ0RwdXZrNTVqNkhBZk1lN2Z0OXdDN2ZhN2JZUktNNS1PNl9uMVh5UnFwVWJHbWNzUTQxamh2ZlpzT0ZPVXNWblp5U0hIXzdnUzJsQjN0ZGJQdmEzS2JScVFoS3lwLW55OHFQczJsM2FCSDZFd2UzYTQ5WDhqb29aNE15V1U4?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -354,7 +409,7 @@
   },
   {
    "title": "Gold Steadies Near 14-Month Low as Rate-Hike Pressure Mounts",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "time": "2026-11-18T02:16:00Z",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmlWeXc5bFpQUDI1bkQyQVVEMmpSRC1ZUWpkZDczNDU5RUxoNFBzOXpreXZnOTctS0s1NGRBcW5Bb2ZUVGxMSWRiZU5ydWpKYkpaM1EteFZsdHF2Q1JVN1hWOW9aQm13ZlFmVWVuWVI5S0xJVFdUaERVT0hab2tCOUpBSzhvM2ZvczNFd0hNYndoREJ2d3llcVRRdVZ2VUFqZ1VBSGVYY0d5MVREZEp1MA?oc=5",
    "tags": [
@@ -409,18 +464,9 @@
    ]
   },
   {
-   "title": "Ukraine war briefing: US criticism of Kyiv’s deep strikes in Russia is ‘quite stupid’, says Germany",
-   "source": "The Guardian",
-   "time": "2026-11-18T01:51:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTU1EdklyeEdxbTVJV280d3ZRYWVNamFOSjJiY0Z2SHVaVVlKZW9sa3FMQUVHMU5VSWgyWVZhQmVaUmZmdnNvbUxxUzU0aTVRMFkydGs5V1FLME5YeFNVcXAzVEFjcmVxajJmLW1xZGhGbngzcV8xWnJvWnlCdEFydVE0akFHbk9qd0tjTUNPckdhem5DMi1fellPV1Q3ejY3NWpHLU92LVg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
    "source": "Al Jazeera",
-   "time": "2026-11-18T01:41:15Z",
+   "time": "2026-11-18T01:44:13Z",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaFNLRGt3T0F3b3M4ZGxyR0psMVJPVVliYUxLdF9mazRwYXJQOW5wbGR1WXd6SHRDbTY4SjcxVXRFNjRFMnNjVi1ndEl4a016LVoyUTVRdkRONGxTT05kTWxZUjhMSUNmS0FFUDl3Ny1JRVRBRGo3VnA2VWVHTFFYQ2hkX0xuWGJ5ZENXMzlPdTZFUXc4UV9McWozSzM0RGJ0U2Qya2lCQmdZandKQkHSAbMBQVVfeXFMTkJRMUVqaWh5Q2t5LTU0UG0tSkRoWGt0Z1Zya1ZCVmwxSEJfTXRiUjJlNXotOEJxS1l5Y3lBbzNEZXREVHNsUmFMb05LYXZLb1dHNmFEclYyZi1ZRDUwVEFqZllJYWtwQWRwOW42dloxWV9qZFg1U2tSN3YtMEhadHNFcmxDd0NXSllBVlJLODdWTGRJNTRndHZ1MkpOT1dQSlpqMTFkNDJHR0g4NEIzQ0liakk?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -613,6 +659,15 @@
    ]
   },
   {
+   "title": "Australia sanctions Israeli settlers, organisations over West Bank expansion",
+   "source": "Reuters",
+   "time": "2026-11-17T23:56:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVlFrYWNBX1NLTHhNc00ycmhVV0dFNlRNX0xOcGFKcUhaYmNSU093YzlyTm9xOVlGRGlxblJhajk5ME5HMy0zeXFHc2FQUGFBd3lvUGtaNENWMTB2YVV6eHJ4NzZ1N3pHcjJqam9sQ2kxRk4wNUU4Z1NLbDA4bWQyUVpMakxVa0Q3S2UxeUE1Nm92RmhKUFVHMVl3UUVETHQxMVk4QlYwS0ZhNXRPSGVsUGRQX0F6OFJiZ1N5WGIyb1l5TkliTkhwT2NB?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "Jensen Huang’s departure as Nvidia CEO becomes a political proxy war",
    "source": "The Guardian",
    "time": "2026-11-17T23:48:00Z",
@@ -626,60 +681,6 @@
    "source": "Al Jazeera",
    "time": "2026-11-17T23:41:52Z",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU3NxaFU3RUpkTklaRUU5NkxhTjZ6aHhYOWl4WG9PQUh1dWp6ck9qdkJhc3FHMjN5cUhWSzF6OWFmZnE5MXQ3U0RKd2RmeXdvZUZ3Qjk4VzFEM0tka3dOai1IVWZFY0VaVlVHS3d2NkdyeDU3UHZEY2tMbV85ZEVldUhRSG1SS2VwZ1c1ck4wNE1HbU81WXluYU5KRUN0NmRFdVJRNWI5MFpreDR4eGNaQkgtMVg3SjjSAbwBQVVfeXFMUDFvNkpucUdWODBUZW5kV01tbDNjaGVlYWp6a2NtdktFQVJpVW9mTjJFWEhWWm1LQlIwcW5tVVozb0FpUWl5TEd1VkstTFh2S2VXRi1YLWdxcl9TaF9XcjFhLUNHb291ZkxHY210TENUclk4WjNlZml0Y1hDbnBBRURzTm1ORjl4a0hWUFVGWUVJbFNwUksyUDJ0ZmtBZWRiZV9pNTJ4QndvRGVMNzVtVW5VQ3J6azQ3c3lJcVc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran Is Emboldened After Trump and GOP’s Election Losses, Officials Say",
-   "source": "The New York Times",
-   "time": "2026-11-17T23:11:02Z",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xOVZhTDZRTzl2UzB6aVNWUTZNcTV1a1dKWXFNRThfYjlRSlJOVGh1NGdhVDh3dzRZaENxczUtUlhxeTYyYTVLRl9xcjVSV0thUGNTU1lpOWt5R05OX0NZbi12VTllNkFWQk0teVhEWW5sUEhzNGlDaWNLaw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-   "source": "BBC",
-   "time": "2026-11-17T23:02:12Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Is Tucker Carlson Giving Trump a Way Out of the Iran War?",
-   "source": "Newsweek",
-   "time": "2026-11-17T22:56:00Z",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONWtMXzVhc096NEJTMWhZZW1EdGE2bXZqaENqSXFoUlVIZmIzSWpaU0RfQTlSdDFIcnR6eDRqblNRbGQyMmhPbHQ1VFZNU2ROb3RaVDNyYXZBM2c2clp5dXV0UWlPSnFLOEZDWjhTVGJjeFkxbDJYVFBjb0NhNnpyVC1TRQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The next Navy secretary? Cao grilled by Senate over war, sailors’ mental health",
-   "source": "The Hill",
-   "time": "2026-11-17T22:53:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVU5KTGx6Zm1vdklxeUhJUVJKNUNPcHdmbC1wWDM4ZGIzTGh4S3dpMlRvV0dtUlh0WWpQdkcwOWRzeUJSWUpxbDF1ZGJKT3N4Q2oxRWF3T0RTVVQ2SmhpMENvcVFKa3RvZUdILUxEOTZwR2IxakRpbmJvYXhwX0JEVTJvTzRNeHBMa21CT2duSGYtYXl4bGZlZUY2Q0taZzZtQzNCX0dCejV1d0JiZlREUl8yRG45cmE5V2tXZ1JxaVVVUmk2SUpQcVQxY1E1TXZOb1BabDdLSnpnaUXSAeABQVVfeXFMTmpNLTd5eVJrQkFNcHRsVU9CMFN4Yk5NbzZUT3ZqSzhQaTRYLUtDOHJfSGIybVJpeEdNekl4LXp3d0xwUmY4UFRIenJ3a2tYS1dmUnlORXprRzkwcDMwdi1nVm1tU0htMjl4RGR6eWhkQVczUmN0WmZXVmxSODlFZlBBaGVWcmJVUWQtNHR4U1EyVnA1Ty1IVGd4Smhsb2FMMXNNLXNtSUpmbVRGZjNDOWtUankxYnoyMlh6cEYyT0FlVFBIaGpTWFNYWTdheDlaSThob0NudS1oRk9VWk4yc3I?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The Navy fired expired weapons during the Iran war. Its top official compared them to stale bread.",
-   "source": "Business Insider",
-   "time": "2026-11-17T22:51:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDU0UmMzN0hnSzE4bHpHeEdUMVQwdVRpZUhGdEhHVlFCX2lNVHkwV3g3QUx6NTBJVUMtdUN1cm1SSzVTbThod3ZTVWstRlJTVTZrZHlKU21XSDRvUnBoWGk2OEQzTEVLWXZlZkhtNk9QSS1JWU1KWVJYclljaUcwODVWYmdjZDZNdXRlQWlLQkhpcnc4ckhKZGs0bUR2TWFGN3pqbkN5YXZjUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Some 400 Hezbollah terrorists killed in Lebanon since start of ceasefire",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-17T22:49:07Z",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HYS1ZOVVsQVJLeTRWMmY3WjJHZXZsMnFIZ1VvRkVLUkNVaU9qQ3NucVpqbGJuRkp2cXBPMDZJMFMzb0ltNUo5RVY4dDZfYjlJYWFuM1ZlTVJCd3htM24zc1RBY003NXRYZzBmTnNn?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
