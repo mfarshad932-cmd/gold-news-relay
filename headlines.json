@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T07:05:28Z",
+ "generatedAt": "2026-11-18T07:33:54Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -41,13 +41,14 @@
   },
   "investing_commodities": {
    "http": 200,
-   "items": 10,
-   "kept": 8
+   "items": 0,
+   "kept": 0,
+   "err": "parse: not well-formed (invalid token): line 68, column 0"
   },
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 3
+   "kept": 4
   },
   "marketwatch": {
    "http": 200,
@@ -57,12 +58,12 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
-   "items": 42,
-   "kept": 2
+   "items": 43,
+   "kept": 4
   },
   "bbc_world": {
    "http": 200,
@@ -72,7 +73,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 4
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +82,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 33,
+   "items": 32,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 35,
+   "items": 38,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,7 +97,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 40,
+   "items": 41,
    "kept": 12
   },
   "gn_sanctions": {
@@ -126,6 +127,81 @@
  },
  "items": [
   {
+   "title": "U.S. Treasury Yields Mixed Ahead of Fed Minutes, Speeches",
+   "source": "marketscreener.com",
+   "time": "2026-11-18T07:28:42Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZFk0dWVBVWtpWUh4b2l5eV9wLTBKYllSTzBmUzJWT2NBQVBna084dTlZWTN2bHdFVzJzT1RUNG9Ha3dXRExrWnJmM3lqbHhOYVEwN19SdFhaNUQ2OHJ0R0dzcURkZWM5aHRid1B4cS1tZEVQTGoySnA0YVRIYmZUamk4c2VPaFplS2ptNjdCVEtDemhoOEJJZVdyQ04waHdJX2FZZmZqWHAwTkFN?oc=5",
+   "tags": [
+    "FED",
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Israeli firms struggle to secure foreign financing as U.K. expands sanctions",
+   "source": "Haaretz",
+   "time": "2026-11-18T07:25:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOWFAwd0JlZ1FVT0Z1Y1NXcnR1bC1acWE1OVo0Nm5RNHY5dDg4bkRkcWZxbHpkOGRHLUV0NlZzWmJlUW44bHJzX2M2eHZHYkVSMG5VcjFnS2JkSlFuaDQ3Z3NSSENBSkxpcXZqdmcwTFZETkMxUUFRd0NEZzVpX2VJT0w5Wjl4dngtWVg2VjVGVGo1UGtJVnRjY01kam0wUzBKLTNic0ZoSUNEa3pkeFBaUFpvRW1RaGNmbDBWRGFZTUlXQ2YzekR6X1MyZHJKMnF0SDZuZWNPbTBaZ0NmMHgyZDRkVkU0TXJqenVkaERQQ3BVSjBlS290Z2tVclZMc1p4TFptTGhJTFZXZ24yd3h0QTJ6RE1kaHRXU2hrWG5FNmNfbm9ZakJuN0VxN2c?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Senators press acting U.S. Navy Secretary on Iran war costs, sailor health in confirmation hearing",
+   "source": "CNBC",
+   "time": "2026-11-18T07:24:06Z",
+   "link": "https://www.cnbc.com/2026/11/18/us-iran-navy-hormuz-war-cao.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
+   "source": "WSJ",
+   "time": "2026-11-18T07:20:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdkZKRW1BZDJ1X2RCT1hOVGN4SFN5NzBneU1VZFc2SEdEdnJJZTBlVGJzTDVoc1ltMWp1T2lCZHJtSGNOVEVnMzl4VlFKU0ZSVXp1M2pUejVlVTh6RHJZSGhodFhSQmNYeDRHZjlyLWNpX0xmcVJSaURYU2g4Y2FqbEg0RFJfakRsX3FWWUdwVmQza25vdTA0LTVmME4yVmEwUThRU0dZY1JOc2x6Z0VjbU1GSmF2OGhmc0FBT0lB?oc=5",
+   "tags": [
+    "INFLATION",
+    "GEOPOLITICS",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+   "source": "CNBC",
+   "time": "2026-11-18T07:16:14Z",
+   "link": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Higher fuel prices push UK inflation to 3.6%",
+   "source": "BBC",
+   "time": "2026-11-18T07:15:33Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Thailand’s businesses fret over Trump’s zero tariff on US goods, farmers comment",
+   "source": "South China Morning Post",
+   "time": "2026-11-18T07:11:47Z",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRTU3YUx2WXllSXpFVlNtTWJEbzZ5RkM0dGRtZGhUNzlPVjlEaXU0U2lsTGVYM2d3dEo3bWZJbUlTUVBnSnZjUEZyam5YVlhEOTdZOE1XeUJ1UDlxYUZaLU5mdjYwZWlFaWZwaHdjb1pJY0hxTkV0dk13WTM5aGMzZ09CeWhzMzU0SFZ1NGIzWnczWTZxd01nLXNhT01udUxtODBHN1l1YmxrUDE0OFBFT2t4ampSN0F2aHdMeWRtZmc4Uy0zU2o3cVZ5RdIBywFBVV95cUxOLWxKQ1ZtZlZfUFdKS1RCNWhFa1IwRHdxenZtLTNLYkF5bTJDb1otR1UzRWZhMk03QUhNSTZkaFU2YVhQOFloRTZpeU5pOUw1Y21jcE1iTmc5OUJvNFU2ZkZUSWtoZndJVWlXenBpaHVFek1uMVlWVE9BcFlPb2RZM0Y0eU5HWHl3b0p3OXVWUDhNSEt0WWYwRGgyQTZ1bDNfN1R3NU5DV0RkTEJTb2dBdkNxNXlMM0FoSTV2bTI5MjlzUXlIUEthQkh4WQ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "UK October inflation hits 3.6% as record diesel prices drive fuel costs higher",
+   "source": "Investing.com",
+   "time": "2026-11-18T07:08:46Z",
+   "link": "https://www.investing.com/news/economic-indicators/uk-october-inflation-hits-36-as-record-diesel-prices-drive-fuel-costs-higher-5034908",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Czech Republic eyes Israel's Arrow 3 defense system amid European fears of missile threats",
    "source": "The Jerusalem Post",
    "time": "2026-11-18T07:01:09Z",
@@ -141,6 +217,16 @@
    "link": "https://investinglive.com/news/uk-october-cpi-3-6-vs-3-6-y-y-expected/",
    "tags": [
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Gold drops below $3,800 as Fed hike bets deepen bullion selloff By Investing.com",
+   "source": "Investing.com India",
+   "time": "2026-11-18T06:58:53Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM1d5T3FvLWcxWFI1OGw2NFFLdUs1MG5KakQtb1NiVW5ycm80dUxBRWZLZGUxRGpPWnAyUVdLUk1jbGxQbU4wT09oSkFOQ3NCTDU0Z3liNWh5LUZ5VXprWW4zVDlybm9iQ3RPLVN4UmhwbzdDRW1sTl9SNVJoNzdzTm1STC1xd241ZmNoa1R6b2FPV0ZzNExGS1B5dk56ZkVTWmpsRV9uMjNEMGNwcVpwaXlHVHNEdy1s?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
    ]
   },
   {
@@ -568,6 +654,17 @@
    ]
   },
   {
+   "title": "Gold slumps below $3,800 as Fed officials signal more rate hikes",
+   "source": "TradingView",
+   "time": "2026-11-18T02:36:00Z",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOblZPdHVPb2d6TW1KZTY4LWFhQmF4djVoMF9Rem9yNEFYOENmLXRTVTJ2QmxHQzdoUkRzN19renNrbFkxWlRkcWctT2pITzNMWk4zY1UybTg3NF82a0J6MWlIaDIzQ1NWUnFHbk9mMlM0bzNYWTVndTA2azNSTWtfNG5hZDRfa05zUjZmOGpDbTh0RlIzNFBldzdnUjhfSWx5QXRkRFFRWnlBYkRKa0ZnTXItMHZGRGpsaEZuUzBxbGU1bkM5?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Gold Steadies Near 14-Month Low as Rate-Hike Pressure Mounts",
    "source": "Bloomberg",
    "time": "2026-11-18T02:16:00Z",
@@ -593,99 +690,6 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaC1nOUNoZl9sbW00TV91Zy0xUHdUTXpxb2t0bU5RZ01JUVEyRllzWm1ZQVdxOUhKTmg4OFdxR24tc2tWWkFwSG5adVZucEZZS1RhZUhoUlZXT1NtSjhTaUxZNm1RNGZJQ1FFQXpDMGxyVXVZUy1FQmFDVkZRYjM3SXQ1Tk42bmRmRFNiWG4xRGE0ZXcyczM4LWxvYWNvei1sT2RrZEdVekR0UHBldDM4UXdVQmFiNm54UGZhMXBXdjg1d1kyNkFwcXcxRQ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump meets key US regional allies in Manila ahead of China visit",
-   "source": "Investing.com",
-   "time": "2026-11-18T02:00:48Z",
-   "link": "https://www.investing.com/news/economic-indicators/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit-5031428",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Irishman charged with destroying US military aircraft with axe",
-   "source": "BBC",
-   "time": "2026-11-18T02:00:37Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EcU56SDVuUjZJa2x0Wk5WYWxDc1lGQ084NFQ0akEwdTF0LU9WWk1wOG5pYk5ZbGRBb1Jfblk3T3FOaFAyUjFCbi1UbWVJRDZqdWp3bkNxWFpHYlU?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "OPEC’s Oil Production Nears Prewar Levels on Saudi Rebound",
-   "source": "WSJ",
-   "time": "2026-11-18T01:59:59Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkZ3Y3c3WE51TWt2RUVhZUdxbk5PM3FCdjNERW94S3NEckxuUVBidkxiRHdHUnl6RGxLZnIwZjh1UTlmak1tOW50MmZWemFEQlY5UUs3Z2pISzVodWhiRjFZSHN0T2xLTkVIV3A0Y0xUbnJOVy1ZRDJYWlNPbGJ6M1VHa2VLN2xMRDlJdkpESnZLZzFoWHc2WFg0eE43dzZsTGlEU1JVQjBkUQ?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
-   "source": "Al Jazeera",
-   "time": "2026-11-18T01:44:13Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaFNLRGt3T0F3b3M4ZGxyR0psMVJPVVliYUxLdF9mazRwYXJQOW5wbGR1WXd6SHRDbTY4SjcxVXRFNjRFMnNjVi1ndEl4a016LVoyUTVRdkRONGxTT05kTWxZUjhMSUNmS0FFUDl3Ny1JRVRBRGo3VnA2VWVHTFFYQ2hkX0xuWGJ5ZENXMzlPdTZFUXc4UV9McWozSzM0RGJ0U2Qya2lCQmdZandKQkHSAbMBQVVfeXFMTkJRMUVqaWh5Q2t5LTU0UG0tSkRoWGt0Z1Zya1ZCVmwxSEJfTXRiUjJlNXotOEJxS1l5Y3lBbzNEZXREVHNsUmFMb05LYXZLb1dHNmFEclYyZi1ZRDUwVEFqZllJYWtwQWRwOW42dloxWV9qZFg1U2tSN3YtMEhadHNFcmxDd0NXSllBVlJLODdWTGRJNTRndHZ1MkpOT1dQSlpqMTFkNDJHR0g4NEIzQ0liakk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "What is Trump hoping to achieve at APEC meeting in China?",
-   "source": "Al Jazeera",
-   "time": "2026-11-18T01:33:05Z",
-   "link": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Gold falls toward $3,800 as Fed hawks reinforce rate-hike outlook",
-   "source": "Investing.com Nigeria",
-   "time": "2026-11-18T01:18:45Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUkoxYW55SXFiaEVaZFRhcDNoX3RWUnBQbkdSamdFbzBUMXgtTmJoanFORHdqYXpMSXJWTnlLV0hrNzRITjlmNkZUdENzS2NBN2RZSFRVWnhzaERYWl92ekViS1hjY3c0QTdiMzgtRlo2Z0NibEtoVFpmZUVNcmJpNkFOY1Y0RXBrTkJtX2s4RkNES2hocHNQV1JxaTVic3BmZ1huaEhHNE9zQkhwd3RlWVMycGpaUmlB?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold falls toward $3,800 as Fed hawks reinforce rate-hike outlook By Investing.com",
-   "source": "Investing.com India",
-   "time": "2026-11-18T01:16:25Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM1d5T3FvLWcxWFI1OGw2NFFLdUs1MG5KakQtb1NiVW5ycm80dUxBRWZLZGUxRGpPWnAyUVdLUk1jbGxQbU4wT09oSkFOQ3NCTDU0Z3liNWh5LUZ5VXprWW4zVDlybm9iQ3RPLVN4UmhwbzdDRW1sTl9SNVJoNzdzTm1STC1xd241ZmNoa1R6b2FPV0ZzNExGS1B5dk56ZkVTWmpsRV9uMjNEMGNwcVpwaXlHVHNEdy1s?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
-   "source": "Al Jazeera",
-   "time": "2026-11-18T01:11:56Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONUREdkFPUjItcmNQZFVGZmVNVURZZkp2Q2YtWFFEanJVNEI2Z3NObllCMC1QVEFOa1V3UWlTTGFUeXBBMzd2TFJ0d2NKeGI3Uy0zSnV1QjBKdWYxSFRYVERhMmJiTDRiMmxURXU4R1dmV2ZWZ0dxd0ZtNG9tOEdjN1hrdUpkbWVBWHpmTFVpYXVwWGh6aUwwc3VnVHgzVmRPamJfRUJaT0Q2blUzcU5VajRxTElUVkXSAbwBQVVfeXFMTjZZNVZENlp4aWFhclVnNl9qaGJzTmNRWjE4WlhsemxZUWVwSnhvUEFBTmdJZkE0VWNkemJxNkJUYm90SDJIbWFkRTFHc3FPc00ta05ZMUNnbkhNUzBQbHlqNHJ1cUFOc2hHZTFsVWpsbFJiVngtcHkxbmhVT3p3UW10ZWJkZm4wZDFWZG40X2o0dzlYc1ZkalJMTDJ6bXFNWjhCcWp0WmpHazZLN2szWDVIQTYyLS1nWUM1dEQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Zelenskyy insists US has capacity to help Ukraine strike Russia’s missile launchers",
-   "source": "AP News",
-   "time": "2026-11-18T01:07:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcm1UZFFJQzAyUnl5VGdabW1iVF9jX1A2bEpvVjBkRWVxNGhWc2Jrem9CQ2FSUWdNbHN0RjFKVjB4d093MUVXQ000RDYxYjA0UDBFTTQ4LV9UQjBhbVRCREhxcTNzUDM3WjZTR3E5cHQxc0tQeEdfZDNIUkYwNDdhbVgtM2pQN3NxSnJiZzB6T0xmaUtoMElUd0lhV1gzVTIzYWhST21GTjZsQjBaSUVxd0t5RkpfTG9jX0ZxQktjaFZ3RTEzb2JLX0tXQkRFcHNiV1JFajE1SQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Tracking China’s Intensifying War of Words Against Japan",
-   "source": "The New York Times",
-   "time": "2026-11-18T01:02:39Z",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0FLYnFpRHlhX2Zab2lSTHFfM2pWcEVHUW8wSXIxaXNxZFpOQjdlNEg3OHViMTEyWFdoZW40NzRHWFcwTzJhSWVRMmlBeWtpZGJTU1pDY2R2QTlRWjBjaW9oUU9Bc3FUcGlzeTFiNHlEQ0NNd1Y5djdCTnJFWDJ3Y3hOQWE1U2J0SEJadzh3?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
    ]
   }
  ],
