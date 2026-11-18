@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T21:16:04Z",
+ "generatedAt": "2026-11-18T21:44:24Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 10
+   "kept": 9
   },
   "investing_news": {
    "http": 200,
@@ -67,7 +67,7 @@
   "bbc_world": {
    "http": 200,
    "items": 34,
-   "kept": 7
+   "kept": 8
   },
   "aljazeera": {
    "http": 200,
@@ -81,33 +81,33 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 36,
+   "items": 34,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 35,
+   "items": 36,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 19,
+   "items": 20,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 43,
+   "items": 44,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 29,
+   "items": 26,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 10,
+   "kept": 10
   },
   "gn_oil": {
    "http": 200,
@@ -125,6 +125,15 @@
   }
  },
  "items": [
+  {
+   "title": "Iran widens Gulf attacks after US strikes missile launch site",
+   "source": "CNN",
+   "time": "2026-11-18T21:12:56Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLU81cUFObHdoYUJHeWhPUVlERWZYRDZiVzBKY0lsZUF0WXpfa2I2a00wMUdrUURXeklMQ1BUV3luQjhoOGFBUlJrS0ZRWVFMdGgySExlMURVUExZM2Q2ZWlwa2Q3aTdVeTJLcGRuWGZha2tUSzFKVTNKVTdSYXVRTmRyU003RUdXUVdV?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Fed policymakers concerned about financial system risks, minutes show",
    "source": "Reuters",
@@ -160,6 +169,24 @@
    "tags": [
     "FED",
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Prince Harry, after Ukraine trip, warns on threat from Russia",
+   "source": "BBC",
+   "time": "2026-11-18T20:49:42Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHMUJiQ0F5Vm1Fc3A4ZW04TUJSRG9yLW1CdWRxOVRsN2NGU2JoajN0aTljaG13OUlVU0Q3Ul9DeWF6ay1IcEVWc01PR0o5eU5Qd0xVN0lYcFRoY00?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "A potato war has been simmering for decades between the US and Japan. It’s about to reach boiling point",
+   "source": "The Guardian",
+   "time": "2026-11-18T20:46:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0hRcThuRUM3UEVnN0c1VTJSQzUzY2haQXNzSVhqY2Z2dHBPRGJUQ0tHZzBrblZjQzBWNW5nd3BPajdVT2pxLVB1YjZqMFE1TzJqT0hIY083QU1JM2xMZHNpOXF3aXhkS2gyMnEtOHdEdUtvYWVMcmpCUGVyMk1VRHVkZ3p6RWJrTWg2UU5ERUxxTGw0eUxlTkFiaEs0TkJSbm1B?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -238,13 +265,12 @@
    ]
   },
   {
-   "title": "Fed Saw Need to Keep Raising Interest Rates Despite Holding Steady in October",
+   "title": "Fed Saw Need to Keep Raising Rates Despite Holding Steady in October",
    "source": "The New York Times",
    "time": "2026-11-18T20:11:02Z",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWNVYnFNZV9nd0xLQW9EenZFTEJZS1A0VF9jcXgydHdZMlNUY21sTndVYzZXTThLS19UOThYOF9oZS1hbURtSlBhcUYyTVB1XzB2QUk5dlZva3RlNzlyWmtweDNhUUdyNVJGV290RzNLYTBEU1RXMlpiNEtHZ09HTVFyZ09ldVdKUXNiMHFLSk45Y3RiOWEzWDFB?oc=5",
    "tags": [
-    "FED",
-    "RATES"
+    "FED"
    ]
   },
   {
@@ -255,6 +281,16 @@
    "tags": [
     "FED",
     "RATES"
+   ]
+  },
+  {
+   "title": "Why Carney is looking to China as Canada's car industry comes under US pressure",
+   "source": "BBC",
+   "time": "2026-11-18T20:02:02Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tMXZoVmRZSWNNZFVXSS1GRzRjWVV3bDY5cENvMEstZ0tQQXZtWmZvWG1OS0kxdFpZUnAzS0pMMEN5eGxnU2hucmpxYWl5UFREUnA3U2lnT1o0UEk?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
    ]
   },
   {
@@ -656,42 +692,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNnVBVHhjV2JQWDVXRHB1RE53eU5tU1hOeV85c3pxUWtRNGQxdEtQWXRod0EwcWM5MkhVdU5Td3VZaTJtUEl4ZEpZSDcxek54cWFjelBiaFFsa0lBTWo3WnhFS0dyVTRmSGNkamNnZldrbTN3UmsxRkFPQ1YwNy1wbkc2bnFpNlgtQ0pabkhCUklEdktJd1I1VjVsVEFWSVRGY0xfb1lISTU3U1JBSU1rQzczaDJBLVFt?oc=5",
    "tags": [
     "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "The US Treasury auctions $16B of 20 year bonds at a high year at 5.459%",
-   "source": "ForexLive",
-   "time": "2026-11-18T18:04:41Z",
-   "link": "https://investinglive.com/news/the-us-treasury-auctions-16b-of-20-year-bonds-at-a-high-year-at-5-495/",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Gold Steadies Near 14-Month Low as Rate-Hike Pressure Mounts",
-   "source": "Bloomberg.com",
-   "time": "2026-11-18T18:03:27Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmlWeXc5bFpQUDI1bkQyQVVEMmpSRC1ZUWpkZDczNDU5RUxoNFBzOXpreXZnOTctS0s1NGRBcW5Bb2ZUVGxMSWRiZU5ydWpKYkpaM1EteFZsdHF2Q1JVN1hWOW9aQm13ZlFmVWVuWVI5S0xJVFdUaERVT0hab2tCOUpBSzhvM2ZvczNFd0hNYndoREJ2d3llcVRRdVZ2VUFqZ1VBSGVYY0d5MVREZEp1MA?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Lowe's Stocks Fall 5.43% Premarket as Tariff Refund Masks Margin Squeeze",
-   "source": "TradingView",
-   "time": "2026-11-18T17:55:47Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORmx6QnRMMnZmRjNtUGVxTm55c1ZvY2FJZ3hBWTk3SDZHbWFWeDB6TDl5d0xpS2U1eGFTb3pkM0JleWkzNkJuZ3JzRUxnZkxwREhVZ1R6TmJLTXRRZkRZVWZYUEp3SEd2NnFvUmM5OTg1bDhLclNOaW5fVjhRNTJfbUVZQWRJaHd3a2ZsOEJEMFI3TVRSTXVhbDBUWk1pdFVnRVhwWjFIVVdfc3BJTzdsTWg2VWx6UmdBZkx3MjhOeTVsZC1qYndtRkxROA?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Newmont slumps 8% amid broad losses among gold peers (NEM:NYSE)",
-   "source": "Seeking Alpha",
-   "time": "2026-11-18T17:53:55Z",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNTR6eWpnVFcyVVFaY0czcnFRUnlEVU9wdURtamdHeDc1dXFzeThfSm1IQ2pPNE81SEh3d3Z4SEtIWUxZNGtxcWxPNXpCN19iSTdWRzhjMGVJZS1CTXpwZU1iZzNuM2pld2JZZlZmaHN3QmJfcUljMHF0OXNOc2lHZUxSSGRKLW45eDlDX0daYTZTQnc?oc=5",
-   "tags": [
     "GOLD"
    ]
   }
