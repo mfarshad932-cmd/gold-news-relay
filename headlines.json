@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T22:12:46Z",
+ "generatedAt": "2026-11-18T22:41:06Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 3
+   "kept": 4
   },
   "marketwatch": {
    "http": 200,
@@ -66,8 +66,8 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 34,
-   "kept": 8
+   "items": 33,
+   "kept": 7
   },
   "aljazeera": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 35,
+   "items": 36,
    "kept": 12
   },
   "gn_fed": {
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 41,
+   "items": 37,
    "kept": 12
   },
   "gn_sanctions": {
@@ -125,6 +125,24 @@
   }
  },
  "items": [
+  {
+   "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+   "source": "BBC",
+   "time": "2026-11-18T22:34:56Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Foreign holdings of US Treasuries dip in Sept, China holdings hit 2008 low, data show",
+   "source": "Investing.com",
+   "time": "2026-11-18T22:13:13Z",
+   "link": "https://www.investing.com/news/economic-indicators/foreign-holdings-of-us-treasuries-dip-in-sept-china-holdings-hit-2008-low-data-show-5037222",
+   "tags": [
+    "CHINA"
+   ]
+  },
   {
    "title": "China Burns Less Oil and Coal as the Iran War Reshapes Its Energy Mix",
    "source": "Crude Oil Prices Today | OilPrice.com",
@@ -179,6 +197,17 @@
    "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-thursday-november-19-2026-australian-jobs-report-preview/",
    "tags": [
     "JOBS"
+   ]
+  },
+  {
+   "title": "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
+   "source": "Reuters",
+   "time": "2026-11-18T21:15:02Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQWp0U1B6TG9KQU5oY25mQTRtbk5hTUZxNnI3azdIZDNNcU9iN1hzSndVckt3eU5ReUZockwxa1JOMVYyNTQ5d281c3NnU1pEU3pKaEZMSUZEdFQ3bG9DaXk4Umx1NG5WQ3ZvMko2VzBYdlgwYUI0Rm9ud1kzU1VMeWdZNXlkd3FJWTBvc25qV1ROWDZubGV4SF9QUk1EcG9BWGprZzRxcU9xa2g5TmRiUDRqR0FoYmNreUNicmFiWQ?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "INFLATION"
    ]
   },
   {
@@ -283,6 +312,16 @@
    ]
   },
   {
+   "title": "Fed Saw Need to Keep Raising Interest Rates Despite Holding Steady in October",
+   "source": "The New York Times",
+   "time": "2026-11-18T20:35:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWNVYnFNZV9nd0xLQW9EenZFTEJZS1A0VF9jcXgydHdZMlNUY21sTndVYzZXTThLS19UOThYOF9oZS1hbURtSlBhcUYyTVB1XzB2QUk5dlZva3RlNzlyWmtweDNhUUdyNVJGV290RzNLYTBEU1RXMlpiNEtHZ09HTVFyZ09ldVdKUXNiMHFLSk45Y3RiOWEzWDFB?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
    "title": "Fed Minutes Show More Rate Hikes Likely As Inflation Risks Persist",
    "source": "Forbes Middle East",
    "time": "2026-11-18T20:29:51Z",
@@ -322,15 +361,6 @@
    ]
   },
   {
-   "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-   "source": "BBC",
-   "time": "2026-11-18T20:14:57Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Trump and Putin to meet one-on-one in China Thursday",
    "source": "Al Jazeera",
    "time": "2026-11-18T20:12:20Z",
@@ -340,13 +370,12 @@
    ]
   },
   {
-   "title": "Fed Saw Need to Keep Raising Interest Rates Despite Holding Steady in October",
-   "source": "The New York Times",
-   "time": "2026-11-18T20:11:02Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWNVYnFNZV9nd0xLQW9EenZFTEJZS1A0VF9jcXgydHdZMlNUY21sTndVYzZXTThLS19UOThYOF9oZS1hbURtSlBhcUYyTVB1XzB2QUk5dlZva3RlNzlyWmtweDNhUUdyNVJGV290RzNLYTBEU1RXMlpiNEtHZ09HTVFyZ09ldVdKUXNiMHFLSk45Y3RiOWEzWDFB?oc=5",
+   "title": "Iran widens Gulf attacks by targeting a US air base in Kuwait and sites in Bahrain",
+   "source": "AP News",
+   "time": "2026-11-18T20:11:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkpMQk5Ha1FZNG45Vmt6WWxWeUtMS3lSU0hON0F0b0ItSHlWY0NnUHFyQ1JTWFBPSWViZTFVZHpKNWI3V3R1TjM0b25HWTNEZGZ2Q1ItZG5hdXNGcG03M3FjZlJKNmE5SC1lYTJERmRETERvdGJOUGlsMG9pQjVVU2dEWkJxOEY2eXJYd1RtVmNlN2pIcGlLcHJlaw?oc=5",
    "tags": [
-    "FED",
-    "RATES"
+    "GEOPOLITICS"
    ]
   },
   {
@@ -441,6 +470,15 @@
    ]
   },
   {
+   "title": "Fed Officials Saw Higher Rates Ahead When They Held Steady Last Month",
+   "source": "WSJ",
+   "time": "2026-11-18T19:41:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX01kNDVqdGtHNWs5RVhUbkRTbUdMd1hkWDBJU0x6NVdIWVptS0tJTk1GR1dnajI5Z19HNlppb2ZhWVpWVnQ5eUxXSko1VVl3bERZbVV1enFVWFhsd3ozMDAtQ0RXYjZtX25DRm9QTzRqVFQ2MmdMMk5yeGluNGhjMEpJU1lZWG5DSVRQdzg1UHc2SzM1cWFVXzh6b2Q4YTY2T1NjWHBOU3RQLTg2cFVkSldPSUx2VjhjM0p0OUZESQ?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "How high is UK inflation and how will you be affected?",
    "source": "BBC",
    "time": "2026-11-18T19:37:27Z",
@@ -456,6 +494,17 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeTlhOHd6WDd0TUgyVk9JZlZ5RE9oNVVBN21iXzRTR3pnbng1U21uZDFqQ1djS1lfYUZ3aWR5ekN1c1lyWjNZQ0tCeXFoR0FsRXRkSjVFc1RqNEJNZlRONkdabnpvNzlLc2lONTk0WVB2SWs1cWtjZlBuTXFEN3VjNUtaSDVmcDg2bzVVYXpzY2ViMVZxOVR6OGdlTW5ZMk95YUx4cFdZaUNYSDFSTFZHTEpkSF9pR05PZmpKMGhtSE9PZnFV?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount",
+   "source": "AP News",
+   "time": "2026-11-18T19:32:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd2Q1ZnpsMjBsaWNUMEJIVUxmTTNSeUYyOWphQWtydFJKbDIzN3JiUXpvcEQ0dnhBcFVhRHdGWTR4dTRCQW5FNi1BVE8ycGtnTXEtWkZJMS1COGc5M25oUmNWb1hMemNpZ0p3MlRGSjBRLU1rX2cwRUlrbjNCWEcxazRkazhVd2dTUUFuWU1KN1RiVHBURHc?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "INFLATION"
    ]
   },
   {
@@ -538,17 +587,6 @@
    ]
   },
   {
-   "title": "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
-   "source": "Reuters",
-   "time": "2026-11-18T19:09:43Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQWp0U1B6TG9KQU5oY25mQTRtbk5hTUZxNnI3azdIZDNNcU9iN1hzSndVckt3eU5ReUZockwxa1JOMVYyNTQ5d281c3NnU1pEU3pKaEZMSUZEdFQ3bG9DaXk4Umx1NG5WQ3ZvMko2VzBYdlgwYUI0Rm9ud1kzU1VMeWdZNXlkd3FJWTBvc25qV1ROWDZubGV4SF9QUk1EcG9BWGprZzRxcU9xa2g5TmRiUDRqR0FoYmNreUNicmFiWQ?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
-   ]
-  },
-  {
    "title": "FOMC Minutes: A couple of participants noted a hike of more than 25 bps could warrant consideration in December",
    "source": "investingLive",
    "time": "2026-11-18T19:03:20Z",
@@ -625,6 +663,15 @@
    ]
   },
   {
+   "title": "Gold Just Crashed 32% From Its Record in 10 Months, Shattering the Safe Haven Retirees Leaned On. Warren Buffett Spent Decades Warning About Exactly This, and His Reason Wasn’t the Price",
+   "source": "Yahoo Finance",
+   "time": "2026-11-18T18:44:34Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb3NraExwSW5QQ0Z3NkNXN1hnTVYwMlRhNDJrUWpybFVNOXNIUUVrN25NM3FMT2l3ckJMTTNaOVkzblRaX2VlVksyQ1gtOTNwV0Rodk9VQ2FkZXA1SnVuVWFoTWotTU5hbk9veGJJYm83Mm92Xy1ZNHM4LU51RThLVTVDclJTNEIzUUEwRFMzVjFwR1ZYUnNVcVRBcTlRZw?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Israeli tanks roll into central Gaza in first ground operation since ceasefire began",
    "source": "NBC News",
    "time": "2026-11-18T18:40:48Z",
@@ -649,51 +696,6 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSm12UHZCU3VxTVdaUEZkTFVrcllfdGw3ejc3STVZM3U0cXByUWR5Y1R3ZDRhZmxQVjNiWXI0Qm9hTURNNlE4YTAxU2hYZVNNSm1JNENPd0tPYlE4VWtNNHZTQTZ5Q1JJMVE2SzYyNTE1UFVjSWRHUlpEZVB0dmhYbzlEdkNzc1dFUmJyaFEtNE42djVKTU5sN1RvZw?oc=5",
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "title": "Barr, Investing in America’s Underserved Communities",
-   "source": "Federal Reserve",
-   "time": "2026-11-18T18:35:00Z",
-   "link": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Trump said to privately vent at Vance for blaming GOP’s shellacking in midterms on Iran war",
-   "source": "The Times of Israel",
-   "time": "2026-11-18T18:33:02Z",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSnNsR3h4VjdZVnJQQlczMzlLYmFSR21nN205eFlCekxlNWd6eFZtbmVYaUN1enhHRU8wdGhoQlRVT25MaHI4dTVwUXJJc1ptNnNkclNUTlRkc0UyYUprUlZ5UWJIcjZNZWFNV2tPYTVwdXhjWGszcGloY0YyZ3ZhS0c3Y3BsQWVNXzNKZXZvOW9UMFFyZ0wwcVB5MzRndTI1WUFpX3hOeG91Z2lDdFBaZEZyN3VIeGxhQkoyV0RITFRfZHktOVpzckp5aElKb05BbGc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold and silver weather a perfect storm as demand holds firm",
-   "source": "Kitco",
-   "time": "2026-11-18T18:22:49Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYXBiSnI5YkVSWEZJZTJlV3A2ZnR0azV0NTNGY3c3WlN2Y2o4NFlPUUFQeldxdTFMYlVzNDNTSWh6bVFzRXhqVEd5cjAwMlpMTXowOGhFUEpDbVdKcnZmb0gtUXBPREJFclFxTVJCT0RIYng4amRxNUxlRV9vSjY0RFBFdXE5RWFnSVVFWHR5QWZQVS12MklMejlzSkQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
-   "source": "Al Jazeera",
-   "time": "2026-11-18T18:22:26Z",
-   "link": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
-   "source": "Kitco",
-   "time": "2026-11-18T18:19:27Z",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
