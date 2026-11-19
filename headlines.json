@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T09:32:56Z",
+ "generatedAt": "2026-11-19T10:01:19Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -66,7 +66,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 33,
+   "items": 34,
    "kept": 7
   },
   "aljazeera": {
@@ -81,33 +81,34 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 33,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 40,
+   "items": 41,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 22,
+   "items": 20,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 39,
+   "items": 38,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 15,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_yields": {
-   "http": 200,
-   "items": 9,
-   "kept": 9
+   "http": 429,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   "gn_oil": {
    "http": 200,
@@ -126,6 +127,34 @@
  },
  "items": [
   {
+   "title": "Anthropic to go live",
+   "source": "FXStreet",
+   "time": "2026-11-19T09:48:56Z",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wUzJvMkhHSG05dnNaQzhDWGRMWUhOaVQ4OWx5cHFiUi1YNC1LQk9OTWxrSjl4a1lyUG83blI0d3o4UUpjdWVjRDkwcmdGZkNpTXVmR1BTcHhJUDdXZURtdDVJakpSc0JlNEt1dE1YRUdfalNtZ0E?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Albanese tells Putin to end Ukraine war 'now'",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "time": "2026-11-19T09:36:33Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb0pPSVVScDRYVG5BV3NodEJRd2Z0M0U5ZXhtOU5Ua2FzaXNmV2RodVNjcDdVdVljSFRKVjVOdUdNRGQ4VTBFSERxOTFIdW5MdEg4MEIzQzM0MG50UzI0MWlUT3dHZXNlZUxsNFBuMjJRTlN1akdlWWotWjlRVXRNOUotSlpXZS1yQ1lpMkxfSjVDX1ZsbTRj?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump says U.S., China, Russia ‘uniquely positioned’ to discuss reducing nuclear weapons at historic meeting",
+   "source": "CNBC",
+   "time": "2026-11-19T09:34:17Z",
+   "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
+   "tags": [
+    "GEOPOLITICS",
+    "CHINA"
+   ]
+  },
+  {
    "title": "How the War in Iran Will Remake the Global Energy Order",
    "source": "The New York Times",
    "time": "2026-11-19T09:25:56Z",
@@ -137,21 +166,11 @@
   {
    "title": "Gold Price Forecast: Falling Stocks Fail to Lift Gold as Dollar Rises",
    "source": "FXEmpire",
-   "time": "2026-11-19T09:18:15Z",
+   "time": "2026-11-19T09:18:32Z",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEJQLTNlVE9IRG0yM1pnRkZuZHZNTFlEYWJURXBTVjdxZ2RkMGpMVEFCTC16aTJHeGZlWWRzUTE3YWs3ZEVxVjR2Zjl4eHB1WmNGWEd4ZTlmRTVISnp3RVQ0NlNkZEVaaVFzVlJWcGpobzh6STREcGlpb1dvZGpRNTJBN0t0LWJjOWFoN0lqRmZMay02bTBJQ3dvT3FfbU42NnlxaHBqN3VqLUo3aHJ2N2QzS20zclFfcnpv?oc=5",
    "tags": [
     "USD",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Trump says U.S., China, Russia ‘uniquely positioned’ to discuss reducing nuclear weapons at historic meeting",
-   "source": "CNBC",
-   "time": "2026-11-19T09:18:14Z",
-   "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
    ]
   },
   {
@@ -198,6 +217,15 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
+   ]
+  },
+  {
+   "title": "Indian Rupee advances even as US Dollar Index extends rally",
+   "source": "FXStreet",
+   "time": "2026-11-19T08:53:16Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaTRBc3FZbjg0b1BYYVdUQU9WY1VfbVZGa2xGckNseVVILS1CWHhzQ0tiZ0V4Rjc3X1ZnaXJCdExxUmV3blpWVVNtWGFHSm1pTUI2YklKTTJuVHBuMERBMkxXVzhEcENDOVA1cWRhb0JaY19fM25PZFdiYVdCaVBKSDk5dURCTk5DMTN6Y3FuRFhaUm9WNElDSlBBd0VfbloxclJ4T2hhWkttcF9admxmaXF1NTd6WDNHTTZLUmRNQ29rdw?oc=5",
+   "tags": [
+    "USD"
    ]
   },
   {
@@ -666,35 +694,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
    "tags": [
     "CHINA"
-   ]
-  },
-  {
-   "title": "Gold Steadies Near 14-Month Low as Fed Signals More Rate Hikes",
-   "source": "Bloomberg",
-   "time": "2026-11-19T04:41:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXdmV3hhblFoX2xZNXU1UVFXemNQdDJXUlpqV3o3bmxiNUVxNTFWRkVRektBa1o0d1N2LWhFcWJYZ0VYWWUydHhnVjFrQ3VYOUI1Z25abXdHV0JucmhFcTFBZTNKSjR6WXB1MnFVanVTekJxY2cyNG9HdzB4NlkyTUtaM3N5bFQwSVd5UGQwaHJNNlRNUU5KU2tCOU5uaEVoRXY5cUhEMHBtZEtxY1B2VkRtRQ?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Opinion | The Jensen Huang doctrine loses in Washington",
-   "source": "The Washington Post",
-   "time": "2026-11-19T04:38:00Z",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uRWNEZk9FNk8tRXIyOFlVNzNGalpPelFzZF9uYzdTY0NYRElNc2xyNGVuWWhxdmpEWVhDUEs3RE1HbzZSTU14SGdsY1JsOUZjVVJrUjlZdkh0YldxMXRoSXNmMkotbEE3ZmkzRXlEVVJXYXlQWFM5d0hPU1RFZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "NSA outage disrupted classified US intelligence communications with Mideast amid Iran war - report",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-19T04:36:10Z",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BaDJURjU0X29VVHpZZnl1a3FvSk5xQnRpcDJSR0NDM3FJcWZ5SF9JeGc3YjFqLUxvZ3ZSMDFaWmtnZEdmSXFJMlJabVMtN0FUamRzM1JYYUNOczZKblVz?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
