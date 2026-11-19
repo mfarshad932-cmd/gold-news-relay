@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T01:02:48Z",
+ "generatedAt": "2026-11-19T01:31:10Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -80,9 +80,10 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 36,
-   "kept": 12
+   "http": 429,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   "gn_fed": {
    "http": 200,
@@ -96,7 +97,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 41,
+   "items": 42,
    "kept": 12
   },
   "gn_sanctions": {
@@ -126,6 +127,33 @@
  },
  "items": [
   {
+   "title": "Permian Growth Turns Moderate Despite War",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "time": "2026-11-19T01:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnZMMHBlMzBRdjRRb1B1N1FyWUdXQTB3SjYxbFozNWE0Mjlwc1JsdHhRZUNOakY3SlBiMnpxMjVZdWJQYUFWUDBzbF8yRzRZbWNmQ2tzZmJYemRDZWUtNVNPMlJnUjVGZ0tCbWpSeGdwREwxY1cyZGxCR1JkRERSdTMxQ29zdlBIRnNqY9IBkgFBVV95cUxPMmJBYS1WYlJMdlhLalppZ2hBZXpEcS1aY2w3QWpPbUtnb2ZFa0NobU5xZXhmTTNOOGltczZIS1UyVTcyMzdMNU4yVWR3RUhhZXB2MjVMNXRlN2dVLUV5X2JEcHBYNTRkSUZRSjZDbUxuMHRVSVBsUFhSZ21tSW5fUmxPb2pidVRIbXVuRWdtUUJoZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Australia unemployment rises to five-year high as employment plunges 43,500",
+   "source": "Investing.com",
+   "time": "2026-11-19T00:53:14Z",
+   "link": "https://www.investing.com/news/economic-indicators/australia-unemployment-rises-to-fiveyear-high-as-employment-plunges-43500-5037466",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
+   "source": "Al Jazeera",
+   "time": "2026-11-19T00:50:23Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRnRZZmk5aUVnWkxwOUx3YkE1S3ZwTlF1b2cwNE5RTjM1dE5tSERlZ0RObU8xTERqdUpaN0tMYWF3N1VZUTI1ZE1VQUNWY3BLb0VjbkRYQkoyajRBMjRuaEtrTzJuaGpLOERCcnNLbkVhUVRnOFlMbHhYU2duc2V3MWljcG81MUU0MEpzc3lOZFBhbDBSeGpJYjJNaWl3WjF1a002WGF2VVAtSERiX2NQOU8tZUNRalN60gG-AUFVX3lxTFBfY3BqSmFLU0RaVTh1VmVFeDdRLW83dXQ5OVItc2VTcXRHTDZ0ZG40N1I4cDJSMk1yLUlYM0tKb2JPVjQzdTNyU1pDUWRHM0lHb3NULWw2SjRwaFhPYjdUYXJtWmlFQ3p6NmE2VXRkVS1sM2V5ZHhnejlfOVZzX1dZVkFya2ljN3lRUXVUV3NYcFltSDN1SlhMT2g3Rm9YR1NxMEpZVDhheS05ZVJzSXhwMFFpRi1Wc1Q3THdqd3c?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Ukraine's Zelenskyy reacts to Trump meeting Putin amid ongoing war in Ukraine",
    "source": "NBC News",
    "time": "2026-11-19T00:43:39Z",
@@ -144,21 +172,21 @@
    ]
   },
   {
+   "title": "Trump said to privately vent at Vance for blaming GOP midterm losses on Iran war",
+   "source": "The Times of Israel",
+   "time": "2026-11-19T00:30:34Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmhCUDF4d0ZvVkhmU1daNWIydEVKODlsUkhLaE9UekVMZnFYVkFLNkdTSThSazdFNi1VVjhQM2l4VEt0UHNhQzhHYi1wNW9UV1NCZ0RIWjZ4WFg1RDBTMFNOZVlCdWtQcXJJS3N4Q0VMOEV3SDAzbG9IQ201S3BNc2JjVWw4Q3pmQWNrX1pUeTI0NWI1OUh5aU5qb3BHaWlfQ2tYaGxQa2R2ZUZGN3Ria9IBtgFBVV95cUxOSnFfMWlyWXVqbXVUWVpvMlFLN2t0U1E2eG15YV9XdENMb0F4Tl92YjMtTXIySElGMmRxRUZudS1xdEJTNGh3V3Axak1ucl96bzhwZU8yLXBreGl4UVhpYTNybG9nLXZCSE00YkVNelRpMi1aaXBIcjFWTmR5X24zeGZrYWViUjk2Umd6S1EtMXE4eHh2RDBVZUoxdi0wZE1MRy1yLW1GdWMxdWg0dU9CMmRfNl91UQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Iran Hit Key Infrastructure, Isn’t Behind Tech Outages, US Says",
    "source": "Bloomberg.com",
    "time": "2026-11-19T00:17:00Z",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUmlCcUxqYWp0dE5fbDNLSk5CakswN2ZwSUd4LU93aEhBeWI4ZXlrY2dQLVJkZERhQTIxYW1ueDFOWWFXOWcxTmtLSk84OU1XcXdEWWtjc2NEdmlfTHpxYS1iX2g2S2ZxODNIbXhZUGcwUEVOSmdlYWM4a0Zlb1NNSWdXaFJPTmlteUpiV05KMlMtdUJfT1F4Z2I5QVN4MHB5Z3duUlo3dkNFUjhsM1pacg?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
-   "source": "Al Jazeera",
-   "time": "2026-11-19T00:14:55Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRnRZZmk5aUVnWkxwOUx3YkE1S3ZwTlF1b2cwNE5RTjM1dE5tSERlZ0RObU8xTERqdUpaN0tMYWF3N1VZUTI1ZE1VQUNWY3BLb0VjbkRYQkoyajRBMjRuaEtrTzJuaGpLOERCcnNLbkVhUVRnOFlMbHhYU2duc2V3MWljcG81MUU0MEpzc3lOZFBhbDBSeGpJYjJNaWl3WjF1a002WGF2VVAtSERiX2NQOU8tZUNRalN60gG-AUFVX3lxTFBfY3BqSmFLU0RaVTh1VmVFeDdRLW83dXQ5OVItc2VTcXRHTDZ0ZG40N1I4cDJSMk1yLUlYM0tKb2JPVjQzdTNyU1pDUWRHM0lHb3NULWw2SjRwaFhPYjdUYXJtWmlFQ3p6NmE2VXRkVS1sM2V5ZHhnejlfOVZzX1dZVkFya2ljN3lRUXVUV3NYcFltSDN1SlhMT2g3Rm9YR1NxMEpZVDhheS05ZVJzSXhwMFFpRi1Wc1Q3THdqd3c?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -505,6 +533,15 @@
    ]
   },
   {
+   "title": "Prince Harry, after Ukraine trip, warns on threat from Russia",
+   "source": "BBC",
+   "time": "2026-11-18T20:55:15Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHMUJiQ0F5Vm1Fc3A4ZW04TUJSRG9yLW1CdWRxOVRsN2NGU2JoajN0aTljaG13OUlVU0Q3Ul9DeWF6ay1IcEVWc01PR0o5eU5Qd0xVN0lYcFRoY00?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Fed minutes show growing unease about the outlook for inflation",
    "source": "MarketWatch",
    "time": "2026-11-18T20:51:00Z",
@@ -521,15 +558,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkZ3Y3c3WE51TWt2RUVhZUdxbk5PM3FCdjNERW94S3NEckxuUVBidkxiRHdHUnl6RGxLZnIwZjh1UTlmak1tOW50MmZWemFEQlY5UUs3Z2pISzVodWhiRjFZSHN0T2xLTkVIV3A0Y0xUbnJOVy1ZRDJYWlNPbGJ6M1VHa2VLN2xMRDlJdkpESnZLZzFoWHc2WFg0eE43dzZsTGlEU1JVQjBkUQ?oc=5",
    "tags": [
     "OIL"
-   ]
-  },
-  {
-   "title": "Prince Harry, after Ukraine trip, warns on threat from Russia",
-   "source": "BBC",
-   "time": "2026-11-18T20:49:42Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHMUJiQ0F5Vm1Fc3A4ZW04TUJSRG9yLW1CdWRxOVRsN2NGU2JoajN0aTljaG13OUlVU0Q3Ul9DeWF6ay1IcEVWc01PR0o5eU5Qd0xVN0lYcFRoY00?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -654,35 +682,6 @@
    "tags": [
     "TARIFF",
     "CHINA"
-   ]
-  },
-  {
-   "title": "Fed minutes: Officials favored holding rates steady in October, but they see hikes ahead",
-   "source": "Yahoo Finance",
-   "time": "2026-11-18T19:57:19Z",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTDFIcXN2WXhLWlRORzhBZHZUaDRwbzNQYU13eFNPbTNsbmEzdjdHcWRkX2U5dTdZS0FMRlZoX2hIRlJqWnN6UmNTTnI4ZkxUN18yMWU4ZmVhSmQ2dDRoaUFtalkwZmlDRDBSZTRtS1cyWkpBWXRiS2tQM2lFVFl4aldNQk54emFkcVZmcG1xX1ZPc3JhUzBXTkg0ZUsxY1JIc0pEYmIwdDNGcUlORnN3VGJLY0M1eWV3X3R1VVlsM1hGY29xczZRTldQRmZ3R1N1VncxX0RaZm9hRGY0ci1reFZQQW8?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Prince Harry warns UK to brace for war with Russia, says he will rejoin army",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-18T19:52:48Z",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZk1sWlRxTWZ4S1lqalk0aHNVOU42ZWJGWXRRVkdpX2sxazdKM0hFT29VLWZZbnk3WDFBQ2oySVJzNXZmbUp3YUJhQUVILUQ0czhZT2wtbC1CeW0tRnV1ay1ERWc4X0ZsZC1NcGVTZW14aXJBdXBBN2RmR00zejJHanhLTWViRExqOEE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed’s Daly Emphasizes Need For Rate Hikes, But With A ‘Measured Approach’ As Fed Minutes Show Growing Inflation Unease",
-   "source": "TradingView",
-   "time": "2026-11-18T19:47:39Z",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNRFBjXzRhZC10enVFbkprTlcyMGkzODFYVDEyZWpDcU5MZzdnVG5BcEFBQmZNZG9rSzNFbkVfU1V2QTJDVjMzX3RrOXJXOUJLU3AzZVpjVDgtWVVldjlsTUpwMmpIOGdSbnNuVTRhVFNzZGJtOUFHcF9ac3lrYU5EeUoyN3lGUHkxMkZhM2JnR3RkbVRhV0gwdkc2NWYxR2hMOTA5NERZNTNzR1c5M1J2SW02ejE3Z1FVR1JfT3g2dTBiSnN4aW5ZZHhjdElvclNXdmdSbkljWVhsMGh0eFl6NkQ0RmhXQjNlWDFORGxUY1EwbEZOSGs1Y0cyLVVQRmc3QTRqWGVlbw?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
    ]
   }
  ],
