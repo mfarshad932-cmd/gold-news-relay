@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T05:17:59Z",
+ "generatedAt": "2026-11-19T05:46:18Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 8
+   "kept": 9
   },
   "bbc_business": {
    "http": 200,
@@ -86,7 +86,7 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 43,
+   "items": 42,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,12 +96,12 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 39,
+   "items": 37,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 19,
+   "items": 18,
    "kept": 12
   },
   "gn_yields": {
@@ -126,12 +126,32 @@
  },
  "items": [
   {
+   "title": "The 'exceptional' dollar scenario that forced Deutsche Bank to change its FX forecasts",
+   "source": "CNBC",
+   "time": "2026-11-19T05:34:08Z",
+   "link": "https://www.cnbc.com/2026/11/19/exceptional-dollar-setup-made-deutsche-bank-change-fx-forecasts.html",
+   "tags": [
+    "USD"
+   ]
+  },
+  {
    "title": "Worried about an AI bust? So is the Federal Reserve.",
    "source": "The Washington Post",
    "time": "2026-11-19T05:15:17Z",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0t0NWstc3N2V0F2RE9fWlJDYVNTY3lINGFtUHhsQUE1cDU2SkdYc3E0M3hvNlpuMXlRQmxjdFdwVzMtbGQ4bXg3QjdzWU9sYmVNangtcmFxV1NvQWQ2TG5xRV9WVl9XTGpubUd2dHh3MUNsRlBDXzduNXVTOENfa0tTdmtrOWpWT2g0ZV9mYVV5ckpzNXJxaFBHRkxvQ2U5YjhiZVBqZHRBeVFQM2JnMQ?oc=5",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "FOMC minutes reveal Fed officials expect more rate hikes despite October pause",
+   "source": "TradingView",
+   "time": "2026-11-19T05:03:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSTVUOFlhVjFsaVVqSHVGb3BZYUZlRmdQaV9iajRyWS1yRjRFMWJNQnhZZ1RpOHR3eHM4ZFF5U3VCS1p3d2J4YzY5eHFtSGRJblVoRmtRaVhYRHhfRDcyS1Z5bnFGeDlQU1lQTFhINUFVNlE1Y1Zmbm1TTWRMNmhBQnpYYzA2VV9vRmI2M2ZIMkFBY2FFdERJRGo0a19UQnBBd1h0elJQOGs0bTJSY2diZG15N3dtWnBsTWxhVEI2R2pXOTdPS1JVTUtPTmpoWnVqdk1XYm5WdnVjekE?oc=5",
+   "tags": [
+    "FOMC",
+    "FED",
+    "RATES"
    ]
   },
   {
@@ -149,6 +169,15 @@
    "source": "The New York Times",
    "time": "2026-11-19T05:00:06Z",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yU0FMWnlOQ0Q5ajRGOTRXcGczQzJkSmo5VzlBOEJCOU9OVlluNXZNQmNTZzFlN0dLV1N4b1o0SmxBTVBka2EyejU1Q2xkVHRnWGRjUl84LTRtSlJpUU9sSjBYNERPbk9RNDJWOFBrZm43UHM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence",
+   "source": "Al Jazeera",
+   "time": "2026-11-19T04:58:36Z",
+   "link": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -643,44 +672,12 @@
    ]
   },
   {
-   "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
-   "source": "Al Jazeera",
-   "time": "2026-11-18T22:58:33Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN29KWFVkOWVHR09pY21wS3N6V2YzSEJoYmk4LWw4eXZWNkc5cVNoaHVDYkVHSndveTUzUlk3V2ctZW5lRHo4X1huWlZjQXNDN0s4MFFTOHQ5N25QTGVteWFvd2h0VFJ6S0tFQWpHdW5XWU1uN092NmhGb0JrY2ZRbm96eVZBY2sxcnNrNkxEQ2Z4SUU4N1RFZHV1R1hQTXlpcGVvdjdBcGtkd9IBrwFBVV95cUxOdkRWUmJ3SldzZXB4WXNqTF9oNGZrQXBRM0lpWGhjQ3ZpMzlPSHo5VlUxek10b0ZhYUgwaFBXd2lIWDBtMmJEYjNKX293Z21Xb2JiOWFzbHZ4czNBc0theVJ3aUFaaExKY2F5Q19MS0Z4TUw1Ujk3TE9UZFJmUFFjNVV2U0Q5WGN5WWpHdUF2X05STTVFQWp0TnVUM0JodG0yWnYtWjZtWWNHMy1tZE1j?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
    "title": "Foreign holdings of US Treasuries fall in September; China slashes to 2008 low, data show",
    "source": "Investing.com",
    "time": "2026-11-18T22:54:57Z",
    "link": "https://www.investing.com/news/economic-indicators/foreign-holdings-of-us-treasuries-dip-in-sept-china-holdings-hit-2008-low-data-show-5037222",
    "tags": [
     "CHINA"
-   ]
-  },
-  {
-   "title": "Gold and silver sink to 14-month lows as hawkish Fed commentary boosts dollar",
-   "source": "TradingView",
-   "time": "2026-11-18T22:50:53Z",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbXZOclBIQURGYURvdUhXdzAxVWJjTzY5OWxqaHE5SFVNbFVqOTVyQ1RMdzZfRmJKOGpzREw1ekNvcmd1MTlBYTJTVllCOGFlaFJ5SG13V2lZV3FIcHd3QjRtVG1NTnBocmlSbHNHd1R2MWh3cDc5QndoMy1WZUNGbnFka0Vwd3dmd19FaDZWeDJsWm8tUHBOMmZIUENLM0F2NHEyLWdBdEY3d191OGxLLVVyUWE4RHNIZVo2Q1gyTUNINEhJdnp0Ql85WUlyRDZDSHZoM2laaw?oc=5",
-   "tags": [
-    "FED",
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount",
-   "source": "AP News",
-   "time": "2026-11-18T22:48:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd2Q1ZnpsMjBsaWNUMEJIVUxmTTNSeUYyOWphQWtydFJKbDIzN3JiUXpvcEQ0dnhBcFVhRHdGWTR4dTRCQW5FNi1BVE8ycGtnTXEtWkZJMS1COGc5M25oUmNWb1hMemNpZ0p3MlRGSjBRLU1rX2cwRUlrbjNCWEcxazRkazhVd2dTUUFuWU1KN1RiVHBURHc?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
    ]
   }
  ],
