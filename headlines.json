@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T18:03:14Z",
+ "generatedAt": "2026-11-19T18:31:36Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -21,7 +21,7 @@
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 3
+   "kept": 2
   },
   "bea": {
    "http": 200,
@@ -86,22 +86,23 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 28,
+   "items": 25,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
+   "items": 13,
    "kept": 12
   },
   "gn_war": {
-   "http": 200,
-   "items": 38,
-   "kept": 12
+   "http": 429,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 14,
+   "items": 13,
    "kept": 12
   },
   "gn_yields": {
@@ -125,6 +126,43 @@
   }
  },
  "items": [
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Tests Yearly Lows As Sell-Off Continues",
+   "source": "FXEmpire",
+   "time": "2026-11-19T18:28:21Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM3c4dnNlZXh0U194M3dIeFBFTU95RTNPajRGMC1ITFNhbXU1LVE3N3JYN3lDUnFyNWlxeEhsOGtNTDhBVDl2MmJVSzdjdk1zUDVVeWRlWEx5RlR3RHk5YWEzT25GY19kMDJqcHFjNnIyeGh6WjE1N28xZWtBVkpua2t4ZVJoUURsZUtBUTBTTW9aeHNHZWNzMGhZTWpBU0tTWEIwZ25kRUF3T0ZaSDBEZW5ucFVCdmhKay1PaGE2RjY3cTNIR29vSkZIN2FyZw?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "AMD dives on short-seller report of alleged China exposure",
+   "source": "CNBC",
+   "time": "2026-11-19T18:24:54Z",
+   "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Chuck Todd says Democrats should ‘start with tariffs’ to lower cost of living",
+   "source": "The Hill",
+   "time": "2026-11-19T18:19:00Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUTdZeTJ3c1o5YjhTRnVFY2hTMk1mbnhXMERyYUthajV5U3NrNXR1VzVzSHFCeV9adXlyRWZnanEyX2VjMWhtOVM4TVJBVVBtMC1aVG1sSF8ySlVqZmg2bWNkVU5Gb0tSMzJWM2RoQXh0TmdpLVFPdHc2cmwtOFRwOUJCbl_SAYoBQVVfeXFMTy1uaThqdDVtT01MbmUyNUxRaFN1OXVlbFd3Y2pKY1V6cGpqcUdLMHZQRnB0SnNqdTFQWm9qcWRBd2l3Z2JfdzhjTTZpc1M5akNRNkgyS1hSQ1J0aUJ5QlBDTnpsbW0wUEpGREEyRGpBMHhUTG5xQ1lvdzc5MEhVZ1ctdXE3NEk3YjdB?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "China’s Xi urges US and Russia to join forces to safeguard world peace",
+   "source": "Al Jazeera",
+   "time": "2026-11-19T17:50:21Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS",
+    "CHINA"
+   ]
+  },
   {
    "title": "Fed’s Jefferson Says AI Buildout Exerting Upward Pressure On Inflation",
    "source": "TradingView",
@@ -248,15 +286,6 @@
    "link": "https://investinglive.com/news/poland-s-tusk-it-doesn-t-look-probable-that-russia-will-be-ready-to-negotiate-peace-before-spring/",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "AMD falls on short-seller report of alleged China exposure",
-   "source": "CNBC",
-   "time": "2026-11-19T16:53:47Z",
-   "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-   "tags": [
-    "CHINA"
    ]
   },
   {
@@ -645,36 +674,6 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONkRNTmVJRC1mZzYtOE1lWkpzLUYybFdUbTdtRmItWjJCZFBlMXpNQkJ5cDdpX3Z0dlp3MFhaOTFCU1Rmczg1MWs1SUhOY3B1cVp5UDlQM0ZkQ3dWd2dsZldjdWo4cHQyQk5CWDZkWHlkRGp5RmJrNm5NSWRyZEJNLTlsVHhSbWd5akdWNVNzVlNUSGRFNVVtcHJDOVRSbWxScFJGWmFjdWx5ZkQyejhTNWxYYw?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Price Forecast: Fed Rate Fears Keep Pressure on Gold Bulls",
-   "source": "FXEmpire",
-   "time": "2026-11-19T13:48:41Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHVRdnFxcjI1WjNKVUZtTjZLZWw4N1pCS2lqR09NeW0xSXAyMmlta3FmSGJ4TmZ5MVhiY01HZ1RVV3lXLUthcGdKVS1UOE1jZ2VCanNLUjZuLWFSVml5Q25Mc0VGTkQ3SHVvUllPQS1QeGJkSFdJSU85dXA1X3ZZeUk2TXdJb3JFWUMxOUpFNUEwS0RyZUJqaTFsM1hHVFhka3VWc2wxcnl2RzA5eEQ5QWp0TQ?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists",
-   "source": "Reuters",
-   "time": "2026-11-19T13:41:47Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkZwc3MzeGxPMldOWGxwZnk4UFBSWGtfVC1pTnBnQXVRZzBrNTBzdGxCc05WSU5KNjVoTk1XSm82Q2UxSms1WnhkT05tTG5xU3JULWRtUTVOSlpmeXgyNTFWRVVOX1BTS3ZNaDZEendqbkJJNXlMSndLb0JiQjJ0dEhnMWs3bm5RX0hDNTZ4SVlaamJTU2ZDZVJ1VG8ycVpNdXR3NFdKMHhDVjdlUWMyWmhwVQ?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "OPEC’s Oil Production Nears Prewar Levels on Saudi Rebound",
-   "source": "WSJ",
-   "time": "2026-11-19T13:40:49Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkZ3Y3c3WE51TWt2RUVhZUdxbk5PM3FCdjNERW94S3NEckxuUVBidkxiRHdHUnl6RGxLZnIwZjh1UTlmak1tOW50MmZWemFEQlY5UUs3Z2pISzVodWhiRjFZSHN0T2xLTkVIV3A0Y0xUbnJOVy1ZRDJYWlNPbGJ6M1VHa2VLN2xMRDlJdkpESnZLZzFoWHc2WFg0eE43dzZsTGlEU1JVQjBkUQ?oc=5",
-   "tags": [
-    "OIL"
    ]
   }
  ],
