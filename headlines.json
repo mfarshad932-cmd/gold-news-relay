@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T01:31:10Z",
+ "generatedAt": "2026-11-19T01:59:31Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -80,10 +80,9 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 429,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 429"
+   "http": 200,
+   "items": 34,
+   "kept": 12
   },
   "gn_fed": {
    "http": 200,
@@ -97,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 42,
+   "items": 43,
    "kept": 12
   },
   "gn_sanctions": {
@@ -112,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -127,6 +126,99 @@
  },
  "items": [
   {
+   "title": "Opinion | The Jensen Huang doctrine loses in Washington",
+   "source": "The Washington Post",
+   "time": "2026-11-19T01:44:18Z",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uRWNEZk9FNk8tRXIyOFlVNzNGalpPelFzZF9uYzdTY0NYRElNc2xyNGVuWWhxdmpEWVhDUEs3RE1HbzZSTU14SGdsY1JsOUZjVVJrUjlZdkh0YldxMXRoSXNmMkotbEE3ZmkzRXlEVVJXYXlQWFM5d0hPU1RFZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Video Trump, Xi, Putin to meet amid Russia's war in Ukraine, US war with Iran",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-11-19T01:44:04Z",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWpfdno0bHpnSXdjMC1kT0NjRUU4YWhBUnBEOWpiUUNmb0xWbG1GYkw0V2ZodmlHUHNub2tIY3Y1YjJ6dDF0aEVsTWhfUmZvbEhydWMzQW5XM3F1VlVDaW5uQVJ3UHFwQzZoemoxRWIxQWRCS1lDZFk4ZWw0ZnpWV19Ea0U1ZWJiMWRmQg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold (XAU/USD) Price Forecast: Breakdown Opens Door to $3,500",
+   "source": "FXEmpire",
+   "time": "2026-11-19T01:43:48Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1BXVUZkQVlLVnlnWW04U3hRSnFwSzczc3hCVEdRbGs1TF9lZFM5NTRMOHRGNy1uSlhjMWxrVVRFZERxWjQtNDJYWG5EdWw1OHBoMkNEVm1vYkxIeHdodnlxZ3hrallvM1dqRUhVMmdCMk9wa0pTR3hTZHQ5OU9vSV85QWY5SXljVURuMmc5R2Q3Xy1WYVhVMjRQcDZOMy1QaWI1MkFyZnN2X1E?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "US launched unarmed ICBM test hours before Trump’s Air Force One landed in China",
+   "source": "South China Morning Post",
+   "time": "2026-11-19T01:42:08Z",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYmYxSXFhbEpQNXBDZURtbXQ2bGlfRmxCQl9SbWhqRWZuZG1aRHZmTXctN1l6eHRHMEl4UDQ2Qm8tVWx6SmtjSVlDQ1JnbGlLLVBmQ0lfOEdyT3hCV29PMG9WYU1pTU1kdU9fVmRWVV9aeUE1a0hyQTRWd1NpZzFqR19xUmpzalVGMWhGYklKa3BBZktNdlhlcTFuMnJhT21jN1ZEVHBzb3JNWExFdDhRVEdrUkNlT25Fc0JfSUJHU1hEQndBelJ1QktDdHpWTTNqX3JjMEFB?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Australia unemployment hits five-year high as jobs plunge 43,500; AUD weakens",
+   "source": "Investing.com",
+   "time": "2026-11-19T01:41:17Z",
+   "link": "https://www.investing.com/news/economic-indicators/australia-unemployment-rises-to-fiveyear-high-as-employment-plunges-43500-5037466",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "Fed officials worry an AI bust could shake the financial system",
+   "source": "The Washington Post",
+   "time": "2026-11-19T01:33:24Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0t0NWstc3N2V0F2RE9fWlJDYVNTY3lINGFtUHhsQUE1cDU2SkdYc3E0M3hvNlpuMXlRQmxjdFdwVzMtbGQ4bXg3QjdzWU9sYmVNangtcmFxV1NvQWQ2TG5xRV9WVl9XTGpubUd2dHh3MUNsRlBDXzduNXVTOENfa0tTdmtrOWpWT2g0ZV9mYVV5ckpzNXJxaFBHRkxvQ2U5YjhiZVBqZHRBeVFQM2JnMQ?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Trump Grows Frustrated With Vance Over Iran War Critique",
+   "source": "The New York Times",
+   "time": "2026-11-19T01:23:01Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3B0SDctTm9DMGNCbXNLM2VOd2prWE1aZTZfT242MVNtUGRVeWRUemVHRWZMSVhGM0J0S2xxMC1XRWRvMVB6XzN3VGJfTDdDSGtGMTlSMFpVTlM2ZGotaW1JZjBaWWNQZmZseEFFUFBxa3hnRDQyYnB1bzVUWXdPcDJnZU5jLTUzVUZJYWRsX1d4Zw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "WTI rebounds above $82.00 on escalating Middle East tensions",
+   "source": "FXStreet",
+   "time": "2026-11-19T01:20:41Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTJORzZuVDB5bDFpeVZqNEp0SERoNWEzN0J5X05Xay1VcTEwZDRjZktGb3JEQ2hSZVdLTVFtVnVrZWpwUWx6QVlhTmJKOHcwODd3N2hqTUNJaGd5TkFIaHFyOHQ3VDBFcGVBWUxyLXVHbXltYjRCamFhZGpFLWFMUmY1bWJQa0tibXZjRDQxUGVaMEY2RTItSFhKQzRVdFVVSzVF?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Mideast nations ramp up efforts to avert all-out war as Israel urges Iran strikes, officials say",
+   "source": "AP News",
+   "time": "2026-11-19T01:16:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkpMQk5Ha1FZNG45Vmt6WWxWeUtMS3lSU0hON0F0b0ItSHlWY0NnUHFyQ1JTWFBPSWViZTFVZHpKNWI3V3R1TjM0b25HWTNEZGZ2Q1ItZG5hdXNGcG03M3FjZlJKNmE5SC1lYTJERmRETERvdGJOUGlsMG9pQjVVU2dEWkJxOEY2eXJYd1RtVmNlN2pIcGlLcHJlaw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Settler rams into Palestinians at multiple locations in central Israel",
+   "source": "Al Jazeera",
+   "time": "2026-11-19T01:13:45Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Permian Growth Turns Moderate Despite War",
    "source": "Crude Oil Prices Today | OilPrice.com",
    "time": "2026-11-19T01:00:00Z",
@@ -136,12 +228,12 @@
    ]
   },
   {
-   "title": "Australia unemployment rises to five-year high as employment plunges 43,500",
-   "source": "Investing.com",
-   "time": "2026-11-19T00:53:14Z",
-   "link": "https://www.investing.com/news/economic-indicators/australia-unemployment-rises-to-fiveyear-high-as-employment-plunges-43500-5037466",
+   "title": "Gov. Wes Moore talks recent tech outages, Iran war funding, 2028 and more | POLITICO Pub at NGA Forum",
+   "source": "Politico",
+   "time": "2026-11-19T00:51:40Z",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdC1DeE1mazNlN0JiczRTSGNMVy1wakkwTk5CSDgtS05wb1FFNGszbDhuS0VPUzJrZFhFbFJFRGtKbUpweU9NS0ZDM01UVUZvVXp3ZzRKT3ZZcnVtSFJaWmZLQ215WUF5ZzRDN09KbW5reENtMXYzcFE2SllWNUpDaDRkczAtZ3VWcEctVnQ5bUN3Um5rUnJacTFydTlMWXd4eHNKZEtyWTlrX19LdUdNQTF3U0JVS292ZE1sZWRTX25od3ZHWmE4b2tPTDB3dG90WWVibEtKOGE4ZG90Y24w?oc=5",
    "tags": [
-    "JOBS"
+    "GEOPOLITICS"
    ]
   },
   {
@@ -187,15 +279,6 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUmlCcUxqYWp0dE5fbDNLSk5CakswN2ZwSUd4LU93aEhBeWI4ZXlrY2dQLVJkZERhQTIxYW1ueDFOWWFXOWcxTmtLSk84OU1XcXdEWWtjc2NEdmlfTHpxYS1iX2g2S2ZxODNIbXhZUGcwUEVOSmdlYWM4a0Zlb1NNSWdXaFJPTmlteUpiV05KMlMtdUJfT1F4Z2I5QVN4MHB5Z3duUlo3dkNFUjhsM1pacg?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed officials worry an AI bust could shake the financial system",
-   "source": "The Washington Post",
-   "time": "2026-11-19T00:03:24Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0t0NWstc3N2V0F2RE9fWlJDYVNTY3lINGFtUHhsQUE1cDU2SkdYc3E0M3hvNlpuMXlRQmxjdFdwVzMtbGQ4bXg3QjdzWU9sYmVNangtcmFxV1NvQWQ2TG5xRV9WVl9XTGpubUd2dHh3MUNsRlBDXzduNXVTOENfa0tTdmtrOWpWT2g0ZV9mYVV5ckpzNXJxaFBHRkxvQ2U5YjhiZVBqZHRBeVFQM2JnMQ?oc=5",
-   "tags": [
-    "FED"
    ]
   },
   {
@@ -307,16 +390,6 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHZnSkJHREZNaXJBR0lyMWlNZ21kZUpZODNuSWRXV24yQm0yUGoyUkFhZWlmVTJwZzFZcXlzTWhnWm1pVldZRnViZXFzMm1WUndEQXFndmpKUXJ1WHgzaEwwOTRVblNkc1lvR0lnaDVlS0xwcXFPSGpPOTBNdGVCQzMtdVlfVXc0Ry1MbDVFNW9aOXJVb18wdm1aLUtJMU90d0N0X3J5dw?oc=5",
    "tags": [
     "FOMC"
-   ]
-  },
-  {
-   "title": "Gold (XAU/USD) Price Forecast: Breakdown Opens Door to $3,500",
-   "source": "FXEmpire",
-   "time": "2026-11-18T23:13:11Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1BXVUZkQVlLVnlnWW04U3hRSnFwSzczc3hCVEdRbGs1TF9lZFM5NTRMOHRGNy1uSlhjMWxrVVRFZERxWjQtNDJYWG5EdWw1OHBoMkNEVm1vYkxIeHdodnlxZ3hrallvM1dqRUhVMmdCMk9wa0pTR3hTZHQ5OU9vSV85QWY5SXljVURuMmc5R2Q3Xy1WYVhVMjRQcDZOMy1QaWI1MkFyZnN2X1E?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
    ]
   },
   {
@@ -605,83 +678,6 @@
    "tags": [
     "FED",
     "RATES"
-   ]
-  },
-  {
-   "title": "Fed Minutes Show More Rate Hikes Likely As Inflation Risks Persist",
-   "source": "Forbes Middle East",
-   "time": "2026-11-18T20:30:21Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObVIyV0tvdUhhaDJ5NjJzTWdLc09LRk1xUExkLTRtZ1IxRlNOSzJnOTVYRWFtYTJqLVdLbGhHdV84T2w4bWFtXzIxblNmNDViczEta2JXZ1lweW92LVh0c1R1OExVYS0tOVVSNXE3U3FHNGtMZ0dGRVg5U0hUYmU1XzdOWEVTV3Ftb3B5WFdpVFpTaExiZTUxbjk3anpLLWRuaWNid2NaT3gxNUZZX1NnVW5MLXFNdw?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
-   "source": "The New York Times",
-   "time": "2026-11-18T20:29:31Z",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeW5DSkhiak9mal9LREtyS0F6b1daM1VYcklSX1dEZXQtczhncGJMdlhub0k4eGo0enI2ZFFXNnV5UHZiZlRJSDZfVXlXWWtTSnh1ZWR5WDEyZl8zMGRfU2xLalQ5RGYtcVVvWEdMUzc3cjR1Y3NZaTJJVXVtc1ZGZ2ZKSlVzR3Q4TFBpcDRQWTUxWjg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
-   "source": "Al Jazeera",
-   "time": "2026-11-18T20:24:50Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
-   "source": "The Guardian",
-   "time": "2026-11-18T20:21:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQclp0b010ckFVZG5HS1FJZktRcmg2ZmVvbEt1bFUyT0cyN29IdE92bERQN3VQLWlvajByUkJPczNzT2VOZzc2MmFzaGlWVDgweTNFR0RGN1RPdlZobVFjWDFzOGtWSV9SUDhRRVFLX21HZEg3c2s5ZV9jZ2Qtcm1iTjRUUHNIRnRZSFgwTi1oY283M1BpZDFQd0k2TVByMV9CMm1tVWRNWHpkbGhpUGNqWQ?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Trump and Putin to meet one-on-one in China Thursday",
-   "source": "Al Jazeera",
-   "time": "2026-11-18T20:12:20Z",
-   "link": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Iran widens Gulf attacks by targeting a US air base in Kuwait and sites in Bahrain",
-   "source": "AP News",
-   "time": "2026-11-18T20:11:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkpMQk5Ha1FZNG45Vmt6WWxWeUtMS3lSU0hON0F0b0ItSHlWY0NnUHFyQ1JTWFBPSWViZTFVZHpKNWI3V3R1TjM0b25HWTNEZGZ2Q1ItZG5hdXNGcG03M3FjZlJKNmE5SC1lYTJERmRETERvdGJOUGlsMG9pQjVVU2dEWkJxOEY2eXJYd1RtVmNlN2pIcGlLcHJlaw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed’s Waller says officials may need to ‘shock’ with half-point rate hike",
-   "source": "The Hill",
-   "time": "2026-11-18T20:10:00Z",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56MzFOekFrVXJIek1aZU85UGZhODU0T056cDY0c3FrOG5HaE9pV3dUVTNxQTJHZFRVY3p6YVJjWHAyRnZ3NWJWaU5KN1NjY1hWdEZjSkU0SkJydXdBcHFpUDBnWTQ3M1lEQ3g3ZDhzZHjSAXZBVV95cUxNSEdoRmMxXzBYczExWUl6RkpiTFZSbDN1Q0xZV0dpWmxDMHlJMlh6MDVaNFQ2cmdFVDR4WmVaQUdpYjM0bWozRUN0ZmwzUUFOdkdvdk8zc2dOTGxMT1NRNVF0Wk1UUy1IX2ZMTmdVa0xOYnNJNUxB?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "Why Carney is looking to China as Canada's car industry comes under US pressure",
-   "source": "BBC",
-   "time": "2026-11-18T20:02:02Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tMXZoVmRZSWNNZFVXSS1GRzRjWVV3bDY5cENvMEstZ0tQQXZtWmZvWG1OS0kxdFpZUnAzS0pMMEN5eGxnU2hucmpxYWl5UFREUnA3U2lnT1o0UEk?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
    ]
   }
  ],
