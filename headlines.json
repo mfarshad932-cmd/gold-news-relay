@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T13:19:52Z",
+ "generatedAt": "2026-11-19T13:48:14Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 3
+   "kept": 5
   },
   "marketwatch": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 11
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -86,7 +86,7 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 30,
+   "items": 29,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 37,
+   "items": 36,
    "kept": 12
   },
   "gn_sanctions": {
@@ -111,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "fed_calendar": {
    "http": 200,
@@ -126,12 +126,75 @@
  },
  "items": [
   {
+   "title": "Gold's bad year is getting worse. Why its price keeps falling",
+   "source": "CNBC",
+   "time": "2026-11-19T13:45:07Z",
+   "link": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "OPEC’s Oil Production Nears Prewar Levels on Saudi Rebound",
+   "source": "WSJ",
+   "time": "2026-11-19T13:40:49Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkZ3Y3c3WE51TWt2RUVhZUdxbk5PM3FCdjNERW94S3NEckxuUVBidkxiRHdHUnl6RGxLZnIwZjh1UTlmak1tOW50MmZWemFEQlY5UUs3Z2pISzVodWhiRjFZSHN0T2xLTkVIV3A0Y0xUbnJOVy1ZRDJYWlNPbGJ6M1VHa2VLN2xMRDlJdkpESnZLZzFoWHc2WFg0eE43dzZsTGlEU1JVQjBkUQ?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
+   "source": "WSJ",
+   "time": "2026-11-19T13:40:32Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVKcXlHY1EycS1qaFBrcVduLWwzS1B4RmhJeDg5eFlxR0FIeVNFclFqZVczdXFBVGVLa0xpcHZXZkVWa3JEeHJxVXA5YWxVa3YtejhlaHd1T1JmWDd1NHp3V1E1SEdsS0tkOEc2bVpZNER2elNveGdNTk9xanNjSDZZM2NwSXhULUVPSk84TW1JRFJUbkRRZVBYN2JHd0NnQkYxN0hhVDhVaVYzUEtlTGUwUUpuZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Initial jobless claims rise slightly, exceeding forecasts",
+   "source": "Investing.com",
+   "time": "2026-11-19T13:34:07Z",
+   "link": "https://www.investing.com/news/economic-indicators/initial-jobless-claims-rise-slightly-exceeding-forecasts-93CH-5039051",
+   "tags": [
+    "JOBS"
+   ]
+  },
+  {
+   "title": "Philadelphia Fed Manufacturing Index Plummets, Misses Forecast",
+   "source": "Investing.com",
+   "time": "2026-11-19T13:32:13Z",
+   "link": "https://www.investing.com/news/economic-indicators/philadelphia-fed-manufacturing-index-plummets-misses-forecast-93CH-5039043",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Mosque set on fire in Israel, politicians blame Netanyahu’s ‘incitement’",
+   "source": "Al Jazeera",
+   "time": "2026-11-19T13:24:12Z",
+   "link": "https://www.aljazeera.com/news/2026/11/19/mosque-set-on-fire-in-israel-politicians-blame-netanyahus-incitement?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Lowe's Q3 Earnings: Even Tariff Refunds Couldn't Prevent Margin Compression (NYSE:LOW)",
    "source": "Seeking Alpha",
    "time": "2026-11-19T13:15:00Z",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN29ZSnFBSzJQdlJwcG9kVEYzTEh5ZVVydTY0cnVGbUdWalFFZUJKakZiekpTMktJZWg0OTBfWFotMHU3dXlIcmlBaF93YzI3dUNvdjRENzBleEpnLXNFc3VmQXV2aGU4TGtoekx6dkYxRzdjbkV1Q29YRExmcHd5TGhNWFNlVUc1c01LTTQ2aWlDX3VfVUlVZTZqazREZVlDc1QtazBuTTBkeVlQWWtOOE1PYw?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Amid boiling tensions, Israel needs realistic goals before third Iran war, defense expert says",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-19T13:09:21Z",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAydjNWREx1N2VqSjl2T2tJb3ppS1lGZXc4TmQ5b21ONmJHZ29UWnNCSENPZU9TN01WR1N4SWxjVVBuRmFIdUVfMmtkV0VDdnpfd3ZpbFJrTQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -199,15 +262,6 @@
    ]
   },
   {
-   "title": "How would a third Iran war be different from the first two rounds?",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-19T12:56:15Z",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAydjNWREx1N2VqSjl2T2tJb3ppS1lGZXc4TmQ5b21ONmJHZ29UWnNCSENPZU9TN01WR1N4SWxjVVBuRmFIdUVfMmtkV0VDdnpfd3ZpbFJrTQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Gold prices today, Thursday, November 19, 2026: Gold price opened at the lowest level in 14 months",
    "source": "Yahoo Finance",
    "time": "2026-11-19T12:22:58Z",
@@ -268,6 +322,16 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWGRFYnRQN1pwV2JiVkRBSGdIY2RDN3hoVnJvTDg3YVpzV2JjNjVMRkVOLVdfNU9yeVZxR0tpV3ZhUU1OSXVMemxUOXBvWVNUMDJGb2Rxa0VRTGxWU0hsSVNvNEdYUVpydDlpNFh2NzVpWXhCWVNSQVJ4OUxoR0ZGS0Q0WTFWNFE0Si11U1FqRnFWZkRlN1haWC1vaHR6Zw?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Senate overwhelmingly advances Russia sanctions bill named after Sen. Lindsey Graham",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-11-19T11:58:31Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY201cHExVEdiSzNVUkNQZ2cydldwMkhLeEllZFVEelRtMVQzMGdxZHk4Z041YklkcW0wY2tscXFTaFpBUnRENHJnekJjU3JfTHU2RnFaMnA4SjBsVWRwTGk1ZVVWV1BVWWl5dHptaFNYdThJUEFaYWk2MUUzeVRsa1RKdHBManRzNHR5eEJWa2d6cjBfSW1kX2hBeTIwUdIBowFBVV95cUxNYndwVEREWVpyY3dxenJmS3JtUXFjbUkwYVoyNEZ0NE43NHN2SFh3THpneC1peF9MUzJsamhaRVU3M2R0b2JvaDI0ZElSTHl3NDU0aWgzM3g1ZDBoOXpLSFdjSmZLREtBVXVsYThQbkUwOThxd1pLUXhhaTBsTDl0c0FyemhVWjFuZ3pfOV9vTkFjVk5pdlhnbjE0M2s4VUtMTk1v?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -615,70 +679,6 @@
    "tags": [
     "FOMC",
     "RATES"
-   ]
-  },
-  {
-   "title": "Trump, Xi, Putin begin historic meeting with Ukraine war on agenda",
-   "source": "Yahoo Finance",
-   "time": "2026-11-19T09:21:39Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3NWbWNJWUZ0VWJBbVZmak5jWUdBM2hHc2tIckloeHVzdEN5cUJyZFA0VThVcnd3SEItZFVTVmZxMTRXdC15WDY1ZkNmX2E4WGdkYkFTdzZDWHBzYnJDZTl4eG5OQ2ZWVWdlOXVWRHFkQzB5TXJwX0dXYzZsV3ZTM1lFTmI?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump Seeks Xi's Help On Ukraine War As Putin Talks Begin",
-   "source": "Forbes Middle East",
-   "time": "2026-11-19T09:17:25Z",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdEVKbEE2ZzMyMWtJZzIwMlJTYkJ2dmdRQ3JwLVVJU2FmQ0N2VFRyYWlzaW5HNEg0TmFWMEw3R3NpR2E2VE1HZHItVzd5TXpkeFR6MDk1OWZ1dzQ2LTdHYlhRaXUzeHZRdVIxYnR5eUozR3g2b2xRWElXRTh3QzFPZXVwT1RSM21uTU5fbWVHMHhPTjluRW1mckRMYnlaR2p5bUMxTldhMXBtekktVFpfVENsYUN4N3BnTVpvU3Q2bkdWbC1hRmoweHNLcC1CWGc3ZmJiX3cwaGJ4ZTE4?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "North Korea expanding uranium enrichment facility, UN nuclear watchdog says",
-   "source": "Al Jazeera",
-   "time": "2026-11-19T09:16:47Z",
-   "link": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
-   "source": "WSJ",
-   "time": "2026-11-19T09:10:32Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVKcXlHY1EycS1qaFBrcVduLWwzS1B4RmhJeDg5eFlxR0FIeVNFclFqZVczdXFBVGVLa0xpcHZXZkVWa3JEeHJxVXA5YWxVa3YtejhlaHd1T1JmWDd1NHp3V1E1SEdsS0tkOEc2bVpZNER2elNveGdNTk9xanNjSDZZM2NwSXhULUVPSk84TW1JRFJUbkRRZVBYN2JHd0NnQkYxN0hhVDhVaVYzUEtlTGUwUUpuZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
-   "source": "CNBC",
-   "time": "2026-11-19T09:02:00Z",
-   "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The Middle East War Has Wiped 2.8 Billion Barrels Off Global Oil Supply",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "time": "2026-11-19T09:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUklXc2tqX0d3Rmx6a1hQUV9YNTFuUHEwTjBvd1cyUnRrNHJTTHVhNENpZVdYMzMyUmlydDMtYWVQRjJ6aEZSZ1FlQW90SWNYWTQyQXNVdGtjanBQS0dDd3BpbXNUbTBZSmQxUGdOZTFuM3RkSVJCc1JoTmJjTllaZmdyM3R4R2sySHZmWDBYbURISllGeUR3UmVUNTktamRZelB5dVVfLVlTVzg0djZsTnpVeHR3cVJmb1Zuc21CVzdpUXRn0gHKAUFVX3lxTFBvdGtlOXFNbmJxeWhHM0lkdExSdEtoWUhrbUdYWUVDMXFpd3p5cGpoQzA4X0tHOThJWFpCVXZTMHlXbDI4bU93RV9Ebk8tZERNNWRxNENyOFE0bmg5cWo2eFRRSHFpTjdVeTQ5QURsQzRnX1dnNXdTeDJ3Qjhic1VlOTk3OHZ0ZndqT0Z3NHE3enN5Y1JsSEI2bS1wQUptZ0R3Qmp6TmNjYVNoUHJ6UndjNU9VRFhZeU5IQnY4TUZaOEhsNlpxTEtyVEE?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Indian Rupee advances even as US Dollar Index extends rally",
-   "source": "FXStreet",
-   "time": "2026-11-19T08:53:16Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaTRBc3FZbjg0b1BYYVdUQU9WY1VfbVZGa2xGckNseVVILS1CWHhzQ0tiZ0V4Rjc3X1ZnaXJCdExxUmV3blpWVVNtWGFHSm1pTUI2YklKTTJuVHBuMERBMkxXVzhEcENDOVA1cWRhb0JaY19fM25PZFdiYVdCaVBKSDk5dURCTk5DMTN6Y3FuRFhaUm9WNElDSlBBd0VfbloxclJ4T2hhWkttcF9admxmaXF1NTd6WDNHTTZLUmRNQ29rdw?oc=5",
-   "tags": [
-    "USD"
    ]
   }
  ],
