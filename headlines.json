@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T00:06:08Z",
+ "generatedAt": "2026-11-19T00:34:17Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -61,13 +61,13 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 47,
+   "items": 48,
    "kept": 8
   },
   "bbc_world": {
    "http": 200,
    "items": 33,
-   "kept": 7
+   "kept": 6
   },
   "aljazeera": {
    "http": 200,
@@ -80,23 +80,24 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 37,
-   "kept": 12
+   "http": 429,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   "gn_fed": {
    "http": 200,
-   "items": 41,
+   "items": 43,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 23,
+   "items": 22,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 39,
+   "items": 40,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +107,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 12,
+   "items": 13,
    "kept": 12
   },
   "gn_oil": {
@@ -126,12 +127,66 @@
  },
  "items": [
   {
+   "title": "Iran Hit Key Infrastructure, Isn’t Behind Tech Outages, US Says",
+   "source": "Bloomberg.com",
+   "time": "2026-11-19T00:17:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUmlCcUxqYWp0dE5fbDNLSk5CakswN2ZwSUd4LU93aEhBeWI4ZXlrY2dQLVJkZERhQTIxYW1ueDFOWWFXOWcxTmtLSk84OU1XcXdEWWtjc2NEdmlfTHpxYS1iX2g2S2ZxODNIbXhZUGcwUEVOSmdlYWM4a0Zlb1NNSWdXaFJPTmlteUpiV05KMlMtdUJfT1F4Z2I5QVN4MHB5Z3duUlo3dkNFUjhsM1pacg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
+   "source": "Al Jazeera",
+   "time": "2026-11-19T00:14:55Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRnRZZmk5aUVnWkxwOUx3YkE1S3ZwTlF1b2cwNE5RTjM1dE5tSERlZ0RObU8xTERqdUpaN0tMYWF3N1VZUTI1ZE1VQUNWY3BLb0VjbkRYQkoyajRBMjRuaEtrTzJuaGpLOERCcnNLbkVhUVRnOFlMbHhYU2duc2V3MWljcG81MUU0MEpzc3lOZFBhbDBSeGpJYjJNaWl3WjF1a002WGF2VVAtSERiX2NQOU8tZUNRalN60gG-AUFVX3lxTFBfY3BqSmFLU0RaVTh1VmVFeDdRLW83dXQ5OVItc2VTcXRHTDZ0ZG40N1I4cDJSMk1yLUlYM0tKb2JPVjQzdTNyU1pDUWRHM0lHb3NULWw2SjRwaFhPYjdUYXJtWmlFQ3p6NmE2VXRkVS1sM2V5ZHhnejlfOVZzX1dZVkFya2ljN3lRUXVUV3NYcFltSDN1SlhMT2g3Rm9YR1NxMEpZVDhheS05ZVJzSXhwMFFpRi1Wc1Q3THdqd3c?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Fed officials worry an AI bust could shake the financial system",
+   "source": "The Washington Post",
+   "time": "2026-11-19T00:03:24Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0t0NWstc3N2V0F2RE9fWlJDYVNTY3lINGFtUHhsQUE1cDU2SkdYc3E0M3hvNlpuMXlRQmxjdFdwVzMtbGQ4bXg3QjdzWU9sYmVNangtcmFxV1NvQWQ2TG5xRV9WVl9XTGpubUd2dHh3MUNsRlBDXzduNXVTOENfa0tTdmtrOWpWT2g0ZV9mYVV5ckpzNXJxaFBHRkxvQ2U5YjhiZVBqZHRBeVFQM2JnMQ?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
    "source": "CNBC",
    "time": "2026-11-19T00:01:23Z",
    "link": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
    "tags": [
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
+   "source": "Al Jazeera",
+   "time": "2026-11-19T00:01:02Z",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "NSA outage disrupted classified US intelligence communications with Mideast amid Iran war - report",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-18T23:55:11Z",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BaDJURjU0X29VVHpZZnl1a3FvSk5xQnRpcDJSR0NDM3FJcWZ5SF9JeGc3YjFqLUxvZ3ZSMDFaWmtnZEdmSXFJMlJabVMtN0FUamRzM1JYYUNOczZKblVz?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Israel uses Gaza swimming video to minimise winter hardships",
+   "source": "Al Jazeera",
+   "time": "2026-11-18T23:53:21Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -144,12 +199,12 @@
    ]
   },
   {
-   "title": "Fed officials worry an AI bust could shake the financial system",
-   "source": "The Washington Post",
-   "time": "2026-11-18T23:35:12Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0t0NWstc3N2V0F2RE9fWlJDYVNTY3lINGFtUHhsQUE1cDU2SkdYc3E0M3hvNlpuMXlRQmxjdFdwVzMtbGQ4bXg3QjdzWU9sYmVNangtcmFxV1NvQWQ2TG5xRV9WVl9XTGpubUd2dHh3MUNsRlBDXzduNXVTOENfa0tTdmtrOWpWT2g0ZV9mYVV5ckpzNXJxaFBHRkxvQ2U5YjhiZVBqZHRBeVFQM2JnMQ?oc=5",
+   "title": "UKMTO reports tanker struck by projectile near Oman’s Khasab",
+   "source": "FXStreet",
+   "time": "2026-11-18T23:53:10Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRDlXNDZHZElYUVZTenUyaUNVeXU3aExJd1ZEWC1Bc1BXNk9OMTZudmxnbWUxQnlSYl9hNGp2SDNoOEZTQUo5MC1mOHp4NW4tZm8zLVVEbng3NHI1b0RZaDZJZEZWcURhV21sSkRqT1NLVnhpSUNJZk16RGpFZEVCVHMtaDRSMzE3N09xcnFJSjI0Rk5fWnNySWYtMkRtU2g0V0VreA?oc=5",
    "tags": [
-    "FED"
+    "OIL"
    ]
   },
   {
@@ -177,6 +232,17 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT3dEX09BWVR0NUZGYTNZNXNvYl85V1JfbDdYZzk5SDZ1OUVpTDN5SS1RaXZRMWNmNTNsM0VzeHFsMUtORTlyZ2xIVE1pS0RDVE9yQVVTMVhrTUJmNFFHcllVRk5ucTVfci1hV3FHakFhWlVZUm14MXctelI3aTdHVTg4TXpjcWZteHl0WkFiQzR4Zmg1eTRYcTE4YWN2UHJmZVp4cVYza2U4dlpsNW84N0JkQlVFMzNwRklnLXJB?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Steadies Near 14-Month Low as Fed Signals More Rate Hikes",
+   "source": "Bloomberg.com",
+   "time": "2026-11-18T23:24:06Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXdmV3hhblFoX2xZNXU1UVFXemNQdDJXUlpqV3o3bmxiNUVxNTFWRkVRektBa1o0d1N2LWhFcWJYZ0VYWWUydHhnVjFrQ3VYOUI1Z25abXdHV0JucmhFcTFBZTNKSjR6WXB1MnFVanVTekJxY2cyNG9HdzB4NlkyTUtaM3N5bFQwSVd5UGQwaHJNNlRNUU5KU2tCOU5uaEVoRXY5cUhEMHBtZEtxY1B2VkRtRQ?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "GOLD"
    ]
   },
   {
@@ -322,6 +388,13 @@
     "OIL",
     "CHINA"
    ]
+  },
+  {
+   "title": "U.S. Treasury Prices Rise as Steady 20-Year Auction Supports Longer-Dated Bonds",
+   "source": "TradingView",
+   "time": "2026-11-18T21:41:30Z",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb0RUZjNHS1F4MlZPaVFrSDdibU0teWxJUGloeGhGal92c0tmVTA5eHhPak5rQWlEcTFCcUhSZzhGem80V1Q0UHl1Ullia21WaDk0eGtpN2hkbGVxUFp3M2oxb19ycXY4WWQxNHdEWkhzLXEwVkpzQTNSSDM3NVRYNWNJOVpWeHY4clFIYXd4aEUtZ01POXZid1haWW8weXhYMFR2Q3ZncjZEYnI1RDgwV0YtVnhYYUlDcE55alR2U21lVlF0V01NWW4zQlhlVGxKVUVuREdsTEc?oc=5",
+   "tags": []
   },
   {
    "title": "investingLive Americas FX news wrap 18 Nov: Waller/Fed minutes put a bigger December hike in play",
@@ -480,12 +553,13 @@
    ]
   },
   {
-   "title": "Fed Saw Need to Keep Raising Rates Despite Holding Steady in October",
+   "title": "Fed Saw Need to Keep Raising Interest Rates Despite Holding Steady in October",
    "source": "The New York Times",
    "time": "2026-11-18T20:35:00Z",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWNVYnFNZV9nd0xLQW9EenZFTEJZS1A0VF9jcXgydHdZMlNUY21sTndVYzZXTThLS19UOThYOF9oZS1hbURtSlBhcUYyTVB1XzB2QUk5dlZva3RlNzlyWmtweDNhUUdyNVJGV290RzNLYTBEU1RXMlpiNEtHZ09HTVFyZ09ldVdKUXNiMHFLSk45Y3RiOWEzWDFB?oc=5",
    "tags": [
-    "FED"
+    "FED",
+    "RATES"
    ]
   },
   {
@@ -575,15 +649,6 @@
    ]
   },
   {
-   "title": "Heated debate escalates into on-air fight on Armenian TV",
-   "source": "Al Jazeera",
-   "time": "2026-11-18T19:56:17Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/heated-debate-escalates-into-on-air-fight-on-armenian-tv?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Prince Harry warns UK to brace for war with Russia, says he will rejoin army",
    "source": "The Jerusalem Post",
    "time": "2026-11-18T19:52:48Z",
@@ -623,72 +688,6 @@
     "CENTRAL_BANK_GOLD",
     "CENTRAL_BANK",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-   "source": "CNBC",
-   "time": "2026-11-18T19:41:59Z",
-   "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Four killed as Russian strikes hit Ukraine’s Odesa",
-   "source": "Al Jazeera",
-   "time": "2026-11-18T19:41:20Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWFFETUkwVTJwMzRSLTJFb3JYSi1KSExMM25FVlRMaTQwX2Q3aV9xQ0RPcEluUGxncm9TTVJuWkZQRl9YLUtxbW9MRS1NMEhwZzMtc0RMM05IMk5sWEpfZU4tZFBJdXNkOEdVWVowb1NJajlpdHJ3VkdZalFJWUd3M1hEM09GX0h3RTJlZmYyZWdRdDNxSWJDR2NCWHVkMmtIZm5R0gGoAUFVX3lxTE9nb1RhZkFJcTFqRzZTMWxfQjhRb3NibDRna3NiM283VUdDa2o3a3RFaUZHRFdtc3pzNjl0N3BGMDZKbDR3TTFXOU1OdmlveGNaVVd3Ykw2VTR5aUJpc3Bwc3RyRHp5d1p3OWNfYzFEUlBFMGJ3bEE3ZlF4ZEYwMHFlWGtoYk9hek5IYW9iQ3VOdHpIcFFCeVZMMW1rLVRBV3lBZ1lFa3RkZQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed Officials Saw Higher Rates Ahead When They Held Steady Last Month",
-   "source": "WSJ",
-   "time": "2026-11-18T19:41:00Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX01kNDVqdGtHNWs5RVhUbkRTbUdMd1hkWDBJU0x6NVdIWVptS0tJTk1GR1dnajI5Z19HNlppb2ZhWVpWVnQ5eUxXSko1VVl3bERZbVV1enFVWFhsd3ozMDAtQ0RXYjZtX25DRm9QTzRqVFQ2MmdMMk5yeGluNGhjMEpJU1lZWG5DSVRQdzg1UHc2SzM1cWFVXzh6b2Q4YTY2T1NjWHBOU3RQLTg2cFVkSldPSUx2VjhjM0p0OUZESQ?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "How high is UK inflation and how will you be affected?",
-   "source": "BBC",
-   "time": "2026-11-18T19:37:27Z",
-   "link": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Copper price craters as AI, tariff trades unwind, wiping $186 billion off top producers in a month",
-   "source": "Mining.com",
-   "time": "2026-11-18T19:34:07Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeTlhOHd6WDd0TUgyVk9JZlZ5RE9oNVVBN21iXzRTR3pnbng1U21uZDFqQ1djS1lfYUZ3aWR5ekN1c1lyWjNZQ0tCeXFoR0FsRXRkSjVFc1RqNEJNZlRONkdabnpvNzlLc2lONTk0WVB2SWs1cWtjZlBuTXFEN3VjNUtaSDVmcDg2bzVVYXpzY2ViMVZxOVR6OGdlTW5ZMk95YUx4cFdZaUNYSDFSTFZHTEpkSF9pR05PZmpKMGhtSE9PZnFV?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "US sanctions Hezbollah-linked aid organization in economic push against Iran's proxies",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-18T19:28:28Z",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5saGZFR0thS0RjTnFzNGtjUlAtNWpFM0xoMHJVMDJDUEh0dHBsZks1U1RWOXcyejlienlUUkJtYVVybXRaUEJCWEVWa05pZHl6dU8tWGFDdTUzRXdJ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Trump is trying to put the Iran war behind him, but it’s not over",
-   "source": "The Washington Post",
-   "time": "2026-11-18T19:23:31Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWE1ReU9uZ3dGbXlkREpmMlczVmVkb1B1bm9FcEZUdFlYVG00NXFRclhMMmdjRjFmb0R2YTRGSmxzRVJQckJkNGF5Tmg1UTdxRTh4Mkd5RXpjakNkQlpoZFRrZWNQRGdJOUZwaVRiQTNPblhnMG1wQlN2QjhIcGVRemxGamdkbmxBY084MkN6NDJIMGhDS1BucVJXNWhZelA3V1VF?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
