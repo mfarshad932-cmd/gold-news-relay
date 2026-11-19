@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T18:31:36Z",
+ "generatedAt": "2026-11-19T18:59:58Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -81,24 +81,23 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 27,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 25,
+   "items": 27,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 13,
+   "items": 14,
    "kept": 12
   },
   "gn_war": {
-   "http": 429,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 429"
+   "http": 200,
+   "items": 40,
+   "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
@@ -127,12 +126,48 @@
  },
  "items": [
   {
+   "title": "Netanyahu reportedly tells aides renewed war with Iran ‘unavoidable’ as Trump weighs options",
+   "source": "The Times of Israel",
+   "time": "2026-11-19T18:29:31Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdks1U2laNVhiRmlqQ2xZTjN6R1NCY0RidmNhVUhtcGEyMWdLUTVuRTF6b0NVWTcwSUUtME52WC0zQ0g1VnVQSzBMLV9RN2F3bkZ4R1F0dTVxZWpqWmlyWmRyUWpScjJIZTNjamgzNTNybVVOQzNLNXlHdXpJdTlKY0ZLOUNLVkFaeTVyS0JrRzBib0NCa3JmWU1kT2gzUjBBcmpJUUtPVFRyS2IxU3ktb1gtY09LenJpVFVHTnFn0gHDAUFVX3lxTFBGVmM4RVBOSVo5MVFjT2Z3QWs3Y29TSzBmZnRSV2J5NXEzNnJxN2hrZTlkclN5dFd1V2kzV0dfZDUycjg0WlFnWnFpcUcwNlliQjVacU11WlRmSzZTdDNEQnkzdV9LdDlCZmdNYnRZeVZ1RkNldTg5VU5aQ1J0VGZHcTVicjFrNXMtUngtUS0yenVocWRRTl9sZlBsM2hHZ0FBMnZ5alBjTjJUcnlpVE1HWUJZMG5rVUpWMGJUcWRUVWIwWQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Tests Yearly Lows As Sell-Off Continues",
    "source": "FXEmpire",
    "time": "2026-11-19T18:28:21Z",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM3c4dnNlZXh0U194M3dIeFBFTU95RTNPajRGMC1ITFNhbXU1LVE3N3JYN3lDUnFyNWlxeEhsOGtNTDhBVDl2MmJVSzdjdk1zUDVVeWRlWEx5RlR3RHk5YWEzT25GY19kMDJqcHFjNnIyeGh6WjE1N28xZWtBVkpua2t4ZVJoUURsZUtBUTBTTW9aeHNHZWNzMGhZTWpBU0tTWEIwZ25kRUF3T0ZaSDBEZW5ucFVCdmhKay1PaGE2RjY3cTNIR29vSkZIN2FyZw?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Stagflation could be seen as the Fed's failure, says Chicago Fed's Goolsbee",
+   "source": "TradingView",
+   "time": "2026-11-19T18:27:34Z",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ2dQenAzaHd6WDRyOVBaVkdwSmROOWRFQmlReUpfVlZFM3VqQlZTWDVlcFB0SmJBZExfM2p4Nm5lSi1JY0NCOHF1MnpzT1J2MGZwbG05MVVxVWRvYUt6MU9ZWEdCbDFDcFN4Um1uU3dRN0NhTjRYVElLYVNJOGVmVGdGVlRCUmtTWDEzT0lTVlJNUFMxdnZ2Y18tX1d5WlY4aEE3RUxMamJyWlpBc2owWDFzLUtaUXVIVkpScEhUMGgxbDgwZHlZV0xHOWdOWDhuWnMw?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Netanyahu ‘aspiring for war,’ Israeli reporter says",
+   "source": "CNN",
+   "time": "2026-11-19T18:25:18Z",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYVNtcWJVbFo3TDFBSklLY01ockRUY0N3QkdsSXRmTzhnNi1JRFA3MTl2N2oycEpTR3B0cVgzN3E2dXhyZmNyLTZFSm9lcVgwblpGLXJRWGtGWXlWbmlvbXI2SVdIVHdMV0ZxejFXeFN6UThqbVlKTjR0bU5RemEyN1dDYUVZcUU?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "IDF says it targeted Hezbollah missile site in Lebanon strikes",
+   "source": "The Times of Israel",
+   "time": "2026-11-19T18:25:12Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUFnTlFvemVwVno0eU5NcHhyM2YyRzRmbTJSQ3N6X1pzV2g2UmhtWmd1WXFqN18wVnZOSi1tRjZieU9hT016cGZkaWtwOGpFZzRCTFVxVjNOc2xnMjlGYndjYW1QdW9mNjJ3eVpTdndwakJ5OG9RQUdYTzhLVTU1RFkzdHZTcnlMN0cxa1lLdVMtb0xMcDg1dzdrQWx5cURGc250SGFEZEFnM2hL?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -145,12 +180,57 @@
    ]
   },
   {
+   "title": "Trump, Xi and Putin hold rare 3-way talks on nuclear risks but deliver no breakthroughs",
+   "source": "AP News",
+   "time": "2026-11-19T18:24:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran war has cost US more than $48 billion, Pentagon official says",
+   "source": "The Times of Israel",
+   "time": "2026-11-19T18:22:30Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeXVlVGhLZ1N1cE5XU0xkZWZqRWsxelEyck1UT1ppWk5RaE53cFFyOGxoZUNSbmg2ekMwWk81MVZMOWRsSjZSMi1VS29Xckh5NWloMzgwVUxaQVJQdVdtcUhfMnd5Ty1OYVJCc3pnTjZhVDBuZW50YlJTUmdrSFRLYUpocm1pVFhIQmFQRFRyakgxcU1vTGx1SGVnM2k2cmNaZTluWVB3am53WmQ3UkdN?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Chuck Todd says Democrats should ‘start with tariffs’ to lower cost of living",
    "source": "The Hill",
    "time": "2026-11-19T18:19:00Z",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUTdZeTJ3c1o5YjhTRnVFY2hTMk1mbnhXMERyYUthajV5U3NrNXR1VzVzSHFCeV9adXlyRWZnanEyX2VjMWhtOVM4TVJBVVBtMC1aVG1sSF8ySlVqZmg2bWNkVU5Gb0tSMzJWM2RoQXh0TmdpLVFPdHc2cmwtOFRwOUJCbl_SAYoBQVVfeXFMTy1uaThqdDVtT01MbmUyNUxRaFN1OXVlbFd3Y2pKY1V6cGpqcUdLMHZQRnB0SnNqdTFQWm9qcWRBd2l3Z2JfdzhjTTZpc1M5akNRNkgyS1hSQ1J0aUJ5QlBDTnpsbW0wUEpGREEyRGpBMHhUTG5xQ1lvdzc5MEhVZ1ctdXE3NEk3YjdB?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "IDF strikes Hezbollah missile production site in Lebanon's Bekaa Valley",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-19T18:04:33Z",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0SVMyRTFpM09wUlF3WFV2VExjWDltZnRHSkdHa0JkYnoybjhFR3R3cmxBUW8zYXBUSEdCekh4cHRvUEM3VUdETU03Ulh4TFB6cElJdE9yNno5WkZadDRyeHhTRjUxejBlTXp2RXZR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Kushner says Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine to end war",
+   "source": "AP News",
+   "time": "2026-11-19T18:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEt0ZktCOUozOEtFTk1MODdLN3J2bXRkRUhxbEdseHJWVUdBd1FsTlozdFc3RVAzZnA0TE1TRUt0YV9yXzBZYm5kbE1yeGpmOTNKVUFVREdoeVJ5TThzT1pROW1WX2VlbG9tOUtsVVdWYWNQZEY5WThXTUxEQWg4a3NEeUdGcThVSXUwX251ZmNoMEtPd0NKN0lsYUxwcXIyOFJaMy1Ucw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fishermen sue US over 'unlawful drone strike, kidnapping and torture' at sea",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "time": "2026-11-19T18:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOenlhSlRZT0JoZFhsSWZ6aHV5QThwdmZIWUVMXzdHdVc2U2ZpNS1ZdEJ0VW0tUG5sa0poY2czV200TU82c0Y0S1J4YnNRLU05R3ZxNGVjX1hGMGpkU2Y2MllOZWJSMXR0N2hCRjJxcDlENWF4Z040dndyRnBCYnJ4Q0JScEVuRlVwZHhzb1JzVGNKTG02Q0F1dWpSbnZ3Ty1BTkx3eA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -164,6 +244,15 @@
    ]
   },
   {
+   "title": "Mexican Peso Hits 17-Month Low as Fed Outlook Rattles Markets",
+   "source": "Bloomberg.com",
+   "time": "2026-11-19T17:41:13Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUlpnbkxHVEExS0lGS1ZYWmdlLU5HT1gzdTZYR0RUbW1VeDlaQ0lXdWFXQzdjR3U1YUVQOHl1cHIwVHdLZV8taUVmb0NhejNvTmtlcGRaS19lSmlzbEpma3lVN1BSc2JmMEJzVFpFaU1ucFFhZGRIYVdMekpKUlR5azFoOGdJaUtlZkJaZXJBNFgyNFQ0YXU4WVBXQkoxc2xEQUFoeFNITy1XeS1iRFdqeS1n?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "Fed’s Jefferson Says AI Buildout Exerting Upward Pressure On Inflation",
    "source": "TradingView",
    "time": "2026-11-19T17:38:33Z",
@@ -174,12 +263,39 @@
    ]
   },
   {
+   "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+   "source": "BBC",
+   "time": "2026-11-19T17:38:22Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BblY0ODJpaUlrOGdtV1g4YjAyQzhZLS1TaFIxTDRRSUQ1X0lpcGgyZ18tMDVrZG0zNHJhSmMwampkaG1YNmh2dlRQN3kwM3lzbGtNMEtRYWVYZk0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "US Treasury sanctions three people linked to Southeast Asia scam centers",
    "source": "Reuters",
    "time": "2026-11-19T17:38:21Z",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2M1YkZjRnJxTXVxYUdsSkdqaEV6X25QLWNsQ1dhQk1TeG50dlluelNFVk1Ra1VrMjNXUlV6WHJDSWdOY1ZsT3FXOFBlY2Zvb3N4UmhxNlhsdlMzaV9mN1ZneEd4NVpsN2g1ZlEyQ2txSmU1RzNOVWlKcGdaMWNhMW0xOG9XMUo1MUZ1UUZiazRGSS1qWXZSX25HMDFwd1JtYllFbTVXZU50YVBjVVE4Sg?oc=5",
    "tags": [
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "IDF sends tanks into Hamas-controlled Gaza for first time since 2025 ceasefire",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-19T17:34:10Z",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4ZDZHRFhpREJENVkxMnRnRklUcjBoTG1BNlhqR1BKUWlyblpScldTbkxoUmg3TExJRUxWdmtuNTZkUXJaZmhwV2VpQVFMX05FT0hOaUZqNXgxcVg1MXBmY0c0SDVOb0lZZnFfVXZB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gaza’s children face unmatched threats, report says",
+   "source": "AP News",
+   "time": "2026-11-19T17:32:00Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ2M5VmJYUmsyZU1UYWQ5UF9LT2xYN3NNZklYS0Y2VGMzWGp3bXBJTHZ2aHZFRHhKTTQ3Tm50c3ZKQ2RTdFhFWUVac0RrLUJXS3VrWnpaRHVNZkM0WmJSbkQtRElOc2ZjN0o3Nm9ZR2kzamVIWGVUUXBhcG9NdW5XdGxUTlhTeDdxV1FpUGdvSE5Xc1BTMWd0Z1hvcnA1eDBr?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -289,9 +405,9 @@
    ]
   },
   {
-   "title": "British sanctions already impacting banks, companies in West Bank, Mount Hebron council head says",
+   "title": "Mount Hebron council head: UK sanctions impacting West Bank companies, banks",
    "source": "The Jerusalem Post",
-   "time": "2026-11-19T16:45:42Z",
+   "time": "2026-11-19T16:47:21Z",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIamlRdDFpZTFYNUlDZ2VfUkpMVlR6cG5FOVNpX3NOR05FTTZiQ0ZGUUQzZHZmckFTbnRLTGhLR3FFS1l1N0JscXRld3BUakNKRjlvQXM3VmtmVXRz?oc=5",
    "tags": [
     "SANCTIONS"
@@ -351,15 +467,6 @@
    "source": "Bloomberg.com",
    "time": "2026-11-19T16:08:04Z",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa2RnTmQ3S01yalNaTHVUaTB1dHg1X2QzcHM3RkVabTZLdUc1ZU1tSUttd2VJeUhWZk1JUG9DVWVtMG10R2JvX0toTXBPWTJhYVNfUkYzd0xRbDhzR2JOc3E2M29zclU3MDFmdEk5TWd4eDZza1JXWFR3Z1JQOEMtQU1iTmIyV2RFRmhIbmVkejRYWUlaampreDRHOVZ3TVk2TkJ4NGVrN1NkV0E?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "A third Ukrainian strike in 4 days halts rail traffic on Russia’s Kerch Bridge to Crimea",
-   "source": "AP News",
-   "time": "2026-11-19T16:08:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEt0ZktCOUozOEtFTk1MODdLN3J2bXRkRUhxbEdseHJWVUdBd1FsTlozdFc3RVAzZnA0TE1TRUt0YV9yXzBZYm5kbE1yeGpmOTNKVUFVREdoeVJ5TThzT1pROW1WX2VlbG9tOUtsVVdWYWNQZEY5WThXTUxEQWg4a3NEeUdGcThVSXUwX251ZmNoMEtPd0NKN0lsYUxwcXIyOFJaMy1Ucw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -435,15 +542,6 @@
    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQeFFIR2tCRW1rX1NtMFRjNEZNWWttTUJYWmhkVzdBT1dGdFN6dHVEZnlfazFHVlZoM08tRmpCX2xRcFhzOW5ITzdjTkFOVm9FdFpqX3FMOXRZUmkxd3BzdS1YeUppeERmSDlwX1Q4bmRaTFQ0TmV2eXpJTG5NUDFlZ3NraDlTQWZZWXZ2UHBVUU5DbDVUNHotdmY5WmE5Tk10Z0VIV0VLZldpZ3ZVM1VrSlhVdmd4ZFRramk1cFlvMlRFcUNvYXEtcVEtZ1FxTzNteVRENHNKaTBiX0NJUDNaQlV6UWQ3ZUlkTVZPNGxENGZZdlR2WVZhMkJydm5XNEtXd1duN2RoV3JrS3VuZmt4OW5XVQ?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-   "source": "BBC",
-   "time": "2026-11-19T15:23:34Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BblY0ODJpaUlrOGdtV1g4YjAyQzhZLS1TaFIxTDRRSUQ1X0lpcGgyZ18tMDVrZG0zNHJhSmMwampkaG1YNmh2dlRQN3kwM3lzbGtNMEtRYWVYZk0?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -573,107 +671,6 @@
    "tags": [
     "FED",
     "RATES"
-   ]
-  },
-  {
-   "title": "Putin Joins Trump and Xi in Condemning Nuclear War as Europe Watches Closely",
-   "source": "The New York Times",
-   "time": "2026-11-19T14:23:07Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV1RXaHpWNVEzU3RHbnp1MXRZdng2TWh6YXBHbXh5bWVoQXhLblJYRmVNalAzZE52MDFkaHAtUEY4V2J0VGV3dl9BMTJBVUwtU04tSUpQQk9hV3Y2QXJOVDJWanJ1ZVIzZGNDTmliOHhzbHhPQzNfUmZ4aENCQ2NERHFKaUtwRHczSkdBcXAybU55emhKaFE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Prices Fall Nearly 34% Below Their ATH Following Sharp Decline",
-   "source": "Investing.com",
-   "time": "2026-11-19T14:23:00Z",
-   "link": "https://www.investing.com/analysis/gold-prices-fall-nearly-34-below-their-ath-following-sharp-decline-200691930",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Iran war sparked ‘largest threat’ to energy security in history, says energy agency",
-   "source": "The Times of Israel",
-   "time": "2026-11-19T14:15:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlFIQm1fcV9kOG9KZjQzRWhobmgtczdYYnVjMFVwUm9udUJwSk4taHloWmQwcjJqbGw4R2NHSmdFNWlMV3VpRVlaWm1uSy1KQXFvYmdSeHNQYnFFb2ZyTWRFX3FILXo0ckkyUmpIbVo5XzhGWTg0cDdSdEJtSjI1NldaY1J5N0dYMnlzZEh0SHhKcS1MSW4yaUFMWjljZlN0aW9mZlFHMHd6Ujl6aVRXStIBtgFBVV95cUxPam9ReE5JN3B5N2Zqd3F4bDlFRFdZVmdyNDFCdGU4Nmw2SnpqbFRoTlYxcVRsZ0dlbno0aTBlWWVIaDFYLTBjMVF4MXJDZUdZWWl5aVl0QVNKdDRLY0dFdXp1dEROdENGblhFeFRFSEZzVk5rbDZIREJydG9YWDNONkpfdF9WZlNkNnhwc0F6Y1B4NVlXcklBbGVyUUtMNHpFcV96bmFKa3hNRHZ3b1VHVm9QWUhpQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold struggles near $3,700 despite weaker Philly Fed, renewed Hormuz tensions - Kitco AM Report",
-   "source": "Kitco",
-   "time": "2026-11-19T14:04:03Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMTdzaHBscEFHNFRYSjhEeXF0T2JQdjJjQjg1a1F4QmQ4bE95c254OWNTeFhEWkNYSzJDTlRWNk9Eckk1U280SXd1WFFIZDVoX2xHSUkyTUpIQkF4OU9wMjVKdGZtdENGNDctck5MZFVPU1gwd3V6NWRaZXlIdFZqTHR1V3F3bnZxZXlsbnRoMGdnMHVTNE9WZ1JtdVktTnhaVnByU0M2UnhNM1Jqcnh6QnR0WEd2NDJ0Y2szWg?oc=5",
-   "tags": [
-    "FED",
-    "GEOPOLITICS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "After near death, a leading Russian filmmaker resolves to confront Putin’s war in Ukraine",
-   "source": "AP News",
-   "time": "2026-11-19T14:04:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUjdYOGliaG5FVGY4eHQwajF2dktXMzdYa0FXRDlnelRzb0xZdko0X1VDMkhKaVg0dW5zaFhCZWFQdWxWZW45Mkh0WkkyZmxCWE1fb2o4SEJFYlRvLXhUWl8zckhCTmJOeVhRX3A3MC1KUGhrSlF5QzBKZXFtVzY0dzYxZmptMDhncmlCVE1teHdPTkdCb2c3MUFubjJZSlAwSHVCYg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "An outsider’s view of Australian cricket’s civil war: conflicting ‘truths’ and Cummins in a corner | Ali Martin",
-   "source": "The Guardian",
-   "time": "2026-11-19T14:03:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa3ZiWUlSdTdQUm1zUU9TeGE2MmtKWFBpam4yTUtfVV80QWdEakNSVnVnbXowSGdwX0dPMk1OWVV2RjdOZFAyUWNGeWhWNFlRNjgxdkh1T3puR2FIRlpaZDVZMnB2Z05sVWJIUG5sazNlZWRSTEhqeU5Ga0VBdXFpdjNKOVFNbkJyeHVLVi00T1ZpaWIxd3cySTZuRzhQLVVPWGlPSGlYbWtnQ3NJSHdqYzlpNTJ0N2gyd3VIcGxTMHRoU1c4cnFGc0NqSTdxcmg2SUx2TkF0ZHNkZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Neither America nor Iran has the means to end the war",
-   "source": "The Economist",
-   "time": "2026-11-19T14:01:02Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcUpHZnROUVFmQnRwZ0NxYXJNb2hZcWZlTDZVNHNYNEFkYzcwTjNtQk8zcHRzbmVLc1cxVTBqVXpfYzBhZkdiTGxRaUhXM0VIZnhqdGkxMW9XTWxOVzhiWXBmaVVIZFZBQm9qM0xoMjJKM1o1MGQ4TmZvSFVBTDZWUjE3WWs0RXppYjc0VEhMcWIzNlFvVHJ4RlJfYVo1SzZjVWxES0FrS28yLXZMN1ZnVmg5UQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
-   "source": "Al Jazeera",
-   "time": "2026-11-19T13:54:30Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNenlva2tDMXZQcE0zVUV0REFQdlR6SERKRGh1U1VCTnhJY1dTWXpCNG4xWWp5MDg2VHNZQnY5aDdIZmZWdkRKcTFJM2t2cExETVBlaWNHTU1SNmR4clMybTZTWVlKcFJPeFo2NTVqNk8wRjVBWWdwd3ZGRWRlMk5WcklCQTVIWDBYeC1yUlF1UWw3M1ZVNGw1MmVLRXdLaTVodWowUkVJT1JNQnpRNVExVnpITV9HRjE2YXBETkdjZ1lLX29N0gHKAUFVX3lxTE10QXg1SWoxS3M4U1dCUlU3VHVZejRZeEk2cUNpdklaTURBLVlTWUhwV0ttWS15UTBCUlV2ZEVteUZFTXpfdExfWnNCTXVHWjlUNkY3TUR2VFVhenNLZFpncE5fWUFuZjlLWmI3b3VxWllrNTljdElmaHBxS296YktNaElnZ2dvYkxrcWEzZ3ZaS05jdE1yUVEwci1kNldKSkQ4c05zY3kzU1Rjb2NJeUVvQmdlVGNCcEhWTHMyd3lRMUxsQjJDNzVqZlE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Thune on midterms: GOP candidates didn’t have ‘much control over’ key voter issues",
-   "source": "The Hill",
-   "time": "2026-11-19T13:54:00Z",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUFRZVE9ONVNWbXZnS2M4eHhraHJuSFE5cEhwaTNVMHYzR2RQZ1c2ajZJRVVldmt2OVVCQm1Pb0d6bVo5TEpXVkdnMzFWbDd6Zi1XUkNlekdUY2VWVkg0eldJWkJBcU5Dbnl0Mkx3VlQ0Y0xZd0FzQVFMaXJ5QUI1TUh0emJFdWZzRzJmalFzQ3LSAZYBQVVfeXFMT181VmIzY0FUR1huUFBuWTktVE9la2ZBNFlKQ3p1bHhjN2pjVFU5NWdPLUw5VzA0MmtOT2dZaTdSOHp0U3REVUFjSjYtZ0dyRTlaZHIyVXU0UUFMMkZFZVpvLXNNb3U3YkdVSDNVT1hZZGVPMmNmckhrMWlRR1lKNWVZVUxrbkRVWjB3eVJUQUVySWZ1ZDFn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "EU Creates Sanctions Office, Names Swedish Diplomat as Envoy",
-   "source": "WSJ",
-   "time": "2026-11-19T13:51:00Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZEVzZ0Fjdkd2QVFYd19jWFBacTczbUQwbGhIVWR1eDJWejF6dFBkamNKZ1JkWllxMWVuLUlRZFV2TDNFTGJQTFA0LVU4R0t6YUo3SWVVeG9iV2tmZWY3VmtSLWdhdGNTM3NFNEFULXUwSzc2eTFYampFbWViZ2lvNzVjemRfVXdwSEdkZEJNN2d5eFRDVVJfeUN1dzQ?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "The Iran War Could Permanently Slash Reliance on Hormuz, IEA Says",
-   "source": "WSJ",
-   "time": "2026-11-19T13:50:16Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONkRNTmVJRC1mZzYtOE1lWkpzLUYybFdUbTdtRmItWjJCZFBlMXpNQkJ5cDdpX3Z0dlp3MFhaOTFCU1Rmczg1MWs1SUhOY3B1cVp5UDlQM0ZkQ3dWd2dsZldjdWo4cHQyQk5CWDZkWHlkRGp5RmJrNm5NSWRyZEJNLTlsVHhSbWd5akdWNVNzVlNUSGRFNVVtcHJDOVRSbWxScFJGWmFjdWx5ZkQyejhTNWxYYw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
