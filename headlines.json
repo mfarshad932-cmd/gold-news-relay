@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T20:25:03Z",
+ "generatedAt": "2026-11-19T20:53:22Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -81,27 +81,27 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 28,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 26,
+   "items": 25,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
+   "items": 13,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 42,
+   "items": 37,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 13,
+   "items": 14,
    "kept": 12
   },
   "gn_yields": {
@@ -126,12 +126,60 @@
  },
  "items": [
   {
+   "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+   "source": "CNBC",
+   "time": "2026-11-19T20:45:13Z",
+   "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Fed's Goolsbee says AI surge could strain US capacity, overheat economy",
+   "source": "Reuters",
+   "time": "2026-11-19T20:37:44Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2V1TTUwaFZ4T1pYN3VBVDlqZThZVHBvQ0VhNnRNNlpWVlZXLUYtVWh5T096NmxYbEsxdjF6T0JmZmZCM0lHQ01CT2NUcTdrUzJ0djdFbWRteWlNTWF4enhqajdoY2ZWcjBmc0lMYkpYczV1RDJVdmxZWFctNDI3bHFxOTBySmZvbHNDRXM5QmxqWUtieXFJYjZnUmNONVUzUnBTYTlMdlNqaDdzdkYweVRHZ2w?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
+   "source": "Al Jazeera",
+   "time": "2026-11-19T20:35:24Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSm1IYzd0dmZPZEpYYTY3Yk5PRnJZNGVfYkl5bGhHd0NaekY3ektkbnFWdXlEZFNKTlVCOVJnWXF6WGM1Y2U3U2xPRmw5NG5ZbWNxTS1pWV9IbUItZTdxNjVaZUJwZEYxR1o2ZlJSa1VCYXNVbEJmODMyQUFwWnVxcnFLU3U5UkYzX0pvQmx0NXpkVk5aOWptNVlFOHowbVpfQWlEUDlrVWFhZXJMUWszLWFoNWdQWTDSAbwBQVVfeXFMTzJLaF83bXZxcVN3Vy1tb0F4LTA3bjJiWjh5empUbEplU1VUMXYtR21UdmpzSDBsNHJVTHZrNUFMVWdxbE53ZHZ5S1dQLUllazJQR1RlUnpLNEZqeHl0aWFxRlVnNEVkMGpKUVZMdWh3aURvTmJaTkI1NzMxcWxyLUNISVhaZU9vbWVzVDU4OVpRQnRTZTVvRWNtSlZ4TDZQMHNsYk5GLXJkTXFxMzhYbHQ5XzdYLVNOWW9odko?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed’s Goolsbee Says All Options on FOMC Table Amid Hot Inflation",
+   "source": "Bloomberg.com",
+   "time": "2026-11-19T20:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNXR0LTlxSDlZclBKRURtajdwUHZPcUhwcHhvNC1zYi1NWVhkamc2QURJYmNjWW1UcjlPSmNCVTBqX2ZXRjc0Z3p4NU5nQWJzYk5CZzd6RGFlOFdQTmxrZDlIOEdIdGNBQVV6R1FTcUgta3ZWakpoMFV2QkVOSHJHYkMtRVAyNjAtT0NMVVhuUDhTcTBQc0FtekRWRTRqVWE4aDlvM09mUDJkR3FDRVhCXzBkaV8ydw?oc=5",
+   "tags": [
+    "FOMC",
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Senate Republicans rejects war powers bill to halt fighting in Iran",
    "source": "The Guardian",
-   "time": "2026-11-19T20:24:00Z",
+   "time": "2026-11-19T20:26:00Z",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN19EOFdQUmJBMGt4VUo3UFd6Tk5sRXpRYVBHd2YwNmVTOU9lNUItSjB2V1JRQmkySEs5VE9ialBQb3JXLWZGbjlBVW11ZFdYNFktdjZwZmcyaEhUYkpRbEdCSzZXSE9hWEZBTGZqUjBUNF9wanlmMWFlSWpXVXlaemMycWx6V1VrNzNYRF9tWW41WW9n?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "The Blogs: UK sanctions Israel. Israel sanctions UK",
+   "source": "The Times of Israel",
+   "time": "2026-11-19T20:20:00Z",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DMUI1M0N0cWw4NjdLaGp0dE5EaEpaVHM1Q050NjJSZ1lFVUttc2hjVm11VnhHMDVwVjNLYnRuV2NtSC04aWtTU3pnYTI4ZTlab25MS2hLNzRHdUNfUTdZSkpuaGR1aHAzTFRUa2F3NGc2NGRrZVg4WFB6MzQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -162,10 +210,28 @@
    ]
   },
   {
+   "title": "Iran war costs surpass $48B as lawmakers demand unreleased estimates on base damage",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-11-19T20:08:42Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWW96SG9iLVBoandUSGpxcVJrcFdkLTQ3YnBHUlExQ1RYbkh1YWxaUUVzRl9LaXRQQnBQQzdfdTVqU1JtYldTY1NzdFV6VkxWOHNtYnhWdzRKdS1sa3J4V2lkc18wMXRhcHcxaE9iWXhZTl9YTU9VWG5uR2paS0E1UzFnYmpyeVRWa1A2RXMyX2hTVWtIc0IzREpsdjVxZ9IBowFBVV95cUxQekdKbm1NRE9pUnl0cmU2am1Jb2VucWpkZzV2SXdzb0Y1T2I4Rkpnb25iSDg4SEtlbzBkdFFkTzdQeFRaWHNEZkVDRXRyNUhqelIyTHJONmJWNHlacHpRSnRVOW5GYU5DcjU4R3Jvb0xlLVNHdkRvRWx5Q2JGZkxKLW9MYi1xcmVfWkJtUDFQUXZMM1NYSVdpYnhINWozRlBjbFRJ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "War-Driven Cost Squeeze Alarms Companies, Bank of America Says",
    "source": "Bloomberg.com",
    "time": "2026-11-19T20:04:12Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcm9BQkNGMUxlN08yOUFMSW5QcTZFbmp2elRaWGUwZUV4QmtPMGs2eFFWc3pZNDh1ODVEVGliTTFrWkpXbi1jdjZvalU0WnotSHY2ZVJ3cGdrQ0x6UDQwZEgyU1BoWHotb1hOVkZvQkdvck55Y3pZV0pzMHBtTzJibWhRazdENVJrSUx4NEI1YlZ5emcwMlpzYTFua2I4bGRkcEVaS1daSkZMdzhUZ0RwcGNlTjQtZFZVVWM5VUZ3bW9MODRiZW9jVkZIanA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkthSUExb1hwWUFkbGhhXzZwZlZNUVFjNkhuNktsOHNpZ0RuNFhNb2JRdEhPVktXQW54dkx0RmdVNEdOQnAxMmRDQUFtbjJ2N19TM19peVUyVGFjSEFHekt2NE5BOWpDYnp1OUlIandGaWNadE8zM3U3R3B6NDRTMUlCWXJna00wa3RlcXZ5VnhSSmhPaDhteW9OWEdlRE9QUWswYWRLcEMybDFydDc2SmJn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US Senate rejects resolution curbing Trump's Iran war powers",
+   "source": "Reuters",
+   "time": "2026-11-19T20:01:07Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmstcFNFWmdlWE9OT3pCd2JxN1RvaDZMZ2dlZC01YU9hUVFDdFdETmRJLWYtRWI5bkpNVHgyQUFTRVNncW9kUUZkdGhFRkl1RUx6MGs2eVhNNXhZbzROalJGQnRSSUdqdVBhQ1NuLTRONXEyQWpYemhwenhCd2VlNlY4VUZJT3NRdjBmdzBTZGxreUlHNmgyX0p4TzVxX1FvaXZR?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -207,15 +273,6 @@
    ]
   },
   {
-   "title": "US Senate rejects resolution curbing Trump's Iran war powers",
-   "source": "Reuters",
-   "time": "2026-11-19T19:54:24Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmstcFNFWmdlWE9OT3pCd2JxN1RvaDZMZ2dlZC01YU9hUVFDdFdETmRJLWYtRWI5bkpNVHgyQUFTRVNncW9kUUZkdGhFRkl1RUx6MGs2eVhNNXhZbzROalJGQnRSSUdqdVBhQ1NuLTRONXEyQWpYemhwenhCd2VlNlY4VUZJT3NRdjBmdzBTZGxreUlHNmgyX0p4TzVxX1FvaXZR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Fed Officials Differ On Rate Path, But Predominant View is To Proceed Gradually",
    "source": "TradingView",
    "time": "2026-11-19T19:53:00Z",
@@ -235,7 +292,7 @@
    ]
   },
   {
-   "title": "Senate Republicans reject war powers resolution to end Iran war",
+   "title": "Senate Republicans reject war powers resolution to end Iran conflict",
    "source": "The Hill",
    "time": "2026-11-19T19:50:00Z",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdl9VUjZXWHRPNHVhZTRzbkFNcWRqRHhvQ3VsZ2N1clgyalBkSWxQdERMYWw1N3BRRkJCT1JLM1k0NGNoMVc3a2ZyREVoSDNDd3NMRGFKZmM0RFJIVmNLd19RaUJ1QUlhaFV2T0hTLWtDY1V4XzlRdmlnQXZndktrRGNwS1RiM2M4MlVrMVh1OFNpaXZNWUFLd2N1Ym_SAaIBQVVfeXFMTWdOWjBsUzRjNUp4Uk5ab1czZlU4ZXAtU2p4Sm9UNkxVUFdSbWMzcVU2dG9jdWhERVg3Z0VtdzNJY1ZXWlAwNUphTmRNYnBXMi1yMTNNamd4T0wtazdPSGh4RGhaMG5tRVlERGNfQVhIMi03M0plMDBrczdqS0dfSDEycDdCbkhpTEdPQ1Uxand0N1c3dHNUS05HMWRjQjNuLTl3?oc=5",
@@ -277,6 +334,15 @@
    "link": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
+   "source": "Bloomberg.com",
+   "time": "2026-11-19T19:37:32Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUU1WUGVxVFQ1ZDR0dWp6TERfYkRQVE0yLXkycmZoYXJidGhTT3Z5YXVvd3RObFppYWlqOWs4bU5iT3pWSDZBS01mbGQwc3JxN0lTR3dkQjN0aGhEVEtwdG5MNDM4Z0VzMUJlRzZEakl5eC04VmpMVlhBbmJxZTNHdUJHTXdscndIUTF5UlNqeV8tbVVPc2tjQ3pzYW1MWS1Ia09KbkpWTFZ1T2o5aFI4bWlHSQ?oc=5",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -349,15 +415,6 @@
    "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
-   "source": "Bloomberg.com",
-   "time": "2026-11-19T19:14:11Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUU1WUGVxVFQ1ZDR0dWp6TERfYkRQVE0yLXkycmZoYXJidGhTT3Z5YXVvd3RObFppYWlqOWs4bU5iT3pWSDZBS01mbGQwc3JxN0lTR3dkQjN0aGhEVEtwdG5MNDM4Z0VzMUJlRzZEakl5eC04VmpMVlhBbmJxZTNHdUJHTXdscndIUTF5UlNqeV8tbVVPc2tjQ3pzYW1MWS1Ia09KbkpWTFZ1T2o5aFI4bWlHSQ?oc=5",
-   "tags": [
-    "FED"
    ]
   },
   {
@@ -470,6 +527,17 @@
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ2dQenAzaHd6WDRyOVBaVkdwSmROOWRFQmlReUpfVlZFM3VqQlZTWDVlcFB0SmJBZExfM2p4Nm5lSi1JY0NCOHF1MnpzT1J2MGZwbG05MVVxVWRvYUt6MU9ZWEdCbDFDcFN4Um1uU3dRN0NhTjRYVElLYVNJOGVmVGdGVlRCUmtTWDEzT0lTVlJNUFMxdnZ2Y18tX1d5WlY4aEE3RUxMamJyWlpBc2owWDFzLUtaUXVIVkpScEhUMGgxbDgwZHlZV0xHOWdOWDhuWnMw?oc=5",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "Gold hits new lows amid scorching Fed rate hike bets",
+   "source": "FXStreet",
+   "time": "2026-11-19T18:26:38Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLVpqRXppeXVjWm5DTEFsdkVEV2EyYWFKZUJHVlZIb2JuZjFKOXN5RldlSGNpZWlVemp2b20tMGFnSkJmZ2ZLaE9nTWttd3VFcE1sWG02elVzUm1ZMzhkWW5jUV81VUI2NjE1ZjZfUVpXLTM1RUtpTW1SOEIxQnZHNUxycS03UU12M3VKalliTUNBWFg5U1NKcHZIRy1sWkwy?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "GOLD"
    ]
   },
   {
@@ -606,69 +674,6 @@
    "time": "2026-11-19T17:26:51Z",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaWFyU3l6d3lJdVV5OG1QbTFQSFo2Q1FuTmlGTkhSZTRnazN5eDU2SmQ0NUF5V0FHemhCZThhcVpzalp4am15RVlGZ1BxcjVYa3ljc3N3dllEMjFmNG14ejJzNnQwOTZzMWU1MF9NMWNuNEFncmM4WG9vYkdaRnJCM1FNd1FPUjkxUjZqRDRjMXVXQmdyZF9mR19FSm8yajFmWm1jWXRWZHgxeFBRVElIeEx4WEtBVmFTM3YySk1qU3VSNGdCQVhfNFBqWG9qS1REOHhrOWRsY1JwUWRlTXJkNzJ2cw?oc=5",
    "tags": []
-  },
-  {
-   "title": "Opinion | A Lesson on the Economics of Tariff Leverage",
-   "source": "WSJ",
-   "time": "2026-11-19T17:23:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbjZKdWZOeS1FLURDRk9aVzgxdmx2SDhIM01SZXFTaEl2Z29UZER0RG52YjE1LUdzLXR4QUw3Qm01bGkyRW11T256eFVPTVRobnZzOUt3b1Q0TW9tdDZ6VEFneFlveW1ocGRtQXBsY2VaWWhIOFpVQnlKVkF0V1VXQ0RBOG1pV25s?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Putin says Russia won't negotiate limited ceasefire with Ukraine after bridge strike",
-   "source": "CBS News",
-   "time": "2026-11-19T17:22:22Z",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yNHJ2ekFIeGFSWktPUmVMSF85amtLLV9kQ1RRSXRBUVNVZDFndHRFcUd1aDByY0VQeG91TzFlMDVJdU85aWJ6V2g5cDBQaGg3Q0JUTjhlMkt3a2c0S1Q3UHZURkZWcHFZZGVGM1NoLURSQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "‘Not an acquittal’: After impeachment vote, Hegseth still under microscope",
-   "source": "Al Jazeera",
-   "time": "2026-11-19T17:21:13Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXVVOWFtNmNPYmZyUk9uSm1xNmlnUGU2WTZXQXY2c1RsNERVbHVxcEVRWGNaQmpheXd5WVFlWjdvYnF4aUFEaUN6d3hwdnJWVUZMRjI2aER2MkI0X3ctdDZIVi1iOTdQOF91SU1uTzJoRkdPc2lWREhBR1dzZmxQUVZncHdScDFvelhIQkpLSFIzNjM1MjRKQklUdFl5RHFRTFlQdUFCMjRtNWxraVpheTl30gG3AUFVX3lxTE5VZUFYbWFoU2ViX19GQ1dtQUo0RFhHNXZVOG5RTWJtZ2ZQcEJCV3lEZHllU1lGSXhoZlRTZlJ0VUViYi1pOHppQ21PdktHeEh6N2hVRXBlaTFBY3lzb3VlS3g3b1BCc0EtbFBRZmViMzNvNGxPSnZ2TU1YZnNRNzZ2dG9zel9wczIwdkJ4bDc3Z3NmZkRkNk5rcG1NWm1Jc0N2NWYxeFdUcWRrUi1yc1BOTDYyN1ZYRQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Policymakers want rate hike but disagree on pace",
-   "source": "Axios",
-   "time": "2026-11-19T17:17:53Z",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLenkzRHR2cnQwLVFSSFBrY2RhT0ZNbk1UZzdRSmFyQVhSa1UwN0w0WThGQ19aNGNOcnQ4YzhBRGkxZXFucjZpa2ZkMGwwcTRGNjMwQ2JFVmFoTVp0Q2Etdks2YmpWNU9JaTRSYi1TYw?oc=5",
-   "tags": [
-    "RATES"
-   ]
-  },
-  {
-   "title": "“Buckle up” Gold price reset [Video]",
-   "source": "FXStreet",
-   "time": "2026-11-19T17:17:27Z",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYTZpcnhPbVBYbG5xVURzZ1RmaXR1ZXdySjYzUE8wdVVIamZWYmZ4elZjdEZPVUlaUHA5alNiajB5TUFVbDJpQ2xHUHlXTURJYUc2bl9zTlp3NlNET2FpYm10QVdqaEtQRC1GZWI3YW9KTU9ZQ3V1V29Ic1R1a1VuaUZkSkNUQQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-   "source": "BBC",
-   "time": "2026-11-19T17:03:23Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump and Putin ‘hijacked’ China summit",
-   "source": "Al Jazeera",
-   "time": "2026-11-19T17:02:22Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss",
-   "tags": [
-    "CHINA"
-   ]
   }
  ],
  "fedCalendar": [
