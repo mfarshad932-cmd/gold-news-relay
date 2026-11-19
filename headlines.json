@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T14:16:34Z",
+ "generatedAt": "2026-11-19T14:45:02Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -16,7 +16,7 @@
   "fed_speeches": {
    "http": 200,
    "items": 15,
-   "kept": 1
+   "kept": 2
   },
   "ecb_press": {
    "http": 200,
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 9
+   "kept": 10
   },
   "investing_news": {
    "http": 200,
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 0
   },
   "cnbc": {
    "http": 200,
@@ -81,17 +81,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 26,
+   "items": 25,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 27,
+   "items": 29,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 17,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
@@ -101,18 +101,18 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 12,
+   "items": 13,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 9,
+   "kept": 9
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,9 +126,66 @@
  },
  "items": [
   {
+   "title": "Canada Producer Prices Rise Again in October, Buoyed by Energy Products",
+   "source": "WSJ",
+   "time": "2026-11-19T14:36:44Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSk5XNXA3b2xDdS1GeklUYTB6SE9jN1RKYkFBeHNVd2VjSGwtejVWVXJXZnRFWWFfYmxXM0ItWEdNNlRHVURFR0RvZktMd3dlLWlYLXlGS2xzbmlrOUd3R3lQbTFvVE03TVp0cm1McVJyOVl3anJYRnpWLWdSOG1zNGtNZ25EMXpqdlMxRlFEWGVQd3E5TFVTQWl6T3VLbDN2dXY4ZVJwemtwd0E?oc=5",
+   "tags": [
+    "INFLATION",
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Federal Reserve: Hawkish path priced in – UOB",
+   "source": "FXStreet",
+   "time": "2026-11-19T14:33:55Z",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNDQ5ZW5taWlQNS1xVEVoRmVVNmIyM1VxcHBmN1NnWEpnY1lXbHoxQ2VJc3VrSUtPWnA4RDBfY3VPbkhSWWY1S2tORHZPTHpIZDdHQ2hOUU5iT1ptekdGcV9CZk1kdUVsQVR1VzdIWVV4bTUzTW1FeEtSTDY4bnp0YXRxRkFVRFNqQUZxWFBR?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Fed's Jefferson says AI boosting inflation, productivity impact possible 'in the future'",
+   "source": "Reuters",
+   "time": "2026-11-19T14:27:43Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcXEzRFlWTEdhd3lGQThDc1NRMGhfYWdMUDBlUVFzMlo1Vzl4b1Q5RG5iaXE0bzFaMTF4TGV6MjViSzBmYzl1UVVwLXU4QnZSa25WbkU1eEE2MkdsYjRYY01vQ2JCc1ZGUzNhd2lueFR3bGdGRExZbXRhcXp5Zlo4Y3Q3bnJURWlIYk9IRFdncDl2TW56ZHN1c0t0aXZucG5aMEFScGV3OEJ2RXdYZEZnQTNTMDR5c1VHMnRKYlkxMk9sejA?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Jefferson, Monetary Policy amid Frequent and Complex Shocks",
+   "source": "Federal Reserve",
+   "time": "2026-11-19T14:25:00Z",
+   "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "Putin Joins Trump and Xi in Condemning Nuclear War as Europe Watches Closely",
+   "source": "The New York Times",
+   "time": "2026-11-19T14:23:07Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV1RXaHpWNVEzU3RHbnp1MXRZdng2TWh6YXBHbXh5bWVoQXhLblJYRmVNalAzZE52MDFkaHAtUEY4V2J0VGV3dl9BMTJBVUwtU04tSUpQQk9hV3Y2QXJOVDJWanJ1ZVIzZGNDTmliOHhzbHhPQzNfUmZ4aENCQ2NERHFKaUtwRHczSkdBcXAybU55emhKaFE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Prices Fall Nearly 34% Below Their ATH Following Sharp Decline",
+   "source": "Investing.com",
+   "time": "2026-11-19T14:23:00Z",
+   "link": "https://www.investing.com/analysis/gold-prices-fall-nearly-34-below-their-ath-following-sharp-decline-200691930",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Gold's bad year is getting worse. Why its price keeps falling",
    "source": "CNBC",
-   "time": "2026-11-19T14:15:55Z",
+   "time": "2026-11-19T14:17:04Z",
    "link": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html",
    "tags": [
     "GOLD"
@@ -165,8 +222,8 @@
   {
    "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
    "source": "Al Jazeera",
-   "time": "2026-11-19T13:54:10Z",
-   "link": "https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss",
+   "time": "2026-11-19T13:54:30Z",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNenlva2tDMXZQcE0zVUV0REFQdlR6SERKRGh1U1VCTnhJY1dTWXpCNG4xWWp5MDg2VHNZQnY5aDdIZmZWdkRKcTFJM2t2cExETVBlaWNHTU1SNmR4clMybTZTWVlKcFJPeFo2NTVqNk8wRjVBWWdwd3ZGRWRlMk5WcklCQTVIWDBYeC1yUlF1UWw3M1ZVNGw1MmVLRXdLaTVodWowUkVJT1JNQnpRNVExVnpITV9HRjE2YXBETkdjZ1lLX29N0gHKAUFVX3lxTE10QXg1SWoxS3M4U1dCUlU3VHVZejRZeEk2cUNpdklaTURBLVlTWUhwV0ttWS15UTBCUlV2ZEVteUZFTXpfdExfWnNCTXVHWjlUNkY3TUR2VFVhenNLZFpncE5fWUFuZjlLWmI3b3VxWllrNTljdElmaHBxS296YktNaElnZ2dvYkxrcWEzZ3ZaS05jdE1yUVEwci1kNldKSkQ4c05zY3kzU1Rjb2NJeUVvQmdlVGNCcEhWTHMyd3lRMUxsQjJDNzVqZlE?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -178,6 +235,15 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUFRZVE9ONVNWbXZnS2M4eHhraHJuSFE5cEhwaTNVMHYzR2RQZ1c2ajZJRVVldmt2OVVCQm1Pb0d6bVo5TEpXVkdnMzFWbDd6Zi1XUkNlekdUY2VWVkg0eldJWkJBcU5Dbnl0Mkx3VlQ0Y0xZd0FzQVFMaXJ5QUI1TUh0emJFdWZzRzJmalFzQ3LSAZYBQVVfeXFMT181VmIzY0FUR1huUFBuWTktVE9la2ZBNFlKQ3p1bHhjN2pjVFU5NWdPLUw5VzA0MmtOT2dZaTdSOHp0U3REVUFjSjYtZ0dyRTlaZHIyVXU0UUFMMkZFZVpvLXNNb3U3YkdVSDNVT1hZZGVPMmNmckhrMWlRR1lKNWVZVUxrbkRVWjB3eVJUQUVySWZ1ZDFn?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "EU Creates Sanctions Office, Names Swedish Diplomat as Envoy",
+   "source": "WSJ",
+   "time": "2026-11-19T13:51:00Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZEVzZ0Fjdkd2QVFYd19jWFBacTczbUQwbGhIVWR1eDJWejF6dFBkamNKZ1JkWllxMWVuLUlRZFV2TDNFTGJQTFA0LVU4R0t6YUo3SWVVeG9iV2tmZWY3VmtSLWdhdGNTM3NFNEFULXUwSzc2eTFYampFbWViZ2lvNzVjemRfVXdwSEdkZEJNN2d5eFRDVVJfeUN1dzQ?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -284,6 +350,15 @@
    ]
   },
   {
+   "title": "‘Groundbreaking’ Trump-Xi-Putin summit: Five key takeaways",
+   "source": "Al Jazeera",
+   "time": "2026-11-19T13:17:12Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTG9fUlJpRjBXemp1TEtTTXNUenZVZWIxMzhZYzU5eXNfOFZfcy1pSE1XX29fVTI5UFBpNW12S3ZPQVdvMERwQW9oaWg0SnlZa25lalpwVGFhdmRxbnhzSUlmcmVzN3gxZjN2S3hCUzVfdmpHTFdQaE93dkhjT0MtM1VJWWFFaU4zU24tV0Y5U3FWS3hOUDhoTGtiaDk0UdIBowFBVV95cUxOMVRBQXJzZlM2eVVibWhSWElCYVNkaWlYcWRCbEpIQkxfZzgtbnd6MTdYVHc4UmY5Sk1qdXhzMHRULUtoN0ViMU5ZN1VTT2Y0cGE5Q0JCNVZZcU5kR0QtSjBLQ2VfQ0xrcUllME95RTB4R2h0cVhWTFRYLXdiLXYwc3FmYmVHNGZTcHRhd3k0OVRkX1ZZQkxFT2c4bVduWmxpM1Rz?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Lowe's Q3 Earnings: Even Tariff Refunds Couldn't Prevent Margin Compression (NYSE:LOW)",
    "source": "Seeking Alpha",
    "time": "2026-11-19T13:15:00Z",
@@ -330,7 +405,7 @@
    ]
   },
   {
-   "title": "WTI Oil attampts to return above $83.00 as geopolitical tensions grow",
+   "title": "WTI Oil attempts to return above $83.00 as geopolitical tensions grow",
    "source": "FXStreet",
    "time": "2026-11-19T13:01:23Z",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYVZVYl9jTDlTWTdEdmNzWS1kTG9feHpEcmV3MzUtUHkySW9zUnlhSXlHSERia0JTbVJvbU9MTVhBN2JxUjNiMGJJNDI4a3g4N0JVOHZHOWZwRmlycnB6ci05SnpXR1RnNTdiSzNROHplUExUQWMwWFZUM3ZfSWFXcHNaVFVmNlpESVFJUUFVckFmSDFnTDBjRkxZTF9WelZsUVdISnhwWl96QVRlS2Rn?oc=5",
@@ -597,79 +672,6 @@
    "source": "Al Jazeera",
    "time": "2026-11-19T10:05:33Z",
    "link": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump calls for nuclear arms reduction at APEC summit",
-   "source": "Al Jazeera",
-   "time": "2026-11-19T10:03:27Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Europe tightens sanctions on Russia. America loosens them",
-   "source": "The Economist",
-   "time": "2026-11-19T10:03:23Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQkxzUWdBcFpHVy01Y3hvOURnd0drNUZuWW9rWC1QQk5GQVV0blFhU0ZnZVFpY2JWaVZrUlVhZ0pOV2hkVmNtUUZ0ODIyVGtxUWx6RU9LNWhJcDJNTjhCYVlvODk2eWYwRHRnbnE0NFAwOGdaQ1BsTFdSWUVFSFBzaHJaVWxDc3NSRF9ZRFVqTk1TdzZTWmNCUDhqLUJsN19YUTl1YUNPMEY0MTNnenN2aHNUeklwdw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Body Bags and War on ‘Wokismo’: A President’s First 100 Days",
-   "source": "The New York Times",
-   "time": "2026-11-19T10:03:10Z",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX3pBcEVuWWJFX0FsRUI1eElBWUFETDBTT09PdTJkTldsRjRzU3ZFcXE0UTd5RXRJdmVLRVc4MEh2S3ZpSUpJbXlETjZyZ3V3X3RZMHhoN1ZaQS0yNTY1dk1qTDNLbjhtOEdnNWtuYjMteFIxOGNEZlRSOE02TnV4RWUxejdTVmxXU0ZKQTY0VEpDSDg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "A new proxy war: How Israel is defining the Senate leadership battle between Schumer and Van Hollen",
-   "source": "CNN",
-   "time": "2026-11-19T10:00:15Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUkFjd29KV2tOSDg3U01rMExGOGZUOUl5WU94NnNBRXlOOUdwMVFlSkVtNTBudnBrbHVsMzdhbmVLWjZpclBfX18wZjZGcjFhcFpBcVh0ZzBNYjRsMm16Rm9zaGt2bnhLaTJDcWh3ZTJJV1RCRHF6T0tuRWUzSXJSWFVLSGVYVXFWX1dQb1d0em9oLW14cUdUMThVQXI1cHky?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "UK to provide Ukraine with long-range drones as part of £260m package",
-   "source": "BBC",
-   "time": "2026-11-19T10:00:02Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XT3J0aUZ6eHYwYUFSVE9QMXgtMEpWWnhLVmJVYmVuZThGQktEMFdWWUpRS2dvVmNwdlRqNWlDTUtHYjBsdzU1TnVpX2lnb2xnR19DeUJmMTM1R3c?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Inside an Iranian woman's life under protests and war: a graphic memoir",
-   "source": "Reuters",
-   "time": "2026-11-19T10:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KVTh4UUxnX0EtSDBWUFlzdDRvcFZtcWdUdldwSXpBV3BzOU9WdmtveC1QVjQwQmFzMkR5R0I4LXhpRjY1dERxZEkwekRNdUYxaGtUN2luYUtRbWlnRVItTy1IUWJUVm1PVlU1VlBxcmtUdV8tM0E4MQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "As if the US-Iran War Wasn’t Chaotic Enough, Pirates Are Making a Comeback",
-   "source": "Newsweek",
-   "time": "2026-11-19T10:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYXVGOHN0YnotTkdUQ1BGM013WThxTHA0M19LdUNWUm9pX2RUUlRjMnNkaElvU09wa1lZTUZqRXMtS3AwYktPS19pejRsd0xCX1BXYWtzakRzRHIxR1ZJODgwTDV1QWhDNXMzQzBSY05LbTZfZUZhekNjdEhxUmpXM2dyTl8zdGZJd25iYlRGZGRBek93d1E?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "There’s Still a War Against Boys | Opinion",
-   "source": "Newsweek",
-   "time": "2026-11-19T10:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50eUlXdG0wblNyelVnLV83ODl2bGdKVmJNdHpmNUNLV1ZDOGFCMEI3MGx1aGtydzA3ZmkzR0NST0pZQ0l5bGFNdURlWDluS01xbm9ndndwaU41OWtrYUJJSDlaZEFHQmR0NTAwQzc4Y3JWblEyU2oyRU1YVG16UQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
