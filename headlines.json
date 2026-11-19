@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T10:01:19Z",
+ "generatedAt": "2026-11-19T10:29:40Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 10
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 11
   },
   "whitehouse": {
    "http": 200,
@@ -81,39 +81,38 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 33,
+   "items": 30,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 41,
+   "items": 37,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 20,
+   "items": 21,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 38,
+   "items": 39,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
+   "items": 13,
+   "kept": 12
+  },
+  "gn_yields": {
+   "http": 200,
    "items": 11,
    "kept": 11
   },
-  "gn_yields": {
-   "http": 429,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 429"
-  },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
@@ -127,11 +126,141 @@
  },
  "items": [
   {
+   "title": "Trump said weighing another Iran offensive as Netanyahu pushes 4- to 7-day campaign",
+   "source": "The Times of Israel",
+   "time": "2026-11-19T10:14:05Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmhCUDF4d0ZvVkhmU1daNWIydEVKODlsUkhLaE9UekVMZnFYVkFLNkdTSThSazdFNi1VVjhQM2l4VEt0UHNhQzhHYi1wNW9UV1NCZ0RIWjZ4WFg1RDBTMFNOZVlCdWtQcXJJS3N4Q0VMOEV3SDAzbG9IQ201S3BNc2JjVWw4Q3pmQWNrX1pUeTI0NWI1OUh5aU5qb3BHaWlfQ2tYaGxQa2R2ZUZGN3Ria9IBtgFBVV95cUxOSnFfMWlyWXVqbXVUWVpvMlFLN2t0U1E2eG15YV9XdENMb0F4Tl92YjMtTXIySElGMmRxRUZudS1xdEJTNGh3V3Axak1ucl96bzhwZU8yLXBreGl4UVhpYTNybG9nLXZCSE00YkVNelRpMi1aaXBIcjFWTmR5X24zeGZrYWViUjk2Umd6S1EtMXE4eHh2RDBVZUoxdi0wZE1MRy1yLW1GdWMxdWg0dU9CMmRfNl91UQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say",
+   "source": "Al Jazeera",
+   "time": "2026-11-19T10:05:33Z",
+   "link": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump calls for nuclear arms reduction at APEC summit",
+   "source": "Al Jazeera",
+   "time": "2026-11-19T10:03:27Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Europe tightens sanctions on Russia. America loosens them",
+   "source": "The Economist",
+   "time": "2026-11-19T10:03:23Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQkxzUWdBcFpHVy01Y3hvOURnd0drNUZuWW9rWC1QQk5GQVV0blFhU0ZnZVFpY2JWaVZrUlVhZ0pOV2hkVmNtUUZ0ODIyVGtxUWx6RU9LNWhJcDJNTjhCYVlvODk2eWYwRHRnbnE0NFAwOGdaQ1BsTFdSWUVFSFBzaHJaVWxDc3NSRF9ZRFVqTk1TdzZTWmNCUDhqLUJsN19YUTl1YUNPMEY0MTNnenN2aHNUeklwdw?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "UK to provide Ukraine with long-range drones as part of £260m package",
+   "source": "BBC",
+   "time": "2026-11-19T10:00:02Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XT3J0aUZ6eHYwYUFSVE9QMXgtMEpWWnhLVmJVYmVuZThGQktEMFdWWUpRS2dvVmNwdlRqNWlDTUtHYjBsdzU1TnVpX2lnb2xnR19DeUJmMTM1R3c?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Inside an Iranian woman's life under protests and war: a graphic memoir",
+   "source": "Reuters",
+   "time": "2026-11-19T10:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KVTh4UUxnX0EtSDBWUFlzdDRvcFZtcWdUdldwSXpBV3BzOU9WdmtveC1QVjQwQmFzMkR5R0I4LXhpRjY1dERxZEkwekRNdUYxaGtUN2luYUtRbWlnRVItTy1IUWJUVm1PVlU1VlBxcmtUdV8tM0E4MQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "As if the US-Iran War Wasn’t Chaotic Enough, Pirates Are Making a Comeback",
+   "source": "Newsweek",
+   "time": "2026-11-19T10:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYXVGOHN0YnotTkdUQ1BGM013WThxTHA0M19LdUNWUm9pX2RUUlRjMnNkaElvU09wa1lZTUZqRXMtS3AwYktPS19pejRsd0xCX1BXYWtzakRzRHIxR1ZJODgwTDV1QWhDNXMzQzBSY05LbTZfZUZhekNjdEhxUmpXM2dyTl8zdGZJd25iYlRGZGRBek93d1E?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "There’s Still a War Against Boys | Opinion",
+   "source": "Newsweek",
+   "time": "2026-11-19T10:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50eUlXdG0wblNyelVnLV83ODl2bGdKVmJNdHpmNUNLV1ZDOGFCMEI3MGx1aGtydzA3ZmkzR0NST0pZQ0l5bGFNdURlWDluS01xbm9ndndwaU41OWtrYUJJSDlaZEFHQmR0NTAwQzc4Y3JWblEyU2oyRU1YVG16UQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump’s Board of Peace Warns Gaza Ceasefire Could Collapse",
+   "source": "Bloomberg",
+   "time": "2026-11-19T09:54:28Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVh2YkJRNVQzdVp1OTI5akpnX0J0NF9IanktaWtjU0VMdnZvcGN5dVpId3NNN25tSWkzd2xDM1VtTXFleEdwbnl0YmhwcVRZbXlfb0M5M25ObGwxMzRUYmJhWmM2Q0ZjcTR2RlA4MUtFUWNHWVRyZ0xzRlh4bERmSHdBSktDTkxDQUx0dmppV2oxTU8yV2M1bXViVmJKQl92MlN1Yl9SZ3dnT3diSmc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Treasury yields inch higher as investors weigh the state of the U.S. economy",
+   "source": "CNBC",
+   "time": "2026-11-19T09:52:58Z",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNkZZT1lIeU1WR19KR0NSTzF2YzA4dnQwalkwYTZKRUpJOW9DWldwNHdfZ1d1eXFmcHU0WHNlTXVocTNaQks3Tm9UalRQUFFGOXp3VkNNdDRHV1Y5czJQZ29fblFmcENfSnZUQWJsU3FjeWNfVTFVM1kxZzlUUWhuOTBB0gGHAUFVX3lxTE0ydXg2dUZCNEs4WnNRc2ZhUmFxR19LRkRzREFLOFc0aWxWSDJFTFJXaEQxdTJtQkg5Smo4azh3bXdRc1VveW9aYk5Rbzc0bGRxZng5dVhQWXhCV0syX09tVHRxclg1b2hiMnJjSzZjSm9LUWh1azA2bjZVbkNkY3cwRmpYT2ZiSQ?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Anthropic to go live",
    "source": "FXStreet",
    "time": "2026-11-19T09:48:56Z",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wUzJvMkhHSG05dnNaQzhDWGRMWUhOaVQ4OWx5cHFiUi1YNC1LQk9OTWxrSjl4a1lyUG83blI0d3o4UUpjdWVjRDkwcmdGZkNpTXVmR1BTcHhJUDdXZURtdDVJakpSc0JlNEt1dE1YRUdfalNtZ0E?oc=5",
    "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Oil Prices Steady as Hormuz Tanker Threats Offset Supply Glut Fears",
+   "source": "Investing.com",
+   "time": "2026-11-19T09:48:00Z",
+   "link": "https://www.investing.com/analysis/oil-prices-steady-as-hormuz-tanker-threats-offset-supply-glut-fears-200691906",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Gold and Silver Collapsed - Outlook Remains Negative With Further Losses Expected",
+   "source": "Investing.com",
+   "time": "2026-11-19T09:44:00Z",
+   "link": "https://www.investing.com/analysis/gold-and-silver-collapsed--outlook-remains-negative-with-further-losses-expected-200691905",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Treasury, Eurozone Bond Yields Edge Higher",
+   "source": "WSJ",
+   "time": "2026-11-19T09:40:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUxqWVA1Y044cTZjWkE0VlVFR3hrRVh1S0ZsLW5VVDZfNlRsT0dmNElmUG1ocmh5Wi11eGhRZEFTbEJpbjVjM3F4b0t1TGtiYTZ5UFlMdFBZSXBQdlNUQ2gxMklZclRVOG9JSkVBNFRmMmVSckpzeFQyZ1RxN250RjZpWXJUTnBKQmhhRXBCV2FERE50STNlZU5n?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Gold Steadies Near 14-Month Low as Fed Signals More Rate Hikes",
+   "source": "Bloomberg",
+   "time": "2026-11-19T09:37:24Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXdmV3hhblFoX2xZNXU1UVFXemNQdDJXUlpqV3o3bmxiNUVxNTFWRkVRektBa1o0d1N2LWhFcWJYZ0VYWWUydHhnVjFrQ3VYOUI1Z25abXdHV0JucmhFcTFBZTNKSjR6WXB1MnFVanVTekJxY2cyNG9HdzB4NlkyTUtaM3N5bFQwSVd5UGQwaHJNNlRNUU5KU2tCOU5uaEVoRXY5cUhEMHBtZEtxY1B2VkRtRQ?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
     "GOLD"
    ]
   },
@@ -245,6 +374,26 @@
    "tags": [
     "USD",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Israeli envoy warns Australia: Sanction Israel, expect a response",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-19T08:33:20Z",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qUldndnJLa2dwb2NYSDhqTmtjYmlkbTMwbEZQZTZ5UTBjZmJJWWRWaU1INXlmMzFWNkxQN0ZZMEQtMFdpS1o4d00tb3JJUDRvOFlOd211UFFpSk5r?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "The US dollar moves higher as Treasury yields extend their gains",
+   "source": "investingLive",
+   "time": "2026-11-19T08:33:01Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVZRdFczUjZoVzBlWjdJcngwRUNpM1VNcENKVTNTQlBnVVdiWGZrTzBHZFhvT0VyODNzUFN0dW51c1ZWQmM3SmUzUDc1b1MwWXhKQkRTRUpMNE1tTFYzYWExdW02TTJ0dnpUVnlHV2lrd0Y4bGppSlRzMGJxcGFzUmpoSWkyVl9fX2ZPM0Q2d0ZBd1Y5V2VHdGRObWFyZFh6QW5scDVPRWZTNVdMZWsw?oc=5",
+   "tags": [
+    "USD",
+    "YIELDS"
    ]
   },
   {
@@ -429,23 +578,13 @@
    ]
   },
   {
-   "title": "Gold edges up from 14-month low as markets assess Fed rate outlook",
+   "title": "Gold recoups from 14-month low, tighter Fed outlook caps gains",
    "source": "Reuters",
    "time": "2026-11-19T06:53:00Z",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0RVRVVhd0g1djYyRGpzbTcyZXFtSXd3cTV1T0REekJaYm9FOTlzblJzU3hlMmsxSkF0UmtzZ1gwWVFiUzI3VXdGNzJLTndoZC1oVkpXSnRmZ0ZmNkEybVRFSnhIVzFCNnlTS2hQRGV2bnNGTHVsaUZ5RmllU0otWWcxV2wwejMwcXpTOWFxam1xb2dRMXMyQ1c0T0RkZy1SX09YR3lYdmxkQQ?oc=5",
    "tags": [
     "FED",
     "GOLD"
-   ]
-  },
-  {
-   "title": "The US dollar moves higher as Treasury yields extend their gains",
-   "source": "investingLive",
-   "time": "2026-11-19T06:52:49Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVZRdFczUjZoVzBlWjdJcngwRUNpM1VNcENKVTNTQlBnVVdiWGZrTzBHZFhvT0VyODNzUFN0dW51c1ZWQmM3SmUzUDc1b1MwWXhKQkRTRUpMNE1tTFYzYWExdW02TTJ0dnpUVnlHV2lrd0Y4bGppSlRzMGJxcGFzUmpoSWkyVl9fX2ZPM0Q2d0ZBd1Y5V2VHdGRObWFyZFh6QW5scDVPRWZTNVdMZWsw?oc=5",
-   "tags": [
-    "USD",
-    "YIELDS"
    ]
   },
   {
@@ -484,15 +623,6 @@
     "FED",
     "INFLATION",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Could Trump, Putin and Xi end the nuclear age?",
-   "source": "Al Jazeera",
-   "time": "2026-11-19T06:15:55Z",
-   "link": "https://www.aljazeera.com/opinions/2026/11/19/could-trump-putin-and-xi-end-the-nuclear-age?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -560,140 +690,6 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaVMyT3o1X1loMDB4WDJaelo2QVI4QlV0TXN2QUhqY0tTVUxka2FxM2dzVXExRnBRSnB2Yk9oTE5IRm5jb0U3bDh5RDF2ZGpZQ00zT3lYSng4VjF0U2tMNDZkY0VkaFJDOHFhTnRLZ1BSWjMwNVBWWnQ3YllZVTBlVFFTdU4xUkptdHFNWlB5TDJrWGJQTE9zRlc3V3VsN0dxZEtNcTR5czgyOVQ3TlloSw?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold (XAU/USD) Price Forecast: Breakdown Opens Door to $3,500",
-   "source": "FXEmpire",
-   "time": "2026-11-19T05:54:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1BXVUZkQVlLVnlnWW04U3hRSnFwSzczc3hCVEdRbGs1TF9lZFM5NTRMOHRGNy1uSlhjMWxrVVRFZERxWjQtNDJYWG5EdWw1OHBoMkNEVm1vYkxIeHdodnlxZ3hrallvM1dqRUhVMmdCMk9wa0pTR3hTZHQ5OU9vSV85QWY5SXljVURuMmc5R2Q3Xy1WYVhVMjRQcDZOMy1QaWI1MkFyZnN2X1E?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Dollar Rises to 19-Month High on Fed Rate-Hike Bets",
-   "source": "WSJ",
-   "time": "2026-11-19T05:52:39Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbUFTNFdTU2N5M2hVYW8zei1IMG9pbnFtc0xHU3U4cjZXUXFmaXVCTmRTbktVd2pTTlpiNHp1R2ZmWlBLSTdyU0dnX1NiT21mM2JiX3JkUzc4S0dlb3IyZEgxbzlPNEhTX1lPa0c5MHBpZU1aTjJQdGg1b242M3hUT1AtN25lNXFacnNTUmJzbFNHUkg4QzNmOEFvNk0tLWpHeFpzNVpLdlYxOHpNMmJRTUp6ZzBxS2M?oc=5",
-   "tags": [
-    "FED",
-    "USD"
-   ]
-  },
-  {
-   "title": "Russia's payment platform, sanctioned by the US for helping Iran evade sanctions, expands into Africa amid tightening Western restrictions",
-   "source": "Business Insider Africa",
-   "time": "2026-11-19T05:52:13Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOemZrN3lqdjg1RzZ4RlZBUFVXd196aHBZb2N5ZnFYTTZ3VDdRREQyZUFNQnY0SlNiT3lXY1U0ZElRNU8wSzJZVlBRQVhNS3RaOUttak1tQ2l5TkxXV0RRb2NBN2JDcU45cVJwcjVWRWp1ckpXMVhKcXhUSWRSZ1ktVTdISVZXVVdtaEZ2NXNyMlZNaDl0aGtXNlVDZEZvc2ktYXNJMTI4TEswZXZWX1p0c3JtcVJwU2dhTldHZWJzcGVOT0NSd09qMHN1MUdZbW5t?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "The 'exceptional' dollar scenario that forced Deutsche Bank to change its FX forecasts",
-   "source": "CNBC",
-   "time": "2026-11-19T05:34:08Z",
-   "link": "https://www.cnbc.com/2026/11/19/exceptional-dollar-setup-made-deutsche-bank-change-fx-forecasts.html",
-   "tags": [
-    "USD"
-   ]
-  },
-  {
-   "title": "Biggest-ever IPO gives Anthropic war chest to undercut Chinese AI rivals",
-   "source": "South China Morning Post",
-   "time": "2026-11-19T05:30:07Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLWhVbUdlVENORDJZa3pUUzZSaFNwMTljWXZLbEo0U05fazEweDR3UTBzOWRVRU1SelFIZzltWDFCTGFqNkpXTzNTR0YtejdWR185a1dlZm9qNEZHX0IyNXRjYkZGWUZkanpJRkx5anFJVDZybXhaeHlwc0dSU0dPNU9iVDBiOWRnb0JWNWNFazNidmRkZmVHSXlXSDUwdkxKa00yZ245MHpBbGh3SkpIbWpmWHlOY3RtdE1xZjZWSFphZ1ZPVldj0gHHAUFVX3lxTFBzc2IwY2tjSnV2LUxvZ1pRa3lCa1NETDJ3MWpqNTg4eWJkdDJpUnR5Z2FydEQ3MnFBUWg4TXR3MVJGZHpJYTNhQWtwODBvcExLcGthT3FlRklZdGpmYkFXNnZ3QmhiNEhKTUM4WEZ2eURlTl9fMml6S05USFY5ZnlFZXFUODBtSlRwS2lwXzNDdzV0NG5INURWYmdELVZGekRGcXFoUHhhVTA0VXcwallISDFDVjRCeWFTM19XU0RMWmdpZ2pwSTA?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "A potato war has been simmering for decades between the US and Japan. It’s about to reach boiling point",
-   "source": "The Guardian",
-   "time": "2026-11-19T05:09:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0hRcThuRUM3UEVnN0c1VTJSQzUzY2haQXNzSVhqY2Z2dHBPRGJUQ0tHZzBrblZjQzBWNW5nd3BPajdVT2pxLVB1YjZqMFE1TzJqT0hIY083QU1JM2xMZHNpOXF3aXhkS2gyMnEtOHdEdUtvYWVMcmpCUGVyMk1VRHVkZ3p6RWJrTWg2UU5ERUxxTGw0eUxlTkFiaEs0TkJSbm1B?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "FOMC minutes reveal Fed officials expect more rate hikes despite October pause",
-   "source": "TradingView",
-   "time": "2026-11-19T05:03:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSTVUOFlhVjFsaVVqSHVGb3BZYUZlRmdQaV9iajRyWS1yRjRFMWJNQnhZZ1RpOHR3eHM4ZFF5U3VCS1p3d2J4YzY5eHFtSGRJblVoRmtRaVhYRHhfRDcyS1Z5bnFGeDlQU1lQTFhINUFVNlE1Y1Zmbm1TTWRMNmhBQnpYYzA2VV9vRmI2M2ZIMkFBY2FFdERJRGo0a19UQnBBd1h0elJQOGs0bTJSY2diZG15N3dtWnBsTWxhVEI2R2pXOTdPS1JVTUtPTmpoWnVqdk1XYm5WdnVjekE?oc=5",
-   "tags": [
-    "FOMC",
-    "FED",
-    "RATES"
-   ]
-  },
-  {
-   "title": "China uses climate talks to complain about tariffs on EVs and green energy products",
-   "source": "Financial Times",
-   "time": "2026-11-19T05:01:23Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQV85QXRiODZsOHFsYTRLUHFRMF9BRUtCSml6bTJYVnpuMHJxdkhMdWRWRER0ZFdEeTFickZ3SzB6M1kxME9DMmY2M1dvOWFlYndPNVJ0OUpKSVo5OHNpYnA1Nm82NnRKLUNPTWVHc2l4dWlFOGpOLThES3V0TExNVFNBUHk?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Iran War Has Permanently Redrawn Global Energy Markets, IEA Says",
-   "source": "Bloomberg.com",
-   "time": "2026-11-19T05:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMkMxTFBmT3huaHNaNW4yQm9mblZaZmp1YUx6eFliYWpHVy1LNkxWVmpobW0wNzV5SDktYUlIbFpWMDE5VFZnSUxHdXI1SVhObG5BNlVNQ2xqRUt2ZGFUNDlvY1NCR0FRRlR4dmRoSTZJenVRX3BfOHNLWXJqdnI0NXVFbTZoa1N0UDNDQkYwWEl2Tm9kMWtoV3FhX1JTRWNFQ3dzeG9sLXRKNHdPMEY4Z0d0LUREOEVmam5fMnVNUTJGNE4wZ0x1eQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence",
-   "source": "Al Jazeera",
-   "time": "2026-11-19T04:58:36Z",
-   "link": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold price sinks to 14-month low on growing Fed hike fears",
-   "source": "Mining.com.au",
-   "time": "2026-11-19T04:55:55Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNek1TUm0xRm9HOWVhRDBjQTlJQklQVTBmeloxWHRTRXAyUzZHWDI0WDdpQkNGTFNSeklTZnVUSUlySkROeGs2a3RMTTh1NDNyRU1fdXVpZlMwQnBWdk5MMldERTVSYXNRc1pYcDlxaDJ1U05DSWZaWnJrXzVwSWdEeWYtTGhFS0hV?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "investingLive Asia-Pacific market news: Oil holds near $92 as Gulf attacks mount,",
-   "source": "ForexLive",
-   "time": "2026-11-19T04:55:23Z",
-   "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-holds-near-92-as-gulf-attacks-mount/",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Ted Cruz Says Democrats Are in ‘Civil War’ After Cornyn Clash",
-   "source": "Newsweek",
-   "time": "2026-11-19T04:55:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VaVEzOE1NaGxrUk5xWHdPNDRGMnJPUnBsUmRJdWkyNVR1Vm00STZXb3p4SGlkdU1qRmo1c2E5RG1DaVpucG5xdjNOYm5PVFNadFRNUnN1NGNzb2tUWERIbUUyb1lkNHpiSVZITkpiUkdRUTdUN3RIQTR3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-   "source": "BBC",
-   "time": "2026-11-19T04:42:52Z",
-   "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "CHINA"
    ]
   }
  ],
