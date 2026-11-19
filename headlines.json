@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T12:23:04Z",
+ "generatedAt": "2026-11-19T12:51:31Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 11
+   "kept": 12
   },
   "whitehouse": {
    "http": 200,
@@ -80,44 +80,52 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 27,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_fed": {
-   "http": 200,
-   "items": 33,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 16,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 31,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 13,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 10,
-   "kept": 10
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
-   "items": 3,
-   "kept": 3
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 5,
-   "kept": 5
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +133,15 @@
   }
  },
  "items": [
+  {
+   "title": "What is a ‘nuclear briefcase’, spotted at the APEC summit?",
+   "source": "Al Jazeera",
+   "time": "2026-11-19T12:11:42Z",
+   "link": "https://www.aljazeera.com/news/2026/11/19/what-is-a-nuclear-briefcase-spotted-at-the-apec-summit?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Deutsche Bank got its dollar call for 2026 wrong. Why it’s shifting tack now.",
    "source": "MarketWatch",
@@ -629,15 +646,6 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa3RxWnVURmY3MTdMZF9OWFJzRTRsRDF6QWRYYXZLOWdIYUtCYWJQV2VuaEpZODRzaHVqQjFhXzl3SnRabTZxUC0zdXQwYXhHcHB2cEtwbXZ4azk1MHIwSHc3MTk3RUlIb1ozS2lNRmh6VlRuYUhNUi1QY3J1SVlmZUFuVFkwR29qWGxGM1hTbmZ1VS1tOXlCMlotNnRhZw?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
-   "source": "Al Jazeera",
-   "time": "2026-11-19T07:51:03Z",
-   "link": "https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
