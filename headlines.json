@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T21:21:43Z",
+ "generatedAt": "2026-11-19T21:50:08Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -80,44 +80,52 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 28,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_fed": {
-   "http": 200,
-   "items": 21,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 13,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 43,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 14,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 11,
-   "kept": 11
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
-   "items": 2,
-   "kept": 2
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 3,
-   "kept": 3
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -128,10 +136,19 @@
   {
    "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
    "source": "CNBC",
-   "time": "2026-11-19T21:21:24Z",
+   "time": "2026-11-19T21:43:30Z",
    "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+   "source": "BBC",
+   "time": "2026-11-19T21:21:43Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -144,21 +161,22 @@
    ]
   },
   {
-   "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-   "source": "BBC",
-   "time": "2026-11-19T21:16:12Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "AMD dives on short-seller report of alleged China exposure",
    "source": "CNBC",
    "time": "2026-11-19T21:14:46Z",
    "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "Oil’s 15% Monthly Drop Leaves Prices Exposed to a War-Risk Rebound",
+   "source": "Investing.com",
+   "time": "2026-11-19T21:05:00Z",
+   "link": "https://www.investing.com/analysis/oils-15-monthly-drop-leaves-prices-exposed-to-a-warrisk-rebound-200691958",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -665,16 +683,6 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUlpnbkxHVEExS0lGS1ZYWmdlLU5HT1gzdTZYR0RUbW1VeDlaQ0lXdWFXQzdjR3U1YUVQOHl1cHIwVHdLZV8taUVmb0NhejNvTmtlcGRaS19lSmlzbEpma3lVN1BSc2JmMEJzVFpFaU1ucFFhZGRIYVdMekpKUlR5azFoOGdJaUtlZkJaZXJBNFgyNFQ0YXU4WVBXQkoxc2xEQUFoeFNITy1XeS1iRFdqeS1n?oc=5",
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "title": "Fed’s Jefferson Says AI Buildout Exerting Upward Pressure On Inflation",
-   "source": "TradingView",
-   "time": "2026-11-19T17:38:33Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeTF5ZXZWQVRjQkp5cmo1Z3JjNVhhOHZCUGphSGhkbWljcGYyOUUtay1ESlFVZG84Si1aUmIyQ1lBcjBtejFtczgycWpvb3dCTk15ZjRiMU02eGQ3cjc2TlRFQ3BKOVBfSURDdGJ4ZjJ3MEYyUW90eTlOYklWSi1URkVoalh6cENpTzd0XzRXOXk4MkZBX0F5T0pnSUFwUV9waVhZTWpZNHJIemRqNzYzYzQxSVpvam5JUFFHQ1VZbF9BbkxVVENndjJVZw?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
    ]
   }
  ],
