@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T23:43:40Z",
+ "generatedAt": "2026-11-20T00:11:49Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 5
+   "kept": 7
   },
   "marketwatch": {
    "http": 200,
@@ -57,12 +57,12 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
-   "items": 52,
-   "kept": 5
+   "items": 53,
+   "kept": 6
   },
   "bbc_world": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 28,
    "kept": 12
   },
   "gn_fed": {
@@ -96,12 +96,12 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 39,
+   "items": 37,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 16,
+   "items": 17,
    "kept": 12
   },
   "gn_yields": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 2,
+   "kept": 2
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,105 @@
   }
  },
  "items": [
+  {
+   "title": "AMD dives on short seller report of alleged China exposure",
+   "source": "CNBC",
+   "time": "2026-11-20T00:08:34Z",
+   "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+   "source": "CNBC",
+   "time": "2026-11-20T00:02:36Z",
+   "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+   "source": "CNBC",
+   "time": "2026-11-19T23:59:29Z",
+   "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Iran war live: Houthis escalate attacks on Saudi capital",
+   "source": "Al Jazeera",
+   "time": "2026-11-19T23:58:40Z",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Settler leader says municipality’s foreign currency accounts frozen due to UK sanctions",
+   "source": "The Times of Israel",
+   "time": "2026-11-19T23:54:33Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTA1ZXRyYXYyUXo3TTVvU2h4ZkhFZEVWbF9adlVEZ0lSQjZTTWhmSlZCM1ctUHJJRjc2bXFUdVVtQ09LRElmYy13WWxxX1JPV2tHNG5ZbXdMYkxULWdOdGlPTUlqQi03WDQ0b1VVV2RLQ1hIcm5TMlc4RGU0MEdvOXREazdwaFJPazZRZThsZFQ0NXpINFhZZWpQU2FPMjNLVnJsZmhpMjhmelhlb0pnZXFKT1ZJdDhx0gG-AUFVX3lxTE5vaXBNMW03UVlLbjE2YmNPQS1nOXJib3NoMzBNTWpDQTY5Y3ZZQTdvSThVaVFZN3VWT190UDBPVlYwbk90emdzRzB2cE81UUJCcno3UzlLQkpSODJNbXFWYTRrQWM3Yk9lM1BQYlNLVllfNExnSlF6ZGhuWm8wMWJwRWF4dkhBSEJnekxuV3FySmtuSGFRbDdaYWVSQUlVU1l3Vk5PYzdyZlc1ZGZzMlBpMU96R2xaWm9BTlg1dnc?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "House Democrats recoil at forcing December shutdown to cut Iran war funding",
+   "source": "Axios",
+   "time": "2026-11-19T23:48:45Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZbG5pRzBtX2tSRU1PQU9ZejlEeWw5dzZOZ21aSE9hNWVqZnpXN21DNmFGS0RYTk1LZGZNOU5lT3VSSWJ1TVI4M2o1RlhScTR1LTdqZ3AyUHpqOG9sV2J3dVlkQW8zQnk5OGpYTmVWWi1HblpoTHRsQUx2QXBUdVU?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Japan CPI inflation rises in Oct, core print slightly misses estimates",
+   "source": "Investing.com",
+   "time": "2026-11-19T23:45:31Z",
+   "link": "https://www.investing.com/news/economic-indicators/japan-cpi-inflation-rises-in-oct-core-print-slightly-ducks-estimates-5040353",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Senate rejects resolution to block Trump from striking Iran",
+   "source": "The Washington Post",
+   "time": "2026-11-19T23:44:27Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUhPc1MzUmliSzFkVG16b3R4WmdnM2tTQlhHX19ONGU1Ui15MWZZcmJ0NDA4a0lkenNvRXdvUFRaMDdvcjZoOHd3YW5KNVNEelUxVEx0VU83WlJMTkFLYVV0WEtwNGVGQ2RjRmwxTlNhZ2xseHkxbGxjNTBsWU5XclJnZkRCVHJBVURwOHVoR1JjZEVSSzFuRjRRdVh3NHRpd3VTVnF3?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Japan Oct core CPI rises 2.2% yr/yr",
+   "source": "Investing.com",
+   "time": "2026-11-19T23:43:01Z",
+   "link": "https://www.investing.com/news/economic-indicators/japan-oct-core-cpi-rises-22-yryr-5040343",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
+   "source": "Bloomberg.com",
+   "time": "2026-11-19T23:42:31Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUU1WUGVxVFQ1ZDR0dWp6TERfYkRQVE0yLXkycmZoYXJidGhTT3Z5YXVvd3RObFppYWlqOWs4bU5iT3pWSDZBS01mbGQwc3JxN0lTR3dkQjN0aGhEVEtwdG5MNDM4Z0VzMUJlRzZEakl5eC04VmpMVlhBbmJxZTNHdUJHTXdscndIUTF5UlNqeV8tbVVPc2tjQ3pzYW1MWS1Ia09KbkpWTFZ1T2o5aFI4bWlHSQ?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Japan inflation picks up less than forecast as core-core slows to 2.2%",
+   "source": "ForexLive",
+   "time": "2026-11-19T23:31:29Z",
+   "link": "https://investinglive.com/news/japan-inflation-picks-up-but-misses-forecasts-as-core-core-slows-to-2-2/",
+   "tags": [
+    "INFLATION"
+   ]
+  },
   {
    "title": "Opinion | In Ukraine, the drones are flying faster than the diplomacy",
    "source": "The Washington Post",
@@ -190,7 +289,7 @@
    ]
   },
   {
-   "title": "California probing whether China improperly acquired Nvidia technology",
+   "title": "California targets Nvidia in China AI chip probe",
    "source": "BBC",
    "time": "2026-11-19T23:04:30Z",
    "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
@@ -250,15 +349,6 @@
    "source": "The Washington Post",
    "time": "2026-11-19T22:49:23Z",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWGt1RnZzaXdlLTJyN2pic1Y0QWdfRXhSYkw0aVhaX28wb1ZGeFFuQ0RqTGR6TXMxdVZmYmhkQVJJUGJ3djhYaWYxSTZDZVF4SF80aFFBQnJWVm5mbEpFNnJ1alJJUWhFcy1ZQmU4WXI3OEJCTkZOOUhNbjVBemFiSHAwZ1ZfQ3poV19Kd3FoQngybTQ4N2p5bG9Ocm1INFJ3Ylp3N0JCdDNwci0ybGtHcFFXUjlGVmJqWUhaQ2Zn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Senate rejects resolution to block Trump from striking Iran",
-   "source": "The Washington Post",
-   "time": "2026-11-19T22:49:10Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUhPc1MzUmliSzFkVG16b3R4WmdnM2tTQlhHX19ONGU1Ui15MWZZcmJ0NDA4a0lkenNvRXdvUFRaMDdvcjZoOHd3YW5KNVNEelUxVEx0VU83WlJMTkFLYVV0WEtwNGVGQ2RjRmwxTlNhZ2xseHkxbGxjNTBsWU5XclJnZkRCVHJBVURwOHVoR1JjZEVSSzFuRjRRdVh3NHRpd3VTVnF3?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -407,15 +497,6 @@
    ]
   },
   {
-   "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-   "source": "CNBC",
-   "time": "2026-11-19T21:43:30Z",
-   "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
    "title": "JCTC: Tariffs and lost cedar sales deepened losses as liquidity strategy pivots to fencing and asset sales",
    "source": "TradingView",
    "time": "2026-11-19T21:41:48Z",
@@ -496,15 +577,6 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMU5XbnExOXp3bEp2Vzh2Ung5VFk3aG9zMG5oMkw2RW5JZVNPb3ptSi05NG0tSG1hMWtHZXlSYkdEbTIxMnhNdHFCQUpOcENoUHVNZWp6aUhUbThJTkY1amdpdGFMQlJOQUtvZTVIYXRlTVZQSnZsckxCS3JkQW1sYWRzVENhT2I5Z1dJeGY1YkRDVVd1d3p0bm10bEU?oc=5",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "AMD dives on short-seller report of alleged China exposure",
-   "source": "CNBC",
-   "time": "2026-11-19T21:14:46Z",
-   "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-   "tags": [
-    "CHINA"
    ]
   },
   {
@@ -606,79 +678,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVhNN2hCZ3RieWx5bFdrdmE4WG5rX2JLamVhX2JhT3E2bm5VWm42RkpuWWVTaUdsVjBIcFFvZnFBSkJ2d1JmSzdSaDNBRmJBOEtMenVORmE4ZEpBV3Z1QW8tQlZNVnEzZ2tBeXQxTnlTM3lKLVRXejdHYlFMMVExdjA3LUFQZ3NPQU4yTjFfYTFwVnlhNjQyd3BPSGZYVy1hLWVKQWJNajJqTjAwS1lCVnVRSVFacVdEc0xPREpIdXZwR1k?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "John Fetterman Breaks Ranks With Democrats in Bid To End Iran War",
-   "source": "Newsweek",
-   "time": "2026-11-19T20:18:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU3FIempWdWc5UTBldVdpV0ptaGlYTEE1OG8wM05TNGRDck9mY1pZeVpJY21SWGpNNzJiZmEta2llWTlwQU1MQWZUSkFnVHYyRVVFemJOZ0FPRldWMkZiMVpOTGQ3X1FFcncyMVFGN1hvQUFyMEJZa3M0MEZoWEtFU3dnYWs0V01QSThoYVBR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "An outsider’s view of Australian cricket’s civil war: conflicting ‘truths’ and Cummins in a corner",
-   "source": "The Guardian",
-   "time": "2026-11-19T20:16:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa3ZiWUlSdTdQUm1zUU9TeGE2MmtKWFBpam4yTUtfVV80QWdEakNSVnVnbXowSGdwX0dPMk1OWVV2RjdOZFAyUWNGeWhWNFlRNjgxdkh1T3puR2FIRlpaZDVZMnB2Z05sVWJIUG5sazNlZWRSTEhqeU5Ga0VBdXFpdjNKOVFNbkJyeHVLVi00T1ZpaWIxd3cySTZuRzhQLVVPWGlPSGlYbWtnQ3NJSHdqYzlpNTJ0N2gyd3VIcGxTMHRoU1c4cnFGc0NqSTdxcmg2SUx2TkF0ZHNkZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran war costs surpass $48B as lawmakers demand unreleased estimates on base damage",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-19T20:08:42Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWW96SG9iLVBoandUSGpxcVJrcFdkLTQ3YnBHUlExQ1RYbkh1YWxaUUVzRl9LaXRQQnBQQzdfdTVqU1JtYldTY1NzdFV6VkxWOHNtYnhWdzRKdS1sa3J4V2lkc18wMXRhcHcxaE9iWXhZTl9YTU9VWG5uR2paS0E1UzFnYmpyeVRWa1A2RXMyX2hTVWtIc0IzREpsdjVxZ9IBowFBVV95cUxQekdKbm1NRE9pUnl0cmU2am1Jb2VucWpkZzV2SXdzb0Y1T2I4Rkpnb25iSDg4SEtlbzBkdFFkTzdQeFRaWHNEZkVDRXRyNUhqelIyTHJONmJWNHlacHpRSnRVOW5GYU5DcjU4R3Jvb0xlLVNHdkRvRWx5Q2JGZkxKLW9MYi1xcmVfWkJtUDFQUXZMM1NYSVdpYnhINWozRlBjbFRJ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US Senate Republicans reject resolution calling on Trump to end Iran war",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-19T20:05:17Z",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aWmxUdjYtLWp4ZkNGbWlXMlZTTlRPMmZIZFJMNU9WWHM5UzUxa0Z3RThyX2FWYlRxVk5FOHhjRlpEdElIVDFlZVFhMlJyTFFlNWxHSVZ1eUJ0T3p5bHV6SlQyelE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "War-Driven Cost Squeeze Alarms Companies, Bank of America Says",
-   "source": "Bloomberg.com",
-   "time": "2026-11-19T20:04:12Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkthSUExb1hwWUFkbGhhXzZwZlZNUVFjNkhuNktsOHNpZ0RuNFhNb2JRdEhPVktXQW54dkx0RmdVNEdOQnAxMmRDQUFtbjJ2N19TM19peVUyVGFjSEFHekt2NE5BOWpDYnp1OUlIandGaWNadE8zM3U3R3B6NDRTMUlCWXJna00wa3RlcXZ5VnhSSmhPaDhteW9OWEdlRE9QUWswYWRLcEMybDFydDc2SmJn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Retirement savers see gold’s appeal. Why do so few own it?",
-   "source": "Yahoo Finance",
-   "time": "2026-11-19T19:58:26Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSTNzQVVXY0JYRE1uRDFqLTBGYm1zcDhlRm9LUkx0T3F0eW9QLVVFcTc5aHY2SXdKckE4dFJUdk1jaE5BX3hIQUxFQ25EVFBsYy1ISkgteFB2ZzlvRVlwZ1NzV085MVk2bnFlQUphVHhGT2hBMk1uaXotdWh4M3ZoTVJOeldpUXVIcnNLMmhIWHhWQ1VtbVF3TzNScFdoQzdvOENZT3RDU2hvN00yYTdmS29ycnhrdnlQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "LeBlanc gives update on U.S. trade talks to Canada-U.S. advisory committee",
-   "source": "BNN Bloomberg",
-   "time": "2026-11-19T19:57:40Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMGFVWmtrU3VESWZic0pCWlNFQkNzYzB2LXBxczExWE16bThGVmV6Qjdwb0pJeThYcE16b1d0TEtvOURjdVlOSVRIVXJjM01kWW1YaEZLcWdMeFh1T2xpSHNnYWJGMWU1Y0d4V3VfakJBVVY2S2xaY1JnZDhtLVRGcDNTcV84U2I0SkVhWm5QNWJrZXRPQ2gtX2ZZNmtLVFFzZURnNktQUWlPNnFSWGhmWUViNkpJWEdWYVE?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Fed Officials Differ On Rate Path, But Predominant View is To Proceed Gradually",
-   "source": "TradingView",
-   "time": "2026-11-19T19:53:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU3JzZVUtY1RmUktxbVVTTG9kVHh6R0UtRFcyQ0doWkpTSHdoNGdNNks5Nml5SEFjYUJocXRnTUQ4SWk0ek5CY242OHZLc1JCTnFmVTJneVlybUw0ZnBtZVR6MW1SeGQyMXdiWjFCMlJKU01xTlVVVS1mX20yMzY3ZG04dXNLWlBfSk90LVR5LW1QWWNCT2tfdHB0NjJKUVhaZ0Fpb3d1eE5DWl9IWU5aVThWS3lTYUFRVGJZZ0NtSFlRQk1rUnhkWWxfeThRVW5OOHlF?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
    ]
   }
  ],
