@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-20T20:58:44Z",
+ "generatedAt": "2026-11-20T21:27:05Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
    "http": 200,
    "items": 20,
-   "kept": 2
+   "kept": 3
   },
   "fed_monetary": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 39,
+   "items": 38,
    "kept": 12
   },
   "gn_fed": {
@@ -91,18 +91,18 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 15,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 40,
+   "items": 41,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_yields": {
    "http": 200,
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,10 +126,82 @@
  },
  "items": [
   {
+   "title": "Federal Reserve announces College Fed Challenge winners",
+   "source": "Federal Reserve",
+   "time": "2026-11-20T21:15:00Z",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+   "source": "CNBC",
+   "time": "2026-11-20T21:10:48Z",
+   "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "How one Ukrainian family gets ready for another winter at war",
+   "source": "NPR",
+   "time": "2026-11-20T21:01:25Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDR1NE1xYVJZM0hmRE9xMmxMSnkySWlIMlAwd1VkMDBNUnhyWURTUERKVlhXQnM2Q215bXBGV29zRmJTTk5WV05yVUh2VzdNbDUwaFh3SUZVUFplVFBPaTFiME9CSXlMeDNwenY2QUlWUmtjb2c4Mk96aHBaM1h0LUx6dU9NOHlWamxXd2FaUkV1RG5tTWpQcXA2di1QcENWMnRIa1ZLSy1EQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold and silver prices fall again: How much lower could they go?",
+   "source": "Kitco",
+   "time": "2026-11-20T21:00:25Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbkh2d29XWFItYzI5aWhZeTZuZmNTMFJoaGYzQy02MHQxR1Iwc0RCelhrUGZaYkNYSEs2NDNsLVJqU3ZoeW9ndWxxeWdnamxDak5GbE1YX2hNM2lZNVlQQU52QkF5X0V1eDF3eVI4d2ZVdk1yWFNiMTNMT1B3RjFuSlpQaXhhZlVBbmd0SlpPdDZ3RF9VMTBDdDJQN0d3OVFEbG1VZ2hn?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Trump says Canada feeling 'emboldened' but he's seeking a 'fair' trade deal",
+   "source": "BNN Bloomberg",
+   "time": "2026-11-20T20:47:43Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTDd3U0ZnOXlFNDk4RU1FR2JvLVpIcWM1Z2lmdU1YX1oxdHN1WnFsa2VKSXhSQVdSaG1jTnJKNmk1elhaV3M2T1o3OFUzYUFITkZjVHRUVzdnQkVNcG0zdlI0UklfRWhZWlpKY1EtYm5yT3BxNDNoWGl2Vk9haFhJb2lZaTJldHA3SmYxT0ZGbjZ3SmU3ZEFNOEVzUm83Wnp0cnRlWTZvRF9iR29OVjBSMEtPYjNadHpIalE?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Sudan’s war leaves disabled children missing out on education",
    "source": "Al Jazeera",
    "time": "2026-11-20T20:47:03Z",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOG5UWkU3SnFlYkZ6U1dNZllMeFBhLTl6VFNsOHJ4MHZrd2oxOFpsdVRmZHY5dUFDMGdybVA0dkhXSGlSZXV3MjdvOFZQZ1dEaEpxZ2RWdlpGbUpiY0dLUnUxMFdPdU5XRndnX3U4V2tzTmJDMGNoVGdoWG43cUxtT2ZhejRFc0dPSkk2cnFsWEVONXdWbTdfVzdudU1qUHBxNHJLZNIBqgFBVV95cUxOcndNcjliSWlCVXVHQmY1c3R3QWNyVC12eXJqS0w0U2ZfZzB5RmxXQXFJOTRXdjJJdmg2Wkg5QnVUX0ZnQ0kzUGZMU2NULVdSZDdSTzIyM0tGUG5qSXdmTzM4ZmJqX3dabm9HVmZ0aUdBVFdzY0pTMlNTUTVQelJMbzdSbTVoVy1xNVItQmZpUHlFVUYzaTVObGZqM3V0d2JKU3FyT2trMTdGZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gaza’s displaced children celebrate World Children’s Day",
+   "source": "Al Jazeera",
+   "time": "2026-11-20T20:45:09Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Japan weighs early funding to ICC before US sanctions cutoff",
+   "source": "Nikkei Asia",
+   "time": "2026-11-20T20:44:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamVpcTZ4eWZ1X21HSWR5MWlIMkFZeW9mbm1temlMNjcxc1NHUFMzNzk1Z05iWDVnTHVqN0xBTTJ3QlpnMVpXTmpEVzl6Vnh1SXNTQ0ZWSWo5U0lfY0prR1FqdGpTdktlQms2OHBob0hWQzdpeUxoTFlpTjVYNm94bnRfMWV2bkwtRUVmNW50bjJDWnF0akRfZHFXT0xmTm40bk04eEgyY1V4bnhrYmQ3Yl8yU1NaZ2ZF?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Trump weighs renewed strikes on Iran as military warns of strain. FT",
+   "source": "ForexLive",
+   "time": "2026-11-20T20:42:10Z",
+   "link": "https://investinglive.com/news/trump-weighs-renewed-strikes-on-iran-as-military-warns-of-strain-ft/",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -149,6 +221,13 @@
    "tags": [
     "GEOPOLITICS"
    ]
+  },
+  {
+   "title": "Treasuries Eye Longest Rally in Five Months on Haven Demand",
+   "source": "Bloomberg.com",
+   "time": "2026-11-20T20:30:42Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdVdKYnk3ZUtXTER3VDhFcTRqcHdrbWZhS3BYY2hEQ1JFRFZ0VEZoNEtxS1ZuM0h0Zmhod0E0VS1qWWhPaHBXRl83bVRNZEpvMzdXQlhXNzBlRndqdFdGWk84VlNPcHJQSzVKLW0xY3AzbHFGUFVkLWdBanhvdUJSWG42T1cwRW9tMzFMR0pnbF83emtmRkNPVTIzMWxzVG4tc3Vfb3NEWmd2ZWZaaExz?oc=5",
+   "tags": []
   },
   {
    "title": "Trump and Vance take questions on the Iran war and midterms loss",
@@ -528,19 +607,19 @@
    ]
   },
   {
-   "title": "Gold Weekly Forecast: $3,500 at Risk as Real Yields Stay High",
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Tests New Lows Amid Panic In Markets",
    "source": "FXEmpire",
    "time": "2026-11-20T17:50:39Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkowTVdiY0FySURiV2RDeTY0QXBVUGRBdHMtekh5QzRsVEJqOEllYTF2UzBpQVlSaWt5VW1CX283dko1c1hMTzNLQ1B1a1dQclp1U3dRRnJYM003YWViOXNLQXZqb29vdkdvWVRzc2l2eHVXcjMzeTlvcHNKSnpxWEQ4RE1oaElpNUxpNjRpSHJiLWtyWnVYMWZRRzJReE9aYU9FekJsd1d0V1FzbEE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHlkVV92b21POWFZanFRbHlZQVFOSktkVmx1Smltcm1OZGIyQVpVbUNJcTBGYWdFZnNWT1BkdzRqSHFLRnRrNlRDZUpLZlNVcWxoTXdDM2JBVkRaOF9aNkw1ZG92U3E4d3JTb0dZZW1rU0hJWUVzOGVTRm51YldseHkxNk5CTDVEZ0tzb1BlVExYT25QUlZibEZaVktlRU9GbXVvLVFjbENXUlcwakVXM1RwU0Z3VVZOV1hhYlZHSUN5cWoyVVlOSGNn?oc=5",
    "tags": [
     "GOLD"
    ]
   },
   {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Tests New Lows Amid Panic In Markets",
+   "title": "Gold Weekly Forecast: $3,500 at Risk as Real Yields Stay High",
    "source": "FXEmpire",
    "time": "2026-11-20T17:50:39Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHlkVV92b21POWFZanFRbHlZQVFOSktkVmx1Smltcm1OZGIyQVpVbUNJcTBGYWdFZnNWT1BkdzRqSHFLRnRrNlRDZUpLZlNVcWxoTXdDM2JBVkRaOF9aNkw1ZG92U3E4d3JTb0dZZW1rU0hJWUVzOGVTRm51YldseHkxNk5CTDVEZ0tzb1BlVExYT25QUlZibEZaVktlRU9GbXVvLVFjbENXUlcwakVXM1RwU0Z3VVZOV1hhYlZHSUN5cWoyVVlOSGNn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkowTVdiY0FySURiV2RDeTY0QXBVUGRBdHMtekh5QzRsVEJqOEllYTF2UzBpQVlSaWt5VW1CX283dko1c1hMTzNLQ1B1a1dQclp1U3dRRnJYM003YWViOXNLQXZqb29vdkdvWVRzc2l2eHVXcjMzeTlvcHNKSnpxWEQ4RE1oaElpNUxpNjRpSHJiLWtyWnVYMWZRRzJReE9aYU9FekJsd1d0V1FzbEE?oc=5",
    "tags": [
     "GOLD"
    ]
@@ -591,87 +670,6 @@
     "FED",
     "RATES",
     "INFLATION"
-   ]
-  },
-  {
-   "title": "Flight to safety drives Treasury yields lower as tech tumbles",
-   "source": "Seeking Alpha",
-   "time": "2026-11-20T17:15:10Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTh1RFI0UFpSVkNQcE5MdXZ5R1hkZm93U0pkaEx4SG5MTVpMc3JRaW5QX3VKOXdOR0lPRHBvdXpsNGw5ZzdQVzVrXzYyWFFVSVQ0VDBVVEdMcUNKTzlpdXVQeVhXWERBcEw1TGY0UHdLM1NqVGVWOWwzVkVSV25YWERBdmdUV3NRalJMYWtiYVA5SXJDU2FSRUlpTDh6X29S?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Cook, The U.S. Economy in Global Context",
-   "source": "Federal Reserve",
-   "time": "2026-11-20T17:15:00Z",
-   "link": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Opinion | Ukraine’s Long Russian War",
-   "source": "WSJ",
-   "time": "2026-11-20T17:14:37Z",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55NHRCSWJFVkp2R21SYk01Qkdrd1g4Ny1kTE5GMWQ2Y25jMnliUG5HcmljQ0JfOHNHSnFGbElnR2pudzRUWGxSN0E4S1BjbFFoRkNWbmRhV1AxenNWUjBUX3d4OUVWaVhKQ2U2NV85bw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russian missile's crash in Poland was likely an intentional provocation, Polish prime minister says",
-   "source": "AP News",
-   "time": "2026-11-20T17:14:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUVJ5UWF2NFAyM19XYS1oa21ObnJ6VTJHNlpYTVQwLTl3RU1VeVItdW4wNmdxb21fV1pHZGJUbmN6Q19uUWkxVkhrZkZXM3kzbGFoc2FiVlp3akxRX05TaFJlMGUxYnZvZ2dKT3hWQ3BSR3M1UFo2ZndUVU83N1l2TEM4b0VSZi04S3hOR1FTY0xZNkk1TVc0VU9PWGNSN2hqTUt5NnJmb2dpSnJvWEpyeHRiMDVDdG14b1pOdW44UE4yUXhhZ3FwaFVsVTRyWnQyS1VtZmNTeXFxNUc3Y0lYdVNuNTFhNDdZTGlr?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Mining Stocks Look Historically Cheap as Earnings Defy Rising Costs",
-   "source": "Investing.com",
-   "time": "2026-11-20T17:09:50Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDl5MG5SRDNfVU9WWlMycWI1eW1fWW1nenkxMzZ6X20wT0hXZGpqWkdvQm1haU04Ri1jNC1uc3pQYlNwb04teHItOU42M1hXc2tmemozNmdoVXhTLXdNWXRnSHM3Qm5CTWk0bjk2cXdMbWR4SHpKd1g2NVE1M1k3WlNlSWtjcE5LaGx6UXJ6MHZKV2dmd0U4N1pVSlpUM1ZaYWhtZjNJenpNMTA1bm9OM1NHOVlodnZj?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "DOJ Calls Alaska Senate Ballot Suit Moot, Urges No Sanctions",
-   "source": "Bloomberg Law News",
-   "time": "2026-11-20T17:07:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFdRSk1tSmxCaTVuNllhU1loemxISzluZmNiejA3ZTIxVVU0OVFob19xRExZeGVtQlhRRmlKb3lvZWJmTzcxMVNJcGpmTnlIbGdoY2dEaHhaV3paVC1DTHMxelZYYmM4TF82WEJvTklUa0FINE9GTm9vaVpUTFAyeUt2ZW9kRXpvUmxMMUMxS1pXZWJ1VXYweFhUTzhTM3ctOEpn?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Watch Donald Trump's Tariffs Can't Kill Globalization",
-   "source": "Bloomberg.com",
-   "time": "2026-11-20T17:06:32Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHM5UVlLSktxdV9iOGtHVm5ITTJ3UVRRaXROZGxPNllPNURmRTBRMkFJbEx5MXNkY0M2dWd2Unh5ZWxSRTF1ZUR1OG12QzYtT01iR2l2VmhFeU01NzA2d3ZnUi1Edi02SWFMSlNfZkU3VTBNOFlIaXlPaW80R1hINXhya1Q2SGV3NWw0amFWZmRuTVI0bkwtb0g0LVUyc3hCUTdnVQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-   "source": "BBC",
-   "time": "2026-11-20T16:54:29Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Melania Trump details Ukraine ceasefire efforts and shares insights on her personal life in exclusive FOX Business interview",
-   "source": "Fox Business",
-   "time": "2026-11-20T16:45:52Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XWTNxMk1wbGNmSU5KZmlqRE9Fc081REt1VmFlVG5FN1FWWDBJYzhlR2lBdnFpTXhybExPUUJVODlZX2V4NkFEZ0dDa3oxS1VrMXRzd3lCbjQ3a1U?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
