@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T08:41:55Z",
+ "generatedAt": "2026-11-20T09:10:22Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -21,7 +21,7 @@
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 3
+   "kept": 1
   },
   "bea": {
    "http": 200,
@@ -67,7 +67,7 @@
   "bbc_world": {
    "http": 200,
    "items": 36,
-   "kept": 9
+   "kept": 10
   },
   "aljazeera": {
    "http": 200,
@@ -86,7 +86,7 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 26,
+   "items": 27,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 29,
+   "items": 30,
    "kept": 12
   },
   "gn_sanctions": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,53 @@
   }
  },
  "items": [
+  {
+   "title": "Three Kyiv bridges hit during major Russian missile attack",
+   "source": "BBC",
+   "time": "2026-11-20T09:01:06Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Riyadh’s tallest skyscraper struck by Houthi missile attack",
+   "source": "NBC News",
+   "time": "2026-11-20T08:58:54Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMjZtckI1VXpnLVVRQy1Kc3ZNTDVWT1psQWFlcGMwaUoydEtSSElOdERvN0pUUUluYU5zVXB5NWVudDhSVlRfNWNXMU9DMWJoWlllYXI2MmQ5OWVIZVBCZUtKT1c0RkZEOE44UlRZamhGTU1ZWmYwUUluaFpJYURIYUJ4Uy1lOU9WZHQxUkRObFkzUTIybDdCLXlGQVJzci1ISnUyVA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Thailand expects US tariff rate in line with neighbours",
+   "source": "marketscreener.com",
+   "time": "2026-11-20T08:56:55Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0RzcjJiTWRrUUNBVTllQk43VjB6b3A1a2Q2Y1BwUEt1Umk3V3FudUNTRVI4aUhMblN3d0x3bDR3U0kzclVkSkJvc0ZITXNyT2o3ZS1TWEhFLTNXUGxuOW1HTHExUkhUUDRxNEtWV21GaGlMQ05FSWxhQlZoTVQ4TGREZzdDTXNtSXJnZGpHVFVreTVpczM0ZUFWZWlGWGFNTU5vbDNSYXhIS2lT?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Israel boosts David's Sling capabilities to withstand weeks of missile attacks",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-20T08:50:47Z",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hc1luX2VwM0o0Ym4zR2xOSEZsWDltaVhjSWhuM1ZiX2xWdUNHamxMUS1RX19FeXVXWHFuMy02QjMxYVFQYWtKV0cxd2ZLS05TbnJDc09WeW81aUFxREZXeC12WQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold, Silver slide to 14-month lows as Dollar, Fed fears bite",
+   "source": "TradingView",
+   "time": "2026-11-20T08:41:37Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUWp3UVEzWG9zN1lkRXAtenJDM1NoOEdrYUV5b1NGczF3T3JsVHFWZ2xxX3JnTmMtTUdPWWRQVzJneVNrR2gtcW02Z1RVVVYzUXh1V3JLaHBqMDVHWXZSUHBZOWFlTWpDRC1fdDJwdHM4bVBEMDJrbWNFM05wMldXdXhkemxZT09EdVZTVHNXeFpsS2ZEREhSbEFVQUg0TXhYVC1pdVdjUWRLbWdyMjJzd05TdzN1a1E?oc=5",
+   "tags": [
+    "FED",
+    "USD",
+    "GOLD"
+   ]
+  },
   {
    "title": "Christine Lagarde: Acting in time",
    "source": "ECB",
@@ -390,6 +437,15 @@
    ]
   },
   {
+   "title": "Legacy of D-Day veteran honoured with war memorial",
+   "source": "BBC",
+   "time": "2026-11-20T06:35:22Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xLWVWSVFJQWJEeTE3ZVpxUFdLWTR6TFprY3dneVJFY3doa3k1SnUyOTBHc0ZsdEhvbWRYbk1YRVNla1YwQjFxNXJnaEdSSFNzcEhfRW5MUHVhUzA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "AI Stocks Resume Their Slide",
    "source": "WSJ",
    "time": "2026-11-20T06:30:29Z",
@@ -625,61 +681,6 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNDV6VHQ1MWs4VjZuUTFGbFNmVkRXRVhCYXRrX0Jxa1pFYzE2eUtpaGpoSzZJcThZVUZMSXZockZORkNFOTQwb1Zvbmw5dkpGRHRuS1hSYThGNmczV0djRlFlQV9BQzBTNENSQ3QtYXdPdTFIZ2FFcjRQc2pUNEpzMkUtaHhSVWZhTmFUaWhYd2pUZU5pcldqb29WUjdHRmdzclBGRVkyRVA0TWpwTGJQem00ZkpyblJQS0ZYTHBpWnc4UU40dFk5WkpjaF82d25R?oc=5",
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "title": "Senate Passes Bill to Ban Bets on War, Death, Assassinations",
-   "source": "Bloomberg Law News",
-   "time": "2026-11-20T03:05:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYXZaa1lrTEotbmp0cnRBVlhSQUFSbVdBek4wU0Y1ZDY2czdzbGxZcGc1Uk9rUG1weWxuQkNWOXpUcjloZjNDU1lBRUFibFBHWFROemFPa1cxb3JsaUlsSXRtZ2NnQmxRVmpmYldudC1jTUJCdHU2alc5bVRydjZTNXptRXBadTNnbUdqanVoNkVZdzlRVjJhQ242TVlYQ0dCMHo0RWhB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Price Forecast: XAU/USD in a freefall - is a bottom in sight?",
-   "source": "FXStreet",
-   "time": "2026-11-20T03:04:43Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWEptRXhqV2tPNVFzbXFFN0t4d0xYaFBmaU1EaHdoLTlXSUNSdEJQdlZUUVpPNmtyV2t1MV9ZUEcwSTR4YWs4X2QyYWhiR0JlRlRkUEVnODFZajRyU3F6VlpFREwwOXItYmlwaTRpTmt4V0VqenRkRVUwZzczOHpkZVJxM3JFeXBLc3NPTEpHNF9JbHhVUUYzRVpLSnNMaDd0bDJjRW1Xb04tSk1Ld0E?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Czech PM Babiš tours Israel’s Arrow missile defense unit, Czech defense minister meets Katz",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-20T02:49:51Z",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0weGxjSnpPTkR1NXVzc0NwdlkwQkVRazQ0dmM1Wm9ZTlpDUnBvdlNmcElDUDk4YXFOcnlOTnJwRmZiUlFFbDlWdWlvUVVMT3RUb0FUcjRJVWpBWWVz?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump tells skeptical Europeans: \"Putin wants to end the war\"",
-   "source": "Axios",
-   "time": "2026-11-20T02:49:40Z",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jMUkxbVpvaGRUZmdQb2lzVDhjTm1ScTB3R09DeW0wOWwzeWFVdjV1NENnLTJ2NVFhQ3g3YlVvMG1XQU04Skp3c3JvbWRIaEtPT3hrSEgtTG1ueGVRcktMdlB0ZERjeXo2YXBFMFpYOEFLTU4xaFcw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine",
-   "source": "AP News",
-   "time": "2026-11-20T02:49:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEt0ZktCOUozOEtFTk1MODdLN3J2bXRkRUhxbEdseHJWVUdBd1FsTlozdFc3RVAzZnA0TE1TRUt0YV9yXzBZYm5kbE1yeGpmOTNKVUFVREdoeVJ5TThzT1pROW1WX2VlbG9tOUtsVVdWYWNQZEY5WThXTUxEQWg4a3NEeUdGcThVSXUwX251ZmNoMEtPd0NKN0lsYUxwcXIyOFJaMy1Ucw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump says Putin wants peace in Ukraine even as Putin vows to fight",
-   "source": "The Washington Post",
-   "time": "2026-11-20T02:15:39Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOTFVbkFhdmgzdWpnTFowc0ZpY2FYTWFJTkpMT0NPY2oxdXdMMkVzTXVJelFoTHZWWjZZbUxzVlVqMVNLX0h1Y2pMR3ZkNnlzZFdza3pvdVNYNXdodnVDRExvSEx2UG02YzM4eUt6d2FOTm1lVmx6MWpQSHV1VzRxdW11VGUwdEZ3SzFaY1RrbkZUU3g5YWNfNnBrS0I4Y1l5NURvWDhyb3JyT1E?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
