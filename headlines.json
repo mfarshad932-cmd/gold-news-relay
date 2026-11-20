@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T13:53:59Z",
+ "generatedAt": "2026-11-20T14:22:20Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 4
+   "kept": 3
   },
   "marketwatch": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -81,17 +81,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 27,
+   "items": 30,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 25,
+   "items": 23,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 16,
+   "items": 17,
    "kept": 12
   },
   "gn_war": {
@@ -101,7 +101,7 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 16,
+   "items": 17,
    "kept": 12
   },
   "gn_yields": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,24 @@
   }
  },
  "items": [
+  {
+   "title": "When Nazis were held responsible for war crimes",
+   "source": "The Washington Post",
+   "time": "2026-11-20T14:18:30Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRTk5TXpOa1dSNzY0aHY4UThjUmdsNjFBQVlVbi1VbnlWTTgxQUozVE1JaWRoU244QVhiNVhIMVZOSWVWNDhMaHNYTUtQVDZSelRPcHQ0ek1wS3FObENNTWpidW5kb3U2UDdhenVwYjN4V1dFZ1dwY0hWTlVqTGtQblFKNjFNeTVqcE43WHk5OWdJZld0WDFB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
+   "source": "CNBC",
+   "time": "2026-11-20T14:07:24Z",
+   "link": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
   {
    "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
    "source": "BBC",
@@ -144,7 +162,17 @@
    ]
   },
   {
-   "title": "Myanmar, China object to ‘unfair’ ICJ genocide ruling",
+   "title": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
+   "source": "Bloomberg.com",
+   "time": "2026-11-20T13:48:47Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkRDQWZYNXlObXhXM0Q1TEFtSXhxV24ySVdMUnNCVWRRSnJDTkVBLWtJR1lTWEliYzRIbWhWeEFRYzUySHFObzRJajNFWW5wd2lmZ0tIeXpQaFZfdlRZaFJEUTdRVkFKUW1HNDZ1dWhXU1QzSFpIOF80MUJkSWJsdTY1ME9CRUVVYVY0SllFVFYzR0pVVER4YjVSNGp6Y2tIR0ZSRW5yS1VHSHV2OU9MU2lB?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Myanmar, China object to landmark ICJ ruling on Rohingya genocide",
    "source": "Al Jazeera",
    "time": "2026-11-20T13:41:49Z",
    "link": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss",
@@ -172,6 +200,15 @@
    ]
   },
   {
+   "title": "Poland hit by at least one Russian missile, says Polish govt",
+   "source": "Al Jazeera",
+   "time": "2026-11-20T13:33:36Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ2xmQTFfSFozN2gwUjc4em14QTNsMnRUZjgtZ0tpTmpDdTU0R3duOV9PX0NheUpiY3ZMRHlGSmRKMGp0NTdkemZkdWZfNlFDMzFOQkY2dnBwcDlSSzdlLXlGejJaNWZlcmJMdTN2ZnhnUUczQVYwUjFuOXc5MWFMcDJjNnA2QXBPaXNLZVBEaGdKYndGM3F6T0s4aThhek1JOGNWWmhGdjUyYU85cEk3ONIBtgFBVV95cUxQeTltZWM4UGlGUHI1SGlrdGRISXZSNnN3UWhXeWhieXA1UEVPUjV6Yk1HLWdtY0F2S3B0T1p6NGpZVXVrcXJVSndfd0pxTEhVZ0w0bGJhZjJTLTY3emJoNXZOVXFtRk1PY0E1d2NjdVVpaUpwQVpGX2JydDJ1UlNaZFlZNk0xQU1tSnl6QzFpVzB6akZDUlZxRDEwYnhjcW5UWWJBQUJnQTMyUWFndTAyTGtyVGNPdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Warsaw says a Russian missile crash in Poland is a provocation as Ukraine allies hold drills",
    "source": "AP News",
    "time": "2026-11-20T13:33:00Z",
@@ -188,15 +225,6 @@
    "tags": [
     "GEOPOLITICS",
     "CHINA"
-   ]
-  },
-  {
-   "title": "Poland hit by at least one Russian missile, says Polish govt",
-   "source": "Al Jazeera",
-   "time": "2026-11-20T13:29:47Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ2xmQTFfSFozN2gwUjc4em14QTNsMnRUZjgtZ0tpTmpDdTU0R3duOV9PX0NheUpiY3ZMRHlGSmRKMGp0NTdkemZkdWZfNlFDMzFOQkY2dnBwcDlSSzdlLXlGejJaNWZlcmJMdTN2ZnhnUUczQVYwUjFuOXc5MWFMcDJjNnA2QXBPaXNLZVBEaGdKYndGM3F6T0s4aThhek1JOGNWWmhGdjUyYU85cEk3ONIBtgFBVV95cUxQeTltZWM4UGlGUHI1SGlrdGRISXZSNnN3UWhXeWhieXA1UEVPUjV6Yk1HLWdtY0F2S3B0T1p6NGpZVXVrcXJVSndfd0pxTEhVZ0w0bGJhZjJTLTY3emJoNXZOVXFtRk1PY0E1d2NjdVVpaUpwQVpGX2JydDJ1UlNaZFlZNk0xQU1tSnl6QzFpVzB6akZDUlZxRDEwYnhjcW5UWWJBQUJnQTMyUWFndTAyTGtyVGNPdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -246,15 +274,6 @@
    ]
   },
   {
-   "title": "When Nazis were held responsible for war crimes",
-   "source": "The Washington Post",
-   "time": "2026-11-20T13:03:04Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRTk5TXpOa1dSNzY0aHY4UThjUmdsNjFBQVlVbi1VbnlWTTgxQUozVE1JaWRoU244QVhiNVhIMVZOSWVWNDhMaHNYTUtQVDZSelRPcHQ0ek1wS3FObENNTWpidW5kb3U2UDdhenVwYjN4V1dFZ1dwY0hWTlVqTGtQblFKNjFNeTVqcE43WHk5OWdJZld0WDFB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
    "source": "BBC",
    "time": "2026-11-20T13:01:16Z",
@@ -267,7 +286,7 @@
    "title": "Do sanctions cloud China-US-Russia pledge to boost global fuel supplies?",
    "source": "South China Morning Post",
    "time": "2026-11-20T13:00:06Z",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMUFJLTJBM0pEZUkxRTFybENEdzBTdG5zbTVHQmt5c0VNNFJXS2lJVXlEOXRldXZpZElJRlhvNzEwRDMwRmI0RXNjMzNsdUN3dlhSNkU3RG4tNUpsY2V6U0xzcC1zNHZ2UEN1SDRLaG5UMm1XbW11M0l0WjdybnBfMTZOM1dIN2RZeWVVS1BmdWNVSjFwYXlNeGhUSTJOUGRsUWpTTG5RdGgxd01ZcFNvWEt1djl5WGY1Z2pvN0pLU0p0MXhsNGRWZGQzMW5oVVE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMUFJLTJBM0pEZUkxRTFybENEdzBTdG5zbTVHQmt5c0VNNFJXS2lJVXlEOXRldXZpZElJRlhvNzEwRDMwRmI0RXNjMzNsdUN3dlhSNkU3RG4tNUpsY2V6U0xzcC1zNHZ2UEN1SDRLaG5UMm1XbW11M0l0WjdybnBfMTZOM1dIN2RZeWVVS1BmdWNVSjFwYXlNeGhUSTJOUGRsUWpTTG5RdGgxd01ZcFNvWEt1djl5WGY1Z2pvN0pLU0p0MXhsNGRWZGQzMW5oVVHSAc8BQVVfeXFMTW5NUFBxTDc1QVcxOVhaYUJTT0pIOU9BaXIycmlUVUtXUE9mOTVvUzFFWnlYdzR1QmZJQy1DanJMb2pQWFBsVkRRQmEzY0F2U2F6MkVodWJIUDUwRWU4LVo2VEdVSE54RmYxM1YyRHNPYWVpaktyblg3bnVjTTZOVGxwRDhGU3pCTVVFMVktSjk3dTRBbVp5dWR3YUpSYjYxME1IMVluUlFSZk1zWkV2LVA3NGo1UThJd2JScFhZdkVKU0lWNkJVbTNOSUV3Z1JV?oc=5",
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS",
@@ -390,6 +409,16 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wTkZBWEhyWUxyWHJPbmJIZ1pVcFZwMTkwQXduY1F5bWN0c0FfZ3o4SXJyd0FtckdncnJIbFRWcHo2bjFncDYwOGhZNERnUWRlWXNaWkVsUXBpX1E?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Dollar set for fourth weekly gain, supported by Fed tightening expectations, AI-driven haven bid",
+   "source": "Yahoo Finance",
+   "time": "2026-11-20T12:05:55Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanlZd2xrQUNoVGMwUDkzS044Z295dXNVMWtTZ29wT3lrY29rNmRnYWtjTndVcUpqeEJiNVlhelZNOVlKT2tXZm5jbEZpMTRwbzVjV2ZPODJkc1h4S1NtaEwyUDZJOFMzVDlQRkpDVzI1OG5KTENVZDVxWWRXZVpNSHRiVXdOdTdYMmFaT3h4Vy1LeDJ5MXppVlFn?oc=5",
+   "tags": [
+    "FED",
+    "USD"
    ]
   },
   {
@@ -641,33 +670,6 @@
    "source": "CNBC",
    "time": "2026-11-20T09:56:03Z",
    "link": "https://www.cnbc.com/2026/11/20/kushner-ukraine-nato-russia-trump-putin.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Dems draft a curb on Iran war cash",
-   "source": "Politico",
-   "time": "2026-11-20T09:50:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZWVsYl91NldxNy1GQ0d1X2E4WVU0bV9SSGJMelNIWHNUQ0huZ0pVSTdsNkt0MzI1OWFmTGQyRVNHMUY0SHBNcE9HZmk3amkweERUUGw0aEVyYUpJcDY0SHRKVS1xekRieDR2TVVLdF9oWFF3d1EzS1Bfa2djWEZtd2N6RXAwNzAwTXF3WG55TFNWQ1psVkxXcWx0amw2R05PdDZWQmZkcmFCOWM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold (XAUUSD) Price Forecast: Gold Slides Toward Stronger Support Zone",
-   "source": "FXEmpire",
-   "time": "2026-11-20T09:46:25Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRjRkY0lyemhhMVZfaDA5d3Jld093TGFWSmdnR2F5RWU2SlltckxtRTJseTFrXzNaLXo0b2tWMzl3X2x4RlhURnhncmtFMXlPdFp0T3d6c1dZY2R2RFdoOGdCcHRoLUtVanJuMjlpYkIwUVVEa3JDc0pIbXdCTVdFWUhDWjdidEMwd2VNTVYyRWNaQ1lBdGxfRE53VDNtbWxLam16NUlXWk04Z243V3dnWFl5dk9iOHdKRnc?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Russian missile barrage damages Kyiv bridges",
-   "source": "Financial Times",
-   "time": "2026-11-20T09:38:46Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPakxZczdFZVhaTF9WM2h1S3BmckFybXp6ZWdLN3o0R01vY1dJU00yVjBReHAyZWI5Z2pyenBTLTBRTkdlWnBmZkhPNGNWaVJ5emdJOWk0QkowY1hLbkYyS3lCTnM5ZW1GbUN6ZjAyTHpGU1g3WkExYVRZYUdyNzg4NFJ1Mnk?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
