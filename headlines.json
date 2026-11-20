@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T19:33:44Z",
+ "generatedAt": "2026-11-20T20:02:05Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 23,
+   "items": 25,
    "kept": 4
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 35,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 34,
+   "items": 27,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 15,
+   "items": 14,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 42,
+   "items": 41,
    "kept": 12
   },
   "gn_sanctions": {
@@ -126,9 +126,18 @@
  },
  "items": [
   {
+   "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
+   "source": "Al Jazeera",
+   "time": "2026-11-20T19:57:05Z",
+   "link": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "The Fed is too busy fighting inflation to rescue the stock market",
    "source": "MarketWatch",
-   "time": "2026-11-20T19:22:00Z",
+   "time": "2026-11-20T19:53:00Z",
    "link": "https://www.marketwatch.com/story/the-fed-is-too-busy-fighting-inflation-to-rescue-the-stock-market-11dda598?mod=mw_rss_topstories",
    "tags": [
     "FED",
@@ -136,12 +145,59 @@
    ]
   },
   {
+   "title": "Vance: On the Iran war, ‘my job is to support the president’",
+   "source": "Politico",
+   "time": "2026-11-20T19:49:00Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUF2YXhNMUszdGZyWG5NU2R1Rm40cnNBeTB4Z0xJd2ppdXA0SDQ2bVNJdjIyaVVRb3Y0eHpGdU1FUTZTcnlLTHdkWGplQ3VQdW9yTFlKOW5ONGFhcVA3ejBDcmYzUVJrTkVIeEZYLVg4dUF0bV91TEtaVWxlUXJqQWJEbmg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump says Putin 'clearly expressed' a desire to end Russia-Ukraine war by diplomatic means",
+   "source": "NBC News",
+   "time": "2026-11-20T19:44:17Z",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdjlTOElmbFJzU0xsLWxIOXZFMnRscy1EV054VXBZWEVvd0UxbUxkcG8xNlpSVW4yYkNwdTZ4OGp1WVczalh6NTVUM1EyUkZza2RBY0pfSmxHZEVXVjFKT1JBSHNfM1pTQmp2cVdSX3U4OVFvQnZzd2ZrdEpMMnJiZlpTX05Cb0o4dmFvbXhKYVZ2aldsOGczWnRrdzRpU05yRWtnRWNQcUJyd1NyckgzZ0RjRXBkTWxINk1iaDZTYThhTXZRZTBhcHdvVXVYVlduLVE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Fell 34% in 2008, Then Soared 166%. Is This the Buying Opportunity of a Lifetime?",
+   "source": "FXEmpire",
+   "time": "2026-11-20T19:41:48Z",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOelpxMHgtVV95R2lLdFluNXp2dUs5a1RHRGtWeTNSUjR5S2VhX19OZUticUN3TlZFV28yUXA0N19JRGk4VDZQLWF0TEs0VGVib0ZyeldHb2NYdVVDaUpqUl9YdXRGR3R0STNTWU5wRHNBTzNwempTaWxweXRwaEhkSzVrcUlIY0V3bDF2TUdTcVhRTUxub2l0NGU4V2x6cjZvd2ZLNGppb0FvRFZxNDVXeXVSMV91ay1LUXdKa3hEUWh0TUtUaXZrMS0xaDk?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold Price Crash Tests $3,500 as Fed Hike Bets Reach 97%",
+   "source": "Investing.com",
+   "time": "2026-11-20T19:26:00Z",
+   "link": "https://www.investing.com/analysis/gold-price-crash-tests-3500-as-fed-hike-bets-reach-97-200692028",
+   "tags": [
+    "FED",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Pressed on whether Iran war was worth losing midterms, Vance says his job is to support Trump's decisions",
    "source": "The Times of Israel",
-   "time": "2026-11-20T19:00:22Z",
+   "time": "2026-11-20T19:25:22Z",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUXkzdFlVdVJHXzlDamxCZDJ4cGpDMF9wNEZfQzNzR0NGaWFHeHNnTlpMeENxakpiSFhmdlp1RjM0RnFQSXVOOXVCRHpiR3FpZG5qSVRtaUVkLWVVb3NXRkllZ0NGUjlmb0FhbGF1V1cwX1ZIRXV0WU5LdFpfT00zSlhqX2VsVjNwVGZ5aHVpTnc3emxQNlVzeVpKMFNyVHlqeWQ0Z1BnRmFQVmdrOHYyaGk5eDNuSldYUnB3dmNBQU9hbEdwNTVwc3pEZHFWaTZIYk9aZWRabDlCSFFodnFsbGlCRQ?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
+   "source": "Bloomberg.com",
+   "time": "2026-11-20T19:14:40Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkRDQWZYNXlObXhXM0Q1TEFtSXhxV24ySVdMUnNCVWRRSnJDTkVBLWtJR1lTWEliYzRIbWhWeEFRYzUySHFObzRJajNFWW5wd2lmZ0tIeXpQaFZfdlRZaFJEUTdRVkFKUW1HNDZ1dWhXU1QzSFpIOF80MUJkSWJsdTY1ME9CRUVVYVY0SllFVFYzR0pVVER4YjVSNGp6Y2tIR0ZSRW5yS1VHSHV2OU9MU2lB?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
    ]
   },
   {
@@ -230,15 +286,6 @@
    "source": "The Times of Israel",
    "time": "2026-11-20T18:29:34Z",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWmw4ZU1PckRNWWExekhRS3VhSElLX0JtbE4wZVVxb3ZrVEVqQWt6U2tEWlVSTDdIaEtOOE96Znl4eEtCT0dzNEotTW55bGxlU1lnY3RHWVdFekVpTkF4dnptTENublJrMEJ2Zm1BMDRjZDc5b0dFbGJGN3gyY1I3NHYzN3FhVF9YUkxqejd5TnBjTUlFbjY3b0NOTnROWHZOekZ3NWVVaEtCcGpUQUxaM0w3RUhCRVlZTk1ObTdiTklFRlNaVGRKRTZRMHBsT05IY3ZwYjhJYkRKc2tGSjRablAxUko?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump says Putin 'clearly expressed' a desire to end Russia-Ukraine war by diplomatic means",
-   "source": "NBC News",
-   "time": "2026-11-20T18:26:03Z",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdjlTOElmbFJzU0xsLWxIOXZFMnRscy1EV054VXBZWEVvd0UxbUxkcG8xNlpSVW4yYkNwdTZ4OGp1WVczalh6NTVUM1EyUkZza2RBY0pfSmxHZEVXVjFKT1JBSHNfM1pTQmp2cVdSX3U4OVFvQnZzd2ZrdEpMMnJiZlpTX05Cb0o4dmFvbXhKYVZ2aldsOGczWnRrdzRpU05yRWtnRWNQcUJyd1NyckgzZ0RjRXBkTWxINk1iaDZTYThhTXZRZTBhcHdvVXVYVlduLVE?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -356,6 +403,15 @@
    ]
   },
   {
+   "title": "Modern Mining targets 40,000 gold ounces from e-waste",
+   "source": "Mining.com",
+   "time": "2026-11-20T17:57:39Z",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbld0N09Db01GZnNwRFoxS1ZvU1dnVHphWk5TeWNLdFN5V3NJU3NGMzNMNzV2Z0Z0SXFFb2xCX1N0VC05ZkpjTkxSd2tYZ0x6MXlVeW5SUzBpRHdIOXcwZGFVbTE0ZElrbmdRZ2dFaFVBUzFkTEtjVFFmaXNSUFJScUVn?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "France, Germany to take key ECB roles, with Spain set for presidency",
    "source": "Investing.com",
    "time": "2026-11-20T17:54:28Z",
@@ -378,15 +434,6 @@
    "source": "FXEmpire",
    "time": "2026-11-20T17:50:39Z",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHlkVV92b21POWFZanFRbHlZQVFOSktkVmx1Smltcm1OZGIyQVpVbUNJcTBGYWdFZnNWT1BkdzRqSHFLRnRrNlRDZUpLZlNVcWxoTXdDM2JBVkRaOF9aNkw1ZG92U3E4d3JTb0dZZW1rU0hJWUVzOGVTRm51YldseHkxNk5CTDVEZ0tzb1BlVExYT25QUlZibEZaVktlRU9GbXVvLVFjbENXUlcwakVXM1RwU0Z3VVZOV1hhYlZHSUN5cWoyVVlOSGNn?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Fell 34% in 2008, Then Soared 166%. Is This the Buying Opportunity of a Lifetime?",
-   "source": "FXEmpire",
-   "time": "2026-11-20T17:50:39Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOelpxMHgtVV95R2lLdFluNXp2dUs5a1RHRGtWeTNSUjR5S2VhX19OZUticUN3TlZFV28yUXA0N19JRGk4VDZQLWF0TEs0VGVib0ZyeldHb2NYdVVDaUpqUl9YdXRGR3R0STNTWU5wRHNBTzNwempTaWxweXRwaEhkSzVrcUlIY0V3bDF2TUdTcVhRTUxub2l0NGU4V2x6cjZvd2ZLNGppb0FvRFZxNDVXeXVSMV91ay1LUXdKa3hEUWh0TUtUaXZrMS0xaDk?oc=5",
    "tags": [
     "GOLD"
    ]
@@ -473,16 +520,6 @@
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUVJ5UWF2NFAyM19XYS1oa21ObnJ6VTJHNlpYTVQwLTl3RU1VeVItdW4wNmdxb21fV1pHZGJUbmN6Q19uUWkxVkhrZkZXM3kzbGFoc2FiVlp3akxRX05TaFJlMGUxYnZvZ2dKT3hWQ3BSR3M1UFo2ZndUVU83N1l2TEM4b0VSZi04S3hOR1FTY0xZNkk1TVc0VU9PWGNSN2hqTUt5NnJmb2dpSnJvWEpyeHRiMDVDdG14b1pOdW44UE4yUXhhZ3FwaFVsVTRyWnQyS1VtZmNTeXFxNUc3Y0lYdVNuNTFhNDdZTGlr?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
-   "source": "Bloomberg.com",
-   "time": "2026-11-20T17:11:22Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkRDQWZYNXlObXhXM0Q1TEFtSXhxV24ySVdMUnNCVWRRSnJDTkVBLWtJR1lTWEliYzRIbWhWeEFRYzUySHFObzRJajNFWW5wd2lmZ0tIeXpQaFZfdlRZaFJEUTdRVkFKUW1HNDZ1dWhXU1QzSFpIOF80MUJkSWJsdTY1ME9CRUVVYVY0SllFVFYzR0pVVER4YjVSNGp6Y2tIR0ZSRW5yS1VHSHV2OU9MU2lB?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
    ]
   },
   {
@@ -638,42 +675,6 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRVZVRXJNQ1h2Z3Q2VzhYNjRCSF9TRUQ1dlA5cnJHcGNVZVFtOExfS2tXSF91UGE0U3V3djRERGdPc1dSZXUxSmxoZEpvckxDVGFYQ2RmODJYd1BRcXBhNGV1QlllSGgtREFmTjg3VzVOTEpZRWlHQWFCTFlMU2RwZVpFaXVfV2lINlg1NjJfTDdNZU1GOEE?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russian missile crash in Poland likely an intentional provocation as European militaries hold drills, Polish leader says",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-20T15:27:39Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcExfYmlWeVZjek83MktkdDhnNURMMzM4VzAtNi1Nd0ZkcW40ckhkNmJ3RWxJZWV5eHdNVndwZlUxMmlDWDNvcmF0Zk1jdDFiSV9tN0hFTm1WRHFidGJkajl1Nk11YllOOUE2ZzVodnZfUWRiT0x1UE1LY21ESFNPZDhlTlp4ZkpNWjE2T3JIWHgtNTdDRVQ4QWhaS2phOV90MnZGWE5BRk5QWk83Ui1aUWxDS2JWeUdmMVHSAb8BQVVfeXFMTU80aVBGUjZQZ2I5TUJCZDRjcGdjV2UtQmZzTnpkUnBic21LOW5nZ04wMzhXVC1YdVNDZmxGdE1FQUFUUGozSDM1bnRKVlRJRldRXzNzWXRtbXlvSk5hUzNYN09qeHVqTGNMbjhFUG81T1hTaHpzSkpJSGhEclVVamQxTU1XbDJNT2pOMjJRRXhsZHowc0swUklBbXF1X0ZEWnZuUGt4TU5lYkNSLVowZmJWNWlTcnVTV3lQV2M4a2s?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Poland condemns Russian ‘provocation’ after airspace violations",
-   "source": "Al Jazeera",
-   "time": "2026-11-20T15:27:21Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWMzYzZUYVBYZnJ4RmJxME9pVkU4VGdFUE1DMDBFNm85eWVTZVRkdWY4c3hOSng3aFBsSWVMN3NJSHdoTHhNaTJUeEhIclpTa3BENHdMblJrUDFIMzczeTc1WnhONTVaMHhvcWNNUXA5Mm5KVnVnZ3Z2NlJJOHBISWk4bVQ3RndxS19zMG5rYTd0NU9tUWJzY3ZzZXd0R3NMc0RvYUt30gGrAUFVX3lxTE1CUzVHN2JzdzBqOTNZYzlnV3VTZTVvQVBCZkt1aWh3UGZ2U1FhMlczd3cxTllnM2VwLW9jcmU3NlBCbFJyR0lzUVQyTklRU0xmWUJua2pFb1ZOMEVLcHJuc2ZMS0lxaGl0LVMwblc4RG15TjBBTnB2NEh0OUlaS1FtelhiZFYtX3dGNEdCTk15UXNMUVMwU2xEMndkcndOMTM0ZXBoUmJQZ2lIaw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Forex reserves decline by $14 billion to $705 billion amid valuation effects, gold price decline",
-   "source": "TradingView",
-   "time": "2026-11-20T15:21:04Z",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS1lQeUYzeGhXVnE2VTNCcG1VWncxMWQzQUloNlRLc0Q1WkJuQ0dzTkRLbm1LODdmNEJGS1ktaUdsWjlpOXFDeV9DLXlKX2FCX2d0VGNONWNLT1EyNElLUmdvTG4xT2FDazVaRzh3ZGRseXVJZzd2dzFNTzNyYUc2eGRDdWxnbFJoR2ZheDAzZkhnX3FoQmtYbnJ5U09vb3ZhU01nbnRjX3pXRTlyN19vTWU3WTlWc0ZhcHlacmJmc2xaMUp5Wm0waEV1RGtuMlV5MGF3Xzd2eF9uMUd6NHUtLVhYcl8?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
-   "source": "CNBC",
-   "time": "2026-11-20T15:20:54Z",
-   "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
-   "tags": [
-    "FED"
    ]
   }
  ],
