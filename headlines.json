@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T13:25:39Z",
+ "generatedAt": "2026-11-20T13:53:59Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 37,
+   "items": 36,
    "kept": 9
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 27,
    "kept": 12
   },
   "gn_fed": {
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 44,
+   "items": 43,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,18 +106,18 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "gn_oil": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "fed_calendar": {
    "http": 200,
@@ -126,12 +126,105 @@
  },
  "items": [
   {
+   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+   "source": "BBC",
+   "time": "2026-11-20T13:52:04Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russian missile’s crash in Poland was likely an intentional provocation, Polish prime minister says",
+   "source": "The Washington Post",
+   "time": "2026-11-20T13:49:56Z",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOakV1YkwxcEtpUlVDNWo5LWZ1VmRFT2FkX21sNU9tVkFmbmlHb0kzZzdlSnNrQ1ZaejRmams2S01yci1tTUpxdDVhUUY3Smx5OV9VdDREWFR3MDF0Y09aWmc4Qk9mdnc0Mi1XcDZzTFk5Mm9mRlYtNVU5Yko3YmxyaHRpdUFOdlpvSGJ2VTRVUFpxSWp6NTZORmRYWGRsbXlwd0pQUFlfRkpTbGd6Vi0zWlVCMlJIeEh3bEFjMEswYlI2elZVY0F0bw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Myanmar, China object to ‘unfair’ ICJ genocide ruling",
+   "source": "Al Jazeera",
+   "time": "2026-11-20T13:41:49Z",
+   "link": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
+   "source": "The New York Times",
+   "time": "2026-11-20T13:36:03Z",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mSGhHcWttY0cxZTVGa3VBcDFzX2NqeVNpaTBLcmxqaEY1MHZGV0lEalNLWFhHYUlUSE5iSWVIaGdFczFHNTBvaGl6WUJvMUFDcGdaZGVuMnlZQWVXdHhmM0NWS2hlWGdteHBQTGRvdm4telhFYUxCYlZNYlNDZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "TSX futures slip as lower oil, gold prices weigh; retail sales data eyed",
+   "source": "Kitco",
+   "time": "2026-11-20T13:34:08Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbWtVZ3ZCNFl6M2Qyd2h4bUNlVkw0akd5RFZUWjVPTEZ4b09MNnV6dlBCTHVqU3JRaUZBT1d0dC1NTm9sQ2RyS1VGakJlOThaWDBhM0xvZHl1Mm92d2ptOWtSTmFzQzJLQTdJY2RaWW5CcG81cGYzLXlROVhyNWM5NWtLT1RjU3FlOVhTbVRjRFRTM1BIZ2hvZzEwN1RRUXR4b1RVeDRyZkpjUDBQNE14X042Skl0Vi1kNkE?oc=5",
+   "tags": [
+    "OIL",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Warsaw says a Russian missile crash in Poland is a provocation as Ukraine allies hold drills",
+   "source": "AP News",
+   "time": "2026-11-20T13:33:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+   "source": "CNBC",
+   "time": "2026-11-20T13:29:50Z",
+   "link": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+   "tags": [
+    "GEOPOLITICS",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Poland hit by at least one Russian missile, says Polish govt",
+   "source": "Al Jazeera",
+   "time": "2026-11-20T13:29:47Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ2xmQTFfSFozN2gwUjc4em14QTNsMnRUZjgtZ0tpTmpDdTU0R3duOV9PX0NheUpiY3ZMRHlGSmRKMGp0NTdkemZkdWZfNlFDMzFOQkY2dnBwcDlSSzdlLXlGejJaNWZlcmJMdTN2ZnhnUUczQVYwUjFuOXc5MWFMcDJjNnA2QXBPaXNLZVBEaGdKYndGM3F6T0s4aThhek1JOGNWWmhGdjUyYU85cEk3ONIBtgFBVV95cUxQeTltZWM4UGlGUHI1SGlrdGRISXZSNnN3UWhXeWhieXA1UEVPUjV6Yk1HLWdtY0F2S3B0T1p6NGpZVXVrcXJVSndfd0pxTEhVZ0w0bGJhZjJTLTY3emJoNXZOVXFtRk1PY0E1d2NjdVVpaUpwQVpGX2JydDJ1UlNaZFlZNk0xQU1tSnl6QzFpVzB6akZDUlZxRDEwYnhjcW5UWWJBQUJnQTMyUWFndTAyTGtyVGNPdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
+   "source": "Al Jazeera",
+   "time": "2026-11-20T13:27:05Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUpfdWFVN1RtcXA2YUJqWXhOUGRsdnY3VGR1SnJBX20zUExFTnA5c3RYVWhudXktd1RmQm95c2dpUE04QXdiU2dIb3YxakQzeVctc1c5cDZRZlZWLThzSmFQVnZXelBjaF9BZU1tZUJScGdXWGZXdS05aHFoZHdBbzhMZVpncDgyeTFvUm1NRWxoYkRONHhjVVJ5NjZIeEZuZHFtREVtSHVuTllranJBY9IBtgFBVV95cUxQUDQwdHJ3VzRYcEZhNjNkdGM2X1VtRy10R1RRVmR1NEt1dFU5bzRvZGJiZXo5bjVENmdjUlgzLTJyVm1ZdUdORF82d0hSRTVvcURLeTA1UGJiUFRrbFJUWmliOUNzRXdCb3hpNDNvMm1RWF82ZWg1LW5WeFZVbzlGQm4zRmp1UWJWQzZFNzNVS2haaGpnQWsteXNqTHRaQ1ZLNGRXMWh5WUhVOVNPQzV1RnNyaTJ2Zw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Waller, Opening Remarks",
    "source": "Federal Reserve",
    "time": "2026-11-20T13:25:00Z",
    "link": "https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm",
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "title": "Oil Prices Slide Despite Rising Tanker Attacks in the Strait of Hormuz",
+   "source": "Investing.com",
+   "time": "2026-11-20T13:23:00Z",
+   "link": "https://www.investing.com/analysis/iran-steps-up-hormuz-tanker-attacks-as-oil-prices-slide-200692005",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -144,13 +237,12 @@
    ]
   },
   {
-   "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
-   "source": "CNBC",
-   "time": "2026-11-20T13:16:47Z",
-   "link": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+   "title": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group",
+   "source": "Al Jazeera",
+   "time": "2026-11-20T13:17:00Z",
+   "link": "https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group?traffic_source=rss",
    "tags": [
-    "GEOPOLITICS",
-    "CHINA"
+    "GEOPOLITICS"
    ]
   },
   {
@@ -175,20 +267,11 @@
    "title": "Do sanctions cloud China-US-Russia pledge to boost global fuel supplies?",
    "source": "South China Morning Post",
    "time": "2026-11-20T13:00:06Z",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMUFJLTJBM0pEZUkxRTFybENEdzBTdG5zbTVHQmt5c0VNNFJXS2lJVXlEOXRldXZpZElJRlhvNzEwRDMwRmI0RXNjMzNsdUN3dlhSNkU3RG4tNUpsY2V6U0xzcC1zNHZ2UEN1SDRLaG5UMm1XbW11M0l0WjdybnBfMTZOM1dIN2RZeWVVS1BmdWNVSjFwYXlNeGhUSTJOUGRsUWpTTG5RdGgxd01ZcFNvWEt1djl5WGY1Z2pvN0pLU0p0MXhsNGRWZGQzMW5oVVHSAc8BQVVfeXFMTW5NUFBxTDc1QVcxOVhaYUJTT0pIOU9BaXIycmlUVUtXUE9mOTVvUzFFWnlYdzR1QmZJQy1DanJMb2pQWFBsVkRRQmEzY0F2U2F6MkVodWJIUDUwRWU4LVo2VEdVSE54RmYxM1YyRHNPYWVpaktyblg3bnVjTTZOVGxwRDhGU3pCTVVFMVktSjk3dTRBbVp5dWR3YUpSYjYxME1IMVluUlFSZk1zWkV2LVA3NGo1UThJd2JScFhZdkVKU0lWNkJVbTNOSUV3Z1JV?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMUFJLTJBM0pEZUkxRTFybENEdzBTdG5zbTVHQmt5c0VNNFJXS2lJVXlEOXRldXZpZElJRlhvNzEwRDMwRmI0RXNjMzNsdUN3dlhSNkU3RG4tNUpsY2V6U0xzcC1zNHZ2UEN1SDRLaG5UMm1XbW11M0l0WjdybnBfMTZOM1dIN2RZeWVVS1BmdWNVSjFwYXlNeGhUSTJOUGRsUWpTTG5RdGgxd01ZcFNvWEt1djl5WGY1Z2pvN0pLU0p0MXhsNGRWZGQzMW5oVVE?oc=5",
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS",
     "CHINA"
-   ]
-  },
-  {
-   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-   "source": "BBC",
-   "time": "2026-11-20T12:56:48Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -270,24 +353,6 @@
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQazNVcFduX0dkSEo5V2JTb21HUmNteWlGSGJ6cEZubTFFVko2ZEJNWEQxVmtCd0FZb01aZlV1WExWVWl0ekE4MmhBRzFKSkJnRk1uek5mVk9wb1BKckRma1ZXMVg2T3ZrNzg4SzYwa1hxR083WjJ1bDJQQXdqYURUMDNQeVZ3UkRiZkZndTl0ODU3QXViUFlXSUlVUVAyNUhadEp2LUZiNXlXX0xFYkNQTDZzdkhzZDZxSVlVRlNlTzBYcjBpVVhXWk9vN0NVQ0JfTVVmUjBMWnFlNXc2REtKc2xfYVRLWXZjMDd0bQ?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Russian missile’s crash in Poland was likely an intentional provocation, Polish prime minister says",
-   "source": "The Washington Post",
-   "time": "2026-11-20T12:19:56Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOakV1YkwxcEtpUlVDNWo5LWZ1VmRFT2FkX21sNU9tVkFmbmlHb0kzZzdlSnNrQ1ZaejRmams2S01yci1tTUpxdDVhUUY3Smx5OV9VdDREWFR3MDF0Y09aWmc4Qk9mdnc0Mi1XcDZzTFk5Mm9mRlYtNVU5Yko3YmxyaHRpdUFOdlpvSGJ2VTRVUFpxSWp6NTZORmRYWGRsbXlwd0pQUFlfRkpTbGd6Vi0zWlVCMlJIeEh3bEFjMEswYlI2elZVY0F0bw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
-   "source": "Al Jazeera",
-   "time": "2026-11-20T12:19:24Z",
-   "link": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -386,15 +451,6 @@
    "source": "The Guardian",
    "time": "2026-11-20T11:57:00Z",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTnJVU3dVVnVRWVpPaU1HVHN6XzRhNno4MEhZWXR4ako3T1p2WmFsanpxOUhMOFFvSGU1Vk9KY1FwRUE5M3dDbXJzMDJsSEhSRl92UjNSQUY1TXlTMGY5cmJfQnZpUzdYMTR4eW9ObDNVejdPQnRmSzB3ZkRyQkFGQm0yZlNZUkJ1WFc4OGxPaTdESFdtek1OLTVwVXJGekNsaktILXhpVVhfSXlydjBpM01takVseFRGY0QzT2VJcw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russia bombards Ukraine, killing at least 8 after Putin vowed retaliation for Kerch Bridge attack",
-   "source": "AP News",
-   "time": "2026-11-20T11:54:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -562,15 +618,6 @@
    ]
   },
   {
-   "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
-   "source": "The New York Times",
-   "time": "2026-11-20T10:00:26Z",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mSGhHcWttY0cxZTVGa3VBcDFzX2NqeVNpaTBLcmxqaEY1MHZGV0lEalNLWFhHYUlUSE5iSWVIaGdFczFHNTBvaGl6WUJvMUFDcGdaZGVuMnlZQWVXdHhmM0NWS2hlWGdteHBQTGRvdm4telhFYUxCYlZNYlNDZw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "A ‘Shock’ Rate Hike by the Fed? In This Economy?",
    "source": "Bloomberg.com",
    "time": "2026-11-20T10:00:02Z",
@@ -621,50 +668,6 @@
    "source": "Financial Times",
    "time": "2026-11-20T09:38:46Z",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPakxZczdFZVhaTF9WM2h1S3BmckFybXp6ZWdLN3o0R01vY1dJU00yVjBReHAyZWI5Z2pyenBTLTBRTkdlWnBmZkhPNGNWaVJ5emdJOWk0QkowY1hLbkYyS3lCTnM5ZW1GbUN6ZjAyTHpGU1g3WkExYVRZYUdyNzg4NFJ1Mnk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Putin scores ‘massive win’ at first trilateral meeting, rebuilding standing as Ukraine war grinds on",
-   "source": "CNBC",
-   "time": "2026-11-20T09:26:45Z",
-   "link": "https://www.cnbc.com/2026/11/20/putin-xi-china-trump-russia-ukraine-.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The Fed’s intentions remain key for the markets",
-   "source": "FXStreet",
-   "time": "2026-11-20T09:23:11Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWWRSNzlfR2dWM2hXWF9xVzc4T1FCU21nVXlPQzk0ck9IakJXS21yajJIMklaUHBoOEI2YjltTzJxQWxxS2xHZUp6MHhLQzFRT1NuVHFrSFJka2Y0anZ3NjhobkJMNjRQUjlRVGd1bEMtZkVxcHdoTER5ZlFRcG5pdkZCc2hka3V0ZlpyVWc3Y181V2VuM0RmWQ?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "British Bank Backed by Kushner’s Affinity Gets U.S. License",
-   "source": "WSJ",
-   "time": "2026-11-20T09:21:07Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUHViRUJDeHV2LWVBd2sybnFMY2RUVmR6Vm9zN0Vsa3JTVWlRR1p0dTR5cXRlRTZGSW01ZTlnbGFoRVZ2V1ZEOXJLTEVZSWxMSnAzZ3YzeVZGZ05YbXZQM0l0Q2pnaHRybnp6NEsxTVJleUo0QUQ1MlNkUXpnMXJqWHFqNzd2ZWstdmdCY2w3M2piNXpFelY0bmx5QWFhVzd3RkFqTTBoR041Q0xULWZHOTJwNVNzaU9wRmJVWjVqWmlHWWhUZGc?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Pakistan minister visits India for first time since 2025 war",
-   "source": "Al Jazeera",
-   "time": "2026-11-20T09:11:57Z",
-   "link": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Riyadh’s tallest skyscraper struck by Houthi missile attack",
-   "source": "NBC News",
-   "time": "2026-11-20T08:58:54Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMjZtckI1VXpnLVVRQy1Kc3ZNTDVWT1psQWFlcGMwaUoydEtSSElOdERvN0pUUUluYU5zVXB5NWVudDhSVlRfNWNXMU9DMWJoWlllYXI2MmQ5OWVIZVBCZUtKT1c0RkZEOE44UlRZamhGTU1ZWmYwUUluaFpJYURIYUJ4Uy1lOU9WZHQxUkRObFkzUTIybDdCLXlGQVJzci1ISnUyVA?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
