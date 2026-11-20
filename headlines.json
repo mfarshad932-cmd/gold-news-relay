@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-11-20T09:10:22Z",
+ "generatedAt": "2026-11-20T09:38:42Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 2
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -72,7 +73,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 3
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -86,7 +87,7 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 27,
+   "items": 26,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,18 +97,18 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 30,
+   "items": 32,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 15,
+   "items": 16,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 9,
+   "kept": 9
   },
   "gn_oil": {
    "http": 200,
@@ -128,8 +129,33 @@
   {
    "title": "Three Kyiv bridges hit during major Russian missile attack",
    "source": "BBC",
-   "time": "2026-11-20T09:01:06Z",
+   "time": "2026-11-20T09:31:24Z",
    "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Putin scores ‘massive win’ at first trilateral meeting, rebuilding standing as Ukraine war grinds on",
+   "source": "CNBC",
+   "time": "2026-11-20T09:26:45Z",
+   "link": "https://www.cnbc.com/2026/11/20/putin-xi-china-trump-russia-ukraine-.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "British Bank Backed by Kushner’s Affinity Gets U.S. License",
+   "source": "WSJ",
+   "time": "2026-11-20T09:18:00Z",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUHViRUJDeHV2LWVBd2sybnFMY2RUVmR6Vm9zN0Vsa3JTVWlRR1p0dTR5cXRlRTZGSW01ZTlnbGFoRVZ2V1ZEOXJLTEVZSWxMSnAzZ3YzeVZGZ05YbXZQM0l0Q2pnaHRybnp6NEsxTVJleUo0QUQ1MlNkUXpnMXJqWHFqNzd2ZWstdmdCY2w3M2piNXpFelY0bmx5QWFhVzd3RkFqTTBoR041Q0xULWZHOTJwNVNzaU9wRmJVWjVqWmlHWWhUZGc?oc=5",
+   "tags": []
+  },
+  {
+   "title": "Pakistan minister visits India for first time since 2025 war",
+   "source": "Al Jazeera",
+   "time": "2026-11-20T09:11:57Z",
+   "link": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -150,6 +176,15 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0RzcjJiTWRrUUNBVTllQk43VjB6b3A1a2Q2Y1BwUEt1Umk3V3FudUNTRVI4aUhMblN3d0x3bDR3U0kzclVkSkJvc0ZITXNyT2o3ZS1TWEhFLTNXUGxuOW1HTHExUkhUUDRxNEtWV21GaGlMQ05FSWxhQlZoTVQ4TGREZzdDTXNtSXJnZGpHVFVreTVpczM0ZUFWZWlGWGFNTU5vbDNSYXhIS2lT?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Russia’s day-long attack on Kyiv damages embassies",
+   "source": "Al Jazeera",
+   "time": "2026-11-20T08:56:08Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -229,21 +264,21 @@
    ]
   },
   {
-   "title": "OakNorth Secures U.S. Federal Reserve Clearance to Buy Community Unity Bank",
-   "source": "WSJ",
-   "time": "2026-11-20T07:51:42Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUHViRUJDeHV2LWVBd2sybnFMY2RUVmR6Vm9zN0Vsa3JTVWlRR1p0dTR5cXRlRTZGSW01ZTlnbGFoRVZ2V1ZEOXJLTEVZSWxMSnAzZ3YzeVZGZ05YbXZQM0l0Q2pnaHRybnp6NEsxTVJleUo0QUQ1MlNkUXpnMXJqWHFqNzd2ZWstdmdCY2w3M2piNXpFelY0bmx5QWFhVzd3RkFqTTBoR041Q0xULWZHOTJwNVNzaU9wRmJVWjVqWmlHWWhUZGc?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "title": "New Found Gold: Production Begins, As Gold Forecasts Remain Positive (NYSE:NFGC)",
    "source": "Seeking Alpha",
    "time": "2026-11-20T07:44:59Z",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeFh0QWRkV1o2RU9BWG95c3FISzhPRERhUWNON0dPY3V1NnQ2TVhZNncxVGlLcm02QmJCVkNJaE14cXB4NzlKUEU1cnROdG12TlhBakhSSHYweURNdmR0aVRYWk55YjdPakFraFl6QjVZc21ZYWx5d19CcU4zRlBUQi1rOXRNeW5JR19zV3p5UzAzdjRwbGRmTHdBQ0RWZlBva0JHYkpLRGkxQQ?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Hours after Trump-Putin talks, Russia hits Ukraine with massive, deadly attack",
+   "source": "CNN",
+   "time": "2026-11-20T07:40:34Z",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpV3JjbDVibllndkIzNWN4U2xkeE5rLWdqNEFMbDlERFQwQWl6OTI2bkJNSXF2bFB4NWpGUnlraEZYVGYybXFPa2hSMmh5Yk1zandSY3MxR1gwMWhnVDZNdkpYU3U2eHVvWVpMYTlGeWY3eVBoeE1DeVVYNzRmdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -644,43 +679,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZlZITjhjcVFoMXZPcV9CVEMtR3ozQmRobHlPcWZFMndRWjYwNXNUa0pEMWJFUHRnWXJlcmtXcWpyU0ZXbTFueDBUTkgtVFV3RDBzOUZneEVrOG5FQ0RzTm9ZNllNVm92QmRXMk9TN1BPc1NMeXoxdkdOblQ1b1NKWVAwWlJ5TkJfSG55a0pjTHpCS0xjLTkxTGUzd1ZCOFlQOUhRdGs0SlZSWWF1OV9zQlBhblRsR1VFaXRrWDJmdllHMVAxa3VqZ2wtSEJHV3Jnb21STWZ3Vmptd1ViZDBzUkhRZGVreU53SEtrdlJvVDZJRkJWNzRLV3dzbkc4dkFoeGo3dEs2NHA?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Saudi Arabia intercepts Houthi missile, drones over Jazan, Abha, Khamis Mushait",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-20T03:40:55Z",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wVEF5UkhIVzBqZlBhZlB4ZUFPdzk3dGdBREhtUnVybmxKb1N0NFVjS0hnc2NOaGlJTGJGeW5BSUc3aWxqYVd0WGFCMzhrdTlrc1hpZVNsd1A2Q2JO?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "China Solar Cell Exports Rise for Second Month on Tariff Rush",
-   "source": "Bloomberg.com",
-   "time": "2026-11-20T03:40:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdnhWU0tYZnFGOXIzVmpsZ3o0LVI2M0FZVXJfZU4xUllGMkZZUnlxT3dXZEc3MjlSTXI5RUE3bkI4RF9FdHNRRVlJdE8wS0VYdlJtTzVMUHlvSmZldjI3LS0ySHBfaV9KU1NrWVVKbUtOTlducjdZTFROWGZGMjFTUzIxcmRrRW9Xc1VRZ1d5MU1yNl9WNkk3dDZQOElueFY1QTI1QUZ0bUJiWkgxN2M4Tkpn?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Saudi-led coalition says it intercepted Houthi missile targeting southern region",
-   "source": "Reuters",
-   "time": "2026-11-20T03:33:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVmhCWjF6eHlrWHRIcHA1Z2p0QlM5cEtnMnFFd0hsMDdyMk51RGx2SEJpc1NkM2Z3NENIc04zNnppdVRhQkotTVJJcGF5WGJpbDBQQXF0Y0g5SkpzVzhKNkpVemRTaFJmVjA4MVFaSHlKS25JM0h3UkstLWtQdTlnWEptSnktbzlDT1UycmhSNF9yRzFPMWhkby1ubHd6S1BTYk83aExGSGpnN05LRTNWcS1wU0MwMktVOFFfWldqTVhQQ3VISGEwMVkyb0d2MEU?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "No, the Fed isn’t pumping $1.756 billion into markets on Friday morning: what that viral post gets wrong",
-   "source": "investingLive",
-   "time": "2026-11-20T03:25:21Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNDV6VHQ1MWs4VjZuUTFGbFNmVkRXRVhCYXRrX0Jxa1pFYzE2eUtpaGpoSzZJcThZVUZMSXZockZORkNFOTQwb1Zvbmw5dkpGRHRuS1hSYThGNmczV0djRlFlQV9BQzBTNENSQ3QtYXdPdTFIZ2FFcjRQc2pUNEpzMkUtaHhSVWZhTmFUaWhYd2pUZU5pcldqb29WUjdHRmdzclBGRVkyRVA0TWpwTGJQem00ZkpyblJQS0ZYTHBpWnc4UU40dFk5WkpjaF82d25R?oc=5",
-   "tags": [
-    "FED"
    ]
   }
  ],
