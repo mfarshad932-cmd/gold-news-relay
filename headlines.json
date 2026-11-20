@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T18:08:46Z",
+ "generatedAt": "2026-11-20T18:37:05Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -16,7 +16,7 @@
   "fed_speeches": {
    "http": 200,
    "items": 15,
-   "kept": 4
+   "kept": 3
   },
   "ecb_press": {
    "http": 200,
@@ -66,7 +66,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 21,
+   "items": 23,
    "kept": 4
   },
   "aljazeera": {
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 37,
+   "items": 38,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 24,
+   "items": 33,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 16,
+   "items": 15,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 38,
+   "items": 41,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 14,
+   "items": 15,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,52 @@
   }
  },
  "items": [
+  {
+   "title": "Trump says Vance rightly blamed GOP midterm losses on Iran war, even if he wouldn't have acted differently",
+   "source": "The Times of Israel",
+   "time": "2026-11-20T18:29:34Z",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWmw4ZU1PckRNWWExekhRS3VhSElLX0JtbE4wZVVxb3ZrVEVqQWt6U2tEWlVSTDdIaEtOOE96Znl4eEtCT0dzNEotTW55bGxlU1lnY3RHWVdFekVpTkF4dnptTENublJrMEJ2Zm1BMDRjZDc5b0dFbGJGN3gyY1I3NHYzN3FhVF9YUkxqejd5TnBjTUlFbjY3b0NOTnROWHZOekZ3NWVVaEtCcGpUQUxaM0w3RUhCRVlZTk1ObTdiTklFRlNaVGRKRTZRMHBsT05IY3ZwYjhJYkRKc2tGSjRablAxUko?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump says Putin 'clearly expressed' a desire to end Russia-Ukraine war by diplomatic means",
+   "source": "NBC News",
+   "time": "2026-11-20T18:26:03Z",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdjlTOElmbFJzU0xsLWxIOXZFMnRscy1EV054VXBZWEVvd0UxbUxkcG8xNlpSVW4yYkNwdTZ4OGp1WVczalh6NTVUM1EyUkZza2RBY0pfSmxHZEVXVjFKT1JBSHNfM1pTQmp2cVdSX3U4OVFvQnZzd2ZrdEpMMnJiZlpTX05Cb0o4dmFvbXhKYVZ2aldsOGczWnRrdzRpU05yRWtnRWNQcUJyd1NyckgzZ0RjRXBkTWxINk1iaDZTYThhTXZRZTBhcHdvVXVYVlduLVE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump says Putin expressed desire to end war with Ukraine",
+   "source": "NBC News",
+   "time": "2026-11-20T18:25:10Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONzlnanpEaTRMMEM5Q2UyR3R1LWNQRTN6SVFfb0ZfV1JGZFlxNzN6aXB0NXQtc25BLUZoeEF1ZHc4SWdZV205UlNBWUwtYnFmOW1yRS1pQ1JvRW9TRE9pMGdILXMtbG0xZlZWNTdScC13clVaaDhrVUxzMmZpSHZYSks4OFRLQ0dEMVdzR0RjMk5ILUNrNlFaR3RDZnZtblhCOXVWcm5EcWRmZ1E?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
+   "source": "CNBC",
+   "time": "2026-11-20T18:15:50Z",
+   "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Fed's Cook says central bank watching AI industry financing",
+   "source": "Reuters",
+   "time": "2026-11-20T18:13:43Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHI2aWRzcEgxVVM4TVNuQWFOMVpVZ2cwb19XUEo2ZlhhYjJQXzJlMXdZVFlRVFdicHlrYmoxRE9GZ1NZUFF0R09CeFZ4SV80dWh5M0YxUzFyUEVqMXJLUDBGR0Q5NEhNMkhDYWRRVHZMVWZYZ05UczcyT1hvMkdJLW5jSDZyQU9lUloza1hhQ2EzZWl1cldEaXdmUE50aWJZVGoxYmF3?oc=5",
+   "tags": [
+    "FED",
+    "CENTRAL_BANK"
+   ]
+  },
   {
    "title": "Gold’s Three Black Crows Pattern Points to $3,231 if Trump Backs Netanyahu",
    "source": "Investing.com",
@@ -168,6 +214,16 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHlkVV92b21POWFZanFRbHlZQVFOSktkVmx1Smltcm1OZGIyQVpVbUNJcTBGYWdFZnNWT1BkdzRqSHFLRnRrNlRDZUpLZlNVcWxoTXdDM2JBVkRaOF9aNkw1ZG92U3E4d3JTb0dZZW1rU0hJWUVzOGVTRm51YldseHkxNk5CTDVEZ0tzb1BlVExYT25QUlZibEZaVktlRU9GbXVvLVFjbENXUlcwakVXM1RwU0Z3VVZOV1hhYlZHSUN5cWoyVVlOSGNn?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Fed Governor Lisa Cook Says Her October Dissent Reflected Inflation Fight’s Urgency",
+   "source": "WSJ",
+   "time": "2026-11-20T17:41:00Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYnFFaTJhWE1OUWZkZzM5R3cxZmt3WEppdzUtS1JKcHdzUkxKVXZnSVJpT2V5QUREQTZBZ004VUl0QlExbW10VFpCeVpkSVE3UVBablVPbDhKcmFWcWg3V1R5U2pzbVptdHk2MDhFeVg3R1o1WktBWnMwTmotVWwzbkFZem5FakRSY0lvRDZ5TzlXTjJNcGhLaUhzbE1Qdw?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
    ]
   },
   {
@@ -245,12 +301,21 @@
    ]
   },
   {
-   "title": "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
-   "source": "CNBC",
-   "time": "2026-11-20T17:11:54Z",
-   "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+   "title": "Russian missile's crash in Poland was likely an intentional provocation, Polish prime minister says",
+   "source": "AP News",
+   "time": "2026-11-20T17:14:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUVJ5UWF2NFAyM19XYS1oa21ObnJ6VTJHNlpYTVQwLTl3RU1VeVItdW4wNmdxb21fV1pHZGJUbmN6Q19uUWkxVkhrZkZXM3kzbGFoc2FiVlp3akxRX05TaFJlMGUxYnZvZ2dKT3hWQ3BSR3M1UFo2ZndUVU83N1l2TEM4b0VSZi04S3hOR1FTY0xZNkk1TVc0VU9PWGNSN2hqTUt5NnJmb2dpSnJvWEpyeHRiMDVDdG14b1pOdW44UE4yUXhhZ3FwaFVsVTRyWnQyS1VtZmNTeXFxNUc3Y0lYdVNuNTFhNDdZTGlr?oc=5",
    "tags": [
-    "CHINA"
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Mining Stocks Look Historically Cheap as Earnings Defy Rising Costs",
+   "source": "Investing.com",
+   "time": "2026-11-20T17:09:50Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDl5MG5SRDNfVU9WWlMycWI1eW1fWW1nenkxMzZ6X20wT0hXZGpqWkdvQm1haU04Ri1jNC1uc3pQYlNwb04teHItOU42M1hXc2tmemozNmdoVXhTLXdNWXRnSHM3Qm5CTWk0bjk2cXdMbWR4SHpKd1g2NVE1M1k3WlNlSWtjcE5LaGx6UXJ6MHZKV2dmd0U4N1pVSlpUM1ZaYWhtZjNJenpNMTA1bm9OM1NHOVlodnZj?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -269,15 +334,6 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHM5UVlLSktxdV9iOGtHVm5ITTJ3UVRRaXROZGxPNllPNURmRTBRMkFJbEx5MXNkY0M2dWd2Unh5ZWxSRTF1ZUR1OG12QzYtT01iR2l2VmhFeU01NzA2d3ZnUi1Edi02SWFMSlNfZkU3VTBNOFlIaXlPaW80R1hINXhya1Q2SGV3NWw0amFWZmRuTVI0bkwtb0g0LVUyc3hCUTdnVQ?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold Mining Stocks Look Historically Cheap as Earnings Defy Rising Costs",
-   "source": "Investing.com",
-   "time": "2026-11-20T17:06:00Z",
-   "link": "https://www.investing.com/analysis/gold-mining-stocks-look-historically-cheap-as-earnings-defy-rising-costs-200692021",
-   "tags": [
-    "GOLD"
    ]
   },
   {
@@ -414,6 +470,16 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUFSTWdxSVdBMEtrN1RpU2F0eTZuOTVQV0lSQ1hsWERjY25VLWV2d1hlZHluaWZOeklXRWhaN3NrSmMtWjhFY2VKU0lWbU9FWndENldZU0owa1BaQ3N2eWN4WE9xOXhkNjlLMmxxb3AycE5sRHZqVnpXLTFnN1daRGh3MDh2cFR1RVBYLTNoMXdMbTZWSURtQQ?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "The US dollar moves higher as Treasury yields extend their gains",
+   "source": "investingLive",
+   "time": "2026-11-20T15:38:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVZRdFczUjZoVzBlWjdJcngwRUNpM1VNcENKVTNTQlBnVVdiWGZrTzBHZFhvT0VyODNzUFN0dW51c1ZWQmM3SmUzUDc1b1MwWXhKQkRTRUpMNE1tTFYzYWExdW02TTJ0dnpUVnlHV2lrd0Y4bGppSlRzMGJxcGFzUmpoSWkyVl9fX2ZPM0Q2d0ZBd1Y5V2VHdGRObWFyZFh6QW5scDVPRWZTNVdMZWsw?oc=5",
+   "tags": [
+    "USD",
+    "YIELDS"
    ]
   },
   {
@@ -609,70 +675,6 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeDBRU3NCaDIwZ1F0dXhCMEhxU3kxekRJWDVGenNBOTZMN2UzUUh1SDR2RkVTczd3WXYxdDhrcTRSRThhRndmOHkzRC13eFd1NWg0eUIycjJXUlJab2xnZjB1ZWVQMEt4eWQtS0syMVc5SmlMZDcyMC1LcnZrRGZ2TTZ0UGtaaTdwdkFrTHN6TDVoNXVjVVJBd0lfVnp3Yk1QQkNzdncxa195OEZKQk1YcEtXUQ?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Range Resources (RRC) Stock May Be 46% Undervalued On Iran War Risk",
-   "source": "Yahoo Finance",
-   "time": "2026-11-20T14:12:28Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1RGUTdsd2E1cl8ydkpZcDhURTE4N2MtZUhFUnhGT0hiRnJGM1VrZFpBRlRZeDdsSkdpWHJKcEpiQWxKaEo2NlRPek5nZVVqZ2V4N0Z2ZXlLQmNEb3VUOUNBVkJqMWthS0g2dmdIcEIxY1RXX0RqTmphZjNTOVdhbU1LR2dkeVAwdVVZcEFaYVVHVDFBcUM5N2p3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
-   "source": "CNBC",
-   "time": "2026-11-20T14:07:24Z",
-   "link": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Greer says US-China trade truce extension hinges on rare earths",
-   "source": "ForexLive",
-   "time": "2026-11-20T14:06:16Z",
-   "link": "https://investinglive.com/news/greer-says-us-china-trade-truce-extension-hinges-on-rare-earths/",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Titan, Muthoot Finance Face Gold Price Correction Risks",
-   "source": "TradingView",
-   "time": "2026-11-20T14:01:38Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLVFudHJjejhnMDVfZFd0b1ZvZks1ZHFLUDVuU18xX0Z0aC1mZENNZDdMN1FELWZMbkpkTHgwdERIWDB4c2lzbjJpeGhlam9JNjVWcWlLU0RXdW50LW1RRzZxMXlfd1BYU3ViVHRvblR4eWV1d2U3bHU2bGVTVVktNVdTOU1LTWdzdDBqR1BHS0o3cHBYTC0wbjZTeENjVng3STVTN1lPenN3Y25yYjVTVA?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Russian missile’s crash in Poland was likely an intentional provocation, Polish prime minister says",
-   "source": "The Washington Post",
-   "time": "2026-11-20T13:49:56Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOakV1YkwxcEtpUlVDNWo5LWZ1VmRFT2FkX21sNU9tVkFmbmlHb0kzZzdlSnNrQ1ZaejRmams2S01yci1tTUpxdDVhUUY3Smx5OV9VdDREWFR3MDF0Y09aWmc4Qk9mdnc0Mi1XcDZzTFk5Mm9mRlYtNVU5Yko3YmxyaHRpdUFOdlpvSGJ2VTRVUFpxSWp6NTZORmRYWGRsbXlwd0pQUFlfRkpTbGd6Vi0zWlVCMlJIeEh3bEFjMEswYlI2elZVY0F0bw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
-   "source": "Bloomberg.com",
-   "time": "2026-11-20T13:48:47Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkRDQWZYNXlObXhXM0Q1TEFtSXhxV24ySVdMUnNCVWRRSnJDTkVBLWtJR1lTWEliYzRIbWhWeEFRYzUySHFObzRJajNFWW5wd2lmZ0tIeXpQaFZfdlRZaFJEUTdRVkFKUW1HNDZ1dWhXU1QzSFpIOF80MUJkSWJsdTY1ME9CRUVVYVY0SllFVFYzR0pVVER4YjVSNGp6Y2tIR0ZSRW5yS1VHSHV2OU9MU2lB?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Hero Marine in Iconic Iraq War Photo Under Federal Investigation",
-   "source": "Newsweek",
-   "time": "2026-11-20T13:45:00Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSG92eTc1bU53TFp2MXE3bkU1YjlnUXRCNE5BUGp5ajRfbGVkUmg1UC00VFY5QXhySmpmeFBLUnN4b0VHajhLeUU2UGQzdDVYUng3SUQzOElENzY3VVB6MlNhWlA1bDcySnM2cVd4UjNVVWJsNXVwNEpOYUxKZ3k1b0QyOUhaMGVEeC1IYk9mVzlGdmEzQ3lxbWswWk42dzQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
