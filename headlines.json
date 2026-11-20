@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T19:05:25Z",
+ "generatedAt": "2026-11-20T19:33:44Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,12 +52,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -81,50 +81,60 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 36,
+   "items": 34,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 25,
+   "items": 34,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
+   "items": 15,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 47,
+   "items": 42,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_yields": {
    "http": 200,
-   "items": 14,
+   "items": 16,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 10,
+   "kept": 10
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "fed_calendar": {
    "http": 200,
-   "items": 5
+   "items": 4
   }
  },
  "items": [
+  {
+   "title": "The Fed is too busy fighting inflation to rescue the stock market",
+   "source": "MarketWatch",
+   "time": "2026-11-20T19:22:00Z",
+   "link": "https://www.marketwatch.com/story/the-fed-is-too-busy-fighting-inflation-to-rescue-the-stock-market-11dda598?mod=mw_rss_topstories",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
   {
    "title": "Pressed on whether Iran war was worth losing midterms, Vance says his job is to support Trump's decisions",
    "source": "The Times of Israel",
@@ -150,6 +160,15 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN1FmMDBhXzVLc2w1VTU1MS1qa1NrRXotUEhRSzJrS2k3UHg3LWxYSzVGLXNfSmVvY1lWV3VVUmhoSGlTby10TUtuM0ZvVnl1OUNJMFZ2VjNfOXF4emFNbm81TGhYQml2Z1h1RUk3WGhzeGY1dU9zcmRzaHpvM3B1bmZMRjRQcm1Xc181ZGlCR2lGNTd4bUtmRkhidU9OODIwNUVrTEk5aUhyaDFkTDh3?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "A wave of 'pent-up quits' could boost turnover in the job market, expert says: 'The labor market is a bit like a coiled spring'",
+   "source": "CNBC",
+   "time": "2026-11-20T18:55:39Z",
+   "link": "https://www.cnbc.com/make-it/2026/11/20/worker-turnover-quits-hiring-2027.html",
+   "tags": [
+    "JOBS"
    ]
   },
   {
@@ -245,10 +264,29 @@
    ]
   },
   {
+   "title": "Fed Governor Lisa Cook Says Her October Dissent Reflected Inflation Fight’s Urgency",
+   "source": "WSJ",
+   "time": "2026-11-20T18:23:00Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYnFFaTJhWE1OUWZkZzM5R3cxZmt3WEppdzUtS1JKcHdzUkxKVXZnSVJpT2V5QUREQTZBZ004VUl0QlExbW10VFpCeVpkSVE3UVBablVPbDhKcmFWcWg3V1R5U2pzbVptdHk2MDhFeVg3R1o1WktBWnMwTmotVWwzbkFZem5FakRSY0lvRDZ5TzlXTjJNcGhLaUhzbE1Qdw?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Poland accuses Russia of \"intentional provocation\" as missiles hit NATO soil, kill at least 8 in Ukraine",
    "source": "CBS News",
    "time": "2026-11-20T18:21:50Z",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUFSTWdxSVdBMEtrN1RpU2F0eTZuOTVQV0lSQ1hsWERjY25VLWV2d1hlZHluaWZOeklXRWhaN3NrSmMtWjhFY2VKU0lWbU9FWndENldZU0owa1BaQ3N2eWN4WE9xOXhkNjlLMmxxb3AycE5sRHZqVnpXLTFnN1daRGh3MDh2cFR1RVBYLTNoMXdMbTZWSURtQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Did Melania Trump's Russia-Ukraine Ceasefire Push Actually Work?",
+   "source": "Newsweek",
+   "time": "2026-11-20T18:18:00Z",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWVHWmpHWmVSd0o1QWtfTGZGeUh4QjRBa3lOX0dQeXZveUdHSUtuUU9VSlZKbWVkNjdYRmdROVRzM2R6Wm5UVndLSG5BQm5QMjBNanlZZW51c3JfOUFDN0xBcmY1S3BNUzhJbTRWZnduYUlLZkozNGFHbUMxXzY4LTljNW4zdw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -279,6 +317,15 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZbG5pRzBtX2tSRU1PQU9ZejlEeWw5dzZOZ21aSE9hNWVqZnpXN21DNmFGS0RYTk1LZGZNOU5lT3VSSWJ1TVI4M2o1RlhScTR1LTdqZ3AyUHpqOG9sV2J3dVlkQW8zQnk5OGpYTmVWWi1HblpoTHRsQUx2QXBUdVU?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S. Oil Drillers Pick Up the Pace Just as Oil Prices Fall",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "time": "2026-11-20T18:09:09Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbmVscEdxa2JzSzZQUzk0N1RMQi1odzBVTGNkNXNvRUE5XzNqeUhEbU1KOGcwVGJxai15SHNQazAtX0x4YURhNmRCOWpRUjRlWlc5TUkxWkFncWdDeXhqVjZhVmR6R2VrWE54cWxlUDctVlIzY2pRaVo2cS1rZUdkeXU4YUgxWVFyUmdVSnFTREdLUEhVUllwa04tVXU0UF84SlU3Z09OWdIBrAFBVV95cUxOYi03NFNEWVdpeVJzcmRiNXdWQUluamtMX3pzTi1SaXQyTG5lMkwxbXhLNlBDdnBGcmQ1NlZzLVlfVjZDSU9FaVhZamNmb2JDbU0zc1k2TmNqR3I3MVdHOFhEenFhcC1Lb2Jqa0p1Y1lreEwweUM0Q0FRbmZpdHFENnV5SzJkWThrZDdQX0Zod2V0emNFNUU5c0tNSmgyMFBuTlZFc3c5cE1udnAt?oc=5",
+   "tags": [
+    "OIL"
    ]
   },
   {
@@ -318,15 +365,6 @@
    ]
   },
   {
-   "title": "Gold Fell 34% in 2008, Then Soared 166%. Is This the Buying Opportunity of a Lifetime?",
-   "source": "FXEmpire",
-   "time": "2026-11-20T17:50:39Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOelpxMHgtVV95R2lLdFluNXp2dUs5a1RHRGtWeTNSUjR5S2VhX19OZUticUN3TlZFV28yUXA0N19JRGk4VDZQLWF0TEs0VGVib0ZyeldHb2NYdVVDaUpqUl9YdXRGR3R0STNTWU5wRHNBTzNwempTaWxweXRwaEhkSzVrcUlIY0V3bDF2TUdTcVhRTUxub2l0NGU4V2x6cjZvd2ZLNGppb0FvRFZxNDVXeXVSMV91ay1LUXdKa3hEUWh0TUtUaXZrMS0xaDk?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
    "title": "Gold Weekly Forecast: $3,500 at Risk as Real Yields Stay High",
    "source": "FXEmpire",
    "time": "2026-11-20T17:50:39Z",
@@ -345,13 +383,22 @@
    ]
   },
   {
-   "title": "Fed Governor Lisa Cook Says Her October Dissent Reflected Inflation Fight’s Urgency",
-   "source": "WSJ",
-   "time": "2026-11-20T17:41:00Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYnFFaTJhWE1OUWZkZzM5R3cxZmt3WEppdzUtS1JKcHdzUkxKVXZnSVJpT2V5QUREQTZBZ004VUl0QlExbW10VFpCeVpkSVE3UVBablVPbDhKcmFWcWg3V1R5U2pzbVptdHk2MDhFeVg3R1o1WktBWnMwTmotVWwzbkFZem5FakRSY0lvRDZ5TzlXTjJNcGhLaUhzbE1Qdw?oc=5",
+   "title": "Gold Fell 34% in 2008, Then Soared 166%. Is This the Buying Opportunity of a Lifetime?",
+   "source": "FXEmpire",
+   "time": "2026-11-20T17:50:39Z",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOelpxMHgtVV95R2lLdFluNXp2dUs5a1RHRGtWeTNSUjR5S2VhX19OZUticUN3TlZFV28yUXA0N19JRGk4VDZQLWF0TEs0VGVib0ZyeldHb2NYdVVDaUpqUl9YdXRGR3R0STNTWU5wRHNBTzNwempTaWxweXRwaEhkSzVrcUlIY0V3bDF2TUdTcVhRTUxub2l0NGU4V2x6cjZvd2ZLNGppb0FvRFZxNDVXeXVSMV91ay1LUXdKa3hEUWh0TUtUaXZrMS0xaDk?oc=5",
    "tags": [
-    "FED",
-    "INFLATION"
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold is cheap. The world's biggest buyers know something we don't.",
+   "source": "Kitco",
+   "time": "2026-11-20T17:37:15Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOODZqdHhFZkFjaGYxN1RXVGtEbkV6RXo5LW9NcjhGNWduSzdpNlkzVHFZcHgwaHo5eXlzcFppeTJ4VTlNSXgxNGFWeFZqRFFjdDV4WTE4VFBCeGZaaFJXSW9QRXBxZVNuVTRRbVV3bGM2ZElwbDE3d3NRVmVUdGlZNFdxc1hJTWNxUGNFOXZfUldCTWQ1ZEVsUUQtQXE?oc=5",
+   "tags": [
+    "CENTRAL_BANK_GOLD",
+    "GOLD"
    ]
   },
   {
@@ -628,64 +675,9 @@
    "tags": [
     "FED"
    ]
-  },
-  {
-   "title": "What we know about the latest Russian missile strikes on Ukraine",
-   "source": "BBC",
-   "time": "2026-11-20T15:14:01Z",
-   "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US Treasury presses Singapore, Malaysia on Iran sanctions compliance",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-20T15:08:39Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lZGtHdVl5eU42MzZfajBrdnRvVmx3R1ppcTBHS3pKaWt3MlhUdzNTU0hydUswSE1zMzNNZmV4V0pPcGt2Rk83ZjlPTVluZ01pUWhUbzRtcWQ5X3I5ck5qSVEyVW02cUFqTWc?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Coalition of the Willing pledges $160b support for Ukraine, vows tougher sanctions",
-   "source": "The Guardian Nigeria News",
-   "time": "2026-11-20T15:06:26Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1hMU2NsZUhYblc4Y1UxajRXR0ZkdTdnY3FVRFBMUEY0cHJ0d3hxZHc0ZUpZUlR1RGtvZmtTelFRbDZXOUlpb0tQdVU3QllaSUVIUHoxcktxYzE2UUVvcDNVT0lMVkxBc2M1X216VkhaRmFTeUFUdXp2bnBTTlpwLUxxdXUxV29RSTBTSFkwa0J3NmhWZkt5cUlMa3hMU0I5bHlwSDMwcU5qVzV4eDU2R29R?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Gold price trades near $3,568/oz after final Consumer Sentiment rises to 51.5, inflation expectations drop",
-   "source": "Kitco",
-   "time": "2026-11-20T15:00:25Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaXV0UWUtUHFyVkwzek85UFJvS1V1UFBacFI1TGkyMmJ3OUl3MWFlOXl6QTVJRkg1ckdZbkpJZnA1TzhQOEFNNGhwT2k3S3Y5SmZZZVlZMkdjd1lTWmlTclhDbm1xVGRMOHZXcEFIckEyY3djWUdCWGE1TDdCTHF6SlZJOWZzMWpIaWZOOTNFSWZkVWlMLS0zT1ZyZmJPWUQ2WjNhT29OQ09UNzFUSHRWeVZoUW5EeUk?oc=5",
-   "tags": [
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-   "source": "Federal Reserve",
-   "time": "2026-11-20T15:00:00Z",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
-   "tags": [
-    "FED"
-   ]
   }
  ],
  "fedCalendar": [
-  {
-   "title": "Speech - Governor Christopher J. Waller",
-   "time": "2026-11-20T08:25:00-05:00",
-   "impact": "Medium",
-   "kind": "SPEECH",
-   "src": "fed"
-  },
   {
    "title": "Speech - Governor Lisa D. Cook",
    "time": "2026-11-20T12:15:00-05:00",
