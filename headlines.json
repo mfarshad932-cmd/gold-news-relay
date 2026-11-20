@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T12:57:19Z",
+ "generatedAt": "2026-11-20T13:25:39Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -16,7 +16,7 @@
   "fed_speeches": {
    "http": 200,
    "items": 15,
-   "kept": 2
+   "kept": 3
   },
   "ecb_press": {
    "http": 200,
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 10
+   "kept": 9
   },
   "investing_news": {
    "http": 200,
@@ -57,12 +57,12 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
    "items": 57,
-   "kept": 5
+   "kept": 3
   },
   "bbc_world": {
    "http": 200,
@@ -96,12 +96,12 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 45,
+   "items": 44,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 13,
+   "items": 16,
    "kept": 12
   },
   "gn_yields": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,6 +126,63 @@
  },
  "items": [
   {
+   "title": "Waller, Opening Remarks",
+   "source": "Federal Reserve",
+   "time": "2026-11-20T13:25:00Z",
+   "link": "https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "The Iran War Won’t Change World Energy",
+   "source": "Forbes",
+   "time": "2026-11-20T13:21:46Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNUZMbVRzeE9jVFFsek5NaGVCTjZxekFza01KUk9VaVc0bXlXaldjZ3FJY2xzNUFoUWVKcmNQcDVQQW5Sd3dRODYySjhwQXpCS1NmYkdBOTY4WWY2QmZaNUdZRUUwcmxiRXdkbVFfWFFya0ZCd253TktLVDBHc29GWGlHUUpMMmtqc1hjNFZsVWpvNW40VlE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+   "source": "CNBC",
+   "time": "2026-11-20T13:16:47Z",
+   "link": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+   "tags": [
+    "GEOPOLITICS",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "When Nazis were held responsible for war crimes",
+   "source": "The Washington Post",
+   "time": "2026-11-20T13:03:04Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRTk5TXpOa1dSNzY0aHY4UThjUmdsNjFBQVlVbi1VbnlWTTgxQUozVE1JaWRoU244QVhiNVhIMVZOSWVWNDhMaHNYTUtQVDZSelRPcHQ0ek1wS3FObENNTWpidW5kb3U2UDdhenVwYjN4V1dFZ1dwY0hWTlVqTGtQblFKNjFNeTVqcE43WHk5OWdJZld0WDFB?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+   "source": "BBC",
+   "time": "2026-11-20T13:01:16Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Do sanctions cloud China-US-Russia pledge to boost global fuel supplies?",
+   "source": "South China Morning Post",
+   "time": "2026-11-20T13:00:06Z",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMUFJLTJBM0pEZUkxRTFybENEdzBTdG5zbTVHQmt5c0VNNFJXS2lJVXlEOXRldXZpZElJRlhvNzEwRDMwRmI0RXNjMzNsdUN3dlhSNkU3RG4tNUpsY2V6U0xzcC1zNHZ2UEN1SDRLaG5UMm1XbW11M0l0WjdybnBfMTZOM1dIN2RZeWVVS1BmdWNVSjFwYXlNeGhUSTJOUGRsUWpTTG5RdGgxd01ZcFNvWEt1djl5WGY1Z2pvN0pLU0p0MXhsNGRWZGQzMW5oVVHSAc8BQVVfeXFMTW5NUFBxTDc1QVcxOVhaYUJTT0pIOU9BaXIycmlUVUtXUE9mOTVvUzFFWnlYdzR1QmZJQy1DanJMb2pQWFBsVkRRQmEzY0F2U2F6MkVodWJIUDUwRWU4LVo2VEdVSE54RmYxM1YyRHNPYWVpaktyblg3bnVjTTZOVGxwRDhGU3pCTVVFMVktSjk3dTRBbVp5dWR3YUpSYjYxME1IMVluUlFSZk1zWkV2LVA3NGo1UThJd2JScFhZdkVKU0lWNkJVbTNOSUV3Z1JV?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS",
+    "CHINA"
+   ]
+  },
+  {
    "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
    "source": "BBC",
    "time": "2026-11-20T12:56:48Z",
@@ -135,19 +192,37 @@
    ]
   },
   {
-   "title": "Breakingviews - COMMENTARY: Two defunct economists wage timely theatrical war",
-   "source": "Reuters",
-   "time": "2026-11-20T12:36:48Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVGp0VkdBUkdtLUdMandnWkhtS2dzSFMtSDVzRVk1OEJSMmJEZEw5Yk5NRHNhOHRsRG9PSWhVZVJxTTlnYnRQcnhBVk4yQVhZVktnTHk4cW9WVWVqZUVjOG9aZGFuV2RqVXg4Q3JHM0JrVzhNWnBYa1VsbUd1SV9nTGt5UTNUa2xzcHZxN2ItWjh0aGt5UTFiWldFeHFpZzZOYnFOdDA5Mjh5Nk1iRjNF?oc=5",
+   "title": "Gold prices take a sharp hit as 18K slips below ₹1 lakh. Is it time to buy the dip?",
+   "source": "CNBC TV18",
+   "time": "2026-11-20T12:52:39Z",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNWRCWVcwSVRwTHNVRnF0YnM4MW56WDZ5SnhqcDJhNldGQ19vRG11TDJxZXZvdVFGUFRXS1dKN0RJNmRRcEJNMGoyUFRGcjVFaEJ2WEg0WndIS3Z2NmhPNUdNZFFLM3lPX0xYOTRqVUZ0U3RnMThOTTg2eWRJOW53eWotT3E5cmVXZllUSXV2ZHdQSDNFSVRuTmJVbi1lRjlGSU9wc1MyZ3FSZ05yRzBGcTNHbVczcUpmbjJpU2hQdFFJUWJhcHVFNmJlcUtKZmtrTVA40gHYAUFVX3lxTFB3alVpU09XVFpCYzVqTmtCaTNwZndmSXNnckVSR3hDWkFpemp3U0c4UHRmRklLc2FDSFdSUUlXUmhoNDNHdm1iRXk0dWVleTV2bVZxVzhMNGNoeW42NTA1WlV3Z0xwUnRwVGJoOEs3REdoRWRYb2s5cmxDanU5YjhnM1MxR0l6MTJRTUVoczQ0OERIZ1hhMk1oMHFvMFR0cUU4aVB2ay10eTFpTkNhWUpEZlV0eUgyTl9LRlhTSzJ0blo0RmpEcUEtNzhNd3FZNzlZUGpBa0tCcA?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
+   "source": "The Guardian",
+   "time": "2026-11-20T12:46:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRVZVRXJNQ1h2Z3Q2VzhYNjRCSF9TRUQ1dlA5cnJHcGNVZVFtOExfS2tXSF91UGE0U3V3djRERGdPc1dSZXUxSmxoZEpvckxDVGFYQ2RmODJYd1BRcXBhNGV1QlllSGgtREFmTjg3VzVOTEpZRWlHQWFCTFlMU2RwZVpFaXVfV2lINlg1NjJfTDdNZU1GOEE?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-   "source": "BBC",
-   "time": "2026-11-20T12:34:54Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "title": "Tusk: Russian cruise missile incursion into Poland seems ‘intentional’",
+   "source": "POLITICO.eu",
+   "time": "2026-11-20T12:43:00Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRzRRbkdZbVVhYXA3bUR6aWZJcHFWZFcybUJNMTdDdUJBWExXOHdja3VaUDdNTWYyVXdCSHM4YUhrQk1kZGlHQTJ3V0Z6MnJOaFBBV0FKa3I4VExYSGh1Y1h5d2ozYXNHUVhwSU84T1pnb3FXUF91YmhPMWI4ZE9lZ3R4TjhqZFh6M3lOSGFCWFRYaGtrdTl3bEZVYzhldjA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Breakingviews - COMMENTARY: Two defunct economists wage timely theatrical war",
+   "source": "Reuters",
+   "time": "2026-11-20T12:36:48Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVGp0VkdBUkdtLUdMandnWkhtS2dzSFMtSDVzRVk1OEJSMmJEZEw5Yk5NRHNhOHRsRG9PSWhVZVJxTTlnYnRQcnhBVk4yQVhZVktnTHk4cW9WVWVqZUVjOG9aZGFuV2RqVXg4Q3JHM0JrVzhNWnBYa1VsbUd1SV9nTGt5UTNUa2xzcHZxN2ItWjh0aGt5UTFiWldFeHFpZzZOYnFOdDA5Mjh5Nk1iRjNF?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -356,15 +431,6 @@
    "source": "Yahoo Finance UK",
    "time": "2026-11-20T11:36:49Z",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMc3RpSTdsOG1obW4xMjJSM3pFLU1MbEZPS2xoWXVKalFacGctdWticl9sQmRfektRVFotcGtZbzVkVTBoWHFiTnVzNDFRMXdscEVJcm84ZDB4ZUNPbUstbE1jN1FhcnVUSmZYUGRzMTFONHRURTRRa2tXVnNpekU?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "When Nazis were held responsible for war crimes",
-   "source": "The Washington Post",
-   "time": "2026-11-20T11:35:49Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRTk5TXpOa1dSNzY0aHY4UThjUmdsNjFBQVlVbi1VbnlWTTgxQUozVE1JaWRoU244QVhiNVhIMVZOSWVWNDhMaHNYTUtQVDZSelRPcHQ0ek1wS3FObENNTWpidW5kb3U2UDdhenVwYjN4V1dFZ1dwY0hWTlVqTGtQblFKNjFNeTVqcE43WHk5OWdJZld0WDFB?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -601,71 +667,6 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMjZtckI1VXpnLVVRQy1Kc3ZNTDVWT1psQWFlcGMwaUoydEtSSElOdERvN0pUUUluYU5zVXB5NWVudDhSVlRfNWNXMU9DMWJoWlllYXI2MmQ5OWVIZVBCZUtKT1c0RkZEOE44UlRZamhGTU1ZWmYwUUluaFpJYURIYUJ4Uy1lOU9WZHQxUkRObFkzUTIybDdCLXlGQVJzci1ISnUyVA?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Thailand expects US tariff rate in line with neighbours",
-   "source": "marketscreener.com",
-   "time": "2026-11-20T08:56:55Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0RzcjJiTWRrUUNBVTllQk43VjB6b3A1a2Q2Y1BwUEt1Umk3V3FudUNTRVI4aUhMblN3d0x3bDR3U0kzclVkSkJvc0ZITXNyT2o3ZS1TWEhFLTNXUGxuOW1HTHExUkhUUDRxNEtWV21GaGlMQ05FSWxhQlZoTVQ4TGREZzdDTXNtSXJnZGpHVFVreTVpczM0ZUFWZWlGWGFNTU5vbDNSYXhIS2lT?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Russia’s day-long attack on Kyiv damages embassies",
-   "source": "Al Jazeera",
-   "time": "2026-11-20T08:56:08Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Israel boosts David's Sling capabilities to withstand weeks of missile attacks",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-20T08:50:47Z",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hc1luX2VwM0o0Ym4zR2xOSEZsWDltaVhjSWhuM1ZiX2xWdUNHamxMUS1RX19FeXVXWHFuMy02QjMxYVFQYWtKV0cxd2ZLS05TbnJDc09WeW81aUFxREZXeC12WQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold, Silver slide to 14-month lows as Dollar, Fed fears bite",
-   "source": "TradingView",
-   "time": "2026-11-20T08:41:37Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUWp3UVEzWG9zN1lkRXAtenJDM1NoOEdrYUV5b1NGczF3T3JsVHFWZ2xxX3JnTmMtTUdPWWRQVzJneVNrR2gtcW02Z1RVVVYzUXh1V3JLaHBqMDVHWXZSUHBZOWFlTWpDRC1fdDJwdHM4bVBEMDJrbWNFM05wMldXdXhkemxZT09EdVZTVHNXeFpsS2ZEREhSbEFVQUg0TXhYVC1pdVdjUWRLbWdyMjJzd05TdzN1a1E?oc=5",
-   "tags": [
-    "FED",
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Christine Lagarde: Acting in time",
-   "source": "ECB",
-   "time": "2026-11-20T08:30:00Z",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "title": "GDXJ: Gold At $3800 Isn't The End Of The Bull Case (NYSEARCA:GDXJ)",
-   "source": "Seeking Alpha",
-   "time": "2026-11-20T08:24:14Z",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOak5UZGxwSGhYXzFnU2FDMjI4blZ0WmVmaHRZMGZWNDhYYXJrcHNHUlZ1WFFTZXEwM3BTdmlvNlFEdGNydkVYSzZ1MVhJd2phRElSbXVKeUEtaUdjM0hreGgteERWRTFmQjh6RlBQejVCR05zTGN0ZFFoaGVQaW1ZaUp6Sm5LRHBCNnB3M2dpeERyZw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Hits 15-Month Low; Oversold Bounce Before Next Drop?",
-   "source": "Investing.com",
-   "time": "2026-11-20T08:20:00Z",
-   "link": "https://www.investing.com/analysis/gold-hits-15month-low-oversold-bounce-before-next-drop-200691987",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
