@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T07:45:06Z",
+ "generatedAt": "2026-11-20T08:13:27Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 8
+   "kept": 9
   },
   "investing_news": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 3
   },
   "whitehouse": {
    "http": 200,
@@ -81,27 +81,27 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 25,
+   "items": 28,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 24,
+   "items": 26,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 17,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 32,
+   "items": 28,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 16,
+   "items": 15,
    "kept": 12
   },
   "gn_yields": {
@@ -126,6 +126,24 @@
  },
  "items": [
   {
+   "title": "OakNorth Secures U.S. Federal Reserve Clearance to Buy Community Unity Bank",
+   "source": "WSJ",
+   "time": "2026-11-20T07:51:42Z",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUHViRUJDeHV2LWVBd2sybnFMY2RUVmR6Vm9zN0Vsa3JTVWlRR1p0dTR5cXRlRTZGSW01ZTlnbGFoRVZ2V1ZEOXJLTEVZSWxMSnAzZ3YzeVZGZ05YbXZQM0l0Q2pnaHRybnp6NEsxTVJleUo0QUQ1MlNkUXpnMXJqWHFqNzd2ZWstdmdCY2w3M2piNXpFelY0bmx5QWFhVzd3RkFqTTBoR041Q0xULWZHOTJwNVNzaU9wRmJVWjVqWmlHWWhUZGc?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "New Found Gold: Production Begins, As Gold Forecasts Remain Positive (NYSE:NFGC)",
+   "source": "Seeking Alpha",
+   "time": "2026-11-20T07:44:59Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeFh0QWRkV1o2RU9BWG95c3FISzhPRERhUWNON0dPY3V1NnQ2TVhZNncxVGlLcm02QmJCVkNJaE14cXB4NzlKUEU1cnROdG12TlhBakhSSHYweURNdmR0aVRYWk55YjdPakFraFl6QjVZc21ZYWx5d19CcU4zRlBUQi1rOXRNeW5JR19zV3p5UzAzdjRwbGRmTHdBQ0RWZlBva0JHYkpLRGkxQQ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "WTI faces upward pressure amid Middle East attacks despite record supply projections",
    "source": "FXStreet",
    "time": "2026-11-20T07:38:05Z",
@@ -135,12 +153,30 @@
    ]
   },
   {
+   "title": "German producer prices surge 8.1% in October",
+   "source": "Investing.com",
+   "time": "2026-11-20T07:37:22Z",
+   "link": "https://www.investing.com/news/economic-indicators/german-producer-prices-surge-81-in-october-93CH-5040838",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Leaked Files Show Deutsche Bank Protected Russian Profits Despite Warnings",
    "source": "The New York Times",
    "time": "2026-11-20T07:34:32Z",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORnNyU2FWSTVxZEFydWh0bmk5MEc2aVJpRWJ6ckNNYXZEaXQ3U0pTM2RuWFRIQmJMZllRQ2FWOVJjdVJCZ2tGWkZfU1hFMGN4NW5qUE1KR1dkb3V5TjZFVnNla2cyc0FWOGJlcnJkREpIYThNcEdQZ3kzMHBiUzdKSzFPTjE1LVFYM1FaMHhqWVFReFNpeE5PTU5rSWZrUXhibWc?oc=5",
    "tags": [
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Sweden’s unemployment rate falls to 7.7% in October",
+   "source": "Investing.com",
+   "time": "2026-11-20T07:31:13Z",
+   "link": "https://www.investing.com/news/economic-indicators/swedens-unemployment-rate-falls-to-77-in-october-93CH-5040832",
+   "tags": [
+    "JOBS"
    ]
   },
   {
@@ -167,6 +203,44 @@
    "source": "Reuters",
    "time": "2026-11-20T07:21:00Z",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMFh2SXk0TTl1MnRycUlKMDJXOFJFUG1NTG9ibUtHbUI0QVY1WjhKWm9WYTRETkV0SUpCaWpHTGxMNjZFb25paG1hbFRtVlAxdGtzVHY2cDVHSzBvMzJOUGNyWXBLR2N6azVXelNzSkNVUDk1NThLYWtIeU9yalQtYzZvNjRaRHdGb1VYeC05TXV2aUJQRUFyUGl3N3RsdjdLbmdMQl9vR1hJRE1GUDZiczFn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold and Silver Price Forecast: Silver Leads Losses as Dollar Gains",
+   "source": "FXEmpire",
+   "time": "2026-11-20T07:19:08Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNekFlV2JjSzVlazRZbzFfUDhYYVdIbUh1LUpkNFZIR3RkV0pQeUIybC1TWi1WZUtuMmVnOTY3M3BBN2hXUElTZTh4bjNSSGg2WjlqR0xvdnVldldpTXVQSVF3U2V1TVJJYTJpcXV6LUtHT1IzYUY3b3U3Rm9FaTZKVVAtbVY4S3lZWWFCam1jcVd5WGg5WmVZaXJLeHhBZ21oN2VfYXlURlRrUEFjdGx5Sm9NcGg4UzZp?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold Tests 100% Support as Bearish Momentum Pauses, Awaiting Breakout Confirmation",
+   "source": "Investing.com",
+   "time": "2026-11-20T07:19:00Z",
+   "link": "https://www.investing.com/analysis/gold-tests-100-support-as-bearish-momentum-pauses-awaiting-breakout-confirmation-200691983",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
+   "source": "Bloomberg.com",
+   "time": "2026-11-20T07:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkRDQWZYNXlObXhXM0Q1TEFtSXhxV24ySVdMUnNCVWRRSnJDTkVBLWtJR1lTWEliYzRIbWhWeEFRYzUySHFObzRJajNFWW5wd2lmZ0tIeXpQaFZfdlRZaFJEUTdRVkFKUW1HNDZ1dWhXU1QzSFpIOF80MUJkSWJsdTY1ME9CRUVVYVY0SllFVFYzR0pVVER4YjVSNGp6Y2tIR0ZSRW5yS1VHSHV2OU9MU2lB?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Russian missile barrage damages Kyiv bridges",
+   "source": "Financial Times",
+   "time": "2026-11-20T07:03:55Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPakxZczdFZVhaTF9WM2h1S3BmckFybXp6ZWdLN3o0R01vY1dJU00yVjBReHAyZWI5Z2pyenBTLTBRTkdlWnBmZkhPNGNWaVJ5emdJOWk0QkowY1hLbkYyS3lCTnM5ZW1GbUN6ZjAyTHpGU1g3WkExYVRZYUdyNzg4NFJ1Mnk?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -201,15 +275,6 @@
    ]
   },
   {
-   "title": "Russian missile barrage damages Kyiv bridges",
-   "source": "Financial Times",
-   "time": "2026-11-20T06:56:15Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPakxZczdFZVhaTF9WM2h1S3BmckFybXp6ZWdLN3o0R01vY1dJU00yVjBReHAyZWI5Z2pyenBTLTBRTkdlWnBmZkhPNGNWaVJ5emdJOWk0QkowY1hLbkYyS3lCTnM5ZW1GbUN6ZjAyTHpGU1g3WkExYVRZYUdyNzg4NFJ1Mnk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Gold Heads For Worst Week In 8 Months As Dollar Strengthens, Fed Rate Hike Bets Rise",
    "source": "Forbes Middle East",
    "time": "2026-11-20T06:53:21Z",
@@ -222,6 +287,24 @@
    ]
   },
   {
+   "title": "The one thing Putin, Trump and Xi agreed on — fewer limits on major powers",
+   "source": "The Washington Post",
+   "time": "2026-11-20T06:49:02Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVmxlSlJsM1liV1JydEdsSXNpaUQyMjFqT2VXNFhrb1k4TmlYYWhIeGl2TVlxd2lNOWVqMWFnUzUtSDlKRWtjWWJuazF5RjFpV0JReHFkMzNIOGp3U1JhS3lIOWdZOFJ5cmhEeEUzY29sbmdTeGxZN1FmQWQtbTJFVjBDMjA1WVltN3FFbmFqcC1VZUc1UkowbDFKX2NmNW8yak04VDFyMUlzRWpTVmU1QQ?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Iran war has worsened U.S. munitions shortage, government watchdog finds",
+   "source": "The Washington Post",
+   "time": "2026-11-20T06:43:22Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWGt1RnZzaXdlLTJyN2pic1Y0QWdfRXhSYkw0aVhaX28wb1ZGeFFuQ0RqTGR6TXMxdVZmYmhkQVJJUGJ3djhYaWYxSTZDZVF4SF80aFFBQnJWVm5mbEpFNnJ1alJJUWhFcy1ZQmU4WXI3OEJCTkZOOUhNbjVBemFiSHAwZ1ZfQ3poV19Kd3FoQngybTQ4N2p5bG9Ocm1INFJ3Ylp3N0JCdDNwci0ybGtHcFFXUjlGVmJqWUhaQ2Zn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "AI Stocks Resume Their Slide",
    "source": "WSJ",
    "time": "2026-11-20T06:30:29Z",
@@ -229,30 +312,21 @@
    "tags": []
   },
   {
-   "title": "The one thing Putin, Trump and Xi agreed on — fewer limits on major powers",
-   "source": "The Washington Post",
-   "time": "2026-11-20T06:20:32Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVmxlSlJsM1liV1JydEdsSXNpaUQyMjFqT2VXNFhrb1k4TmlYYWhIeGl2TVlxd2lNOWVqMWFnUzUtSDlKRWtjWWJuazF5RjFpV0JReHFkMzNIOGp3U1JhS3lIOWdZOFJ5cmhEeEUzY29sbmdTeGxZN1FmQWQtbTJFVjBDMjA1WVltN3FFbmFqcC1VZUc1UkowbDFKX2NmNW8yak04VDFyMUlzRWpTVmU1QQ?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
    "title": "Senate rejects resolution to block Trump from striking Iran",
    "source": "The Washington Post",
-   "time": "2026-11-20T06:19:10Z",
+   "time": "2026-11-20T06:28:54Z",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUhPc1MzUmliSzFkVG16b3R4WmdnM2tTQlhHX19ONGU1Ui15MWZZcmJ0NDA4a0lkenNvRXdvUFRaMDdvcjZoOHd3YW5KNVNEelUxVEx0VU83WlJMTkFLYVV0WEtwNGVGQ2RjRmwxTlNhZ2xseHkxbGxjNTBsWU5XclJnZkRCVHJBVURwOHVoR1JjZEVSSzFuRjRRdVh3NHRpd3VTVnF3?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Iran war has worsened U.S. munitions shortage, government watchdog finds",
-   "source": "The Washington Post",
-   "time": "2026-11-20T06:15:46Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWGt1RnZzaXdlLTJyN2pic1Y0QWdfRXhSYkw0aVhaX28wb1ZGeFFuQ0RqTGR6TXMxdVZmYmhkQVJJUGJ3djhYaWYxSTZDZVF4SF80aFFBQnJWVm5mbEpFNnJ1alJJUWhFcy1ZQmU4WXI3OEJCTkZOOUhNbjVBemFiSHAwZ1ZfQ3poV19Kd3FoQngybTQ4N2p5bG9Ocm1INFJ3Ylp3N0JCdDNwci0ybGtHcFFXUjlGVmJqWUhaQ2Zn?oc=5",
+   "title": "Miri Regev orders pre-termination hearings after public transit assault",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-20T06:18:57Z",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wYThzVkFxcEw2Q250YWo3cDkxYXZYb0g4R2ppT3ZMSXFxVTZCeEJmVG5tYVhRd3RvWDRKX3M5eDdzUXBiT0dPYjI1ZXBlaWFQMTMtNEtvYkdzZEtK?oc=5",
    "tags": [
-    "GEOPOLITICS"
+    "SANCTIONS"
    ]
   },
   {
@@ -307,6 +381,15 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQem1NNjhWNkxISTdIZlZiX1g4RlIwTVJ3TjJXaXF6VFlpRm13VEFkOTJFUVllWU1rMGk1ZTQ5SUo3dGdfMGtXNXl1UkRoR0dGczNqR1VPOEY1LTF2Q2xadlU3NmZIbThnREswSjZaY1Y2ZHVFMm5oeUFJZHBlSUlRZFk2dWhsdmlSOU9XSWxhRGVhc2cwb1FjWTlDRHhrYUdhb0d0Y2JvQ19sVG94dVlMd0c0TGprelBtTjNn?oc=5",
    "tags": [
     "USD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold Breaks Below Weekly Ascending Triangle as $3,500 Support Comes Into Focus",
+   "source": "Investing.com",
+   "time": "2026-11-20T05:24:00Z",
+   "link": "https://www.investing.com/analysis/gold-breaks-below-weekly-ascending-triangle-as-3500-support-comes-into-focus-200691976",
+   "tags": [
     "GOLD"
    ]
   },
@@ -403,16 +486,6 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU3N3Z0t5V3VHRjNNelFHZVdLeU5Hc1FhNVo5U08xOUtNeTJYcldTRktkSHdpdV9oSHB0SVZ6UThQVzFfbTljdF85N2lHVktpREUtN2FDejFhUjJPN2dETkplVnEyYTgtbVRxU2tNR1pqYkw1Q2R2TDNCVnpWd2ZhOXYzcmZOcHZhY3BtYTN4MmNqc3hybElmS0thdWc0M3FRanVfTndTWkpLZ3IwT3d6UFJhOHBTMHppTVA3enlJdVp6ZVlla2dULQ?oc=5",
    "tags": [
     "OIL"
-   ]
-  },
-  {
-   "title": "Gold and Silver Price Forecast: Silver Leads Losses as Dollar Gains",
-   "source": "FXEmpire",
-   "time": "2026-11-20T04:37:25Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNekFlV2JjSzVlazRZbzFfUDhYYVdIbUh1LUpkNFZIR3RkV0pQeUIybC1TWi1WZUtuMmVnOTY3M3BBN2hXUElTZTh4bjNSSGg2WjlqR0xvdnVldldpTXVQSVF3U2V1TVJJYTJpcXV6LUtHT1IzYUY3b3U3Rm9FaTZKVVAtbVY4S3lZWWFCam1jcVd5WGg5WmVZaXJLeHhBZ21oN2VfYXlURlRrUEFjdGx5Sm9NcGg4UzZp?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
    ]
   },
   {
@@ -517,6 +590,15 @@
    ]
   },
   {
+   "title": "Trump tells skeptical Europeans: \"Putin wants to end the war\"",
+   "source": "Axios",
+   "time": "2026-11-20T02:49:40Z",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jMUkxbVpvaGRUZmdQb2lzVDhjTm1ScTB3R09DeW0wOWwzeWFVdjV1NENnLTJ2NVFhQ3g3YlVvMG1XQU04Skp3c3JvbWRIaEtPT3hrSEgtTG1ueGVRcktMdlB0ZERjeXo2YXBFMFpYOEFLTU4xaFcw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine",
    "source": "AP News",
    "time": "2026-11-20T02:49:00Z",
@@ -534,16 +616,6 @@
     "FED",
     "USD",
     "GEOPOLITICS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
-   "source": "Bloomberg.com",
-   "time": "2026-11-20T02:22:00Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkRDQWZYNXlObXhXM0Q1TEFtSXhxV24ySVdMUnNCVWRRSnJDTkVBLWtJR1lTWEliYzRIbWhWeEFRYzUySHFObzRJajNFWW5wd2lmZ0tIeXpQaFZfdlRZaFJEUTdRVkFKUW1HNDZ1dWhXU1QzSFpIOF80MUJkSWJsdTY1ME9CRUVVYVY0SllFVFYzR0pVVER4YjVSNGp6Y2tIR0ZSRW5yS1VHSHV2OU9MU2lB?oc=5",
-   "tags": [
-    "FED",
     "GOLD"
    ]
   },
@@ -603,15 +675,6 @@
    ]
   },
   {
-   "title": "Trump tells skeptical Europeans: \"Putin wants to end the war\"",
-   "source": "Axios",
-   "time": "2026-11-20T01:33:47Z",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jMUkxbVpvaGRUZmdQb2lzVDhjTm1ScTB3R09DeW0wOWwzeWFVdjV1NENnLTJ2NVFhQ3g3YlVvMG1XQU04Skp3c3JvbWRIaEtPT3hrSEgtTG1ueGVRcktMdlB0ZERjeXo2YXBFMFpYOEFLTU4xaFcw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Canada auto plant the 'front line' in Trump's trade war",
    "source": "Yahoo Finance UK",
    "time": "2026-11-20T01:27:00Z",
@@ -619,69 +682,6 @@
    "tags": [
     "GEOPOLITICS",
     "TARIFF"
-   ]
-  },
-  {
-   "title": "China keeps benchmark lending rates steady for 18th straight month in Nov",
-   "source": "Investing.com",
-   "time": "2026-11-20T01:19:12Z",
-   "link": "https://www.investing.com/news/economic-indicators/china-keeps-benchmark-lending-rates-steady-for-18th-straight-month-in-nov-5040462",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "US approved nearly 900,000 Nvidia and AMD AI chips for China. Raises more questions than answers.",
-   "source": "ForexLive",
-   "time": "2026-11-20T01:16:31Z",
-   "link": "https://investinglive.com/news/us-approved-nearly-900-000-nvidia-and-amd-ai-chips-for-china-raises-more-questions-than-answers/",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Decline in U.S. diesel prices likely to continue, Energy Secretary says",
-   "source": "TradingView",
-   "time": "2026-11-20T00:57:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbU5yTWZmS0tYZEZKMmo3Y2N1UEV6T0NBV0VDUUc4YkVPbzktZXJuM01tV2l1TkpHSEFWS0NMbDNJWjdwUVBjbHJ5THR3cUJGdVdnbkNtQ1YxMVN2SllBb3lBclVaVVZkVFNwMlpiSjZ2MlM3akRXODlfemFOUUx6cW1jd0ZfSzZoOXJzTkJGWFRYeDVxekNMR01PRmlQUE1RQ3cxQmw4Q0JuSG9vemt3bmZVdXk2cVRPWkc0dnczSndrZjUtTnQ3ekZZLWk?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-   "source": "CNBC",
-   "time": "2026-11-20T00:53:55Z",
-   "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-   "source": "BBC",
-   "time": "2026-11-20T00:50:24Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "WTI steadies above $82.50 as Middle East tensions offset surplus supply outlook",
-   "source": "FXStreet",
-   "time": "2026-11-20T00:45:21Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa1JLQUNuY2Z3d2ZhT0tzN29hbnpvOVFrSldTLUhkc1llM3NiV1JoTFNKeDdCQ3pJSjBqNTdWem1oaUlWdnp4ZDVybTNiVnlERXcxa2pMVUl4Q1l1M1hMWXpBYVFSaE1ZN0ZVVzY4QzJKQldVYzIyU2pCd1dzS2R3S2htWUFtZG1vRnhHQ01hT3RHZmZTYVlWZWFwa3NGZTEydGthSmpMcm5UbGdndFp4ejBVS3pqZEs4Y3FrQw?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Fire broke out in Ukraine's Kyiv after missile strike, mayor says",
-   "source": "Reuters",
-   "time": "2026-11-20T00:41:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaW5ZVDlLVDZMeWxSUU5VRnVsbVZja1A5bmhtTVd4OFBZWEZFSzFENVFIQUdaLV9JOHZVQjhGcGhqUHJtZ2JrTk5NX3FEV0NScmVwUWtrUmRqbkhGcThkMmp1bWw1SkRneVkzb2pVNzZqTmU0VnA2T1pCVlA3aGoyUEExU2xOSU1TcnpfaFRUa3hBRzNDZzlWOWxFR0RyeTZkeGRyMmtsbEJId3lMRUE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
