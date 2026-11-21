@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T13:58:40Z",
+ "generatedAt": "2026-11-21T14:26:58Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -16,7 +16,7 @@
   "fed_speeches": {
    "http": 200,
    "items": 15,
-   "kept": 3
+   "kept": 2
   },
   "ecb_press": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 26,
    "kept": 12
   },
   "gn_fed": {
@@ -96,13 +96,13 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 32,
+   "items": 36,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_yields": {
    "http": 200,
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 2,
+   "kept": 2
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,7 +126,34 @@
  },
  "items": [
   {
-   "title": "Iran claims missile damaged US F-16 over Gulf, forced emergency landing",
+   "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+   "source": "Al Jazeera",
+   "time": "2026-11-21T14:06:06Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "An ‘illusion of glitz and glamour’: Inside California’s modern-day gold rush, where miners can bring in millions",
+   "source": "CNBC",
+   "time": "2026-11-21T14:05:40Z",
+   "link": "https://www.cnbc.com/make-it/2026/11/21/california-mining-modern-gold-rush.html",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say",
+   "source": "Reuters",
+   "time": "2026-11-21T13:54:09Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNER6Q2NPRk9TUmtuX1hhQ21MdEdsc05rT0FxZzE4RTczVDJqbjN1My04Zm4tUkd1aUJ4cDdXSTM3ZVl6UVg0S0hLTWs1d1pjLTRDcVgtM1dVeVNvWFZHd1g3NEZCdm5HMlR1U09Cd1JfWUg1cEQ0aUZSU19uSHowSWhEUERvNE5OM1NxTDR1T3VYV21rb25pX1NSOFdFcHlOd3VzYkpMT2VzMlYwRVVSMmFuc2J3SkZ5dUM3Z0M0YXEyZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran claims missile hit US F-16 over Gulf, forced emergency landing; unconfirmed - report",
    "source": "The Jerusalem Post",
    "time": "2026-11-21T13:47:41Z",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uVFlCZGMwaS1KWDVNSnpUYldMQ1pEdmVoQlBwLUdSbzVTU1ZnYmVsa29ickdMQzh5ZG83N3FiaHRDSndSRDJWT3pEM3pNQTVQQWFCT1NIczRQQzZGOE5lRDUtSHRJOUtlNmc?oc=5",
@@ -162,12 +189,21 @@
    ]
   },
   {
-   "title": "An ‘illusion of glitz and glamour’: Inside California’s modern-day gold rush, where miners can bring in millions",
-   "source": "CNBC",
-   "time": "2026-11-21T13:23:50Z",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOVhqR1RDTkIwYlpPSm1veW9XaDRkdnBsVTduUmZMRHpFMktva3gxNVhpdTc0ZDZ3NDRfYnlGVkFBU05vX1dQZ0ROUzZPZ3pDRG9GVnFHVng4QTI5VWZONHo5T3Uyelc4R3hYb1hnMEQwRWFHTVJKZnQ5c3pjclVRdHkzSzA0QdIBiwFBVV95cUxOOUNCalBqR2V5cUE5czhJNlRKMWYtQmRiNGkxc3lwcWNsNE1ySU9LV3dfRUthX29nR0J5ODVJTmZONDdNS0RiNFVtbGQ2V1hheFRncjFWSDZQSlJ5VUhackRGWVVpeXlNSC1HV3JhOFRKSnVXVTFsRERCQUk1VGxhZE5nU2M5bkdlZ044?oc=5",
+   "title": "Energy costs to jump for millions of German homes as Iran war bites",
+   "source": "Yahoo Finance",
+   "time": "2026-11-21T13:33:38Z",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSm1LNC12TjBXckkydktsNm1OX0xUWWJvRnhJR3VZT2hfbnpyMUMxeTFMaklSOGVLX1RXM003UzIwTVN0Y0VZZXo4QjVWUnZGNHdKeXVDd1NtaGxqWXpDZUJFSldxT3VMSENUMVpJRXo1Q3dVRUpqU2RxNzlUUzdZSmRYLUpiaHVBYXdFMUJiWDJQMXBw?oc=5",
    "tags": [
-    "GOLD"
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "US pursuit of ‘Trump-class’ warships has blown cost of new fleet by billions, report warns",
+   "source": "The Guardian",
+   "time": "2026-11-21T13:01:00Z",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UVW1uQ0xScWpmZmQ0WkFDbERGTm9nNzVEVm9FZlNNN3NNdmdTMmVMNXRhZmJFR2wtREtqY3NOZTc3Q2xha2xMam5HTHZyaW9XekllVm1lZGxBeEE3YXZmVGdYZnRpTmpjZjZtbVFjNUt2Z0FjcnQ0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -414,15 +450,6 @@
    ]
   },
   {
-   "title": "Emergency crews in Ukraine hit by a double-tap strike",
-   "source": "Al Jazeera",
-   "time": "2026-11-21T07:12:03Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "WTO Chief Says Africa Has Weathered The Tariff Storm, Now It Must Trade More With Itself And The World",
    "source": "Forbes Africa",
    "time": "2026-11-21T06:44:00Z",
@@ -638,33 +665,6 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUlJxVm9uUmdPdkxHeGNqMWw1TFN6YkhKQXVqUWZEb0haSWs0YUtrT0R5aWk5VVFweXRMMTNyOF9zZUYxTUdfXzZJUUY2cGlmMmhFa1BGcVRENFNNOUNvcVNYYXNKb2E3aDEwM0RsVHhPVkEtNmdvMElsSjdjN0RRUnhDeVJTSjBWWG9mOVNxTHlmdEVvYktHQl9HU2J1dUMxaU1BTmRPV3doSzRpUkdWXzVB0gG3AUFVX3lxTFB2aGc5YmNCa21uR0taU01wdFZCeE1ob3VpU1pvNUFoaldLZFA0SDVmYmxVR054TTF3MmhhNnA0eUlDbFo2dmpYMndQWW9TYkx2SGVkNExXSGxUS2dVdVRPLWE0bW1aOVFDVmhkLUM0VXg4bXIteG1ZMnNZR3BBOGJyRk1FOTJDbzV1NVpqZkVNYzZqRHlaVFg5T1pnQTU0YkRDMFc5al9YbS1NMkhQMjZNUW5CZ1BJTQ?oc=5",
    "tags": [
     "OIL"
-   ]
-  },
-  {
-   "title": "Gold price fall nears $3,500 as miners face soaring costs",
-   "source": "Mining.com",
-   "time": "2026-11-20T23:50:45Z",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTBKNGdIMDJlUk1JZ3E1dm1pOEtVZmVuT3l5UmRYaHhXMVZVQXdCMlhDVmpYc0FwXzdydlBlMFZDeV9XS2lndUoyaFc1TE5DaXN6T09zTTJNSVgxZVRGbHdMS3dLZnJadlRLdlBDTzRwSlU4VUFwV09ZV2dLdk5LUHhzNHRNSjg?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "VIX Hits Highest Since Tariff Turmoil as Stocks Slide",
-   "source": "marketscreener.com",
-   "time": "2026-11-20T23:43:14Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNWRKWVRRWE9Ca0ZYSWhiQkF0cTFoekpxUmlRTFN5azRSN1BvamF1STJQdzZPUU9PZFduX1VMcjNIWEl0bzdWbkVubFN6SUNGcVl4X1FwTnl4SW1oRkNaTTh6dnpxMV9GbnVDR0x2LXVhQlBjUFBEczQ0blZVMGkzU3VTY0xQd3B4RmtlWXNXb1RGMkI2SFhSVDJ0NlphVkllUWNLUmlGVEtFZw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "House Democrats recoil at forcing December shutdown to cut Iran war funding",
-   "source": "Axios",
-   "time": "2026-11-20T23:33:38Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZbG5pRzBtX2tSRU1PQU9ZejlEeWw5dzZOZ21aSE9hNWVqZnpXN21DNmFGS0RYTk1LZGZNOU5lT3VSSWJ1TVI4M2o1RlhScTR1LTdqZ3AyUHpqOG9sV2J3dVlkQW8zQnk5OGpYTmVWWi1HblpoTHRsQUx2QXBUdVU?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
