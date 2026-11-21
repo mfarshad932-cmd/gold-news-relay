@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-11-21T09:15:24Z",
+ "generatedAt": "2026-11-21T09:43:42Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 3
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -72,7 +73,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +82,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 38,
+   "items": 37,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 14,
+   "items": 18,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,13 +97,13 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 37,
+   "items": 36,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 13,
-   "kept": 12
+   "items": 10,
+   "kept": 10
   },
   "gn_yields": {
    "http": 200,
@@ -126,6 +127,33 @@
  },
  "items": [
   {
+   "title": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
+   "source": "Al Jazeera",
+   "time": "2026-11-21T09:31:58Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0s5elZpRk5PMWVjdWJna2RmUTBNNUVMWTA0dURwcUJIWEVRRUVDYWZYT2dNb1ZNc21taTVIZ0lKa2VGR3IyTk5oZG9HczJpc3ByX0Zra3p3NEMwM0ZGSlg4TnQyd1p0SUtEUWtwTjQyeUUtSWkwN0hmY0dacmJiOTlBSlNTVTRpeUZCcnRfckhHRWpqN05YVHhreTItaGhEVXlGTVdhMXM2TVFTY3kwVTFSN3VTNDDSAbwBQVVfeXFMTVNzaWs0TnJNaXpZYWV2T21kNUtCMEZaNFVEcFQxcFFXQnVMX3ZEY3lhRnJwY3R6bE9LLWgxVnotNEE4RXdnRlBZMzZMVkhrTjl0LUVYSk5Qc1l1b3FseHJOaFRJUkNMYjNwXzdWQlc4V0pxUTUyR0ZidFo5UWFZU1NwZnA2cXk0bkhXWWY0X2tsNDNHVW15a0c0cF9mdVRKa3VCVGRLczZBSk9MZDVHMFdIcGlZRlZtejVIQVY?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Fire sprinkler sprays water at flame-covered sign in China",
+   "source": "Al Jazeera",
+   "time": "2026-11-21T09:20:40Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Is Israel Buying for the Last War?",
+   "source": "The Times of Israel",
+   "time": "2026-11-21T09:09:00Z",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iMGpMSGhrSDRTUzJoUGJqc0NUbnJrOUd4bkJ3TGh0aUFPa094VUlUSG9oSkZ2SjJPYndlRlotenFmRG1Pc1Q3N1VERE1mN0NpRkNVeWFwYWVVVXNCOWV4M2xYdDdDZnlrcFJmR2tXaE1lc0l2?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Israeli banks fear sanctions are closing in. Netanyahu looks away",
    "source": "Haaretz",
    "time": "2026-11-21T09:01:00Z",
@@ -141,6 +169,24 @@
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran war sees tanker hit near Hormuz as Saudi Arabia intercepts Houthi missiles",
+   "source": "Investing.com",
+   "time": "2026-11-21T08:22:56Z",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMnZFODNvOUNzbTN2cllHd0tMQ05KS2tJRkpkZWcyb3dIQy1wWUNSd1U2ZjVMZUNDSURFNUdUNjFiRS1fVDBrMk9MTlZ2aC0tbU1Taks4LXBmNkx4MTdGLThPWHJrb1J2X3RoVDZTNWdfYXI0MUJmQjRQUHlRdW9nYmp4QTVPTzI1VGVITVVTU2dTWjFDdlo1dEdRZUNYREVSZlZEb3ZOZFF2Vk53MU9TUkk1bDdyS1plMkhSU2Z6d1RFeUhPRkM0ZUhYWQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Treasury Yields Fall, German Bunds’ Tick Higher",
+   "source": "WSJ",
+   "time": "2026-11-21T08:19:59Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
+   "tags": [
+    "YIELDS"
    ]
   },
   {
@@ -280,15 +326,6 @@
    ]
   },
   {
-   "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
-   "source": "Al Jazeera",
-   "time": "2026-11-21T04:32:07Z",
-   "link": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Gold made investors richer. But could their money have worked harder?",
    "source": "TradingView",
    "time": "2026-11-21T04:28:10Z",
@@ -320,15 +357,6 @@
    "source": "Benzinga",
    "time": "2026-11-21T02:51:32Z",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanpxNjBLNzBtRDE1cGd1RGFWQVZFX2dYLW5yQ2U0Y3NDVnZjUndqZXpLR24wQ0hKa0dKcjVtWEtCUzM4Tm5EWGNodU5ROFBJZjZvQ0FhcTNtY0NnNWhCekFvSDV6SHZ1OWtMbzlQcmpPQktoeVYxd2JkRnZFQWNUam5nZGhOc3FXQmc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gen Z protests sweep Europe over wars, rising costs and climate",
-   "source": "Al Jazeera",
-   "time": "2026-11-21T02:49:16Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -639,34 +667,6 @@
    "source": "Forbes",
    "time": "2026-11-20T22:07:30Z",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWlRNXNnWjBJS2FpMmFqSUNrSExfWTBTMDZyTnBoZ2t5ekNDdFdaQ1NYMTJkem9oRExFQVlZcGhuR0hHRUtRZ0RpWDVXX245WHhPdG00ZS15Z3BuTXFEcUY0NjNVRWNUbXhDeWR4Z1B3T2o3S3IxeWUwcWVqTldOay00QjVqMUpDX0ZOMGNya1ZhSGRrNW1F?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US Treasury sanctions Iranian ‘trustees’ collecting oil revenues",
-   "source": "The Times of Israel",
-   "time": "2026-11-20T22:00:28Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSjVoWFhsS1dmMUtORDZ0QVNoSjBSMERWbzBqd0xLYk5Qb3c4ZVI3c0Z1SGJtbzY4dU9kWkJrVjQzNGQzTEZqclg2MlkzOE9DTV9nUUxKN2lkWC12N0JxN0hYTGQ5NmMydkkzSU1ENnpjd3ZkaTJ5cnZPMDc5WVF0T3FUUmRhcGUwTlpuRXJWUzFxZXUyWmVubkN3QndNc25ja3NRWlppZFA2ZExX?oc=5",
-   "tags": [
-    "SANCTIONS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Argentine Energy Firms Rush to Sell Bonds Before the 2027 Election",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "time": "2026-11-20T22:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3dkTFFadml0S2RlVnZIN1lNZnVzTDU0TzdJMlkwNlhEX21YSFcxYW03NWFqeWhUYUxWTDJzNlhCSlBMb3FCUHlXNTZ6eDYwTlBTcEZobVRsVmV5WVZFcktyMEFKRUpVSExXNGNPNnM5T0drTU9aVDBzMmhQQ21HQXE0Ti1MajlPVkpOeGlGMW11SGZyNzE2MDVLZTBrZ3Q5Wldnc20xS1hzaEFYNTk4aUtPZzHSAboBQVVfeXFMTVVUamVSQnFKaTJvUFYzdTdEZXFrOGJjYUVpTWdQQl95ZndRdTZtRHR3RE9nZnBMNmN4dUZQTjU3RVJnbVVZMGFmUW5xR2RBb2F0bjhXclAyUWVtaWZlOTlPZG1KdUJJejN2MmtyNFJvLTBFeFpsYmtxZkNUcnh2eGF2RHJpYU82SkxhcTAwTVBGa2RjUmJ5WkJxSG13eUZlUFlIRm5yOGRsZTQtVDVqZmxXbk1HNXAwaXh3?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Trump says Iran is ‘bullsh*tting’ on effort to end war | CNN Politics",
-   "source": "CNN",
-   "time": "2026-11-20T21:58:41Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdlhCSHJIZ0pod3RySmlpX1FDa0JDMmFSREdrM0ZzOE1iQmx3NVBLRzM1bmdmVFlTM2FPeXE2ZWk5a2t1OE9EbzRza3Rzclg4WGlaV2dPZ1d0ei01cEg1Q2NJZ245LUhsckhBOGZtWjl3Z3p4ZHVqcTY2LXNiQ0ZTUk45dklpNms2ZUxmTDVpX21DNkYtUkE?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
