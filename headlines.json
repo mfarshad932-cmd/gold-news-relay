@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-11-21T06:25:29Z",
+ "generatedAt": "2026-11-21T06:53:47Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 3
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -72,7 +73,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 11
+   "kept": 10
   },
   "whitehouse": {
    "http": 200,
@@ -81,18 +82,18 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 39,
+   "items": 38,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 21,
+   "items": 13,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 12,
+   "kept": 12
   },
   "gn_war": {
    "http": 200,
@@ -101,8 +102,8 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 12,
+   "kept": 12
   },
   "gn_yields": {
    "http": 200,
@@ -111,8 +112,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 13,
+   "kept": 12
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +126,24 @@
   }
  },
  "items": [
+  {
+   "title": "Sudan’s war will end, but will it be too late?",
+   "source": "Al Jazeera",
+   "time": "2026-11-21T06:39:12Z",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUy00VFBBN1E5ZmxpOTFxbzN2R0RiVVo5V3FtUXFYRkdCWE8yQmlJcDQzOENHU0JPYVhwTDgwU1pSRjg3N0FlTWZzM1FSbmxnaUhJN2ZUejQ3WHJlcWloWi1lMlJZTFNkVFNxeFJwckJSTkI3TEoxWEloTS12aU9XSFZ4TzFEWFZiOVoxVTJweHY0bGPSAZgBQVVfeXFMUEw2N3lIMFFEQndQc2plVzE3SnBMZFdFMjJCb0FxdEd4RzM4cHZwOHFwa1ZWYmlPZ1NZQjl3UW00NXl5VDFLblZINzRGSkpwZ1B0Uy1oLS1lbmdaZDBjT3RRaEV3V2Vkb0dlVFE3WE4zb0k4M3R3NHNRWkNUX2ZZWWFKZTVmTVcwYWVZYkgycHRSUmRSeWluaEc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Indonesia's OJK fines and sanctions firms for stock manipulation, disclosure failures",
+   "source": "www.marketscreener.com",
+   "time": "2026-11-21T06:32:17Z",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRU14dXRvdXA5ZVo2cG1VSlhWaWhBanJ6YlIzczR3ZnZqQzI1WXdrel9oQ0YwQ1Rzb1p6dU1EOXV0WE1JNmhIdFB4MExWRU9IU2FmeVQ5QnJ5NDI3NVVtYnFnSVdGQ1Y4c2Jpa3lJaWFKY2JRN1c5TzBTbGwwMmdpQ2JxMV9UWU13OURURzdPYV9TZ0oxcVVCQUNhdmhxR21XSFNqTThoTDZpSjIzcnpRQVZrNWVuV2M5OVE2dVNHaEtnMFdSX3BmdDNlMFRlelBYV1Uw?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
   {
    "title": "Can Israel’s opposition bloc stay united against Netanyahu?",
    "source": "Al Jazeera",
@@ -150,6 +169,15 @@
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/al-jazeera-explains-the-us-china-ai-race-is-entering-a-new-phase?traffic_source=rss",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "The chip war’s next battleground",
+   "source": "Financial Times",
+   "time": "2026-11-21T05:04:45Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ19qYnp1MlBaZldnRnozZXUxWjlTLXhWMFk3NXNmcEU5MWtXbzlDUFBiUlNLUkpFcU1OMTBySDRraFp0V2hKNUlpTzkwWEU4VlVHOGdHWWVHOUxGSVNXU1d6SU5yNllsdGZBUUpQQ2I2VlhWRnZnWlZVWThfTDc0RWRjOEI?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -181,15 +209,6 @@
    ]
   },
   {
-   "title": "The chip war’s next battleground",
-   "source": "Financial Times",
-   "time": "2026-11-21T05:00:36Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ19qYnp1MlBaZldnRnozZXUxWjlTLXhWMFk3NXNmcEU5MWtXbzlDUFBiUlNLUkpFcU1OMTBySDRraFp0V2hKNUlpTzkwWEU4VlVHOGdHWWVHOUxGSVNXU1d6SU5yNllsdGZBUUpQQ2I2VlhWRnZnWlZVWThfTDc0RWRjOEI?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "'He's a killer': Zelensky reacts to Trump calling Putin a friend",
    "source": "BBC",
    "time": "2026-11-21T04:32:50Z",
@@ -212,6 +231,15 @@
    "source": "TradingView",
    "time": "2026-11-21T04:28:00Z",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVy1rdS16TkRMSkVEdUZ1TVc3SE5DTWtWRE1xaDlQM2JqbGx0QXloSXNEMGpQdVpQbWlINjlTcHRiQU1RM2NWYWZvbm1xTUlvR094TC1CWXc2N0t5bjhySXAwSVhISzkxQkphMFdFTUN4S1FicDlvclRCdjVKcmVsQnJycUE3VmNLWjZFaktpY3paRi1idmo4ZktFanNrWHZ5QmgzaVRkZTJiOEotNFhfTFhDeXNIY0JmM2xmZ0xkZzYyc0lvVTc0Z3dR?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
+   "source": "Kitco",
+   "time": "2026-11-21T03:51:23Z",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
    "tags": [
     "GOLD"
    ]
@@ -386,15 +414,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNWRKWVRRWE9Ca0ZYSWhiQkF0cTFoekpxUmlRTFN5azRSN1BvamF1STJQdzZPUU9PZFduX1VMcjNIWEl0bzdWbkVubFN6SUNGcVl4X1FwTnl4SW1oRkNaTTh6dnpxMV9GbnVDR0x2LXVhQlBjUFBEczQ0blZVMGkzU3VTY0xQd3B4RmtlWXNXb1RGMkI2SFhSVDJ0NlphVkllUWNLUmlGVEtFZw?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
-   "source": "Kitco",
-   "time": "2026-11-20T23:43:03Z",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
-   "tags": [
-    "GOLD"
    ]
   },
   {
@@ -650,24 +669,6 @@
    "source": "NBC News",
    "time": "2026-11-20T21:53:45Z",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdjNPSTZnd0dORDkzd0M5amxKcnVNZlVjOXllbmlUdUl3SDhRQWVJcVVPdXFLU0NMQVc1UlFrSmh2SVlYN0ZoNWR4d1Myd3JRQ0M5SEJaOEQtU25vd2xCa0xKZDRjVW82enNNWmlDaTUxaEtJV3RJbnFqRXBwRTNabV9aZGZ1TU1wSTh5LWJ0bk5DNVJ4Sy1IVDhJemJXYVVJamluM1N5R3lpVjIyLUdhNEZMZ1JxUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "How Michigan’s Economy Could Suffer From Proposed Canada Auto Deal Change",
-   "source": "Newsweek",
-   "time": "2026-11-20T21:38:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMHRxMjEtNmVkVXgwS1J3YWlfZUMzTzZfVWZBQldyTU1TNDhuSDhmQXkxM25uVGtEV182TFMwWkZYMWVfaVlPUXAyc1VpZGcySldXUlZBMXpZOHo1SUtFTVhmQUoxM2tlbDBxdlN3RkNfWW1YZHlmd05xYUhkUmI0dFlabXZLZ0N5UE5NQ1lIbllGbHJsUXVKcVF3ZmtDcFR4eDJUdTZ2aUw5UQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump threatens penalties on U.S. companies building data centers abroad",
-   "source": "The Washington Post",
-   "time": "2026-11-20T21:34:52Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSDhrZmYyUm12WmE1S3ZjMFkwdHBDOUJ1T1NIN3V0a2J3YzVuZmQxQlByR193T0xKZE9saUxndzR1YTZoNUhvTXVlakphSGhod1lRNXV5WGRfMDg1QURFYUJtMGZMYnhiTmZtaDg3MXJkOVNQT3dXejVGcGh2Uld3RXZBZHFfcWkwWmFoOF9KcEdfWk1UYy1WU1pObXpJbEtfaDlzbFQ3WDdUNXMyMU9qUDVzWTBVbDJDNjk0?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
