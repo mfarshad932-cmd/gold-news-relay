@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-11-21T06:53:47Z",
+ "generatedAt": "2026-11-21T07:22:06Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 3
   },
   "fed_monetary": {
    "http": 200,
@@ -58,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 4
+   "kept": 3
   },
   "bbc_business": {
    "http": 200,
@@ -73,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -97,23 +96,23 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 43,
+   "items": 40,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_yields": {
    "http": 200,
-   "items": 13,
+   "items": 12,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 13,
-   "kept": 12
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,6 +125,15 @@
   }
  },
  "items": [
+  {
+   "title": "Emergency crews in Ukraine hit by a double-tap strike",
+   "source": "Al Jazeera",
+   "time": "2026-11-21T07:12:03Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Sudan’s war will end, but will it be too late?",
    "source": "Al Jazeera",
@@ -145,19 +153,28 @@
    ]
   },
   {
-   "title": "Can Israel’s opposition bloc stay united against Netanyahu?",
-   "source": "Al Jazeera",
-   "time": "2026-11-21T05:46:29Z",
-   "link": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
+   "title": "Vance declines to say Iran war was worth it, but says he supports Trump",
+   "source": "The Washington Post",
+   "time": "2026-11-21T06:09:32Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUEJKV1RqaEVxeGhmZ1VGeE9HaGl4d0liN19ndWtxZDFYSzhxSXZuRF92X1NkOVVoeXZzZXNGcm94WU5iaWk2VGlyaUI2NFZIdHJNLWtYZVpWNTZNQlZvNUJnd0U3cGZWbXpuUktMZDl3Vm1oUUlrUHZlZks5TjFDdFBBZzcyRElGWmZwRHFaUDNkVWpxWmRybDNVbVRiRkJoekFKYTcxaGxjOXhiUmxXYkh5c09kT1E5eFZPRjVyZy1lTzQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "Vance declines to say Iran war was worth it, but says he supports Trump",
-   "source": "The Washington Post",
-   "time": "2026-11-21T05:41:47Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUEJKV1RqaEVxeGhmZ1VGeE9HaGl4d0liN19ndWtxZDFYSzhxSXZuRF92X1NkOVVoeXZzZXNGcm94WU5iaWk2VGlyaUI2NFZIdHJNLWtYZVpWNTZNQlZvNUJnd0U3cGZWbXpuUktMZDl3Vm1oUUlrUHZlZks5TjFDdFBBZzcyRElGWmZwRHFaUDNkVWpxWmRybDNVbVRiRkJoekFKYTcxaGxjOXhiUmxXYkh5c09kT1E5eFZPRjVyZy1lTzQ?oc=5",
+   "title": "How China is using summits to expand its global influence",
+   "source": "CNBC",
+   "time": "2026-11-21T06:00:02Z",
+   "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Can Israel’s opposition bloc stay united against Netanyahu?",
+   "source": "Al Jazeera",
+   "time": "2026-11-21T05:46:29Z",
+   "link": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -554,15 +571,6 @@
    ]
   },
   {
-   "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
-   "source": "Al Jazeera",
-   "time": "2026-11-20T22:15:07Z",
-   "link": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
    "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
    "source": "AP News",
    "time": "2026-11-20T22:15:00Z",
@@ -660,15 +668,6 @@
    "source": "CNN",
    "time": "2026-11-20T21:56:00Z",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWVhVbGZLY1otcEhJU2xyQnNHV0FjZkh0VEYwVlA1eUNIOGlTMUMzVFdBdXdWUmZtV25GYVVXbjFrbzVDb18tTDBOTVRzNW1Qcnp2djZYWHBvVWpHVWpNU0RMTDZLU2RsUnVjaVcteUtXLXBvSThMYUpEajN0NVMzRXdCamZsdFV6b0RsWkNFVEM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Vance sidesteps question on the Iran war, saying, ‘My job is to support the president’",
-   "source": "NBC News",
-   "time": "2026-11-20T21:53:45Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdjNPSTZnd0dORDkzd0M5amxKcnVNZlVjOXllbmlUdUl3SDhRQWVJcVVPdXFLU0NMQVc1UlFrSmh2SVlYN0ZoNWR4d1Myd3JRQ0M5SEJaOEQtU25vd2xCa0xKZDRjVW82enNNWmlDaTUxaEtJV3RJbnFqRXBwRTNabV9aZGZ1TU1wSTh5LWJ0bk5DNVJ4Sy1IVDhJemJXYVVJamluM1N5R3lpVjIyLUdhNEZMZ1JxUQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
