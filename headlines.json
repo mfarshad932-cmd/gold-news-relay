@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-11-21T09:43:42Z",
+ "generatedAt": "2026-11-21T10:12:06Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 3
   },
   "fed_monetary": {
    "http": 200,
@@ -73,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 10
   },
   "whitehouse": {
    "http": 200,
@@ -82,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 37,
+   "items": 35,
    "kept": 12
   },
   "gn_fed": {
@@ -97,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 36,
+   "items": 34,
    "kept": 12
   },
   "gn_sanctions": {
@@ -112,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -617,6 +616,16 @@
    ]
   },
   {
+   "title": "Trump again urges Fed to lower interest rates",
+   "source": "The Hill",
+   "time": "2026-11-20T22:32:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORHJUSEpNa0JZMndrUTZhcTdiQjkzTUU0bkJqSmF5ZGNJYV8xSGozbjJTQ3FwUEpNUUdvd0JjYWJHMy1vRGI5YlNrUmNlUF9vNVFiYkRyT3YwWmdhRWlFMVl5bGVPcUcyeTNVRDNENzJlTVYwT3hWSHV0UUwybF9wZEFmQjE4LWc4OVBUVUx3SzJEREJmUXNhTU5ETTQ1Rl92dmFtQS1B0gGrAUFVX3lxTE5WbHZmMnMxbl9oRlU5S0JsbFFBVF9RaldTc1RfSmk1dEZRNEw3SEJhZkw0S19HQ1dfNlNiZjZ6T05UWDNYZ1BRMkNQRWhxWGt6U2JnRkZ2emQ0NmFfdWN5ZFdQdHV2NXhncWpJc05qWU1kQnJYSVBOM2NTeGRfWkE2TFduRWpWX1FmQ0pOSU1OOWkyUXpiNFFWWERBVnNJakdHUzM2VjR0VEhYYw?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
    "title": "Wall Street stays bearish after gold’s slide to $3,500, Main Street pessimism deepens ahead of holiday week",
    "source": "Kitco",
    "time": "2026-11-20T22:26:49Z",
@@ -660,15 +669,6 @@
    "tags": [
     "FED",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Trump Deflects When Asked If The Iran War Was Worth It",
-   "source": "Forbes",
-   "time": "2026-11-20T22:07:30Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWlRNXNnWjBJS2FpMmFqSUNrSExfWTBTMDZyTnBoZ2t5ekNDdFdaQ1NYMTJkem9oRExFQVlZcGhuR0hHRUtRZ0RpWDVXX245WHhPdG00ZS15Z3BuTXFEcUY0NjNVRWNUbXhDeWR4Z1B3T2o3S3IxeWUwcWVqTldOay00QjVqMUpDX0ZOMGNya1ZhSGRrNW1F?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
