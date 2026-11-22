@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T09:20:11Z",
+ "generatedAt": "2026-11-22T09:48:33Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 27,
+   "items": 28,
    "kept": 3
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -80,52 +80,44 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 6,
+   "kept": 6
   },
   "gn_fed": {
-   "http": 503,
+   "http": 200,
    "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "kept": 0
   },
   "gn_tariff": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 3,
+   "kept": 3
   },
   "gn_war": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 24,
+   "kept": 12
   },
   "gn_sanctions": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 3,
+   "kept": 3
   },
   "gn_yields": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 4,
+   "kept": 4
   },
   "gn_oil": {
-   "http": 503,
+   "http": 200,
    "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "kept": 0
   },
   "gn_cbgold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -136,8 +128,17 @@
   {
    "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
    "source": "Al Jazeera",
-   "time": "2026-11-22T09:06:27Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+   "time": "2026-11-22T09:10:15Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObk8wNnVFTl9Lam1DWFladHZVY3BPX2NnbGtfQlJNbmdjdi1IYTZhelVZcm15dGdiNlp5ZjBZRnBkZTd1ZVhBaWpuUUtIdURRc1ZkQ2I2bmJaMVV1LV9mMWNHMVZBeXBZMVVhWmJ0cTd1c2p0OWo5QjMwV0dlMDNSajBIZHlFVDRLTGRqcGZWQ2FkaDRGRG5zWG1ZNTdPOWhvTFF1V3JvanQyREnSAbABQVVfeXFMT1h6MHpnQUZKbVZ6RlRpMjJ2WjJrZ00xcFAzOEM5WmgwUjluZHlZeVJZcjFGZlpaa0pGbFFaRHY1UHlhLXJzY1lIdTItYV9wSlRhQnFTaWlXR2tDYWZtX0txTlVTSUczZXZnLVN2MVdrS3FYbTRQLVFpYmtnX1NMNTFNY2VtXzNweTBEWXQ2WHJJSXkxeEd4VWZOZlJZOUhVeHlXMUFhaHp4RTVjRGFqT0Y?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "At least 14 people missing after Russian drone hit building in Kyiv region, Zelenskiy says",
+   "source": "Reuters",
+   "time": "2026-11-22T09:01:43Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmFwN2pYTHZEVndFX2hfN3VOQnduN3pEYnZXa2tfT1d1UGZDejk3ZU11dkwwLTdsUTltdm0taU8wTnpNTkZVV045Z3pkc0czd2FSS1lEZDhyLVVCNFJvNk9xUHR2ZUxydnAyYTJDVzd3RWIwQ1E0YjAyc2R6bkpkbkt1aThfVldjUGRKbkhXanhraVo3SkJHcHBuMmxBcXJreDhQSEx1QV9ZUXhDOHdhbmZMRkZoeVBOXzJ5ag?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -152,21 +153,21 @@
    ]
   },
   {
+   "title": "Gold Silver Price Today: Gold Falls ₹58,830 from Record High; Could 10-Gram Rate Drop to ₹1.17 Lakh?",
+   "source": "theopenpress.in",
+   "time": "2026-11-22T08:31:05Z",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS0tUZWhtaWNMLUJWLVA3N21ZWTFYRno2T1pZczJURFR4OUQ1dExWTzEydl82eGQ1dERuMXJ3UzZqNURJeEtFeW55UEtRT1JoNW9faG10WUIwTGFjVnZ1c3dzalNJaGtIVnJDdnl2ZU16azlOZHJfS1VqcklBWlNRbDBkcEJXbXVDVTktYVhiZXV6Rk0?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Dashcam captures Russian missile strike on Lviv, Ukraine",
    "source": "Al Jazeera",
    "time": "2026-11-22T08:13:04Z",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUW0waDFYcE81MlNfS1FJT25tZXV6SFVLWmhLSWdicllwX1JSandoUm0yU19ZLW1QdDRoUnlpTHBjSVhIZjFXc1RpUko3aUZJWlBjODFLRUQ0ZVFWTWlCd2V5WFo1VlZxR01KQ3hJTmR4cDZkdm9hUDJ0SWpvZkdRdDByTmJXU213enJPd2ozSy1jQmVCNFpFN0RaSHBJSTE2UDg3LVZWRFM5YTjSAbABQVVfeXFMT1ltd0RWTHk0UzVCUXJuTTJjclNGa1JuM3hIMWs0N1FsQXc0am5XTXZFbUozMDhkVTZ6SUQ4QTdIbnNWV1JCQnB1dTJIaTJ2WmxxdDZTS2dPSVRTVzlQQmdVeVowYU5xNmc0NFVwWG5oajRvYzIxSVBjM0duU3JWeTZNVWVKTXFOMk4xdFhBYTZsX0RnelNaOFJTTHJQTllRM25MM1hwVkl1X2ZDakRfQ3U?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Silver Price Today: Gold Falls ₹58,830 from Record High; Could 10-Gram Rate Drop to ₹1.17 Lakh?",
-   "source": "theopenpress.in",
-   "time": "2026-11-22T08:06:52Z",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS0tUZWhtaWNMLUJWLVA3N21ZWTFYRno2T1pZczJURFR4OUQ1dExWTzEydl82eGQ1dERuMXJ3UzZqNURJeEtFeW55UEtRT1JoNW9faG10WUIwTGFjVnZ1c3dzalNJaGtIVnJDdnl2ZU16azlOZHJfS1VqcklBWlNRbDBkcEJXbXVDVTktYVhiZXV6Rk0?oc=5",
-   "tags": [
-    "GOLD"
    ]
   },
   {
@@ -665,15 +666,6 @@
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yMEZVZlBMcVNiamZhXy0zc09ncWhlZDByYTFoUnhVWTBZUExUVXdKYzFGNkUzdGg5cG9EUXZUVXJuaVRITHE1bnhtbw?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Fed Cuts Pay Raises for Regional-Bank Staff",
-   "source": "WSJ",
-   "time": "2026-11-21T16:54:30Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSE9oYmJPLTJKZ3p5QzM1RWZ6WHZTc0g0M1dsdkl4czJFenpyWnRFdWJwX2dIR2F1a00xTFNIRUFFcFlYSUZRUlBENGVGV1VvYUtOWmVJNWlzcjBCVDd0aGRwR0x3WVdvQVVqU2xHTnFtU3hqZ21sV01ZcVlUdGtJUzg2VmlEc2d3c1pqdGRzTjJBaVhFRGdWWi1zVzM?oc=5",
-   "tags": [
-    "FED"
    ]
   }
  ],
