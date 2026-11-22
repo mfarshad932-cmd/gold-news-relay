@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T13:06:58Z",
+ "generatedAt": "2026-11-22T13:35:18Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -16,7 +16,7 @@
   "fed_speeches": {
    "http": 200,
    "items": 15,
-   "kept": 2
+   "kept": 1
   },
   "ecb_press": {
    "http": 200,
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 5
+   "kept": 4
   },
   "investing_news": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 3
+   "kept": 4
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -81,8 +81,8 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_fed": {
    "http": 200,
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 27,
+   "items": 26,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,8 +106,8 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 3,
+   "kept": 3
   },
   "gn_oil": {
    "http": 200,
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,42 @@
   }
  },
  "items": [
+  {
+   "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+   "source": "CNBC",
+   "time": "2026-11-22T13:25:47Z",
+   "link": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+   "source": "Al Jazeera",
+   "time": "2026-11-22T13:16:45Z",
+   "link": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
+   "source": "Al Jazeera",
+   "time": "2026-11-22T13:15:40Z",
+   "link": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Kyiv's restaurant owners brace for tough winter as war pressures mount",
+   "source": "Reuters",
+   "time": "2026-11-22T12:56:01Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZk9Cek1qUUR2b1hOU1JxOHRoQ09ZQ2YzX2RMTkRlNTZmWGluXzZCb2l5SzAyQV8yUm5icGxHVmhCajBESWdpc1pDdTBiVHhObEdfaFpZSzNTWUdVRnJHRTNFZ2MzYVlHNnNRSDFWX1BnZ2RJbUczY2MwZG1IN05xZVRXelJoNkVGWlRkTTAtbDNGcFFDcTdORkZNZXFFcW50NjdCaGlPcw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Egyptian Pound Falls Past 54 Per Dollar, Local Gold Prices Hit EGP 5,550 Per Gram",
    "source": "Forbes Middle East",
@@ -241,15 +277,6 @@
    "source": "BBC",
    "time": "2026-11-22T11:25:14Z",
    "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Kyiv's restaurant owners brace for tough winter as war pressures mount",
-   "source": "Reuters",
-   "time": "2026-11-22T11:25:11Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZk9Cek1qUUR2b1hOU1JxOHRoQ09ZQ2YzX2RMTkRlNTZmWGluXzZCb2l5SzAyQV8yUm5icGxHVmhCajBESWdpc1pDdTBiVHhObEdfaFpZSzNTWUdVRnJHRTNFZ2MzYVlHNnNRSDFWX1BnZ2RJbUczY2MwZG1IN05xZVRXelJoNkVGWlRkTTAtbDNGcFFDcTdORkZNZXFFcW50NjdCaGlPcw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -517,7 +544,7 @@
    ]
   },
   {
-   "title": "Incoming House Speaker Jeffries prioritizes West Bank settler violence bill",
+   "title": "Incoming House speaker Jeffries sets sights on West Bank settler sanctions as Democrats take House",
    "source": "The Jerusalem Post",
    "time": "2026-11-22T05:29:34Z",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kSVp0MzBaeERyN3p2aFZQYVZOY01kTW5ZSkZzWUJtREpISmxXQ08xUVBMRVExYWpWV0JQLXo4VXNFUFR4R2RiUzR6bVE2M3lvWllUdW40LU9GQk1uRGNOeUtfd0s?oc=5",
@@ -591,24 +618,6 @@
    ]
   },
   {
-   "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
-   "source": "Al Jazeera",
-   "time": "2026-11-22T02:14:18Z",
-   "link": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Bessent confirms he’s living on US military base over Iran fears",
-   "source": "Al Jazeera",
-   "time": "2026-11-22T02:05:50Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
    "source": "The Guardian",
    "time": "2026-11-22T01:46:00Z",
@@ -655,21 +664,12 @@
    ]
   },
   {
-   "title": "Iran claims strikes on U.S. radars in Bahrain; Saudi downs missile",
-   "source": "Investing.com",
-   "time": "2026-11-21T23:14:41Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMnZFODNvOUNzbTN2cllHd0tMQ05KS2tJRkpkZWcyb3dIQy1wWUNSd1U2ZjVMZUNDSURFNUdUNjFiRS1fVDBrMk9MTlZ2aC0tbU1Taks4LXBmNkx4MTdGLThPWHJrb1J2X3RoVDZTNWdfYXI0MUJmQjRQUHlRdW9nYmp4QTVPTzI1VGVITVVTU2dTWjFDdlo1dEdRZUNYREVSZlZEb3ZOZFF2Vk53MU9TUkk1bDdyS1plMkhSU2Z6d1RFeUhPRkM0ZUhYWQ?oc=5",
+   "title": "Rhodium Price Canada Today | Live Rhodium Price in CAD",
+   "source": "Kitco",
+   "time": "2026-11-22T00:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtaV8zMHNaSEZJbEhBeWtNVHNnOFBDeGFiNEx2N2MxS2F1UHFWdUEwQU5PdjdQazNvY1Bsd1kzYTFzc2ZzWm43VEJ5bVFCYWNxOTkwS1Q2aVk?oc=5",
    "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Saudi-led coalition says it intercepted Houthi ballistic missile targeting western region",
-   "source": "The Times of Israel",
-   "time": "2026-11-21T22:24:35Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUnNlQ1lhSmk1a1psTzNnNldCRFNvUW1DTkpZeGVLN3QybnJWMUs5VXNPcjlDbnR3NmxJanJQSlRrWVdOQnM1WXJ6Z21OUElRbkxDUWRjdEVrUUs1Y1lSeGVKcDBxMHVJVHJDOFhaS1l5R1R5RkRhWjNaMXdBRWpOUTh5ZlhFS0NCRkZsVHcxRWZuYUlpNzlEd1JEVk16cHB5bjRzUE94cWJhU3V1ZXM5bHZ5eWRCb1cyMVNYc0djRnhGNmtXeXZEeXZ4WXZmTU1q?oc=5",
-   "tags": [
-    "GEOPOLITICS"
+    "GOLD"
    ]
   }
  ],
