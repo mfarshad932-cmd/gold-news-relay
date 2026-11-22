@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T08:51:47Z",
+ "generatedAt": "2026-11-22T09:20:11Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -80,44 +80,52 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 5,
-   "kept": 5
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_fed": {
-   "http": 200,
+   "http": 503,
    "items": 0,
-   "kept": 0
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 3,
-   "kept": 3
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 27,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 5,
-   "kept": 5
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 4,
-   "kept": 4
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
+   "http": 503,
    "items": 0,
-   "kept": 0
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 6,
-   "kept": 6
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +133,15 @@
   }
  },
  "items": [
+  {
+   "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
+   "source": "Al Jazeera",
+   "time": "2026-11-22T09:06:27Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Iran's Bahrain Attack Comes as JD Vance Stops Short of Endorsing Trump's War",
    "source": "Benzinga",
@@ -430,15 +447,6 @@
    "source": "The Times of Israel",
    "time": "2026-11-21T22:24:35Z",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUnNlQ1lhSmk1a1psTzNnNldCRFNvUW1DTkpZeGVLN3QybnJWMUs5VXNPcjlDbnR3NmxJanJQSlRrWVdOQnM1WXJ6Z21OUElRbkxDUWRjdEVrUUs1Y1lSeGVKcDBxMHVJVHJDOFhaS1l5R1R5RkRhWjNaMXdBRWpOUTh5ZlhFS0NCRkZsVHcxRWZuYUlpNzlEd1JEVk16cHB5bjRzUE94cWJhU3V1ZXM5bHZ5eWRCb1cyMVNYc0djRnhGNmtXeXZEeXZ4WXZmTU1q?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Bahrain says Iranian attack hits industrial facility",
-   "source": "Al Jazeera",
-   "time": "2026-11-21T22:02:19Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaURzQjhraTl1ZU1BWm91UUZvbTBHZzk0UV9nb3VmMUM0U3dIMkNNZDJwRzBKSGhxZFdxNFV2SzNJRVBxNG9jbEV4c09RdWNsR2FiZGtKb041V1lGMWU5Ql9XN1IwS21BT2twLUpCUlNfeTRId0RCQ01XRVFkWEZiSWxlSzRNaGtvSzJ0WTBSVEJuVTRaeEZPbmJHUWNBMDVQUWgySTlRZ9IBrAFBVV95cUxNdE52aDUtODRDUjBOa1FWSWpZVjVVVGFIb3pjZnB0M2VQY0RxYXJkLUdId3kwWE8tWWs3RGhfSk9sd2FYZnFGUnozbUtmRXo0ak1ZTXdFbnUwTWQ0ZWliTkZvR1NaQUNKdFlJZHh0WGhVakp4VVlzcXFna2pOcXR1VkNQTk95RlBHaDRTbm5wRVMwQjhINHZOckF3M0FSSFVfclRuOVVnNjFISmVY?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
