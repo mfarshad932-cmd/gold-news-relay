@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T15:33:26Z",
+ "generatedAt": "2026-11-23T16:01:52Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 8
+   "kept": 7
   },
   "investing_news": {
    "http": 200,
@@ -61,7 +61,7 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 52,
+   "items": 53,
    "kept": 0
   },
   "bbc_world": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -86,8 +86,8 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_tariff": {
    "http": 200,
@@ -95,14 +95,16 @@
    "kept": 10
   },
   "gn_war": {
-   "http": 200,
-   "items": 45,
-   "kept": 12
+   "http": 429,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 7,
-   "kept": 7
+   "http": 429,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   "gn_yields": {
    "http": 200,
@@ -125,6 +127,17 @@
   }
  },
  "items": [
+  {
+   "title": "Fed 'Jedi central banking' won't stop inflation - TS Lombard’s Dario Perkins",
+   "source": "TradingView",
+   "time": "2026-11-23T15:31:48Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTFpxNEs5UkJoZlJiOVQ5ZW1SeTd0LTdPOFQ2eDd5Y2xteHp6QkRFNU50enhlZXJpMzNDWjdHTWVSZU5oNnRsS0huWTNvbzZmSWFzUkVHUFowWGdnWWt6LUd0a2c2VGFIYzhDM2F2YXdidHQxTFZnV01mYW9LTXlMeWlhZ1FBa2RybkpHSHBhSFpUWDFzUGV0LU1zYzZ6d09nNHFmWlVhSHJGSkJxYmViMUVvNm5wLUNqSjNWZEtuc1pPTllVdFVESVZaWWhfakdj?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION",
+    "CENTRAL_BANK"
+   ]
+  },
   {
    "title": "EU Commission proposes 22nd sanctions package on Russia",
    "source": "Reuters",
@@ -665,15 +678,6 @@
    "tags": [
     "GEOPOLITICS",
     "OIL"
-   ]
-  },
-  {
-   "title": "Republicans mulling deal that would fund military, but limit operations in Iran",
-   "source": "CNN",
-   "time": "2026-11-23T11:00:15Z",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13UFAzOU9VZEE0Qk5rdFNLNWJvU2FqLTd5a0Z0N0RGU1JaclhBamtSR29tdUpuTU5adXlBU3JieDBPbnNkWndfSnRqck4xTGFMdHhQdmdQQXhCeW00cTBSdFBPY2dnUExkU292cjJ0Zk9TWnM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
