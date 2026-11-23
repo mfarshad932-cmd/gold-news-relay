@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T08:28:16Z",
+ "generatedAt": "2026-11-23T08:56:34Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 2
   },
   "marketwatch": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 37,
+   "items": 35,
    "kept": 3
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 3
   },
   "whitehouse": {
    "http": 200,
@@ -81,8 +81,8 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 10,
+   "kept": 10
   },
   "gn_fed": {
    "http": 200,
@@ -96,13 +96,13 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 44,
+   "items": 40,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 4,
+   "kept": 4
   },
   "gn_yields": {
    "http": 200,
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 3,
+   "kept": 3
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,15 @@
   }
  },
  "items": [
+  {
+   "title": "Poland’s producer prices rise 8.0% in October, beating forecasts",
+   "source": "Investing.com",
+   "time": "2026-11-23T08:38:20Z",
+   "link": "https://www.investing.com/news/economic-indicators/polands-producer-prices-rise-80-in-october-beating-forecasts-93CH-5044678",
+   "tags": [
+    "INFLATION"
+   ]
+  },
   {
    "title": "Ukraine claims responsiblity for drone attacks on Russian ships off Libya",
    "source": "Al Jazeera",
@@ -181,7 +190,7 @@
    ]
   },
   {
-   "title": "WTI Forecast: Vulnerable below $83.00 amid surplus outlook",
+   "title": "WTI Price Forecast: Seems vulnerable below $83.00 despite Mideast jitters",
    "source": "FXStreet",
    "time": "2026-11-23T07:46:16Z",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNVcyTkFjQ0RZZDBVUlFsTk0zV1BHbTNFNkt5RHB5U3FnZG1MaGx0SnlWWXM0aHJxMXIzR2RHVGFKWHJ4SGFfWk1ZZ3RMNjRJNG1OZC13Q05xY0pBTVY2dWRxQ21XcXljV1NoMTdCb2NUQUhSaXQ4cXlIcTYwZmwyeW82U290SUpwbU4xTVBudkp0TVJiOEdjNEpsSTNRUnA2LXl2eWx2M0c2dm92QVAzMEZNTQ?oc=5",
@@ -234,6 +243,16 @@
    "tags": []
   },
   {
+   "title": "Gold, Silver: Liquidity-Driven Correction Offers Generational Buying Opportunity",
+   "source": "Investing.com India",
+   "time": "2026-11-23T07:14:03Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN3kxVVAzS211Wlo5X0hTQVNaX3RLUjB6OE9wemF5dDRhTDJ0WTg0RV9VbG1rWUN5R2JJaTJCLUtaOW85Ry1TLW9ON003ZExPdVpWZTFpSV9ta21lcE1KMW90cDQza0ZtMEM3WmZoMzVra21FRXNSSlUxeHY4alZSZmhvTlp5STVXbEdVbEtXZzU0NDRXdXlqdUhtelFxb21rQmJId1lNRnlNNVhRYmtOZjZqQWRKT2dZWmxpd3RR?oc=5",
+   "tags": [
+    "CENTRAL_BANK_GOLD",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Gold Rebounds From 14-Month Low as Iran Tensions Keep Safe-Haven Demand Alive",
    "source": "Investing.com",
    "time": "2026-11-23T07:08:00Z",
@@ -248,15 +267,6 @@
    "source": "Investing.com",
    "time": "2026-11-23T07:07:00Z",
    "link": "https://www.investing.com/analysis/gold-and-silver-wellundervalued--sp-still-wayovervalued-200692103",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold, Silver: Liquidity-Driven Correction Offers Generational Buying Opportunity",
-   "source": "Investing.com",
-   "time": "2026-11-23T07:03:00Z",
-   "link": "https://www.investing.com/analysis/gold-silver-liquiditydriven-correction-offers-generational-buying-opportunity-200692086",
    "tags": [
     "GOLD"
    ]
@@ -570,7 +580,7 @@
    ]
   },
   {
-   "title": "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
+   "title": "Bessent Says Fed Risks Jeopardizing Economy by Overtightening",
    "source": "Bloomberg.com",
    "time": "2026-11-23T03:29:00Z",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcXh5Rm5oX0xZaXpqczkwRTFfM2gzWGFGQzNsOWZlVVFuOTU1dHgwN1YwektGRmFBOW5LWUltcUE2Q0d2YThXTFQtSHctaFZmcUFWWTRsX0dMaWpKRUtnd2cyUFViMGt6b2N1RGJRMmdmUjF4aUlJR1J2dDF5c2lTZXd4dlFyVG5IQ2hFR2VyTG8zTWZvQ09Oc25Cd2x1Q2pFMFQtOW9FMjV4RnR1Vmc?oc=5",
@@ -660,15 +670,6 @@
    "source": "marketscreener.com",
    "time": "2026-11-23T02:15:20Z",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSTR2X3JXd2ZldjNDYU0xSFBWREJzV1ZRcXY5Tl9GYUNUTDBRWENzVkthVmRtM2RqUldfU05DMTVONEpNNEhlWkt1WHkzYm0taFJ5S1ZTYm94TWRFU0I3LTg4eEZxa3hNbFVJZVhwQWJ5Nk5COGR1SE56Ri1DblhDdkNacnlHM2dlOVEzUUlZVm52OXN4cXJtSnBPbXYyRWkwT0hQT3BxQ3RnaURuU2VTeWpUZ05GU2hOck4yRHdhR19FYVE?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Tumbling Treasury yields set to drag down Indian bond yields",
-   "source": "TradingView",
-   "time": "2026-11-23T02:13:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDFHWXRGeVhkUFdfbUZUVEdxaEJPUXhTYzRXcDdIblZkazNDTk1ZZUtEMzV0bU9pMjV2b0s0b0hBWFR3Z3NKV0xPeFo2azlLLWtMVi1zaFIyZ2JUZUlmREFLT0UzNjhzLXFMMFQ0TVc0dFpicHV0dmE2QXFTaUduUGtlVGw3bjhOR2hQRVhFdU5kOVdSamJoM2hUMGFzOThobHk1SFFqZms1dndLSHZVNzRQcXlNSGdBRFR2TlZURmMzamhhbkRoeWVR?oc=5",
    "tags": [
     "YIELDS"
    ]
