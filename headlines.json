@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T09:53:01Z",
+ "generatedAt": "2026-11-23T10:21:20Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -21,7 +21,7 @@
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 0
+   "kept": 1
   },
   "bea": {
    "http": 200,
@@ -57,11 +57,11 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 2
+   "kept": 3
   },
   "bbc_business": {
    "http": 200,
-   "items": 47,
+   "items": 48,
    "kept": 0
   },
   "bbc_world": {
@@ -81,8 +81,8 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 13,
+   "kept": 12
   },
   "gn_fed": {
    "http": 200,
@@ -91,23 +91,23 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_war": {
    "http": 200,
-   "items": 37,
+   "items": 34,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 2,
+   "kept": 2
   },
   "gn_yields": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 7,
+   "kept": 7
   },
   "gn_oil": {
    "http": 200,
@@ -125,6 +125,71 @@
   }
  },
  "items": [
+  {
+   "title": "Treasury yields jump as stock futures rebound, investors await New York Fed President Williams speech",
+   "source": "CNBC",
+   "time": "2026-11-23T10:15:19Z",
+   "link": "https://www.cnbc.com/2026/11/23/treasury-yields-bonds-fed.html",
+   "tags": [
+    "FED",
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Federal Reserve: Consecutive hikes and sticky inflation – TD Securities",
+   "source": "FXStreet",
+   "time": "2026-11-23T10:11:54Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU3JfVjFBY29POHAyMUxvRGlBbE16Q3l3LXAtb1lTVlJkZU9pZ0llbHUyT0hYQzM4c2ppZVZkSlhlMWlxSWV0cjJrLVp2aGxaRTlzcXJzTXlReFoxb1RkSTlTckZLTTN1MWM4WnNRYURvZG05LVNLOS1lNk9qTkc2N2VBVldkZ3F2VTVWXzE4OEpCNVk0ZHZCb3pzOU52algxUWlNMGM0TlAyeXN1MDVlTw?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Colombia Marks 10 Years Since FARC Peace Deal: In Photos",
+   "source": "The New York Times",
+   "time": "2026-11-23T10:02:48Z",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQlVQeENKbG40bHlSbEJPTmZIYmg2eElReEdHQV95b0JHRzRDLUdTMnFweW1KU2dVQUtlY2cxTkpJTzN3YW96Q2hvbmZYak9UZmNXNGJhYWhGOVRsdTBtQWxMUE9iajBKQjc5WHZ4VHRFRXNuNF9oeGVObFczTnE1c21HZ1pIZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Apple Risks Losing the AI Agent War With an Outdated Playbook",
+   "source": "Bloomberg.com",
+   "time": "2026-11-23T10:01:09Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY0NlQ2FFZWVRd2FPTTJ4cjhKU3Vjb1hXdlZ2R1pfN2IxdlBxMDRZWmRMS1FyNXFSamtldk5GcVVPdnlxOFc2cmRsbS12TnFSdGhKeUx5NEF5dFJHUE12WDR2NGpZckk5cm5Ha3YzeXp0RkR2Y1BuTnhDWDczS18tTTlTWFplX0oyQy1SRDhFRS1jbzY3RnlIMWU1eHB1UktHWmpMT003MXV4d2l0bEg0QVp2bWJrWFUzQ3Rsdk5UbG9zNS1rLWlZV0pjejZQUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+   "source": "ECB",
+   "time": "2026-11-23T10:00:00Z",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+   "tags": [
+    "ECB"
+   ]
+  },
+  {
+   "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
+   "source": "Al Jazeera",
+   "time": "2026-11-23T09:56:15Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95V2lBM1hDaWY4eHByMlh4RnpLTkhIOVBtQnFXMHM3R0hfV2lxZEZSNTNBbEg5cHowV2VobnNxU3VnZzlTMU16alVwNjJ0XzBNNlRCVElvdEFkVkV0RFhSV3ZvV2FUQThMSzdqLXVYNDBIeWxmTHpjd3FwUncwME3SAYQBQVVfeXFMUGo3NGlSR1RUbFN2RGd1QkNpQUV3YlpOOGhNc2lvYWs1WVVEbmpJNjVBanY2Mk1LZWFvLWJCLVdYU0pqaFRLUGNHYi1wM2J0cGdqSkVUQkRlbGo4bEh3SENuQjRFUC1uSms0TDJCR19UU21VSEk3b2I0UmR5NVdWTjFIdjFS?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Prices Rebound From 14-Month Low as Technology Sell-Off Boosts Safe-Haven Demand",
+   "source": "Yahoo Finance",
+   "time": "2026-11-23T09:47:13Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS3NaR0Q3MDBhcEc0VWI4S0dGWWdVWkxhTDZCVTU1WVJHSjhMOXljMHVIYldZV0pIWWUxU3l4Vnc2SER0Um9QOUxnZDhmeW80bDNlc0RIaGFnUzRkTmhJM2tQTHNhUUVUbGRheXBoUVhGZHhjME4zYkljQWlGTkJENmR4LS12Y1JDTXJJSkFNTGg4NU91VWVwSHdiSEFfdTg?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
   {
    "title": "NATO to meet after Russia-Ukraine war once again inches onto European territory",
    "source": "NPR",
@@ -148,6 +213,15 @@
    "source": "Al Jazeera",
    "time": "2026-11-23T09:34:34Z",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPczQxSG9XUzZBRUZEc3VrWUlDbFBDbUM0ZWp1NEZBc1BnY1RUclFOUzlhdDBuRXJmT08tRk9kQndQMmR2MXNTX1dnNFptV0xJOVpLbHRpMjBrWV9sQ3FCQkFPSWczdUxBNVNJMXhBQkx4WHB0YlJ1ZW91T1BuRHkxNUNKYklORXhENlloTG95U2tYME00Mjd2cVR2cFBlaHE4T3loY0NqUmV6enloLU1YTmpXeUtOZ9IBuwFBVV95cUxQVGJGWWE4eHlzRzdqTXN3NkNUd3NWZGNkN291WEZraFo5QjB5azdjV2NYcUN6QzVxdWE2M3ZCSFFQRlRJeExxalZ1Y1J0TFU2alJuY2Nsc0JFQ1dkWmZlY2dlc04wWUJmQTJfS0N1RzNqX2FJT1h4UEIzaUFzTEtWMXVqcXZla25uN1ZkdnlaYnJ1UVdNdUwtQXFvZ3FabGR3UzA2TEQxT0otZGNFVVpqSTNNb3ZnOEZUZGFr?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Death toll rises after Russian attacks on Ukraine",
+   "source": "Al Jazeera",
+   "time": "2026-11-23T09:34:25Z",
+   "link": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -403,15 +477,6 @@
    ]
   },
   {
-   "title": "Apple Risks Losing the AI Agent War With an Outdated Playbook",
-   "source": "Bloomberg.com",
-   "time": "2026-11-23T07:02:28Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY0NlQ2FFZWVRd2FPTTJ4cjhKU3Vjb1hXdlZ2R1pfN2IxdlBxMDRZWmRMS1FyNXFSamtldk5GcVVPdnlxOFc2cmRsbS12TnFSdGhKeUx5NEF5dFJHUE12WDR2NGpZckk5cm5Ha3YzeXp0RkR2Y1BuTnhDWDczS18tTTlTWFplX0oyQy1SRDhFRS1jbzY3RnlIMWU1eHB1UktHWmpMT003MXV4d2l0bEg0QVp2bWJrWFUzQ3Rsdk5UbG9zNS1rLWlZV0pjejZQUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Gold holds above $3,600 as safe-haven flows and weaker USD support fragile recovery",
    "source": "FXStreet",
    "time": "2026-11-23T07:00:58Z",
@@ -472,15 +537,6 @@
    "source": "Reuters",
    "time": "2026-11-23T06:24:00Z",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdlU4RTQwUF9vS2lzZ0ZWRkJiOUdrRWNUc2Y3eXlhWXBVWllFdHNwTXlnaFQ3ZXQtWmg1TlVRT3NISXhjSWd4VUZ0VV9wc01rLWFyenZRNEdrMkpVMjltM1ZSdFRmbUc2WlZpLXJLZlFMb0NMeldDdlpDRjcwb2ZadHQ0dlJGeGhJU2Q3OUNNZ2R1T1p3ODZJQ0kwdWtkdUZKazNfbEFBc1lDUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "As Syria-EU talks progress, diplomats fear focus will be on repatriation",
-   "source": "Al Jazeera",
-   "time": "2026-11-23T06:21:33Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTJtZmx1VXI2Q3cyVDR1VlhSUFI2WV9LMnhPdTFma0swdm4xd0pzZEdranA0VnlYTEV5TFNrX05zd1Q3RU9jLVZNcTRaT1g1ZXV4OVE2aVNKOHd1MGE3UHQzZWthcWVPanc3MEFUTDMzclFwTnVGU0tvVVVrbS04R1NnUzVDaDRnS1BPa3B6aHIwenMyZHVTb282U0FHVmhLQ2hPT1JDTmM5d3hXZG1NSDRLckpvNmFx0gG-AUFVX3lxTE83QjBNWEN2WXFXOW9VOTRZUFJZZUZWTVRzaUxqdEhJcHJibU04alNrTUptWDJMSDNzNERHYVNoLXJHc2dKZXpucGY0dXBobF9uYk14QnBEOVFhVkZFUTZzQkJXTlZISlV0WHBRQUhKYkZkdWlsYkVOT1F4dkcwSnhKSmlPc3dxemxBU2t5U1puM2NyUlBROXBWY2tiN3RBZEZFaWFFUzQwSEQ1eHAtYlhxcEN0ZGZSbWVUbjFHNUE?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -600,15 +656,6 @@
    ]
   },
   {
-   "title": "Child rescued in Ukraine after Russian drone attack kills 10",
-   "source": "Al Jazeera",
-   "time": "2026-11-23T04:38:14Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Gold price in India: Rates on November 23",
    "source": "FXStreet",
    "time": "2026-11-23T04:35:32Z",
@@ -631,51 +678,6 @@
    "source": "The Guardian",
    "time": "2026-11-23T04:18:00Z",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLXpOdWlXckdpLXNuT053QVpxMFlxNkVKbjRtY29vam5PSEgtdWw5VkI3T19HWkg0eGE2MUxrTUdkSlg0WGN1Z19NOHhQSDh2YVlmMHZoOTQ1UmFFQ2tqYkVrU0p2aGsxNkdydlVYOVJzTUFkVm5xcEJGMUt2ZGEwaDFzLXoxMkVibnZMcUx1MUhIZUJtS2MzTnNBbTl0Z0tfSkdoUWVaZ0V5VktzMU9OZEcweEZ2Y00xeFJDNmh2Yzg0QndsUm9NRklNWDVLSkJuU0thMnFCZmdPV2x4S0ZLdmtybVBRM3FGOHc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Study warns of widespread toxic contamination in Gaza as war unleashes environmental catastrophe",
-   "source": "AP News",
-   "time": "2026-11-23T04:04:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaWJNRHlXSGdDeU5QMy1kN0dCMnIzVi1NWTFIWDQ3dVJvR2g2eU0tZ3hzYTBqdUQtNWNVSnBpQ2JfZjVwMzkyRkotckVNNllBU1RPNUFSSUhhWm8xZ2hxdXhFQ1J0dGtDUEpMOWNleEN4bWlTQ25lWU1rLTdYeVFiQTIycjRBcTZXNkJJLTRNM00wQjVKN2oyQU1IcV96cld1dHk5ZmEteVJjRnkteTBiT3M3ZUFSMVQ1ZjMxQ09YV1EwSkVjanBqamRmMWtUQm9udzYtQXFLbWdYN2JzNHZCX2QtcTNxa085dnc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Rate Today: Is Sunday’s Price Stability Misleading? The Real Test for Buyers Begins on Monday",
-   "source": "theopenpress.in",
-   "time": "2026-11-23T04:03:57Z",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTV9TeF9MSjVCR1VHUUtFbEJoT1VSWFRJTV93S3piWktqM0lZU3Q3S0JJaTJSaGlqRWtYbmhyU1lWczBrRW9wTFR3ekV0di1EWVlrSFk0RTR1ZW1VNlpsUEZsMzNiOE5fVWE0a01xakwzYmZjN2JMVkx4cXB6QzNnNEVoNHpDaENDSkV3al9wYmw4VHc?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Is Trading Like A Speculative Asset, Says Morningstar Analyst As Price Plunges 17% In 2026",
-   "source": "Yahoo Finance",
-   "time": "2026-11-23T04:01:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWjlTWVZjWnNvR2ZFaExuUzltcFB0amluQTFiVWNBUC14cnZQb2p6cGxtR3U4RFdqR19KMWx1d1pyS3RQd3ljdDdoLXBlcDkyaGtPRG94bUlfRC1YeHczZmNYaWFqSjgyb2ZmWU5GSHBzQ0tmWjNFVUQzd21XelViM3czckFDSE94ZnBOTEJhdVQwazg2dVVSaDdMNjhKLUtiTlpRQnA5SXY?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
-   "source": "CNBC",
-   "time": "2026-11-23T03:52:17Z",
-   "link": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Proposed defence laws are described as ‘draconian’ and a ‘war against democracy’. Why are people worried?",
-   "source": "The Guardian",
-   "time": "2026-11-23T03:51:48Z",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUEctNFVXazlLclZtYVFfVkhXSzRqcFdXZzZGUHM2SFFCN0ZZWEFoUWUwV3JxMk92LXNyck1QTFVTTWEyYkVfMUpwelVvcTNBWm8ySFh5SnByYzlQQm1kNlA4R05oeUtKMXJfU28xZGptMzM3NkVkTzZIYUtjYjVTakVKWEJPeU1oM3U5bGk2cE8xNXREWTRsY0FLNWpEX19hdm1aZllUdnY3VndGSFh0NTFGMGd4dklYYkZjUjdXZ2pEQ2xoYUZ2TFQzSEEzMWtqY3FqTEt3X1BfRm1aOHBmMS0yYkRoNk93Ul9Ebm9STEE2UQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
