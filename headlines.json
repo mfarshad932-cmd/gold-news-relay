@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T18:00:57Z",
+ "generatedAt": "2026-11-24T18:29:20Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 3
+   "kept": 4
   },
   "investing_commodities": {
    "http": 200,
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
@@ -81,17 +81,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 21,
+   "items": 17,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 35,
+   "items": 33,
    "kept": 12
   },
   "gn_war": {
@@ -105,20 +105,19 @@
    "kept": 12
   },
   "gn_yields": {
-   "http": 429,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 429"
+   "http": 200,
+   "items": 7,
+   "kept": 7
   },
   "gn_oil": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 5,
+   "kept": 5
   },
   "fed_calendar": {
    "http": 200,
@@ -127,12 +126,30 @@
  },
  "items": [
   {
+   "title": "Vale to resume operations at Viga iron ore mine",
+   "source": "Mining.com",
+   "time": "2026-11-24T18:28:21Z",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCbTdFUWI1ak5ieDFqN2hWMnhXelYxWDZXREp6UmgtUDFZTzE5MUlFN3gxRXpsWkNPQ3BRam5WZ2NuUVlhb0FWaGhfNGxaYWM0N2E2bUtBOW12M0EwTi1HUjk4WGJHMS1uLVVlWGFRYVBxTDNlSk1pVy1adw?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats Below $3600",
    "source": "FXEmpire",
    "time": "2026-11-24T17:57:08Z",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVp5Y2UzOUNNYXh6VUdOQzRSNW5HMm5SWEZ2NUdJQ1J6U3d6OGRPSDhZQjB0V2dZcFgtMVF5c3R5aGlnYWkwNEJGVl9LZWd0aUJhblhiWG5jSjVUVGhHSmV6djZMd1lKMUptSXlNS3lKMnZSWVZFcXhaN3o4ZDVCQ0pXcVdYdmMwMkk3RmhuRlM1ampEclNCS0JjVDFuVFh4MVlwc3dVVVpncXVNSkpBMVh5OA?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Floated",
+   "source": "Bloomberg.com",
+   "time": "2026-11-24T17:55:14Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcHhkVFpXSmc2SFJ3VEV3WHg5Vm4xYmRlM2l5R3Z2TEx6emJsdVRiQVBJTjJpaDJ3X2NsZFBURUR4anlRVDY4aTl0cHFvUzFTWUw5VUtXcE5pSEt1TzNPTWlXU0xHYV84QjVURk9LV1pFRGloYTQ1aU1iUmJ4TlN1NlVRYXN6QS1ub2Z6Mm1HMlNXS0hYV1YxNzF5SV9MSUNkNUtRTnRqb1phaUlESmRaMUxjcTM0dw?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -149,10 +166,29 @@
   {
    "title": "Cameroon separatist leader pleads not guilty at war crimes trial in Norway",
    "source": "Al Jazeera",
-   "time": "2026-11-24T17:39:18Z",
-   "link": "https://www.aljazeera.com/news/2026/11/24/cameroon-separatist-leader-pleads-not-guilty-in-war-crimes-trial?traffic_source=rss",
+   "time": "2026-11-24T17:42:55Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVEpORG8wUHJsdVFlRTRuelp6ZzVJSVBBS1M0dEEzd0hISXlQT1NpRWZVeDFlcXQ2SFpJcEdBVzVYN2ppN01kQ2NnVXc3UTRKenkzS2REdGk5VWhHUmpOcWpkdktWN3VDOTFaeU1ya1J3SmxEVDhDY002VmJtbElidjU1Z05EZnpsa1NNMlNWNlpNZlRrM0FBSW1RVUtQU3pUMDk5RDVfcnN6QdIBrwFBVV95cUxNM0xXRVZMVE5DakhUSjBnMlV1b3V5TzJ4bDUyWmd4U19IUThNYXVXX3dvRUMwc2tkazNGTjY5a1pPN0EzOUVkcDVSZWx0Z3JRdDZ6Z3Q3em5NT3NJNG9OR2paZXZfUDB4ekNwVGN6QVhwdzNiaDFjZXVCdnF0TFRDem5EcjdNa09WWS1ZMTF5ZUlBUjFEM09CN0hudUFTMmxKbDV1QU5DWnpEeGQyV3dz?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold price slips after sharp rebound as inflation data looms",
+   "source": "Mining.com.au",
+   "time": "2026-11-24T17:37:30Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZVNENXJTQktBbFcxM1JYamRQQUQteHN1NGhRTHdCMEJHNmFyVEtVQWpDdDl6N2pOWnZWSU43S3NHZms0V05uNkRINWtRNUpaNnFKdVVkMW1BTzVMOC16X3BlczdhZUlBWllTYUZXc0lUenV3U3I0ZHNKNlR0RzJXNlNONDlGR3liSHp3?oc=5",
+   "tags": [
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold producer offers 86% upside as Canadian mine deal adds value for its investors By Investing.com",
+   "source": "Investing.com",
+   "time": "2026-11-24T17:33:51Z",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbnRwdUE1NnZ6TmFFdE44eGtDbVFFUzlUQmNPSU5BVzY3emp4Z1MwMzFxZjF0SGZsX1pFV0VDSy00WTdITU5sa0lWOXRjeWphNl9OSjJ1b2EwbTFyT1JYeHd3WkctcDRRMzV2RFBCMGpja3NtNFRBRllWVnk1elVVRTF2X0ZqUlRDal9LSDhYSTRfWEhVTlU0cTF1X0JzSERtX0RmRHB0aTRXYnVLQWVRYXh1dkpUZXpuU1Bhb1VFSTRWVFBqVm1PM2F4Smo2SDBXS01wLQ?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -161,16 +197,6 @@
    "time": "2026-11-24T17:33:01Z",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZXFmVUxBQ3VJVlRfWWhwdDRkTTFYaFVadjZ2RXZsMUVVaWhKaTBsd0NDYlp5UEI0WmxPOW5zQTRLTGllVEpKR3k5YzVlNW5GU2ZGX0JCZ1M3RTZ3T3pWeDhqYTBwbjY1VnkzOTJQemdMLXZ1aDNYNjZoMmowQkstd3ZDRGQ?oc=5",
    "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold price slips after sharp rebound as inflation data looms",
-   "source": "Mining.com.au",
-   "time": "2026-11-24T17:32:56Z",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZVNENXJTQktBbFcxM1JYamRQQUQteHN1NGhRTHdCMEJHNmFyVEtVQWpDdDl6N2pOWnZWSU43S3NHZms0V05uNkRINWtRNUpaNnFKdVVkMW1BTzVMOC16X3BlczdhZUlBWllTYUZXc0lUenV3U3I0ZHNKNlR0RzJXNlNONDlGR3liSHp3?oc=5",
-   "tags": [
-    "INFLATION",
     "GOLD"
    ]
   },
@@ -204,10 +230,20 @@
   {
    "title": "After Libya, where will Ukraine strike Russia next?",
    "source": "Al Jazeera",
-   "time": "2026-11-24T17:15:00Z",
+   "time": "2026-11-24T17:15:26Z",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeEhhWlctZS1va2RYUGJvanF2aFJxbnVxMUJzQV93M2xiUTg1cFFwOHlpdm9lS2pxa2Y4YkJzbUVXUWM2S0JFWFMzNkFYYXBSbTRSOWJidE1SQV9XUDg1dmJLWkp5VWRqX0ktSXlyWEVDaUVVUFlFVFJaY0tTNm96YXdyTksyNHpScmZrWXJNUGt3Z3JkM3pRRnFJUTRrbFdXZTh30gGoAUFVX3lxTE5uSjF2dU03Wk1ZYnZDODRBSzRnSzRnN04yQmNPRm5QRUYwQXZZTlFQUnNYdm5FakhZeHhHaVZibVdGLVhGTEpMQmRRbHdOZnBwUVotMzlvRXpjc1hOYTBpUk9iU2xQZExieGlpbmdINC1va3pJeWl4Zl96TElUZXJpX29MQlhNdkx3bFNPbkpXZVRPelNlUHdtYXpseDNYd2o5ajR3eWFvWQ?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Saudis See Economy Taking Smaller Hit From War as Oil Flows Rise",
+   "source": "Bloomberg.com",
+   "time": "2026-11-24T17:15:12Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkY4Wld2NXFVSzJ1NDFTbHdBRTdTNmpHSGRoZ2ZLVnhPZXlXNWlVcnRvLVJEVWd6TjZWVWtCQmJMeXpIeHNtbkpYb1NzLXdkUnhyYlkyM1JQRGVaZWVOSVVoMWpxTURzdXhndDV4cGc5NnpnVVBBNERvWlpwT1o5Z2luMGt3Q2V1TGlhMWtOZGRnTUR1SU9uVEowVXNpTHIyNWR4ekpVSDVHM0FnU1lVUlRWSjhXUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -215,6 +251,15 @@
    "source": "TradingView",
    "time": "2026-11-24T17:09:11Z",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORi1jbzVUdTUyUnI2NWJaZjUzZ3lQMFFxWlBoUVQ0eDVHMXA2anBoa3l5QTRSd2FTeHE4WXhjaVNGV1VzZE1DMlRULXJITWhVcTBhQjFxR0tNNzE4akJOR3pQSTFpMmFqUTJwYzUydmg2QndWa3lIQlYxWEhiSjFaZDRIaGlIUWxoYTVaTnBIcXd4amI3N3BHMEJDTXRSX29oZGJId0VraWtEY0FsVU5saEl6WUJ6dU0xSTQwcFVmNHhEdFAyNWFKRjlLb3cxRm9W?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "European stocks fall as Trump turns back to tariffs. Italy leads the declines.",
+   "source": "ForexLive",
+   "time": "2026-11-24T17:06:42Z",
+   "link": "https://investinglive.com/news/european-stocks-fall-as-trump-turns-back-to-tariffs-italy-leads-the-declines/",
    "tags": [
     "TARIFF"
    ]
@@ -302,7 +347,7 @@
   },
   {
    "title": "Copper Resumes Decline as Investors Look Beyond Drama at Nvidia",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "time": "2026-11-24T16:33:03Z",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORmkwMElFUWtfQlhMcVNNY010SXlpbm12cW1IT3BEWExiOTkyMWU5Ulk2T0tva1lkMnd5R2d5LXFJbW9jNDFMOS0tOVZmdG9rYnFrWGhybmNfaHVOaGRIYzRuMEJ3S2lQa0R1YWl1R2JvRTI4b2k4YkdFWjV2QnF4bnl3VlUzSkdySHZJVmtMU2x0bk9vNmUxS2JPb3RPZjl5OHNEa1BkOHNaM3JDdklPVDU0MWI?oc=5",
    "tags": [
@@ -356,15 +401,6 @@
    ]
   },
   {
-   "title": "Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Floated",
-   "source": "Bloomberg",
-   "time": "2026-11-24T16:24:05Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcHhkVFpXSmc2SFJ3VEV3WHg5Vm4xYmRlM2l5R3Z2TEx6emJsdVRiQVBJTjJpaDJ3X2NsZFBURUR4anlRVDY4aTl0cHFvUzFTWUw5VUtXcE5pSEt1TzNPTWlXU0xHYV84QjVURk9LV1pFRGloYTQ1aU1iUmJ4TlN1NlVRYXN6QS1ub2Z6Mm1HMlNXS0hYV1YxNzF5SV9MSUNkNUtRTnRqb1phaUlESmRaMUxjcTM0dw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
    "title": "Americans don’t like Trump’s tariffs. He’s doubling down anyway — as soon as this week.",
    "source": "MarketWatch",
    "time": "2026-11-24T16:24:00Z",
@@ -394,7 +430,7 @@
   },
   {
    "title": "US Readies Tariff Hike on China, EU Goods as Soon as Tuesday",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "time": "2026-11-24T16:16:51Z",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb3RsSGwydkRvZkItUUlRQUxrS1RfZ3dJNV85NnJIYl9yclIxQXdxMElGNmQwVW56TENkU3duY3lnaXAyV0Q0elhEZXdVQlJsZTg0czUyM0Q3RHJUbjdyUjhBcmNyRW1La1RPVU1PemkzNFh0X1FrTC05M1RPRk1lWm9ja3ZiaUFQVUV5MmwzOHRGenNDNjdHUmtiMFlfNUZIOEM0OE05V0V4aDRKZGdZ?oc=5",
    "tags": [
@@ -477,6 +513,15 @@
    ]
   },
   {
+   "title": "Copper price erases Nvidia rebound as investors steer clear of metals",
+   "source": "Mining.com",
+   "time": "2026-11-24T16:02:17Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXBYVF9scFBNOGttbk9RaVRXYU9hb2o2bXRnc1RUTDNhQkpocG9jTWR5TU1GU2pBTjdBT0JhRktVS0swR0lnLWN1NTlxX2NseEpqZVBuRVhvVlFlMVZ0bEFJM0xDRkpnRVRxNlRCb0dYU3NITTZWOFBKaXpkOGF3RWVmNmdtbmR2SVNsZHU1Q3NMY2VCZ0EydQ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Stock markets fall as Trump pivots from corporate meddling to fresh tariffs",
    "source": "ForexLive",
    "time": "2026-11-24T16:00:29Z",
@@ -510,15 +555,6 @@
    "link": "https://www.aljazeera.com/news/2026/11/24/palestine-weekly-a-night-of-arson-sees-israel-jewish-terrorism-reckoning?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Copper price erases Nvidia rebound as investors steer clear of metals",
-   "source": "Mining.com",
-   "time": "2026-11-24T15:55:14Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXBYVF9scFBNOGttbk9RaVRXYU9hb2o2bXRnc1RUTDNhQkpocG9jTWR5TU1GU2pBTjdBT0JhRktVS0swR0lnLWN1NTlxX2NseEpqZVBuRVhvVlFlMVZ0bEFJM0xDRkpnRVRxNlRCb0dYU3NITTZWOFBKaXpkOGF3RWVmNmdtbmR2SVNsZHU1Q3NMY2VCZ0EydQ?oc=5",
-   "tags": [
-    "GOLD"
    ]
   },
   {
@@ -639,43 +675,6 @@
    "tags": [
     "RATES",
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Brazil’s tax revenue extends record run in October, buoyed by higher oil prices",
-   "source": "Investing.com",
-   "time": "2026-11-24T15:07:13Z",
-   "link": "https://www.investing.com/news/economic-indicators/brazils-tax-revenue-extends-record-run-in-october-buoyed-by-higher-oil-prices-5048608",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Gold Futures Face Fresh Selling Pressure as $3,531 Resistance Holds Firm",
-   "source": "Investing.com",
-   "time": "2026-11-24T15:07:00Z",
-   "link": "https://www.investing.com/analysis/gold-futures-face-fresh-selling-pressure-as-3531-resistance-holds-firm-200692228",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Watch US Set to Raise Tariffs on China, EU and Others",
-   "source": "Bloomberg",
-   "time": "2026-11-24T15:05:47Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSll5b21xNHIzdmFHV1pQUXctZXB1em81MFRfLWdZd0ljdUdhdXdaNGF1d3BkdVpzTEoycG5ONGU5eXpyUko2dGZ3Yl9JRDA0S2ppNHNTSF9zbFhCNS1JT0ZuQ1NkR0tvc1BXaXhGYThhOE1LRjBXMGhzb2h5MlQ3WUNwNXlrX2RZd3FYVVhfUnFka01HeFdrNjJXNHRQdjlvajVv?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
-   "source": "CNBC",
-   "time": "2026-11-24T15:05:14Z",
-   "link": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
-   "tags": [
-    "RATES"
    ]
   }
  ],
