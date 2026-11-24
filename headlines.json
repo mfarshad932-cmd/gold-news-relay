@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T14:42:29Z",
+ "generatedAt": "2026-11-24T15:10:56Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -80,44 +80,52 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 26,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_fed": {
-   "http": 200,
-   "items": 18,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 22,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 41,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 20,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 9,
-   "kept": 9
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
-   "items": 2,
-   "kept": 2
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 4,
-   "kept": 4
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +133,33 @@
   }
  },
  "items": [
+  {
+   "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
+   "source": "CNBC",
+   "time": "2026-11-24T15:05:14Z",
+   "link": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
+   "tags": [
+    "RATES"
+   ]
+  },
+  {
+   "title": "Russia tows it cargo ship back home after Ukrainian drone attack",
+   "source": "Al Jazeera",
+   "time": "2026-11-24T14:56:18Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/russia-tows-it-cargo-ship-back-home-after-ukrainian-drone-attack?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "The photos from Gaza resonating with the people of Sarajevo",
+   "source": "Al Jazeera",
+   "time": "2026-11-24T14:50:02Z",
+   "link": "https://www.aljazeera.com/features/2026/11/24/the-photographs-from-gaza-that-sarajevo-took-home?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Gold Price Forecast: ETF Outflows Threaten Gold’s Sharp Recovery",
    "source": "FXEmpire",
@@ -208,7 +243,7 @@
    ]
   },
   {
-   "title": "Israeli air strike kills senior Hamas military official in Gaza",
+   "title": "Israeli air strike kills senior Hamas security official in Gaza",
    "source": "Al Jazeera",
    "time": "2026-11-24T13:55:11Z",
    "link": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss",
@@ -383,15 +418,6 @@
    ]
   },
   {
-   "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
-   "source": "CNBC",
-   "time": "2026-11-24T13:17:16Z",
-   "link": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
-   "tags": [
-    "RATES"
-   ]
-  },
-  {
    "title": "China walks ‘thin line’ in push to prevent another Horn of Africa war",
    "source": "Al Jazeera",
    "time": "2026-11-24T13:16:12Z",
@@ -418,24 +444,6 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZVVCYzZGZ0dSYTY3c2NCclRXLVIxOExhMEFqN1ZMbDU5Rl9rSU5TX2owRmJGb0pwR2dhRkNUTW52TVJvWGVwT1g3SWpoa1lLWWJXeVZjWWx2NXpiSkdIOHYwVGw0dUpzX0F3Y0RfQkVHeWhQaWRWZGliQmgwY1ZibEpyMUM2dVlKRmU0QTlTd0VLRzhyS254ZWFyU1VpbjJ3ZWJKMjR3SkxqZkZ2M21WZ1NrTHVKd03SAbwBQVVfeXFMTXpPc2VpWkZaZUJHeVB0MHMtamxqOG44QktsQ2tNSGhKaTMtMl9CbHM4TUlWSElSRDFzTlNpY04wRFlsM3h6elFXRVJvdGZVMHlxY29YV3pPajMtQlVsYndDZlZHdUVkRk1Sbks2dmFkN1d2bnBiSDdIQThYbkpmdE5JN0ZzMUlUYTRKNHVYV2REYmNkQzN4VjE1YUw4b1lDTU5IU1pDcUlRSmNMNmJtY3RmRFNUVks3NzBQSXo?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "UK sanctions Yemen’s Houthi group, four senior officials",
-   "source": "Al Jazeera",
-   "time": "2026-11-24T12:56:18Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdnlBcmtMUUUzZGFJenl5aEJRT2pueHpMbTBhY3VRaDIyeE9Jc0tSeF9JcnRlYkpXUUtodlpxdjg3MFBDdDd1c21wYVFwZFBzcFY3RTB2aDI0N2dtbDZNSXBrQjJ2anNiZ21YOWVlTlBFTTlwOTlUVU5zZzE4cWNzZ2tUd09adVdLUDJia0I2TjJueS1fV0V2ZUFKcmvSAaIBQVVfeXFMTkowNVB6ZDhHTEdRVE5QS1BsZ1BxZk5PNDBEMHdTeERIMEloaXFjU1piakRYQVhZUlJQLTVkMHpjY0t0RTg1ZXp2U3dpSG1WdzNZQ0hoUFZBeFlXcWRDb2NieGMyVFF4MF9STEI1Qjd0SUF2cnlNUTJ3dE45MUYzdFd1UjZnQXcyQ0h4YUZxQVVFZEEwa3BpclFqd29Bemp3V1dn?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "UK sanctions Yemen’s Houthi group and four of its top officials",
-   "source": "Al Jazeera",
-   "time": "2026-11-24T12:55:55Z",
-   "link": "https://www.aljazeera.com/news/2026/11/24/uk-sanctions-yemens-houthi-group-four-senior-officials?traffic_source=rss",
-   "tags": [
-    "SANCTIONS"
    ]
   },
   {
