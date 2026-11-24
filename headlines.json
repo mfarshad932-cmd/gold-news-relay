@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T09:30:32Z",
+ "generatedAt": "2026-11-24T09:58:52Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 26,
+   "items": 25,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 23,
+   "items": 22,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
+   "items": 13,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 34,
+   "items": 33,
    "kept": 12
   },
   "gn_sanctions": {
@@ -111,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 11,
+   "kept": 11
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,42 @@
   }
  },
  "items": [
+  {
+   "title": "Global land mine casualties hit a 5-year high, driven by Myanmar’s brutal civil war and Syria",
+   "source": "The Washington Post",
+   "time": "2026-11-24T09:53:26Z",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeElHWXZxM09BZ3N3VGk2dy12Um5JWTAzeEJUb3RwRFVYTUJtVm5vUU9VcXp1QV85a3hIRk8tb1NESkh4ZFhCTW9RU1VFRTM1ZTFSN3p3SnhXY1ZXRXRXaVdMb0d3ODR3TFhSUi05S0JWQkRLaDdJdnl1aDYtWkY5NzZTRHpVYTRSRER0RkFERFprdXZySG1VakppTGRhT21kb1dZcWlGb0EwRThkNVAxSENZekJoLXIyMG5kUEtjNllvSHNUclZyZkttWk5mQnZScHpsOHU5WjZvZFE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "The War Room newsletter: Is it a drone or a missile?",
+   "source": "The Economist",
+   "time": "2026-11-24T09:52:24Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTktBMXhPUUt3ZEg5TWNoQUpVTUZIRDRVZDhjTDlYU0RFXzkzNlFQTm9yZE1OZXFVcWVZN3VNV0lDLUFjejBoclBCa1RiNmRMdXJ1THhjTzJWSlhGYTBHNW5DbUZDa2psb0ppMldfWWRhQ1VxQUNDdXlTcXcxdE82UWJoX1h0U01iRlF0TmROajd1blU4Wm5DeUFWREwwYnVibW5V?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russian attack kills two people in Ukraine’s Zaporizhzhia",
+   "source": "Al Jazeera",
+   "time": "2026-11-24T09:51:26Z",
+   "link": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "EU Inks Trade Deal With Indonesia to Cut Tariffs, Catalyze Investment",
+   "source": "WSJ",
+   "time": "2026-11-24T09:45:46Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmw2LTRaWkhrekF4b0RUY0J3djVhQzk3V2REZkVTRHFEaWZVUk9scjBpb3lMU0JtNlE5d1NnNk1kbTd3TlUwNWJ1YUs0ZXI3WmZWblNpOWIxWmlFNzhmaTUxclVFYllJcDJjall3YlctdkNpWDBZZXNHNWpMZnlrOHBHcjViN0JpTGhyV1pJLU5peEpuZWttM3UwTDdhdE1BdzhfbnhGZTN1RVlidUpaeQ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
   {
    "title": "LME should intervene in historic aluminum squeeze, trader says",
    "source": "Mining.com",
@@ -168,15 +204,6 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZDZsZHFtWWUtQWMxZ1hMRzhsdFVndExaNEw1Vk45MU9ZdWtTRExYYzJOMVdNMWJzMktaT0ZwSWNubzBMeExScF81OW5JbXBESjdQMExiakdIdmFJM0VkNVBOUmhzZlVkT1h2ZlEtOGJ0cmZoT0hFU0dGalViVC10M0VIS3dPQ2pnd3Q3RUFocUxVZmViaHdIMXRGZlN1QlNpNno4dEttWnlFNHFLOXlDUmpn?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Global land mine casualties hit a 5-year high, driven by Myanmar’s brutal civil war and Syria",
-   "source": "The Washington Post",
-   "time": "2026-11-24T08:23:26Z",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeElHWXZxM09BZ3N3VGk2dy12Um5JWTAzeEJUb3RwRFVYTUJtVm5vUU9VcXp1QV85a3hIRk8tb1NESkh4ZFhCTW9RU1VFRTM1ZTFSN3p3SnhXY1ZXRXRXaVdMb0d3ODR3TFhSUi05S0JWQkRLaDdJdnl1aDYtWkY5NzZTRHpVYTRSRER0RkFERFprdXZySG1VakppTGRhT21kb1dZcWlGb0EwRThkNVAxSENZekJoLXIyMG5kUEtjNllvSHNUclZyZkttWk5mQnZScHpsOHU5WjZvZFE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -239,6 +266,15 @@
    "source": "Al Jazeera",
    "time": "2026-11-24T07:52:44Z",
    "link": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Pat Cash on the Davis Cup in the 1980s: ‘It felt like you were going to war’ | Tennis",
+   "source": "The Guardian",
+   "time": "2026-11-24T07:36:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWpESTd6QS1rNnp3b2RSQS1OcmpRd3ROeWhHV3pfMmJ2cUNQVXdyM1pqdmdpWktLOHZLUnFLc2ZZVUt5V2ZUWVF6OHVndnhCbmljUnFJUWJqUVZLZDQxMUhIZUdBSnpsQ255X1kxbE5lSFFjQTVKR3lPNW9WSDk5RHBHU1Fub1FCTTZZSTZyekpEbDFWck5UcXpaa0RuSmxEclpNRDBXVmFTZ3RpX2hEV3hMd2ZmUThFT0c4?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -638,44 +674,6 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLVJBNGRCSlpNczVYbU05TWtWRkl5TnRqYTZBU0FlWkRoLXZvUFJrcTBaYVRKMVdqVHhvaGs4WjZCME80b053VEZjX3RvY0dsQWlyT2Y3U29xREtUbDROQVJWX0xZZUNuVXBKTkxEX3RrSklUdEZIQ3NvWWxiMnpWYzNZT016VFlBWVBKcG9ucnBOLWRpRGxkbS13RTIxU0EtYTdZeXZVakJ1Wk54Z2ZDQmJLQms5d9IBtgFBVV95cUxPdUdaOWJieWtpZFBVYmJ0X2VPcVZFN0hfS2huLVhCN0dnTmEzeUtiVEdyX09pTER0YTB3QWFNVTR6Unk1bFc1bDFyYVpsUjdUNnVJRlN1d2cyMUdIOWIwRmZLZmJrS1VGUS1zaWJJekZnczdvbmw2X0lFcWlpbzBUckFIV1ZlOEQ4OHFxcVFwc2NNc05FMEcwbE9CWmF0emQwYlJOQ19VR1I0NmJ2SWxLQWJhclBBdw?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Gold's road back to $5,000: four big banks bet on recovery, but the Fed sets the pace",
-   "source": "investingLive",
-   "time": "2026-11-24T01:36:32Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZmNlQ1pidDQtTDRwR1ZOa1hlVjF4NjRCN3hZN3JhMFByZ0pyVjF0LWYyX2xiZ0FBcE1Ib2c3WDFIUk1mWnF4Z1ZJWVVLVE5VclNwQ2tuRUY4TXZLTHowaV9IVFV5RFpSOURNdzBwbk5GUTZDNUFZZnJSam9kREptMWwzck5hdGVnRlJHWU1FSzlWOHRvbERXeXhaNDdEdHlZMWZTN25WMUw0REdFTVdCR1JMY08wTm1wY2JpZDF3?oc=5",
-   "tags": [
-    "FED",
-    "CENTRAL_BANK_GOLD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
-   "source": "Al Jazeera",
-   "time": "2026-11-24T01:32:12Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "How a Scientist Behind the Mediterranean Diet Got Caught in Trump’s War on Harvard",
-   "source": "The New York Times",
-   "time": "2026-11-24T01:31:14Z",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc3BWTDdLMzRVV3FtYkU3RU8xNEs3c1pYR2RHSTBEQi1DT0lmSFFQVC1KcUZCN3JHc083dFdPVndOaGZCNk1KSlplc0hyWXpIcUtLVXNfQnk5TUczX3EyZTBhTThiV2htSnFuVGdQN3JTZ3N6eUdfQklEbGVTdVJWRWZjX3c1aDQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The Inquiry | Why is there always war?",
-   "source": "BBC",
-   "time": "2026-11-24T01:10:19Z",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lREVOeHZqN1laRW4ySmFtdElhQnNtRW9NblV0Y0U1LVhvaUJuSHdrdFFrYTM4djVKN0prVmFlOTZYSUhUblItOUptdXBTRFlh?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
