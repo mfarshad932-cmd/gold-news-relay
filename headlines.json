@@ -1,17 +1,17 @@
 {
- "generatedAt": "2026-11-24T18:57:41Z",
+ "generatedAt": "2026-11-24T19:26:01Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
    "http": 200,
    "items": 20,
-   "kept": 0
+   "kept": 1
   },
   "fed_monetary": {
    "http": 200,
    "items": 15,
-   "kept": 0
+   "kept": 1
   },
   "fed_speeches": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 11
+   "kept": 12
   },
   "whitehouse": {
    "http": 200,
@@ -91,12 +91,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 33,
+   "items": 35,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 40,
+   "items": 39,
    "kept": 12
   },
   "gn_sanctions": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "fed_calendar": {
    "http": 200,
@@ -127,17 +127,81 @@
  "items": [
   {
    "title": "Royal Gold at Renmark virtual non-deal roadshow: growth and discipline",
-   "source": "Investing.com Canada",
-   "time": "2026-11-24T18:51:30Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaE5qQkY2a3JoOS1xM3hvWDhmVVRkZmNLV2Rva1AtZzRmcDI5NWFQWjN5SlpqVkFjOEZjMlI0X3RTWTBkYU5kR1d2dmNuVGFqaXJMQS1jcGtJREtJbWhlRXdSZVRrYXdjaWpzbjNiZHhITUlvcFB4NHNxa3l1RTlJVG1aV2ZXNDhCNlRiNm9GY0xVSUdFQzIwSXYyRzMyUXc5SGtqUE1iY2VoOUp6dW1zQ1F6MEVEY29hWVlIN3hnNG1sR0E0elIwUg?oc=5",
+   "source": "Investing.com",
+   "time": "2026-11-24T19:09:52Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc1gxLXNXdVQ0Y1ZLOXZaZ3lGYVhlMm4xdUZYdjBXWTBrbUMxM0M5ZzBZY2VEZ1Y2UkpMekJNZ2dsVEIyVVluU0I2bGpnZnd0NU5SU0dIa25vekQ3d3BmX24zLWlUMlI3cl9ldzFHNDRqLXZXTFZPS2FiMEhkSDNrLWdNVGU2VXltUXZxaGNUS1VaeVJxZFRYdElXbzFwRzJ1UTA4QnRmRGlaRmoyRXZScURWTlVyLWloczVZdF85R1dGdw?oc=5",
    "tags": [
     "GOLD"
    ]
   },
   {
+   "title": "Gold Near 3500 as Copper Tests Another Critical Fibonacci Support",
+   "source": "FXEmpire",
+   "time": "2026-11-24T19:09:32Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZk5meldkRXNKY25feFVBV2dxejFWMzczUXY0YnF4VzFybnpMbUZLbUVFZmFXSy1URU5mTVlvb092Y3lDYmxCU1FFVTJVLUFHS01hcmprQnozUzNEeG1sSjEzYUdCOEJmWGRleFdyVG9lRldNbERseG9XcW1kRy1zaEFqRmt0d09xMTR3amRMQ1pQODNpT3dOdlkzZ0ZXbGVfSHdFSW9WcFJtZi02czdaMUQ1NXBDYms?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats Below $3600",
+   "source": "FXEmpire",
+   "time": "2026-11-24T19:07:27Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVp5Y2UzOUNNYXh6VUdOQzRSNW5HMm5SWEZ2NUdJQ1J6U3d6OGRPSDhZQjB0V2dZcFgtMVF5c3R5aGlnYWkwNEJGVl9LZWd0aUJhblhiWG5jSjVUVGhHSmV6djZMd1lKMUptSXlNS3lKMnZSWVZFcXhaN3o4ZDVCQ0pXcVdYdmMwMkk3RmhuRlM1ampEclNCS0JjVDFuVFh4MVlwc3dVVVpncXVNSkpBMVh5OA?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "U.S. Dollar Retreats On Tariff Hike: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
+   "source": "FXEmpire",
+   "time": "2026-11-24T19:07:27Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTlMyek1mSThBNVF3VkR1OTRfcnl0UXVxZjdDRElBT2UzMGdkcE15c0F4dkJfLUZRcDU3NmxETG5BMmlUZ2gwbXY4VGNIcHZ6Y3hJVXpISjJLdWZFTl9HQjlEVTBlNlhQeG9YSkN0TUxjdnkyNFJ4Vm1MWmNYd0Y2bzdFdW9wV0xXS08zMGZ1cUFMMEFYaElicWVKMkJPRU9HMC14ZVZpVUwwdGJ0TFZaM3hud2JJNnR5OVVLeVhxNmxVUHZGZkt2czB3?oc=5",
+   "tags": [
+    "USD",
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids",
+   "source": "Al Jazeera",
+   "time": "2026-11-24T19:03:49Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTFRV1ZvcGNlMkxybzI0RUVHOG1rYnFzMmN1M1haTE01VENxREtacmQ5MzZ2VDRleUZOZmtCRUh3ZnJ0aWlRUXFiV3N1VTNNSGNOVGtTZFRGNnc1clpQaERyNmdwQ2RaOU1CZHB4TEpETFFPQzJyR1hzN1lVd2RlTE1iM29SOUtmLXd5ZjRGOTFydnFoZjlfTW1UOFFubUJkUUZESm5ULVlQRDZfeFHSAbMBQVVfeXFMT252TnFSSDZKUmplMGtxSEJERV9STlBHOGQteEJXY1o4SXE5UC1YVnpXaXRhRWlvcER3WTR6VGt3aFhGS243NDdwZklENWZtb05ud0pSaFp5QnJvSnZ3REF5Y1V5Qjd4SU9QemFIcFhaUWJVdWdfVTUzS1h6N3FkbDc0b2Jndk41R1p2QUJkYlVnWHRORVEtdVNaOEF0ZHZaa0dVSDdkRmhJN2xyaUJqUEFGb3M?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold and silver lose over $800 billion in two hours as Bitcoin slides about 50%",
+   "source": "TradingView",
+   "time": "2026-11-24T19:03:04Z",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaGo2cjhBbFJjb2RERHdFVmpoWWlDOERkWFVvd284dGd6VkF2Tnh5UnBFdFo2NldGam1aZmpVeXBrQzVJd3BESDl6aF9YZFk2X2tYWEVrSlVTQmZxREJpcWg1QmtFZkpJeVZvS2lZQkpJVS1rcUNMMGtnTEQwaFBOdkJRWnVSTUdOS0x0M05tYTljMlVUbWJ0NzJZZm9JZ1o2ajd4TWJib0dFZldkMFIyVFpNcUdYQTNQSy1CanVXeDk1TDE3UkFxYlFSTEktUWMwSHNqb3VmUzhZdw?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "How Russia’s War Machine Traps Asian Workers",
+   "source": "Bloomberg.com",
+   "time": "2026-11-24T19:00:07Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOUtkd04zT3l4cUduaXVNVGN4dE5pNmVhVkVMdjBwR1dTWXdYdVVMX3pKbmRHNnBOMUxlMXVFWk1FWXktZ3NOUVgycTZ6MTNtMWczcEs3UUtVZ2o4bGp3cEEwd3V2Tk9MYVdZd2x3ODRxNHJuUi1GbEZFUmpiVWFpU2VPaW1Ib2hwbklnbHQtNkFXMVhucDhqX0Y2ZmpxeWc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+   "source": "Federal Reserve",
+   "time": "2026-11-24T19:00:00Z",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "Trump prepares a new round of targeted tariffs",
    "source": "Axios",
-   "time": "2026-11-24T18:44:56Z",
+   "time": "2026-11-24T18:56:15Z",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOXZTRnJTd1pRNzd0dUhFN0pGM3p5Vmcyc2kzT1BmZDMyNmxNWUV5RWFYUmNMdE5OblIxRFZyODdiaFdmWnFBWTdjYzMwX2c0d0NSSXNsSlhlTDl4S2xXTXJON1hkbDczcEw2RXFTZjROdGxO?oc=5",
    "tags": [
     "TARIFF"
@@ -146,10 +210,28 @@
   {
    "title": "Is Libya a new front in the Ukraine war?",
    "source": "Al Jazeera",
-   "time": "2026-11-24T18:38:49Z",
-   "link": "https://www.aljazeera.com/video/inside-story/2026/11/24/is-libya-a-new-front-in-the-ukraine-war?traffic_source=rss",
+   "time": "2026-11-24T18:49:20Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOamJzSnEySnlVWTlnQ1Zubjcxcjhydl9LNDVZTVBNX2FfbUh3VFpfNlU2cnVDM2g4QXpfZmE1NG54ZEx1OV9YZ3g2TkRSTmsxMjlSd1BFQmQzdUlkaHhvVHU5SkNMTGdkZkh4U0Z5X0hpV1RzQlE2SWo0R2ZucGRxTlNhNy0wM0Jvc3VVQVF3eW1KWW9yckZnYkliQdIBoAFBVV95cUxNTzZOa0h1LVZxRUY1LUJPbE9FNnI2R2dNcnZIRlZhOVpiUEVXZmxkNVpja3JQS3RCaVlfZUhiRTljTEpyS1NsZWFqUVJja19rNU1qdWFIVWN3OXVFNzdyUkU5LWZYYUlOamVRN2M4bWNhcHpnaFBDenlvYWpVekl0cWxyeHFjTF80UUFUNWF2ZzRmNUF2YW1Ib1ZOZ2tmTC0t?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say",
+   "source": "Reuters",
+   "time": "2026-11-24T18:48:05Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNklFaE54bEV6OGdKT29ScUxHUlZwRDNyREJ0MzBSZzZGdnptTkVxaXNHeWx2WjFWYVMzMzdMeU92dC1PVmYyZ1BTT3lCTWVRVnJ5ODFEb0NXYWpDd1ZQUlg4bkZ5QVAyck9KQUhMbldjY2FqMmtsZGs3MTFUY0xLZm9wMWRRTFAyS3VvZUZ6Wnk0VzlxTjR3VS1GSkJ1S3VCU2xmZ09FX1E5dUVjTUhfR21wMG1pcktxdGc?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Wall Street trades mixed as markets assess new tariff concerns",
+   "source": "Seeking Alpha",
+   "time": "2026-11-24T18:39:22Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHJGTFNDT0RkRklVOU9tcU1KOFhTU0FqeURTRi1TRlp5eDdndzdaVC1XUWFad1kyd1Z0WlVGWTRxVjJfM3R4R25QbWdqNWMyakR3LUd1NjZCSUNHSTJ4alRRUU1YVXpveUxPb2RoOGYwaG1ESFVjb1FELVpjVGpsUmFwWDhES2FfMEdxOHJNOHFqNEp3WkYtM2txcDllTDZuZVE?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -242,15 +324,6 @@
    "source": "Mining.com",
    "time": "2026-11-24T18:00:00Z",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVJzSkRaLU01WFpnNzZ1MU02dHVvdThydm9ZNmdtX0hPSE1yWXhScERhZ3FRMzkzUkU1d1dRNXh3bnF3UmpWSUtDVzV3LWJwaFl4R0MtbXdOc3huUHBZZDF5bklYQ1MxZmlYeXBGZXlOcGlNOGN0Q1FlMGdzejFseHhfX1J3VEJFYVVaSjZCY2xBc3pkeEE?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats Below $3600",
-   "source": "FXEmpire",
-   "time": "2026-11-24T17:57:08Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVp5Y2UzOUNNYXh6VUdOQzRSNW5HMm5SWEZ2NUdJQ1J6U3d6OGRPSDhZQjB0V2dZcFgtMVF5c3R5aGlnYWkwNEJGVl9LZWd0aUJhblhiWG5jSjVUVGhHSmV6djZMd1lKMUptSXlNS3lKMnZSWVZFcXhaN3o4ZDVCQ0pXcVdYdmMwMkk3RmhuRlM1ampEclNCS0JjVDFuVFh4MVlwc3dVVVpncXVNSkpBMVh5OA?oc=5",
    "tags": [
     "GOLD"
    ]
@@ -449,6 +522,16 @@
    ]
   },
   {
+   "title": "Canada and China Draw Closer with Expanded Trade Pact",
+   "source": "WSJ",
+   "time": "2026-11-24T16:49:12Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
    "title": "Donald Trump administration debates strikes on senior Iranian leaders",
    "source": "The Jerusalem Post",
    "time": "2026-11-24T16:39:50Z",
@@ -471,25 +554,6 @@
    "source": "Bloomberg.com",
    "time": "2026-11-24T16:33:03Z",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORmkwMElFUWtfQlhMcVNNY010SXlpbm12cW1IT3BEWExiOTkyMWU5Ulk2T0tva1lkMnd5R2d5LXFJbW9jNDFMOS0tOVZmdG9rYnFrWGhybmNfaHVOaGRIYzRuMEJ3S2lQa0R1YWl1R2JvRTI4b2k4YkdFWjV2QnF4bnl3VlUzSkdySHZJVmtMU2x0bk9vNmUxS2JPb3RPZjl5OHNEa1BkOHNaM3JDdklPVDU0MWI?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "U.S. Dollar Retreats On Tariff Hike: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
-   "source": "FXEmpire",
-   "time": "2026-11-24T16:32:31Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTlMyek1mSThBNVF3VkR1OTRfcnl0UXVxZjdDRElBT2UzMGdkcE15c0F4dkJfLUZRcDU3NmxETG5BMmlUZ2gwbXY4VGNIcHZ6Y3hJVXpISjJLdWZFTl9HQjlEVTBlNlhQeG9YSkN0TUxjdnkyNFJ4Vm1MWmNYd0Y2bzdFdW9wV0xXS08zMGZ1cUFMMEFYaElicWVKMkJPRU9HMC14ZVZpVUwwdGJ0TFZaM3hud2JJNnR5OVVLeVhxNmxVUHZGZkt2czB3?oc=5",
-   "tags": [
-    "USD",
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say",
-   "source": "Reuters",
-   "time": "2026-11-24T16:32:12Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNklFaE54bEV6OGdKT29ScUxHUlZwRDNyREJ0MzBSZzZGdnptTkVxaXNHeWx2WjFWYVMzMzdMeU92dC1PVmYyZ1BTT3lCTWVRVnJ5ODFEb0NXYWpDd1ZQUlg4bkZ5QVAyck9KQUhMbldjY2FqMmtsZGs3MTFUY0xLZm9wMWRRTFAyS3VvZUZ6Wnk0VzlxTjR3VS1GSkJ1S3VCU2xmZ09FX1E5dUVjTUhfR21wMG1pcktxdGc?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -613,69 +677,6 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR2JxVVNxVWV4d25ONnAtQmVhN3BoaU5CaWlfdGxsb0Exa3RDX0NQWk53WWRCeXlmQ2dkT2RLemgwVGdMNkhfMUJNWVpnT2p6azJkVVpnbGNIdEZqbWtDczJWZVExNzlGZFFtWGlWSlExY2ktLUwyMzFNRTJrVWU0bklzbExpNjRuUlV1ZC1RMWxuN05HOXRTbEFQdnl4elpPT2oweEJzbEF6aUVaV1ZFSDhVeHJZTlZOQ2tQWQ?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "CATO: Consumer pressures and import delays drove a $10.4m Q3 loss; 9M results included a $6.7m tariff refund",
-   "source": "TradingView",
-   "time": "2026-11-24T16:02:39Z",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQMnNPZm5LS21YTUx5VUNBVWszZTFKdnVMVXp3RXlVQXF3MzBVNkJEMVV2ZVhjU1BMemRQYlQycnllNk9MTWNUams0N1ltWXN6UXBFb19IbmNUc2dWV0R4UGpzSmVvd2JIbnlFcjE0OERCOERJeWk4RHB0ZFk3TUFzcTUxb3F5U1pBbnRZeUI0RXZjNURtXzJhdTVNMGhlT1ZtdUtqdWR5emNvMTVBdU5RRzBBTmNfaXRhdlhPd3FSYUU2LVVQRXhVQXF6MXV2V01UZnRva1JNdjVkUm1yMkNkVkZWYXR2a3JpYWZTNThsSm96bWNfSkpZOVdIelNPY09HVnlEM21qb2FFblczZ2lYWXRFWS15QQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Copper price erases Nvidia rebound as investors steer clear of metals",
-   "source": "Mining.com",
-   "time": "2026-11-24T16:02:17Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXBYVF9scFBNOGttbk9RaVRXYU9hb2o2bXRnc1RUTDNhQkpocG9jTWR5TU1GU2pBTjdBT0JhRktVS0swR0lnLWN1NTlxX2NseEpqZVBuRVhvVlFlMVZ0bEFJM0xDRkpnRVRxNlRCb0dYU3NITTZWOFBKaXpkOGF3RWVmNmdtbmR2SVNsZHU1Q3NMY2VCZ0EydQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Stock markets fall as Trump pivots from corporate meddling to fresh tariffs",
-   "source": "ForexLive",
-   "time": "2026-11-24T16:00:29Z",
-   "link": "https://investinglive.com/news/stock-markets-fall-as-trump-pivots-from-corporate-meddling-to-fresh-tariffs/",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Why is there a Cold War missile in a field in Llangollen?",
-   "source": "BBC",
-   "time": "2026-11-24T16:00:24Z",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QWUNpZHdnU0RvSzVhTDJlSUZra01hRzVfd1dKSkZwYnZCOEFYX0Utc2FhNUpnSWFRT0xLLWZya0N6eUZrLVhobmU2SGFQMjl4Y1l3bmpMOTQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump administration officials debating targeting Iran’s leaders, sources say",
-   "source": "NBC News",
-   "time": "2026-11-24T16:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObnRvWmtRUG1ocVlwLWNKNy1DZXd5LV9ldHdqMEdhZXVsVktfYml1RUZOSGpEcFAxS2QzYm4yZjlUY3N0b1EtUG9ZRGtLRWxvSjJvSmlVM2xhZ0NLaURlbGZMZzM5M1ZLMWYxMWloRXZVLTNWUDFmQjZoQy1JYW5iSktBRVB0TDhxZGh3MTlZeC0ybEF2MnF1Z0F2dkN6cVpmSVBvS3lEa3RsZjhwaFVwYTMzcFNwb09Fa3lQd2lCMktPa21NMUtjNl9Td0M?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Palestine Weekly: A night of arson sees Israel ‘Jewish terrorism’ reckoning",
-   "source": "Al Jazeera",
-   "time": "2026-11-24T15:56:07Z",
-   "link": "https://www.aljazeera.com/news/2026/11/24/palestine-weekly-a-night-of-arson-sees-israel-jewish-terrorism-reckoning?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold faces renewed pressure from rising real yields: Wells Fargo",
-   "source": "TradingView",
-   "time": "2026-11-24T15:47:26Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV2R3d3BBOFhlOFZ3NU1MSk9HcG1RR3hwVjMwRGhtY0Etb1VsSFhKelFEWHVLeEFOdlptREdxcTRqRzJOemxHLVVFNllIcllBam9qaHJwM19Jc2dYZ1hLYVNuTGYwUGtlUVRLdFNidXM0RTZldE5xS0hIcFpRVkhEWmtUS0hsSDlsZ0lWbVVsZHNIeWR2UVBmTllqU0tOREE0YmFXUlpERXFobWg4Tk01WFRyTU04czU2ZGFDQUxORl9kNXRB?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
