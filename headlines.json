@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T20:22:44Z",
+ "generatedAt": "2026-11-24T20:51:06Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 8
+   "kept": 7
   },
   "investing_news": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 30,
+   "items": 31,
    "kept": 8
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 11
+   "kept": 12
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 30,
+   "items": 32,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 21,
+   "items": 15,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 35,
+   "items": 36,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,18 +106,18 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_oil": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 11,
+   "kept": 11
   },
   "fed_calendar": {
    "http": 200,
@@ -126,12 +126,49 @@
  },
  "items": [
   {
+   "title": "ICC judge says sanctions 'overcompliance' aids US intimidation against court",
+   "source": "Nikkei Asia",
+   "time": "2026-11-24T20:38:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOHlJTl80eDhKOG1LZVlUS2pPNEVGYlR3WXpLQlZKYlgtQW9FZTBaam91ckllcE5CaVBBanpCTk92N3RtYkZMTE5yMmR4MGUzOFhDVF9hdnVEQjZzZzlWTFZWXzhuQkQtcnIyNm8xRklTSTNvYm5TcndrTHpTaEVEalBSSk95ZG9ZSDB5bTNDZ3RHeklFdWpZN09pc25Ec1NTMnN6X3RKSDBXWFdaQmg3NFI2NkhRUm5kd0VvaGYwM2o?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
+   "source": "Al Jazeera",
+   "time": "2026-11-24T20:35:03Z",
+   "link": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold and Silver Prices Today, November 25: Bengaluru Jewell…",
+   "source": "theopenpress.in",
+   "time": "2026-11-24T20:31:49Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZE0zdmpZeHdIRGpFQ2IyRjVhel9Jd2J6M2VlaWhPVjdnOGRxU0gzS25pT181eUlMTkowUWM5cW1OaVR3NS1FQnZFR3lvbHp3czR6QXpORVNmYTdTWmIyaHRMSkFBMXM4VkRXU0p4SHRVb1dQN2w0MHhkaFNPbmFJN3J0Rmo1VjVJWFE0?oc=5",
+   "tags": [
+    "CENTRAL_BANK_GOLD",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Copper price erases Nvidia rebound as investors steer clear of metals",
    "source": "Mining.com",
    "time": "2026-11-24T20:21:53Z",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXBYVF9scFBNOGttbk9RaVRXYU9hb2o2bXRnc1RUTDNhQkpocG9jTWR5TU1GU2pBTjdBT0JhRktVS0swR0lnLWN1NTlxX2NseEpqZVBuRVhvVlFlMVZ0bEFJM0xDRkpnRVRxNlRCb0dYU3NITTZWOFBKaXpkOGF3RWVmNmdtbmR2SVNsZHU1Q3NMY2VCZ0EydQ?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Iraq targets oil smugglers, orders Kurdish oilfield takeover",
+   "source": "Al Jazeera",
+   "time": "2026-11-24T20:18:19Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
+   "tags": [
+    "OIL"
    ]
   },
   {
@@ -179,6 +216,15 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2JEU3NBWjdVWUM1enlFd2I4elMzN0p5ZHAyd3pnczFBcmdVeUxCSVM4QTd2VTk2eDZmWXhaQjRyeVBQc21INEJsUmlkS2hlQW9xMUQzZlJKaXVMT2t3aU5UclJaMGNaS1RFTnlSd2VyZ0RVNElvb2ZQXzlsbmYyWUR5SEl0MXM5bWU0ZEJUWUFaRWlmNE1vWEsyNGFHUUp6ZUVxRk5VNWM5VF9RcHlkU19R0gG3AUFVX3lxTE9rdXlZNTd1X3MzeWRDbk9HMUlIV21JdExyNWFJbExDVEwyeTBBU3pQQU16NGZ0RGVveHNaSWNSSFhKQ19mZ0JQY1VTX2RUQXJESktHUWloSkFKTXpBOUd3ZEdxQ015N3JNUnYtTEN1YjlPNG05aWlmVVYtZlp5YzE2aVIyMHd0Ykh5YU8zemV5NmpqOTJaNEl3OXBlM2syMkRxM29CcFdzUHBFSWhwZnB3LUc5aHNGOA?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Near $3,500: Can Key Support Hold as Copper’s Downtrend Deepens?",
+   "source": "Investing.com",
+   "time": "2026-11-24T19:27:00Z",
+   "link": "https://www.investing.com/analysis/gold-near-3500-can-key-support-hold-as-coppers-downtrend-deepens-200692245",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -441,6 +487,15 @@
    ]
   },
   {
+   "title": "Hongkongers face higher power bills next year as CLP, HK Electric raise tariffs",
+   "source": "South China Morning Post",
+   "time": "2026-11-24T17:43:35Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdXhlMXREdFQ4cV9IanAxUVlOR1lsRWRpUUtRS2VkeXNyc1pKZlI0NURobjR4M2FkMFlwME84RHlkVWhqN1owaFMwZ2Z5amFuVnBiOTNkT1FiWGhnaXlsbXJLTTdFUW9OWDMwLWtXWFFzNnluTlZ1YUNxRVFwaS1QYmtVLUFjZG1CMXJOQUFHbTFKSFJWTXhlYms2SnlNVm9QdzhVc25aUUxZNV9kQ1dRSFlhLVRlaXViLTNDMHB3ZTNZZVBaZ1NoLVFwZFhYUlB10gHQAUFVX3lxTFBpYXdDcHoxaXFmaUl3dS1WczB6UTQwUHo2QzFSS1ExcFBuWjM4Y2pmVU55cXgwaG1ncDJvTnJnbjBaMDdER1F1a3lORzFIRE9jVm9LNS1FSkZPX1VCRmtaMTdxbldnSFpKbjNDZmVhZmJZbkJUQ0Z3SzEzOEtHSVBkX3l2dTY4bjFITzZTVjZIWjBQclpSQTZ1ZHJDX2liZnQ1dUxWbDBnMFpZTmFFTHdXUzAwTTYwYjV5RVdsaG9kNE9GN2Y0RWI1Wk1IZVJKbXo?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Cameroon separatist leader pleads not guilty at war crimes trial in Norway",
    "source": "Al Jazeera",
    "time": "2026-11-24T17:42:55Z",
@@ -500,15 +555,6 @@
    "source": "CBS News",
    "time": "2026-11-24T17:16:20Z",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdE9zdHFOVFhJVDRnREpDbTllbWRuNUtiM1pFNVZyLXVJeFY2eVhLMTdsV0xJUVlqcHQ2UlJEQnlSNjBUb1Y4cnlmaTVhWG81bjA5Yi1IblNQMUx4SzRFVHZuNGZoVVoxNEQ5WVF2Sm1CZFVrSGxkejFYamV0QVUtOUpCSFBOZFcwTmRSOVloX2JpNU5RdGVlN05jdw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "After Libya, where will Ukraine strike Russia next?",
-   "source": "Al Jazeera",
-   "time": "2026-11-24T17:15:26Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeEhhWlctZS1va2RYUGJvanF2aFJxbnVxMUJzQV93M2xiUTg1cFFwOHlpdm9lS2pxa2Y4YkJzbUVXUWM2S0JFWFMzNkFYYXBSbTRSOWJidE1SQV9XUDg1dmJLWkp5VWRqX0ktSXlyWEVDaUVVUFlFVFJaY0tTNm96YXdyTksyNHpScmZrWXJNUGt3Z3JkM3pRRnFJUTRrbFdXZTh30gGoAUFVX3lxTE5uSjF2dU03Wk1ZYnZDODRBSzRnSzRnN04yQmNPRm5QRUYwQXZZTlFQUnNYdm5FakhZeHhHaVZibVdGLVhGTEpMQmRRbHdOZnBwUVotMzlvRXpjc1hOYTBpUk9iU2xQZExieGlpbmdINC1va3pJeWl4Zl96TElUZXJpX29MQlhNdkx3bFNPbkpXZVRPelNlUHdtYXpseDNYd2o5ajR3eWFvWQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -578,15 +624,6 @@
    ]
   },
   {
-   "title": "UK sanctions Yemen’s Houthi group and four of its top officials",
-   "source": "Al Jazeera",
-   "time": "2026-11-24T17:03:20Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdnlBcmtMUUUzZGFJenl5aEJRT2pueHpMbTBhY3VRaDIyeE9Jc0tSeF9JcnRlYkpXUUtodlpxdjg3MFBDdDd1c21wYVFwZFBzcFY3RTB2aDI0N2dtbDZNSXBrQjJ2anNiZ21YOWVlTlBFTTlwOTlUVU5zZzE4cWNzZ2tUd09adVdLUDJia0I2TjJueS1fV0V2ZUFKcmvSAaIBQVVfeXFMTkowNVB6ZDhHTEdRVE5QS1BsZ1BxZk5PNDBEMHdTeERIMEloaXFjU1piakRYQVhZUlJQLTVkMHpjY0t0RTg1ZXp2U3dpSG1WdzNZQ0hoUFZBeFlXcWRDb2NieGMyVFF4MF9STEI1Qjd0SUF2cnlNUTJ3dE45MUYzdFd1UjZnQXcyQ0h4YUZxQVVFZEEwa3BpclFqd29Bemp3V1dn?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
    "title": "Silver Price Forecast 2026: Is XAG/USD Set to Rally Above $43.95?",
    "source": "Investing.com",
    "time": "2026-11-24T17:03:00Z",
@@ -639,42 +676,6 @@
    "tags": [
     "TARIFF",
     "CHINA"
-   ]
-  },
-  {
-   "title": "Donald Trump administration debates strikes on senior Iranian leaders",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-24T16:39:50Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vZVJycWFqZHNUbUFTYXdhV3d5VVNuOFB4YV9aRDl2SGdHaXAyWjVzSy1yZEpGU0xpSG5obVJPZHRoMWNRWUFFalhOeWVMSmJ6NXhKOHVEQ3VGQng1LXZMVF92VC03TE52Umc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Copper Resumes Decline as Investors Look Beyond Drama at Nvidia",
-   "source": "Bloomberg.com",
-   "time": "2026-11-24T16:33:03Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORmkwMElFUWtfQlhMcVNNY010SXlpbm12cW1IT3BEWExiOTkyMWU5Ulk2T0tva1lkMnd5R2d5LXFJbW9jNDFMOS0tOVZmdG9rYnFrWGhybmNfaHVOaGRIYzRuMEJ3S2lQa0R1YWl1R2JvRTI4b2k4YkdFWjV2QnF4bnl3VlUzSkdySHZJVmtMU2x0bk9vNmUxS2JPb3RPZjl5OHNEa1BkOHNaM3JDdklPVDU0MWI?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Donald Trump readies raft of new tariffs on major economies",
-   "source": "Financial Times",
-   "time": "2026-11-24T16:30:35Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHc3TDUxWVRLbmRUa1hzMWJseUNEMUQzOUtfajgxMVFlM2NoWDNyRlZYWUVfZEgwbWctWm5FakVubjdZT25mcUtzU3JfcjVQcVFDUXFtWEdISDJuSFdUZGQ3VG1wODYtZzFJT0NpZV8xLUxoMFlLbThuN3VZUGhrNTJXek0?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
-   "source": "The New York Times",
-   "time": "2026-11-24T16:27:03Z",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaFhSMWNKOHQyYm5UamVCemJkVFRTN18zam5HOHEwVmdoUkF1elBZLTNqWElfMVJxdVl3cHZmeC1XZmRxeEFfb3h2bzBOOTdKQ3lrcjExTlJBYnZodnlaM3pUQnRsYWZxaDN5Zm1NcVd0UHU0VlpsbjV3UXpCdGJ3NWRzM0RMbkV5TEQ4UGFSYw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
