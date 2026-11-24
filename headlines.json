@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T09:58:52Z",
+ "generatedAt": "2026-11-24T10:27:15Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,12 +37,12 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 0
+   "kept": 1
   },
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 7
+   "kept": 8
   },
   "investing_news": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 25,
+   "items": 22,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 22,
+   "items": 16,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 13,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 33,
+   "items": 30,
    "kept": 12
   },
   "gn_sanctions": {
@@ -126,6 +126,54 @@
  },
  "items": [
   {
+   "title": "Hongkongers face higher power bills next year as CLP, HK Electric raise tariffs",
+   "source": "South China Morning Post",
+   "time": "2026-11-24T10:15:21Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdXhlMXREdFQ4cV9IanAxUVlOR1lsRWRpUUtRS2VkeXNyc1pKZlI0NURobjR4M2FkMFlwME84RHlkVWhqN1owaFMwZ2Z5amFuVnBiOTNkT1FiWGhnaXlsbXJLTTdFUW9OWDMwLWtXWFFzNnluTlZ1YUNxRVFwaS1QYmtVLUFjZG1CMXJOQUFHbTFKSFJWTXhlYms2SnlNVm9QdzhVc25aUUxZNV9kQ1dRSFlhLVRlaXViLTNDMHB3ZTNZZVBaZ1NoLVFwZFhYUlB10gHQAUFVX3lxTFBpYXdDcHoxaXFmaUl3dS1WczB6UTQwUHo2QzFSS1ExcFBuWjM4Y2pmVU55cXgwaG1ncDJvTnJnbjBaMDdER1F1a3lORzFIRE9jVm9LNS1FSkZPX1VCRmtaMTdxbldnSFpKbjNDZmVhZmJZbkJUQ0Z3SzEzOEtHSVBkX3l2dTY4bjFITzZTVjZIWjBQclpSQTZ1ZHJDX2liZnQ1dUxWbDBnMFpZTmFFTHdXUzAwTTYwYjV5RVdsaG9kNE9GN2Y0RWI1Wk1IZVJKbXo?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Treasury yields steady after inflation warning from New York Fed's Williams, investors await 5-year auction",
+   "source": "CNBC",
+   "time": "2026-11-24T10:04:17Z",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kVk10NWJKZmMxSHlDRjExaTRUbnMtRmhRTGFta21UaHg4NGNSZndMYTRxczhZSmg5TllvWi1LekdUcGc2c2hfcnVrQnhPR0NTSjI0QU0yZHpFZldCSndPWENKaXNKV0VubXYtTW9ndVllY3hRek1B0gF8QVVfeXFMUGg3N2J0czVpMHZ6dzNPbjdfb2dmYk9NQUw2ZmVQUG00UWlJeDdEaUkzSjJQMU5DOVVXQXg4YzBkYlJldkV0aFRjNXZJM2hKckRRR3lYc2xhemdhMk9rLTk4Q2Uxc3k0Xy1yOE9QZWVpM095amUwdk1BLXlHXw?oc=5",
+   "tags": [
+    "FED",
+    "YIELDS",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Opinion | His Lawn Grows Wild. Trouble Follows.",
+   "source": "The New York Times",
+   "time": "2026-11-24T10:00:28Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNampfalowWWp5OWtPMnRtbXIyekx2UEY1SjgwNElqU3h3dlVkWDdlTlR0Yy1tZUY0SlNaaGhXWXBya256NDVITmdJYlFiM2hyeUNCRFg5ajIxSEpHa096Q1ZHdm56YmpIWG44MVhxWlBGbXBhUkVObm1oOGhsalZyQUVyd0xZU1NFNjR4anRFb2pBdw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Holds $3,600 Lifeline as Markets Pivot From AI Relief to US PCE",
+   "source": "Investing.com",
+   "time": "2026-11-24T10:00:00Z",
+   "link": "https://www.investing.com/analysis/gold-holds-3600-lifeline-as-markets-pivot-from-ai-relief-to-us-pce-200692210",
+   "tags": [
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Russian attack kills two people in Ukraine’s Zaporizhzhia",
+   "source": "Al Jazeera",
+   "time": "2026-11-24T09:56:15Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXhQTzZUNTFmWlZvRU9kMmJPRXUyYjVlM3V1Y0Q5SU1DbGRMdWJWdS1ZazhfQnNlanI2T3dDbDJhNkltZmNSUF9nSkFHX3JBOXdIYnFhMjdvM2NjTDhZQTVMUktTTVh6ODE1SDJ1b0xGTG1EU0huWnhSYWwwWEhLWnJwMER3ZGhsalE5ajk3WVBCTHhvcERySGFPazhnd0nSAaQBQVVfeXFMTjAyLVJYTzNEWkVPLTctVnk2Znl5TEJQaF9WSUhmNjVvSXg4UUdKS1JZc05RZE1JVlVIVkl4aVJxT0NuY1pFOUIyQ05YVG9zMHNISzd6NWRqeGZmLVg3VkxFNGlBWThZM2hlYmxuTmxTaW1MZGZsNFVZQl9tOTRjLXMwcERzTDBDd2JIdlViRlM5TWpZU1pmUGVJa1RpN25KYVhVQ3k?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Global land mine casualties hit a 5-year high, driven by Myanmar’s brutal civil war and Syria",
    "source": "The Washington Post",
    "time": "2026-11-24T09:53:26Z",
@@ -144,21 +192,21 @@
    ]
   },
   {
-   "title": "Russian attack kills two people in Ukraine’s Zaporizhzhia",
-   "source": "Al Jazeera",
-   "time": "2026-11-24T09:51:26Z",
-   "link": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "EU Inks Trade Deal With Indonesia to Cut Tariffs, Catalyze Investment",
    "source": "WSJ",
    "time": "2026-11-24T09:45:46Z",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmw2LTRaWkhrekF4b0RUY0J3djVhQzk3V2REZkVTRHFEaWZVUk9scjBpb3lMU0JtNlE5d1NnNk1kbTd3TlUwNWJ1YUs0ZXI3WmZWblNpOWIxWmlFNzhmaTUxclVFYllJcDJjall3YlctdkNpWDBZZXNHNWpMZnlrOHBHcjViN0JpTGhyV1pJLU5peEpuZWttM3UwTDdhdE1BdzhfbnhGZTN1RVlidUpaeQ?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "German Ifo survey hints at a recovery in November but the ECB still can't get too comfortable",
+   "source": "ForexLive",
+   "time": "2026-11-24T09:28:39Z",
+   "link": "https://investinglive.com/news/german-ifo-survey-hints-at-a-recovery-in-november-but-the-ecb-still-can-t-get-too-comfortable/",
+   "tags": [
+    "ECB"
    ]
   },
   {
@@ -183,7 +231,7 @@
    "title": "No room at home: why Japan is taking its missile drills to Indian soil",
    "source": "South China Morning Post",
    "time": "2026-11-24T09:00:10Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeS1tODQ4Z1dCczR2Nk1HQV9iS3VGZnh6T25HOEpWZ2JVNFdrMTUtSDFKUnVuVjg3Q29tTml2c2ptdklFNVI2eTNYMGlkR2c0OTd3S3lOaUFnMXZROVk1ZTFYNTNITVNKSWVCMGRnYmVydUU2YXFERnJCTl9UNm42UXZlZTdfY2hJc25QMENRWUtUQVlMOWlzek9pcHg0Mmx2UHFMcVhB0gGmAUFVX3lxTFBENm45QzBxU011RU01TmVFUWFKcTFKY1JYQXdmejFuU3l4QXp3eW42c3ZVQmtMY1ZKekxCWWlQdDBtbEE5bGlkT2VSeFdKR0dxVm5qblJ6UDUtRmVwUm9sZjkydmJtWnh2aER1M2U5WDBsS2RuMTdJVnVSMlB6TFhRZ0tVZ1RYQnIyWjF6WV9MbFU0eVpyME5OWkR6TnZDay1USWhyZWc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRDZuOUMwcVNNdUVNNU5lRVFhSnExSmNSWEF3ZnoxblN5eEF6d3luNnN2VUJrTGNWSnpMQllpUHQwbWxBOWxpZE9lUnhXSkdHcVZuam5SelA1LUZlcFJvbGY5MnZibVp4dmhEdTNlOVgwbEtkbjE3SVZ1UjJQekxYUWdLVWdUWEJyMloxellfTGxVNHlacjBOTlpEek52Q2stVElocmVn0gGmAUFVX3lxTFBENm45QzBxU011RU01TmVFUWFKcTFKY1JYQXdmejFuU3l4QXp3eW42c3ZVQmtMY1ZKekxCWWlQdDBtbEE5bGlkT2VSeFdKR0dxVm5qblJ6UDUtRmVwUm9sZjkydmJtWnh2aER1M2U5WDBsS2RuMTdJVnVSMlB6TFhRZ0tVZ1RYQnIyWjF6WV9MbFU0eVpyME5OWkR6TnZDay1USWhyZWc?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -277,6 +325,16 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWpESTd6QS1rNnp3b2RSQS1OcmpRd3ROeWhHV3pfMmJ2cUNQVXdyM1pqdmdpWktLOHZLUnFLc2ZZVUt5V2ZUWVF6OHVndnhCbmljUnFJUWJqUVZLZDQxMUhIZUdBSnpsQ255X1kxbE5lSFFjQTVKR3lPNW9WSDk5RHBHU1Fub1FCTTZZSTZyekpEbDFWck5UcXpaa0RuSmxEclpNRDBXVmFTZ3RpX2hEV3hMd2ZmUThFT0c4?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "North Korea reviews Switzerland relations after sanctions on youth camp linked to Russia-Ukraine war",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-11-24T07:34:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbDJvV0RuWUd4SU9yMDlrNVQ1VmY4bkdIazB5WllpSk52R2V6R094Y1kxZG95MkdNUktHcVBBOFNkdmcxNTI0UE9RLVF2S3JEbTc0WWFKanZKZ0g3aXN4dndiNE1GQTNZcy1lMWRlN0Y1ekJHTzdFQmo2NncyWWUtaEtiWlZOZDkzWE1tVy1nLUx5SFM1UkE3N1phV3JkT2dZSkpUejlqT0N2RlRwS1N6aFBpRHhMUENyQ3ZnbVNB0gG-AUFVX3lxTFBsMm9XRG5ZR3hJT3IwOWs1VDVWZjhuR0hrMHlaWWlKTnZHZXpHT3hjWTFkb3kyR01SS0dxUEE4U2R2ZzE1MjRQT1EtUXZLckRtNzRZYUpqdkpnSDdpc3h2d2I0TUZBM1lzLWUxZGU3RjV6QkdPN0VCajY2dzJZZS1oS2JaVk5kOTNYTW1XLWctTHlIUzVSQTc3WmFXcmRPZ1lKSlR6OWpPQ3ZGVHBLU3poUGlEeExQQ3JDdmdtU0E?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -619,61 +677,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPclIybFN1cjJ1XzJuTEdkdjhqZzU2U2RWSlpocVp2VzVOaG9SVDE1Uk9PS2FSNU1UakliWmhyQ1ozVENPUXRGQndOekFQdnVjMktSek9DeHZybG1QYTllU0EzanNTZ1YwOGxIZTNnZHBjd0RmU1VXM0lMdGZmWFd2ajNHOUR2Ni1PRDFCc3ExODJseHdOeUx5NmJuWUtkZ2otOHB3Z2lXTjlydDNCdGpGeDNDNklDWktYN1lBRGFnNW4?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russia’s war dead: the hidden toll of the Ukraine conflict",
-   "source": "The Guardian",
-   "time": "2026-11-24T02:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHEzaFFZSHUwdzN0LS1RbTVLRlF1MFpWblFUV2l1eUtybk9fOHJzNmQzeW8zSi13TEdMWGtYTE9UTFNHbGx4UUZ6Z2UyRlJQUU1kY3hKNmtsV3V1ZkVsWWR3UmxvdDlud0NQa2VRRldnWFQwdV85R0RNZTVKaTJKbko0UV9Qa3FLR0J1S1FNSkZxM01k?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "WTI declines to 3-month low as Libyan pipeline restarts despite US-Iran tensions",
-   "source": "FXStreet",
-   "time": "2026-11-24T02:29:43Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPczlvUEZkVWxxMXlULWdCU3cydDV0Q0NmQjRSUjF1U3FuRXNYUVN0VW1SUlFyMDZHZjBSNzBsYnp1RkZCYmpLU2NxSGFXNGxVSmRNVlN1bzIxVVJOTjdJbW1IZzYwS0hUMV9YYmJiTEhGMmlXcElNRFV5djAwZVpYUzB6am1YUTZQeHNfeFZwZksxRU5jUkVuQ2dJaENMdnBsVVduR2E2WnI3MXh0MkVHX3NGU2pGTmJLb2Q2VjVhbWc?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "(LEAD) N. Korea threatens to close Swiss office in Pyongyang over sanctions on children's camp",
-   "source": "Yonhap News Agency",
-   "time": "2026-11-24T02:29:05Z",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kMlhVWG0zZGJwS3RyRzhQemd3cjJjWFRPcWZmN0xVeUhLZmZ2MkdoQVhqRVV1am9EbWltd3lJRlhLZkJhZndkX0xBV0RBQ1pPMkwyQ1lmbGVOZw?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-   "source": "BBC",
-   "time": "2026-11-24T02:15:59Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold, Silver, Platinum Forecasts – Gold Soars 3% As Jensen Huang Is Reinstated As Nvidia CEO",
-   "source": "FXEmpire",
-   "time": "2026-11-24T02:01:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaEtDNVNEbzFTWldSVFYxdEtSQTBkNWFiLWRvWUFoaGNZQmtZTHBiSnBxVTlxOGgyRE1DVXNDdUhkeWhPUW92anBwelRMM1ZyUWUtZXJPc1VmQXZrTkRJbXBnZi1kNVBNeEdSU0V6cWZveFpWbVZMOE9nR3FnaFk2RkJVTmJKOE9Vc18wa2RiS0lWMDBNUzVHX2ZGSHM3TlBhdnZnZHA1aE8yUUpJenRVaktiSXdjbnctWmpWVS1vaWdCdVJreU5WeWdHdHFRX0hPUlJNZw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "EU proposes banning Russian flags at sports events under new sanctions",
-   "source": "South China Morning Post",
-   "time": "2026-11-24T01:52:51Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLVJBNGRCSlpNczVYbU05TWtWRkl5TnRqYTZBU0FlWkRoLXZvUFJrcTBaYVRKMVdqVHhvaGs4WjZCME80b053VEZjX3RvY0dsQWlyT2Y3U29xREtUbDROQVJWX0xZZUNuVXBKTkxEX3RrSklUdEZIQ3NvWWxiMnpWYzNZT016VFlBWVBKcG9ucnBOLWRpRGxkbS13RTIxU0EtYTdZeXZVakJ1Wk54Z2ZDQmJLQms5d9IBtgFBVV95cUxPdUdaOWJieWtpZFBVYmJ0X2VPcVZFN0hfS2huLVhCN0dnTmEzeUtiVEdyX09pTER0YTB3QWFNVTR6Unk1bFc1bDFyYVpsUjdUNnVJRlN1d2cyMUdIOWIwRmZLZmJrS1VGUS1zaWJJekZnczdvbmw2X0lFcWlpbzBUckFIV1ZlOEQ4OHFxcVFwc2NNc05FMEcwbE9CWmF0emQwYlJOQ19VR1I0NmJ2SWxLQWJhclBBdw?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   }
  ],
