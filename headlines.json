@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-11-24T07:37:09Z",
+ "generatedAt": "2026-11-24T08:05:28Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 0
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -42,7 +43,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 5
+   "kept": 6
   },
   "investing_news": {
    "http": 200,
@@ -81,12 +82,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 25,
+   "items": 24,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 20,
+   "items": 19,
    "kept": 12
   },
   "gn_tariff": {
@@ -101,7 +102,7 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 20,
+   "items": 18,
    "kept": 12
   },
   "gn_yields": {
@@ -126,6 +127,42 @@
  },
  "items": [
   {
+   "title": "The Ukraine-Russia war is escalating – and it will go global unless Europe speaks with one voice",
+   "source": "The Guardian",
+   "time": "2026-11-24T08:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR04wVEpvVktIXzloaDJpTndrT2N4ZndnSVlheldaWUx6VUhtbnQzSVRSM2pWZV8tOHUyV2o5Mm56VDBQNG8xS25JTV80OWh6UFNNdFNHODd3NFBfZG8wTi1PcUQtOHp0SGJJZVU3RUhtSkI0YlhkLUIyLXotaU1rakhLMl93YWxsT1E1eS1QUkNWUzhNOXFtRm1wWGdMN2duX3RpanNn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Pakistan’s Zeeshan Ali set for historic flight to China’s space station",
+   "source": "Al Jazeera",
+   "time": "2026-11-24T07:55:18Z",
+   "link": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
+   "source": "Al Jazeera",
+   "time": "2026-11-24T07:52:44Z",
+   "link": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+   "source": "CNBC",
+   "time": "2026-11-24T07:45:12Z",
+   "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "US Stock Selloff Revives Question of a Fed ‘Put,’ This Time Under Warsh",
    "source": "Bloomberg.com",
    "time": "2026-11-24T07:31:19Z",
@@ -135,21 +172,22 @@
    ]
   },
   {
-   "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
-   "source": "CNBC",
-   "time": "2026-11-24T07:27:15Z",
-   "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "What China's Xi could take away from Jensen Huang's return to Nvidia",
    "source": "BBC",
    "time": "2026-11-24T07:26:27Z",
    "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
    "tags": [
     "CHINA"
+   ]
+  },
+  {
+   "title": "Oil Prices Hold Near 3-Month Lows Despite Hormuz Mine Claims",
+   "source": "Investing.com",
+   "time": "2026-11-24T07:20:00Z",
+   "link": "https://www.investing.com/analysis/oil-prices-hold-near-3month-lows-despite-hormuz-mine-claims-200692203",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
    ]
   },
   {
@@ -186,6 +224,15 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yaC1qLVVNbFZnT2NLZE1GWEhjWkVtMnFuYnZORzg5WVVqejh5OG9PbUtWTmpTRHNvbHpTNjlJSmxjUkM3QU04TmctT2gyX3JObXU0WEE0NVVGSk9iWmc?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold Outlook: Sliding Between 0.382 and 0.236 Arcs With Downside Target at $3,590",
+   "source": "Investing.com",
+   "time": "2026-11-24T06:32:00Z",
+   "link": "https://www.investing.com/analysis/gold-outlook-sliding-between-0382-and-0236-arcs-with-downside-target-at-3590-200692198",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -249,6 +296,15 @@
    "source": "Investing.com",
    "time": "2026-11-24T05:26:00Z",
    "link": "https://www.investing.com/analysis/gold-rebound-stalls-as-bearish-hammer-signals-fresh-downside-risk-200692189",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold Futures: Testing the $3,640 VC PMI Pivot – Is a Reversal Underway?",
+   "source": "Investing.com",
+   "time": "2026-11-24T05:24:00Z",
+   "link": "https://www.investing.com/analysis/gold-futures-testing-the-3640-vc-pmi-pivot--is-a-reversal-underway-200692187",
    "tags": [
     "GOLD"
    ]
@@ -623,63 +679,6 @@
    "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Congress is going to war with Nvidia",
-   "source": "Politico",
-   "time": "2026-11-23T23:58:00Z",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeVR4X1QxSE5QdndMMENMQXhvbElkOXN1R3VyUWNhRzRBTjdORnlPZG5QcUNkUGhGM3ZWQmF4cmRDTkhBSWJmcFVqUy14WFJoQk56cXJoZWQ3bVEyY0tuc1hLTXNQYXlKUWJzM3BRN3AwRXVXeGFSZVo5eVJKM3FKMDdoaklhbTZfcXRodUpCNA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "N. Korea threatens to close Swiss office in Pyongyang over sanctions on children's camp",
-   "source": "Yonhap News Agency",
-   "time": "2026-11-23T23:57:34Z",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yRnczN3FYNEttNWx0cEhWTS1ZQVVPUUxVYmljMkNyVGVfTXZyNVhJN2xKeF8tN3liWEYwMlo0czJiSG4zUGVnc0x5SVdINnZTTnlqXzZVT203dw?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Qatar warns Middle Eas cannot afford another US-Iran escalation",
-   "source": "FXStreet",
-   "time": "2026-11-23T23:42:01Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUhDOEVnamlfeUk1LW1sRGs3R1puaHpXOFZxMVpBYU53T2p1cFVoTHQ0NEZqanFTUU5VcGloRGRMWXJYaXU5aDVHWTVFWmM2NlhMRWdKTnlQbU91ckVWeHZadTV3SklUa19JSUVDX0NaTlQ5VlNlaVhLam40clFwaC0zbm40SVpwcURmaFV6bVpBWWgtZS1Rdnh6RmRkaS1XVW1UU1BCSjJLUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Equinox Gold Corp. (EQX) stock price, news, quote and history",
-   "source": "Yahoo Finance UK",
-   "time": "2026-11-23T23:41:31Z",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yLXlEQnBHTzFILUdPOGxiaHNZOXd1ZGhrNjdWRnhFYzREYk8zWUdRTlBvdjJhUFlDQTBkdjZRMmQxVG9JVGNaeE55ZWdqbU1P?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Fed's Williams says inflation still too high, signals more rate hikes possible",
-   "source": "Reuters",
-   "time": "2026-11-23T23:38:48Z",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3lvbHFTMGFKUm9paUJYVzFoQzd1QnQtSzAtTlZmSlFyRW5Sc1hic3p2MVV0VWVrYjFkNDdQZlFTUWMzZGFueG5yMTVMcGhLWUxwQi16Ujk5b2ppMVRWTGowaHlMZDQ4Z19xbWpCQTRFVzFHSHhxeW9kbG80OTVtSEZsb3REX29FRFFPR0xzTnFjYXh6?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Tariffs Strike Again: 343 Companies Report $28.5 Billion in Trump Tariff Refunds. Retail Beats Need a Second Look",
-   "source": "Yahoo Finance",
-   "time": "2026-11-23T23:36:42Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2luczVxMTBfS0JwSXcxalFUdHIzaFRZb1ZtcXdYZUVXcnFFcmFfY29kUXBsTHlwb1NwM3lqZlBINVBJcEZsWjVQT3NqbWlWZTVwLVhJU0Jyd1dOLXZKOVdDcVlMaEJLa0R4NndScHVkRUhldE9vZ0gtYXFwVXQ5RlprZnpSVzdUdWYweHFmcVZBVkdVTXdyODluNnFzSjNr?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
