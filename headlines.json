@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-11-24T08:05:28Z",
+ "generatedAt": "2026-11-24T08:33:49Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 0
   },
   "fed_monetary": {
    "http": 200,
@@ -62,7 +61,7 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 57,
+   "items": 58,
    "kept": 0
   },
   "bbc_world": {
@@ -87,12 +86,12 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 19,
+   "items": 24,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 13,
+   "items": 12,
    "kept": 12
   },
   "gn_war": {
@@ -102,7 +101,7 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 18,
+   "items": 19,
    "kept": 12
   },
   "gn_yields": {
@@ -112,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 3,
+   "kept": 3
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 4,
+   "kept": 4
   },
   "fed_calendar": {
    "http": 200,
@@ -127,9 +126,36 @@
  },
  "items": [
   {
-   "title": "The Ukraine-Russia war is escalating – and it will go global unless Europe speaks with one voice",
+   "title": "Japan accelerates ICC funding as US sanctions threaten court",
+   "source": "Reuters",
+   "time": "2026-11-24T08:15:28Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeVlqQzhUUnlVXy11enMtemVoQURZSDZ4cFZ4czFBM091NW9GWDZVUmE2dGg2V2xCeHhzS2JINGI3RDdJdGw5N0t5bThLWDNGTk5DUVk0bnZJeEZSYWZTRElIbTQ5dzVMb2NySUhHaVZEZTNPZks2eldrbmt4ckx4YWpXR3UzWnE4bWhmS3BRdE5SZDZlam5vbC1VQndoWnQtcjgzMnhZRzVaalQ1?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+   "source": "CNBC",
+   "time": "2026-11-24T08:13:58Z",
+   "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "LME should intervene in historic aluminum squeeze, trader says",
+   "source": "Mining.com",
+   "time": "2026-11-24T08:07:12Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd3JOMEpKN2tscTVDdV9peWhOcm5OSWQ1Ny0ySkJiTkNfNF9tLVkyU2hqNno2OC1Ec1c5QmNwUVJLa2dUMm03d0Mxa1JSREU0T0d2WVlNNU5KT3RKQ01Jem45UEpISW1NdnUwdlVQakMxck9mUFBkSTNZdmpZRThGV1R4UGhVY1lrTVdWOVptLVpHRDdaQm1MTnNR?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "The Ukraine-Russia war is escalating – and it will go global unless Europe speaks with one voice | Simon Tisdall",
    "source": "The Guardian",
-   "time": "2026-11-24T08:00:00Z",
+   "time": "2026-11-24T08:02:00Z",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR04wVEpvVktIXzloaDJpTndrT2N4ZndnSVlheldaWUx6VUhtbnQzSVRSM2pWZV8tOHUyV2o5Mm56VDBQNG8xS25JTV80OWh6UFNNdFNHODd3NFBfZG8wTi1PcUQtOHp0SGJJZVU3RUhtSkI0YlhkLUIyLXotaU1rakhLMl93YWxsT1E1eS1QUkNWUzhNOXFtRm1wWGdMN2duX3RpanNn?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -149,15 +175,6 @@
    "source": "Al Jazeera",
    "time": "2026-11-24T07:52:44Z",
    "link": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
-   "source": "CNBC",
-   "time": "2026-11-24T07:45:12Z",
-   "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -191,21 +208,21 @@
    ]
   },
   {
+   "title": "Texas’s outgoing GOP attorney general drops multiple culture war lawsuits",
+   "source": "The Washington Post",
+   "time": "2026-11-24T07:18:29Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdi01d2otRjNRZzR3cFk0WnBtZzhWNHBtUldtMWF2ME55S2h2Qkg0cHZISHZTS3JQcWUxZFBiWFFlSktxZWgyVmMwVlNJeDJudldfY1Z4VTdQMDI0OVNrUTFIb09rSnhvbVpHc0pHMmNkQmFFdVBVN1lPZ3RlRURRUkxhMGtlZmZZWklJM3BKNFZrZDZtcGJRYkVwaEFsZFlVQ2pjeUU0QUlDYmlDbE9wZ3pCTU1yZFctTnNTMFRCaEljUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Indonesia-EU trade deal sparks 'ambitious' hopes and transition concerns",
    "source": "Nikkei Asia",
    "time": "2026-11-24T07:16:00Z",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkJRdms2S1YzQWlGTnc3ZUFJYlpYLTd1VWZfa2lVMnFsMFJESmFveFhfYXdjSEJ6UkpCMnI1aGdwa2Z6d0dDTUM2N3BSXzBLazFITnlZQzdfZkpyd1NqTk44dXJEYmtaOHFCQzlCSU1LYTN4ZnhUb0pOZVIwcDMwOXljblRJRzNJdXZoelRGMWVNZ0I0bXRIc1pSTV9Gcnpjcjl5Ym9PcGVoVGlr?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Texas’s outgoing GOP attorney general drops multiple culture war lawsuits",
-   "source": "The Washington Post",
-   "time": "2026-11-24T07:03:21Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdi01d2otRjNRZzR3cFk0WnBtZzhWNHBtUldtMWF2ME55S2h2Qkg0cHZISHZTS3JQcWUxZFBiWFFlSktxZWgyVmMwVlNJeDJudldfY1Z4VTdQMDI0OVNrUTFIb09rSnhvbVpHc0pHMmNkQmFFdVBVN1lPZ3RlRURRUkxhMGtlZmZZWklJM3BKNFZrZDZtcGJRYkVwaEFsZFlVQ2pjeUU0QUlDYmlDbE9wZ3pCTU1yZFctTnNTMFRCaEljUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -661,24 +678,6 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjdtMkhpTEVJZzZ4WGFMcG5qaE1Kd0k3U2Q5aWJnVnFYR1pCeWw5TkVWcWhqek0yS0lkanN2dGd5bzVQR2h4N3lVT0k4dTEzaEZ2YW9wRWNDTG5Xa2tQRXB6QlUyeU9ZaWl1emlpUXNBdURHMnhSNnpwaDRyNHpLNUhzdlJ3NXlrRHBsWXlR?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Delegat Group Recovers $5 Million of US Tariff Refunds; Shares Rise 7%",
-   "source": "marketscreener.com",
-   "time": "2026-11-24T00:14:15Z",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU20xYTVZa0VrbmFERERMVFIwb3NGdnBKd28wZkZjVG1NOGJmQkVpX2lDcTUyakdRYXNSdUU0REVLV1VSMXRmY3d2Q3Y0SnlYb1RnSUwwN0RkOHFmYlhHTmhVVnBWMk5tdWhabUxvb1ZxTEVYXzBXSTNaNEw5ZHYwUm9nUnpIYjZLaW8wOWVxdTNVN3M1ZEhORjliOFJpMW1OaVIzczVkUExmY0FMSDR0YVZDdGVjVXZzS1dPTQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines",
-   "source": "Al Jazeera",
-   "time": "2026-11-24T00:00:00Z",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
