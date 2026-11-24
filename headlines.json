@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T12:49:00Z",
+ "generatedAt": "2026-11-24T13:17:20Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 26,
+   "items": 27,
    "kept": 7
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -81,33 +81,33 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 25,
+   "items": 23,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 21,
+   "items": 16,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 16,
+   "items": 20,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 37,
+   "items": 36,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 20,
+   "items": 18,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 10,
+   "kept": 10
   },
   "gn_oil": {
    "http": 200,
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -126,12 +126,103 @@
  },
  "items": [
   {
+   "title": "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries",
+   "source": "WSJ",
+   "time": "2026-11-24T13:08:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Property Play: Commercial real estate activity falls 14% in October, as interest rates rise",
+   "source": "CNBC",
+   "time": "2026-11-24T13:05:43Z",
+   "link": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
+   "tags": [
+    "RATES"
+   ]
+  },
+  {
+   "title": "China walks ‘thin line’ in push to prevent another Horn of Africa war",
+   "source": "Al Jazeera",
+   "time": "2026-11-24T13:05:42Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV2lBSkpVVkNwSHotal94bmRSMXJmTkJNZVZ1bzIyMXNPcG1GUXJGRXJmdWVkWnUtNHJ4ZHU1Y3hYNUh1enpad3ZDWkFXS2YwNEtPWndabWdWV3ZKQ2xrREFiMWxIZFFIX2hMbml6Z1BpY3Bram9zU2pqVXN2OVlMZ0tCbWFSNmNvYXZzYVJETldfTGF4ZHJhWG9neXJ0ZlUwaFA4bzJvZi1ZLWUtVVHSAbMBQVVfeXFMT3Ewem15YlliVmJPNjdRR2I4V3VnSXNFZWI3M3pNREw3Y0c4b2s1SXd2YkRRc2YxRTJ2U21Va2NoTTNPVzlvVVpsOTVpWjdkV2N1X2hneXB3c2EtU0pfOEY2Z0gyZUEzeU43anYzZzc0OU9jbXp4VEFpLURlZ1d0QW5nV2VqYWpUcGdlRk9SRFExV29ldGJhQXpXaXJMWG93eW9aRmFrT3N1Y1h1WUFRbUNxS2M?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Iran files lawsuits in US, EU courts: Will it get justice for ‘war crimes’?",
+   "source": "Al Jazeera",
+   "time": "2026-11-24T12:56:45Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZVVCYzZGZ0dSYTY3c2NCclRXLVIxOExhMEFqN1ZMbDU5Rl9rSU5TX2owRmJGb0pwR2dhRkNUTW52TVJvWGVwT1g3SWpoa1lLWWJXeVZjWWx2NXpiSkdIOHYwVGw0dUpzX0F3Y0RfQkVHeWhQaWRWZGliQmgwY1ZibEpyMUM2dVlKRmU0QTlTd0VLRzhyS254ZWFyU1VpbjJ3ZWJKMjR3SkxqZkZ2M21WZ1NrTHVKd03SAbwBQVVfeXFMTXpPc2VpWkZaZUJHeVB0MHMtamxqOG44QktsQ2tNSGhKaTMtMl9CbHM4TUlWSElSRDFzTlNpY04wRFlsM3h6elFXRVJvdGZVMHlxY29YV3pPajMtQlVsYndDZlZHdUVkRk1Sbks2dmFkN1d2bnBiSDdIQThYbkpmdE5JN0ZzMUlUYTRKNHVYV2REYmNkQzN4VjE1YUw4b1lDTU5IU1pDcUlRSmNMNmJtY3RmRFNUVks3NzBQSXo?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "UK sanctions Yemen’s Houthi group, four senior officials",
+   "source": "Al Jazeera",
+   "time": "2026-11-24T12:56:18Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdnlBcmtMUUUzZGFJenl5aEJRT2pueHpMbTBhY3VRaDIyeE9Jc0tSeF9JcnRlYkpXUUtodlpxdjg3MFBDdDd1c21wYVFwZFBzcFY3RTB2aDI0N2dtbDZNSXBrQjJ2anNiZ21YOWVlTlBFTTlwOTlUVU5zZzE4cWNzZ2tUd09adVdLUDJia0I2TjJueS1fV0V2ZUFKcmvSAaIBQVVfeXFMTkowNVB6ZDhHTEdRVE5QS1BsZ1BxZk5PNDBEMHdTeERIMEloaXFjU1piakRYQVhZUlJQLTVkMHpjY0t0RTg1ZXp2U3dpSG1WdzNZQ0hoUFZBeFlXcWRDb2NieGMyVFF4MF9STEI1Qjd0SUF2cnlNUTJ3dE45MUYzdFd1UjZnQXcyQ0h4YUZxQVVFZEEwa3BpclFqd29Bemp3V1dn?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "‘We’ll keep sinking Russian ships’: Ukraine challenges Putin’s global reach",
+   "source": "Al Jazeera",
+   "time": "2026-11-24T12:47:23Z",
+   "link": "https://www.aljazeera.com/news/2026/11/24/can-ukraine-disrupt-russias-operations-in-africa?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "One every four minutes: New data suggests 720,000 Russian soldiers killed since start of Ukraine war",
    "source": "CNN",
    "time": "2026-11-24T12:45:07Z",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLVBjNlZFWUJMUVpTQVp6cWFja3JQckhuYzZFaGpxODl5U2hzRG9SSV9vQ2VJdHVuak4zSHZWYXpIeHhOMXZRb0JpWmQ0c3FhNDJKTnNkOFBKNlFWRzB3dXpBbmI0UnlVcXlRVVg0aW9GNHBSSWdXNC02RjdDaV9VNEkxLUg?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Pakistani astronaut set to make history on Chinese space mission",
+   "source": "Al Jazeera",
+   "time": "2026-11-24T12:44:41Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/pakistani-astronaut-set-to-make-history-on-chinese-space-mission?traffic_source=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Mike Novogratz doubts Bitcoin will reach $90,000 before year-end",
+   "source": "TradingView",
+   "time": "2026-11-24T12:43:16Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNWpoampTNHRrcWMwXzFfdXhhWFZ5Ql8xWG0zVEZEZk9US0JUZ2ZfV01TS0xPSUdmSm96eGtEaGF2R2x4ekVlaGhYS3k0YWJ1ZzZoWVJwbkdBQ1RpbHdMTlFVVHZaWVEybTVDRVJGVkxieHpfVWplU0tNYmxtcy1pLVQxNDhRU21KUmZ2WnJOQUNYRUp0WUFvclZuRC13LVNKckN4aHpqVnc1MTdOdDJtajhNeVpxc2RTZ0FndW9VYi0tcjJ1dGdr?oc=5",
+   "tags": []
+  },
+  {
+   "title": "U.S. Treasury Yields, European Bond Yields Fall as Oil Prices Remain Under Pressure -- Update",
+   "source": "marketscreener.com",
+   "time": "2026-11-24T12:42:33Z",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQW15TmNianJoUXZtOXlmWk1mY3AxaDJWQVhzS3pVb2ZBOE5Yb2RQQWNyT2hTcFRyNV81RHdXcVdfSzBvS1h5U0lCLTNoNERzR2VHd2RySHdyUFFqSHB3aHB3YVlXWDdyRDFOY3RveC1FdktuV0hnUGNsNVQxNElGOG05ampTZEE4YVR3X1NuN2Y1NmVLVS1lTklsTUdoa2FSRnhXZkpYZ3dBUzYzMEs3YlBaLTRITnExelRUUmRwbzZ3eTl5N0tkWEZxSG5qcHdCLVBHUGNPWnc?oc=5",
+   "tags": [
+    "YIELDS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "ANF: Record Q3 sales and stronger guidance, with tariff refunds aiding margin and EPS",
+   "source": "TradingView",
+   "time": "2026-11-24T12:41:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTkIzWFZEWFktSGt1VHlwaElfQ2JvX25qcnZCM0cwNG8wdWJwM0hEYjFtLXJHcUdiMVNzd3ZfVlpOdFZZR1c5Zll0MUxEeXdPSlBNZmdtUHBWSmVZcWk5N1dDTElKbEZOdEZFNzNsSWJrd0xoSGxKNnhyR2lGRmZYS0Q3eUZYREtLVG9sMUJKemdzVm9La0h6Vnpac3RfcUNoSW40Uzk4WnZsQlR3U0dQR05JMjVGVUFnV0RReXhJOU1NcHB5RFY2ejlOMk9MTVhRdndtTXNJa2xxeXUyV3l0LTlzRUdTemtJbWFQZ0twckg2VFFnT2RrTUxR?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -147,9 +238,18 @@
    "title": "Is North Korea sidestepping UN sanctions with new luxury barge?",
    "source": "South China Morning Post",
    "time": "2026-11-24T12:30:58Z",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOQkZ0QXZRb3ByX2xfYy1yUFExWWVmRF85V3dKTDhDTm1ZbF80YVZpNVJJLV9uSjFkV29lYmh4R2Jmc0dHc3p3dHNSS3laQnVnQzFvNlNWdXZ5Y05SeXd0YXhFRFBiZnVmLThpaVBrd1RCV3RYYjNNY204NGM5U0NBNkhYb3FyakV0SWxMcTNzX0tuYkRfUmxfalRvYnBaVHVYcXMzYWs5eXdnNUxmVGtpQmxHV1c3VVdkcFVzM0Jjbkt6Umx5OFh1UExfZEVhT1ItYnhxWUhHaDJNRXZzY1BxdEp5WGpFOVVHUzdWaFhiSVlLZV8xWjQxNElvWlZ3VDRGN3dwbXh1eXBUNFBBMnc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTlVCdU1lZ0c1WHlDVkIyZGkzTnBHQ2ozUloyenBqejBvWjNtM3hOYkFiUXE2bUdmQU1VdWszX1pXRkpEcU56czFhekNpX1RkZXB4eHFUTUJhbEVkZ3FRLXJZajhzWWxnTGU0NEs1ZHRwY3FnTER4Ui01dzdmbTFsS2c3OUc2UXpOM2huY0lKTkdlVWxBanRFcFlnQUdfRHZYaUQxUERHU09oN0Rwdlltc1RnN2wzZnR1clkxc1NEd2IyZ0pEaGlVU19FaEUtOWlPZVU4UmJnQ2t3dmkzbVVN0gHfAUFVX3lxTE1zWjA4VUdiUXZkTXYtYmpTNDg3X2VJcGZSRllPbHd5b3hyUHlWUE8zRWlBSzNrNUJDRUNBeEFzN25YdC1nQU82V2hkVlpKOWh0aEp3NURnZnJUdWJMdFJjUjluaFd5a1dka1JrbG0zYlVrX3dHTkdyNzFaRjlnUVktbkFTQXVTMU5Od1l5bkZLM1E5eTBHcXFyaHZvRmlJUkUtVHdQemJ2V1FJWUszRmEwMUZKLU4wYUVRcFZ5XzB2clljQ2RzNTZ3RUNMMWw4OUItRnpHMFVVeHQxenZLUTQ?oc=5",
    "tags": [
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Russian data reveals hundreds of military suicides since Ukraine war began",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-24T12:28:55Z",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wREc0Snd5Wkp5bVo0NVR1VzV0UGtZLXlpU1dhc1lJdFE4Vlh0dnE1UW84ckJRenFYR1Y4c3c0eElieF9pUlUyZGxHOWVZa0FyQ0xrbTBKX0ZTQUVPaDdz?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -166,6 +266,15 @@
    "source": "Bloomberg.com",
    "time": "2026-11-24T12:16:05Z",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNGkwNVlEU1BFbk44dFJXQ3NmZXJUQ1BjbWhkTU9ibkVOSXYzUFVtOW03WjhaTlNwb1VaMmQ0Z05PTXlUYzNkTDBlSVQtLWRGNU9KMVBlVERxemNWMl9Id2JuVkw0cUNBbnVWV3ZOTVJWcVd3U044UHhNZm5jX2F2bUZBYXZMcEJwTFFrYzhFNzF6QVphM0RR?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+   "source": "BBC",
+   "time": "2026-11-24T12:12:48Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -243,6 +352,15 @@
     "CENTRAL_BANK_GOLD",
     "CENTRAL_BANK",
     "GOLD"
+   ]
+  },
+  {
+   "title": "DLTR: Sales grew, but Q3 margins narrowed as tariff refunds buoyed year-to-date results",
+   "source": "TradingView",
+   "time": "2026-11-24T11:37:44Z",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNFJUWjhzNmV5OFJrSjczZXdlUmFvczJGQ0lLN0pRaHdBdjQ4YkVoR2t6cFNmd0lJVWh5UTJJalZvM0pzZVF0LXY5UE1MdW9QRjNZRU5CTnQ2eGtnbGl1M2E0VXJTZzVteWhzUnRYcHhzSWEtTlhsaUN2R1JJU3hQZHJ1VHkyNHM2b0dOVTdJN25SY2Y0ckF5aWhlanpPcVhpS3puTEt5d0oyTWU0YjVDbHhZVEpRYkJWdmJSbGR5cU5fS0ZLLWhKcmFidmpoN3NaNWZEQkl3MnJPOFFMUmpRLW1odFI3c3p4VFR5TEk2ZHFQZGZsOUw3aTZiMGs?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -385,6 +503,15 @@
    ]
   },
   {
+   "title": "Trump's Push To Reinstate Huang, Market Reacts To Nvidia, Russia-Ukraine War Widening",
+   "source": "NPR",
+   "time": "2026-11-24T11:01:14Z",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMG44d3VXcFZSTWJHMFdESlhuRTBIQnc1b20wWEtMdHEwb1F5aTZGX0FjMEdvak83LW9sUkF0VFB2c2NHYUNQejM0bGYzMW5LU1pkS1BremVvSG5BM0FmWUhJOG5lYXY4N0Q5ZlNPV1I0cEZUX25hbS1mMEFMd3RnMWQ0LXRWbEcweHJxMHZlNnM1MlNCNTM5LWQ5ZllBS0NOYjFhc3BNRWhWVlU4dEQxMlRyeU5uazRrXzJueXRncXlFVmptQkE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe",
    "source": "ECB",
    "time": "2026-11-24T11:00:00Z",
@@ -428,6 +555,16 @@
    "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Canada and China Draw Closer with Expanded Trade Pact",
+   "source": "WSJ",
+   "time": "2026-11-24T10:49:12Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
    ]
   },
   {
@@ -477,6 +614,16 @@
     "FED",
     "USD",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Stock Market Today: Dow, S&P 500 Futures Fall After Scott Bessent Unveils Fresh Iran Sanctions, Hormuz Wa",
+   "source": "Benzinga",
+   "time": "2026-11-24T10:18:39Z",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQeTI2NXZONWZrdFg0M2tMeVNDMzZXM05MS0FMVUZKWERhUkVqalBUVklCN19hYzVGMXMtOUlibWpJajRwa2FNYkhhekN2XzY0YnhjMk05NmpfN2dSOXp2RE1qQnA0VGI4eWttcWVqT3kwMGlYMTRuVnkxcmlEaG5HRDhrUFU1RDlsdDl4TTlhX3dHVUN4dkhzUzZHWEZhbXp2bFl4ZVNZdERld2tzR1pISzE2WGZUYTNMNGk5QzFOc1J1SmJZRVFoRmpuUFBzYlREODRKemg0eDNtTURkSzBLc09fXzdQY2VHeEJhaUlQYm8zLWNKQzVnbmIxaFpjUlVsdVA2WXFkN0VvRHhmXy1iWkdVdVQ2dw?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -534,151 +681,6 @@
    "tags": [
     "INFLATION",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Russian attack kills two people in Ukraine’s Zaporizhzhia",
-   "source": "Al Jazeera",
-   "time": "2026-11-24T09:56:15Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXhQTzZUNTFmWlZvRU9kMmJPRXUyYjVlM3V1Y0Q5SU1DbGRMdWJWdS1ZazhfQnNlanI2T3dDbDJhNkltZmNSUF9nSkFHX3JBOXdIYnFhMjdvM2NjTDhZQTVMUktTTVh6ODE1SDJ1b0xGTG1EU0huWnhSYWwwWEhLWnJwMER3ZGhsalE5ajk3WVBCTHhvcERySGFPazhnd0nSAaQBQVVfeXFMTjAyLVJYTzNEWkVPLTctVnk2Znl5TEJQaF9WSUhmNjVvSXg4UUdKS1JZc05RZE1JVlVIVkl4aVJxT0NuY1pFOUIyQ05YVG9zMHNISzd6NWRqeGZmLVg3VkxFNGlBWThZM2hlYmxuTmxTaW1MZGZsNFVZQl9tOTRjLXMwcERzTDBDd2JIdlViRlM5TWpZU1pmUGVJa1RpN25KYVhVQ3k?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Global land mine casualties hit a 5-year high, driven by Myanmar’s brutal civil war and Syria",
-   "source": "The Washington Post",
-   "time": "2026-11-24T09:53:26Z",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeElHWXZxM09BZ3N3VGk2dy12Um5JWTAzeEJUb3RwRFVYTUJtVm5vUU9VcXp1QV85a3hIRk8tb1NESkh4ZFhCTW9RU1VFRTM1ZTFSN3p3SnhXY1ZXRXRXaVdMb0d3ODR3TFhSUi05S0JWQkRLaDdJdnl1aDYtWkY5NzZTRHpVYTRSRER0RkFERFprdXZySG1VakppTGRhT21kb1dZcWlGb0EwRThkNVAxSENZekJoLXIyMG5kUEtjNllvSHNUclZyZkttWk5mQnZScHpsOHU5WjZvZFE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "The War Room newsletter: Is it a drone or a missile?",
-   "source": "The Economist",
-   "time": "2026-11-24T09:52:24Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTktBMXhPUUt3ZEg5TWNoQUpVTUZIRDRVZDhjTDlYU0RFXzkzNlFQTm9yZE1OZXFVcWVZN3VNV0lDLUFjejBoclBCa1RiNmRMdXJ1THhjTzJWSlhGYTBHNW5DbUZDa2psb0ppMldfWWRhQ1VxQUNDdXlTcXcxdE82UWJoX1h0U01iRlF0TmROajd1blU4Wm5DeUFWREwwYnVibW5V?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russian strike kills two in Ukraine, days after ship attack off Libya",
-   "source": "Al Jazeera",
-   "time": "2026-11-24T09:51:26Z",
-   "link": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "EU Inks Trade Deal With Indonesia to Cut Tariffs, Catalyze Investment",
-   "source": "WSJ",
-   "time": "2026-11-24T09:45:46Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmw2LTRaWkhrekF4b0RUY0J3djVhQzk3V2REZkVTRHFEaWZVUk9scjBpb3lMU0JtNlE5d1NnNk1kbTd3TlUwNWJ1YUs0ZXI3WmZWblNpOWIxWmlFNzhmaTUxclVFYllJcDJjall3YlctdkNpWDBZZXNHNWpMZnlrOHBHcjViN0JpTGhyV1pJLU5peEpuZWttM3UwTDdhdE1BdzhfbnhGZTN1RVlidUpaeQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "German Ifo survey hints at a recovery in November but the ECB still can't get too comfortable",
-   "source": "ForexLive",
-   "time": "2026-11-24T09:28:39Z",
-   "link": "https://investinglive.com/news/german-ifo-survey-hints-at-a-recovery-in-november-but-the-ecb-still-can-t-get-too-comfortable/",
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "title": "LME should intervene in historic aluminum squeeze, trader says",
-   "source": "Mining.com",
-   "time": "2026-11-24T09:23:39Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd3JOMEpKN2tscTVDdV9peWhOcm5OSWQ1Ny0ySkJiTkNfNF9tLVkyU2hqNno2OC1Ec1c5QmNwUVJLa2dUMm03d0Mxa1JSREU0T0d2WVlNNU5KT3RKQ01Jem45UEpISW1NdnUwdlVQakMxck9mUFBkSTNZdmpZRThGV1R4UGhVY1lrTVdWOVptLVpHRDdaQm1MTnNR?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
-   "source": "The New York Times",
-   "time": "2026-11-24T09:08:32Z",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaFhSMWNKOHQyYm5UamVCemJkVFRTN18zam5HOHEwVmdoUkF1elBZLTNqWElfMVJxdVl3cHZmeC1XZmRxeEFfb3h2bzBOOTdKQ3lrcjExTlJBYnZodnlaM3pUQnRsYWZxaDN5Zm1NcVd0UHU0VlpsbjV3UXpCdGJ3NWRzM0RMbkV5TEQ4UGFSYw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "No room at home: why Japan is taking its missile drills to Indian soil",
-   "source": "South China Morning Post",
-   "time": "2026-11-24T09:00:10Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeS1tODQ4Z1dCczR2Nk1HQV9iS3VGZnh6T25HOEpWZ2JVNFdrMTUtSDFKUnVuVjg3Q29tTml2c2ptdklFNVI2eTNYMGlkR2c0OTd3S3lOaUFnMXZROVk1ZTFYNTNITVNKSWVCMGRnYmVydUU2YXFERnJCTl9UNm42UXZlZTdfY2hJc25QMENRWUtUQVlMOWlzek9pcHg0Mmx2UHFMcVhB0gGmAUFVX3lxTFBENm45QzBxU011RU01TmVFUWFKcTFKY1JYQXdmejFuU3l4QXp3eW42c3ZVQmtMY1ZKekxCWWlQdDBtbEE5bGlkT2VSeFdKR0dxVm5qblJ6UDUtRmVwUm9sZjkydmJtWnh2aER1M2U5WDBsS2RuMTdJVnVSMlB6TFhRZ0tVZ1RYQnIyWjF6WV9MbFU0eVpyME5OWkR6TnZDay1USWhyZWc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Chow Tai Fook Jewellery Group: Revenue grew, but operating profit fell as gold-price benefits to margins faded",
-   "source": "TradingView",
-   "time": "2026-11-24T08:43:14Z",
-   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOZmkwa2diXzh0WG8tbE9vNDFkSnlBRWNKeVdnWEFfMjB6Ujh4SW14N1oxUS1GUkhTZ2dWdTl4YUhjMWIydUR2aUxLcGtUaEEyZ0RwMGE3WmhnRURyVWROWHZqMUlMLThQNV9SaFV4T1dtd014WUlpVVBSRUQzY3I3U3RQZ3dKMUlmUl9sN3RDb3BCTnFETVRhTHhOdURHTjNpbUZpcmk5OC14am5PNkNXUVAtZHAwTkNyQUtCdVMxSDJLTWpQQXY2cktkX2lfeUdqaUo0ZGhIOHFGR2Nqb2d5R2x3bDZ2d281LUZKMFVnd2R4Vk15VDVuYjNnbjkyVFFsRmFjckdJZEx0Q1dkVEFheFd0azdCdGdybkFB?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold turns upside down amid revival of global AI trade",
-   "source": "FXStreet",
-   "time": "2026-11-24T08:40:06Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZDZsZHFtWWUtQWMxZ1hMRzhsdFVndExaNEw1Vk45MU9ZdWtTRExYYzJOMVdNMWJzMktaT0ZwSWNubzBMeExScF81OW5JbXBESjdQMExiakdIdmFJM0VkNVBOUmhzZlVkT1h2ZlEtOGJ0cmZoT0hFU0dGalViVC10M0VIS3dPQ2pnd3Q3RUFocUxVZmViaHdIMXRGZlN1QlNpNno4dEttWnlFNHFLOXlDUmpn?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Watch Nvidia Reinstates Huang as CEO as US Sanctions Iran’s Shadow Banking Network",
-   "source": "Bloomberg.com",
-   "time": "2026-11-24T08:23:11Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVnAyWjFhM0N6WkxvQzVvZVQzbENKemctbW1HWEhhaWhkMlFkeXRnZ3dySXFseXMzWmVQdm01UGU3OUt2MTYxT3JIS0VtVDRvWmgzejFnRGRBOFBQM3hpeUZoNlRDUjhTRnhMT2lJd2dOczJrZWlxN05hdGRqTVYyMXQyWkZrYVZrTTVEa09qZG53T2ZLSjlkcA?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Oil Extends Losses While Copper Gives Back Nvidia Bounce",
-   "source": "Investing.com",
-   "time": "2026-11-24T08:17:00Z",
-   "link": "https://www.investing.com/analysis/oil-extends-losses-while-copper-gives-back-nvidia-bounce-200692208",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Japan accelerates ICC funding as US sanctions threaten court",
-   "source": "Reuters",
-   "time": "2026-11-24T08:15:28Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeVlqQzhUUnlVXy11enMtemVoQURZSDZ4cFZ4czFBM091NW9GWDZVUmE2dGg2V2xCeHhzS2JINGI3RDdJdGw5N0t5bThLWDNGTk5DUVk0bnZJeEZSYWZTRElIbTQ5dzVMb2NySUhHaVZEZTNPZks2eldrbmt4ckx4YWpXR3UzWnE4bWhmS3BRdE5SZDZlam5vbC1VQndoWnQtcjgzMnhZRzVaalQ1?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
-   "source": "CNBC",
-   "time": "2026-11-24T08:13:58Z",
-   "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Pakistan’s Zeeshan Ali set for historic flight to China’s space station",
-   "source": "Al Jazeera",
-   "time": "2026-11-24T07:55:18Z",
-   "link": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
-   "tags": [
-    "CHINA"
    ]
   }
  ],
