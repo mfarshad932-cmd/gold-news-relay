@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T13:45:40Z",
+ "generatedAt": "2026-11-24T14:14:02Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,12 +37,12 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 1
+   "kept": 2
   },
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 8
+   "kept": 7
   },
   "investing_news": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -81,17 +81,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 23,
+   "items": 24,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 18,
+   "items": 13,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 21,
+   "items": 24,
    "kept": 12
   },
   "gn_war": {
@@ -101,23 +101,23 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 19,
+   "items": 20,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 9,
+   "kept": 9
   },
   "gn_oil": {
    "http": 200,
-   "items": 2,
-   "kept": 2
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 10,
+   "kept": 10
   },
   "fed_calendar": {
    "http": 200,
@@ -126,12 +126,80 @@
  },
  "items": [
   {
+   "title": "US September CaseShiller 20-city house price index +2.6 vs +2.7% expected",
+   "source": "ForexLive",
+   "time": "2026-11-24T14:00:10Z",
+   "link": "https://investinglive.com/news/us-september-caseshiller-20-city-house-price-index-2-6-vs-2-7-expected/",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Iraq Seeks Federal Control Over Disputed Kurdistan Oilfields",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "time": "2026-11-24T14:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMk5Xb1RxSHVaSUEwWU1OZXU1ZUI5RlJ0a1FQWHh6bUdqZnBzazlWZFRKYldJc3VLZWdTLTBJYnFtMHlEVWpaZktuRklqZ3BXSlNrSDM2amwyTzg0Y2pzQmVoU3RpTVcwanhjWnMyeU5lSUNqbHU1Y3NFTGlwcXRaSlNaS1Y2MEl5U21sNGd5SDFPelZxZEZhaTM5WUJWZEtLTi0wZS16WEFhVl9xS0szUlpNeC0zU2fSAbwBQVVfeXFMTlYwOGlZY2w2OW9WNFBKZENVdklObjc1S0VleVZFb1BzeFNSRG01ajRabHVwSDNxLXMyTjZocDluUnJNbVdYcHAxLVpEQ2s3Nmc1SVFZTkdWdG85VkNSbkVHb0t3ZS1xanBCWGRBdzVrcjdHT0ZHTUNMRm5DRlJCbzN1VTF1TklpYThjd1pRcFYzbURZakIwdHZLbXhOWUk4bTJldUwzTDJDR0Ytel9DS1MybXg2WEJNNlNDTFQ?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "US Readies Tariff Hike on China, EU Goods as Soon as Tuesday",
+   "source": "Bloomberg.com",
+   "time": "2026-11-24T13:58:26Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb3RsSGwydkRvZkItUUlRQUxrS1RfZ3dJNV85NnJIYl9yclIxQXdxMElGNmQwVW56TENkU3duY3lnaXAyV0Q0elhEZXdVQlJsZTg0czUyM0Q3RHJUbjdyUjhBcmNyRW1La1RPVU1PemkzNFh0X1FrTC05M1RPRk1lWm9ja3ZiaUFQVUV5MmwzOHRGenNDNjdHUmtiMFlfNUZIOEM0OE05V0V4aDRKZGdZ?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Trump Tariffs Return, China Could Be Hit Hardest: WSJ - NVIDIA (NASDAQ:NVDA)",
+   "source": "Benzinga",
+   "time": "2026-11-24T13:47:52Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeXBoRDAxaUZXSjNUUXZPcFdfeVhrWU8zcElJaHRwWTFHOXJXWHZvMTl5SkpsQmNQdnZ1LTFsbkwtZV9vcnpzQWo2dTFYdW5sd0xKbzZId1I5OWhIYVNTWEVXeHZUUjRZSExNdEktY0VUZVlZLTc4TXAzSVVwUWlmWWN3aExyS1BtNFhrZ0NSeG1odFZMS0pPVA?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "NATO holds meeting on escalating Russia-Ukraine war after missiles fall in Poland",
+   "source": "CBS News",
+   "time": "2026-11-24T13:46:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZWhYM3JqU1dGakRSZzVYQ0ExNmpucFVCT3JnOW5NUGpFTkVFVFhYYmNmRW85QUlQbnUtQkh4bllGbVg5LXJqTzhILUh0azUyMXA2SHZ4X2IyVkxNZkRfZWdKTXg4b3NVcTVzckM4eF9jci10TVo5Y1J2ZEZLdUl1Vk5MaWFEN1BzNkFJQ0VYUE1IZDhDQXZ5b0hYbTRZa241bUNiNEM0dVdVNV8zbnI4Qk1JVS1WSXEzTWc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold struggles to extend rebound as Fed rate hike bets pressure silver - Kitco AM Report",
+   "source": "Kitco",
+   "time": "2026-11-24T13:45:25Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXZLTW5tSldXS2RtLTBnUXc0MFZ6QkRwYjNINlNUdThxVXNnMElPTE5ZUjE3T1hQdktPdUx2VTZPTjZFa0Y4NVlvamQxRGFJUWg0UEhVZnF5OTdtYkpYWURzSFpGNktoR2REcjJ5bkkteHEycG52Q0I2b3QtaDVOeFNKU0dFTmFGYnVLTmM3R21KVzlFeFJlejVXV3RfbTZSdHFiZFNGWFhUb01JZW1sU2xJdFpsa3Q4R1Br?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
    "source": "CNBC",
    "time": "2026-11-24T13:42:55Z",
    "link": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Germany Eyes EU Sanctions to Bar Russia From Hockey Championship",
+   "source": "Bloomberg.com",
+   "time": "2026-11-24T13:41:48Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3ZFdlhYd2h1RFFxTHFXTnp2T3dnbDFSU19ib1hMVFVRaEVfXzBTT1RudWFSbFN0ZDdnMTAycjFqQmhrVkplN1MzMVcyaXdhNTREeURXZFVhdmpfNWM3dUFRTmxlZnkybXZIdkdIdjBxRGtoSGl1Ujl3MUdfSXBPbG5uZmlTOUwzWHRRNUhIYWpaMEM5QUhsdWhSM3dTZW5PU2dibFlJNV90bDVXclRUY1lra0dqdw?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
    ]
   },
   {
@@ -145,6 +213,25 @@
    ]
   },
   {
+   "title": "Saudis See Economy Taking Smaller Hit From War as Oil Flows Rise",
+   "source": "Bloomberg.com",
+   "time": "2026-11-24T13:37:53Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkY4Wld2NXFVSzJ1NDFTbHdBRTdTNmpHSGRoZ2ZLVnhPZXlXNWlVcnRvLVJEVWd6TjZWVWtCQmJMeXpIeHNtbkpYb1NzLXdkUnhyYlkyM1JQRGVaZWVOSVVoMWpxTURzdXhndDV4cGc5NnpnVVBBNERvWlpwT1o5Z2luMGt3Q2V1TGlhMWtOZGRnTUR1SU9uVEowVXNpTHIyNWR4ekpVSDVHM0FnU1lVUlRWSjhXUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "The Ukraine-Russia war is escalating – and it will go global unless Europe speaks with one voice | Simon Tisdall",
+   "source": "The Guardian",
+   "time": "2026-11-24T13:34:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR04wVEpvVktIXzloaDJpTndrT2N4ZndnSVlheldaWUx6VUhtbnQzSVRSM2pWZV8tOHUyV2o5Mm56VDBQNG8xS25JTV80OWh6UFNNdFNHODd3NFBfZG8wTi1PcUQtOHp0SGJJZVU3RUhtSkI0YlhkLUIyLXotaU1rakhLMl93YWxsT1E1eS1QUkNWUzhNOXFtRm1wWGdMN2duX3RpanNn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
    "source": "CNBC",
    "time": "2026-11-24T13:33:26Z",
@@ -153,6 +240,25 @@
     "FED",
     "RATES",
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?",
+   "source": "Al Jazeera",
+   "time": "2026-11-24T13:32:24Z",
+   "link": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence",
+   "source": "Al Jazeera",
+   "time": "2026-11-24T13:30:00Z",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/russia-ukraine-war-live-kyiv-says-attack-on-ships-off-libya-self-delfence?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -185,6 +291,16 @@
    ]
   },
   {
+   "title": "America Readies New Tariffs on China. Will Bitcoin and Stocks Sink Again?",
+   "source": "Yahoo Finance",
+   "time": "2026-11-24T13:19:55Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVHpybUl5dlI1U2NvZTQ3aktLUkF3dTNISXVUWTduc195TlJVeTk3S0pILVR1QTg3dG42aVZBTnZnTzJUcGtmYkwwUmhUb01PZDE3QnlIUXk1cFdsaTlnNUxDakt1TGRJQjQ2YU9kWWpxQzVER3lQZlNhSXlPM09obnNOSWNwTzJIS3RHOEJwVEhCOUxWY0gxUlJGM1dnVjdlNjJwdQ?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
    "title": "U.S. prepares to raise tariffs on China, EU, other nations - WSJ (SPY:NYSEARCA)",
    "source": "Seeking Alpha",
    "time": "2026-11-24T13:18:44Z",
@@ -192,6 +308,15 @@
    "tags": [
     "TARIFF",
     "CHINA"
+   ]
+  },
+  {
+   "title": "World Gold Council brings digital gold trading to life",
+   "source": "Mining.com",
+   "time": "2026-11-24T13:17:51Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZXFmVUxBQ3VJVlRfWWhwdDRkTTFYaFVadjZ2RXZsMUVVaWhKaTBsd0NDYlp5UEI0WmxPOW5zQTRLTGllVEpKR3k5YzVlNW5GU2ZGX0JCZ1M3RTZ3T3pWeDhqYTBwbjY1VnkzOTJQemdMLXZ1aDNYNjZoMmowQkstd3ZDRGQ?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -211,15 +336,6 @@
    "tags": [
     "GEOPOLITICS",
     "CHINA"
-   ]
-  },
-  {
-   "title": "World Gold Council brings digital gold trading to life",
-   "source": "Mining.com",
-   "time": "2026-11-24T13:12:20Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZXFmVUxBQ3VJVlRfWWhwdDRkTTFYaFVadjZ2RXZsMUVVaWhKaTBsd0NDYlp5UEI0WmxPOW5zQTRLTGllVEpKR3k5YzVlNW5GU2ZGX0JCZ1M3RTZ3T3pWeDhqYTBwbjY1VnkzOTJQemdMLXZ1aDNYNjZoMmowQkstd3ZDRGQ?oc=5",
-   "tags": [
-    "GOLD"
    ]
   },
   {
@@ -403,19 +519,19 @@
    ]
   },
   {
-   "title": "SJM: Adjusted EPS rose 52% as tariff refunds lifted results and FY27 guidance increased",
+   "title": "SJM: Adjusted EPS rose 52%; FY27 guidance increased, with tariff refunds included",
    "source": "TradingView",
    "time": "2026-11-24T12:09:54Z",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQR1dsVFJLenAyUmRVX2Y2bmN0bDlaUzFoeHRmelBzdE4xV2RxYUpJeGJvV2tWbC15TmdVYmhnRmtKS2VpSjhNRUdENm9HdWIxb3F4YTV3S3JRYzlmSVEwUVE1VXlTQmZ2UkpiSjI4Z2hyNVdpSmtFSVgwb1NNVDBnM0RtZTcwQ0JXNV9KMkdDcWhsOVRWVjVoUGVBd3lPQnBud1loWnp6RUdBWGs0WGE1N1dLb1FDRVpZY1FxNFlLYXNNYjdJLWt5cjYwWENmdTg4UHR2QUljZ0dEQ3VTTW1iMzQtU0w5azBORXBoWWN2ZS1wclcxcEd0TWJvV2E?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTG13REFaeHR0a29Qb3VlMUcydmxfWlNsVE5vUzFCcVNuaFIzNERPMWVVWFdRZkdTU040Mmt2YVZBdTEzQlpCR2UtRVY4cGttVU40NWFXQXNNUVowMVA3NDNIYm1wUFkzTHRLYmlVOFo0dVRnVjdJVUMwc2NWeU1Ba1Z5cjZGYkFOU1NUZHg0Q2cxZy1jNU5ha3h1YkwwSE9nc3dkWV91Z0JEc1IwR2RSeUVWVDl0a1VmX1RzcDl0RGM3YlVlV0hMeFE4WUIyb1ljSkFOYTlGeEtMcWlYNE8yMWJ1eVVFQnF5SFNIdjd3di0wQQ?oc=5",
    "tags": [
     "TARIFF"
    ]
   },
   {
-   "title": "SJM: Adjusted EPS rose 52%; FY27 guidance increased, with tariff refunds included",
+   "title": "SJM: Adjusted EPS rose 52% as tariff refunds lifted results and FY27 guidance increased",
    "source": "TradingView",
    "time": "2026-11-24T12:09:54Z",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTG13REFaeHR0a29Qb3VlMUcydmxfWlNsVE5vUzFCcVNuaFIzNERPMWVVWFdRZkdTU040Mmt2YVZBdTEzQlpCR2UtRVY4cGttVU40NWFXQXNNUVowMVA3NDNIYm1wUFkzTHRLYmlVOFo0dVRnVjdJVUMwc2NWeU1Ba1Z5cjZGYkFOU1NUZHg0Q2cxZy1jNU5ha3h1YkwwSE9nc3dkWV91Z0JEc1IwR2RSeUVWVDl0a1VmX1RzcDl0RGM3YlVlV0hMeFE4WUIyb1ljSkFOYTlGeEtMcWlYNE8yMWJ1eVVFQnF5SFNIdjd3di0wQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQR1dsVFJLenAyUmRVX2Y2bmN0bDlaUzFoeHRmelBzdE4xV2RxYUpJeGJvV2tWbC15TmdVYmhnRmtKS2VpSjhNRUdENm9HdWIxb3F4YTV3S3JRYzlmSVEwUVE1VXlTQmZ2UkpiSjI4Z2hyNVdpSmtFSVgwb1NNVDBnM0RtZTcwQ0JXNV9KMkdDcWhsOVRWVjVoUGVBd3lPQnBud1loWnp6RUdBWGs0WGE1N1dLb1FDRVpZY1FxNFlLYXNNYjdJLWt5cjYwWENmdTg4UHR2QUljZ0dEQ3VTTW1iMzQtU0w5azBORXBoWWN2ZS1wclcxcEd0TWJvV2E?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -478,24 +594,6 @@
    ]
   },
   {
-   "title": "The ‘eighth front’: Why Israel’s influence war in the US is failing",
-   "source": "Al Jazeera",
-   "time": "2026-11-24T11:37:12Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEhVQnRkbmtLRFFmMGVLdTFxbjRRQ08zcXdnRnpSUzVNVTR3cVJUYXpVNF91c3B6ZXJpZnEyT0s1WndYbWlhMENQMEVJcXhnQWdQQ2pnUkczYmRRRE5VQVRpeF80eTh6TjJud1FrVTloRzVzTXBIdFRXMDZjcTJpZkh2QzF2amRkT0hQejlOdDI2UWZzYXlkQ3NKSDVHWU5RVkJPM0JGaE7SAa4BQVVfeXFMTzVPN3JNRm5fSVlDaEp5WkxWZWIyQXgtb01LeTZtV001OFFwWkx0dGJDV0tsby1zVUpucWxNc3c0YkhmdVBPVGNZMFhrcDVoUWdFdVI3Y0FHcEFtSHdiUHdFbkpnT0FXLVc2Z2dRNWo3UUJBdVJVMENScVlWYWRJdER4TXQ4X0dLT1RzX3d4TUctNk80VGdIdTZZeXV5dTE4YlEwdGt1TDh0MDRQUVdR?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
-   "source": "Al Jazeera",
-   "time": "2026-11-24T11:35:21Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSk85RXFLazAzd0N4clEzTXBnaVhFVUF4VG9MRlFfSHVuLW02RFNlaENvQzM5OVF1a0FrUEdQUk1PU0dRbUZEbjhqSHpULUJtdzRBTWlubm9ZTWpFYklDZ2VxdXlBR2lfMVlmZ2xQaGt1aC1Tdlo4RTVXUmFBdzRhLUxvNmY2S3hvSW05SjN1aW9jV1A4SXMxaEpuNU1BcURXbnRHVURJM1c0V1dsQVg5aTZaRdIBuAFBVV95cUxOWnc3X1o3VExtU3dOaTMxb0F4MERlaWhhSVoydVdJM1FoN2xDOFMxSHBPa1MzeEcxN29KSlMtaTI0N3NwSnpGVnZ6WFlZR1JWSEZxUEd4dEpwN0I5bzFLNVhjaWo2ZkhaRkwwcml4RDFLdlp1YWJfeFlWU0p1aE5wVHBvb3dOTEdWRzdIOEVnV0JWY1lYdndzSkpZRlNELU5ORmJiczVPSy10SENrcC10Y0dfRmJtRXBZ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "U.K. Sanctions Five Senior Myanmar Military Officials",
    "source": "WSJ",
    "time": "2026-11-24T11:34:00Z",
@@ -533,10 +631,10 @@
    ]
   },
   {
-   "title": "GOAU: Don't Sweat The Pullback, Gold And Miners Are Still Solid Investments",
+   "title": "GOAU: Don't Sweat The Pullback; Gold And Miners Are Still Solid Investments",
    "source": "Seeking Alpha",
    "time": "2026-11-24T11:19:12Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYnFydllqcnA5WlpNMV9hZ3prdUlrWTNmWlFNT0IzSW44eVNiVk84Rm1mZ2Rhby1pVDZyS2ZBRHV1elVDa2dsUFRjT0M3YzdGbjQtWmpUVVpLNW1vcWpQclVEYU1jeW1RZWM3M1ZNMnZWQUVYOGhadjZXN21KcS1tMkg3ZHdfTndOQU5uX0lHdzdfZzFkVWZyRDhYVU5Nc0VINlNxeDN3ZjBfS2hpenItWXg0R0IxLVhIX1FaMGhMSlkwSDNGLUw0SkxjdmY?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcUU1WU8zc1RwOFBCQmE1X3NvdF90NWczZFE1STg0WVYxQ2tLZU9IZDZoY1dHcWdMZWRZbXVSWURDRS1UR1NzUFl3VkZ0cVI0UXdZOVo3MzJXSDREZ1NKZEdqLUphX2Z4ZHZnQTE4cHZpNWdXdDBCRUs2bXlZSEdYeU9nclBjZ1JaVkJJZFJYdC0ybkxYU0l6MU5ZWU1SU3BSYjFRQVNHdUMwZ1o1OGt5S0pBcw?oc=5",
    "tags": [
     "GOLD"
    ]
@@ -570,15 +668,6 @@
    ]
   },
   {
-   "title": "The Ukraine-Russia war is escalating – and it will go global unless Europe speaks with one voice | Simon Tisdall",
-   "source": "The Guardian",
-   "time": "2026-11-24T11:07:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR04wVEpvVktIXzloaDJpTndrT2N4ZndnSVlheldaWUx6VUhtbnQzSVRSM2pWZV8tOHUyV2o5Mm56VDBQNG8xS25JTV80OWh6UFNNdFNHODd3NFBfZG8wTi1PcUQtOHp0SGJJZVU3RUhtSkI0YlhkLUIyLXotaU1rakhLMl93YWxsT1E1eS1QUkNWUzhNOXFtRm1wWGdMN2duX3RpanNn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Gold rebound loses steam as Fed interest rate hike bets weigh",
    "source": "FXStreet",
    "time": "2026-11-24T11:03:55Z",
@@ -596,89 +685,6 @@
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMTVzR0ViT1NIbS1lWjJyNVVZd3hCcTRzTzdVOHJSX2h5UTA2QXdrUURYc3hXU3ItY00zb016Ny1zNFlaUXowOXJfTHZPWVdyYm9GSlY5bWF4VkdFMlQ5UjVEQzBwSldrVG03dERFRFoydE9GWEg2RkI3eHd1YUJka29Ec3c0WGNaOTVEb0MwLVNxOEdMS0tJcGt1S19FLWdCUHVHeHV0VnBFMmcwTXZfNmRBVWN5bkNwdjVHU21tb3FzS3BkSUFQWXRUeHNQdnA0OXdsRTJBako?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold: Relief Bounce From $3,500 Runs Into a Wall Near $3,700",
-   "source": "Investing.com",
-   "time": "2026-11-24T11:02:00Z",
-   "link": "https://www.investing.com/analysis/gold-relief-bounce-from-3500-runs-into-a-wall-near-3700-200692216",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Trump's Push To Reinstate Huang, Market Reacts To Nvidia, Russia-Ukraine War Widening",
-   "source": "NPR",
-   "time": "2026-11-24T11:01:14Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMG44d3VXcFZSTWJHMFdESlhuRTBIQnc1b20wWEtMdHEwb1F5aTZGX0FjMEdvak83LW9sUkF0VFB2c2NHYUNQejM0bGYzMW5LU1pkS1BremVvSG5BM0FmWUhJOG5lYXY4N0Q5ZlNPV1I0cEZUX25hbS1mMEFMd3RnMWQ0LXRWbEcweHJxMHZlNnM1MlNCNTM5LWQ5ZllBS0NOYjFhc3BNRWhWVlU4dEQxMlRyeU5uazRrXzJueXRncXlFVmptQkE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe",
-   "source": "ECB",
-   "time": "2026-11-24T11:00:00Z",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "title": "Shutdown deal collides with Democrats’ Iran war divide",
-   "source": "The Hill",
-   "time": "2026-11-24T11:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd2dtbHkzUGRVM1E5LTRwaFhtREYxOXNqRHZweEZEc3lTQnoyZDRmNXQ5YjJaYVNnd0RKVFk5blpOVWRtX29tNlpIOFU1M3Y2eHozNjhpUHoxZ1g2Qy13TlJ0Z0dXcjNmS0VtZ3hmR2ZORi13UXBtN0RLS1FiWXhwVExIeVI?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Israeli airstrike kills senior Hamas security official in Gaza, Hamas sources say",
-   "source": "Reuters",
-   "time": "2026-11-24T10:59:07Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVmdOUHJwNXRuX1lxb1VPQ19jS0kxSmZCbWNMZ01tbXRiYVU2Ujl3V0JxUnRHTGxUZXVZeVUzTGRIZ01VWTZGTWRQZngwSVVxVjJuRnN1QnExNkxFVmMxTkRBeGdWdnk5S1VKNkRIN1c2WkJmSWhwZmhva195Ql96RjJNNmlBeWFpUHJXd21GS1Q0dkRDUnJwR01SeEtIbUR5NDJVa1JFQ0hKMlNwRjFXd3g3TEg1blhmV2tIXzl4cnpoei1FSWg2YlZoOA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "EU to impose cap on Chinese hybrid EV imports next month",
-   "source": "The Guardian",
-   "time": "2026-11-24T10:59:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3EwUmMyeGpXZFBXOWdKRmphaUd3SUhVY01DNWVPZVhJYVozZ3NVQXZnZ3ZMOFFNcDUtdlRzOU53dHFQYnZIcEkyUGpIaE9MRXItczV3TXp3VnZyemN2ejlKeUk5MVBtRXF3TUZpWG1sQkdjNjhSb2RtMEdLVXBaeXBZSXVjeWZjSUZDM3VkclZTSlpBRlE?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-   "source": "BBC",
-   "time": "2026-11-24T10:58:51Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Canada and China Draw Closer with Expanded Trade Pact",
-   "source": "WSJ",
-   "time": "2026-11-24T10:49:12Z",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmRUVkxHN0s2YlBRdWN1TElodk1UaVlzcG5ETFM2OS1HRlFIMUdWd1ZaYm9JYkNzUXZHc2N1d2xGVV95U19BWWpIejRXWWRBaUZPTHNCaF9DSm9faWdSWmVSVXdWY3hwNG1meUtkLUpCSjU2OTNsVVJ4ZUVpd05oZnZfTEpOcHZ6UGFkRlRWMWZnZw?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "UK Sanctions Myanmar Military Junta Over Rohingya Genocide",
-   "source": "RTTNews",
-   "time": "2026-11-24T10:37:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXpfZkpqRnJDbWpfeHEwMUpmMzZLTUNELWZqcldIT0xqS183ejFnd1Z6emJXQjVROFBwZ0Vua1BiY3o4REtSNE5YWnZsLWlaNVNIUWZBOVplUDlFU0VTOWFwaU9nWVJJQ0dyVDhOaHdFTHVIQ0k5RUtaczRkZWpJRHBjV2owNFpjSlYzM0x2UFlyRGhnRmZnWEUwSS1tODlrSVF4RW1R?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   }
  ],
