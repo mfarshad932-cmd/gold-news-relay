@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T17:04:24Z",
+ "generatedAt": "2026-11-24T17:32:37Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -61,18 +61,18 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 58,
+   "items": 59,
    "kept": 0
   },
   "bbc_world": {
    "http": 200,
-   "items": 27,
-   "kept": 7
+   "items": 28,
+   "kept": 8
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 11
+   "kept": 12
   },
   "whitehouse": {
    "http": 200,
@@ -80,44 +80,52 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 25,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_fed": {
-   "http": 200,
-   "items": 17,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 37,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 43,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 17,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 8,
-   "kept": 8
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
-   "items": 5,
-   "kept": 5
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 9,
-   "kept": 9
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +133,42 @@
   }
  },
  "items": [
+  {
+   "title": "US sanctions on Lebanon’s Hezbollah-affiliates may have limited impact",
+   "source": "Al Jazeera",
+   "time": "2026-11-24T17:25:57Z",
+   "link": "https://www.aljazeera.com/news/2026/11/24/us-sanctions-on-lebanons-hezbollah-affiliates-may-have-limited-impact?traffic_source=rss",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "After Libya, where will Ukraine strike Russia next?",
+   "source": "Al Jazeera",
+   "time": "2026-11-24T17:05:45Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+   "source": "BBC",
+   "time": "2026-11-24T17:04:00Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Silver Price Forecast 2026: Is XAG/USD Set to Rally Above $43.95?",
+   "source": "Investing.com",
+   "time": "2026-11-24T17:03:00Z",
+   "link": "https://www.investing.com/analysis/silver-price-forecast-2026-is-xagusd-set-to-rally-above-4395-200692179",
+   "tags": [
+    "USD"
+   ]
+  },
   {
    "title": "UK sanctions Yemen’s Houthi group and four of its top officials",
    "source": "Al Jazeera",
@@ -557,15 +601,6 @@
    ]
   },
   {
-   "title": "Russia tows it cargo ship back home after Ukrainian drone attack",
-   "source": "Al Jazeera",
-   "time": "2026-11-24T14:56:18Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/russia-tows-it-cargo-ship-back-home-after-ukrainian-drone-attack?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Gold rebound loses steam as Fed interest rate hike bets weigh",
    "source": "FXStreet",
    "time": "2026-11-24T14:52:23Z",
@@ -574,15 +609,6 @@
     "FED",
     "RATES",
     "GOLD"
-   ]
-  },
-  {
-   "title": "The photos from Gaza resonating with the people of Sarajevo",
-   "source": "Al Jazeera",
-   "time": "2026-11-24T14:50:02Z",
-   "link": "https://www.aljazeera.com/features/2026/11/24/the-photographs-from-gaza-that-sarajevo-took-home?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -654,24 +680,6 @@
    "source": "RTTNews",
    "time": "2026-11-24T14:19:00Z",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEZ4aF9PM3Ffd2NYb29IWDJ5VXZ6b1k0eVQtZ1JWemVQcUxlM2ZvamtwSE54Q3luTjNUUldqMGdKWVRtNjFXOURXam5FZEwwb1M1bGdKM2ZhaEtuWUgwdTR3TzY5SXhrODA3cHNwQ2JnOGcydjJralJHYU9hZ1dKdF9CSkU?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-   "source": "The New York Times",
-   "time": "2026-11-24T14:17:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Wall Street Futures Fall as Nvidia Reverses Gains and Tariff Concerns Resurface: Dow Jones, S&P, Nasdaq",
-   "source": "Yahoo Finance UK",
-   "time": "2026-11-24T14:14:28Z",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXlmUFZNVDB5elZZekVYZVdHTmlUZnItQ3hpVWtLa0c1NGx3TXlUaFpRVFpIbWNyS2FJblgwaUZSN1RKLWdoNE93dnFxQkx3Q2gtYUlyeV9QdW5MRThTanh0S0Zwamg2Y0NpRzZGLXdjQl9GOHg4UDZCR2Zfd1A2aHpvZnBNTnM?oc=5",
    "tags": [
     "TARIFF"
    ]
