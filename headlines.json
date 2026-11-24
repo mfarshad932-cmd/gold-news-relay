@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T06:12:04Z",
+ "generatedAt": "2026-11-24T06:40:24Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 0
+   "kept": 2
   },
   "marketwatch": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 4
   },
   "whitehouse": {
    "http": 200,
@@ -81,17 +81,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 27,
+   "items": 26,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 24,
+   "items": 21,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
+   "items": 12,
    "kept": 12
   },
   "gn_war": {
@@ -111,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 2,
+   "kept": 2
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 10,
+   "kept": 10
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,24 @@
   }
  },
  "items": [
+  {
+   "title": "Finland’s industrial producer prices rise 9.4% in October",
+   "source": "Investing.com",
+   "time": "2026-11-24T06:24:06Z",
+   "link": "https://www.investing.com/news/economic-indicators/finlands-industrial-producer-prices-rise-94-in-october-93CH-5047137",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Finland’s employment drops by 51,000 in October",
+   "source": "Investing.com",
+   "time": "2026-11-24T06:20:33Z",
+   "link": "https://www.investing.com/news/economic-indicators/finlands-employment-drops-by-51000-in-october-93CH-5047136",
+   "tags": [
+    "JOBS"
+   ]
+  },
   {
    "title": "US Stock Selloff Revives Question of a Fed ‘Put,’ This Time Under Warsh",
    "source": "Bloomberg.com",
@@ -200,6 +218,15 @@
    ]
   },
   {
+   "title": "Army auditors fear key units are unprepared to deploy in Pacific war scenario",
+   "source": "CNN",
+   "time": "2026-11-24T05:01:16Z",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc2V5Z19NaUlfYVJjc0NtbVBOWUdzbnA5UzZPU1prUjR4eUVoVEQ5aWp5VVpycldYc2lFa05odlBRSlBvY2JmSV9TSGxFTUFMOFVjZVlxLUd4WUN2SEUxNEZtYUNicXlHLXctX0UtTGgxVWhjUDNPNjZjQm9tQWE4MVV4bU8xaV9RWVBZSFVHWDhKX2dp?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "The World Is Underpricing the Risk of More War in Iran",
    "source": "Bloomberg.com",
    "time": "2026-11-24T05:00:00Z",
@@ -223,6 +250,17 @@
    "time": "2026-11-24T04:39:08Z",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlFKSE9lY0xoTzhQcGZyWGxVeC1UNGxsZ0lBVklEbnRIQk9KS0ctZVpENTB6eDMyWjQ4SkpNS0tSM2VIWHItZHdsZi1KZUhTRDlwdmo0c0djdFhDQ0pFSlRYcHI5Y3FrbFNUR1h3M3NSa2Fvd1BFaWpBQ1ZwMlhEeUFWaThobk5zbFdZZTVBOEhLOWE4elJkb0xxN2RpdVpaZkk0QU1B?oc=5",
    "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold ticks up on bargain buying; U.S. inflation data awaited",
+   "source": "CNBC",
+   "time": "2026-11-24T04:32:00Z",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01bWhmbU4xZ1hKTVZnTGh3R2tubjZ5SlE0OFVjaGJDcGRzUHIzWnI1RmhuZzBDUkE3R2RIQ3ZDNU9xV282X3QxTFdvZVpIUUhWRnJEWXFCbDJ4QTNiLTNkRWtzYy16S3VWdFY2OS1rS1N1LXo4Z2JBcTNKb0FZNWPSAYQBQVVfeXFMTXd0ckxjMUlfaXVYbFFieDlSbWs1OWZWRkljX0VHM1ZJeE1wRWhNbFJFbmIwZXR4WmR5UC13NGpDaTVMNkw3Vk1EdG43S3c1VWx0WERuM0htTVpHRjFieV9VeVhfN3p2ZUgzQndxT0gxaFZDbE9NRW96VFV0eU4xU0owcWhf?oc=5",
+   "tags": [
+    "INFLATION",
+    "CENTRAL_BANK_GOLD",
     "GOLD"
    ]
   },
@@ -644,44 +682,6 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR1N6ZDZvMFVCSGR3Rk5OZnpQU0tETWVwcnpEVWRQYk1aNS1XdnFpRnF3eGJhTy1felB4QTNrTVNfTjQ4Rkttb2pNd1NRZEVSa0VYeGV6SmpiWUtEYlM5Qk1FVG1pZVNBVDFzTE9ZZnBZc0NKWmV6amNFWlZmaWV5NUJGQnhMdjRTRTd2cUlDWlpzSkhsb01B?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Florida-linked companies report more than $135 million in tariff refunds",
-   "source": "Yahoo Finance",
-   "time": "2026-11-23T23:10:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcGJraFE4M2ZfdF83Z1ZicUd4aUgxT0hDNElmbGJDUEdfYzI5dlc4VVFnMG1wU2dRVFZSQXR4NVJnU1lyczg5Q2ZWc01FRDZNWW41TkZ5NW0zVzlVa3gtU2hQcENJa3MyTjJyTURjeS00MVRUdGJnc2tnSXVwNTRYQkhZZkVFYkJEZlpuQXgwclhSVjR4NnF5MVM5clJCbU1Ba0xJ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold faces headwinds as Fed flags higher interest rates",
-   "source": "Mining.com.au",
-   "time": "2026-11-23T23:04:17Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRU1KX2FPRHA2Y2g3SlF3djdyckd4OXROV19TSVFoRWJKcjhhbk1YNk53dm8zZ0JxVWlzamxoSGR2YWVaSFRCRWs5T0xVRzQ5WkpOS01lTzBCLTl3RFRhdzNOYThxLVZlLWtGSW5QVWotRmlmS1ppSy1FY0YwZzkzOE1hOXg?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "EU sanctions neo-Nazi terror group leader of 'The Base'",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-23T23:00:37Z",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01R05iZ3NReXJmNTlxOEw0NkcwdWo4Z3BfUVlkc2pwTkVPQ19HSGJ6U2ZldGQyNjkwMk91VnRDVWVkbGdkQm1fdGlDclRkVndyOFgxd3B6RkVHTVVkUFhJNnpET1Flc0FkTkVtOVZwS29sRXFzY2Jn?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
-   "source": "CNBC",
-   "time": "2026-11-23T23:00:01Z",
-   "link": "https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html",
-   "tags": [
-    "CHINA"
    ]
   }
  ],
