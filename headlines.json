@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T01:00:25Z",
+ "generatedAt": "2026-11-24T01:28:47Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 3
+   "kept": 4
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 36,
+   "items": 34,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 24,
+   "items": 26,
    "kept": 12
   },
   "gn_tariff": {
@@ -111,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 4,
+   "kept": 4
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,42 @@
   }
  },
  "items": [
+  {
+   "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+   "source": "CNBC",
+   "time": "2026-11-24T01:28:05Z",
+   "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "The Inquiry | Why is there always war?",
+   "source": "BBC",
+   "time": "2026-11-24T01:10:19Z",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lREVOeHZqN1laRW4ySmFtdElhQnNtRW9NblV0Y0U1LVhvaUJuSHdrdFFrYTM4djVKN0prVmFlOTZYSUhUblItOUptdXBTRFlh?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ukraine war briefing: Kyiv’s strike on Russian ships in Benghazi condemned by Libya’s UN-backed government",
+   "source": "The Guardian",
+   "time": "2026-11-24T01:08:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWHdha3RzX1VGNFF5Y0pKOHBlaTM1eGJ5ZHpGQUdDMGJXSmgzcjAzcGlzMEJQOEZ3MXo2RjBWRmJrWG01MUY0NGVOaFNsVWdpdVF1OFpkMHNvNmY3QVRwZ3pQMGFtdHFkLTRBM3FLOEhTaE8xdXpEdENkM21DSDNmU1BJdFZCY1hxbDZKMVNnbi1Vblo2QnM0RGJKbnhpQmNfSkxXYWJVdEg3a3AzWW9sNWdYVzd3LW1FdnZYQjdRNXJPMW1LRkRFOEZ2dS1UX0U1NEc0aEhINGtXZ1ZNdDI4cg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Texas’s outgoing GOP attorney general drops multiple culture war lawsuits",
+   "source": "The Washington Post",
+   "time": "2026-11-24T01:03:21Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdi01d2otRjNRZzR3cFk0WnBtZzhWNHBtUldtMWF2ME55S2h2Qkg0cHZISHZTS3JQcWUxZFBiWFFlSktxZWgyVmMwVlNJeDJudldfY1Z4VTdQMDI0OVNrUTFIb09rSnhvbVpHc0pHMmNkQmFFdVBVN1lPZ3RlRURRUkxhMGtlZmZZWklJM3BKNFZrZDZtcGJRYkVwaEFsZFlVQ2pjeUU0QUlDYmlDbE9wZ3pCTU1yZFctTnNTMFRCaEljUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "US Stock Selloff Revives Question of a Fed ‘Put,’ This Time Under Warsh",
    "source": "Bloomberg.com",
@@ -135,10 +171,37 @@
    ]
   },
   {
+   "title": "US adds Megaspeed, firm at centre of Nvidia scandal, to export control list",
+   "source": "Al Jazeera",
+   "time": "2026-11-24T00:52:47Z",
+   "link": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
    "source": "The Washington Post",
    "time": "2026-11-24T00:32:48Z",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTBzUEtPZ3RHS2tpdjlJNXRLMmVneUVHeWNmRC1IRWUzb3RCUk15alZwc1hvZ1Z2czFOZDV0YldySll3N1dLQU84YjlqN2VvVTVzeHY3TDRLbjM2dkNGZGxkSkpBb1Y0a0NTWlgtQmtvSVcyS1Q3NUZaZmwzd1NYd25JNUdneER3N181RUJzUzU1Zm80R0w5VjdieFRDTUtpalhHVWgzWjZCLXJwbUpZUVRkVUExajNy?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Namib Minerals pours first gold at historic Redwing gold mine",
+   "source": "Mining.com",
+   "time": "2026-11-24T00:20:31Z",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjdtMkhpTEVJZzZ4WGFMcG5qaE1Kd0k3U2Q5aWJnVnFYR1pCeWw5TkVWcWhqek0yS0lkanN2dGd5bzVQR2h4N3lVT0k4dTEzaEZ2YW9wRWNDTG5Xa2tQRXB6QlUyeU9ZaWl1emlpUXNBdURHMnhSNnpwaDRyNHpLNUhzdlJ3NXlrRHBsWXlR?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "The White House vs. Congress War Is On. And It’s Ugly.",
+   "source": "WSJ",
+   "time": "2026-11-24T00:20:20Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjQyUFMtUGdiWHJBRHY2d1lMUkpHYWlJcGxxNWtYb3phZi1SUU0zd3pTZE9tMkJoUDFGeU02OXNfbWI1aFZGZGhQZDg2ODFKT0d0RTJobTYzX1I4Vm1oRTcxazRJb25lOEFsa1MtRENPTVBNcEt4a3M0YmNnMFltN0M1Z3c3S0FmVkdvdVh2QWVrR0d6WEhqUGVkaFY0c2M?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -166,15 +229,6 @@
    "source": "FXEmpire",
    "time": "2026-11-24T00:08:05Z",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaEtDNVNEbzFTWldSVFYxdEtSQTBkNWFiLWRvWUFoaGNZQmtZTHBiSnBxVTlxOGgyRE1DVXNDdUhkeWhPUW92anBwelRMM1ZyUWUtZXJPc1VmQXZrTkRJbXBnZi1kNVBNeEdSU0V6cWZveFpWbVZMOE9nR3FnaFk2RkJVTmJKOE9Vc18wa2RiS0lWMDBNUzVHX2ZGSHM3TlBhdnZnZHA1aE8yUUpJenRVaktiSXdjbnctWmpWVS1vaWdCdVJreU5WeWdHdHFRX0hPUlJNZw?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Namib Minerals pours first gold at historic Redwing gold mine",
-   "source": "Mining.com",
-   "time": "2026-11-24T00:04:29Z",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjdtMkhpTEVJZzZ4WGFMcG5qaE1Kd0k3U2Q5aWJnVnFYR1pCeWw5TkVWcWhqek0yS0lkanN2dGd5bzVQR2h4N3lVT0k4dTEzaEZ2YW9wRWNDTG5Xa2tQRXB6QlUyeU9ZaWl1emlpUXNBdURHMnhSNnpwaDRyNHpLNUhzdlJ3NXlrRHBsWXlR?oc=5",
    "tags": [
     "GOLD"
    ]
@@ -262,6 +316,15 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWpESTd6QS1rNnp3b2RSQS1OcmpRd3ROeWhHV3pfMmJ2cUNQVXdyM1pqdmdpWktLOHZLUnFLc2ZZVUt5V2ZUWVF6OHVndnhCbmljUnFJUWJqUVZLZDQxMUhIZUdBSnpsQ255X1kxbE5lSFFjQTVKR3lPNW9WSDk5RHBHU1Fub1FCTTZZSTZyekpEbDFWck5UcXpaa0RuSmxEclpNRDBXVmFTZ3RpX2hEV3hMd2ZmUThFT0c4?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+   "source": "The New York Times",
+   "time": "2026-11-23T23:18:58Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
+   "tags": [
+    "SANCTIONS"
    ]
   },
   {
@@ -393,15 +456,6 @@
    ]
   },
   {
-   "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-   "source": "The New York Times",
-   "time": "2026-11-23T22:18:30Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
    "title": "Gold (XAU/USD) Price Forecast: Bullish Reversal Targets $3,900 Resistance",
    "source": "FXEmpire",
    "time": "2026-11-23T22:10:36Z",
@@ -419,15 +473,6 @@
    "tags": [
     "FED",
     "INFLATION"
-   ]
-  },
-  {
-   "title": "Texas’s outgoing GOP attorney general drops multiple culture war lawsuits",
-   "source": "The Washington Post",
-   "time": "2026-11-23T22:03:21Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdi01d2otRjNRZzR3cFk0WnBtZzhWNHBtUldtMWF2ME55S2h2Qkg0cHZISHZTS3JQcWUxZFBiWFFlSktxZWgyVmMwVlNJeDJudldfY1Z4VTdQMDI0OVNrUTFIb09rSnhvbVpHc0pHMmNkQmFFdVBVN1lPZ3RlRURRUkxhMGtlZmZZWklJM3BKNFZrZDZtcGJRYkVwaEFsZFlVQ2pjeUU0QUlDYmlDbE9wZ3pCTU1yZFctTnNTMFRCaEljUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -629,51 +674,6 @@
    "source": "WSJ",
    "time": "2026-11-23T20:40:17Z",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVd5WHpYWkp6em1GSHRQSlBIang3ZmVGckJDNFladmRUa1I0dDlOeEdVakxzcXVFOGx4M2Z2ZXo3Zk9NZ1FhaUYzU1Ffd0NPdTg4aVoxM3Y1WXliUklPMXBPeDBNMHZ6X25pdjd5RkF0RThERVQ1Q0tneU5PdkJEU09KWHZ6TkZwWDR0YmFOVnh1azJ0dXR0Tko1dlhBUDJkZnJ1Xy01eGxBQnhzTDdFQXpEY0Y4OVk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Federal Reserve warnings rattle Wall Street",
-   "source": "Fox Business",
-   "time": "2026-11-23T20:29:12Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zUEZ5RFBSUFVIYndfb1BsWDRoVXVPektsM0Y1TFVadF9PaXRXdEF5Y1I4dWd1bHhMZWNZanVqSlo0UFhHREFHa2ZXR1M3T19WSVB0bF9ZWTZqems?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "UK sanctions Myanmar president, military figures after genocide ruling",
-   "source": "South China Morning Post",
-   "time": "2026-11-23T20:29:04Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTTdVdEsySldPX2dkZUlwa1RUTTEwZjRBZ24tQUhnbTJJT1BFbFA5QzZtQ0QwVnhseGpGWFZCLTdGak5xdWFRclRJa0lMUUhrZ1pIMFlvbFZ4Z1Npa0F1WUtHSEpzNWdUU3pnZzF1MFY1Q3F5VG5wNmluZXk3bHBzd0F0M0lBbDBLb01kRi13dE5LRVRkMmQxNlNVZFlpSEs5QnNjWDFIanRyZWNfQ1duOWE3MDRhOUhkSF9QS3R6RUFNUdIBwgFBVV95cUxNNDhOajlOSnBKYWJPM3FmMk5ZTUs5UjVPYXNmTTluTnNzdHBNZjN0MHk4cXBFd3lsODJoOFhnTklnb0xoTGpBbGRWbXNudnZxYTVXd2hublVaVVdqZUllMEF1cS13Um1vUS1fblJicUczM3hsV0otWGNYRmpjMXpmMGFrSG90bndMZVl6eTlXbW5sX1R0ZElsTEdqWm4zV1c3YzVKZkV3Tm9kVjEzY3JKeHoyam9GREdESDlnYTBwWHhmZw?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Analysis • Netanyahu points to Iran's chemical weapons to push for war and stay in power",
-   "source": "Haaretz",
-   "time": "2026-11-23T20:28:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOMTRYYlhtaWZRN2lVbVctNWwwemxFd2dkWkptWGswSEwybTVmbG5ubmpWRG9sZHR3aEdfa2prVGhKdkxOSzZUNGpPVm1QQ0tDSXF0WlNubFNwQVM0WE5Tc1hlaktuSV9HVjlXNVgxOHBKR1NSNjNlX1FHTVpSQjFIal92N0ZUUVZxS3dfaDkybUxaLXByajFQakVoeTliSVpBanhNZEdjeGU2S053UzE5Szd5elBhQU8tMUVFYk5CR09sdF9qZC16ZVYycVpPQlVHbTBJaVRJUHM4c2JBa05KUWlFSWRKUzFoRmo2QnZiRm1yb3RvSTFJZVd3aVY5NGNEc0tDS1dGcXdYdTJPdEVUeXhXMTd5aFVQTmZQQzR3OTNaQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran hits US bases and civilian sites in the Gulf after a lull",
-   "source": "Al Jazeera",
-   "time": "2026-11-23T20:26:40Z",
-   "link": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Leaked data shows more than 1,000 Russian military suicides during Ukraine war",
-   "source": "The Guardian",
-   "time": "2026-11-23T20:25:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPclIybFN1cjJ1XzJuTEdkdjhqZzU2U2RWSlpocVp2VzVOaG9SVDE1Uk9PS2FSNU1UakliWmhyQ1ozVENPUXRGQndOekFQdnVjMktSek9DeHZybG1QYTllU0EzanNTZ1YwOGxIZTNnZHBjd0RmU1VXM0lMdGZmWFd2ajNHOUR2Ni1PRDFCc3ExODJseHdOeUx5NmJuWUtkZ2otOHB3Z2lXTjlydDNCdGpGeDNDNklDWktYN1lBRGFnNW4?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
