@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T12:54:28Z",
+ "generatedAt": "2026-11-25T13:22:48Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 8
   },
   "investing_commodities": {
    "http": 200,
@@ -52,16 +52,16 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 2
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
-   "items": 50,
+   "items": 51,
    "kept": 2
   },
   "bbc_world": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -91,17 +91,17 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 45,
+   "items": 43,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 42,
+   "items": 43,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 15,
+   "items": 14,
    "kept": 12
   },
   "gn_yields": {
@@ -111,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "fed_calendar": {
    "http": 200,
@@ -126,9 +126,96 @@
  },
  "items": [
   {
+   "title": "Trump prepares new round of tariffs on China, other U.S. trading partners",
+   "source": "Axios",
+   "time": "2026-11-25T13:20:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zLTBLcVRHTWZCNy11bHI0NEl4S0FiYVoydFZHQVJ6VUxSNUNqR2hLQ0NoQ05ZSEJxX3I1ZjhQZFJ1R2VPcWF2eXlreU1wZWpmMFRiQjJpeTVRUVVfN3h4akhB?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "US announces new tariffs on host of countries including China",
+   "source": "BBC",
+   "time": "2026-11-25T13:19:41Z",
+   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "The Fed is likely to raise rates in December. What it means for your holiday spending",
+   "source": "CNBC",
+   "time": "2026-11-25T13:15:01Z",
+   "link": "https://www.cnbc.com/2026/11/25/fed-december-rate-hike-consumer-impact.html",
+   "tags": [
+    "FED",
+    "RATES"
+   ]
+  },
+  {
+   "title": "US Targets China, EU With New Tariffs After Overcapacity Probe",
+   "source": "Bloomberg",
+   "time": "2026-11-25T13:13:21Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWM5Vm8yZ0dtNTRyRFIxYjc0R3ZZMEwxeGNsT0dUWXV6STNtU2VXN0tkY1ROZHdWVkpwWHF3NXpQMk16SS1TU2VwVUJSSUtpek9FcHVmNE80eTBjNzFqdHVIa2NHSUp1WHBXRWZDMEFKUHJfNVB5cHZGT0JCUng0cktmRXowWVd4T0JyZ1RzQW5ubTk0OUZHSE11aDE0SkJjZENuelpNOGExSXMyc2dDNDNB?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+   "source": "CNBC",
+   "time": "2026-11-25T13:11:09Z",
+   "link": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Liquidity peaked. First bitcoin fell, then gold and now stocks. How long the downturn will last, according to this veteran strategist.",
+   "source": "MarketWatch",
+   "time": "2026-11-25T13:05:00Z",
+   "link": "https://www.marketwatch.com/story/liquidity-peaked-first-bitcoin-fell-then-gold-and-now-stocks-how-long-the-downturn-will-last-according-to-this-veteran-strategist-bb91d6c4?mod=mw_rss_topstories",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
+   "source": "Al Jazeera",
+   "time": "2026-11-25T13:04:17Z",
+   "link": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Iran War Is Pushing Record Numbers of Fuel Tankers Into Crude Trade",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "time": "2026-11-25T13:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd0xrRjNXRkJIMlI1MkRZdUZ3YmdwS2dhSHA1dVFfbE1DWHdzR09vV19qb2lObWp3eDRxTUlJSDhCMWttSHZVSjF5VGx3OXRXYXBwNVIyU1F3a28xRkFsRXFYWHpJbTVLZXhQbVQySS0wYklfSVNIaFV6S25DOVRUNjJWWHVIZTdaTjJ3UXc0N3ZRVjlwdU9EcjZ1WDYzVDlvQmNQc3FvYUF1OGc5d3lSZzZkalJGVFlJM0Nmd3lubHTSAcYBQVVfeXFMTnl6bTVmRzQ4TDRKOFpvMkZBYUpQUTR6QTZLdmU5S0xqejFnWjJxZW9ERUYyRVlLaEo4NEdKaS1IYU9hSk0xaEtTQnE5aGwwMXh6SkFFLU5nWng1V2s0SFczbUVmNmk4cEphX09fSnd1aUctUi1xa2hJN2tVd1ZfTnJJMkNKdEtxWENXZ3JtdHhSc0cxRTVHcHJTczdJZTJ2QjJYYlY2a1Mwak8tOTJReDV1Z3o5X2tRNzNpRHYwRFVvSXpoNGVn?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "investingLive European session wrap: Equities and tech selloff deepens, gold threatens $3,500",
+   "source": "ForexLive",
+   "time": "2026-11-25T12:43:36Z",
+   "link": "https://investinglive.com/news/investinglive-european-session-wrap-equities-and-tech-selloff-deepens-gold-threatens-3-500/",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Treasury yields fall in bull steepening as growth fears drive haven demand ahead of PCE data",
    "source": "Investing.com",
-   "time": "2026-11-25T12:36:05Z",
+   "time": "2026-11-25T12:37:27Z",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU0g5NUhweldydkF1VlNDZTJsWUVqLVJocEZfQjFXNmNYcGVQU3hiam5FWWxNOUpVQzUxY1ozRDFRalVObjJQSGpEQzZmeTZENXpiWmRiMXVSN3dZYVVNdFhVLTFOZE9hbmpyRTRPR1lDMnZsOVVNTEVNSXhwa1lMUWJwdnZVczVpbFJFZmkzLUFMZHdJd1l1NEhsYlJKa3NibXY1eVhhWl9FOU0xVTR1cUd4dGRfbmJ6cVctWXpSUC1IMkw0UEpNS0N4UWxoelFsRk9sck9lZjkzMlcwdEVoQzl5NA?oc=5",
    "tags": [
     "YIELDS",
@@ -145,7 +232,7 @@
    ]
   },
   {
-   "title": "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he says.",
+   "title": "This strategist’s bond-trading model is outperforming by a wide margin. A Fed that’s slowing the economy is a good thing, he says.",
    "source": "MarketWatch",
    "time": "2026-11-25T12:29:00Z",
    "link": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
@@ -247,6 +334,15 @@
    ]
   },
   {
+   "title": "Asian stocks tank as US tariff reports spook investors",
+   "source": "Yahoo Finance",
+   "time": "2026-11-25T12:05:34Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcmFMS1FQUldaU0Y3TXp2UjZrcDNRMXpKZ2dtSG5pcXNIeW1adGNFb2dsX3FOMVFDd1IybDUwdFl6LXpnREY3bmtpRXVldkxHVFM1c2Z1dUQxYmZnTG5WT1BnRVo2UEdhYVFIWkh3UmdoRFBQQy1JdV9zdDYxTGlnVzVKN2I4OG9qcnhvQ0ZEUkpiSGFqaXdMR0ZYcmNtVk5r?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Overnight RSF drone attacks kill 19 in Sudan",
    "source": "Al Jazeera",
    "time": "2026-11-25T12:04:19Z",
@@ -274,6 +370,16 @@
    ]
   },
   {
+   "title": "Will US core PCE inflation fuel expectations of further Fed tightening?",
+   "source": "FXStreet",
+   "time": "2026-11-25T12:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQUZzWXlBNFZYYlJKZzB0Sk50eDNkVDl4cGowSFlianpHVzc5d1RTc25hQzAxNFNwX3VablB3c0tmZEhkNkxvSC1pS2JsaDRvMkJMUlY4N3ZvSEF6UkcwSnZsZTM2VUxNQ2IxdGRNSGNydTJ4LVpSTFluTFZVcEZ0MVlpRnltaE94MmsxLUtxZk9RRDNpVTkwSnZtQWZ3bzI3WVYzQks2T2FkbHctbjBGcm5JR3FQendHTDNYQ2tIUC1SQTBfWUxkWGZOZFVzT2Ex?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Trump’s tariff threat returns ahead of US PCE",
    "source": "FXStreet",
    "time": "2026-11-25T11:56:32Z",
@@ -281,6 +387,16 @@
    "tags": [
     "INFLATION",
     "TARIFF"
+   ]
+  },
+  {
+   "title": "China and Other Countries Face Higher U.S. Tariffs Over Industrial Subsidies",
+   "source": "WSJ",
+   "time": "2026-11-25T11:56:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeU93UkxmWVRVMXpoeDk5S0tFbjAtRzZuZ3NVbUpyV0FaTUtCU2hTanFHM3lIU1kyMkxBZVFFNDlPQTFBVy1wQ0VZalpnLWJxRmtsckxjOVI3NGNXVGJCSGxEUHczYVJFQnY1TkJzXzNBMTg3QjRrRHJXZ3FNS2JMVlRoRjVldnZhOFpjRFNlSXRCVWZGM1dXUVp5TlZlbkNVUGswS2w4dmRJc1gzazluN3VYZ256OU5GRnpmSmt3?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
    ]
   },
   {
@@ -311,6 +427,16 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLTF4ZlFPdTA0ZzRpWmEwVmVhZHpIbUZFRlpqQWpyTkY1WlNmNUxNcFhTV2wxYVA5TnpKVWtFQmU5aVZ2emtKWmFiMlNIN0JXMl9nZ1NaaGc1dFZvNzE3ajJ2MGFVRDkxaEgyS082LVJIdFZwU1VWajJ4bW85cmN0RmhEQmpmQ1U2TTRnWUtJcUZUYnhMWl9VVGp1RjFMUHl40gGmAUFVX3lxTE01RXRQcXhxZ1JwM0poeUlueG1STkNBT1FFSDFlRXN1enM3TE1oWUoxdTNSZHpxdE5YVm9SUkl0T2JzcEtlNWZ3bW5NZ2ZFbjFhSGdBZEc2ODNCS25BeTNKY3dLTHRZV1lubDFZN1gwWElSMzd6N0hnbjdpbmM5TTBBaU14QzNzWFE3R2YyV0d3RGFZZ1dpT253Ry1UMDhhallXQVJQdkE?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Will the Fed raise interest rates this year? Divided economists weigh in",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-11-25T11:41:43Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
+   "tags": [
+    "FED",
+    "RATES"
    ]
   },
   {
@@ -385,6 +511,15 @@
    "tags": [
     "INFLATION",
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold Dec 26 (GC=F) stock price, news, quote and history",
+   "source": "Yahoo Finance UK",
+   "time": "2026-11-25T11:27:05Z",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1makZJRjg2ZzBXd0JVYVdJbWE1amR1ampYcnVBamtVWUtSWlRRQ28zdHB0VFBDTjhyT0g2bWRKT29Ya2hhS2xET093eTdkUW5ObzRzVg?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -553,138 +688,6 @@
    "tags": [
     "FED",
     "RATES"
-   ]
-  },
-  {
-   "title": "Gold price falls 2% on hawkish Fed bets, US inflation data in focus",
-   "source": "Mining.com",
-   "time": "2026-11-25T10:36:17Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFhNU3Z6SGt5cklJWjR2Y1RERTFHdGRmVERBVW9HOV83aGhCQ1NrU0V2Z2ZjWXVGNkNhNW9ldVMyMmNzWWFWODZkd252Tzc2LVZlR05vNktLNFdTNDdFSE1kMnNVSTRwMW9ENkJneXp2dGxNTUlra1JTSHR2TVFyem9wVmFlXzJlakRSeU5oWTNlY3dpdk9XMg?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Tariff concerns weigh on DAX investors",
-   "source": "marketscreener.com",
-   "time": "2026-11-25T10:27:56Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT240MHk1cVVwd0VNSC1fMThCak9xNms2RGhjYzc0U1hDYmV5cEdWZUpGSEZoRVlQV2VCeFpkTnFyZVJnWjhXbktDUzFmdC0wbS1VVXpaTGpFQ3VYcklYWVZlNTU2VGRJSVFNRU5fVkktVVV2bXhZN1lPSTlzTm1wU2dxSDZ6UHBQMGVybHZ2Z2pvbTdUc2c?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "EasyJet Profit Hit By Iran War as Apollo Takeover Looms",
-   "source": "Bloomberg",
-   "time": "2026-11-25T10:22:42Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYnpTMm84NzVtNi1EWDBvM2trRU5YUk9Rd0k1bHZnMWN6aDlEZElocDZvMDBPMklXV3JvRTMtNjR2ME5rbDlYbHJPMktobURzZXJEenFtdU90ZEFMd2M5bWFuNmZhSkdBT2VXbU5GNGE2Z2Q2dHg2eEJlT24wMk1kZkJ4Q2N1bkc2UVlheWdHZW9pOHcxT3lmYVlnYjVKMnZMUWFlSnJvM1o2QlBEZmZ3X2F2SQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Nasdaq futures slide over 2% on fresh US tariff concerns; inflation data in focus",
-   "source": "Reuters",
-   "time": "2026-11-25T10:22:19Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
-   "tags": [
-    "INFLATION",
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Most US Treasury Yields Fall Pre-Bell Ahead of Fed's Preferred Inflation Data, Q3 GDP Estimate, Durable Goods Orders",
-   "source": "marketscreener.com",
-   "time": "2026-11-25T10:18:44Z",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOGJuNk9xVWttcTN5NUdwWGl4RTBnZTlrQ2tMRFdBZm8zZ3BlZ2xwZnpCS1lKaGlZYUxGVVMzT2MwWGg4ekgzYzFIQ2R1bUFpWmpXRFl0c0FyOWdCTXVfNUZZYkJyekNRZXNFOGs4Z2ZGT21zaUxBZ3h5aXVkZTUzUnZrMWV5M3p4a2NPcGZBMjF0NTdBcXRpQ1R2dXhYdnVxclc5YnRqVzRjTkZuV0xoZm1uT0NSRHBILUJ3TUM3Qmkydk1Yc2VSMFhUUk9JWV94ZXJ6WGJ2ZWJ4WkRmN2o1bkh0T2M5UQ?oc=5",
-   "tags": [
-    "FED",
-    "YIELDS",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "The US tariff wall keeps changing, but it isn’t coming down",
-   "source": "FXStreet",
-   "time": "2026-11-25T10:16:04Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjYtcW1uTFpOenJFWVkwblh3Vlg1WlpDZFVlMkZSa1ZYdUk3LTAxdFp3OFd2OGRDMU14aUcydEdKdXpEbGlDNDhZMzFvTjFLMy1RYnAtQWhSbkRUSkIzNi1ZWUpEanFFMGNPQlh1MEVXRGJBU1U5REJFNWVQT3daQnBxMzY0UUlWcXdRZ0NEZGFsZlk4Sm94R3c5eUpSSEF3UVNMSV9uNA?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Europe Is Beating Asia in Fight for Gas Supply Disrupted by War",
-   "source": "Bloomberg",
-   "time": "2026-11-25T10:11:43Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT0FwQmRzNUdWRDZBR3VHZ3ZUTDNqRG9MV2pyek4xSzRCLUNpUDkzWmpmekU5Z3loaWdmbDRvNWVTRFVKcFZXZkFXSEhmRU93SE1VNnA1NW5NSFUtZEVIN1JEQm96TVlNVllkWWhwY05mRW1sNUVQTXlKZ1dxMjJqRVBoSjhYajdTT1g1U3Q1Zzdoc0VTVlhUSHdjNTJ5ZUdINnpOX08tdVVjdzAyVS1PS2F4ODI?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "3 U.S. Importer Stocks To Watch As New Tariffs Reshape Supply Chains",
-   "source": "Yahoo Finance Singapore",
-   "time": "2026-11-25T10:10:04Z",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PQTBiVDAxaWdXdFpaVXE1VWJRLVNuNmFHUV9ycndWTDdjZmhXbkhDdU5nbElVZlJHNl9CZ1Iwc3Q2NmlNbDNGMnhtM2pmOUppUWd5M3lxV19OYWpyWlR6WWtfNjhyb1B2Y1dLR3E2Vzlka3VDM1hxejVpUFZMTm8?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Iran rations electricity: How deeply are US sanctions, blockade biting?",
-   "source": "Al Jazeera",
-   "time": "2026-11-25T10:05:47Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZ0SENvb0cxQVppX2ZNRFQyVDNzb0dKNzl3NHlBQS1TaFpQNlVpd0ZUZUtGSTBaa2pDTk95VVdaWXFxS3UzUTRmYXRXZUtCbndXZnV6VjZSZU92d0ZKU0RzbmptZUM2LXV2M3ZpWkNuMnBpdExGa3gxQjlOc1NyTnFkcnhKODlwbXpnMkhzQ2h1UjhKNUZYMFlWUXJsbm1HUm9Gdm5nZENCenQ2RHVkUUE1WWLSAboBQVVfeXFMTktvbUdsUC1kNmVoLVl3eGY1Yk1vZEpoUFFtQXFOY0NQcXltdzVZSi1HaG91OGxMRmMyWk4zMXFzWThnYjNpYXJzNUVTLVJuUTM5OF9aa2J2RDZIZzNSSW1IdUN1a1QzX2lGYlF0RTVtZFRuREI5Ym9uRFlidUhXT0wxN3cwMXc4YWx2M1lOV2l0eUhhVi1wcEF0emp0bXdwTkpLc2l1WDlkU1JYTElEd1N4eENHUTdnVGpR?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Two Libyan soldiers die after Ukraine attack on Russian vessel",
-   "source": "Al Jazeera",
-   "time": "2026-11-25T10:05:46Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGhHeGt2MndaSlZ2Nzd2Wjk1T3BLWG1zUThOcngwLXBKWUlqVE5mTWVJa1FyLVk3U21nUE1hSzQ3dVR1MkFlc1k5Y0czZmUtVkhNU0g5YkhFd2RfdGZaTFFsV0JhRkZSdzgzVi1WTzlSWVZhLURsbTV1RWwxd3d3NFR5Vno1M09ER0tLbDhTbGQ0dlc2SUVreGNtdVVlZHVFQmw2TEJROA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Federal debt tops $40 trillion. Here's what it means for your wallet",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-25T10:03:35Z",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0ZxQzFWdUZnWEdMeFFScDdLYVpfRkZpNEZidkdtWHIybHdNemE1c3RudTdwbWtnbHJnZmd6cHNvLUNXU1ZkRzA3NE1LeVJnYll5NmpqeTNRdGZ0a0c5R3F0bVhOWk4wS0M1bUpTNFk5S0hCWHRNY0lBREdsb0l0VlFmV0VnaDFRRm1kOFlXb3p1WTNQ0gGaAUFVX3lxTE9sZ3Fpb1FscnNRVVZGRmdQd0JIZ0tNaV9KZjFjSzVFb3ZCTWVEVDF4bHM5SmFtZk4tYkpDRXM1XzRhaHVFTTJxeWRfdFQ0SWZfSlVVd1E3RnJlRktMMS1jb2htSDYxTkpLemZ2VDluZUZmZ0xnS2ZkdU81WXdEeWQ1dUJUOGZxNkx0T0V5Ql9sZHgzRzN6aGdmcVE?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Card payments edge past cash in shops; euro area consumers want both",
-   "source": "ECB",
-   "time": "2026-11-25T10:00:00Z",
-   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "title": "New balloons will fly for the 100th Macy's Thanksgiving Day Parade",
-   "source": "NPR",
-   "time": "2026-11-25T10:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT0JPVHBSYmtEdVZlZmVlcnJaVzNGU2lJYk80UUZSZEJ1SlNnRFBQUUxVRVdla3VCZzRlaHIxOEhPeE9XQXhYTUJMQ0k5MUhXNzJnOTduX01PQ2hJb21PLTFXZHJZRm9hdHhyWUYzZ2VHQ3lybVBNWG9Wd2EzWE1zOHlmSkswNERVWVNIUjlsRWQ1bFE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold Trades Near 15-Month Low as Federal Reserve Rate Hike Expectations Weigh on Prices",
-   "source": "Yahoo Finance",
-   "time": "2026-11-25T09:58:15Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObHdZdzk1ek1WVXB1SDBtU0NhS3JsT3prcVdiTTRaWnh5NmRNSXQydHZfQkpXT0dVWDFXSmV5RGRNQ0VoZGhIaEozeHFacDlYNDBtem5pLWY1R29tMDNhV3JibE9VSlFLUUI2UUp5VExkYm1UM0FDM1BIbjRuNUdOZ1hHbWxoSFR6aVRGbEFIQXZWMXVSQktyUnlqNA?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "GOLD"
    ]
   }
  ],
