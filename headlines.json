@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T17:10:51Z",
+ "generatedAt": "2026-11-25T17:39:12Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -21,7 +21,7 @@
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 2
+   "kept": 3
   },
   "bea": {
    "http": 200,
@@ -52,12 +52,12 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 2
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 8
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -66,7 +66,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 28,
+   "items": 27,
    "kept": 7
   },
   "aljazeera": {
@@ -81,27 +81,27 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 25,
+   "items": 29,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 15,
+   "items": 20,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 49,
+   "items": 46,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 33,
+   "items": 36,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 13,
+   "items": 12,
    "kept": 12
   },
   "gn_yields": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 8,
+   "kept": 8
   },
   "fed_calendar": {
    "http": 200,
@@ -126,12 +126,79 @@
  },
  "items": [
   {
+   "title": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
+   "source": "MarketWatch",
+   "time": "2026-11-25T17:31:00Z",
+   "link": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
+   "tags": [
+    "FED",
+    "RATES",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+   "source": "ECB",
+   "time": "2026-11-25T17:30:00Z",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
+   "tags": [
+    "ECB"
+   ]
+  },
+  {
+   "title": "Trump administration to introduce new tariffs on China, EU and 12 other major trading partners",
+   "source": "CBS News",
+   "time": "2026-11-25T17:26:56Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczFLRXU2LXkzSXFlSVNTSHNiV0FVM2p2SURNQVRqLURpd0RmWTJPeDE4UDJybklVTmtXdFp6b2ZmUWhtY3lKb2MyX3RGd1RCbWdYY3AxSHg0SktaT3VfQzRDNzhnNW9JRlJRYnFQV0ZRalVJRXV1d1MtQ3ZvNllsM1g2N28?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Drops Below $3500 On Strong U.S. GDP Data",
+   "source": "FXEmpire",
+   "time": "2026-11-25T17:20:51Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOW1JY0VEcjNNajlwRkgyTUZJT3RSeHUzcUxEWFNOQUhrTFV1QWJLWXZhSDZjRDJmLVlvckJsbTBSZDF1cjgwejVyZ0lWVml1ZU9pSkV2VkI4OVl4YnpEbFoyZFhaelBTNnpjOG9Mc3JRd3ZXYzhiMnVzcTNtNkJzZ0VLQjFOOWxvV2xRdlE4bDVVQjVqUkMtcFhHVnlZb1F5aGhJX2I1T296MXFnLVB6aVNOUE5VWl9URlZtdEEtNXJ2eHRqc09BZ0syQW9LUQ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Trump proposes new tariffs on China, Europe and other trade partners",
+   "source": "The Washington Post",
+   "time": "2026-11-25T17:18:12Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "US proposes surprise new tariffs on Brazil imports, including 10% duty on aircraft",
+   "source": "Reuters",
+   "time": "2026-11-25T17:10:37Z",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGZ4TFg5REgyY0VnandHQjZIMFN1cnNBOEJVQTBDaU1IWDFLVUxmdHFTXzRLVnVKc3pHd3lTYk9lRHZBOWV1Skd5V0VzVU05ZDRjZXdZekl5cWFneWI2b3ptS09taEhjNzZIcGhuWVdydDk5cnpkcElkMUdTZkJjTjROT09sOG5adVUxNVpNeGp5UmxaaHl2bzh6TklXMlp2eVQyVW9idi1QV25LcnpIeFBjMEF4RzNNbkNIU3JOUlN6WWVqSjRtTlFZMA?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "This missile maker's stock has fallen on expected U.S. military spending cuts, but its backlog reduces the risk",
    "source": "CNBC",
    "time": "2026-11-25T17:07:12Z",
    "link": "https://www.cnbc.com/2026/11/25/rtx-stock-valuation-defense-budget.html",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Norway welcomes US tariff decision, says work with Washington to continue",
+   "source": "Yahoo Finance UK",
+   "time": "2026-11-25T17:03:45Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTFQ5M1hEc1YtcFlabUwtcHNwbV9RZ1A0SXg1X25uU1NYTVVyZ3VHRC16bm9rb2JhczhjSVJKZUhBbi1UeERQVXA2UTNqZkMzbVZYb3otWjhXUnViVEZJSUdpcjZtNkQ3RzhfbTAxSVkxTmEyYmR6VHpSb3owaXB0eHprYUg1NVo5dHpv?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -168,16 +235,6 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVVlQnc2aFR0dkxKaERhNXFyZmVoYmQ2VDBOTk8tZG5RQ19uN0dmN0VtVmhpMGhacXFRaVhGYVUtdTg4MU82eGV2UmxMNmtSWnB0UjQ1NjFJeUpxZGs4bEJyeXJGWUdfMksxbVpPd2hvRHJObGNzVWgtNTZ0SFpLWlYwSlQyN3Q1NnBlclpCR2xCQlhVWjVTWWJTcEw1Q3RWS0E?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump proposes new tariffs on China, Europe and other trade partners",
-   "source": "The Washington Post",
-   "time": "2026-11-25T16:42:18Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
    ]
   },
   {
@@ -386,15 +443,6 @@
    "tags": []
   },
   {
-   "title": "US proposes higher tariffs on Brazil imports, including 10% duty on aircraft",
-   "source": "Reuters",
-   "time": "2026-11-25T15:36:11Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGZ4TFg5REgyY0VnandHQjZIMFN1cnNBOEJVQTBDaU1IWDFLVUxmdHFTXzRLVnVKc3pHd3lTYk9lRHZBOWV1Skd5V0VzVU05ZDRjZXdZekl5cWFneWI2b3ptS09taEhjNzZIcGhuWVdydDk5cnpkcElkMUdTZkJjTjROT09sOG5adVUxNVpNeGp5UmxaaHl2bzh6TklXMlp2eVQyVW9idi1QV25LcnpIeFBjMEF4RzNNbkNIU3JOUlN6WWVqSjRtTlFZMA?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
    "title": "Crude Oil Inventories Fall Short of Forecast, Indicating Strong Demand",
    "source": "Investing.com",
    "time": "2026-11-25T15:32:07Z",
@@ -425,6 +473,17 @@
    ]
   },
   {
+   "title": "Fed's favored inflation gauge rose in October ahead of expected Fed rate hike next month",
+   "source": "Fox Business",
+   "time": "2026-11-25T15:26:00Z",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YdFlCek5sa1NaUzBxcmVzSm43bVBNSHpXM1ppYlJKTjI3ckhlRzlTbVJLSEdIUks4Y21JS045OU9iR3ZFVVRaVk13VjVoT3FjRlZSTmVxcXVIYU9GUTNTeEhHM0ZaSjhsSHhndDU4TdIBdEFVX3lxTE9UekxtTTc4eGdNM25UcWVlSnU3dVI4SlhISngxcWwyci1xZllJR0hnX3dYZy1EVGVmZS13Y3BCRDFFdEJRWXVqQzBna0RBZkpEb2JhcGJzU3Q4VHFLb0NMazN2QnV3d1VvdWlyNHpTYi1CR25t?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Trump admin proposes new tariffs on China, EU and 12 other trading partners",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "time": "2026-11-25T15:22:42Z",
@@ -438,7 +497,7 @@
    "title": "Melania Trump says nine children reunited with families amid Russia-Ukraine war",
    "source": "The Hill",
    "time": "2026-11-25T15:22:00Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWZaMFFoeEJSdDVDbHJ6NTJwQ0VzZVNYQ0dLZFBKdmhMSlB0aWFmcDRWMV9hUE9ISjI3QnYxYmEwVmxCWFFlNlRHUjJfNmxUMGRvSUh5b0lFU1dhV3VWNDJYS2h5dTFQQVFpQXpROVBrNExWWHZBWGZoU21YeTRqbXJKTzhuVVNTcVlpT2JPSlFiaXFxZ1RQMWV5LXU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWZaMFFoeEJSdDVDbHJ6NTJwQ0VzZVNYQ0dLZFBKdmhMSlB0aWFmcDRWMV9hUE9ISjI3QnYxYmEwVmxCWFFlNlRHUjJfNmxUMGRvSUh5b0lFU1dhV3VWNDJYS2h5dTFQQVFpQXpROVBrNExWWHZBWGZoU21YeTRqbXJKTzhuVVNTcVlpT2JPSlFiaXFxZ1RQMWV5LXXSAaIBQVVfeXFMTzJYaTQyRlJvZ3FGRU9kZlV2eGc3RVVkcG9ObGNjdTNWSE5zM0otSHN5RVNWT1lnMU5SUC1ZNzBrZGdwTE9CN1IxUHhIc05kZTNXWVlMdGhRNnRVTTZyOE1HbkVUcWZRdHlTU2pyYy04OEduamI1YVR0RUVia0pOSmRzbTRrVlZYcUR6U1dGaWdSX0g3Q3hoU1Q4S1pPX3J0NXJ3?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -477,17 +536,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeW1DNVB3TWY4SVpMODR0bk9VWk9SUkUtNFRBSWd0UHRsUkVrdmtSazNhVlIzZnNNVlp1S2ZsQUNPMUNpcjkzaHlDT0I2bnJJM1ZMVnJiTjZOa0YyTTU5MXBrR0taY0c3TnZBVTI4RjN3ckdnc2I0cG1teDVuWEtzWk1XQ25VVjVFSEphSGRVNTVYVXJ4SHZrcHZ6OVQ1dXZ2T2dXRVRJRnhEb00?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
-   "source": "MarketWatch",
-   "time": "2026-11-25T15:08:00Z",
-   "link": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
    ]
   },
   {
@@ -631,53 +679,6 @@
    "source": "Yahoo Finance UK",
    "time": "2026-11-25T14:42:07Z",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0tKZkxCSWxyd280Y01zNjdLN241amRBejNsMzZ6NG1lNTMyZkpkeW9sbzdQMjJwb2dBajVSSzNMLU1icnRILTBCdnJMLU02RmYxNjlNdFdrOEg2TUpYdkJuX25Cdng5ZDE4VkVPNm9EY2NKUy1ZWUxmLXprVjdkUUEyaw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump administration to introduce new tariffs on China, EU and other major trading partners",
-   "source": "CBS News",
-   "time": "2026-11-25T14:39:46Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczFLRXU2LXkzSXFlSVNTSHNiV0FVM2p2SURNQVRqLURpd0RmWTJPeDE4UDJybklVTmtXdFp6b2ZmUWhtY3lKb2MyX3RGd1RCbWdYY3AxSHg0SktaT3VfQzRDNzhnNW9JRlJRYnFQV0ZRalVJRXV1d1MtQ3ZvNllsM1g2N28?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Nasdaq falls 3% at the open as AI rout intensifies",
-   "source": "Reuters",
-   "time": "2026-11-25T14:38:10Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "US unveils proposed tariffs on major partners, including EU and China",
-   "source": "Yahoo Finance UK",
-   "time": "2026-11-25T14:37:23Z",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlpFeml4blFGWUtDYjF6NTZ6V2VWWTVQdm1PbkczdUQwY21lWDRjYTNOZzNHQTlRZGVyNE55MzlGYkRhbXVjaXdOVHF4amNUQVZCWE1EVXNxeE9wLUVsdHJxOG4yU3Z1OVBValF6NmtNS0RmS3NQTXlOM19XWjlRUVBRV2FTb1FScnc?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "RTX Corporation: Tariff Refunds Flattered Q3 2026, But The Stock Still Trades 12.7% Above Its Average",
-   "source": "Seeking Alpha",
-   "time": "2026-11-25T14:32:03Z",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTmxSRGx2VVczRzAtUk1qZ05tbHk2RTBnNmZERUxKZ0U4cllVYzhoNDJuTjBHQVdLeUtIMFNuaWZ6dWMyTEtfN3ZZOUpKcy02d3R6bmtpNU1jc0NpSjJCeko1WS11YlVGeFZLcW9nbE94U1NLWUh2dUU3aWNhUjR6TzBUSjY1d0wxVGRmcXplU0MyMlNqUDlVVmNZTDJKb3ItMUNPOXRLN1NoLVJibzdTeE9hRTl2WEVxX2xxNTZZN0J2cEltZVNSdmVZdjc?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "US to cap India tariff at 17% if trade deal is reached, USTR says",
-   "source": "Reuters",
-   "time": "2026-11-25T14:29:44Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
    "tags": [
     "TARIFF"
    ]
