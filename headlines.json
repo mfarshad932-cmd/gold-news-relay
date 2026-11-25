@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T21:25:49Z",
+ "generatedAt": "2026-11-25T21:54:35Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,7 +52,7 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 3
+   "kept": 2
   },
   "cnbc": {
    "http": 200,
@@ -66,7 +66,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 31,
+   "items": 32,
    "kept": 9
   },
   "aljazeera": {
@@ -86,27 +86,27 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 17,
+   "items": 16,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 47,
+   "items": 48,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 29,
+   "items": 24,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 13,
+   "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 23,
+   "items": 24,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 4,
+   "kept": 4
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,72 @@
   }
  },
  "items": [
+  {
+   "title": "North Korea expels Swiss diplomat in sanctions row",
+   "source": "BBC",
+   "time": "2026-11-25T21:51:17Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "China Braces for Tariff Hike After US Announcement",
+   "source": "Bloomberg",
+   "time": "2026-11-25T21:44:45Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3NyOFFZY3BES2RUSW1SemdaTWUwNGplTjBWQ2drSjc0cy1RV0pIdEMzbmdadV8wbUViUXI1eEFDQlNjN3pCT2M1LWVYYU42OEtYTU1meEZKT2ZqeFVrUlU5cUdia1pJMHlFNDVYZGRGWmE1WDZmQWcxQTl6UkstWElHbmlKSXpHNHdna2x5OXlsTlg0eWRuZ1B6ejhwdF9nM1o2ZGNIMA?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Trump's new tariffs would put rates right back where they were before the Supreme Court stepped in",
+   "source": "Yahoo Finance",
+   "time": "2026-11-25T21:38:55Z",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTVg5UHpONGNFdFNFMDVfQlFwT1p3dDItcHg2TWRmdDFkT1hCMTlXSGoxM2JLTXViNG1pbUwtZXY2WnB2U050QkViTVJQQkJsSnozaE1ISDMyRGJtSUJuTGNtdjhNWVNoVHVsV1ExYUhyWVM4QVdzNXlmbUg2LWE4b1hraGFCYXdkNEEzYW9LTExIZExfalhEOUtfTUh4MFFlU2dvT0hWUDRXLW1aUDZzNDJlWTNELVRSc09TVFA3SGpRR2FwcF82bXVHUnk0dHQ2TkhIbFJuUFNtNTJjelpfWURfMEFPakhHX2c?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "US Equity Indexes Mixed, Treasury Yields Drop as Investors Rotate Out of Chipmakers While Assessing Trade Tariffs",
+   "source": "marketscreener.com",
+   "time": "2026-11-25T21:33:15Z",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWHEwMWdGX3I3cHBiWVBibmkyUUZ2dk9HelBzdDE2bjdXTVdQWlRhOVlLSWVYQWJCRklMcXZ0Z2pIRnZHNFNFV2xWdzk0YkdMVDBhNl9LTGkzOEpENUZUUE1ESzB2LTVzNmhYS0RCQnV1X3BoNnFiWXhodkJkNzVvaUYwQ3hQdjNuMUd1azBKQW5wOUVTSzV5WVV6WFFkTTBhOXRwMk8zc2lIb09pc29JNThqY3lyOG1KTUFVXzJYWHl6RGtxZjZ2RHc1bjQwMXBkbnE1NEJkY0sybHVPaWVKSzJtOVFxUQ?oc=5",
+   "tags": [
+    "YIELDS",
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Drops Below $3500 On Strong U.S. GDP Data",
+   "source": "FXEmpire",
+   "time": "2026-11-25T21:31:18Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOW1JY0VEcjNNajlwRkgyTUZJT3RSeHUzcUxEWFNOQUhrTFV1QWJLWXZhSDZjRDJmLVlvckJsbTBSZDF1cjgwejVyZ0lWVml1ZU9pSkV2VkI4OVl4YnpEbFoyZFhaelBTNnpjOG9Mc3JRd3ZXYzhiMnVzcTNtNkJzZ0VLQjFOOWxvV2xRdlE4bDVVQjVqUkMtcFhHVnlZb1F5aGhJX2I1T296MXFnLVB6aVNOUE5VWl9URlZtdEEtNXJ2eHRqc09BZ0syQW9LUQ?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Citigroup (C) Explores Venezuela Banking Return As It Seeks Sanctions Waivers",
+   "source": "Yahoo Finance",
+   "time": "2026-11-25T21:15:24Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWdtajZCUG5NMk9Da245YkxYUWFrM0xPcnR4cll2Vm14X2VDbnhxb3lsYVV6VUZORnhtdDRWcTRwekpJZ0xaSm5UMHlTV1dNeFpYOExyU3R2Vnh1YjFlcWJKRWkwVktLUjd3bjluc1FpbjV6clEyTWdSdURqRWc1ZEoyeVhlYWV2TnhjQk1qcmk5cl8ta1VrWWxIaldMdG5CaGJQOWxn?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Trump proposing new tariffs on 14 partners including China and EU",
+   "source": "The Guardian",
+   "time": "2026-11-25T21:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzJkNEt0SmxFczJuc25uRFpYRjc1bDBVZ191T1p5TnFTbjRxeHA0QTk2TE1VM0FJMlI1ems4N1ItOGRFcHhma3ZLdEJKT01NSF9yVjFTaTc4SmlpQk5iSnRfdjRBZ2VCdDlLM0JEbFAtYkVjNXF1a0NqTG9OazJPaWFmamQ?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
   {
    "title": "Cyanide maker sees batteries squeezing supply for gold producers",
    "source": "Mining.com",
@@ -142,6 +208,15 @@
    "tags": [
     "TARIFF",
     "CHINA"
+   ]
+  },
+  {
+   "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+   "source": "Al Jazeera",
+   "time": "2026-11-25T21:03:51Z",
+   "link": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -164,15 +239,6 @@
    ]
   },
   {
-   "title": "US Equity Indexes Mixed, Treasury Yields Drop as Investors Rotate Out of Chipmakers",
-   "source": "marketscreener.com",
-   "time": "2026-11-25T20:59:18Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeXAxQVo5WGRidzlqYkVLc0diaEFGcXdfS0QyVzhaQlF6Mnh5bnV3S1BEVUd3aV9zdGVsSnpPc3hoeUVVNFJDMHhzaHhYTmF6VDRnYVFWNFdXZmh3azhhSE5BakFmbkc0WkVsRkhCU2liSEdTQkxpWEFtQW1OVXl0amVSSXcwOWt0eG4wNFBEby1rNWMxMVMtc3c5S3ZfMWMwVEhzVnA5cGN0SVBiVEFmZVVSNmxkLVNuVzkwb0JRTGpXY3pTWmYtdDUyVWtlOXIw?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
    "title": "Fed policymakers at odds over causes of high inflation",
    "source": "Reuters",
    "time": "2026-11-25T20:50:24Z",
@@ -189,16 +255,6 @@
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdWRPR1oxenF5TmFkV01hRlZjZkQ4OUpHSlIwejBwblFsdWZKOU53UUlHY2x5bzdmY01HNUtrd2RqazMyZGhwWTBYbjJDVUJPNnlQdmpFRVJyRmlEdUxsekNuMGZyeEVkeXVhQ1NERVpLdHRjMWlUVTlnQ2xNM3ZncGNSSGJQOERjSjl5YlNuNXJITGEyT1BFcG1nNWc0RzhGcHU0UVJ4X2xNYTUxWkl5a215MVVHbXliVzRiblpBXzdlR0g4Z1Z2dl8wMjVuWGJJYjRBRFdNYzZHZ1k?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump proposing new tariffs on 14 partners including China and EU",
-   "source": "The Guardian",
-   "time": "2026-11-25T20:49:00Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzJkNEt0SmxFczJuc25uRFpYRjc1bDBVZ191T1p5TnFTbjRxeHA0QTk2TE1VM0FJMlI1ems4N1ItOGRFcHhma3ZLdEJKT01NSF9yVjFTaTc4SmlpQk5iSnRfdjRBZ2VCdDlLM0JEbFAtYkVjNXF1a0NqTG9OazJPaWFmamQ?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
    ]
   },
   {
@@ -424,6 +480,15 @@
    ]
   },
   {
+   "title": "More than 490,000 Russian soldiers have died in Ukraine war, leaked data suggests",
+   "source": "CBS News",
+   "time": "2026-11-25T19:28:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX3lvSVdFMDVEY25tVFFaY3R1SmRlMW5yU3hkemlnekJxVVJXR29DUWwybUUzY280XzRWOXB1S1VrTVpJdURyZERMRHZnaHduVjQ2U3g4b3YzNktjNktWbzZJNmNxUG9TZjJNLVBLcXp2TV9sVi1SdXBuMUx4V2lXd09mTG83T21YX1FyZGFCUU5FTEt0bVZVM09TVE4zcHVuNGdPLXRVWXBmaWFQU3Rv?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Fed survey shows continued growth and sticky inflation in recent weeks",
    "source": "Reuters",
    "time": "2026-11-25T19:19:43Z",
@@ -440,15 +505,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0RUlhd3owVnRzdzBDQjVlbDJxX0x2X3NKV3pnWkZxeUNVLXB5NzNIVjJuOUVoVHhDZnhBWVFMcnRyclBmY3B2UXlEYzhDX2NRVG9nMUN5dW45VXdG?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "North Korea expels Swiss diplomat in sanctions row",
-   "source": "BBC",
-   "time": "2026-11-25T19:19:06Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "SANCTIONS"
    ]
   },
   {
@@ -613,6 +669,16 @@
    ]
   },
   {
+   "title": "Australian Dollar rebounds despite hawkish Fed outlook and weak risk appetite",
+   "source": "FXStreet",
+   "time": "2026-11-25T18:13:25Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ0dVWFNhTmFNYk1mN280WWZxeGtCVjNmY3AxcmZYOUlnUHpQVm9DSE1LRHEtX2tOSjRYOFdZZ21RYV9pc3ZGZ0pDTlFUUklwcmkxdk04U2VnYkxCNTV4eTRwU2M5ejJuVEN0QWZlVnVNT2NDNmh5S0JXbFhtc2lZbXhBQVBvallrZWNnV05xR0tEUERhdWxiYjFJS2xNekF5dXJPLVROUWlLZjUwaHhsSlNYeDdnUmhpWWFuUg?oc=5",
+   "tags": [
+    "FED",
+    "USD"
+   ]
+  },
+  {
    "title": "How Democrats Could—Or Could Not—Impact Trump’s New Tariffs",
    "source": "Forbes",
    "time": "2026-11-25T18:10:00Z",
@@ -628,69 +694,6 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVG00MmZOc2RzdDByQXJEMmNXUlFBRnR3aDNpSnRWVWRpcDJnUEFJbWNEOW01eVRLcmoxMVFjRlFFaXRpaS0tS2g5TGV3WFJFU2tidnRBWnZnWHdZblJaQUptVEpUVXBFSmJpNVRLbEVFQ0tyRF9fNmlwVFRYU2JHNEJUZ0VkZzNKZEdGMTFDLV9hOUxpQ2RF?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Nvidia’s Billion-Dollar Board Bet: Who’s Protected as Lawsuits Mount?",
-   "source": "CNBC",
-   "time": "2026-11-25T18:02:45Z",
-   "link": "https://www.cnbc.com/2026/11/25/nvidias-billion-dollar-board-bet-whos-protected-as-lawsuits-mount.html",
-   "tags": [
-    "USD"
-   ]
-  },
-  {
-   "title": "Treasuries Rise Across Curve as AI Concerns Dent Risk Sentiment",
-   "source": "Bloomberg",
-   "time": "2026-11-25T18:01:07Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkMzT2xsNjR4clFHdHM1eG5kb3RVYWhhc0lsRldaNjJIaW1Ba2lOUXF1S2hMRUlSRWFLc25TSXoxc3RVbW15YWxQRTdvalNXWEl6bkdqMUlvN01FVFZvYXFCTDZyWklYaDBKY3dVUXhDOS1Hdi0wdFExbVRYRmd4RmlZNWJHZ0ZPcmJxWURsRWwzdWNqUDVoTkZpZUs2UGtpQjBFY2tXb1FiemNKMHFnSFpPRkw?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Trump's new tariff plan raises questions as inflation accelerates",
-   "source": "Fox Business",
-   "time": "2026-11-25T17:59:35Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jX0xrM2ZpM0hLZmVpcGx6cXk0X2VERDFnR2JSTE9hM1ZxZVQ1aEpvaWpxa3JFRkhlcFlVNnVLZXJwRzYwbzEtMzhsU2U0cU5wMEJhdkZjVnBULUE?oc=5",
-   "tags": [
-    "INFLATION",
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Bitcoin Falls Toward $57,000 as Hotter Inflation and Tariff Worries Sink Stocks",
-   "source": "Yahoo Finance",
-   "time": "2026-11-25T17:54:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQXzFLcGlUNmxOd0QzeUhGMV9LSk1OMDRrcGYxS2VxdXZFLXZDeV91NTJNa3JRRTVvQU1SSl81dWlYR2xrcVVjdjh3OFkyMzRKU3RXZnNuT2lOcVgzcHdVZWRGUUttTFVWMnNtYl9NelR5NG1RbEJPeGl5LWxfSXBvMGtrWUtfcjRManBuUXd4MzdvZWsxOGxn?oc=5",
-   "tags": [
-    "INFLATION",
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "India says it doesn't have structural excess capacity in any sector after US tariff determination",
-   "source": "Reuters",
-   "time": "2026-11-25T17:53:43Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUGx1cVBWMUZCcGQ5T1hqZDZqcmZmZlZhbm93VFRlc0JiMVhxNDBCNFVObHVrU0Vlems5ZmtyTmdTMzVrWVhzdXBMLXlaUTc4OFJIT1YyY1ZJSzgtU1J0a1BsYUFQQ2JYeGlIUEliWVBCM0tUR3F4UVRjTWRtb05HVlZST20tcHhGbU9hdHdPckN0Zno1alpfLUh4QjlmeDFsZ0FHd0dseFNmT2h0UGZQRUVfWlIzdFVwNWFZbmlqZ1dtTXdaanc?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Swiss government expects 15% tariff deal to be respected by US",
-   "source": "Reuters",
-   "time": "2026-11-25T17:51:43Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMUNPTTZacUx3SU9CVFByak5hcXZnNlpBa1FSQ0lkRFRlMUFSM042LXpmc3l3YTJHbnpObzdfWmhSTjVsNXJQcXNXYngwZmlQZXoxSE5XUTBCNHV1TVpFTF91SkoxS1pvamMzVk1pMTA1VDBCejFPLXVBZjVZZ3VvejBITTdUOEpfbkVCVm4xb01Zdlo1WDZSa1pfQUg3WTk3QUE?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Treasury Yields Rise After Huang Returns as Nvidia CEO; European Bond Yields Slip",
-   "source": "WSJ",
-   "time": "2026-11-25T17:41:35Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
-   "tags": [
-    "YIELDS"
    ]
   }
  ],
