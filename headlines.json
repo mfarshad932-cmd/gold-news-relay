@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T14:47:55Z",
+ "generatedAt": "2026-11-25T15:16:24Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -61,18 +61,18 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 51,
+   "items": 52,
    "kept": 2
   },
   "bbc_world": {
    "http": 200,
-   "items": 29,
+   "items": 28,
    "kept": 7
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -80,44 +80,52 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 22,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_fed": {
-   "http": 200,
-   "items": 26,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 48,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 41,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 16,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 16,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
-   "items": 7,
-   "kept": 7
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 4,
-   "kept": 4
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +133,36 @@
   }
  },
  "items": [
+  {
+   "title": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
+   "source": "MarketWatch",
+   "time": "2026-11-25T15:08:00Z",
+   "link": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
+   "tags": [
+    "FED",
+    "RATES",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "US announces new tariffs on host of countries including China",
+   "source": "BBC",
+   "time": "2026-11-25T14:52:22Z",
+   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+   "source": "BBC",
+   "time": "2026-11-25T14:46:41Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Nasdaq falls 3% at the open as AI rout intensifies",
    "source": "Reuters",
@@ -393,16 +431,6 @@
    ]
   },
   {
-   "title": "US announces new tariffs on host of countries including China",
-   "source": "BBC",
-   "time": "2026-11-25T13:49:47Z",
-   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
    "title": "Trump proposes new tariffs on China, Europe and other trade partners",
    "source": "The Washington Post",
    "time": "2026-11-25T13:48:13Z",
@@ -538,17 +566,6 @@
    "tags": [
     "TARIFF",
     "CHINA"
-   ]
-  },
-  {
-   "title": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
-   "source": "MarketWatch",
-   "time": "2026-11-25T13:34:00Z",
-   "link": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
    ]
   },
   {
@@ -689,16 +706,6 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGZ4TFg5REgyY0VnandHQjZIMFN1cnNBOEJVQTBDaU1IWDFLVUxmdHFTXzRLVnVKc3pHd3lTYk9lRHZBOWV1Skd5V0VzVU05ZDRjZXdZekl5cWFneWI2b3ptS09taEhjNzZIcGhuWVdydDk5cnpkcElkMUdTZkJjTjROT09sOG5adVUxNVpNeGp5UmxaaHl2bzh6TklXMlp2eVQyVW9idi1QV25LcnpIeFBjMEF4RzNNbkNIU3JOUlN6WWVqSjRtTlFZMA?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "The Fed is likely to raise rates in December. What it means for your holiday spending",
-   "source": "CNBC",
-   "time": "2026-11-25T13:15:01Z",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc0h0TTRUOFV1ZTFHUWNqN1NsaFprZ1g4MFpBQjlMbWtoSUhqOWdoZnVqd0JycGNhblNYQjFBR2VHNEZXWm54cW5DTllHM1dGZFB4V3FJZm9GQWZfOHBfdTRKelVsZUx0NFFKZERLbmpsUDhJYkdEMDdIWWxmdlFFTdIBhgFBVV95cUxNcUNWNGtHTEVhRzVaSy0yajdKRl9yQ1Q5Y1JqR0VMRE9hd19rUUIxdDBBWFQ1a3lMYlc2dkhwV0dmSUpWOXUzMi1vQXlEVjk2ZU9NMnFiN3RncThRWk9zT0ltNXdEZnlxMHpscXVhbGhCU1FuT3BUWTVZWG9Td0dxUklwazNndw?oc=5",
-   "tags": [
-    "FED",
-    "RATES"
    ]
   }
  ],
