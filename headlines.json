@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T11:01:04Z",
+ "generatedAt": "2026-11-25T11:29:30Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 11
+   "kept": 10
   },
   "whitehouse": {
    "http": 200,
@@ -81,44 +81,43 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 28,
+   "items": 21,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 20,
+   "items": 12,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 44,
+   "items": 46,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 31,
+   "items": 29,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 15,
+   "items": 17,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 11,
+   "kept": 11
   },
   "gn_oil": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
-   "http": 429,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 429"
+   "http": 200,
+   "items": 10,
+   "kept": 10
   },
   "fed_calendar": {
    "http": 200,
@@ -126,6 +125,80 @@
   }
  },
  "items": [
+  {
+   "title": "Watch China Hits Back at New Trump Tariff Prospects",
+   "source": "Bloomberg",
+   "time": "2026-11-25T11:25:38Z",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcmp3X01fSlJxLS0yN05mTDlzanRKLXVWNkRWYjdZSnBsYzRFQjZYVFZINy1qeFRuN1VVcE1ncDVUazJ4eEtfZ2VSdHlGOHhYNWJwM185Y0FIQi15ekVvNmlBUHpCYXVzYWt2cXRxalhoVHR0RVE4QjEwV242UWhMRQ?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "‘People are going hungry’: Guinea’s gold mining crackdown",
+   "source": "Al Jazeera",
+   "time": "2026-11-25T11:10:21Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/people-are-going-hungry-guineas-gold-mining-crackdown?traffic_source=rss",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Ukraine war briefing: Zelenskyy and Hungary PM hail new era of cooperation after Orbán",
+   "source": "The Guardian",
+   "time": "2026-11-25T11:06:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS0NGbmNYUlhldnlJSjJhb3pNbGdNSWswaDFERVZWanhxa2FLYmhxbGUtbHZVc1VWS2RCQnZQT2FmVjlUS3ZPY3ozbjYyOVFHNEdXalh2bXZBR1diNUNEbUZCV1E4bUpRaER0MVpWRXlRdjlERmdjUXNmbEk4MV9yeFhMVi12NUFCM2FFR0RDdWp3a0Z4d195VXpoN0JveVV1VExFMWxBT0RWZjBacjNRNXVXMzJpb2xXVkw2QWUycnd1TElCOUVMbFVpcw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Begun, the Medicare for All war has",
+   "source": "Politico",
+   "time": "2026-11-25T11:03:48Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVmM1NDVCbG1HVy1ra003Z1RCeVBFTG00Y3NpQm5KZzZXbzZYTEFsbUYzbUJJVkZranc2eXhKSVUtV0tWU1pMUHdTRDNaTmxTNVJWSWVkblkyQ1FMcmFYX05nWmp3RTZOUjJUdmdfNFlVSUk3czZPb2pYVkR2YVlzMUZvR1pnX3dJNlU2Q2xGNWNuX2hYT0pOMllncG93XzNVTHc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Copper Slumps Amid AI Roller Coaster But Physical Supply Remains Tight",
+   "source": "WSJ",
+   "time": "2026-11-25T11:03:00Z",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXJXdFVUTFZpNnl3SlJWbU9iV0ZaOGh1QUVUR1o5WjYtOXhwb3M1NUROaFFTb3NpOUJRZ1ROZ2Y0NlVlOWhwb0htcUY3SV9hYlRmZnMxT2Rnc21UMUlmazQwZk50TF9SY0U2enpKTzQ1a1hwbTY2aGlLbmM3Z0xkODBrQWg1YVdSREgtMjRKR1JHUk1RN3hrZjEwNmZpUk5EZktvRFVNdklzVzl5R0x0Mlh4Q3k2UmoxY203SFU3R1kwWDBQUnc?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Fed policymakers at odds over causes of high inflation",
+   "source": "Reuters",
+   "time": "2026-11-25T11:02:09Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Vtdjdia2xUaVF5bWxRSVlPUTZjc1JmWG9Uam1QSHpNcXZuREdQVmRyX2hkNEtMbWhFd1VFb3l6QVJGYkJHZlZXUDJLVlM4cDdDR0RSVTRPMmZaUHAtMlhtSDlQeFF4UGJadUhrQmhlaWlJT1cwSG9IRnF1cC1COEtKdTBsUWVsXzhkYWhUWHNKTjJsUVJuNw?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "THC hemp, Iran war funding and defense spending threaten shutdown deal",
+   "source": "The Hill",
+   "time": "2026-11-25T11:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR3V1NUU5T0JVMk9rVHJSM3NDRS1VTXdpaGM3bno3bGM0M3pxUHFfbFd2Z1pQV2tJQzV6YzVJcV9XZy1BWngxdWZDR3FZa3VxUWJOTmM3bmR3RFhhSlh3S09uWkJHcExPbDVKYk16emxnLWxMZ1JneGQwOW1mQXNtVE1FcC1xZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Who is Chen Jining, China’s latest Politburo member under investigation?",
+   "source": "Al Jazeera",
+   "time": "2026-11-25T10:50:26Z",
+   "link": "https://www.aljazeera.com/news/2026/11/25/who-is-chen-jining-chinas-latest-politburo-member-under-investigation?traffic_source=rss",
+   "tags": [
+    "CHINA"
+   ]
+  },
   {
    "title": "Amnesty calls for independent war crimes probe into Ethiopian shelling in Tigray",
    "source": "The Washington Post",
@@ -231,6 +304,15 @@
    ]
   },
   {
+   "title": "Europe Is Beating Asia in Fight for Gas Supply Disrupted by War",
+   "source": "Bloomberg",
+   "time": "2026-11-25T10:11:43Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT0FwQmRzNUdWRDZBR3VHZ3ZUTDNqRG9MV2pyek4xSzRCLUNpUDkzWmpmekU5Z3loaWdmbDRvNWVTRFVKcFZXZkFXSEhmRU93SE1VNnA1NW5NSFUtZEVIN1JEQm96TVlNVllkWWhwY05mRW1sNUVQTXlKZ1dxMjJqRVBoSjhYajdTT1g1U3Q1Zzdoc0VTVlhUSHdjNTJ5ZUdINnpOX08tdVVjdzAyVS1PS2F4ODI?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Iran rations electricity: How deeply are US sanctions, blockade biting?",
    "source": "Al Jazeera",
    "time": "2026-11-25T10:05:47Z",
@@ -238,6 +320,15 @@
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Two Libyan soldiers die after Ukraine attack on Russian vessel",
+   "source": "Al Jazeera",
+   "time": "2026-11-25T10:05:46Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGhHeGt2MndaSlZ2Nzd2Wjk1T3BLWG1zUThOcngwLXBKWUlqVE5mTWVJa1FyLVk3U21nUE1hSzQ3dVR1MkFlc1k5Y0czZmUtVkhNU0g5YkhFd2RfdGZaTFFsV0JhRkZSdzgzVi1WTzlSWVZhLURsbTV1RWwxd3d3NFR5Vno1M09ER0tLbDhTbGQ0dlc2SUVreGNtdVVlZHVFQmw2TEJROA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -267,15 +358,6 @@
     "FED",
     "RATES",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Two Libyan soldiers die after Ukraine attack on Russian vessel",
-   "source": "Al Jazeera",
-   "time": "2026-11-25T09:58:02Z",
-   "link": "https://www.aljazeera.com/news/2026/11/25/two-libyan-soldiers-die-after-ukraine-attack-on-russian-vessel?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -344,7 +426,7 @@
    ]
   },
   {
-   "title": "US core PCE inflation set to heat up in October, prompting Federal Reserve rate hikes in 2027",
+   "title": "US core PCE inflation set to rise in October as markets weigh further Fed rate hikes",
    "source": "FXStreet",
    "time": "2026-11-25T09:30:00Z",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQUZzWXlBNFZYYlJKZzB0Sk50eDNkVDl4cGowSFlianpHVzc5d1RTc25hQzAxNFNwX3VablB3c0tmZEhkNkxvSC1pS2JsaDRvMkJMUlY4N3ZvSEF6UkcwSnZsZTM2VUxNQ2IxdGRNSGNydTJ4LVpSTFluTFZVcEZ0MVlpRnltaE94MmsxLUtxZk9RRDNpVTkwSnZtQWZ3bzI3WVYzQks2T2FkbHctbjBGcm5JR3FQendHTDNYQ2tIUC1SQTBfWUxkWGZOZFVzT2Ex?oc=5",
@@ -604,90 +686,6 @@
    "time": "2026-11-25T08:12:20Z",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EUGNOTjYwbXRuclRmNWxzSTFmQWxuWnBfSkVVeDVQcWtpTVVETDZZNzlwajJEQUcyaWNJR0NuSUNOZF9uTzB1ZDdPV0tKNTZIMGNNS0loaTNpc2doV0liNU1JNW92ZGs?oc=5",
    "tags": []
-  },
-  {
-   "title": "Rescuers search for dozens trapped in flooded Indonesia gold mine",
-   "source": "Al Jazeera",
-   "time": "2026-11-25T08:08:57Z",
-   "link": "https://www.aljazeera.com/news/2026/11/25/rescuers-search-for-dozens-trapped-in-flooded-indonesia-gold-mine?traffic_source=rss",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Metals Rout Deepens as AI, Fed Worries Fuel Bearish Sentiment",
-   "source": "Bloomberg",
-   "time": "2026-11-25T08:06:37Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMEFPMjRtRGNYTHFHT2tCdjF2SHBMU3Awb3l5Y1EzajhoTmx3bGtZbldfZVdRZzNPYnBocUhiY0laOFRGUFhZb1dWR1NudER3dnU2R3Q3TnU5MFU2bVI4YTh2ZkgtTHZrakNBZUp5dWFOM1NSeTI0TlVZV3pUcEdWbGN6ZWg4ajduRjJoRjBaOVJZLXpYckJIVnE3eTRfTDVUaUtSd29aWEpTRGdEUmQ5bURYMA?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Donald Trump says Iran war funding lasts through January as Democratic Congress nears",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-25T08:06:05Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfMGJNQzhRMS1Vb0xuUzF3aUNOV1llZzlqdUxyaUp0RFZtRWNBNVdtci0xWmtwTHhqS1NNZ0R0dnE3Q1QtUFA0VmJ4YnFCWGZHRWR6TUZNcnVkZ2RIYmd0aDFTaXVGTllQdUE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "LIVE – Crypto News Today: Bitcoin Hit by Trump Tariff Threat and US Treasury Cyberattack as IBIT Bleeds Billions",
-   "source": "Yahoo Finance",
-   "time": "2026-11-25T08:05:23Z",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZGNEaTV3SmVQWUZtVTNMcVJuVjV3RHlSbzQzaUlYbHdmRkVGZXU4Uzg4WUtjV01sRWVJZjVpSVh2aGF6U09CSThJVlh5ZlpIaFN2LXlhRV9KVll3R2RLdU9nQ2dFdlFIaDAxNUl1NjhGd1BkU1ZzdmhWZ0RNenNVZzJEeE9ZSHcxYm1GaExxbGhuNmRKeDBibTd0dw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Key facts: Mattel margin up on tariff refunds; Hot Wheels nears $2B",
-   "source": "TradingView",
-   "time": "2026-11-25T08:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV2lrcnN5c1I0SzdfRGY1dGNndTNjaE1SdjlldnI0Sks2MTZOODItQTlfSGFWWldZSUhqTl9oelc1VTVISTBvcWJWT2pCTEhSMG05bFZlM0J1bmQ2ZFRDMHdaS2RFdl9HS19lTzFjV2kxMmNOeGVsTGUzSzAyck1KTmdBNms3S3QxNEJiTVRDTU1oVDVKb2E1WHJELS1MZ05pRV9yU0h1eXFSNW5iZHY1RDg5emI4dWFIZ2Y4OGN0QklRd04y?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Europe Is Beating Asia in Fight for Gas Supply Disrupted by War",
-   "source": "Bloomberg.com",
-   "time": "2026-11-25T08:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT0FwQmRzNUdWRDZBR3VHZ3ZUTDNqRG9MV2pyek4xSzRCLUNpUDkzWmpmekU5Z3loaWdmbDRvNWVTRFVKcFZXZkFXSEhmRU93SE1VNnA1NW5NSFUtZEVIN1JEQm96TVlNVllkWWhwY05mRW1sNUVQTXlKZ1dxMjJqRVBoSjhYajdTT1g1U3Q1Zzdoc0VTVlhUSHdjNTJ5ZUdINnpOX08tdVVjdzAyVS1PS2F4ODI?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "China Dismisses US Tariff Prospect as ‘Political Maneuvering’",
-   "source": "Bloomberg",
-   "time": "2026-11-25T07:57:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV21zVHR2VllFczhLbnJxVzl5UnczbEZJSGRDM0xlY1BqUnpXcXNQSnplVU9LOVk4Y25uY3JiaVd3ZUlHdEw5eXlLUzZQak9iQ0hJRUE5SVhUT1hqQUVMc2FRTWY1LVlkRjIyU0drU09Ya25WenhjcGFrRWJ1enNobkwzUFBBbkZTMmFDdmVtTmxHV3BjdUY4VGNzVFRaYTBjQl95MGdDYUtWU1hfQXh3?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Treasury yields fall as investors await key inflation signal",
-   "source": "CNBC",
-   "time": "2026-11-25T07:44:24Z",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FRFlwZF9FMHIyY3J2Y25STC10T25DTG9zTWFKcVNYOXdtM21rLVNZTXRoTWVqYUVWUEE5RFpURWVUd1kyanJHNWJzaXRmTkJHMFZGTWV0U3RSdVpyc0h5NGEyQkEtS1RlZ2NUQWtHbFBVTUtucjJJ0gF8QVVfeXFMTThoU0xMTXQ1NFpvaUc1WHhNV3ExRTFFV05BWUUtTzk3SzBtUjZxSXJLeXhOZDB6aDJHMzlDQ0gzT0RETnJDRlpEeW1SNFl1MEk1dXhBYllVdWNTOTVzbF9IaHFGNzhJZ0l6WVVDLWxPQjhSMkozQm1JNWxRbw?oc=5",
-   "tags": [
-    "YIELDS",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "U.S. Treasury Yields Fall Ahead of PCE Inflation Data",
-   "source": "www.marketscreener.com",
-   "time": "2026-11-25T07:44:01Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOHpDOVNTQmVFMnVqMU93TlNZdTViTGdNNzc3WDhNc3B6YmMyTkswLUdKYlc3cVBQRGprX25JUmNHQjllOW5pcHhyLUJFeG9tVEFQNjVteTg5N2Q0TThmeW5MaG5nT3NKTTROQ09ZRVFNREF5NnlndWczdG9IWkcyNTNOUG94emY1bFA0di1BX3dnSmE0aC1GR0t4Z2hqcUEySzZKRVdLNV8?oc=5",
-   "tags": [
-    "YIELDS",
-    "INFLATION"
-   ]
   }
  ],
  "fedCalendar": [
