@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T15:44:56Z",
+ "generatedAt": "2026-11-25T16:14:10Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -52,16 +52,16 @@
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 2
+   "kept": 1
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
-   "items": 52,
+   "items": 53,
    "kept": 2
   },
   "bbc_world": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 23,
+   "items": 22,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 24,
+   "items": 17,
    "kept": 12
   },
   "gn_tariff": {
@@ -96,17 +96,17 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 30,
+   "items": 38,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 12,
+   "items": 15,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 19,
+   "items": 20,
    "kept": 12
   },
   "gn_oil": {
@@ -126,11 +126,78 @@
  },
  "items": [
   {
+   "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+   "source": "CNBC",
+   "time": "2026-11-25T16:02:52Z",
+   "link": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Jerusalem Daily: Israel kills Hamas’s Gaza security chief",
+   "source": "Al Jazeera",
+   "time": "2026-11-25T16:02:22Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/jerusalem-daily-israel-kills-hamass-gaza-security-chief?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources say",
+   "source": "CNBC",
+   "time": "2026-11-25T16:00:45Z",
+   "link": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
+   "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-11-25T15:51:45Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY210dTdFaWtFVERHS2RtcUd5bzRHUDN5TzN2aW02LXdIMUxNQXdxR3VCOFJHU0NJRWpxODBHTW4zWlpTYl9kMW9manAyX3o4N1Q2SGo2NWhIQThXak85Rkg0QlZJSy03T21ORHFPUjdsdW1BQUo0b0F3ZVJ2NEdWMHp4aXVzeUlXUTFUemtOTXZjamhxM280Vk43WHR5VWR1Y0Vra1FSVmdwZw?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "EU rejects Trump’s case for new tariffs",
+   "source": "POLITICO.eu",
+   "time": "2026-11-25T15:48:00Z",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0NzNlBzMUIwSF9DRHR2NVdMVjlrak55aUFFcHg1bDQyeGlsQkR1X0RtZ3VCX296ODZPZEpXVERjT0ZNX1R0M2ZxXzNEc1RXRDIyU3J3UURfLUtzVVJnSTBQNktjQ0NTenRyaFQ0Umh2bFAzRUNOQjdBYVVuN05xeG4xdw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "GCC Sukuk Market Faces Higher Funding Costs Despite Improving Credit Quality: Fitch",
    "source": "Forbes Middle East",
    "time": "2026-11-25T15:37:46Z",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWkwzRFE4eG9kckdQRnI5aFFBNFhINkJ4UjN0a18xbWRlV3BqY24yTzQ3YTJyeTV0bXZualBlbEgyRktMVkwxMWNoNkZHTXhPVTE1bVlQUVlRdW4tVk5ETFdzR29QUDFCMHczTEx2TV9FcF9kbDNvSUNzdkpJNUZ0UkhLT1dNNGl4NjE5STlXcE5uaXhDUmNtS1k2OURQdXRaUi1wQ0xHeTJvY3NpNmpqQ0NGSVpsT2F6bEE?oc=5",
    "tags": []
+  },
+  {
+   "title": "Crude Oil Inventories Fall Short of Forecast, Indicating Strong Demand",
+   "source": "Investing.com",
+   "time": "2026-11-25T15:32:07Z",
+   "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-fall-short-of-forecast-indicating-strong-demand-93CH-5051144",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Trump is sabotaging his own Iran sanctions strategy",
+   "source": "The Hill",
+   "time": "2026-11-25T15:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmlselUxeXU2RFZOcXdkdWxVRzF5UlNobGxab3RrWVZILTJLZlpGZmprVHNfZmd1QU9landIVGFJTUUzdWowQ1puMDRoa2FYbi1rZnJIYVdvVlgyMlVlQno3NUs5cV8tVEd1MmxqeENDc0hnZmhKYllCZ0pQYVNyY2ZOU3U2c095LTBuVXN1a1Rac3EwOERZUGlRc2pkRGpnS3lFQUNWalpzY0E2RTRrX3BmSdIBswFBVV95cUxQZmlselUxeXU2RFZOcXdkdWxVRzF5UlNobGxab3RrWVZILTJLZlpGZmprVHNfZmd1QU9landIVGFJTUUzdWowQ1puMDRoa2FYbi1rZnJIYVdvVlgyMlVlQno3NUs5cV8tVEd1MmxqeENDc0hnZmhKYllCZ0pQYVNyY2ZOU3U2c095LTBuVXN1a1Rac3EwOERZUGlRc2pkRGpnS3lFQUNWalpzY0E2RTRrX3BmSQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
   },
   {
    "title": "Trump admin proposes new tariffs on China, EU and 12 other trading partners",
@@ -244,6 +311,25 @@
    ]
   },
   {
+   "title": "Trump admin to raise tariffs on China, EU, other trading partners",
+   "source": "Fox Business",
+   "time": "2026-11-25T14:55:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWV1V002ek84RTJlM1VGOTVwOUJNSkNrNW1JSkNwV3R1MkFZQ0ZROXhpWUt4b0U5R2VvTTNGTmJYY2JSU3FtUE1ISDJpNkZoem1iS2lURmdqN0YxOWJMSDhFZUhtNlhfdkJlbEloWnpjQ1lUUnREY0haa0hHMW1RTXJiQ1BtbTA0Zk5fYjZnLS1CN1Z3d1VCUHd1Vnd3Sk5kTGNDd1JyUGFDWmc5SkHSAbMBQVVfeXFMT3dOdnNRMlRsVHpBZkM0NFdkTjFpUTJEVHJOQkgtdWZLZmhYS3FHRDZDM3pxNnFtUEdtRS1kWGNhYVlKNkpCTmlQR1ExRDJtOFk1STMyT0lnT1NzM3B0Zl9Rd0ZPZVpSNi1LVUx6eXpsV2h3cVdYVUxwRXFLSXBFdVRtMS14dk85Z1Y5aTJDRDhKa21HOXhWaElwcnlHVDhtQUswOVpGNGF5b1VHb3RlYzZ0Mlk?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Trump announces new trade tariffs: Which countries are affected?",
+   "source": "Al Jazeera",
+   "time": "2026-11-25T14:54:44Z",
+   "link": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "US new tariff: List of countries - China, European Union, Japan and oda countries wey dey affected by Trump fresh tariff",
    "source": "BBC",
    "time": "2026-11-25T14:54:05Z",
@@ -310,6 +396,24 @@
    ]
   },
   {
+   "title": "U.S. inflation rises 3.8% year-on-year in October, PCE index shows",
+   "source": "Investing.com",
+   "time": "2026-11-25T14:44:36Z",
+   "link": "https://www.investing.com/news/economic-indicators/us-inflation-rises-38-yearonyear-in-october-pce-index-shows-5050799",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "US proposes new tariffs on 14 major trading partners, the EU included",
+   "source": "Yahoo Finance UK",
+   "time": "2026-11-25T14:42:07Z",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0tKZkxCSWxyd280Y01zNjdLN241amRBejNsMzZ6NG1lNTMyZkpkeW9sbzdQMjJwb2dBajVSSzNMLU1icnRILTBCdnJMLU02RmYxNjlNdFdrOEg2TUpYdkJuX25Cdng5ZDE4VkVPNm9EY2NKUy1ZWUxmLXprVjdkUUEyaw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Trump administration to introduce new tariffs on China, EU and other major trading partners",
    "source": "CBS News",
    "time": "2026-11-25T14:39:46Z",
@@ -326,6 +430,16 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "US unveils proposed tariffs on major partners, including EU and China",
+   "source": "Yahoo Finance UK",
+   "time": "2026-11-25T14:37:23Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlpFeml4blFGWUtDYjF6NTZ6V2VWWTVQdm1PbkczdUQwY21lWDRjYTNOZzNHQTlRZGVyNE55MzlGYkRhbXVjaXdOVHF4amNUQVZCWE1EVXNxeE9wLUVsdHJxOG4yU3Z1OVBValF6NmtNS0RmS3NQTXlOM19XWjlRUVBRV2FTb1FScnc?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
    ]
   },
   {
@@ -361,6 +475,16 @@
    "time": "2026-11-25T14:29:00Z",
    "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
    "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "US Targets China, EU With New Tariffs Citing Overcapacity",
+   "source": "Bloomberg.com",
+   "time": "2026-11-25T14:24:59Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWM5Vm8yZ0dtNTRyRFIxYjc0R3ZZMEwxeGNsT0dUWXV6STNtU2VXN0tkY1ROZHdWVkpwWHF3NXpQMk16SS1TU2VwVUJSSUtpek9FcHVmNE80eTBjNzFqdHVIa2NHSUp1WHBXRWZDMEFKUHJfNVB5cHZGT0JCUng0cktmRXowWVd4T0JyZ1RzQW5ubTk0OUZHSE11aDE0SkJjZENuelpNOGExSXMyc2dDNDNB?oc=5",
+   "tags": [
+    "TARIFF",
     "CHINA"
    ]
   },
@@ -539,15 +663,6 @@
    ]
   },
   {
-   "title": "U.S. inflation rises 3.8% year-on-year in October, PCE index shows",
-   "source": "Investing.com",
-   "time": "2026-11-25T14:00:53Z",
-   "link": "https://www.investing.com/news/economic-indicators/us-inflation-rises-38-yearonyear-in-october-pce-index-shows-5050799",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
    "title": "Big Oil and Big Tech Lobby EU for Faster Gas-Fired Data Center Permits",
    "source": "Crude Oil Prices Today | OilPrice.com",
    "time": "2026-11-25T14:00:00Z",
@@ -573,122 +688,6 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ3RIRkczTW8zZXlZNGZsOHlqT2ZKVlRNZm5IZEdYSUhmMnN4T0dwXzYzV3VjOUZpXzhFY09hOE1HTzhfMjVJR2IzM2w4eEd4TGRaMDJURGtmSzlYbDBVR1QxTEdSOEphWUlDamNWWF9DR3ZCdGNnYlhQVmlpZGpLSG5LX25ISEE5UG9BMElxNW9XbTQ?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump's China tariff math: 20%, times two if talks go sour (DIA:NYSEARCA)",
-   "source": "Seeking Alpha",
-   "time": "2026-11-25T13:59:04Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU1NuVXdrQS1GMUZhQVNLMWUxU0d0NlJLQ3lCNU9FQnJnNl9RbW9wTUxSWmpIdC1vQlNUQnFoNVd3Ukk0UHlxa2R5Mm95Zm0xcGVpazlpclQxR1ZwdVJRM3JzV1U5Z2w5cVhHYm1TQS1IR0JGajh4ck54TDJVRENsOVlmQmNYU2Q5MHA5dFptTkJGMlhKaHFn?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
-   "source": "CNBC",
-   "time": "2026-11-25T13:58:38Z",
-   "link": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "More than 700,000 Russian soldiers have been killed in the Ukraine war, new estimate suggests",
-   "source": "NBC News",
-   "time": "2026-11-25T13:54:15Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGNmcUJzRjV4UVpZYkV4dzdCR25rZ3pLODVLbEJ1eVh2aVM3QU5YTkM4TFptTmNLQzI0cTJwdEZfeHk1TXhkWTYxVXFHU2lTTEZwaDgyRk1pNkJtTEYyVFpndU9BVWFZb3ZvV3hrUmhTbkRUM1k2SVlzbkoyd3JGRVBsdzhTaFc4MHdYVlFJaUF4c252bGxtTnE2SWJXMkoweHZ0WUU0MGFnYzhSTkF2ZVl3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US inflation rises further in October",
-   "source": "Reuters",
-   "time": "2026-11-25T13:53:02Z",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalBrRjhRWHdhRDduMzduLU1kN1lGVFpzNFllX0RzdjJXMjdtajRZS1l1dms2MFJFbkhJQmx3Qzgydi1nTTJnQ1JPLUtoa1R5LWZjWjItUXJhXzhoZG51NU9ENzVBQjVSZWFpdHlqbV9PSkVncWtjUlptdXhjd0ZKRXZ6d2Y1dw?oc=5",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Gold prices drop another 1% as US Q3 GDP revised to 4.3% with contained PCE inflation",
-   "source": "Kitco",
-   "time": "2026-11-25T13:51:16Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWmZFZ1UwZHIyQTFQTTdpSUYzWjFQUElSajVhaXRrZkFzckFGY1N1SURYTjZERzM2d3VBZmpSY0FBN3Vzekl1MEhiNVFxVVIxZG8tXzNSbzdaT0h6dUVTUF9ZQ0V2aEpCcDFaaEdOb3F0T1dSVG9Nd1BSclNETTNndEEyTzBDODZDLVdhMGJBczRrY1BBSkFieGdka0tVTVZMRzcwRVZKNGFQXzdtQUt6Y1MzSlBjM2k3?oc=5",
-   "tags": [
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners",
-   "source": "NBC News",
-   "time": "2026-11-25T13:48:00Z",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEhIWkhHU2FmSW5HZm1STUdfNlgzRWF6TXR1Njc2cDZ5SXF0RmVSY2NyS2tIQmJxWHlTZTJxVTg1bmI5YzcxemluVXFFdVZEUW1xUHZuTXhQN2ZaTjVtMzl0bEdwcGFNTFR5aU0wLTY3cDVJbnpXMjVQVWItMUoyOGVQakp1OHpocUlJWmc3ZWxZM1NHUWFiT2NsMXA2TXM?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "USTR GREER Q&A/CNBC: USA OPPOSED TO CANADA'S PROPOSED TARIFF EXEMPTIONS FOR CHINA STEEL, ALUMINUM; BALANCING NAT'L SECURITY, ECONOMY RE NVIDIA",
-   "source": "TradingView",
-   "time": "2026-11-25T13:48:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOUzltMUVuZGx3Ry1pellTMlFSaWthVnQ5ZFhrTWFFREg2c0xvSk50T0lZM294UFFlNFNONWQ4QXhGd1RxTXlsNG9EZDNxN1NKdTVaRU5naUFCVnBSZmpxRFVMRmxvN2tvYmR3RHZnVHVVbk9vcnBSMXQ1ZmwyQ0VIRDYxSlQyWkJpSTAzQ3k0VHZxSHlnVnZ6LWVybTUxSnZKY0hIc21YSVA0VWN3NEdnLVVSNTloc2tFZGMwX3ZXTFAzQ2FDRGNsQVlxNmIzMkxPZW9OVlBfWXNPVk9VYklEclgtRWUyTzJEVzFlbjRSQUh1ZGxhZUQwbXl1b2xvX3BXeUlpMEtfSnl0bkJWZU5JZVE2eXBsSkw5b2tYamtrcFBiMGM?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "PCE Inflation Rises to 3.8% as Stocks, Gold and Silver Weaken",
-   "source": "FXEmpire",
-   "time": "2026-11-25T13:46:56Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdmlzQWFUTkt4SXk0RTNNSzdudnc0X0stelRZTVhSZ0Y0SFRpLVJDU1h4TUJuOHpDWVYySUx0ZzhxWi1ITHFEdXpfRjk5c09UaXpySXhDT3ljT2g1SXU2RGtsb2pFblVJOVpFNENHNUFiekFURFpic0RmRUJCREltcUsxM1Jtcmp6eWpTVzJQaDBxM1pReDdtUFZ4UnBvQ1ZYUXlhcTlBaHlxd3BfV2lZ?oc=5",
-   "tags": [
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Watch Tech Selloff Pesists Ahead of PCE; US Prepares Tariff Hikes",
-   "source": "Bloomberg",
-   "time": "2026-11-25T13:45:06Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVXBEaktTLWN6NG05Wm9veG8tSGNhanV2cEpleDJMRjM2TDdlZVJOZkVEd0NTZ3lMR2JDM3A0c05md2xud3ZLX21FdXd1dDBxSFlRZy05Qmt2clBWYUlaRi1UaHdkYk1icmpDVEkyNnVtQmZUMUswblViRjJxLWxQYUR6anYtS1dJ?oc=5",
-   "tags": [
-    "INFLATION",
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold Tests $3,550 as Tech Stocks Fall and Investors Turn Their Attention to US PCE",
-   "source": "Investing.com",
-   "time": "2026-11-25T13:43:43Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVzJnSVZSM0x3T0YzcWl1QVV3ZHBTX0xMZWNrdEFRRlIyM094NXhlQmVRb0M1VDlxRmpIbDlrcjNzMVZiRzNPRGJfcWNTU1N1MnJmVkxjS3JxMnpoeTdXbEtjYXYxSi0xZGw4T2pweW5QS2VzU0puLWFSdWxrWGZId1c5R0k4andwMEV4YS12czlvOWJQU1lGVC1OYl9aZndDOGlSV09ZOW0zSFJFTXZiMUdzSjJDTmFmUjVoaHJ3N0hKUVU?oc=5",
-   "tags": [
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Fed’s preferred inflation metric rose in October as final 2026 rate meeting nears",
-   "source": "The Hill",
-   "time": "2026-11-25T13:41:00Z",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zU1FaUXkzR3EycDZWWmhkQTJObGZVM05LRnk0dTVMVkI4VWdnOUZPOG05REdUaVYtcmlfWWpzeHp5WXpnMTloVEZiMUtrNTItWUhsblhrcHNOVEpfejJUbjNBbGNYMjZCb2tmYVR0ek9oZ9IBd0FVX3lxTE80US04UWpZdEVnYnJEYXVzcTd2YmVTUDlOeTN2ekhmaTBtbDFiU3RtbjZWc1ZDaWdPMVBOdVdNUTVieE02aFBpbWNXSjRCTVVOUHgxSUJzYnU1aC04cnlVOUhqSWxCVW1RMFlTSXNvUWo5cGZycG5J?oc=5",
-   "tags": [
-    "FED",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Breaking: US core PCE inflation rises to 3.3% YoY in October vs 3.2% expected",
-   "source": "FXStreet",
-   "time": "2026-11-25T13:40:27Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQUZzWXlBNFZYYlJKZzB0Sk50eDNkVDl4cGowSFlianpHVzc5d1RTc25hQzAxNFNwX3VablB3c0tmZEhkNkxvSC1pS2JsaDRvMkJMUlY4N3ZvSEF6UkcwSnZsZTM2VUxNQ2IxdGRNSGNydTJ4LVpSTFluTFZVcEZ0MVlpRnltaE94MmsxLUtxZk9RRDNpVTkwSnZtQWZ3bzI3WVYzQks2T2FkbHctbjBGcm5JR3FQendHTDNYQ2tIUC1SQTBfWUxkWGZOZFVzT2Ex?oc=5",
-   "tags": [
-    "INFLATION"
    ]
   }
  ],
