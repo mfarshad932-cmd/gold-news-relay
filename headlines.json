@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T09:14:43Z",
+ "generatedAt": "2026-11-26T09:43:03Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 8
+   "kept": 9
   },
   "investing_news": {
    "http": 200,
@@ -61,7 +61,7 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 50,
+   "items": 51,
    "kept": 4
   },
   "bbc_world": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 11
+   "kept": 12
   },
   "whitehouse": {
    "http": 200,
@@ -86,12 +86,12 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 26,
+   "items": 22,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 55,
+   "items": 56,
    "kept": 12
   },
   "gn_war": {
@@ -101,8 +101,8 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 9,
+   "kept": 9
   },
   "gn_yields": {
    "http": 200,
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,10 +126,28 @@
  },
  "items": [
   {
+   "title": "Israeli attacks on Gaza kill senior education official, seven other people",
+   "source": "Al Jazeera",
+   "time": "2026-11-26T09:00:06Z",
+   "link": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Oil Extends Rally as Copper Rebounds",
+   "source": "Investing.com",
+   "time": "2026-11-26T08:56:00Z",
+   "link": "https://www.investing.com/analysis/oil-extends-rally-as-copper-rebounds-200692378",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
    "title": "EM assets climb as investors shrug off US tariff threat",
-   "source": "TradingView",
-   "time": "2026-11-26T08:53:49Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX1ZGUy1Vb0VfNE5iRXhadnZNSlljZ1UyR050bjloeWNVTUlZck1pNEt1c3VJQ2pqd3JlblR4MHI3T2VHYmYtT1BvRm1EQWh5NXJjVzlXNTc2R3ppa0lwcXlVbFZ0QUdPdnZ4ajZESExva2YwcFRnakNUMWp1Zk11ZVFlSXp1OHYzN2RjcmJwTkZkbndCeWNOVzNlcE92bVZkOFJDUHA1SUJIMXRZV2FBa3o1bWF3bnJyVmZHVmk5bFZpSzA?oc=5",
+   "source": "marketscreener.com",
+   "time": "2026-11-26T08:54:29Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcFJVaHJzQy1hUGxXTDMzVG1HdGZiYkxxMVFMWHpQeEZxY0gxamhjUFhEdktxaUxtT2lsTWR0czFVU1JRS1A4WHJ0WnA2TUFJWENCczFBTTJ5bWNVc3lpTDJTYVpqRklEdG1jLUlRRG03bVBjbEdSUkhsenhlZC1WZmdLNExxcVNRSDZYNzNQQ3pKRUF2Qm90QmtuVlpROVhlYTJ1TTZhWlFOeDBM?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -161,6 +179,15 @@
    "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "How Silicon Valley became central to Israel’s war on Palestinians",
+   "source": "Al Jazeera",
+   "time": "2026-11-26T08:42:24Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2RsUEN1V1RwM21nY2ppVzZLajhYT25pZXM0VEFtU1NfRmVoalZLVW0xeFJ0OHRWM1pPVTNaRzB1LUtzbTB3dEkzZUh4SXJUb0RPWkRhVmM5TDhMc091Z2FHUk9jM2ZGNFd5LV85OWhVUHd4SlFNMndvWHp3NkxFOTNjdURUNEtIU0JSUkpIV3VNWmFjNXNZ0gGcAUFVX3lxTE9RQ1FaVXlMblA0TGc1Tkd1RkdjYmZXLTNYanJLdzB1WXp3ZHRJUEg0by1XbDVBR3N1Zy1nVVg5VmkxTWRTR05sV3FUZG9HeDFnZkduYjF5M1JpN2NmbnFsZlhjQ25HdjJwZVlsU2FSci11UVdRel9lbnVqUldrQUJqci02c0xZMmtPSmU4dGhxdVFfSHp4cVNkZHE4Xw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -295,12 +322,12 @@
    ]
   },
   {
-   "title": "How Silicon Valley became central to Israel’s war on Palestinians",
-   "source": "Al Jazeera",
-   "time": "2026-11-26T07:48:19Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2RsUEN1V1RwM21nY2ppVzZLajhYT25pZXM0VEFtU1NfRmVoalZLVW0xeFJ0OHRWM1pPVTNaRzB1LUtzbTB3dEkzZUh4SXJUb0RPWkRhVmM5TDhMc091Z2FHUk9jM2ZGNFd5LV85OWhVUHd4SlFNMndvWHp3NkxFOTNjdURUNEtIU0JSUkpIV3VNWmFjNXNZ0gGcAUFVX3lxTE9RQ1FaVXlMblA0TGc1Tkd1RkdjYmZXLTNYanJLdzB1WXp3ZHRJUEg0by1XbDVBR3N1Zy1nVVg5VmkxTWRTR05sV3FUZG9HeDFnZkduYjF5M1JpN2NmbnFsZlhjQ25HdjJwZVlsU2FSci11UVdRel9lbnVqUldrQUJqci02c0xZMmtPSmU4dGhxdVFfSHp4cVNkZHE4Xw?oc=5",
+   "title": "LME approves listing of Tsingshan’s Indonesian aluminum brand",
+   "source": "Mining.com",
+   "time": "2026-11-26T07:45:05Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVmtoSElkWW1ZcnNWOEJ2cEZzcndaalpPb1JKa1NmaDNGLWhjOVdXNVpjVTNJaEREQnNlcGR0SG1ORzJLRWxmWTJnam1YUVd1d0V3eUhmV1BTN3g5WWJINkZhaXVERGdXZmFQNUFUbHR0djZzRzZURkhjZzk3N29LZTJjQUY4VFdJMDZRc0lBZFdXZw?oc=5",
    "tags": [
-    "GEOPOLITICS"
+    "GOLD"
    ]
   },
   {
@@ -415,6 +442,15 @@
    ]
   },
   {
+   "title": "Micron Technology (MU) Products Are Exempt From New US Tariffs",
+   "source": "Yahoo Finance",
+   "time": "2026-11-26T07:12:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT0lyUFVtNWVHZ3g3a2NlRk8yX0FWUnVtVGxGWndjUmNaak1OY1E3N1A2ejNLVXlHMkVEU3VZbzc3Z3dCWDJoaERSRnZXTlA5Yy1RZWw0dERzak5hX1VHbHNBUnZrd2hldTRLcDJyckJvbXh3OEpCRFl4ZS1uVHAzbFRSRWUtemR3T0l3RnZIRlpZeTVPQjFuRVd6a1JuQmxVZ0Nz?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Gold Outlook: US Dollar Fatigue Opens the Door to a Squeeze",
    "source": "Investing.com",
    "time": "2026-11-26T07:11:00Z",
@@ -505,15 +541,6 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXlFSTdMZVB4WkVMRFFIU1ZrSVRmWW9NTUZqMUJ5SXRUQUhTNVRxSzJmc0pSVWlEODJrc2ZOemVQeVk1SVpOQXY4X3JCS3IycUFHV3pBWlUzSzNHMTlPNm5MN2xuMUljMkhDUVBBQ21tXzNoSXhub0FOb3B0cjdjMHYwR2l5RGM3eXMwcEZZU2NtdFdPZkVrb1BXbldZRzE3aUJzbjJxTjlQS2d3eV9WZFpFMA?oc=5",
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "title": "Gaza meningitis cases surge as collapsing infrastructure fuels health fears",
-   "source": "Al Jazeera",
-   "time": "2026-11-26T06:14:15Z",
-   "link": "https://www.aljazeera.com/news/2026/11/26/gaza-meningitis-cases-surge-as-collapsing-infrastructure-fuels-health-fears?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -660,33 +687,6 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZkJyS01sbWRNVUp6OFF3VURmMVVVVVdBQ201NWUzX0VpN1dkc3hnNTlJTFBrdEtudi1ISGNBYnd2cjVTUmtBajcxa3Z0MmhvWFBlWHJiT0FrNTNKNHpteFV0T2ZPSTFRZHpFSUdmQ3FsSHhkZjVtVld6VDJRNnNkc1RmOG12VUFrek1oaVEtUkd0QzI1eGQ3cmd4NE9ucDd5eldZT1VHTmRVdEF2ZnFyUXhNZE94VzdITENNTllQZGFnTl90?oc=5",
    "tags": [
     "OIL"
-   ]
-  },
-  {
-   "title": "UK to invest £9.5m in Ukraine windfarm to bolster war-hit energy system",
-   "source": "The Guardian",
-   "time": "2026-11-26T05:02:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWk1oZFB3b0xvODhlY2ZQNmlmNGlIc0hWVGt2X3ZSR0VOQmV5WmdwTjRQZDZlVTlmU1VwMDJpMnpOakdJSzQ5MHVHc3VYWk03WVM4Y3N2Wldtd2JDRXlnakJ0eWtsQXdWR3NabzBoNlVVYXJHYlItYmZnUDhCMFJHY0cydFlrelkxZ3k2ZWpWYkNRTmlvQS1iS0RNTHpYVDdSVUJYbXJwa1ZiTGs?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil Inventories Continue to Rise in the US",
-   "source": "Investing.com",
-   "time": "2026-11-26T04:58:00Z",
-   "link": "https://www.investing.com/analysis/oil-inventories-continue-to-rise-in-the-us-200692352",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Ukraine war briefing: Stop using tear gas on battlefield, dozens of countries tell Russia",
-   "source": "The Guardian",
-   "time": "2026-11-26T04:57:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN3JxOXQ3SWhCN1U4OENUcVh1TmZLYXdLS2lHa1FIa01PR0JyaDctdHF6NjJVWmhPbWZ5N0pqeW90T01fQlo4a0EwaDE0Y1Z3dk9KNkE0Mml0QjdORmVrOW84bnBZRTg3dkRUeVpHRW5VMWxCcEJ4RGhQUVBtaWJpNnl1enNUd1V2RWpRSi1CME54NmFoRF9EenF6X1I1V3I4NGhnaTZFWFdvQUFxY0d2bllzaDFRWUE0N25zSTVYdkdpdUxRb2VldnZQM3oyUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
