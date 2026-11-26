@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T19:09:52Z",
+ "generatedAt": "2026-11-26T19:38:15Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 11
   },
   "whitehouse": {
    "http": 200,
@@ -80,44 +80,52 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 23,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_fed": {
-   "http": 200,
-   "items": 29,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 48,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 33,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 8,
-   "kept": 8
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 14,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
-   "items": 6,
-   "kept": 6
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 6,
-   "kept": 6
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -126,12 +134,39 @@
  },
  "items": [
   {
+   "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+   "source": "BBC",
+   "time": "2026-11-26T19:27:45Z",
+   "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
+   "source": "Al Jazeera",
+   "time": "2026-11-26T19:19:12Z",
+   "link": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "The Guardian view on Russia’s war dead: the toll won’t stop Putin. Resolve in backing Ukraine remains essential",
    "source": "The Guardian",
    "time": "2026-11-26T18:57:00Z",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWEdiemswRjA4aENUb0tBQWZvUW1sRXpCaXJpV2ppeHhBRW51MDFsbGszVHdJcmwzaVNoeTZOVDk3N3YxTHBfS242QWZvVnJHMVAxUExWZ2ZJX2JBc0dJQzNEaTItTDlZWWJNUHYyWG5kTkN6V1IwZ3RNaHo4RFM0a0JmZVR1TGZxTXdta0VHc3paR2hTeUhqaDN2amdNU0NJVGFDMDAxU3kzMEsxS0RpcXhRWUQwNG45MnVRTVJXdUdXeHpIQTlnWi1YdXR4bUVSQ1V1azJNQV8wSTFnZzJ0V0Fmb0V6RWpmaTdZWldUaGRKMG8?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "What will Trump’s latest tariffs mean for the world?",
+   "source": "Al Jazeera",
+   "time": "2026-11-26T18:53:15Z",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -202,16 +237,7 @@
    ]
   },
   {
-   "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-   "source": "BBC",
-   "time": "2026-11-26T17:54:22Z",
-   "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "EU leaders struggle to agree on long-term budget, more money for Ukraine",
+   "title": "EU leaders struggle to agree on long-term budget, $49bn Ukraine loan",
    "source": "Al Jazeera",
    "time": "2026-11-26T17:53:44Z",
    "link": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss",
@@ -490,15 +516,6 @@
    ]
   },
   {
-   "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
-   "source": "Al Jazeera",
-   "time": "2026-11-26T15:48:28Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUDZGNEhsaHlyZ29VazJ4bklBeWZtajhDQXhDcy1yeUgzaXV3S3ByVTNTcFpGcU5hQnVUalJpbnk0dE0zWVRxeHp0SmZpMmw1R3Z0YTR5Z0paUXF6WTBKYTdpNUpqOFQ3cGlyd0V0SEotaXQtZUp4MnYydEFIWF9XQjUyNkt6eEppUW80bDBNbUtBV3V1NHB2WFlfN2hwdmRweTRUOXdCRFlSeFh4b1c00gG0AUFVX3lxTE1CX2ttR2ktc0NMdE9aWmZ4RVVSTjduNnZMQWdkOWg0ZjloLXNnazZNT18yc2RWTG1mbHFOdGRnd3VkeTJ5Z2c1M0I3T0UzM0F4aWl1Uk1vdVBZSzRlVTVSVWozcGNqOUJQOU1OVjQyTjFkd1pTRDJYelJGcHRyTllRWVB0X09oc1hwdEZCOEF2YVF0bnJUZnNEdG9MYlV6bm9fV2Jwejc1d0EybGdidDNhWVRoRQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "How EU brokers could lose access to Kyrgyz crypto exchanges",
    "source": "TradingView",
    "time": "2026-11-26T15:45:07Z",
@@ -551,15 +568,6 @@
    "source": "The New York Times",
    "time": "2026-11-26T15:27:03Z",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUtzUk9TS1EtOENIeS1WOUVKS21xTTA5MFNRa1lmTmtHbnN3cDloV0JLbklJeGlnNDlCWGxBdmpnVGZ1QVVPNTNHR2NZNFU0Z0FTOW9ZZHF5dS10VGRWZnZFS3BRbGtleGo4T21CMmxGX0pIV1EyLVdFVkY4VkNjWEgzN2pPZkJE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Why is Italy angry with Ukraine for striking Russian ships off Libya?",
-   "source": "Al Jazeera",
-   "time": "2026-11-26T15:07:56Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdk1SakpTcUdjdkJJV0R5NzRFTGVHRkhIUEJIMWNzV0o1OU5wUlVMOS1vTWtERGFya3h6WU50dVg2TzRUbUhaRVZoeFVOZXRJRUduVVh5ZzRIMWttZ3FKd19VeC1SNDJuZnlHdThrMFpWcVd4V0R1Wnd2bXdkZXI1SkFNSTNHamFFcFpwZDJHOTBIbWZHRklYc3hKU1hOSzFWajBXdWR2OXBtVTZLdWdF0gG0AUFVX3lxTE10UU1wMlZzQmowbGd1ZUhYSDhpTlFSVnhxZ3EtRUtoMHJDMzJmOXNubGJ2WTNENk1oV2FMWG5URm5OclA2cldhR182VUluVWdXdkZsZGwxbUcxYnNfZWZfc1FORFBFRlA2d0hONlRrNDBkS3FISmpJdFB0LTBsVURqdGE1eWlSbnhwUlFBc0ZPNk1oUElZeEFQVDVOWVhIUE9FZEpHMDR1elE4cGhUNGExVzY5VA?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
