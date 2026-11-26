@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T00:44:37Z",
+ "generatedAt": "2026-11-26T01:12:57Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 11
+   "kept": 10
   },
   "investing_commodities": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 10
+   "kept": 11
   },
   "bbc_business": {
    "http": 200,
@@ -67,12 +67,12 @@
   "bbc_world": {
    "http": 200,
    "items": 30,
-   "kept": 8
+   "kept": 9
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 4
+   "kept": 3
   },
   "whitehouse": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 37,
+   "items": 35,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 20,
+   "items": 19,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 49,
+   "items": 51,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 19,
+   "items": 21,
    "kept": 12
   },
   "gn_sanctions": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -121,10 +121,29 @@
   },
   "fed_calendar": {
    "http": 200,
-   "items": 5
+   "items": 4
   }
  },
  "items": [
+  {
+   "title": "US announces new tariffs on host of countries including China",
+   "source": "BBC",
+   "time": "2026-11-26T01:00:06Z",
+   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "South Korea raises rates to highest in two years, as inflation remains above target",
+   "source": "CNBC",
+   "time": "2026-11-26T00:58:38Z",
+   "link": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
+   "tags": [
+    "INFLATION"
+   ]
+  },
   {
    "title": "WTI rises above $83.50 on Middle East refinery attack",
    "source": "FXStreet",
@@ -159,6 +178,15 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUE96aFk1Y3hGYlppVHFPUDI5TkZLZ2ZrS2dOREcxOUxJcmJRdi1IZDdyUHQ4T1Vadmt2WmpxUE5LVlluS3VPNktUZHpBei05c1d4bVJtbE15U0ZDT1NTR3lCT0pxTmhnbGJXaXd0V0x1VXhqZ0hTRnpLd1BKeE51RVBlbDd0Z9IBiwFBVV95cUxQSzRRN3BqbEFiRVFmM3g2M2pNNGN0Vm9aNmNSdjQzeE5yNkFxSFp6WHdNOTFUcm05LWVtV0Nsc3RwSXRZcDZMVFRzV2FodmlBX2lsbGQyRWNEYk43MnhMWDFoQ05tVnRkY0hMeGVobFEzS000VUNFU0dmZWFRd0drWGFIYkU0dWVHcVBj?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Melania Trump announces reunion of 9 children with families amid Ukraine war",
+   "source": "The Washington Post",
+   "time": "2026-11-26T00:20:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFNkS0JnTlMybWNvUmpBQ2ZlSlpBWXQwb0tkM25MTTFZSGVKMU1ESDRlUmVvcEhmc0VBM1hpSGxldWI0MlFCWFJUQkRubnVfOGF3UXdnNlhQU3Q4bmN2emlwVGZPZDlsZTN6X0JBajJLZzdxLU5ZNGotVmN3ZmlIblIwSVFZZlBqUVNfN0xmNTlOSERYN2QyR0hMdUtmVzRub09Fa2dBX3owVzJLYmhPRXRzQ1JTTHZ0c2pZNDhub3NqNmM?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -220,15 +248,6 @@
    ]
   },
   {
-   "title": "Melania Trump announces reunion of 9 children with families amid Ukraine war",
-   "source": "The Washington Post",
-   "time": "2026-11-25T23:53:35Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFNkS0JnTlMybWNvUmpBQ2ZlSlpBWXQwb0tkM25MTTFZSGVKMU1ESDRlUmVvcEhmc0VBM1hpSGxldWI0MlFCWFJUQkRubnVfOGF3UXdnNlhQU3Q4bmN2emlwVGZPZDlsZTN6X0JBajJLZzdxLU5ZNGotVmN3ZmlIblIwSVFZZlBqUVNfN0xmNTlOSERYN2QyR0hMdUtmVzRub09Fa2dBX3owVzJLYmhPRXRzQ1JTTHZ0c2pZNDhub3NqNmM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
    "source": "CNBC",
    "time": "2026-11-25T23:50:53Z",
@@ -236,6 +255,16 @@
    "tags": [
     "INFLATION",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Asia markets edge higher as investors assess fresh U.S. tariffs; South Korea rate decision in focus",
+   "source": "CNBC",
+   "time": "2026-11-25T23:48:51Z",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GdFlPeWc1LW1ZQjR0SE5YTU9DSXZ6Qlkxa1RkUGJkX3lkbGl2aDd4MmlUc2k1Z1QtNFBjWDlyMUNGRS16MzVoeGFLYmRXQW5vNFM0aURPbHdtcUxETm5zNUllcnFfY29W0gFuQVVfeXFMTXhrRXByTEZhMDA5REEzbmF2X1RBTTZhNU13bzhRaEV4d2E1MUFGaWw0MHhtem9YbVVDTVZyRHhDRlNXSDhBRmk1eURWdjBlVDJjTnpNSkJzbGJ0N29jXzNZc1RBbC1tTktqc1JxZHc?oc=5",
+   "tags": [
+    "FOMC",
+    "TARIFF"
    ]
   },
   {
@@ -352,6 +381,16 @@
    ]
   },
   {
+   "title": "China Braces for Tariff Hike After US Announcement",
+   "source": "Bloomberg",
+   "time": "2026-11-25T23:15:44Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3NyOFFZY3BES2RUSW1SemdaTWUwNGplTjBWQ2drSjc0cy1RV0pIdEMzbmdadV8wbUViUXI1eEFDQlNjN3pCT2M1LWVYYU42OEtYTU1meEZKT2ZqeFVrUlU5cUdia1pJMHlFNDVYZGRGWmE1WDZmQWcxQTl6UkstWElHbmlKSXpHNHdna2x5OXlsTlg0eWRuZ1B6ejhwdF9nM1o2ZGNIMA?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
    "title": "The White House is proposing new tariffs on more than a dozen countries",
    "source": "NPR",
    "time": "2026-11-25T22:55:28Z",
@@ -415,6 +454,15 @@
    ]
   },
   {
+   "title": "BMO sees tax plan lifting early mine cash flow by 30%",
+   "source": "Mining.com",
+   "time": "2026-11-25T22:17:21Z",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYjJGT3NQVkRNWFc0T3B3Zm5RSTlOX2FvQnh0QVBoLThraHNuYjhEZGU1ajB2cjVOQkZOYk1YM1VtdG9DX3FTM2xHTHVLQi1MM0o4SmFHVmJ4UHBZbFpPZURMbGttR25NYmdhN1hKZ1R3eFh5TElmMF9xejFZc3ZzU0l3?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Tech selloff and Nvidia slide rattle markets as tariff fears escalate",
    "source": "Fox Business",
    "time": "2026-11-25T22:12:12Z",
@@ -469,16 +517,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "China Braces for Tariff Hike After US Announcement",
-   "source": "Bloomberg",
-   "time": "2026-11-25T21:44:45Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3NyOFFZY3BES2RUSW1SemdaTWUwNGplTjBWQ2drSjc0cy1RV0pIdEMzbmdadV8wbUViUXI1eEFDQlNjN3pCT2M1LWVYYU42OEtYTU1meEZKT2ZqeFVrUlU5cUdia1pJMHlFNDVYZGRGWmE1WDZmQWcxQTl6UkstWElHbmlKSXpHNHdna2x5OXlsTlg0eWRuZ1B6ejhwdF9nM1o2ZGNIMA?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
    ]
   },
   {
@@ -630,6 +668,15 @@
    ]
   },
   {
+   "title": "Trump Ally Warns of Potential ‘Civil War’ Due to Democrats’ Strategy",
+   "source": "Newsweek",
+   "time": "2026-11-25T20:41:00Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNemhiSjZ4dFFvbjI2UjAwekNGRnVZWDNsWHJ6YU4xcFg3Uk1fWUdXbnhwSjZnbW9iellwMGZzaW5OV3FwZWlzek8tQmtyV1F1Mi1WZVkwS3RTRFdKTFptdWotZWthRDlRV0ZZYVF6bjJkSWtBdnliOXU4RHIzNnI5eUQ4bE5xMjJiVF9MY29ia0x5V0FVMWh5N2t5OGRObnRF?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Newly proposed tariffs raise chances of the Fed keeping interest rates higher for longer",
    "source": "Yahoo Finance",
    "time": "2026-11-25T20:39:42Z",
@@ -639,64 +686,9 @@
     "RATES",
     "TARIFF"
    ]
-  },
-  {
-   "title": "Oil’s War Premium Masks a Projected 3.8 Million-Barrel Daily Surplus",
-   "source": "Investing.com",
-   "time": "2026-11-25T20:30:00Z",
-   "link": "https://www.investing.com/analysis/oils-war-premium-masks-a-projected-38-millionbarrel-daily-surplus-200692336",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "More than 490,000 Russian soldiers have died during Ukraine war, leaked data suggests",
-   "source": "CBS News",
-   "time": "2026-11-25T20:28:49Z",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX2pWcjFHdXEyc0tDU1lnYUFVaDhneEg2eHY4ajVDaG9IemhYNXpJejJ0ekFfRmNQM2xXaVVKTWlSRS1XUGNfekxtNGEtXzg3SHNCZlJtOURPdFplQ2N3Z1dLcDVtaldGTmRTSXNEM1RtSTVRUU14WHBINWJfVkRfczczZ3hqaUJGNlVURGpn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Jared Kushner on how the Ukraine war could ‘escalate massively’",
-   "source": "Politico",
-   "time": "2026-11-25T20:18:07Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbm9RM2t4c0dMS3FtSjJ5VTJycGNGQzkydVc3OVFod3hYM2RQS3JqajZKMk81SGdLNEtOSWNxM0ZuSGl4ZUsxZ0Q4WUJRYk9yZ3dxXzN4TkpXLVhKT3VnUHR6MnF6QlJYdmJ2N0xGc0FpUTg2aVFpM3pua2ZOb2pZNjdWcUx3MjB6QThPeG1JN3BXUV9MSGcydEVrMEJrRVo2T1hBUXdjdFZBQkprbXlXTg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "U.S. Treasury, Eurozone Bond Yields Edge Lower",
-   "source": "WSJ",
-   "time": "2026-11-25T20:17:01Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWhaSXdja0FJbTdibG5fb3BEQWpTMzNmbTVUNkhtN2haanZFaWxtd3EzNVJUa2tkcW12NUhHMVRiUkhydS02b1JEeWphTEdRRHVUVjZZdzJnLVo5RE84d3B1NmJIYTZfWmpwMXVHSUlzSm9ra05ILTg3dUE1bHo3dUNCWU5Fbm1PSHJhek93N0JxMURmdUc5c3JwbUwyTG93TGJNbFJhX0R4UzctRVpiaTcxek16MnFRX09ocjhQWDJqNE0?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Gold sinks to 15-month low on inflation, tariff fears",
-   "source": "Mining.com.au",
-   "time": "2026-11-25T20:15:00Z",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jSlFkWUhCdkhCZUVteFlCQTB1TTg5SmZHZ2Q3ZUtWaTJtZ0pPRkJJUHNDRjhoY3NUTkZXdHktb1VQMEdIRHBZZU43TnZ0TDVtVzRGb0NjY1k1NVh3NkdFNmVsTTJFLVBVcHVxU3Z3QWNzVlI0RVZZ?oc=5",
-   "tags": [
-    "INFLATION",
-    "TARIFF",
-    "GOLD"
-   ]
   }
  ],
  "fedCalendar": [
-  {
-   "title": "Beige Book",
-   "time": "2026-11-25T14:00:00-05:00",
-   "impact": "Medium",
-   "kind": "BEIGE",
-   "src": "fed"
-  },
   {
    "title": "Testimony - Vice Chair for Supervision Michelle W. Bowman",
    "time": "2026-12-01T10:00:00-05:00",
