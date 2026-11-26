@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T11:08:06Z",
+ "generatedAt": "2026-11-26T11:36:28Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,11 +57,11 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
-   "items": 52,
+   "items": 53,
    "kept": 4
   },
   "bbc_world": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 12
+   "kept": 10
   },
   "whitehouse": {
    "http": 200,
@@ -80,33 +80,34 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 29,
-   "kept": 12
+   "http": 429,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   "gn_fed": {
    "http": 200,
-   "items": 30,
+   "items": 26,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 49,
+   "items": 61,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 25,
+   "items": 22,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 11,
+   "kept": 11
   },
   "gn_yields": {
    "http": 200,
-   "items": 19,
+   "items": 21,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +117,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +126,42 @@
   }
  },
  "items": [
+  {
+   "title": "Tech billionaire takes his case against red tape to the Federal Reserve",
+   "source": "The Washington Post",
+   "time": "2026-11-26T11:32:15Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSVZoU0stTElBY1VHVk93NWpGbjZQeEFTQll0TXZBUE82dGVpMmVEOGpKbldjRGcxZERvTUl6SHF4eDRUdHV0Sm1YVVpLcWF5X0txSldhaWZMcFFJa2l4blpIVFk2M2p5N2NrbHFwYzY1Vm9YWTFOTFJkaFFwb2ZaQk9HczlteC1kQzQ0YlB4S2Qza2lvS0RkZllMT25pdmRDcXB3WUVna1poWDlXeE56VGFIeHFMS3ltNWZjTEt3cjM?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+   "source": "CNBC",
+   "time": "2026-11-26T11:26:52Z",
+   "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals?",
+   "source": "Al Jazeera",
+   "time": "2026-11-26T11:16:29Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQTU9Bem1UcHdtT2s5T005dlJvaDZfMTZ3aTQ1UHpDVUNMbERrRTFpQ0pKNFI0alRqWWp6ODBNYTJuSVNIX2JBMEpDRFh2RmlvYkNISXByQlJrR0dvb1BvQ0hxZmlPSXhtY3FfZjB6eUl0S0dtb2hxcHJwZ2U3X3ZudWpyMFRodlVackNmbU5DOVJENVhmS0s5bzQ2Z3BSMEdyZNIBqgFBVV95cUxPc2NjTE95RV9JMXdFTy1CdVNSdm1mRUt3cGxydjdid21HVFAza2pLcGRiY2FzOEUxeHhKNHZRcjdFeHRxQ0h5ZjYzZHRFWWhMSTFqSnJmVU9BNnB5WnB4VGpYN2Z3RU5vT24wVlhQeXpqYURoWnlXLW5QbXNvWS1DSzd5VGVNM0dPcnkyQkE1NEJCRlROejRDaE0tSXR0aXFYakJyMVNQYkRyZw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "How Trump's proposed tariffs for India compare with rival nations",
+   "source": "Reuters",
+   "time": "2026-11-26T11:10:56Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazJTSjI3dk40ZnhoM2ZJR2N2eXp0NUFoaWUxNUI4NW9wV19YWEtpd24tS0t5YnFHV2YzSkRmSXdiTnR6cjRuMTROY1d1VlQ2NUR3UjNNMUJkeU5XQVBOeUQ1VnVTQmtQU3BVOUNndHdyeUhvWDcxdmRHMGtheVJCREs4UzdCWS1VVDQwcmdQYWtILXltMHRhN1UxeTVtdGhuMFhpemlOdDRkLTB5?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
   {
    "title": "LME approves listing of Tsingshan’s Indonesian aluminum brand",
    "source": "Mining.com",
@@ -147,7 +184,7 @@
    "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
    "source": "CNBC",
    "time": "2026-11-26T10:45:45Z",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UYkNOcV9TeElnTHlhSTRvWktGNmtNRS1fWGcxQUtKX3I1b0dhRkkxLUE4VW1XUC01UXVUd1FGVjh0aGdHVTBGVHJvbVdsMjZ3bDR0UC0xSTRVYzRWSU1vbHJoanNBZnhzYkkzQUZYWGNIWDR0bmtEMlluQTjSAYIBQVVfeXFMTVBta3Z1MXJQQ1htZ3AtNExvaW5wTlg5TFRyWDdBdUVjX3o3MjFqOE9pcDVFNm9iQjEwMkpDOGZpWldTX2VhUW5FX3ZTekQ1V0JDbzdtamxsRkpWLUtDSmNySWt3M1N2MmhLcW4xdTJhRnhLNTBXaVJFNm9zR0V4OVNwUQ?oc=5",
+   "link": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -157,6 +194,15 @@
    "source": "Yahoo Finance Singapore",
    "time": "2026-11-26T10:35:39Z",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNckVIdGNFWnBLR2hUM21zVzQ2dHNudHhWRk9ZVllfbFZmenFYLTMyREJfM3hLWDR6M1BXemNxelpwakdEbTM5YVo3bDhGS3hlLXE4SnVHUkxMZ2VzQmkzOGxHMWJDaEJENExCNnVLNlNpOXdHVjR2MjNqVE1QWG82dThYUDVVbC1G?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Singapore Is ‘Very Disappointed’ by Trump’s Proposed Tariff Hike",
+   "source": "Bloomberg.com",
+   "time": "2026-11-26T10:32:38Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFZpTTZrb3dkU1FzYlN1WHREX1NTZFNLS0YzNUgxeDFJLTd6TDIxNXhkVHAwYktPdTVTUW91VW5rbUhxTmE2OFVBSUNrN3Z0YVE3SE5LaGQ4a2pTZlhIRFlENzBNYkJTRGY4Y2l3QU13U3d3eXRvSEV0dElfUXA0Z0FCeTNVVm02MXpyREg4MFhoV0Rna2xpQmxYbERTZUtjTHJuTUcxdmZhaDh6Znl0dUEtWQ?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -180,15 +226,6 @@
    ]
   },
   {
-   "title": "Tech billionaire takes his case against red tape to the Federal Reserve",
-   "source": "The Washington Post",
-   "time": "2026-11-26T10:12:40Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSVZoU0stTElBY1VHVk93NWpGbjZQeEFTQll0TXZBUE82dGVpMmVEOGpKbldjRGcxZERvTUl6SHF4eDRUdHV0Sm1YVVpLcWF5X0txSldhaWZMcFFJa2l4blpIVFk2M2p5N2NrbHFwYzY1Vm9YWTFOTFJkaFFwb2ZaQk9HczlteC1kQzQ0YlB4S2Qza2lvS0RkZllMT25pdmRDcXB3WUVna1poWDlXeE56VGFIeHFMS3ltNWZjTEt3cjM?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
    "source": "Al Jazeera",
    "time": "2026-11-26T10:07:30Z",
@@ -204,15 +241,6 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDVjcXNHbGwyZERtU1NYdThmTDcybjJkT2lyY2hLSTZfS0ViNkJ1QWFzYlM3QVk2VVU2MXJOeXdDR2I2bHU5b0VwQ3g2SXFFMGJSUVFVSVpnY3VERjhrLUhlR2lkSVZrZFBIOHRPZVVicGhQRnRZZ2VrX3hFRm5KUzljT3BnQ1dTWHRXdWZZSEtvenoySlE?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-   "source": "CNBC",
-   "time": "2026-11-26T10:02:44Z",
-   "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -319,6 +347,26 @@
    ]
   },
   {
+   "title": "Watch Can Trump Gain Any Leverage Over China With the 40% Tariff Threat?",
+   "source": "Bloomberg.com",
+   "time": "2026-11-26T09:48:05Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZFlDc3ZoZnc0RTF2S0RIclMtX3h0WlkwcW9qMDYxVk9Id3VGckYyejlfUW5NMG84TFB2TS1kMWRwUzNFcWp2S0hKd0FyYzlkbkNaYVBKM3piQTVpN2wyQWJobEp2RHFxcXRtbDJGVU1jM3BKaFdITmRabE12SHNjRGZLZGNucEdGcjl4amdqSXhnd1V2cXow?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "China Braces for Tariff Hike After US Announcement",
+   "source": "Bloomberg.com",
+   "time": "2026-11-26T09:45:46Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3NyOFFZY3BES2RUSW1SemdaTWUwNGplTjBWQ2drSjc0cy1RV0pIdEMzbmdadV8wbUViUXI1eEFDQlNjN3pCT2M1LWVYYU42OEtYTU1meEZKT2ZqeFVrUlU5cUdia1pJMHlFNDVYZGRGWmE1WDZmQWcxQTl6UkstWElHbmlKSXpHNHdna2x5OXlsTlg0eWRuZ1B6ejhwdF9nM1o2ZGNIMA?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
    "title": "European Stocks Rally as US Tariff Concerns Ease and Falling Bond Yields Support Sentiment: DAX, CAC, FTSE100",
    "source": "Yahoo Finance UK",
    "time": "2026-11-26T09:44:15Z",
@@ -333,15 +381,6 @@
    "source": "Yahoo Finance Singapore",
    "time": "2026-11-26T09:39:16Z",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNklQTkY4akdkMkFTeFI3MkE4dHpWWlN5OGk4cmhUMTBScmlkNEwtcmoySGlRbFhqaWxaWGhReVRyV2NTR1NKLWRFTGxjTDZZRFFVM1J1MUR3VndkN3pmYzhaTS1MdGMzRXVJVm5XRlZwY1pDdGJMa0N0cjN1SHdfTHQ0TzZfelZvQlE?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "How Trump's proposed tariffs for India compare with rival nations",
-   "source": "Reuters",
-   "time": "2026-11-26T09:33:45Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazJTSjI3dk40ZnhoM2ZJR2N2eXp0NUFoaWUxNUI4NW9wV19YWEtpd24tS0t5YnFHV2YzSkRmSXdiTnR6cjRuMTROY1d1VlQ2NUR3UjNNMUJkeU5XQVBOeUQ1VnVTQmtQU3BVOUNndHdyeUhvWDcxdmRHMGtheVJCREs4UzdCWS1VVDQwcmdQYWtILXltMHRhN1UxeTVtdGhuMFhpemlOdDRkLTB5?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -437,19 +476,19 @@
    ]
   },
   {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
+   "title": "How Silicon Valley became central to Israel’s war on Palestinians",
+   "source": "Al Jazeera",
    "time": "2026-11-26T08:42:24Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2RsUEN1V1RwM21nY2ppVzZLajhYT25pZXM0VEFtU1NfRmVoalZLVW0xeFJ0OHRWM1pPVTNaRzB1LUtzbTB3dEkzZUh4SXJUb0RPWkRhVmM5TDhMc091Z2FHUk9jM2ZGNFd5LV85OWhVUHd4SlFNMndvWHp3NkxFOTNjdURUNEtIU0JSUkpIV3VNWmFjNXNZ0gGcAUFVX3lxTE9RQ1FaVXlMblA0TGc1Tkd1RkdjYmZXLTNYanJLdzB1WXp3ZHRJUEg0by1XbDVBR3N1Zy1nVVg5VmkxTWRTR05sV3FUZG9HeDFnZkduYjF5M1JpN2NmbnFsZlhjQ25HdjJwZVlsU2FSci11UVdRel9lbnVqUldrQUJqci02c0xZMmtPSmU4dGhxdVFfSHp4cVNkZHE4Xw?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
-   "title": "How Silicon Valley became central to Israel’s war on Palestinians",
-   "source": "Al Jazeera",
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
    "time": "2026-11-26T08:42:24Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2RsUEN1V1RwM21nY2ppVzZLajhYT25pZXM0VEFtU1NfRmVoalZLVW0xeFJ0OHRWM1pPVTNaRzB1LUtzbTB3dEkzZUh4SXJUb0RPWkRhVmM5TDhMc091Z2FHUk9jM2ZGNFd5LV85OWhVUHd4SlFNMndvWHp3NkxFOTNjdURUNEtIU0JSUkpIV3VNWmFjNXNZ0gGcAUFVX3lxTE9RQ1FaVXlMblA0TGc1Tkd1RkdjYmZXLTNYanJLdzB1WXp3ZHRJUEg0by1XbDVBR3N1Zy1nVVg5VmkxTWRTR05sV3FUZG9HeDFnZkduYjF5M1JpN2NmbnFsZlhjQ25HdjJwZVlsU2FSci11UVdRel9lbnVqUldrQUJqci02c0xZMmtPSmU4dGhxdVFfSHp4cVNkZHE4Xw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -607,15 +646,6 @@
    ]
   },
   {
-   "title": "At least 13 dead in Indonesia gold mine flood as rescue efforts intensify",
-   "source": "Al Jazeera",
-   "time": "2026-11-26T07:38:00Z",
-   "link": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
    "title": "US proposes 35% overcapacity tariff on Vietnam, 20% if Hanoi signs a deal",
    "source": "Yahoo Finance",
    "time": "2026-11-26T07:36:00Z",
@@ -647,34 +677,6 @@
    "source": "marketscreener.com",
    "time": "2026-11-26T07:29:18Z",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUXJXOXlrS3hRaExqYWMzNHFMYUoxRjRtZm51aUtGTEhmbmlYZkRnVThsc2N1emNkQ0IxMFJCazZ3LU56Z0drRHVjZTRNQUpFZVpsUlZsZW95TEhxajU2ZTlEd2hIU0UwTWl4ZVZOQUxhYjJMSnZubVZueFJMN0hfTWlralgwbE5KTTZONVoxWDhRaWFpQUNFNFcxQ0I3dENIYklySkhjbGU3Rmxk?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Asia rejects basis of new Trump tariffs as US gathers China ammunition",
-   "source": "Nikkei Asia",
-   "time": "2026-11-26T07:28:00Z",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWTdlU2lyQ1Q2c0lSWERfaE9nM3ZHUDlYaldoRGNJWERpNm5HTTNVNTJJRjBTOTRXcFNUV3MzR2RLSDZKR3ZsUnFFY1ZOMXYtUXRpbnZPc1VvTFRuSktXOUJlZWJOOVhYajBSbGt1bEtQT0dPWDFNLUIxVzN5NHNaSWVOUGJhZGdpS0RUQVphSm9JNjEwSDBaWk9HSlFlTDU4c0Z3WnZGdXU1bnYyZ1MxZmE5c3FfN3dfOEg5c3pSM0tWZnNh?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "(LEAD) U.S. expected to maintain agreed-upon 15 pct tariff rate for S. Korea, issues warning on chips",
-   "source": "Yonhap News Agency",
-   "time": "2026-11-26T07:23:12Z",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40Y1ZSN1RPNzVDbFNkYTBRTG43WEtKX2pkTlQxVzY4amJHQkxwUkNYUkI4US1WUVFIekhCMFZseTdIR3MxVjlGNEJ2V0NyMm54bmhYbEtRd3NXZw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Copper bounces back toward $12,000 as US tariff concerns ease",
-   "source": "TradingView",
-   "time": "2026-11-26T07:22:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSTg2R093a3FTekFMRl95TVZuMUpOMWl3ZHducUhTZmFJY1doR1ExSlA2amNOTnk2MzdKNDVkUnFydThJcmQ1d0hjSmNYRTZQQlhwQXpqN0hfM0FJUl9FR0NZTFp6MHk1WGlyWGotRUVBQng5SlB0Sm9DMk14V2NEckE4em5JOVZHQ1pVUlN3TmFpdjA0R2Q3ZjZmbVZ5RkNQRnFWQU9ZN2M1MmdYbU83NloyMmJMNWRJWGhJWXEydnJwZ0JJNUk0QlNB?oc=5",
    "tags": [
     "TARIFF"
    ]
