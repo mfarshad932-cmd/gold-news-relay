@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T19:38:15Z",
+ "generatedAt": "2026-11-26T20:06:34Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -61,18 +61,18 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 56,
-   "kept": 4
+   "items": 57,
+   "kept": 5
   },
   "bbc_world": {
    "http": 200,
-   "items": 28,
+   "items": 27,
    "kept": 5
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 11
+   "kept": 10
   },
   "whitehouse": {
    "http": 200,
@@ -80,52 +80,44 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 25,
+   "kept": 12
   },
   "gn_fed": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 21,
+   "kept": 12
   },
   "gn_tariff": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 45,
+   "kept": 12
   },
   "gn_war": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 33,
+   "kept": 12
   },
   "gn_sanctions": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 10,
+   "kept": 10
   },
   "gn_yields": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 14,
+   "kept": 12
   },
   "gn_oil": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 8,
+   "kept": 8
   },
   "gn_cbgold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 7,
+   "kept": 7
   },
   "fed_calendar": {
    "http": 200,
@@ -133,6 +125,24 @@
   }
  },
  "items": [
+  {
+   "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+   "source": "BBC",
+   "time": "2026-11-26T19:55:58Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold Confidence Needs Rebuilding",
+   "source": "Investing.com",
+   "time": "2026-11-26T19:41:00Z",
+   "link": "https://www.investing.com/analysis/gold-confidence-needs-rebuilding-200692386",
+   "tags": [
+    "GOLD"
+   ]
+  },
   {
    "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
    "source": "BBC",
@@ -143,10 +153,39 @@
    ]
   },
   {
+   "title": "India’s central bank repatriates another 60 tonnes of gold in 2026 as share of FX reserves drops to 14.38%",
+   "source": "Kitco",
+   "time": "2026-11-26T19:20:40Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGE0WUZ0UVRyeHV2dHBJRzFzTUdnQlVnT0NBQnVwSHpybk5hRV9PVHhWa1E4ak9TaGVFbFlLSVNGRERqbFQ0UVh4WldETUJkLWhnczlOSDBCcDdwMGx0dmJ0QTBvY2d6X3F6SXIxRUxDX0hRWi12ZGxmRms4VzRETlprVHVmaHFjZi1fQjVGRjltZXhCOUo5R3ZPTVNVbWN2NHdWdzc5SERVUndJdU45cXZ6QnU?oc=5",
+   "tags": [
+    "CENTRAL_BANK_GOLD",
+    "CENTRAL_BANK",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
    "source": "Al Jazeera",
    "time": "2026-11-26T19:19:12Z",
    "link": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Tariff Talks Put Hindalco Stock And Indian Exporters In Focus",
+   "source": "Yahoo Finance",
+   "time": "2026-11-26T19:11:18Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYzNUYzlDMkVIbV9WN3JKbGxsTlAzNHJNdExvWE9xTFp3TWN3SFdYSi12bnI4dnVUXzZsa2tCY25PMllDMFhlc3hOQ1laa2NpMTMwMHRkLWRXczV1VDFJQ1NnZnh4MlU5M2swLTRNc0pyYl9iMWp3WDhxNl93U1lXLXdpTUd3TFdCUEEzeXBZemprMlE2WXdWSUtxXzQ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Russia accuses Ukraine of trying to spread war to Mediterranean and Baltic seas after attack on Russian ships in Libya",
+   "source": "Business Insider Africa",
+   "time": "2026-11-26T19:08:03Z",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcmJaTjVwZ1NqUTZPbWpsb2ZaMXFfTi0tUmFoRWVaaXdVY0V2VEgwUzhMdU8zck9fcHMzalp4c2FXdk0zaDRTMUJ0OGtkeHYwTVB6Vkd3QU81STFvYjd0MS1udHZtZmFQS05UM2FjQ0NvUm9reVdfNHlPMlpia1dCVXVBSm5SMDlBeHpjWW5rb3h0SU1fNkkzMDdMUmFqV1ltcVFybmlZSGpqOTg2OUlvbVBpUmVjR2JERHVrLVl5LWJtenlQdG5zeFNhMlVGeE5wcEZ0c3dKS01pQQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -163,8 +202,8 @@
   {
    "title": "What will Trump’s latest tariffs mean for the world?",
    "source": "Al Jazeera",
-   "time": "2026-11-26T18:53:15Z",
-   "link": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss",
+   "time": "2026-11-26T18:54:07Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQVp3NmZhaGdLMWtPSEt3T2FhY2FQbFRrTHI1UTU2THNoTldrVzlGcjFEc2o4M3RCWWNBcEMwWHlmN2JyMVJGM0FDT3FkMXg5RHY4YWlYRVB4VVdKZC1MTkFtdWNCS25xNWRHXzRGMWtPeU5VREE1cDhZVm91NzhONnl0ODFUNmJxcXRtb1FBUnRlWENkZnU3RWFWdHdyNjZjdS1DOER6SFY5UdIBrwFBVV95cUxQTFB1THZSTkdlTERla0NGSThxSFZMWGU0ajkwWWNueG5JY1VreVVWQmstT1huUGZMTl80ZVZVLWdsLVlzYkZHMm1jQkp6QlNZbXNmNFdsRmpUaTNOSzVqZTdtNjNYek5lQTU5RXpIUHh2aVFTWmlid0c0NmRiTjR5NEhsV1hkQlROc2V3VEUyZ1YwWlN0UFhEZWUzYzQ0YWh5d1dkUFRCX3FZTWxRTHJn?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -198,7 +237,17 @@
    ]
   },
   {
-   "title": "Opinion | Putin Extends His War to Europe—He’s Not Our “Friend”",
+   "title": "Inflation May Have Peaked in October: Economists Split on How Many Fed Hikes Are Effectively Needed",
+   "source": "TradingView",
+   "time": "2026-11-26T18:20:06Z",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNDQ3X1A1dkpneHI5R0x3N3BUaE5iQ2pvS0dCeG1fNWM4M1gyd3RkNm5JU3JBUWVvaHRnSkFiRThIOGp2WWF2eDBidGRucDJBWjdKUXBMdU10TmxpdzR3UnFtalZxYUQ4ZjVuU2l0dGdkcUZNVVIwWE9IYWFyRnNHQUtHZ0Vzd0hYMFVKNXVNNEg0bEZUQy1pTjRBSDZpWnB2Zng2V1BlUVhMeUF6c1BrR0VqMVpUMlFBRHV4azdCaGkwTVFOeVNfUnIwU09fazhyOU9TY2FBcmZPUjhNcUF6TTlSQ05XeFpHR003a1F3?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Opinion | Putin Extends His War to Europe—He’s Not Our ‘Friend’",
    "source": "WSJ",
    "time": "2026-11-26T18:08:00Z",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeVk3dUlhb0l2LWxnMS1KT2lkTzN2Y3VoOEt6c2sxR2J4TlhacWlPeW03OXdsSzUwVlZLR25BSlNSM2U3VjV3d19SeTlobDdQSTVibWRtS2JyQ3kyTEp4ejc2SDV2NXYwOXB5b0FLbnRJYkN3XzZqRmV1dEtkamYyWGdWOXFmVnB1dzZ1bHpYbw?oc=5",
@@ -279,6 +328,16 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONlNVMDloblRWT2x5ck9uQ3RBOHpUMlIyb05haUhXbkRmNEUyZ1drTDE1QTdDYmRkUnN1cFBEeVYtVm9Cb3RWZ1BBOTAtbUhOQVlqcmNfQVNNdzRVdFNzemg4UXBscy1OblVhZnNjdHVid0RIMFdfV1cwcUpzanZIeEFSMGk?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "European stocks end higher on easing tariff fears, ECB leadership continuity",
+   "source": "Reuters",
+   "time": "2026-11-26T17:43:00Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDAyOS03ZTA0ZzRTRmR6d2diZDJ5X0V0ejhjSlg1MzhMaTlCNU1LNTBCYVlJS2VhVV9USmNxYnNGYk9CaTdYckN1NVBZLWNKQm9BYXB5SEpNYVMyN3hzbFRjaExPY3piakNDakM1Qm1NSDJ1MFJLZzF3NGN5TFVCYThrYmNzZFhyVzN1bVBhaXh6a2t4cUxNQzBGUnpWVVFxb1l2cFR5WE1UZ0tvUEpDcw?oc=5",
+   "tags": [
+    "TARIFF",
+    "ECB"
    ]
   },
   {
@@ -595,7 +654,7 @@
    "title": "Fresh US tariffs spark China protest, but unlikely to derail trade talks",
    "source": "South China Morning Post",
    "time": "2026-11-26T14:57:54Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1k3SGR2OVlqQy1TMXhTVWNrYkVLSldlV0tGcWRWUFl2YnJsN2Q1WE9tRXg5VmwzMmluQXYxWlRnRWc1RXltYnliRVZyYkkxQkxpQlc2UVFseGlQVVVwXzFpbjhBQ2o3b3NTVXZUN2c1djZzd3k5bXNrejVFTTFGdUtQTHhHMms4R3QyZXNZa01rYVNkQXRjUkFrZXRGeWVpNUNmU3VYTlBuTnlPcTNVbEk1MlFlY2dwaHhuSDUyWDMtd1JqRFFj0gHHAUFVX3lxTE5fWTdIZHY5WWpDLVMxeFNVY2tiRUtKV2VXS0ZxZFZQWXZicmw3ZDVYT21FeDlWbDMyaW5BdjFaVGdFZzVFeW1ieWJFVnJiSTFCTGlCVzZRUWx4aVBVVXBfMWluOEFDajdvc1NVdlQ3ZzV2NnN3eTltc2t6NUVNMUZ1S1BMeEcyazhHdDJlc1lrTWthU2RBdGNSQWtldEZ5ZWk1Q2ZTdVhOUG5OeU9xM1VsSTUyUWVjZ3BoeG5INTJYMy13UmpEUWM?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ1pRMzFzbWltX1lVRExqcXFObjFITmJHWVczZEkyRkFkd08taEtmWVVfcnBMNkw1ZV9rRWhRSUJUQmJPTEFEQ29zY2VkQWVtZDcwU2J1TGZ4OFpCYm9aT2hQdmp0WXhYNElQemswdTloRnc5cnJ5LWFVMDYtNmRKbVhFVTRyUDBRTU1pMXRYbzdTRVRNT1l0TnhXbk5fZUVZRUJXZ2JqRWJRSnA1clV6TEhHSlAxMGs5VjIzaGRLMUtyWVlRYU5B0gHHAUFVX3lxTE5fWTdIZHY5WWpDLVMxeFNVY2tiRUtKV2VXS0ZxZFZQWXZicmw3ZDVYT21FeDlWbDMyaW5BdjFaVGdFZzVFeW1ieWJFVnJiSTFCTGlCVzZRUWx4aVBVVXBfMWluOEFDajdvc1NVdlQ3ZzV2NnN3eTltc2t6NUVNMUZ1S1BMeEcyazhHdDJlc1lrTWthU2RBdGNSQWtldEZ5ZWk1Q2ZTdVhOUG5OeU9xM1VsSTUyUWVjZ3BoeG5INTJYMy13UmpEUWM?oc=5",
    "tags": [
     "TARIFF",
     "CHINA"
@@ -628,70 +687,6 @@
     "FED",
     "RATES",
     "INFLATION"
-   ]
-  },
-  {
-   "title": "OPEC+ likely to roll over oil output targets for Q1 as capacity disputes persist, sources say",
-   "source": "Reuters",
-   "time": "2026-11-26T14:39:21Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRWNNN09tM1phcUhhRlFRRTlHaW0yYU5fQUxJUVFEZjl5cEdhaHRnOGNwRkl6QUZTWEhNeU16Vnk5bHhNQ3JSd0FXNDlHZkdDVTV4ZkVsbUpQUFV4VWdobEhfdlpHOUt4SEJadFRpNHlYZTZRZFdBaEZKYnUyTHJ0eHlyWjE1a1FjenhuYWtoZHJJSHVPYVhjSlprNF81NkNiMlpQNUpBcy1kcHd3eEFaRjZHczhHV3RIWlJRaHZOQlBXUQ?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Falklands War veteran say UK government ministers are hiding behind GDPR on Sir Galahad bombing files",
-   "source": "BBC",
-   "time": "2026-11-26T14:29:32Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HYm1BSEFlOWM4ZnFuZXNpbDNTbEs0UC1WSXJxZmhWM2hVVjIxTDg3QnJ6V2cxb2ltTzN1UkVHS21IeWUza0t4bUp4NkI5bDZ3UzRoc0tvSFRqazg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Brazil’s Embraer CEO says US aircraft tariff will hurt airlines By Reuters",
-   "source": "Investing.com",
-   "time": "2026-11-26T14:28:42Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzg0dmRPZ0ZfQ19fNnNocXp2b3IwYmpMQTlLMEhLWmNIM1lGdzYtY0RDOWRxLWxZZXNRWllRdEFTX0cxMUgxSkh0U3FHbUNmTC1VS3RNZEpSV3NfUG4zNG1RVHpQUllIQ1dvcUpFN2E0elZjU0kxZm9NYlFrVVk0MEtxUnNNX1YyQkxFZHhEQnF3cDBKSmR0RUhPa2x4Nkx3ZE5SSndWZFBSam13NjI3VmY5UDNCM2lfRjlZ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
-   "source": "Kitco",
-   "time": "2026-11-26T14:15:40Z",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Brazil's Embraer CEO says US aircraft tariff will hurt airlines",
-   "source": "marketscreener.com",
-   "time": "2026-11-26T14:14:30Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3pWbUtyTFFkSVBGcWtMNkZDNGpNNlVXXzM4cnlleWZYMVNBSVR4ZDhVdGEzVVgyYXZuQzY1U0pEb2sxWDMxTTdCNm01WWtQenlIdVRndVZQRlNMVTliRGpCeGI1QnVlYTR4aFhNZTR3RWc4WDIzS3dvdEpUbHprYXNaXy1PSnIzV3gxT1pfNjF6c2Q0cl9ST3Z2NTRfWTZ2dmNScUJfVGFXNGtYN0NQdE9tVldudkU?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "China and other US trading partners hit back at Trump’s new tariff plans",
-   "source": "AP News",
-   "time": "2026-11-26T14:13:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVWQ3MnMzTlQ5Y2lUTW9RTzloTmp3MmtycjBUbmZUOTExYWNsVmlXX1JmLVJGYUYyRjNHSGV1b2hzLWhWclNBRDRZb2hyQ2UxSE9tYktjUTBKR2VDU2w1YlZlU0xaZ0JSMlQ1ZzhwMEJpSVk5N05XbHhnNi1ESktvTVNGNlZpMkNjX0dUNHdvLWJ2YTVqeDFv?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Five takeaways from Trump’s new tariffs",
-   "source": "SABC News",
-   "time": "2026-11-26T14:12:01Z",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NcWduSVhYQjdUZzgwOHNMNHF1eHJ2cm1JVnhwXzVnS1VxTllmdW5UazFtVlBtSVlWYmhqQTEycGtVNjdBamZWeTBkd0xwOHBxUmZCekwtbkhJaDlZR0Z4X3RLd2pVbjRMbjkwSlJYVVNmYVBLRGVOQUhLLVN5Zw?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
