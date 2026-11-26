@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T23:47:55Z",
+ "generatedAt": "2026-11-26T00:16:15Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 4
+   "kept": 5
   },
   "marketwatch": {
    "http": 200,
@@ -61,8 +61,8 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 55,
-   "kept": 3
+   "items": 54,
+   "kept": 4
   },
   "bbc_world": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 3
+   "kept": 4
   },
   "whitehouse": {
    "http": 200,
@@ -81,17 +81,17 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 35,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 18,
+   "items": 20,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 49,
+   "items": 47,
    "kept": 12
   },
   "gn_war": {
@@ -101,18 +101,18 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 12,
+   "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 25,
+   "items": 26,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,28 +126,113 @@
  },
  "items": [
   {
-   "title": "For Trump, doubling down on tariffs is about power, not popularity",
-   "source": "Reuters",
-   "time": "2026-11-25T23:37:44Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGF3UXNuQWFId2NPaERJLTVlLUhkQlp0WGpPNWRaamVTN3BmVFc5YkY3NVkzNHhJLUx6aTN4c2hZVnRucS13S1hMVlJWMEhzNllrYjJDSzczMndmRm5EeUhreW1qb0dpUG1HdTBrdnUtdGRLdFRVaDBWcFFEOXBsZ3gxMXlMNjJFbWk4ZzVtYXF3bWF2Z2NzZ3dTMmE5THV4VGdnRw?oc=5",
+   "title": "Trump proposes new tariffs on China, Europe and other trade partners",
+   "source": "The Washington Post",
+   "time": "2026-11-26T00:12:18Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?oc=5",
    "tags": [
-    "TARIFF"
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Guitar wars - the transatlantic battle over the Stratocaster",
+   "source": "BBC",
+   "time": "2026-11-26T00:01:37Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold (XAU/USD) Price Forecast: Buyers Defend Critical Support After Sharp Selloff",
+   "source": "FXEmpire",
+   "time": "2026-11-26T00:00:10Z",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNGZMTVE0MlI5cDRTYWh0UkJkcGszVFROQzlSNktoRUhYbTRfQWFiUEpFNEwzV2RZaWdxenEzSnJ2SDNxRlozQjB3di02c1IyUmpnVENfb3plNFp1cHNFQWZzOEQtRTFZb1dMekVwb2N1SmRfYkdWWXlsVmxJWXJoZFoxTGx3TWcxMjdqTGZtWDgxUFdzUlhXTUtya29SV1RObjZlb1FNUWRUMTNaNGloN3NfeWVtU1JFM3dNZWUwVkpPVEJReWJNdQ?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
    ]
   },
   {
    "title": "Melania Trump announces reunion of 9 children with families amid Ukraine war",
    "source": "The Washington Post",
-   "time": "2026-11-25T23:34:08Z",
+   "time": "2026-11-25T23:53:35Z",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFNkS0JnTlMybWNvUmpBQ2ZlSlpBWXQwb0tkM25MTTFZSGVKMU1ESDRlUmVvcEhmc0VBM1hpSGxldWI0MlFCWFJUQkRubnVfOGF3UXdnNlhQU3Q4bmN2emlwVGZPZDlsZTN6X0JBajJLZzdxLU5ZNGotVmN3ZmlIblIwSVFZZlBqUVNfN0xmNTlOSERYN2QyR0hMdUtmVzRub09Fa2dBX3owVzJLYmhPRXRzQ1JTTHZ0c2pZNDhub3NqNmM?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
   },
   {
+   "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
+   "source": "CNBC",
+   "time": "2026-11-25T23:50:53Z",
+   "link": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
+   "tags": [
+    "INFLATION",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Opinion | Trump comes up with a new excuse for tariffs",
+   "source": "The Washington Post",
+   "time": "2026-11-25T23:46:04Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcTdLbjdEUG9HTnkya25yaXhXSHp2a1A4MEp4OHNFRmd2SEtaQ3JLQXBZSVQ2TWRRdmM1QnNicHRpRzBmVGtsckd4blNvWWNIR3dKdFFXZDFUd1VIbEh5X1U2anFnLVA2WjlTREtqWVk1UzR4QXBRMVY2TURIUXpTWlJlakR4WU10RGl2MTExd2hQX3pmYUE?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Analysis-For Trump, doubling down on tariffs is about power, not popularity",
+   "source": "Investing.com",
+   "time": "2026-11-25T23:42:36Z",
+   "link": "https://www.investing.com/news/economic-indicators/analysisfor-trump-doubling-down-on-tariffs-is-about-power-not-popularity-5051748",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "US proposes surprise new tariffs on Brazil imports, including 10% duty on aircraft",
+   "source": "Reuters",
+   "time": "2026-11-25T23:42:10Z",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGZ4TFg5REgyY0VnandHQjZIMFN1cnNBOEJVQTBDaU1IWDFLVUxmdHFTXzRLVnVKc3pHd3lTYk9lRHZBOWV1Skd5V0VzVU05ZDRjZXdZekl5cWFneWI2b3ptS09taEhjNzZIcGhuWVdydDk5cnpkcElkMUdTZkJjTjROT09sOG5adVUxNVpNeGp5UmxaaHl2bzh6TklXMlp2eVQyVW9idi1QV25LcnpIeFBjMEF4RzNNbkNIU3JOUlN6WWVqSjRtTlFZMA?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "For Trump, doubling down on tariffs is about power, not popularity",
+   "source": "Reuters",
+   "time": "2026-11-25T23:41:32Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGF3UXNuQWFId2NPaERJLTVlLUhkQlp0WGpPNWRaamVTN3BmVFc5YkY3NVkzNHhJLUx6aTN4c2hZVnRucS13S1hMVlJWMEhzNllrYjJDSzczMndmRm5EeUhreW1qb0dpUG1HdTBrdnUtdGRLdFRVaDBWcFFEOXBsZ3gxMXlMNjJFbWk4ZzVtYXF3bWF2Z2NzZ3dTMmE5THV4VGdnRw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
+   "source": "Al Jazeera",
+   "time": "2026-11-25T23:33:39Z",
+   "link": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Taiwan says it is confident of keeping previously agreed tariffs with US",
+   "source": "Reuters",
+   "time": "2026-11-25T23:31:44Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcG1xdFN1WlF6MWxzVDZhdVZhOUpVMGprdUVpSE1hbUxZRjB2Q0RuTE9JOVRmX1pJYlVDUDJYdW1hVGk2UmRJVWxwbVNYOUlSOWlJb2NpRnRsSlppc1RoUUpONl9ndEQzTVYwY3RKdm1RZFNGX2xEemFBcVN1M2dWSUU3cXB6UWRZU1l3eWp2dTZQQ25Lcm8tX0hObGVneWFZR3V1ZlJoOXctQUZmdGREb1hjS3htWlhNRHN6UjRXTkxQUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "TARIFF"
+   ]
+  },
+  {
    "title": "US trading partners’ patience wears thin as Trump slaps on new tariffs",
    "source": "South China Morning Post",
    "time": "2026-11-25T23:30:23Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOXZ3Q2pWZFhFN0xaV0RTcmpzSnRJdzM1UGFNY01jTFpIUkxuQ1dRNnNqY1k2aXpRM29SVXZaS1ZFMFVuNUl2a1Zma0VielRPZGc5d3ZIREpUcmNkUVhodlY0QUtZaUVWLVRuR19lMGFLWDJVc3hvTmIyRE1HYmh3ZjhoTXAtdEZKZU1qOVBfc0RIam9JNk8wcENwVVByX0o3NDJWTklXRG10V3ZpTGJUbzQ5WEc2bEV1Tndsd05wblVSZFltbGt6Mk1zMA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOXZ3Q2pWZFhFN0xaV0RTcmpzSnRJdzM1UGFNY01jTFpIUkxuQ1dRNnNqY1k2aXpRM29SVXZaS1ZFMFVuNUl2a1Zma0VielRPZGc5d3ZIREpUcmNkUVhodlY0QUtZaUVWLVRuR19lMGFLWDJVc3hvTmIyRE1HYmh3ZjhoTXAtdEZKZU1qOVBfc0RIam9JNk8wcENwVVByX0o3NDJWTklXRG10V3ZpTGJUbzQ5WEc2bEV1Tndsd05wblVSZFltbGt6Mk1zMNIBywFBVV95cUxOaUZpaExpRWZ0cHlRbTRscy1Pay0wLVoyQ3dWcDJmQ3BZR09SMUlRN1FsaUtEd2NwejlGUDNIMWlnbVR5Y1pzWWJjWXdZTEhYdXc5TXVBTTVfNC1rTzR4YktvaGRBbXNYRDFMMHVVR1VUUjJFTF9Dc1k5MkJPRjdjOWdYZkpRLVo4TFNtRkk2SGw4cklDb2tWRi1ZTU1xZS1nbl9jd3dZam5vWloydG44Ry1lTEpDbzBPMXBlN3Fack9fN1JBU3EyNUZlcw?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -183,21 +268,22 @@
    ]
   },
   {
+   "title": "Fed Beige Book Shows Hot US Economy With Modest Price Growth And Rising Wage Pressure",
+   "source": "TradingView",
+   "time": "2026-11-25T23:19:38Z",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbzZGOEtwOFNQVHdlem80bTBsdnZBajZwZUVHY2U2a21yOExCUVhIWGxzR0Q5cEVfVGRZUmNXTllBLVhKLTdJR1BkNWQ2M0lsWnA3TFdQMlZ4QlhvOGg1bzhKUXZEcjdjV25acXd4OGNPR0JoVWF2WDFxSXY1XzBvN3hQanJiN2VEUHltTVNfTnBYckc2RjFqelk2Vlo0aWdMWVJ0b2ZmOFF6Q1R1MC1NNEJDRTZSNFZEV1JkNWVCLUhnWFh5T1NDTXlOUnh3MjFuWUpNcU5JNTdLLTkyc1dr?oc=5",
+   "tags": [
+    "FOMC",
+    "FED"
+   ]
+  },
+  {
    "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Drops Below $3500 On Strong U.S. GDP Data",
    "source": "FXEmpire",
    "time": "2026-11-25T23:16:12Z",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOW1JY0VEcjNNajlwRkgyTUZJT3RSeHUzcUxEWFNOQUhrTFV1QWJLWXZhSDZjRDJmLVlvckJsbTBSZDF1cjgwejVyZ0lWVml1ZU9pSkV2VkI4OVl4YnpEbFoyZFhaelBTNnpjOG9Mc3JRd3ZXYzhiMnVzcTNtNkJzZ0VLQjFOOWxvV2xRdlE4bDVVQjVqUkMtcFhHVnlZb1F5aGhJX2I1T296MXFnLVB6aVNOUE5VWl9URlZtdEEtNXJ2eHRqc09BZ0syQW9LUQ?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Opinion | Trump comes up with a new excuse for tariffs",
-   "source": "The Washington Post",
-   "time": "2026-11-25T23:15:20Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcTdLbjdEUG9HTnkya25yaXhXSHp2a1A4MEp4OHNFRmd2SEtaQ3JLQXBZSVQ2TWRRdmM1QnNicHRpRzBmVGtsckd4blNvWWNIR3dKdFFXZDFUd1VIbEh5X1U2anFnLVA2WjlTREtqWVk1UzR4QXBRMVY2TURIUXpTWlJlakR4WU10RGl2MTExd2hQX3pmYUE?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -228,16 +314,6 @@
    ]
   },
   {
-   "title": "Trump proposes new tariffs on China, Europe and other trade partners",
-   "source": "The Washington Post",
-   "time": "2026-11-25T22:42:18Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
    "title": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO",
    "source": "The Washington Post",
    "time": "2026-11-25T22:35:57Z",
@@ -253,15 +329,6 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QUy1NZmlmei04cll5NHpxQ3pYelFKV0xCcTRqV1pmelpkWFNBQUFod09VVVIyZ2hIczIxOThPWDNhd0lXMDFrTXRtYmR6Wm1FOU1hZjFUS0FycWNudmNXcWlNTVBNaEsxWTRGT2FTQmxDLVRNOUd6MG1fOE8?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "US proposes surprise new tariffs on Brazil imports, including 10% duty on aircraft",
-   "source": "Reuters",
-   "time": "2026-11-25T22:31:32Z",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGZ4TFg5REgyY0VnandHQjZIMFN1cnNBOEJVQTBDaU1IWDFLVUxmdHFTXzRLVnVKc3pHd3lTYk9lRHZBOWV1Skd5V0VzVU05ZDRjZXdZekl5cWFneWI2b3ptS09taEhjNzZIcGhuWVdydDk5cnpkcElkMUdTZkJjTjROT09sOG5adVUxNVpNeGp5UmxaaHl2bzh6TklXMlp2eVQyVW9idi1QV25LcnpIeFBjMEF4RzNNbkNIU3JOUlN6WWVqSjRtTlFZMA?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -298,16 +365,6 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwOUFXTEo5WXdJQ0s0dlpoRDM0cDhfbVF4aHY0NGdQV0p2RWNLTWJMOUVuazlBVU43X2luX1BHMV9tOVZTdHFtMVR2QWRHUTVuZnI2SVJuejU2ajVab1RtTWZvbjRvYnZTNlczb0NyblA?oc=5",
    "tags": [
     "FOMC"
-   ]
-  },
-  {
-   "title": "Gold (XAU/USD) Price Forecast: Buyers Defend Critical Support After Sharp Selloff",
-   "source": "FXEmpire",
-   "time": "2026-11-25T22:16:03Z",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNGZMTVE0MlI5cDRTYWh0UkJkcGszVFROQzlSNktoRUhYbTRfQWFiUEpFNEwzV2RZaWdxenEzSnJ2SDNxRlozQjB3di02c1IyUmpnVENfb3plNFp1cHNFQWZzOEQtRTFZb1dMekVwb2N1SmRfYkdWWXlsVmxJWXJoZFoxTGx3TWcxMjdqTGZtWDgxUFdzUlhXTUtya29SV1RObjZlb1FNUWRUMTNaNGloN3NfeWVtU1JFM3dNZWUwVkpPVEJReWJNdQ?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
    ]
   },
   {
@@ -565,16 +622,6 @@
    ]
   },
   {
-   "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
-   "source": "CNBC",
-   "time": "2026-11-25T20:17:39Z",
-   "link": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
-   "tags": [
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
    "title": "U.S. Treasury, Eurozone Bond Yields Edge Lower",
    "source": "WSJ",
    "time": "2026-11-25T20:17:01Z",
@@ -640,55 +687,6 @@
    "link": "https://www.investing.com/news/economic-indicators/explainerhow-china-got-access-to-nvidias-ai-chips-despite-rules-to-stop-them-5051383",
    "tags": [
     "CHINA"
-   ]
-  },
-  {
-   "title": "‘We Are Disappointed’: American Spirits Industry Sounds Off on Trump’s New Tariff Proposal",
-   "source": "Yahoo Finance",
-   "time": "2026-11-25T19:44:18Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZnhFT2EzbVdqNHpkemZraHpXT2dobU9KSmhqelFuNzFUa2UwU3g3cnpkbF9IOEFhWGpWTGFWbFNHc2htVkpUYm5yTUNVSzJiRXJMYTZKVUFoZVVZQ3NSVUJnTDFKN1NMNnU2N3RoQTFicXptdzdNekJoZWdpOHZJN3h6Si02aFZ0dGw2OC0zYzdrVVNHekNWbkk4SWE0TTBWWXFONjdFY2QtZFY0czR3?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
-   "source": "MarketWatch",
-   "time": "2026-11-25T19:39:00Z",
-   "link": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
-   "tags": [
-    "FED",
-    "RATES",
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "What we know about Trump's Thanksgiving tariffs",
-   "source": "BBC",
-   "time": "2026-11-25T19:38:05Z",
-   "link": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Fed Beige Book Shows Moderate Growth, Uptick in Wage Pressures",
-   "source": "Bloomberg",
-   "time": "2026-11-25T19:35:50Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWV5eGNLVEd2LU00RkQ2VlpWbGJqam5RUEVQd0dmN1lRYjBZOGVCYmxwTG5XV1huU3RfR2hNN0tuRV9iSW5NY2NxUUhsS1JORF90dF9wTnJBYTF5VEI3Y3BMd1luV2lMSFJseXdTQTVNTVk3eFRFdjM1ZWpmYVdCN0lnNEoxMWV3bUxFbjl0RVRDSmtidEhvS08wN29xRElHcVBiX2ZNa1l6bU5sWjB5NzFR?oc=5",
-   "tags": [
-    "FOMC",
-    "FED"
-   ]
-  },
-  {
-   "title": "Gold at $8,000 could signal dollar crisis: economist",
-   "source": "Mining.com",
-   "time": "2026-11-25T19:33:46Z",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01Z29VRjNyOWxkbWR1dG5CbHNyT1ROUUFBOWFFcllJYjdES24tTDZXazVSMDVKdTBINHhubkF5bzVkYlJOdmJRZjJwT1RhTjdoSVJWa3RoUnQ2aHc0a0cxdWMtTmJadkFhZ0haZ1Q3aU5lSktTOHRnM0ZMTUJNUQ?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
    ]
   }
  ],
