@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T18:13:09Z",
+ "generatedAt": "2026-11-26T18:41:32Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 9
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 27,
    "kept": 12
   },
   "gn_fed": {
@@ -91,12 +91,12 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 44,
+   "items": 48,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 35,
+   "items": 33,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 15,
+   "items": 13,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 8,
+   "kept": 8
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,25 @@
   }
  },
  "items": [
+  {
+   "title": "US Dollar Rises Against Canada's Loonie, Treasury Yields Fall",
+   "source": "marketscreener.com",
+   "time": "2026-11-26T18:31:21Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbXA5R0ZoVnpIRW1vNTN6SDlVY3NfdHltc3BFZGFDS2tWVDIzNTFXalc5WHhnQ1lLXy12NWFSTlZZaGxZMmJDcUM0UmlvZU1yQmtsLUh3djQ3OWswN3ROQVhMRTRNbHI5NVhoWDRTRmpKdE1iS3B3TXZWSWY0OEZIcFV5T2ZDejEzdGFSTGJIbmt4MmJENk5qOUZGeVpxZjdzeHdKaFJOR1BxNFlNalNoQWd6NA?oc=5",
+   "tags": [
+    "USD",
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "Trump doubles down on his tariff agenda",
+   "source": "Financial Times",
+   "time": "2026-11-26T18:31:18Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOEw1dWg4Zk1kZDVIdTlQckpIRjV0Ny1BMTI0RVFESGdVbkNMSHNZYkpndVlPMnZibHExS1pORE80SmxLaGJyQ0p1MExPVHlzbEVJZlI1amJpdkQ0eDAtV2NzOVJlcUhzLS1oNWFLZnRGUmNoZldCQ2NtaWhnRzZtczFqNGc?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
   {
    "title": "Opinion | Putin Extends His War to Europe—He’s Not Our “Friend”",
    "source": "WSJ",
@@ -165,6 +184,15 @@
    ]
   },
   {
+   "title": "EU leaders struggle to agree on long-term budget, more money for Ukraine",
+   "source": "Al Jazeera",
+   "time": "2026-11-26T17:53:44Z",
+   "link": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Tech billionaire takes his case against red tape to the Federal Reserve",
    "source": "The Washington Post",
    "time": "2026-11-26T17:52:50Z",
@@ -180,6 +208,15 @@
    "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "UK to invest £9.5m in Ukraine windfarm to bolster war-hit energy system",
+   "source": "The Guardian",
+   "time": "2026-11-26T17:49:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWk1oZFB3b0xvODhlY2ZQNmlmNGlIc0hWVGt2X3ZSR0VOQmV5WmdwTjRQZDZlVTlmU1VwMDJpMnpOakdJSzQ5MHVHc3VYWk03WVM4Y3N2Wldtd2JDRXlnakJ0eWtsQXdWR3NabzBoNlVVYXJHYlItYmZnUDhCMFJHY0cydFlrelkxZ3k2ZWpWYkNRTmlvQS1iS0RNTHpYVDdSVUJYbXJwa1ZiTGs?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -245,6 +282,17 @@
    "tags": [
     "TARIFF",
     "CHINA"
+   ]
+  },
+  {
+   "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
+   "source": "Bloomberg.com",
+   "time": "2026-11-26T17:02:41Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5",
+   "tags": [
+    "RATES",
+    "INFLATION",
+    "GOLD"
    ]
   },
   {
@@ -512,19 +560,10 @@
    "title": "Fresh US tariffs spark China protest, but unlikely to derail trade talks",
    "source": "South China Morning Post",
    "time": "2026-11-26T14:57:54Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ1pRMzFzbWltX1lVRExqcXFObjFITmJHWVczZEkyRkFkd08taEtmWVVfcnBMNkw1ZV9rRWhRSUJUQmJPTEFEQ29zY2VkQWVtZDcwU2J1TGZ4OFpCYm9aT2hQdmp0WXhYNElQemswdTloRnc5cnJ5LWFVMDYtNmRKbVhFVTRyUDBRTU1pMXRYbzdTRVRNT1l0TnhXbk5fZUVZRUJXZ2JqRWJRSnA1clV6TEhHSlAxMGs5VjIzaGRLMUtyWVlRYU5B0gHHAUFVX3lxTE5fWTdIZHY5WWpDLVMxeFNVY2tiRUtKV2VXS0ZxZFZQWXZicmw3ZDVYT21FeDlWbDMyaW5BdjFaVGdFZzVFeW1ieWJFVnJiSTFCTGlCVzZRUWx4aVBVVXBfMWluOEFDajdvc1NVdlQ3ZzV2NnN3eTltc2t6NUVNMUZ1S1BMeEcyazhHdDJlc1lrTWthU2RBdGNSQWtldEZ5ZWk1Q2ZTdVhOUG5OeU9xM1VsSTUyUWVjZ3BoeG5INTJYMy13UmpEUWM?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1k3SGR2OVlqQy1TMXhTVWNrYkVLSldlV0tGcWRWUFl2YnJsN2Q1WE9tRXg5VmwzMmluQXYxWlRnRWc1RXltYnliRVZyYkkxQkxpQlc2UVFseGlQVVVwXzFpbjhBQ2o3b3NTVXZUN2c1djZzd3k5bXNrejVFTTFGdUtQTHhHMms4R3QyZXNZa01rYVNkQXRjUkFrZXRGeWVpNUNmU3VYTlBuTnlPcTNVbEk1MlFlY2dwaHhuSDUyWDMtd1JqRFFj0gHHAUFVX3lxTE5fWTdIZHY5WWpDLVMxeFNVY2tiRUtKV2VXS0ZxZFZQWXZicmw3ZDVYT21FeDlWbDMyaW5BdjFaVGdFZzVFeW1ieWJFVnJiSTFCTGlCVzZRUWx4aVBVVXBfMWluOEFDajdvc1NVdlQ3ZzV2NnN3eTltc2t6NUVNMUZ1S1BMeEcyazhHdDJlc1lrTWthU2RBdGNSQWtldEZ5ZWk1Q2ZTdVhOUG5OeU9xM1VsSTUyUWVjZ3BoeG5INTJYMy13UmpEUWM?oc=5",
    "tags": [
     "TARIFF",
     "CHINA"
-   ]
-  },
-  {
-   "title": "UK to invest £9.5m in Ukraine windfarm to bolster war-hit energy system",
-   "source": "The Guardian",
-   "time": "2026-11-26T14:57:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWk1oZFB3b0xvODhlY2ZQNmlmNGlIc0hWVGt2X3ZSR0VOQmV5WmdwTjRQZDZlVTlmU1VwMDJpMnpOakdJSzQ5MHVHc3VYWk03WVM4Y3N2Wldtd2JDRXlnakJ0eWtsQXdWR3NabzBoNlVVYXJHYlItYmZnUDhCMFJHY0cydFlrelkxZ3k2ZWpWYkNRTmlvQS1iS0RNTHpYVDdSVUJYbXJwa1ZiTGs?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -581,15 +620,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzg0dmRPZ0ZfQ19fNnNocXp2b3IwYmpMQTlLMEhLWmNIM1lGdzYtY0RDOWRxLWxZZXNRWllRdEFTX0cxMUgxSkh0U3FHbUNmTC1VS3RNZEpSV3NfUG4zNG1RVHpQUllIQ1dvcUpFN2E0elZjU0kxZm9NYlFrVVk0MEtxUnNNX1YyQkxFZHhEQnF3cDBKSmR0RUhPa2x4Nkx3ZE5SSndWZFBSam13NjI3VmY5UDNCM2lfRjlZ?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Can Trump continue with Iran war despite funding restrictions?",
-   "source": "Al Jazeera",
-   "time": "2026-11-26T14:20:59Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3RqQ0dlWHRjbm5jSTd1SjV0YU9vUlhIX1JCUTh6ZFh6RWVHSFY4V2ZWWWNjMG9DVEd6QnUxckNYdFZ1TGtjTjZqTDc5U3E4eUJwYUw5S0dUN0JLR19QazVucDdlai1IN1FTZlhZbGc3dmY3R1o5UEZVRFFiRmNGd2RUQ3piVmZ2VlBaczVkYXN0Yy01N1Fjd1B5cTVOYTl5NnpFZElB0gGrAUFVX3lxTFBzYkdXQXFreExwcXdDQ2Q3Ung3MlFVU21HMnA2RnN5dFdUeklpWHNtX3lBTUxPaThVSDBZMmZzOE5aYldab3l4cHJwQW1tTzNfODZGYTZOUlk2eEQwRFV1VWotclhidVlwVVc0SVRUODRGVGhKRUZqa3ptZ1M3MExfMUdVLUsyaTVvallfbTg3aldjNHNCS1ZlVHJNYWFPN1pMSk9QNTlaNXdQOA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -656,33 +686,6 @@
     "FED",
     "RATES",
     "GOLD"
-   ]
-  },
-  {
-   "title": "i-80 Gold: Trading At Just 0.35x NAV At $3,000/Oz Gold (NYSE:IAUX)",
-   "source": "Seeking Alpha",
-   "time": "2026-11-26T13:51:50Z",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVHFaT3lNTGdUX1Mxa0JQNnlIOTEzblFBdDlNXzlaV0dnTU5STDNhRkZMRDVWRmZRVmN5RHpsRVZOOVJCckdKNzY5UTRJVC0zcWdCQkhkMzJFeFVOTEJDRjZKZUg1REFWaFpYTVJDSGlQVzBlQzloaWwyMFdiRk9lQ3FJNVo4ZkpDNVZTdi0yMUoxbFRXTVVPa3lULUdZNzNwYnItRUNlX191RlBSSGE0?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Swiss economy expected to suffer only minor hit from higher US tariffs, economist says",
-   "source": "Yahoo Finance UK",
-   "time": "2026-11-26T13:50:53Z",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUndBOTlncUtUbE1yUWpmRnNGeVpDSFNJTE9heUdFYW4tU0JDMjd4dTZXdTFWenRlYVhtWm1jR0QwV2VISFZ3VVZ5RGM5VnFWRTIyTXVFeVJiN3NQRHoxOWhVT1UzQktmb0s4SF9iVUE1UXFjRl9kcUlVb3B1dDdDcUJkQ1U4VTdwVFNN?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
-   "source": "The New York Times",
-   "time": "2026-11-26T13:45:53Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDVjcXNHbGwyZERtU1NYdThmTDcybjJkT2lyY2hLSTZfS0ViNkJ1QWFzYlM3QVk2VVU2MXJOeXdDR2I2bHU5b0VwQ3g2SXFFMGJSUVFVSVpnY3VERjhrLUhlR2lkSVZrZFBIOHRPZVVicGhQRnRZZ2VrX3hFRm5KUzljT3BnQ1dTWHRXdWZZSEtvenoySlE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
