@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T11:36:28Z",
+ "generatedAt": "2026-11-26T12:04:50Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -42,7 +42,7 @@
   "investing_commodities": {
    "http": 200,
    "items": 10,
-   "kept": 9
+   "kept": 10
   },
   "investing_news": {
    "http": 200,
@@ -61,13 +61,13 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 53,
+   "items": 54,
    "kept": 4
   },
   "bbc_world": {
    "http": 200,
-   "items": 28,
-   "kept": 7
+   "items": 35,
+   "kept": 9
   },
   "aljazeera": {
    "http": 200,
@@ -80,19 +80,18 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 429,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 429"
+   "http": 200,
+   "items": 28,
+   "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 26,
+   "items": 31,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 61,
+   "items": 50,
    "kept": 12
   },
   "gn_war": {
@@ -102,23 +101,23 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 9,
+   "kept": 9
   },
   "gn_yields": {
    "http": 200,
-   "items": 21,
+   "items": 19,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 4,
+   "kept": 4
   },
   "fed_calendar": {
    "http": 200,
@@ -126,6 +125,24 @@
   }
  },
  "items": [
+  {
+   "title": "Trading Partners Wince at Trump’s Latest US Tariff Plan",
+   "source": "Bloomberg.com",
+   "time": "2026-11-26T12:00:01Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNczZySnhjRzBBQldfVFRuNE5hemdXWU1PZnhleE5WVm9jOVFwVW1FeUtYZU9ZemEzZjNEcGlaVkNVYkM2Yy1xbFhJVS1CMGZ1dHZyMlVIUGxvMGV2RkQzQ3Z0azNVZlNXYUlRNTM2S0lndV9JZjkwS3luM2RTRFlKY1ZkRTlBNzA0R1RSQVFPZGc4SFBTczhXRTgtRXFYckJ1TWc?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+   "source": "CNBC",
+   "time": "2026-11-26T11:44:19Z",
+   "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+   "tags": [
+    "TARIFF"
+   ]
+  },
   {
    "title": "Tech billionaire takes his case against red tape to the Federal Reserve",
    "source": "The Washington Post",
@@ -136,12 +153,21 @@
    ]
   },
   {
-   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-   "source": "CNBC",
-   "time": "2026-11-26T11:26:52Z",
-   "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+   "title": "European shares rise as benign U.S. tariffs and Thanksgiving lull offer relief",
+   "source": "Investing.com",
+   "time": "2026-11-26T11:24:07Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWWJYZnBRMFQwTDY5blN3VE0tSk9sQmhJN29KQjdrNTZwQ1FIOXpLZHNnTUpJbkY0Qm5wYS1VWFh5Z2kzWEtwTDJhUG55a0xXRjRFU25ZeGptWlU5azVYTWRreG9XSWtvbUZ3MTNReEVneVRLbG9XOS1YbDgxQWwyUWZmTjVoQk9NWlNEUTVOZDB5UWFBMzRYNmtuTmdCNGx0MG9WXzM1Yjl2bnNSQUR1VXU1NEc4NzdRWnZFbk4wY0hoZ2s0NEt3?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
+   "source": "BBC",
+   "time": "2026-11-26T11:21:50Z",
+   "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "OIL"
    ]
   },
   {
@@ -151,6 +177,15 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQTU9Bem1UcHdtT2s5T005dlJvaDZfMTZ3aTQ1UHpDVUNMbERrRTFpQ0pKNFI0alRqWWp6ODBNYTJuSVNIX2JBMEpDRFh2RmlvYkNISXByQlJrR0dvb1BvQ0hxZmlPSXhtY3FfZjB6eUl0S0dtb2hxcHJwZ2U3X3ZudWpyMFRodlVackNmbU5DOVJENVhmS0s5bzQ2Z3BSMEdyZNIBqgFBVV95cUxPc2NjTE95RV9JMXdFTy1CdVNSdm1mRUt3cGxydjdid21HVFAza2pLcGRiY2FzOEUxeHhKNHZRcjdFeHRxQ0h5ZjYzZHRFWWhMSTFqSnJmVU9BNnB5WnB4VGpYN2Z3RU5vT24wVlhQeXpqYURoWnlXLW5QbXNvWS1DSzd5VGVNM0dPcnkyQkE1NEJCRlROejRDaE0tSXR0aXFYakJyMVNQYkRyZw?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold Confidence Needs Rebuilding",
+   "source": "Investing.com",
+   "time": "2026-11-26T11:15:00Z",
+   "link": "https://www.investing.com/analysis/gold-confidence-needs-rebuilding-200692386",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -226,6 +261,24 @@
    ]
   },
   {
+   "title": "European stocks rally as tech, bank stocks rebound, tariff fears ease",
+   "source": "Reuters",
+   "time": "2026-11-26T10:22:47Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDAyOS03ZTA0ZzRTRmR6d2diZDJ5X0V0ejhjSlg1MzhMaTlCNU1LNTBCYVlJS2VhVV9USmNxYnNGYk9CaTdYckN1NVBZLWNKQm9BYXB5SEpNYVMyN3hzbFRjaExPY3piakNDakM1Qm1NSDJ1MFJLZzF3NGN5TFVCYThrYmNzZFhyVzN1bVBhaXh6a2t4cUxNQzBGUnpWVVFxb1l2cFR5WE1UZ0tvUEpDcw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+   "source": "BBC",
+   "time": "2026-11-26T10:14:08Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
    "source": "Al Jazeera",
    "time": "2026-11-26T10:07:30Z",
@@ -266,14 +319,14 @@
    "title": "Could EU delisting of Chinese firm pave way for wider sanctions relief?",
    "source": "South China Morning Post",
    "time": "2026-11-26T10:00:23Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONk0zV204TnVCazB5LThvNlc0a3hoMzNXZFVSbjhnWjEzT1RkQU0wTE5qX3YxZ1pzVDJoQWtIeFNOYS05TDdadlRROXFaenh5RWtSZHBrb2oxMFRwbDh4QUswaVFib09PRHVjLXpQNXhRcTQ1WWt4dTN0MGlMSURTdjF4MHZoWjZaODFMR3ZGNkV4Vk5scEhJWU4yWk9FNDg0dzhsaWZOaVozTHJNUHdUZTA0bVBCWHlmX3Q3bkppMmpsTzEzNmRn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSmJiMnlnOVlfVkRTbnNPQVlUclUwRUhIeDhaV240OFdkSzRlMnVBSzJOZWphMVlvNGxhTW1wbU1HeUVTQkNGLXF6eFAwcE1vMjZBV0NJVDR3Vmk2VU8yMm5WLU5PY1g0NGdNMjJQUDhBNUxoZ2hYamo4ZkN2REFpMy00NEVLR0VmMFMzRWNKOGtRdmJrOG13eGlCOFU4Z1g2NE0ycmRwX3RjUUE4VlJBMXNZUWRhQdIBtgFBVV95cUxNWkZWc0xmR25JZ0RwMVBpalRYRU85MDBIMlN3N05tNkVOMUxTUm9SZUNZckpkRzNZQkViVnpmSU1NM3ludEpNTDJrcXQxM0RmRlV2Rk9iNDhFN2JYbl92SVZqYWhFZFYwc2pKVmdZajczbVhCRC13RzQxc2g4YktZYUxia0l5Qk5jWndhUXZ2UXBpckhzRW13aVhxSUY0WWNpNjh3eUFQWmVWRU9IYkg2bldRY0thdw?oc=5",
    "tags": [
     "SANCTIONS",
     "CHINA"
    ]
   },
   {
-   "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
+   "title": "Recruiters Lured Brazilians to Fight Russia’s War, Then Stole Their Money",
    "source": "The New York Times",
    "time": "2026-11-26T10:00:12Z",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVC01QXZKYmVBMGVqT0s0TExPOWFKWGkxNTVqZHE1STJhNUZZUmFBNWs2eG1Ca3BNQ0Y4ZXhreDdPNTBpX1ZmSE9OZkR1WUNnUF9ySlprQkxaVzRLakJUekFpY2VkeWJ6WVZzaVVMWUxBSGFOQVp5VlN4enI3VmdPRkQzUnRhVHVTWXhZcw?oc=5",
@@ -543,15 +596,6 @@
    ]
   },
   {
-   "title": "European stocks rally as tech and banks rebound, tariff fears ease",
-   "source": "Reuters",
-   "time": "2026-11-26T08:33:40Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDAyOS03ZTA0ZzRTRmR6d2diZDJ5X0V0ejhjSlg1MzhMaTlCNU1LNTBCYVlJS2VhVV9USmNxYnNGYk9CaTdYckN1NVBZLWNKQm9BYXB5SEpNYVMyN3hzbFRjaExPY3piakNDakM1Qm1NSDJ1MFJLZzF3NGN5TFVCYThrYmNzZFhyVzN1bVBhaXh6a2t4cUxNQzBGUnpWVVFxb1l2cFR5WE1UZ0tvUEpDcw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
    "title": "Watch Trump Aims to Keep Leverage Over Xi With 40% Tariff Threat",
    "source": "Bloomberg.com",
    "time": "2026-11-26T08:32:01Z",
@@ -618,67 +662,21 @@
    ]
   },
   {
+   "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
+   "source": "Kitco",
+   "time": "2026-11-26T07:56:08Z",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "The War on Hannukah 2026",
    "source": "The Times of Israel",
    "time": "2026-11-26T07:55:00Z",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZdDAtSHNKSE1UUG9qdGxFbXZxdkFILUhqRU53OC1uMGV5N0NOYUMtZ29PZTNseC1nSnhnVHVYeURMd2MtRWZuNXNtY1d3eXlrWXlpOEE1bElIbGVWRGptSGpEbGZWVEdK?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "French industrial producer prices rise 9.6% year-on-year in October",
-   "source": "Investing.com",
-   "time": "2026-11-26T07:50:08Z",
-   "link": "https://www.investing.com/news/economic-indicators/french-industrial-producer-prices-rise-96-yearonyear-in-october-93CH-5052175",
-   "tags": [
-    "INFLATION"
-   ]
-  },
-  {
-   "title": "Gold Price Forecast: Rally Toward $3,600 or Another Fed-Driven Sell-Off?",
-   "source": "Investing.com",
-   "time": "2026-11-26T07:41:27Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMklBMjBhbzhpckZGcl92UmZqcDh0ZUtySTVsSHBxekVPUmVUUEI4aTVET0ZfZWNwRTROaE1ORE5IYXZmZDIteExwdEhNclBWYnZ4SllwaHlJTHBhU0xNTVg4RnB1ZXYxbW5MMDlabWVXQ2w4SGVodnF5WnBINVVqRFlNR0NISldtU2pFUVMxbGNGdWxWVzRUZVhscC1lRzB1OXZCazZ2LWNFelBqVjhMQw?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "US proposes 35% overcapacity tariff on Vietnam, 20% if Hanoi signs a deal",
-   "source": "Yahoo Finance",
-   "time": "2026-11-26T07:36:00Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVnNuNVdvTnpvWkhRQmZZTDA5Z2tEdFR4bW9tT1kwRl9yc0hJSXpzWWM0amZ0c0sxMGVydEtqT01LX1lSU0N0VVBmTjlnckI4cUJ2eEdzcmJfc2VLTFRFTmp2U0xBVl9TWFBsbnRLVHRnXzZnZ1ZVbWJXR25vSTFOdjduS2M3U212NjZpTVdXZHJkbzBTVXJpS2VTX0V4SlR1?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Thirteen dead as mine disaster highlights illegal hunt for gold",
-   "source": "BBC",
-   "time": "2026-11-26T07:31:24Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
-   "source": "CNBC",
-   "time": "2026-11-26T07:30:11Z",
-   "link": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
-   "tags": [
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Trump brings out the tariff bazooka again, markets frown",
-   "source": "marketscreener.com",
-   "time": "2026-11-26T07:29:18Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUXJXOXlrS3hRaExqYWMzNHFMYUoxRjRtZm51aUtGTEhmbmlYZkRnVThsc2N1emNkQ0IxMFJCazZ3LU56Z0drRHVjZTRNQUpFZVpsUlZsZW95TEhxajU2ZTlEd2hIU0UwTWl4ZVZOQUxhYjJMSnZubVZueFJMN0hfTWlralgwbE5KTTZONVoxWDhRaWFpQUNFNFcxQ0I3dENIYklySkhjbGU3Rmxk?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
