@@ -1,17 +1,17 @@
 {
- "generatedAt": "2026-11-26T18:41:32Z",
+ "generatedAt": "2026-11-26T19:09:52Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
    "http": 200,
    "items": 20,
-   "kept": 3
+   "kept": 2
   },
   "fed_monetary": {
    "http": 200,
    "items": 15,
-   "kept": 1
+   "kept": 0
   },
   "fed_speeches": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 9
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 10
   },
   "whitehouse": {
    "http": 200,
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 27,
+   "items": 23,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 21,
+   "items": 29,
    "kept": 12
   },
   "gn_tariff": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 13,
+   "items": 14,
    "kept": 12
   },
   "gn_oil": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,15 @@
   }
  },
  "items": [
+  {
+   "title": "The Guardian view on Russia’s war dead: the toll won’t stop Putin. Resolve in backing Ukraine remains essential",
+   "source": "The Guardian",
+   "time": "2026-11-26T18:57:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWEdiemswRjA4aENUb0tBQWZvUW1sRXpCaXJpV2ppeHhBRW51MDFsbGszVHdJcmwzaVNoeTZOVDk3N3YxTHBfS242QWZvVnJHMVAxUExWZ2ZJX2JBc0dJQzNEaTItTDlZWWJNUHYyWG5kTkN6V1IwZ3RNaHo4RFM0a0JmZVR1TGZxTXdta0VHc3paR2hTeUhqaDN2amdNU0NJVGFDMDAxU3kzMEsxS0RpcXhRWUQwNG45MnVRTVJXdUdXeHpIQTlnWi1YdXR4bUVSQ1V1azJNQV8wSTFnZzJ0V0Fmb0V6RWpmaTdZWldUaGRKMG8?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "US Dollar Rises Against Canada's Loonie, Treasury Yields Fall",
    "source": "marketscreener.com",
@@ -142,6 +151,15 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOEw1dWg4Zk1kZDVIdTlQckpIRjV0Ny1BMTI0RVFESGdVbkNMSHNZYkpndVlPMnZibHExS1pORE80SmxLaGJyQ0p1MExPVHlzbEVJZlI1amJpdkQ0eDAtV2NzOVJlcUhzLS1oNWFLZnRGUmNoZldCQ2NtaWhnRzZtczFqNGc?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Kushner explains the ‘good thing’ about Gaza’s destruction",
+   "source": "Al Jazeera",
+   "time": "2026-11-26T18:30:36Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -175,6 +193,15 @@
    ]
   },
   {
+   "title": "Tech billionaire takes his case against red tape to the Federal Reserve",
+   "source": "The Washington Post",
+   "time": "2026-11-26T18:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSVZoU0stTElBY1VHVk93NWpGbjZQeEFTQll0TXZBUE82dGVpMmVEOGpKbldjRGcxZERvTUl6SHF4eDRUdHV0Sm1YVVpLcWF5X0txSldhaWZMcFFJa2l4blpIVFk2M2p5N2NrbHFwYzY1Vm9YWTFOTFJkaFFwb2ZaQk9HczlteC1kQzQ0YlB4S2Qza2lvS0RkZllMT25pdmRDcXB3WUVna1poWDlXeE56VGFIeHFMS3ltNWZjTEt3cjM?oc=5",
+   "tags": [
+    "FED"
+   ]
+  },
+  {
    "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
    "source": "BBC",
    "time": "2026-11-26T17:54:22Z",
@@ -190,15 +217,6 @@
    "link": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Tech billionaire takes his case against red tape to the Federal Reserve",
-   "source": "The Washington Post",
-   "time": "2026-11-26T17:52:50Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSVZoU0stTElBY1VHVk93NWpGbjZQeEFTQll0TXZBUE82dGVpMmVEOGpKbldjRGcxZERvTUl6SHF4eDRUdHV0Sm1YVVpLcWF5X0txSldhaWZMcFFJa2l4blpIVFk2M2p5N2NrbHFwYzY1Vm9YWTFOTFJkaFFwb2ZaQk9HczlteC1kQzQ0YlB4S2Qza2lvS0RkZllMT25pdmRDcXB3WUVna1poWDlXeE56VGFIeHFMS3ltNWZjTEt3cjM?oc=5",
-   "tags": [
-    "FED"
    ]
   },
   {
@@ -238,6 +256,15 @@
    ]
   },
   {
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-11-26T17:42:26Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "China Railway plans $905.7 million investment in Zimbabwe gold mines",
    "source": "Mining.com.au",
    "time": "2026-11-26T17:42:24Z",
@@ -245,6 +272,15 @@
    "tags": [
     "CHINA",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
+   "source": "TradingView",
+   "time": "2026-11-26T17:39:53Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRk1hRXBYQlVtVTNtUVNtc1N0SkVPOTBhWTNtcmlQeDZSN0ZoUEYyLWRFckVIdVJlbmdnYktTNGFxWmtVaUdPYTdaam1hd2pkdldMTXcwRlRldjN6ZUdfZTlEZ2FMNEJfWnVjRGJMc1M4OWNwRnI5cU9JbFhMb0VJUk9kbVFLN1BCdXhhZlBvSDd0YlJ1cXZ5eEVGNkpwN2lxd1dWdi1yZ0V5Rkd1cGZSX05iejM0TVlrMnNn?oc=5",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -263,6 +299,15 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSXVKN203dmhrRzdjSEV3RC1tMTJnQV9XU1pUdnpwdXVucnlpQzl6RTBjVGhHQWZDRjAxV0Rxd0IwOXNSckNTeDc5TEtjZTRQdFFWdlMwbkdkZTBkNWRtWmVfQzFZT0F6c0Y2TTJjOXJRU3YzRUplVG1FNVVsRzE2M0Q5TkJLSEF4anRtci1LU3BQLVNKQlo2aDBObUZBNG85c0V5dmJDaG9ZcUNSX2R0eHlYeXg3RE1BTHc?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Mexico urges Asian trade partners to crack down on tariff dodging By Reuters",
+   "source": "Investing.com",
+   "time": "2026-11-26T17:19:01Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0tBTFUxemd5MWFYZ2JmREpwYW53ZHNlS3FMWmtkNXBtSGo2OWJYeUtrSDEwbV9CYl9tbUlQaDBHazd0ZHVhNEFaeURKeXNPTkZmSUNqM3NsNXFRSHV3ZUZVRWtKNW1lQ190VmNuZU5xYm5DMVlyZ3RvalFMcFJkS2dmNzdiNzZhMW5zM0k0VmVBVVlvd2RtcnhDbTNMbmc3UVNDa3haQ2syVXBYUGtkN29sX0tMR0VkM1VzcERhRQ?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -418,15 +463,6 @@
    ]
   },
   {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-11-26T16:12:25Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "New documentary 'American Doctor' shows war in Gaza with focus on health workers, hospitals",
    "source": "The Jerusalem Post",
    "time": "2026-11-26T16:02:45Z",
@@ -548,15 +584,6 @@
    ]
   },
   {
-   "title": "UN ruling disputes Israeli allegations used to dismiss UNRWA Gaza staff",
-   "source": "Al Jazeera",
-   "time": "2026-11-26T15:00:47Z",
-   "link": "https://www.aljazeera.com/news/2026/11/26/un-ruling-disputes-israeli-allegations-used-to-dismiss-unrwa-gaza-staff?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Fresh US tariffs spark China protest, but unlikely to derail trade talks",
    "source": "South China Morning Post",
    "time": "2026-11-26T14:57:54Z",
@@ -657,35 +684,6 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NcWduSVhYQjdUZzgwOHNMNHF1eHJ2cm1JVnhwXzVnS1VxTllmdW5UazFtVlBtSVlWYmhqQTEycGtVNjdBamZWeTBkd0xwOHBxUmZCekwtbkhJaDlZR0Z4X3RLd2pVbjRMbjkwSlJYVVNmYVBLRGVOQUhLLVN5Zw?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "European Stocks Rally as US Tariff Proposals Ease Concerns and Technology Shares Recover: DAX, CAC, FTSE100",
-   "source": "Yahoo Finance UK",
-   "time": "2026-11-26T14:10:31Z",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDAxVGFpS2R1UjZqMXF1ZG94NHZweWw0MU1LTEJzN0ZDZUFjdDl5eW1fOWZ5dEZ3ZzFDQWFhVTFHUEptQ25WOXI0dEtNd1JtcVBfXzEyaTllV0g3RXFrWVRXU0ppbE94U0hBT0pITzd1YmtqTHJZc0ZQdHZVeVdMMjZ1YkFCZms?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Oil: Supply concerns support prices ahead of OPEC+ meeting – ING",
-   "source": "FXStreet",
-   "time": "2026-11-26T14:04:20Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZndJOWlIWHlTRTR0eHhBVWRPMFhkTFNSMVU0U2J6NTBFLW1ZRVNHSGJRaHlOS25GZ2pnSjI5OE9SZkVOMWxLbXZlcktrLVlmcUpESVFWMFRlN0EwdDhtR2Y2eFpWMDQzR0RibWo5QzFWWEgtTGNldU0ySTNRdkRva3FEd01LV2FyTU5wMXV5TDZ6b0JZdnpObHc3cHJEVXpwVGRmTGZR?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Gold slips, silver steadies as Fed rate hike expectations persist in holiday trading - Kitco AM Report",
-   "source": "Kitco",
-   "time": "2026-11-26T13:54:01Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNXFfM3AxNjAxLVVEMXMzVEhVc3FvUXFNaDFuRlV6dmlTVEpsNGdDZU5VOGZZWTh5eUJ5dWQzZlByZ2ZIcE9nX01Tak5KRDN6Q1Z2Z3Jqbk9WYzVYZVVtVjNobWxndnFSZk02TXo3Vlk2Z0pDZUFGbDZKSE00SXpVYWlSVmZjdWZmQ2xxUTF2RzZnYllpUUhaYm1SV1dGa0o3SUZndmd4dlFQSXNWN0gzUnhUbDZlQQ?oc=5",
-   "tags": [
-    "FED",
-    "RATES",
-    "GOLD"
    ]
   }
  ],
