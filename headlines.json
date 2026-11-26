@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T13:58:02Z",
+ "generatedAt": "2026-11-26T14:26:29Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,17 +57,17 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 8
+   "kept": 10
   },
   "bbc_business": {
    "http": 200,
-   "items": 55,
+   "items": 56,
    "kept": 4
   },
   "bbc_world": {
    "http": 200,
-   "items": 35,
-   "kept": 9
+   "items": 31,
+   "kept": 7
   },
   "aljazeera": {
    "http": 200,
@@ -81,12 +81,12 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 26,
+   "items": 28,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 27,
+   "items": 26,
    "kept": 12
   },
   "gn_tariff": {
@@ -101,8 +101,8 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 10,
+   "kept": 10
   },
   "gn_yields": {
    "http": 200,
@@ -111,13 +111,13 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 8,
+   "kept": 8
   },
   "fed_calendar": {
    "http": 200,
@@ -126,12 +126,78 @@
  },
  "items": [
   {
+   "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+   "source": "CNBC",
+   "time": "2026-11-26T14:20:44Z",
+   "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+   "tags": [
+    "ECB",
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Brazil’s Embraer CEO says US aircraft tariff will hurt airlines By Reuters",
+   "source": "Investing.com",
+   "time": "2026-11-26T14:20:44Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzg0dmRPZ0ZfQ19fNnNocXp2b3IwYmpMQTlLMEhLWmNIM1lGdzYtY0RDOWRxLWxZZXNRWllRdEFTX0cxMUgxSkh0U3FHbUNmTC1VS3RNZEpSV3NfUG4zNG1RVHpQUllIQ1dvcUpFN2E0elZjU0kxZm9NYlFrVVk0MEtxUnNNX1YyQkxFZHhEQnF3cDBKSmR0RUhPa2x4Nkx3ZE5SSndWZFBSam13NjI3VmY5UDNCM2lfRjlZ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Can Trump continue with Iran war despite funding restrictions?",
+   "source": "Al Jazeera",
+   "time": "2026-11-26T14:18:40Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3RqQ0dlWHRjbm5jSTd1SjV0YU9vUlhIX1JCUTh6ZFh6RWVHSFY4V2ZWWWNjMG9DVEd6QnUxckNYdFZ1TGtjTjZqTDc5U3E4eUJwYUw5S0dUN0JLR19QazVucDdlai1IN1FTZlhZbGc3dmY3R1o5UEZVRFFiRmNGd2RUQ3piVmZ2VlBaczVkYXN0Yy01N1Fjd1B5cTVOYTl5NnpFZElB0gGrAUFVX3lxTFBzYkdXQXFreExwcXdDQ2Q3Ung3MlFVU21HMnA2RnN5dFdUeklpWHNtX3lBTUxPaThVSDBZMmZzOE5aYldab3l4cHJwQW1tTzNfODZGYTZOUlk2eEQwRFV1VWotclhidVlwVVc0SVRUODRGVGhKRUZqa3ptZ1M3MExfMUdVLUsyaTVvallfbTg3aldjNHNCS1ZlVHJNYWFPN1pMSk9QNTlaNXdQOA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Brazil's Embraer CEO says US aircraft tariff will hurt airlines",
+   "source": "Reuters",
+   "time": "2026-11-26T14:15:44Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY25OMnN4NU9UMkpqZXcxWk5oMkdHRnR3alJpWVZfMnZVOEN2U1k3Z0xkVTdEZTFoSm9KdXExUnVReGhGeDl5SnprUncxOXpzSGpOazRVOEMzREczYzF2ODNaTkh4b2l4Q1dCU1JhekJIVXFNX1J1eTdlNmFpbTVSYU5BRUQwRmZzU3BvMjEyTmhOd3JXZlRjY1cwUjV0LWl0QkhVTVUzQmFKYmlJaEtQdXZORUdnZ25GZnZHcU04UEMtWDg?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold slips, silver steadies as Fed rate hike expectations persist in holiday trading - Kitco AM Report",
+   "source": "Kitco",
+   "time": "2026-11-26T13:54:01Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNXFfM3AxNjAxLVVEMXMzVEhVc3FvUXFNaDFuRlV6dmlTVEpsNGdDZU5VOGZZWTh5eUJ5dWQzZlByZ2ZIcE9nX01Tak5KRDN6Q1Z2Z3Jqbk9WYzVYZVVtVjNobWxndnFSZk02TXo3Vlk2Z0pDZUFGbDZKSE00SXpVYWlSVmZjdWZmQ2xxUTF2RzZnYllpUUhaYm1SV1dGa0o3SUZndmd4dlFQSXNWN0gzUnhUbDZlQQ?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "GOLD"
+   ]
+  },
+  {
    "title": "i-80 Gold: Trading At Just 0.35x NAV At $3,000/Oz Gold (NYSE:IAUX)",
    "source": "Seeking Alpha",
    "time": "2026-11-26T13:51:50Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVjM2ZnJOT0lvckZGZlE3N1hDUFVqMUgwQ2tqNmNkVjRhaEZwTjlzekM5Mk0wU3V5Q3N5elNzeFpJNnV5dU1oUHFJd0I0MnUzbEpaN29pUTVIU0NOWkpBalB1Yk04a3VNQ0NTeHVMZWh6REFLeWF5d2ZBM0l5NGE2SUtkbVpSWktVMDRxMk9ZRkF0aWJlem43WU16VHlrTGZlMFZMekdNNGVJd3Iyd0w0SHFYUHl3NTZwaXJv?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVHFaT3lNTGdUX1Mxa0JQNnlIOTEzblFBdDlNXzlaV0dnTU5STDNhRkZMRDVWRmZRVmN5RHpsRVZOOVJCckdKNzY5UTRJVC0zcWdCQkhkMzJFeFVOTEJDRjZKZUg1REFWaFpYTVJDSGlQVzBlQzloaWwyMFdiRk9lQ3FJNVo4ZkpDNVZTdi0yMUoxbFRXTVVPa3lULUdZNzNwYnItRUNlX191RlBSSGE0?oc=5",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "Swiss economy expected to suffer only minor hit from higher US tariffs, economist says",
+   "source": "Yahoo Finance UK",
+   "time": "2026-11-26T13:50:53Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUndBOTlncUtUbE1yUWpmRnNGeVpDSFNJTE9heUdFYW4tU0JDMjd4dTZXdTFWenRlYVhtWm1jR0QwV2VISFZ3VVZ5RGM5VnFWRTIyTXVFeVJiN3NQRHoxOWhVT1UzQktmb0s4SF9iVUE1UXFjRl9kcUlVb3B1dDdDcUJkQ1U4VTdwVFNN?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "After a kingpin’s arrest, Sinaloa’s drug war could get worse",
+   "source": "The Economist",
+   "time": "2026-11-26T13:45:02Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazNnUkZVd0Q0NHp4Szc1Xy16YmhLMXJJbm1NRy11R29xV0RvNEtoRkpFV2RtR0tvZ2xOeXBCYk8xTUR3amFzX0MwSjVtVFM2TUtHV2FpNWg2UDIzckZvNUdoampycG0yZFJubEd5b1NEcW5LNk9iQ1ZURVhZVnJMTkZDS2RGMDNOR1BRcWJGSDVxYjN6cTdJcG5ERV9qdTlGUDBXbDhFSHk3YlU?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -144,6 +210,16 @@
    ]
   },
   {
+   "title": "OPEC, Allies Face Tough Choices as Surplus Builds, Hormuz Risks Persist",
+   "source": "WSJ",
+   "time": "2026-11-26T13:27:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ19ETWdNTkIydlFuaDNsSGNHR3R6VmtyT0J5T3VKa0w3Mm9LLVdsd3UtM3hJT3RkWGdiTWlJS29TQzRxLWxjcDdBb2hCS1B6MG4yMU42c2hNSnprdVkxZmY1cU9VLWFCRDFtUUdRZkhqTTc3Ujd1YlpsQXlCdS04TnA2X2xtTjBYR0xhaVVqR0JIUGdWM3I3clBqcXB1OWlCZE5KcnFXWXp3MFVDZGc1OXhoOTJTdVQxZXc?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "OIL"
+   ]
+  },
+  {
    "title": "Gold Price Forecast: Fed Rate Hike Bets Limit Recovery From $3,425",
    "source": "FXEmpire",
    "time": "2026-11-26T13:24:46Z",
@@ -152,6 +228,24 @@
     "FED",
     "RATES",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Semiconductor chips are the new oil. Here's why",
+   "source": "CNBC",
+   "time": "2026-11-26T13:19:25Z",
+   "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Trump Is Hiking Tariffs Again. Here Are the New Tariff Rates on 14 Countries",
+   "source": "Yahoo Finance",
+   "time": "2026-11-26T13:17:38Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNenlTeFhoc2tNMU1lRjBlck91OWtjbzN2NHhLRmM3WmlqWE1TeFI5d2phS2dlNzE3a2VWNU5rdTRDM1k3RHp1bDlLSm5YTTUtN2JSVS1MMEJmM1docXJhSFhGVW4wcG41c1RsRWpJaXRDNGpaakd5em5haE1VSVR1Z1RQMHBxM0syTXZnM1NCVWpvZzZrVzlTU1hBcXY0VFU?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -320,7 +414,7 @@
    "title": "Russian court jails Colombian fighter for 20 years over Ukraine war role",
    "source": "South China Morning Post",
    "time": "2026-11-26T12:16:48Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZHhxRi03R0F0T2R5VVZvLW1DUWhOLTVGSzlWWlpRS0Zxakt3dVhiNDlDMEdncXhJMVc3NlpsN2pYOHZDUnVtMUlrdklSRHVNN0ZsdnZibmNjcWJIQ1BSbzFNTnM1MXludnFYTkhqdEVkdTY4dE1qRHRNS2l3SU9FYklPVmt4S2FaZ09nMkI3WGdZVHQ1OXg4OUlwaWNoZy1sSEJiRXhLX3kwbTdXUS1SVklteHdlWUw3Q0FiZ1ZLN1XSAcABQVVfeXFMTXBkYWVfaWw0R3JzcTZYeWpoakhMWWUtSldYYVExRTdhNkxONXFEMDNRelNzSXlYeERoR0pHdG9yVWJqc2tCOUFaN2E0NXd1WXh3RFg0MkF1d0ZVUk5oeDFLYzlyWjB0b2hZTmlkUDh6ekJ0ai1EdTdhYWJZTjRzTW1GOGM1Tkt4V3RyZFB4Zk9YS0lNOUNuYnZBMkV5WDljdDhoT1VfQVpNYlE2Qk9kQVNTTm1reVVmN1JueE5zQnc0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGRhZV9pbDRHcnNxNlh5amhqSExZZS1KV1hhUTFFN2E2TE41cUQwM1F6U3NJeVh4RGhHSkd0b3JVYmpza0I5QVo3YTQ1d3VZeHdEWDQyQXV3RlVSTmh4MUtjOXJaMHRvaFlOaWRQOHp6QnRqLUR1N2FhYllONHNNbUY4YzVOS3hXdHJkUHhmT1hLSU05Q25idkEyRXlYOWN0OGhPVV9BWk1iUTZCT2RBU1NObWt5VWY3Um54TnNCdzTSAcABQVVfeXFMTXBkYWVfaWw0R3JzcTZYeWpoakhMWWUtSldYYVExRTdhNkxONXFEMDNRelNzSXlYeERoR0pHdG9yVWJqc2tCOUFaN2E0NXd1WXh3RFg0MkF1d0ZVUk5oeDFLYzlyWjB0b2hZTmlkUDh6ekJ0ai1EdTdhYWJZTjRzTW1GOGM1Tkt4V3RyZFB4Zk9YS0lNOUNuYnZBMkV5WDljdDhoT1VfQVpNYlE2Qk9kQVNTTm1reVVmN1JueE5zQnc0?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -566,15 +660,6 @@
    ]
   },
   {
-   "title": "COMMENTARY: US trains to bury thousands of war dead. Would it pay such a price for allies?",
-   "source": "Reuters",
-   "time": "2026-11-26T10:30:54Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWXYzdVFfYl9LbmVvemt3MTZuOWtidWxlTHNvR2pnZVB0QTVxc1ZZRWNITEo3SnJnTmhiN0NVdjctbjdWRWlmaEFtOWFianB3cHdjSnZJcDhWRGNoMHdJVDNmWVFkYzdOdjF4MGU3RDlMYV9lVjl6bnRaSy00NjQ4VVpoeWV1MVpUZ1BXN182X0ZvcFdpSUNQY2h2aG1UcnROM0l0UC1YN3MtdW1NUnVlNA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Singapore rebuts US tariffs logic on pensions scheme, as Southeast Asia hits back",
    "source": "South China Morning Post",
    "time": "2026-11-26T10:30:03Z",
@@ -590,89 +675,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
-   "source": "Al Jazeera",
-   "time": "2026-11-26T10:07:30Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTkJGcFdNRHNsLUJweEJkN3dwUmF0YV9zQXNFZFp4OWVfaTRzcVJqdkZSUGFqLUhzdExCNnlIOVJLZ29vNFVSa2hETEdBXy04SnpvampYVE9JR3lQYnZ2RUxuZThQbTNzT2NMcE9FcEg2S1c1czRCbVBoS1lIZzhjVmx1TXBzN0lJeGtjQ3o2eTFWc1h3MVRTTl9kUDJYLVhKQkRsM0dtUdIBrAFBVV95cUxPOE5mb2V4WnlCR2JvSHV1R3dkTXBrdURVU25yekZwZlVrNk5ndDJtN2Qzc0oxM0NwTkRyZDhqZHYtaTFFcXJtUWlZYlJlSkNPVVd6NDFzdHplYVk4b3M3VENrTlpTUkRKMzBGcUpWc0JiNHhVT2JINk1xQmVSRW5uX3k0LU1TT2lrMllIY01tOUw5T1FZQm1WSk1UaDU0aWtlUXVFS0lrRmlYQ2lC?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
-   "source": "The New York Times",
-   "time": "2026-11-26T10:04:31Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDVjcXNHbGwyZERtU1NYdThmTDcybjJkT2lyY2hLSTZfS0ViNkJ1QWFzYlM3QVk2VVU2MXJOeXdDR2I2bHU5b0VwQ3g2SXFFMGJSUVFVSVpnY3VERjhrLUhlR2lkSVZrZFBIOHRPZVVicGhQRnRZZ2VrX3hFRm5KUzljT3BnQ1dTWHRXdWZZSEtvenoySlE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Opinion | The Next Fed Leader Should Be a Bot",
-   "source": "The New York Times",
-   "time": "2026-11-26T10:02:41Z",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY3d4aHMyWlBfRmZ4bThickt0RDFpTDA0Ti1SbDRhMElqc0tucmYwRHVXUDdMay1kMHNNazJJX2VlU3dhVGhjNHp3YkxldkxsSEVkcUNIOTNudVRtd1FXNVdKdXhJTVpzR19ObzRfenVzc2lTS2V4T0JqRm9rd1JBWGo5V0ZWVU5XNG1uYklyQQ?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes",
-   "source": "The Guardian",
-   "time": "2026-11-26T10:02:00Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWkZ2VEFwQUxLd1YzSWVWVkJhTWhLaVVyYjZUYkoyNk95RElmLXFGTVdpdkVQOXpDXzJGVFZoay04S21qVjJ6VENIYWVCTk91UElFcnFrWUk1cmdESlVyLTRqNUVaX3FZalhmbVVReGFOQTdQUVc2b1hXOFFjSzVybHJiMjhQSXpSY0JPSTJKOEp6OHgxNjV2MG1UWC1JcVA2bkxsMXc0bkhDT0otcUU1UkkwOWRaRGh6NHc2V0NNdw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Could EU delisting of Chinese firm pave way for wider sanctions relief?",
-   "source": "South China Morning Post",
-   "time": "2026-11-26T10:00:23Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSmJiMnlnOVlfVkRTbnNPQVlUclUwRUhIeDhaV240OFdkSzRlMnVBSzJOZWphMVlvNGxhTW1wbU1HeUVTQkNGLXF6eFAwcE1vMjZBV0NJVDR3Vmk2VU8yMm5WLU5PY1g0NGdNMjJQUDhBNUxoZ2hYamo4ZkN2REFpMy00NEVLR0VmMFMzRWNKOGtRdmJrOG13eGlCOFU4Z1g2NE0ycmRwX3RjUUE4VlJBMXNZUWRhQdIBtgFBVV95cUxNWkZWc0xmR25JZ0RwMVBpalRYRU85MDBIMlN3N05tNkVOMUxTUm9SZUNZckpkRzNZQkViVnpmSU1NM3ludEpNTDJrcXQxM0RmRlV2Rk9iNDhFN2JYbl92SVZqYWhFZFYwc2pKVmdZajczbVhCRC13RzQxc2g4YktZYUxia0l5Qk5jWndhUXZ2UXBpckhzRW13aVhxSUY0WWNpNjh3eUFQWmVWRU9IYkg2bldRY0thdw?oc=5",
-   "tags": [
-    "SANCTIONS",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
-   "source": "The New York Times",
-   "time": "2026-11-26T10:00:12Z",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVC01QXZKYmVBMGVqT0s0TExPOWFKWGkxNTVqZHE1STJhNUZZUmFBNWs2eG1Ca3BNQ0Y4ZXhreDdPNTBpX1ZmSE9OZkR1WUNnUF9ySlprQkxaVzRLakJUekFpY2VkeWJ6WVZzaVVMWUxBSGFOQVp5VlN4enI3VmdPRkQzUnRhVHVTWXhZcw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Brazilian Duped Into Fighting for Russia: ‘War Is Hell’",
-   "source": "The New York Times",
-   "time": "2026-11-26T10:00:09Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUtzUk9TS1EtOENIeS1WOUVKS21xTTA5MFNRa1lmTmtHbnN3cDloV0JLbklJeGlnNDlCWGxBdmpnVGZ1QVVPNTNHR2NZNFU0Z0FTOW9ZZHF5dS10VGRWZnZFS3BRbGtleGo4T21CMmxGX0pIV1EyLVdFVkY4VkNjWEgzN2pPZkJE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "How Trump’s Iran War Was Betrayed by AI",
-   "source": "Newsweek",
-   "time": "2026-11-26T10:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpc0tiLWpqZGZ1Rl80Q0NnLWdNS2VqYjZlU05WNmlWOEVsZlljbktOQmptWXdOQzFPNXlqa3JmMy1wRjZOTWNTZFdMYmdDRmJGN2xlZXdYWHl2LVF2TmUzdE1xcDJPbVpSXzh2X2RrYmhXWjdoRUZaOW80bmU?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US Rig Count Holds Steady as Oil Production Hits Fifth Straight Record",
-   "source": "Investing.com",
-   "time": "2026-11-26T09:57:00Z",
-   "link": "https://www.investing.com/analysis/us-rig-count-holds-steady-as-oil-production-hits-fifth-straight-record-200692382",
-   "tags": [
-    "OIL"
    ]
   }
  ],
