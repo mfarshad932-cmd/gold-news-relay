@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T08:46:23Z",
+ "generatedAt": "2026-11-26T09:14:43Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 9
   },
   "investing_commodities": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 25,
-   "kept": 6
+   "items": 27,
+   "kept": 7
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 11
   },
   "whitehouse": {
    "http": 200,
@@ -81,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 27,
+   "items": 26,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 58,
+   "items": 55,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 20,
+   "items": 21,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 20,
+   "items": 21,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,6 +126,35 @@
  },
  "items": [
   {
+   "title": "EM assets climb as investors shrug off US tariff threat",
+   "source": "TradingView",
+   "time": "2026-11-26T08:53:49Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX1ZGUy1Vb0VfNE5iRXhadnZNSlljZ1UyR050bjloeWNVTUlZck1pNEt1c3VJQ2pqd3JlblR4MHI3T2VHYmYtT1BvRm1EQWh5NXJjVzlXNTc2R3ppa0lwcXlVbFZ0QUdPdnZ4ajZESExva2YwcFRnakNUMWp1Zk11ZVFlSXp1OHYzN2RjcmJwTkZkbndCeWNOVzNlcE92bVZkOFJDUHA1SUJIMXRZV2FBa3o1bWF3bnJyVmZHVmk5bFZpSzA?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Explosion occurs at oil facility in Thailand’s Bangkok",
+   "source": "Al Jazeera",
+   "time": "2026-11-26T08:49:20Z",
+   "link": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Gold Price Forecast: Lower Yields Fuel Rebound Despite Fed Hike Bets",
+   "source": "FXEmpire",
+   "time": "2026-11-26T08:49:18Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZlBUYWVDNmx4RVZ4X2JpNHlocy03NmI3YVIxQkhUWkphRG0yTVZNc19nVk4wS3JzUGpDNUhoMVV6LUp5Zk9sRlFFYUxhd3FNbm1xZWJIaW52NV9TTW04YmE3YVNoVk83OWlCMW95cnFYNWZ0OTNPb1Z1bGVmSW1nUnlqNGVQeFB5MjBIa1A4RTdaOVZxY2JUQjVLR2llSnRhRGZoZ0JYTnE2a0V2V1hwR2toX20yY0VYa0E?oc=5",
+   "tags": [
+    "FED",
+    "YIELDS",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters",
    "source": "CNBC",
    "time": "2026-11-26T08:42:26Z",
@@ -135,14 +164,13 @@
    ]
   },
   {
-   "title": "Gold Price Forecast: Lower Yields Fuel Rebound Despite Fed Hike Bets",
-   "source": "FXEmpire",
-   "time": "2026-11-26T08:37:01Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZlBUYWVDNmx4RVZ4X2JpNHlocy03NmI3YVIxQkhUWkphRG0yTVZNc19nVk4wS3JzUGpDNUhoMVV6LUp5Zk9sRlFFYUxhd3FNbm1xZWJIaW52NV9TTW04YmE3YVNoVk83OWlCMW95cnFYNWZ0OTNPb1Z1bGVmSW1nUnlqNGVQeFB5MjBIa1A4RTdaOVZxY2JUQjVLR2llSnRhRGZoZ0JYTnE2a0V2V1hwR2toX20yY0VYa0E?oc=5",
+   "title": "New Tariffs on China Could Undermine Trade Truce with U.S.",
+   "source": "WSJ",
+   "time": "2026-11-26T08:42:00Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUcwQ3JjLUlNWjhSZnFuYWMzVEFGd0RMR2lZT2VmWUdBejNHckpxbWFSb0lsTUNuTzktdm9qTk94eTgxMXFRQkplOTdZZkFDSEVaUkVZcWFfb1lEMTNEVzFHd013bXhoRFU4ajZjOTB0UXFhM1FacVliRVdqcFY5dG11UURVYmFZang5ZEpaZEVCazhBMjFz?oc=5",
    "tags": [
-    "FED",
-    "YIELDS",
-    "GOLD"
+    "TARIFF",
+    "CHINA"
    ]
   },
   {
@@ -179,6 +207,15 @@
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/rescuers-recover-bodies-after-flood-at-illegal-indonesia-gold-mine?traffic_source=rss",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "FTSE 100 today: Stocks rise as tech rebound offsets tariff worries",
+   "source": "Investing.com",
+   "time": "2026-11-26T08:23:38Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSmhnLUIyb2VhbDF0NXp2S2RDQURLT2tDTjYxMl92UTExaWZyOGExYkFjd2NPeWxHbHdLYnRXU1c3NjA3RjU0ZHdsQ3lKbkNYVFZTVXNTUDUwWmhZdkV2d1BCLWRtcm1YaTV1MFk2QkpjSnpFOWp5VUUzaGZPdXk3LWplT2J4ZHNQZE0xbGpqaUZjZ09jV2o3cDBITlJHbHdRN0Y1ZFZzVWJ6VV96UDVkbmdKZE92MjhYWElPOXFMNA?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -230,9 +267,9 @@
   },
   {
    "title": "China hits back at Trump’s latest tariff threat as trade war tensions resurface",
-   "source": "investingLive",
+   "source": "ForexLive",
    "time": "2026-11-26T08:01:57Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0YwWVBlV050R3lZWWNsZXpvc04wYktpSTBqeXlzNFFHcHEzWTMtdVVNZFVwOVliaWZHRkliVXJKb01JRy03YVlpWjBaaFAzZFFxdy1wdmdRaXBYNlZmN2w2NV9MT0xmbTNjaExJc1RBQzNkQ1M3Q2hEQk0zdkdfQVFGVEhmbnI5MmpXcVNsQzNSZXh1NHBDNGtFRUxHXzBRQnJ2clVLa0lVczJUZ1ItRg?oc=5",
+   "link": "https://investinglive.com/news/china-hits-back-at-trump-s-latest-tariff-threat-as-trade-war-tensions-resurface/",
    "tags": [
     "GEOPOLITICS",
     "TARIFF",
@@ -311,6 +348,15 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVnNuNVdvTnpvWkhRQmZZTDA5Z2tEdFR4bW9tT1kwRl9yc0hJSXpzWWM0amZ0c0sxMGVydEtqT01LX1lSU0N0VVBmTjlnckI4cUJ2eEdzcmJfc2VLTFRFTmp2U0xBVl9TWFBsbnRLVHRnXzZnZ1ZVbWJXR25vSTFOdjduS2M3U212NjZpTVdXZHJkbzBTVXJpS2VTX0V4SlR1?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Thirteen dead as mine disaster highlights illegal hunt for gold",
+   "source": "BBC",
+   "time": "2026-11-26T07:31:24Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -468,16 +514,6 @@
    "link": "https://www.aljazeera.com/news/2026/11/26/gaza-meningitis-cases-surge-as-collapsing-infrastructure-fuels-health-fears?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions",
-   "source": "Al Jazeera",
-   "time": "2026-11-26T06:10:13Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWdYMTZKOS1KOXVpdXRLUkVDeGNhaVJOZGhZbVIyRDh2dnA1WUZNM1ZMNVFXMTU3UllPNE5SanBGZW1TX3NyMnM0OHVlalJhZmt1U184Y0wzNUhPa2N4b1FHeldLRTBhb09XVlZwemF6VTVwY0w0eEstMG5yNzdCSzI1WWFKOUNSVHNZcHdDRG9OQ2JUYzFDcHNJWW5NVHIyUHV5RkRHa0NEUEk4ay1FQmd1VdIBuAFBVV95cUxOa0I5N0VOM1ZmRWVnekJDbnA4WENieml4SEFGR3lOLTRBWWZTWjJkeC04SWJLWDRBRldjMi0tUmVyTHBCWjhzb2dqZWo2eVN3OVFac293ckVOYmVKS3loTmw5ZldMdVVscmg2cUpwNDVqamtCaWFKOEFsVnhvU3BUR0VRdnhqY0NKV05JSXF0Um5GZ0UzbGFYVV8wZUoyTldNODdSemwzWTJkVlpqdElfOU9ZRzR3VWl1?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
    ]
   },
   {
@@ -651,44 +687,6 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN3JxOXQ3SWhCN1U4OENUcVh1TmZLYXdLS2lHa1FIa01PR0JyaDctdHF6NjJVWmhPbWZ5N0pqeW90T01fQlo4a0EwaDE0Y1Z3dk9KNkE0Mml0QjdORmVrOW84bnBZRTg3dkRUeVpHRW5VMWxCcEJ4RGhQUVBtaWJpNnl1enNUd1V2RWpRSi1CME54NmFoRF9EenF6X1I1V3I4NGhnaTZFWFdvQUFxY0d2bllzaDFRWUE0N25zSTVYdkdpdUxRb2VldnZQM3oyUQ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil Traders Ignore Growing Threat to Persian Gulf Supply",
-   "source": "Investing.com",
-   "time": "2026-11-26T04:56:00Z",
-   "link": "https://www.investing.com/analysis/oil-traders-ignore-growing-threat-to-persian-gulf-supply-200692351",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "China shares flat as markets struggle to shake off tariff risks",
-   "source": "TradingView",
-   "time": "2026-11-26T04:56:00Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd3BlcXYyTDlGTkN4UmJpNldRUEYxcUNkTzFQZU5PcDZYMmd6ekpDcDhfVjZOTzRIdHdCVTBZY1hmUWQxUEtmb3NRdWRmRnBEb0hSWjRxeVlTODE2dXhXUUNIVUt2NmZ4dXIycTdsUkxkbGczZGsyQ01Fd2drYzJUcTF1UjZMMlMxOFViSEc2bm9UUHdUeXZMUmEzNHhmMWs0dkJkV2RkVTFaRjBULXljV2xhWWxRbEJ6Q3RpN1dTcjVnUmM1SlpJTHZBenM0dw?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "US Tariff Proposal Raises Stakes for India to Clinch Trade Deal",
-   "source": "Bloomberg.com",
-   "time": "2026-11-26T04:55:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZC1kOEEtUUhWWU96b1c0clRmTmk4NWFhaG9nQklwWTIzdHEzN3ZJZk5YSGpqM0ttY3NLb2xlWnFFXzcxQU5sR0NnNGhVakxjclBtTzR5V1JUSlliNnNoSGlQS1AwLTYzUWM4ZGtpbjk2aUc1bzh1cnpuSkVDOWNPYmdIc1czaDhfMFEyX3BQQVVZWkxvT3RIY1l2ZXlLRi1FWHVmaENuZzlqejBNbm5LN2hEOXQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold steadies after hitting over one-year low; Fed outlook in focus",
-   "source": "CNBC",
-   "time": "2026-11-26T04:45:00Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2RGZHQ2cnNGQUVwT25tM2lrZFZkUDMwdXpSWWpkSmljWFpFZGh1dWl3WUwwZ2Ricy1hd2lsSVRRazdmeW1OdXFycllzcmJ2NWxQdEQtMmZRN2pBUjJaTFMtZXlJOHVXNHBDWmdzc09jQmk5YnhQQU0wUmx4cEtVOFl3SVTSAYoBQVVfeXFMTjVWQXJNNzhKbnh3SkxiV1VhbGtUQ1BrYTJfMnJ3Qnl4WVkxMjMwQVAxSHhtSkRWZ2E5TEpIZV96Vm9jRjhKQUV2ZVd2WHd4dmlMTzlxVW9UQWJQSWl4dlNUbFR5VGl5V0EwMURrSndKS3MyOVpwNGdGVzd3eno4TVpBb2tZY0xmNDBR?oc=5",
-   "tags": [
-    "FED",
-    "GOLD"
    ]
   }
  ],
