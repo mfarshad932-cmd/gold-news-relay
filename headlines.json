@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T21:59:39Z",
+ "generatedAt": "2026-11-26T22:28:03Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 8
   },
   "investing_commodities": {
    "http": 200,
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -80,44 +80,52 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 24,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_fed": {
-   "http": 200,
-   "items": 21,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 48,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 31,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 7,
-   "kept": 7
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 9,
-   "kept": 9
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
-   "items": 7,
-   "kept": 7
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 6,
-   "kept": 6
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +133,15 @@
   }
  },
  "items": [
+  {
+   "title": "NZ consumer confidence breaks 100 as falling fuel prices cool inflation fears",
+   "source": "ForexLive",
+   "time": "2026-11-26T21:32:46Z",
+   "link": "https://investinglive.com/news/nz-consumer-confidence-breaks-100-as-falling-fuel-prices-cool-inflation-fears/",
+   "tags": [
+    "INFLATION"
+   ]
+  },
   {
    "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Traders Rush To Take Profits After Rebound",
    "source": "FXEmpire",
@@ -677,17 +694,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ25UeFREUzF6bFlkSlQ3VjhMZUpIaWZaTlYtcFp1RTNHLVVwMmdSV3p4bDAwN3RncFotb25LeGhWR2ExUGtsQm1DcHpnNE5fUUhUTUt1Y0N6ei1Xbjkzb2JyMEpqQ3NaMTltSW9LN0VqT0Q5QzBIdGdQYVVXUXNyLUhKZVJqQTA3Wk9wTS14N1Q1YjhWeTVtV2JhQTVYM2pqTER5QXpzZDZydlg3UkRsVEJiU2hGcFNvSzJPN2RyelA?oc=5",
    "tags": [
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "China, others bash Trump’s latest tariff gambit: ‘Trade wars serve no one’s interests’",
-   "source": "The Hill",
-   "time": "2026-11-26T15:44:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR0FwRFprd3NQTTRNT3o4YnpQQ3UwVVpuRWplc3A4eHN0QnRqcVY5cHpfek1IU2JUV0pyd3ozTndHdC1yUlNPNzhka3JTbTRWN1JDLW9wNEwxS0gyVENiTHBoWFVKdVZzTC11eDRhdUxTU1cybWI4bHI3Z0kxYUVCSWZra0RWSHNwN2JaaEd3T213b3RiaFhyQdIBngFBVV95cUxPY1RoTjh5ODJaOTRHY2txY1RhSUNONkxBcUxMLWVwOFBPNEliYVg5RldJSy1iZ2dEMVJMMENKR1g0QzBZdXN6bTEwcGNzYVB3V29ZNVNFYWhhYTJqczZLbWZkTHJmRzZ4dVJwbUh0WTRnalhfSW9YdnJyejRoNFhDb19rQmFfV2VzYmNNeXJHUXNnZjYyeVBoYXAxQzJKZw?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "TARIFF",
-    "CHINA"
    ]
   }
  ],
