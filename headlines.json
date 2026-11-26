@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T21:03:11Z",
+ "generatedAt": "2026-11-26T21:31:31Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 7
   },
   "investing_commodities": {
    "http": 200,
@@ -86,38 +86,39 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 25,
+   "items": 17,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 47,
+   "items": 48,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 36,
+   "items": 35,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "gn_yields": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 10,
+   "kept": 10
   },
   "gn_oil": {
-   "http": 200,
-   "items": 7,
-   "kept": 7
+   "http": 429,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +126,24 @@
   }
  },
  "items": [
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Traders Rush To Take Profits After Rebound",
+   "source": "FXEmpire",
+   "time": "2026-11-26T21:20:43Z",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRGVRaFBxQk9NU28yWVZBczhIaFBqOXItWWlJMUtLelY1Z0ZYSi0xLTRWOGRVWlAtQ3JtNVRyY291djZqTGtRTFRUUEw0aUZwbGs4ZXBEbWRmaVZscXMxaUNLWnVMbVRYT04zMXBqWVFOR1ZWNU1FelNiX3BkaG1MMDh1LUd3MndfaHlldkpWZ09JVzlXX2lVNzRaSkdQOEFRaHpqNnVpeWpSS2l3RFRZVjI4TGczMUd1M0taa1dqcFdJVVNNTFYxelBNU0VCYXQtYzNzSlVUcmgxQ2VfMGd5WFZB?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+   "source": "BBC",
+   "time": "2026-11-26T21:17:53Z",
+   "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Iron ore price gains on expectations of winter restocking at Chinese mills",
    "source": "Mining.com",
@@ -152,15 +171,6 @@
    "tags": [
     "CENTRAL_BANK_GOLD",
     "CHINA"
-   ]
-  },
-  {
-   "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-   "source": "BBC",
-   "time": "2026-11-26T20:35:39Z",
-   "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -193,6 +203,16 @@
    ]
   },
   {
+   "title": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea",
+   "source": "Bloomberg.com",
+   "time": "2026-11-26T19:31:56Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
    "title": "India’s central bank repatriates another 60 tonnes of gold in 2026 as share of FX reserves drops to 14.38%",
    "source": "Kitco",
    "time": "2026-11-26T19:20:40Z",
@@ -208,6 +228,15 @@
    "source": "Al Jazeera",
    "time": "2026-11-26T19:19:12Z",
    "link": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-11-26T19:12:26Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -372,15 +401,6 @@
    ]
   },
   {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Traders Rush To Take Profits After Rebound",
-   "source": "FXEmpire",
-   "time": "2026-11-26T17:45:24Z",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRGVRaFBxQk9NU28yWVZBczhIaFBqOXItWWlJMUtLelY1Z0ZYSi0xLTRWOGRVWlAtQ3JtNVRyY291djZqTGtRTFRUUEw0aUZwbGs4ZXBEbWRmaVZscXMxaUNLWnVMbVRYT04zMXBqWVFOR1ZWNU1FelNiX3BkaG1MMDh1LUd3MndfaHlldkpWZ09JVzlXX2lVNzRaSkdQOEFRaHpqNnVpeWpSS2l3RFRZVjI4TGczMUd1M0taa1dqcFdJVVNNTFYxelBNU0VCYXQtYzNzSlVUcmgxQ2VfMGd5WFZB?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
    "title": "Gold price drifts lower in thin US Thanksgiving trading",
    "source": "Mining.com.au",
    "time": "2026-11-26T17:43:22Z",
@@ -397,15 +417,6 @@
    "tags": [
     "TARIFF",
     "ECB"
-   ]
-  },
-  {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-11-26T17:42:26Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -484,7 +495,7 @@
   },
   {
    "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "time": "2026-11-26T17:02:41Z",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5",
    "tags": [
@@ -678,15 +689,6 @@
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzFiM29KUVhvZHZUYTV1SWtlLXNYbXg3ZzRodFVmanZkNzJsczZ4UldfRkNkSW1fVDhMaTFYOW9ETUxXaXFKcktCTThoYnBYS21mVjQxYkNWM19MR1h0WHNSdjlGenRTNkExU2RKU0ZKNUhCRWR0OVU2VmFqTUJHeE5QMVNybDE4Qk1WTmp5VGgyWDV0NjhaM3h4Ulp1bWZDUThnSlI0TFMwMnQzNk5KQnZXVTRCUUxvc2FLbmlDYVREeHpwOUpV?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Citi warns US tariffs could trigger earnings downgrades for European retailers",
-   "source": "Yahoo Finance UK",
-   "time": "2026-11-26T15:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWDlCMnJIcm1jQmUzTTFzYU1kWjR2V3NnSzN3UU1VRlJiY0FXZUk0YWwzU3ktX19EYUFvQ1pTVXFVUXc3VDNkOVJYVGpMTVNfcTMyMG41TG45UTVVdFVKVDdFMVhUUExyclNmQUNISVRxNnJPSXpBbVNvQkFaeTM2NUJ3?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
