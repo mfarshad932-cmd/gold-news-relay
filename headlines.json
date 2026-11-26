@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T02:38:00Z",
+ "generatedAt": "2026-11-26T03:06:08Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 9
+   "kept": 7
   },
   "bbc_business": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 34,
+   "items": 29,
    "kept": 12
   },
   "gn_fed": {
@@ -91,7 +91,7 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 51,
+   "items": 49,
    "kept": 12
   },
   "gn_war": {
@@ -101,18 +101,18 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 13,
+   "items": 12,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 23,
+   "items": 25,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
@@ -126,21 +126,67 @@
  },
  "items": [
   {
+   "title": "US announces new tariffs on host of countries including China",
+   "source": "BBC",
+   "time": "2026-11-26T03:01:40Z",
+   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "A ‘Silent War’ Grips Iran as Its Economy Strains Under U.S. Blockade",
+   "source": "WSJ",
+   "time": "2026-11-26T03:01:11Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUZoNE5qVlVJSWdVTHRMY1R0bFBac204aUVreDhOR3NtUE4yWjBESlJMUHZoLVo0NjdrTW1kUXF5RUxDQWJfRnhrdkJpSTF5VUduMWVDaU9aVjg3N3dCTW96TDUtQV9SRE9TSEN1Um9LTm0teG9MV2hrQkhEM0RDYnhCVVgzNHhpcEJ1cnc5azMzTm10am04MTZoS2wtc19RSTNSRW5sMlBGdWhaYWNlVmhn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Treasury Yields Rise After Huang Returns as Nvidia CEO; European Bond Yields Slip",
+   "source": "WSJ",
+   "time": "2026-11-26T02:49:55Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "U.S. expected to maintain agreed-upon 15 pct tariff rate for S. Korea, issues warning on chips",
+   "source": "Yonhap News Agency",
+   "time": "2026-11-26T02:49:44Z",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RdXkyQzR3Y3I5S0c1TU9GU0dONkZ2N3NtdUF1TjZaYVJ1SVlGQ1lBTlU5VmhSckZ1U2REYnZEN0UxalU4UzN5X1ZqazNVeGlyRzlLa2JUWTN3Zw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Opinion | Trump comes up with a new excuse for tariffs",
+   "source": "The Washington Post",
+   "time": "2026-11-26T02:46:04Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcTdLbjdEUG9HTnkya25yaXhXSHp2a1A4MEp4OHNFRmd2SEtaQ3JLQXBZSVQ2TWRRdmM1QnNicHRpRzBmVGtsckd4blNvWWNIR3dKdFFXZDFUd1VIbEh5X1U2anFnLVA2WjlTREtqWVk1UzR4QXBRMVY2TURIUXpTWlJlakR4WU10RGl2MTExd2hQX3pmYUE?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Indian shares set to extend gains on strong foreign flows; US tariffs in focus",
+   "source": "Reuters",
+   "time": "2026-11-26T02:41:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS1dVNjE1VmF6TUZ4WkxrMEg4SFJFZE1uOEVGV0xHUi14S2U4M1hPUjFCQlhRNVNORkRaODZmUEl6YzFPNFRIMWNxNDFDUGQyeWFnSnA3SGIzX3NMakcyWE44ZlJmN0pJNFZVSy1idThrNk5FTnJQeUtKMHVKN2VvQkpKR1pTWWJFNHExRUhiRndROVlLUXRWWTVGaFhGUFVIN2NsLTI1akRuNEgzNjkwWll5STlpQ3c?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "Ukraine war briefing: Stop using tear gas on battlefield, dozens of countries tell Russia",
    "source": "The Guardian",
    "time": "2026-11-26T02:35:00Z",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN3JxOXQ3SWhCN1U4OENUcVh1TmZLYXdLS2lHa1FIa01PR0JyaDctdHF6NjJVWmhPbWZ5N0pqeW90T01fQlo4a0EwaDE0Y1Z3dk9KNkE0Mml0QjdORmVrOW84bnBZRTg3dkRUeVpHRW5VMWxCcEJ4RGhQUVBtaWJpNnl1enNUd1V2RWpRSi1CME54NmFoRF9EenF6X1I1V3I4NGhnaTZFWFdvQUFxY0d2bllzaDFRWUE0N25zSTVYdkdpdUxRb2VldnZQM3oyUQ?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Opinion | Trump comes up with a new excuse for tariffs",
-   "source": "The Washington Post",
-   "time": "2026-11-26T02:10:43Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcTdLbjdEUG9HTnkya25yaXhXSHp2a1A4MEp4OHNFRmd2SEtaQ3JLQXBZSVQ2TWRRdmM1QnNicHRpRzBmVGtsckd4blNvWWNIR3dKdFFXZDFUd1VIbEh5X1U2anFnLVA2WjlTREtqWVk1UzR4QXBRMVY2TURIUXpTWlJlakR4WU10RGl2MTExd2hQX3pmYUE?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -182,12 +228,32 @@
    ]
   },
   {
+   "title": "The US dollar moves higher as Treasury yields extend their gains",
+   "source": "investingLive",
+   "time": "2026-11-26T01:35:48Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVZRdFczUjZoVzBlWjdJcngwRUNpM1VNcENKVTNTQlBnVVdiWGZrTzBHZFhvT0VyODNzUFN0dW51c1ZWQmM3SmUzUDc1b1MwWXhKQkRTRUpMNE1tTFYzYWExdW02TTJ0dnpUVnlHV2lrd0Y4bGppSlRzMGJxcGFzUmpoSWkyVl9fX2ZPM0Q2d0ZBd1Y5V2VHdGRObWFyZFh6QW5scDVPRWZTNVdMZWsw?oc=5",
+   "tags": [
+    "USD",
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Asia shares bounce, AI and tariffs lurk in background",
    "source": "Reuters",
    "time": "2026-11-26T01:35:00Z",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWRTQ2N0czgwTVhPdVhvZDUzeDNDRUJ6cFd0MWx1N05aSTJHaUlOdTQ5X2xieEVueHJ3VTRrb0ppNEtzbFVBRm1fU3VvV0xpMWVlUWg3c0NvWXJxS2ZabkwwejhwenhCVmhYRUdweUwwdHhTTWd1bTh2QlR1dFpvVDFHVQ?oc=5",
    "tags": [
     "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold at $8,000 could signal dollar crisis: economist",
+   "source": "Mining.com",
+   "time": "2026-11-26T01:26:59Z",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01Z29VRjNyOWxkbWR1dG5CbHNyT1ROUUFBOWFFcllJYjdES24tTDZXazVSMDVKdTBINHhubkF5bzVkYlJOdmJRZjJwT1RhTjdoSVJWa3RoUnQ2aHc0a0cxdWMtTmJadkFhZ0haZ1Q3aU5lSktTOHRnM0ZMTUJNUQ?oc=5",
+   "tags": [
+    "USD",
+    "GOLD"
    ]
   },
   {
@@ -207,26 +273,6 @@
    "link": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
    "tags": [
     "INFLATION"
-   ]
-  },
-  {
-   "title": "US announces new tariffs on host of countries including China",
-   "source": "BBC",
-   "time": "2026-11-26T01:20:14Z",
-   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Gold at $8,000 could signal dollar crisis: economist",
-   "source": "Mining.com",
-   "time": "2026-11-26T01:18:45Z",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01Z29VRjNyOWxkbWR1dG5CbHNyT1ROUUFBOWFFcllJYjdES24tTDZXazVSMDVKdTBINHhubkF5bzVkYlJOdmJRZjJwT1RhTjdoSVJWa3RoUnQ2aHc0a0cxdWMtTmJadkFhZ0haZ1Q3aU5lSktTOHRnM0ZMTUJNUQ?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
    ]
   },
   {
@@ -358,6 +404,15 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNHRFcGQzYjZvX0duZ0hjUkQzOUJqSmhSQXYzbV9ST2xlUjhCdEw1d0NkVk9PdENubklBYzZScGlwTEEtQ0hMWGNySlRFeDl4LTRkb01rVFROSXAwMlV1ak5vbVFKLUxfZFNWMnd5T0RsOW4zX05KcVVDdGEwSV85Y05JQlRzNUFlVjVnREk4TFRJYkRSS1dr?oc=5",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-11-25T23:42:22Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -501,24 +556,6 @@
    ]
   },
   {
-   "title": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains",
-   "source": "Reuters",
-   "time": "2026-11-25T22:19:49Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-11-25T22:18:13Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Beige Book confirms hot US economy and signs of wage pressure building",
    "source": "Financial Times",
    "time": "2026-11-25T22:17:53Z",
@@ -648,43 +685,6 @@
    "tags": [
     "TARIFF",
     "CHINA"
-   ]
-  },
-  {
-   "title": "Cyanide maker sees batteries squeezing supply for gold producers",
-   "source": "Mining.com",
-   "time": "2026-11-25T21:13:17Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV01ZZjluMGM2RzJtNXZnRVlMOG92SldSd3JOMnpIRUpLb2NORW0wd1hCZm4xR1J5aHdObl9YWUlUZjNGekVKU2swbzVMTFFTQmp2X0x5MUcySkoxYl95WFYtdzAtME5HRXBUR28xNUJPbVlsNGl4SXNRRnl1UzNqQUZQUE8zbFV2RF80aXdlcHdrREFfU19r?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
-   "source": "Al Jazeera",
-   "time": "2026-11-25T21:03:51Z",
-   "link": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US Tariff Proposal Raises Stakes for India to Clinch Trade Deal",
-   "source": "Bloomberg",
-   "time": "2026-11-25T21:03:17Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZC1kOEEtUUhWWU96b1c0clRmTmk4NWFhaG9nQklwWTIzdHEzN3ZJZk5YSGpqM0ttY3NLb2xlWnFFXzcxQU5sR0NnNGhVakxjclBtTzR5V1JUSlliNnNoSGlQS1AwLTYzUWM4ZGtpbjk2aUc1bzh1cnpuSkVDOWNPYmdIc1czaDhfMFEyX3BQQVVZWkxvT3RIY1l2ZXlLRi1FWHVmaENuZzlqejBNbm5LN2hEOXQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
-   "source": "CNBC",
-   "time": "2026-11-25T21:02:05Z",
-   "link": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
-   "tags": [
-    "YIELDS",
-    "INFLATION"
    ]
   }
  ],
