@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T08:18:02Z",
+ "generatedAt": "2026-11-26T08:46:23Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 9
+   "kept": 8
   },
   "bbc_business": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 30,
-   "kept": 9
+   "items": 25,
+   "kept": 6
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 9
+   "kept": 10
   },
   "whitehouse": {
    "http": 200,
@@ -86,17 +86,17 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 28,
+   "items": 27,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 55,
+   "items": 58,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 22,
+   "items": 20,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,13 +106,13 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 22,
+   "items": 20,
    "kept": 12
   },
   "gn_oil": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 8,
+   "kept": 8
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,90 @@
   }
  },
  "items": [
+  {
+   "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters",
+   "source": "CNBC",
+   "time": "2026-11-26T08:42:26Z",
+   "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Gold Price Forecast: Lower Yields Fuel Rebound Despite Fed Hike Bets",
+   "source": "FXEmpire",
+   "time": "2026-11-26T08:37:01Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZlBUYWVDNmx4RVZ4X2JpNHlocy03NmI3YVIxQkhUWkphRG0yTVZNc19nVk4wS3JzUGpDNUhoMVV6LUp5Zk9sRlFFYUxhd3FNbm1xZWJIaW52NV9TTW04YmE3YVNoVk83OWlCMW95cnFYNWZ0OTNPb1Z1bGVmSW1nUnlqNGVQeFB5MjBIa1A4RTdaOVZxY2JUQjVLR2llSnRhRGZoZ0JYTnE2a0V2V1hwR2toX20yY0VYa0E?oc=5",
+   "tags": [
+    "FED",
+    "YIELDS",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "European stocks rally as tech and banks rebound, tariff fears ease",
+   "source": "Reuters",
+   "time": "2026-11-26T08:33:40Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDAyOS03ZTA0ZzRTRmR6d2diZDJ5X0V0ejhjSlg1MzhMaTlCNU1LNTBCYVlJS2VhVV9USmNxYnNGYk9CaTdYckN1NVBZLWNKQm9BYXB5SEpNYVMyN3hzbFRjaExPY3piakNDakM1Qm1NSDJ1MFJLZzF3NGN5TFVCYThrYmNzZFhyVzN1bVBhaXh6a2t4cUxNQzBGUnpWVVFxb1l2cFR5WE1UZ0tvUEpDcw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Ms Rachel on Gaza: ‘everybody should speak out’",
+   "source": "Al Jazeera",
+   "time": "2026-11-26T08:29:53Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ms-rachel-on-gaza-everybody-should-speak?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Oil Prices Mixed as Traders Weigh Middle East Supply Risks, OPEC+ Meeting",
+   "source": "WSJ",
+   "time": "2026-11-26T08:28:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMG9zX0RPUEVtQjFwX3JjTHJlTGZQMHY0OGtiTXRlbE9Kam5MLUdKTlJmdXgyaFZJSWdiWFZtbWVzQXlqTkp1ZzF6d0UwaEg1U09FY2xHbl9hM1FVYWZubGlndHJ4ZzlsMHNDZThVczU0VEpvTFZONGZZdXd6ak5zV1RBRnRQaTk2dU01bFJsYkQzMzAyTVNkcFNCYWxDYkNrNkpLeEpmZWFIWmVTNDZHTUxFTTFYckVpM1NjeQ?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Rescuers recover bodies after flood at illegal Indonesia gold mine",
+   "source": "Al Jazeera",
+   "time": "2026-11-26T08:23:51Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/rescuers-recover-bodies-after-flood-at-illegal-indonesia-gold-mine?traffic_source=rss",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Explainer: How Trump's proposed tariffs for India compare with rival nations",
+   "source": "Reuters",
+   "time": "2026-11-26T08:21:12Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazJTSjI3dk40ZnhoM2ZJR2N2eXp0NUFoaWUxNUI4NW9wV19YWEtpd24tS0t5YnFHV2YzSkRmSXdiTnR6cjRuMTROY1d1VlQ2NUR3UjNNMUJkeU5XQVBOeUQ1VnVTQmtQU3BVOUNndHdyeUhvWDcxdmRHMGtheVJCREs4UzdCWS1VVDQwcmdQYWtILXltMHRhN1UxeTVtdGhuMFhpemlOdDRkLTB5?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "China hits back at Trump tariff threat",
+   "source": "Financial Times",
+   "time": "2026-11-26T08:19:05Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXdLemg3R0M0SkVKVUhMZHdsQmN0X2t0Tk9lYWY4RzFuYzhWUFFxVHQ0WUxkMDhnQTB4dEhoZDJvQ0gzUmhmelROQmRlS2kxdUpXTkI0TkxFM0pVMElQWlE4RmY2UE1UZjQyLUNtdmVJT3k5OE1xOXJvaURWU1hjZmN5anY?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "US Partners Respond to Tariffs With Anger, Protest and Diplomacy",
+   "source": "Bloomberg.com",
+   "time": "2026-11-26T08:16:17Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkF3aC1sbjRDck0zelpqaHVfa29acDJvY3VITko0eWJjaFJaQndUREJXUmhZb3ZDZm14YmRVZDFOV2JZUF9YNW9xVF9lOHVSTFVQWVBQRGpSQy1STi1Pa1EtTW9vQVRmUmNPQm9wdDJLcmNSRlB5MEhLak5VaGpEWVhNVThvNUZIQnVYa2VDa0ZyMHBtLUx5REVTUmRySm9WU3BwMm5VWTRtRjdXRVZOYWk5NDc?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
   {
    "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
    "source": "CNBC",
@@ -145,12 +229,14 @@
    ]
   },
   {
-   "title": "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
-   "source": "CNBC",
-   "time": "2026-11-26T08:00:27Z",
-   "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+   "title": "China hits back at Trump’s latest tariff threat as trade war tensions resurface",
+   "source": "investingLive",
+   "time": "2026-11-26T08:01:57Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0YwWVBlV050R3lZWWNsZXpvc04wYktpSTBqeXlzNFFHcHEzWTMtdVVNZFVwOVliaWZHRkliVXJKb01JRy03YVlpWjBaaFAzZFFxdy1wdmdRaXBYNlZmN2w2NV9MT0xmbTNjaExJc1RBQzNkQ1M3Q2hEQk0zdkdfQVFGVEhmbnI5MmpXcVNsQzNSZXh1NHBDNGtFRUxHXzBRQnJ2clVLa0lVczJUZ1ItRg?oc=5",
    "tags": [
-    "TARIFF"
+    "GEOPOLITICS",
+    "TARIFF",
+    "CHINA"
    ]
   },
   {
@@ -169,6 +255,15 @@
    "link": "https://www.investing.com/news/economic-indicators/french-industrial-producer-prices-rise-96-yearonyear-in-october-93CH-5052175",
    "tags": [
     "INFLATION"
+   ]
+  },
+  {
+   "title": "How Silicon Valley became central to Israel’s war on Palestinians",
+   "source": "Al Jazeera",
+   "time": "2026-11-26T07:48:19Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2RsUEN1V1RwM21nY2ppVzZLajhYT25pZXM0VEFtU1NfRmVoalZLVW0xeFJ0OHRWM1pPVTNaRzB1LUtzbTB3dEkzZUh4SXJUb0RPWkRhVmM5TDhMc091Z2FHUk9jM2ZGNFd5LV85OWhVUHd4SlFNMndvWHp3NkxFOTNjdURUNEtIU0JSUkpIV3VNWmFjNXNZ0gGcAUFVX3lxTE9RQ1FaVXlMblA0TGc1Tkd1RkdjYmZXLTNYanJLdzB1WXp3ZHRJUEg0by1XbDVBR3N1Zy1nVVg5VmkxTWRTR05sV3FUZG9HeDFnZkduYjF5M1JpN2NmbnFsZlhjQ25HdjJwZVlsU2FSci11UVdRel9lbnVqUldrQUJqci02c0xZMmtPSmU4dGhxdVFfSHp4cVNkZHE4Xw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -207,6 +302,15 @@
    "link": "https://www.investing.com/analysis/gold-futures-face-critical-test-as-3445-support-and-3619-resistance-loom-200692374",
    "tags": [
     "GOLD"
+   ]
+  },
+  {
+   "title": "US proposes 35% overcapacity tariff on Vietnam, 20% if Hanoi signs a deal",
+   "source": "Yahoo Finance",
+   "time": "2026-11-26T07:36:00Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVnNuNVdvTnpvWkhRQmZZTDA5Z2tEdFR4bW9tT1kwRl9yc0hJSXpzWWM0amZ0c0sxMGVydEtqT01LX1lSU0N0VVBmTjlnckI4cUJ2eEdzcmJfc2VLTFRFTmp2U0xBVl9TWFBsbnRLVHRnXzZnZ1ZVbWJXR25vSTFOdjduS2M3U212NjZpTVdXZHJkbzBTVXJpS2VTX0V4SlR1?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -256,6 +360,15 @@
    ]
   },
   {
+   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+   "source": "NBC News",
+   "time": "2026-11-26T07:12:24Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Gold Outlook: US Dollar Fatigue Opens the Door to a Squeeze",
    "source": "Investing.com",
    "time": "2026-11-26T07:11:00Z",
@@ -272,24 +385,6 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc1FQblFhUlRzVktmaTJiZ2EzQlhzT05LNGRVUXFoQmFRcEhsS3QzYWdMX09tUVM3WG5MWHA1YkNldk5tMHd5OFFLY19FeFRjNS1tb01KaWhuOERvcEZEd1Ftc2FWQWk3N21NWVZfMWZzOUIxRmpONHJkb1ZBVUpEZEd4UnNzSmItVnNtMnpWTXJDY1JhOTBEVEJ4U3FMOXVTSUHSAacBQVVfeXFMTjVORGMtdjNKLXdha1pKS1RITktPZGxzcW9XeW1ET1JTS2JpZmMzX1ZQSlJudkJYT2hPc09tYVZYMnUwSlQ0cDBUdktVZmt2dl9tWEZCS3gteWNwN3BMZWVmdklldkV0WnZ0ZWdPVzlqM3RWcG1kMEFpNE1YRHpQX1lQck5LRUstQ015RTFRTmd2TmVaX0NaVHhpY3V1RTBYRFR3X2E0SEU?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US Partners Respond to Tariffs With Anger, Protest and Diplomacy",
-   "source": "Bloomberg.com",
-   "time": "2026-11-26T07:02:00Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkF3aC1sbjRDck0zelpqaHVfa29acDJvY3VITko0eWJjaFJaQndUREJXUmhZb3ZDZm14YmRVZDFOV2JZUF9YNW9xVF9lOHVSTFVQWVBQRGpSQy1STi1Pa1EtTW9vQVRmUmNPQm9wdDJLcmNSRlB5MEhLak5VaGpEWVhNVThvNUZIQnVYa2VDa0ZyMHBtLUx5REVTUmRySm9WU3BwMm5VWTRtRjdXRVZOYWk5NDc?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Asian trade partners of US hit back at Trump’s latest tariffs",
-   "source": "Financial Times",
-   "time": "2026-11-26T06:58:16Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXdLemg3R0M0SkVKVUhMZHdsQmN0X2t0Tk9lYWY4RzFuYzhWUFFxVHQ0WUxkMDhnQTB4dEhoZDJvQ0gzUmhmelROQmRlS2kxdUpXTkI0TkxFM0pVMElQWlE4RmY2UE1UZjQyLUNtdmVJT3k5OE1xOXJvaURWU1hjZmN5anY?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -367,15 +462,6 @@
    ]
   },
   {
-   "title": "How Silicon Valley became central to Israel’s war on Palestinians",
-   "source": "Al Jazeera",
-   "time": "2026-11-26T06:18:13Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2RsUEN1V1RwM21nY2ppVzZLajhYT25pZXM0VEFtU1NfRmVoalZLVW0xeFJ0OHRWM1pPVTNaRzB1LUtzbTB3dEkzZUh4SXJUb0RPWkRhVmM5TDhMc091Z2FHUk9jM2ZGNFd5LV85OWhVUHd4SlFNMndvWHp3NkxFOTNjdURUNEtIU0JSUkpIV3VNWmFjNXNZ0gGcAUFVX3lxTE9RQ1FaVXlMblA0TGc1Tkd1RkdjYmZXLTNYanJLdzB1WXp3ZHRJUEg0by1XbDVBR3N1Zy1nVVg5VmkxTWRTR05sV3FUZG9HeDFnZkduYjF5M1JpN2NmbnFsZlhjQ25HdjJwZVlsU2FSci11UVdRel9lbnVqUldrQUJqci02c0xZMmtPSmU4dGhxdVFfSHp4cVNkZHE4Xw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Gaza meningitis cases surge as collapsing infrastructure fuels health fears",
    "source": "Al Jazeera",
    "time": "2026-11-26T06:14:15Z",
@@ -402,6 +488,15 @@
    "tags": [
     "USD",
     "GOLD"
+   ]
+  },
+  {
+   "title": "Desperate appeals from women on death row in Iran after protests",
+   "source": "BBC",
+   "time": "2026-11-26T06:01:58Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -434,16 +529,6 @@
    ]
   },
   {
-   "title": "South Korea’s central bank hikes interest rates amid AI chip boom",
-   "source": "Al Jazeera",
-   "time": "2026-11-26T05:49:40Z",
-   "link": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss",
-   "tags": [
-    "RATES",
-    "CENTRAL_BANK"
-   ]
-  },
-  {
    "title": "Singapore challenges US tariff logic as free trade pact faces 20% levy",
    "source": "South China Morning Post",
    "time": "2026-11-26T05:49:14Z",
@@ -461,15 +546,6 @@
     "FED",
     "INFLATION",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-   "source": "NBC News",
-   "time": "2026-11-26T05:42:24Z",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -542,7 +618,7 @@
    ]
   },
   {
-   "title": "WTI Price Forecast: Eyes move beyond $84.00 as bulls retain control above 200-hour SMA",
+   "title": "WTI Forecast: Bulls eye move beyond $84.00 amid Mideast jitters",
    "source": "FXStreet",
    "time": "2026-11-26T05:04:14Z",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZkJyS01sbWRNVUp6OFF3VURmMVVVVVdBQ201NWUzX0VpN1dkc3hnNTlJTFBrdEtudi1ISGNBYnd2cjVTUmtBajcxa3Z0MmhvWFBlWHJiT0FrNTNKNHpteFV0T2ZPSTFRZHpFSUdmQ3FsSHhkZjVtVld6VDJRNnNkc1RmOG12VUFrek1oaVEtUkd0QzI1eGQ3cmd4NE9ucDd5eldZT1VHTmRVdEF2ZnFyUXhNZE94VzdITENNTllQZGFnTl90?oc=5",
@@ -606,16 +682,6 @@
    ]
   },
   {
-   "title": "Brazil blasts ‘unacceptable’ new US tariff proposals",
-   "source": "Al Jazeera",
-   "time": "2026-11-26T04:51:29Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdGprU3pveUxVMVc1WXVnS0w5TFltSmhBSDUwaW1YMnNwaGxHTTBfMWdMX0xJcUszSU1HZFJ5RjY2eUxRYjRvZWFNSVpyTjlDZEZxQVU2dTg3V0xzb25TS19Xa0FCS1RmeHRFM0ZTcU9QdVBTMzBMYjhoelB0dDYtQno3UFhTcWNRdEoxYkJJTFdJdHc5NkFJ0gGcAUFVX3lxTE5EU19BYVVheFdsUGgwUHMxREJySEdrQ0I2V1hxekthZ0hadTNOU1pHYl9yalJFczlQWXh3ekw1Nl8wV0g4Rl9FUDN5OUtxWjFnNHhMX281bGpqMFNKa2RPSmUzcm9mVnpMc1lvN2hXUHBnTDJBclEyNllKOGJKYVJ0ZHI0Nnl0SjlhR2s3ejVlMnNpZ3J4QWRta2p0Ng?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "TARIFF"
-   ]
-  },
-  {
    "title": "Gold steadies after hitting over one-year low; Fed outlook in focus",
    "source": "CNBC",
    "time": "2026-11-26T04:45:00Z",
@@ -623,71 +689,6 @@
    "tags": [
     "FED",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Dollar steady as sliding yields temper safe-haven bid",
-   "source": "CNBC",
-   "time": "2026-11-26T04:45:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbENDeTUxcTQtMkd1bXZXT18wcEFXOXJ0LWJvSlJpYWRwNUUxd0diQzlXdGtQbm9KZ3doNWJ3S2YtSlJoOUFSb3AyeDBXYndjdlVXUGpxeWlBNWlQUnlaUUtIeEo2YU9ldHhCR1dqNERwWjZIMnN3T0c5cnBGWWVhYmFaYk4tZ29mb2wwMW5ZaS1vbFpYb3fSAZYBQVVfeXFMT2xDQ3k1MXE0LTJHdW12V09fMHBBVzlydC1ib0pSaWFkcDVFMXdHYkM5V3RrUG5vSmd3aDVid0tmLUpSaDlBUm9wMngwV2J3Y3ZVV1BqcXlpQTVpUFJ5WlFLSHhKNmFPZXR4QkdXajREcFo2SDJzd09HOXJwRlllYWJhWmJOLWdvZm9sMDFuWWktb2xaWG93?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold price in India: Rates on November 26",
-   "source": "FXStreet",
-   "time": "2026-11-26T04:35:07Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbllrY0swMW12ajJYdjlsSHIyWE1xTmE1d2dZMkEzblpzeVFEUXlqTXh2UW1NSEItRmNRRHNBbEkwVWdfVFIySEt3QS05ZVVuUVNGVlV3aTVsX00tNnNPRUNlYUNqMDV2TFloaGJyN0xrU0FlLUptVnhmR3gwN2I4aXZQZlBMenl5NnJ3VnZVM1JpYnZtcTl1WjdPMXFjbkljTWo5VHhR?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Price Forecast: XAU/USD struggles below $3,600 amid Thanksgiving light trading",
-   "source": "FXStreet",
-   "time": "2026-11-26T04:26:17Z",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYXhUOTE4OUlfNVJEaGpJMmM5ZVh6My1vUFBMMnhWRWU5WWY5Qi1wZkY5djVJSHdmNVFPUnptV3VsbEVUMDk0VEs1UkdiUktjYmJWWWRrNmw4WGxOSmZHdWViQ3FSYklMS3hsbWpEa1gxTS0tSVU4RmJvbGtDZ3dfNEZqQ1pENGZiM1h6QVYyaWFiVW9wd1hjVlN2V24yYmlVSC1nVHRrbEUwQmFuSjVGZXR0OUVpTnpCbmkyZEJWLTJUckI0S2Uw?oc=5",
-   "tags": [
-    "USD",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "RBI brings back 60 tonnes of gold in six months, domestic holdings rise to 84%",
-   "source": "TradingView",
-   "time": "2026-11-26T04:26:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTUl3QjQ0NDM0Rk11VUFEX1dUclRxZXhhU1VPNHJWeTdaUmE5UzRSNzc5YUxIOE9GTGM0bHVIVmNXVkdqUDI5RzF4OFVQbDNNS0VZUzNWYkpCYTJrZEJNUEFNTXdkdEpmNHhOV1RPUlMtNTJIY0d0eEdFdXREZDdaX3VFWkQ1RGUyTVFrcXJyZ3JpMGhUamFWRmtTNk1CcTR3QnNPOEs3SkhHbmZsaDRaR2dsWTB1cTJXQkJUMXVjbTJrdHg4Qnh0NEJfMkdJZDR5ZGtuZGRB?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war",
-   "source": "Reuters",
-   "time": "2026-11-26T04:20:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVE1ZllSR0xRNHFVUjR0WWJjQXF2MllxbUV3WUQ2Vno2WFFCbzkyODBvWjE1WmtscC1rdkVLdVJXUDhUUXFiMDZQbS01akV2UjhQQUFwMWp2aWdrdm5ZQy11b0tvX3BkSVU1WmdUV2J4N2l0UF9tcHVqRzBuWkxhRUVsU1FtMTl1aEhRWkx3RFI2VDlraEhKemFOV0ZEX0todDFpTTBsTndhZk0zclNaWk5lNA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil Price Forecast: Rebound Faces a Test as OPEC+ Quota Talks Near",
-   "source": "FXEmpire",
-   "time": "2026-11-26T04:19:37Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQck0ycXJLVmJhYjI0ZzM3YWk2cFllYW9UbzJvVGI0Vk50SWJpbDdBdjctNVRzakx5WjI2N1MyekNaMUttS2hEeWdnbXNNcmticWlfRFNZRlQzOXNpbnBvRU9pbE82OEJ1NVc2YXh3VElLdGFHOFpBSTBGVmtTdEhJanotQTU2cFRKT1o3M19aVWJ4akhzN1p1Mk5DeFdzd19fRVUwOVVKa3JENWx3bUVEOWJ6RlBTdw?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "Copper bounces back toward $12,000 as US tariff fears ease",
-   "source": "TradingView",
-   "time": "2026-11-26T04:13:00Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONTFvNzdYMFB3NjMwQWE0aEdjVW5VZzFFazhKVmgxbEtoaldpUVJMeTk4U3dRWTBNWUhYWWNELWZjeWZyWWx1dXJRWHBiT1E1V3ZHeDlWS1o2S2Fqb2NwT2RkX1BMYW83ZmRmX2dNRHMwZVR2Sk1MYTFoODU5V3ZmdHZzeWtNeENHdkxvRmJIXy1GblJKVXVONkwxWUFnLXAwSzZwc0ZxVUY2V01UblRFcncwempTLWFSRExnY0ZLTHZCMFducGc?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
