@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T03:06:08Z",
+ "generatedAt": "2026-11-26T03:34:31Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 7
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -81,28 +81,28 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 32,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 22,
+   "items": 21,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 49,
+   "items": 53,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 22,
+   "items": 21,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 12,
-   "kept": 12
+   "items": 11,
+   "kept": 11
   },
   "gn_yields": {
    "http": 200,
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 4,
+   "kept": 4
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,33 @@
   }
  },
  "items": [
+  {
+   "title": "Stocks rally in Asia, unrocked by US tariffs",
+   "source": "Yahoo Finance",
+   "time": "2026-11-26T03:17:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa09oWTlvekdOUXlkVXcxUGNFcHY3cDdKdWtLMlNpYzJpdHpaQUVKbkxBckJCUGt5RWYtVHM5VkZhQkZacTFRNHMzdG8xSmRIclRoYUhOZDgtbThXYWFrTHdLdncwWjItTUMxRFZ3RkV4czRqc2hUd2RRUFJXWXBaWlhJdlBHTkFoMEV1OTFXWEczS2Fja3FVZUcySlVpSnV2SmFN?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO",
+   "source": "The Washington Post",
+   "time": "2026-11-26T03:16:12Z",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcDJ0UmNqUTc2UWNoaVh0STB6ZHRZTnV6WGVPX2Q0VDhmRWU4Wk5hV2lZMTZOZUV4ZEwzOVBnVmVtbnB0eXlpekIyMVF5cG91WmVxLTNIeWx1MzhLN3czOHFLbFRuVTdYRUIwdk4zMTlfcEtLb2J3Y1lQM0l1OTREU2p5UzBxaXI5aExoOGlyUVctZlJZcllacVRzTU9zVXlNaVVMNThZRE85NWdlaEo2WUJKd3FtTVBRZ00xU0l0V2tMLTRiLUE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
+   "source": "WSJ",
+   "time": "2026-11-26T03:09:00Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFdYai14Q0VyLWZhd3EwN3lxOWNzRklQb0FDNlI0UHFDbWFKWVhIdTg0Wnh3OGQ1d2VkSWxhenJWdWV3a3lWWmVDNC1HS3pQRDdqdU5nbkNTZTB3Ry00TTNPRVZHQWpwTzRiUmVXcHZmWk5MRmp5dEU0RWpPN3hvYXh6VlZfdTJVT3pNeVNRSXJxQTNBN1otSw?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
   {
    "title": "US announces new tariffs on host of countries including China",
    "source": "BBC",
@@ -142,6 +169,15 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUZoNE5qVlVJSWdVTHRMY1R0bFBac204aUVreDhOR3NtUE4yWjBESlJMUHZoLVo0NjdrTW1kUXF5RUxDQWJfRnhrdkJpSTF5VUduMWVDaU9aVjg3N3dCTW96TDUtQV9SRE9TSEN1Um9LTm0teG9MV2hrQkhEM0RDYnhCVVgzNHhpcEJ1cnc5azMzTm10am04MTZoS2wtc19RSTNSRW5sMlBGdWhaYWNlVmhn?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "South Korea vows talks to protect its interests after US proposes new tariffs",
+   "source": "Reuters",
+   "time": "2026-11-26T03:01:00Z",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY1B1OWJBc2E3WjFvNTE3a0J5eHZuQmt0eUZ2Q2dWbWZ1RV9vNWJXX3V4OU43VE84Q1FWVGRXUDRGUkxScWVFMUNtU25fcThLRXg0Y2hkcUh1dE1zMXNNUlFRRGp0VTdJczJpY0xESEpFWDJXeG5VVC14N1RpZWdyQzRLZmhjOHgxMEV3NVNmQTlmdlNFc2JfakhuSjZCTTRSV0tOUXhhZ19CWDJxMGZkaHF5bHl3dkhqRDdIOFgtdFdzaFlieGc?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -190,6 +226,16 @@
    ]
   },
   {
+   "title": "China Braces for Tariff Hike After US Announcement",
+   "source": "Bloomberg",
+   "time": "2026-11-26T02:15:44Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3NyOFFZY3BES2RUSW1SemdaTWUwNGplTjBWQ2drSjc0cy1RV0pIdEMzbmdadV8wbUViUXI1eEFDQlNjN3pCT2M1LWVYYU42OEtYTU1meEZKT2ZqeFVrUlU5cUdia1pJMHlFNDVYZGRGWmE1WDZmQWcxQTl6UkstWElHbmlKSXpHNHdna2x5OXlsTlg0eWRuZ1B6ejhwdF9nM1o2ZGNIMA?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
    "title": "Gold (XAU/USD) Price Forecast: Buyers Defend Critical Support After Sharp Selloff",
    "source": "FXEmpire",
    "time": "2026-11-26T02:03:58Z",
@@ -214,15 +260,6 @@
    "source": "Al Jazeera",
    "time": "2026-11-26T01:41:15Z",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcnZLbDdzMzg2dFlMM0c3d2FkbHpsRTB5Uk1QampGSXI4Sk9lZDRxZDA1LWFBVDVtaGlFS0k0ajljeVBDbEhlS0YwZUQ3bkVDalhCREV3RkhoZEcxamNwMTI1c0E0RUhhdzhhX0h3cnFqOXp1UTNYemRUZ1RwUGFYelBnSlZhekZaeXU2WF9oNU1ja0kxV2hXOGd3V3FwN1dleGg5eGZR0gGrAUFVX3lxTE4xZ05BNnZGZ3J0QWtNeFJ0b0hOSXRkZEJDX2RhR3hNRjluNHFRNTQ2YmhaSFFPR3hCd1luNE1WYUhJaE5YWmFZX3hIcEJXQlJJc1JjdjJKTjYzdVdiUWJ1anBpVF9QaTZBNndlRDlNX0hWWDZaLUVuU2phSm9maVFST3lUNUxtTWJ0MTY1SV9fU0pVVVhYYW1UcU01bEd4WEhteURlMXVMQWxwNA?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO",
-   "source": "The Washington Post",
-   "time": "2026-11-26T01:35:57Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcDJ0UmNqUTc2UWNoaVh0STB6ZHRZTnV6WGVPX2Q0VDhmRWU4Wk5hV2lZMTZOZUV4ZEwzOVBnVmVtbnB0eXlpekIyMVF5cG91WmVxLTNIeWx1MzhLN3czOHFLbFRuVTdYRUIwdk4zMTlfcEtLb2J3Y1lQM0l1OTREU2p5UzBxaXI5aExoOGlyUVctZlJZcllacVRzTU9zVXlNaVVMNThZRE85NWdlaEo2WUJKd3FtTVBRZ00xU0l0V2tMLTRiLUE?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -291,16 +328,6 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmY2QkZWVXlnUWxyNmZKSUtCcGNQbnJkWHk1QV9xMDdjUmptZjlIc0dUOGFlMm9oLVlMNWxGVVRYT3lCeEQ4ZW1zaGx2RlJPbURkWDdHdjhJd0RLbDBrRTNud05sUlhvMXpncnF6VTltNXhpSW1ualE4SGFjbUI0RWdwOUE2Mlk?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "China Braces for Tariff Hike After US Announcement",
-   "source": "Bloomberg",
-   "time": "2026-11-26T00:45:44Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3NyOFFZY3BES2RUSW1SemdaTWUwNGplTjBWQ2drSjc0cy1RV0pIdEMzbmdadV8wbUViUXI1eEFDQlNjN3pCT2M1LWVYYU42OEtYTU1meEZKT2ZqeFVrUlU5cUdia1pJMHlFNDVYZGRGWmE1WDZmQWcxQTl6UkstWElHbmlKSXpHNHdna2x5OXlsTlg0eWRuZ1B6ejhwdF9nM1o2ZGNIMA?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
    ]
   },
   {
@@ -482,21 +509,21 @@
    ]
   },
   {
+   "title": "Can price floors fund rare earth projects beyond China?",
+   "source": "Mining.com",
+   "time": "2026-11-25T23:24:41Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDBIOVFyVVVJM2tmQXZGM1VsckNpTjFuRmlGWlV1eUhnNkNBRkxOdTgxa004MC00eVdKdEdxZF9zRDRpczZ3YlExbk9maFJDYkpHb0VpSU5OdVFCcTdEUjVPTjBPOGNWQlVaVElWaUZMR3pUd1FWMDVSOWs1TUw2dWJWTk4?oc=5",
+   "tags": [
+    "CHINA",
+    "GOLD"
+   ]
+  },
+  {
    "title": "Copper price sinks to 2026 low as mining stocks brace for further losses",
    "source": "Mining.com",
    "time": "2026-11-25T23:23:59Z",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlJsZTEzejNIVzVWZVdKTjVNT01LYWRmRWhpQzN4X093TDh1dWkwWm51RWkzZzZfaFdmMXVkOXVUczhiWlRlNXlFa2tZVmVLamZNN2dic0FqM3YxTmxoSUxVR0lvMjJCaFc2d3JsRU1IcUNPRFZWRG9mMUx0NC1vNUotTW5CR2tZTUhsZEFYeDhrLV9wdVFCWE5WaVQ?oc=5",
    "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Can price floors fund rare earth projects beyond China?",
-   "source": "Mining.com",
-   "time": "2026-11-25T23:20:04Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDBIOVFyVVVJM2tmQXZGM1VsckNpTjFuRmlGWlV1eUhnNkNBRkxOdTgxa004MC00eVdKdEdxZF9zRDRpczZ3YlExbk9maFJDYkpHb0VpSU5OdVFCcTdEUjVPTjBPOGNWQlVaVElWaUZMR3pUd1FWMDVSOWs1TUw2dWJWTk4?oc=5",
-   "tags": [
-    "CHINA",
     "GOLD"
    ]
   },
@@ -524,15 +551,6 @@
    "source": "NPR",
    "time": "2026-11-25T22:55:28Z",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbWsxU0VENDd3aHlUd0NKbzRwS2xycnYxdW5SbmVUdFRSam4wb2s3aUpta29GdGNtOWE1bnRRYnFPNTBWMkZiclNLcFJzYm50enJ5T0FEdGhNdnp1R0F0SUVVdlJZd1lCRW9EYmxDWUNoSmt6eWVMYnJlUlBqTGJOcU00bHE0SWFRMHBPNV81U09NZnZXNGtVQk51RklLVENmbGFPUkVqRV9DcVN6V3pEVXladTZqX0E?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat",
-   "source": "Reuters",
-   "time": "2026-11-25T22:47:39Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -666,25 +684,6 @@
    "tags": [
     "TARIFF",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Citigroup (C) Explores Venezuela Banking Return As It Seeks Sanctions Waivers",
-   "source": "Yahoo Finance",
-   "time": "2026-11-25T21:15:24Z",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWdtajZCUG5NMk9Da245YkxYUWFrM0xPcnR4cll2Vm14X2VDbnhxb3lsYVV6VUZORnhtdDRWcTRwekpJZ0xaSm5UMHlTV1dNeFpYOExyU3R2Vnh1YjFlcWJKRWkwVktLUjd3bjluc1FpbjV6clEyTWdSdURqRWc1ZEoyeVhlYWV2TnhjQk1qcmk5cl8ta1VrWWxIaldMdG5CaGJQOWxn?oc=5",
-   "tags": [
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Trump proposing new tariffs on 14 partners including China and EU",
-   "source": "The Guardian",
-   "time": "2026-11-25T21:15:00Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzJkNEt0SmxFczJuc25uRFpYRjc1bDBVZ191T1p5TnFTbjRxeHA0QTk2TE1VM0FJMlI1ems4N1ItOGRFcHhma3ZLdEJKT01NSF9yVjFTaTc4SmlpQk5iSnRfdjRBZ2VCdDlLM0JEbFAtYkVjNXF1a0NqTG9OazJPaWFmamQ?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
    ]
   }
  ],
