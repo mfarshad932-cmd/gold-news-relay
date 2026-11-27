@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T14:02:51Z",
+ "generatedAt": "2026-11-27T14:31:18Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 5
+   "kept": 4
   },
   "marketwatch": {
    "http": 200,
@@ -80,44 +80,52 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 21,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_fed": {
-   "http": 200,
-   "items": 14,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 30,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 36,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 15,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 7,
-   "kept": 7
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
-   "items": 2,
-   "kept": 2
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 5,
-   "kept": 5
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -151,6 +159,15 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Yc21rNDMtb2JCWEFFUEdWTEEtLS00VmtTRFRoeHlYa0ZrbjZiOU50SGFlLXlBakpmbmZjeGtHaXdMMFdZcW5vQ0JpUTdmc3dwUkZJcGhCb1lGcnV1eUh1eUFLbEZTb05YQ0RQWGtiV0RrQzVOMkdzRUhsVEk?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Silver Rebound Gains Momentum as Gold Correlation and Risk Appetite Rise",
+   "source": "Investing.com",
+   "time": "2026-11-27T13:46:00Z",
+   "link": "https://www.investing.com/analysis/silver-rebound-gains-momentum-as-gold-correlation-and-risk-appetite-rise-200692444",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -632,16 +649,6 @@
    "tags": [
     "TARIFF",
     "CHINA"
-   ]
-  },
-  {
-   "title": "ECB survey shows rising inflation expectations in October 2026",
-   "source": "Investing.com",
-   "time": "2026-11-27T09:39:49Z",
-   "link": "https://www.investing.com/news/economic-indicators/ecb-survey-shows-rising-inflation-expectations-in-october-2026-93CH-5053186",
-   "tags": [
-    "INFLATION",
-    "ECB"
    ]
   },
   {
