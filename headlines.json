@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T22:04:51Z",
+ "generatedAt": "2026-11-27T22:33:12Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 2
+   "kept": 4
   },
   "bbc_business": {
    "http": 200,
@@ -66,8 +66,8 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 32,
-   "kept": 3
+   "items": 22,
+   "kept": 2
   },
   "aljazeera": {
    "http": 200,
@@ -80,44 +80,52 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 200,
-   "items": 30,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_fed": {
-   "http": 200,
-   "items": 13,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_tariff": {
-   "http": 200,
-   "items": 19,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_war": {
-   "http": 200,
-   "items": 33,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_sanctions": {
-   "http": 200,
-   "items": 16,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_yields": {
-   "http": 200,
-   "items": 12,
-   "kept": 12
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_oil": {
-   "http": 200,
-   "items": 5,
-   "kept": 5
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "gn_cbgold": {
-   "http": 200,
-   "items": 4,
-   "kept": 4
+   "http": 503,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +133,15 @@
   }
  },
  "items": [
+  {
+   "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+   "source": "CNBC",
+   "time": "2026-11-27T22:00:57Z",
+   "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+   "tags": [
+    "INFLATION"
+   ]
+  },
   {
    "title": "Are we on track for a dovish Federal Reserve Board?",
    "source": "Fox Business",
@@ -667,15 +684,6 @@
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM1VEd3k1MXVmTW51X1JPLXR0Y015T0tMRVNkLW12TDVyVzk5QWh6eVJuTUc2MjJEWkIxUkdyZW9DdmxYbTNtcFJIVjFqd05ycmdPN2ppWE9LSm1SX3h2VHl5U24zSlhUZHJkSHJPbjFQVTFVTllDdVZxQTBIMXBRNkRFWVBWVVpWeXc?oc=5",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Japanese Yen slips as calmer equity markets lifts US Treasury yields",
-   "source": "FXStreet",
-   "time": "2026-11-27T15:39:48Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDVNcmozVWlWSUMxZERYWVNJTklrNGlQRVRpNndFMzlHWlRzM3phZlNSQTV1M2RnanRsdU04SDhYVnZfTy12QkFEVW1aSTZpYzd2NkVrVkYzX3FWYUNaa3FJREFLY3hDZ2gyb0ZsMGdXamg1a214Q1VUaUNMTUFzRmdRMThmSnMzV20zb1lGOGhzaXJHSjB1dzBUemxhMFBIQVpLTk5sVG1PM29qdURDNA?oc=5",
-   "tags": [
-    "YIELDS"
    ]
   }
  ],
