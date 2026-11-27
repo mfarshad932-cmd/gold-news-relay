@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T00:21:25Z",
+ "generatedAt": "2026-11-27T00:49:44Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 29,
+   "items": 30,
    "kept": 6
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -81,7 +81,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 27,
+   "items": 29,
    "kept": 12
   },
   "gn_fed": {
@@ -96,29 +96,28 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 33,
+   "items": 35,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 9,
+   "kept": 9
   },
   "gn_yields": {
-   "http": 429,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 429"
-  },
-  "gn_oil": {
    "http": 200,
    "items": 9,
    "kept": 9
   },
+  "gn_oil": {
+   "http": 200,
+   "items": 8,
+   "kept": 8
+  },
   "gn_cbgold": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 7,
+   "kept": 7
   },
   "fed_calendar": {
    "http": 200,
@@ -127,12 +126,59 @@
  },
  "items": [
   {
+   "title": "Inside Ukraine’s power crisis amid its war with Russia",
+   "source": "Al Jazeera",
+   "time": "2026-11-27T00:47:15Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmJQQ1B1bjZIY0RkLU96aHluSnhCamhVSWlMZUdsRXQxbThQMFFBNW9YUFZLR0lPaVhfZFo1a2FnQ1duUWFHaGM2R3ZIemw5MmlzYWhYQ1Q2NzBxa1FkaUdpRTdCUU5CVEw3dnp5Q0JsdldyN3JobzNZd3pRaU80WFJMaXB2ME9DY05kbE95UGlPejNFLVBmaVJCdklGaHF0TThsQklDQ0HSAa4BQVVfeXFMT0dSbnlkemlMNkhVTWJscDI0ZjNsMXJ5aWJSTF95bE1FNHluOW5UVU82cWFwVUtacmJFc0pfR0dXaF9GNlVFRjBwb2MzZmVEVEVzNEVldjA3T19FY3JBZmZHT0c0bDduNXdOLTVLYUpGNjZWdnJwYVRHd09ILUVDbThPTVRyRmlkR1JYbVR4cTQ2LW1SaUs0RjR6YTlieFA4TTdxUlE1V3BkcFV3dzhn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Traders Rush To Take Profits After Rebound",
+   "source": "FXEmpire",
+   "time": "2026-11-27T00:31:49Z",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRGVRaFBxQk9NU28yWVZBczhIaFBqOXItWWlJMUtLelY1Z0ZYSi0xLTRWOGRVWlAtQ3JtNVRyY291djZqTGtRTFRUUEw0aUZwbGs4ZXBEbWRmaVZscXMxaUNLWnVMbVRYT04zMXBqWVFOR1ZWNU1FelNiX3BkaG1MMDh1LUd3MndfaHlldkpWZ09JVzlXX2lVNzRaSkdQOEFRaHpqNnVpeWpSS2l3RFRZVjI4TGczMUd1M0taa1dqcFdJVVNNTFYxelBNU0VCYXQtYzNzSlVUcmgxQ2VfMGd5WFZB?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant",
+   "source": "Reuters",
+   "time": "2026-11-27T00:29:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXlld0FmMFoxdUVjNlhmNURVMmZwLXJNcXZrVkhEQWxOLS14ajJFb2VQZzBOOUZKM1Z1VGwzLURERG9lUWdGczh0bTZGTGJqdC00Nk9tYjZLR21iN1ZRbEtmTHhnRFAzV3lYRzVRN2txb3h0TUxoeENQbmNTeHlmN1AtNnBnTE1rYTRnYmxxTXNBUkh1WTdZVHpBN3h2XzNYMXlUaWVLRmlOR051bTIwbE9BWVhJRjRHSWxVd0pXQy1tdnc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Sandpapergate: Cricket Australia outlines terms of reference for independent hearing into scandal",
    "source": "BBC",
    "time": "2026-11-27T00:13:11Z",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51V3J6ZUF5b0YxNzlwYUE3WGNRbjJ1NTFXWXFub1cwaHVDaTZyMmJ2a21pbWFadnNuNjdFS2lsRXNWWG80RG9VaUNOMnZRNmJIMEdPUlBQVnlCaXVleWV4aFJsbmVXSWM?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xVjdtZHp2THZIMkY3bjNVaV9XcEMtb1FxSnBURS13WThuSUp6aXNsUG1jUUhHbk1tZGtDSXc2RFE1NGl4OHBBN1luNDh2b194Z3cwZDc3U1JoOTRZYmhPdm9uSnp3ckJ4UkE?oc=5",
    "tags": [
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Argentina bars Central Bank from printing money to fund government spending",
+   "source": "Al Jazeera",
+   "time": "2026-11-27T00:11:16Z",
+   "link": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+   "tags": [
+    "CENTRAL_BANK"
+   ]
+  },
+  {
+   "title": "Turkish central bank suspends its purchases of domestically produced gold, bankers say",
+   "source": "Mining.com",
+   "time": "2026-11-27T00:08:45Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWkp1S1V6UDE5eENzaXJVZm1uMVpHcE9EcjQtenVGMWpraDR2dmx5RjMwbTJ1ZnRZU09ncF95Z3JzX21zeUM5X3dQQnRZcGRJZVhtTDlpNzZ3MVhscHRMOFhxY00tcEg0M2g2NHIzc3RTZzVLMVZVRmVYcXdsRzFpVnFvUnJpMExYalpPMVBHMUdOM1F2UkoyQWpyREdDeUJTdk9ZUzhyZFJ2MEhsbWFleGhYOA?oc=5",
+   "tags": [
+    "CENTRAL_BANK_GOLD",
+    "CENTRAL_BANK",
+    "GOLD"
    ]
   },
   {
@@ -151,6 +197,17 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGl3LTZRNnRWRkM1aWYxN3l5aEU0OGVidUxrWE9DcGJBakpXdmU1bGZZeElxR0J3YjBLS0Y1NTBDLXZCcmoxNkFma2NoekRwNExiajhYTFFPcUVhMmhIQ0lzdlZXQVp6ZWhhSVZCeUZYS1JIYWl6VXBmenRzZzZwbTdKN18?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week",
+   "source": "Bloomberg.com",
+   "time": "2026-11-26T23:53:35Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjBId0RKMFpkWFQ3R3VMeVV3T0VOMEI5dzRuWWZaMGNLVFBtRXZoWjJlWHhsdXVqdGNYT2NNc3ctSU9zdXpCR3ZaSXFENDhwQ1BQa1RqV01palJ3LWcxOWFnRXZFRm40NGRTaU9XYU9yOGF2WXAtV0lxOEdDcWZmSUxfYlZfZENjV3JUX0k5YmstSkk3V1ZWVWpkR1VjdDNzdkF6ZGxSNXpOZ1AxZmlGNThJTE0zUQ?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "GOLD"
    ]
   },
   {
@@ -197,15 +254,6 @@
    "link": "https://investinglive.com/news/tokyo-november-core-cpi-rises-to-2-9-y-y-just-shy-of-3-0-expected/",
    "tags": [
     "INFLATION"
-   ]
-  },
-  {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Traders Rush To Take Profits After Rebound",
-   "source": "FXEmpire",
-   "time": "2026-11-26T23:27:45Z",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRGVRaFBxQk9NU28yWVZBczhIaFBqOXItWWlJMUtLelY1Z0ZYSi0xLTRWOGRVWlAtQ3JtNVRyY291djZqTGtRTFRUUEw0aUZwbGs4ZXBEbWRmaVZscXMxaUNLWnVMbVRYT04zMXBqWVFOR1ZWNU1FelNiX3BkaG1MMDh1LUd3MndfaHlldkpWZ09JVzlXX2lVNzRaSkdQOEFRaHpqNnVpeWpSS2l3RFRZVjI4TGczMUd1M0taa1dqcFdJVVNNTFYxelBNU0VCYXQtYzNzSlVUcmgxQ2VfMGd5WFZB?oc=5",
-   "tags": [
-    "GOLD"
    ]
   },
   {
@@ -353,6 +401,16 @@
    ]
   },
   {
+   "title": "China’s lithium hydroxide futures tumble in debut as demand looks weak",
+   "source": "Mining.com",
+   "time": "2026-11-26T20:54:16Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaTJwNnZpMGhrWGdyeGdzb3M3WGpYLWhlZjJCa2ZqZ1hKRjhFUmNwSkxGRWxKa3JYVmdIRHBKQkx3QTUtblVoZld6NmVFN09ZNnBIdXktVXNidF93U0ZBdW1TbDVUbmlkNklydDhib3k1UC1ZMmVLZTBoVGg3ZllBdFYyQmxVWnVpMWlrX2xUVTVFbzVwQVFpOThpWjNEQQ?oc=5",
+   "tags": [
+    "CENTRAL_BANK_GOLD",
+    "CHINA"
+   ]
+  },
+  {
    "title": "Iron ore price gains on expectations of winter restocking at Chinese mills",
    "source": "Mining.com",
    "time": "2026-11-26T20:43:31Z",
@@ -378,16 +436,6 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWg1NTJPR0x6RXN2T0JIOXd6OUI0cGdkcUh2clZJbWZBUGZVdTZkX3plemh4NEtOLUxIRHctM3dCbUFzMHBWb2Rya3Y2UDZKUXhab2plWG9HZUNxN3ZJMF90d2p1djNQaW5QbThDeW00NVJ4MXNBSnowaUxWeVBzT0paSTZaTGdqN2wzbEdaSzNGUVQwVGRuUHlYTllBZGhLWXFVb1gtaERxblNnQVFscVR3?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "China’s lithium hydroxide futures tumble in debut as demand looks weak",
-   "source": "Mining.com",
-   "time": "2026-11-26T20:38:29Z",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaTJwNnZpMGhrWGdyeGdzb3M3WGpYLWhlZjJCa2ZqZ1hKRjhFUmNwSkxGRWxKa3JYVmdIRHBKQkx3QTUtblVoZld6NmVFN09ZNnBIdXktVXNidF93U0ZBdW1TbDVUbmlkNklydDhib3k1UC1ZMmVLZTBoVGg3ZllBdFYyQmxVWnVpMWlrX2xUVTVFbzVwQVFpOThpWjNEQQ?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "CHINA"
    ]
   },
   {
@@ -552,17 +600,6 @@
    ]
   },
   {
-   "title": "Turkish central bank suspends its purchases of domestically produced gold, bankers say",
-   "source": "Mining.com",
-   "time": "2026-11-26T18:08:25Z",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWkp1S1V6UDE5eENzaXJVZm1uMVpHcE9EcjQtenVGMWpraDR2dmx5RjMwbTJ1ZnRZU09ncF95Z3JzX21zeUM5X3dQQnRZcGRJZVhtTDlpNzZ3MVhscHRMOFhxY00tcEg0M2g2NHIzc3RTZzVLMVZVRmVYcXdsRzFpVnFvUnJpMExYalpPMVBHMUdOM1F2UkoyQWpyREdDeUJTdk9ZUzhyZFJ2MEhsbWFleGhYOA?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "CENTRAL_BANK",
-    "GOLD"
-   ]
-  },
-  {
    "title": "Opinion | Putin Extends His War to Europe—He’s Not Our ‘Friend’",
    "source": "WSJ",
    "time": "2026-11-26T18:08:00Z",
@@ -653,42 +690,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRk1hRXBYQlVtVTNtUVNtc1N0SkVPOTBhWTNtcmlQeDZSN0ZoUEYyLWRFckVIdVJlbmdnYktTNGFxWmtVaUdPYTdaam1hd2pkdldMTXcwRlRldjN6ZUdfZTlEZ2FMNEJfWnVjRGJMc1M4OWNwRnI5cU9JbFhMb0VJUk9kbVFLN1BCdXhhZlBvSDd0YlJ1cXZ5eEVGNkpwN2lxd1dWdi1yZ0V5Rkd1cGZSX05iejM0TVlrMnNn?oc=5",
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "title": "Syrian children continue learning amid the ruins of war in Idlib",
-   "source": "Al Jazeera",
-   "time": "2026-11-26T17:33:26Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUXI4ZkxpY0ZkTVlfUkdZR2wxZjhNLTNqcXdsTG9qUUc5U212R3RXNXpQbVZVLV9acWJTX3FJWjQ2T2VLQ3I4VFdTQWFOMWlldFFPbXYtVUdHMmJLRGYzX2FuNTlqVWpCUVVEOHNrc0xFUGtYSDNjWm9IM2x2eGluaFFZUzNyRnZjQUNSRy1ocF9wblhkbjNEZGh3TTFIZ2d1SU9leU9XYUZfSmFtNVZjaFJZdVItR2vSAbwBQVVfeXFMTVZLdmVtakswa0hmSkNhcW0wN3NZQlRoTDR5SzdWSmo2RHlZbDUzTHdjbGRsLW55djJKRTlqQ3ljOFpnYm9UWjl0OU91U2p3d24yVVNLaEhkRFVfREJ5clBITjV3cXJrQWVJcFpPVGdfQWpEaWFTYVVtSFFYak9nUG1NMUIwSXlkdF9fQ2xYNU9nVk5VMVlvaV9FT0E1UTh2ZVZTV1lxTGN3MEZZVDVjMmdmSXdyTEF2WmRhTDM?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Iran imposes sweeping austerity measures as U.S. economic pressure mounts",
-   "source": "The Washington Post",
-   "time": "2026-11-26T17:32:57Z",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSXVKN203dmhrRzdjSEV3RC1tMTJnQV9XU1pUdnpwdXVucnlpQzl6RTBjVGhHQWZDRjAxV0Rxd0IwOXNSckNTeDc5TEtjZTRQdFFWdlMwbkdkZTBkNWRtWmVfQzFZT0F6c0Y2TTJjOXJRU3YzRUplVG1FNVVsRzE2M0Q5TkJLSEF4anRtci1LU3BQLVNKQlo2aDBObUZBNG85c0V5dmJDaG9ZcUNSX2R0eHlYeXg3RE1BTHc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump dismisses prospect of replacing Hegseth amid Iran war fallout, looming Democratic investigations",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "time": "2026-11-26T17:31:35Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeC1Ed0o3YWVobm5mOURJNTkxSTF5S0N5SmFCdHJOTVM0TndfRHk2QUk0dFNvMHgxRzRpUlM2Qnh1a0FQbVBlTmZuMzFoeGQxOFhac1FhRkZPVTYtOFNLSEZrVE9qeHBPMEtCallIOEFmNjlMVmN2dnloMy0yT0J0STNDb3VhcnZJdU44VTYxOHFPS0RPSzR3WS12RDF1M25kbF9uQUo1NNIBrAFBVV95cUxObmthZVoyUHozSDJPeXd0RzFWMENBRTg5N18yNU9zRWtXVFVWTUEtUUZ6bEo2Uk90LWJ2OHVaWTJnbHZxcGtPZW9XQ2JfQjNKZGhjVUxFRGhKRkMtTGhub1J2RHUwX0dPSU51WEp4RC12QTFNeC0yZy1WbVR0S3puQ0FYNFJaa1g3SU9TeHpfY0ctODZhY1p6V0plOUtqYnQ5MGpCalpWVjFhQU1Y?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Mexico urges Asian trade partners to crack down on tariff dodging By Reuters",
-   "source": "Investing.com",
-   "time": "2026-11-26T17:19:01Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0tBTFUxemd5MWFYZ2JmREpwYW53ZHNlS3FMWmtkNXBtSGo2OWJYeUtrSDEwbV9CYl9tbUlQaDBHazd0ZHVhNEFaeURKeXNPTkZmSUNqM3NsNXFRSHV3ZUZVRWtKNW1lQ190VmNuZU5xYm5DMVlyZ3RvalFMcFJkS2dmNzdiNzZhMW5zM0k0VmVBVVlvd2RtcnhDbTNMbmc3UVNDa3haQ2syVXBYUGtkN29sX0tMR0VkM1VzcERhRQ?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
