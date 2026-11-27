@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T13:34:43Z",
+ "generatedAt": "2026-11-27T14:02:51Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -21,7 +21,7 @@
   "ecb_press": {
    "http": 200,
    "items": 15,
-   "kept": 3
+   "kept": 4
   },
   "bea": {
    "http": 200,
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 6
+   "kept": 5
   },
   "marketwatch": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 5
+   "kept": 6
   },
   "bbc_business": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 36,
-   "kept": 3
+   "items": 27,
+   "kept": 2
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 7
   },
   "whitehouse": {
    "http": 200,
@@ -81,27 +81,27 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 20,
+   "items": 21,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 14,
+   "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 28,
+   "items": 30,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 38,
+   "items": 36,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 16,
+   "items": 15,
    "kept": 12
   },
   "gn_yields": {
@@ -111,8 +111,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 3,
-   "kept": 3
+   "items": 2,
+   "kept": 2
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +125,52 @@
   }
  },
  "items": [
+  {
+   "title": "Trump weighs in on veto power, Iran war and Putin",
+   "source": "NBC News",
+   "time": "2026-11-27T14:00:48Z",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGV4WUtUbEVOSl9HZHJKRlVzc2FCcEJ5LXZMLXZkOXUwbEZ6UnR2eDRzX1ozU3R5NktCaUlDRzltbWJEWklqT29VaERGU19mcHltUjJkU0xvTTBDNDVOaU1EWFJicFBpWnNQdEZBWWRaVWFmb2V1dEpKdWZPVFpCcF9SUy1pRFpROUV3clhSRmdqbV9sc2MwX3QyNldrYk0?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+   "source": "ECB",
+   "time": "2026-11-27T14:00:00Z",
+   "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+   "tags": [
+    "RATES",
+    "ECB"
+   ]
+  },
+  {
+   "title": "Cold War State of Mind Returns to NATO With Doomsday Kits and Training",
+   "source": "Newsweek",
+   "time": "2026-11-27T13:53:00Z",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Yc21rNDMtb2JCWEFFUEdWTEEtLS00VmtTRFRoeHlYa0ZrbjZiOU50SGFlLXlBakpmbmZjeGtHaXdMMFdZcW5vQ0JpUTdmc3dwUkZJcGhCb1lGcnV1eUh1eUFLbEZTb05YQ0RQWGtiV0RrQzVOMkdzRUhsVEk?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-11-27T13:33:57Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZWpiaWFfMlFaRm0wbWdQNGRyY0g3WmdublpxREhkS0FnSkZIQk5lbDV6cFhjblM2a2RrLVVyNUdqaWNIVFBKcWJPODIyNXdoeVRrR2ViZVNmcmIxd0lFTWNPbXJ3Mzh4WGVESkdYZlk3eDBXdXNaU3hoUTd4ZlhWUFJqNWFpX2hCaDNJelRVdm9MeWx0aG1NZmtxd2dJWWdfc1M5Q1dYSHNZc3hrS0NLWHBVcWlySGhF0gG-AUFVX3lxTE9mOFgxejN3S3J1WVA5ZFFZdHhCYnJUall5aGktMkdPamFLUmRGNTdwdjZtbnlkS21DRGpzcW1FcHpEYU8wTFpYbU1zaXFhcXJwS0xPYzF5QmRLLVI4b1h1QzBkbHNndkF6LW9CNlhiRjhUdllWR3dFOGhwUV9qUGZqNTQ0NWNBSXFCOHNxY3VUSkM3aG5TQUlqMnYyVUV3VnhrWG95MmYxSGZBc29QY3N1Y1E1RTdxeW5YUUQxZHc?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Stockpiling Will Support Oil Prices in 2027, Energy Aspects Says",
+   "source": "Investing.com",
+   "time": "2026-11-27T13:23:00Z",
+   "link": "https://www.investing.com/analysis/stockpiling-will-support-oil-prices-in-2027-energy-aspects-says-200692441",
+   "tags": [
+    "OIL"
+   ]
+  },
   {
    "title": "‘Friday Night Lights’ team is back with a harrowing anti-war football film",
    "source": "The Washington Post",
@@ -232,6 +278,15 @@
    "source": "Reuters",
    "time": "2026-11-27T12:47:23Z",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4QU5NZW5kaEppcWZkalB3SC1zdkhZaERtTnVpRFZFcnRGQ2RhZ1g0aElEQXZHc091emx4eFRRalh2UDZ6bGQ1VElCNHhKZVJTeWJxd2hEVHdKMGlBcnc1ZE1hU1FWZHBWeXVsMzlLVTVScm9XTHZCdnBJc3YtQQ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Democrats see opportunity as Republicans reconsider Trump’s tariffs",
+   "source": "The Manila Times",
+   "time": "2026-11-27T12:37:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWmp1WEY0OWI3UEk3ZDRFYXpZV3dwazkyRDZMVEJIUzVMdnJualBiZEVxUGd3bEJRLVJTZ0UxMVowNkxFM184b1R6YUZSaGd3aDhIRkE2WUtudU43TFlELW1rLVNkbDdzQVAxQUFuTktzclhMOGpFNHgySDJPQlljTEdSRWE3RGExUlljUDNBS29pZ3gxYTRZWmp6bkpaTXpDX1lCaGVJT01nN1R5eDBBeHh6VEtVeGxwSG9fMERwSGXSAcABQVVfeXFMUFpqdVhGNDliN1BJN2Q0RWF6WVd3cGs5MkQ2TFRCSFM1THZybmpQYmRFcVBnd2xCUS1SU2dFMTFaMDZMRTNfOG9UemFGUmhnd2g4SEZBNllLbnVON0xZRC1tay1TZGw3c0FQMUFBbk5Lc3JYTDhqRTR4MkgyT0JZY0xHUkVhN0RhMVJZY1AzQUtvaWd4MWE0WVpqem5KWk16Q19ZQmhlSU9NZzdUeXgwQXh4elRLVXhscEhvXzBEcEhl?oc=5",
    "tags": [
     "TARIFF"
    ]
@@ -466,6 +521,17 @@
    ]
   },
   {
+   "title": "Treasury yields are higher as oil prices rise, investors look ahead to payroll data",
+   "source": "CNBC",
+   "time": "2026-11-27T10:22:41Z",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VZE5oYjlVeWluQTU4R3YyeTNXclpnbDlnZklWOHQtaXFMZ2pKTGhlMUlfWlRGZWhuZERVaE5LampIR21EU1ZtT2FuOFMtdFU1MDlFWFBDbTM1S3ktYXVPLVBJYXlKaG9CR3dNaVZjNNIBdEFVX3lxTE05U3dmc0U2WGM1M3JZNkRBaWlWVXpxazVqZG5WTFFQVWZJUm5QcWtva0duRFNSVVRpWjRUb2EyYU5IOE82aHBxTkptb1pyWHV3Z2FySkRoQl8xcnJqWUxuZFdQaktvUU5DUGlKR0xkQVo4dm5L?oc=5",
+   "tags": [
+    "YIELDS",
+    "JOBS",
+    "OIL"
+   ]
+  },
+  {
    "title": "Gold Climbs Above $3,670 as Precious Metals Rally Following Recent Sell-Off",
    "source": "Yahoo Finance UK",
    "time": "2026-11-27T10:17:49Z",
@@ -579,16 +645,6 @@
    ]
   },
   {
-   "title": "Zambia holds interest rate at 10.75% as inflation stays on target",
-   "source": "Investing.com",
-   "time": "2026-11-27T09:36:48Z",
-   "link": "https://www.investing.com/news/economic-indicators/zambia-holds-interest-rate-at-1075-as-inflation-stays-on-target-93CH-5053183",
-   "tags": [
-    "RATES",
-    "INFLATION"
-   ]
-  },
-  {
    "title": "Singapore Shares Close Higher on Bank Gains Despite US Tariff Threats",
    "source": "marketscreener.com",
    "time": "2026-11-27T09:36:30Z",
@@ -621,61 +677,6 @@
    "tags": [
     "CHINA",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Meituan Posts Earnings Beat as Price War Cools",
-   "source": "WSJ",
-   "time": "2026-11-27T09:13:00Z",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnVBRVJVc1Nza053bTRzeU5ZUlVjUWIxMVdZa1Jobl9tOEoyeFlwWXg1aWpKVXgydkZUbkJ6SmNpLUdxWDdjNHJmQ3ZCNlp0X3JpN19pN2VkNGdwR2tFYU1TZnBLOXc5ZG1MampnNmFGd3BCMUl3SkQwcUl0U05uTTFpM3pwUTFRSklYMHlYRUtGT2FtX2xhTQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Zelensky tells BBC US too focused on Middle East and not pushing Russia hard enough",
-   "source": "BBC",
-   "time": "2026-11-27T09:07:48Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yT0hCRWtIQ0V5LUJBTTNOSV8zZUY5X3FrRDFKWWRmYTJPVVdGOUZGV0xLREZDamtPWURqSndUVmVqY1NJUG4tNDBKeTdkbW9wdTBJVV9uLS16OUk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "ECB Consumer Expectations Survey results – October 2026",
-   "source": "ECB",
-   "time": "2026-11-27T09:00:00Z",
-   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "title": "Australia sanctions 2 alleged Iran operatives over antisemitic arson attacks",
-   "source": "The Times of Israel",
-   "time": "2026-11-27T08:55:54Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcWJFUVFIcnVNYVhsckV2Q09CUXdZQ1F5Q3FRS2lRdnZNZnpDd3RXdUJpaWkwMWNFcTNfdWktd05xSG5QanExM2RvSHlqUTFXcmROSFotbERNMVItTXNqbkdod0Nqbm01NEx2TU9YZlhXaG1Fb1VrQkxvZkhQcGFONmRKV0NFeV9YcW5remVLN1lwYklkOHJFdFU3TXE5WmZaZmhsMkhzdTFYMFHSAbABQVVfeXFMUDVmNW9ZT1IwdFFtRDUyWlRlclF3bXpZTmlGeGxDMlJUenlhOWRBMEZXSGFKTDB2MEdFMVRXUXRsMTNMVG5nTW9ZSkxTTW5Kamo2SXRfanhsUEE5WVRKTzBKbExUaDBYaEVIN09nTHdEVHplTlFOc2YtaUFHQkdQTlItTnVVcXdMX1Z5UU1MVUdydDJKdTd1VGJRTjk5cnF6SFhlbWhJYjE0cWxxckFGQ0Q?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Germany unemployment rises more than expected in November as labour market struggles persist",
-   "source": "ForexLive",
-   "time": "2026-11-27T08:55:12Z",
-   "link": "https://investinglive.com/news/germany-unemployment-rises-more-than-expected-in-november-as-labour-market-struggles-persist/",
-   "tags": [
-    "JOBS"
-   ]
-  },
-  {
-   "title": "Germany November unemployment change 9k vs 4k expected",
-   "source": "ForexLive",
-   "time": "2026-11-27T08:55:12Z",
-   "link": "https://investinglive.com/news/germany-november-unemployment-change-9k-vs-4k-expected/",
-   "tags": [
-    "JOBS"
    ]
   }
  ],
