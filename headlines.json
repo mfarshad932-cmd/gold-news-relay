@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T03:11:28Z",
+ "generatedAt": "2026-11-27T03:39:47Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 10
+   "kept": 11
   },
   "bbc_business": {
    "http": 200,
@@ -86,38 +86,38 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 18,
+   "items": 15,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 44,
+   "items": 41,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 37,
+   "items": 39,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 12,
+   "items": 13,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 13,
-   "kept": 12
+   "items": 9,
+   "kept": 9
   },
   "gn_oil": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 8,
+   "kept": 8
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 7,
-   "kept": 7
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -126,9 +126,46 @@
  },
  "items": [
   {
-   "title": "ABC in war of words with The Australian over Gaza freelancer, but Hugh Marks says it’s ‘fair scrutiny’",
+   "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+   "source": "CNBC",
+   "time": "2026-11-27T03:30:23Z",
+   "link": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Australia sanctions two people over antisemitic attacks that it blames on Iran",
+   "source": "marketscreener.com",
+   "time": "2026-11-27T03:17:27Z",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQclBYd3lLank4WC1lSV84UjQyeF9va0U4eHZ3U0dHdmhlb0RwaG9KTWZRX1pLNGo4VENmbnNUNF9fSGhvcEdaeEdxa2JnVUZ4WUJVMHBNNDV2NnpJTmtySWtGZkxObDJ3TnB2aUtuOUVvbWVHeFU1VnNSSWZBT3haN0dUUzlNbjhBakFSMGNPc09PTlc1T05XUWhKU3BnOEZPNlUwbkIwaDFVZ2xwT2ZLcURWSUF5c0wxeVJSTER0aWFENzFUMXlsc2N3cw?oc=5",
+   "tags": [
+    "GEOPOLITICS",
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Trump says he urged Putin to pull back ‘all military aggression’ in Europe",
+   "source": "South China Morning Post",
+   "time": "2026-11-27T03:12:46Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmRINi03MTZfanRidzFUNkk2eUcyWWR1QldubFdfTE16SzlfeEItVUQ0blFSbWRCb1lZMHVVVGtnWkI0Ujc4QXN6cGhyMjExbmxEbXpFLVlMR0wwRFAtM0tveTJsWjZfTlRjUncybjhrREdld0l2bmdpMWxjS0hwZTZBZE13OHBjd0hJUVdXVWs2Mmx5dE5RbGgxTkIxTGZsZnpjV293NGtBY0lZTFBucVY3dGt1NUV4Qlo3enVn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Ukraine war briefing: Kyiv launched more long-range strikes in 2026 than rest of war combined, data shows",
    "source": "The Guardian",
-   "time": "2026-11-27T03:03:00Z",
+   "time": "2026-11-27T03:08:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOEVienFUcEhQaDhycjBhVEhBWmNKLWpIVXF2SmtKMnBHd1VhOTViamZ2eFRfQlR5YTVBQTdmc1RCMEpTOGpyOTJiUFQtMXRmejJTcEFYMUtGWEdxZVNMYjZwR3Rxd1Jubl81TVJlZnFxYjhxQkZldDUyQUJKMVpPUWs0clJHUXZiNm5IY3lLaF83dHlMem9CZl9ESVdTeE0tamp6OEZReDl2eEpLZ1BVM0tsdzdWTTNTOTFMeGNtOGpRNnVoYUh0U25YUEJEUlZxektTa2JpMHBSdFRCeGVKbjhTOA?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "ABC in war of words with The Australian over Gaza freelancer, but Hugh Marks says it’s ‘fair scrutiny’ | Weekly Beast",
+   "source": "The Guardian",
+   "time": "2026-11-27T03:04:02Z",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR0tPMTlFa3IxU2JkTlp0dU45UXNuOUttblRZX1hfUWhSSjdMbjI1cGJlU2Z2b2t4bVFZUmotcmtERW1ZS3NFUFNzaHJoSGlSZkZ3emo4MFJYc1I0ZUVpV0dyeDBqOGZLZzhjblJHSnFwcTZ1NTk0ajhxWkYwbUczNWlpU3F6NVNwS0ZCRHJDUFpIQ0dMRUZsRkI2S3dBZjZtWF9zNWxaQ3ZWNk9qRHc?oc=5",
    "tags": [
     "GEOPOLITICS"
@@ -160,6 +197,15 @@
    "tags": [
     "FED",
     "RATES",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "News by CNBC TV18 on TradingView, 2026-11-27 — cnbctv:24a89b338094b:0",
+   "source": "TradingView",
+   "time": "2026-11-27T02:31:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JVTlPYXVGM05mUnIwbjJzLUF5MFdnVWRLcjFndzlSVld4Wm9odmptdDhFVmRMdmI0TUo4RWxzNjM5ZjhRSDc5UFBYODl0SUlPZG1iZzZaNS1KQzdVUEI4YjdaZ041Rjg?oc=5",
+   "tags": [
     "GOLD"
    ]
   },
@@ -217,6 +263,15 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUliTUI3S09BY2dpd0tnNnR5MGtJNkxrM0Y5a205NGVIOHR0bnNHV0NtaVNBRG5BU2NqcmdEN0xybGtqRi14WC0zaWR4Qk44Ul91VEh4dW01M0VCanBLblJXdU5Na2pVaS1wZTNaTTNBenM2c215MmozMHg0SWtybEx0VV9aNFU1a25BVHllSE53TDRscEcwRWpQblNYWVdzYlFhYTJvM3prQXB0MHkyREJR?oc=5",
    "tags": [
     "SANCTIONS"
+   ]
+  },
+  {
+   "title": "WTI extends recovery above $85.00 as Mideast jitters fuel supply fears",
+   "source": "FXStreet",
+   "time": "2026-11-27T02:12:54Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQckw3ajdLMFE3OWctcGloRmoxN1owQUtCRkNueDZxUUxQbVIxNnV1b242eV9xMjBpOWFyTmRlbWVNR21kanZyU0lkeXpoajBEc1RKSTVLYWx4QnBhZGZ4QzJVX2hoYmRZTU1BT09RelpIRzRTVDFidU0xb0d5T0tka3BBbjFsdzZiUFMtU29aWW9odXZIX0R5OWRpUDhGbG5WRkJRNF9zdTRDbV91Z2psZUF1bzBsVExmMjdWQ181R2xNY09NZ3FJbEJn?oc=5",
+   "tags": [
+    "OIL"
    ]
   },
   {
@@ -283,6 +338,15 @@
    ]
   },
   {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Traders Rush To Take Profits After Rebound",
+   "source": "FXEmpire",
+   "time": "2026-11-27T01:22:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRGVRaFBxQk9NU28yWVZBczhIaFBqOXItWWlJMUtLelY1Z0ZYSi0xLTRWOGRVWlAtQ3JtNVRyY291djZqTGtRTFRUUEw0aUZwbGs4ZXBEbWRmaVZscXMxaUNLWnVMbVRYT04zMXBqWVFOR1ZWNU1FelNiX3BkaG1MMDh1LUd3MndfaHlldkpWZ09JVzlXX2lVNzRaSkdQOEFRaHpqNnVpeWpSS2l3RFRZVjI4TGczMUd1M0taa1dqcFdJVVNNTFYxelBNU0VCYXQtYzNzSlVUcmgxQ2VfMGd5WFZB?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
    "source": "NBC News",
    "time": "2026-11-27T01:12:26Z",
@@ -298,15 +362,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmJQQ1B1bjZIY0RkLU96aHluSnhCamhVSWlMZUdsRXQxbThQMFFBNW9YUFZLR0lPaVhfZFo1a2FnQ1duUWFHaGM2R3ZIemw5MmlzYWhYQ1Q2NzBxa1FkaUdpRTdCUU5CVEw3dnp5Q0JsdldyN3JobzNZd3pRaU80WFJMaXB2ME9DY05kbE95UGlPejNFLVBmaVJCdklGaHF0TThsQklDQ0HSAa4BQVVfeXFMT0dSbnlkemlMNkhVTWJscDI0ZjNsMXJ5aWJSTF95bE1FNHluOW5UVU82cWFwVUtacmJFc0pfR0dXaF9GNlVFRjBwb2MzZmVEVEVzNEVldjA3T19FY3JBZmZHT0c0bDduNXdOLTVLYUpGNjZWdnJwYVRHd09ILUVDbThPTVRyRmlkR1JYbVR4cTQ2LW1SaUs0RjR6YTlieFA4TTdxUlE1V3BkcFV3dzhn?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Traders Rush To Take Profits After Rebound",
-   "source": "FXEmpire",
-   "time": "2026-11-27T00:31:49Z",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRGVRaFBxQk9NU28yWVZBczhIaFBqOXItWWlJMUtLelY1Z0ZYSi0xLTRWOGRVWlAtQ3JtNVRyY291djZqTGtRTFRUUEw0aUZwbGs4ZXBEbWRmaVZscXMxaUNLWnVMbVRYT04zMXBqWVFOR1ZWNU1FelNiX3BkaG1MMDh1LUd3MndfaHlldkpWZ09JVzlXX2lVNzRaSkdQOEFRaHpqNnVpeWpSS2l3RFRZVjI4TGczMUd1M0taa1dqcFdJVVNNTFYxelBNU0VCYXQtYzNzSlVUcmgxQ2VfMGd5WFZB?oc=5",
-   "tags": [
-    "GOLD"
    ]
   },
   {
@@ -629,62 +684,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold Confidence Needs Rebuilding",
-   "source": "Investing.com",
-   "time": "2026-11-26T19:41:00Z",
-   "link": "https://www.investing.com/analysis/gold-confidence-needs-rebuilding-200692386",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "India’s central bank repatriates another 60 tonnes of gold in 2026 as share of FX reserves drops to 14.38%",
-   "source": "Kitco",
-   "time": "2026-11-26T19:20:40Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGE0WUZ0UVRyeHV2dHBJRzFzTUdnQlVnT0NBQnVwSHpybk5hRV9PVHhWa1E4ak9TaGVFbFlLSVNGRERqbFQ0UVh4WldETUJkLWhnczlOSDBCcDdwMGx0dmJ0QTBvY2d6X3F6SXIxRUxDX0hRWi12ZGxmRms4VzRETlprVHVmaHFjZi1fQjVGRjltZXhCOUo5R3ZPTVNVbWN2NHdWdzc5SERVUndJdU45cXZ6QnU?oc=5",
-   "tags": [
-    "CENTRAL_BANK_GOLD",
-    "CENTRAL_BANK",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
-   "source": "Al Jazeera",
-   "time": "2026-11-26T19:19:12Z",
-   "link": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Tariff Talks Put Hindalco Stock And Indian Exporters In Focus",
-   "source": "Yahoo Finance",
-   "time": "2026-11-26T19:11:18Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYzNUYzlDMkVIbV9WN3JKbGxsTlAzNHJNdExvWE9xTFp3TWN3SFdYSi12bnI4dnVUXzZsa2tCY25PMllDMFhlc3hOQ1laa2NpMTMwMHRkLWRXczV1VDFJQ1NnZnh4MlU5M2swLTRNc0pyYl9iMWp3WDhxNl93U1lXLXdpTUd3TFdCUEEzeXBZemprMlE2WXdWSUtxXzQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Russia accuses Ukraine of trying to spread war to Mediterranean and Baltic seas after attack on Russian ships in Libya",
-   "source": "Business Insider Africa",
-   "time": "2026-11-26T19:08:03Z",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcmJaTjVwZ1NqUTZPbWpsb2ZaMXFfTi0tUmFoRWVaaXdVY0V2VEgwUzhMdU8zck9fcHMzalp4c2FXdk0zaDRTMUJ0OGtkeHYwTVB6Vkd3QU81STFvYjd0MS1udHZtZmFQS05UM2FjQ0NvUm9reVdfNHlPMlpia1dCVXVBSm5SMDlBeHpjWW5rb3h0SU1fNkkzMDdMUmFqV1ltcVFybmlZSGpqOTg2OUlvbVBpUmVjR2JERHVrLVl5LWJtenlQdG5zeFNhMlVGeE5wcEZ0c3dKS01pQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Silver Price Today | Price of Silver Per Ounce | 24 Hour Spot Chart",
-   "source": "Kitco",
-   "time": "2026-11-26T19:07:03Z",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yMEZVZlBMcVNiamZhXy0zc09ncWhlZDByYTFoUnhVWTBZUExUVXdKYzFGNkUzdGg5cG9EUXZUVXJuaVRITHE1bnhtbw?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
