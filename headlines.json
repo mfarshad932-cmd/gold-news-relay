@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T01:46:23Z",
+ "generatedAt": "2026-11-27T02:14:49Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -37,7 +37,7 @@
   "forexlive": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 9
   },
   "investing_commodities": {
    "http": 200,
@@ -57,7 +57,7 @@
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 9
+   "kept": 10
   },
   "bbc_business": {
    "http": 200,
@@ -66,7 +66,7 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 30,
+   "items": 31,
    "kept": 6
   },
   "aljazeera": {
@@ -81,33 +81,33 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 27,
+   "items": 26,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 18,
+   "items": 17,
    "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 43,
+   "items": 45,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 32,
+   "items": 36,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 9,
+   "kept": 9
   },
   "gn_yields": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 11,
+   "kept": 11
   },
   "gn_oil": {
    "http": 200,
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 7,
+   "kept": 7
   },
   "fed_calendar": {
    "http": 200,
@@ -126,10 +126,46 @@
  },
  "items": [
   {
+   "title": "Chip curbs are a larger risk than tariffs for SE Asia: Port Shelter IM",
+   "source": "CNBC",
+   "time": "2026-11-27T02:10:31Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTXc2NFJUQzQ2b2EwZ1NLTm5ZWDN2Z2g5NmVrNmJzaGRuZl9lTTJLamJSZ2lDODBvdmZhWHVVWjdkT05YWXU3NU9nZjFqeDhMd2JLRWU0aXFsVG1VYXVnSmk4ZGVUWkF2NGh5NHI0b2VnMGdkYW1OemlRZE51OUpyaFpyUHNNaEtHcTdxaENCdTdxQkJxZHZUY29UbDUxekhRRlh6N0tB?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
    "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
    "source": "CNBC",
-   "time": "2026-11-27T01:38:00Z",
+   "time": "2026-11-27T02:04:09Z",
    "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "Trump says the US has ‘close to 50%’ of world’s oil",
+   "source": "Al Jazeera",
+   "time": "2026-11-27T01:44:02Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Trump: Iran war will be over ‘sort of whenever I want it to be’",
+   "source": "The Hill",
+   "time": "2026-11-27T01:41:00Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYndFMTFFMlRhOElWM09BSS1fQ0FQb3kyVWhpYVZ5ZEJlM2t2UTlKRjlFQTlrekVxaVpQa3JucEcwdVFONnB3aUJMMzdCUUpNcG1VcXpOQm1ZTThuME1WdlB2UlhCamI5b2ZVcGI2a1VfajhCeTNqZ2xMRW04Z0tUZS0xNjVESXFLVmx6SERaUdIBlAFBVV95cUxNUFRSSTRfUWdXdWtSWWlrX2pHUm95MHFmSUEzYzAwRkd4dDVyRkxwajJGRTNDb0JyUjNPN2RuRzdfVjlKQ0F0LURjd2x5NmdodkNzVnI3anpZTURQZXhfUXlwdWxTZG84VEdweWFqX0trWVhSTm1nQ0pNaVEweWRmU3g3Nnd2bE82RThqSC1TNUxXN3Zz?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "China's industrial profits growth speeds up to 20.1% y/y in October",
+   "source": "ForexLive",
+   "time": "2026-11-27T01:36:10Z",
+   "link": "https://investinglive.com/news/china-s-industrial-profits-growth-speeds-up-to-20-1-y-y-in-october/",
    "tags": [
     "CHINA"
    ]
@@ -185,7 +221,7 @@
    "title": "Sandpapergate: Cricket Australia outlines terms of reference for independent hearing into scandal",
    "source": "BBC",
    "time": "2026-11-27T00:13:11Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xVjdtZHp2THZIMkY3bjNVaV9XcEMtb1FxSnBURS13WThuSUp6aXNsUG1jUUhHbk1tZGtDSXc2RFE1NGl4OHBBN1luNDh2b194Z3cwZDc3U1JoOTRZYmhPdm9uSnp3ckJ4UkE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51V3J6ZUF5b0YxNzlwYUE3WGNRbjJ1NTFXWXFub1cwaHVDaTZyMmJ2a21pbWFadnNuNjdFS2lsRXNWWG80RG9VaUNOMnZRNmJIMEdPUlBQVnlCaXVleWV4aFJsbmVXSWM?oc=5",
    "tags": [
     "SANCTIONS"
    ]
@@ -206,6 +242,15 @@
    "link": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Watch US Plans for Tariffs Face Pushback",
+   "source": "Bloomberg.com",
+   "time": "2026-11-27T00:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTDlUMTlLa2EtNGxnWjdyelI3YlliVFl1cENOZ1lqOV9PeHZzc2pFVktib1pURVRPRllFcEZKdEVOZDNoME5zazlpUVRFc3UzaGNYTXFxV1JjMTJnblZoS1hCVS1kX0R1WXNrMUE0VGVOR2ZXTEgxTW11TlNuTlhJSWNSUWtncVBHZjlDaVljLVZleWs?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -642,51 +687,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb29vaFQ2a1Z3UmxfQzZKcnpMcGMtMmZwcGNZZkkxOGhDSWVqczlWbTV2eThPY3FvczlnQVI4aXg4UEx4UVIzcnlSNmNQT0dzT1JRRG1mVmcxUHVxNEY3bVZjc3RmUEZFY3lKcmV0cVpoWXdkSXJrWl9COXlUbTFKVEZLMjNtZEMycGdvZUhwRVFwU2cyak5wZlhIcmZ0X0QwZU02ZS1vZjh3Zw?oc=5",
    "tags": [
     "FED",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Tech billionaire takes his case against red tape to the Federal Reserve",
-   "source": "The Washington Post",
-   "time": "2026-11-26T18:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSVZoU0stTElBY1VHVk93NWpGbjZQeEFTQll0TXZBUE82dGVpMmVEOGpKbldjRGcxZERvTUl6SHF4eDRUdHV0Sm1YVVpLcWF5X0txSldhaWZMcFFJa2l4blpIVFk2M2p5N2NrbHFwYzY1Vm9YWTFOTFJkaFFwb2ZaQk9HczlteC1kQzQ0YlB4S2Qza2lvS0RkZllMT25pdmRDcXB3WUVna1poWDlXeE56VGFIeHFMS3ltNWZjTEt3cjM?oc=5",
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "title": "EU leaders struggle to agree on long-term budget, $49bn Ukraine loan",
-   "source": "Al Jazeera",
-   "time": "2026-11-26T17:53:44Z",
-   "link": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Semiconductor chips are the new oil. Here's why",
-   "source": "CNBC",
-   "time": "2026-11-26T17:52:15Z",
-   "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "UK to invest £9.5m in Ukraine windfarm to bolster war-hit energy system",
-   "source": "The Guardian",
-   "time": "2026-11-26T17:49:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWk1oZFB3b0xvODhlY2ZQNmlmNGlIc0hWVGt2X3ZSR0VOQmV5WmdwTjRQZDZlVTlmU1VwMDJpMnpOakdJSzQ5MHVHc3VYWk03WVM4Y3N2Wldtd2JDRXlnakJ0eWtsQXdWR3NabzBoNlVVYXJHYlItYmZnUDhCMFJHY0cydFlrelkxZ3k2ZWpWYkNRTmlvQS1iS0RNTHpYVDdSVUJYbXJwa1ZiTGs?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold price drifts lower in thin US Thanksgiving trading",
-   "source": "Mining.com.au",
-   "time": "2026-11-26T17:43:22Z",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONlNVMDloblRWT2x5ck9uQ3RBOHpUMlIyb05haUhXbkRmNEUyZ1drTDE1QTdDYmRkUnN1cFBEeVYtVm9Cb3RWZ1BBOTAtbUhOQVlqcmNfQVNNdzRVdFNzemg4UXBscy1OblVhZnNjdHVid0RIMFdfV1cwcUpzanZIeEFSMGk?oc=5",
-   "tags": [
     "GOLD"
    ]
   }
