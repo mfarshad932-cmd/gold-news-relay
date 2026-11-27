@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T14:31:18Z",
+ "generatedAt": "2026-11-27T14:59:39Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -80,52 +80,44 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 23,
+   "kept": 12
   },
   "gn_fed": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 12,
+   "kept": 12
   },
   "gn_tariff": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 24,
+   "kept": 12
   },
   "gn_war": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 37,
+   "kept": 12
   },
   "gn_sanctions": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 13,
+   "kept": 12
   },
   "gn_yields": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 13,
+   "kept": 12
   },
   "gn_oil": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 4,
+   "kept": 4
   },
   "gn_cbgold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 5,
+   "kept": 5
   },
   "fed_calendar": {
    "http": 200,
@@ -133,6 +125,81 @@
   }
  },
  "items": [
+  {
+   "title": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
+   "source": "The New York Times",
+   "time": "2026-11-27T14:54:29Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDVjcXNHbGwyZERtU1NYdThmTDcybjJkT2lyY2hLSTZfS0ViNkJ1QWFzYlM3QVk2VVU2MXJOeXdDR2I2bHU5b0VwQ3g2SXFFMGJSUVFVSVpnY3VERjhrLUhlR2lkSVZrZFBIOHRPZVVicGhQRnRZZ2VrX3hFRm5KUzljT3BnQ1dTWHRXdWZZSEtvenoySlE?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "‘Friday Night Lights’ team is back with a harrowing anti-war football film",
+   "source": "The Washington Post",
+   "time": "2026-11-27T14:49:11Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLTZGdFlwbVFtLXRGODVuc3R5aUZpRm5qNUdjVU9vZlJ3UmN2ak1iQmNKcGMtQmZ3eXFXTWhvY2d3VHAtNXpDQWU4OHVEZkltdmxVLTJpdDJZX3UtOVFRR1R4T3VWNmlBSi04WkpMMGVxM0gwZ2oxYUxzS2hrNnFDM0tUSE1zWjktYV9NQlEwTnF1cnJxTjBOOW9TWXBtLVhCWldlaEZtZXE0UVR3LTV5b0NTbUFEQXF3Tm5yWE9wYmtXQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Gold Price Forecast: Fed Rate Hike Bets Threaten the Latest Rebound",
+   "source": "FXEmpire",
+   "time": "2026-11-27T14:47:34Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMGwwTHhCdV9lNnpVQmhQem10ajFMallFR1lUTTJtNV9ibUZoaG5pZmhHZHZjN3BOOHpJQzItMl8wLUVEREh3YTh3SGE4WWpVYjJ4TWMxUmE2Mi11N0ZMcEQ2LUdFOU5XNU5mckVoNTMtZXJYSHloUlJwME9CR1dfRWRwbDk5eUxLeV82MWx1dldTemlTNUMwSEZ5ZllzVzA1NFMwSU5UamdUYlIyWUt0QnVxSEZXaEo0?oc=5",
+   "tags": [
+    "FED",
+    "RATES",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "New Tariffs on China Risk Undermining Trade Truce With U.S.",
+   "source": "WSJ",
+   "time": "2026-11-27T14:43:42Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUcwQ3JjLUlNWjhSZnFuYWMzVEFGd0RMR2lZT2VmWUdBejNHckpxbWFSb0lsTUNuTzktdm9qTk94eTgxMXFRQkplOTdZZkFDSEVaUkVZcWFfb1lEMTNEVzFHd013bXhoRFU4ajZjOTB0UXFhM1FacVliRVdqcFY5dG11UURVYmFZang5ZEpaZEVCazhBMjFz?oc=5",
+   "tags": [
+    "TARIFF",
+    "CHINA"
+   ]
+  },
+  {
+   "title": "U.S. Pushed Iraq and Venezuela to Consider Quitting OPEC, Sources Say",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "time": "2026-11-27T14:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNajhfVmttRkZVVS02V00zX1JYOG9CQUo4azVvMGxYYll6dmdNb0pnaVZJTTVLNE5xeGlQRXZYdDJjSGVZZF9Fc2JnNGpyUnh4Vjh2UWY3NHFHaGcwY3d2X0NSRWZIVXRyQnlFb1ZiaEp3eV9fZ1poOUJnS2RGQVdzX2loVk1xcjBkOG5SUzQ2ZVlBNkIwSnFPRFZpdEI0RGFzVnhHVjV4eVNneXNFZUZqTFVQUjc5cVIyOGlrSjVfWdIBxAFBVV95cUxOU2Y3UHFuNndTczdKUXhIRWxyTW5kTXZiSFhZdWU5bXZVOFFsa1NSdFlqNDBUTWRfaGJRWjB5OGFBVjV5ZG9ETkRWeEhxQy1oY18yZnlRRVQ3SFZ6SXRUMHgzNXZYZmp3M0dCRUpXZFp6S21JVW1nQlJfNUY5TlZWTE9aNnBGaF8tSElNTDI2azU3REZMT1ZGYkFyNUZiYkdReDEycXlScTNVamVRSVR0NHJtY2ZER3E0aldpVzVxTnlXUE5o?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "UN warns hunger will deepen in the Middle East as war, fuel costs and aid cuts collide",
+   "source": "The Washington Post",
+   "time": "2026-11-27T14:29:33Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNnR6VlZfSldhc1F6MnN6cVlON2hfRV9qa1pvU2tTRDY2VDg2Mm5wYWZvVWpzM0swc1liMFR6SG9pWFM4UXh4bVZvbVpYWG1KSjU1SzY4VkNOd1l6WWFoX3diZ3ZvcEhEdzJXMmE2elBNaXgzbGdWSmRBMmNSYmJlOUNOLXJJMTZ5WGJmdkdQdGFNTGFYZXhZLThRQ3prOVdyUV9qMmFtODUtU1BJV0ZOTzBoMlpzMlRFTWExNEl3OHBmbXBrdEFwejhGbDFTUQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Why is Israel celebrating Costa Rica’s ban on Francesca Albanese?",
+   "source": "Al Jazeera",
+   "time": "2026-11-27T14:17:25Z",
+   "link": "https://www.aljazeera.com/news/2026/11/27/why-is-israel-celebrating-costa-ricas-ban-on-francesca-albanese?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Houthis report 11 killed, including children, in an airstrike, and other Mideast news",
+   "source": "AP News",
+   "time": "2026-11-27T14:11:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlJjWkszRWtsblptbVZSdklWc0pQeTZOOTYxLWhJS3o2eC02YTJjc0MxQkZDbk5iU1FSSklIT3k4YzVzenBQTzhpZ1pXWTJ2aTNtOTY1S1FyeWhhdjdwTnE2RENkSDN1Q3AyZHlzUlAzckJvNkxUYU5lLTdkZ1pDN0tiM3ZhYjEzZ1dzY09Od1U3ZkZXck5ndHE1SkdCbVJWRGc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Trump weighs in on veto power, Iran war and Putin",
    "source": "NBC News",
@@ -153,12 +220,37 @@
    ]
   },
   {
+   "title": "Euro loses ground as improving risk sentiment lifts US yields",
+   "source": "FXStreet",
+   "time": "2026-11-27T13:55:16Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQThSanNsRUE4dk9rajE4UktaWlhVYkhKNE0tdkVVb1JUbUhHZkdOOGJUSDBrTDhvUGI3S0xKOFdDUHBrQUpocGMtOVJGTkpfMlpJemVTT3hCczBjcjJNV3J2cVU0R2wyTVB5a0h0RjlPWkx0dlpjOXlkVVN6ZGxfaFdad0ZTWjBxZEw2Y0lpSjFIampZSGZwb254Sm1lT2FJN2xsbzY2Yw?oc=5",
+   "tags": []
+  },
+  {
    "title": "Cold War State of Mind Returns to NATO With Doomsday Kits and Training",
    "source": "Newsweek",
    "time": "2026-11-27T13:53:00Z",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Yc21rNDMtb2JCWEFFUEdWTEEtLS00VmtTRFRoeHlYa0ZrbjZiOU50SGFlLXlBakpmbmZjeGtHaXdMMFdZcW5vQ0JpUTdmc3dwUkZJcGhCb1lGcnV1eUh1eUFLbEZTb05YQ0RQWGtiV0RrQzVOMkdzRUhsVEk?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Investors buy the dip as gold price drop spurs ETF inflows",
+   "source": "Mining.com.au",
+   "time": "2026-11-27T13:52:30Z",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLVZWbnk5cXZFVmphVXlXMUN0NWFac0ppeWhKYUNKaXBnV3Y1MW5JVTBJaVk0aHhsdk9vNUJWT1NHQlJLZDBJZ1kxdGJhX1labzJhNnpyaHA4SFFLM1RCMTB4WXpqZFIxMEkyWXpGRW1wblVxMFEtaFl1UFM0aFh2LW1UM0JYWTNC?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold price forecast: Can the rebound gain traction?",
+   "source": "FXStreet",
+   "time": "2026-11-27T13:49:34Z",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUE5yS2YzWTBYY3k5YThMNlhVcnVUSzZzR0hURFZWOU02aG85YUVJLVJkSUk0OEhQU0ZqRDBGWUU3RHIwUG5FYXVYekFrbXNaM1c3SjJKWEE3M2kwcDFwOUtxc196c2NKUnBTZS1FNkU4Um03U1g2LVlxd01FUWJ0bkdIcDNQNVdWOENMOFBNSkJRSTZVVmRPSWZPYmdianoyUXZ3ZGNsQWI2UEp2cWtKUUg4cWFoS1hMdUE3WkNPYmtLd2dOTVE?oc=5",
+   "tags": [
+    "GOLD"
    ]
   },
   {
@@ -180,6 +272,24 @@
    ]
   },
   {
+   "title": "China stimulus lifts global stocks as rising us yields threaten rally",
+   "source": "FXStreet",
+   "time": "2026-11-27T13:33:50Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFZDUVdjTmU2OUV1RHItazBzdWlwU09kTmdwX21rc216YWJBNkJzYUpqZHMydUlhZjQ5M0NUUm0yS2o4QUR4UDRTTTA5eTYxTFpfcWVJb3otNzhydVJNcWQ1NjNoaWVWNjlqVDFkNmhUQktNb2tub3pKVzVZZkhEbkVhQWw4VkhMQjRUeU1rbmJyeWdTT1BaTk9MSjNjd0JmYzhkSkc2WjVKdzFqclJMVlhsMFNjYUE?oc=5",
+   "tags": [
+    "CHINA"
+   ]
+  },
+  {
+   "title": "U.S. Treasury yields tick up, snapping eight-day rally as bond bulls pause",
+   "source": "Investing.com",
+   "time": "2026-11-27T13:24:26Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmNBNU9iZG40dTJmb0IzVFVBTjZRZWJzRXFkai03Zkt4T3FidVd6Mm5JbE1zemVuVjQtdHNLRGVUQ2gzWVpTX181cmh0aTRNaE5TdV96ZlE3YmtfeHVkNUxyTnh5NzVCNlRiM1BydlRfUWxZb2V4WVJ2UnpXNUlQYVlSR0w1am5mZFg5emt0Mk8zNVR4RElkXzNzOHNSOUtMNS1YVWx6Q2h0TUVrMmE2cDA1czgySnVDYWc?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
    "title": "Stockpiling Will Support Oil Prices in 2027, Energy Aspects Says",
    "source": "Investing.com",
    "time": "2026-11-27T13:23:00Z",
@@ -189,30 +299,13 @@
    ]
   },
   {
-   "title": "‘Friday Night Lights’ team is back with a harrowing anti-war football film",
-   "source": "The Washington Post",
-   "time": "2026-11-27T13:06:14Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLTZGdFlwbVFtLXRGODVuc3R5aUZpRm5qNUdjVU9vZlJ3UmN2ak1iQmNKcGMtQmZ3eXFXTWhvY2d3VHAtNXpDQWU4OHVEZkltdmxVLTJpdDJZX3UtOVFRR1R4T3VWNmlBSi04WkpMMGVxM0gwZ2oxYUxzS2hrNnFDM0tUSE1zWjktYV9NQlEwTnF1cnJxTjBOOW9TWXBtLVhCWldlaEZtZXE0UVR3LTV5b0NTbUFEQXF3Tm5yWE9wYmtXQQ?oc=5",
+   "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
+   "source": "Al Jazeera",
+   "time": "2026-11-27T12:56:54Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXRrMjFFcHlmR0hqa0dhQ3UzLTlXZi1BdEphd1VMYVQ2Um1rMlp1bzVtNmFGcWNqdEZlZ3o0bTRLMEJoa3E5MTZRRkdITmhxQlpOM19QbnNhZ2RUZ1F1ZGdNSWdBVDk3SDRJQTc0ZHV4Z2ljU1ZRTUFUdm4zRmZiYmZoamtuYWt0cFRCWElNLVY2T2V1clVlVWdMLXltWThmZGtQZWJ2OElxd3BvTS1sSzl2Xy1ma2Zm0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5",
    "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
-   "source": "The New York Times",
-   "time": "2026-11-27T13:02:00Z",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDVjcXNHbGwyZERtU1NYdThmTDcybjJkT2lyY2hLSTZfS0ViNkJ1QWFzYlM3QVk2VVU2MXJOeXdDR2I2bHU5b0VwQ3g2SXFFMGJSUVFVSVpnY3VERjhrLUhlR2lkSVZrZFBIOHRPZVVicGhQRnRZZ2VrX3hFRm5KUzljT3BnQ1dTWHRXdWZZSEtvenoySlE?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "UN warns hunger will deepen in the Middle East as war, fuel costs and aid cuts collide",
-   "source": "The Washington Post",
-   "time": "2026-11-27T12:59:33Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNnR6VlZfSldhc1F6MnN6cVlON2hfRV9qa1pvU2tTRDY2VDg2Mm5wYWZvVWpzM0swc1liMFR6SG9pWFM4UXh4bVZvbVpYWG1KSjU1SzY4VkNOd1l6WWFoX3diZ3ZvcEhEdzJXMmE2elBNaXgzbGdWSmRBMmNSYmJlOUNOLXJJMTZ5WGJmdkdQdGFNTGFYZXhZLThRQ3prOVdyUV9qMmFtODUtU1BJV0ZOTzBoMlpzMlRFTWExNEl3OHBmbXBrdEFwejhGbDFTUQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
+    "TARIFF",
+    "CHINA"
    ]
   },
   {
@@ -223,16 +316,6 @@
    "tags": [
     "GEOPOLITICS",
     "SANCTIONS"
-   ]
-  },
-  {
-   "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
-   "source": "Al Jazeera",
-   "time": "2026-11-27T12:56:15Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXRrMjFFcHlmR0hqa0dhQ3UzLTlXZi1BdEphd1VMYVQ2Um1rMlp1bzVtNmFGcWNqdEZlZ3o0bTRLMEJoa3E5MTZRRkdITmhxQlpOM19QbnNhZ2RUZ1F1ZGdNSWdBVDk3SDRJQTc0ZHV4Z2ljU1ZRTUFUdm4zRmZiYmZoamtuYWt0cFRCWElNLVY2T2V1clVlVWdMLXltWThmZGtQZWJ2OElxd3BvTS1sSzl2Xy1ma2Zm0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
    ]
   },
   {
@@ -318,6 +401,15 @@
    ]
   },
   {
+   "title": "As U.S. offers praise, Putin hammers Ukraine with wave after wave of deadly strikes",
+   "source": "NBC News",
+   "time": "2026-11-27T12:20:30Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbkpPWXAwYVZ6XzA2S2lYWVhnZEFWa1UySDBPd1NsYU9zd19EakxuRUVKUERlTldFeExmN29QYlc2ZVVzZDdQR0hWRG1VMkhwaG16UU4yeEFhNVVBeDVQRDIwazZMZlZiVk1oUmlnQ2xCM3AzdUNaVS1oWUJwbHA3UU5SeHhZQW1CODMzR3kzQVdnckt1RG5hcXFRTXNldjhjcGlKSWFFY1dYV0lKRG05Sg?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Vance and Rubio learn the price of loyalty to Trump",
    "source": "Axios",
    "time": "2026-11-27T12:10:07Z",
@@ -373,7 +465,7 @@
    ]
   },
   {
-   "title": "Oxfam accuses Israel of turning Gaza into a 'toxic wasteland' - but does the evidence hold up?",
+   "title": "Examining Oxfam's claims: Did Israel really turn Gaza into a 'toxic wasteland'?",
    "source": "The Jerusalem Post",
    "time": "2026-11-27T11:47:31Z",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Ul9LYm9PWW9ybzVBN2RZZWtBOEpJU2gtdGI2WDB3U3ZqdHBFQkpKSm5HWlZuWFFNUlJMc3M2NVhHX3VfS0ZURGRDUWtqWE1RaWg3Z3dUU1dFQ3p2clc4YUxCLXFfQkVHY3RZSG1fNFczVTB4QlE?oc=5",
@@ -398,15 +490,6 @@
    "tags": [
     "FED",
     "INFLATION"
-   ]
-  },
-  {
-   "title": "Houthis report 11 killed, including children, in an airstrike, and other Mideast news",
-   "source": "The Washington Post",
-   "time": "2026-11-27T11:28:58Z",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOclBnZVlkeUYzNzR4UDBkLTd0N3NyZ3ZoUXFtNzFDU3ZxSlZTVzhjS0VKaTJGdjlwZmxiR3VqRDhTdUlNcS10NTUyVmtPdllvV3NTcGNDcHkyVzZ0QzR5Uk43WHNXS3RMbkE4R3MxdVlmV2d6V3ItbDFVenVnbG9hZ2lGdUNaRDNyT0s0OHp5bFpkTnZiaHdxaHp5M01VOFZWc09MZ1dIQlFlZ0VfNzl1YWVmYmRGaTU4TXltcEMxVmRUeVRka0d3U0xiLVlfUGZWZHJleUl3?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -594,96 +677,6 @@
     "RATES",
     "YIELDS",
     "ECB"
-   ]
-  },
-  {
-   "title": "Why Trump’s new tariff threats may spur Southeast Asia to rethink US trade deals",
-   "source": "South China Morning Post",
-   "time": "2026-11-27T10:00:09Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ3l6WGRldnR5SFdMNGJNYXRWY0NjeE94MDlqc0RDbTUtVmhoajV5cDlYR1RQRTZWckxVY0tVMUE3OEhIa2dxcTlpMGFwT1BtV3ZnUHZpdWw5cGVycmk5bWwtaDdVTGJrNGxIejJmbFZkNzhFODdlTHZDTXFiek8ycndqQkkwb2gwOTVSdHZpaU1HSWZxM3Q2eTkxX3dGZHR4TXhZMzFNT1R0MVA2bDc5bWJ5VC1jQ0VVbXc5WGwzZWpaT0l0ZzlnbEhGdDZSd9IBzgFBVV95cUxOZ3l6WGRldnR5SFdMNGJNYXRWY0NjeE94MDlqc0RDbTUtVmhoajV5cDlYR1RQRTZWckxVY0tVMUE3OEhIa2dxcTlpMGFwT1BtV3ZnUHZpdWw5cGVycmk5bWwtaDdVTGJrNGxIejJmbFZkNzhFODdlTHZDTXFiek8ycndqQkkwb2gwOTVSdHZpaU1HSWZxM3Q2eTkxX3dGZHR4TXhZMzFNT1R0MVA2bDc5bWJ5VC1jQ0VVbXc5WGwzZWpaT0l0ZzlnbEhGdDZSdw?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Democrats want to end Trump’s Iran war. But how different are they?",
-   "source": "Al Jazeera",
-   "time": "2026-11-27T09:51:07Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOHFBTnVURzNCY0xTZ1o2a29vQl9oSVBGaUt4VjFhNGtzZ0FNMWZxeWRiVkx1ZTlDOWpCaHFWZ0JyeDhvR3hjMGtvRG9nTmQ2d015UjVWLTZSNHZpTmI4ZmNLYm8wSV9oQ05ramVLLTgzekdSUWpiSE9jeXBqb29DWjJ2SGRCaDJjenExYzNqdzdkYW05eGNqVExsTnBCZ2R5WEcyRy1hSGxsd9IBrwFBVV95cUxOcEowaVJ3T2RDWXZHZ0JhMkpiSGZwcDU5U1BmTVBseU5yTl9ReFpWMzNpYmVYN0ZTZlNoOHUxeXA4Qk1FMGlxaUI5a2FEbFVoX2tSVEhhU18xM0JRbGtzdjhla1pkRnVnRGY2dWNwRjB3M3NGX0RwdWdEZGhLWG9lb0Q3ODZDbjRDbHlpUXIxZU5WZDNwajZNbkJieDJ0VTVUNEdnVGJLUVJNaHc1OGFB?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Germany’s employment falls 0.5% year-on-year in October",
-   "source": "Investing.com",
-   "time": "2026-11-27T09:49:26Z",
-   "link": "https://www.investing.com/news/economic-indicators/germanys-employment-falls-05-yearonyear-in-october-2026-5053193",
-   "tags": [
-    "JOBS"
-   ]
-  },
-  {
-   "title": "US Tariff Threat Tests India’s $1 Tn Export Ambition, Seven Sectors Face Scrutiny",
-   "source": "TradingView",
-   "time": "2026-11-27T09:49:18Z",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ1N6eTEtSE45SVlfdndnNHBzWjhBbnV3bFYxeGxxakJxcUpHSzNZYjhDSXZZcE4wYWw3dXpadXk4M2ZvLUpGXy1kZm9sZHFQVFA0WldpYmJQRmVsUGVRSnhnVjVEaUZjVnVQNUEwTXpPVXVnc1ExZGhMenBkeVAzUUlOczBlc3pkYnRhXy1vbjJzbXFZckJ6NzEycDZFOW9UYk5FSTRucENZQzhfM3VnVXZQR05SQUtjM2tCcnJCT2d5ZEZ1blhfdHBubk5ZYk41M1E?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold and Silver Price Forecast: Silver Leads Rebound as Ratio Falls",
-   "source": "FXEmpire",
-   "time": "2026-11-27T09:45:44Z",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbTNvNmdrVlhUYXQtcFBkNTlSSEFMQjNfRkl1STktMTE4VDBiXzJIY0U1RTBCZFBCNGhlbmVScG1vM2FSR25ld05RejhzeDVkOTNyb05fT1Q3S1ljZ2UzeE1XMk1FWU5ldGwxSng4VVVocXctRjk1R0NMTlRqbEdqZE1PQUR5MkZ3UGNGZzFFaXJPd00tMEIxdkM5Z0NabVlkZE13SGdNLS1qMy1OdDNjMnlSeElUQ0xL?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "New Tariffs on China Risk Undermining Trade Truce With U.S.",
-   "source": "WSJ",
-   "time": "2026-11-27T09:45:18Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUcwQ3JjLUlNWjhSZnFuYWMzVEFGd0RMR2lZT2VmWUdBejNHckpxbWFSb0lsTUNuTzktdm9qTk94eTgxMXFRQkplOTdZZkFDSEVaUkVZcWFfb1lEMTNEVzFHd013bXhoRFU4ajZjOTB0UXFhM1FacVliRVdqcFY5dG11UURVYmFZang5ZEpaZEVCazhBMjFz?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Singapore Shares Close Higher on Bank Gains Despite US Tariff Threats",
-   "source": "marketscreener.com",
-   "time": "2026-11-27T09:36:30Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd2o5SmFPQk1FMDFMbVdfcUE0T2ZfQTd0ZTAxamxvc3VXelk1Ql9qNVpEZHNwQjZBcFlGSzFMb3c1NWV0LTR0dE14cGxBQm9BUlltZ0tJTU5WT3NhNktqNmF1TTlUeExzdnZwbEhkbDVCaF9tZklmd2NydHJpeHpVZEFLMEx6dHg2VXpWcmxxUmJ6SDctcFkyX084RGFZY1RVdzlOQk96V3J2SHZZUGQ3QWNVUDNCOGtJWEh6eTN1TQ?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "US Treasury Yields Jump Early Friday as Demand Likely Under Pressure Amid Premarket Gains in Mega-Cap Technology",
-   "source": "marketscreener.com",
-   "time": "2026-11-27T09:33:19Z",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONkJsOW5lWVpzd1Z0UUxpSllSbEpqZkhHS1ZxX2FSMy04eEVXdlVQOHJiUmF4Ti12MldxRUFsZ1g4X3JrYmhIR2JRb2d0YkNkVjU0cDN4bWp3YkFsSUtySWttWmFhMmpkU2F1YVFmSGVocFJZSlFacFI2YlpNenZkWlJBYWpaeV8tekxNZnh3by1GWk1YRlVMd1p5UE1aTlhvM25ycUZXRENCcWdKYlh3TG1YalJ2VXlJNlFEUHRVQzF1U3Y1djFEb0NubXlUeUNGMFVXX090cF9Yc0hWdDdSd2pxdVBsWlJC?oc=5",
-   "tags": [
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Stock futures jump as Wall Street looks to end volatile week on a high",
-   "source": "TradingView",
-   "time": "2026-11-27T09:28:52Z",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUVM3SUdrUkxkS3lmSGVaeHJtS3oyRzJnN3pvbEZTdHFTbmVGN2tERXJtYzNKSFVEY0tENEJFR1dDUEtOS2xmb18xZnVUTzV0S3NvR1k4Ykp4bUNyYkJ5eHJhazRRY2p6U0xDMWxRRUk2Q0YwMVJQS2YwdklxZjNHUHF4RnV2eEZ1aU9IMUdzX01kcnhuaV82aGYyNVNQS3NibzhadjRnUWN4N0dsTy1DRzR6REV1UUxXdDFRdC1zbHFSUE9XQzBwNEYwVk5MUQ?oc=5",
-   "tags": []
-  },
-  {
-   "title": "Iron ore price gains on expectations of winter restocking at Chinese mills",
-   "source": "Mining.com",
-   "time": "2026-11-27T09:26:18Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMm9VWmtIQVM3M0RHUEd4aXptVmNTV3ZQNjA2c2hnMTJ0UGNMMXpRa3pZR1I5R3VFa00yTVZHR3I1LUg3WTItSTZkRnFnS1pqUlQxQUFsNWV1ZEp1U1BTQVFmV0Vjb3VtMHlDMFdnWHA1WGJHQ1o4dy1sc3FTeVJ3cUVTczNGMFhpbC1DN3VBY3RFLWhKUmJhZzl6QlhycDkyWUxacQ?oc=5",
-   "tags": [
-    "CHINA",
-    "GOLD"
    ]
   }
  ],
