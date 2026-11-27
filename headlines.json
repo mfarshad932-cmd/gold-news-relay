@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T15:28:00Z",
+ "generatedAt": "2026-11-27T15:56:19Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,17 +47,17 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 4
+   "kept": 3
   },
   "marketwatch": {
    "http": 200,
    "items": 10,
-   "kept": 1
+   "kept": 0
   },
   "cnbc": {
    "http": 200,
    "items": 30,
-   "kept": 6
+   "kept": 5
   },
   "bbc_business": {
    "http": 200,
@@ -66,13 +66,13 @@
   },
   "bbc_world": {
    "http": 200,
-   "items": 28,
-   "kept": 2
+   "items": 29,
+   "kept": 3
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 8
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -81,13 +81,13 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 27,
+   "items": 23,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 13,
-   "kept": 12
+   "items": 9,
+   "kept": 9
   },
   "gn_tariff": {
    "http": 200,
@@ -96,7 +96,7 @@
   },
   "gn_war": {
    "http": 200,
-   "items": 41,
+   "items": 32,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,7 +106,7 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 13,
+   "items": 14,
    "kept": 12
   },
   "gn_oil": {
@@ -125,6 +125,33 @@
   }
  },
  "items": [
+  {
+   "title": "Japanese Yen slips as calmer equity markets lifts US Treasury yields",
+   "source": "FXStreet",
+   "time": "2026-11-27T15:39:48Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDVNcmozVWlWSUMxZERYWVNJTklrNGlQRVRpNndFMzlHWlRzM3phZlNSQTV1M2RnanRsdU04SDhYVnZfTy12QkFEVW1aSTZpYzd2NkVrVkYzX3FWYUNaa3FJREFLY3hDZ2gyb0ZsMGdXamg1a214Q1VUaUNMTUFzRmdRMThmSnMzV20zb1lGOGhzaXJHSjB1dzBUemxhMFBIQVpLTk5sVG1PM29qdURDNA?oc=5",
+   "tags": [
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "‘Friday Night Lights’ team is back with a harrowing anti-war football film",
+   "source": "The Washington Post",
+   "time": "2026-11-27T15:34:02Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLTZGdFlwbVFtLXRGODVuc3R5aUZpRm5qNUdjVU9vZlJ3UmN2ak1iQmNKcGMtQmZ3eXFXTWhvY2d3VHAtNXpDQWU4OHVEZkltdmxVLTJpdDJZX3UtOVFRR1R4T3VWNmlBSi04WkpMMGVxM0gwZ2oxYUxzS2hrNnFDM0tUSE1zWjktYV9NQlEwTnF1cnJxTjBOOW9TWXBtLVhCWldlaEZtZXE0UVR3LTV5b0NTbUFEQXF3Tm5yWE9wYmtXQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
+   "source": "BBC",
+   "time": "2026-11-27T15:18:51Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Gold demand revives in India, China as price slide sparks bargain buying",
    "source": "Mining.com",
@@ -165,15 +192,6 @@
    ]
   },
   {
-   "title": "‘Friday Night Lights’ team is back with a harrowing anti-war football film",
-   "source": "The Washington Post",
-   "time": "2026-11-27T14:49:11Z",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLTZGdFlwbVFtLXRGODVuc3R5aUZpRm5qNUdjVU9vZlJ3UmN2ak1iQmNKcGMtQmZ3eXFXTWhvY2d3VHAtNXpDQWU4OHVEZkltdmxVLTJpdDJZX3UtOVFRR1R4T3VWNmlBSi04WkpMMGVxM0gwZ2oxYUxzS2hrNnFDM0tUSE1zWjktYV9NQlEwTnF1cnJxTjBOOW9TWXBtLVhCWldlaEZtZXE0UVR3LTV5b0NTbUFEQXF3Tm5yWE9wYmtXQQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "Gold Price Forecast: Fed Rate Hike Bets Threaten the Latest Rebound",
    "source": "FXEmpire",
    "time": "2026-11-27T14:47:34Z",
@@ -204,7 +222,7 @@
    ]
   },
   {
-   "title": "U.S. Pushed Iraq and Venezuela to Consider Quitting OPEC, Sources Say",
+   "title": "U.S. Encouraged Iraq and Venezuela to Leave OPEC, Sources Say",
    "source": "Crude Oil Prices Today | OilPrice.com",
    "time": "2026-11-27T14:30:00Z",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNajhfVmttRkZVVS02V00zX1JYOG9CQUo4azVvMGxYYll6dmdNb0pnaVZJTTVLNE5xeGlQRXZYdDJjSGVZZF9Fc2JnNGpyUnh4Vjh2UWY3NHFHaGcwY3d2X0NSRWZIVXRyQnlFb1ZiaEp3eV9fZ1poOUJnS2RGQVdzX2loVk1xcjBkOG5SUzQ2ZVlBNkIwSnFPRFZpdEI0RGFzVnhHVjV4eVNneXNFZUZqTFVQUjc5cVIyOGlrSjVfWdIBxAFBVV95cUxOU2Y3UHFuNndTczdKUXhIRWxyTW5kTXZiSFhZdWU5bXZVOFFsa1NSdFlqNDBUTWRfaGJRWjB5OGFBVjV5ZG9ETkRWeEhxQy1oY18yZnlRRVQ3SFZ6SXRUMHgzNXZYZmp3M0dCRUpXZFp6S21JVW1nQlJfNUY5TlZWTE9aNnBGaF8tSElNTDI2azU3REZMT1ZGYkFyNUZiYkdReDEycXlScTNVamVRSVR0NHJtY2ZER3E0aldpVzVxTnlXUE5o?oc=5",
@@ -228,6 +246,15 @@
    "link": "https://www.aljazeera.com/news/2026/11/27/why-is-israel-celebrating-costa-ricas-ban-on-francesca-albanese?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Bet on 3 Momentum Anomaly Stocks Amid NVIDIA Volte-Face, Tariff Threat",
+   "source": "Yahoo Finance Australia",
+   "time": "2026-11-27T14:12:00Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1RTMzhZNTM1Zjc2enlmUlZHNnRRQVFyYzJvVnpJcmtNMy1SWEhzQ09LaDh4MFh3Q3h3T1VwUFh6R25RbEFUMG9BYWNJNWYwcVFGX2JhQlBHX3lIZnU3enVVVy1teHIyMldoYXhnekhUd3VqNEhMWExXT2gyYnhheU9fYUI?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -648,33 +675,6 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTW1zSXpjNUxaVHZQNEZGUnVUWHAzRmlkRzBrd01SbllIUmVUQUVHZFZ5WHlRcmxmd0tWODJwTGRvSGZXRWtIQXd4MEx0LVY5Qi1PazkyX0YyeGZ2TXhlaTNRLVpvUk1rTlB0Qk93bktRRi1UU0R6dU1XOWdjam5MTFByT0h2UG4wMkJTSFhpa0VsRlJlMkVoZUZZcFBfVFUwdzdiSk1LTkM5MC10?oc=5",
    "tags": [
     "YIELDS"
-   ]
-  },
-  {
-   "title": "Luk Fook Holdings (International): Retail-led growth lifted revenue and profit, but gold mix and price shifts compressed margins",
-   "source": "TradingView",
-   "time": "2026-11-27T10:28:59Z",
-   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNTXIzTDBfSERHOXJMV21qOF9lenNHQjl0dzNjUmtWd0hub1gwM253V0M1akdyZnJHRVp1VzE4MzRaMmVteUV0R3dKT3hNZmFPNUdpdWxKc0dtQjVJRF8zM3dSejBHdV80aFhiYkl0OW8waWt1V2w0ZkVVN2E4OTl0YW5oM1ZzLUZLNGtONXg2TXZ3a0VabEFnTXB1VXVtUGNpYi1iSGlsMzFHWE5jLWlLdlVzQ1Z0YVlydDhsV2RVdW9FMXVNN3RtNGFjbUVrRHI4U3VsRnlGQ2ZEWjVJcVEwMy1KZWNKRFF4OU1kLThnTHRYY05NV3BHZWROT0V6OFpHUktxMHZTMHF3VHhQZEFieUs5NlloSFEyMU1NQlpCWDRweTUydFhFUm9lVTF5cW10?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "‘I cannot go to work’: Iranians contend with pollution as well as US war",
-   "source": "Al Jazeera",
-   "time": "2026-11-27T10:23:30Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3h2TnRjTVdZODN1MXMwMVNPLWlUVnJySjI0LTNoQmxzUS1OdE5EQU9hS0hRYkQ1SkhCRjVlT2dnNWRfX3VRVHhpQTJ4OG5xOXlOT2lFLXA3VmxJVE53YkItbjAtTkZLcWNxOWN0bTFnb1RWdWhBaGllOGNXS0lFWG9LbXc0T2Rrc0RYM3lFZEkzcE5PWUJfNVlDVFE2ZzVIamFtaC1XSURHc3RfYzM1bHJld27SAboBQVVfeXFMTjNZOUI1MHJ5M3BJdldGSTQ2Q0RnSVEzdmRVdThiYVJYVk1LX1BGTThRR2wtcE9qc1o1bG9mVndFOE5xQS10M1VoOXoxLW9aR09Hd3UtY1NPYXNHWDB1c3g0OTk0VGZFTEU4Z3laY3d3ZVFGLTZzOWxxYkxDalM1NEoyRFh4T24wcjh6WkliSEJ5QUFuX09ZeWFVOG4wdjQ2SlJGTHltbXdQZkNhb3E3SlkzVElxZ040NUJn?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On",
-   "source": "Bloomberg.com",
-   "time": "2026-11-27T10:22:48Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWdwNl9jTnFFSS10Z3BXNVZOWjR6N3ItM3d4MHhIcXZ1TGtyQS03UUV4a0FuYVdMd3FaZ0VVQ09QUTl6d3RDU1RJQW1fcVM3aGZMWURHanZmN3BQanNhT1FVa3Fwb0pUYmtmb3poMm5ZZ0gwelVieGVOQUozVHlXYlkxV1Q4azV5MlNfbEw1T1lSbnFyNndwNjlWUDVBWGFjZkZiUVJLY1dRcU9PU1QwQUZ4V2lnZ3IwNTNGcXMwQldueE5fVWc?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
