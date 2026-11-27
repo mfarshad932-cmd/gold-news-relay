@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T23:53:06Z",
+ "generatedAt": "2026-11-27T00:21:25Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -47,7 +47,7 @@
   "investing_news": {
    "http": 200,
    "items": 10,
-   "kept": 6
+   "kept": 7
   },
   "marketwatch": {
    "http": 200,
@@ -61,7 +61,7 @@
   },
   "bbc_business": {
    "http": 200,
-   "items": 49,
+   "items": 51,
    "kept": 5
   },
   "bbc_world": {
@@ -80,52 +80,45 @@
    "kept": 0
   },
   "gn_gold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 27,
+   "kept": 12
   },
   "gn_fed": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 14,
+   "kept": 12
   },
   "gn_tariff": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 46,
+   "kept": 12
   },
   "gn_war": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 33,
+   "kept": 12
   },
   "gn_sanctions": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 8,
+   "kept": 8
   },
   "gn_yields": {
-   "http": 503,
+   "http": 429,
    "items": 0,
    "kept": 0,
-   "err": "HTTP 503"
+   "err": "HTTP 429"
   },
   "gn_oil": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 9,
+   "kept": 9
   },
   "gn_cbgold": {
-   "http": 503,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 503"
+   "http": 200,
+   "items": 4,
+   "kept": 4
   },
   "fed_calendar": {
    "http": 200,
@@ -134,12 +127,104 @@
  },
  "items": [
   {
+   "title": "Sandpapergate: Cricket Australia outlines terms of reference for independent hearing into scandal",
+   "source": "BBC",
+   "time": "2026-11-27T00:13:11Z",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51V3J6ZUF5b0YxNzlwYUE3WGNRbjJ1NTFXWXFub1cwaHVDaTZyMmJ2a21pbWFadnNuNjdFS2lsRXNWWG80RG9VaUNOMnZRNmJIMEdPUlBQVnlCaXVleWV4aFJsbmVXSWM?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
+   "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+   "source": "Al Jazeera",
+   "time": "2026-11-27T00:00:00Z",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Russian Diplomat Warns Nuclear War ‘Inching Closer’ With NATO",
+   "source": "Newsweek",
+   "time": "2026-11-27T00:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGl3LTZRNnRWRkM1aWYxN3l5aEU0OGVidUxrWE9DcGJBakpXdmU1bGZZeElxR0J3YjBLS0Y1NTBDLXZCcmoxNkFma2NoekRwNExiajhYTFFPcUVhMmhIQ0lzdlZXQVp6ZWhhSVZCeUZYS1JIYWl6VXBmenRzZzZwbTdKN18?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Saudi Energy Ministry says strike on Jazan refinery halts some operations",
+   "source": "FXStreet",
+   "time": "2026-11-26T23:49:36Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeE5YaTNuaUh0WkFUYmdyTFNHd1ZGMGRSbUJabERZS3UzVkQ0OHpwNXk5Wlk4THV5SkxtMmdBR29aeGdUMWR5UmdWZC1WWGpQQkhJQTBaeHhwdGU3SEtaNVhuWlpYY2NtNXVSR2I1UmVNZFNyRlV3YXAzTDUtSXVwVE5KaUhDbVJCSERiekNNMUdXSGM0ZkVTXzY4YU85V2VTRWVRNkYwc18yU1htRjNwVGZzWlFfbmc?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Core inflation in Japan’s capital accelerates in November",
+   "source": "Investing.com",
+   "time": "2026-11-26T23:48:36Z",
+   "link": "https://www.investing.com/news/economic-indicators/core-inflation-in-japans-capital-accelerates-in-november-5052767",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
    "title": "Tokyo CPI firms in Nov, core inflation slightly misses expectations",
    "source": "Investing.com",
    "time": "2026-11-26T23:44:16Z",
    "link": "https://www.investing.com/news/economic-indicators/tokyo-cpi-firms-in-nov-core-inflation-slightly-misses-expectations-5052758",
    "tags": [
     "INFLATION"
+   ]
+  },
+  {
+   "title": "Gold declines to near $3,550 amid hawkish Fed expectations",
+   "source": "FXStreet",
+   "time": "2026-11-26T23:37:16Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWl6WDgzM0tfbzV6bDlPc0dfd3hpbUtHa3pQSDRHeGFIa0JySjNXaEF0V2NTanlDYktkaTV0dHdEdmhqOWtYSk5vMHZSNU8zRTVLN2w3RnY3OXVmRXFHMkpqTnExblo2ekNGMzNLSU9nM3R3M1g2SHFJVGM1aWFSaUdRS2xCUVVncjlTczVmeVk2bE9jRm1faFBseG11ejBhZmc?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Tokyo November core CPI rises to 2.9% y/y, just shy of 3.0% expected",
+   "source": "ForexLive",
+   "time": "2026-11-26T23:30:53Z",
+   "link": "https://investinglive.com/news/tokyo-november-core-cpi-rises-to-2-9-y-y-just-shy-of-3-0-expected/",
+   "tags": [
+    "INFLATION"
+   ]
+  },
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Traders Rush To Take Profits After Rebound",
+   "source": "FXEmpire",
+   "time": "2026-11-26T23:27:45Z",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRGVRaFBxQk9NU28yWVZBczhIaFBqOXItWWlJMUtLelY1Z0ZYSi0xLTRWOGRVWlAtQ3JtNVRyY291djZqTGtRTFRUUEw0aUZwbGs4ZXBEbWRmaVZscXMxaUNLWnVMbVRYT04zMXBqWVFOR1ZWNU1FelNiX3BkaG1MMDh1LUd3MndfaHlldkpWZ09JVzlXX2lVNzRaSkdQOEFRaHpqNnVpeWpSS2l3RFRZVjI4TGczMUd1M0taa1dqcFdJVVNNTFYxelBNU0VCYXQtYzNzSlVUcmgxQ2VfMGd5WFZB?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Brazil says US tariff threat on Embraer jets is aimed at Pix",
+   "source": "Yahoo Finance",
+   "time": "2026-11-26T23:21:26Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZklBaFVWMHpWTFVhTk5OZFZ3SXI3TjFUdzdVY0t5elp1NDVJaWVZeTZzN253SG9XUTI2eWZkOHhUb2VkN1cwS0swZjk5cWp5aEwxTG1IX25mZWdjSkRhLUR4TFFsN2JYVGk3YU1UZjBFODkydVRxbHo5UWhkWXlWZmE3MkcwX0VQdWRPRW5UUlJUR1paWXRrcg?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Brazil's Embraer criticizes new US tariffs, warns of air travel inflation",
+   "source": "Reuters",
+   "time": "2026-11-26T22:54:36Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY25OMnN4NU9UMkpqZXcxWk5oMkdHRnR3alJpWVZfMnZVOEN2U1k3Z0xkVTdEZTFoSm9KdXExUnVReGhGeDl5SnprUncxOXpzSGpOazRVOEMzREczYzF2ODNaTkh4b2l4Q1dCU1JhekJIVXFNX1J1eTdlNmFpbTVSYU5BRUQwRmZzU3BvMjEyTmhOd3JXZlRjY1cwUjV0LWl0QkhVTVUzQmFKYmlJaEtQdXZORUdnZ25GZnZHcU04UEMtWDg?oc=5",
+   "tags": [
+    "INFLATION",
+    "TARIFF"
    ]
   },
   {
@@ -161,12 +246,13 @@
    ]
   },
   {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Traders Rush To Take Profits After Rebound",
-   "source": "FXEmpire",
-   "time": "2026-11-26T22:23:58Z",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRGVRaFBxQk9NU28yWVZBczhIaFBqOXItWWlJMUtLelY1Z0ZYSi0xLTRWOGRVWlAtQ3JtNVRyY291djZqTGtRTFRUUEw0aUZwbGs4ZXBEbWRmaVZscXMxaUNLWnVMbVRYT04zMXBqWVFOR1ZWNU1FelNiX3BkaG1MMDh1LUd3MndfaHlldkpWZ09JVzlXX2lVNzRaSkdQOEFRaHpqNnVpeWpSS2l3RFRZVjI4TGczMUd1M0taa1dqcFdJVVNNTFYxelBNU0VCYXQtYzNzSlVUcmgxQ2VfMGd5WFZB?oc=5",
+   "title": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea",
+   "source": "Bloomberg",
+   "time": "2026-11-26T22:31:56Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
    "tags": [
-    "GOLD"
+    "TARIFF",
+    "CHINA"
    ]
   },
   {
@@ -325,6 +411,16 @@
    ]
   },
   {
+   "title": "European stocks end higher on easing tariff fears, ECB leadership continuity By Reuters",
+   "source": "Investing.com",
+   "time": "2026-11-26T20:18:57Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUFpVcjhCdWZiX2h3bXBxaG51RUVXc0V5R2Z2UW1Jb2NtOEFzNWxad0E5RGxSNzJlOXZQa1FWVkh3N2k4OFpYUE5kSktNVjNxNGdXWHBzMGpkaFJEZVJYcWVMbXVtSVFuSXVxM0p0OThLOVJnSkM1N3YwXy1ZLXhMMEZDYmoxZkU1ZGpLVy1sXzFSZ1g2dnRiYk1sMDFEOTZWM20zYVhIRE1wRE9WVlRKWHVOT0dPSWVZ?oc=5",
+   "tags": [
+    "TARIFF",
+    "ECB"
+   ]
+  },
+  {
    "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
    "source": "BBC",
    "time": "2026-11-26T19:55:58Z",
@@ -340,16 +436,6 @@
    "link": "https://www.investing.com/analysis/gold-confidence-needs-rebuilding-200692386",
    "tags": [
     "GOLD"
-   ]
-  },
-  {
-   "title": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea",
-   "source": "Bloomberg.com",
-   "time": "2026-11-26T19:31:56Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
    ]
   },
   {
@@ -603,101 +689,6 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0tBTFUxemd5MWFYZ2JmREpwYW53ZHNlS3FMWmtkNXBtSGo2OWJYeUtrSDEwbV9CYl9tbUlQaDBHazd0ZHVhNEFaeURKeXNPTkZmSUNqM3NsNXFRSHV3ZUZVRWtKNW1lQ190VmNuZU5xYm5DMVlyZ3RvalFMcFJkS2dmNzdiNzZhMW5zM0k0VmVBVVlvd2RtcnhDbTNMbmc3UVNDa3haQ2syVXBYUGtkN29sX0tMR0VkM1VzcERhRQ?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Mexico urges Asian trade partners to crack down on tariff dodging",
-   "source": "Reuters",
-   "time": "2026-11-26T17:09:43Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHhmUFduZ0tRbWFBQ2xIRmtIZDU0S012anU5bEx3SGVzOXVmV1JkNGxIZkNXV0RYTWJlNEVqUTFoS0tnQ1QtcXI0bVlJT25XQ1Y4TFZvczVTbTFPWTc3eUF6MzF6M0swR3JYTGR0ZjNwZVhhb2dWUjNBSjBod1ZfWU4zajFXMnBYUU1YY3pNQXNDWlRQa2VILWVJc25tcnJpV3ljRW95RjViUXM?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump’s Latest Tariffs Revive Focus on Pressuring China",
-   "source": "The New York Times",
-   "time": "2026-11-26T17:03:31Z",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1odENQTk1RR0JMbTlRYWhYcnh6cGdvcktJUGVNZURvbUFtTHZ0end3RjhpclNNNEF0ZnZFTDVHTy1Vcy1jMF90U240MEZFUURvdkJDN3I2aE55R193X1VjVW9PaU5sVWZvU1Y4dmt5M3ZmeE1YcVE?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
-   ]
-  },
-  {
-   "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
-   "source": "Bloomberg",
-   "time": "2026-11-26T17:02:41Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5",
-   "tags": [
-    "RATES",
-    "INFLATION",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "America is back at war, and Americans are still at the mall",
-   "source": "The Hill",
-   "time": "2026-11-26T17:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb2FPdzhpLXN0bllFNEY2NWthSE8tckhfOEg4SFlkRmxHemd5cUhrVEp1dVJnZHhaalFna25wMkRSLXVOeUJGa1pCMUE2c1ZnN18zSW4wbWJ0bTZqWlRMNW40b1Z3NkVJcGpmVlZYSlkza3VrNXNpb2VBWkRrcDVHVHJkakpHaGvSAYwBQVVfeXFMTUFlaGlYbEwxVExvdUlCUWJwWmx4Qmc0ZHhXYjRmMkVpUDdQYmw4R1pYM0VVX05vWHk1RVR5LVZPQ1l6Yk00T3l4ZHJ0Ym5qQWZlczM5b2JocXZ1RldHSVB1WHFfaE90dFBTYzZZYWFZdVJ1dXBzZDZEdjI3TXp5VHVnZDZBOFQ0aXFIVks?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Oil price today: Brent edges up after fresh tanker attacks near Strait of Hormuz",
-   "source": "TradingView",
-   "time": "2026-11-26T16:59:20Z",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS1hsVER0QjFpTFF6ODE5QkQ0OTAwV1RpUXh5RWpLLXg5N2hVQzVQX004TVI1QlctN0NWaDFBLUJfVGF5dTFtVkhBSXVWejBmUThMc0xMXy1taGg3Q0luSjhJeGEyX2syVkhpc0lyRGFXYzA0UUdQOS1POG1yNU8zVHlxU0tkWXNwVng5dHFTM3BKZ25kdDF2em43cGU0UTcyZ0V6SDEwVjNTdk1TWjVZSjU0SmVfUGJUM0xIU20yNzF1TlR0THFIeHVYR1VrSnlRRVE?oc=5",
-   "tags": [
-    "GEOPOLITICS",
-    "OIL"
-   ]
-  },
-  {
-   "title": "Brazil's Embraer criticizes new US tariffs, warns of air travel inflation",
-   "source": "Reuters",
-   "time": "2026-11-26T16:47:17Z",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY25OMnN4NU9UMkpqZXcxWk5oMkdHRnR3alJpWVZfMnZVOEN2U1k3Z0xkVTdEZTFoSm9KdXExUnVReGhGeDl5SnprUncxOXpzSGpOazRVOEMzREczYzF2ODNaTkh4b2l4Q1dCU1JhekJIVXFNX1J1eTdlNmFpbTVSYU5BRUQwRmZzU3BvMjEyTmhOd3JXZlRjY1cwUjV0LWl0QkhVTVUzQmFKYmlJaEtQdXZORUdnZ25GZnZHcU04UEMtWDg?oc=5",
-   "tags": [
-    "INFLATION",
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump, NATO chief urge Russia not to expand war in Ukraine",
-   "source": "The Hill",
-   "time": "2026-11-26T16:44:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcnU0M2NGaGJhbVRDYkd0M2VYcWJhMW9iQlIwVU5wQXFVOTUxQ0dTQXJQclc1VUxidzV1TFJxaUZHR2NkQUxYWXhJM05BQVFpd1VRTnk5d1JYSDdweEJSSDlyVG90TmZTSUJlOGtnNnRWTHY2OEtpVjM2Z2lhYjg4U3YzWTFFcGpLRy1ZSWhqekVQVUdmSmJmYm81Yklybk5iQVHSAacBQVVfeXFMUGpoMVF3dmU5OFVMZHFvVk54TjNtNktqdXc3bnR0S3F4Z21KRlU3VkNVWGdTd2NCSjl1a2dGY3IycDJ2NkdYQngwRHhNeDVfalJib1FEUVBDZ2swY3VuNWJabzlZZG1JNHl2MnVBRnZUcEIzekY0WW14SmgtU2liLTJ3RkhNbm5sWGxvZ1Q1dTlqRWVuRmpkOXZnN1JSZGM5UWtYRHMtNkU?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Mural near Dutch embassy in Moscow depicts missile supplies for Ukraine",
-   "source": "Reuters",
-   "time": "2026-11-26T16:42:38Z",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdlRFQ2E5TGktOUVrZlJQQmwtNjFXVnpkbmFUSUhOcExIZEIzNTJRcWFSOURzYkpONlJIQkhBN1NaemtMQi1oYmhWdTJkYUhIRmIyYjE5bjdSSXRpeUJWU2NhSFN6WTZybFJiQS1QSXpyLXdpekxlZ3VMem10R0dtbWs1alpndTRCMTVpOVVoZnFOdkFhb3owcXJYeXBQU01lUmhUQi1oa3ptTGFkUVFlUnRWSWZGVkNjOWRoSVN2elNHZ1dUSFM5WHdJQVRPRjJvVWtz?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Top Russian aerospace commander arrested on corruption charges",
-   "source": "NBC News",
-   "time": "2026-11-26T16:40:49Z",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaG9Da2RBNXhUNXM0WVp1ZnFVenBsbGdCUXpsb0JVSXJzMWJQLUZib2NpOXhISG5wYkZDdGVKSzRMUklOXzBRWW1MVU5LNUtfY0hxZGdFVWVSb25KcUpxMjBISTdFQTFoSlNZMUJPVERFaVlEM0gycFVISmlaX2FxZ2RZWW15cEJKMVlWa3FlNEFZYUxMbXJxSDQxcnp2QkFtWk5JeXVHSU1CU00tMkN2TFJaakZydw?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Saudi coalition says Houthis attacked Aramco Jazan refinery",
-   "source": "The Jerusalem Post",
-   "time": "2026-11-26T16:31:19Z",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EU3FJVnZUTnF1dk1zY295aktkbkprTTJ3cktIU1lfWHRBYWltV3lNeHlDRDI5RDc4bmV2V0J1dWJlZkdfV0ZNc2VoNXFIZ01scGRSWmx0NlEtRmZ4?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
