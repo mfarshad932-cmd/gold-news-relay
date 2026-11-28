@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T01:51:20Z",
+ "generatedAt": "2026-11-28T02:19:40Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 10
+   "kept": 11
   },
   "whitehouse": {
    "http": 200,
@@ -81,27 +81,27 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 28,
+   "items": 27,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 11,
+   "kept": 11
   },
   "gn_tariff": {
    "http": 200,
-   "items": 17,
+   "items": 18,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 29,
+   "items": 30,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 15,
+   "items": 13,
    "kept": 12
   },
   "gn_yields": {
@@ -116,8 +116,8 @@
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "fed_calendar": {
    "http": 200,
@@ -125,6 +125,15 @@
   }
  },
  "items": [
+  {
+   "title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+   "source": "Al Jazeera",
+   "time": "2026-11-28T01:55:03Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Areas near Bahrain US military base largely deserted months after Iran attacks",
    "source": "The Jerusalem Post",
@@ -331,6 +340,15 @@
    ]
   },
   {
+   "title": "Gold price climbs 3% as tech stocks rebound",
+   "source": "Mining.com.au",
+   "time": "2026-11-27T21:48:48Z",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5a25IdWZ5N3d1NXZORFhhYzc5eDRQMl83RWxCYzlMYmZVRlQxMjh1WU5Ib1dickFZY0ZHVjhTTDZIdFUwVkxKeF9za3dlR1VEWWlsbnBkLV9Mb3ZXbzM3LXZkS3JBeUJwa0R0YjFNNVBUczA?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "Trump addresses Nvidia, Russia-Ukraine war, friendship with Putin",
    "source": "CBS News",
    "time": "2026-11-27T21:42:00Z",
@@ -346,15 +364,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORi1McEY4Z0s0WFpoM1JMenFlX1hiejdjbExuMkwyNlI4cWljR0V2V2pkcEV0NDRZYXM4Rzd2TFJjRnBJLW8tcWI5S0ZSX3lUcEpkaWs3X2J0MFpCd3BXZ2FZSm03WGV0WVlOdE8xSDhhR3R1Wk4ySGhaRkRPMk9mdm5XSV85QklC?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold price climbs 3% as tech stocks rebound",
-   "source": "Mining.com.au",
-   "time": "2026-11-27T21:22:30Z",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5a25IdWZ5N3d1NXZORFhhYzc5eDRQMl83RWxCYzlMYmZVRlQxMjh1WU5Ib1dickFZY0ZHVjhTTDZIdFUwVkxKeF9za3dlR1VEWWlsbnBkLV9Mb3ZXbzM3LXZkS3JBeUJwa0R0YjFNNVBUczA?oc=5",
-   "tags": [
-    "GOLD"
    ]
   },
   {
@@ -426,15 +435,6 @@
    "source": "Al Jazeera",
    "time": "2026-11-27T20:18:45Z",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
-   "source": "Al Jazeera",
-   "time": "2026-11-27T20:10:30Z",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -527,6 +527,15 @@
    "source": "The Washington Post",
    "time": "2026-11-27T19:00:00Z",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLTZGdFlwbVFtLXRGODVuc3R5aUZpRm5qNUdjVU9vZlJ3UmN2ak1iQmNKcGMtQmZ3eXFXTWhvY2d3VHAtNXpDQWU4OHVEZkltdmxVLTJpdDJZX3UtOVFRR1R4T3VWNmlBSi04WkpMMGVxM0gwZ2oxYUxzS2hrNnFDM0tUSE1zWjktYV9NQlEwTnF1cnJxTjBOOW9TWXBtLVhCWldlaEZtZXE0UVR3LTV5b0NTbUFEQXF3Tm5yWE9wYmtXQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Houthis report 11 killed, including children, in an airstrike, and other Mideast news",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "time": "2026-11-27T18:58:45Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSm9mQXBReGxSMVBIUW5BMERXZG9BYTd3SXpCWWhlZjB1NWRwZ18tVFpQYTYwNEFFZGRiaHdqVk0xam5EczUxZTRBUlNyNEc5Zm1pZUhNcC1TaHdISDFUQU5RWWJZMGtZS054YVF1WXBlVVNnMV8zV0hhY2NjZF95UTd3U3FlaFg3Y0czaXR5NVpDcll0LVBRUE95VEc4RnpwMEg5bWVDaUFQUGJUQ0F5R0FqWnBHQdIBuwFBVV95cUxPSFByajl3ZUhOM1I5NWtVMEpMLTVTR2J1YXprbVRJQlV6S1Y3YmtObDRnODl4QWljLXhGaE1sUzJCbFhQaFBVaVhBNEZ2ZURQM2JWajJpLVlmVEQxWWVtd3JhM2J6WENpYkZSRmZmamNYdlRObGQ1MU0xSW1NdWV4OGZZYVEwN0NsRWpXVVAxOXMyT3gxVDRxdFg2R2xOQlNaNVc4TklZRnFURHJmalVQdW9lblBLN2dTUFFF?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -669,15 +678,6 @@
    "tags": [
     "TARIFF",
     "CHINA"
-   ]
-  },
-  {
-   "title": "No sanctions and no recrimination: Cricket Australia ball tampering forum to include 2017-18 Ashes series",
-   "source": "The Guardian",
-   "time": "2026-11-27T17:52:00Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZEFFOVBvWF9FQ0szY2g1M3UwaTNva0FfSFdNRUZyQTc5VUVXMXFCX09yRkdkdHFLcG12dVN0S0ptUlBpV1EtUXpNdUNER0FvLWlFTFQtS0dhODJyQmFvYi1MVlFjZnlINm03WnVsdDMxMFBuNFJfVjF5UDA1RGJGdGFkMnZMVVdyUEV5bDJkLXU3NUh1Sk9SZE5xVGNYTVFBU2trdS1odG5DTmJNVzVOM3VFTHA2TGZiN2JkR1ZDZw?oc=5",
-   "tags": [
-    "SANCTIONS"
    ]
   }
  ],
