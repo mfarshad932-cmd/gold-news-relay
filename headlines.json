@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T13:11:20Z",
+ "generatedAt": "2026-11-28T13:39:26Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 6
+   "kept": 8
   },
   "whitehouse": {
    "http": 200,
@@ -81,14 +81,13 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 18,
+   "items": 20,
    "kept": 12
   },
   "gn_fed": {
-   "http": 429,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 429"
+   "http": 200,
+   "items": 5,
+   "kept": 5
   },
   "gn_tariff": {
    "http": 200,
@@ -107,8 +106,8 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 9,
+   "kept": 9
   },
   "gn_oil": {
    "http": 200,
@@ -129,10 +128,37 @@
   {
    "title": "Argentina's bid to stop Falklands oil drilling rejected",
    "source": "BBC",
-   "time": "2026-11-28T13:02:39Z",
+   "time": "2026-11-28T13:36:36Z",
    "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "Court rejects Argentina’s request to stop UK oil activity near Falklands",
+   "source": "Al Jazeera",
+   "time": "2026-11-28T13:24:24Z",
+   "link": "https://www.aljazeera.com/news/2026/11/28/court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands?traffic_source=rss",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "Why is Trump backing Iraq’s anti-smuggling campaign?",
+   "source": "Al Jazeera",
+   "time": "2026-11-28T13:22:01Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDBERmJHMFNMMkJiWWNfblc0QTVQNzQ5cmFWWlpQZk5rWkxIeGlwMWJiOHlHVlJnMV9rblNkc0JoekxTT1ZSTld0Ui03TGJJR2lIeWVWMXE0SHEydXFyUGRqYUFSZEFxU2ZSdWZKd3RXRXpXQ0hiandBdlRqZUNsdGItcGlmbnI3S1hoaGxFS1NrWk0zV0c40gGcAUFVX3lxTE5NTjI5ZDBNZjlVMGlCSmVESENudmdVS2Zkd1g5YTVFdkNmNnlhZk10aWZoeUdaTS1kbDN0aGZ0bVRGSHJwWXNsMU5ZcnRmRmVqZ2dwc2U0T0ZnWUVCSXVDZ1RDYnpMWGRWbURTdGlGMFJCZ2VQY25MeGdtbXhScjJqUmU1LXdscFJIcHJYZERLOVFtNXJLdkdxSGpNVQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Bootleg alcohol poisonings in Iran see dozens dead and badly injured",
+   "source": "Al Jazeera",
+   "time": "2026-11-28T13:12:56Z",
+   "link": "https://www.aljazeera.com/news/2026/11/28/bootleg-alcohol-poisonings-in-iran-see-dozens-dead-and-badly-injured?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -273,15 +299,6 @@
    "tags": [
     "CENTRAL_BANK_GOLD",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Why is Trump backing Iraq’s anti-smuggling campaign?",
-   "source": "Al Jazeera",
-   "time": "2026-11-28T10:35:49Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDBERmJHMFNMMkJiWWNfblc0QTVQNzQ5cmFWWlpQZk5rWkxIeGlwMWJiOHlHVlJnMV9rblNkc0JoekxTT1ZSTld0Ui03TGJJR2lIeWVWMXE0SHEydXFyUGRqYUFSZEFxU2ZSdWZKd3RXRXpXQ0hiandBdlRqZUNsdGItcGlmbnI3S1hoaGxFS1NrWk0zV0c40gGcAUFVX3lxTE5NTjI5ZDBNZjlVMGlCSmVESENudmdVS2Zkd1g5YTVFdkNmNnlhZk10aWZoeUdaTS1kbDN0aGZ0bVRGSHJwWXNsMU5ZcnRmRmVqZ2dwc2U0T0ZnWUVCSXVDZ1RDYnpMWGRWbURTdGlGMFJCZ2VQY25MeGdtbXhScjJqUmU1LXdscFJIcHJYZERLOVFtNXJLdkdxSGpNVQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -429,23 +446,23 @@
    ]
   },
   {
+   "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
+   "source": "Kitco",
+   "time": "2026-11-28T07:36:31Z",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
    "title": "US Dollar Eyes Weekly Gain On Fed Rate Hike Expectations",
    "source": "Forbes Middle East",
-   "time": "2026-11-28T07:32:01Z",
+   "time": "2026-11-28T07:33:02Z",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOFc5LVN5MjJ0LXlHdU9ScjVqYmdDSEZmUkJBcUc0X2RQdVpuU3ZXclFuN01UYWd5Rl84WW53NmIxbVdiQmxobjB6UHNMSEkxMVNoYjRUeTY4QTRJM1hyOVRxZjJzRmhkbDBVRG9JM0dvbnE3MWwweE1PemtJMEpZNExqbUpHTFBoODlPd2Via3NiQ1ZjSnZVQXN6WWR5RVNaeXNQZTd0bEVZalhiX0hEWUVXVGlHckhFcVotVFBTdEtnQWFTcGc?oc=5",
    "tags": [
     "FED",
     "RATES",
     "USD"
-   ]
-  },
-  {
-   "title": "How Israel is fast-tracking data centres in bid to become ‘AI superpower’",
-   "source": "Al Jazeera",
-   "time": "2026-11-28T07:21:22Z",
-   "link": "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -482,15 +499,6 @@
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX0pmU2tFcHdOb29rb3BTdnYtOG55VTNTYWxmMTAwcGpoTXBidDJPOUd0SEIta1VGMGRUSlh3S0loTVgzdlpsQjZTU3pKZUxHclJSa2ZOY2RfX1doY1pULUNfZE5FTDkxQmdXMnE2N2ltVkJxQ09aV1FDeU8wUE9famVwcFVaT21JT3VGNTN5akM2dk9WdmpPelBLZDNYcnJMbno1UXRyYk5VMzBqSWpvSW5mMm9haUd5b2xaOWVnY0Rwb3FrZVdkendRVXVWb0lrU1pjcllDTnY?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trump’s tariffs have become America’s new normal",
-   "source": "Al Jazeera",
-   "time": "2026-11-28T06:58:56Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVkRXTlVRWkRPclk0V1VrRkJ5eVIwUlh3YzdSVVQxb3FaLW9seFBGZEVGTVY4TzZMTFl4QU0zOURPSGdEQTBXdnUxaVNnOWdUNm03dk9CdTA5SUIxaGd1Q3BkS0t0d1ptdVlDeWV6WUtsdTZ2X0p6VUVBa1EtQ0NTVmU4RnpsVUg4UWZVTkk3TGVuN25ZWXdV0gGcAUFVX3lxTE1CbzQ4NGhaaDhwODNKdjZmT2JVaTRmTTVpQUZjVTBaYTNaVGJIbWdZVE04LUVQUkxwWlduN1VJc3dkNzRfcUIzU29FSmd4N084N1B5OUNrMzNkZlJ6LTYzMnlnRDVpRmN6S2ttdFpGRVp0Wm5OOU9sYkw2Mmpkc2dyeUpLSVhpLVpNMEc5WFJZOUc1bnhnUWZhNkJRaA?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   },
   {
@@ -666,16 +674,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQZWllbWhjM1U1LTlIaHo0Qk9hbS1TOVF6bFZwZ0prTnYyTFQ5Wk4yNUcyc2tKSXM2NGZkZjVTZ01FOEU2aElPUkhNTk1sOEFITkNiM0k4NEkwc2dR?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Trade, gold and culture: Russian envoy pushes for closer ties with Hong Kong",
-   "source": "South China Morning Post",
-   "time": "2026-11-28T01:00:11Z",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdEFEa2NNT09DVHFHZDFPRXhyb0pibFh5ejY5WHpMM3BZVVU1YjNScDNqM3JUbFJJVlZPaVMyNHEybXlIVEFTZEx3Rmp1UXZwXzZoTHl1V3NteFhfeng3Y3FaX3Q4V2RYQkY5SlczSHlaQ0lPRmlrRjB5ZG1TTnkySkFYdFoxQ2d3eEprTGN5TUJ4NHFHdjZNaldQYVN0RUJ2YUpIa0ZIYXU2amw1RFp4WHIzeVRLT053YlpvNy1BalN1ZkZKNmpVZVhMTXJCeERLZ2ZMcVhCYjVfem45V09vWmlR?oc=5",
-   "tags": [
-    "SANCTIONS",
-    "GOLD"
    ]
   }
  ],
