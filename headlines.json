@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T23:58:01Z",
+ "generatedAt": "2026-11-28T00:26:21Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -62,17 +62,17 @@
   "bbc_business": {
    "http": 200,
    "items": 53,
-   "kept": 3
+   "kept": 2
   },
   "bbc_world": {
    "http": 200,
    "items": 22,
-   "kept": 3
+   "kept": 2
   },
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 11
+   "kept": 10
   },
   "whitehouse": {
    "http": 200,
@@ -81,32 +81,32 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 29,
+   "items": 31,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 11,
+   "kept": 11
   },
   "gn_tariff": {
    "http": 200,
-   "items": 17,
+   "items": 20,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 34,
+   "items": 33,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 13,
+   "items": 16,
    "kept": 12
   },
   "gn_yields": {
    "http": 200,
-   "items": 12,
+   "items": 13,
    "kept": 12
   },
   "gn_oil": {
@@ -126,12 +126,41 @@
  },
  "items": [
   {
+   "title": "US disables ship attempting to breach Iran blockade",
+   "source": "Al Jazeera",
+   "time": "2026-11-27T23:55:16Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
    "source": "The New York Times",
    "time": "2026-11-27T23:54:08Z",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDVjcXNHbGwyZERtU1NYdThmTDcybjJkT2lyY2hLSTZfS0ViNkJ1QWFzYlM3QVk2VVU2MXJOeXdDR2I2bHU5b0VwQ3g2SXFFMGJSUVFVSVpnY3VERjhrLUhlR2lkSVZrZFBIOHRPZVVicGhQRnRZZ2VrX3hFRm5KUzljT3BnQ1dTWHRXdWZZSEtvenoySlE?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
+   "source": "TradingView",
+   "time": "2026-11-27T23:52:26Z",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXZRSjVkc2U5b0ZtNThmNXBtTVFHYXFaenM4OUZjXzBDSDBvU0RRSmc4NW16dUxaZHp2Rjkwd1BMdE1uT09aaEJCTDRRUHFMaGJ4cFdTOTA4eDRuRU9LaHdRbEtWc0dZQ3BlRzhPekhnTWs1Tkk3ZUg3eTVyUl9RNmpmcGlUdlpxMHBwN0p3NnZ6YUZFRnB1Z0o5enB3MEF0RWRRU2pYNER5WGRrOE9QYW9pWURMRGZJVEx3Ui15UUpoZ0FJdXQ1S3kzNzlRdk0?oc=5",
+   "tags": [
+    "USD",
+    "YIELDS"
+   ]
+  },
+  {
+   "title": "The Fed is fighting the wrong inflation battle",
+   "source": "Kitco",
+   "time": "2026-11-27T23:31:03Z",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmliMWpYM1hKcjFZem5ydWw2aTBJZ2pOblE3YWFKcWdwejRfR255RnNjUFV3Z29mVkRYLXdHMHZYR2I4bXBseHE0VXBNN19qV3dxb0RBZzY1OG1yUkpfNlNjMHZVazNLSmxPUUJoOE1EMVM5d1YwMjlrUkRSazFsbjUySHRVWEdB?oc=5",
+   "tags": [
+    "FED",
+    "INFLATION"
    ]
   },
   {
@@ -260,6 +289,15 @@
    "source": "FXEmpire",
    "time": "2026-11-27T21:56:36Z",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ1N4UDlWY2ZXODJha3A4dmppS0tRMnhRTFl6M1RwY0I1YjBDWEpRRlZXRTNNSTg2eFhUYUFJNkR6dS1ldXZMZmhqZWkzS05jbjBVRHJPV2JIa0FZLUxNcVVCeVctUkN1a2t1eXpuV294Wl9oMXRMVnZLQ1laOE91VTNlT2lwWW5HY0pGc2REc0lUeVBjQVhtVVhYVmJsdVpvX1FLaEpzb2YtZzBpZU9jNTJqOWZmZGRuQlFHRVpR?oc=5",
+   "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Copper price jumps most since January as short sellers retreat",
+   "source": "Mining.com",
+   "time": "2026-11-27T21:56:25Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTDZjaFhudjR3WW5WQmNWV2dUZzQyWXEyNjFnQ1VYZFJzRkhfUmlhb2pHX2NCU0h0Z1dPdkpiYWJfLWR6TWNBa1dBNXY4aUNJYnRfOWUycmdvS2szeFdqTkxsRXlWNWVxRVE2a1J6NEdMRWlzaFVlVVZLaG5HX0RwWkFqVmkwYjZuMzlCLXQ5WQ?oc=5",
    "tags": [
     "GOLD"
    ]
@@ -447,7 +485,7 @@
   },
   {
    "title": "Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "time": "2026-11-27T19:21:40Z",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjBId0RKMFpkWFQ3R3VMeVV3T0VOMEI5dzRuWWZaMGNLVFBtRXZoWjJlWHhsdXVqdGNYT2NNc3ctSU9zdXpCR3ZaSXFENDhwQ1BQa1RqV01palJ3LWcxOWFnRXZFRm40NGRTaU9XYU9yOGF2WXAtV0lxOEdDcWZmSUxfYlZfZENjV3JUX0k5YmstSkk3V1ZWVWpkR1VjdDNzdkF6ZGxSNXpOZ1AxZmlGNThJTE0zUQ?oc=5",
    "tags": [
@@ -615,10 +653,10 @@
    ]
   },
   {
-   "title": "Copper price jumps most since January as short sellers retreat",
+   "title": "Rio Tinto ships first Simandou iron ore cargo to Europe",
    "source": "Mining.com",
-   "time": "2026-11-27T17:51:35Z",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTDZjaFhudjR3WW5WQmNWV2dUZzQyWXEyNjFnQ1VYZFJzRkhfUmlhb2pHX2NCU0h0Z1dPdkpiYWJfLWR6TWNBa1dBNXY4aUNJYnRfOWUycmdvS2szeFdqTkxsRXlWNWVxRVE2a1J6NEdMRWlzaFVlVVZLaG5HX0RwWkFqVmkwYjZuMzlCLXQ5WQ?oc=5",
+   "time": "2026-11-27T17:51:36Z",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOamt0dzU2cFFSakJ1b2pwUHZiZXBSTWxodmxheUExZTBoaThnTmRGajBGWFNlcDFiNTdqWXFwcXpkMnJ4S2llOXpjUUdPa0NuMlJrZDlZODVkdHN1YzJFbFliZ0REYTFlTXQtWFZ3cldXT1AwdnJKaFRTUmhid2p1YjA5bGdhdw?oc=5",
    "tags": [
     "GOLD"
    ]
@@ -641,42 +679,6 @@
     "FED",
     "RATES",
     "GOLD"
-   ]
-  },
-  {
-   "title": "OPEC Faces Growing Pressure As Iraq Pushes for Higher Quota",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "time": "2026-11-27T17:30:00Z",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb0QxM1BfUlBfWVVkeUxZZTUtZ1BUR1lobVBoV0Z0VGR5LVNxV2k4MURwdmZ3RlM0M09xdERpWV9CUkFadkR2LUp0QmtzeGo4R0V2OWZFXzVjVU13MWlmTXBtRTJCVHUwYUgwSmx0OUpRcW1xdGNaVGhfUVVyZ25zUlpraGJYcE51MFZnLXgxN2xOTDFFSGhBTHAyeVhveUxKN3NGclZqZUlNc1FhZ0RNVUxKVXNVNWpOZ3d30gG7AUFVX3lxTE1vRDEzUF9SUF9ZVWR5TFllNS1nUFRHWWhtUGhXRnRUZHktU3FXaTgxRHB2ZndGUzQzT3F0RGlZX0JSQVp2RHYtSnRCa3N4ajhHRXY5ZkVfNWNVTXcxaWZNcG1FMkJUdTBhSDBKbHQ5SlFxbXF0Y1pUaF9RVXJnbnNSWmtoYlhwTnUwVmcteDE3bE5MMUVIaEFMcDJ5WG95TEo3c0ZyVmplSU1zUWFnRE1VTEpVc1U1ak5nd3c?oc=5",
-   "tags": [
-    "OIL"
-   ]
-  },
-  {
-   "title": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
-   "source": "Al Jazeera",
-   "time": "2026-11-27T17:20:18Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1lNRXR3Sk9oRGw0NG1QVG43emhlcWZzZUU3dl91LS1vMEZ6dHdEVUV3QzdoM0NaaXhYQk9EeU9PLXpBWFVicXl0NEhXbE5JUE43V0hlLTJhZXQtQTBIVlF0MlZvd2NMQWlVejA2c3M5ODhhRjZ3cFoxMHFibE8zQ1NwUVJWU2FSaDVmUXNobDByaS1fbDA1aFJDNVdNLUdndkg0dlE5UEZxdHpnUXfSAbMBQVVfeXFMTXpXTnBMeWJmMV9xS3dnbjBJRVZMQ05Pemo3SVJibTNUWVZTcFpheGE2M2dfbTd6dHpURGFndVhrLUYtWW9lVHVVaE1kNW9GN2F1RUZWRmZONmNvMGFZRWhQQUdjT3Eyd3JPQ0Vqa1Y5Qm82czZGb3NXT1BzVjVKcWZEY0RzUk9kc1NzMTN1X1c0X1c1TTVwQnhsbkdMOHMzUE55T09DS2lqMTlrWUJ3QUpobVU?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Embraer warns Trump tariffs to affect US airfares",
-   "source": "The Manila Times",
-   "time": "2026-11-27T17:07:38Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOW5OaURVRy0xZ2hBeDZaWjh1bmY5QUFfeHk4LU51dXhTRk5GRDBXbmZ6Qm5RYWtLSE5fVVkyZFVUaXFGNjI1NEtsREE5STFjWFZsRHZmR2EtOXhCNlNKWURXVklmRDVxZ0tCNGZqdTJ0OExRak5wQmozTzBfdkNQR2tjT3BVOE9vN2NqbHhveEJ6cUZCclV6MXFTdVh2MEYyeHlvUFJYVDRlcUczMjhUWnFUNmRWZnVVZEJKTG9OSdIBxAFBVV95cUxPYjB0Zy1JUmQ1SnpxdUx4MTB0cy1NZFZzNFJXTmZ1V1h6ZUh2WlliVmpxRlFDeHpuQ252N1BFYmRNYktDV1FiYmZoOXNnc0xWZjNWc3E0Ul92MFlYbXhUMWJzMHVOb0ZJNVowc3d4bFh0dlJ0VEZ6VmJVX0hNazdBaUVUZ2d5WXhhUnJpSVZQSWlXYnd5QUJBTWtZX3RieXB1bHJxcGtDZDhncTc0RFNvZzMyMTFxSWdWYUsxUjR0MmgwZWlR?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Trump on Iran war ending whenever he wants",
-   "source": "CBS News",
-   "time": "2026-11-27T17:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0NlV0RUVDloUnl0WkIzZzM0Z0dTQzdfYjR5YlB6ai1abTFPcVk5MXMzajViTEhxRl93T21reWRzSGtfd1Q5bmRfT3BpTXBlcllCMkhfZW1aTDZHWTYzVnhXNzBBWUc1Z0c5R214V3NwMDNWR1JtODRRNWtxOFJRZTBITWNscHc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
    ]
   }
  ],
