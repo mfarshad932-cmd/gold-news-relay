@@ -1,13 +1,12 @@
 {
- "generatedAt": "2026-11-28T03:16:22Z",
+ "generatedAt": "2026-11-28T03:44:43Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 404,
-   "items": 0,
-   "kept": 0,
-   "err": "HTTP 404"
+   "http": 200,
+   "items": 20,
+   "kept": 0
   },
   "fed_monetary": {
    "http": 200,
@@ -82,22 +81,22 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 24,
+   "items": 25,
    "kept": 12
   },
   "gn_fed": {
    "http": 200,
-   "items": 11,
-   "kept": 11
+   "items": 12,
+   "kept": 12
   },
   "gn_tariff": {
    "http": 200,
-   "items": 15,
+   "items": 14,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 32,
+   "items": 29,
    "kept": 12
   },
   "gn_sanctions": {
@@ -127,12 +126,30 @@
  },
  "items": [
   {
+   "title": "Ukraine war briefing: Zelenskyy criticises Trump for calling Putin his ‘friend’; Kyiv deploys new laser weapon",
+   "source": "The Guardian",
+   "time": "2026-11-28T03:22:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcDZrYTlOdTVmYnJEelBReDNXdF9CRXAyZHUyVlhQNjczRTk0Q0RNM0FYdWlHY3RQc3RZTVZPQ0MwOWZLSExFczk2cGlhMXMyNk81dVVVNGZfUHozUDhCV2xaaEZlNGh1ZmtkeFlsTE94dGhzVEp1UGJKOEg4Si1WdnhqVUNKcFlnTm4wd2NBZDc5TzZDeGh0c1F0OUhEcUxLUjJQSjBVVHp0MFpIay1jZXVUZmNSNXAxb3RJNTU1SkJad3VEWVRwRUhyWUNNRmtXdEJQbmtLWjNMN0NTbWhWdXZhbkUtUzQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "A ‘Silent War’ Grips Iran as Its Economy Strains Under U.S. Blockade",
    "source": "WSJ",
    "time": "2026-11-28T03:01:15Z",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUZoNE5qVlVJSWdVTHRMY1R0bFBac204aUVreDhOR3NtUE4yWjBESlJMUHZoLVo0NjdrTW1kUXF5RUxDQWJfRnhrdkJpSTF5VUduMWVDaU9aVjg3N3dCTW96TDUtQV9SRE9TSEN1Um9LTm0teG9MV2hrQkhEM0RDYnhCVVgzNHhpcEJ1cnc5azMzTm10am04MTZoS2wtc19RSTNSRW5sMlBGdWhaYWNlVmhn?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "The Federal Reserve sends a troubling signal to S&P 500 investors",
+   "source": "Yahoo Finance",
+   "time": "2026-11-28T02:37:00Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMHBkTlFOR3NvTndZZ2JBMmFua2ttcURWb2d6c2FuRElvMm9xMWtQcm5fSS1YcWg2VEhHbGlpbUFpSVpEM2F3NXBZS21KVEk4UXJOZHk3eVFfNzFpblA3dlFab2NTcDBDaGRRSm5TeTZjSWxSTEI0Z2doVFdmVTRZNS04NWF2WU9jWXk5dTREU2FmaEU5aGtpUE9VZHBwUQ?oc=5",
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -245,6 +262,16 @@
    "tags": [
     "USD",
     "YIELDS"
+   ]
+  },
+  {
+   "title": "Gold price pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
+   "source": "Mining.com",
+   "time": "2026-11-27T23:41:50Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVlVPdUVIU2NTNzBOb1NlWEw2dHlEd2h2NkQzVExoMXRiVHFMZ3lhT1ZPNGIzbXVJUTFlTWw3cFplaWJSQW9aQjNoMlp2aGZDUmw0MnFPVzBDcjVwWFNBQ3lYVldnRGN1eGxhR3c1dlpUcDZrR1pfV1E1MWtKYmNKYWoyZHZ6UDBaOUFSTVZlcjdHWnVrTS1xNU0wakZwWFhrTm5iZDdlOVZlM0g4M1JQWWREMA?oc=5",
+   "tags": [
+    "FED",
+    "GOLD"
    ]
   },
   {
@@ -652,33 +679,6 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSTd3SnRyUGN0amtBU1RoYnZqWUpNeE0tSnljV3B0cXpJVjRiVHd0M2RseG5PNGpaT2VlNzI3NXlrWEc4eGNXTmZWbXFqeTdfMXBhaXBsTXRueTB6c3ZsZFdKS1RjY3huQ3F3bF95N2lCdl9zbUlhY2NMOTNPdFRpTDI2RjJycTA3c0Ytb0t4dy1CT1FfOFJXbWpKUFNVcE5yOXJV?oc=5",
    "tags": [
     "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Conifex Receives Additional Regional Tariff Response Funding",
-   "source": "Yahoo Finance",
-   "time": "2026-11-27T18:05:00Z",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUEZHM0RfNGdrcTlhazlNeThLX0dpcHZ1SEp1a1FlV3luNjlaUl83c0pVN2FMcmd4YTl5VWpweWt4cGtJNDF1eXpPSEpLc3FCbUZmdVJCVUpXNEpIYXVodHd0VGtaWFI2N2RYZy1zV0hPdXpDb3I5c25DNVZUbWxZYzNraklDYzNuOEdrVTM4d1ExejVDdnp4bmtaZW95ZmdDbWZCa1I2OGxmLXZz?oc=5",
-   "tags": [
-    "TARIFF"
-   ]
-  },
-  {
-   "title": "Zelensky tells BBC US too focused on Middle East and not pushing Russia hard enough",
-   "source": "BBC",
-   "time": "2026-11-27T18:00:40Z",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yT0hCRWtIQ0V5LUJBTTNOSV8zZUY5X3FrRDFKWWRmYTJPVVdGOUZGV0xLREZDamtPWURqSndUVmVqY1NJUG4tNDBKeTdkbW9wdTBJVV9uLS16OUk?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "From Huang to tariffs, Trump keeps creating chaos — and we won't stop him",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "time": "2026-11-27T18:00:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOWJGS05vNnZ2aG9iRkN2V1dpN094RGdZNW5PZlNEUU4wR3FlbHh1VGlnN1J1VjlwTXFEQmRtZkVDdFpiMk5jYUozN1Z1UFNzOHlvX2tkU3lwVDl5dm9hbzR5Ui1Ib3piV2RPNEFKSmdrTUpjU3k2d2RuQWdGa3FHeVNfR3BhbjBnOUtZQ0FSSi1yOXNONk9xMUVjOTljamJpSVQxTVIzTQ?oc=5",
-   "tags": [
-    "TARIFF"
    ]
   }
  ],
