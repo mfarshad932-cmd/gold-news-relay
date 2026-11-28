@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T10:21:24Z",
+ "generatedAt": "2026-11-28T10:49:44Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 7
+   "kept": 5
   },
   "whitehouse": {
    "http": 200,
@@ -86,17 +86,17 @@
   },
   "gn_fed": {
    "http": 200,
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "gn_tariff": {
    "http": 200,
-   "items": 14,
+   "items": 16,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 23,
+   "items": 24,
    "kept": 12
   },
   "gn_sanctions": {
@@ -106,18 +106,18 @@
   },
   "gn_yields": {
    "http": 200,
-   "items": 10,
-   "kept": 10
+   "items": 9,
+   "kept": 9
   },
   "gn_oil": {
    "http": 200,
-   "items": 4,
-   "kept": 4
+   "items": 6,
+   "kept": 6
   },
   "gn_cbgold": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "fed_calendar": {
    "http": 200,
@@ -126,10 +126,64 @@
  },
  "items": [
   {
+   "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+   "source": "BBC",
+   "time": "2026-11-28T10:34:58Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Why is Trump backing Iraq’s anti-smuggling campaign?",
+   "source": "Al Jazeera",
+   "time": "2026-11-28T10:33:41Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDBERmJHMFNMMkJiWWNfblc0QTVQNzQ5cmFWWlpQZk5rWkxIeGlwMWJiOHlHVlJnMV9rblNkc0JoekxTT1ZSTld0Ui03TGJJR2lIeWVWMXE0SHEydXFyUGRqYUFSZEFxU2ZSdWZKd3RXRXpXQ0hiandBdlRqZUNsdGItcGlmbnI3S1hoaGxFS1NrWk0zV0c40gGcAUFVX3lxTE5NTjI5ZDBNZjlVMGlCSmVESENudmdVS2Zkd1g5YTVFdkNmNnlhZk10aWZoeUdaTS1kbDN0aGZ0bVRGSHJwWXNsMU5ZcnRmRmVqZ2dwc2U0T0ZnWUVCSXVDZ1RDYnpMWGRWbURTdGlGMFJCZ2VQY25MeGdtbXhScjJqUmU1LXdscFJIcHJYZERLOVFtNXJLdkdxSGpNVQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Brent Crude Gains 3% In First Weekly Rise In November Ahead Of OPEC+ Meeting",
+   "source": "Forbes Middle East",
+   "time": "2026-11-28T10:32:18Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVUgtOUwwaENfM0RMZmVWWWdHSGI1TkZIb2xqMDMtN2VaT2xOUWNTSXlPYm81RG1pZU1LRWRvQXpMa2F1dm12QzFtUjBucFR4alVtODNrZl91M2lQY29vTGl2Y0wyUWZhM0lvTTFSWTF5d2JXcENMcmhZR0M4OGFEck12ckxqTVpfdk9hUWRmNUJicEtzUXZ1MXc4eTBnYzlwWjF6ZDZhWW9vdDlWVFh0cmpvZzV3YUxOZlo4UFZoRnI?oc=5",
+   "tags": [
+    "OIL"
+   ]
+  },
+  {
+   "title": "3 U.S. Steel Stocks With Tariff Support Investors Should Watch",
+   "source": "Yahoo Finance",
+   "time": "2026-11-28T10:08:34Z",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZFNNRDhYdnpIcUtGdWNQa0NWUEVrdllDdklqRFVVWHM3dDFPRURLUGNaNWlpczdlOWtXM3BoenhUZ2xvUmJEZzZFYWxBdHR0WmxnTlhMWTRvY3dvRlBpT24wdXBiNWtDRndOZ2RocjdxN3RJR0dRVGxBcV9HRzJ3ckhUZjJ3S0hRclB0VG1mVHlrUQ?oc=5",
+   "tags": [
+    "TARIFF"
+   ]
+  },
+  {
+   "title": "Ukraine’s Deep Strikes Grow in Scale and Scope Across Russia and Beyond",
+   "source": "The New York Times",
+   "time": "2026-11-28T10:02:15Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFZjQ2xkMHo2aUpiZUIwaVp4UlV6U1k3R3gyMGFVS1RRS1VpSUFGNzZzcEVEZXBWRE8tdk9wLU13WWlNaFdRV1IxeTZnbi1UMm1Vb1dMNTIxU2lvWlhyTWU0OWNITEs1anYyRDliUTZqdHFLck42TVNPWXA3eUFYX3V3Nnd3aWVaWUFkRUpiQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "How a Cold War Peptide Landed on the F.D.A.’s Agenda",
    "source": "The New York Times",
    "time": "2026-11-28T10:01:49Z",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYkpEX29nTGlkY0R3QjdiMFpKbUI4dHVhc01ISTczNElPeGdFRk1Dalc5U0tKVXd5UGVwWEpITmNBdFVNdG9LLWlSZkp0RHNBYjdhc0lBeDlvUEUyOXcwNGVKR0lPcWhGaDZRWUp5LUxnTjU5Qm1kX1ZlQ0VEc3V0ajZFbXVNZw?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "Volodymyr Zelensky says Vladimir Putin a 'killer,' criticizes Donald Trump, US Patriot missile delays",
+   "source": "The Jerusalem Post",
+   "time": "2026-11-28T10:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDlOd2FnNzhfOVg1QjFxM1dmUEJoSDI2YUdLVG5MUFl1VUYtWW9KdEJJTXJSekhnUjQwWlRRWHpQN1FtdTU0ekQ2M29tT25YeEhJSFdnS3BiRGM0YTNINGlKODYyc18wdWxKWFJCYW5LeS1vY3FlaW1OQjZxTGFlSzFvcnFDdFByLWc?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -292,10 +346,10 @@
    ]
   },
   {
-   "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+   "title": "Missile manufacturer amends plan for former RAF base",
    "source": "BBC",
-   "time": "2026-11-28T06:52:05Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-11-28T06:34:44Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfaXc2R2JIblZzU3IwbGRlSnZJekN0V2c5SGdFS0U4NGl2bHZnMUdmUzV0M1N0TGozZ0NFY2ozSDY3dVc2T19ac3pvTV80WjQtQktEQXZJZmVLMzQ?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -403,6 +457,15 @@
    ]
   },
   {
+   "title": "FSSAI sanctions prosecution against Bisleri in another case; bacteria found in Bengal sample",
+   "source": "CNBC TV18",
+   "time": "2026-11-28T03:15:35Z",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSHoyTGRMNVhIQ2tiZzVBZ196ZERjZlNGbVdwX1ZwNGRhUkdEb1pySHJfWG9fb3REM3AzZmdQQmV2ajRLTmNjNGpLWXp2Z192UE1zZHYwU0NQa3N6cXJQUGNVY25jM3UzQzdBcDA0a2xuMzJTZGhxV01qRndqc0h3UXdvZ2pPd01Ub0gwR2NLUklOdUFqY2Z3b08yaUppN3RkbnkyOFhJdjFsaGRIUG1CWEs5VTBLYmZWMm5Id3FXZS1TVUZsOF84VC1IOTRDVUpMUHhUcjFYa9IB3AFBVV95cUxOY1JuQVNScDMzYkJCdFRsMUZPejM4RVlvaUUxOGl0U21WX0VwR3Zxd0FSUEdiV05fX2JCR2ZfeVZ6UjJmZVkyWjZ6T01JNWRycUpiUzFaZWRpYi1ESjRqYWhSaGk1NG43NmNxNHFMQkdlcVA0MHFVWjd1eXY0TEFYRFlNWUZKTjcwb0J1dHNsTVN4Y3kyNlQ0NW5ORl9fQlU2VEI4bTJpOFpKdUwwbzVPd2phU3VJZGNKYzJrNG9JdW4teUV1Q2NTNUVCWWtfS29veHZ5WXJHYUF0YXlR?oc=5",
+   "tags": [
+    "SANCTIONS"
+   ]
+  },
+  {
    "title": "A Handgun on His Hip, Colombia’s New President Turns Drug War Into Theater",
    "source": "WSJ",
    "time": "2026-11-28T03:00:00Z",
@@ -502,15 +565,6 @@
    "tags": [
     "CHINA",
     "GOLD"
-   ]
-  },
-  {
-   "title": "Iran war live: Iran’s army ready to respond to any attack ‘from anywhere’",
-   "source": "Al Jazeera",
-   "time": "2026-11-28T00:00:00Z",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
    ]
   },
   {
@@ -624,60 +678,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hcVJqRnRwXzJZM2dVZzBaSWM1T1VSS3gxZGpqLVRFc2RqQUx6WlNxSTRLRmNYV2gxeFVzOG95NWU4MFh3cmVZNVQxaXpPWkNHNFNqY0x6SVJheUE?oc=5",
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "title": "Copper price jumps most since January as short sellers retreat",
-   "source": "Mining.com",
-   "time": "2026-11-27T21:56:25Z",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTDZjaFhudjR3WW5WQmNWV2dUZzQyWXEyNjFnQ1VYZFJzRkhfUmlhb2pHX2NCU0h0Z1dPdkpiYWJfLWR6TWNBa1dBNXY4aUNJYnRfOWUycmdvS2szeFdqTkxsRXlWNWVxRVE2a1J6NEdMRWlzaFVlVVZLaG5HX0RwWkFqVmkwYjZuMzlCLXQ5WQ?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold price climbs 3% as tech stocks rebound",
-   "source": "Mining.com.au",
-   "time": "2026-11-27T21:48:48Z",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5a25IdWZ5N3d1NXZORFhhYzc5eDRQMl83RWxCYzlMYmZVRlQxMjh1WU5Ib1dickFZY0ZHVjhTTDZIdFUwVkxKeF9za3dlR1VEWWlsbnBkLV9Mb3ZXbzM3LXZkS3JBeUJwa0R0YjFNNVBUczA?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Trump addresses Nvidia, Russia-Ukraine war, friendship with Putin",
-   "source": "CBS News",
-   "time": "2026-11-27T21:42:00Z",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaGhIVXJjbC02M0NnSGVLSUduR0FScEVzalF3OEFGMndxTk1pNU1iOGpnUkpFR0xWd3hsTFFndEtGSkJUaXYydkxJMGNZcEFtNkVJNUVBMmc5MWpKa3FiZlNCbXdFaFh0ZHNqSzQ4OHVVbURjM2I0bHBHRzFGRkZyYmlhZjB1anh2Nzl3RDR3ZEVieWhjYXFaUGhaQWRIcXpTVEFXNg?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Russia’s Big Ambitions for A.I. Are Undercut by Constraints of War",
-   "source": "The New York Times",
-   "time": "2026-11-27T21:41:12Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORi1McEY4Z0s0WFpoM1JMenFlX1hiejdjbExuMkwyNlI4cWljR0V2V2pkcEV0NDRZYXM4Rzd2TFJjRnBJLW8tcWI5S0ZSX3lUcEpkaWs3X2J0MFpCd3BXZ2FZSm03WGV0WVlOdE8xSDhhR3R1Wk4ySGhaRkRPMk9mdm5XSV85QklC?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "US military says it has disabled another ship trying to breach its blockade, and other Mideast news",
-   "source": "The Hill",
-   "time": "2026-11-27T21:26:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQTU1cy1RYkRCVXBuWi1lTVdCdzkydmpmVVFIdE4xMzAyZG9jeW1oelpKbEUtS1Z2b2VHdzNGQkpWSm1iQnVKQV9CQ25zU3h5eTdISW5xV1cxWWxweUpkUkN4T0M5UE9hdHhtVEh2OGtwd0oyalZpb21CbE9GUTZOcmliaUp1RWJqcFRvcG9QSF9Xc3BlZmZuS3NpaC0wUEY1MjkyUU4yNlcyMXJOSVp5cmhkNERNRTFqakF6MnlmeWZuMWt5cEwwc3dTV3d6OW940gHWAUFVX3lxTE1rYlVEb0dmOUtnZlZkaU9abjJxVjFzQjNLa1BFa2JRY2RTbzJiWjEtTHAzdkJGTHh2VDJyd2Fib1F4TEZadmE2WVE3Z1BjRExGcEhaSFJwTUM1RUhaZU9hcTQzNndvMEdyYkZuSWJWOHhKVW9pbkJJZWx0UU5QZFlfUHdwTlc3Smd1Mjk0SHlZWnZwTjlDUE9zRFJoSzlBdklqakpQSXJEd080cVdPR2VHZm8zeXN6bWJBelhsVGlwV2c4ZmhxZ0ZiLU5RQ0tVNmtNRG40Qnc?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "Gold could ride the double tailwind of equities and seasonals higher into the new year – investingLive’s Button",
-   "source": "Kitco",
-   "time": "2026-11-27T20:47:17Z",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUS1NNmNtb2RVVC1qSUh6RTNDOE1ES1lrVC1ibnZuUTJSRnMtLW1JblBfZkVNOGh2bUM3UHl1YTd6SnIwOVNCc0tPTDhFZmFOQU80U3AzWEU1U25DV1dyQVYzWHdYRERQRnF5S2kwTGRmcmg1Q2dGeHJ2dHVHdHFDaHZWcFBWRVM5bkdQQl8wdHduTGlTMk1JNFRuNUtPVkhMTDRCZ013djJnR3laR1F2VkdJbUp3WkE?oc=5",
-   "tags": [
-    "GOLD"
    ]
   }
  ],
