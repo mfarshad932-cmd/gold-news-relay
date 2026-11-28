@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T12:43:00Z",
+ "generatedAt": "2026-11-28T13:11:20Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
@@ -72,7 +72,7 @@
   "aljazeera": {
    "http": 200,
    "items": 25,
-   "kept": 5
+   "kept": 6
   },
   "whitehouse": {
    "http": 200,
@@ -81,17 +81,18 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 17,
+   "items": 18,
    "kept": 12
   },
   "gn_fed": {
-   "http": 200,
-   "items": 6,
-   "kept": 6
+   "http": 429,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 429"
   },
   "gn_tariff": {
    "http": 200,
-   "items": 17,
+   "items": 15,
    "kept": 12
   },
   "gn_war": {
@@ -101,13 +102,13 @@
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "gn_yields": {
    "http": 200,
-   "items": 9,
-   "kept": 9
+   "items": 8,
+   "kept": 8
   },
   "gn_oil": {
    "http": 200,
@@ -128,10 +129,19 @@
   {
    "title": "Argentina's bid to stop Falklands oil drilling rejected",
    "source": "BBC",
-   "time": "2026-11-28T12:36:59Z",
+   "time": "2026-11-28T13:02:39Z",
    "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
    "tags": [
     "OIL"
+   ]
+  },
+  {
+   "title": "Norse Atlantic ends flights: How Iran war continues to batter aviation",
+   "source": "Al Jazeera",
+   "time": "2026-11-28T12:57:49Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONW1XWWlCQURrWEh2RFVqLXBiZ09SOWJhdjJ1eVYtSXY0OXo1czU1d3R5TUthXzgzS2Y3TXJHT0E2ZUM5NGRvQVJMYTRoN3pFeXlULUt4WjdIbFEzRVF1SUxqckp3VUJ3QlkyZUJzRkJWSV80ajlqdC1KaGd2eVRFWW9DMXV3eC1JYmxVOUZ3ZFZtV2o1NmJrQU9aR004eml6QzFuSG1IZmVWazI0YlVnetIBtgFBVV95cUxONlpDd29xMFlpUThoZVctV2ljTEhqY0R1MUI1Q1l1cEJaQ0FVUk9LQ01xY1RSckdiWHhxSTZhYzQ1cW1JNnBVX0djWmY0LVBGczNmUEpDY3p1ZDFXWERiWmJqUF81ci1DcEFNQWZmbTJvcHZCYmlReEFRMHo2R0VTS1k2aEVHRFd5QUw2d2wtZm5ySmVfMXJSMmpCZ3lJZ2puRDVUSm5LU0hUMEk0UjN6b0dlbV9vQQ?oc=5",
+   "tags": [
+    "GEOPOLITICS"
    ]
   },
   {
@@ -150,6 +160,15 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU0dQQnZUZW1fcUdpd0NGakM2YmxISGFkNDhQVVBkSEd2M3NPcnk0XzUxa2dpcmQtYU9SR3Jac1NOazVONGJaUU5NY19uV2cyOEItelAwMUhfM2Q0cTBKcVp1T1BNN3ZJVnhQaVA4bV9LUnhCVGtlbHgxQ1M5Y0dmbjU2WlUxLW4wbHZIMmVXRHF4QU9wN21jT1pJbG14Y0ZUOU1IckFZMmdMOHFRMjJr?oc=5",
    "tags": [
     "GEOPOLITICS"
+   ]
+  },
+  {
+   "title": "EU Inks Trade Deal With Indonesia to Cut Tariffs, Catalyze Investment",
+   "source": "WSJ",
+   "time": "2026-11-28T12:08:32Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmw2LTRaWkhrekF4b0RUY0J3djVhQzk3V2REZkVTRHFEaWZVUk9scjBpb3lMU0JtNlE5d1NnNk1kbTd3TlUwNWJ1YUs0ZXI3WmZWblNpOWIxWmlFNzhmaTUxclVFYllJcDJjall3YlctdkNpWDBZZXNHNWpMZnlrOHBHcjViN0JpTGhyV1pJLU5peEpuZWttM3UwTDdhdE1BdzhfbnhGZTN1RVlidUpaeQ?oc=5",
+   "tags": [
+    "TARIFF"
    ]
   },
   {
@@ -180,6 +199,15 @@
    ]
   },
   {
+   "title": "Gas cost calculator: Find out how much gas price increases have cost you since the start of the war",
+   "source": "NBC News",
+   "time": "2026-11-28T11:44:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWU5hTFhsMUxTOXpqa01xMll3cnhiZEwwa0RLSUNJbjIwNF9wa1pVb25kRm1NWUFiUWdidk9SUmdNYmZFcXBGRnlGdzhwMGtHWWVjNlZHVDFTbktldzh1MTU4REdpbWhYZnhfdWhoR3RyejRsdWFIbnc2VjJYQ3VZQjA1MksyUVoxVUxz?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "BCA Research Identifies US Dollar Reversal as Key Condition for Renewed Gold Investment",
    "source": "Yahoo Finance UK",
    "time": "2026-11-28T11:40:00Z",
@@ -187,6 +215,16 @@
    "tags": [
     "USD",
     "CENTRAL_BANK_GOLD",
+    "GOLD"
+   ]
+  },
+  {
+   "title": "BCA Research Awaits Sustained US Dollar Peak Before Returning to Gold",
+   "source": "Yahoo Finance",
+   "time": "2026-11-28T11:39:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZDF6OTVQaUk2NUpDZWJlZjlpNEtiRmZNSG1ibFAwanVZcHJqZ1owSzkxOGJPdURHTlVnWFNnSEJES0pOM0MtX2lPaUlyQ1E3X0t2Z2JaUzBWM3pWRUhHeEtFYllXNDJZamFGUWZ4RTNFU0xuaWdLaFdvN1JFcVpnT3h1STRaUlprNUN3dVZrN2c3NmF6V0lNWUduSVc1YmVIM0Z6ag?oc=5",
+   "tags": [
+    "USD",
     "GOLD"
    ]
   },
@@ -586,15 +624,6 @@
    ]
   },
   {
-   "title": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
-   "source": "Al Jazeera",
-   "time": "2026-11-28T03:45:58Z",
-   "link": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
    "title": "FSSAI sanctions prosecution against Bisleri in another case; bacteria found in Bengal sample",
    "source": "CNBC TV18",
    "time": "2026-11-28T03:15:35Z",
@@ -646,34 +675,6 @@
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdEFEa2NNT09DVHFHZDFPRXhyb0pibFh5ejY5WHpMM3BZVVU1YjNScDNqM3JUbFJJVlZPaVMyNHEybXlIVEFTZEx3Rmp1UXZwXzZoTHl1V3NteFhfeng3Y3FaX3Q4V2RYQkY5SlczSHlaQ0lPRmlrRjB5ZG1TTnkySkFYdFoxQ2d3eEprTGN5TUJ4NHFHdjZNaldQYVN0RUJ2YUpIa0ZIYXU2amw1RFp4WHIzeVRLT053YlpvNy1BalN1ZkZKNmpVZVhMTXJCeERLZ2ZMcVhCYjVfem45V09vWmlR?oc=5",
    "tags": [
     "SANCTIONS",
-    "GOLD"
-   ]
-  },
-  {
-   "title": "U.S. Dollar Gains Ground Amid Rising Treasury Yields: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
-   "source": "FXEmpire",
-   "time": "2026-11-28T00:56:00Z",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNkFkUGhqUTRReFFqcE1hd1dsdTd1cVltSlJhd2tmT29VSzRxTGR0cGs2YXFRRDZudUtnSGFFamQzSjE4bmZ1R2ktbXJIQl93aEtpTzVQd1NfRzRyUS16UFBZSFdCNDFENnNORFdwR3ljS2o5SGl3NTEyemdMbDNOU09UdkdTd3hCUnQ2Wl9rNmIzNTFRbnVPRFNxTFlIdC1JeFJ3czF1NlFhMmJnV1VNakVfX0lDQWVzNmVNcm9pMFNKUTF5aXVVckJ4TnJLU0FHSjgxZjk4bjlVekpiSmxPOQ?oc=5",
-   "tags": [
-    "USD",
-    "YIELDS"
-   ]
-  },
-  {
-   "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
-   "source": "Kitco",
-   "time": "2026-11-28T00:48:57Z",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "Gold Weekly Price Forecast: $3,500 Support Faces a Test from US Jobs Data",
-   "source": "FXEmpire",
-   "time": "2026-11-28T00:37:00Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdV9td09MbVpHcGFXY3pvNlNBV3BiZDI1OEZSeHZySzhLWVFWdi1hQW9TZVB5cXpLSVNsd2tIRXF1N3BFWUdMV0hrNzlGZU5keVR1ZldSOEowTEtMOTd6TktOTEtVRVlxSDZvZ3pJOFBRb21LczhqR3hhUlRJSVpOeTZzdXVfM0VpXy15ZVlpMW1FeE5IcWR5NVhQUlcxb2d2aFhEZmpBRkx2Yll3STZ6TVlqVEloSjJhR3poZklB?oc=5",
-   "tags": [
     "GOLD"
    ]
   }
