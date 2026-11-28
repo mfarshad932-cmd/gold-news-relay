@@ -1,12 +1,13 @@
 {
- "generatedAt": "2026-11-28T02:48:03Z",
+ "generatedAt": "2026-11-28T03:16:22Z",
  "count": 60,
  "windowHours": 48,
  "sources": {
   "fed_press": {
-   "http": 200,
-   "items": 20,
-   "kept": 0
+   "http": 404,
+   "items": 0,
+   "kept": 0,
+   "err": "HTTP 404"
   },
   "fed_monetary": {
    "http": 200,
@@ -81,7 +82,7 @@
   },
   "gn_gold": {
    "http": 200,
-   "items": 27,
+   "items": 24,
    "kept": 12
   },
   "gn_fed": {
@@ -91,17 +92,17 @@
   },
   "gn_tariff": {
    "http": 200,
-   "items": 16,
+   "items": 15,
    "kept": 12
   },
   "gn_war": {
    "http": 200,
-   "items": 31,
+   "items": 32,
    "kept": 12
   },
   "gn_sanctions": {
    "http": 200,
-   "items": 14,
+   "items": 12,
    "kept": 12
   },
   "gn_yields": {
@@ -111,8 +112,8 @@
   },
   "gn_oil": {
    "http": 200,
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "gn_cbgold": {
    "http": 200,
@@ -125,6 +126,15 @@
   }
  },
  "items": [
+  {
+   "title": "A ‘Silent War’ Grips Iran as Its Economy Strains Under U.S. Blockade",
+   "source": "WSJ",
+   "time": "2026-11-28T03:01:15Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUZoNE5qVlVJSWdVTHRMY1R0bFBac204aUVreDhOR3NtUE4yWjBESlJMUHZoLVo0NjdrTW1kUXF5RUxDQWJfRnhrdkJpSTF5VUduMWVDaU9aVjg3N3dCTW96TDUtQV9SRE9TSEN1Um9LTm0teG9MV2hrQkhEM0RDYnhCVVgzNHhpcEJ1cnc5azMzTm10am04MTZoS2wtc19RSTNSRW5sMlBGdWhaYWNlVmhn?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
   {
    "title": "Gold (XAU/USD) Price Forecast: Bullish Reversal Targets $3,900 Resistance",
    "source": "FXEmpire",
@@ -187,6 +197,16 @@
    "time": "2026-11-28T00:46:54Z",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ1N4UDlWY2ZXODJha3A4dmppS0tRMnhRTFl6M1RwY0I1YjBDWEpRRlZXRTNNSTg2eFhUYUFJNkR6dS1ldXZMZmhqZWkzS05jbjBVRHJPV2JIa0FZLUxNcVVCeVctUkN1a2t1eXpuV294Wl9oMXRMVnZLQ1laOE91VTNlT2lwWW5HY0pGc2REc0lUeVBjQVhtVVhYVmJsdVpvX1FLaEpzb2YtZzBpZU9jNTJqOWZmZGRuQlFHRVpR?oc=5",
    "tags": [
+    "GOLD"
+   ]
+  },
+  {
+   "title": "Gold demand revives in India, China as price slide sparks bargain buying",
+   "source": "Mining.com",
+   "time": "2026-11-28T00:13:01Z",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORzk5NE5jcTBya25yZVJlaHcxak9xQVhIWDhyaVJkNmVWREI5amlIT3FlR2tSSGlSTmlrZE1teFc1UnNhWEFraUFURW1YMG5kM2xQLS1mZzBkZUZpQ2N2YXhJa2VYa0pyMjRLWi1tYzRCWWpsdkxDMHU1SG52QkJhY1VmajFfODltaklFZWFHWjJ5T3BUWUlqZlhBc0RZcXp2?oc=5",
+   "tags": [
+    "CHINA",
     "GOLD"
    ]
   },
@@ -385,6 +405,15 @@
    ]
   },
   {
+   "title": "US military says it has disabled another ship trying to breach its blockade, and other Mideast news",
+   "source": "The Hill",
+   "time": "2026-11-27T21:26:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQTU1cy1RYkRCVXBuWi1lTVdCdzkydmpmVVFIdE4xMzAyZG9jeW1oelpKbEUtS1Z2b2VHdzNGQkpWSm1iQnVKQV9CQ25zU3h5eTdISW5xV1cxWWxweUpkUkN4T0M5UE9hdHhtVEh2OGtwd0oyalZpb21CbE9GUTZOcmliaUp1RWJqcFRvcG9QSF9Xc3BlZmZuS3NpaC0wUEY1MjkyUU4yNlcyMXJOSVp5cmhkNERNRTFqakF6MnlmeWZuMWt5cEwwc3dTV3d6OW940gHWAUFVX3lxTE1rYlVEb0dmOUtnZlZkaU9abjJxVjFzQjNLa1BFa2JRY2RTbzJiWjEtTHAzdkJGTHh2VDJyd2Fib1F4TEZadmE2WVE3Z1BjRExGcEhaSFJwTUM1RUhaZU9hcTQzNndvMEdyYkZuSWJWOHhKVW9pbkJJZWx0UU5QZFlfUHdwTlc3Smd1Mjk0SHlZWnZwTjlDUE9zRFJoSzlBdklqakpQSXJEd080cVdPR2VHZm8zeXN6bWJBelhsVGlwV2c4ZmhxZ0ZiLU5RQ0tVNmtNRG40Qnc?oc=5",
+   "tags": [
+    "GEOPOLITICS"
+   ]
+  },
+  {
    "title": "Why Trump’s Tariffs Have Failed to Reverse America’s Growing Trade Deficit",
    "source": "Investing.com",
    "time": "2026-11-27T21:22:29Z",
@@ -398,15 +427,6 @@
    "source": "Al Jazeera",
    "time": "2026-11-27T21:17:40Z",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWW9taURHbFpkMjd6YkFzNEliSVpaOW5zal9CUEY1R0kyS3NWVU9HbkIzRkNhcWtoOWgxUi02WWdWN1dpQTU5UVVpc3dGa04yVVBQbk1NQVMzSFBLVmxvUllTNTVwVEdwR1FtdGI3Nnppb0lvNjNRMUZwYl9EaXI1akI0VE5SRGcxVkxzVzNZbFM2S0RCc2JOdi05R2s1dlg4eVZIdDBB0gGrAUFVX3lxTFB6OWM4c1NpYjVhZUp2MVV1eUppS1lVLW1lNjIwaktRN1lWUDlGOG5meWIySTByVVhUQ2tnSGh4d05pVXN0SWxnSFlFc0lzVzhmQzlWaFRZTW5ELU0yWUpNYTIwVV8tQmhqODBCVzhQMjBseHVydHcydEJya3lJREtMbFd2aW0zMmlndy1oV2M2RHZPbzh2V3FQcV8tNE5xMmx1S3Jfb1NXNXdHVQ?oc=5",
-   "tags": [
-    "GEOPOLITICS"
-   ]
-  },
-  {
-   "title": "A ‘Silent War’ Grips Iran as Its Economy Strains Under U.S. Blockade",
-   "source": "WSJ",
-   "time": "2026-11-27T21:01:15Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUZoNE5qVlVJSWdVTHRMY1R0bFBac204aUVreDhOR3NtUE4yWjBESlJMUHZoLVo0NjdrTW1kUXF5RUxDQWJfRnhrdkJpSTF5VUduMWVDaU9aVjg3N3dCTW96TDUtQV9SRE9TSEN1Um9LTm0teG9MV2hrQkhEM0RDYnhCVVgzNHhpcEJ1cnc5azMzTm10am04MTZoS2wtc19RSTNSRW5sMlBGdWhaYWNlVmhn?oc=5",
    "tags": [
     "GEOPOLITICS"
    ]
@@ -659,25 +679,6 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOWJGS05vNnZ2aG9iRkN2V1dpN094RGdZNW5PZlNEUU4wR3FlbHh1VGlnN1J1VjlwTXFEQmRtZkVDdFpiMk5jYUozN1Z1UFNzOHlvX2tkU3lwVDl5dm9hbzR5Ui1Ib3piV2RPNEFKSmdrTUpjU3k2d2RuQWdGa3FHeVNfR3BhbjBnOUtZQ0FSSi1yOXNONk9xMUVjOTljamJpSVQxTVIzTQ?oc=5",
    "tags": [
     "TARIFF"
-   ]
-  },
-  {
-   "title": "Gold and Palladium: The Comeback Meets Its First Test",
-   "source": "Investing.com",
-   "time": "2026-11-27T17:59:00Z",
-   "link": "https://www.investing.com/analysis/gold-and-palladium-the-comeback-meets-its-first-test-200692460",
-   "tags": [
-    "GOLD"
-   ]
-  },
-  {
-   "title": "China and Other Countries Face Higher U.S. Tariffs Over Industrial Subsidies",
-   "source": "WSJ",
-   "time": "2026-11-27T17:57:29Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeU93UkxmWVRVMXpoeDk5S0tFbjAtRzZuZ3NVbUpyV0FaTUtCU2hTanFHM3lIU1kyMkxBZVFFNDlPQTFBVy1wQ0VZalpnLWJxRmtsckxjOVI3NGNXVGJCSGxEUHczYVJFQnY1TkJzXzNBMTg3QjRrRHJXZ3FNS2JMVlRoRjVldnZhOFpjRFNlSXRCVWZGM1dXUVp5TlZlbkNVUGswS2w4dmRJc1gzazluN3VYZ256OU5GRnpmSmt3?oc=5",
-   "tags": [
-    "TARIFF",
-    "CHINA"
    ]
   }
  ],
